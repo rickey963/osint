@@ -31,7 +31,35 @@ async function loadData() {
 
         // 3. Render News (No Images, only Title + Snippet)
         renderNews('news-pl', data.poland);
-        renderNews('news-world', [...data.world_security, ...data.world_politics]);
+
+        // Split World into subcategories as requested by user
+        const worldContainer = document.getElementById('news-world');
+        if (worldContainer) {
+            worldContainer.innerHTML = ''; // Clear container
+
+            // Subcategory: Bezpieczeństwo (Security)
+            const securityHeader = document.createElement('h4');
+            securityHeader.className = 'text-[10px] font-bold uppercase text-red-500 mb-1';
+            securityHeader.textContent = 'Bezpieczeństwo';
+            worldContainer.appendChild(securityHeader);
+
+            const secDiv = document.createElement('div');
+            secDiv.className = 'space-y-3 mb-4';
+            renderNews(secDiv, data.world_security);
+            worldContainer.appendChild(secDiv);
+
+            // Subcategory: Polityka (Politics)
+            const politicsHeader = document.createElement('h4');
+            politicsHeader.className = 'text-[10px] font-bold uppercase text-blue-500 mb-1';
+            politicsHeader.textContent = 'Polityka';
+            worldContainer.appendChild(politicsHeader);
+
+            const polDiv = document.createElement('div');
+            polDiv.className = 'space-y-3';
+            renderNews(polDiv, data.world_politics);
+            worldContainer.appendChild(polDiv);
+        }
+
         renderNews('news-tech', data.technology);
         renderNews('news-cyber', data.cybersecurity);
         renderNews('news-finance', data.finance);
@@ -44,7 +72,7 @@ async function loadData() {
 
         // 6. Update Chart
         if (data.sp50_trend) {
-            updateChart(data.sp_500_trend || data.sp50_trend); // Robustness
+            updateChart(data.sp50_trend || data.sp50_trend); // Robustness
         }
 
     } catch (err) {
@@ -52,15 +80,25 @@ async function loadData() {
     }
 }
 
-function renderNews(containerId, articles) {
-    const container = document.getElementById(containerId);
+/**
+ * Renders news cards into a container.
+ * @param {string|HTMLElement} target - The ID of the container or the element itself.
+ * @param {Array} articles - Array of article objects.
+ */
+function renderNews(target, articles) {
+    const container = typeof target === 'string' ? document.getElementById(target) : target;
     if (!container || !articles) return;
 
-    container.innerHTML = '';
+    // If it's an ID-based call, we clear the container first to allow fresh render.
+    // For element-based calls (subcategories), we append.
+    if (typeof target === 'string') {
+        container.innerHTML = '';
+    }
 
     articles.forEach(article => {
         const card = document.createElement('div');
-        card.className = 'p-3 bg-slate-900/50 border border-slate-800 rounded-lg hover:border-red-500 transition-all group';
+        card.className = 'p-3 bg-slate-90
+            /50 border border-slate-800 rounded-lg hover:border-red-500 transition-all group';
 
         card.innerHTML = `
             <h3 class="text-sm font-bold text-slate-200 group-hover:text-red-400 leading-tight mb-1">${article.title}</h3>
@@ -92,13 +130,13 @@ function initMap() {
 
 function updateMap(features) {
     if (!map || !features) return;
-    // Clear existing markers (simplistic implementation for demo)
+    // Clear existing markers
     map.eachLayer((layer) => {
         if (layer instanceof L.CircleMarker) map.removeLayer(layer);
     });
 
     features.forEach(f => {
-        const color = f.type === 'war' ? '#ef444	_red_500' : '#f59e0b'; // orange-500
+        const color = f.type === 'war' ? '#ef4444' : '#f59e0。orange-500'; // Fix potential typo from previous state
         const marker = L.circleMarker([f.lat, f.lng], {
             radius: 8,
             fillColor: color,
@@ -116,7 +154,7 @@ function initChart() {
     sp500Chart = new Chart(ctx, {
         type: 'line',
         data: { labels: [], datasets: [{ data: [], borderColor: '#ef4444', tension: 0.4, borderWidth: 2, pointRadius: 0, fill: true, backgroundColor: 'rgba(239,68,68,0.1)' }] },
-        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { display: false }, y: { grid: { color: '#1e2template_293b' }, ticks: { font: { size: 8 } } } } }
+        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { display: false }, y: { grid: { color: '#1e293b' }, ticks: { font: { size: 8 } } } } }
     });
 }
 
