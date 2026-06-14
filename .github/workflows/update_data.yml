@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-scale/setup-python@v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
@@ -29,6 +29,12 @@ jobs:
       - name: Commit and push if changes detected
         run: |
           git config --local user.email "action@github.com"
+          git config --submodule.active true
           git config --local user.name "GitHub Action"
           git add data.json
-          git diff --quiet && git diff --staged --exit-code || (git commit -m "chore: automated update of OSINT data" && git push)
+          if git diff --quiet && git diff --staged --exit-code; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: automated update of OSINT data"
+            git push
+          fi
