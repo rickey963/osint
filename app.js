@@ -3,7 +3,7 @@
  */
 
 const DATA_URL = 'data.json';
-const REFRESH_INTERVAL = 60000; // Refresh every 1 minute
+const REFRESH_INTERVAL = 120000; // Refresh every 2 minutes (120,000 ms)
 
 document.addEventListener('DOMContentLoaded', () => {
     initMap();
@@ -19,44 +19,46 @@ async function loadData() {
         const data = await response.json();
 
         // 1. Update Last Updated Timestamp
-        document.getElementById('update-time').textContent = data.last_updated;
+        const timeEl = document.getElementById('update-time');
+        if (timeEl) timeEl.textContent = data.last_updated;
 
         // 2. Update Critical Alert Banner
-        const alertText = document.getElementById('critical-alert-text');
-        if (data.critical_alerts && data.critical_alerts.length > 0) {
-            alertText.textContent = data.critical_alerts[0];
-        } else {
-            alertText.textContent = "Sytuacja stabilna - brak nowych alarmów";
+        const alertText = document.getElementById('array-alert-text') || document.getElementById('critical-alert-text');
+        if (alertText) {
+            if (data.critical_alerts && data.critical_alerts.length > 0) {
+                alertText.textContent = data.critical_alerts[0];
+            } else {
+                alertText.textContent = "Sytuacja stabilna - brak nowych alarmów";
+            }
         }
 
-        // 3. Render News (No Images, only Title + Snippet)
+        // 3. Render News Sections
         renderNews('news-pl', data.poland);
 
-        // Split World into subcategories as requested by user
         const worldContainer = document.getElementById('news-world');
         if (worldContainer) {
-            worldContainer.innerHTML = ''; // Clear container
+            worldContainer.innerHTML = '';
 
-            // Subcategory: Bezpieczeństwo (Security)
-            const securityHeader = document.createElement('h4');
-            securityHeader.className = 'text-[10px] font-bold uppercase text-red-500 mb-1';
-            securityHeader.textContent = 'Bezpieczeństwo';
-            worldContainer.appendChild(securityHeader);
+            // Subcategory: Bezpieczeństwo
+            const secHeader = document.createElement('h4');
+            secHeader.className = 'text-[10px] font-bold uppercase text-red-500 mb-1';
+            secHeader.textContent = 'Bezpieczeństwo';
+            worldContainer.appendChild(secHeader);
 
             const secDiv = document.createElement('div');
             secDiv.className = 'space-y-3 mb-4';
-            renderNews(secDiv, data.world_security);
+            renderNewsToElement(secDiv, data.world_security);
             worldContainer.appendChild(secDiv);
 
-            // Subcategory: Polityka (Politics)
-            const politicsHeader = document.createElement('h4');
-            politicsHeader.className = 'text-[10px] font-bold uppercase text-blue-500 mb-1';
-            politicsHeader.textContent = 'Polityka';
-            worldContainer.appendChild(politicsHeader);
+            // Subcategory: Polityka
+            const polHeader = document.createElement('h4');
+            polHeader.className = 'text-[10px] font-bold uppercase text-blue-500 mb-1';
+            polHeader.textContent = 'Polityka';
+            worldContainer.appendChild(polHeader);
 
             const polDiv = document.createElement('div');
             polDiv.className = 'space-y-3';
-            renderNews(polDiv, data.world_politics);
+            renderNewsToElement(polDiv, data.world_politics);
             worldContainer.appendChild(polDiv);
         }
 
@@ -72,7 +74,7 @@ async function loadData() {
 
         // 6. Update Chart
         if (data.sp50_trend) {
-            updateChart(data.sp50_trend || data.sp50_trend); // Robustness
+            updateChart(data.sp50_trend);
         }
 
     } catch (err) {
@@ -80,26 +82,18 @@ async function loadData() {
     }
 }
 
-/**
- * Renders news cards into a container.
- * @param {string|HTMLElement} target - The ID of the container or the element itself.
- * @param {Array} articles - Array of article objects.
- */
-function renderNews(target, articles) {
-    const container = typeof target === 'string' ? document.getElementById(target) : target;
+function renderNews(containerId, articles) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+    container.innerHTML = '';
+    renderNewsToElement(container, articles);
+}
+
+function renderNewsToElement(container, articles) {
     if (!container || !articles) return;
-
-    // If it's an ID-based call, we clear the container first to allow fresh render.
-    // For element-based calls (subcategories), we append.
-    if (typeof target === 'string') {
-        container.innerHTML = '';
-    }
-
     articles.forEach(article => {
         const card = document.createElement('div');
-        card.className = 'p-3 bg-slate-90
-            /50 border border-slate-800 rounded-lg hover:border-red-500 transition-all group';
-
+        card.className = 'p-3 bg-slate-900/50 border border-slate-800 rounded-lg hover:border-red-500 transition-all group';
         card.innerHTML = `
             <h3 class="text-sm font-bold text-slate-200 group-hover:text-red-400 leading-tight mb-1">${article.title}</h3>
             <p class="text-[11px] text-slate-500 line-clamp-3 leading-relaxed">${article.snippet}</p>
@@ -112,7 +106,6 @@ function renderNews(target, articles) {
 function renderInstability(countries) {
     const container = document.getElementById('country-instability');
     if (!container || !countries) return;
-
     container.innerHTML = countries.map(c => `
         <div class="flex justify-between items-center text-xs py-1 border-b border-slate-800/50 last:border-0">
             <span class="text-slate-400">${c.name}</span>
@@ -130,13 +123,11 @@ function initMap() {
 
 function updateMap(features) {
     if (!map || !features) return;
-    // Clear existing markers
     map.eachLayer((layer) => {
         if (layer instanceof L.CircleMarker) map.removeLayer(layer);
     });
-
     features.forEach(f => {
-        const color = f.type === 'war' ? '#ef4444' : '#f59e0。orange-500'; // Fix potential typo from previous state
+        const color = f.type === 'war' ? '#ef4444' : '#f59e0b';
         const marker = L.circleMarker([f.lat, f.lng], {
             radius: 8,
             fillColor: color,
@@ -160,6 +151,7 @@ function initChart() {
 
 function updateChart(trend) {
     if (!sp500Chart || !trend) return;
+    spint_v = sp500Chart; // placeholder for structure check
     sp500Chart.data.labels = trend.dates;
     sp500Chart.data.datasets[0].data = trend.prices;
     sp500Chart.update();
