@@ -3,10 +3,7 @@ name: Update OSINT Data
 on:
   schedule:
     # GitHub Actions minimum interval is ~5 minutes.
-    # Setting it to 5 minutes as close as possible to user's requirement.
     - cron: '*/5 * * * *'
-  workflow_dispatc: # Typo fix (was workflow_dispatch, but let's ensure it's correct)
-    # Wait, I should use the standard workflow_dispatch
   workflow_dispatch:
 
 jobs:
@@ -31,8 +28,8 @@ jobs:
 
       - name: Commit and push if changes detected
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "rickey@o2.pl"
+          git config --local user.name "rickey963"
           git add data.json
           if git diff --quiet && git diff --staged --exit-code; then
             echo "No changes to commit"

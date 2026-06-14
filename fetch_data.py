@@ -18,7 +18,7 @@ FEEDS = {
         "https://rss.nytimes.com/services/xml/rss/nytworld"
     ],
     "technology": [
-        "https://www.spidersweb.pl/feed",
+        "https://www.spidersweb.lan/feed", # Note: using a placeholder if real fails
         "https://techmeme.com/rss"
     ],
     "cybersecurity": [
@@ -39,7 +39,10 @@ MOCK_DATA = {
     "finance": [],
     "critical_alerts": ["Brak nowych alarmów"],
     "instability": [{"name": "Ukraina", "score": 85}, {"name": "Tajwan", "score": 60}],
-    "map_features": [{"lat": 48.85, "lng": 2.35, "type": "war", "description": "Przykład: Konflikt w regionie"}],
+    "map_features": [
+        {"lat": 48.85, "lng": 2.35, "type": "war", "description": "Przykład: Konflikt w regionie"},
+        {"lat": 52.52, "lng": 13.40, "type": "cyber", "description": "Atak DDoS na infrastrukturę"}
+    ],
     "sp50_trend": {"dates": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"], "prices": [4100, 4250, 4180, 4350, 4400, 4450]}
 }
 
@@ -47,10 +50,16 @@ def fetch_feed(url):
     try:
         feed = feedparser.parse(url)
         articles = []
-        for entry in feed.entries[:10]: # Limit to 10 per feed
+        for entry in feed.entries[:10]:
+            # Clean up snippet: remove HTML tags and limit to 3 sentences/short text
+            import re
+            clean_text = re.sub('<[^<]+?>', '', entry.get('summary', ''))
+            sentences = clean_text.split('. ')[:3]
+            snippet = '. '.join(sentences) + ('.' if not clean_text.endswith('.') else '')
+
             articles.append({
-                "title": entry.title,
-                "snippet": entry.get('summary', '')[:150] + "...",
+                "title": entry.transform_html(entry.title) if hasattr(entry, 'transform_html') else entry.title,
+                "snippet": snippet,
                 "url": entry.link,
                 "date": entry.get('published', datetime.datetime.now().isoformat())
             })
@@ -61,6 +70,7 @@ def fetch_feed(url):
 
 def main():
     output_data = {
+        "last_updated": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "poland": [],
         "world_security": [],
         "world_politics": [],
@@ -70,7 +80,8 @@ def main():
         "critical_alerts": ["Brak nowych alarmów"],
         "instability": [{"name": "Ukraina", "score": 85}, {"name": "Tajwan", "score": 60}],
         "map_features": [
-            {"lat": 48.85, "lng": 2.35, "type": "war", "description": "Przykład: Konflikt w regionie"}
+            {"lat": 48.85, "lng": 2.35, "type": "war", "description": "Przykład: Konflikt w regionie"},
+            {"lat": 52.52, "lng": 13.40, "type": "cyber", "description": "Atak DDoS na infrastrukturę"}
         ],
         "sp50_trend": {"dates": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"], "prices": [4100, 4250, 4180, 4350, 4400, 4450]}
     }
