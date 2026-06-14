@@ -1,0 +1,105 @@
+/* style.css */
+
+/* Reset i podstawy */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+/* Custom Scrollbar dla ciemnego motywu */
+::-webkit-scroller {
+    width: 8px;
+}
+
+::-webkit-scroller-track {
+    background: #020617; /* slate-950 */
+}
+
+::-webkit-scroller-thumb {
+    background: #1e293b; /* slate-800 */
+    border-radius: 4px;
+}
+
+::-webkit-scroller-thumb:hover {
+    background: #334155; /* slate-700 */
+}
+
+/* Kafelki informacji (News Cards) */
+.news-card {
+    background: rgba(30, 41, 59, 0.5); /* slate-800/50 */
+    border: 1px solid #1e293b; /* slate-800 */
+    padding: 1.25rem;
+    border-radius: 0.75rem;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    flex-direction: column;
+}
+
+.news-card:hover {
+    transform: translateY(-4px);
+    border-color: #ef4444; /* red-500 */
+    background: rgba(30, 41, 59, 0.8);
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3), 0 8px 10px -6px rgba(0, 0, 0, 0.3);
+}
+
+/* Styl dla świeżych artykułów (ostatnie 30 min) */
+.new-article {
+    border-left: 4px solid #22c55e; /* green-500 */
+    animation: pulse-subtle 2s infinite;
+}
+
+@keyframes pulse-subtle {
+    0% { background-color: rgba(34, 197, 94, 0.05); }
+    50% { background-color: rgba(34, 197, 94, 0.15); }
+    100% { background-color: rgba(34, 197, 94, 0.05); }
+}
+
+.news-title {
+    font-size: 1.125rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+    color: #f8fafc; /* slate-50 */
+}
+
+.news-snippet {
+    font-size: 0.875rem;
+    color: #94a3b8; /* slate-400 */
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.news-link {
+    margin-top: auto;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #ef4444; /* red-500 */
+    text-decoration: none;
+}
+
+.news-link:hover {
+    text-decoration: underline;
+}
+
+/* Lista krajów (Instability list) */
+.instability-item {
+    display: flex;
+    justify: space-between;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #1e293b;
+}
+
+.risk-high { color: #ef4444; font-weight: bold; }
+.risk-med  { color: #f59e0b; }
+.risk-low  { color: #10b981; }
+
+/* Mapy */
+#map {
+    box-shadow: inset 0 0 50px rgba(0,0,0,0.5);
+}
