@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T21:49:42Z",
+  "last_updated": "2026-06-22T21:54:39Z",
   "poland": [
     {
       "title": "Konkurs Wyobraź Sobie: dwudziestolatek, który utrzymuje rodzinę ciałem",
@@ -554,6 +554,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Bot JaredFromSubway MEV zhakowany w związku z kradzieżą kryptowalut o wartości 15 milionów dolarów",
+      "url": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+      "date": "2026-06-22T21:52:18Z",
+      "source": "BleepingComputer",
+      "confirmed_by": 1,
+      "summary": "Bot JaredFromSubway Ethereum MEV (Maximal Extractable Value) poniósł stratę w wysokości 15 milionów dolarów po tym, jak osoba atakująca zmanipulowała logikę wykrywania okazji, tworząc fałszywe możliwości handlu kryptowalutami. [...]."
+    },
+    {
       "title": "FFmpeg naprawia błąd PixelSmash w powszechnie używanym dekoderze wideo",
       "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
       "date": "2026-06-22T21:05:01Z",
@@ -736,14 +744,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Microsoft chce, by Teams nie tylko pokazywał, kto jest dostępny, ale także kto danego dnia pracuje z biura. Nowa funkcja w produktach amerykańskiej firmy ma automatycznie aktualizować lokalizację pracownika po połączeniu laptopa z firmową siecią Wi-Fi. Chodzi o ułatwienie organizacji pracy hybrydowej."
-    },
-    {
-      "title": "Wykładowca informatyki zarobi 14 tys. zł, ale dopiero po 20 latach. Prof. Sankowski bije na alarm",
-      "url": "https://cyberdefence24.pl/technologie/wykladowca-informatyki-zarobi-14-tys-zl-ale-dopiero-po-20-latach-prof-sankowski-bije-na-alarm",
-      "date": "2026-06-22T11:06:30Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Wkrótce w Polsce może zabraknąć ludzi do kształcenia informatyków – ostrzega prof. Piotr Sankowski. Według dyrektora Instytutu IDEAS, aby nauczać w szkołach wyższych, specjaliści muszą podejmować „ekstremalnie nieracjonalne decyzje”."
     }
   ],
   "finance": [
@@ -772,12 +772,12 @@
       "summary": "Komunikat EBI Polaris IT Group SA (polarisit): Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach) stockwatch.pl."
     },
     {
-      "title": "Formacje analizy technicznej OW20U263550 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/OW20U263550",
-      "date": "2026-06-22T20:00:32Z",
+      "title": "Formacje analizy technicznej OW20G263375 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/OW20G263375",
+      "date": "2026-06-22T19:57:17Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Formacje analizy technicznej OW20U263550 BiznesRadar."
+      "summary": "Formacje analizy technicznej OW20G263375 BiznesRadar."
     },
     {
       "title": "Komunikat EBI Ecnology Group SA (ecnology): Nałożenie na emitenta kary pieniężnej lub innego środka dyscyplinującego przez Organizatora Alternatywnego Systemu lub nałożeniu sankcji administracyjnej - stockwatch.pl",
