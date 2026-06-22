@@ -104,6 +104,51 @@ body {
     box-shadow: inset 0 0 50px rgba(0,0,0,0.5);
 }
 
+/* Potwierdzone przez N źródeł */
+.confirmed-badge {
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #38bdf8; /* sky-400 */
+    background: rgba(56, 189, 248, 0.1);
+    border: 1px solid rgba(56, 189, 248, 0.3);
+    padding: 0.1rem 0.4rem;
+    border-radius: 0.25rem;
+    margin-left: 0.5rem;
+}
+
+/* Przełączniki warstw mapy */
+.map-layer-toggle {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #94a3b8;
+    cursor: pointer;
+    user-select: none;
+}
+
+.map-layer-toggle input { accent-color: #ef4444; cursor: pointer; }
+
+.map-legend-dot {
+    width: 0.6rem;
+    height: 0.6rem;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+/* Kafelek rekomendacji inwestycyjnych */
+.investment-disclaimer {
+    font-size: 0.65rem;
+    color: #64748b;
+    font-style: italic;
+    border-top: 1px solid #1e293b;
+    margin-top: 0.75rem;
+    padding-top: 0.5rem;
+}
+
 /* Scrollable news containers to keep card sizes uniform and prevent vertical growth */
 [id^="news-"] {
     max-height: 300px;

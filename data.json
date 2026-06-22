@@ -1,183 +1,1270 @@
 {
-    "last_updated": "2026-06-14 09:29:14",
-    "poland": [
-        {
-            "title": "Ważna konferencja w Warszawie",
-            "snippet": "Ministerstwo spraw zagranicznych zwołało pilne spotkanie...",
-            "url": "#",
-            "date": "2026-06-14T09:29:14.561786"
-        }
-    ],
-    "world_security": [],
-    "world_politics": [],
-    "technology": [],
-    "cybersecurity": [
-        {
-            "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
-            "snippet": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution.\n\nThe vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system.\n\n\"In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user could create or truncate arbitrary.",
-            "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
-            "date": "Sat, 13 Jun 2026 18:53:03 +0530"
-        },
-        {
-            "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
-            "snippet": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether inside or outside the U.S., citing national security concerns.\n\nThe AI company said it received an order at 5:21 p.m. ET, instructing it to suspend.",
-            "url": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
-            "date": "Sat, 13 Jun 2026 11:12:50 +0530"
-        },
-        {
-            "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
-            "snippet": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them.\n\nThe malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate.",
-            "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
-            "date": "Sat, 13 Jun 2026 01:03:25 +0530"
-        },
-        {
-            "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
-            "snippet": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans.\n\nThe network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant.\n\n\"The operation weaponized Gemini to help.",
-            "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
-            "date": "Sat, 13 Jun 2026 00:29:32 +0530"
-        },
-        {
-            "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
-            "snippet": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself.\n\nSygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no.",
-            "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
-            "date": "Fri, 12 Jun 2026 23:47:55 +0530"
-        },
-        {
-            "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-            "snippet": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines.\n\nCalled Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted using Sentry, an open-source error-tracking and performance-monitoring platform.\n\n\"The attack.",
-            "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-            "date": "Fri, 12 Jun 2026 17:34:33 +0530"
-        },
-        {
-            "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
-            "snippet": "For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in.",
-            "url": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
-            "date": "Fri, 12 Jun 2026 16:30:00 +0530"
-        },
-        {
-            "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
-            "snippet": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution.\n\nLangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artificial intelligence (AI) agentic applications.\n\n\"An SQL injection in LangGraph's function could.",
-            "url": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
-            "date": "Fri, 12 Jun 2026 15:20:36 +0530"
-        },
-        {
-            "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
-            "snippet": "An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday.\n\nThe effort, codenamed Operation Ramz, took place between October 2025 and February 2026, and saw authorities from 13 countries in the Middle East and North Africa (MENA) region making 201 arrests.\n\nIncluded among them was Guedz, the primary.",
-            "url": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html",
-            "date": "Fri, 12 Jun 2026 14:22:55 +0530"
-        },
-        {
-            "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
-            "snippet": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks.\n\nEuropol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"key financial pipeline used to wash hundreds of millions in illicit profits.\" The service is estimated to have been used to launder more than €336 million (~$389 million) since the.",
-            "url": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
-            "date": "Fri, 12 Jun 2026 12:08:41 +0530"
-        }
-    ],
-    "finance": [
-        {
-            "title": "\"Czarne złoto\" przejęte. USA kontrolują zasoby surowca wartego 100 mld.",
-            "snippet": " Po styczniowej zmianie władzy w Caracas i przejęciu kontroli nad złożami ropy przez USA, teraz fundusze inwestycyjne ze Stanów Zjednoczonych rozpoczynają walkę o dostęp do surowca. Stawką jest odbudowa sektora naftowego, w który trzeba wpompować miliardy dolarów. Rynek reaguje entuzjastycznie - opisuje \"Financial Times\".",
-            "url": "https://www.money.pl/gospodarka/amerykanski-kapital-plynie-do-wenezueli-wyscig-o-rope-7296445085562912a.html",
-            "date": "Sat, 13 Jun 2026 15:55:00 +0200"
-        },
-        {
-            "title": "Największy debiut w historii. Nadzieje inwestorów SpaceX lecą w kosmos",
-            "snippet": " Historia SpaceX jest pełna startów, które z zapartym tchem obserwował cały świat. Ten z 13 czerwca 2026 r. był szczególny, ponieważ nie dotyczył lotu rakiety, a debiutu akcji, który wywołał falę komentarzy",
-            "url": "https://www.money.pl/gielda/michal-zulawinski/najwiekszy-debiut-w-historii-nadzieje-inwestorow-spacex-leca-w-kosmos-7296427963709440a.html",
-            "date": "Sat, 13 Jun 2026 15:10:12 +0200"
-        },
-        {
-            "title": "Linie lotnicze Etihad chcą, by pasażerowie wrócili. Kuszą bezpłatnym ubezpieczeniem",
-            "snippet": " Linie lotnicze Etihad Airways chcą przyspieszyć powrót pasażerów z zagranicy do Zjednoczonych Emiratów Arabskich. By zwiększyć poczucie bezpieczeństwa zaoferują bezpłatne medyczne ubezpieczenie turystyczne dla osób lecących do Abu Dhabi.",
-            "url": "https://www.money.pl/mobility/linie-lotnicze-etihad-chca-by-pasazerowie-wrocili-kusza-bezplatnym-ubezpieczeniem-7296412431452192a.html",
-            "date": "Sat, 13 Jun 2026 13:56:20 +0200"
-        },
-        {
-            "title": "Zaczęli handel i od razu wielki ruch. Tak radzi sobie SpaceX na giełdzie",
-            "snippet": " Akcje firmy SpaceX, których cena na giełdowy debiut została ustalona na 135 dolarów, wzrosły w momencie otwarcia handlu do 150 dolarów, a w kolejnych minutach handlu poszły w górę o kolejne 15 dolarów.",
-            "url": "https://www.money.pl/gielda/zaczeli-handel-i-od-razu-wielki-ruch-tak-radzi-sobie-spacex-na-gieldzie-7296131561367552a.html",
-            "date": "Fri, 12 Jun 2026 18:56:19 +0200"
-        },
-        {
-            "title": "Strefa euro podnosi koszt kredytów. Czas na Polskę? Członek RPP komentuje",
-            "snippet": " Europejski Bank Centralny pierwszy raz od trzech lat zdecydował się na podwyżkę stóp procentowych. Czy podobny ruch zobaczymy wkrótce w Polsce? - Jesteśmy w zupełnie innej, bardziej komfortowej sytuacji - mówi money.pl Ludwik Kotecki z Rady Polityki Pieniężnej.",
-            "url": "https://www.money.pl/banki/strefa-euro-podnosi-koszt-kredytow-czas-na-polske-czlonek-rpp-komentuje-7296022510798880a.html",
-            "date": "Fri, 12 Jun 2026 18:29:00 +0200"
-        },
-        {
-            "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 12.06.2026",
-            "snippet": " Kurs franka szwajcarskiego - 12.06.2026. W piątek po południu za jednego franka (CHF) trzeba zapłacić 4.60521 zł.",
-            "url": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-12-06-2026-7296126887155712a.html",
-            "date": "Fri, 12 Jun 2026 18:17:09 +0200"
-        },
-        {
-            "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 12.06.2026",
-            "snippet": " Kurs euro - 12.06.2026. W piątek po południu za jedno euro (EUR) trzeba zapłacić 4.24460 zł.",
-            "url": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-12-06-2026-7296126215813152a.html",
-            "date": "Fri, 12 Jun 2026 18:15:03 +0200"
-        },
-        {
-            "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 12.06.2026",
-            "snippet": " Kurs dolara - 12.06.2026. W piątek po południu za jednego dolara (USD) trzeba zapłacić 3.66890 zł.",
-            "url": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-12-06-2026-7296125828356096a.html",
-            "date": "Fri, 12 Jun 2026 18:13:07 +0200"
-        },
-        {
-            "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 12.06.2026",
-            "snippet": " Kurs funta szterlinga - 12.06.2026. W piątek po południu za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.91916 zł.",
-            "url": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-12-06-2026-7296125285419040a.html",
-            "date": "Fri, 12 Jun 2026 18:10:45 +0200"
-        },
-        {
-            "title": "Podatki w czerwcu 2026. Kiedy zapłacić ZUS, PIT i VAT?",
-            "snippet": " Prowadzenie własnej firmy wymaga żelaznej dyscypliny w pilnowaniu urzędowych terminów, zwłaszcza w obliczu dynamicznie zmieniających się przepisów prawa gospodarczego. Czerwiec miesiąc roku przynosi przedsiębiorcom standardowy kalendarz opłat, choć układ dni wymusza korzystne przesunięcie jednej z kluczowych dat na czas po weekendzie.",
-            "url": "https://www.money.pl/podatki/podatki-w-czerwcu-2026-kiedy-zaplacic-zus-pit-i-vat-7296073794746400a.html",
-            "date": "Fri, 12 Jun 2026 14:44:25 +0200"
-        }
-    ],
-    "critical_alerts": [
-        "Brak nowych alarmów"
-    ],
-    "instability": [
-        {
-            "name": "Ukraina",
-            "score": 85
-        },
-        {
-            "name": "Tajwan",
-            "score": 60
-        }
-    ],
-    "map_features": [
-        {
-            "lat": 48.85,
-            "lng": 2.35,
-            "type": "war",
-            "description": "Przykład: Konflikt w regionie"
-        },
-        {
-            "lat": 52.52,
-            "lng": 13.4,
-            "type": "cyber",
-            "description": "Atak DDoS na infrastrukturę"
-        }
-    ],
-    "sp50_trend": {
-        "dates": [
-            "Jan",
-            "Feb",
-            "Mar",
-            "Apr",
-            "May",
-            "Jun"
-        ],
-        "prices": [
-            4100,
-            4250,
-            4180,
-            4350,
-            4400,
-            4450
-        ]
+  "last_updated": "2026-06-22T19:30:57Z",
+  "poland": [
+    {
+      "title": "Leo Messi zrobił sobie prezent na urodziny. Miroslav Klose zdetronizowany",
+      "url": "https://sport.rp.pl/pilka-nozna/art44677271-leo-messi-zrobil-sobie-prezent-na-urodziny-miroslav-klose-zdetronizowany",
+      "date": "2026-06-22T19:25:26Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Argentyna pokonała w Dallas Austrię 2:0 po bramkach Leo Messiego, który z 18 golami został najlepszym strzelcem w historii mistrzostw świata, wyprzedzając Miroslava Klose."
+    },
+    {
+      "title": "Nawrocki bez zaproszenia na konferencję o Ukrainie. \"Pan prezydent ma swoje miejsce\"",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32871206,nawrocki-bez-zaproszenia-na-konferencje-o-ukrainie-pan-prezydent.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-06-22T19:16:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Szef MON Władysław Kosiniak-Kamysz ocenił, że brak zaproszenia dla prezydenta Karola Nawrockiego na Konferencję na rzecz Odbudowy Ukrainy nie oznacza faux-pas ani zgrzytu."
+    },
+    {
+      "title": "Dwa gole wagi ciężkiej Messiego. Argentyna się nie zatrzymuje na mundialu - Polskie Radio 24",
+      "url": "https://polskieradio24.pl/sport/gole-w-meczu-argentyna-austria-na-ms-2026-zobacz-wideo-bramek",
+      "date": "2026-06-22T19:06:11Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Dwa gole wagi ciężkiej Messiego. Argentyna się nie zatrzymuje na mundialu Polskie Radio 24."
+    },
+    {
+      "title": "Brutalny napad na Teneryfie. 88-letni turysta nie przeżył ataku, sprawca poszukiwany",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-06-22/brutalny-napad-na-teneryfie-88-letni-turysta-nie-przezyl-ataku-sprawca-poszukiwany/",
+      "date": "2026-06-22T18:59:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "88-letni brytyjski turysta zmarł po brutalnym napadzie w popularnym kurorcie Los Cristianos na Teneryfie. Mężczyzna miał zostać zaatakowany razem z 79-letnią żoną przy wejściu do kompleksu apartamentów."
+    },
+    {
+      "title": "Benzyna najdroższa od dekad. Rosja importuje paliwo z Białorusi",
+      "url": "https://energia.rp.pl/paliwa/art44677231-benzyna-najdrozsza-od-dekad-rosja-importuje-paliwo-z-bialorusi",
+      "date": "2026-06-22T18:56:18Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Takich cen paliw w Rosji nie widziano od kryzysu globalnego 2008 r. Po ukraińskich atakach rosyjskie rafinerie straciły jedną czwartą mocy przerobowych. W poniedziałek ceny paliw skoczyły do równowartości 5,8 zł za litr oleju napędowego."
+    },
+    {
+      "title": "Leo Messi przeszedł do historii mundialu. Oto jego majątek",
+      "url": "https://businessinsider.com.pl/sport/mecz-argentyna-austria-leo-messi-przechodzi-do-historii-oto-jego-majatek/t88c6ms",
+      "date": "2026-06-22T18:46:37Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Lionel Messi został w poniedziałek najlepszym strzelcem w historii mistrzostw świata. Podczas meczu Argentyna-Austria zdobył swojego 17. gola na tej imprezie."
+    },
+    {
+      "title": "Piotr Pytel opuścił więzienie. Niemiecki sąd skazał go na dożywocie, Żurek chce ułaskawienia",
+      "url": "https://www.rp.pl/prawo-karne/art44677181-piotr-pytel-opuscil-wiezienie-niemiecki-sad-skazal-go-na-dozywocie-zurek-chce-ulaskawienia",
+      "date": "2026-06-22T18:40:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Polak, skazany na dożywocie za morderstwo, do którego przyznał się inny mężczyzna, po 20 latach opuścił zakład karny - nie oznacza to jednak uniewinnienia. Trwa bowiem dopiero postępowanie o ułaskawienie mężczyzny przez prezydenta."
+    },
+    {
+      "title": "27-latek podejrzany o próbę zabójstwa własnego dziecka. Jest decyzja sądu",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,32871116,27-latek-podejrzany-o-probe-zabojstwa-wlasnego-dziecka-jest.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-06-22T18:39:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Sąd Rejonowy w Augustowie zgodził się na aresztowanie na trzy miesiące 27-letniego mężczyzny, który rzucił o podłogę sześciomiesięcznym dzieckiem. Mieszkańcowi powiatu augustowskiego grozi 30 lat więzienia, a nawet dożywocie."
+    },
+    {
+      "title": "Katarzyna Pełczyńska-Nałęcz uderzyła w KO. \"Dlatego nie poprzemy odejścia od dwukadencyjności\"",
+      "url": "https://businessinsider.com.pl/finanse/katarzyna-pelczynska-nalecz-reaguje-na-afere-polska-2050-nie-poprze/ttlgfhe",
+      "date": "2026-06-22T18:37:27Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Ostra reakcja w rządzie po ujawnieniu skandalu w warszawskiej służbie zdrowia. Katarzyna Pełczyńska-Nałęcz, uderzyła w Koalicję Obywatelską za doniesienia o specjalnym traktowaniu polityków w Szpitalu Południowym. \"Dlatego Polska 2050 nie poprze odejścia od dwukadencyjności dla prezydentów miast\" — podkreśliła szefowa resortu."
+    },
+    {
+      "title": "Giełda w Warszawie bez paliwa do kontynuacji zwyżek",
+      "url": "https://www.rp.pl/gielda/art44677221-gielda-w-warszawie-bez-paliwa-do-kontynuacji-zwyzek",
+      "date": "2026-06-22T18:32:17Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Z początkiem nowego tygodnia entuzjazm inwestorów do zakupów krajowych akcji wyraźnie osłabł. Krajowe indeksy wróciły do korekty."
+    },
+    {
+      "title": "Estera Flieger: Czyim prezydentem jest Karol Nawrocki?",
+      "url": "https://www.rp.pl/komentarze/art44666921-estera-flieger-czyim-prezydentem-jest-karol-nawrocki",
+      "date": "2026-06-22T18:26:38Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Kiedy Karol Nawrocki ogłosił, że odbierze Order Orła Białego Wołodymyrowi Zełenskiemu, ponieważ elitarnej jednostce wojskowej nadał patronat odpowiedzialnej za ludobójstwo na Wołyniu Ukraińskiej Powstańczej Armii, politykom z koalicji rządowej zabrakło instynktu państwowego. Z decyzją prezydenta Polski można się nie zgadzać, ale od kiedy to Dmitrij Miedwiediew ma być punktem odniesienia?"
+    },
+    {
+      "title": "Burnham o krok przed zajęciem miejsca Starmera. W parlamencie okrzyk: \"To nie mesjasz!\"",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,32871088,burnham-o-krok-przed-zajeciem-miejsca-starmera-w-parlamencie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-06-22T18:24:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Keir Starmer będzie premierem Wielkiej Brytanii do czasu, aż Partia Pracy wybierze nowego lidera. Andy Burnham, po zdobyciu mandatu poselskiego, jest o krok bliżej do zostania premierem."
+    },
+    {
+      "title": "\"Woda niezdatna do spożycia\". Mieszańcy kilkudziesięciu miejscowości otrzymali alert",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-06-22/woda-niezdatna-do-spozycia-mieszancy-kilkudziesieciu-miejscowosci-otrzymali-alert/",
+      "date": "2026-06-22T18:17:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Woda niezdatna do spożycia przez ludzi i zwierzęta - ten komunikat Rządowego Centrum Bezpieczeństwa (RCB) dotarł do mieszkańców 32 miejscowości w powiecie kolneńskim na Podlasiu. Woda nie nadaje się też do higieny osobistej. Lokalne władze apelują o śledzenie komunikatów."
+    },
+    {
+      "title": "Ukraińscy dziennikarze chcą, żeby Zełenski przyjechał do Polski. Wskazali powód",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-06-22/ukrainscy-dziennikarze-chca-zeby-zelenski-przyjechal-do-polski-wskazali-powod/",
+      "date": "2026-06-22T18:12:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Zełenski powinien pojechać do Gdańska pomimo kryzysu. Ukraina tego potrzebuje - przekazali dziennikarze Europejskiej Prawdy we wspólnym tekście. W tekście wskazano, że decyzja prezydenta Polski Karola Nawrockiego o ukaraniu prezydenta Ukrainy odebraniem orderu nie jest przyczyną awantury, która podzieliła oba kraje."
+    },
+    {
+      "title": "Zapytaliśmy o przedstawienie Armii Krajowej w niemieckim serialu. Oceny są mocne",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,32869707,zapytalismy-o-przedstawienie-armii-krajowej-w-niemieckim-serialu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-06-22T18:12:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Przeprowadziliśmy sondę pod artykułem dotyczącym orzeczenia Trybunału Sprawiedliwości Unii Europejskiej w sprawie serialu \"Nasze matki, nasi ojcowie\". Uczestnicy ocenili sposób przedstawienia Armii Krajowej w tej niemieckiej produkcji, a najwięcej głosów otrzymała jedna odpowiedź."
+    },
+    {
+      "title": "Fala upałów paraliżuje Europę Zachodnią. Ceny prądu biją rekordy",
+      "url": "https://businessinsider.com.pl/gospodarka/fala-upalow-w-europie-rekordy-temperatur-energia-najdrozsza-od-lat/8mt7mve",
+      "date": "2026-06-22T18:09:39Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Fala upałów w Europie Zachodniej spowodowała gwałtowny wzrost cen energii elektrycznej. Padają rekordy temperatur."
+    },
+    {
+      "title": "Wielka Brytania czeka na nowego premiera. Kim jest zdecydowany faworyt?",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-06-22/wielka-brytania-czeka-na-nowego-premiera-kim-jest-zdecydowany-faworyt/",
+      "date": "2026-06-22T18:00:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Andy Burnham, były burmistrz Manchesteru, jest głównym faworytem do objęcia stanowiska premiera Wielkiej Brytanii po tym, jak rezygnację złożył Keir Starmer. Burnham został w poniedziałek zaprzysiężony na posła Izby Gmin, wcześniej zwyciężając w wyborach uzupełniających."
+    },
+    {
+      "title": "Firma z Katowic jedzie na pierwszą linię cyberwojny",
+      "url": "https://radar.rp.pl/przemysl-obronny/art44670991-firma-z-katowic-jedzie-na-pierwsza-linie-cyberwojny",
+      "date": "2026-06-22T18:00:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Sebastian Małycha, prezes Media Recovery, dostał e-maila z groźbą śmierci wygenerowaną najpewniej przez AI – ze szczegółami o jego wyglądzie i rodzinie. To, jak twierdzi w podcaście „Radar Bezpieczeństwa”, codzienność w branży, która właśnie dostała od Wojska Polskiego kontrakt kilka razy większy niż jakikolwiek dotychczasowy."
+    },
+    {
+      "title": "Porody bez znieczuleń i nielegalne opłaty. Porodówki pod lupą NIK. Porażające wnioski",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-06-22/porody-bez-znieczulen-i-nielegalne-oplaty-porodowki-pod-lupa-nik-porazajace-wnioski/",
+      "date": "2026-06-22T17:53:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Od 2026 r. oddziałów ginekologiczno-położniczych brakuje w 136 powiatach - pisze w najnowszym raporcie Najwyższa Izba Kontroli. Na tych porodówkach, które jeszcze przyjmują pacjentki, sytuacja także nie wygląda kolorowo."
+    },
+    {
+      "title": "Nawrocki nie dostał zaproszenia. Szłapka: Pałac nie wykazywał zainteresowania",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32871169,nawrocki-nie-dostal-zaproszenia-szlapka-ujawnil-szczegoly.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-06-22T17:51:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Rzecznik rządu Adam Szłapka poinformował, że prezydent nie został zaproszony na Konferencję na rzecz Odbudowy Ukrainy z uwagi na formułę wydarzenia i brak zainteresowania ze strony Pałacu Prezydenckiego. Zdaniem Kijowa zaproszenie dla Nawrockiego jest wewnętrzną sprawą Polski."
+    },
+    {
+      "title": "Lionel Messi pobił rekord Miroslava Klose. Argentyńczyk najlepszym strzelcem w historii MŚ",
+      "url": "https://sport.rp.pl/pilka-nozna/art44676911-lionel-messi-pobil-rekord-miroslava-klose-argentynczyk-najlepszym-strzelcem-w-historii-ms",
+      "date": "2026-06-22T17:40:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "W meczu Argentyna – Austria Lionel Messi zdobył swoją 17 i 18 bramkę na mundialu i stał się najlepszym strzelcem w historii piłkarskich mistrzostw świata, wyprzedzając w klasyfikacji generalnej Niemca Miroslava Klose."
+    },
+    {
+      "title": "Co dalej z odesłanym orderem Zełenskiego? Rzecznik prezydenta: Dziś go odebraliśmy",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-06-22/co-dalej-z-odeslanym-orderem-zelenskiego-rzecznik-prezydenta-dzis-go-odebralismy/",
+      "date": "2026-06-22T17:30:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "- Rzeczywiście order został odesłany. Dziś odebraliśmy go w Kancelarii Prezydenta - powiedział w poniedziałek rzecznik głowy państwa Rafał Leśkiewicz. Jak dodał w Gościu Wydarzeń, zwrócone odznaczenie trafi do depozytu Biura Odznaczeń i Nominacji, a ponadto ten konkretny order nie będzie już nikomu przyznany."
+    },
+    {
+      "title": "Izera oficjalnie pogrzebana. Polska stawia na nową markę",
+      "url": "https://businessinsider.com.pl/gospodarka/marka-polon-zastapi-izere-wyprodukuje-kilkaset-tysiecy-aut-rocznie/xv83w36",
+      "date": "2026-06-22T17:23:21Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Polski samochód elektryczny zyskuje nową tożsamość i potężnego partnera. Projekt Izera, uznany oficjalnie za fiasko, ma zostać zastąpiony przez markę \"Polon\"."
+    },
+    {
+      "title": "Kolejny cios w relacjach z Ukrainą. Wicemarszałek Senatu zwrócił odznaczenia",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32870960,kolejny-cios-w-relacjach-z-ukraina-wicemarszalek-senatu-zwrocil.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-06-22T16:54:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Wicemarszałek Senatu Michał Kamiński zwrócił dwa odznaczenia, które otrzymał w przeszłości od przedstawicieli Ukrainy. W liście do ambasadora tego kraju podkreślił, że jego gest jest związany z gloryfikacją przez Kijów ukraińskich nacjonalistów odpowiedzialnych za rzeź wołyńską."
     }
+  ],
+  "world_security": [
+    {
+      "title": "Clive Davis, potentat muzyczny stojący za Whitney Houston i Brucem Springsteenem, umiera w wieku 94 lat",
+      "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-22T18:11:56Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Dyrektor wytwórni współpracował także z Billym Joelem, Pink Floyd, Alicią Keys i Aerosmith."
+    },
+    {
+      "title": "Burmistrz Montrealu wzywa do zaprzestania wyrywkowych kontroli policyjnych w związku z dochodzeniem dotyczącym profilowania rasowego",
+      "url": "https://www.theguardian.com/world/2026/jun/22/montreal-mayor-random-police-checks-racism-investigation",
+      "date": "2026-06-22T17:49:55Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Miejskiej policji grozi dochodzenie w sprawie 16 funkcjonariuszy oskarżonych o nieproporcjonalne atakowanie mieszkańców czarnoskórych i arabskich. Burmistrz Montrealu wezwał do zaprzestania wyrywkowych kontroli policyjnych, ponieważ miejska policja zmaga się z wewnętrznym dochodzeniem w sprawie rasizmu i profilowania rasowego prowadzonego przez 16 funkcjonariuszy. Burmistrz Soraya Martinez Ferrada powiedziała w zeszłym tygodniu reporterom, że jej mąż, który jest czarny, był wielokrotnie zatrzymywany przez policję podczas jazdy. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Kanadyjski personel medyczny potępia „okrutne oszustwo” po oszukańczym e-mailu obiecującym płatny dzień wolny",
+      "url": "https://www.theguardian.com/world/2026/jun/22/canadian-healthcare-staff-scam-email-paid-day-off",
+      "date": "2026-06-22T17:30:23Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Związki potępiają „niewrażliwy” wewnętrzny test cyberbezpieczeństwa wysłany do pracowników służby zdrowia w Nowej Fundlandii i Labradorze Od lat pracownicy służby zdrowia w kanadyjskiej prowincji Nowa Fundlandia i Labrador czują się przepracowani i niedoceniani. Rotacja, wypalenie zawodowe i uszczuplenie zasobów popychały pracowników w branży do punktu krytycznego. Kiedy więc e-mail zatytułowany „Wakacje czerwcowe” dotarł do tysięcy skrzynek odbiorczych, poczuli chwilę spóźnionej radości. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Czerwone alerty upałów wydane we Francji, Włoszech i Hiszpanii w związku z prognozą temperatury na poziomie 40°C",
+      "url": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-22T16:42:23Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Prognozuje się, że fala upałów nasili się w nadchodzących dniach w Europie Środkowej i Zachodniej."
+    },
+    {
+      "title": "Minister Kenii uznany za obrazę sądu w związku ze wspieranym przez USA ośrodkiem walki z wirusem Ebola",
+      "url": "https://www.bbc.com/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-22T16:34:39Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Aden Duale sprzeciwił się nakazowi Sądu Najwyższego nakazującego zaprzestanie prac budowlanych w kontrowersyjnym obiekcie finansowanym przez USA."
+    },
+    {
+      "title": "„Zagrożenie instytucjonalne”: wybór przywódcy skrajnej prawicy budzi obawy o demokrację w Kolumbii",
+      "url": "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump",
+      "date": "2026-06-22T16:29:48Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Podziwiający Trumpa Abelardo de la Espriella przyrzekł „wypatroszyć” lewicę i zabić przestępców niczym „szczury i karaluchy”. Kiedy w 2012 roku ponad 20 kobiet oskarżyło kolumbijskiego pastora ewangelickiego o wykorzystywanie seksualne, prawnik oskarżonego starał się zdyskredytować zarzuty, mówiąc sądowi, że są to „trepadoras” – pejoratywne określenie oznaczające wspinaczy społecznych. Ostatecznie zabezpieczył klienta uniewinnienie – chociaż sprawa jest nadal rozpatrywana przez sąd najwyższy – ale materiał filmowy z tą uwagą pojawił się ponownie podczas kampanii prezydenckiej w Kolumbii, wywołując oburzenie wśród wielu postępowych wyborców. Kontynuuj czytanie..."
+    },
+    {
+      "title": "WhatsApp będzie kierowany przez indyjskiego założyciela start-upu, gdy Will Cathcart wycofuje się",
+      "url": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-22T15:57:46Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Zmiany w przywództwie WhatsApp mają miejsce w momencie, gdy Meta stara się wzmocnić i tak już dynamicznie rozwijającą się obecność swojej aplikacji w Indiach."
+    },
+    {
+      "title": "ONZ twierdzi, że armia Birmy zabiła w ciągu sześciu miesięcy ponad 700 cywilów",
+      "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-22T15:31:55Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Z nowego raportu ONZ wynika, że ​​w ciągu sześciu miesięcy ubiegłego roku wśród 702 cywilów zginęło 153 dzieci."
+    },
+    {
+      "title": "Co najmniej 13 osób zginęło, a dziesiątki zostały ranne w wyniku wybuchu gazu w Katarze",
+      "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-22T15:15:42Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Główny zakład przetwarzania skroplonego gazu ziemnego (LNG) w mieście uległ „awarii technicznej” w strefie przemysłowej Ras Laffan."
+    },
+    {
+      "title": "Vance twierdzi, że Iran wpuści inspektorów nuklearnych z powrotem do kraju",
+      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-22T14:18:19Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Wiceprezydent USA twierdzi, że po pierwszej rundzie rozmów między USA a Iranem poczyniono ogromne postępy."
+    },
+    {
+      "title": "Gromadzenie się wojsk rosyjskich zagraża miastu uważanemu za klucz do zajęcia ukraińskiego Donbasu",
+      "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-21T23:57:59Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Jeśli Kostyantynówka upadnie, siły rosyjskie będą mogły nacierać na ostatnie pozostałe twierdze Ukrainy na wschodzie."
+    },
+    {
+      "title": "Pot, łzy i koleżeństwo, gdy 20 000 biegaczy bierze udział w największym ultramaratonie na świecie",
+      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+      "date": "2026-06-21T08:00:24Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Każdego czerwca przez jeden dzień podczas wyścigu Comrades palące nierówności rasowe w Republice Południowej Afryki zdają się znikać. O poranku tysiące biegaczy czekało, przepychając się w oczekiwaniu. Rozległ się hymn narodowy Republiki Południowej Afryki. Potem zapadająca w pamięć piosenka Shosholoza, śpiewana po raz pierwszy przez pracowników migrujących z Zimbabwe w kopalniach złota w Republice Południowej Afryki."
+    }
+  ],
+  "world_politics": [
+    {
+      "title": "Aktualności na żywo z Bliskiego Wschodu: Stany Zjednoczone łagodzą sankcje na irańską ropę naftową, ale postęp w kwestiach nuklearnych jest niejasny",
+      "url": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon",
+      "date": "2026-06-22T19:19:22Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Wiceprezydent JD Vance powiedział, że Iran zgodził się zaprosić do kraju inspektorów nuklearnych ONZ, ale strona irańska stwierdziła, że ​​„nie podjęła żadnych nowych zobowiązań”. Kontrole były ograniczone, odkąd prezydent Trump zerwał umowę za czasów Obamy w 2018 roku."
+    },
+    {
+      "title": "Keir Starmer rezygnuje ze stanowiska premiera Wielkiej Brytanii",
+      "url": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html",
+      "date": "2026-06-22T17:41:11Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Jego odejście w nadchodzących tygodniach otwiera drogę Andy’emu Burnhamowi, popularnemu burmistrzowi Partii Pracy, do zostania siódmym premierem kraju w ciągu dekady."
+    },
+    {
+      "title": "W jaki sposób nowy prezydent Kolumbii podsyci wojnę narkotykową Trumpa?",
+      "url": "https://www.nytimes.com/2026/06/22/world/americas/colombia-president-de-la-espriella-trump-drug-war.html",
+      "date": "2026-06-22T17:00:39Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Wydaje się, że następnym prezydentem kraju będzie Abelardo De La Espriella, który przyrzekł zniszczyć handlarzy ludźmi za pomocą siły militarnej."
+    },
+    {
+      "title": "Tysiące uciekają, gdy Putin bombarduje miasta Donbasu, których najbardziej pragnie",
+      "url": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-donetsk-donbas-sloviansk-kramatorsk-russia.html",
+      "date": "2026-06-22T15:57:38Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Podczas gdy losy Kijowa polepszyły się w czasie wojny pod innymi względami, siły Moskwy zrzucają bomby i drony na miasta „pasa fortec”, takie jak Słowiańsk i Kramatorsk."
+    },
+    {
+      "title": "Kryzys paliwowy na Kubie powoduje zastój w szkołach",
+      "url": "https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html",
+      "date": "2026-06-22T14:29:39Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Szkoły w kraju, które już borykają się z trudnościami, kończą rok akademicki wcześniej z powodu paraliżującego niedoboru paliwa spowodowanego blokadą naftową w USA."
+    },
+    {
+      "title": "Eksplozja w gazowni w Katarze zabija co najmniej 13 osób i rani 66 osób",
+      "url": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html",
+      "date": "2026-06-22T14:09:44Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Wybuch miał miejsce w kluczowym miejscu wydobycia gazu ziemnego. Władze obwiniły awarię techniczną podczas wznowienia operacji po wojnie amerykańsko-izraelskiej z Iranem."
+    },
+    {
+      "title": "Pakistan planuje obniżyć podatki na podpaski menstruacyjne, ale wiele osób twierdzi, że to za mało",
+      "url": "https://www.nytimes.com/2026/06/22/world/asia/pakistan-menstrual-period-tax.html",
+      "date": "2026-06-22T14:07:03Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Aktywistki stwierdziły, że potrzebne są dalsze działania, aby rozwiązać większy problem: tylko 12 procent pakistańskich kobiet i dziewcząt używa bezpiecznych, dostępnych na rynku produktów menstruacyjnych."
+    },
+    {
+      "title": "Dwóch chłopców aresztowanych po śmiertelnej strzelaninie w szkole na Filipinach",
+      "url": "https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html",
+      "date": "2026-06-22T13:42:11Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Policja podała, że ​​trzy osoby zginęły, a siedem zostało rannych po tym, jak dwóch nastolatków otworzyło ogień w ich szkole w Tacloban City."
+    }
+  ],
+  "technology": [
+    {
+      "title": "Steam Machine oficjalnie. Valve żąda fortuny za sprzęt, który musisz wylosować",
+      "url": "https://www.instalki.pl/news/hardware/steam-machine-oficjalnie-cena-zaskoczyla-wszystkich/",
+      "date": "2026-06-22T19:30:03Z",
+      "source": "Instalki.pl",
+      "confirmed_by": 2,
+      "summary": "Valve oficjalnie zaprezentowało Steam Machine. Nowe urządzenie ma formę kompaktowego sześcianu, który bez problemu zmieści się na biurku, pod telewizorem czy w dowolnym innym miejscu. Choć urządzenie kusi niemal bezgłośną pracą i kompaktowym wyglądem, entuzjazm szybko zderza się ze ścianą."
+    },
+    {
+      "title": "Chcą złamać monopol Steama. Ciekawe, czy przekona was ten argument",
+      "url": "https://spidersweb.pl/2026/06/epic-launcher-v2-szybkosc.html",
+      "date": "2026-06-22T19:18:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Chcą złamać monopol Steama. Ciekawe, czy przekona was ten argument."
+    },
+    {
+      "title": "Steam Machine firmy Valve zostanie wydany 29 czerwca za 1049 dolarów, ale prawdopodobnie nie będzie można jeszcze jej kupić",
+      "url": "https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/",
+      "date": "2026-06-22T19:02:45Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Valve twierdzi, że korzysta z losowej kolejki zakupów, aby uczynić doświadczenie „mniej frustrującym i bardziej sprawiedliwym”."
+    },
+    {
+      "title": "Są ceny Steam Machine i nawet jest dobrze. Ale o zakupie zdecyduje losowanie",
+      "url": "https://spidersweb.pl/2026/06/steam-machine-cena-polska-nie-jest-zle.html",
+      "date": "2026-06-22T18:06:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Są ceny Steam Machine i nawet jest dobrze. Ale o zakupie zdecyduje losowanie."
+    },
+    {
+      "title": "Steam Machine trafia do sprzedaży – padła ostateczna cena urządzenia",
+      "url": "https://antyweb.pl/steam-machine-cena",
+      "date": "2026-06-22T18:02:23Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Valve właśnie uruchomiło zapisy na Steam Machine – konsolowy komputer do salonu, który firma traktuje jako rozszerzenie ekosystemu PC, a nie typową konsolę. Urządzenie trafi na rynek w czterech konfiguracjach, a chętni mają czas na rejestrację do czwartku 25 czerwca do godziny 19:00 polskiego czasu."
+    },
+    {
+      "title": "Internet i abonament w jednym – ta oferta może zdetronizować konkurencję",
+      "url": "https://antyweb.pl/internet-i-abonament-do-telefonu",
+      "date": "2026-06-22T18:00:56Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Oferty łączone, dzięki którym możemy obniżyć koszty korzystania z więcej niż jednej usług u jednego operatora, nie są niczym nowym. Co powiecie jednak, na dodatkowy bonus w postaci polepszenia parametrów usługi? Oczywiście oprócz niższej ceny."
+    },
+    {
+      "title": "Źródła: Właściciel Vimeo, Bending Spoons, stara się zebrać około 1,62 miliarda dolarów w ramach pierwszej oferty publicznej w USA, sprzedając 58 milionów akcji po cenie od 26 do 28 dolarów za sztukę, przy wycenie na poziomie 19 miliardów dolarów w górnej części przedziału (Echo Wang/Reuters)",
+      "url": "https://www.techmeme.com/260622/p35#a260622p35",
+      "date": "2026-06-22T18:00:40Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Echo Wang / Reuters: Źródła: Właściciel Vimeo, Bending Spoons, chce zebrać ~1,62 miliarda dolarów w ramach pierwszej oferty publicznej w USA, sprzedając 58 mln akcji po 26–28 dolarów za sztukę, przy wycenie na 19 miliardów dolarów na najwyższym poziomie &mdash; Bending Spoons, włoska firma technologiczna, która przejmuje i modernizuje firmy zajmujące się oprogramowaniem, chce zebrać aż 1,62 miliarda dolarów &hellip;."
+    },
+    {
+      "title": "Znalezienie najlepszego przysmaku dla psa na podstawie statystyk",
+      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
+      "date": "2026-06-22T17:46:48Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48633410 Punkty: 24 # Komentarze: 4."
+    },
+    {
+      "title": "Potężny problem w starszych iPhone'ach. Nie da się go rozwiązać aktualizacją",
+      "url": "https://spidersweb.pl/2026/06/apple-luka-a12-a13.html",
+      "date": "2026-06-22T17:44:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Potężny problem w starszych iPhone'ach. Nie da się go rozwiązać aktualizacją."
+    },
+    {
+      "title": "Tego o Słońcu dotychczas nie wiedzieliśmy. LOFAR dostarcza nam istotnych danych",
+      "url": "https://antyweb.pl/lofar-slonce-emisje",
+      "date": "2026-06-22T17:30:06Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Radioteleskop LOFAR wykrył 613 par krótkich rozbłysków radiowych, w których ten drugi sygnał pojawiał się po około czterech sekundach. Wszystko wskazuje, że ów następujący impuls ze Słońca to zwyczajnie odbita i rozproszona kopia pierwszego."
+    },
+    {
+      "title": "Pyrkon 2026 przyciągnął tłumy. Cosplayerzy nie zawiedli [Wideorelacja]",
+      "url": "https://www.benchmark.pl/pyrkon-2026-przyciagnal-tlumy-cosplayerzy-nie-zawiedli-wideorelacja-7299681315837952a",
+      "date": "2026-06-22T17:26:03Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Festiwal Fantastyki Pyrkon 2026 zgromadził w Poznaniu dokładnie 62 136 osób. Trzydniowe wydarzenie, zorganizowane na terenie Międzynarodowych Targów Poznańskich, odnotowało tym samym drugi najwyższy wynik frekwencji w swojej historii."
+    },
+    {
+      "title": "Recenzja Valve Steam Machine: znacznie mniejsza niż PS5, zaskakująco płynna i nawigacyjna z każdym nowoczesnym gamepadem, ale bardzo droga i wymaga ręcznej konfiguracji (Sean Hollister/The Verge)",
+      "url": "https://www.techmeme.com/260622/p34#a260622p34",
+      "date": "2026-06-22T17:25:03Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Sean Hollister / The Verge: Recenzja Valve Steam Machine: znacznie mniejsza niż PS5, zaskakująco płynna i łatwa w nawigacji za pomocą każdego nowoczesnego gamepada, ale bardzo droga i wymaga ręcznej konfiguracji &mdash; Mój pierwszy dzień z Steam Machine był bałaganem. Zamiast cieszyć się bezproblemową konsolą do gier, spędziłem godziny na rozwiązywaniu problemów z czymś, co wydawało się wybrednym komputerem."
+    },
+    {
+      "title": "Valve twierdzi, że Steam Machine, jego nowy komputer przystosowany do salonu, będzie dostępny w cenach od 1049 dolarów za podstawowy model 512 GB i trafi do sprzedaży od 29 czerwca (Jay Peters/The Verge)",
+      "url": "https://www.techmeme.com/260622/p33#a260622p33",
+      "date": "2026-06-22T17:20:02Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Jay Peters / The Verge: Valve twierdzi, że Steam Machine, nowy komputer stacjonarny do użytku w salonie, będzie dostępny w cenach od 1049 dolarów za podstawowy model 512 GB, a sprzedaż rozpocznie się 29 czerwca &mdash; Już dziś możesz zgłosić swoje zainteresowanie, a pierwsze e-maile z informacją o zakupie zostaną wysłane 29 czerwca."
+    },
+    {
+      "title": "OpenAI przedstawia zaktualizowany model GPT-5.5-Cyber, uruchamia inicjatywę Patch the Planet we współpracy z Trail of Bits w celu naprawienia błędów open source i nie tylko (Lily Hay Newman/Wired)",
+      "url": "https://www.techmeme.com/260622/p32#a260622p32",
+      "date": "2026-06-22T17:16:18Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Lily Hay Newman / Wired: OpenAI przedstawia zaktualizowany model GPT-5.5-Cyber, uruchamia inicjatywę Patch the Planet we współpracy z Trail of Bits, aby naprawić błędy open source i nie tylko &mdash; W obliczu obaw związanych z możliwościami cyberbezpieczeństwa modeli sztucznej inteligencji OpenAI ujawniło ulepszoną wersję GPT-5.5-Cyber ​​i jej narzędzia „Patch the Planet”. &hej;."
+    },
+    {
+      "title": "NHTSA bada rzekomą katastrofę autopilota Tesli, w wyniku której zginęła kobieta w jej domu",
+      "url": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
+      "date": "2026-06-22T17:10:52Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Tesla zachwala Autopilota jako rozwiązanie ratujące życie dzień po śmierci babci w wypadku."
+    },
+    {
+      "title": "Nothing ogłosił koniec tanich telefonów. Dwa dni później zaskoczył fanów",
+      "url": "https://spidersweb.pl/2026/06/nothing-oglosil-koniec-tanich-telefonow-dwa-dni-pozniej-zaskoczyl-fanow.html",
+      "date": "2026-06-22T17:08:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Nothing ogłosił koniec tanich telefonów. Dwa dni później zaskoczył fanów."
+    },
+    {
+      "title": "Blogger odrzuca roszczenia fotografa dotyczące praw autorskich",
+      "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
+      "date": "2026-06-22T17:06:10Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm Adres URL komentarzy: https://news.ycombinator.com/item?id=48632859 Punkty: 30 # Komentarze: 9."
+    },
+    {
+      "title": "Charge Robotics (YC S21) zatrudnia inżynierów oprogramowania i sprzętu",
+      "url": "https://jobs.ashbyhq.com/charge-robotics",
+      "date": "2026-06-22T17:00:17Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://jobs.ashbyhq.com/charge-robotics Adres URL komentarzy: https://news.ycombinator.com/item?id=48632792 Punkty: 0 # Komentarze: 0."
+    },
+    {
+      "title": "Rząd Meksyku przedstawia prototyp nowego, niezwykle niedrogiego pojazdu elektrycznego własnej produkcji",
+      "url": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080",
+      "date": "2026-06-22T16:48:45Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080 Adres URL komentarzy: https://news.ycombinator.com/item?id=48632652 Punkty: 87 # Komentarze: 43."
+    },
+    {
+      "title": "WyświetlaczMate",
+      "url": "https://www.displaymate.com/",
+      "date": "2026-06-22T16:45:52Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.displaymate.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48632613 Punkty: 41 # Komentarze: 13."
+    },
+    {
+      "title": "Linux 7.2 żegna strncpy. Po latach znika kłopotliwe API",
+      "url": "https://www.benchmark.pl/linux-7-2-zegna-strncpy-po-latach-znika-klopotliwe-api-7299603018401824a",
+      "date": "2026-06-22T16:45:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Do gałęzi rozwojowej Linuksa 7.2 trafiła poprawka, która usuwa z jądra funkcję strncpy. Deweloperzy od dawna wiązali to API z powracającymi błędami i niejasnym zachowaniem, a prace nad jego wycofaniem miały potrwać ponad sześć lat."
+    },
+    {
+      "title": "Akcje Alphabet spadły aż o 7,2%, najwięcej w ciągu dnia od lutego, po tym jak wiceprezes Google DeepMind, John Jumper, został drugim czołowym dyrektorem ds. sztucznej inteligencji, który odszedł w ciągu tygodnia (Bloomberg)",
+      "url": "https://www.techmeme.com/260622/p31#a260622p31",
+      "date": "2026-06-22T16:30:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Bloomberg: Akcje Alphabet spadły aż o 7,2%, najwięcej w ciągu dnia od lutego, po tym jak wiceprezes Google DeepMind, John Jumper, został drugim czołowym dyrektorem ds. sztucznej inteligencji, który odszedł w ciągu tygodnia &mdash; Akcje Alphabet Inc. spadły w poniedziałek po odejściu innego znanego lidera sztucznej inteligencji do rywala."
+    },
+    {
+      "title": "Wtajemniczeni twierdzą, że NSF ogranicza programy badawcze, aby wesprzeć inicjatywy w zakresie nowych technologii",
+      "url": "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
+      "date": "2026-06-22T16:25:02Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say Adres URL komentarzy: https://news.ycombinator.com/item?id=48632327 Punkty: 105 # Komentarze: 44."
+    },
+    {
+      "title": "Byłem w raju samochodziarzy. Chcieli mnie przejechać na pasach",
+      "url": "https://spidersweb.pl/2026/06/piesi-we-wloszech-przepisy-kary.html",
+      "date": "2026-06-22T16:18:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Byłem w raju samochodziarzy. Chcieli mnie przejechać na pasach."
+    }
+  ],
+  "cybersecurity": [
+    {
+      "title": "Nvidia skupia całą uwagę na superkomputerach do celów badań naukowych",
+      "url": "https://www.theregister.com/systems/2026/06/22/nvidia-gets-all-agentic-about-supercomputing-for-scientific-research/5259553",
+      "date": "2026-06-22T18:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Niestrudzeni agenci sztucznej inteligencji mogą pomóc naukowcom w badaniach, których nie potrafią sami ludzie, twierdzi gigant GPU."
+    },
+    {
+      "title": "Wtyczki ShapedPlugin WordPress Pro backdoorem w ataku na łańcuch dostaw",
+      "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "date": "2026-06-22T18:00:48Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Wiele wtyczek WordPress firmy ShapedPlugin zostało naruszonych w wyniku ataku na łańcuch dostaw po tym, jak nieznanym podmiotom zagrażającym udało się manipulować oficjalnymi kanałami wydań i wypchnąć kod backdoora. „Napastnicy włamali się do procesu kompilacji i dystrybucji dostawcy, wstrzykując kod backdoora do wydań wtyczek Pro rozpowszechnianych za pośrednictwem oficjalnych licencjonowanych kanałów aktualizacji” – stwierdził Wordfence w analizie."
+    },
+    {
+      "title": "Baza danych, która nie chciała umrzeć: jak Postgres przetrwał swoich twórców",
+      "url": "https://www.theregister.com/databases/2026/06/22/the-database-that-refused-to-die-how-postgres-survived-its-own-creators/5259716",
+      "date": "2026-06-22T17:43:36Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Od akademickiego odrzucenia do podłoża chmurowego."
+    },
+    {
+      "title": "Microsoft twierdzi, że wkrótce pojawi się system Windows 11 26H2, szczegóły procesu aktualizacji",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+      "date": "2026-06-22T17:41:31Z",
+      "source": "BleepingComputer",
+      "confirmed_by": 1,
+      "summary": "Firma Microsoft potwierdziła, że ​​następną aktualizacją funkcji będzie system Windows 11 w wersji 26H2 i że urządzenia z systemem Windows 11 w wersji 24H2 i 25H2 będą mogły dokonać aktualizacji przy użyciu małego pakietu aktywacyjnego. [...]."
+    },
+    {
+      "title": "Microsoft naprawia błąd AutoGen Studio, który umożliwiał wykonanie kodu",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+      "date": "2026-06-22T17:28:57Z",
+      "source": "BleepingComputer",
+      "confirmed_by": 1,
+      "summary": "Łańcuch luk nazwany AutoJack w interfejsie AutoGen Studio firmy Microsoft służący do prototypowania agentów AI może pozwolić atakującym zmanipulować agenta w celu wykonania dowolnych poleceń w jego systemie hosta po prostu poprzez odwiedzenie złośliwej strony internetowej. [...]."
+    },
+    {
+      "title": "Ukraina udostępnia w Internecie swoje rosyjskie trofea wojenne, aby sojusznicy mogli je rozebrać",
+      "url": "https://www.theregister.com/offbeat/2026/06/22/ukraine-puts-its-russian-war-trophies-online-for-allies-to-pick-apart/5259688",
+      "date": "2026-06-22T17:19:33Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "TrophyLab jest złe dla Vlada, ponieważ straty na polu bitwy ujawniają ich sekrety."
+    },
+    {
+      "title": "Zainspirowana muzycznymi kartkami okolicznościowymi, DARPA wymaga małych, tanich, samomodyfikujących się systemów",
+      "url": "https://www.theregister.com/offbeat/2026/06/22/inspired-by-musical-greeting-cards-darpa-demands-tiny-cheap-self-modifying-systems/5259594",
+      "date": "2026-06-22T16:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Nie można nie zauważyć tutaj bardzo wyraźnego przykładu problemu potrójnych ograniczeń w działaniu."
+    },
+    {
+      "title": "Badacze szczegółowo opisują błędy DifyTap w Dify, które mogą ujawnić czaty AI pomiędzy najemcami",
+      "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "date": "2026-06-22T16:13:28Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Badacze zajmujący się cyberbezpieczeństwem ujawnili szczegóły czterech luk w zabezpieczeniach Dify, platformy agentowego przepływu pracy typu open source z ponad 146 000 gwiazdek GitHub, która może umożliwić atakującym ukradkowe odczytywanie konwersji sztucznej inteligencji (AI) z aplikacji innych klientów bez konieczności uwierzytelniania. Luki otrzymały wspólną nazwę kodową DifyTap od firmy Zafran Security."
+    },
+    {
+      "title": "Kryzys pamięci jest tak poważny, że nawet ceny pamięci RAM w wersji retro idą na Księżyc",
+      "url": "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627",
+      "date": "2026-06-22T16:07:38Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Niektóre firmy produkujące sprzęt przeprojektowują produkty w celu wykorzystania starszych komponentów DDR2 i DDR3."
+    },
+    {
+      "title": "Nowy świat baz danych według Google: niedokładne zapytania i sztuczna inteligencja we wszystkim",
+      "url": "https://www.theregister.com/databases/2026/06/22/the-new-database-world-according-to-google-inexact-queries-and-ai-in-everything/5259454",
+      "date": "2026-06-22T15:40:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "„W ciągu najbliższych trzech do pięciu lat ludzie nie będą korzystać z platform danych” – mówi dyrektor ds. produktu."
+    },
+    {
+      "title": "29-letni błąd serwera proxy Squid „Squidbleed” może powodować wyciek żądań HTTP w postaci zwykłego tekstu",
+      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "date": "2026-06-22T14:29:46Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Nadmierny odczyt sterty w internetowym serwerze proxy Squid może spowodować wyciek żądania HTTP innego użytkownika w postaci zwykłego tekstu, w tym wszelkich danych uwierzytelniających lub tokenów sesji, które zawiera, do każdego, kto ma już zezwolenie na wysyłanie ruchu przez ten sam serwer proxy. Błąd wywodzi się ze zmiany w analizie FTP w 1997 roku i nadal występuje w domyślnej konfiguracji Squida. Badacze z Calif.io ujawnili go w czerwcu i nazwali Squidbleed (."
+    },
+    {
+      "title": "Brytyjski rząd zmusi Big Techy do promowania rzetelnych informacji?",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/brytyjski-rzad-zmusi-big-techy-do-promowania-rzetelnych-informacji",
+      "date": "2026-06-22T14:27:41Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Brytyjski rząd rozpoczyna konsultacje w sprawie nowych regulacji, które mają zmienić zasady dystrybucji treści w internecie. Przygotowywane przepisy zakładają zobowiązanie platform społecznościowych do skuteczniejszego pozycjonowania sprawdzonych informacji, a także rozszerzenie ochrony bezpłatnego dostępu do kluczowych wydarzeń sportowych w streamingu. Propozycje wywołują sprzeciw Big Techów, które powołują się na intrygujący argument."
+    },
+    {
+      "title": "Kanadyjskie przedsiębiorstwo użyteczności publicznej przyznaje się do naruszenia danych, ale kluczowe szczegóły pozostają poza siecią",
+      "url": "https://www.theregister.com/security/2026/06/22/canadian-utility-fesses-up-to-data-breach-but-key-details-remain-off-grid/5259309",
+      "date": "2026-06-22T14:24:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "London Hydro twierdzi, że nazwiska, adresy i szczegóły kont mogły zostać ujawnione, ale wiele na temat włamania jest nieznanych."
+    },
+    {
+      "title": "Rzut oka na rynek „Wyszukaj swój cel” w zakresie skradzionych danych uwierzytelniających",
+      "url": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+      "date": "2026-06-22T14:05:15Z",
+      "source": "BleepingComputer",
+      "confirmed_by": 1,
+      "summary": "Atakujący nie muszą już przeglądać ogromnych zrzutów danych uwierzytelniających. Mogą zapłacić innym, żeby zrobili to za nich. Flare bada, w jaki sposób powstający podziemny rynek przeszukuje skradzione bazy danych uwierzytelniających dla konkretnych firm, domen i kont."
+    },
+    {
+      "title": "Microsoft mówi użytkownikom systemu Windows, aby przygotowali się na 26H2 – chyba że są na 26H1",
+      "url": "https://www.theregister.com/os-platforms/2026/06/22/microsoft-tells-windows-users-to-get-ready-for-26h2-unless-theyre-on-26h1/5259511",
+      "date": "2026-06-22T13:57:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Ten sam rdzeń co 24H2 i 25H2 oznacza pakiet możliwości, podczas gdy wyszukiwanie staje się nieco bardziej wyrozumiałe."
+    },
+    {
+      "title": "Nowy moduł ładujący OXLOADER wykorzystuje złośliwe reklamy Google do dostarczania CastleStealer",
+      "url": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
+      "date": "2026-06-22T13:20:12Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Badacze zajmujący się cyberbezpieczeństwem ujawnili szczegóły nowej kampanii, która dostarcza CastleStealer za pomocą wcześniej niezgłoszonego modułu ładującego złośliwe oprogramowanie o nazwie OXLOADER. Według Elastic Security Labs kampania wykorzystuje złośliwe reklamy Google Ads jako punkt wyjścia do dystrybucji złośliwego oprogramowania. Dowody wskazują, że ugrupowanie zagrażające prawdopodobnie mówi po rosyjsku i ma motywy finansowe."
+    },
+    {
+      "title": "Dolnośląskie: dane osobowe omyłkowo opublikowane w przetargu",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/wycieki-danych/dolnoslaskie-dane-osobowe-omylkowo-opublikowane-w-przetargu",
+      "date": "2026-06-22T13:19:17Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Przeprowadzanie przetargów niejednokrotnie wymaga przetwarzania dokumentów zawierających dane osobowe. Problem pojawia się wtedy, kiedy takie informacje mogą trafić w niepowołane ręce. MGK w Oleśnicy poinformował o przypadkowym opublikowaniu danych osobowych w dokumentacji przetargowej."
+    },
+    {
+      "title": "Google wyznacza 30 września ostateczny termin weryfikacji programistów Androida w czterech krajach",
+      "url": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
+      "date": "2026-06-22T12:45:08Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Firma Google wyznaczyła 30 września 2026 r. jako dzień rozpoczęcia egzekwowania weryfikacji programistów Androida w pierwszych czterech krajach, a sklepy z aplikacjami dla głównych producentów urządzeń działają od samego początku. Od tego dnia certyfikowane telefony z Androidem w Brazylii, Indonezji, Singapurze i Tajlandii będą blokować normalne instalacje aplikacji, których programiści nie zarejestrowali tożsamości w Google, niezależnie od tego, czy jest to aplikacja."
+    },
+    {
+      "title": "Polscy policjanci nauczą się obsługi AI. „Inwestycja w nowoczesne państwo”",
+      "url": "https://cyberdefence24.pl/armia-i-sluzby/policja/polscy-policjanci-naucza-sie-obslugi-ai-inwestycja-w-nowoczesne-panstwo",
+      "date": "2026-06-22T12:30:10Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Będą szkolenia dotyczące m.in. cyberbezpieczeństwa i sztucznej inteligencji dla funkcjonariuszy polskiej Policji. Dzięki nowemu partnerstwu mundurowi zyskają możliwość podnoszenia swoich kompetencji."
+    },
+    {
+      "title": "Powstrzymaj swoją starą infrastrukturę przed przejmowaniem agentów AI",
+      "url": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
+      "date": "2026-06-22T11:58:00Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Na początku tego miesiąca przemawiałem na szczycie Gartner Security & Risk Management Summit na temat martwego punktu, którego większość programów bezpieczeństwa wciąż nie uwzględnia, a mianowicie tego, jak napastnicy obchodzą programy bezpieczeństwa AI, wykorzystując starszą infrastrukturę do porywania agentów AI. Wdrażanie sztucznej inteligencji postępuje szybciej, niż mogą to uwzględnić programy bezpieczeństwa. Około 71% organizacji pilotażowo wdraża agentów AI w swoich firmach."
+    },
+    {
+      "title": "Zmiana w Microsoft Teams. Platforma sprawdzi, czy na pewno przyszedłeś do biura",
+      "url": "https://cyberdefence24.pl/biznes-i-finanse/zmiana-w-microsoft-teams-platforma-sprawdzi-czy-na-pewno-przyszedles-do-biura",
+      "date": "2026-06-22T11:32:59Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Microsoft chce, by Teams nie tylko pokazywał, kto jest dostępny, ale także kto danego dnia pracuje z biura. Nowa funkcja w produktach amerykańskiej firmy ma automatycznie aktualizować lokalizację pracownika po połączeniu laptopa z firmową siecią Wi-Fi. Chodzi o ułatwienie organizacji pracy hybrydowej."
+    },
+    {
+      "title": "Wykładowca informatyki zarobi 14 tys. zł, ale dopiero po 20 latach. Prof. Sankowski bije na alarm",
+      "url": "https://cyberdefence24.pl/technologie/wykladowca-informatyki-zarobi-14-tys-zl-ale-dopiero-po-20-latach-prof-sankowski-bije-na-alarm",
+      "date": "2026-06-22T11:06:30Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Wkrótce w Polsce może zabraknąć ludzi do kształcenia informatyków – ostrzega prof. Piotr Sankowski. Według dyrektora Instytutu IDEAS, aby nauczać w szkołach wyższych, specjaliści muszą podejmować „ekstremalnie nieracjonalne decyzje”."
+    },
+    {
+      "title": "⚡ Cotygodniowe podsumowanie: błędy przeglądarki, zabójcy EDR, botnet telewizyjny, luka w OpenBSD, trojan dla Androida i nie tylko",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
+      "date": "2026-06-22T10:55:10Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Znowu poniedziałek. Lista zagrożeń z tego tygodnia wygląda boleśnie znajomo: nadużyte integracje, fałszywe narzędzia, zatrute strony internetowe, ekipy ransomware próbujące wyłączyć narzędzia zabezpieczające oraz mobilne złośliwe oprogramowanie wymagające zbyt dużej kontroli. Irytujące jest to, jak niewiele z tego wydaje się nowe."
+    },
+    {
+      "title": "OnyxC2 – infostealer “oferowany” jako profesjonalne narzędzie klasy enterprise",
+      "url": "https://sekurak.pl/onyxc2-infostealer-oferowany-jako-profesjonalne-narzedzie-klasy-enterprise/",
+      "date": "2026-06-22T09:30:50Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Jak donoszą badacze z Blackfog na początku 2026 r. zaobserwowano nowe zagrożenie – infostealer o nazwie OnyxC2. To co go wyróżnia to przede wszystkim profesjonalny model dystrybucji."
+    }
+  ],
+  "finance": [
+    {
+      "title": "Kancelaria Prezydenta odebrała odesłany order. Potrzebna kontrasygnata premiera",
+      "url": "https://www.bankier.pl/wiadomosc/Kancelaria-Prezydenta-odebrala-odeslany-order-Potrzebna-kontrasygnata-premiera-9155798.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-22T19:14:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Rzecznik prezydenta Rafał Leśkiewicz poinformował, że w poniedziałek Kancelaria Prezydenta odebrała Order Orła Białego odesłany przez prezydenta Wołodymyra Zełenskiego. By formalności stało się zadość, musi też nastąpić opublikowanie postanowienia prezydenta w tej sprawie z kontrasygnatą premiera - dodał."
+    },
+    {
+      "title": "Malowanie ścian 2026 - cena za m². Aktualny cennik usług malarskich - Forsal.pl",
+      "url": "https://forsal.pl/finanse/twoje-pieniadze/artykuly/9808229,malowanie-scian-2026---cena-za-m-aktualny-cennik-uslug-malarskich-cennik-malowania-scian-robocizna-warszawa-mazowieckie-robocizna.html",
+      "date": "2026-06-22T18:56:11Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Malowanie ścian 2026 - cena za m². Aktualny cennik usług malarskich Forsal.pl."
+    },
+    {
+      "title": "Między Fed, dolarem i geopolityką. Trzy siły oddziałują na rynek złota",
+      "url": "https://300gospodarka.pl/news/miedzy-fed-dolarem-i-geopolityka-trzy-sily-oddzialuja-na-rynek-zlota",
+      "date": "2026-06-22T18:53:33Z",
+      "source": "300Gospodarka",
+      "confirmed_by": 1,
+      "summary": "Amerykańska Rezerwa Federalna pozostawiła stopy procentowe bez zmian, ale debiut Kevina Warsha w roli przewodniczącego Fed przyniósł wyraźną zmianę tonu banku centralnego. Zdaniem Michała Teklińskiego, eksperta rynku złota Goldsaver i Goldenmark, inwestorzy muszą przygotować się na dłuższy okres wysokich stóp, a zaktualizowany wykres kropkowy Fed pokazuje, że część członków FOMC spodziewa się jeszcze podwyżek w 2026 roku. To ważne, bo decyzje Fed wpływają na dolara, obligacje, giełdy i ceny złota na całym świecie."
+    },
+    {
+      "title": "Możliwy Pat wyborczy i jego wpływ na giełdę. - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpisy-11903p308_mozliwy-pat-wyborczy-i-jego-wplyw-na-gielde.aspx",
+      "date": "2026-06-22T18:09:28Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Możliwy Pat wyborczy i jego wpływ na giełdę. stockwatch.pl."
+    },
+    {
+      "title": "Zakupowa drożyzna słabnie. Ceny żywności przestały napędzać podwyżki",
+      "url": "https://300gospodarka.pl/news/zakupowa-drozyzna-slabnie-ceny-zywnosci-przestaly-napedzac-podwyzki",
+      "date": "2026-06-22T18:09:13Z",
+      "source": "300Gospodarka",
+      "confirmed_by": 1,
+      "summary": "Ceny w sklepach nadal rosną, ale tempo podwyżek wyraźnie słabnie. W maju codzienne zakupy były droższe średnio o 3,4 proc. rok do roku, a same ceny żywności coraz częściej działały jak hamulec, a nie główny motor inflacji."
+    },
+    {
+      "title": "Bezprawne opłaty w szpitalach. Placówki z kontraktem NFZ wyciągały pieniądze od Polek",
+      "url": "https://www.bankier.pl/wiadomosc/Bezprawne-oplaty-w-szpitalach-Placowki-z-kontraktem-NFZ-wyciagaly-pieniadze-od-Polek-9155607.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-22T18:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Zbyt długo pracujący lekarze, bezprawne pobieranie opłat, za wysoki odsetek cesarskich cięć i chaos organizacyjny - to tylko część nieprawidłowości ujawnionych w najnowszym raporcie NIK. Jak podkreślono, mimo ogólnej poprawy w opiece okołoporodowej, na wielu oddziałach dochodzi do niedopuszczalnych praktyk."
+    },
+    {
+      "title": "Komunikat EBI Robs Group Logistic SA (robsgroup): Uprawomocnienie się postanowienia sądu o ogłoszeniu upadłości emitenta lub postanowienia o oddaleniu przez sąd wniosku o ogłoszenie upadłości emitenta - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/robsgroup,uprawomocnienie-sie-postanowienia-sadu-o-oglo-2026-06-22,ebi,20260622_195130_0000003810",
+      "date": "2026-06-22T17:51:30Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI Robs Group Logistic SA (robsgroup): Uprawomocnienie się postanowienia sądu o ogłoszeniu upadłości emitenta lub postanowienia o oddaleniu przez sąd wniosku o ogłoszenie upadłości emitenta stockwatch.pl."
+    },
+    {
+      "title": "Iran studzi nastroje po rozmowach z USA. „Nie było nowych zobowiązań ws. programu nuklearnego”",
+      "url": "https://www.bankier.pl/wiadomosc/Iran-studzi-nastroje-po-rozmowach-z-USA-Nie-bylo-nowych-zobowiazan-ws-programu-nuklearnego-9155762.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-22T17:51:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Podczas niedzielnych rozmów z delegacją USA w Szwajcarii nie negocjowaliśmy w sprawie programu nuklearnego Iranu, nie podjęliśmy żadnych nowych zobowiązań - oświadczył w poniedziałek rzecznik irańskiego resortu dyplomacji Esmaeil Baghaei."
+    },
+    {
+      "title": "Inne informacje - komunikat spółki Bridge Solutions Hub SA (bsh) - komunikat EBI - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/bsh,inne-informacje-2026-06-22,ebi,20260622_192723_0000003808",
+      "date": "2026-06-22T17:27:23Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Inne informacje - komunikat spółki Bridge Solutions Hub SA (bsh) - komunikat EBI stockwatch.pl."
+    },
+    {
+      "title": "Notowania OW20S263825 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/OW20S263825",
+      "date": "2026-06-22T16:55:38Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania OW20S263825 BiznesRadar."
+    },
+    {
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 22.06.2026",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-22-06-2026-7299673596557344a.html",
+      "date": "2026-06-22T16:49:31Z",
+      "source": "Money.pl",
+      "confirmed_by": 1,
+      "summary": "Kurs euro - 22.06.2026. W poniedziałek po południu za jedno euro (EUR) trzeba zapłacić 4.27576 zł."
+    },
+    {
+      "title": "Komunikat EBI Pyramid Games SA (pyramid): Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach) - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/pyramid,informacje-o-walnym-zgromadzeniu-tresc-uchw-2026-06-22,ebi,20260622_184808_0000003807",
+      "date": "2026-06-22T16:48:08Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI Pyramid Games SA (pyramid): Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach) stockwatch.pl."
+    },
+    {
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 22.06.2026",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-22-06-2026-7299673113958400a.html",
+      "date": "2026-06-22T16:47:33Z",
+      "source": "Money.pl",
+      "confirmed_by": 1,
+      "summary": "Kurs funta szterlinga - 22.06.2026. W poniedziałek po południu za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.95458 zł."
+    },
+    {
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 22.06.2026",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-22-06-2026-7299672501520416a.html",
+      "date": "2026-06-22T16:45:45Z",
+      "source": "Money.pl",
+      "confirmed_by": 1,
+      "summary": "Kurs dolara - 22.06.2026. W poniedziałek po południu za jednego dolara (USD) trzeba zapłacić 3.74167 zł."
+    },
+    {
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 22.06.2026",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-22-06-2026-7299672000047136a.html",
+      "date": "2026-06-22T16:43:07Z",
+      "source": "Money.pl",
+      "confirmed_by": 1,
+      "summary": "Kurs franka szwajcarskiego - 22.06.2026. W poniedziałek po południu za jednego franka (CHF) trzeba zapłacić 4.62308 zł."
+    },
+    {
+      "title": "Sukcesja znów ciąży Cyfrowemu Polsatowi. Flauta na GPW w ostatnim tygodniu przed wakacjami",
+      "url": "https://www.bankier.pl/wiadomosc/Sukcesja-znow-ciazy-Cyfrowemu-Polsatowi-Flauta-na-GPW-w-ostatnim-tygodniu-przed-wakacjami-9155710.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-22T16:31:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Poniedziałkowa sesja na warszawskim parkiecie upłynęła w mieszanych nastrojach. Wzrostowe otwarcie przerodziło się szybko w spadki, które okresowo kontrować starał się popyt. Brak obranego kierunku kojarzyć się może z wakacyjną flautą, co sugerować mogą także nieco niższe niż zwykle obroty."
+    },
+    {
+      "title": "Dwa śledztwa ws. Szpitala Południowego. 0,5 mln zł wróciło na konto lekarza",
+      "url": "https://www.bankier.pl/wiadomosc/Afera-w-Szpitalu-Poludniowym-Prokuratura-wszczyna-dwa-sledztwa-9155706.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-22T16:25:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "W poniedziałek wszczęte zostały dwa śledztwa w sprawie Szpitala Południowego. Pierwsze dotyczy oszustwa na kwotę ponad pół miliona złotych. Drugie nadużycia uprawnień przez funkcjonariusza publicznego – poinformował w poniedziałek rzecznik Prokuratury Okręgowej w Warszawie prok."
+    },
+    {
+      "title": "Kierowców brakuje, a zawód się starzeje. Branża szuka nowej ścieżki wejścia",
+      "url": "https://300gospodarka.pl/news/niedobor-kierowcow-branza-tsl-chce-zmienic-sciezki-wejscia",
+      "date": "2026-06-22T16:20:10Z",
+      "source": "300Gospodarka",
+      "confirmed_by": 1,
+      "summary": "Niedobór kierowców – to jedna z największych bolączek sektora TSL (transport, spedycja, logistyka). Stopa nieobsadzonych miejsc pracy w tym sektorze jest o 44 proc. wyższa niż średnia dla całej polskiej gospodarki – wynika z raportu Volvo 4Poland „Trendbook."
+    },
+    {
+      "title": "Komunikat EBI Rocca SA (rocca): Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/rocca,informacje-o-walnym-zgromadzeniu-informacje-2026-06-22,ebi,20260622_181327_0000003806",
+      "date": "2026-06-22T16:13:27Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI Rocca SA (rocca): Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały stockwatch.pl."
+    },
+    {
+      "title": "7 trendów, które mogą wspierać rozwój ROBYG po IPO",
+      "url": "https://strefainwestorow.pl/debiut-ipo/robyg-analiza-trendy-ipo-debiut-gpw",
+      "date": "2026-06-22T15:18:21Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "7 trendów, które mogą wspierać rozwój ROBYG po IPO Piotr Kwestarz pon., 22.06.2026 Kanał Strefa Inwestorów IPO Robyg inwestowanie w nieruchomości nieruchomości Treść ROBYG wraca na warszawską giełdę, a jego perspektywy dalszego wzrostu wspiera kilka czynników, od strukturalnego deficytu mieszkań i wciąż niskiej bazy porównawczej polskiego rynku na tle UE, przez odbicie kredytów hipotecznych, po atuty samej spółki: skalę i rozpoznawalność marki, bank ziemi skupiony w najbardziej płynnych i dynamicznie rozwijających się aglomeracjach unikalną umiejętność przekształcania trudnych terenów w osiedla oraz zintegrowany model one-stop shop. Oto siedem powodów, dla których deweloper ma przestrzeń do zwiększania skali biznesu.1. Strukturalny deficyt mieszkań i trwały popytPolski rynek mieszkaniowy mierzy się z trwałym, strukturalnym niedoborem lokali."
+    },
+    {
+      "title": "TRANSPOL [TRN] - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-512068_TRANSPOL.aspx",
+      "date": "2026-06-22T15:00:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "TRANSPOL [TRN] stockwatch.pl."
+    },
+    {
+      "title": "EUROSNACK [ECK] - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-512096_EUROSNACK.aspx",
+      "date": "2026-06-22T15:00:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "EUROSNACK [ECK] stockwatch.pl."
+    },
+    {
+      "title": "Zdecydowany spadek cen w Gołębiewskim w Pobierowie. Jest tylko jeden warunek",
+      "url": "https://www.bankier.pl/wiadomosc/Zdecydowany-spadek-cen-w-Golebiewskim-w-Pobierowie-Jest-tylko-jeden-warunek-9155447.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-22T14:30:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Tydzień nad Bałtykiem za 26 tys. zł - takie ceny można zobaczyć na rachunku wystawionym przez Hotel Gołebiewski w Pobierowie. Jak się jednak okazuje - zbliża się niebawem korekta cen w tym największym hotelu na polskim wybrzeżu."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/program-marte",
+      "date": "2026-06-22T14:29:13Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    }
+  ],
+  "critical_alerts": [
+    "Eksplozja w gazowni w Katarze zabija co najmniej 13 osób i rani 66 osób"
+  ],
+  "map_features": [
+    {
+      "lat": 48.38,
+      "lng": 31.18,
+      "type": "conflict",
+      "region": "Ukraina",
+      "description": "Szef MON Władysław Kosiniak-Kamysz ocenił, że brak zaproszenia dla prezydenta Karola Nawrockiego na Konferencję na rzecz Odbudowy Ukrainy nie oznacza faux-pas ani zgrzytu.",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32871206,nawrocki-bez-zaproszenia-na-konferencje-o-ukrainie-pan-prezydent.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882"
+    },
+    {
+      "lat": 31.5,
+      "lng": 34.47,
+      "type": "conflict",
+      "region": "Strefa Gazy / Izrael",
+      "description": "Wybuch miał miejsce w kluczowym miejscu wydobycia gazu ziemnego.",
+      "url": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html"
+    },
+    {
+      "lat": 32.43,
+      "lng": 53.69,
+      "type": "conflict",
+      "region": "Iran",
+      "description": "Wiceprezydent USA twierdzi, że po pierwszej rundzie rozmów między USA a Iranem poczyniono ogromne postępy.",
+      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "lat": 19.75,
+      "lng": 96.1,
+      "type": "conflict",
+      "region": "Mjanma",
+      "description": "Z nowego raportu ONZ wynika, że ​​w ciągu sześciu miesięcy ubiegłego roku wśród 702 cywilów zginęło 153 dzieci.",
+      "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "lat": 48.88,
+      "lng": 31.68,
+      "type": "cyber",
+      "region": "Ukraina",
+      "description": "TrophyLab jest złe dla Vlada, ponieważ straty na polu bitwy ujawniają ich sekrety.",
+      "url": "https://www.theregister.com/offbeat/2026/06/22/ukraine-puts-its-russian-war-trophies-online-for-allies-to-pick-apart/5259688"
+    }
+  ],
+  "instability": [
+    {
+      "name": "Strefa Gazy / Izrael",
+      "score": 100
+    },
+    {
+      "name": "Iran",
+      "score": 100
+    },
+    {
+      "name": "Ukraina",
+      "score": 33
+    }
+  ],
+  "investment_picks": [
+    {
+      "sector": "Sektor obronny",
+      "instrument": "np. ETF iShares Global Aerospace & Defense (ITA)"
+    },
+    {
+      "sector": "Złoto i obligacje skarbowe",
+      "instrument": "np. ETF na złoto (GLD) lub obligacje skarbowe"
+    },
+    {
+      "sector": "Sektor agro",
+      "instrument": "np. ETF Invesco DB Agriculture (DBA)"
+    }
+  ],
+  "sp500_trend": {
+    "dates": [
+      "2025-12-22",
+      "2025-12-23",
+      "2025-12-24",
+      "2025-12-26",
+      "2025-12-29",
+      "2025-12-30",
+      "2025-12-31",
+      "2026-01-02",
+      "2026-01-05",
+      "2026-01-06",
+      "2026-01-07",
+      "2026-01-08",
+      "2026-01-09",
+      "2026-01-12",
+      "2026-01-13",
+      "2026-01-14",
+      "2026-01-15",
+      "2026-01-16",
+      "2026-01-20",
+      "2026-01-21",
+      "2026-01-22",
+      "2026-01-23",
+      "2026-01-26",
+      "2026-01-27",
+      "2026-01-28",
+      "2026-01-29",
+      "2026-01-30",
+      "2026-02-02",
+      "2026-02-03",
+      "2026-02-04",
+      "2026-02-05",
+      "2026-02-06",
+      "2026-02-09",
+      "2026-02-10",
+      "2026-02-11",
+      "2026-02-12",
+      "2026-02-13",
+      "2026-02-17",
+      "2026-02-18",
+      "2026-02-19",
+      "2026-02-20",
+      "2026-02-23",
+      "2026-02-24",
+      "2026-02-25",
+      "2026-02-26",
+      "2026-02-27",
+      "2026-03-02",
+      "2026-03-03",
+      "2026-03-04",
+      "2026-03-05",
+      "2026-03-06",
+      "2026-03-09",
+      "2026-03-10",
+      "2026-03-11",
+      "2026-03-12",
+      "2026-03-13",
+      "2026-03-16",
+      "2026-03-17",
+      "2026-03-18",
+      "2026-03-19",
+      "2026-03-20",
+      "2026-03-23",
+      "2026-03-24",
+      "2026-03-25",
+      "2026-03-26",
+      "2026-03-27",
+      "2026-03-30",
+      "2026-03-31",
+      "2026-04-01",
+      "2026-04-02",
+      "2026-04-06",
+      "2026-04-07",
+      "2026-04-08",
+      "2026-04-09",
+      "2026-04-10",
+      "2026-04-13",
+      "2026-04-14",
+      "2026-04-15",
+      "2026-04-16",
+      "2026-04-17",
+      "2026-04-20",
+      "2026-04-21",
+      "2026-04-22",
+      "2026-04-23",
+      "2026-04-24",
+      "2026-04-27",
+      "2026-04-28",
+      "2026-04-29",
+      "2026-04-30",
+      "2026-05-01",
+      "2026-05-04",
+      "2026-05-05",
+      "2026-05-06",
+      "2026-05-07",
+      "2026-05-08",
+      "2026-05-11",
+      "2026-05-12",
+      "2026-05-13",
+      "2026-05-14",
+      "2026-05-15",
+      "2026-05-18",
+      "2026-05-19",
+      "2026-05-20",
+      "2026-05-21",
+      "2026-05-22",
+      "2026-05-26",
+      "2026-05-27",
+      "2026-05-28",
+      "2026-05-29",
+      "2026-06-01",
+      "2026-06-02",
+      "2026-06-03",
+      "2026-06-04",
+      "2026-06-05",
+      "2026-06-08",
+      "2026-06-09",
+      "2026-06-10",
+      "2026-06-11",
+      "2026-06-12",
+      "2026-06-15",
+      "2026-06-16",
+      "2026-06-17",
+      "2026-06-18",
+      "2026-06-22"
+    ],
+    "prices": [
+      6878.49,
+      6909.79,
+      6932.05,
+      6929.94,
+      6905.74,
+      6896.24,
+      6845.5,
+      6858.47,
+      6902.05,
+      6944.82,
+      6920.93,
+      6921.46,
+      6966.28,
+      6977.27,
+      6963.74,
+      6926.6,
+      6944.47,
+      6940.01,
+      6796.86,
+      6875.62,
+      6913.35,
+      6915.61,
+      6950.23,
+      6978.6,
+      6978.03,
+      6969.01,
+      6939.03,
+      6976.44,
+      6917.81,
+      6882.72,
+      6798.4,
+      6932.3,
+      6964.82,
+      6941.81,
+      6941.47,
+      6832.76,
+      6836.17,
+      6843.22,
+      6881.31,
+      6861.89,
+      6909.51,
+      6837.75,
+      6890.07,
+      6946.13,
+      6908.86,
+      6878.88,
+      6881.62,
+      6816.63,
+      6869.5,
+      6830.71,
+      6740.02,
+      6795.99,
+      6781.48,
+      6775.8,
+      6672.62,
+      6632.19,
+      6699.38,
+      6716.09,
+      6624.7,
+      6606.49,
+      6506.48,
+      6581.0,
+      6556.37,
+      6591.9,
+      6477.16,
+      6368.85,
+      6343.72,
+      6528.52,
+      6575.32,
+      6582.69,
+      6611.83,
+      6616.85,
+      6782.81,
+      6824.66,
+      6816.89,
+      6886.24,
+      6967.38,
+      7022.95,
+      7041.28,
+      7126.06,
+      7109.14,
+      7064.01,
+      7137.9,
+      7108.4,
+      7165.08,
+      7173.91,
+      7138.8,
+      7135.95,
+      7209.01,
+      7230.12,
+      7200.75,
+      7259.22,
+      7365.12,
+      7337.11,
+      7398.93,
+      7412.84,
+      7400.96,
+      7444.25,
+      7501.24,
+      7408.5,
+      7403.05,
+      7353.61,
+      7432.97,
+      7445.72,
+      7473.47,
+      7519.12,
+      7520.36,
+      7563.63,
+      7580.06,
+      7599.96,
+      7609.78,
+      7553.68,
+      7584.31,
+      7383.74,
+      7405.73,
+      7386.65,
+      7266.99,
+      7394.3,
+      7431.46,
+      7554.29,
+      7511.35,
+      7420.1,
+      7500.58,
+      7464.32
+    ]
+  }
 }

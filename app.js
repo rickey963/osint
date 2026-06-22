@@ -3,83 +3,100 @@
  */
 
 const DATA_URL = 'data.json';
-const REFRESH_INTERVAL = 120000; // Refresh every 2 minutes (120,000 ms)
+const REFRESH_INTERVAL = 60000; // 60s - dashboard refreshes itself, no reload needed
+const FRESH_THRESHOLD_MINUTES = 30;
+
+let map, sp500Chart;
+let mapMarkers = [];
+let activeLayers = { conflict: true, cyber: true, disaster: true, gps_jamming: true };
+
+const LAYER_COLORS = {
+    conflict: '#ef4444',
+    cyber: '#a855f7',
+    disaster: '#f59e0b',
+    gps_jamming: '#eab308',
+};
 
 document.addEventListener('DOMContentLoaded', () => {
     initMap();
     initChart();
+    initLayerToggles();
     loadData();
     setInterval(loadData, REFRESH_INTERVAL);
 });
 
+function initLayerToggles() {
+    document.querySelectorAll('#map-layers input[type="checkbox"]').forEach((box) => {
+        box.addEventListener('change', () => {
+            activeLayers[box.dataset.layer] = box.checked;
+            renderMapMarkers();
+        });
+    });
+}
+
+function isFresh(dateStr) {
+    const d = new Date(dateStr);
+    if (isNaN(d)) return false;
+    const diffMinutes = (Date.now() - d.getTime()) / 60000;
+    return diffMinutes >= 0 && diffMinutes <= FRESH_THRESHOLD_MINUTES;
+}
+
 async function loadData() {
     try {
-        const response = await fetch(DATA_URL);
+        const response = await fetch(`${DATA_URL}?t=${Date.now()}`, { cache: 'no-store' });
         if (!response.ok) throw new Error('Failed to load data');
         const data = await response.json();
 
-        // 1. Update Last Updated Timestamp
         const timeEl = document.getElementById('update-time');
-        if (timeEl) timeEl.textContent = data.last_updated;
-
-        // 2. Update Critical Alert Banner
-        const alertText = document.getElementById('array-alert-text') || document.getElementById('critical-alert-text');
-        if (alertText) {
-            if (data.critical_alerts && data.critical_alerts.length > 0) {
-                alertText.textContent = data.critical_alerts[0];
-            } else {
-                alertText.textContent = "Sytuacja stabilna - brak nowych alarmów";
-            }
+        if (timeEl) {
+            const d = new Date(data.last_updated);
+            timeEl.textContent = isNaN(d) ? data.last_updated : d.toLocaleString('pl-PL', { timeZone: 'Europe/Warsaw' });
         }
 
-        // 3. Render News Sections
+        const alertText = document.getElementById('critical-alert-text');
+        if (alertText) {
+            alertText.textContent = (data.critical_alerts && data.critical_alerts[0])
+                || 'Sytuacja stabilna - brak nowych alarmów';
+        }
+
         renderNews('news-pl', data.poland);
 
         const worldContainer = document.getElementById('news-world');
         if (worldContainer) {
             worldContainer.innerHTML = '';
-
-            // Subcategory: Bezpieczeństwo
-            const secHeader = document.createElement('h4');
-            secHeader.className = 'text-[10px] font-bold uppercase text-red-500 mb-1';
-            secHeader.textContent = 'Bezpieczeństwo';
-            worldContainer.appendChild(secHeader);
-
-            const secDiv = document.createElement('div');
-            secDiv.className = 'space-y-3 mb-4';
-            renderNewsToElement(secDiv, data.world_security);
-            worldContainer.appendChild(secDiv);
-
-            // Subcategory: Polityka
-            const polHeader = document.createElement('h4');
-            polHeader.className = 'text-[10px] font-bold uppercase text-blue-500 mb-1';
-            polHeader.textContent = 'Polityka';
-            worldContainer.appendChild(polHeader);
-
-            const polDiv = document.createElement('div');
-            polDiv.className = 'space-y-3';
-            renderNewsToElement(polDiv, data.world_politics);
-            worldContainer.appendChild(polDiv);
+            worldContainer.appendChild(buildSubcategoryBlock('Bezpieczeństwo', 'text-red-500', data.world_security));
+            worldContainer.appendChild(buildSubcategoryBlock('Polityka', 'text-blue-500', data.world_politics));
         }
 
         renderNews('news-tech', data.technology);
         renderNews('news-cyber', data.cybersecurity);
         renderNews('news-finance', data.finance);
 
-        // 4. Render Instability List
         renderInstability(data.instability);
+        renderInvestmentPicks(data.investment_picks);
 
-        // 5. Update Map Layers
-        updateMap(data.map_features);
+        mapMarkers = data.map_features || [];
+        renderMapMarkers();
 
-        // 6. Update Chart
-        if (data.sp50_trend) {
-            updateChart(data.sp50_trend);
-        }
+        if (data.sp500_trend) updateChart(data.sp500_trend);
 
     } catch (err) {
         console.error('Error loading dashboard data:', err);
     }
+}
+
+function buildSubcategoryBlock(label, colorClass, articles) {
+    const wrapper = document.createElement('div');
+    wrapper.className = 'mb-4';
+    const header = document.createElement('h4');
+    header.className = `text-[10px] font-bold uppercase ${colorClass} mb-1`;
+    header.textContent = label;
+    wrapper.appendChild(header);
+    const div = document.createElement('div');
+    div.className = 'space-y-3';
+    renderNewsToElement(div, articles);
+    wrapper.appendChild(div);
+    return wrapper;
 }
 
 function renderNews(containerId, articles) {
@@ -91,13 +108,17 @@ function renderNews(containerId, articles) {
 
 function renderNewsToElement(container, articles) {
     if (!container || !articles) return;
-    articles.forEach(article => {
+    articles.forEach((article) => {
+        const fresh = isFresh(article.date);
         const card = document.createElement('div');
-        card.className = 'p-3 bg-slate-900/50 border border-slate-800 rounded-lg hover:border-red-500 transition-all group';
+        card.className = `news-card${fresh ? ' new-article' : ''}`;
+        const confirmedBadge = article.confirmed_by > 1
+            ? `<span class="confirmed-badge">Potwierdzone przez ${article.confirmed_by} źródła</span>`
+            : '';
         card.innerHTML = `
-            <h3 class="text-sm font-bold text-slate-200 group-hover:text-red-400 leading-tight mb-1">${article.title}</h3>
-            <p class="text-[11px] text-slate-500 line-clamp-3 leading-relaxed">${article.snippet}</p>
-            <a href="${article.url}" target="_blank" class="text-[9px] uppercase font-black text-red-600 mt-2 inline-block opacity-70 group-hover:opacity-100">Source &rarr;</a>
+            <h3 class="news-title">${article.title}${confirmedBadge}</h3>
+            <p class="news-snippet">${article.summary}</p>
+            <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="news-link">${article.source || 'Źródło'} &rarr;</a>
         `;
         container.appendChild(card);
     });
@@ -105,11 +126,30 @@ function renderNewsToElement(container, articles) {
 
 function renderInstability(countries) {
     const container = document.getElementById('country-instability');
-    if (!container || !countries) return;
-    container.innerHTML = countries.map(c => `
-        <div class="flex justify-between items-center text-xs py-1 border-b border-slate-800/50 last:border-0">
+    if (!container) return;
+    if (!countries || countries.length === 0) {
+        container.innerHTML = '<p class="text-slate-500 text-xs">Brak danych o niestabilności.</p>';
+        return;
+    }
+    container.innerHTML = countries.map((c) => `
+        <div class="instability-item">
             <span class="text-slate-400">${c.name}</span>
-            <span class="${c.score > 70 ? 'text-red-500 font-bold' : c.score > 40 ? 'text-orange-500' : 'text-green-500'}">${c.score}%</span>
+            <span class="${c.score > 70 ? 'risk-high' : c.score > 40 ? 'risk-med' : 'risk-low'}">${c.score}%</span>
+        </div>
+    `).join('');
+}
+
+function renderInvestmentPicks(picks) {
+    const container = document.getElementById('investment-picks');
+    if (!container) return;
+    if (!picks || picks.length === 0) {
+        container.innerHTML = '<p class="text-slate-500 text-xs">Brak sygnałów inwestycyjnych w bieżących wydarzeniach.</p>';
+        return;
+    }
+    container.innerHTML = picks.map((p) => `
+        <div class="border-b border-slate-800/50 last:border-0 pb-2">
+            <div class="text-emerald-400 font-bold text-xs">${p.sector}</div>
+            <div class="text-slate-500 text-[11px]">${p.instrument}</div>
         </div>
     `).join('');
 }
@@ -121,22 +161,24 @@ function initMap() {
     }).addTo(map);
 }
 
-function updateMap(features) {
-    if (!map || !features) return;
+function renderMapMarkers() {
+    if (!map) return;
     map.eachLayer((layer) => {
         if (layer instanceof L.CircleMarker) map.removeLayer(layer);
     });
-    features.forEach(f => {
-        const color = f.type === 'war' ? '#ef4444' : '#f59e0b';
+    mapMarkers.forEach((f) => {
+        if (!activeLayers[f.type]) return;
+        const color = LAYER_COLORS[f.type] || '#ef4444';
         const marker = L.circleMarker([f.lat, f.lng], {
             radius: 8,
             fillColor: color,
-            color: "#fff",
+            color: '#fff',
             weight: 1,
             opacity: 1,
-            fillOpacity: 0.8
+            fillOpacity: 0.85,
         }).addTo(map);
-        marker.bindPopup(`<b>${f.type.toUpperCase()}</b><br>${f.description}`);
+        const link = f.url ? `<br><a href="${f.url}" target="_blank" rel="noopener noreferrer" style="color:${color}">Czytaj &rarr;</a>` : '';
+        marker.bindPopup(`<b>${f.region || f.type.toUpperCase()}</b><br>${f.description}${link}`);
     });
 }
 
@@ -150,8 +192,7 @@ function initChart() {
 }
 
 function updateChart(trend) {
-    if (!sp500Chart || !trend) return;
-    spint_v = sp500Chart; // placeholder for structure check
+    if (!sp500Chart || !trend || !trend.dates || !trend.dates.length) return;
     sp500Chart.data.labels = trend.dates;
     sp500Chart.data.datasets[0].data = trend.prices;
     sp500Chart.update();
