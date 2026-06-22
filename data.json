@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T22:42:56Z",
+  "last_updated": "2026-06-22T22:47:55Z",
   "poland": [
     {
       "title": "Konkurs Wyobraź Sobie: dwudziestolatek, który utrzymuje rodzinę ciałem",
@@ -554,6 +554,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Atak phishingowy na WhatsApp wykorzystuje fałszywe dokumenty biznesowe do włamywania się do komputerów",
+      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+      "date": "2026-06-22T22:42:21Z",
+      "source": "BleepingComputer",
+      "confirmed_by": 1,
+      "summary": "Trwająca kampania złośliwego oprogramowania skierowana jest do użytkowników WhatsApp w wielu krajach za pomocą zwodniczych wiadomości przesyłających pliki VBScript, co prowadzi do zdalnego dostępu do systemu. [...]."
+    },
+    {
       "title": "Bot JaredFromSubway MEV zhakowany w związku z kradzieżą kryptowalut o wartości 15 milionów dolarów",
       "url": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
       "date": "2026-06-22T21:52:18Z",
@@ -736,14 +744,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Na początku tego miesiąca przemawiałem na szczycie Gartner Security & Risk Management Summit na temat martwego punktu, którego większość programów bezpieczeństwa wciąż nie uwzględnia, a mianowicie tego, jak napastnicy obchodzą programy bezpieczeństwa AI, wykorzystując starszą infrastrukturę do porywania agentów AI. Wdrażanie sztucznej inteligencji postępuje szybciej, niż mogą to uwzględnić programy bezpieczeństwa. Około 71% organizacji pilotażowo wdraża agentów AI w swoich firmach."
-    },
-    {
-      "title": "Zmiana w Microsoft Teams. Platforma sprawdzi, czy na pewno przyszedłeś do biura",
-      "url": "https://cyberdefence24.pl/biznes-i-finanse/zmiana-w-microsoft-teams-platforma-sprawdzi-czy-na-pewno-przyszedles-do-biura",
-      "date": "2026-06-22T11:32:59Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Microsoft chce, by Teams nie tylko pokazywał, kto jest dostępny, ale także kto danego dnia pracuje z biura. Nowa funkcja w produktach amerykańskiej firmy ma automatycznie aktualizować lokalizację pracownika po połączeniu laptopa z firmową siecią Wi-Fi. Chodzi o ułatwienie organizacji pracy hybrydowej."
     }
   ],
   "finance": [
