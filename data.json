@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T21:29:27Z",
+  "last_updated": "2026-06-22T21:36:47Z",
   "poland": [
     {
       "title": "Konkurs Wyobraź Sobie: dwudziestolatek, który utrzymuje rodzinę ciałem",
@@ -294,20 +294,20 @@
   ],
   "world_politics": [
     {
-      "title": "Aktualności na żywo z Bliskiego Wschodu: Stany Zjednoczone łagodzą sankcje na irańską ropę naftową, ale postęp w kwestiach nuklearnych jest niejasny",
-      "url": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon",
-      "date": "2026-06-22T20:57:34Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Wiceprezydent JD Vance powiedział, że Iran zgodził się zaprosić do kraju inspektorów nuklearnych ONZ, ale strona irańska stwierdziła, że ​​„nie podjęła żadnych nowych zobowiązań”. Kontrole były ograniczone, odkąd prezydent Trump zerwał umowę za czasów Obamy w 2018 roku."
-    },
-    {
       "title": "Keir Starmer rezygnuje ze stanowiska premiera Wielkiej Brytanii",
       "url": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html",
-      "date": "2026-06-22T19:59:15Z",
+      "date": "2026-06-22T21:31:10Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Jego odejście w nadchodzących tygodniach otwiera drogę Andy’emu Burnhamowi, popularnemu burmistrzowi Partii Pracy, do zostania siódmym premierem kraju w ciągu dekady."
+    },
+    {
+      "title": "Aktualności na żywo z Bliskiego Wschodu: Stany Zjednoczone łagodzą sankcje na irańską ropę naftową, ale postęp w kwestiach nuklearnych jest niejasny",
+      "url": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon",
+      "date": "2026-06-22T21:27:42Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Wiceprezydent JD Vance powiedział, że Iran zgodził się zaprosić do kraju inspektorów nuklearnych ONZ, ale strona irańska stwierdziła, że ​​„nie podjęła żadnych nowych zobowiązań”. Kontrole były ograniczone, odkąd prezydent Trump zerwał umowę za czasów Obamy w 2018 roku."
     },
     {
       "title": "Władze twierdzą, że podejrzany o strzelaninę nie żyje po zamordowaniu funkcjonariusza policji w Montrealu",
@@ -360,6 +360,14 @@
   ],
   "technology": [
     {
+      "title": "Prezydent Trump podpisuje dwa rozporządzenia wykonawcze mające na celu przyspieszenie rozwoju zaawansowanych komputerów kwantowych i złagodzenie zagrożeń dla bezpieczeństwa, jakie stwarzają (Amrith Ramkumar/Wall Street Journal)",
+      "url": "https://www.techmeme.com/260622/p39#a260622p39",
+      "date": "2026-06-22T21:30:02Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Amrith Ramkumar / Wall Street Journal: Prezydent Trump podpisuje dwa zarządzenia mające na celu przyspieszenie rozwoju zaawansowanych komputerów kwantowych i złagodzenie związanych z nimi zagrożeń bezpieczeństwa &mdash; Administracja wyznaczyła nowy, ambitny cel na rok 2028 dotyczący systemu umożliwiającego prowadzenie badań naukowych."
+    },
+    {
       "title": "Źródła: Meta udostępniła wewnętrznie dane z programu śledzenia pracowników, które mają pomóc w szkoleniu modeli sztucznej inteligencji, w tym pełne podpowiedzi i prywatne rozmowy (przewodowe)",
       "url": "https://www.techmeme.com/260622/p38#a260622p38",
       "date": "2026-06-22T21:05:05Z",
@@ -392,12 +400,12 @@
       "summary": "WSJ stwierdza, że ​​na sklonowanej stronie internetowej postawiono „wygrane” zakłady, które wiązały się ze stratą pieniędzy."
     },
     {
-      "title": "Walt Disney Company odnosi największe sukcesy w zarabianiu na ludzkiej nostalgii [audio]",
+      "title": "Firma Walt Disney Company odnosi największe sukcesy w zarabianiu na ludzkiej nostalgii [audio]",
       "url": "https://www.acquired.fm/episodes/the-walt-disney-company",
       "date": "2026-06-22T20:09:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.acquired.fm/episodes/the-walt-disney-company Adres URL komentarzy: https://news.ycombinator.com/item?id=48635409 Punkty: 30 # Komentarze: 17."
+      "summary": "Adres URL artykułu: https://www.acquired.fm/episodes/the-walt-disney-company Adres URL komentarzy: https://news.ycombinator.com/item?id=48635409 Punkty: 33 # Komentarze: 17."
     },
     {
       "title": "Praca i oprogramowanie są popierdolone",
@@ -405,7 +413,7 @@
       "date": "2026-06-22T19:47:52Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://urflow.bearblog.dev/jobs-and-software-is-fucked/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48635112 Punkty: 194 # Komentarze: 154."
+      "summary": "Adres URL artykułu: https://urflow.bearblog.dev/jobs-and-software-is-fucked/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48635112 Punkty: 205 # Komentarze: 167."
     },
     {
       "title": "Sakana AI uruchamia Fugu, wieloagentowy system orkiestracji dostępny za pośrednictwem pojedynczego modelu API, twierdząc, że Fugu Ultra dorównuje Fable i Mythos w testach porównawczych (Carl Franzen/VentureBeat)",
@@ -429,7 +437,7 @@
       "date": "2026-06-22T19:22:37Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://arun.is/blog/japan-symbols/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48634803 Punkty: 24 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://arun.is/blog/japan-symbols/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48634803 Punkty: 30 # Komentarze: 6."
     },
     {
       "title": "Kolumbia Brytyjska, strefy czasowe i Postgres",
@@ -437,7 +445,7 @@
       "date": "2026-06-22T19:21:00Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes Adres URL komentarzy: https://news.ycombinator.com/item?id=48634787 Punkty: 51 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes Adres URL komentarzy: https://news.ycombinator.com/item?id=48634787 Punkty: 54 # Komentarze: 6."
     },
     {
       "title": "Optocam Zero: aparat cyfrowy oparty na Pi Zero, wykonany przy użyciu gotowych komponentów",
@@ -445,7 +453,7 @@
       "date": "2026-06-22T19:19:55Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/dorukkumkumoglu/optocamzero Adres URL komentarzy: https://news.ycombinator.com/item?id=48634778 Punkty: 35 # Komentarze: 2."
+      "summary": "Adres URL artykułu: https://github.com/dorukkumkumoglu/optocamzero Adres URL komentarzy: https://news.ycombinator.com/item?id=48634778 Punkty: 37 # Komentarze: 3."
     },
     {
       "title": "Chcą złamać monopol Steama. Ciekawe, czy przekona was ten argument",
@@ -469,7 +477,7 @@
       "date": "2026-06-22T19:13:46Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://ipvm.com/reports/police-chiefs-track Adres URL komentarzy: https://news.ycombinator.com/item?id=48634694 Punkty: 99 # Komentarze: 9."
+      "summary": "Adres URL artykułu: https://ipvm.com/reports/police-chiefs-track Adres URL komentarzy: https://news.ycombinator.com/item?id=48634694 Punkty: 123 # Komentarze: 16."
     },
     {
       "title": "Kanada planuje budowę do 10 nowych reaktorów jądrowych w ciągu najbliższych 15 lat",
@@ -477,7 +485,7 @@
       "date": "2026-06-22T19:06:48Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.cbc.ca/news/politics/federal-nuklear-strategy-9.7244509 Adres URL komentarzy: https://news.ycombinator.com/item?id=48634585 Punkty: 86 # Komentarze: 22."
+      "summary": "Adres URL artykułu: https://www.cbc.ca/news/politics/federal-nuklear-strategy-9.7244509 Adres URL komentarzy: https://news.ycombinator.com/item?id=48634585 Punkty: 105 # Komentarze: 28."
     },
     {
       "title": "Steam Machine firmy Valve zostanie wydany 29 czerwca za 1049 dolarów, ale prawdopodobnie nie będzie można jeszcze jej kupić",
@@ -542,14 +550,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Sean Hollister / The Verge: Recenzja Valve Steam Machine: znacznie mniejsza niż PS5, zaskakująco płynna i łatwa w nawigacji za pomocą każdego nowoczesnego gamepada, ale bardzo droga i wymaga ręcznej konfiguracji &mdash; Mój pierwszy dzień z Steam Machine był bałaganem. Zamiast cieszyć się bezproblemową konsolą do gier, spędziłem godziny na rozwiązywaniu problemów z czymś, co wydawało się wybrednym komputerem."
-    },
-    {
-      "title": "Valve twierdzi, że Steam Machine, jego nowy komputer przystosowany do salonu, będzie dostępny w cenach od 1049 dolarów za podstawowy model 512 GB i trafi do sprzedaży od 29 czerwca (Jay Peters/The Verge)",
-      "url": "https://www.techmeme.com/260622/p33#a260622p33",
-      "date": "2026-06-22T17:20:02Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Jay Peters / The Verge: Valve twierdzi, że Steam Machine, nowy komputer stacjonarny do użytku w salonie, będzie dostępny w cenach od 1049 dolarów za podstawowy model 512 GB, a sprzedaż rozpocznie się 29 czerwca &mdash; Już dziś możesz zgłosić swoje zainteresowanie, a pierwsze e-maile z informacją o zakupie zostaną wysłane 29 czerwca."
     }
   ],
   "cybersecurity": [
@@ -575,7 +575,7 @@
       "date": "2026-06-22T20:02:52Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Twórcy przeglądarek Chrome, Edge i Firefox wspierają ochronę przed oszustwami przed botami, zwaną prywatnymi tokenami kontroli dostępu."
+      "summary": "Twórcy przeglądarek Chrome, Edge i Firefox wspierają ochronę przed botami, zwaną prywatnymi tokenami kontroli dostępu."
     },
     {
       "title": "W kampanii FortiBleed wykorzystano niestandardowy sniffer FortiGate do kradzieży danych uwierzytelniających",
@@ -647,7 +647,7 @@
       "date": "2026-06-22T16:30:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Nie można nie zauważyć tutaj bardzo wyraźnego przykładu problemu potrójnych ograniczeń w działaniu."
+      "summary": "Nie można nie zauważyć tutaj bardzo wyraźnego przykładu problemu potrójnego ograniczenia w działaniu."
     },
     {
       "title": "Badacze szczegółowo opisują błędy DifyTap w Dify, które mogą ujawnić czaty AI pomiędzy najemcami",
