@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-23T12:43:25Z",
+  "last_updated": "2026-06-23T12:46:15Z",
   "poland": [
+    {
+      "title": "Heineken ma nowego szefa. Po raz pierwszy w historii to osoba z zewnątrz",
+      "url": "https://www.rp.pl/przemysl-spozywczy/art44681191-heineken-ma-nowego-szefa-po-raz-pierwszy-w-historii-to-osoba-z-zewnatrz",
+      "date": "2026-06-23T12:42:36Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "We wtorek Heineken powołał Rafaela Oliveirę na nowego prezesa i dyrektora generalnego. To pierwszy przypadek w historii, kiedy holenderski gigant piwowarski powierzył najwyższe stanowisko osobie spoza struktur firmy."
+    },
     {
       "title": "Litwa: Możemy podjąć się roli mediatora w sporze Polski i Ukrainy",
       "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32872601,litwa-mozemy-podjac-sie-roli-mediatora-w-sporze-polski-i-ukrainy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -96,14 +104,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Premier Donald Tusk przed wtorkowym posiedzeniem rządu poinformował, że w Polsce powstanie trzeci już pływający terminal LNG i jednocześnie drugi w Zatoce Gdańskiej. Zbuduje go Gaz-System — państwowa spółka strategiczna odpowiedzialna za przesył gazu ziemnego w Polsce."
-    },
-    {
-      "title": "Biały Dom uderzył w AI. Eksperci: takich modeli nie da się już zatrzymać",
-      "url": "https://cyfrowa.rp.pl/ai/art44664611-bialy-dom-uderzyl-w-ai-eksperci-takich-modeli-nie-da-sie-juz-zatrzymac",
-      "date": "2026-06-23T11:50:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Amerykańska blokada najnowszych modeli firmy Anthropic pokazuje, że sztuczna inteligencja przestaje być traktowana jak zwykłe oprogramowanie. Staje się zasobem strategicznym, którego rozwój i dostęp mogą stać się przedmiotem kontroli państwa."
     },
     {
       "title": "USA łagodzą sankcje wobec Iranu. Trump ostrzega: \"Zrobię to, co będę musiał\"",
@@ -281,7 +281,7 @@
       "date": "2026-06-22T17:49:55Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Miejskiej policji grozi śledztwo w sprawie 16 funkcjonariuszy oskarżonych o nieproporcjonalne atakowanie mieszkańców czarnoskórych i arabskich. Burmistrz Montrealu wezwał do zaprzestania wyrywkowych kontroli policyjnych, ponieważ miejska policja zmaga się z wewnętrznym dochodzeniem w sprawie rasizmu i profilowania rasowego prowadzonego przez 16 funkcjonariuszy. Burmistrz Soraya Martinez Ferrada powiedziała w zeszłym tygodniu reporterom, że jej mąż, który jest czarny, był wielokrotnie zatrzymywany przez policję podczas jazdy. Kontynuuj czytanie..."
+      "summary": "Miejskiej policji grozi dochodzenie w sprawie 16 funkcjonariuszy oskarżonych o nieproporcjonalne atakowanie mieszkańców czarnoskórych i arabskich. Burmistrz Montrealu wezwał do zaprzestania wyrywkowych kontroli policyjnych, ponieważ miejska policja zmaga się z wewnętrznym dochodzeniem w sprawie rasizmu i profilowania rasowego prowadzonego przez 16 funkcjonariuszy. Burmistrz Soraya Martinez Ferrada powiedziała w zeszłym tygodniu reporterom, że jej mąż, który jest czarny, był wielokrotnie zatrzymywany przez policję podczas jazdy. Kontynuuj czytanie..."
     },
     {
       "title": "Kanadyjski personel medyczny potępia „okrutne oszustwo” po oszukańczym e-mailu obiecującym płatny dzień wolny",
@@ -355,7 +355,7 @@
       "date": "2026-06-23T09:00:49Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Prezydent Trump twierdzi, że Wenezuela pod amerykańskim nadzorem „nigdy nie zarobiła takich pieniędzy, jakie zarabia teraz”. Jednak nowe dochody z ropy nie pomagają zwykłym Wenezuelczykom i wydaje się, że złość narasta."
+      "summary": "Prezydent Trump twierdzi, że Wenezuela pod amerykańskim nadzorem „nigdy nie zarobiła takich pieniędzy, jakie zarabia teraz”. Jednak nowe dochody z ropy nie pomagają zwykłym Wenezuelczykom i wydaje się, że gniew narasta."
     },
     {
       "title": "Podczas meczu Pucharu Świata w piłce nożnej pełno jest palestyńskich emblematów",
@@ -429,7 +429,7 @@
       "date": "2026-06-23T11:40:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Juro Osawa / Informacje: ByteDance przedstawia Seedance 2.5 w Pekinie, twierdząc, że model wideo AI może generować 30-sekundowe klipy z maksymalnie 50 materiałów referencyjnych, w porównaniu z 12 w przypadku Seedance 2.0 &mdash; We wtorek na konferencji w Pekinie ByteDance zaprezentowało Seedance 2.5, nowy model generowania wideo AI."
+      "summary": "Juro Osawa / Informacje: ByteDance prezentuje Seedance 2.5 w Pekinie, twierdząc, że model wideo AI może generować 30-sekundowe klipy z maksymalnie 50 materiałów referencyjnych, w porównaniu z 12 w przypadku Seedance 2.0 &mdash; We wtorek na konferencji w Pekinie ByteDance zaprezentowało Seedance 2.5, nowy model generowania wideo AI."
     },
     {
       "title": "Nieograniczone OCR: jednorazowe analizowanie w długim horyzoncie",
@@ -562,7 +562,7 @@
   ],
   "cybersecurity": [
     {
-      "title": "Microsoft Access wreszcie uwalnia się od ograniczeń w zakresie 22-calowych rozmiarów",
+      "title": "Microsoft Access w końcu uwalnia się od ograniczeń w zakresie 22-calowych rozmiarów",
       "url": "https://www.theregister.com/databases/2026/06/23/microsoft-access-finally-breaks-free-of-its-22-inch-form-limit/5260005",
       "date": "2026-06-23T12:36:00Z",
       "source": "The Register",
@@ -575,7 +575,7 @@
       "date": "2026-06-23T12:12:20Z",
       "source": "BleepingComputer",
       "confirmed_by": 1,
-      "summary": "Ataki typu phishing, BEC i przejmowanie kont w dalszym ciągu przytłaczają zespoły ds. bezpieczeństwa alertami i dochodzeniami. W tym seminarium internetowym dowiesz się, w jaki sposób behawioralna sztuczna inteligencja może pomóc w automatyzacji procesów wykrywania i reagowania, zmniejszając zmęczenie alertami i poprawiając efektywność operacyjną. [...]."
+      "summary": "Ataki typu phishing, BEC i przejmowanie kont w dalszym ciągu przytłaczają zespoły ds. bezpieczeństwa alertami i dochodzeniami. W tym seminarium internetowym dowiesz się, w jaki sposób behawioralna sztuczna inteligencja może pomóc w automatyzacji procesów wykrywania i reagowania, zmniejszając zmęczenie alertami i poprawiając wydajność operacyjną. [...]."
     },
     {
       "title": "AWS debiutuje Lambda MicroVM z czasem działania do 8 godzin",
@@ -615,7 +615,7 @@
       "date": "2026-06-23T10:45:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Retrokomputerowa zabawa dla nostalgicznych z pierwszą (i ostatnią) wersją korzystającą z Motif zamiast GTK."
+      "summary": "Retrokomputerowa zabawa dla nostalgików z pierwszą (i ostatnią) wersją korzystającą z Motif zamiast GTK."
     },
     {
       "title": "Brytyjczycy nadal uważają, że Big Tech nie płaci wystarczających podatków",
@@ -746,7 +746,7 @@
       "summary": "Wiele wtyczek WordPress firmy ShapedPlugin zostało naruszonych w wyniku ataku na łańcuch dostaw po tym, jak nieznanym podmiotom zagrażającym udało się manipulować oficjalnymi kanałami wydań i wypchnąć kod backdoora. „Napastnicy włamali się do procesu kompilacji i dystrybucji dostawcy, wstrzykując kod backdoora do wydań wtyczek Pro rozpowszechnianych za pośrednictwem oficjalnych licencjonowanych kanałów aktualizacji” – stwierdził Wordfence w analizie."
     },
     {
-      "title": "Microsoft twierdzi, że Windows 11 26H2 będzie już wkrótce dostępny, szczegóły procesu aktualizacji",
+      "title": "Microsoft twierdzi, że wkrótce pojawi się system Windows 11 26H2, szczegóły procesu aktualizacji",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
       "date": "2026-06-22T17:41:31Z",
       "source": "BleepingComputer",
@@ -788,14 +788,6 @@
       "summary": "W Zatoce Gdańskiej powstanie drugi pływający terminal LNG (FSRU), będzie to przedsięwzięcie komercyjne, bez wsparcia z budżetu państwa - poinformował premier Donald Tusk."
     },
     {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/darmowe-badania",
-      "date": "2026-06-23T10:40:27Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
-    },
-    {
       "title": "Mężczyźni mogą skorzystać z bezpłatnych badań. Jest jeden warunek - Forsal.pl",
       "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11266505,darmowe-badania-dla-mezczyzn-z-okazji-dnia-ojca-specjalna-akcja-nfz.html",
       "date": "2026-06-23T10:39:47Z",
@@ -818,6 +810,14 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Przełomowy test Kizilelmy. Bezzałogowy myśliwiec wykonał autonomiczny lot z M-346 Forsal.pl."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/swietoszow",
+      "date": "2026-06-23T10:01:28Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Z tego urlopu może skorzystać tylko ojciec. Jest płatny i można go podzielić nawet na 5 części - Forsal.pl",
@@ -893,7 +893,7 @@
     },
     {
       "title": "Zbiórka na stworzenie leku na syndrom PUS3 - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-512111_Zbiorka-na-stworzenie-leku-na-syndrom-PUS3.aspx",
+      "url": "https://www.stockwatch.pl/forum/wpisy-12591_Zbiorka-na-stworzenie-leku-na-syndrom-PUS3.aspx",
       "date": "2026-06-23T05:12:34Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
