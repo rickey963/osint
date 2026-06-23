@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T00:09:12Z",
+  "last_updated": "2026-06-23T00:16:30Z",
   "poland": [
     {
       "title": "Był pierwszym dzieckiem z kartonów z mlekiem. Jest decyzja sądu ws. zaginięcia Etana Patza",
@@ -217,7 +217,7 @@
       "date": "2026-06-22T17:49:55Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Miejskiej policji grozi dochodzenie w sprawie 16 funkcjonariuszy oskarżonych o nieproporcjonalne atakowanie mieszkańców czarnoskórych i arabskich. Burmistrz Montrealu wezwał do zaprzestania wyrywkowych kontroli policyjnych, ponieważ miejska policja zmaga się z wewnętrznym dochodzeniem w sprawie rasizmu i profilowania rasowego prowadzonego przez 16 funkcjonariuszy. Burmistrz Soraya Martinez Ferrada powiedziała w zeszłym tygodniu reporterom, że jej mąż, który jest czarny, był wielokrotnie zatrzymywany przez policję podczas jazdy. Kontynuuj czytanie..."
+      "summary": "Miejskiej policji grozi śledztwo w sprawie 16 funkcjonariuszy oskarżonych o nieproporcjonalne atakowanie mieszkańców czarnoskórych i arabskich. Burmistrz Montrealu wezwał do zaprzestania wyrywkowych kontroli policyjnych, ponieważ miejska policja zmaga się z wewnętrznym dochodzeniem w sprawie rasizmu i profilowania rasowego prowadzonego przez 16 funkcjonariuszy. Burmistrz Soraya Martinez Ferrada powiedziała w zeszłym tygodniu reporterom, że jej mąż, który jest czarny, był wielokrotnie zatrzymywany przez policję podczas jazdy. Kontynuuj czytanie..."
     },
     {
       "title": "Kanadyjski personel medyczny potępia „okrutne oszustwo” po oszukańczym e-mailu obiecującym płatny dzień wolny",
@@ -342,7 +342,7 @@
       "summary": "Podczas gdy losy Kijowa polepszyły się w czasie wojny pod innymi względami, siły Moskwy zrzucają bomby i drony na miasta „pasa fortec”, takie jak Słowiańsk i Kramatorsk."
     },
     {
-      "title": "Kryzys paliwowy na Kubie powoduje zastój szkół",
+      "title": "Kryzys paliwowy na Kubie powoduje zastój w szkołach",
       "url": "https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html",
       "date": "2026-06-22T14:29:39Z",
       "source": "The New York Times",
@@ -578,12 +578,44 @@
       "summary": "Nowo odkryta luka w FFmpeg o nazwie „PixelSmash” może zostać wykorzystana do zdalnego wykonania kodu na serwerach Jellyfin pod pewnymi warunkami, a także może wywołać stan odmowy usługi w aplikacjach takich jak Kodi, Emby, Nextcloud, PhotoPrism i OBS Studio. [...]."
     },
     {
+      "title": "Teksas atakuje ogromne centrum danych Microsoft i 20 lat emisji z turbin gazowych",
+      "url": "https://www.theregister.com/on-prem/2026/06/22/texas-lassoes-massive-microsoft-datacenter-and-20-years-of-gas-turbine-emissions/5259764",
+      "date": "2026-06-22T20:31:10Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Powietrze staje się brązowe, gdy do miast przybywają małe stodoły… głęboko w sercu Teksasu."
+    },
+    {
+      "title": "Cloudflare współpracuje z dużymi przeglądarkami, aby pomóc witrynom internetowym odróżnić powitanie od niepożądanych gości",
+      "url": "https://www.theregister.com/software/2026/06/22/cloudflare-teams-up-with-big-browsers-to-help-websites-tell-welcome-from-unwelcome-visitors/5259782",
+      "date": "2026-06-22T20:02:52Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Twórcy przeglądarek Chrome, Edge i Firefox wspierają ochronę przed oszustwami przed botami, zwaną prywatnymi tokenami kontroli dostępu."
+    },
+    {
       "title": "W kampanii FortiBleed wykorzystano niestandardowy sniffer FortiGate do kradzieży danych uwierzytelniających",
       "url": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
       "date": "2026-06-22T20:01:02Z",
       "source": "BleepingComputer",
       "confirmed_by": 1,
       "summary": "Firma zajmująca się bezpieczeństwem SOCRadar twierdzi, że zakrojona na szeroką skalę kampania FortiBleed skierowana do urządzeń Fortinet FortiGate wykorzystywała niestandardowe sniffery do zbierania sekretów uwierzytelniania z zaatakowanych zapór ogniowych i kradzieży danych uwierzytelniających. [...]."
+    },
+    {
+      "title": "Sklepy ochroniarskie wśród „setek” ofiar włamań do Klue",
+      "url": "https://www.theregister.com/cyber-crime/2026/06/22/security-shops-among-the-hundreds-of-klue-hack-victims/5259743",
+      "date": "2026-06-22T19:50:54Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Jako kolejna ekipa wyłudzająca Icarus wykorzystuje integracje powiązane z Salesforce."
+    },
+    {
+      "title": "Nvidia skupia całą uwagę na superkomputerach do celów badań naukowych",
+      "url": "https://www.theregister.com/systems/2026/06/22/nvidia-gets-all-agentic-about-supercomputing-for-scientific-research/5259553",
+      "date": "2026-06-22T18:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Niestrudzeni agenci sztucznej inteligencji mogą pomóc naukowcom w badaniach, których nie potrafią sami ludzie, twierdzi gigant GPU."
     },
     {
       "title": "Wtyczki ShapedPlugin WordPress Pro backdoorem w ataku na łańcuch dostaw",
@@ -594,7 +626,15 @@
       "summary": "Wiele wtyczek WordPress firmy ShapedPlugin zostało naruszonych w wyniku ataku na łańcuch dostaw po tym, jak nieznanym podmiotom zagrażającym udało się manipulować oficjalnymi kanałami wydań i wypchnąć kod backdoora. „Napastnicy włamali się do procesu kompilacji i dystrybucji dostawcy, wstrzykując kod backdoora do wydań wtyczek Pro rozpowszechnianych za pośrednictwem oficjalnych licencjonowanych kanałów aktualizacji” – stwierdził Wordfence w analizie."
     },
     {
-      "title": "Microsoft twierdzi, że wkrótce pojawi się system Windows 11 26H2, szczegóły procesu aktualizacji",
+      "title": "Baza danych, która nie chciała umrzeć: jak Postgres przetrwał swoich twórców",
+      "url": "https://www.theregister.com/databases/2026/06/22/the-database-that-refused-to-die-how-postgres-survived-its-own-creators/5259716",
+      "date": "2026-06-22T17:43:36Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Od akademickiego odrzucenia do podłoża chmurowego."
+    },
+    {
+      "title": "Microsoft twierdzi, że Windows 11 26H2 będzie już wkrótce dostępny, szczegóły procesu aktualizacji",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
       "date": "2026-06-22T17:41:31Z",
       "source": "BleepingComputer",
@@ -610,12 +650,36 @@
       "summary": "Łańcuch luk nazwany AutoJack w interfejsie AutoGen Studio firmy Microsoft służący do prototypowania agentów AI może pozwolić atakującym zmanipulować agenta w celu wykonania dowolnych poleceń w jego systemie hosta, po prostu odwiedzając złośliwą stronę internetową. [...]."
     },
     {
+      "title": "Ukraina udostępnia w Internecie swoje rosyjskie trofea wojenne, aby sojusznicy mogli je rozebrać",
+      "url": "https://www.theregister.com/offbeat/2026/06/22/ukraine-puts-its-russian-war-trophies-online-for-allies-to-pick-apart/5259688",
+      "date": "2026-06-22T17:19:33Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "TrophyLab jest zły dla Vlada, ponieważ straty na polu bitwy ujawniają ich sekrety."
+    },
+    {
+      "title": "Zainspirowana muzycznymi kartkami okolicznościowymi, DARPA wymaga małych, tanich, samomodyfikujących się systemów",
+      "url": "https://www.theregister.com/offbeat/2026/06/22/inspired-by-musical-greeting-cards-darpa-demands-tiny-cheap-self-modifying-systems/5259594",
+      "date": "2026-06-22T16:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Nie można nie zauważyć tutaj bardzo wyraźnego przykładu problemu potrójnych ograniczeń w działaniu."
+    },
+    {
       "title": "Badacze szczegółowo opisują błędy DifyTap w Dify, które mogą ujawnić czaty AI pomiędzy najemcami",
       "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
       "date": "2026-06-22T16:13:28Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Badacze zajmujący się cyberbezpieczeństwem ujawnili szczegóły czterech luk w zabezpieczeniach Dify, platformy agentowego przepływu pracy typu open source z ponad 146 000 gwiazdek GitHub, która może umożliwić atakującym potajemne odczytywanie konwersji sztucznej inteligencji (AI) z aplikacji innych klientów bez konieczności uwierzytelniania. Luki otrzymały wspólną nazwę kodową DifyTap od firmy Zafran Security."
+    },
+    {
+      "title": "Kryzys pamięci jest tak poważny, że nawet ceny pamięci RAM w wersji retro idą na Księżyc",
+      "url": "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627",
+      "date": "2026-06-22T16:07:38Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Niektóre firmy produkujące sprzęt przeprojektowują produkty w celu wykorzystania starszych komponentów DDR2 i DDR3."
     },
     {
       "title": "29-letni błąd serwera proxy Squid „Squidbleed” może powodować wyciek żądań HTTP w postaci zwykłego tekstu",
@@ -680,70 +744,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Na początku tego miesiąca przemawiałem na szczycie Gartner Security & Risk Management Summit na temat martwego punktu, którego większość programów bezpieczeństwa wciąż nie uwzględnia, a mianowicie tego, jak napastnicy obchodzą programy bezpieczeństwa AI, wykorzystując starszą infrastrukturę do porywania agentów AI. Wdrażanie sztucznej inteligencji postępuje szybciej, niż mogą to uwzględnić programy bezpieczeństwa. Około 71% organizacji pilotażowo wdraża agentów AI w swoich firmach."
-    },
-    {
-      "title": "Zmiana w Microsoft Teams. Platforma sprawdzi, czy na pewno przyszedłeś do biura",
-      "url": "https://cyberdefence24.pl/biznes-i-finanse/zmiana-w-microsoft-teams-platforma-sprawdzi-czy-na-pewno-przyszedles-do-biura",
-      "date": "2026-06-22T11:32:59Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Microsoft chce, by Teams nie tylko pokazywał, kto jest dostępny, ale także kto danego dnia pracuje z biura. Nowa funkcja w produktach amerykańskiej firmy ma automatycznie aktualizować lokalizację pracownika po połączeniu laptopa z firmową siecią Wi-Fi. Chodzi o ułatwienie organizacji pracy hybrydowej."
-    },
-    {
-      "title": "Wykładowca informatyki zarobi 14 tys. zł, ale dopiero po 20 latach. Prof. Sankowski bije na alarm",
-      "url": "https://cyberdefence24.pl/technologie/wykladowca-informatyki-zarobi-14-tys-zl-ale-dopiero-po-20-latach-prof-sankowski-bije-na-alarm",
-      "date": "2026-06-22T11:06:30Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Wkrótce w Polsce może zabraknąć ludzi do kształcenia informatyków – ostrzega prof. Piotr Sankowski. Według dyrektora Instytutu IDEAS, aby nauczać w szkołach wyższych, specjaliści muszą podejmować „ekstremalnie nieracjonalne decyzje”."
-    },
-    {
-      "title": "⚡ Cotygodniowe podsumowanie: błędy przeglądarki, zabójcy EDR, botnet telewizyjny, luka w OpenBSD, trojan dla Androida i nie tylko",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-      "date": "2026-06-22T10:55:10Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Znowu poniedziałek. Lista zagrożeń z tego tygodnia wygląda boleśnie znajomo: nadużyte integracje, fałszywe narzędzia, zatrute strony internetowe, ekipy ransomware próbujące wyłączyć narzędzia zabezpieczające oraz mobilne złośliwe oprogramowanie wymagające zbyt dużej kontroli. Irytujące jest to, jak niewiele z tego wydaje się nowe."
-    },
-    {
-      "title": "OnyxC2 – infostealer “oferowany” jako profesjonalne narzędzie klasy enterprise",
-      "url": "https://sekurak.pl/onyxc2-infostealer-oferowany-jako-profesjonalne-narzedzie-klasy-enterprise/",
-      "date": "2026-06-22T09:30:50Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Jak donoszą badacze z Blackfog na początku 2026 r. zaobserwowano nowe zagrożenie – infostealer o nazwie OnyxC2. To co go wyróżnia to przede wszystkim profesjonalny model dystrybucji."
-    },
-    {
-      "title": "Polscy żołnierze w zagranicznej misji. Wiemy, co robili w Armenii",
-      "url": "https://cyberdefence24.pl/armia-i-sluzby/wojsko-polskie/polscy-zolnierze-w-zagranicznej-misji-wiemy-co-robili-w-armenii",
-      "date": "2026-06-22T09:14:22Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Polscy żołnierze ruszyli na ratunek zagranicznym wyborom. To była jedna z największych tego typu międzynarodowych operacji. Jak wynika ze stanowiska dowództwa, misja zakończyła się powodzeniem – cele osiągnięto."
-    },
-    {
-      "title": "Kanadyjska agencja szpiegowska wykorzystała pierwszy w swoim rodzaju nakaz czyszczenia urządzeń zainfekowanych botnetem",
-      "url": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-      "date": "2026-06-22T09:11:37Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Kanadyjska służba szpiegowska uzyskała pozwolenie sędziego na dotarcie do zainfekowanych serwerów, domowych routerów i sprzętu IoT znajdującego się na kanadyjskiej ziemi i zneutralizowanie dwóch botnetów zarządzanych za granicą. 15 czerwca Trybunał Federalny opublikował publiczną wersję orzeczenia. Jest to pierwszy raz, kiedy Kanadyjska Służba Wywiadu Bezpieczeństwa wykorzystała w ten sposób swoje uprawnienia w postaci nakazu ograniczenia zagrożeń."
-    },
-    {
-      "title": "Nie musisz dopłacać za spokój",
-      "url": "https://niebezpiecznik.pl/post/nie-musisz-doplacac-za-spokoj/",
-      "date": "2026-06-22T08:56:11Z",
-      "source": "Niebezpiecznik",
-      "confirmed_by": 1,
-      "summary": "Czy to normalne, że czytnik linii papilarnych znika z podstawowych konfiguracji urządzenia i jest sztucznie zarezerwowany tylko dla droższych modeli laptopa? Analizujemy rynkowe absurdy i pokazujemy, jak architektura Secured-core PC, układy TPM 2.0 oraz wbudowane funkcje Windows 11 Pro chronią dane małej firmy bez ukrytych dopłat. Wymogi dyrektywy NIS2 oraz unijnego rozporządzenia RODO nie zawierają [&#8230;]."
-    },
-    {
-      "title": "Tysiące osób kupiło dostęp do fałszywej wojskowej aplikacji. Służby w operacji specjalnej",
-      "url": "https://cyberdefence24.pl/armia-i-sluzby/wojna-w-ukrainie/tysiace-osob-kupilo-dostep-do-falszywej-wojskowej-aplikacji-sluzby-w-operacji-specjalnej",
-      "date": "2026-06-22T08:43:37Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Ukraińskie służby rozbiły grupę cyberprzestępców, która stworzyła idealną kopię rządowej aplikacji wojskowej Reserve+. Ponad 4000 osób zapłaciło oszustom za dostęp do apki, która umożliwiała stworzenie fałszywych dokumentów i uniknięcie mobilizacji. Sprawcom grozi teraz surowa kara."
     }
   ],
   "finance": [
@@ -786,14 +786,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Formacje analizy technicznej OW20U263550 BiznesRadar."
-    },
-    {
-      "title": "Komunikat EBI Ecnology Group SA (ecnology): Nałożenie na emitenta kary pieniężnej lub innego środka dyscyplinującego przez Organizatora Alternatywnego Systemu lub nałożeniu sankcji administracyjnej - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/ecnology,nalozenie-na-emitenta-kary-pienieznej-lub-inn-2026-06-22,ebi,20260622_215530_0000003814",
-      "date": "2026-06-22T19:55:30Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat EBI Ecnology Group SA (ecnology): Nałożenie na emitenta kary pieniężnej lub innego środka dyscyplinującego przez Organizatora Alternatywnego Systemu lub nałożeniu sankcji administracyjnej stockwatch.pl."
     },
     {
       "title": "Solorz i Kulka bez absolutorium w Cyfrowym Polsacie",
@@ -938,6 +930,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "MEDYCZNE [MDG] stockwatch.pl."
+    },
+    {
+      "title": "TRANSPOL [TRN] - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-512068_TRANSPOL.aspx",
+      "date": "2026-06-22T15:00:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "TRANSPOL [TRN] stockwatch.pl."
     }
   ],
   "critical_alerts": [
@@ -975,6 +975,14 @@
       "region": "Mjanma",
       "description": "Z nowego raportu ONZ wynika, że ​​w ciągu sześciu miesięcy ubiegłego roku wśród 702 cywilów zginęło 153 dzieci.",
       "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "lat": 48.88,
+      "lng": 31.68,
+      "type": "cyber",
+      "region": "Ukraina",
+      "description": "TrophyLab jest zły dla Vlada, ponieważ straty na polu bitwy ujawniają ich sekrety.",
+      "url": "https://www.theregister.com/offbeat/2026/06/22/ukraine-puts-its-russian-war-trophies-online-for-allies-to-pick-apart/5259688"
     }
   ],
   "instability": [
