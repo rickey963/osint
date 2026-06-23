@@ -110,9 +110,30 @@ def _translate(text, target='pl'):
         return text
 
 
+FEED_USER_AGENT = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+                    '(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36')
+
+
 def fetch_source(name, url, kind):
+    feed = None
+    last_err = None
+    # A couple of sources (e.g. Benchmark.pl) intermittently reset the
+    # connection - feedparser's default user agent looks bot-like enough that
+    # some sites' edge protection drops it, and the occasional reset is also
+    # just network flakiness. One retry with a browser-like UA covers both.
+    for attempt in range(2):
+        try:
+            feed = feedparser.parse(url, agent=FEED_USER_AGENT)
+            if feed.entries or not feed.get('bozo_exception'):
+                break
+            last_err = feed.get('bozo_exception')
+        except Exception as e:
+            last_err = e
+            feed = None
+    if feed is None:
+        logger.error(f"Failed to fetch {name} ({url}): {last_err}")
+        return []
     try:
-        feed = feedparser.parse(url)
         items = []
         for entry in feed.entries[:MAX_ARTICLES_PER_SOURCE]:
             title = _clean_html(entry.get('title', ''))

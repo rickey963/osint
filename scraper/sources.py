@@ -14,11 +14,25 @@ are used. Each entry is (display_name, feed_url, kind):
     query technique already proven in the medint project.
 """
 
-GOOGLE_NEWS_BASE = "https://news.google.com/rss/search?q={query}&hl=pl&gl=PL&ceid=PL:pl"
+GOOGLE_NEWS_BASE = "https://news.google.com/rss/search?q={query}{locale}"
+GOOGLE_NEWS_LOCALE = "&hl=pl&gl=PL&ceid=PL:pl"
 
 
-def _google_news_url(domain, when="1d"):
-    return GOOGLE_NEWS_BASE.format(query=f"site:{domain}+when:{when}")
+def _google_news_url(domain, when="3d", locale=True):
+    # 3d (not 1d) so low-volume domains reliably return candidates -
+    # fetch_data.py's own FRESHNESS_WINDOW_HOURS=72 already enforces the
+    # real cutoff, so widening this just gives the dedupe/freshness filter
+    # more to work with instead of starving it.
+    #
+    # locale=False for global wire services (Reuters, AP): confirmed by
+    # testing that Google News' Polish edition (hl=pl&gl=PL) returns zero
+    # results for site:reuters.com / site:apnews.com no matter the window -
+    # those domains simply aren't indexed under the PL edition, only under
+    # the unscoped/global one.
+    return GOOGLE_NEWS_BASE.format(
+        query=f"site:{domain}+when:{when}",
+        locale=GOOGLE_NEWS_LOCALE if locale else "",
+    )
 
 
 # --- 1. Polska -------------------------------------------------------------
@@ -38,12 +52,12 @@ SOURCES_POLSKA = [
 SOURCES_SWIAT_BEZPIECZENSTWO = [
     ("BBC News", "https://feeds.bbci.co.uk/news/world/rss.xml", "rss"),
     ("The Guardian", "https://www.theguardian.com/world/rss", "rss"),
-    ("Reuters", _google_news_url("reuters.com"), "google_news"),
+    ("Reuters", _google_news_url("reuters.com", locale=False), "google_news"),
 ]
 
 SOURCES_SWIAT_POLITYKA = [
     ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "rss"),
-    ("Associated Press", _google_news_url("apnews.com"), "google_news"),
+    ("Associated Press", _google_news_url("apnews.com", locale=False), "google_news"),
 ]
 
 # --- 3. Technologie ----------------------------------------------------------
