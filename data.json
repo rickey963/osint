@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T23:36:36Z",
+  "last_updated": "2026-06-23T23:41:26Z",
   "poland": [
     {
       "title": "Tajlandia już wie, że nie może liczyć na wszystkich turystów. Chyba, że chodzi o Polaków",
@@ -534,20 +534,20 @@
       "summary": "Maluszki z kawiorem za 75 dolarów. Piwo warte dziennej wypłaty. Oto menu Pucharu Świata — i ceny AP News."
     },
     {
-      "title": "Ukraina i Rosja wymieniają śmiertelne ataki, w wyniku których zginęło co najmniej jedno dziecko – AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-drones-civilians-killed-22e6de568e5f8e5917e4ab6b67c96381",
-      "date": "2026-06-22T18:06:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Ukraina i Rosja wymieniają śmiertelne ataki, w wyniku których zginęło co najmniej jedno dziecko AP News."
-    },
-    {
       "title": "Izraelskie ataki wstrząsają starożytnym nadmorskim miastem Libanu – AP News",
       "url": "https://apnews.com/article/lebanon-tyre-israel-hezbollah-war-history-45e1b0e6ec22abc6b60bb9be0738eefb",
       "date": "2026-06-22T06:07:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Izraelskie ataki opuszczają starożytne nadmorskie miasto Libanu wstrząśnięte AP News."
+    },
+    {
+      "title": "Ukraińskie ataki skłoniły okupowany przez Rosję Krym do wstrzymania sprzedaży cywilnej benzyny – AP News",
+      "url": "https://apnews.com/article/russia-ukraine-was-crimea-gas-fuel-1bd4d0980a353fa0f8221040215e6435",
+      "date": "2026-06-21T09:43:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Ukraińskie ataki skłoniły okupowany przez Rosję Krym do wstrzymania sprzedaży cywilnej benzyny AP News."
     }
   ],
   "technology": [
@@ -810,12 +810,28 @@
       "summary": "W oświadczeniu dla BleepingComputer firma Tata Electronics potwierdziła, że ​​stała się celem cyberataku, który dotknął część jej infrastruktury IT. [...]."
     },
     {
+      "title": "OpenAI Codex bombarduje dyski SSD niepotrzebnymi operacjami zapisu, co kosztuje miliony",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/23/openai-codex-bombards-ssds-with-needless-write-operations-costing-millions/5260402",
+      "date": "2026-06-23T20:50:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Niezdarna implementacja rejestrowania powoduje utratę danych bez względu na koszty."
+    },
+    {
       "title": "Aktualizacja systemu Windows 11 KB5095093 wprowadza nową funkcję przywracania do punktu w czasie",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
       "date": "2026-06-23T20:22:21Z",
       "source": "BleepingComputer",
       "confirmed_by": 1,
       "summary": "Firma Microsoft wydała aktualizację zbiorczą KB5095093 Preview dla systemu Windows 11 24H2 i 25H2, która naprawia liczne błędy i rozpoczyna wdrażanie nowych funkcji, w tym nowej funkcji przywracania do punktu w czasie. [...]."
+    },
+    {
+      "title": "Anthropic ponownie wyobraża sobie Claude'a w Slacku jako wścibskiego, zawsze aktywnego współpracownika-agenta AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/23/anthropic-reimagines-claude-in-slack-as-nosy-always-on-agentic-ai-coworker/5260422",
+      "date": "2026-06-23T20:16:34Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Aplikacja Claude in Slack jest martwa, niech żyje Claude in Slack."
     },
     {
       "title": "Firma z branży technologii medycznych Xolis doświadczyła naruszenia bezpieczeństwa danych, które dotknęło 1,4 miliona osób",
@@ -842,12 +858,36 @@
       "summary": "Szacuje się, że rosyjskojęzyczny broker początkowego dostępu (IAB), kierujący się korzyściami finansowymi, stoi za zakrojoną na szeroką skalę operację gromadzenia danych uwierzytelniających znaną jako FortiBleed, która objęła ponad 430 000 zapór sieciowych FortiGate na całym świecie. Kampania, aktywna od lutego 2026 r., obejmuje zbieranie list danych uwierzytelniających, wyszukiwanie ujawnionych usług, wymuszanie dostępu do systemów i wdrażanie „szytych na miarę”."
     },
     {
+      "title": "Mythos odkrywa „Squidbleed” – wyciek pamięci niewykryty od czasów Clintona",
+      "url": "https://www.theregister.com/security/2026/06/23/mythos-discovers-squidbleed-a-memory-leak-thats-gone-undetected-since-clinton-era/5260367",
+      "date": "2026-06-23T18:07:44Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Plus więcej nowości z przeszłości: NetWare, FTP i HTTP."
+    },
+    {
+      "title": "Siły Kosmiczne rozpoczynają (udając) wojnę orbitalną po rekordowo szybkim wystrzeleniu Rocket Lab",
+      "url": "https://www.theregister.com/offbeat/2026/06/23/space-force-goes-to-pretend-orbital-war-following-record-fast-rocket-lab-launch/5260277",
+      "date": "2026-06-23T16:23:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Niecałe 17 godzin po otrzymaniu rozkazów Rocket Lab umieściło Pioneera na orbicie w celu wykonania manewrów bliskiego zasięgu z satelitą Jackal należącym do True Anomaly."
+    },
+    {
       "title": "Hakerzy Scattered Spider przyznają się do winy już w pierwszym dniu procesu",
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "date": "2026-06-23T16:12:49Z",
       "source": "Krebs on Security",
       "confirmed_by": 1,
       "summary": "W tym tygodniu dwóch mężczyzn przyznało się w Wielkiej Brytanii do zarzutów karnych wynikających z cyberataku z sierpnia 2024 r., który sparaliżował Transport for London, podmiot odpowiedzialny za sieć transportu publicznego w obszarze Wielkiego Londynu. Duet był kluczowymi członkami płodnej grupy cyberprzestępczej znanej jako Scattered Spider, a ich przyznanie się do winy nastąpiło pierwszego dnia spodziewanego sześciotygodniowego procesu."
+    },
+    {
+      "title": "O2 dołącza do wyłączenia 2G w Wielkiej Brytanii z datą rozpoczęcia latem 2029 r",
+      "url": "https://www.theregister.com/networks/2026/06/23/o2-joins-uk-2g-switch-off-with-summer-2029-start-date/5260297",
+      "date": "2026-06-23T15:56:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Nie chodzi tylko o stare telefony – wiele inteligentnych liczników i alarmów teleopieki nadal korzysta ze starożytnej technologii."
     },
     {
       "title": "Członkowie Scattered Spider przyznają się do włamania do Transport for London",
@@ -890,12 +930,28 @@
       "summary": "Eksperci cyberbezpieczeństwa znaleźli podatność w systemie operacyjnym iOS znajdującym się na niektórych iPhone’ach. Odkrycie umożliwia wykorzystanie jej w ramach jailbreak’a lub przez oprogramowanie szpiegowskie. Problem użytkowników polega na tym, że luki nie da się załatać; urządzenia nie da się jednak zhakować zdalnie."
     },
     {
+      "title": "Valve otwiera zamówienia przedpremierowe na Steam Machine z loterią kolejkową i wysokimi cenami w obliczu nacisku AI",
+      "url": "https://www.theregister.com/personal-tech/2026/06/23/valve-opens-steam-machine-pre-orders-with-queue-lottery-and-hefty-prices-amid-ai-squeeze/5260242",
+      "date": "2026-06-23T14:46:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Alternatywnie możesz zainstalować SteamOS 3.8 na swoim sprzęcie z procesorem AMD."
+    },
+    {
       "title": "GitHub aktualizuje działania/zamówienie, aby blokować typowe wzorce ataków na żądanie Pwn",
       "url": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
       "date": "2026-06-23T14:22:03Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "GitHub pracuje nad wzmocnieniem bezpieczeństwa łańcucha dostaw oprogramowania, aktualizując „actions/checkout”, aby blokować ataki typu pwn request wykorzystujące ryzykowne użycie wyzwalacza „pull_request_target flow” w celu uruchomienia złośliwego kodu z pełnymi uprawnieniami przepływu pracy. Od 18 czerwca 2026 r. obowiązuje najnowsza wersja „akcji/kasy”, oficjalnej akcji GitHub służącej do sprawdzania repozytorium w pliku."
+    },
+    {
+      "title": "21 000 stanowisk pracy w Oracle zniknie w wyniku dużych zakładów Big Red na sztuczną inteligencję",
+      "url": "https://www.theregister.com/databases/2026/06/23/21000-oracle-jobs-vanish-amid-big-reds-big-bets-on-ai/5260086",
+      "date": "2026-06-23T14:12:15Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Raport roczny pokazuje, że liczba pracowników spadła ze 162 000 do 141 000 w ciągu roku, ponieważ firma inwestuje miliardy w rozbudowę centrów danych."
     },
     {
       "title": "Exploit nie istnieje. Nadal możesz udowodnić, że działa przeciwko tobie",
@@ -912,6 +968,14 @@
       "source": "BleepingComputer",
       "confirmed_by": 1,
       "summary": "LastPass ogłosił, że hakerzy uzyskali dostęp do danych klientów ze środowiska Salesforce po kradzieży tokenów OAuth firmy w ataku na łańcuch dostaw Klue na początku tego miesiąca. [...]."
+    },
+    {
+      "title": "Odważne posunięcie, Cotton: administracja Trumpa mówi amerykańskim technikom, że spodziewany jest amerykański komputer kwantowy do 2028 r",
+      "url": "https://www.theregister.com/hpc/2026/06/23/bold-move-cotton-trump-administration-tells-us-techies-it-expects-american-quantum-computer-by-2028/5260074",
+      "date": "2026-06-23T13:18:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Ahem. Aby zapoczątkować erę odkryć naukowych wykorzystujących technologię kwantową i utrzymać Amerykę na czele, wymagany jest wysiłek narodowy."
     },
     {
       "title": "TikTok zalany treściami AI. Głównie dla dzieci",
@@ -968,46 +1032,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Google otworzył drugie biuro w Krakowie. Koncern uruchomił nowoczesną przestrzeń w kompleksie Tertium z 300 nowymi stanowiskami pracy. Zespół giganta ze stolicy Małopolski, liczący już ponad 400 specjalistów, tworzy globalne innowacje dla systemów Android, Chrome czy chmury Google Cloud."
-    },
-    {
-      "title": "Kampania WhatsApp VBScript wykorzystuje fałszywe dokumenty do zainstalowania narzędzia ManageEngine RMM",
-      "url": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
-      "date": "2026-06-23T05:38:40Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Wiadomości bezpośrednie wysyłane za pośrednictwem WhatsApp są wykorzystywane do dystrybucji złośliwych plików języka Visual Basic Script (VBScript), które prowadzą do instalacji legalnego oprogramowania do zdalnego monitorowania i zarządzania (RMM). Z ustaleń firmy Kaspersky wynika, że ​​aktywna kampania jest skierowana do użytkowników WhatsApp Desktop i WhatsApp Web w Malezji, Brazylii, Indiach, Meksyku, Singapurze, Wielkiej Brytanii, Hiszpanii, Tajwanie i Australii."
-    },
-    {
-      "title": "Norweskie podstawówki bez AI. Odwrotnie niż w Polsce",
-      "url": "https://cyberdefence24.pl/technologie/norweskie-podstawowki-bez-ai-odwrotnie-niz-w-polsce",
-      "date": "2026-06-23T05:31:55Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Norwegia zakazuje korzystania z narzędzi AI w szkołach podstawowych. Według premiera, sztuczna inteligencja ma negatywny wpływ na edukację najmłodszych w zakresie najważniejszych umiejętności. Ograniczenia dotkną również starszych uczniów."
-    },
-    {
-      "title": "OpenAI rozszerza Daybreak o GPT-5.5-Cyber, aby pomóc obrońcom załatać luki w zabezpieczeniach",
-      "url": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
-      "date": "2026-06-23T03:56:58Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "W poniedziałek OpenAI poinformowało, że udostępnia zaufanym obrońcom ulepszoną wersję swojego modelu GPT-5.5-Cyber ​​w ramach inicjatywy Daybreak ogłoszonej w zeszłym miesiącu przez firmę zajmującą się sztuczną inteligencją (AI). Nazywając GPT‑5.5‑Cyber ​​„najsilniejszym jak dotąd modelem do wyszukiwania i pomagania w łataniu luk w oprogramowaniu”, OpenAI stwierdziło, że model ten może „umożliwiać głębszą analizę dużych baz kodu”."
-    },
-    {
-      "title": "OnyxC2 – infostealer “oferowany” jako profesjonalne narzędzie klasy enterprise",
-      "url": "https://sekurak.pl/onyxc2-infostealer-oferowany-jako-profesjonalne-narzedzie-klasy-enterprise/",
-      "date": "2026-06-22T09:30:50Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Jak donoszą badacze z Blackfog na początku 2026 r. zaobserwowano nowe zagrożenie – infostealer o nazwie OnyxC2. To co go wyróżnia to przede wszystkim profesjonalny model dystrybucji."
-    },
-    {
-      "title": "Nie musisz dopłacać za spokój",
-      "url": "https://niebezpiecznik.pl/post/nie-musisz-doplacac-za-spokoj/",
-      "date": "2026-06-22T08:56:11Z",
-      "source": "Niebezpiecznik",
-      "confirmed_by": 1,
-      "summary": "Czy to normalne, że czytnik linii papilarnych znika z podstawowych konfiguracji urządzenia i jest sztucznie zarezerwowany tylko dla droższych modeli laptopa? Analizujemy rynkowe absurdy i pokazujemy, jak architektura Secured-core PC, układy TPM 2.0 oraz wbudowane funkcje Windows 11 Pro chronią dane małej firmy bez ukrytych dopłat. Wymogi dyrektywy NIS2 oraz unijnego rozporządzenia RODO nie zawierają [&#8230;]."
     }
   ],
   "finance": [
@@ -1310,8 +1334,8 @@
       "lng": -2.5,
       "type": "cyber",
       "region": "Wielka Brytania",
-      "description": "W tym tygodniu dwóch mężczyzn przyznało się w Wielkiej Brytanii do zarzutów karnych wynikających z cyberataku z sierpnia 2024 r., który sparaliżował Transport for London, podmiot odpowiedzialny za sieć transportu publicznego w obszarze Wielkiego Londynu.",
-      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/"
+      "description": "Nie chodzi tylko o stare telefony – wiele inteligentnych liczników i alarmów teleopieki nadal korzysta ze starożytnej technologii.",
+      "url": "https://www.theregister.com/networks/2026/06/23/o2-joins-uk-2g-switch-off-with-summer-2029-start-date/5260297"
     },
     {
       "lat": 40.3,
@@ -1350,8 +1374,8 @@
       "lng": 121.5,
       "type": "cyber",
       "region": "Tajwan",
-      "description": "Wiadomości bezpośrednie wysyłane za pośrednictwem WhatsApp są wykorzystywane do dystrybucji złośliwych plików języka Visual Basic Script (VBScript), które prowadzą do instalacji legalnego oprogramowania do zdalnego monitorowania i zarządzania (RMM).",
-      "url": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html"
+      "description": "Technologiczne miasto powstanie w podwrocławskiej Miękini.",
+      "url": "https://cyberdefence24.pl/biznes-i-finanse/polska-pokonala-niemcy-i-francje-pod-wroclawiem-powstanie-potezne-technologiczne-miasto"
     },
     {
       "lat": 52.5,
@@ -1385,7 +1409,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 67
+      "score": 44
     },
     {
       "name": "Sudan",
@@ -1609,57 +1633,57 @@
       24120.4,
       24737.25,
       24758.98,
-      25612.42,
+      25616.51,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26774.03,
+      26778.31,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26920.64,
+      26924.94,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27165.01,
+      27169.35,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27799.26,
+      27803.7,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27835.22,
+      27839.66,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28079.32,
+      28083.81,
       27354.94,
       27400.36,
       27412.11,
-      28479.8,
+      28484.35,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27742.19,
+      27746.62,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27921.48,
+      27925.94,
       27686.17,
       27404.78,
       27351.97,
       27846.5,
       27905.42,
-      27673.51
+      27677.93
     ],
     "currency": "PLN"
   }
