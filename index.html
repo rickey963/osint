@@ -41,10 +41,10 @@
     <main class="w-full flex-1 min-h-0 flex flex-col gap-2 px-4 py-2 overflow-hidden">
 
         <!-- TOP: MAP (left) + TV / CHART / PICKS (right column) -->
-        <div class="flex-[1.5] min-h-0 grid grid-cols-1 lg:grid-cols-3 gap-3">
+        <div class="flex-[1.5] min-h-0 grid grid-cols-1 lg:grid-cols-5 gap-3">
 
             <!-- LEFT: WORLD MAP (Spans 2 columns on large screens) -->
-            <section id="map-section" class="lg:col-span-2 min-h-0 flex flex-col gap-1 group">
+            <section id="map-section" class="lg:col-span-3 min-h-0 flex flex-col gap-1 group">
                 <div class="flex items-center justify-between border-b border-slate-800 pb-1 flex-wrap gap-2 shrink-0">
                     <h2 class="text-[11px] font-bold uppercase tracking-widest text-slate-400 group-hover:text-red-500 transition-colors">Globalne Zagrożenia (Mapa)</h2>
                     <div id="map-layers" class="flex items-center gap-2 flex-wrap">
@@ -74,10 +74,10 @@
             </section>
 
             <!-- RIGHT: TV / S&P 500 / INVESTMENT PICKS, stacked -->
-            <aside class="min-h-0 flex flex-col gap-2 overflow-hidden">
+            <aside class="lg:col-span-2 min-h-0 flex flex-col gap-2 overflow-hidden">
 
-                <!-- Live TV -->
-                <div class="bg-slate-900/40 border border-slate-800 p-2 rounded-2xl shadow-lg flex-[1.3] min-h-0 flex flex-col overflow-hidden">
+                <!-- Live TV (enlarged at the expense of the row below) -->
+                <div class="bg-slate-900/40 border border-slate-800 p-2 rounded-2xl shadow-lg flex-[2.4] min-h-0 flex flex-col overflow-hidden">
                     <h3 class="text-[10px] font-black uppercase tracking-[0.15em] text-red-500 mb-1 shrink-0 flex items-center gap-1.5">
                         <span class="inline-block w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
                         FRANCE 24 English &mdash; LIVE
@@ -93,30 +93,30 @@
                     </div>
                 </div>
 
-                <!-- S&P 500 Chart -->
-                <div class="bg-slate-900/40 border border-slate-800 p-2 rounded-2xl shadow-lg flex-1 min-h-0 flex flex-col">
-                    <h3 class="text-[10px] font-black uppercase tracking-[0.15em] text-blue-500 mb-1 shrink-0">S&P 500 (6 miesięcy, PLN)</h3>
-                    <div class="flex-1 min-h-0 flex gap-2 items-stretch">
-                        <div class="shrink-0 w-16 flex flex-col justify-center border-r border-slate-800 pr-1.5">
-                            <span class="text-[8px] text-slate-500 uppercase tracking-wider">Aktualnie</span>
-                            <span id="sp500-current" class="text-sm font-black text-blue-400 leading-tight">--</span>
-                            <span id="sp500-change" class="text-[9px] font-bold mt-0.5">&nbsp;</span>
+                <!-- S&P 500 | Sugestie AI | Niestabilność, one row of three -->
+                <div class="flex-1 min-h-0 flex gap-2 overflow-hidden">
+                    <!-- S&P 500 Chart -->
+                    <div class="bg-slate-900/40 border border-slate-800 p-2 rounded-2xl shadow-lg flex-1 min-h-0 flex flex-col overflow-hidden">
+                        <h3 class="text-[9px] font-black uppercase tracking-[0.1em] text-blue-500 mb-1 shrink-0">S&P 500 (6M, PLN)</h3>
+                        <div class="shrink-0 flex items-baseline gap-1.5 mb-1">
+                            <span id="sp500-current" class="text-xs font-black text-blue-400 leading-tight">--</span>
+                            <span id="sp500-change" class="text-[9px] font-bold">&nbsp;</span>
                         </div>
                         <div class="flex-1 min-h-0 relative">
                             <canvas id="sp500Chart"></canvas>
                         </div>
                     </div>
-                </div>
 
-                <!-- AI Investment Picks + Country Instability, split side by side -->
-                <div class="bg-slate-900/40 border border-slate-800 p-2 rounded-2xl shadow-lg flex-1 min-h-0 flex gap-2 overflow-hidden">
-                    <div class="flex-1 min-h-0 flex flex-col gap-1 overflow-hidden">
-                        <h3 class="text-[10px] font-black uppercase tracking-[0.15em] text-emerald-500 border-l-2 border-emerald-600 pl-2 shrink-0">Sugestie AI</h3>
+                    <!-- AI Investment Picks -->
+                    <div class="bg-slate-900/40 border border-slate-800 p-2 rounded-2xl shadow-lg flex-1 min-h-0 flex flex-col gap-1 overflow-hidden">
+                        <h3 class="text-[9px] font-black uppercase tracking-[0.1em] text-emerald-500 border-l-2 border-emerald-600 pl-2 shrink-0">Sugestie AI</h3>
                         <div id="investment-picks" class="text-[10px] flex-1 min-h-0"></div>
                         <p class="investment-disclaimer shrink-0">To nie jest porada inwestycyjna.</p>
                     </div>
-                    <div class="flex-1 min-h-0 flex flex-col gap-1 overflow-hidden border-l border-slate-800 pl-2">
-                        <h3 class="text-[10px] font-black uppercase tracking-[0.15em] text-orange-500 border-l-2 border-orange-600 pl-2 shrink-0">Niestabilność</h3>
+
+                    <!-- Country Instability -->
+                    <div class="bg-slate-900/40 border border-slate-800 p-2 rounded-2xl shadow-lg flex-1 min-h-0 flex flex-col gap-1 overflow-hidden">
+                        <h3 class="text-[9px] font-black uppercase tracking-[0.1em] text-orange-500 border-l-2 border-orange-600 pl-2 shrink-0">Niestabilność</h3>
                         <div id="country-instability" class="flex-1 min-h-0 space-y-0.5"></div>
                     </div>
                 </div>
@@ -142,7 +142,7 @@
             </div>
             <!-- Cyberbezpieczeństwo -->
             <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden">
-                <h2 class="text-xs font-bold text-purple-500 uppercase border-b border-purple-900/30 pb-1 shrink-0">Cyberbezp.</h2>
+                <h2 class="text-xs font-bold text-purple-500 uppercase border-b border-purple-900/30 pb-1 shrink-0">Cyberbezpieczeństwo</h2>
                 <div id="news-cyber" class="min-h-0 flex-1 flex flex-col gap-2"></div>
             </div>
             <!-- Finanse -->

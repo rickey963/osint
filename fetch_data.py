@@ -27,7 +27,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 MAX_ARTICLES_PER_SOURCE = 8
-MAX_ARTICLES_PER_SECTION = 24
+MAX_ARTICLES_PER_SECTION = 30
 FRESHNESS_WINDOW_HOURS = 72
 DEDUPE_OVERLAP_THRESHOLD = 0.5
 
