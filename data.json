@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T05:48:22Z",
+  "last_updated": "2026-06-23T05:51:11Z",
   "poland": [
     {
       "title": "Wołodymyr Zełenski miał się spotkać w Warszawie z Karolem Nawrockim. „Zaproponowali i nie chcieli”",
@@ -472,14 +472,6 @@
       "summary": "Cicha rewolucja na orbicie. Nowy GPS uratuje nasze baterie."
     },
     {
-      "title": "Kometa 3I/ATLAS pod lupą Webba. Chemia wskazuje na bardzo dawny rodowód",
-      "url": "https://www.benchmark.pl/kometa-3i-atlas-pod-lupa-webba-chemia-wskazuje-na-bardzo-dawny-rodowod-7299742364346368a",
-      "date": "2026-06-23T04:01:00Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Kosmiczny Teleskop Jamesa Webba przyjrzał się komecie międzygwiezdnej 3I/ATLAS i odkrył w jej materiale nietypowe proporcje pierwiastków oraz izotopów. Wyniki sugerują, że obiekt mógł powstać w ekstremalnie zimnym środowisku i pochodzić z bardzo wczesnych etapów historii naszej galaktyki, co na nowo otwiera dyskusję o wyjątkowości Układu Słonecznego."
-    },
-    {
       "title": "Port Polska jeszcze się nie buduje, a już rośnie. Komuś wjechało na ambicję",
       "url": "https://spidersweb.pl/2026/06/port-polska-faza-budowy-budimex.html",
       "date": "2026-06-23T04:00:00Z",
@@ -550,6 +542,14 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Gaby Del Valle / The Verge: Specjaliści z branży nieruchomości coraz częściej korzystają z narzędzi do wirtualnej prezentacji opartych na sztucznej inteligencji, takich jak Stuccco i BoxBrownie, do tworzenia wprowadzających w błąd ofert domów i mieszkań &mdash; &bdquo;Wirtualna inscenizacja&rdquo; być może uda się zmieścić sześcioosobowy stół jadalny w kawalerce, ale najemcy nie."
+    },
+    {
+      "title": "Na cześć memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "date": "2026-06-23T01:15:05Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://jchri.st/blog/in-praise-of-memcached/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48638886 Punkty: 95 # Komentarze: 38."
     }
   ],
   "cybersecurity": [
@@ -748,14 +748,6 @@
   ],
   "finance": [
     {
-      "title": "Raport roczny - komunikat spółki Red Carpet Media Group SA (redcarpet) - komunikat EBI - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/redcarpet,raport-roczny-2026-06-23,ebi,20260623_072210_0000003817",
-      "date": "2026-06-23T05:22:10Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Raport roczny - komunikat spółki Red Carpet Media Group SA (redcarpet) - komunikat EBI stockwatch.pl."
-    },
-    {
       "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 23.06.2026",
       "url": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-23-06-2026-7299854257633280a.html",
       "date": "2026-06-23T05:03:03Z",
@@ -876,14 +868,6 @@
       "summary": "W Polsce buzują emocje po odebraniu Orderu Orła Białego Wołodymyrowi Zełenskiemu. Jest duża obawa, że polityczny kryzys odbije się na przedsiębiorcach, gdy w przyszłości dojdzie do odbudowy Ukrainy. Ryszard Florek, w którego fabrykę we Lwowie w 2023 r."
     },
     {
-      "title": "Porozumienie akcjonariuszy BBI Development SA (M. Skotnicki, R. Szczepański, K. Tyszkiewicz, P. Litwiński;) - Portfel inwestora - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/inwestor/porozumienie-akcjonariuszy-bbi-development-sa-m-skotnicki-r-szczepanski-k-tyszkiewicz-p-litwinski.aspx",
-      "date": "2026-06-22T22:56:50Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Porozumienie akcjonariuszy BBI Development SA (M. Skotnicki, R. Szczepański, K."
-    },
-    {
       "title": "Analiza techniczna OW20F273600 - BiznesRadar",
       "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/OW20F273600",
       "date": "2026-06-22T20:21:12Z",
@@ -938,6 +922,22 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania OW20G264075 BiznesRadar."
+    },
+    {
+      "title": "Zakupowa drożyzna słabnie. Ceny żywności przestały napędzać podwyżki",
+      "url": "https://300gospodarka.pl/news/zakupowa-drozyzna-slabnie-ceny-zywnosci-przestaly-napedzac-podwyzki",
+      "date": "2026-06-22T18:09:13Z",
+      "source": "300Gospodarka",
+      "confirmed_by": 1,
+      "summary": "Ceny w sklepach nadal rosną, ale tempo podwyżek wyraźnie słabnie. W maju codzienne zakupy były droższe średnio o 3,4 proc. rok do roku, a same ceny żywności coraz częściej działały jak hamulec, a nie główny motor inflacji."
+    },
+    {
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 22.06.2026",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-22-06-2026-7299673596557344a.html",
+      "date": "2026-06-22T16:49:31Z",
+      "source": "Money.pl",
+      "confirmed_by": 1,
+      "summary": "Kurs euro - 22.06.2026. W poniedziałek po południu za jedno euro (EUR) trzeba zapłacić 4.27576 zł."
     }
   ],
   "critical_alerts": [
@@ -999,6 +999,10 @@
     {
       "sector": "Złoto i obligacje skarbowe",
       "instrument": "np. ETF na złoto (GLD) lub obligacje skarbowe"
+    },
+    {
+      "sector": "Sektor agro",
+      "instrument": "np. ETF Invesco DB Agriculture (DBA)"
     }
   ],
   "sp500_trend": {
