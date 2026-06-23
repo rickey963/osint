@@ -15,17 +15,22 @@
 </head>
 <body class="bg-slate-950 text-slate-200 font-sans antialiased h-screen overflow-hidden flex flex-col">
 
-    <!-- 1. ALARM KRYTYCZNY (Full Width, Top) -->
-    <div id="critical-banner" class="w-full bg-red-600 text-white py-1 px-4 shadow-2xl z-[100] relative overflow-hidden shrink-0">
-        <div class="container mx-auto flex items-center justify-center gap-3 font-black uppercase tracking-tighter text-xs">
-            <span class="animate-pulse">⚠️</span>
-            <span id="critical-alert-text">ŁADOWANIE ALARMÓW KRYTYCZNYCH...</span>
+    <!-- 1. ALARM KRYTYCZNY (Full Width, Top, scrolling ticker) -->
+    <div id="critical-banner" class="w-full bg-red-600 text-white py-1.5 shadow-2xl z-[100] relative shrink-0 flex items-center overflow-hidden">
+        <span class="shrink-0 pl-4 pr-3 font-black uppercase tracking-tighter text-xs flex items-center gap-2">
+            <span class="animate-pulse">⚠️</span> ALARM
+        </span>
+        <div class="ticker-viewport flex-1 min-w-0">
+            <div id="critical-ticker" class="ticker-track font-black uppercase tracking-tighter text-xs">
+                <span id="critical-alert-text-a">ŁADOWANIE ALARMÓW KRYTYCZNYCH...</span>
+                <span id="critical-alert-text-b" aria-hidden="true">ŁADOWANIE ALARMÓW KRYTYCZNYCH...</span>
+            </div>
         </div>
     </div>
 
     <!-- HEADER WITH LAST UPDATED -->
     <header class="bg-slate-900/80 backdrop-blur-md border-b border-slate-800 px-4 py-1.5 shadow-lg shrink-0">
-        <div class="container mx-auto flex flex-col md:flex-row justify-between items-center gap-2">
+        <div class="w-full flex flex-col md:flex-row justify-between items-center gap-2">
             <h1 class="text-base font-black tracking-tighter text-red-500 uppercase italic">OSINT - monitoring sytuacyjny</h1>
             <div id="last-update" class="text-[9px] font-mono text-slate-500 bg-slate-950 px-3 py-0.5 rounded border border-slate-800">
                 OSTATNIA AKTUALIZACJA: <span id="update-time">--:--</span>
@@ -33,7 +38,7 @@
         </div>
     </header>
 
-    <main class="container mx-auto flex-1 min-h-0 flex flex-col gap-2 px-4 py-2 overflow-hidden">
+    <main class="w-full flex-1 min-h-0 flex flex-col gap-2 px-4 py-2 overflow-hidden">
 
         <!-- TOP: MAP (left) + TV / CHART / PICKS (right column) -->
         <div class="flex-[1.5] min-h-0 grid grid-cols-1 lg:grid-cols-3 gap-3">
@@ -43,6 +48,10 @@
                 <div class="flex items-center justify-between border-b border-slate-800 pb-1 flex-wrap gap-2 shrink-0">
                     <h2 class="text-[11px] font-bold uppercase tracking-widest text-slate-400 group-hover:text-red-500 transition-colors">Globalne Zagrożenia (Mapa)</h2>
                     <div id="map-layers" class="flex items-center gap-2 flex-wrap">
+                        <label class="map-layer-toggle">
+                            <input type="checkbox" data-layer="critical" checked>
+                            <span class="map-legend-dot" style="background:#ec4899"></span> Krytyczne
+                        </label>
                         <label class="map-layer-toggle">
                             <input type="checkbox" data-layer="conflict" checked>
                             <span class="map-legend-dot" style="background:#ef4444"></span> Konflikty
@@ -103,12 +112,12 @@
                 <div class="bg-slate-900/40 border border-slate-800 p-2 rounded-2xl shadow-lg flex-1 min-h-0 flex gap-2 overflow-hidden">
                     <div class="flex-1 min-h-0 flex flex-col gap-1 overflow-hidden">
                         <h3 class="text-[10px] font-black uppercase tracking-[0.15em] text-emerald-500 border-l-2 border-emerald-600 pl-2 shrink-0">Sugestie AI</h3>
-                        <div id="investment-picks" class="text-[10px] flex-1 min-h-0 overflow-hidden"></div>
+                        <div id="investment-picks" class="text-[10px] flex-1 min-h-0"></div>
                         <p class="investment-disclaimer shrink-0">To nie jest porada inwestycyjna.</p>
                     </div>
                     <div class="flex-1 min-h-0 flex flex-col gap-1 overflow-hidden border-l border-slate-800 pl-2">
                         <h3 class="text-[10px] font-black uppercase tracking-[0.15em] text-orange-500 border-l-2 border-orange-600 pl-2 shrink-0">Niestabilność</h3>
-                        <div id="country-instability" class="flex-1 min-h-0 overflow-hidden space-y-0.5"></div>
+                        <div id="country-instability" class="flex-1 min-h-0 space-y-0.5"></div>
                     </div>
                 </div>
             </aside>
@@ -119,27 +128,27 @@
             <!-- Polska -->
             <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden">
                 <h2 class="text-xs font-bold text-blue-500 uppercase border-b border-blue-900/30 pb-1 shrink-0">Polska</h2>
-                <div id="news-pl" class="min-h-0 flex-1 flex flex-col gap-2 overflow-hidden"></div>
+                <div id="news-pl" class="min-h-0 flex-1 flex flex-col gap-2"></div>
             </div>
             <!-- Świat (Bezpieczeństwo | Polityka, side by side) -->
             <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden">
                 <h2 class="text-xs font-bold text-orange-500 uppercase border-b border-orange-900/30 pb-1 shrink-0">Świat</h2>
-                <div id="news-world" class="min-h-0 flex-1 flex flex-row gap-2 overflow-hidden"></div>
+                <div id="news-world" class="min-h-0 flex-1 flex flex-row gap-2"></div>
             </div>
             <!-- Technologie -->
             <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden">
                 <h2 class="text-xs font-bold text-green-500 uppercase border-b border-green-900/30 pb-1 shrink-0">Technologie</h2>
-                <div id="news-tech" class="min-h-0 flex-1 flex flex-col gap-2 overflow-hidden"></div>
+                <div id="news-tech" class="min-h-0 flex-1 flex flex-col gap-2"></div>
             </div>
             <!-- Cyberbezpieczeństwo -->
             <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden">
                 <h2 class="text-xs font-bold text-purple-500 uppercase border-b border-purple-900/30 pb-1 shrink-0">Cyberbezp.</h2>
-                <div id="news-cyber" class="min-h-0 flex-1 flex flex-col gap-2 overflow-hidden"></div>
+                <div id="news-cyber" class="min-h-0 flex-1 flex flex-col gap-2"></div>
             </div>
             <!-- Finanse -->
             <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden">
                 <h2 class="text-xs font-bold text-yellow-500 uppercase border-b border-yellow-900/30 pb-1 shrink-0">Finanse</h2>
-                <div id="news-finance" class="min-h-0 flex-1 flex flex-col gap-2 overflow-hidden"></div>
+                <div id="news-finance" class="min-h-0 flex-1 flex flex-col gap-2"></div>
             </div>
         </section>
 

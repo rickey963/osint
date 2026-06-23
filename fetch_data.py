@@ -38,6 +38,22 @@ DEDUPE_OVERLAP_THRESHOLD = 0.5
 # requests against Google's free endpoint and triggers connection resets.
 TRANSLATE_EXECUTOR = ThreadPoolExecutor(max_workers=8)
 
+# Sources whose native content is already Polish (see scraper/sources.py) -
+# roughly two-thirds of all configured sources. Running these through Google
+# Translate anyway would just be a slow PL->PL round trip for nothing, so
+# _finalize() skips translation for them entirely. This is by far the
+# biggest lever on total pipeline time, since translation (network calls to
+# an unofficial endpoint) dominates the "Run data fetcher" step.
+POLISH_SOURCES = frozenset({
+    'Polsat News', 'Rzeczpospolita', 'Gazeta Wyborcza', 'Business Insider Polska',
+    'PAP', 'Polskie Radio 24',
+    "Spider's Web", 'Instalki.pl', 'Antyweb', 'Benchmark.pl',
+    'Zaufana Trzecia Strona', 'Niebezpiecznik', 'Sekurak', 'CyberDefence24',
+    'Money.pl', 'Bankier.pl', 'Forbes Polska', '300Gospodarka',
+    'Inwestomat (Albert Rokicki)', 'Strefa Inwestorów', 'Forsal.pl',
+    'Biznesradar', 'StockWatch.pl', 'Piotr Cymcyk',
+})
+
 
 # ---------------------------------------------------------------------------
 # Fetch / clean / translate
@@ -164,8 +180,12 @@ def fetch_section(name_to_url_kind):
         title_original = item['title']
         if item['kind'] == 'google_news':
             item['url'] = _decode_google_news_url(item['url'])
-        item['title'] = _translate(title_original)
-        item['summary'] = _translate(item['summary_raw'])
+        if item['source'] in POLISH_SOURCES:
+            item['title'] = title_original
+            item['summary'] = item['summary_raw']
+        else:
+            item['title'] = _translate(title_original)
+            item['summary'] = _translate(item['summary_raw'])
         item['date'] = item['date'].strftime('%Y-%m-%dT%H:%M:%SZ')
         del item['summary_raw']
         del item['kind']
@@ -206,6 +226,101 @@ CONFLICT_REGIONS = [
     ("Wenezuela", 6.42, -66.59, [r"wenezuel\w*"]),
     ("Haiti", 18.97, -72.29, [r"haiti\w*"]),
 ]
+
+# Broader country lookup for map placement, used by everything except the
+# 'conflict' layer (which intentionally sticks to the curated CONFLICT_REGIONS
+# above for instability scoring). Without this, a critical/disaster/cyber
+# story about a country that isn't one of those 15 war zones - e.g. Kenya,
+# Japan, Brazil - silently got no marker at all, even when it was severe
+# enough to show up in the critical-alerts ticker.
+EXTRA_COUNTRY_COORDS = [
+    # Europa
+    ("Polska", 52.0, 19.0, [r"polsk\w*"]),
+    ("Wielka Brytania", 55.0, -3.0, [r"wielk\w* brytani\w*", r"\buk\b", r"brytyjsk\w*", r"londyn\w*"]),
+    ("Francja", 46.6, 2.2, [r"francj\w*", r"francusk\w*"]),
+    ("Niemcy", 51.2, 10.4, [r"niemc\w*", r"niemieck\w*"]),
+    ("Rosja", 61.5, 105.3, [r"rosj\w*", r"rosyjsk\w*", r"kreml\w*"]),
+    ("Włochy", 41.9, 12.6, [r"włoch\w*", r"włosk\w*"]),
+    ("Hiszpania", 40.5, -3.7, [r"hiszpani\w*", r"hiszpańsk\w*"]),
+    ("Holandia", 52.1, 5.3, [r"holandi\w*", r"niderland\w*"]),
+    ("Szwecja", 60.1, 18.6, [r"szwecj\w*", r"szwedzk\w*"]),
+    ("Norwegia", 60.5, 8.5, [r"norwegi\w*", r"norwesk\w*"]),
+    ("Dania", 56.0, 9.5, [r"duńsk\w*", r"kopenhag\w*"]),
+    ("Finlandia", 64.0, 26.0, [r"finlandi\w*", r"fińsk\w*"]),
+    ("Irlandia", 53.4, -8.2, [r"irlandi\w*", r"irlandzk\w*"]),
+    ("Belgia", 50.8, 4.4, [r"belgi\w*", r"bruksel\w*"]),
+    ("Austria", 47.5, 14.5, [r"austri\w*", r"wiede[nń]\w*"]),
+    ("Szwajcaria", 46.8, 8.2, [r"szwajcari\w*", r"szwajcarsk\w*"]),
+    ("Portugalia", 39.4, -8.2, [r"portugal\w*"]),
+    ("Grecja", 39.1, 21.8, [r"grecj\w*", r"greck\w*", r"aten\w*"]),
+    ("Czechy", 49.8, 15.5, [r"czech\w*", r"prag\w*"]),
+    ("Słowacja", 48.7, 19.7, [r"słowacj\w*", r"słowack\w*"]),
+    ("Węgry", 47.2, 19.5, [r"węgr\w*", r"węgiersk\w*", r"budapeszt\w*"]),
+    ("Rumunia", 45.9, 24.97, [r"rumuni\w*"]),
+    ("Bułgaria", 42.7, 25.5, [r"bułgari\w*"]),
+    ("Serbia", 44.0, 21.0, [r"serbi\w*", r"belgrad\w*"]),
+    ("Litwa", 55.2, 23.9, [r"litw\w*", r"litewsk\w*", r"wilno\w*"]),
+    ("Łotwa", 56.9, 24.6, [r"łotw\w*", r"\bryg[ai]\b"]),
+    ("Estonia", 58.6, 25.0, [r"estoni\w*", r"talin\w*"]),
+    ("Białoruś", 53.7, 27.9, [r"białorus\w*", r"białorusk\w*", r"miński\w*", r"miska\w*"]),
+    # Ameryka Północna i Południowa
+    ("Stany Zjednoczone", 39.8, -98.6, [r"\busa\b", r"stan(y|ów)? zjednoczon\w*", r"amerykańsk\w*", r"washington\w*", r"waszyngton\w*"]),
+    ("Kanada", 56.1, -106.3, [r"kanad\w*"]),
+    ("Meksyk", 23.6, -102.5, [r"meksyk\w*"]),
+    ("Brazylia", -14.2, -51.9, [r"brazyli\w*"]),
+    ("Argentyna", -38.4, -63.6, [r"argentyn\w*"]),
+    ("Chile", -35.7, -71.5, [r"\bchile\b", r"chilijsk\w*"]),
+    ("Kolumbia", 4.6, -74.3, [r"kolumbi\w*"]),
+    ("Peru", -9.2, -75.0, [r"\bperu\b", r"peruwia[nń]\w*"]),
+    # "Kuba" is also a common Polish first name (diminutive of Jakub) - too
+    # risky as a bare stem, so only the unambiguous capital name is used.
+    ("Kuba", 21.5, -77.8, [r"\bhawan\w*"]),
+    ("Ekwador", -1.83, -78.18, [r"ekwador\w*"]),
+    ("Boliwia", -16.3, -63.6, [r"boliwi\w*"]),
+    # Azja
+    ("Chiny", 35.0, 103.8, [r"\bchin\w*", r"\bpekin\w*"]),
+    ("Indie", 21.0, 78.0, [r"indi\w*", r"hindus\w*"]),
+    ("Japonia", 36.2, 138.2, [r"japoni\w*", r"japońsk\w*"]),
+    ("Korea Południowa", 35.9, 127.7, [r"korea południow\w*", r"korei południow\w*", r"seul\w*"]),
+    ("Pakistan", 30.4, 69.3, [r"pakista[nń]\w*"]),
+    ("Bangladesz", 23.7, 90.4, [r"bangladesz\w*"]),
+    ("Indonezja", -0.8, 113.9, [r"indonezj\w*"]),
+    ("Filipiny", 12.9, 121.8, [r"filipin\w*", r"manil\w*"]),
+    ("Wietnam", 14.1, 108.3, [r"wietnam\w*"]),
+    ("Tajlandia", 15.9, 100.99, [r"tajlandi\w*"]),
+    ("Malezja", 4.2, 101.9, [r"malezj\w*"]),
+    ("Singapur", 1.35, 103.8, [r"singapur\w*"]),
+    ("Arabia Saudyjska", 23.9, 45.1, [r"arabi\w* saudyjsk\w*", r"rijad\w*"]),
+    ("Zjednoczone Emiraty Arabskie", 23.4, 53.8, [r"emirat\w* arabski\w*", r"dubaj\w*", r"abu zabi\w*"]),
+    # "katar" is also the everyday Polish word for "a cold" - too risky as a
+    # bare stem, so only the unambiguous capital name is used.
+    ("Katar", 25.3, 51.2, [r"\bdoha\w*"]),
+    ("Irak", 33.2, 43.7, [r"irak\w*", r"bagdad\w*"]),
+    ("Jordania", 31.2, 36.9, [r"jordani\w*", r"amman\w*"]),
+    # Afryka
+    ("Egipt", 26.8, 30.8, [r"egipt\w*"]),
+    ("Nigeria", 9.08, 8.68, [r"nigeri\w*"]),
+    ("Kenia", -0.0236, 37.9, [r"keni\w*"]),
+    ("Etiopia", 9.1, 40.5, [r"etiopi\w*"]),
+    ("RPA", -30.6, 22.9, [r"\brpa\b", r"południow\w* afryk\w*"]),
+    ("Algieria", 28.0, 1.66, [r"algieri\w*", r"algiersk\w*"]),
+    ("Maroko", 31.8, -7.1, [r"marok[ao]\w*"]),
+    ("Tunezja", 33.9, 9.5, [r"tunezj\w*"]),
+    ("Libia", 26.3, 17.2, [r"libi\w*"]),
+    ("Ghana", 7.9, -1.0, [r"ghan\w*"]),
+    ("Tanzania", -6.4, 34.9, [r"tanzani\w*"]),
+    ("Uganda", 1.37, 32.3, [r"ugand\w*"]),
+    ("Zimbabwe", -19.0, 29.15, [r"zimbabwe\w*"]),
+    # Oceania
+    ("Australia", -25.3, 133.8, [r"australi\w*"]),
+    ("Nowa Zelandia", -40.9, 174.9, [r"now\w* zelandi\w*"]),
+    ("Turcja", 38.9, 35.2, [r"turcj\w*", r"tureck\w*"]),
+]
+
+# Used for cyber/disaster/gps-jamming/critical placement: conflict regions
+# plus the broader country list above, so matching isn't limited to the 15
+# active war zones.
+ALL_REGION_COORDS = CONFLICT_REGIONS + EXTRA_COUNTRY_COORDS
 
 NATURAL_DISASTER_KEYWORDS = [
     r"powod[zź]\w*", r"huragan\w*", r"trz[ęe]sieni\w* ziemi", r"po[zż]ar\w* las\w*",
@@ -268,7 +383,7 @@ def build_map_features(sections):
                 'url': hit['url'],
             })
     for item, text in _all_text(sections, 'cybersecurity'):
-        for region, lat, lng, patterns in CONFLICT_REGIONS:
+        for region, lat, lng, patterns in ALL_REGION_COORDS:
             if _matches_any(text, patterns):
                 features.append({
                     'lat': lat + 0.5, 'lng': lng + 0.5, 'type': 'cyber', 'region': region,
@@ -278,7 +393,7 @@ def build_map_features(sections):
                 break
     for item, text in pool:
         if _matches_any(text, NATURAL_DISASTER_KEYWORDS):
-            for region, lat, lng, patterns in CONFLICT_REGIONS:
+            for region, lat, lng, patterns in ALL_REGION_COORDS:
                 if _matches_any(text, patterns):
                     features.append({
                         'lat': lat - 0.5, 'lng': lng - 0.5, 'type': 'disaster', 'region': region,
@@ -287,7 +402,7 @@ def build_map_features(sections):
                     })
                     break
         if _matches_any(text, GPS_JAMMING_KEYWORDS):
-            for region, lat, lng, patterns in CONFLICT_REGIONS:
+            for region, lat, lng, patterns in ALL_REGION_COORDS:
                 if _matches_any(text, patterns):
                     features.append({
                         'lat': lat + 0.3, 'lng': lng - 0.3, 'type': 'gps_jamming', 'region': region,
@@ -295,7 +410,72 @@ def build_map_features(sections):
                         'url': item['url'],
                     })
                     break
+
+    # Critical alerts must always end up on the map if a country can be
+    # identified, regardless of whether that country is an active conflict
+    # zone - this is what the ticker's "ALARM" banner refers to, so the map
+    # should be able to point at it too.
+    critical_pool = _all_text(sections, 'poland', 'world_security', 'world_politics', 'technology', 'cybersecurity', 'finance')
+    seen_critical_regions = set()
+    for item, text in critical_pool:
+        if not any(kw in text for kw in CRITICAL_KEYWORDS):
+            continue
+        for region, lat, lng, patterns in ALL_REGION_COORDS:
+            if region in seen_critical_regions:
+                continue
+            if _matches_any(text, patterns):
+                seen_critical_regions.add(region)
+                features.append({
+                    'lat': lat - 0.3, 'lng': lng + 0.3, 'type': 'critical', 'region': region,
+                    'description': _trim_sentences(item['summary'], 1) or item['title'],
+                    'url': item['url'],
+                })
+                break
     return features
+
+
+MAP_HISTORY_PATH = 'map_history.json'
+MAP_FEATURE_TTL_HOURS = 24
+
+
+def merge_map_features(fresh_features):
+    """Each run only re-derives markers from whatever's currently in the
+    top of each section, so a region could otherwise blink on and off the
+    map every few minutes purely because its source article rotated out of
+    a section's top-N. Persisting last-seen times in MAP_HISTORY_PATH (also
+    committed to the repo, like data.json) keeps a marker visible for a full
+    MAP_FEATURE_TTL_HOURS since it was last (re)detected, then drops it -
+    giving a stable situational picture instead of a flickering one, with
+    no behaviour change to how each marker's description/url/source works."""
+    now = datetime.datetime.now(datetime.timezone.utc)
+    try:
+        with open(MAP_HISTORY_PATH, 'r', encoding='utf-8') as f:
+            history = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        history = {}
+
+    for feat in fresh_features:
+        key = f"{feat['type']}|{feat['region']}"
+        history[key] = {**feat, 'last_seen': now.strftime('%Y-%m-%dT%H:%M:%SZ')}
+
+    alive = {}
+    for key, entry in history.items():
+        last_seen_raw = entry.get('last_seen')
+        try:
+            last_seen = datetime.datetime.strptime(last_seen_raw, '%Y-%m-%dT%H:%M:%SZ').replace(tzinfo=datetime.timezone.utc)
+        except (TypeError, ValueError):
+            continue
+        if (now - last_seen).total_seconds() <= MAP_FEATURE_TTL_HOURS * 3600:
+            alive[key] = entry
+
+    with open(MAP_HISTORY_PATH, 'w', encoding='utf-8') as f:
+        json.dump(alive, f, ensure_ascii=False, indent=2)
+
+    return [
+        {'lat': e['lat'], 'lng': e['lng'], 'type': e['type'], 'region': e['region'],
+         'description': e['description'], 'url': e['url']}
+        for e in alive.values()
+    ]
 
 
 def build_instability(sections):
@@ -398,7 +578,7 @@ def main():
         'cybersecurity': sections['cybersecurity'],
         'finance': sections['finance'],
         'critical_alerts': build_critical_alerts(sections),
-        'map_features': build_map_features(sections),
+        'map_features': merge_map_features(build_map_features(sections)),
         'instability': build_instability(sections),
         'investment_picks': build_investment_picks(sections),
         'sp500_trend': sp500_trend,

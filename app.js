@@ -10,9 +10,10 @@ const MAX_ARTICLES_PER_SUBCATEGORY = 5;
 
 let map, sp500Chart;
 let mapMarkers = [];
-let activeLayers = { conflict: true, cyber: true, disaster: true, gps_jamming: true };
+let activeLayers = { critical: true, conflict: true, cyber: true, disaster: true, gps_jamming: true };
 
 const LAYER_COLORS = {
+    critical: '#ec4899',
     conflict: '#ef4444',
     cyber: '#a855f7',
     disaster: '#f59e0b',
@@ -67,11 +68,7 @@ async function loadData() {
             timeEl.textContent = isNaN(d) ? data.last_updated : d.toLocaleString('pl-PL', { timeZone: 'Europe/Warsaw' });
         }
 
-        const alertText = document.getElementById('critical-alert-text');
-        if (alertText) {
-            alertText.textContent = (data.critical_alerts && data.critical_alerts[0])
-                || 'Sytuacja stabilna - brak nowych alarmów';
-        }
+        updateCriticalTicker(data.critical_alerts);
 
         renderNews('news-pl', data.poland);
 
@@ -97,6 +94,20 @@ async function loadData() {
     } catch (err) {
         console.error('Error loading dashboard data:', err);
     }
+}
+
+function updateCriticalTicker(alerts) {
+    const track = document.getElementById('critical-ticker');
+    const a = document.getElementById('critical-alert-text-a');
+    const b = document.getElementById('critical-alert-text-b');
+    if (!track || !a || !b) return;
+    const text = (alerts && alerts.length ? alerts : ['Sytuacja stabilna - brak nowych alarmów krytycznych'])
+        .join('   •   ');
+    a.textContent = text;
+    b.textContent = text;
+    // Slow, constant reading speed regardless of how much text there is -
+    // longer alert lists get a longer loop instead of scrolling faster.
+    track.style.animationDuration = `${Math.max(25, text.length * 0.22)}s`;
 }
 
 function buildSubcategoryColumn(id, label, colorClass, articles) {
@@ -133,9 +144,11 @@ function renderNewsToElement(container, articles, limit) {
             : '';
         card.innerHTML = `
             <h3 class="news-title">${article.title}${confirmedBadge}</h3>
-            <div class="news-date">${formatArticleDate(article.date)}</div>
             <p class="news-snippet">${article.summary}</p>
-            <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="news-link">${article.source || 'Źródło'} &rarr;</a>
+            <div class="news-footer">
+                <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="news-link">${article.source || 'Źródło'} &rarr;</a>
+                <span class="news-date">${formatArticleDate(article.date)}</span>
+            </div>
         `;
         container.appendChild(card);
     });

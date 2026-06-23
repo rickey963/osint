@@ -28,6 +28,31 @@ body {
     background: #334155; /* slate-700 */
 }
 
+/* Pasek krytycznych alarmów - przesuwa się od prawej do lewej, bardzo wolno,
+   tak by dało się spokojnie przeczytać; treść zduplikowana (a/b) tak, że
+   translateX(-50%) zapętla się bez widocznego skoku. */
+.ticker-viewport {
+    overflow: hidden;
+    position: relative;
+    height: 1.1rem;
+}
+
+.ticker-track {
+    display: flex;
+    width: max-content;
+    animation: ticker-scroll 45s linear infinite;
+}
+
+.ticker-track span {
+    white-space: nowrap;
+    padding-right: 5rem;
+}
+
+@keyframes ticker-scroll {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+}
+
 /* Kafelki informacji (News Cards) */
 .news-card {
     background: rgba(30, 41, 59, 0.5); /* slate-800/50 */
@@ -62,21 +87,13 @@ body {
 .news-title {
     font-size: 0.78rem;
     font-weight: 600;
-    line-height: 1.25;
-    margin-bottom: 0.2rem;
+    line-height: 1.4;
+    margin-bottom: 0.25rem;
     color: #f8fafc; /* slate-50 */
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
-}
-
-.news-date {
-    font-size: 0.62rem;
-    color: #64748b; /* slate-500 */
-    font-family: ui-monospace, monospace;
-    margin-bottom: 0.2rem;
-    letter-spacing: 0.01em;
 }
 
 .news-snippet {
@@ -90,14 +107,32 @@ body {
     overflow: hidden;
 }
 
-.news-link {
+/* Source link (left) + timestamp (right), pinned to the card's bottom edge */
+.news-footer {
     margin-top: auto;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.5rem;
+}
+
+.news-link {
     font-size: 0.62rem;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.04em;
     color: #ef4444; /* red-500 */
     text-decoration: none;
+    white-space: nowrap;
+}
+
+.news-date {
+    font-size: 0.6rem;
+    color: #64748b; /* slate-500 */
+    font-family: ui-monospace, monospace;
+    letter-spacing: 0.01em;
+    white-space: nowrap;
+    flex-shrink: 0;
 }
 
 .news-link:hover {
@@ -169,11 +204,15 @@ body {
 
 /* News containers: fixed height (fits viewport), internal list scrolls so more
    than the first few articles remain reachable without growing the panel */
+/* !important: Tailwind's Play CDN injects its generated stylesheet at
+   runtime (after this file loads), so a plain "overflow-hidden" utility
+   class added anywhere on these elements would otherwise win the cascade
+   and silently re-disable scrolling. */
 [id^="news-"],
 #country-instability,
 #investment-picks {
-    overflow-y: auto;
-    overflow-x: hidden;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
     padding-right: 6px;
 }
 
@@ -199,7 +238,7 @@ body {
 /* #news-world is a row of two columns (Bezpieczeństwo | Polityka) - the
    columns scroll individually, not this wrapper, so undo the generic rule. */
 #news-world {
-    overflow: visible;
+    overflow: visible !important;
     padding-right: 0;
 }
 
