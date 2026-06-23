@@ -1,10 +1,18 @@
 {
-  "last_updated": "2026-06-23T15:18:12Z",
+  "last_updated": "2026-06-23T15:23:14Z",
   "poland": [
+    {
+      "title": "Co się stało z 500 tys. zł od Dawida Kacprzyka? Posłowie PiS zarzucają prokuraturze kłamstwo",
+      "url": "https://businessinsider.com.pl/finanse/kontrola-poselska-w-szpitalu-poludniowym-chodzi-o-500-tys-zl/tzqlep6",
+      "date": "2026-06-23T15:12:27Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Opozycja zarzuca prokuraturze mijanie się z prawdą. Choć rzecznik twierdzi, że 500 tys. zł wróciło do lekarza Dawida Kacprzyka, posłowie utrzymują, że pieniądze nadal leżą na koncie szpitala."
+    },
     {
       "title": "Plany urządzania lasów pod kontrolą społeczną. Rząd przyjął projekt ustawy",
       "url": "https://www.rp.pl/prawo-w-polsce/art44682181-plany-urzadzania-lasow-pod-kontrola-spoleczna-rzad-przyjal-projekt-ustawy",
-      "date": "2026-06-23T15:01:25Z",
+      "date": "2026-06-23T15:01:00Z",
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Plan urządzenia lasu będzie można zaskarżyć do sądu administracyjnego, a zanim zostanie przyjęty, organizacje społeczne dostaną szansę na zgłoszenie uwag. Projekt ustawy, która to umożliwia, przyjęła we wtorek Rada Ministrów."
@@ -184,14 +192,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Według prognoz na przełomie tego i najbliższego tygodnia termometry mogą wskazać nawet 40 stopni Celsjusza. Czy polski rekord temperatury z czerwca jest zagrożony?"
-    },
-    {
-      "title": "Coraz więcej pieniędzy krąży w gospodarce. Rośnie groźba wzrostu inflacji",
-      "url": "https://businessinsider.com.pl/gospodarka/pieniadze-plyna-szerokim-strumieniem-szybki-wzrost-gotowki-i-depozytow-w-polsce/5w60cdx",
-      "date": "2026-06-23T12:59:35Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "W maju 2026 r. po polskiej gospodarce krążyło 2 bln 852 mld zł — podał NBP. Najszybciej przybywało w obiegu pieniądza gotówkowego."
     }
   ],
   "world_security": [
@@ -312,7 +312,7 @@
     {
       "title": "Aktualności na żywo z Bliskiego Wschodu: Stany Zjednoczone i Iran przedstawiają sprzeczne relacje z rozmów nuklearnych",
       "url": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
-      "date": "2026-06-23T15:11:39Z",
+      "date": "2026-06-23T15:16:22Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Prezydent Trump powiedział, że Iran zgodził się na inspekcje „najwyższego szczebla” kilka godzin po tym, jak irański urzędnik stwierdził, że „nie toczą się żadne szczegółowe dyskusje na temat kwestii nuklearnej”, ponieważ obie strony w dalszym ciągu przedstawiały odmienne narracje na temat swoich ostatnich rozmów."
@@ -566,9 +566,25 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Julian Chokkattu / Wired: Okulary Meta Starfire z Kylie Jenner mają maleńki klejnot na soczewce, metalowy nosek zapobiegający wchłanianiu makijażu oraz głos Kylie w wersji AI &mdash; Nowe okulary marki Meta mają ten sam aparat, mikrofony i chatbota, co Ray-Bany. Występują w trzech stylach, z których jeden został zaprojektowany wspólnie z Kylie Jenner."
+    },
+    {
+      "title": "Meta twierdzi, że Meta Glasses to pierwsze okulary AI wprowadzone na rynek z Meta AI zasilaną przez Muse Spark i dostępne w szerokiej gamie kombinacji kolorów i soczewek dla 26 stylów (Meta Newsroom)",
+      "url": "https://www.techmeme.com/260623/p17#a260623p17",
+      "date": "2026-06-23T13:20:03Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Meta Newsroom: Meta twierdzi, że Meta Glasses to pierwsze okulary AI wprowadzone na rynek z platformą Meta AI zasilaną przez Muse Spark i dostępne w szerokiej gamie kombinacji kolorów i soczewek dla 26 stylów &mdash; Okulary to najbardziej ekscytująca kategoria sprzętu ery sztucznej inteligencji &mdash; idealne urządzenie do całodniowego korzystania z asystenta AI, który rozumie świat z Twojej perspektywy."
     }
   ],
   "cybersecurity": [
+    {
+      "title": "Podpisy poparcia w mObywatelu. Rząd przyjął rozporządzenie",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/podpisy-poparcia-w-mobywatelu-rzad-przyjal-rozporzadzenie",
+      "date": "2026-06-23T15:17:55Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Rada Ministrów przyjęła we wtorek rozporządzenie, które umożliwi mObywatelowi pobieranie danych z kolejnych rejestrów publicznych. Dzięki zmianom w aplikacji pojawią się nowe funkcje, które pozwolą na dostęp do dyplomów, dokumentów zawodowych czy popierania kandydatów w wyborach."
+    },
     {
       "title": "Poważna luka w iPhone’ach. Błędu nie da się naprawić",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/powazna-luka-w-iphoneach-bledu-nie-da-sie-naprawic",
@@ -752,14 +768,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "W poniedziałek OpenAI poinformowało, że udostępnia zaufanym obrońcom ulepszoną wersję swojego modelu GPT-5.5-Cyber ​​w ramach inicjatywy Daybreak ogłoszonej w zeszłym miesiącu przez firmę zajmującą się sztuczną inteligencją (AI). Nazywając GPT‑5.5‑Cyber ​​„najsilniejszym jak dotąd modelem do wyszukiwania i pomagania w łataniu luk w oprogramowaniu”, OpenAI stwierdziło, że model ten może „umożliwiać głębszą analizę dużych baz kodu”."
-    },
-    {
-      "title": "Atak phishingowy na WhatsApp wykorzystuje fałszywe dokumenty biznesowe do włamywania się do komputerów",
-      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
-      "date": "2026-06-22T22:42:21Z",
-      "source": "BleepingComputer",
-      "confirmed_by": 1,
-      "summary": "Trwająca kampania złośliwego oprogramowania skierowana jest do użytkowników WhatsApp w wielu krajach za pomocą zwodniczych wiadomości przesyłających pliki VBScript, co prowadzi do zdalnego dostępu do systemu. [...]."
     }
   ],
   "finance": [
@@ -770,6 +778,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "W ostatni weekend czerwca temperatura w cieniu może przekroczyć 40 stopni Celsjusza, tym samym może zostać pobity 105-letni rekord pomiarów. Fala upałów potrwa blisko tydzień i będzie wyzwaniem dla Polski. Zdaniem ekspertów nie czeka nas jednak powtórka z 2015 r., gdy doszło do kryzysu energetycznego."
+    },
+    {
+      "title": "\"Bezczynność nie wchodzi w grę\". Niemcy szykują bolesną rewolucję emerytalną",
+      "url": "https://www.bankier.pl/wiadomosc/Bezczynnosc-nie-wchodzi-w-gre-Niemcy-szykuja-bolesna-rewolucje-emerytalna-9156315.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-23T15:01:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Kanclerz Niemiec Friedrich Merz zapowiedział we wtorek, że przeforsuje proponowaną reformę systemu emerytalnego, dodając że „bezczynność nie wchodzi w grę”. Reforma miałaby obejmować stopniowe podnoszenie w przyszłości wieku emerytalnego w powiązaniu ze średnią długością życia."
     },
     {
       "title": "Broń \"wystarczająco dobra\", a nie luksusowa. Komisarz UE wzywa do masowej produkcj",
@@ -858,14 +874,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat EBI Corey Europe SA (corey): Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach) stockwatch.pl."
-    },
-    {
-      "title": "Trump: To zagwarantuje nuklearną uczciwość\". USA triumfuje po rozmowach z Iranem, ale Teheran odbija piłeczkę",
-      "url": "https://www.bankier.pl/wiadomosc/To-zagwarantuje-nuklearna-uczciwosc-Trump-triumfuje-po-rozmowach-z-Iranem-9156202.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-06-23T13:23:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Prezydent USA Donald Trump oznajmił we wtorek, że Iran zgodził się na „najwyższy poziom” inspekcji programu nuklearnego przez długi czas. Dodał przy tym, że Teheran „zgodził” się też na dalsze otwarcie cieśniny Ormuz. Poinformował również, że uwalniane zamrożone aktywa Iranu zostaną przeznaczone na zakup żywności z USA."
     },
     {
       "title": "Klimatyczny paradoks Polski. Sceptycyzm wobec celów, wiara w korzyści",
@@ -1296,7 +1304,7 @@
       7420.1,
       7500.58,
       7472.79,
-      7381.42
+      7378.19
     ]
   }
 }
