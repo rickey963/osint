@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T17:04:12Z",
+  "last_updated": "2026-06-23T17:09:34Z",
   "poland": [
     {
       "title": "Michał Dworczyk: Przeraża mnie krótkowzroczność Ukraińców",
@@ -8,6 +8,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Ukraińcy podjęli złą decyzję na poziomie strategicznym odrzucając współpracę z Polską - mówi Michał Dworczyk, wiceprzewodniczący Podkomisji Bezpieczeństwa i Obrony w Parlamencie Europejskim z frakcji Europejskich Konserwatystów i Reformatorów."
+    },
+    {
+      "title": "ZUS bez prezesa. Zbigniew Derdziuk odwołany",
+      "url": "https://www.rp.pl/administracja-panstwowa/art44683881-zus-bez-prezesa-zbigniew-derdziuk-odwolany",
+      "date": "2026-06-23T16:50:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 2,
+      "summary": "Zbigniew Derdziuk od środy nie będzie już prezesem Zakładu Ubezpieczeń Społecznych. Jego odwołania domagały się związki zawodowe."
     },
     {
       "title": "Amerykańskie koncerny samochodowe mają produkować broń. Trump ogłosił nowy plan",
@@ -74,14 +82,6 @@
       "summary": "Głęboko pod Oceanem Atlantyckim naukowcy eksplorują niezwykłe miejsce, które określają Zaginionym Miastem. Swoją nazwę zawdzięcza ono wyjątkowemu wyglądowi i środowisku, które nie przypomina niczego, co wcześniej obserwowano na dnie oceanów."
     },
     {
-      "title": "Watykan nie zgadza się, by kobiety i świeccy wygłaszali kazania podczas mszy",
-      "url": "https://www.rp.pl/kosciol/art44682231-watykan-nie-zgadza-sie-by-kobiety-i-swieccy-wyglaszali-kazania-podczas-mszy",
-      "date": "2026-06-23T15:50:48Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Watykan podtrzymał obowiązywanie wieloletniej zasady, zgodnie z którą wyłącznie wyświęcony kapłan lub diakon może wygłaszać kazanie podczas mszy świętej. Odrzucony został wniosek niemieckich biskupów, którzy chcieli rozszerzenia obecnej praktyki i dopuszczenia do głoszenia kazań kobiet oraz innych osób świeckich."
-    },
-    {
       "title": "Nowy pływający terminal gazowy. Jeszcze nie powstał, a Orlen już ma na nim rezerwację",
       "url": "https://businessinsider.com.pl/gielda/orlen-rezerwuje-moce-w-planowanym-terminalu-gazowy-hub-baltic-eagle-coraz-blizej/8dd0100",
       "date": "2026-06-23T15:30:07Z",
@@ -146,14 +146,6 @@
       "summary": "Kobieta wypadła z łodzi. Ratownicy apelują o ostrożność Polskie Radio 24."
     },
     {
-      "title": "Zbigniew Derdziuk odwołany z ZUS. Znamy kandydata na następcę",
-      "url": "https://businessinsider.com.pl/prawo/praca/zbigniew-derdziuk-odwolany-ze-stanowiska-prezesa-zus-rada-wybierze-nastepce/77p4vtv",
-      "date": "2026-06-23T14:27:11Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Zbigniew Derdziuk został oficjalnie odwołany ze stanowiska prezesa ZUS. Z informacji Business Insider Polska wynika, że w środę ma się zebrać rada nadzorcza ZUS, która ma zaopiniować kandydata na jego następcę. Odwołania prezesa Derdziuka domagały się związki zawodowe."
-    },
-    {
       "title": "Trump: Iran zgodził się na trwające w nieskończoność inspekcje nuklearne. Jest odpowiedź Teheranu",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,32872943,trump-iran-zgodzil-sie-na-trwajace-w-nieskonczonosc-inspekcje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-06-23T14:05:00Z",
@@ -192,6 +184,14 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Katarzyna Kawa zrobiła krok w stronę Wimbledonu. Szwajcarka nie miała szans Polskie Radio 24."
+    },
+    {
+      "title": "Zełenski rezygnuje z wizyty w Polsce. Kosiniak-Kamysz o błędzie prezydenta Ukrainy: Trudno to pominąć",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32872834,zelenski-rezygnuje-z-wizyty-w-polsce-kosiniak-kamysz-o-bledzie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-06-23T13:23:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Władysław Kosiniak-Kamysz podkreślił, że prawda historyczna i upamiętnienie ofiar ludobójstwa na Wołyniu są \"absolutnie konieczne\". Zauważył przy tym, że Polska wsłuchuje się bardzo wyraźnie w głos środowisk gospodarczych, ale \"solidarność to relacja dwukierunkowa\"."
     }
   ],
   "world_security": [
@@ -241,7 +241,7 @@
       "date": "2026-06-23T13:39:03Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Pieniądze będą pochodzić z ostatniej alokacji z irlandzkiego funduszu Shared Island Fund."
+      "summary": "Pieniądze będą pochodzić z ostatniej alokacji z irlandzkiego rządu Shared Island Fund."
     },
     {
       "title": "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciwko wirusowi Ebola",
@@ -252,7 +252,7 @@
       "summary": "Decyzja zapadła po tym, jak Aden Duale został uznany za pogardę za zignorowanie poprzedniego orzeczenia Sądu Najwyższego nakazującego wstrzymanie pracy Minister zdrowia Kenii powiedział przed sądem, że nakazał wstrzymanie przygotowań do prowadzonej przez USA placówki kwarantanny przeciwko wirusowi Ebola, po tym, jak potraktowano go z pogardą za zignorowanie poprzedniego nakazu zakończenia pracy. Wielu Kenijczyków zdecydowanie sprzeciwia się temu obiekcie, a od czasu ogłoszenia w maju budowy kompleksu wybuchły śmiertelne protesty dla obywateli USA ewakuowanych z Demokratycznej Republiki Konga, która zmaga się z problemem rozległa epidemia wirusa Ebola. Kontynuuj czytanie..."
     },
     {
-      "title": "Jak powiedziano parlamentarzystom, Wielka Brytania nadała priorytet stosunkom ze ZEA nad zapobieganiem masowym okrucieństwom w Sudanie",
+      "title": "Jak powiedziano parlamentarzystom, Wielka Brytania nadała priorytetowość stosunkom ze ZEA nad zapobieganiem masowym okrucieństwom w Sudanie",
       "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
       "date": "2026-06-23T13:15:28Z",
       "source": "The Guardian",
@@ -297,7 +297,7 @@
       "date": "2026-06-22T17:49:55Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Miejskiej policji grozi śledztwo w sprawie 16 funkcjonariuszy oskarżonych o nieproporcjonalne atakowanie mieszkańców czarnoskórych i arabskich. Burmistrz Montrealu wezwał do zaprzestania wyrywkowych kontroli policyjnych, ponieważ miejska policja zmaga się z wewnętrznym dochodzeniem w sprawie rasizmu i profilowania rasowego prowadzonego przez 16 funkcjonariuszy. Burmistrz Soraya Martinez Ferrada powiedziała w zeszłym tygodniu reporterom, że jej mąż, który jest czarny, był wielokrotnie zatrzymywany przez policję podczas jazdy. Kontynuuj czytanie..."
+      "summary": "Miejskiej policji grozi dochodzenie w sprawie 16 funkcjonariuszy oskarżonych o nieproporcjonalne atakowanie mieszkańców czarnoskórych i arabskich. Burmistrz Montrealu wezwał do zaprzestania wyrywkowych kontroli policyjnych, ponieważ miejska policja zmaga się z wewnętrznym dochodzeniem w sprawie rasizmu i profilowania rasowego prowadzonego przez 16 funkcjonariuszy. Burmistrz Soraya Martinez Ferrada powiedziała w zeszłym tygodniu reporterom, że jej mąż, który jest czarny, był wielokrotnie zatrzymywany przez policję podczas jazdy. Kontynuuj czytanie..."
     },
     {
       "title": "Pot, łzy i koleżeństwo, gdy 20 000 biegaczy bierze udział w największym ultramaratonie na świecie",
@@ -312,7 +312,7 @@
     {
       "title": "Aktualności na żywo z Bliskiego Wschodu: Stany Zjednoczone i Iran przedstawiają sprzeczne relacje z rozmów nuklearnych",
       "url": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
-      "date": "2026-06-23T16:55:48Z",
+      "date": "2026-06-23T17:06:38Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Prezydent Trump powiedział, że Iran zgodził się na inspekcje „najwyższego szczebla” kilka godzin po tym, jak irański urzędnik stwierdził, że „nie toczą się żadne szczegółowe dyskusje na temat kwestii nuklearnej”, ponieważ obie strony w dalszym ciągu przedstawiały odmienne narracje na temat swoich ostatnich rozmów."
@@ -371,7 +371,7 @@
       "date": "2026-06-23T09:00:49Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Prezydent Trump twierdzi, że Wenezuela pod amerykańskim nadzorem „nigdy nie zarobiła takich pieniędzy, jakie zarabia teraz”. Jednak nowe dochody z ropy nie pomagają zwykłym Wenezuelczykom i wydaje się, że złość narasta."
+      "summary": "Prezydent Trump twierdzi, że Wenezuela pod amerykańskim nadzorem „nigdy nie zarobiła takich pieniędzy, jakie zarabia teraz”. Jednak nowe dochody z ropy nie pomagają zwykłym Wenezuelczykom i wydaje się, że gniew narasta."
     }
   ],
   "technology": [
@@ -405,7 +405,7 @@
       "date": "2026-06-23T16:50:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Bloomberg: Źródła: SpaceX, które w ramach swojej debiutanckiej sprzedaży amerykańskich obligacji chce pozyskać od 20 do 25 miliardów dolarów, przyciągnęło popyt na kwotę około 89 miliardów dolarów &mdash; SpaceX traci 600 miliardów dolarów w ciągu trzech dni &mdash; Trwa ładowanie odtwarzacza wideo. &mdash; Wyłącz wyciszenie &ndash; Bieżący czas 0:00 Załadowano: 12,89% Szybkość odtwarzania &mdash; napisy wyłączone, wybrane."
+      "summary": "Bloomberg: Źródła: SpaceX, które w ramach swojej debiutanckiej sprzedaży amerykańskich obligacji chce zebrać od 20 do 25 miliardów dolarów, przyciągnęło popyt na kwotę około 89 miliardów dolarów &mdash; SpaceX traci 600 miliardów dolarów w ciągu trzech dni &mdash; Trwa ładowanie odtwarzacza wideo. &mdash; Wyłącz wyciszenie &ndash; Bieżący czas 0:00 Załadowano: 12,89% Szybkość odtwarzania &mdash; napisy wyłączone, wybrane."
     },
     {
       "title": "Backblaze ogłasza pięcioletnią umowę dotyczącą wielu eksabajtów z CoreWeave",
@@ -462,6 +462,22 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Financial Times: Stark, który ma umowę na dostawę „kamikaze” drony dla armii niemieckiej, zebrane 500 mln euro z Founders Fund, Sequoia i innych; spotkał się z krytyką w związku z krawatami Thiela &mdash; Fundusz amerykańskiego miliardera wziął udział w rundzie finansowania wynoszącej 500 mln euro pomimo wcześniejszej krytyki powiązań firmy z finansistą."
+    },
+    {
+      "title": "Trump może być tajemniczym pacjentem w dziwnym przypadku 79-latka otrzymującego eksperymentalny lek na otyłość",
+      "url": "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
+      "date": "2026-06-23T16:16:54Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Publiczne ogłoszenie o pojedynczym przypadku „współczującego użycia” jest pod każdym względem dziwne."
+    },
+    {
+      "title": "Home Assistant OS 18. Łatwiejsze uruchomienie na Raspberry Pi",
+      "url": "https://www.benchmark.pl/home-assistant-os-18-latwiejsze-uruchomienie-na-raspberry-pi-7299859961030656a",
+      "date": "2026-06-23T16:13:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Home Assistant OS 18 trafił do użytkowników jako kolejna wersja systemu, na którym działa popularna platforma smart home. Aktualizacja ma ułatwić instalację i pierwsze uruchomienie — zarówno na Raspberry Pi, jak i w maszynach wirtualnych — a przy okazji poprawić stabilność oraz kompatybilność ze sprzętem."
     },
     {
       "title": "LastPass powiadamia klientów, że ich dane osobowe i zapisy dotyczące obsługi klienta zostały skradzione podczas włamania do kanadyjskiej firmy badawczej Klue (Zack Whittaker/TechCrunch)",
@@ -550,22 +566,6 @@
       "source": "Hacker News",
       "confirmed_by": 1,
       "summary": "Adres URL artykułu: https://dandylyons.github.io/treedocs/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48646209 Punkty: 15 # Komentarze: 8."
-    },
-    {
-      "title": "Wyciekły tajne dane Apple i Tesli. Ponad 200 tys. dokumentów",
-      "url": "https://antyweb.pl/wyciekly-tajne-dane-apple-i-tesli-ponad-200-tys-dokumentow",
-      "date": "2026-06-23T15:00:43Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Nie trzeba włamywać się do Apple, by wykraść sekrety iPhone'a – wystarczył atak na dostawcę z Indii."
-    },
-    {
-      "title": "SCOTUS kończy pozew, w którym utrzymuje, że Cisco pomagało w prześladowaniach Falun Gong w Chinach, jeszcze bardziej ograniczając prawo stosowane do pociągania korporacji do odpowiedzialności za łamanie praw człowieka za granicą (Jan Wolfe/Reuters)",
-      "url": "https://www.techmeme.com/260623/p22#a260623p22",
-      "date": "2026-06-23T15:00:37Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Jan Wolfe / Reuters: SCOTUS kończy pozew, w którym zarzucono, że Cisco pomagało w prześladowaniach Falun Gong w Chinach, jeszcze bardziej ograniczając prawo stosowane do pociągania korporacji do odpowiedzialności za łamanie praw człowieka za granicą &mdash; Sąd Najwyższy Stanów Zjednoczonych jeszcze bardziej ograniczył zasięg prawa federalnego stosowanego do pociągania korporacji do odpowiedzialności za naruszenia praw człowieka popełniane za granicą."
     }
   ],
   "cybersecurity": [
@@ -647,7 +647,7 @@
       "date": "2026-06-23T14:22:03Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "GitHub pracuje nad wzmocnieniem bezpieczeństwa łańcucha dostaw oprogramowania, aktualizując „actions/checkout”, aby blokować ataki typu pwn request wykorzystujące ryzykowne użycie wyzwalacza „pull_request_target flow” w celu uruchomienia złośliwego kodu z pełnymi uprawnieniami przepływu pracy. Od 18 czerwca 2026 r. obowiązuje najnowsza wersja „akcji/checkout”, oficjalnej akcji GitHub służącej do sprawdzania repozytorium w pliku."
+      "summary": "GitHub pracuje nad wzmocnieniem bezpieczeństwa łańcucha dostaw oprogramowania, aktualizując „actions/checkout”, aby blokować ataki typu pwn request wykorzystujące ryzykowne użycie wyzwalacza „pull_request_target flow” w celu uruchomienia złośliwego kodu z pełnymi uprawnieniami przepływu pracy. Od 18 czerwca 2026 r. obowiązuje najnowsza wersja „akcji/kasy”, oficjalnej akcji GitHub służącej do sprawdzania repozytorium w pliku."
     },
     {
       "title": "21 000 stanowisk pracy w Oracle zniknie w wyniku dużych zakładów Big Red na sztuczną inteligencję",
@@ -690,7 +690,7 @@
       "summary": "„AI slop” to pejoratywne określenie na treści generowane przez sztuczną inteligencję, pozbawione większego sensu. Jeden z raportów pokazuje, że platforma chińskiego ByteDance składa się częściowo z filmików generowanych przy użyciu AI. Badacze wykazali, że prawie 3/5 filmów oglądanych na nowym koncie to „AI slop”."
     },
     {
-      "title": "Microsoft Access wreszcie uwalnia się od ograniczeń w zakresie 22-calowych rozmiarów",
+      "title": "Microsoft Access w końcu uwalnia się od ograniczeń w zakresie 22-calowych rozmiarów",
       "url": "https://www.theregister.com/databases/2026/06/23/microsoft-access-finally-breaks-free-of-its-22-inch-form-limit/5260005",
       "date": "2026-06-23T12:36:00Z",
       "source": "The Register",
@@ -703,7 +703,7 @@
       "date": "2026-06-23T12:12:20Z",
       "source": "BleepingComputer",
       "confirmed_by": 1,
-      "summary": "Ataki typu phishing, BEC i przejmowanie kont w dalszym ciągu przytłaczają zespoły ds. bezpieczeństwa alertami i dochodzeniami. W tym seminarium internetowym dowiesz się, w jaki sposób behawioralna sztuczna inteligencja może pomóc w automatyzacji procesów wykrywania i reagowania, zmniejszając zmęczenie alertami i poprawiając efektywność operacyjną. [...]."
+      "summary": "Ataki typu phishing, BEC i przejmowanie kont w dalszym ciągu przytłaczają zespoły ds. bezpieczeństwa alertami i dochodzeniami. W tym seminarium internetowym dowiesz się, w jaki sposób behawioralna sztuczna inteligencja może pomóc w automatyzacji procesów wykrywania i reagowania, zmniejszając zmęczenie alertami i poprawiając wydajność operacyjną. [...]."
     },
     {
       "title": "AWS debiutuje Lambda MicroVM z czasem działania do 8 godzin",
@@ -743,7 +743,7 @@
       "date": "2026-06-23T10:45:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Retrokomputerowa zabawa dla nostalgicznych z pierwszą (i ostatnią) wersją korzystającą z Motif zamiast GTK."
+      "summary": "Retrokomputerowa zabawa dla nostalgików z pierwszą (i ostatnią) wersją korzystającą z Motif zamiast GTK."
     },
     {
       "title": "Złośliwe pakiety npm udają narzędzia PostCSS do dostarczania Windows RAT",
@@ -961,6 +961,14 @@
     "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciwko wirusowi Ebola"
   ],
   "map_features": [
+    {
+      "lat": 48.38,
+      "lng": 31.18,
+      "type": "conflict",
+      "region": "Ukraina",
+      "description": "Władysław Kosiniak-Kamysz podkreślił, że prawda historyczna i upamiętnienie ofiar ludobójstwa na Wołyniu są \"absolutnie konieczne\".",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32872834,zelenski-rezygnuje-z-wizyty-w-polsce-kosiniak-kamysz-o-bledzie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882"
+    },
     {
       "lat": 31.5,
       "lng": 34.47,
@@ -1289,7 +1297,7 @@
       7420.1,
       7500.58,
       7472.79,
-      7394.91
+      7395.96
     ]
   }
 }
