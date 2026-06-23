@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T11:46:49Z",
+  "last_updated": "2026-06-23T11:51:49Z",
   "poland": [
     {
       "title": "Rosja pod presją długu. Masowa wyprzedaż obligacji skarbowych",
@@ -196,6 +196,14 @@
   ],
   "world_security": [
     {
+      "title": "Rodzina byłego prezydenta Zambii wygrywa ostatnią batalię prawną o to, co powinno stać się z jego ciałem",
+      "url": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-23T11:33:33Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "12 miesięcy po jego śmierci rodzina Edgara Lungu i rząd Zambii pozostają w sporze."
+    },
+    {
       "title": "Komisja śledcza ONZ twierdzi, że Izrael dopuszcza się ludobójstwa w Gazie, celowo obierając za cel dzieci",
       "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-23T11:10:06Z",
@@ -242,14 +250,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Notatka od potencjalnych porywaczy podobno stwierdzała, że ​​nie chcieli, aby ona umarła, i zawierała przeprosiny dla rodziny."
-    },
-    {
-      "title": "Dettol przeprasza po reklamie mającej na celu usunięcie skutków „toksycznych mężczyzn” w Chinach",
-      "url": "https://www.bbc.co.uk/news/articles/ced4vq6zylpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-23T08:05:07Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Reklama wywołała oskarżenia o seksizm w Chinach po tym, jak ukazała mężczyznę szukającego partnera, który „nie jest skażony innymi mężczyznami”."
     },
     {
       "title": "Aktywiści twierdzą, że sygnalista prowadzący dochodzenie w sprawie rodzinnej firmy prezydenta Ekwadoru został zamordowany",
@@ -347,7 +347,7 @@
       "date": "2026-06-23T09:00:49Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Prezydent Trump twierdzi, że Wenezuela pod amerykańskim nadzorem „nigdy nie zarobiła takich pieniędzy, jakie zarabia teraz”. Jednak nowe dochody z ropy nie pomagają zwykłym Wenezuelczykom i wydaje się, że gniew narasta."
+      "summary": "Prezydent Trump twierdzi, że Wenezuela pod amerykańskim nadzorem „nigdy nie zarobiła takich pieniędzy, jakie zarabia teraz”. Jednak nowe dochody z ropy nie pomagają zwykłym Wenezuelczykom i wydaje się, że złość narasta."
     },
     {
       "title": "Podczas meczu Pucharu Świata w piłce nożnej pełno jest palestyńskich emblematów",
@@ -365,7 +365,7 @@
       "date": "2026-06-23T11:40:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Juro Osawa / Informacje: ByteDance prezentuje Seedance 2.5 w Pekinie, twierdząc, że model wideo AI może generować 30-sekundowe klipy z maksymalnie 50 materiałów referencyjnych, w porównaniu z 12 w przypadku Seedance 2.0 &mdash; We wtorek na konferencji w Pekinie ByteDance zaprezentowało Seedance 2.5, nowy model generowania wideo AI."
+      "summary": "Juro Osawa / Informacje: ByteDance przedstawia Seedance 2.5 w Pekinie, twierdząc, że model wideo AI może generować 30-sekundowe klipy z maksymalnie 50 materiałów referencyjnych, w porównaniu z 12 w przypadku Seedance 2.0 &mdash; We wtorek na konferencji w Pekinie ByteDance zaprezentowało Seedance 2.5, nowy model generowania wideo AI."
     },
     {
       "title": "mObywatel z kolejną nowością jeszcze w czerwcu. Kierowcy zyskają przydatne narzędzie",
@@ -392,12 +392,12 @@
       "summary": "Unia Europejska pomoże w oczyszczeniu systemu Android - istnieje szansa, że pojawi się opcja usunięcia Gemini i innych funkcji AI. Artykuł Android bez Gemini i innych funkcji AI. Unia pomoże wyrzucić śmieci pochodzi z serwisu INSTALKI."
     },
     {
-      "title": "Kraków chcę mieć kładkę jak Warszawa. Poprzednio w internecie wybuchły zamieszki",
+      "title": "Kraków chce mieć kładkę jak Warszawa. Poprzednio w internecie wybuchły zamieszki",
       "url": "https://spidersweb.pl/2026/06/krakow-nowa-kladka-otwarcie.html",
       "date": "2026-06-23T11:20:00Z",
       "source": "Spider's Web",
       "confirmed_by": 1,
-      "summary": "Kraków chcę mieć kładkę jak Warszawa. Poprzednio w internecie wybuchły zamieszki."
+      "summary": "Kraków chce mieć kładkę jak Warszawa. Poprzednio w internecie wybuchły zamieszki."
     },
     {
       "title": "WhatsApp pięknieje w oczach. Takie zmiany to skarb",
@@ -575,7 +575,7 @@
       "date": "2026-06-23T10:45:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Retrokomputerowa zabawa dla nostalgików z pierwszą (i ostatnią) wersją korzystającą z Motif zamiast GTK."
+      "summary": "Retrokomputerowa zabawa dla nostalgicznych z pierwszą (i ostatnią) wersją korzystającą z Motif zamiast GTK."
     },
     {
       "title": "Brytyjczycy nadal uważają, że Big Tech nie płaci wystarczających podatków",
@@ -747,6 +747,14 @@
     }
   ],
   "finance": [
+    {
+      "title": "Rząd szykuje zmiany w ochronie zdrowia. Premier mówi o „odważnych propozycjach”",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-szykuje-zmiany-w-ochronie-zdrowia-Premier-mowi-o-odwaznych-propozycjach-9156108.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-23T11:48:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Premier Donald Tusk zapowiedział we wtorek, że będzie „prosił o odważniejsze propozycje ustawowe dotyczące naprawy systemu ochrony zdrowia”. - Czeka nas też chyba bardzo poważna rozmowa z szefostwem NFZ-u - dodał szef rządu."
+    },
     {
       "title": "Premier: Powstanie drugi pływający terminal LNG w Zatoce Gdańskiej",
       "url": "https://www.bankier.pl/wiadomosc/Premier-Powstanie-drugi-plywajacy-terminal-LNG-w-Zatoce-Gdanskiej-9156096.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -930,14 +938,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Przed podpisaniem umowy z producentem zbiorników przemysłowych warto zadać kilka konkretnych pytań. Dzięki temu łatwiej sprawdzisz doświadczenie wykonawcy, zakres usług, stosowane materiały oraz sposób realizacji projektu. Kilkanaście minut rozmowy może uchronić inwestora przed kosztownymi problemami i opóźnieniami."
-    },
-    {
-      "title": "Powtarzalność jako przewaga rynkowa – mieszanie produktów sypkich według receptury klienta w nowoczesnym łańcuchu dostaw",
-      "url": "https://300gospodarka.pl/material-partnera/powtarzalnosc-jako-przewaga-rynkowa-mieszanie-produktow-sypkich-wedlug-receptury-klienta-w-nowoczesnym-lancuchu-dostaw",
-      "date": "2026-06-23T04:25:27Z",
-      "source": "300Gospodarka",
-      "confirmed_by": 1,
-      "summary": "Rynek nagradza przewidywalność. Klient przemysłowy oczekuje, że każda dostawa będzie identyczna z poprzednią, niezależnie od tego, czy zamawia ją w styczniu, czy pół roku później. W przypadku materiałów sypkich, granulatów i pyłów łączonych w wieloskładnikowe receptury utrzymanie takiej stałości bywa jednak realnym wyzwaniem technologicznym i organizacyjnym."
     }
   ],
   "critical_alerts": [
