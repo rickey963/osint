@@ -25,7 +25,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          # Full history isn't needed - the commit step re-fetches origin/main
+          # and rebases before pushing, so a shallow clone of the tip is enough
+          # and skips downloading the (large, ever-growing) automated-commit history.
+          fetch-depth: 1
           # A push made with the default GITHUB_TOKEN does not trigger this
           # workflow's own `push` trigger (GitHub's anti-loop guard). A PAT
           # isn't subject to that guard, so pushing with it makes each run's
@@ -37,6 +40,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+          cache: 'pip'
 
       - name: Install dependencies
         run: |

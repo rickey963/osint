@@ -31,6 +31,13 @@ MAX_ARTICLES_PER_SECTION = 24
 FRESHNESS_WINDOW_HOURS = 72
 DEDUPE_OVERLAP_THRESHOLD = 0.5
 
+# Shared across all sections (which now fetch concurrently - see main()) so the
+# total number of simultaneous Google Translate requests stays capped even
+# though several sections are finalizing items at the same time. Without this
+# cap, N sections each opening their own translate pool multiplies concurrent
+# requests against Google's free endpoint and triggers connection resets.
+TRANSLATE_EXECUTOR = ThreadPoolExecutor(max_workers=8)
+
 
 # ---------------------------------------------------------------------------
 # Fetch / clean / translate
@@ -164,8 +171,7 @@ def fetch_section(name_to_url_kind):
         del item['kind']
         return item
 
-    with ThreadPoolExecutor(max_workers=min(10, len(deduped) or 1)) as executor:
-        finalized = list(executor.map(_finalize, deduped))
+    finalized = list(TRANSLATE_EXECUTOR.map(_finalize, deduped))
     return finalized
 
 
@@ -325,27 +331,44 @@ def build_investment_picks(sections):
     return picks[:3]
 
 
+def _fetch_yahoo_chart_series(symbol):
+    resp = requests.get(
+        f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=6mo&interval=1d",
+        headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'},
+        timeout=15,
+    )
+    resp.raise_for_status()
+    result = resp.json()['chart']['result'][0]
+    timestamps = result['timestamp']
+    closes = result['indicators']['quote'][0]['close']
+    series = {}
+    for ts, close in zip(timestamps, closes):
+        if close is None:
+            continue
+        day = datetime.datetime.fromtimestamp(ts, datetime.timezone.utc).strftime('%Y-%m-%d')
+        series[day] = close
+    return series
+
+
 def fetch_sp500_trend():
     try:
-        resp = requests.get(
-            "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=6mo&interval=1d",
-            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'},
-            timeout=15,
-        )
-        resp.raise_for_status()
-        result = resp.json()['chart']['result'][0]
-        timestamps = result['timestamp']
-        closes = result['indicators']['quote'][0]['close']
-        dates, prices = [], []
-        for ts, close in zip(timestamps, closes):
-            if close is None:
-                continue
-            dates.append(datetime.datetime.fromtimestamp(ts, datetime.timezone.utc).strftime('%Y-%m-%d'))
-            prices.append(round(close, 2))
-        return {'dates': dates, 'prices': prices}
+        sp500_usd = _fetch_yahoo_chart_series('%5EGSPC')
+        try:
+            usdpln = _fetch_yahoo_chart_series('USDPLN=X')
+        except Exception as e:
+            logger.error(f"Failed to fetch USDPLN rate: {e}")
+            usdpln = {}
+
+        fallback_rate = list(usdpln.values())[-1] if usdpln else 4.0
+        dates = sorted(sp500_usd.keys())
+        prices_pln = []
+        for day in dates:
+            rate = usdpln.get(day, fallback_rate)
+            prices_pln.append(round(sp500_usd[day] * rate, 2))
+        return {'dates': dates, 'prices': prices_pln, 'currency': 'PLN'}
     except Exception as e:
         logger.error(f"Failed to fetch S&P 500 trend: {e}")
-        return {'dates': [], 'prices': []}
+        return {'dates': [], 'prices': [], 'currency': 'PLN'}
 
 
 # ---------------------------------------------------------------------------
@@ -353,10 +376,18 @@ def fetch_sp500_trend():
 # ---------------------------------------------------------------------------
 
 def main():
-    sections = {}
-    for key, source_list in sources.ALL_SECTIONS.items():
-        logger.info(f"Fetching section: {key}")
-        sections[key] = fetch_section(source_list)
+    # All sections (and the S&P 500 trend) are independent I/O-bound fetches,
+    # so they run concurrently rather than one-after-another - wall-clock
+    # time becomes the slowest single section instead of the sum of all of them.
+    with ThreadPoolExecutor(max_workers=len(sources.ALL_SECTIONS) + 1) as executor:
+        logger.info(f"Fetching {len(sources.ALL_SECTIONS)} sections concurrently...")
+        section_futures = {
+            key: executor.submit(fetch_section, source_list)
+            for key, source_list in sources.ALL_SECTIONS.items()
+        }
+        sp500_future = executor.submit(fetch_sp500_trend)
+        sections = {key: f.result() for key, f in section_futures.items()}
+        sp500_trend = sp500_future.result()
 
     output = {
         'last_updated': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
@@ -370,7 +401,7 @@ def main():
         'map_features': build_map_features(sections),
         'instability': build_instability(sections),
         'investment_picks': build_investment_picks(sections),
-        'sp500_trend': fetch_sp500_trend(),
+        'sp500_trend': sp500_trend,
     }
 
     with open('data.json', 'w', encoding='utf-8') as f:

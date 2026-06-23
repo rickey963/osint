@@ -5,6 +5,8 @@
 const DATA_URL = 'data.json';
 const REFRESH_INTERVAL = 60000; // 60s - dashboard refreshes itself, no reload needed
 const FRESH_THRESHOLD_MINUTES = 30;
+const MAX_ARTICLES_PER_CATEGORY = 3;
+const MAX_ARTICLES_PER_SUBCATEGORY = 1;
 
 let map, sp500Chart;
 let mapMarkers = [];
@@ -23,6 +25,8 @@ document.addEventListener('DOMContentLoaded', () => {
     initLayerToggles();
     loadData();
     setInterval(loadData, REFRESH_INTERVAL);
+    setTimeout(() => map && map.invalidateSize(), 100);
+    window.addEventListener('resize', () => map && map.invalidateSize());
 });
 
 function initLayerToggles() {
@@ -39,6 +43,16 @@ function isFresh(dateStr) {
     if (isNaN(d)) return false;
     const diffMinutes = (Date.now() - d.getTime()) / 60000;
     return diffMinutes >= 0 && diffMinutes <= FRESH_THRESHOLD_MINUTES;
+}
+
+const articleDateFormatter = new Intl.DateTimeFormat('pl-PL', {
+    day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Warsaw',
+});
+
+function formatArticleDate(dateStr) {
+    const d = new Date(dateStr);
+    if (isNaN(d)) return '';
+    return articleDateFormatter.format(d);
 }
 
 async function loadData() {
@@ -87,14 +101,14 @@ async function loadData() {
 
 function buildSubcategoryBlock(label, colorClass, articles) {
     const wrapper = document.createElement('div');
-    wrapper.className = 'mb-4';
+    wrapper.className = 'min-h-0 flex-1 flex flex-col gap-2 overflow-hidden';
     const header = document.createElement('h4');
-    header.className = `text-[10px] font-bold uppercase ${colorClass} mb-1`;
+    header.className = `text-[10px] font-bold uppercase ${colorClass} mb-0.5 shrink-0`;
     header.textContent = label;
     wrapper.appendChild(header);
     const div = document.createElement('div');
-    div.className = 'space-y-3';
-    renderNewsToElement(div, articles);
+    div.className = 'min-h-0 flex-1 flex flex-col gap-2 overflow-hidden';
+    renderNewsToElement(div, articles, MAX_ARTICLES_PER_SUBCATEGORY);
     wrapper.appendChild(div);
     return wrapper;
 }
@@ -103,12 +117,13 @@ function renderNews(containerId, articles) {
     const container = document.getElementById(containerId);
     if (!container) return;
     container.innerHTML = '';
-    renderNewsToElement(container, articles);
+    renderNewsToElement(container, articles, MAX_ARTICLES_PER_CATEGORY);
 }
 
-function renderNewsToElement(container, articles) {
+function renderNewsToElement(container, articles, limit) {
     if (!container || !articles) return;
-    articles.forEach((article) => {
+    const list = limit ? articles.slice(0, limit) : articles;
+    list.forEach((article) => {
         const fresh = isFresh(article.date);
         const card = document.createElement('div');
         card.className = `news-card${fresh ? ' new-article' : ''}`;
@@ -117,6 +132,7 @@ function renderNewsToElement(container, articles) {
             : '';
         card.innerHTML = `
             <h3 class="news-title">${article.title}${confirmedBadge}</h3>
+            <div class="news-date">${formatArticleDate(article.date)}</div>
             <p class="news-snippet">${article.summary}</p>
             <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="news-link">${article.source || 'Źródło'} &rarr;</a>
         `;
@@ -147,9 +163,9 @@ function renderInvestmentPicks(picks) {
         return;
     }
     container.innerHTML = picks.map((p) => `
-        <div class="border-b border-slate-800/50 last:border-0 pb-2">
-            <div class="text-emerald-400 font-bold text-xs">${p.sector}</div>
-            <div class="text-slate-500 text-[11px]">${p.instrument}</div>
+        <div class="border-b border-slate-800/50 last:border-0 pb-1">
+            <div class="text-emerald-400 font-bold text-[10px]">${p.sector}</div>
+            <div class="text-slate-500 text-[9px]">${p.instrument}</div>
         </div>
     `).join('');
 }
@@ -182,18 +198,55 @@ function renderMapMarkers() {
     });
 }
 
+const sp500LabelFormatter = new Intl.DateTimeFormat('pl-PL', { day: '2-digit', month: '2-digit' });
+const sp500PlnFormatter = new Intl.NumberFormat('pl-PL', { maximumFractionDigits: 0 });
+
 function initChart() {
     const ctx = document.getElementById('sp500Chart').getContext('2d');
     sp500Chart = new Chart(ctx, {
         type: 'line',
-        data: { labels: [], datasets: [{ data: [], borderColor: '#ef4444', tension: 0.4, borderWidth: 2, pointRadius: 0, fill: true, backgroundColor: 'rgba(239,68,68,0.1)' }] },
-        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { display: false }, y: { grid: { color: '#1e293b' }, ticks: { font: { size: 8 } } } } }
+        data: { labels: [], datasets: [{ data: [], borderColor: '#3b82f6', tension: 0.3, borderWidth: 2, pointRadius: 0, fill: true, backgroundColor: 'rgba(59,130,246,0.1)' }] },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: { legend: { display: false } },
+            scales: {
+                x: {
+                    display: true,
+                    grid: { display: false },
+                    ticks: { font: { size: 7 }, color: '#64748b', maxTicksLimit: 6, maxRotation: 0 },
+                },
+                y: {
+                    position: 'left',
+                    display: true,
+                    grid: { color: '#1e293b' },
+                    ticks: {
+                        font: { size: 7 },
+                        color: '#64748b',
+                        maxTicksLimit: 4,
+                        callback: (value) => `${sp500PlnFormatter.format(value)} zł`,
+                    },
+                },
+            },
+        },
     });
 }
 
 function updateChart(trend) {
     if (!sp500Chart || !trend || !trend.dates || !trend.dates.length) return;
-    sp500Chart.data.labels = trend.dates;
+    sp500Chart.data.labels = trend.dates.map((d) => sp500LabelFormatter.format(new Date(d)));
     sp500Chart.data.datasets[0].data = trend.prices;
     sp500Chart.update();
+
+    const currentEl = document.getElementById('sp500-current');
+    const changeEl = document.getElementById('sp500-change');
+    const prices = trend.prices;
+    const last = prices[prices.length - 1];
+    if (currentEl) currentEl.textContent = `${sp500PlnFormatter.format(last)} zł`;
+    if (changeEl && prices.length > 1) {
+        const prev = prices[prices.length - 2];
+        const diffPct = ((last - prev) / prev) * 100;
+        changeEl.textContent = `${diffPct >= 0 ? '+' : ''}${diffPct.toFixed(2)}%`;
+        changeEl.className = `text-[10px] font-bold mt-0.5 ${diffPct >= 0 ? 'text-emerald-400' : 'text-red-400'}`;
+    }
 }

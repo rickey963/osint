@@ -13,36 +13,36 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="stylesheet" href="style.css">
 </head>
-<body class="bg-slate-950 text-slate-200 font-sans antialiased">
+<body class="bg-slate-950 text-slate-200 font-sans antialiased h-screen overflow-hidden flex flex-col">
 
     <!-- 1. ALARM KRYTYCZNY (Full Width, Top) -->
-    <div id="critical-banner" class="w-full bg-red-600 text-white py-2 px-4 shadow-2xl z-[100] relative overflow-hidden">
-        <div class="container mx-auto flex items-center justify-center gap-3 font-black uppercase tracking-tighter text-sm md:text-base">
+    <div id="critical-banner" class="w-full bg-red-600 text-white py-1 px-4 shadow-2xl z-[100] relative overflow-hidden shrink-0">
+        <div class="container mx-auto flex items-center justify-center gap-3 font-black uppercase tracking-tighter text-xs">
             <span class="animate-pulse">⚠️</span>
             <span id="critical-alert-text">ŁADOWANIE ALARMÓW KRYTYCZNYCH...</span>
         </div>
     </div>
 
     <!-- HEADER WITH LAST UPDATED -->
-    <header class="bg-slate-900/80 backdrop-blur-md border-b border-slate-800 p-4 shadow-lg">
-        <div class="container mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
-            <h1 class="text-2xl font-black tracking-tighter text-red-500 uppercase italic">OSINT - monitoring sytuacyjny</h1>
-            <div id="last-update" class="text-[10px] md:text-xs font-mono text-slate-500 bg-slate-950 px-3 py-1 rounded border border-slate-800">
+    <header class="bg-slate-900/80 backdrop-blur-md border-b border-slate-800 px-4 py-1.5 shadow-lg shrink-0">
+        <div class="container mx-auto flex flex-col md:flex-row justify-between items-center gap-2">
+            <h1 class="text-base font-black tracking-tighter text-red-500 uppercase italic">OSINT - monitoring sytuacyjny</h1>
+            <div id="last-update" class="text-[9px] font-mono text-slate-500 bg-slate-950 px-3 py-0.5 rounded border border-slate-800">
                 OSTATNIA AKTUALIZACJA: <span id="update-time">--:--</span>
             </div>
         </div>
     </header>
 
-    <main class="container mx-auto py-6 space-y-8">
+    <main class="container mx-auto flex-1 min-h-0 flex flex-col gap-2 px-4 py-2 overflow-hidden">
 
-        <!-- MAIN CONTENT AREA (Map vs Sidebar) -->
-        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start">
+        <!-- TOP: MAP (left) + TV / CHART / PICKS (right column) -->
+        <div class="flex-[1.5] min-h-0 grid grid-cols-1 lg:grid-cols-3 gap-3">
 
             <!-- LEFT: WORLD MAP (Spans 2 columns on large screens) -->
-            <section id="map-section" class="lg:col-span-2 space-y-4 group">
-                <div class="flex items-center justify-between border-b border-slate-800 pb-2 flex-wrap gap-2">
-                    <h2 class="text-sm font-bold uppercase tracking-widest text-slate-400 group-hover:text-red-500 transition-colors">Globalne Zagrożenia (Mapa)</h2>
-                    <div id="map-layers" class="flex items-center gap-3 flex-wrap">
+            <section id="map-section" class="lg:col-span-2 min-h-0 flex flex-col gap-1 group">
+                <div class="flex items-center justify-between border-b border-slate-800 pb-1 flex-wrap gap-2 shrink-0">
+                    <h2 class="text-[11px] font-bold uppercase tracking-widest text-slate-400 group-hover:text-red-500 transition-colors">Globalne Zagrożenia (Mapa)</h2>
+                    <div id="map-layers" class="flex items-center gap-2 flex-wrap">
                         <label class="map-layer-toggle">
                             <input type="checkbox" data-layer="conflict" checked>
                             <span class="map-legend-dot" style="background:#ef4444"></span> Konflikty
@@ -61,71 +61,88 @@
                         </label>
                     </div>
                 </div>
-                <div id="map" class="w-full h-[500px] rounded-2xl border border-slate-800 shadow-2xl ring-1 ring-white/5 z-10"></div>
+                <div id="map" class="w-full flex-1 min-h-0 rounded-2xl border border-slate-800 shadow-2xl ring-1 ring-white/5 z-10"></div>
             </section>
 
-            <!-- RIGHT: SIDEBAR (Instability + S&P 500) -->
-            <aside class="space-y-6">
-                <!-- Instability Index -->
-                <div id="instability" class="bg-slate-900/40 border border-slate-800 p-5 rounded-2xl space-y-4 shadow-lg">
-                    <h3 class="text-xs font-black uppercase tracking-[0.2em] text-orange-500 border-l-2 border-orange-600 pl-3">Wskaźnik Niestabilności</h3>
-                    <div id="country-instability" class="space-y-3 text-sm">
-                        <!-- Countries injected here -->
+            <!-- RIGHT: TV / S&P 500 / INVESTMENT PICKS, stacked -->
+            <aside class="min-h-0 flex flex-col gap-2 overflow-hidden">
+
+                <!-- Live TV -->
+                <div class="bg-slate-900/40 border border-slate-800 p-2 rounded-2xl shadow-lg flex-[1.3] min-h-0 flex flex-col overflow-hidden">
+                    <h3 class="text-[10px] font-black uppercase tracking-[0.15em] text-red-500 mb-1 shrink-0 flex items-center gap-1.5">
+                        <span class="inline-block w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                        FRANCE 24 English &mdash; LIVE
+                    </h3>
+                    <div class="flex-1 min-h-0 relative rounded-lg overflow-hidden bg-black">
+                        <iframe
+                            class="absolute inset-0 w-full h-full"
+                            src="https://www.youtube.com/embed/live_stream?channel=UCQfwfsi5VrQ8yKZ-UWmAEFg&autoplay=1&mute=1"
+                            title="FRANCE 24 English LIVE"
+                            frameborder="0"
+                            allow="autoplay; encrypted-media; picture-in-picture"
+                            allowfullscreen></iframe>
                     </div>
                 </div>
 
                 <!-- S&P 500 Chart -->
-                <div class="bg-slate-90_0/40 border border-slate-800 p-5 rounded-2xl shadow-lg">
-                    <h3 class="text-xs font-black uppercase tracking-[0.2em] text-blue-500 mb-4">S&P 500 Trend (6M)</h3>
-                    <div class="h-[200px] w-full">
-                        <canvas id="sp500Chart"></canvas>
+                <div class="bg-slate-900/40 border border-slate-800 p-2 rounded-2xl shadow-lg flex-1 min-h-0 flex flex-col">
+                    <h3 class="text-[10px] font-black uppercase tracking-[0.15em] text-blue-500 mb-1 shrink-0">S&P 500 (6 miesięcy, PLN)</h3>
+                    <div class="flex-1 min-h-0 flex gap-2 items-stretch">
+                        <div class="shrink-0 w-16 flex flex-col justify-center border-r border-slate-800 pr-1.5">
+                            <span class="text-[8px] text-slate-500 uppercase tracking-wider">Aktualnie</span>
+                            <span id="sp500-current" class="text-sm font-black text-blue-400 leading-tight">--</span>
+                            <span id="sp500-change" class="text-[9px] font-bold mt-0.5">&nbsp;</span>
+                        </div>
+                        <div class="flex-1 min-h-0 relative">
+                            <canvas id="sp500Chart"></canvas>
+                        </div>
                     </div>
                 </div>
 
                 <!-- AI Investment Picks -->
-                <div class="bg-slate-900/40 border border-slate-800 p-5 rounded-2xl space-y-3 shadow-lg">
-                    <h3 class="text-xs font-black uppercase tracking-[0.2em] text-emerald-500 border-l-2 border-emerald-600 pl-3">Sugestie AI (sektory/ETF)</h3>
-                    <div id="investment-picks" class="space-y-2 text-sm"></div>
-                    <p class="investment-disclaimer">To nie jest porada inwestycyjna - materiał wyłącznie edukacyjny, generowany heurystycznie na podstawie bieżących wydarzeń geopolitycznych.</p>
+                <div class="bg-slate-900/40 border border-slate-800 p-2 rounded-2xl shadow-lg flex-1 min-h-0 flex flex-col gap-1 overflow-hidden">
+                    <h3 class="text-[10px] font-black uppercase tracking-[0.15em] text-emerald-500 border-l-2 border-emerald-600 pl-2 shrink-0">Sugestie AI (sektory/ETF)</h3>
+                    <div id="investment-picks" class="text-[10px] flex-1 min-h-0 overflow-hidden"></div>
+                    <p class="investment-disclaimer shrink-0">To nie jest porada inwestycyjna - materiał edukacyjny.</p>
                 </div>
             </aside>
         </div>
 
-        <!-- BOTTOM SECTION: NEWS TILES GRID -->
-        <section id="news-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <!-- Categories will be rendered as cards here -->
+        <!-- BOTTOM ROW: Instability + all news category tiles, side by side -->
+        <section id="news-grid" class="flex-1 min-h-0 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-2 overflow-hidden">
+            <!-- Niestabilność -->
+            <div class="min-h-0 flex flex-col gap-1 overflow-hidden">
+                <h2 class="text-[10px] font-bold text-orange-500 uppercase border-b border-orange-900/30 pb-1 shrink-0">Niestabilność</h2>
+                <div id="country-instability" class="min-h-0 flex-1 overflow-hidden space-y-0.5"></div>
+            </div>
             <!-- Polska -->
-            <div class="space-y-4">
-                <h2 class="text-sm font-bold text-blue-500 uppercase border-b border-blue-900/30 pb-1">Polska</h2>
-                <div id="news-pl" class="space-y-3"></div>
+            <div class="min-h-0 flex flex-col gap-1 overflow-hidden">
+                <h2 class="text-[10px] font-bold text-blue-500 uppercase border-b border-blue-900/30 pb-1 shrink-0">Polska</h2>
+                <div id="news-pl" class="min-h-0 flex-1 flex flex-col gap-1.5 overflow-hidden"></div>
             </div>
             <!-- Świat -->
-            <div class="space-y-4">
-                <h2 class="text-sm font-bold text-orange-500 uppercase border-b border-orange-90/30 pb-1">Świat</h2>
-                <div id="news-world" class="space-y-3"></div>
+            <div class="min-h-0 flex flex-col gap-1 overflow-hidden">
+                <h2 class="text-[10px] font-bold text-orange-500 uppercase border-b border-orange-900/30 pb-1 shrink-0">Świat</h2>
+                <div id="news-world" class="min-h-0 flex-1 flex flex-col gap-1.5 overflow-hidden"></div>
             </div>
             <!-- Technologie -->
-            <div class="space-y-4">
-                <h2 class="text-sm font-bold text-green-500 uppercase border-b border-green-90/30 pb-1">Technologie</h2>
-                <div id="news-tech" class="space-y-3"></div>
+            <div class="min-h-0 flex flex-col gap-1 overflow-hidden">
+                <h2 class="text-[10px] font-bold text-green-500 uppercase border-b border-green-900/30 pb-1 shrink-0">Technologie</h2>
+                <div id="news-tech" class="min-h-0 flex-1 flex flex-col gap-1.5 overflow-hidden"></div>
             </div>
             <!-- Cyberbezpieczeństwo -->
-            <div class="space-y-4">
-                <h2 class="text-sm font-bold text-purple-500 uppercase border-b border-purple-900/30 pb-1">Cyberbezpieczeństwo</h2>
-                <div id="news-cyber" class="space-y-3"></div>
+            <div class="min-h-0 flex flex-col gap-1 overflow-hidden">
+                <h2 class="text-[10px] font-bold text-purple-500 uppercase border-b border-purple-900/30 pb-1 shrink-0">Cyberbezp.</h2>
+                <div id="news-cyber" class="min-h-0 flex-1 flex flex-col gap-1.5 overflow-hidden"></div>
             </div>
             <!-- Finanse -->
-            <div class="space-y-4">
-                <h2 class="text-sm font-bold text-yellow-500 uppercase border-b border-yellow-900/30 pb-1">Finanse</h2>
-                <div id="news-finance" class="space-y-3"></div>
+            <div class="min-h-0 flex flex-col gap-1 overflow-hidden">
+                <h2 class="text-[10px] font-bold text-yellow-500 uppercase border-b border-yellow-900/30 pb-1 shrink-0">Finanse</h2>
+                <div id="news-finance" class="min-h-0 flex-1 flex flex-col gap-1.5 overflow-hidden"></div>
             </div>
         </section>
 
     </main>
-
-    <footer class="py-8 text-center text-[10px] text-slate-600 uppercase tracking-widest border-t border-slate-900 mt-12">
-        Intel Intelligence System &copy; 2026 | No imagery, purely information driven.
-    </footer>
 
     <script src="app.js"></script>
 </body>
