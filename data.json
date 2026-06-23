@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-23T18:09:49Z",
+  "last_updated": "2026-06-23T18:10:39Z",
   "poland": [
+    {
+      "title": "Blisko 9 tys. osób oceniło rezygnacje Dawida Kacprzyka. Dominuje jedna odpowiedź",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,32869908,blisko-9-tys-osob-ocenilo-rezygnacje-dawida-kacprzyka-dominuje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-06-23T18:09:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Rezygnacje, zwrot pieniędzy i kolejne działania instytucji sprawiły, że sprawa Dawida Kacprzyka budzi duże zainteresowanie. Pod artykułem dotyczącym tych wydarzeń zapytaliśmy czytelników o ich ocenę całej sytuacji."
+    },
     {
       "title": "Koniec z pracą w czasie upałów? Nadchodzą rewolucyjne zmiany",
       "url": "https://www.rp.pl/praca-emerytury-i-renty/art44681261-koniec-z-praca-w-czasie-upalow-nadchodza-rewolucyjne-zmiany",
@@ -184,14 +192,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Kraje NATO i Unii Europejskiej mówią o zagrożeniu ze strony Rosji, aby uzasadnić zwiększanie nakładów na budżety wojskowe - stwierdził Władimir Putin. Nazwał to \"pseudodemokratycznym schematem działania Zachodu\"."
-    },
-    {
-      "title": "\"Nie jest możliwe\". Papież odrzucił prośbę niemieckich biskupów",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-06-23/prosba-niemieckiego-kosciola-watykan-przekazal-list-z-odmowa/",
-      "date": "2026-06-23T15:57:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "Homilia jest integralną częścią Liturgii Słowa, a głoszenie jej jest wypełnianiem posługi nauczania, powierzonej kapłanom i diakonom na mocy święceń. Dlatego też nie można zastąpić jej kazaniem głoszonym przez osobę świecką - brzmi stanowisko Watykanu. Jest to odpowiedź na prośbę niemieckiego Kościoła."
     }
   ],
   "world_security": [
@@ -260,7 +260,7 @@
       "summary": "Pieniądze będą pochodzić z ostatniej alokacji z irlandzkiego funduszu Shared Island Fund."
     },
     {
-      "title": "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciw wirusowi Ebola",
+      "title": "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciwko wirusowi Ebola",
       "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
       "date": "2026-06-23T13:22:39Z",
       "source": "The Guardian",
@@ -406,6 +406,14 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Bilety na pociąg na starej konsoli Nintendo. Głupie i piękne."
+    },
+    {
+      "title": "Sterownik AMD nie działa w Windows 10. Jest reakcja firmy",
+      "url": "https://www.benchmark.pl/sterownik-amd-nie-dziala-w-windows-10-jest-reakcja-firmy-7299918557587456a",
+      "date": "2026-06-23T17:49:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Po instalacji AMD Adrenalin 26.6.2 część użytkowników Windows 10 zgłasza poważne kłopoty z działaniem oprogramowania Radeon. Producent potwierdził błąd, który ujawnił się po wydaniu aktualizacji m.in. z obsługą FSR 4.1, i radzi tymczasowo wrócić do wersji 26.6.1."
     },
     {
       "title": "Prawda o byciu menadżerem",
@@ -558,14 +566,6 @@
       "source": "Hacker News",
       "confirmed_by": 1,
       "summary": "Adres URL artykułu: https://finance.yahoo.com/markets/currency/articles/ecb-secures-key-parliamentary-backing-102718449.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48647444 Punkty: 83 # Komentarze: 102."
-    },
-    {
-      "title": "Samsung przyspieszy telefony. Co najlepsze, nie tylko swoje",
-      "url": "https://spidersweb.pl/2026/06/samsung-przyspieszy-telefony-konkurencji.html",
-      "date": "2026-06-23T16:21:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Samsung przyspieszy telefony. Co najlepsze, nie tylko swoje."
     }
   ],
   "cybersecurity": [
@@ -690,7 +690,7 @@
       "summary": "„AI slop” to pejoratywne określenie na treści generowane przez sztuczną inteligencję, pozbawione większego sensu. Jeden z raportów pokazuje, że platforma chińskiego ByteDance składa się częściowo z filmików generowanych przy użyciu AI. Badacze wykazali, że prawie 3/5 filmów oglądanych na nowym koncie to „AI slop”."
     },
     {
-      "title": "Microsoft Access w końcu uwalnia się od ograniczeń w zakresie 22-calowych rozmiarów",
+      "title": "Microsoft Access wreszcie uwalnia się od ograniczeń w zakresie 22-calowych rozmiarów",
       "url": "https://www.theregister.com/databases/2026/06/23/microsoft-access-finally-breaks-free-of-its-22-inch-form-limit/5260005",
       "date": "2026-06-23T12:36:00Z",
       "source": "The Register",
@@ -958,7 +958,7 @@
   ],
   "critical_alerts": [
     "Byli agenci Pinocheta skazani za morderstwo w wyniku zamachu bombowego w Waszyngtonie w 1976 roku",
-    "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciw wirusowi Ebola"
+    "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciwko wirusowi Ebola"
   ],
   "map_features": [
     {
@@ -1297,7 +1297,7 @@
       7420.1,
       7500.58,
       7472.79,
-      7385.24
+      7385.54
     ]
   }
 }
