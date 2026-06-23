@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T05:27:47Z",
+  "last_updated": "2026-06-23T05:32:45Z",
   "poland": [
     {
       "title": "Jawność zarobków lekarzy. To rozwiązanie zdobyło największe poparcie Polaków",
@@ -82,6 +82,14 @@
       "summary": "Prezentujemy aktualne notowania kursu korony szwedzkiej do złotego oraz zmiany w ujęciu tygodniowym i dziennym na dzień 23 czerwca 2026. Wczoraj kurs SEK wynosił 0,3883 zł. Więcej informacji o kursie znajdziesz w tym artykule."
     },
     {
+      "title": "Gen. Leon Komornicki: Wojna na Ukrainie szansą na Polski. Nie umiemy skorzystać",
+      "url": "https://www.rp.pl/polityka/art44666351-gen-leon-komornicki-wojna-na-ukrainie-szansa-na-polski-nie-umiemy-skorzystac",
+      "date": "2026-06-23T05:00:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Były zastępca szefa Sztabu Generalnego WP, gen. Leon Komornicki uważa, że nadanie ukraińskiej jednostce imienia „Bohaterów UPA” było świadomym, celowym działaniem, a Polska nie potrafi wykorzystać szansy, jaką daje wojna na Ukrainie. Gen."
+    },
+    {
       "title": "„Dla niektórych wrogiem jest Ukraina, a nie Rosja”. Gen. Polko komentuje spór Polski z Ukrainą",
       "url": "https://www.rp.pl/polityka/art44671871-dla-niektorych-wrogiem-jest-ukraina-a-nie-rosja-gen-polko-komentuje-spor-polski-z-ukraina",
       "date": "2026-06-23T05:00:00Z",
@@ -120,14 +128,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Sztuczna inteligencja może zwiększyć polski PKB nawet o 12 proc. w ciągu dekady. USA zawieszają sankcje na irańską ropę, a CPK planuje zwiększenie przepustowości nowego lotniska do 44 mln pasażerów rocznie."
-    },
-    {
-      "title": "Pierwsza eutanazja małego dziecka w Holandii",
-      "url": "https://www.rp.pl/spoleczenstwo/art44678251-pierwsza-eutanazja-malego-dziecka-w-holandii",
-      "date": "2026-06-23T04:25:13Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "W Holandii po raz pierwszy skorzystano z obowiązujących od 2024 roku przepisów, które pozwalają na eutanazję śmiertelnie chorego dziecka, które nie ukończyło 12 roku życia - poinformował holenderski nadawca publiczny NOS."
     },
     {
       "title": "Były szef BBN o rozwiązaniu sporu z Ukrainą. Siewiera: Zapytałbym, czy MiG-i są ważniejsze",
@@ -949,8 +949,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Pewne priorytety w czasie, gdy Rosja realnie działa przeciw Polsce, trzeba jednak zachować.",
-      "url": "https://www.rp.pl/polityka/art44671871-dla-niektorych-wrogiem-jest-ukraina-a-nie-rosja-gen-polko-komentuje-spor-polski-z-ukraina"
+      "description": "Były zastępca szefa Sztabu Generalnego WP, gen.",
+      "url": "https://www.rp.pl/polityka/art44666351-gen-leon-komornicki-wojna-na-ukrainie-szansa-na-polski-nie-umiemy-skorzystac"
     },
     {
       "lat": 31.5,
@@ -978,6 +978,10 @@
     }
   ],
   "instability": [
+    {
+      "name": "Ukraina",
+      "score": 100
+    },
     {
       "name": "Strefa Gazy / Izrael",
       "score": 100
