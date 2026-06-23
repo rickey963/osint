@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T14:29:00Z",
+  "last_updated": "2026-06-23T14:29:42Z",
   "poland": [
     {
       "title": "Zbigniew Derdziuk odwołany z ZUS. Znamy kandydata na następcę",
@@ -384,6 +384,14 @@
       "summary": "Dinesh Nair / Bloomberg: Źródła: spółka MGX z Abu Zabi zebrała blisko 50 miliardów dolarów z regionalnych państwowych funduszy majątkowych, światowych funduszy emerytalnych i innych, aby przyspieszyć wydatki na transakcje dotyczące sztucznej inteligencji &mdash; MGX w Abu Zabi zebrało blisko 50 miliardów dolarów od inwestorów regionalnych i globalnych, aby przyspieszyć wydatki na infrastrukturę sztucznej inteligencji."
     },
     {
+      "title": "Podwyższony poziom błędów w wielu modelach",
+      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+      "date": "2026-06-23T14:19:47Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://status.claude.com/incidents/jbhf20wjmzrf Adres URL komentarzy: https://news.ycombinator.com/item?id=48645386 Punkty: 21 # Komentarze: 7."
+    },
+    {
       "title": "Podwyżki cen u Apple jeszcze latem, przed nowym iPhonem",
       "url": "https://antyweb.pl/podwyzki-cen-u-apple-jeszcze-latem-przed-nowym-iphonem",
       "date": "2026-06-23T14:15:53Z",
@@ -421,7 +429,7 @@
       "date": "2026-06-23T14:04:43Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://pluralistic.net/2026/06/23/destroy-the-village/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48645173 Punkty: 6 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://pluralistic.net/2026/06/23/destroy-the-village/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48645173 Punkty: 24 # Komentarze: 5."
     },
     {
       "title": "Zatrzęsienie w WhatsApp. To może zmienić kierunek rozwoju aplikacji",
@@ -437,7 +445,7 @@
       "date": "2026-06-23T13:36:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48644781 Punkty: 14 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48644781 Punkty: 35 # Komentarze: 0."
     },
     {
       "title": "To pierwszy taki stop metalu. Jest dwa razy mocniejszy od stali",
@@ -558,14 +566,6 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Nothing oficjalnie zapowiedział premierę nowego smartfona o oznaczeniu Phone (4b). Urządzenie ma zapoczątkować zupełnie nową, bardziej przystępną cenowo linię w portfolio firmy."
-    },
-    {
-      "title": "Nowojorski start-up Allium zajmujący się analityką kryptograficzną zebrał 40 milionów dolarów w ramach serii B pod przewodnictwem Amplify Partners, przy udziale Kleinera Perkinsa i innych (Ben Weiss/Fortune)",
-      "url": "https://www.techmeme.com/260623/p14#a260623p14",
-      "date": "2026-06-23T12:20:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Ben Weiss / Fortune: nowojorski startup Allium zajmujący się analityką kryptograficzną zebrał 40 mln dolarów w ramach serii B prowadzonej przez Amplify Partners, przy udziale Kleinera Perkinsa i innych &mdash; Blockchainy to publiczne bazy danych, ale to nie znaczy, że są czytelne. Nawet eksperci mają trudności z odczytaniem skomplikowanych ciągów liter, cyfr i transakcji."
     }
   ],
   "cybersecurity": [
@@ -1296,7 +1296,7 @@
       7420.1,
       7500.58,
       7472.79,
-      7415.1
+      7414.15
     ]
   }
 }
