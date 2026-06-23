@@ -5,8 +5,8 @@
 const DATA_URL = 'data.json';
 const REFRESH_INTERVAL = 60000; // 60s - dashboard refreshes itself, no reload needed
 const FRESH_THRESHOLD_MINUTES = 30;
-const MAX_ARTICLES_PER_CATEGORY = 3;
-const MAX_ARTICLES_PER_SUBCATEGORY = 1;
+const MAX_ARTICLES_PER_CATEGORY = 10;
+const MAX_ARTICLES_PER_SUBCATEGORY = 5;
 
 let map, sp500Chart;
 let mapMarkers = [];
@@ -78,8 +78,8 @@ async function loadData() {
         const worldContainer = document.getElementById('news-world');
         if (worldContainer) {
             worldContainer.innerHTML = '';
-            worldContainer.appendChild(buildSubcategoryBlock('Bezpieczeństwo', 'text-red-500', data.world_security));
-            worldContainer.appendChild(buildSubcategoryBlock('Polityka', 'text-blue-500', data.world_politics));
+            worldContainer.appendChild(buildSubcategoryColumn('news-world-security', 'Bezpieczeństwo', 'text-red-500', data.world_security));
+            worldContainer.appendChild(buildSubcategoryColumn('news-world-politics', 'Polityka', 'text-blue-500', data.world_politics));
         }
 
         renderNews('news-tech', data.technology);
@@ -99,15 +99,16 @@ async function loadData() {
     }
 }
 
-function buildSubcategoryBlock(label, colorClass, articles) {
+function buildSubcategoryColumn(id, label, colorClass, articles) {
     const wrapper = document.createElement('div');
-    wrapper.className = 'min-h-0 flex-1 flex flex-col gap-2 overflow-hidden';
+    wrapper.className = 'news-world-column min-h-0 flex-1 flex flex-col gap-1 overflow-hidden';
     const header = document.createElement('h4');
     header.className = `text-[10px] font-bold uppercase ${colorClass} mb-0.5 shrink-0`;
     header.textContent = label;
     wrapper.appendChild(header);
     const div = document.createElement('div');
-    div.className = 'min-h-0 flex-1 flex flex-col gap-2 overflow-hidden';
+    div.id = id;
+    div.className = 'min-h-0 flex-1 flex flex-col gap-2';
     renderNewsToElement(div, articles, MAX_ARTICLES_PER_SUBCATEGORY);
     wrapper.appendChild(div);
     return wrapper;

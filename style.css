@@ -11,20 +11,20 @@ body {
 }
 
 /* Custom Scrollbar dla ciemnego motywu */
-::-webkit-scroller {
+::-webkit-scrollbar {
     width: 8px;
 }
 
-::-webkit-scroller-track {
+::-webkit-scrollbar-track {
     background: #020617; /* slate-950 */
 }
 
-::-webkit-scroller-thumb {
+::-webkit-scrollbar-thumb {
     background: #1e293b; /* slate-800 */
     border-radius: 4px;
 }
 
-::-webkit-scroller-thumb:hover {
+::-webkit-scrollbar-thumb:hover {
     background: #334155; /* slate-700 */
 }
 
@@ -32,14 +32,12 @@ body {
 .news-card {
     background: rgba(30, 41, 59, 0.5); /* slate-800/50 */
     border: 1px solid #1e293b; /* slate-800 */
-    padding: 0.4rem 0.5rem;
+    padding: 0.5rem 0.65rem;
     border-radius: 0.5rem;
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     display: flex;
     flex-direction: column;
-    flex: 1 1 0;
-    min-height: 0;
-    overflow: hidden;
+    flex-shrink: 0;
 }
 
 .news-card:hover {
@@ -62,10 +60,10 @@ body {
 }
 
 .news-title {
-    font-size: 0.68rem;
+    font-size: 0.78rem;
     font-weight: 600;
-    line-height: 1.2;
-    margin-bottom: 0.15rem;
+    line-height: 1.25;
+    margin-bottom: 0.2rem;
     color: #f8fafc; /* slate-50 */
     display: -webkit-box;
     -webkit-line-clamp: 2;
@@ -74,18 +72,18 @@ body {
 }
 
 .news-date {
-    font-size: 0.55rem;
+    font-size: 0.62rem;
     color: #64748b; /* slate-500 */
     font-family: ui-monospace, monospace;
-    margin-bottom: 0.15rem;
+    margin-bottom: 0.2rem;
     letter-spacing: 0.01em;
 }
 
 .news-snippet {
-    font-size: 0.6rem;
+    font-size: 0.7rem;
     color: #94a3b8; /* slate-400 */
-    line-height: 1.3;
-    margin-bottom: 0.25rem;
+    line-height: 1.35;
+    margin-bottom: 0.3rem;
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
@@ -94,7 +92,7 @@ body {
 
 .news-link {
     margin-top: auto;
-    font-size: 0.55rem;
+    font-size: 0.62rem;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.04em;
@@ -169,7 +167,48 @@ body {
     padding-top: 0.25rem;
 }
 
-/* News containers: fixed to viewport, no scrolling - cards shrink to fit instead */
-[id^="news-"] {
-    overflow: hidden;
+/* News containers: fixed height (fits viewport), internal list scrolls so more
+   than the first few articles remain reachable without growing the panel */
+[id^="news-"],
+#country-instability,
+#investment-picks {
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 6px;
+}
+
+[id^="news-"]::-webkit-scrollbar,
+#country-instability::-webkit-scrollbar,
+#investment-picks::-webkit-scrollbar {
+    width: 4px;
+}
+
+[id^="news-"]::-webkit-scrollbar-track,
+#country-instability::-webkit-scrollbar-track,
+#investment-picks::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+[id^="news-"]::-webkit-scrollbar-thumb,
+#country-instability::-webkit-scrollbar-thumb,
+#investment-picks::-webkit-scrollbar-thumb {
+    background: #334155; /* slate-700 */
+    border-radius: 2px;
+}
+
+/* #news-world is a row of two columns (Bezpieczeństwo | Polityka) - the
+   columns scroll individually, not this wrapper, so undo the generic rule. */
+#news-world {
+    overflow: visible;
+    padding-right: 0;
+}
+
+.news-world-column {
+    border-left: 1px solid #1e293b;
+    padding-left: 0.5rem;
+}
+
+.news-world-column:first-child {
+    border-left: none;
+    padding-left: 0;
 }

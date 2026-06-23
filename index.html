@@ -99,46 +99,47 @@
                     </div>
                 </div>
 
-                <!-- AI Investment Picks -->
-                <div class="bg-slate-900/40 border border-slate-800 p-2 rounded-2xl shadow-lg flex-1 min-h-0 flex flex-col gap-1 overflow-hidden">
-                    <h3 class="text-[10px] font-black uppercase tracking-[0.15em] text-emerald-500 border-l-2 border-emerald-600 pl-2 shrink-0">Sugestie AI (sektory/ETF)</h3>
-                    <div id="investment-picks" class="text-[10px] flex-1 min-h-0 overflow-hidden"></div>
-                    <p class="investment-disclaimer shrink-0">To nie jest porada inwestycyjna - materiał edukacyjny.</p>
+                <!-- AI Investment Picks + Country Instability, split side by side -->
+                <div class="bg-slate-900/40 border border-slate-800 p-2 rounded-2xl shadow-lg flex-1 min-h-0 flex gap-2 overflow-hidden">
+                    <div class="flex-1 min-h-0 flex flex-col gap-1 overflow-hidden">
+                        <h3 class="text-[10px] font-black uppercase tracking-[0.15em] text-emerald-500 border-l-2 border-emerald-600 pl-2 shrink-0">Sugestie AI</h3>
+                        <div id="investment-picks" class="text-[10px] flex-1 min-h-0 overflow-hidden"></div>
+                        <p class="investment-disclaimer shrink-0">To nie jest porada inwestycyjna.</p>
+                    </div>
+                    <div class="flex-1 min-h-0 flex flex-col gap-1 overflow-hidden border-l border-slate-800 pl-2">
+                        <h3 class="text-[10px] font-black uppercase tracking-[0.15em] text-orange-500 border-l-2 border-orange-600 pl-2 shrink-0">Niestabilność</h3>
+                        <div id="country-instability" class="flex-1 min-h-0 overflow-hidden space-y-0.5"></div>
+                    </div>
                 </div>
             </aside>
         </div>
 
-        <!-- BOTTOM ROW: Instability + all news category tiles, side by side -->
-        <section id="news-grid" class="flex-1 min-h-0 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-2 overflow-hidden">
-            <!-- Niestabilność -->
-            <div class="min-h-0 flex flex-col gap-1 overflow-hidden">
-                <h2 class="text-[10px] font-bold text-orange-500 uppercase border-b border-orange-900/30 pb-1 shrink-0">Niestabilność</h2>
-                <div id="country-instability" class="min-h-0 flex-1 overflow-hidden space-y-0.5"></div>
-            </div>
+        <!-- BOTTOM ROW: news category tiles, side by side -->
+        <section id="news-grid" class="flex-1 min-h-0 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-3 overflow-hidden">
             <!-- Polska -->
-            <div class="min-h-0 flex flex-col gap-1 overflow-hidden">
-                <h2 class="text-[10px] font-bold text-blue-500 uppercase border-b border-blue-900/30 pb-1 shrink-0">Polska</h2>
-                <div id="news-pl" class="min-h-0 flex-1 flex flex-col gap-1.5 overflow-hidden"></div>
+            <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden">
+                <h2 class="text-xs font-bold text-blue-500 uppercase border-b border-blue-900/30 pb-1 shrink-0">Polska</h2>
+                <div id="news-pl" class="min-h-0 flex-1 flex flex-col gap-2 overflow-hidden"></div>
             </div>
-            <!-- Świat -->
-            <div class="min-h-0 flex flex-col gap-1 overflow-hidden">
-                <h2 class="text-[10px] font-bold text-orange-500 uppercase border-b border-orange-900/30 pb-1 shrink-0">Świat</h2>
-                <div id="news-world" class="min-h-0 flex-1 flex flex-col gap-1.5 overflow-hidden"></div>
+            <!-- Świat (Bezpieczeństwo | Polityka, side by side) -->
+            <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden">
+                <h2 class="text-xs font-bold text-orange-500 uppercase border-b border-orange-900/30 pb-1 shrink-0">Świat</h2>
+                <div id="news-world" class="min-h-0 flex-1 flex flex-row gap-2 overflow-hidden"></div>
             </div>
             <!-- Technologie -->
-            <div class="min-h-0 flex flex-col gap-1 overflow-hidden">
-                <h2 class="text-[10px] font-bold text-green-500 uppercase border-b border-green-900/30 pb-1 shrink-0">Technologie</h2>
-                <div id="news-tech" class="min-h-0 flex-1 flex flex-col gap-1.5 overflow-hidden"></div>
+            <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden">
+                <h2 class="text-xs font-bold text-green-500 uppercase border-b border-green-900/30 pb-1 shrink-0">Technologie</h2>
+                <div id="news-tech" class="min-h-0 flex-1 flex flex-col gap-2 overflow-hidden"></div>
             </div>
             <!-- Cyberbezpieczeństwo -->
-            <div class="min-h-0 flex flex-col gap-1 overflow-hidden">
-                <h2 class="text-[10px] font-bold text-purple-500 uppercase border-b border-purple-900/30 pb-1 shrink-0">Cyberbezp.</h2>
-                <div id="news-cyber" class="min-h-0 flex-1 flex flex-col gap-1.5 overflow-hidden"></div>
+            <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden">
+                <h2 class="text-xs font-bold text-purple-500 uppercase border-b border-purple-900/30 pb-1 shrink-0">Cyberbezp.</h2>
+                <div id="news-cyber" class="min-h-0 flex-1 flex flex-col gap-2 overflow-hidden"></div>
             </div>
             <!-- Finanse -->
-            <div class="min-h-0 flex flex-col gap-1 overflow-hidden">
-                <h2 class="text-[10px] font-bold text-yellow-500 uppercase border-b border-yellow-900/30 pb-1 shrink-0">Finanse</h2>
-                <div id="news-finance" class="min-h-0 flex-1 flex flex-col gap-1.5 overflow-hidden"></div>
+            <div class="min-h-0 flex flex-col gap-1.5 overflow-hidden">
+                <h2 class="text-xs font-bold text-yellow-500 uppercase border-b border-yellow-900/30 pb-1 shrink-0">Finanse</h2>
+                <div id="news-finance" class="min-h-0 flex-1 flex flex-col gap-2 overflow-hidden"></div>
             </div>
         </section>
 
