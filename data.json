@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-23T07:48:03Z",
+  "last_updated": "2026-06-23T07:48:36Z",
   "poland": [
+    {
+      "title": "Trudne rozmowy pokojowe na Bliskim Wschodzie idą do przodu. Nielogiczne zachowanie rynków",
+      "url": "https://businessinsider.com.pl/gielda/wiadomosci/rozmowy-pokojowe-na-bliskim-wschodzie-trwaja-w-tym-czasie-notujemy-spadki-akcji/0qk2bxc",
+      "date": "2026-06-23T07:47:03Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Rozmowy pokojowe na Bliskim Wschodzie mimo wielu naruszeń rozejmu jednak trwają. Po wzajemnym ostrzale między Izraelem a Hezbollahem w Libanie sprzed kilku dni i groźbie ponownej blokady Ormuzu obie strony, tj. Iran i USA, wydają się jednak zmęczone utrzymywaniem konfliktu."
+    },
     {
       "title": "Rekordowe upały we Francji. Zatrzymano reaktor atomowy",
       "url": "https://www.rp.pl/spoleczenstwo/art44678841-rekordowe-upaly-we-francji-zatrzymano-reaktor-atomowy",
@@ -184,14 +192,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "- Historyczne spory między państwami powinni rozstrzygać historycy, a nie politycy - oświadczył minister obrony Litwy Robertas Kaunas, odnosząc się do sprawy odebrania Orderu Orła Białego prezydentowi Ukrainy Wołodymyrowi Zełenskiemu. W podobnym tonie wypowiedział się też Boris Pistorius, szef niemieckiego MON."
-    },
-    {
-      "title": "Wołodymyr Zełenski miał się spotkać w Warszawie z Karolem Nawrockim. „Zaproponowali i nie chcieli”",
-      "url": "https://www.rp.pl/polityka/art44678411-wolodymyr-zelenski-mial-sie-spotkac-w-warszawie-z-karolem-nawrockim-zaproponowali-i-nie-chcieli",
-      "date": "2026-06-23T05:37:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Była oferta ze strony Ukraińców, aby przeprowadzić rozmowę - najpierw telefoniczną, a potem doprowadzić do spotkania obu prezydentów (Polski i Ukrainy - red.) - mówił w rozmowie z TVN24 rzecznik prezydenta Karola Nawrockiego, Rafał Leśkiewicz."
     }
   ],
   "world_security": [
@@ -957,16 +957,24 @@
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Wybuch miał miejsce w kluczowym miejscu wydobycia gazu ziemnego.",
-      "url": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html"
+      "description": "Rozmowy pokojowe na Bliskim Wschodzie mimo wielu naruszeń rozejmu jednak trwają.",
+      "url": "https://businessinsider.com.pl/gielda/wiadomosci/rozmowy-pokojowe-na-bliskim-wschodzie-trwaja-w-tym-czasie-notujemy-spadki-akcji/0qk2bxc"
+    },
+    {
+      "lat": 33.89,
+      "lng": 35.5,
+      "type": "conflict",
+      "region": "Liban",
+      "description": "Rozmowy pokojowe na Bliskim Wschodzie mimo wielu naruszeń rozejmu jednak trwają.",
+      "url": "https://businessinsider.com.pl/gielda/wiadomosci/rozmowy-pokojowe-na-bliskim-wschodzie-trwaja-w-tym-czasie-notujemy-spadki-akcji/0qk2bxc"
     },
     {
       "lat": 32.43,
       "lng": 53.69,
       "type": "conflict",
       "region": "Iran",
-      "description": "Ministerstwo spraw zagranicznych Iranu twierdzi, że po rozmowach w Szwajcarii nie podjęło „żadnych nowych zobowiązań” w sprawie inspekcji nuklearnych.",
-      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+      "description": "Rozmowy pokojowe na Bliskim Wschodzie mimo wielu naruszeń rozejmu jednak trwają.",
+      "url": "https://businessinsider.com.pl/gielda/wiadomosci/rozmowy-pokojowe-na-bliskim-wschodzie-trwaja-w-tym-czasie-notujemy-spadki-akcji/0qk2bxc"
     },
     {
       "lat": 23.7,
