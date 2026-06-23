@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T22:51:20Z",
+  "last_updated": "2026-06-23T22:51:37Z",
   "poland": [
     {
       "title": "Anglia – Ghana. Rozrywka marnej jakości. Niespełnione obietnice Carlosa Queiroza",
@@ -246,7 +246,7 @@
     {
       "title": "Niemiecka sieć kolejowa zostaje całkowicie zatrzymana w całym kraju z powodu awarii IT",
       "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-23T22:14:39Z",
+      "date": "2026-06-23T22:44:57Z",
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Przedsiębiorstwo kolejowe Deutsche Bahn wstrzymało kursowanie pociągów w całym kraju z powodu ogólnokrajowych zakłóceń IT."
@@ -438,14 +438,6 @@
       "summary": "Prezydent Trump powiedział, że Iran zgodził się na inspekcje „najwyższego szczebla” kilka godzin po tym, jak irański urzędnik stwierdził, że „nie toczą się żadne szczegółowe dyskusje na temat kwestii nuklearnej”, ponieważ obie strony w dalszym ciągu przedstawiały odmienne narracje na temat swoich ostatnich rozmów."
     },
     {
-      "title": "Spadek cen akcji AI rodzi pytanie, czy inwestorzy jedynie realizują zyski, czy też bardzo się denerwują – AP News",
-      "url": "https://apnews.com/article/tech-stocks-ai-investments-8a0ff4c95d5cae6f65c6e2ba03047058",
-      "date": "2026-06-23T20:51:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Spadek cen akcji AI rodzi pytanie, czy inwestorzy jedynie realizują zyski, czy też bardzo się denerwują AP News."
-    },
-    {
       "title": "Sprawa imigracyjna dotycząca posiadaczy zielonej karty, Sąd Najwyższy po stronie administracji Trumpa – AP News",
       "url": "https://apnews.com/article/supreme-court-trump-immigration-b9ea1079296c0d7be844213986f96e6f",
       "date": "2026-06-23T18:51:00Z",
@@ -460,6 +452,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Sekretarz generalny Mark Rutte udaje się do Waszyngtonu. Jego styl czasami frustrował samych europejskich przywódców, którzy potrzebowali go do utrzymania całości sojuszu."
+    },
+    {
+      "title": "Spadek cen akcji AI rodzi pytanie, czy inwestorzy jedynie realizują zyski, czy też bardzo się denerwują – AP News",
+      "url": "https://apnews.com/article/tech-stocks-ai-investments-8a0ff4c95d5cae6f65c6e2ba03047058",
+      "date": "2026-06-23T18:38:20Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Spadek cen akcji AI rodzi pytanie, czy inwestorzy jedynie realizują zyski, czy też bardzo się denerwują AP News."
     },
     {
       "title": "„Straszne dziedzictwo”: czy Andy Burnham może odnieść sukces tam, gdzie Starmer poniósł porażkę?",
@@ -1409,7 +1409,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 44
+      "score": 67
     },
     {
       "name": "Sudan",
@@ -1629,57 +1629,57 @@
       24120.4,
       24737.25,
       24758.98,
-      25621.28,
+      25624.01,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26783.3,
+      26786.15,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26929.95,
+      26932.82,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27174.41,
+      27177.3,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27808.88,
+      27811.84,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27844.85,
+      27847.81,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28089.04,
+      28092.03,
       27354.94,
       27400.36,
       27412.11,
-      28489.66,
+      28492.69,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27751.79,
+      27754.74,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27931.14,
+      27934.11,
       27686.17,
       27404.78,
       27351.97,
       27846.5,
       27905.42,
-      27683.08
+      27686.03
     ],
     "currency": "PLN"
   }
