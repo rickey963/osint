@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T11:33:46Z",
+  "last_updated": "2026-06-23T11:38:43Z",
   "poland": [
     {
       "title": "Rosja pod presją długu. Masowa wyprzedaż obligacji skarbowych",
@@ -432,14 +432,6 @@
       "summary": "Terramaster F4-425 Pro to NAS z dwoma 5-gigabitowymi portami sieciowymi i miejscem na łącznie aż 7 dysków! Jednocześnie jest to tez pierwszy serwer napędzany nowym systemem TOS 7, który wprowadza tonę nowości i zmian (niektórych naprawdę dużych). Kto powinien zainteresować się tym modelem?"
     },
     {
-      "title": "Chcesz kupić Steam Machine? W tej cenie złożysz lepszy komputer",
-      "url": "https://www.benchmark.pl/chcesz-kupic-steam-machine-w-tej-cenie-zlozysz-lepszy-komputer-7299929241802784a",
-      "date": "2026-06-23T10:47:00Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Ceny Steam Machine od Valve wywołały sporo emocji wśród graczy i natychmiastowe porównania do klasycznych komputerów. Postanowiłem więc sprawdzić, co faktycznie można złożyć w tej samej cenie. Na papierze wygląda na to, że da się zbudować znacznie wydajniejszy zestaw PC."
-    },
-    {
       "title": "Nowa fabryka broni pancernej w Polsce. Powstaje zbrojeniowy gigant",
       "url": "https://spidersweb.pl/2026/06/nowa-fabryka-broni-pancernej-poznan.html",
       "date": "2026-06-23T10:46:00Z",
@@ -478,14 +470,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Wall Street Journal: Jak ponad 80 osobistych inwestycji Sama Altmana, w tym wiele z jego czasów w YC, korzysta z powiązań z OpenAI; Ponad 10 firm omawiało umowy biznesowe z OpenAI &mdash; Udziały dyrektora generalnego OpenAI w Helion i innych firmach odnotowały znaczny wzrost, odkąd gigant AI zbadał lub zamknął powiązania ze start-upami powiązanymi z Altmanem."
-    },
-    {
-      "title": "Ta klawiatura mnie zaskoczyła. Test Epomaker TH80 V2 Pro",
-      "url": "https://www.benchmark.pl/ta-klawiatura-mnie-zaskoczyla-test-epomaker-th80-v2-pro-7299558912837632a",
-      "date": "2026-06-23T10:21:00Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Epomaker TH80 V2 Pro to klawiatura typu 75 proc., która pracuje bezprzewodowo (lub po kablu). Ma dużą baterię, ekran LCD i pokrętło głośności. Brzmi dobrze, co?"
     },
     {
       "title": "Coca-Cola dorzuca się do kaucji w Biedronce. Za zdjęcie dostaniesz darmową torbę",
@@ -550,9 +534,33 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Wczoraj oficjalnie poznaliśmy ceny Steam Machine i... co tu dużo mówić. Gracze nie są zachwyceni."
+    },
+    {
+      "title": "UE ma nałożyć od 1 lipca cło w wysokości 3 euro na produkty spoza UE poniżej 150 euro, ponieważ blok stara się spowolnić zalew tanich towarów od sprzedawców detalicznych takich jak Temu (Brendan Murray/Bloomberg)",
+      "url": "https://www.techmeme.com/260623/p8#a260623p8",
+      "date": "2026-06-23T09:55:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Brendan Murray / Bloomberg: UE ma nałożyć od 1 lipca cło w wysokości 3 euro na produkty spoza UE poniżej 150 euro, ponieważ Unia stara się spowolnić zalew tanich towarów od sprzedawców detalicznych takich jak Temu &mdash; Konsumenci polujący na okazje w całej Unii Europejskiej zaczną od przyszłego tygodnia odczuwać wyższe koszty zakupów online &hellip;."
+    },
+    {
+      "title": "Widziałem księdza, który w kościele przewijał Instagrama. Nie potrafimy już bez tego żyć",
+      "url": "https://spidersweb.pl/2026/06/instagram-tiktok-kosciol-muzeum.html",
+      "date": "2026-06-23T09:44:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Widziałem księdza, który w kościele przewijał Instagrama. Nie potrafimy już bez tego żyć."
     }
   ],
   "cybersecurity": [
+    {
+      "title": "W wyścigu kwantowym „America First” to za mało. Trump stawia na zaufanych partnerów",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/w-wyscigu-kwantowym-america-first-to-za-malo-trump-stawia-na-zaufanych-partnerow",
+      "date": "2026-06-23T11:33:10Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Donald Trump podpisał rozporządzenie, które ma przyspieszyć rozwój amerykańskich technologii kwantowych, zabezpieczając pozycję USA w tym globalnym wyścigu. Nowy dekret zakłada m.in. budowę zaawansowanego komputera kwantowego, wdrożenie nowoczesnych czujników dla wojska i, co ciekawe, bliższą współpracę z międzynarodowymi sojusznikami."
+    },
     {
       "title": "UE na wojnie z wykorzystywaniem seksualnym dzieci. Przełomowe porozumienie",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/unia-europejska/ue-na-wojnie-z-wykorzystywaniem-seksualnym-dzieci-przelomowe-porozumienie",
@@ -736,17 +744,17 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Badacze zajmujący się cyberbezpieczeństwem ujawnili szczegóły czterech luk w zabezpieczeniach Dify, platformy agentowego przepływu pracy typu open source z ponad 146 000 gwiazdek GitHub, która może umożliwić atakującym potajemne odczytywanie konwersji sztucznej inteligencji (AI) z aplikacji innych klientów bez konieczności uwierzytelniania. Luki otrzymały wspólną nazwę kodową DifyTap od firmy Zafran Security."
-    },
-    {
-      "title": "29-letni błąd serwera proxy Squid „Squidbleed” może powodować wyciek żądań HTTP w postaci zwykłego tekstu",
-      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "date": "2026-06-22T14:29:46Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Nadmierny odczyt sterty w internetowym serwerze proxy Squid może spowodować wyciek żądania HTTP innego użytkownika w postaci zwykłego tekstu, w tym wszelkich danych uwierzytelniających lub tokenów sesji, które zawiera, do każdego, kto ma już zezwolenie na wysyłanie ruchu przez ten sam serwer proxy. Błąd wywodzi się ze zmiany w analizie FTP w 1997 roku i nadal występuje w domyślnej konfiguracji Squida. Badacze z Calif.io ujawnili go w czerwcu i nazwali Squidbleed (."
     }
   ],
   "finance": [
+    {
+      "title": "Premier: Powstanie drugi pływający terminal LNG w Zatoce Gdańskiej",
+      "url": "https://www.bankier.pl/wiadomosc/Premier-Powstanie-drugi-plywajacy-terminal-LNG-w-Zatoce-Gdanskiej-9156096.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-23T11:38:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "W Zatoce Gdańskiej powstanie drugi pływający terminal LNG (FSRU), będzie to przedsięwzięcie komercyjne, bez wsparcia z budżetu państwa - poinformował premier Donald Tusk."
+    },
     {
       "title": "Powyżej tych kwot oszczędności trzeba będzie od 2027 roku płacić nowy podatek. Podatek Belki nie zniknie ale będą zwolnienia podatkowe dla posiadaczy kont OKI - Forsal.pl",
       "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11261464,powyzej-tych-kwot-oszczednosci-trzeba-bedzie-od-2027-roku-placic-nowy-podatek-podatek-belki-nie-zniknie-ale-beda-zwolnienia-podatkowe-dla-posiadaczy-kont-okiki.html",
@@ -930,14 +938,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "W Polsce buzują emocje po odebraniu Orderu Orła Białego Wołodymyrowi Zełenskiemu. Jest duża obawa, że polityczny kryzys odbije się na przedsiębiorcach, gdy w przyszłości dojdzie do odbudowy Ukrainy. Ryszard Florek, w którego fabrykę we Lwowie w 2023 r."
-    },
-    {
-      "title": "Notowania historyczne OW20G263325 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania-historyczne/OW20G263325",
-      "date": "2026-06-22T21:36:53Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania historyczne OW20G263325 BiznesRadar."
     }
   ],
   "critical_alerts": [
