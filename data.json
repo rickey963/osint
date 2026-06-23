@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T17:53:30Z",
+  "last_updated": "2026-06-23T17:58:38Z",
   "poland": [
     {
       "title": "Zmarł były prezes TVP. Janusz Daszczyński miał 73 lata",
@@ -72,14 +72,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Właściciele niezarejestrowanych studni będą mogli załatwić formalności bez ponoszenia opłaty legalizacyjnej i kar administracyjnych. Sejm uchwalił w piątek nowelizację Prawa wodnego, która wprowadza czasową abolicję. Jest jednak pewien warunek."
-    },
-    {
-      "title": "- Polska Agencja Prasowa SA",
-      "url": "https://www.pap.pl/aktualnosci/komunikat?page=2",
-      "date": "2026-06-23T16:56:01Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Polska Agencja Prasowa SA."
     },
     {
       "title": "Michał Dworczyk: Przeraża mnie krótkowzroczność Ukraińców",
@@ -192,6 +184,14 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Wśród nowo zarejestrowanych samochodów w Polsce w maju tylko 4,1 proc. stanowiły auta w pełni elektryczne — wynika z najnowszych danych ACEA. Co więcej, nastąpił mocny spadek rejestracji rok do roku."
+    },
+    {
+      "title": "Kobieta wypadła z łodzi. Ratownicy apelują o ostrożność - Polskie Radio 24",
+      "url": "https://polskieradio24.pl/polska/kobieta-wypadla-z-lodzi-ratownicy-apeluja-o-ostroznosc",
+      "date": "2026-06-23T14:29:34Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Kobieta wypadła z łodzi. Ratownicy apelują o ostrożność Polskie Radio 24."
     }
   ],
   "world_security": [
@@ -260,7 +260,7 @@
       "summary": "Pieniądze będą pochodzić z ostatniej alokacji z irlandzkiego funduszu Shared Island Fund."
     },
     {
-      "title": "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciw wirusowi Ebola",
+      "title": "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciwko wirusowi Ebola",
       "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
       "date": "2026-06-23T13:22:39Z",
       "source": "The Guardian",
@@ -312,7 +312,7 @@
     {
       "title": "Aktualności na żywo z Bliskiego Wschodu: Stany Zjednoczone i Iran przedstawiają sprzeczne relacje z rozmów nuklearnych",
       "url": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
-      "date": "2026-06-23T17:48:02Z",
+      "date": "2026-06-23T17:53:33Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Prezydent Trump powiedział, że Iran zgodził się na inspekcje „najwyższego szczebla” kilka godzin po tym, jak irański urzędnik stwierdził, że „nie toczą się żadne szczegółowe dyskusje na temat kwestii nuklearnej”, ponieważ obie strony w dalszym ciągu przedstawiały odmienne narracje na temat swoich ostatnich rozmów."
@@ -376,12 +376,28 @@
   ],
   "technology": [
     {
+      "title": "Trwa Prime Day i tych gadżetów nie chcę przegapić, skoro są za ułamek ceny",
+      "url": "https://antyweb.pl/trwa-prime-day-i-tych-gadzetow-nie-chce-przegapic-skoro-sa-za-ulamek-ceny",
+      "date": "2026-06-23T17:54:46Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Nadszedł czas wielu okazji, kiedy Amazon i sprzedawcy na platformie obchodzą Prime Days, czyli dni obniżek testujących naszą wstrzemięźliwość od zakupów."
+    },
+    {
       "title": "Bilety na pociąg na starej konsoli Nintendo. Głupie i piękne",
       "url": "https://spidersweb.pl",
       "date": "2026-06-23T17:49:00Z",
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Bilety na pociąg na starej konsoli Nintendo. Głupie i piękne."
+    },
+    {
+      "title": "Sterownik AMD nie działa w Windows 10. Jest reakcja firmy",
+      "url": "https://www.benchmark.pl/sterownik-amd-nie-dziala-w-windows-10-jest-reakcja-firmy-7299918557587456a",
+      "date": "2026-06-23T17:49:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Po instalacji AMD Adrenalin 26.6.2 część użytkowników Windows 10 zgłasza poważne kłopoty z działaniem oprogramowania Radeon. Producent potwierdził błąd, który ujawnił się po wydaniu aktualizacji m.in. z obsługą FSR 4.1, i radzi tymczasowo wrócić do wersji 26.6.1."
     },
     {
       "title": "AMD dało starszym Radeonom drugie życie. FSR 4.1 już działa na RX 7000",
@@ -509,7 +525,7 @@
       "date": "2026-06-23T16:50:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Bloomberg: Źródła: SpaceX, które w ramach swojej debiutanckiej sprzedaży amerykańskich obligacji chce pozyskać od 20 do 25 miliardów dolarów, przyciągnęło popyt na kwotę około 89 miliardów dolarów &mdash; SpaceX spotkało się z wieloma fanfarami, kiedy w tym miesiącu po raz pierwszy sprzedało akcje, tworząc historię dzięki największej w historii pierwszej ofercie publicznej. Na rynkach długu pojawia się coraz więcej pytań."
+      "summary": "Bloomberg: Źródła: SpaceX, które w ramach swojej debiutanckiej sprzedaży amerykańskich obligacji chce pozyskać od 20 do 25 miliardów dolarów, przyciągnęło popyt na kwotę około 89 miliardów dolarów &mdash; SpaceX traci 600 miliardów dolarów w ciągu trzech dni &mdash; Trwa ładowanie odtwarzacza wideo. &mdash; Wyłącz wyciszenie &ndash; Bieżący czas 0:00 Załadowano: 12,89% Szybkość odtwarzania &mdash; napisy wyłączone, wybrane."
     },
     {
       "title": "Kiedy wszyscy gadają o AI, kto mówi o reszcie? Debata Spider’s Web na ABSL Summit 2026",
@@ -550,22 +566,6 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "Publiczne ogłoszenie o pojedynczym przypadku „współczującego użycia” jest dziwne pod każdym względem."
-    },
-    {
-      "title": "LastPass powiadamia klientów, że ich dane osobowe i zapisy dotyczące obsługi klienta zostały skradzione podczas włamania do kanadyjskiej firmy badawczej Klue (Zack Whittaker/TechCrunch)",
-      "url": "https://www.techmeme.com/260623/p26#a260623p26",
-      "date": "2026-06-23T16:05:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Zack Whittaker / TechCrunch: LastPass powiadamia klientów, że ich dane osobowe i zapisy dotyczące spraw obsługi klienta zostały skradzione podczas włamania do kanadyjskiej firmy badawczej Klue &mdash; Twórca menedżera haseł LastPass powiadamia klientów, że ich dane osobowe i sprawy związane z obsługą klienta są rejestrowane &hellip;."
-    },
-    {
-      "title": "Innowacje inspirowane codziennymi potrzebami rodziców i dzieci. Jak Procter & Gamble tworzy rozwiązania wspierające rozwój od pierwszych dni życia?",
-      "url": "https://spidersweb.pl",
-      "date": "2026-06-23T16:04:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Innowacje inspirowane codziennymi potrzebami rodziców i dzieci. Jak Procter & Gamble tworzy rozwiązania wspierające rozwój od pierwszych dni życia?"
     }
   ],
   "cybersecurity": [
@@ -690,7 +690,7 @@
       "summary": "„AI slop” to pejoratywne określenie na treści generowane przez sztuczną inteligencję, pozbawione większego sensu. Jeden z raportów pokazuje, że platforma chińskiego ByteDance składa się częściowo z filmików generowanych przy użyciu AI. Badacze wykazali, że prawie 3/5 filmów oglądanych na nowym koncie to „AI slop”."
     },
     {
-      "title": "Microsoft Access w końcu uwalnia się od ograniczeń w zakresie 22-calowych rozmiarów",
+      "title": "Microsoft Access wreszcie uwalnia się od ograniczeń w zakresie 22-calowych rozmiarów",
       "url": "https://www.theregister.com/databases/2026/06/23/microsoft-access-finally-breaks-free-of-its-22-inch-form-limit/5260005",
       "date": "2026-06-23T12:36:00Z",
       "source": "The Register",
@@ -958,7 +958,7 @@
   ],
   "critical_alerts": [
     "Byli agenci Pinocheta skazani za morderstwo w wyniku zamachu bombowego w Waszyngtonie w 1976 roku",
-    "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciw wirusowi Ebola"
+    "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciwko wirusowi Ebola"
   ],
   "map_features": [
     {
@@ -1297,7 +1297,7 @@
       7420.1,
       7500.58,
       7472.79,
-      7394.98
+      7386.22
     ]
   }
 }
