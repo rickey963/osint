@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-24T03:56:26Z",
+  "last_updated": "2026-06-24T04:05:39Z",
   "poland": [
+    {
+      "title": "Kruczki prawne nie ograniczą zwrotu pieniędzy na dach nad głową dla sierot",
+      "url": "https://pro.rp.pl/administracja/art44676201-kruczki-prawne-nie-ogranicza-zwrotu-pieniedzy-na-dach-nad-glowa-dla-sierot",
+      "date": "2026-06-24T03:50:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Nie ma podstaw prawnych dla dodatkowego limitowania środków przyznawanych prowadzącym rodzinny dom dziecka na utrzymanie lokalu mieszkalnego w umowie czy też w zarządzeniu starosty."
+    },
     {
       "title": "Symboliczna porażka Donalda Trumpa. Kongres nakazuje mu zakończyć wojnę z Iranem",
       "url": "https://www.rp.pl/polityka/art44684631-symboliczna-porazka-donalda-trumpa-kongres-nakazuje-mu-zakonczyc-wojne-z-iranem",
@@ -56,14 +64,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Zdaniem ekspertów wprowadzenie do swojego kalendarza „niewidzialnych dni” pomaga radzić sobie ze stresem i wypaleniem zawodowym. Na czym polega nowy trend i jak wykorzystać go, by sobie pomóc?"
-    },
-    {
-      "title": "Wymieranie gatunków. W najtrudniejszej sytuacji kraje z klimatem umiarkowanym",
-      "url": "https://klimat.rp.pl/rosliny/art44674051-wymieranie-gatunkow-w-najtrudniejszej-sytuacji-kraje-z-klimatem-umiarkowanym",
-      "date": "2026-06-24T03:00:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Mogłoby się wydawać, że gatunki żyjące w chłodniejszych częściach świata mają większe szanse przetrwania w obliczu zmian klimatu niż te, które zamieszkują tropiki. Niestety, okazuje się, że jest wręcz przeciwnie."
     },
     {
       "title": "Marco Rubio o opłatach w cieśninie Ormuz. \"Takie jest prawo\"",
@@ -252,6 +252,14 @@
       "summary": "Giełdy azjatyckie wahają się po wyprzedaży spowodowanej technologiami, Reuters podkreślił ryzyko zmienności."
     },
     {
+      "title": "Korea Południowa omawia z Samsungiem nowe inwestycje w chipy, SK Hynix, mówi doradca prezydenta – Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-discussing-new-chip-investments-with-samsung-sk-hynix-presidential-2026-06-24/",
+      "date": "2026-06-24T01:33:52Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Korea Południowa omawia nowe inwestycje w chipy z Samsungiem, SK Hynix, mówi doradca prezydenta Reuters."
+    },
+    {
       "title": "Ceny ropy pogłębiają się w związku z oczekiwaniami na płynniejsze przepływy ropy przez Ormuz – Reuters",
       "url": "https://www.reuters.com/business/energy/oil-prices-extend-decline-expectations-smoother-crude-flows-via-hormuz-2026-06-24/",
       "date": "2026-06-24T01:17:23Z",
@@ -330,14 +338,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Akcje Cerebras spadają po debiucie z wynikami, a marże są niższe niż u rywali zajmujących się chipami AI, Reuters."
-    },
-    {
-      "title": "Przywódca ataku na centrum imigracyjne w Teksasie skazany na 100 lat więzienia – Reuters",
-      "url": "https://www.reuters.com/legal/government/leader-texas-immigration-center-attack-gets-100-year-prison-sentence-2026-06-23/",
-      "date": "2026-06-23T20:49:58Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Przywódca ataku na centrum imigracyjne w Teksasie skazany na 100 lat więzienia Reuters."
     },
     {
       "title": "Kanadyjska policja ostrzega przed możliwymi naśladowcami ataków po śmiertelnej strzelaninie w Montrealu",
@@ -421,6 +421,14 @@
     }
   ],
   "world_politics": [
+    {
+      "title": "Mamdani pokonuje prawybory Demokratów w Nowym Jorku i wypiera dwóch urzędników z Kongresu – AP News",
+      "url": "https://apnews.com/article/nyc-house-congress-primary-election-2dfee173b65643be516574440f8c5d90",
+      "date": "2026-06-24T03:31:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Mamdani wygrywa prawybory Demokratów w Nowym Jorku i wypiera dwóch urzędników z Congress AP News."
+    },
     {
       "title": "USA i Iran przedstawiają sprzeczne relacje z rozmów nuklearnych",
       "url": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
@@ -534,23 +542,39 @@
       "summary": "Prezydent Trump twierdzi, że Wenezuela pod amerykańskim nadzorem „nigdy nie zarobiła takich pieniędzy, jakie zarabia teraz”. Jednak nowe dochody z ropy nie pomagają zwykłym Wenezuelczykom i wydaje się, że złość narasta."
     },
     {
-      "title": "Maluszki z kawiorem za 75 dolarów. Piwo warte dziennej wypłaty. Oto menu Pucharu Świata – i ceny – AP News",
-      "url": "https://apnews.com/article/concession-prices-world-cup-beer-0896c84572dd666cea86a482fdc644c5",
-      "date": "2026-06-22T22:16:00Z",
+      "title": "We Francji panuje dokuczliwy upał, który już powoduje śmierć – AP News",
+      "url": "https://apnews.com/article/heat-wave-france-europe-climate-change-b42e7468114d5a0dc39c80672035e693",
+      "date": "2026-06-22T17:08:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Maluszki z kawiorem za 75 dolarów. Piwo warte dziennej wypłaty. Oto menu Pucharu Świata — i ceny AP News."
-    },
-    {
-      "title": "Starmer mówi, że zrezygnuje ze stanowiska premiera Wielkiej Brytanii, po raz kolejny zakłócając brytyjską politykę – AP News",
-      "url": "https://apnews.com/article/keir-starmer-resignation-pressure-burnham-uk-politics-8aa1c427418c487fe644f5d5c40d1518",
-      "date": "2026-06-22T15:50:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Starmer zapowiada, że ​​zrezygnuje ze stanowiska premiera Wielkiej Brytanii, co po raz kolejny zakłóci brytyjską politykę AP News."
+      "summary": "We Francji panuje dokuczliwy upał, który już powoduje śmierć AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Źródła: ceny chipów AI firmy Nvidia na czarnym rynku w Chinach wzrosły ponad dwukrotnie w związku z ograniczeniami eksportu w USA; wartość jego flagowego serwera DGX B300 wzrosła do 1,1 mln dolarów (Eleanor Olcott/Financial Times)",
+      "url": "https://www.techmeme.com/260623/p48#a260623p48",
+      "date": "2026-06-24T03:55:02Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Eleanor Olcott / Financial Times: Źródła: ceny chipów AI firmy Nvidia na czarnym rynku w Chinach wzrosły ponad dwukrotnie w związku z ograniczeniami eksportu w USA; cena jego flagowego serwera DGX B300 wzrosła do 1,1 mln dolarów &mdash; Zwalczanie przez USA nielegalnego eksportu sprawiło, że zakup procesorów technologicznego giganta stał się bardziej ryzykowny, trudniejszy i droższy."
+    },
+    {
+      "title": "GTA VI: polski wyciek zdradza 2 tryby graficzne na konsolach?",
+      "url": "https://spidersweb.pl",
+      "date": "2026-06-24T03:55:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "GTA VI: polski wyciek zdradza 2 tryby graficzne na konsolach?"
+    },
+    {
+      "title": "Flipkart twierdzi, że planuje rozszerzyć swoją sieć centrów mikrorealizacji w Indiach do 1500 do końca 2026 r., ponieważ twierdzi również, że zamówienia wzrosły o ~400% rok do roku (Jagmeet Singh/TechCrunch)",
+      "url": "https://www.techmeme.com/260623/p47#a260623p47",
+      "date": "2026-06-24T03:50:05Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Jagmeet Singh / TechCrunch: Flipkart twierdzi, że planuje rozszerzyć swoją sieć centrów mikrorealizacji w Indiach do 1500 do końca 2026 r., ponieważ twierdzi również, że zamówienia wzrosły o ~400% rok do roku &mdash; Ponieważ szybki handel staje się kolejnym polem bitwy w handlu elektronicznym w Indiach, wspierany przez Walmart Flipkart powiedział w środę, że jego usługa Minutes &hellip;."
+    },
     {
       "title": "Co dopiero się zachwycaliśmy ich science fiction, a tutaj taki zawód",
       "url": "https://antyweb.pl/co-dopiero-sie-zachwycalismy-ich-science-fiction-a-tutaj-taki-zawod",
@@ -558,14 +582,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Studio A24 stało się w ostatnich czasach ulubionym miejscem kinomaniaków w poszukiwaniu oryginalnego kina. Najnowsza informacja o nowym partnerze biznesowym to cios poniżej pasa."
-    },
-    {
-      "title": "GTA VI: polski wyciek zdradza 2 tryby graficzne na konsolach?",
-      "url": "https://spidersweb.pl",
-      "date": "2026-06-24T03:42:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "GTA VI: polski wyciek zdradza 2 tryby graficzne na konsolach?"
     },
     {
       "title": "Facebook boi się Google'a. Panicznie robi obniżki przed nowym hitem",
@@ -597,7 +613,15 @@
       "date": "2026-06-24T02:23:39Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "https://archive.is/CBCZM Adres URL komentarzy: https://news.ycombinator.com/item?id=48654367 Punkty: 67 # Komentarze: 35."
+      "summary": "https://archive.is/CBCZM Adres URL komentarzy: https://news.ycombinator.com/item?id=48654367 Punkty: 76 # Komentarze: 39."
+    },
+    {
+      "title": "Qwen-AgentWorld: Modele świata językowego dla agentów ogólnych",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "date": "2026-06-24T02:21:47Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://arxiv.org/abs/2606.24597 Adres URL komentarzy: https://news.ycombinator.com/item?id=48654351 Punkty: 6 # Komentarze: 0."
     },
     {
       "title": "NSA współpracowała z Mythos 5, zanim utraciła dostęp w wyniku sporu antropicznego; testy wykazały, że Mythos zidentyfikował luki w cyberbezpieczeństwie w tajnych systemach (New York Times)",
@@ -613,7 +637,7 @@
       "date": "2026-06-24T02:12:31Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/End2End-Diffusion/diffusion-bench Adres URL komentarzy: https://news.ycombinator.com/item?id=48654274 Punkty: 7 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://github.com/End2End-Diffusion/diffusion-bench Adres URL komentarzy: https://news.ycombinator.com/item?id=48654274 Punkty: 9 # Komentarze: 0."
     },
     {
       "title": "Firma Orderful, która oferuje narzędzia oparte na sztucznej inteligencji do automatyzacji zarządzania danymi w łańcuchu dostaw, zebrała 35 mln dolarów z serii C pod przewodnictwem KDT, zwiększając całkowite finansowanie do 85 mln dolarów (Maria Deutscher/SiliconANGLE)",
@@ -653,7 +677,7 @@
       "date": "2026-06-24T00:28:41Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48653575 Punkty: 94 # Komentarze: 30."
+      "summary": "Adres URL artykułu: https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48653575 Punkty: 104 # Komentarze: 36."
     },
     {
       "title": "Micron i Sandisk przewodziły we wtorek wyprzedaży technologii, spadając o ponad 13%; Western Digital spadł o 8%, Marvell o 9%, Seagate o 5%, Qualcomm o 8%, a Applied Materials o 8% (Britney Nguyen/MarketWatch)",
@@ -664,28 +688,12 @@
       "summary": "Britney Nguyen / MarketWatch: Micron i Sandisk doprowadziły we wtorek do wyprzedaży technologii, spadając o ponad 13%; Western Digital spadł o 8%, Marvell o 9%, Seagate o 5%, Qualcomm o 8%, a Applied Materials o 8% &mdash; Jeden z analityków twierdzi, że inwestorzy po prostu „oddychają” z dynamicznie rozwijających się spółek technologicznych, po gwałtownych wzrostach od początku roku i przed sobą &hellip;."
     },
     {
-      "title": "YouTube zawarł ugodę przed drugim procesem w Kalifornii w sprawie szkód wyrządzonych nieletnim w mediach społecznościowych; Meta, TikTok i Snap pozostają oskarżonymi (Hillel Aron/Courthouse News Service)",
-      "url": "https://www.techmeme.com/260623/p40#a260623p40",
-      "date": "2026-06-23T23:45:02Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Hillel Aron / Courthouse News Service: YouTube zawarł ugodę przed drugim procesem w Kalifornii dotyczącym szkód wyrządzanych nieletnim w mediach społecznościowych; Meta, TikTok i Snap pozostają oskarżonymi &mdash; Sprawa toczy teraz walkę między 15-letnim czarnoskórym nastolatkiem a gigantami technologicznymi Meta, TikTok i Snap. &mdash; LOS ANGELES (CN) &mdash; YouTube i jego spółka-matka Google &hellip;."
-    },
-    {
       "title": "Raporty o podatnościach nie są już czymś wyjątkowym",
       "url": "https://words.filippo.io/vuln-reports/",
       "date": "2026-06-23T23:42:46Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://words.filippo.io/vuln-reports/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48653216 Punkty: 112 # Komentarze: 39."
-    },
-    {
-      "title": "Powiedzmy, że masz ochotę na kanapkę",
-      "url": "https://beige.party/@Lana/116795397010653803",
-      "date": "2026-06-23T23:29:11Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://beige.party/@Lana/116795397010653803 Adres URL komentarzy: https://news.ycombinator.com/item?id=48653092 Punkty: 35 # Komentarze: 5."
+      "summary": "Adres URL artykułu: https://words.filippo.io/vuln-reports/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48653216 Punkty: 117 # Komentarze: 42."
     },
     {
       "title": "Konferencja Extreme Heat odwołana z powodu ostrzeżenia o ekstremalnych upałach",
@@ -693,7 +701,7 @@
       "date": "2026-06-23T23:26:43Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48653060 Punkty: 204 # Komentarze: 141."
+      "summary": "Adres URL artykułu: https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48653060 Punkty: 218 # Komentarze: 149."
     },
     {
       "title": "Biały Dom drastycznie skraca termin usunięcia kryptowalut podatnych na ataki kwantowe",
@@ -710,14 +718,6 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "Climate.us przywrócił teraz wszystko, co zdemontował rząd."
-    },
-    {
-      "title": "Źródła: administracja Trumpa naciska na Metę, aby przekazała swoje modele sztucznej inteligencji do dobrowolnego przeglądu; Meta jest jedynym dużym amerykańskim twórcą sztucznej inteligencji bez umowy (New York Times)",
-      "url": "https://www.techmeme.com/260623/p39#a260623p39",
-      "date": "2026-06-23T22:05:00Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "New York Times: Źródła: administracja Trumpa naciska na Metę, aby przedłożyła swoje modele sztucznej inteligencji do dobrowolnego przeglądu; Meta jest jedynym dużym amerykańskim twórcą sztucznej inteligencji bez umowy &mdash; Urzędnicy federalni wzywają samotną, dużą firmę technologiczną, która wstrzymuje się od działania, aby pozwoliła rządowi na przeprowadzenie oceny bezpieczeństwa kilka tygodni po wydaniu przez firmę Anthropic zamówienia na wycofanie najnowszego modelu."
     },
     {
       "title": "Dziwne policyjne wideo pokazuje, jak dron usuwa nóż z nieruchomego podejrzanego",
@@ -781,7 +781,7 @@
       "date": "2026-06-23T18:40:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "https://www.openculture.com/2026/06/this-man-has-been-drawin... Adres URL komentarzy: https://news.ycombinator.com/item?id=48649435 Punkty: 356 # Komentarze: 49."
+      "summary": "https://www.openculture.com/2026/06/this-man-has-been-drawin... Adres URL komentarzy: https://news.ycombinator.com/item?id=48649435 Punkty: 361 # Komentarze: 49."
     },
     {
       "title": "Xbox zaleje treściami twój telewizor. Nie chodzi mi o gry",
