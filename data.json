@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-06-24T12:33:48Z",
+  "last_updated": "2026-06-24T12:38:39Z",
   "poland": [
+    {
+      "title": "Kontrola czy rozmowa? Raport NASK pokazuje, jak Polacy wychowują dzieci w sieci",
+      "url": "https://cyfrowa.rp.pl/it/art44687041-kontrola-czy-rozmowa-raport-nask-pokazuje-jak-polacy-wychowuja-dzieci-w-sieci",
+      "date": "2026-06-24T12:33:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Polscy rodzice deklarują, że najbardziej obawiają się zagrożeń internetowych wobec dzieci w wieku 10–13 lat. Jednocześnie wtedy najczęściej ograniczają kontrolę i zaangażowanie, licząc, że dziecko poradzi sobie samo. Z raportu NASK wynika także, że cyfrowe wychowanie w Polsce w dużej mierze spoczywa na matkach."
+    },
+    {
+      "title": "Chiny uruchamiają system donosów. Chcą całkowicie kontrolować strategiczne surowce",
+      "url": "https://energia.rp.pl/surowce-i-paliwa/art44686581-chiny-uruchamiaja-system-donosow-chca-calkowicie-kontrolowac-strategiczne-surowce",
+      "date": "2026-06-24T12:28:21Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Chiny zaostrzają kontrolę nad eksportem metali krytycznych i uruchamiają system donosów na firmy omijające restrykcje. Nowe przepisy mają uszczelnić nadzór nad strategicznymi surowcami, od których zależy światowa produkcja elektroniki i uzbrojenia."
+    },
     {
       "title": "Supermarkety znanej sieci otwarte we wszystkie niedziele. Uruchamiają czytelnie, żeby ominąć zakaz handlu",
       "url": "https://www.rp.pl/handel/art44679481-czytelnie-zamiast-zamknietych-drzwi-e-leclerc-testuje-sposob-na-zakaz-handlu",
@@ -122,28 +138,12 @@
       "summary": "Ukraińskie ataki na rafinerie wywołały w Rosji największy od dekad kryzys paliwowy. Kreml, dotąd eksporter ropy i paliw, musi sprowadzać benzynę z Indii - paradoksalnie - produkowaną z rosyjskiej ropy, którą sam wcześniej, masowo sprzedawał za granicę."
     },
     {
-      "title": "Sąd lekarski zajmie się Dawidem Kacprzykiem. Naczelna Izba Lekarska zaczęła postępowanie",
-      "url": "https://www.rp.pl/ochrona-zdrowia/art44686481-sad-lekarski-zajmie-sie-dawidem-kacprzykiem-naczelna-izba-lekarska-zaczela-postepowanie",
-      "date": "2026-06-24T12:05:28Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Naczelna Izba Lekarska rozpoczęła postępowanie ws. Dawida Kacprzyka, a do sądu lekarskiego ma trafić wniosek o zawieszeniu mu prawa wykonywania zawodu. Szef NIL, Łukasz Jankowski, zapowiada walkę z systemowymi patologiami w ochronie zdrowia."
-    },
-    {
       "title": "Putin reaguje po ataku na rafinerię. Osłabia front, by chronić Moskwę",
       "url": "https://businessinsider.com.pl/technologie/nowe-technologie/putin-pod-presja-po-atakach-na-moskwe-pancyr-zamiast-na-froncie-broni-stolicy/r2pfmwj",
       "date": "2026-06-24T12:02:21Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Rosja zaczęła przerzucać systemy obrony przeciwlotniczej z linii frontu w Ukrainie bezpośrednio do Moskwy."
-    },
-    {
-      "title": "Taszkent wprowadza kolejne udogodnienia dla inwestorów z zagranicy",
-      "url": "https://www.rp.pl/eksport/art44683751-taszkent-wprowadza-kolejne-udogodnienia-dla-inwestorow-z-zagranicy",
-      "date": "2026-06-24T12:00:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Choć od 2017 r. wartość oraz liczba bezpośrednich inwestycji zagranicznych w Uzbekistanie dynamicznie wzrasta to władze tego kraju wprowadzają kolejne zachęty dla firm z zagranicy."
     },
     {
       "title": "Ordynator chirurgii w Szpitalu Południowym odcina się od słów Jędrzejewskiego. \"Jestem oburzony\"",
@@ -552,12 +552,28 @@
   ],
   "technology": [
     {
+      "title": "GTA 6 w pudełku, ale bez płyty. To koniec pewnej epoki",
+      "url": "https://www.benchmark.pl/gta-6-w-pudelku-ale-bez-plyty-to-koniec-pewnej-epoki-7300314398226464a",
+      "date": "2026-06-24T12:23:02Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Wielu graczy planowało kupić pudełkową wersję GTA 6, by postawić opakowanie na półce obok poprzednich części serii. Okazuje się jednak, że zawartość takiego wydania będzie wyglądać inaczej, niż można było się spodziewać. Rockstar Games potwierdził informację, która dla części fanów może być sporym zaskoczeniem."
+    },
+    {
       "title": "Amerykanie chcą budować w Polsce drony. To ma być bezzałogowy F-35",
       "url": "https://spidersweb.pl/2026/06/shield-ai-drony-polska.html",
       "date": "2026-06-24T12:19:00Z",
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Amerykanie chcą budować w Polsce drony. To ma być bezzałogowy F-35."
+    },
+    {
+      "title": "Europejczycy powinni nauczyć się kochać klimatyzatory",
+      "url": "https://www.economist.com/europe/2026/06/18/europeans-should-learn-to-love-the-air-conditioner",
+      "date": "2026-06-24T12:07:05Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.economist.com/europe/2026/06/18/europeans-should-learn-to-love-the-air-conditioner Adres URL komentarzy: https://news.ycombinator.com/item?id=48658484 Punkty: 10 # Komentarze: 6."
     },
     {
       "title": "OSCAL przecenia stacje zasilania. Awarie prądu przestaną przerażać",
@@ -568,12 +584,28 @@
       "summary": "OSCAL przecenił szereg stacji zasilania. To dobra okazja, by zacząć myśleć nad przygotowaniem zaplecza energetycznego. Artykuł OSCAL przecenia stacje zasilania."
     },
     {
+      "title": "Monitor czasu działania Pokazuje kolor zielony, ale odwiedzający otrzymują błędy",
+      "url": "https://medium.com/@thesuperrepemail/your-uptime-monitor-shows-green-but-visitors-are-getting-errors-860f5005d50c",
+      "date": "2026-06-24T12:01:22Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://medium.com/@thesuperrepemail/your-uptime-monitor-shows-green-but-visitors-are-getting-errors-860f5005d50c Adres URL komentarzy: https://news.ycombinator.com/item?id=48658436 Punkty: 4 # Komentarze: 1."
+    },
+    {
       "title": "Uczniowie udowodnili coś niemożliwego. Fizycy przecierają oczy ze zdumienia",
       "url": "https://antyweb.pl/uczniowie-czarne-dziury-termodynamika",
       "date": "2026-06-24T12:00:21Z",
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Uczniowie z Seulu opracowali sposób wyprowadzania pierwszej zasady termodynamiki w czarnych dziurach bez założeń ograniczających zmiany ich parametrów. Praca ukazała się w czasopiśmie International Journal of Modern Physics D."
+    },
+    {
+      "title": "Obrazy kontenerów Minimus są teraz bezpłatne",
+      "url": "https://images.minimus.io/",
+      "date": "2026-06-24T11:52:12Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://images.minimus.io/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48658361 Punkty: 9 # Komentarze: 1."
     },
     {
       "title": "Rockstar twierdzi, że fizyczne kopie GTA 6 będą zawierać kod do pobrania, a nie płytę; fizyczne kopie będą dostępne od 12 listopada, przed premierą 19 listopada (Tom Phillips/IGN)",
@@ -600,6 +632,14 @@
       "summary": "Samantha Kelly / Bloomberg: Amerykańska FDA wycofuje skargę przeciwko firmie Whoop dotyczącą jej narzędzia do śledzenia ciśnienia krwi, unieważniając ostrzeżenie z lipca 2025 r.; Whoop aktualizuje narzędzie &mdash; Amerykańska Agencja ds. Żywności i Leków wycofała skargę przeciwko firmie Whoop Inc., zajmującej się monitorowaniem kondycji fizycznej, w związku z jej narzędziem do śledzenia ciśnienia krwi &hellip;."
     },
     {
+      "title": "GTA 6. Kiedy rusza przedsprzedaż? Rockstar Games wydało komunikat",
+      "url": "https://www.benchmark.pl/gta-6-kiedy-rusza-przedsprzedaz-rockstar-games-wydalo-komunikat-7300304453433344a",
+      "date": "2026-06-24T11:39:39Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Jedna wiadomość wystarczyła, by ponownie rozgrzać społeczność graczy na całym świecie. Rockstar Games ujawniło termin rozpoczęcia przedsprzedaży Grand Theft Auto VI, a tysiące fanów już odliczają godziny do możliwości złożenia zamówienia."
+    },
+    {
       "title": "BLIK oficjalnie wyszedł za granicę. W końcu zapłacimy jak u siebie",
       "url": "https://spidersweb.pl/2026/06/blik-za-granica-slowacja-hotele-kod.html",
       "date": "2026-06-24T11:32:00Z",
@@ -608,12 +648,20 @@
       "summary": "BLIK oficjalnie wyszedł za granicę. W końcu zapłacimy jak u siebie."
     },
     {
+      "title": "Rockstar odsłania karty. Tyle zapłacimy za GTA 6",
+      "url": "https://www.benchmark.pl/rockstar-odslania-karty-tyle-zaplacimy-za-gta-6-7300303657535520a",
+      "date": "2026-06-24T11:32:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Grand Theft Auto 6 w standardzie kosztuje 79,99 dol., a edycja Ultimate 99,99 dol. Przedsprzedaż ruszy 25 czerwca 2026 r., a premiera nastąpi 19 listopada 2026 r. Gra trafi na PS5 i Xbox Series X/S."
+    },
+    {
       "title": "Rozprzestrzenia się śmiercionośny grzyb, który może zarazić koty i ludzi",
       "url": "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading",
       "date": "2026-06-24T11:31:20Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading Adres URL komentarzy: https://news.ycombinator.com/item?id=48658186 Punkty: 30 # Komentarze: 6."
+      "summary": "Adres URL artykułu: https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading Adres URL komentarzy: https://news.ycombinator.com/item?id=48658186 Punkty: 41 # Komentarze: 24."
     },
     {
       "title": "Analiza GPT-5.5, Gemini 3.1 Pro, Grok 4.3, Gab’s Arya i innych modeli sztucznej inteligencji: większość chatbotów często udziela lewicowych odpowiedzi na podpowiedzi polityczne (Kevin Schaul/Washington Post)",
@@ -622,6 +670,14 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Kevin Schaul / Washington Post: Analiza GPT-5.5, Gemini 3.1 Pro, Grok 4.3, Gab's Arya i innych modeli sztucznej inteligencji: większość chatbotów często udziela lewicowych odpowiedzi na podpowiedzi polityczne &mdash; Fragmenty odpowiedzi każdego chatbota na pytania polityczne &mdash; Lewicowy argument &mdash; Prawicowy &mdash; CzatGPT &mdash; Bliźnięta."
+    },
+    {
+      "title": "Haystack: platforma AI typu open source dla agentów gotowych do produkcji, RAG",
+      "url": "https://haystack.deepset.ai/",
+      "date": "2026-06-24T11:21:32Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://haystack.deepset.ai/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48658095 Punkty: 3 # Komentarze: 1."
     },
     {
       "title": "Rozdają 60 tysięcy darmowych biletów na pociągi. Kto skorzysta?",
@@ -640,6 +696,14 @@
       "summary": "Przedsprzedaż GTA 6 tuż za rogiem, polskie sklepy już rozpoczęły odliczanie. Za kilkadziesiąt godzin poznamy sugerowaną cenę gry. Artykuł GTA 6 bez tajemnic."
     },
     {
+      "title": "Czas na Gothic 2 Remake? Twórcy odpowiadają na głosy fanów",
+      "url": "https://www.benchmark.pl/czas-na-gothic-2-remake-tworcy-odpowiadaja-na-glosy-fanow-7300294856013824a",
+      "date": "2026-06-24T11:10:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Dla wielu fanów sprawa jest prosta: Gothic Remake to dopiero początek. Sukces odświeżonej wersji kultowego RPG-a naturalnie rodzi oczekiwania wobec kolejnej części serii, a więc stworzenia Gothic 2 Remake. Najnowsza wymiana komentarzy między fanem a twórcami pokazuje, że studio doskonale zdaje sobie sprawę z tych oczekiwań."
+    },
+    {
       "title": "Jak tajwański park naukowy Hsinchu, siedziba TSMC, stał się jego najbogatszym centrum; w jednej dzielnicy odnotowano średni dochód gospodarstwa domowego w 2023 r. na poziomie 146 tys. dolarów, czyli 5-krotność średniej (New York Times)",
       "url": "https://www.techmeme.com/260624/p15#a260624p15",
       "date": "2026-06-24T11:05:02Z",
@@ -653,7 +717,7 @@
       "date": "2026-06-24T10:59:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://rworks.dev/posts/too-many-R-packages/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48657940 Punkty: 6 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://rworks.dev/posts/too-many-R-packages/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48657940 Punkty: 10 # Komentarze: 2."
     },
     {
       "title": "Rockstar ustala datę premiery GTA VI na 19 listopada i twierdzi, że będzie kosztować 79,99 dolarów lub 99,99 dolarów za wersję Ultimate; przedsprzedaż rozpoczyna się dziś o północy (Stevie Bonifield/The Verge)",
@@ -726,70 +790,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "PKP Intercity podcina promocję na wakacje. Jest oburzenie, ale czy słuszne?"
-    },
-    {
-      "title": "Jadę na wakacje. Bez Orange Flex Travel się nie wybieram",
-      "url": "https://spidersweb.pl/2026/06/orange-flex-travel-esim-wakacje-oferta-promocja.html",
-      "date": "2026-06-24T10:01:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Jadę na wakacje. Bez Orange Flex Travel się nie wybieram."
-    },
-    {
-      "title": "Producent robotów humanoidalnych Agility planuje wejść na giełdę poprzez fuzję ze SPAC Michaela Kleina w ramach transakcji wyceniającej go na około 2,5 miliarda dolarów i notowanej pod symbolem AGLT (Lauren Thomas/Wall Street Journal)",
-      "url": "https://www.techmeme.com/260624/p11#a260624p11",
-      "date": "2026-06-24T10:00:55Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Lauren Thomas / Wall Street Journal: Producent robotów humanoidalnych Agility planuje wejść na giełdę w drodze fuzji ze SPAC Michaela Kleina w ramach transakcji wyceniającej ją na około 2,5 miliarda dolarów i notowanej pod symbolem AGLT &mdash; Humanoidalny robot Agility, Digit, jest używany przez takie firmy, jak Amazon &mdash; Agility Robotics, startup, który wykorzystuje roboty podobne do ludzi &hellip;."
-    },
-    {
-      "title": "Masz konto w tej popularnej aplikacji do haseł? Hakerzy zdobyli dane",
-      "url": "https://antyweb.pl/masz-konto-w-tej-popularnej-aplikacji-do-hasel-hakerzy-zdobyli-dane",
-      "date": "2026-06-24T10:00:42Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Niezależne menedżery haseł miały nam zapewnić pełne bezpieczeństwo przechowywanych w nich danych. Rzeczywistość jest jednak inna, o czym przypomina kolejny atak na LastPass – popularną aplikację do zapisywania danych logowania."
-    },
-    {
-      "title": "WhatsApp zmienia zasady gry z nieznajomymi. Zobacz, co wyświetli się na ekranie",
-      "url": "https://www.instalki.pl/news/bezpieczenstwo/whatsapp-zmienia-zasady-gry-z-nieznajomymi-zobacz-co-wyswietli-sie-na-ekranie/",
-      "date": "2026-06-24T09:31:19Z",
-      "source": "Instalki.pl",
-      "confirmed_by": 1,
-      "summary": "Ktoś obcy próbuje nawiązać z Tobą kontakt na popularnym komunikatorze? To chleb powszedni dla milionów internautów. Meta postanowiła kontynuować otwartą wojnę z naciągaczami, którzy wykorzystują nieuwagę użytkowników."
-    },
-    {
-      "title": "Microsoft nie pyta o zgodę. Automatycznie zaktualizuje Windowsa 11 u wszystkich",
-      "url": "https://www.instalki.pl/news/software/microsoft-nie-pyta-o-zgode-automatycznie-zaktualizuje-windowsa-11-u-wszystkich/",
-      "date": "2026-06-24T09:17:21Z",
-      "source": "Instalki.pl",
-      "confirmed_by": 1,
-      "summary": "Microsoft rozpoczął automatyczne wdrażanie kolejnej wersji Windowsa 11, a użytkownicy nie będą mieli możliwości odłożenia jej na później. Artykuł Microsoft nie pyta o zgodę. Automatycznie zaktualizuje Windowsa 11 u wszystkich pochodzi z serwisu INSTALKI."
-    },
-    {
-      "title": "Miliony na polską broń. Wojsko kupuje potężną partię nowych Grotów",
-      "url": "https://spidersweb.pl/2026/06/grot-a3-zamowienie-wojsko-polskie.html",
-      "date": "2026-06-24T08:58:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Miliony na polską broń. Wojsko kupuje potężną partię nowych Grotów."
-    },
-    {
-      "title": "Automatyczny ekspres do kawy w świetnej promocji w Lidlu. Śpiesz się zanim wykupią",
-      "url": "https://www.instalki.pl/news/agd/automatyczny-ekspres-do-kawy-w-swietnej-promocji-w-lidlu-spiesz-sie-zanim-wykupia/",
-      "date": "2026-06-24T08:57:26Z",
-      "source": "Instalki.pl",
-      "confirmed_by": 1,
-      "summary": "Dobre małe AGD potrafi ułatwić życie równie mocno, co solidny smartfon czy szybki laptop. Jeśli Wasz poranny rytuał bez dobrej, kofeinowej bazy po prostu nie istnieje, a Wasz obecny ekspres domaga się emerytury, Lidl ma dla Was niespodziankę. W najnowszej gazetce sieć przygotowała promocję na model o obiecujących możliwościach."
-    },
-    {
-      "title": "Sprawiamy, że Bunny DNS jest darmowy: ponieważ szybszy Internet sam się nie zbuduje",
-      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "date": "2026-06-24T08:50:41Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://bunny.net/blog/were-making-bunny-dns-free/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48657030 Punkty: 277 # Komentarze: 89."
     }
   ],
   "cybersecurity": [
@@ -1108,14 +1108,6 @@
       "summary": "W czwartek litr benzyny 95 ma kosztować nie więcej niż 5,96 zł, benzyny 98 - 6,67 zł, a oleju napędowego - 6,11 zł. Tak wynika z najnowszego obwieszczenia ministra energii w tej sprawie."
     },
     {
-      "title": "Forum giełdowe StockWatch.pl: XTB - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-512145_XTB.aspx",
-      "date": "2026-06-24T10:14:00Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Forum giełdowe StockWatch.pl: XTB stockwatch.pl."
-    },
-    {
       "title": "Otworzą nową erę w polskiej armii. Bałtyk będzie pod specjalną ochroną - Forsal.pl",
       "url": "https://forsal.pl/kraj/bezpieczenstwo/artykuly/11267056,otworza-nowa-ere-w-polskiej-armii-baltyk-bedzie-pod-specjalna-ochrona.html",
       "date": "2026-06-24T09:42:51Z",
@@ -1178,14 +1170,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Z nieoficjalnych informacji wynika, że Niemcy zamierzają porzucić plan zakupu sześciu fregat zwalczania okrętów podwodnych typu F126. Oznacza to anulowanie projektu, który miał być największym programem zamówień w historii niemieckiej marynarki wojennej."
-    },
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/archiwum/2010-10-21,2",
-      "date": "2026-06-24T07:28:09Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Cena ostateczna akcji w IPO Robyg ustalona. Spółka uplasowała wszystkie akcje",
@@ -1274,6 +1258,22 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Środa z Siłą Relatywną (SzSR): 24 czerwca 2026 r. Piotr Kwestarz śr., 24.06.2026 Treść Zapraszam do lektury kolejnego wpisu z cyklu Środy z Siłą Relatywną (SzSR). Środa z Siłą Relatywną (SzSR): 24 czerwca 2026 r."
+    },
+    {
+      "title": "Dlaczego deweloperzy coraz częściej szukają finansowania poza sektorem bankowym?",
+      "url": "https://300gospodarka.pl/material-partnera/dlaczego-deweloperzy-coraz-czesciej-szukaja-finansowania-poza-sektorem-bankowym",
+      "date": "2026-06-24T04:53:41Z",
+      "source": "300Gospodarka",
+      "confirmed_by": 1,
+      "summary": "Deweloperzy coraz częściej szukają finansowania poza sektorem bankowym przede wszystkim dlatego, że potrzebują szybkich decyzji i większej elastyczności. Inwestycje nie czekają na zakończenie długich procedur, a atrakcyjne okazje zakupowe potrafią zniknąć w ciągu kilku dni. Dlatego alternatywne źródła kapitału stają się dla wielu firm sposobem na sprawne realizowanie kolejnych etapów przedsięwzięć."
+    },
+    {
+      "title": "Drewno dębowe pod kontrolą jakości – standardy pracy Kleniewski Tartak",
+      "url": "https://300gospodarka.pl/material-partnera/drewno-debowe-pod-kontrola-jakosci-standardy-pracy-kleniewski-tartak",
+      "date": "2026-06-24T04:52:18Z",
+      "source": "300Gospodarka",
+      "confirmed_by": 1,
+      "summary": "Drewno dębowe jest materiałem, który nie wybacza przypadkowości. W produkcji mebli, schodów, podłóg, elementów konstrukcyjnych czy infrastrukturalnych liczy się nie tylko sam gatunek surowca, ale również sposób jego przygotowania, przetarcia, suszenia i selekcji. Dobra tarcica dębowa powinna być stabilna, przewidywalna w obróbce i dopasowana do konkretnego zastosowania."
     }
   ],
   "critical_alerts": [
@@ -1701,57 +1701,57 @@
       24120.4,
       24737.25,
       24758.98,
-      25777.39,
+      25798.72,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26946.48,
+      26968.79,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27094.03,
+      27116.46,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27339.98,
+      27362.61,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27978.31,
+      28001.47,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28014.5,
+      28037.69,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28260.18,
+      28283.57,
       27354.94,
       27400.36,
       27412.11,
-      28663.24,
+      28686.96,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27920.88,
+      27943.99,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28101.32,
+      28124.58,
       27686.17,
       27404.78,
       27351.97,
       27846.5,
       27905.42,
-      27851.75
+      27874.8
     ],
     "currency": "PLN"
   }
