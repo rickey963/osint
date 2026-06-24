@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-24T22:06:50Z",
+  "last_updated": "2026-06-24T22:07:14Z",
   "poland": [
+    {
+      "title": "Wsparcie AI zamiast stresu. Tak OLX Praca wykorzystuje sztuczną inteligencję, by pomagać kandydatom i pracodawcom",
+      "url": "https://www.rp.pl/rynek-pracy/art44670831-wsparcie-ai-zamiast-stresu-tak-olx-praca-wykorzystuje-sztuczna-inteligencje-by-pomagac-kandydatom-i-pracodawcom",
+      "date": "2026-06-24T22:00:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Sztuczna inteligencja coraz mocniej wpływa na rynek pracy. Dla wielu pracowników oznacza to nie tylko nowe możliwości, lecz także obawy o przyszłość zawodową. Jednocześnie samo poszukiwanie pracy i udział w rekrutacjach dla dużej części kandydatów pozostaje źródłem stresu."
+    },
     {
       "title": "Nowe oblicze księgowości. Jak wybrać program gotowy na KSeF?",
       "url": "https://pro.rp.pl/krajowy-system-e-faktur-ksef/art44686061-nowe-oblicze-ksiegowosci-jak-wybrac-program-gotowy-na-ksef",
@@ -146,14 +154,6 @@
       "summary": "Pożar pociągu w Rosochatce. Dym wydobywa się z wagonu, trwa akcja gaśnicza Polskie Radio 24."
     },
     {
-      "title": "Potężny pożar w Chorzowie. Kłęby dymu było widać z kilkudziesięciu kilometrów",
-      "url": "https://www.rp.pl/spoleczenstwo/art44690261-potezny-pozar-w-chorzowie-kleby-dymu-bylo-widac-z-kilkudziesieciu-kilometrow",
-      "date": "2026-06-24T16:54:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Pożar na składowisku odpadów w Chorzowie, który wybuchł w środę po południu, już się nie rozprzestrzenia – przekazała po kilkugodzinnej akcji straż pożarna. Według szacunków strażaków ogień objął powierzchnię ok. 6 tys."
-    },
-    {
       "title": "System kaucyjny czeka na \"małpki\". Minister klimatu zdradziła szczegóły",
       "url": "https://businessinsider.com.pl/gospodarka/malpki-w-systemie-kaucyjnym-sa-nowe-informacje/n1ssyhh",
       "date": "2026-06-24T16:43:43Z",
@@ -254,10 +254,26 @@
     {
       "title": "Qualcomm prognozuje sprzedaż chipów do centrów danych o wartości 15 miliardów dolarów do 2029 r., akcje rosną – Reuters",
       "url": "https://www.reuters.com/business/retail-consumer/qualcomm-bets-ai-chips-break-smartphone-reliance-faces-crowded-race-2026-06-24/",
-      "date": "2026-06-24T21:09:05Z",
+      "date": "2026-06-24T21:35:50Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Qualcomm prognozuje sprzedaż chipów do centrów danych o wartości 15 miliardów dolarów do 2029 r., akcje rosną Reuters."
+    },
+    {
+      "title": "Micron prognozuje dobre wyniki kwartalne w związku z rosnącym popytem na układy pamięci – Reuters",
+      "url": "https://www.reuters.com/business/micron-forecasts-quarterly-revenue-above-estimates-2026-06-24/",
+      "date": "2026-06-24T21:05:47Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Micron prognozuje dobre wyniki kwartalne w związku z rosnącym popytem na chipy pamięci Reuters."
+    },
+    {
+      "title": "EKSKLUZYWNIE: Trump zażąda od Kongresu ponad 1,4 miliarda dolarów finansowania wirusa Ebola – Reuters",
+      "url": "https://www.reuters.com/world/trump-to-seek-more-than-14-billion-ebola-funding-congress-2026-06-24/",
+      "date": "2026-06-24T20:44:40Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "EKSKLUZYWNIE: Trump zażąda od Congress Reuters ponad 1,4 miliarda dolarów na finansowanie wirusa Ebola."
     },
     {
       "title": "Amerykańska NTSB zbada śmiertelną katastrofę Tesli w Teksasie – Reuters",
@@ -282,22 +298,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "EKSKLUZYWNIE: Stany Zjednoczone będą kontynuować sprzedaż silników odrzutowych w Turcji przed szczytem NATO, podają źródła Reuters."
-    },
-    {
-      "title": "Micron prognozuje kwartalne przychody powyżej szacunków - Reuters",
-      "url": "https://www.reuters.com/business/micron-forecasts-quarterly-revenue-above-estimates-2026-06-24/",
-      "date": "2026-06-24T20:20:11Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Micron prognozuje kwartalne przychody powyżej szacunków Reutersa."
-    },
-    {
-      "title": "EKSKLUZYWNIE: Trump zażąda od Kongresu ponad 1,4 miliarda dolarów finansowania wirusa Ebola – Reuters",
-      "url": "https://www.reuters.com/world/trump-to-seek-more-than-14-billion-ebola-funding-congress-2026-06-24/",
-      "date": "2026-06-24T19:16:30Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "EKSKLUZYWNIE: Trump zażąda od Congress Reuters ponad 1,4 miliarda dolarów na finansowanie wirusa Ebola."
     },
     {
       "title": "Brazylijska policja federalna aresztuje obywatela Hiszpanii na lotnisku w São Paulo za rasizm",
@@ -377,7 +377,7 @@
       "date": "2026-06-24T11:00:43Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Coraz większa liczba przypadków dotyczy pracy policji jako kierowcy korzystający z transportu publicznego, mając przy sobie wydaną przez rząd broń. Kiedy różnica między jego pensją a podstawowymi wydatkami rodziny zaczęła się dramatycznie powiększać, Diego – podobnie jak wielu innych Argentyńczyków – oprócz swojej codziennej pracy zaczął pracować jako kierowca transportu publicznego. Zwykle odrabia kilka godzin pod koniec swojej 12-godzinnej zmiany; i nie tylko w dni wolne. Byłaby to kolejna historia z pogrążonej w recesji Argentyny, gdyby nie fakt, że Diego jest funkcjonariuszem policji federalnej. Kontynuuj czytanie..."
+      "summary": "Coraz większa liczba przypadków dotyczy pracy policji jako kierowcy transportu publicznego, mając przy sobie wydaną przez rząd broń. Kiedy różnica między jego pensją a podstawowymi wydatkami rodziny zaczęła się dramatycznie powiększać, Diego – podobnie jak wielu innych Argentyńczyków – oprócz swojej codziennej pracy zaczął pracować jako kierowca transportu publicznego. Zwykle odrabia kilka godzin pod koniec swojej 12-godzinnej zmiany; i nie tylko w dni wolne. Byłaby to kolejna historia z pogrążonej w recesji Argentyny, gdyby nie fakt, że Diego jest funkcjonariuszem policji federalnej. Kontynuuj czytanie..."
     },
     {
       "title": "Największe miasto na Krymie pozbawione prądu po strajkach Ukrainy",
@@ -466,7 +466,7 @@
       "url": "https://www.nytimes.com/2026/06/24/world/middleeast/middle-east-iran-us-rubio.html",
       "date": "2026-06-24T18:07:15Z",
       "source": "The New York Times",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Sekretarz stanu Marco Rubio podróżował między Zjednoczonych Emiratami Arabskimi, Kuwejtem i Bahrajnem, które w czasie wojny zostały zaatakowane przez Iran."
     },
     {
@@ -534,14 +534,6 @@
       "summary": "Badanie szczepionki przeciwko Covid-19, które zostało zablokowane w czasopiśmie CDC, zostało opublikowane w innym miejscu AP News."
     },
     {
-      "title": "Gwałtowne spadki w spółkach Big Tech pociągają za sobą spadki indeksów, głównie na Wall Street – AP News",
-      "url": "https://apnews.com/article/stocks-markets-us-iran-war-oil-spacex-03c6efaefd208a4b68679cdccde51cf9",
-      "date": "2026-06-23T20:55:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Gwałtowne spadki w spółkach Big Tech pociągają za sobą głównie spadki indeksów Wall Street AP News."
-    },
-    {
       "title": "Sprawa imigracyjna dotycząca posiadaczy zielonej karty, Sąd Najwyższy po stronie administracji Trumpa – AP News",
       "url": "https://apnews.com/article/supreme-court-trump-immigration-b9ea1079296c0d7be844213986f96e6f",
       "date": "2026-06-23T18:51:00Z",
@@ -551,6 +543,14 @@
     }
   ],
   "technology": [
+    {
+      "title": "Qualcomm spodziewa się, że sprzedaż chipów do centrów danych wyniesie 15 miliardów dolarów do 2029 roku i podnosi prognozę przychodów z chipów do urządzeń innych niż telefony komórkowe do 40 miliardów dolarów do 2029 roku, w porównaniu z 22 miliardami dolarów; QCOM skacze po godzinach o 13%+ (Reuters)",
+      "url": "https://www.techmeme.com/260624/p42#a260624p42",
+      "date": "2026-06-24T22:00:40Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Reuters: Qualcomm spodziewa się, że sprzedaż chipów do centrów danych wyniesie 15 miliardów dolarów do 2029 roku i podnosi prognozę przychodów z chipów do urządzeń innych niż telefony komórkowe do 40 miliardów dolarów do 2029 roku, w porównaniu z 22 miliardami dolarów; QCOM skacze o 13%+ po godzinach &mdash; Qualcomm (QCOM.O) podał, że spodziewa się wygenerować sprzedaż w wysokości 15 miliardów dolarów w ramach swojej działalności związanej z centrami danych do 2029 r., po wyjściu poza &hellip;."
+    },
     {
       "title": "Cloudflare współpracuje z Google, Microsoft i Mozilla nad PACT, protokołem odróżniającym legalny ruch ludzki lub botów od niepożądanych żądań sieciowych (Thomas Claburn/The Register)",
       "url": "https://www.techmeme.com/260624/p41#a260624p41",
@@ -606,6 +606,14 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "Niewielka cząstka powietrza w butelce powoduje wchodzenie i wychodzenie tlenu i innych substancji chemicznych."
+    },
+    {
+      "title": "Hugin Superior ruszył w morze. Norwegia mapuje głębiny do 6 tys. m",
+      "url": "https://www.benchmark.pl/hugin-superior-ruszyl-w-morze-norwegia-mapuje-glebiny-do-6-tys-m-7300355524442144a",
+      "date": "2026-06-24T20:03:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Na początku czerwca na północnych akwenach Morza Norweskiego wystartowała pierwsza misja autonomicznego drona podwodnego Hugin Superior. Norwegowie liczą, że pojazd zdolny pracować nawet na głębokości 6 tys. metrów dostarczy przełomowych danych do mapowania i zarządzania obszarami głębinowymi."
     },
     {
       "title": "FCC planuje wprowadzenie mandatu identyfikacyjnego, który mógłby zablokować anonimowe korzystanie z telefonów na kartę",
@@ -680,20 +688,20 @@
       "summary": "Star Fox - recenzja. Nintendo bije starych graczy w kosmosie."
     },
     {
-      "title": "Google twierdzi, że korzystanie z komputera jest teraz wbudowanym narzędziem obsługiwanym w Gemini 3.5 Flash i dostępnym za pośrednictwem Gemini API i Gemini Enterprise Agent Platform (Mateo Quiros/The Keyword)",
-      "url": "https://www.techmeme.com/260624/p34#a260624p34",
-      "date": "2026-06-24T18:20:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 2,
-      "summary": "Mateo Quiros / Słowo kluczowe: Google twierdzi, że korzystanie z komputera jest teraz wbudowanym narzędziem obsługiwanym przez Gemini 3.5 Flash i dostępnym za pośrednictwem interfejsu Gemini API i platformy Gemini Enterprise Agent Platform &mdash; Korzystanie z komputera jest teraz wbudowanym narzędziem w Gemini 3.5 Flash, umożliwiającym tworzenie agentów, którzy mogą wchodzić w interakcje na różnych platformach."
-    },
-    {
       "title": "Steam Machine rozebrane na kawałki. Płacimy krocie za... radiator",
       "url": "https://antyweb.pl/steam-machine-rozebrane-na-kawalki-placimy-krocie-za-radiator",
       "date": "2026-06-24T18:15:51Z",
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Steam Machine zadebiutował kilka dni temu, a pierwsze redakcje mają już okazję testować konsolę Valve. Pierwsze wnioski są całkiem ciekawe."
+    },
+    {
+      "title": "Euclid sfotografował serce Drogi Mlecznej. Ponad 60 mln gwiazd",
+      "url": "https://www.benchmark.pl/euclid-sfotografowal-serce-drogi-mlecznej-ponad-60-mln-gwiazd-7300355048536096a",
+      "date": "2026-06-24T18:01:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Sonda Euclid Europejskiej Agencji Kosmicznej przygotowała jak dotąd największy i najbardziej szczegółowy obraz centralnych rejonów Drogi Mlecznej, na którym widać ponad 60 mln gwiazd. Materiał z 26-godzinnej obserwacji ma pomóc astronomom m.in. w poszukiwaniu egzoplanet metodą mikrosoczewkowania oraz w dokładniejszym wyznaczaniu ich mas."
     },
     {
       "title": "Prywatny ekran nie tylko na Samsungu. Chińczycy wezmą najlepsze",
@@ -726,6 +734,14 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Badanie dna oka może powiedzieć zaskakująco dużo o zdrowiu człowieka. Model oparty na sztucznej inteligencji, wytrenowany na danych ponad 40 tys. osób rozpoznawał w siatkówce czynniki wiązane z ryzykiem choroby Alzheimera, od ciśnienia krwi po palenie i bezsenność."
+    },
+    {
+      "title": "Korzystanie z komputera w Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "date": "2026-06-24T17:21:34Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48662999 Punkty: 118 # Komentarze: 66."
     },
     {
       "title": "Polacy zostawiają w Uberze dziwne rzeczy. Lista jest zabawna",
@@ -766,30 +782,6 @@
       "source": "Hacker News",
       "confirmed_by": 1,
       "summary": "https://archive.is/T1FJG Adres URL komentarzy: https://news.ycombinator.com/item?id=48662452 Punkty: 84 # Komentarze: 66."
-    },
-    {
-      "title": "Czytnik e-atramentu Xteink X4",
-      "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-      "date": "2026-06-24T16:35:56Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://blog.omgmog.net/post/xteink-x4-e-ink-reader/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48662381 Punkty: 114 # Komentarze: 92."
-    },
-    {
-      "title": "Wykorzystywanie luk w aplikacjach internetowych Johnson and Johnson",
-      "url": "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/",
-      "date": "2026-06-24T16:33:48Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://eaton-works.com/2026/06/24/jnj-webapp-hacks/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48662347 Punkty: 37 # Komentarze: 1."
-    },
-    {
-      "title": "Kupisz GTA 6, sprzedadzą ci marną obietnicę. Za kilka lat możesz nie pograć",
-      "url": "https://spidersweb.pl/2026/06/gta-vi-bez-plyty-problem-archiwizacja.html",
-      "date": "2026-06-24T16:30:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Kupisz GTA 6, sprzedadzą ci marną obietnicę. Za kilka lat możesz nie pograć."
     }
   ],
   "cybersecurity": [
@@ -1719,58 +1711,58 @@
       24120.4,
       24737.25,
       24758.98,
-      25700.36,
+      25711.26,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26865.96,
+      26877.36,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27013.07,
+      27024.53,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27258.28,
+      27269.84,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27894.71,
+      27906.54,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27930.79,
+      27942.64,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28175.73,
+      28187.69,
       27354.94,
       27400.36,
       27412.11,
-      28577.59,
+      28589.71,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27837.44,
+      27849.25,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28017.35,
+      28029.24,
       27686.17,
       27404.78,
       27351.97,
       27846.5,
       27905.42,
       27661.43,
-      27741.23
+      27753.0
     ],
     "currency": "PLN"
   }
