@@ -1,9 +1,17 @@
 {
-  "last_updated": "2026-06-24T07:29:36Z",
+  "last_updated": "2026-06-24T07:38:57Z",
   "poland": [
     {
-      "title": "Naczelna Izba Lekarska zaproponuje limit godzin pracy lekarzy",
-      "url": "https://www.rp.pl/ochrona-zdrowia/art44685111-naczelna-izba-lekarska-zaproponuje-limit-godzin-pracy-lekarzy",
+      "title": "Ołena Zełenska odwołała przyjazd do Gdańska",
+      "url": "https://www.rp.pl/polityka/art44685361-olena-zelenska-odwolala-przyjazd-do-gdanska",
+      "date": "2026-06-24T07:25:25Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Pierwsza dama Ukrainy Ołena Zełenska nie wygłosi prelekcji na Uniwersytecie Gdańskim. Jej przyjazd został odwołany - informuje rzeczniczka uczelni."
+    },
+    {
+      "title": "Naczelna Izba Lekarska proponuje limit godzin pracy lekarzy",
+      "url": "https://www.rp.pl/ochrona-zdrowia/art44685111-naczelna-izba-lekarska-proponuje-limit-godzin-pracy-lekarzy",
       "date": "2026-06-24T07:18:00Z",
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
@@ -112,14 +120,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Prokuratura ponownie przeanalizuje wszystkie sprawy dotyczące zgonów w Szpitalu Południowym w Warszawie. Minister sprawiedliwości i prokurator generalny Waldemar Żurek podkreśla, że zarzutów przedstawionych przez dr. Emila Jędrzejewskiego nie można bagatelizować, a kluczowe będzie szybkie zabezpieczenie dowodów i weryfikacja wskazanych przez lekarza okoliczności."
-    },
-    {
-      "title": "Gen. Roman Polko: Co jest lepsze, trudna do współpracy Ukraina czy Ukraina w sporze z Polską?",
-      "url": "https://www.rp.pl/polityka/art44671871-gen-roman-polko-co-jest-lepsze-trudna-do-wspolpracy-ukraina-czy-ukraina-w-sporze-z-polska",
-      "date": "2026-06-24T06:33:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "– Przydałby się niektórym kubeł zimnej wody na głowę – tak gen. Roman Polko komentuje eskalację konfliktu z Ukrainą ws. UPA i Orderu Orła Białego."
     },
     {
       "title": "Żurek reaguje na słowa byłego ordynatora Szpitala Południowego. Lekarz zostanie przesłuchany",
@@ -262,7 +262,7 @@
     {
       "title": "Qualcomm prowadzi rozmowy w sprawie świadczenia niestandardowych usług projektowania chipów dla ByteDance, podają źródła – Reuters",
       "url": "https://www.reuters.com/world/china/qualcomm-talks-provide-custom-chip-design-services-bytedance-sources-say-2026-06-24/",
-      "date": "2026-06-24T04:36:00Z",
+      "date": "2026-06-24T04:52:38Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Źródła Reuters podają, że Qualcomm prowadzi rozmowy w sprawie świadczenia niestandardowych usług projektowania chipów dla ByteDance."
@@ -274,14 +274,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Ahmed al Ahmed strzelił do jednego z bandytów, który w grudniu zamordował 15 osób podczas żydowskiej imprezy."
-    },
-    {
-      "title": "Ropa naftowa pogłębia spadek w związku z oczekiwaniami płynniejszych przepływów ropy przez Ormuz – Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-prices-extend-decline-expectations-smoother-crude-flows-via-hormuz-2026-06-24/",
-      "date": "2026-06-24T04:04:20Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Ropa naftowa pogłębia spadek w związku z oczekiwaniami płynniejszych przepływów ropy przez Hormuz Reuters."
     },
     {
       "title": "Play rzuca światło na kryzys przemocy ze względu na płeć w Kenii",
@@ -340,20 +332,28 @@
       "summary": "Rząd Korei Południowej omawia z firmą Samsung i SK Hynix Reuters duże inwestycje w nowe chipy."
     },
     {
+      "title": "Złoto spada do najniższego poziomu od dwóch tygodni, ponieważ podwyżka stóp procentowych Fed wspiera dolara – Reuters",
+      "url": "https://www.reuters.com/world/india/gold-slips-fed-rate-hike-expectations-buoy-dollar-2026-06-24/",
+      "date": "2026-06-24T01:23:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Złoto spada do najniższego poziomu od dwóch tygodni, ponieważ prognozy Fed na podwyżkę stóp procentowych wspierają dolara Reuters."
+    },
+    {
+      "title": "Ropa naftowa pogłębia spadek w związku z oczekiwaniami płynniejszych przepływów ropy przez Ormuz – Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-prices-extend-decline-expectations-smoother-crude-flows-via-hormuz-2026-06-24/",
+      "date": "2026-06-24T01:17:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Ropa naftowa pogłębia spadek w związku z oczekiwaniami płynniejszych przepływów ropy przez Hormuz Reuters."
+    },
+    {
       "title": "Ośmiu skazanych na 450 lat więzienia w związku z zamieszkami przeciwko ICE, w wyniku których zastrzelono funkcjonariusza",
       "url": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-24T00:00:06Z",
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Jak podała prokurator, funkcjonariusz został postrzelony w szyję podczas zamieszek w Teksasie przez „agentów Antifa Cell”."
-    },
-    {
-      "title": "Senat USA przyłącza się do Izby Reprezentantów w głosowaniu za zaprzestaniem wojny w Iranie, ganiąc Trumpa – Reuters",
-      "url": "https://www.reuters.com/world/us/us-senate-joins-house-voting-halt-iran-war-rebuking-trump-2026-06-23/",
-      "date": "2026-06-23T22:54:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Senat USA przyłącza się do Izby Reprezentantów w głosowaniu za zaprzestaniem wojny w Iranie, ganiąc Trumpa Reutersa."
     },
     {
       "title": "ONZ twierdzi, że ewakuuje marynarzy, którzy utknęli w Cieśninie Ormuz, jak Rubio ostrzega przed opłatami za przejazd",
@@ -432,7 +432,7 @@
     {
       "title": "USA i Iran przedstawiają sprzeczne relacje z rozmów nuklearnych",
       "url": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
-      "date": "2026-06-24T07:04:25Z",
+      "date": "2026-06-24T07:26:22Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Prezydent Trump powiedział, że Iran zgodził się na inspekcje „najwyższego szczebla” kilka godzin po tym, jak irański urzędnik stwierdził, że „nie toczą się żadne szczegółowe dyskusje na temat kwestii nuklearnej”, ponieważ obie strony w dalszym ciągu przedstawiały odmienne narracje na temat swoich ostatnich rozmów."
@@ -560,20 +560,20 @@
   ],
   "technology": [
     {
+      "title": "Polska kupiła wojskowe Nietoperze. Szczelnie zamkną cały Bałtyk",
+      "url": "https://spidersweb.pl/2026/06/polska-wojskowe-nietoperze-baltyk.html",
+      "date": "2026-06-24T07:29:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Polska kupiła wojskowe Nietoperze. Szczelnie zamkną cały Bałtyk."
+    },
+    {
       "title": "Idealna na upały. Gorąca herbata może ochłodzić organizm",
       "url": "https://www.benchmark.pl/idealna-na-upaly-goraca-herbata-moze-ochlodzic-organizm-7300236636465184a",
       "date": "2026-06-24T07:10:00Z",
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Podczas fali upałów zwykle wybieramy wodę z lodem, lemoniadę albo mrożoną kawę. Tymczasem badania naukowców z Uniwersytetu w Ottawie sugerują, że w określonych warunkach gorąca herbata czy kawa mogą paradoksalnie ułatwiać organizmowi obniżenie temperatury. Kluczowe jest jednak to, czy pot ma szansę skutecznie odparować."
-    },
-    {
-      "title": "Polska kupiła Nietoperze dla naszej Marynarki Wojennej. Będą pilnować Bałtyku",
-      "url": "https://spidersweb.pl",
-      "date": "2026-06-24T07:08:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Polska kupiła Nietoperze dla naszej Marynarki Wojennej. Będą pilnować Bałtyku."
     },
     {
       "title": "Na lotnisku postawili... namiot. \"To jest totalna rewolucja\"",
@@ -781,7 +781,7 @@
       "date": "2026-06-24T03:17:47Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://gitlab.com/baiyibai/pico-usb-wifi Adres URL komentarzy: https://news.ycombinator.com/item?id=48654676 Punkty: 64 # Komentarze: 16."
+      "summary": "Adres URL artykułu: https://gitlab.com/baiyibai/pico-usb-wifi Adres URL komentarzy: https://news.ycombinator.com/item?id=48654676 Punkty: 74 # Komentarze: 20."
     },
     {
       "title": "„Napraw” opóźnienie kursora MacBooka Neo: nagrywaj 1 piksel ekranu co 10 sekund",
@@ -789,7 +789,7 @@
       "date": "2026-06-24T02:38:47Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://Gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf Adres URL komentarzy: https://news.ycombinator.com/item?id=48654465 Punkty: 50 # Komentarze: 17."
+      "summary": "Adres URL artykułu: https://Gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf Adres URL komentarzy: https://news.ycombinator.com/item?id=48654465 Punkty: 59 # Komentarze: 18."
     },
     {
       "title": "Ponowna wizyta w pliku wykonywalnym Teensy",
@@ -797,7 +797,7 @@
       "date": "2026-06-24T02:30:13Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48654411 Punkty: 28 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48654411 Punkty: 29 # Komentarze: 3."
     }
   ],
   "cybersecurity": [
@@ -1212,14 +1212,6 @@
       "summary": "Gospodarka Forsal.pl."
     },
     {
-      "title": "VeloBank ogłasza zwolnienia grupowe po przejęciu detalu Citi Handlowego",
-      "url": "https://www.bankier.pl/wiadomosc/VeloBank-oglasza-zwolnienia-grupowe-po-przejeciu-detalu-Citi-Handlowego-9156483.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-06-23T17:43:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "VeloBank poinformował o rozpoczęciu zwolnień grupowych. Bank przedstawia je jako kolejny etap integracji po przejęciu detalicznej części Citi Handlowego - etap, którego celem ma być budowa docelowej struktury organizacyjnej."
-    },
-    {
       "title": "Zarabiają na tym, czego już nie używają. Re-commerce zmienia polski handel",
       "url": "https://300gospodarka.pl/news/re-commerce-zmienia-polska-konsumpcje",
       "date": "2026-06-23T17:30:57Z",
@@ -1282,6 +1274,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "TRANSPOL [TRN] stockwatch.pl."
+    },
+    {
+      "title": "ANSWEAR [ANR] - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpisy-11192p21_answear.aspx",
+      "date": "2026-06-23T15:00:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "ANSWEAR [ANR] stockwatch.pl."
     }
   ],
   "critical_alerts": [
@@ -1295,8 +1295,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Nawrocki i Kaczyński chcą doprowadzić do fiaska gdańskiej konferencji, bo zakładają, że może tam dojść do podpisania umów na udział Polski w odbudowie Ukrainy.",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32873845,pis-gra-na-fiasko-konferencji-w-gdansku-nawrocki-chcial-doprowadzic.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882"
+      "description": "Pierwsza dama Ukrainy Ołena Zełenska nie wygłosi prelekcji na Uniwersytecie Gdańskim.",
+      "url": "https://www.rp.pl/polityka/art44685361-olena-zelenska-odwolala-przyjazd-do-gdanska"
     },
     {
       "lat": 31.5,
@@ -1474,11 +1474,11 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 33
+      "score": 50
     },
     {
       "name": "Sudan",
-      "score": 33
+      "score": 50
     }
   ],
   "investment_picks": [
@@ -1694,57 +1694,57 @@
       24120.4,
       24737.25,
       24758.98,
-      25708.88,
+      25715.01,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26874.87,
+      26881.28,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27022.02,
+      27028.47,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27267.31,
+      27273.82,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27903.95,
+      27910.61,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27940.05,
+      27946.71,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28185.07,
+      28191.8,
       27354.94,
       27400.36,
       27412.11,
-      28587.06,
+      28593.88,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27846.67,
+      27853.31,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28026.64,
+      28033.32,
       27686.17,
       27404.78,
       27351.97,
       27846.5,
       27905.42,
-      27777.73
+      27784.36
     ],
     "currency": "PLN"
   }
