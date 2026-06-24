@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-24T09:58:28Z",
+  "last_updated": "2026-06-24T09:59:05Z",
   "poland": [
+    {
+      "title": "Gigantyczna wpadka niemieckiej marynarki. Berlin może porzucić program za miliardy",
+      "url": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art44685941-gigantyczna-wpadka-niemieckiej-marynarki-berlin-moze-porzucic-program-za-miliardy",
+      "date": "2026-06-24T09:57:06Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Niemcy mogą porzucić jeden z największych programów zbrojeniowych swojej marynarki wojennej. Koszty budowy fregat F126 wymknęły się spod kontroli, dlatego Berlin rozważa zamówienie tańszych okrętów MEKO, które mają pomóc w realizacji zobowiązań wobec NATO."
+    },
     {
       "title": "Pancerne porozumienie Niemiec i Francji. Zbliża się debiut giełdowy wart 20 mld euro",
       "url": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art44685241-pancerne-porozumienie-niemiec-i-francji-zbliza-sie-debiut-gieldowy-wart-20-mld-euro",
@@ -88,14 +96,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Dziesięciu prokuratorów decyzją Waldemara Żurka odsunięto od śledztw po ich odwołaniu z wydziałów zamiejscowych Prokuratury Krajowej. Robiąc to minister wszedł w cudze kompetencje – alarmuje Beata Marczak, zastępca prokuratora generalnego."
-    },
-    {
-      "title": "Burza wokół warszawskich szpitali. PiS chce specjalnej komisji",
-      "url": "https://www.rp.pl/zdrowie/art44685871-burza-wokol-warszawskich-szpitali-pis-chce-specjalnej-komisji",
-      "date": "2026-06-24T09:26:04Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Prezes PiS Jarosław Kaczyński zaapelował o powołanie niezależnej Komisji Zaufania Publicznego, która miałaby zbadać doniesienia dotyczące nieprawidłowości w warszawskich szpitalach. Według rzecznika partii Rafała Bochenka ugrupowanie przygotowuje już projekt ustawy w tej sprawie. To reakcja na kolejne publikacje i oskarżenia związane ze Szpitalem Południowym."
     },
     {
       "title": "Umowa na Groty podpisana. \"Koło zamachowe gospodarki\"",
@@ -656,6 +656,22 @@
       "summary": "Na polskim lotnisku stanął... namiot. \"To jest totalna rewolucja\"."
     },
     {
+      "title": "Netflix zmienia logowanie. Od 7 lipca obowiązkowe 2FA",
+      "url": "https://www.benchmark.pl/netflix-zmienia-logowanie-od-7-lipca-obowiazkowe-2fa-7300251740792832a",
+      "date": "2026-06-24T08:06:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Netflix szykuje nowe zasady logowania, które mają wzmocnić ochronę kont użytkowników. Z informacji przekazywanych abonentom wynika, że od 7 lipca 2026 r. weryfikacja dwuetapowa stanie się wymagana, a potwierdzanie logowania kodem SMS zniknie z dostępnych opcji."
+    },
+    {
+      "title": "Steam Machine pod lupą. Testerzy odkryli coś nietypowego",
+      "url": "https://www.benchmark.pl/steam-machine-pod-lupa-testerzy-odkryli-cos-nietypowego-7300248943265824a",
+      "date": "2026-06-24T08:03:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Na papierze wszystko wygląda standardowo: 16 GB pamięci, nowoczesna platforma i sprzęt gotowy do grania bez kombinowania. W praktyce okazuje się jednak, że jeden drobny element konstrukcji może sprawić, że część użytkowników dostanie urządzenie działające wolniej, niż sugerowałyby specyfikacje."
+    },
+    {
       "title": "Lepiej dzisiaj nie aktualizuj programu Microsoftu. Użytkownicy nie wierzą własnym oczom",
       "url": "https://antyweb.pl/lepiej-dzisiaj-nie-aktualizuj-programu-microsoftu-uzytkownicy-nie-wierza-wlasnym-oczom",
       "date": "2026-06-24T08:00:07Z",
@@ -694,6 +710,14 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Polska kupiła wojskowe Nietoperze. Szczelnie zamkną cały Bałtyk."
+    },
+    {
+      "title": "Idealna na upały. Gorąca herbata może ochłodzić organizm",
+      "url": "https://www.benchmark.pl/idealna-na-upaly-goraca-herbata-moze-ochlodzic-organizm-7300236636465184a",
+      "date": "2026-06-24T07:10:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Podczas fali upałów zwykle wybieramy wodę z lodem, lemoniadę albo mrożoną kawę. Tymczasem badania naukowców z Uniwersytetu w Ottawie sugerują, że w określonych warunkach gorąca herbata czy kawa mogą paradoksalnie ułatwiać organizmowi obniżenie temperatury. Kluczowe jest jednak to, czy pot ma szansę skutecznie odparować."
     },
     {
       "title": "Gigant AGD wchodzi do Polski. Midea i Teka mają konkretny plan na nasze kuchnie",
@@ -752,44 +776,20 @@
       "summary": "Za nami są już dawno czasy, kiedy komórki mogliśmy ozdabiać obudowami pod własny styl. Niestety kolory smartfonów też odeszły i tylko od czasu do czasu pojawi się jakiś jeden model odróżniający od odcieni bieli i szarości. Może nadzieja jest w tegorocznych flagowcach Samsunga?"
     },
     {
+      "title": "Powrót chińskiej dominacji. LineShine nowym królem superkomputerów",
+      "url": "https://www.benchmark.pl/powrot-chinskiej-dominacji-lineshine-nowym-krolem-superkomputerow-7300225317734400a",
+      "date": "2026-06-24T06:28:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Przez lata wydawało się, że amerykańska dominacja w świecie superkomputerów jest niezagrożona. Teraz jednak na szczycie rankingu TOP500 doszło do trzęsienia ziemi. Chiny wróciły na pozycję lidera, a nowy LineShine osiągnął wynik, którego nie udało się pobić nawet najpotężniejszym maszynom z USA."
+    },
+    {
       "title": "\"Dają nam cenę i nie możemy powiedzieć nie\". Rynek pamięci działa jak kartel",
       "url": "https://spidersweb.pl/2026/06/valve-kartel-ram-steam-machine.html",
       "date": "2026-06-24T06:26:00Z",
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "\"Dają nam cenę i nie możemy powiedzieć nie\". Rynek pamięci działa jak kartel."
-    },
-    {
-      "title": "Londyńska firma Isometric, która opracowuje agentów AI współpracujących z ludzkimi weryfikatorami w celu automatyzacji certyfikacji przemysłowej, zebrała 34 mln euro w ramach serii A pod przewodnictwem AVP (David Cendon Garcia/EU-Startups)",
-      "url": "https://www.techmeme.com/260624/p5#a260624p5",
-      "date": "2026-06-24T06:25:02Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "David Cendon Garcia / EU-Startups: firma Isometric z siedzibą w Londynie, która opracowuje agentów AI współpracujących z ludzkimi weryfikatorami w celu automatyzacji certyfikacji przemysłowej, zebrała kwotę &euro;34M Series A pod przewodnictwem AVP &mdash; Isometric zamknął serię A o wartości 34 milionów euro (40 milionów dolarów), aby rozszerzyć swoją platformę certyfikacji AI na kwotę 305 miliardów euro."
-    },
-    {
-      "title": "Najlepsza przystawka z Google TV z wielką aktualizacją. Użytkownicy zachwyceni",
-      "url": "https://antyweb.pl/najlepsza-przystawka-z-google-tv-z-wielka-aktualizacja-uzytkownicy-zachwyceni",
-      "date": "2026-06-24T06:15:46Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Google TV Streamer doczekał się bardzo ważnej aktualizacji. Użytkownicy mają powody do zadowolenia."
-    },
-    {
-      "title": "Zdjęcia Google oczarują użytkowników nową funkcją. To zupełna nowość",
-      "url": "https://antyweb.pl/zdjecia-google-z-nowa-opcja-ta-nowosc-oczaruje-uzytkownikow",
-      "date": "2026-06-24T06:05:42Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Zdjęcia Google najwyraźniej szykują się na wdrożenie zupełnie nowej funkcję AI o nazwie Moods, która ma stylizować zdjęcia znacznie mocniej niż zwykłe filtry. Z analizy APK od Android Authority wynika, że narzędzie pojawiło się w wersji 7.81 aplikacji, ma trafić do zakładki Create i wykorzystywać chmurowe AI do analizowania zdjęcia oraz dopasowywania edycji do wybranego stylu."
-    },
-    {
-      "title": "Konstytucja na niby. Dlaczego sztucznej inteligencji nie da się nauczyć moralności",
-      "url": "https://spidersweb.pl/plus/2026/06/sztuczna-inteligencja-moralnosc-claude/",
-      "date": "2026-06-24T06:05:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Konstytucja na niby. Dlaczego sztucznej inteligencji nie da się nauczyć moralności."
     }
   ],
   "cybersecurity": [
@@ -1698,57 +1698,57 @@
       24120.4,
       24737.25,
       24758.98,
-      25763.07,
+      25761.03,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26931.52,
+      26929.38,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27078.99,
+      27076.84,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27324.79,
+      27322.62,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27962.78,
+      27960.56,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27998.94,
+      27996.72,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28244.49,
+      28242.24,
       27354.94,
       27400.36,
       27412.11,
-      28647.32,
+      28645.05,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27905.37,
+      27903.15,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28085.72,
+      28083.49,
       27686.17,
       27404.78,
       27351.97,
       27846.5,
       27905.42,
-      27836.28
+      27834.07
     ],
     "currency": "PLN"
   }
