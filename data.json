@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-06-24T12:47:56Z",
+  "last_updated": "2026-06-24T12:57:12Z",
   "poland": [
+    {
+      "title": "Złoty mocno traci. Dolar najdroższy od ponad roku i wciąż rośnie",
+      "url": "https://www.rp.pl/waluty/art44686931-zloty-mocno-traci-dolar-najdrozszy-od-ponad-roku-i-wciaz-rosnie",
+      "date": "2026-06-24T12:44:11Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Nie widać końca słabości złotego, który wyraźnie traci na wartości kolejny dzień z rzędu względem najważniejszych walut."
+    },
+    {
+      "title": "Polska armia zamawia karabinki 46 tys. karabinków. 600 mln zł za większą niezawodność",
+      "url": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art44686901-polska-armia-zamawia-karabinki-46-tys-karabinkow-600-mln-zl-za-wieksza-niezawodnosc",
+      "date": "2026-06-24T12:42:23Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "W Fabryce Broni „Łucznik” w Radomiu została podpisana kolejna umowa na dostawy karabinków MSBS Grot. Tym razem zamówiono broń w standardzie A3. Oznacza to, że polski karabinek po 10 latach w Siłach Zbrojnych RP stał się dojrzałą konstrukcją."
+    },
+    {
+      "title": "Symbol II wojny światowej stał się luksusowym hotelem. Metamorfoza kolosa w Niemczech",
+      "url": "https://sukces.rp.pl/hotele/art40980801-symbol-ii-wojny-swiatowej-stal-sie-luksusowym-hotelem-metamorfoza-kolosa-w-niemczech",
+      "date": "2026-06-24T12:39:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Bunkier w Hamburgu z czasów II wojny światowej przeszedł diametralną przemianę. Teraz działa w nim luksusowy hotel. To efekt wspólnej pracy architektów z kilku pracowni."
+    },
     {
       "title": "Kontrola czy rozmowa? Raport NASK pokazuje, jak Polacy wychowują dzieci w sieci",
       "url": "https://cyfrowa.rp.pl/it/art44687041-kontrola-czy-rozmowa-raport-nask-pokazuje-jak-polacy-wychowuja-dzieci-w-sieci",
@@ -90,22 +114,6 @@
       "summary": "Polskie Porty Lotnicze przedstawiły wyniki finansowe za 2025 rok. Przychody całej grupy kapitałowej przekroczyły 4 miliardy złotych, a zysk netto – miliard złotych."
     },
     {
-      "title": "Nowa ankieta NBP: inflacja pod kontrolą, ale obniżki stóp procentowych niepewne",
-      "url": "https://www.rp.pl/banki/art44686371-nowa-ankieta-nbp-inflacja-pod-kontrola-ale-obnizki-stop-procentowych-niepewne",
-      "date": "2026-06-24T12:17:45Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Inflacja w przedziale celu NBP, stopy procentowe raczej długo bez zmiany, oraz hamujące tempo wzrostu gospodarczego – taki obraz polskiej gospodarki rysują uczestnicy najnowszej edycji Ankiety Makroekonomicznej NBP."
-    },
-    {
-      "title": "Auto wjechało w turystów w Hiszpanii. Wśród rannych jest polska rodzina",
-      "url": "https://www.rp.pl/wypadki/art44686971-auto-wjechalo-w-turystow-w-hiszpanii-wsrod-rannych-jest-polska-rodzina",
-      "date": "2026-06-24T12:12:59Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Siedem osób, w tym dwoje dzieci oraz polscy turyści, zostało rannych w dramatycznym wypadku w hiszpańskiej miejscowości Frigiliana. Samochód osobowy zjechał z drogi i uderzył w pełen gości ogródek gastronomiczny na popularnym Costa del Sol."
-    },
-    {
       "title": "Makabryczne odkrycie w Budapeszcie. W domu pracownika szpitala były ludzkie szczątki. Część zjadał",
       "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32874854,makabryczne-odkrycie-w-budapeszcie-w-domu-pracownika-szpitala.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-06-24T12:11:00Z",
@@ -120,14 +128,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Donald Tusk przekazał, że jest w stałym kontakcie z ministrem sprawiedliwości Waldemarem Żurkiem, którego zobowiązał do \"bardzo osobistej pieczy nad wszystkimi sprawami\" związanymi ze Szpitalem Południowym w Warszawie."
-    },
-    {
-      "title": "Z eksportera importer. Indie sprzedadzą Rosji paliwa z rosyjskiej ropy",
-      "url": "https://energia.rp.pl/paliwa/art44686731-z-eksportera-importer-indie-sprzedadza-rosji-paliwa-z-rosyjskiej-ropy",
-      "date": "2026-06-24T12:09:55Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Ukraińskie ataki na rafinerie wywołały w Rosji największy od dekad kryzys paliwowy. Kreml, dotąd eksporter ropy i paliw, musi sprowadzać benzynę z Indii - paradoksalnie - produkowaną z rosyjskiej ropy, którą sam wcześniej, masowo sprzedawał za granicę."
     },
     {
       "title": "Putin reaguje po ataku na rafinerię. Osłabia front, by chronić Moskwę",
@@ -244,12 +244,12 @@
   ],
   "world_security": [
     {
-      "title": "Szef ONZ ds. energii nuklearnej mówi, że inspektorzy odwiedzą miejsca w Iranie w ramach porozumienia wojennego",
+      "title": "Szef ONZ ds. broni nuklearnej mówi, że inspektorzy odwiedzą miejsca w Iranie w ramach porozumienia wojennego",
       "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-24T12:32:00Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Rafael Grossi twierdzi, że światowy organ nadzoru nuklearnego „pracuje nad sposobami”, ale irański minister twierdzi, że taki dostęp byłby jedynie częścią ostatecznego porozumienia z USA."
+      "summary": "Rafael Grossi twierdzi, że MAEA „pracuje nad warunkami”, ale irański minister twierdzi, że taki dostęp będzie jedynie częścią ostatecznej umowy z USA."
     },
     {
       "title": "Take-Two wycenia „Grand Theft Auto VI” na 79,99 dolarów i utrzymuje się do premiery 19 listopada – Reuters",
@@ -260,6 +260,14 @@
       "summary": "Take-Two wycenia „Grand Theft Auto VI” na 79,99 dolarów i utrzymuje się do premiery 19 listopada – Reuters."
     },
     {
+      "title": "SK Hynix celuje w notowanie na giełdzie w USA o wartości 29 miliardów dolarów w związku ze wzrostem popytu na sztuczną inteligencję – Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-says-raise-29-bln-us-adr-listing-2026-06-24/",
+      "date": "2026-06-24T12:19:01Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "SK Hynix celuje w notowanie na giełdzie w USA o wartości 29 miliardów dolarów w związku ze wzrostem popytu na sztuczną inteligencję Reuters."
+    },
+    {
       "title": "Francja potwierdza pierwszy przypadek wirusa Ebola u lekarza, który pracował w DRK",
       "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
       "date": "2026-06-24T12:11:21Z",
@@ -268,20 +276,20 @@
       "summary": "Francuskie ministerstwo zdrowia twierdzi, że śledzone są kontakty pacjentów i że ryzyko dla europejskiego społeczeństwa jest bardzo niskie. Pierwszy przypadek wirusa Ebola potwierdzono we Francji – podało ministerstwo zdrowia tego kraju u lekarza, który wrócił z misji humanitarnej na obszar dotknięty epidemią w Demokratycznej Republice Konga. Pacjent został przeniesiony do specjalistycznej placówki, a jego stan jest stabilny – podało ministerstwo w oświadczeniu. „Po przybyciu pacjenta do kraju podjęto wszelkie środki ostrożności, w tym izolację pacjenta, a transport do szpitala odbywał się w bezpiecznych warunkach, aby zapobiec ryzyku zakażenia”. Kontynuuj czytanie..."
     },
     {
+      "title": "Zdenerwowani inwestorzy czekają na wyniki Microna, które miażdżą sektor chipów – Reuters",
+      "url": "https://www.reuters.com/business/nervous-investors-await-micron-earnings-chip-sector-whipsaws-2026-06-24/",
+      "date": "2026-06-24T11:40:22Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Zdenerwowani inwestorzy czekają na zyski Microna, gdy branża chipów uderza w głowę Reuters."
+    },
+    {
       "title": "W związku z rekordową falą upałów we Francji wystąpiły przerwy w dostawie prądu",
       "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-24T11:20:58Z",
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Dotkniętych zostało około 68 000 domów w Bretanii, a pełne przywrócenie dostaw prądu jest mało prawdopodobne przed środowym wieczorem."
-    },
-    {
-      "title": "Premier Kataru w Omanie toruje drogę do rozmów Iran-Zatoka-Irak Ormuz – Reuters",
-      "url": "https://www.reuters.com/world/middle-east/oman-opens-temporary-strait-hormuz-shipping-routes-says-no-tolls-will-be-charged-2026-06-24/",
-      "date": "2026-06-24T11:19:43Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Premier Kataru w Omanie utoruje drogę dla Iranu, Zatoki Perskiej i Iraku Hormuz rozmawia z Reutersem."
     },
     {
       "title": "WYŁĄCZNIE: Binance obiecuje pozostać w Europie pomimo niepowodzeń licencyjnych – Reuters",
@@ -297,7 +305,7 @@
       "date": "2026-06-24T11:03:43Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "EKSKLUZYWNIE: Jest mało prawdopodobne, aby moskiewska rafineria dotknięta atakami dronów wznowiła produkcję w tym roku, podają źródła Reuters."
+      "summary": "EKSKLUZYWNIE: Jest mało prawdopodobne, aby rafineria w Moskwie dotknięta atakami dronów wznowiła produkcję w tym roku, podają źródła Reuters."
     },
     {
       "title": "Dlaczego gliniarze po służbie w drugiej pracy „zabijają i umierają częściej” w Argentynie dotkniętej recesją?",
@@ -306,14 +314,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Coraz większa liczba przypadków dotyczy pracy policji jako kierowcy korzystający z transportu publicznego, mając przy sobie wydaną przez rząd broń. Kiedy różnica między jego pensją a podstawowymi wydatkami rodziny zaczęła się dramatycznie powiększać, Diego – podobnie jak wielu innych Argentyńczyków – oprócz swojej codziennej pracy zaczął pracować jako kierowca transportu publicznego. Zwykle odrabia kilka godzin pod koniec swojej 12-godzinnej zmiany; i nie tylko w dni wolne. Byłaby to kolejna historia z pogrążonej w recesji Argentyny, gdyby nie fakt, że Diego jest funkcjonariuszem policji federalnej. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Południowokoreańska spółka SK Hynix pozyska w lipcu do 29 miliardów dolarów na giełdzie w USA – Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-says-raise-29-bln-us-adr-listing-2026-06-24/",
-      "date": "2026-06-24T10:57:40Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Południowokoreańska SK Hynix pozyska w lipcu do 29 miliardów dolarów z notowań w USA Reuters."
     },
     {
       "title": "Francja zgłasza przypadek wirusa Ebola u lekarza powracającego z Konga – Reuters",
@@ -345,7 +345,7 @@
       "date": "2026-06-24T08:39:11Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Wielka Brytania, Francja i Niemcy wyrażają alarm w związku z chińskimi działaniami u wschodniego Tajwanu – Reuters."
+      "summary": "Wielka Brytania, Francja i Niemcy wyrażają alarm w związku z chińską działalnością u wschodniego Tajwanu – Reuters."
     },
     {
       "title": "Francuzka rzekomo przetrzymywana przez męża przez 12 lat, uratowana w Pakistanie",
@@ -404,7 +404,7 @@
       "summary": "Celem ataku był były ambasador Chile Orlando Letelier i jego amerykański kolega Ronni Karpen Moffitt. Pięćdziesiąt lat po tym, jak tajna policja gen. Augusto Pinocheta zdetonowała bombę samochodową w sercu Waszyngtonu, zabijając Orlando Leteliera, byłego chilijskiego ministra i ambasadora w USA, oraz jego amerykańskiego kolegę Ronniego Karpena Moffitta, sąd w Santiago skazał trzech byłych agentów za morderstwo Moffitta. Sędzia Paola Plaza, specjalna minister ds. praw człowieka w Chile, skazał Pedro Espinozę, José Zarę i Raúla Iturriagę na 15 lat więzienia za udział w zabójstwie 25-letniego Moffitta. Czytaj dalej..."
     },
     {
-      "title": "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciw wirusowi Ebola",
+      "title": "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciwko wirusowi Ebola",
       "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
       "date": "2026-06-23T13:22:39Z",
       "source": "The Guardian",
@@ -552,12 +552,36 @@
   ],
   "technology": [
     {
+      "title": "Qualcomm planuje przejęcie firmy Modular, która tworzy platformę oprogramowania dla chipów i posiada własny język kodowania, w ramach transakcji o wartości prawie 4 miliardów dolarów, która ma zostać sfinalizowana w drugiej połowie 2026 r. (Lauren Goode/Wired)",
+      "url": "https://www.techmeme.com/260624/p19#a260624p19",
+      "date": "2026-06-24T12:45:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Lauren Goode / Wired: Qualcomm planuje przejęcie firmy Modular, firmy produkującej platformy oprogramowania dla chipów i posiadającej własny język kodowania, w ramach transakcji o wartości prawie 4 miliardów dolarów, która ma zostać sfinalizowana w drugiej połowie 2026 r. &mdash; Modular, jeden z najbardziej obiecujących startupów zajmujących się oprogramowaniem chipowym ery sztucznej inteligencji, zmierza ku wielomiliardowemu wyjściu."
+    },
+    {
+      "title": "Jest oficjalna cena GTA 6. Koniec domysłów",
+      "url": "https://spidersweb.pl/2026/06/gta-6-cena-przedsprzedaz-oficjalna.html",
+      "date": "2026-06-24T12:42:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Jest oficjalna cena GTA 6. Koniec domysłów."
+    },
+    {
       "title": "BLIK już dostępny za granicą. Zapłacimy tak, jak w Polsce",
       "url": "https://www.instalki.pl/news/fintech/blik-dostepny-u-naszych-sasiadow/",
       "date": "2026-06-24T12:35:41Z",
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Polski Standard Płatności (PSP) donosi o dostępności BLIK u naszych sąsiadów. Szykuje się rewolucja na rynku e-commerce. Artykuł BLIK już dostępny za granicą."
+    },
+    {
+      "title": "Reid Hoffman mówi, że SpaceX „nie jest firmą zajmującą się sztuczną inteligencją”, a xAI „kompletnym wrakiem pociągu”",
+      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+      "date": "2026-06-24T12:23:59Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48658647 Punkty: 5 # Komentarze: 1."
     },
     {
       "title": "GTA 6 w pudełku, ale bez płyty. To koniec pewnej epoki",
@@ -576,12 +600,12 @@
       "summary": "Amerykanie chcą budować w Polsce drony. To ma być bezzałogowy F-35."
     },
     {
-      "title": "Europejczycy powinni nauczyć się kochać klimatyzację",
+      "title": "Europejczycy powinni nauczyć się kochać klimatyzatory",
       "url": "https://www.economist.com/europe/2026/06/18/europeans-should-learn-to-love-the-air-conditioner",
       "date": "2026-06-24T12:07:05Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.economist.com/europe/2026/06/18/europeans-should-learn-to-love-the-air-conditioner Adres URL komentarzy: https://news.ycombinator.com/item?id=48658484 Punkty: 10 # Komentarze: 6."
+      "summary": "Adres URL artykułu: https://www.economist.com/europe/2026/06/18/europeans-should-learn-to-love-the-air-conditioner Adres URL komentarzy: https://news.ycombinator.com/item?id=48658484 Punkty: 16 # Komentarze: 31."
     },
     {
       "title": "OSCAL przecenia stacje zasilania. Awarie prądu przestaną przerażać",
@@ -613,7 +637,7 @@
       "date": "2026-06-24T11:52:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://images.minimus.io/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48658361 Punkty: 9 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://images.minimus.io/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48658361 Punkty: 15 # Komentarze: 6."
     },
     {
       "title": "Rockstar twierdzi, że fizyczne kopie GTA 6 będą zawierać kod do pobrania, a nie płytę; fizyczne kopie będą dostępne od 12 listopada, przed premierą 19 listopada (Tom Phillips/IGN)",
@@ -669,7 +693,7 @@
       "date": "2026-06-24T11:31:20Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading Adres URL komentarzy: https://news.ycombinator.com/item?id=48658186 Punkty: 41 # Komentarze: 24."
+      "summary": "Adres URL artykułu: https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading Adres URL komentarzy: https://news.ycombinator.com/item?id=48658186 Punkty: 48 # Komentarze: 32."
     },
     {
       "title": "Analiza GPT-5.5, Gemini 3.1 Pro, Grok 4.3, Gab’s Arya i innych modeli sztucznej inteligencji: większość chatbotów często udziela lewicowych odpowiedzi na podpowiedzi polityczne (Kevin Schaul/Washington Post)",
@@ -685,7 +709,7 @@
       "date": "2026-06-24T11:21:32Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://haystack.deepset.ai/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48658095 Punkty: 3 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://haystack.deepset.ai/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48658095 Punkty: 7 # Komentarze: 3."
     },
     {
       "title": "Rozdają 60 tysięcy darmowych biletów na pociągi. Kto skorzysta?",
@@ -717,7 +741,7 @@
       "date": "2026-06-24T11:05:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "New York Times: Jak tajwański park naukowy Hsinchu, siedziba TSMC, stał się jego najbogatszym ośrodkiem; w jednej dzielnicy odnotowano średni dochód gospodarstwa domowego w 2023 r. na poziomie 146 tys. dolarów, czyli 5-krotność średniej &mdash; W mieście położonym w centrum tajwańskiego łańcucha dostaw chipów rosną fortuny, luksusowe budynki i wskaźnik urodzeń."
+      "summary": "New York Times: Jak tajwański park naukowy Hsinchu, siedziba TSMC, stał się jego najbogatszym ośrodkiem; w jednej dzielnicy odnotowano średni dochód gospodarstwa domowego w 2023 r. wynoszący 146 tys. dolarów, czyli 5-krotność średniej &mdash; W mieście położonym w centrum tajwańskiego łańcucha dostaw chipów rosną fortuny, luksusowe budynki i wskaźnik urodzeń."
     },
     {
       "title": "Zbyt wiele pakietów R: CRAN jest zalewany zgłoszeniami",
@@ -725,7 +749,7 @@
       "date": "2026-06-24T10:59:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://rworks.dev/posts/too-many-R-packages/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48657940 Punkty: 10 # Komentarze: 2."
+      "summary": "Adres URL artykułu: https://rworks.dev/posts/too-many-R-packages/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48657940 Punkty: 17 # Komentarze: 5."
     },
     {
       "title": "Rockstar ustala datę premiery GTA VI na 19 listopada i twierdzi, że będzie kosztować 79,99 dolarów lub 99,99 dolarów za wersję Ultimate; przedsprzedaż rozpoczyna się dziś o północy (Stevie Bonifield/The Verge)",
@@ -733,7 +757,7 @@
       "date": "2026-06-24T10:50:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Stevie Bonifield / The Verge: Rockstar ustala datę premiery GTA VI na 19 listopada i podaje, że będzie ona kosztować 79,99 dolarów lub 99,99 dolarów za wersję Ultimate; przedsprzedaż rozpoczyna się dziś o północy &mdash; Premiera gry zaplanowana jest na 19 listopada. Premiera gry zaplanowana jest na 19 listopada."
+      "summary": "Stevie Bonifield / The Verge: Rockstar ustala datę premiery GTA VI na 19 listopada i podaje, że będzie kosztować 79,99 dolarów lub 99,99 dolarów za wersję Ultimate; przedsprzedaż rozpoczyna się dziś o północy &mdash; Premiera gry zaplanowana jest na 19 listopada. Premiera gry zaplanowana jest na 19 listopada."
     },
     {
       "title": "Polska zamienia się w gazowy super-hub. Na Bałtyku wyrasta prawdziwy gigant",
@@ -757,7 +781,7 @@
       "date": "2026-06-24T10:35:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Jeanne Whalen / Wall Street Journal: Jak Chicago stawia na obliczenia kwantowe, w tym przekształca teren dawnej huty stali USA w kampus, po tym jak w dużej mierze przegapiło rewolucję cyfrową &mdash; Illinois stawia na obiecującą, ale niesprawdzoną komercyjnie technologię &ndash; CHICAGO&mdash;Doki nad jeziorem Michigan, które niegdyś wydobywały rudę żelaza &hellip;."
+      "summary": "Jeanne Whalen / Wall Street Journal: Jak Chicago stawia na obliczenia kwantowe, w tym przekształca teren dawnej huty stali USA w kampus, po tym jak w dużej mierze przegapiło rewolucję cyfrową &mdash; Illinois stawia na obiecującą, ale niesprawdzoną komercyjnie technologię &ndash; CHICAGO &ndash;Doki nad jeziorem Michigan, które niegdyś wydobywały rudę żelaza &hellip;."
     },
     {
       "title": "„Neonet publikuje nieprawdziwe dane”. UOKiK robi porządek z popularną siecią elektromarketów",
@@ -766,30 +790,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Neonet kusił na Allegro dostępnością i wysyłką w 24 godziny, choć – jak ustalił UOKiK – często nie miał ani towaru, ani zamiaru dotrzymania terminu."
-    },
-    {
-      "title": "Netflix wprowadza ważne zmiany. Polacy odczują je już 7 lipca",
-      "url": "https://www.instalki.pl/news/rozrywka/netflix-polska-zmiany-w-logowaniu-sie-do-platformy/",
-      "date": "2026-06-24T10:24:49Z",
-      "source": "Instalki.pl",
-      "confirmed_by": 1,
-      "summary": "Netflix ogłosił istotne zmiany, które już wkrótce dotkną dosłownie wszystkich subskrybentów. Czego możemy się spodziewać? Artykuł Netflix wprowadza ważne zmiany."
-    },
-    {
-      "title": "Popularny serial post-apo powraca. Start 27 lipca",
-      "url": "https://antyweb.pl/popularny-serial-post-apo-powraca-start-27-lipca",
-      "date": "2026-06-24T10:15:19Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Jeżeli łakniecie więcej przygód z uniwersum The Walking Dead, to właśnie na ekrany zmierza kolejna część jednego z lepiej przyjętych spin-offów."
-    },
-    {
-      "title": "Pytania i odpowiedzi z dyrektorem generalnym AWS Mattem Garmanem na temat podobieństw między wczesnym AWS a sztuczną inteligencją, Quick, kodowaniem AI, nakładami inwestycyjnymi Amazona na kwotę 200 miliardów dolarów w 2026 r., zatrudnianiem podstawowego personelu i nie tylko (Casey Newton/platformer)",
-      "url": "https://www.techmeme.com/260624/p12#a260624p12",
-      "date": "2026-06-24T10:15:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Casey Newton / Platformowiec: Pytania i odpowiedzi z dyrektorem generalnym AWS Mattem Garmanem na temat podobieństw między wczesnym AWS i sztuczną inteligencją, Quick, kodowaniem AI, nakładami inwestycyjnymi Amazona na kwotę 200 miliardów dolarów w 2026 r., zatrudnianiem podstawowego personelu i nie tylko &mdash; Matt Garman twierdzi, że młodsi pracownicy są nie mniej potrzebni niż kiedykolwiek. Ale AWS sprzedaje teraz agentów, którzy mogą rekrutować, kodować i przetwarzać roszczenia."
     }
   ],
   "cybersecurity": [
@@ -799,7 +799,7 @@
       "date": "2026-06-24T11:45:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "„Stały biometryczny nadzór placu publicznego” jest niezgodny z działaniami policji za zgodą, twierdzą krytycy."
+      "summary": "„Stały biometryczny nadzór placu publicznego” jest niezgodny z działaniami policji za zgodą – twierdzą krytycy."
     },
     {
       "title": "Znany sojusz wywiadowczy ostrzega przed AI. „To wydarzy się w ciągu kilku miesięcy”",
@@ -808,6 +808,14 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Sojusz wywiadowczy Five Eyes ostrzega, że rozwój najbardziej zaawansowanych modeli sztucznej inteligencji może w najbliższych miesiącach wyraźnie przyspieszyć zmiany w cyberprzestrzeni. Służby apelują do państw, firm i organizacji, by nie traktowały cyberbezpieczeństwa wyłącznie jako zadania działów IT, lecz jako element strategii, odporności i zaufania. AI zwiększa bowiem możliwości atakujących, ale może też stać się ważnym narzędziem skuteczniejszej obrony."
+    },
+    {
+      "title": "Agentyczny przeciwnik Świtu Apex",
+      "url": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
+      "date": "2026-06-24T11:30:00Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Stoimy u schyłku ery, o której nigdy nie myśleliśmy opłakiwać: ery zagrożeń związanych z prędkością człowieka. Przez lata cyberbezpieczeństwo poruszało się w rytmie, który organizacje mogły podążać. Badacz znalazł błąd, CVE zostało skatalogowane, sprzedawca przeszedł przez cykl poprawek, a tygodnie lub nawet miesiące później wdrożono poprawkę."
     },
     {
       "title": "Rywale Microsoftu ustawiają się w kolejce, aby powiedzieć brytyjskiemu organowi nadzorczemu, gdzie wyrządził im krzywdę programowy kolos",
@@ -1024,14 +1032,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Eksperci cyberbezpieczeństwa znaleźli podatność w systemie operacyjnym iOS znajdującym się na niektórych iPhone’ach. Odkrycie umożliwia wykorzystanie jej w ramach jailbreak’a lub przez oprogramowanie szpiegowskie. Problem użytkowników polega na tym, że luki nie da się załatać; urządzenia nie da się jednak zhakować zdalnie."
-    },
-    {
-      "title": "GitHub aktualizuje działania/zamówienie, aby blokować typowe wzorce ataków na żądanie Pwn",
-      "url": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
-      "date": "2026-06-23T14:22:03Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "GitHub pracuje nad wzmocnieniem bezpieczeństwa łańcucha dostaw oprogramowania, aktualizując „actions/checkout”, aby blokować ataki typu pwn request wykorzystujące ryzykowne użycie wyzwalacza „pull_request_target flow” w celu uruchomienia złośliwego kodu z pełnymi uprawnieniami przepływu pracy. Od 18 czerwca 2026 r. obowiązuje najnowsza wersja „akcji/checkout”, oficjalnej akcji GitHub służącej do sprawdzania repozytorium w pliku."
     }
   ],
   "finance": [
@@ -1108,6 +1108,14 @@
       "summary": "W czwartek litr benzyny 95 ma kosztować nie więcej niż 5,96 zł, benzyny 98 - 6,67 zł, a oleju napędowego - 6,11 zł. Tak wynika z najnowszego obwieszczenia ministra energii w tej sprawie."
     },
     {
+      "title": "Forum giełdowe StockWatch.pl: XTB - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-512145_XTB.aspx",
+      "date": "2026-06-24T10:14:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Forum giełdowe StockWatch.pl: XTB stockwatch.pl."
+    },
+    {
       "title": "Otworzą nową erę w polskiej armii. Bałtyk będzie pod specjalną ochroną - Forsal.pl",
       "url": "https://forsal.pl/kraj/bezpieczenstwo/artykuly/11267056,otworza-nowa-ere-w-polskiej-armii-baltyk-bedzie-pod-specjalna-ochrona.html",
       "date": "2026-06-24T09:42:51Z",
@@ -1170,6 +1178,14 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Z nieoficjalnych informacji wynika, że Niemcy zamierzają porzucić plan zakupu sześciu fregat zwalczania okrętów podwodnych typu F126. Oznacza to anulowanie projektu, który miał być największym programem zamówień w historii niemieckiej marynarki wojennej."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/archiwum/2010-10-21,2",
+      "date": "2026-06-24T07:28:09Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Cena ostateczna akcji w IPO Robyg ustalona. Spółka uplasowała wszystkie akcje",
@@ -1258,27 +1274,11 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Środa z Siłą Relatywną (SzSR): 24 czerwca 2026 r. Piotr Kwestarz śr., 24.06.2026 Treść Zapraszam do lektury kolejnego wpisu z cyklu Środy z Siłą Relatywną (SzSR). Środa z Siłą Relatywną (SzSR): 24 czerwca 2026 r."
-    },
-    {
-      "title": "Dlaczego deweloperzy coraz częściej szukają finansowania poza sektorem bankowym?",
-      "url": "https://300gospodarka.pl/material-partnera/dlaczego-deweloperzy-coraz-czesciej-szukaja-finansowania-poza-sektorem-bankowym",
-      "date": "2026-06-24T04:53:41Z",
-      "source": "300Gospodarka",
-      "confirmed_by": 1,
-      "summary": "Deweloperzy coraz częściej szukają finansowania poza sektorem bankowym przede wszystkim dlatego, że potrzebują szybkich decyzji i większej elastyczności. Inwestycje nie czekają na zakończenie długich procedur, a atrakcyjne okazje zakupowe potrafią zniknąć w ciągu kilku dni. Dlatego alternatywne źródła kapitału stają się dla wielu firm sposobem na sprawne realizowanie kolejnych etapów przedsięwzięć."
-    },
-    {
-      "title": "Drewno dębowe pod kontrolą jakości – standardy pracy Kleniewski Tartak",
-      "url": "https://300gospodarka.pl/material-partnera/drewno-debowe-pod-kontrola-jakosci-standardy-pracy-kleniewski-tartak",
-      "date": "2026-06-24T04:52:18Z",
-      "source": "300Gospodarka",
-      "confirmed_by": 1,
-      "summary": "Drewno dębowe jest materiałem, który nie wybacza przypadkowości. W produkcji mebli, schodów, podłóg, elementów konstrukcyjnych czy infrastrukturalnych liczy się nie tylko sam gatunek surowca, ale również sposób jego przygotowania, przetarcia, suszenia i selekcji. Dobra tarcica dębowa powinna być stabilna, przewidywalna w obróbce i dopasowana do konkretnego zastosowania."
     }
   ],
   "critical_alerts": [
     "Byli agenci Pinocheta skazani za morderstwo w wyniku zamachu bombowego w Waszyngtonie w 1976 roku",
-    "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciw wirusowi Ebola"
+    "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciwko wirusowi Ebola"
   ],
   "map_features": [
     {
@@ -1366,7 +1366,7 @@
       "lng": 121.0,
       "type": "conflict",
       "region": "Tajwan",
-      "description": "Wielka Brytania, Francja i Niemcy wyrażają alarm w związku z chińskimi działaniami u wschodniego Tajwanu – Reuters.",
+      "description": "Wielka Brytania, Francja i Niemcy wyrażają alarm w związku z chińską działalnością u wschodniego Tajwanu – Reuters.",
       "url": "https://www.reuters.com/world/china/uk-france-germany-raise-alarm-about-chinese-activities-off-eastern-taiwan-2026-06-24/"
     },
     {
@@ -1701,57 +1701,57 @@
       24120.4,
       24737.25,
       24758.98,
-      25794.09,
+      25795.45,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26963.94,
+      26965.37,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27111.59,
+      27113.02,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27357.69,
+      27359.14,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27996.44,
+      27997.92,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28032.65,
+      28034.13,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28278.49,
+      28279.98,
       27354.94,
       27400.36,
       27412.11,
-      28681.81,
+      28683.33,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27938.97,
+      27940.44,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28119.53,
+      28121.02,
       27686.17,
       27404.78,
       27351.97,
       27846.5,
       27905.42,
-      27869.8
+      27871.27
     ],
     "currency": "PLN"
   }
