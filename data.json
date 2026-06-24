@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-06-24T11:12:33Z",
+  "last_updated": "2026-06-24T11:21:50Z",
   "poland": [
+    {
+      "title": "Ranking Wydziałów Prawa",
+      "url": "https://www.rp.pl/prawnicy/art44686551-ranking-wydzialow-prawa",
+      "date": "2026-06-24T11:05:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Prawo to nadal jeden z popularniejszych kierunków studiów. Wybór uczelni może decydować o przyszłej karierze zawodowej absolwentów."
+    },
+    {
+      "title": "Remont autostrady A2. Możemy pochwalić drogowców. „To ogromne ułatwienie”",
+      "url": "https://www.rp.pl/transport/art44685981-remont-autostrady-a2-mozemy-pochwalic-drogowcow-to-ogromne-ulatwienie",
+      "date": "2026-06-24T11:04:33Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Ruszają pracę przy przebudowie autostrady A2. Choć kierowców czekają utrudnienia, to tym razem trzeba pochwalić drogowców – już budując trasę, z wyprzedzeniem pomyśleli o jej późniejszej rozbudowie. W rozmowie z „Rz” wykonawca zapowiada, że spróbuje wyprzedzić harmonogram prac."
+    },
     {
       "title": "Skrajna prawica rośnie w Europie. Badacze dają ostrzeżenie dla Polski",
       "url": "https://www.rp.pl/polityka/art44686431-skrajna-prawica-rosnie-w-europie-badacze-daja-ostrzezenie-dla-polski",
@@ -88,22 +104,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "W czwartek 25 czerwca 2026 r. będą obowiązywać nowe maksymalne ceny paliw. Benzyna Pb95 ma kosztować najwyżej 5,96 zł za litr, a diesel 6,11 zł."
-    },
-    {
-      "title": "Gen. Roman Polko o sporze z Ukrainą. „Przydałby się kubeł zimnej wody”",
-      "url": "https://www.rp.pl/dyplomacja/art44671871-gen-roman-polko-o-sporze-z-ukraina-przydalby-sie-kubel-zimnej-wody",
-      "date": "2026-06-24T10:15:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Spór Polski z Ukrainą uderzy we współpracę dronową i rozmowy o odbudowie, na której Polska „mocno zainwestowała\" – ostrzega gen. Roman Polko. Były dowódca GROM wzywa do zachowania priorytetów i przypomina, że to Rosja, a nie Ukraina, realnie atakuje Polskę."
-    },
-    {
-      "title": "Rekordowe upały sparaliżowały Francję. Dziesiątki tysięcy domów bez prądu",
-      "url": "https://energia.rp.pl/elektroenergetyka/art44686301-rekordowe-upaly-sparalizowaly-francje-dziesiatki-tysiecy-domow-bez-pradu",
-      "date": "2026-06-24T10:14:20Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "We francuskiej Bretanii około 68 tys. gospodarstw domowych pozostaje w środę rano bez prądu z powodu awarii związanej z upałami - poinformowały władze lokalne. 58 departamentów - ponad połowa kraju - objętych jest w środę czerwonym, najwyższym alertem pogodowym."
     },
     {
       "title": "Minister energii podjął decyzję w sprawie cen paliw. Tyle zapłacimy w czwartek",
@@ -244,12 +244,36 @@
   ],
   "world_security": [
     {
+      "title": "Dlaczego gliniarze po służbie w drugiej pracy „zabijają i umierają częściej” w Argentynie dotkniętej recesją?",
+      "url": "https://www.theguardian.com/world/2026/jun/24/off-duty-cops-second-jobs-kill-and-die-recession-hit-argentina-rideshare",
+      "date": "2026-06-24T11:00:43Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Coraz większa liczba przypadków dotyczy pracy policji jako kierowcy korzystający z transportu publicznego, mając przy sobie wydaną przez rząd broń. Kiedy różnica między jego pensją a podstawowymi wydatkami rodziny zaczęła się dramatycznie powiększać, Diego – podobnie jak wielu innych Argentyńczyków – oprócz swojej codziennej pracy zaczął pracować jako kierowca transportu publicznego. Zwykle odrabia kilka godzin pod koniec swojej 12-godzinnej zmiany; i nie tylko w dni wolne. Byłaby to kolejna historia z pogrążonej w recesji Argentyny, gdyby nie fakt, że Diego jest funkcjonariuszem policji federalnej. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Południowokoreańska spółka SK Hynix pozyska w lipcu do 29 miliardów dolarów na giełdzie w USA – Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-says-raise-29-bln-us-adr-listing-2026-06-24/",
+      "date": "2026-06-24T10:57:40Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Południowokoreańska SK Hynix pozyska w lipcu do 29 miliardów dolarów z notowań w USA Reuters."
+    },
+    {
       "title": "Francja potwierdza pierwszy przypadek wirusa Ebola",
       "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-24T10:40:57Z",
       "source": "BBC News",
       "confirmed_by": 2,
       "summary": "Wiadomo, że w wyniku obecnej epidemii w Demokratycznej Republice Konga zmarło ponad 260 osób."
+    },
+    {
+      "title": "Take-Two wycenia „Grand Theft Auto VI” na 79,99 dolarów – Reuters",
+      "url": "https://www.reuters.com/technology/take-two-prices-grand-theft-auto-vi-7999-2026-06-24/",
+      "date": "2026-06-24T10:31:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Take-Two wycenia „Grand Theft Auto VI” na 79,99 dolarów Reuters."
     },
     {
       "title": "Oczekuje się kolejnych rekordów ciepła po śmiercionośnej fali upałów typu „Omega” w Europie – Reuters",
@@ -268,14 +292,6 @@
       "summary": "EKSKLUZYWNIE: Jest mało prawdopodobne, aby moskiewska rafineria dotknięta atakami dronów wznowiła produkcję w tym roku, podają źródła Reuters."
     },
     {
-      "title": "Izrael i Liban omawiają amerykańską „pilotażową” propozycję podczas rozmów w Waszyngtonie – Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-lebanon-discuss-us-backed-proposal-transfer-some-southern-territory-2026-06-24/",
-      "date": "2026-06-24T09:57:57Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Izrael i Liban omawiają w Waszyngtonie propozycję „pilotażową” USA Reuters."
-    },
-    {
       "title": "Strajki na Ukrainie pozbawiły prądu w kluczowym mieście na okupowanym przez Rosję Krymie",
       "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-24T09:48:24Z",
@@ -290,14 +306,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Akcje Rheinmetallu spadają po zerwaniu przez Berlin umowy na okręty wojenne, co powoduje przeniesienie zamówień do TKMS Reuters."
-    },
-    {
-      "title": "Południowokoreańska SK Hynix twierdzi, że zgromadzi do 29 miliardów dolarów z aukcji ADR – Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-says-raise-29-bln-us-adr-listing-2026-06-24/",
-      "date": "2026-06-24T09:27:46Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Południowokoreańska SK Hynix twierdzi, że zebrała do 29 miliardów dolarów z aukcji ADR Reuters."
     },
     {
       "title": "Francja przygotowuje się na kolejny dzień upałów w miarę rozprzestrzeniania się fali upałów w Europie",
@@ -402,14 +410,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Ministerstwo Spraw Zagranicznych nie zareagowało na ostrzeżenia o ludobójstwie z powodu „nacisków” ze strony Emiratów, badacz praw człowieka z Yale powie komisji parlamentarnej Rząd brytyjski otrzymał informacje wywiadowcze, z których wynika, że Etiopia wydawała się wspierać ludobójczą bojówkę w wojnie domowej w Sudanie już w 2024 r., ale nie upublicznił tej wiadomości w obawie, że zdenerwuje Zjednoczone Emiraty Arabskie (ZEA), komisja parlamentarna wysłucha. W maju 2024 r. urzędnicy ds. spraw zagranicznych, Biuro Wspólnoty Narodów i Rozwoju (FCDO) powiedziało Nathanielowi Raymondowi, amerykańskiemu śledczemu ds. praw człowieka na Uniwersytecie Yale, że „znaczna presja prywatna” ze strony Zjednoczonych Emiratów Arabskich oznacza, że Wielka Brytania nie ujawni publicznie informacji łączących Etiopię i emiraty z ich wsparciem dla paramilitarnych Sił Szybkiego Wsparcia. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Aktywiści twierdzą, że sygnalista prowadzący dochodzenie w sprawie rodzinnej firmy prezydenta Ekwadoru został zamordowany",
-      "url": "https://www.theguardian.com/world/2026/jun/23/monika-silva-koniuszek-ecuador-president-family-business",
-      "date": "2026-06-23T06:00:33Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Sekcja zwłok wykazała, że ​​Monika Silva Koniuszek zmarła w wyniku uderzenia w głowę i uduszenia, mimo że rząd stwierdził samobójstwo. Działacze w Ekwadorze twierdzą, że polska działaczka antykorupcyjna, która badała zarzuty przeciwko rodzinnemu biznesowi prawicowego prezydenta kraju, została zamordowana, aby ją uciszyć. Monika Silva Koniuszek, lat 41, została znaleziona martwa w swoim domu w Montañita, nadmorskim miasteczku w ekwadorze, w prowincji Santa Elena. 8 czerwca samotna matka córek w wieku czterech i dziewięciu lat została znaleziona na podłodze z pętlą na szyi. Kontynuuj czytanie..."
     }
   ],
   "world_politics": [
@@ -420,6 +420,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Prezydent Trump twierdzi, że Wenezuela pod amerykańskim nadzorem „nigdy nie zarobiła takich pieniędzy, jakie zarabia teraz”. Jednak nowe dochody z ropy nie pomagają zwykłym Wenezuelczykom i wydaje się, że złość narasta."
+    },
+    {
+      "title": "Ukraina twierdzi, że uderzyła w most kolejowy na Krym, próbując odizolować półwysep zajęty przez Rosję – AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-crimea-drone-peninsula-d44f4639e670ed6e4f97c1e0ad6dce6e",
+      "date": "2026-06-24T08:11:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Ukraina twierdzi, że uderzyła w most kolejowy na Krym, próbując odizolować półwysep zajęty przez Rosję AP News."
     },
     {
       "title": "USA i Iran przedstawiają sprzeczne relacje z rozmów nuklearnych",
@@ -502,14 +510,6 @@
       "summary": "Prawdopodobny następca premiera Keira Starmera odziedziczy te same wyzwania, jakie stanowią stagnacja gospodarcza i rosnący populizm. Czy podzielony naród będzie gotowy dać mu czas?"
     },
     {
-      "title": "Ukraina twierdzi, że uderzyła w most kolejowy na Krym, próbując odizolować półwysep zajęty przez Rosję – AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-crimea-drone-peninsula-d44f4639e670ed6e4f97c1e0ad6dce6e",
-      "date": "2026-06-23T16:54:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Ukraina twierdzi, że uderzyła w most kolejowy na Krym, próbując odizolować półwysep zajęty przez Rosję AP News."
-    },
-    {
       "title": "Wielka Brytania wciąż jest głęboko w cieniu Brexitu",
       "url": "https://www.nytimes.com/2026/06/23/world/europe/britain-brexit-legacy.html",
       "date": "2026-06-23T16:33:42Z",
@@ -543,6 +543,14 @@
     }
   ],
   "technology": [
+    {
+      "title": "Jak tajwański park naukowy Hsinchu, siedziba TSMC, stał się jego najbogatszym centrum; w jednej dzielnicy odnotowano średni dochód gospodarstwa domowego w 2023 r. na poziomie 146 tys. dolarów, czyli 5-krotność średniej (New York Times)",
+      "url": "https://www.techmeme.com/260624/p15#a260624p15",
+      "date": "2026-06-24T11:05:02Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "New York Times: Jak tajwański park naukowy Hsinchu, siedziba TSMC, stał się jego najbogatszym ośrodkiem; w jednej dzielnicy odnotowano średni dochód gospodarstwa domowego w 2023 r. na poziomie 146 tys. dolarów, czyli 5-krotność średniej &mdash; W mieście położonym w centrum tajwańskiego łańcucha dostaw chipów rosną fortuny, luksusowe budynki i wskaźnik urodzeń."
+    },
     {
       "title": "Rockstar ustala datę premiery GTA VI na 19 listopada i twierdzi, że będzie kosztować 79,99 dolarów lub 99,99 dolarów za wersję Ultimate; zamówienia w przedsprzedaży rozpoczynają się dziś o północy (Stevie Bonifield/The Verge)",
       "url": "https://www.techmeme.com/260624/p14#a260624p14",
@@ -774,14 +782,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Wstajesz rano, a na zewnątrz temperatura niczym w piekarniku? Tak teraz wygląda europejska rzeczywistość. W tym roku fala upałów przyszła wcześnie i uderzyła z wyjątkową intensywnością."
-    },
-    {
-      "title": "Polska kupiła wojskowe Nietoperze. Szczelnie zamkną cały Bałtyk",
-      "url": "https://spidersweb.pl/2026/06/polska-wojskowe-nietoperze-baltyk.html",
-      "date": "2026-06-24T07:29:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Polska kupiła wojskowe Nietoperze. Szczelnie zamkną cały Bałtyk."
     }
   ],
   "cybersecurity": [
@@ -791,7 +791,7 @@
       "date": "2026-06-24T11:02:02Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
-      "summary": "Rząd w ekspresowym tempie proceduje ustawę, która prześwietli zarobki wszystkich lekarzy w Polsce. Chodzi o powiązanie pensji medyków z numerami PESEL. Okazuje się, że nie spełniono ważnego wymogu prawnego."
+      "summary": "Rząd w ekspresowym przygotował ustawę, która prześwietli zarobki wszystkich lekarzy w Polsce. Chodzi o powiązanie pensji medyków z numerami PESEL. Projekt błyskawicznie przeszedł przez trzy czytania w Sejmie."
     },
     {
       "title": "Backdoor Stealthy Mistic powiązany z brokerem dostępu do oprogramowania ransomware KongTuke",
@@ -1279,16 +1279,16 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Spór Polski z Ukrainą uderzy we współpracę dronową i rozmowy o odbudowie, na której Polska „mocno zainwestowała\" – ostrzega gen.",
-      "url": "https://www.rp.pl/dyplomacja/art44671871-gen-roman-polko-o-sporze-z-ukraina-przydalby-sie-kubel-zimnej-wody"
+      "description": "Katarzyna Pełczyńska-Nałęcz powiedziała, że Wołodymyr Zełenski \"wystawia tych, których osobiście zaprosił\" na konferencję w Gdańsku.",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32874260,zelenski-sam-sobie-strzela-w-stope-pelczynska-nalecz-mowi.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882"
     },
     {
       "lat": 31.5,
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Izrael i Liban omawiają w Waszyngtonie propozycję „pilotażową” USA Reuters.",
-      "url": "https://www.reuters.com/world/middle-east/israel-lebanon-discuss-us-backed-proposal-transfer-some-southern-territory-2026-06-24/"
+      "description": "Brad Lander wypiera Dana Goldmana w wyścigu, który obnażył podziały miasta w związku z wojną Izrael-Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss"
     },
     {
       "lat": 33.89,
@@ -1475,10 +1475,6 @@
     {
       "name": "Sudan",
       "score": 100
-    },
-    {
-      "name": "Ukraina",
-      "score": 67
     }
   ],
   "investment_picks": [
@@ -1491,8 +1487,8 @@
       "instrument": "np. ETF Energy Select Sector (XLE)"
     },
     {
-      "sector": "Sektor agro",
-      "instrument": "np. ETF Invesco DB Agriculture (DBA)"
+      "sector": "Złoto i obligacje skarbowe",
+      "instrument": "np. ETF na złoto (GLD) lub obligacje skarbowe"
     }
   ],
   "sp500_trend": {
@@ -1694,57 +1690,57 @@
       24120.4,
       24737.25,
       24758.98,
-      25792.39,
+      25791.7,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26962.16,
+      26961.45,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27109.8,
+      27109.08,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27355.88,
+      27355.16,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27994.59,
+      27993.85,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28030.8,
+      28030.06,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28276.62,
+      28275.87,
       27354.94,
       27400.36,
       27412.11,
-      28679.92,
+      28679.16,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27937.12,
+      27936.38,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28117.67,
+      28116.93,
       27686.17,
       27404.78,
       27351.97,
       27846.5,
       27905.42,
-      27867.95
+      27867.22
     ],
     "currency": "PLN"
   }
