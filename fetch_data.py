@@ -494,8 +494,14 @@ WEATHER_ALERT_KEYWORDS = [r"alert pogodow\w*", r"ostrzeżeni\w* pogodow\w*", r"f
 
 INSTABILITY_KEYWORD_WEIGHTS = [
     (r"wojn\w*", 3), (r"atak\w*", 2), (r"zamach\w*", 3), (r"zamieszki\w*", 2),
-    (r"przewrót\w*", 3), (r"kryzys\w*", 1), (r"katastrof\w*", 2), (r"powod[zź]\w*", 1),
+    (r"przewrót\w*", 3), (r"kryzys\w*", 1), (r"katastrof\w*", 2), (r"powod[zź]\w*", 2),
     (r"susz\w*", 1), (r"terroryzm\w*", 2), (r"napad\w*", 1), (r"rozbój\w*", 1),
+    # Natural disasters that threaten human life count toward instability too
+    # (user-requested: a Venezuela earthquake wasn't reflected here at all,
+    # since none of the keywords above reliably match an earthquake report -
+    # "katastrofa" alone is too generic a word for an article to actually use).
+    (r"trz[ęe]sieni\w* ziemi", 3), (r"tsunami\w*", 3), (r"huragan\w*", 2),
+    (r"tajfun\w*", 2), (r"erupcj\w* wulkan\w*", 3), (r"po[zż]ar\w* las\w*", 2),
 ]
 
 INVESTMENT_RULES = [
@@ -640,23 +646,41 @@ def merge_map_features(fresh_features):
 
 
 def build_instability(sections):
+    """Returns each region's score plus the actual articles that drove it
+    ("reasons") - the dashboard's instability tile lets a user click a
+    country to see exactly what happened, rather than just a bare percentage
+    with no explanation of why it's classified as unstable."""
     pool = _all_text(sections, 'poland', 'world_security', 'world_politics')
     scores = {}
+    reasons = {}
     for region, _, _, patterns in CONFLICT_REGIONS:
         score = 0
+        matched = []
         for item, text in pool:
             if not _matches_any(text, patterns):
                 continue
-            for kw, weight in INSTABILITY_KEYWORD_WEIGHTS:
-                if re.search(kw, text):
-                    score += weight
+            item_weight = sum(weight for kw, weight in INSTABILITY_KEYWORD_WEIGHTS if re.search(kw, text))
+            if item_weight:
+                score += item_weight
+                matched.append((item_weight, item))
         if score:
             scores[region] = score
+            matched.sort(key=lambda pair: pair[0], reverse=True)
+            reasons[region] = [
+                {'title': it['title'], 'url': it['url'], 'source': it.get('source', '')}
+                for _, it in matched[:3]
+            ]
     if not scores:
         return []
     max_score = max(scores.values())
-    ranked = sorted(scores.items(), key=lambda kv: kv[1], reverse=True)[:10]
-    return [{'name': name, 'score': round(100 * s / max_score)} for name, s in ranked]
+    # No top-N slice - CONFLICT_REGIONS has only 15 entries total, so there's
+    # nothing to artificially cap here; every region that actually scored
+    # should be visible (the tile's own scrollbar handles a long list).
+    ranked = sorted(scores.items(), key=lambda kv: kv[1], reverse=True)
+    return [
+        {'name': name, 'score': round(100 * s / max_score), 'reasons': reasons.get(name, [])}
+        for name, s in ranked
+    ]
 
 
 def build_investment_picks(sections):

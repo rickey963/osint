@@ -161,12 +161,45 @@ function renderInstability(countries) {
         container.innerHTML = '<p class="text-slate-500 text-xs">Brak danych o niestabilności.</p>';
         return;
     }
-    container.innerHTML = countries.map((c) => `
-        <div class="instability-item">
+    container.innerHTML = '';
+    countries.forEach((c) => {
+        const row = document.createElement('div');
+        row.className = 'instability-item cursor-pointer hover:bg-slate-800/60 rounded transition-colors';
+        row.innerHTML = `
             <span class="text-slate-400">${c.name}</span>
             <span class="${c.score > 70 ? 'risk-high' : c.score > 40 ? 'risk-med' : 'risk-low'}">${c.score}%</span>
-        </div>
-    `).join('');
+        `;
+        row.addEventListener('click', () => openInstabilityModal(c));
+        container.appendChild(row);
+    });
+}
+
+function openInstabilityModal(country) {
+    const modal = document.getElementById('instability-modal');
+    const title = document.getElementById('instability-modal-title');
+    const body = document.getElementById('instability-modal-body');
+    if (!modal || !title || !body) return;
+    title.textContent = `${country.name} — ${country.score}% niestabilności`;
+    if (!country.reasons || country.reasons.length === 0) {
+        body.innerHTML = '<p class="text-slate-500 text-xs">Brak szczegółowych źródeł dla tej klasyfikacji.</p>';
+    } else {
+        body.innerHTML = country.reasons.map((r) => `
+            <a href="${r.url}" target="_blank" rel="noopener noreferrer"
+               class="block p-2 rounded-lg bg-slate-800/50 hover:bg-slate-800 border border-slate-700 transition-colors">
+                <div class="font-bold text-slate-200 text-xs leading-snug">${r.title}</div>
+                <div class="text-[10px] text-slate-500 mt-1">${r.source || 'Źródło'}</div>
+            </a>
+        `).join('');
+    }
+    modal.classList.remove('hidden');
+    modal.classList.add('flex');
+}
+
+function closeInstabilityModal() {
+    const modal = document.getElementById('instability-modal');
+    if (!modal) return;
+    modal.classList.add('hidden');
+    modal.classList.remove('flex');
 }
 
 function renderInvestmentPicks(picks) {
