@@ -21,6 +21,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -71,7 +76,27 @@ jobs:
           else
             echo "No data changes detected, skipping commit."
           fi
-      # No separate deploy step: GitHub Pages for this repo already serves
-      # directly from main/root (confirmed via the Pages API), so pushing
-      # data.json to main *is* the deploy - no build step, no gh-pages
-      # branch, no extra action needed.
+
+      # Deploys via the Actions pipeline (artifact upload + actions/deploy-
+      # pages) rather than GitHub's legacy Jekyll-based "Deploy from a
+      # branch" builder. That legacy builder has an internal, undocumented
+      # build-rate limit that this workflow's own push cadence (every
+      # ~30-60s while the self-chaining push trigger is active) reliably
+      # tripped, producing repeated "Page build failed" runs (confirmed via
+      # the Pages API - same root cause already fixed in medint's
+      # fetch_data.py/.github/workflows). Uploading a plain static artifact
+      # has no build step to fail. Requires repo Settings -> Pages -> Source
+      # = "GitHub Actions" (set once, not per-run).
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p _site
+          cp index.html style.css app.js data.json map_history.json _site/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
