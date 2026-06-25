@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T20:42:44Z",
+  "last_updated": "2026-06-25T20:43:24Z",
   "poland": [
     {
       "title": "Atak w cieśninie Ormuz. Media: Iran uderzył na statek towarowy",
@@ -24,6 +24,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Osoby ze znacznym stopniem niepełnosprawności, dzieci z orzeczeniem oraz ich opiekunowie już niedługo mogą zyskać nową ulgę. Chodzi o zwolnienie z opłat miejscowych i uzdrowiskowych. Ministerstwo Finansów i Gospodarki chce w ten sposób wyrównać zasady i ograniczyć koszty wyjazdów turystycznych, rehabilitacyjnych oraz leczniczych."
+    },
+    {
+      "title": "\"Zabarykadowałyśmy drzwi łóżkiem\". Nowe informacje ws. ataku nożownika w szpitalu na Śląsku",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,32878764,zabarykadowalysmy-drzwi-lozkiem-nowe-informacje-ws-ataku.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-06-25T20:19:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Policja wyjaśnia okoliczności ataku w szpitalu w Jastrzębiu-Zdroju. Trwa operacja poszkodowanej kobiety - podaje Polsat News."
     },
     {
       "title": "Polski wywiad. Niewidzialna armia, która zmieniła bieg wojny",
@@ -147,7 +155,7 @@
     },
     {
       "title": "PKP Intercity odda pieniądze za bilety. To przez falę upałów, są warunki - Polskie Radio 24",
-      "url": "https://www.polskieradio24.pl/polska/pkp-intercity-odda-pieniadze-za-bilety-przez-fale-upalow",
+      "url": "https://polskieradio24.pl/polska/pkp-intercity-odda-pieniadze-za-bilety-przez-fale-upalow",
       "date": "2026-06-25T19:02:40Z",
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
@@ -208,14 +216,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Decyzja w sprawie objęcia tzw. małpek systemem kaucyjnym ma zapaść jesienią - zapowiedziała w programie Gość Wydarzeń Paulina Hennig-Kloska. Ministra odniosła się też do sygnałów o problemach z działaniem systemu, podkreślając, że został on oddany w ręce wolnego rynku i tworzą go prywatni operatorzy."
-    },
-    {
-      "title": "\"Mandat Niebios\". Pół roku burmistrza Mamdaniego",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32878120,mandat-niebios-pol-roku-burmistrza-mamdaniego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-06-25T18:03:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Jak naprawdę ma się Nowy Jork po pół roku rządów burmistrza Mamdaniego? Co mu się udało, co nie wyszło, gdzie pokazał lisi spryt, a kiedy miał więcej szczęścia niż rozumu? Co nam mówi o Partii Demokratycznej wielki sukces \"drużyny Zohrana\" w prawyborach do Kongresu?"
     },
     {
       "title": "Nożownik zaatakował personel szpitala. Nowe informacje o sprawcy",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Wiadomości z Australii na żywo: Karl Stefanovic natychmiast opuści Nine, potwierdza stacja",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/26/australia-news-live-pat-conroy-defence-labor-karl-stefanovic-nine-moira-deeming-matthew-guy-liberals-victoria-coalition-tax-reform-ntwnfb",
+      "date": "2026-06-25T20:32:20Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Nine stwierdziło w oświadczeniu, że Stefanovic „nie mógł już” być gospodarzem Today. Śledź dzisiejsze wiadomości na żywo. Otrzymaj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Dzień dobry i witamy na naszym blogu z wiadomościami na żywo. Nazywam się Martin Farrer i opowiadam najpopularniejsze artykuły wieczoru, a główną akcją będzie Nick Visser. Dziś rano Nine potwierdził, że gospodarz „Today” Karl Stefanovic opuszcza stację „natychmiast”, ponieważ „nie jest już możliwe”, aby mógł jednocześnie prowadzić „ Today” i prowadzić swój niezależny podcast."
+    },
+    {
       "title": "Sąd Najwyższy pozwala Trumpowi zakończyć ochronę przed deportacją Haitańczyków i Syryjczyków – Reuters",
       "url": "https://www.reuters.com/world/supreme-court-lets-trump-end-deportation-protections-syrians-haitians-2026-06-25/",
       "date": "2026-06-25T20:15:45Z",
@@ -420,6 +428,14 @@
       "summary": "Media podają, że kilkudziesięciu tureckich dziennikarzy odmówiono akredytacji na szczyt NATO w Ankarze – podaje Reuters."
     },
     {
+      "title": "ONZ wstrzymuje plan ewakuacji Hormuz po zgłoszeniu ataku statku – Reuters",
+      "url": "https://www.reuters.com/world/middle-east/oil-back-pre-war-levels-hormuz-traffic-rebounds-us-tries-reassure-gulf-allies-2026-06-25/",
+      "date": "2026-06-25T19:54:34Z",
+      "source": "Reuters",
+      "confirmed_by": 2,
+      "summary": "ONZ wstrzymuje plan ewakuacji Hormuz po raporcie statku Reuters o ataku."
+    },
+    {
       "title": "Trzęsienia ziemi w Wenezueli: „intensywne” poszukiwania ocalałych – liczba ofiar śmiertelnych wzrosła do 188 – tak się stało",
       "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
       "date": "2026-06-25T19:47:19Z",
@@ -433,7 +449,7 @@
       "date": "2026-06-25T19:31:43Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Kennedy wielokrotnie powtarzał, że podróż do Samoa w 2019 r. „nie ma nic wspólnego ze szczepionkami”. E-mail od jego ówczesnego kolegi informuje, że byli na „misji” związanej ze szczepionkami. Pojawiły się nowe dowody na to, że Robert F. Kennedy Jr. przebywał na „misji” związanej ze szczepionkami, kiedy odwiedził Samoa przed epidemią śmiertelnej odry w 2019 r., co rodzi dalsze pytania dotyczące tego, czy sekretarz zdrowia USA okłamał Senat USA, mówiąc, że podróż „nie ma nic wspólnego ze szczepionkami”. Z dokumentów uzyskanych przez „The Guardian” wynika, że kolega Kennedy’ego powiedział samoańskim urzędnikom w e-mailu, że on i Kennedy przybędą w ramach podróży misji mającej na celu zbadanie dokumentacji medycznej narodu wyspiarskiego w następstwie „przerwy w szczepieniach”. Kontynuuj czytanie..."
+      "summary": "Kennedy wielokrotnie powtarzał, że podróż do Samoa w 2019 r. „nie ma nic wspólnego ze szczepionkami”. E-mail od jego ówczesnego kolegi informuje, że byli na „misji” związanej ze szczepionkami. Pojawiły się nowe dowody na to, że Robert F. Kennedy Jr. przebywał na „misji” związanej ze szczepionkami, kiedy odwiedził Samoa przed epidemią śmiertelnej odry w 2019 r., co rodzi dalsze pytania dotyczące tego, czy sekretarz zdrowia USA okłamał Senat USA, mówiąc, że podróż „nie ma nic wspólnego ze szczepionkami”. Z dokumentów uzyskanych przez „The Guardian” wynika, że kolega Kennedy’ego powiedział samoańskim urzędnikom w e-mailu, że on i Kennedy przybędą w ramach tej podróży misji mającej na celu zbadanie dokumentacji medycznej narodu wyspiarskiego w następstwie „przerwy w szczepieniach”. Kontynuuj czytanie..."
     },
     {
       "title": "Sąd Najwyższy Stanów Zjednoczonych obniża limity dotyczące broni krótkiej na Hawajach – Reuters",
@@ -442,14 +458,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Sąd Najwyższy Stanów Zjednoczonych znosi ograniczenia dotyczące broni palnej na Hawajach Reuters."
-    },
-    {
-      "title": "ONZ wstrzymuje plan ewakuacji w Cieśninie Ormuz po ataku statku towarowego",
-      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-25T19:19:12Z",
-      "source": "BBC News",
-      "confirmed_by": 2,
-      "summary": "Według doniesień statek został trafiony „nieznanym pociskiem” w pobliżu Omanu, ale nie zgłoszono żadnych ofiar."
     },
     {
       "title": "SpaceX planuje budowę gazociągu „Starpipe” do zasilania rakiet Starship – Reuters",
@@ -556,14 +564,6 @@
       "summary": "Zełenski na Ukrainie twierdzi, że zatwierdził 40-dniową kampanię mającą na celu „wywarcie wpływu” na Rosję w celu zakończenia wojny Reuters."
     },
     {
-      "title": "Sąd Najwyższy Stanów Zjednoczonych rezygnuje z pozwów przeciwnowotworowych Roundup, wygrywając dla Bayera – Reuters",
-      "url": "https://www.reuters.com/world/us-supreme-court-scales-back-roundup-cancer-lawsuits-2026-06-25/",
-      "date": "2026-06-25T17:18:44Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Sąd Najwyższy Stanów Zjednoczonych rezygnuje z pozwów przeciwnowotworowych Roundup, wygrywając dla Bayer Reuters."
-    },
-    {
       "title": "Ekstremalne upały panują w Europie – Wielka Brytania ustanawia nowy czerwcowy rekord, Francja wyłącza reaktory jądrowe, a na całym kontynencie rośnie liczba ofiar śmiertelnych – tak się rzeczywiście stało",
       "url": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates",
       "date": "2026-06-25T17:00:17Z",
@@ -593,7 +593,7 @@
       "date": "2026-06-25T16:48:33Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Stany Zjednoczone wśród krajów wysyłają pomoc w poszukiwaniu ocalałych na północnym wybrzeżu, gdzie dziesiątki budynków zostały zrównane z ziemią. Zespoły ratownicze pędzą na zniszczone północne wybrzeże Wenezueli po tym, jak niemal jednoczesne trzęsienia ziemi obróciły w gruz dziesiątki budynków, a tysiące ludzi prawdopodobnie zginęło. Sekretarz stanu USA Marco Rubio powiedział, że departament obrony pomoże zespołom poszukiwawczo-ratowniczym rozmieścić zespoły poszukiwawczo-ratownicze w dotkniętym regionie po głównej bramie Wenezueli, międzynarodowym porcie lotniczym Simón Bolívar w pobliżu stolicy, Caracas zostało poważnie uszkodzone przez trzęsienia o magnitudzie 7,2 i 7,5 w odstępie mniej niż 40 sekund, późnym popołudniem w środę. Kontynuuj czytanie..."
+      "summary": "Stany Zjednoczone wśród krajów wysyłają pomoc w poszukiwaniu ocalałych na północnym wybrzeżu, gdzie dziesiątki budynków zostały zrównane z ziemią. Zespoły ratownicze pędzą na zniszczone północne wybrzeże Wenezueli po tym, jak niemal jednoczesne trzęsienia ziemi obróciły w gruz dziesiątki budynków, a tysiące ludzi prawdopodobnie zginęło. Sekretarz stanu USA Marco Rubio powiedział, że departament obrony pomoże zespołom poszukiwawczo-ratowniczym rozmieścić zespoły poszukiwawczo-ratownicze w dotkniętym regionie po głównej bramie Wenezueli, międzynarodowym porcie lotniczym Simón Bolívar w pobliżu stolicy, Caracas zostało poważnie uszkodzone przez trzęsienia o magnitudzie 7,2 i 7,5 w odstępie mniej niż 40 sekund, późnym środowym popołudniem. Kontynuuj czytanie..."
     },
     {
       "title": "Iran odrzuca wspierany przez ONZ plan uwolnienia statków uwięzionych w cieśninie Ormuz",
@@ -666,14 +666,6 @@
       "source": "The Guardian",
       "confirmed_by": 2,
       "summary": "Giełdy po obu stronach Atlantyku rosną w obliczu uspokojenia w związku z perspektywą kolejnego szoku inflacyjnegoBiznes na żywo – najnowsze aktualizacje Ceny ropy spadły do ​​poziomu sprzed wojny w Iranie w miarę wypłynięcia większej liczby tankowców z cieśniny Ormuz. Ropa Brent, światowy benchmark, spadła w czwartek do najniższego poziomu 72,24 dolara za baryłkę, nieco poniżej poziomu dzień przed atakiem rakietowym USA i Izraela na Teheran 28 lutego. Ceny spadły w tym miesiącu o ponad 20%. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Arcybiskup Canterbury wzywa do zakończenia izraelskiej okupacji Palestyny",
-      "url": "https://www.theguardian.com/world/2026/jun/25/archbishop-of-canterbury-calls-for-end-to-israeli-occupation-of-palestine",
-      "date": "2026-06-25T14:55:33Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Sarah Mullally kończy wizytę w regionie wezwaniem do rozwiązania dwupaństwowego, które pozwoli Izraelczykom i Palestyńczykom żyć w pokoju Arcybiskup Canterbury wezwał do zakończenia izraelskiej okupacji Palestyny po pielgrzymce, podczas której spotkała się z Palestyńczykami zaatakowanymi przez osadników i innymi osobami przetrzymywanymi bez procesu. Sarah Mullally, głowa Kościoła anglikańskiego, i Hosam Naoum, anglikański arcybiskup Jerozolimy, wydali w czwartek wspólny list, wzywając anglikanów na całym świecie do politykom prasowym „do podjęcia wszelkich niezbędnych kroków w celu wytyczenia wiarygodnej ścieżki zakończenia okupacji”. Kontynuuj czytanie..."
     },
     {
       "title": "Kluczowa postać skandalu korupcyjnego w policji w Republice Południowej Afryki przyznaje się do winy",
@@ -762,24 +754,40 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Kerala szuka nowych sposobów opieki nad starzejącą się populacją, ponieważ migracja powoduje, że coraz więcej starszych osób mieszka samotnie."
+    },
+    {
+      "title": "Jak sobie poradzić w czasie upałów – Twoim zdaniem",
+      "url": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-25T00:18:35Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Dzielisz się wskazówkami, jak pokonać upał – od tego, w co się ubrać, po spokojny sen."
     }
   ],
   "world_politics": [
     {
+      "title": "Iran uderza w statek w cieśninie Ormuz, gdy Rubio spotyka się z przywódcami Zatoki Perskiej",
+      "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
+      "date": "2026-06-25T20:39:02Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Atak, potwierdzony przez urzędników USA i Iranu, nastąpił po tym, jak Teheran zagroził zakłóceniem ruchu na drogach wodnych oraz gdy Waszyngton zwrócił się do regionu o wsparcie dla swojego porozumienia pokojowego."
+    },
+    {
       "title": "Aktualności na żywo z Wenezueli: Ratownicy szukają ocalałych po najgorszych trzęsieniach od dziesięcioleci",
       "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
-      "date": "2026-06-25T20:35:29Z",
+      "date": "2026-06-25T20:38:26Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Władze podały, że w kolejnych trzęsieniach ziemi zginęło co najmniej 188 osób, a ponad 1500 zostało rannych. Mieszkańcy portowego miasta La Guaira oszacowali, że pod gruzami uwięzione zostały setki osób."
     },
     {
-      "title": "Iran uderza w statek w cieśninie Ormuz, gdy Rubio spotyka się z przywódcami Zatoki Perskiej",
-      "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
-      "date": "2026-06-25T20:35:00Z",
-      "source": "The New York Times",
+      "title": "Wenezuelczycy szukają gruzów w poszukiwaniu ocalałych po dwóch silnych trzęsieniach, w których zginęło co najmniej 188 osób – AP News",
+      "url": "https://apnews.com/article/venezuela-earthquake-caracas-rodriguez-aid-0a62e6fc9feb5202a750c4fbb11a6aec",
+      "date": "2026-06-25T20:34:00Z",
+      "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Atak, potwierdzony przez urzędników USA i Iranu, nastąpił po tym, jak Teheran zagroził zakłóceniem ruchu na drogach wodnych oraz gdy Waszyngton zwrócił się do regionu o wsparcie dla swojego porozumienia pokojowego."
+      "summary": "Wenezuelczycy przeszukują gruzy w poszukiwaniu ocalałych po 2 silnych trzęsieniach, które zabiły co najmniej 188 AP News."
     },
     {
       "title": "Bardziej rygorystyczne granice Kanady ograniczają liczbę deportowanych z USA szukających schronienia",
@@ -822,20 +830,12 @@
       "summary": "Sąd przyznał zwycięstwo prezydentowi Trumpowi w jego dążeniu do unieważnienia ochrony przed deportacją setek tysięcy ludzi i zawrócenia migrantów z południowej granicy."
     },
     {
-      "title": "Wenezuelczycy szukają gruzów w poszukiwaniu ocalałych po dwóch silnych trzęsieniach, w których zginęło co najmniej 188 osób – AP News",
-      "url": "https://apnews.com/article/venezuela-earthquake-caracas-rodriguez-aid-0a62e6fc9feb5202a750c4fbb11a6aec",
-      "date": "2026-06-25T19:26:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Wenezuelczycy szukają gruzów w poszukiwaniu ocalałych po 2 silnych trzęsieniach, które zabiły co najmniej 188 AP News."
-    },
-    {
       "title": "Globalne ocieplenie zakłóca Londyński Tydzień Klimatyczny",
       "url": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
       "date": "2026-06-25T19:18:37Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Ekstremalne upały, które tłumią Europę, udaremniły Tydzień Klimatyczny w Londynie."
+      "summary": "Ekstremalne upały dławiące Europę wywróciły do ​​góry nogami Tydzień Klimatyczny w Londynie."
     },
     {
       "title": "Po trzęsieniach ziemi w Wenezueli mieszkańcy La Guaira szukają bliskich w gruzach",
@@ -848,7 +848,7 @@
     {
       "title": "Sąd Najwyższy pozwala administracji Trumpa zakończyć ochronę prawną Haitańczyków i Syryjczyków – AP News",
       "url": "https://apnews.com/article/immigration-supreme-court-haiti-syria-tps-1bbbf8115f984a0d53336656924e989d",
-      "date": "2026-06-25T19:00:00Z",
+      "date": "2026-06-25T19:06:08Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Sąd Najwyższy pozwala administracji Trumpa zakończyć ochronę prawną Haitańczyków i Syryjczyków AP News."
@@ -867,7 +867,7 @@
       "date": "2026-06-25T18:12:08Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Protest, będący corocznym wydarzeniem, stał się wizytówką rosnącej siły politycznej młodzieży w Kenii."
+      "summary": "Protest, będący wydarzeniem corocznym, stał się wizytówką rosnącej siły politycznej młodzieży w Kenii."
     },
     {
       "title": "Wenezuelczycy desperacko poszukują zaginionych krewnych w terenie i w Internecie.",
@@ -1008,7 +1008,7 @@
   ],
   "technology": [
     {
-      "title": "Źródła: Sam Altman powiedział pracownikom, że rząd USA zwrócił się do OpenAI z prośbą o przesunięcie w czasie wydania GPT 5.6 ze względów bezpieczeństwa, zatwierdzając „dostęp klient po kliencie” (Informacje)",
+      "title": "Źródła: Sam Altman powiedział pracownikom, że rząd USA zwrócił się do OpenAI z prośbą o przesunięcie w czasie wydania GPT 5.6 ze względów bezpieczeństwa, zatwierdzając „dostęp klient po kliencie” (The Information)",
       "url": "https://www.techmeme.com/260625/p45#a260625p45",
       "date": "2026-06-25T20:31:22Z",
       "source": "Techmeme",
@@ -1016,7 +1016,7 @@
       "summary": "Informacje: Źródła: Sam Altman powiedział pracownikom, że rząd Stanów Zjednoczonych zwrócił się do OpenAI z prośbą o przesunięcie w czasie wydania GPT 5.6 ze względów bezpieczeństwa, zatwierdzając „dostęp klient po kliencie”. &mdash; Dla firm zajmujących się sztuczną inteligencją, które są bliskie wypuszczenia na rynek nowych, najnowocześniejszych modeli sztucznej inteligencji, nadchodzi nowa normalność &hellip;."
     },
     {
-      "title": "Akcje Apple spadły w czwartek o 6,15% po tym, jak firma podniosła ceny niektórych produktów, co jest najgorszym spadkiem od kwietnia 2025 r. (MacKenzie Sigalos/CNBC)",
+      "title": "Akcje Apple spadły w czwartek o 6,15% po podwyżce przez firmę cen niektórych produktów, co jest najgorszym spadkiem od kwietnia 2025 r. (MacKenzie Sigalos/CNBC)",
       "url": "https://www.techmeme.com/260625/p44#a260625p44",
       "date": "2026-06-25T20:25:02Z",
       "source": "Techmeme",
@@ -1029,7 +1029,7 @@
       "date": "2026-06-25T20:15:04Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Olivier Acuna / CoinDesk: Story Protocol, sieć własności IP oparta na blockchain, która zebrała 140 milionów dolarów, zmienia nazwę na Data Foundation, aby zbudować rejestr on-chain dla danych szkoleniowych AI &mdash; Startup Story Protocol z siedzibą w Palo Alto zmienia nazwę na DATA Foundation i całkowicie skupia się na infrastrukturze szkoleniowej AI &hellip;."
+      "summary": "Olivier Acuna / CoinDesk: Story Protocol, sieć własności IP oparta na blockchainie, która zebrała 140 milionów dolarów, zmienia nazwę na Data Foundation, aby zbudować rejestr on-chain dla danych szkoleniowych AI &mdash; Startup Story Protocol z siedzibą w Palo Alto zmienia nazwę na DATA Foundation i całkowicie skupia się na infrastrukturze szkoleniowej AI &hellip;."
     },
     {
       "title": "Stany Zjednoczone przyznają 250 mln dolarów w postaci funduszy CHIPS startupowi, którego współzałożycielem jest miliarder-magnat górniczy Robert Friedland, w celu opracowania chipów z węglika krzemu i technologii zasilania impulsowego (James Attwood/Bloomberg)",
@@ -1264,7 +1264,7 @@
       "summary": "Przedruk: https://scrollprize.org/pdf/main.pdfhttps://github.com/ScrollPrize/villa Adres URL komentarzy: https://news.ycombinator.com/item?id=48675179 Punkty: 548 # Komentarze: 132."
     },
     {
-      "title": "IBM debiutuje w technologii chipów o wielkości poniżej 1 nanometra",
+      "title": "IBM debiutuje na rynku technologii chipów o wielkości poniżej 1 nanometra",
       "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
       "date": "2026-06-25T15:33:37Z",
       "source": "Hacker News",
@@ -1519,7 +1519,7 @@
       "date": "2026-06-25T14:12:52Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Analiza popularnego rozszerzenia bloku reklam Google Chrome dla YouTube odkryła możliwość wykonania dowolnego kodu JavaScript. Według Island rozszerzenie o nazwie Adblock dla YouTube (identyfikator: cmedhionkhpnakcndndgjdbohmhepckk) ma ponad 10 milionów instalacji i jest oznaczone plakietką Polecane w sklepie Chrome Web Store. W opisie rozszerzenia znajduje się informacja, że ​​pozwala ono użytkownikom zapobiegać atakom web."
+      "summary": "Analiza popularnego rozszerzenia bloku reklam Google Chrome dla YouTube odkryła możliwość wykonania dowolnego kodu JavaScript. Według Island rozszerzenie o nazwie Adblock dla YouTube (identyfikator: cmedhionkhpnakcndndgjdbohmhepckk) ma ponad 10 milionów instalacji i ma plakietkę Polecane w sklepie Chrome Web Store. W opisie rozszerzenia znajduje się informacja, że ​​pozwala ono użytkownikom zapobiegać atakom web."
     },
     {
       "title": "Cztery poziomy skutecznego zapobiegania oszustwom",
@@ -1567,7 +1567,7 @@
       "date": "2026-06-25T12:24:43Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Znowu jest tam głupio. W tym tygodniu unosi się typowy zapach palonej żywności i nikt nie chce się przyznać, kto zostawił otwarte drzwi – stare dane uwierzytelniające nadal działają, zaufane aplikacje robią bzdury, sztuczki przeglądarek przeskakują płot i „normalne” przepływy pracy zamieniają się w phishing, ponieważ najwyraźniej e-maile już nie wystarczają. Najgorsze jest to, jak tanie wydają się niektóre z nich."
+      "summary": "Znowu jest tam głupio. W tym tygodniu unosi się zwyczajowy zapach palonej żywności i nikt nie chce się przyznać, kto zostawił otwarte drzwi – stare dane uwierzytelniające nadal działają, zaufane aplikacje robią bzdury, sztuczki przeglądarek przeskakują płot i „normalne” przepływy pracy zamieniają się w phishing, ponieważ najwyraźniej e-maile już nie wystarczają. Najgorsze jest to, jak tanie wydają się niektóre z nich."
     },
     {
       "title": "Seminarium internetowe: Dlaczego przejęcia kont pozostają jednym z zagrożeń, które najtrudniej powstrzymać",
@@ -1655,7 +1655,7 @@
       "date": "2026-06-25T08:54:37Z",
       "source": "The Hacker News",
       "confirmed_by": 2,
-      "summary": "Od kwietnia 2026 r. nowy, ukryty backdoor o nazwie Mistic jest wdrażany w ramach podejrzanych ataków o charakterze finansowym wymierzonych w wiele organizacji z sektorów ubezpieczeń, edukacji, IT i usług profesjonalnych. Według zespołu Threat Hunter firmy Symantec i Carbon Black backdoor, śledzony również jako MLTBackdoor, jest rzekomo powiązany z brokerem początkowego dostępu (IAB)."
+      "summary": "Od kwietnia 2026 r. nowy, ukryty backdoor o nazwie Mistic jest wdrażany w ramach podejrzanych ataków o charakterze finansowym wymierzonych w wiele organizacji z sektorów ubezpieczeń, edukacji, IT i usług profesjonalnych. Według zespołu Threat Hunter Team firmy Symantec i Carbon Black backdoor, śledzony również jako MLTBackdoor, jest rzekomo powiązany z brokerem początkowego dostępu (IAB) o nazwie."
     },
     {
       "title": "YubiKey as a Service (YaaS): rewolucja w MFA bez barier budżetowych",
@@ -1997,7 +1997,7 @@
     },
     {
       "title": "PEPCO [PCO] - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513184_PEPCO.aspx",
+      "url": "https://www.stockwatch.pl/wiadomosci/pepco-spojrzenie-na-wykres-18,xternal,375080",
       "date": "2026-06-25T15:00:00Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
@@ -2124,6 +2124,14 @@
       "summary": "Chcemy wypełnić cele z programu motywacyjnego. Od 2027 oczekujemy znaczącego przyspieszenia branży – mówi Maciej Posadzy prezes Elektrotim Seb Seb czw., 25.06.2026 Kanał Strefa Inwestorów Elektrotim portfel SAFE elektrownia atomowa infrastruktura inwestycje magazyny energii elektromobilność CPK obronność Treść Celem Elektrotimu w tym roku jest wykonanie wymagających założeń wynikowych przyjętych w ramach programu menadżerskiego. W branży rok 2026 powinien w ocenie spółki być przejściowy ze względu na harmonogram realizowanych przetargów i specyfikę branży."
     },
     {
+      "title": "Notowania RBIFL10GOLD3 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/RBIFL10GOLD3",
+      "date": "2026-06-25T07:55:27Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania RBIFL10GOLD3 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+    },
+    {
       "title": "Notowania INTLALE98194 INGBANK - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/INTLALE98194",
       "date": "2026-06-25T07:46:00Z",
@@ -2180,14 +2188,6 @@
       "summary": "Tylko 9 proc. badanych Polaków nie planuje w tym roku żadnych wydatków na wakacyjny wypoczynek – wynika z badania Rankomat.pl. Rok wcześniej taką odpowiedź wskazywało 15 proc."
     },
     {
-      "title": "Wiadomości RBITSGOLD27 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/RBITSGOLD27",
-      "date": "2026-06-24T21:25:30Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości RBITSGOLD27 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
-    },
-    {
       "title": "Niepewne etaty, zmęczone głowy. Tak wygląda rynek pracy od środka",
       "url": "https://300gospodarka.pl/tylko-w-300gospodarce/wypalenie-zawodowe-i-lek-o-prace-badania-czerwiec-2026",
       "date": "2026-06-24T20:15:49Z",
@@ -2204,12 +2204,12 @@
       "summary": "Do 30 czerwca 2026 roku hotele, pensjonaty i lokale na wynajem krótkoterminowy muszą zostać wyposażone w autonomiczne czujki dymu i tlenku węgla. Termin przypada na wakacyjny szczyt, gdy obiekty noclegowe pracują pod dużym obciążeniem. A samo zamontowanie urządzeń nie zamyka tematu, bo właściciel lub zarządca musi jeszcze pilnować ich sprawności, dokumentacji i regularnych kontroli."
     },
     {
-      "title": "Raporty finansowe: Bilans ROBINHOOD MARKETS, INC. (HOOD) - BiznesRadar",
-      "url": "http://www.biznesradar.pl/raporty-finansowe-bilans/HOOD",
-      "date": "2026-06-24T14:14:59Z",
+      "title": "Wiadomości INC SA - strona: 130 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wiadomosci/INC,130",
+      "date": "2026-06-24T12:20:01Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Raporty finansowe: Bilans ROBINHOOD MARKETS, INC. (HOOD) BiznesRadar."
+      "summary": "Wiadomości INC SA - strona: 130 BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2634,16 +2634,11 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 15,
+      "score": 11,
       "reasons": [
         {
           "title": "Cena ropy spada do poziomu sprzed wojny w Iranie, gdy coraz więcej tankowców wypływa z cieśniny Ormuz",
           "url": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Arcybiskup Canterbury wzywa do zakończenia izraelskiej okupacji Palestyny",
-          "url": "https://www.theguardian.com/world/2026/jun/25/archbishop-of-canterbury-calls-for-end-to-israeli-occupation-of-palestine",
           "source": "The Guardian"
         }
       ]
@@ -2862,51 +2857,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25663.55,
+      25664.91,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26827.48,
+      26828.9,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26974.38,
+      26975.81,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27219.23,
+      27220.68,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27854.75,
+      27856.23,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27890.78,
+      27892.26,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28135.37,
+      28136.87,
       27354.94,
       27400.36,
       27412.11,
-      28536.65,
+      28538.17,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27797.57,
+      27799.04,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27977.22,
+      27978.7,
       27686.17,
       27404.78,
       27351.97,
@@ -2914,7 +2909,7 @@
       27905.42,
       27661.43,
       27749.69,
-      27698.74
+      27700.21
     ],
     "currency": "PLN"
   }
