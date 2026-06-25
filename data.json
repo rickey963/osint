@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-25T12:23:55Z",
+  "last_updated": "2026-06-25T12:25:34Z",
   "poland": [
+    {
+      "title": "Z tramwaju wypadł silnik. Zaskakujące sceny w Poznaniu",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-06-25/z-tramwaju-wypadl-silnik-zaskakujace-sceny-w-poznaniu/",
+      "date": "2026-06-25T12:22:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Z poznańskiego tramwaju, który jechał w kierunku Junikowa, wypadł silnik trakcyjny - potwierdziła w rozmowie z polsatnews.pl rzeczniczka tamtejszego MPK Agnieszka Smogulecka. Szynowy pojazd się wykoleił, a ruch na trasie był tymczasowo wstrzymany."
+    },
     {
       "title": "Robert J. uniewinniony. Sąd Najwyższy oddalił kasację prokuratury ws. „Skóry”",
       "url": "https://www.rp.pl/prawo-karne/art44693941-robert-j-uniewinniony-sad-najwyzszy-oddalil-kasacje-prokuratury-ws-skory",
@@ -8,6 +16,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 2,
       "summary": "Sąd Najwyższy oddalił kasację prokuratury od wyroku uniewinniającego Roberta J. w sprawie zabójstwa studentki Katarzyny Z. pod koniec lat 90."
+    },
+    {
+      "title": "Będzie nowy szef Państwowej Inspekcji Pracy. Znamy nazwisko kandydata",
+      "url": "https://businessinsider.com.pl/prawo/praca/szef-pip-straci-stanowisko-jego-nastepca-ma-byc-dzialacz-sld/wcppey9",
+      "date": "2026-06-25T12:17:44Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "W środę 1 lipca sejmowa Komisja do Spraw Kontroli Państwowej ma wydać dwie ważne opinie. Jedna w sprawie odwołania Marcina Staneckiego ze stanowiska Głównego Inspektora Pracy, a druga w sprawie zaopiniowania kandydata na to stanowisko. Jest nim działacz Sojuszu Lewicy Demokratycznej, ale też były dyrektor ośrodka szkoleniowego PIP."
     },
     {
       "title": "SpaceX testuje granice rynku. \"To już nie boom, to bańka\"",
@@ -226,28 +242,12 @@
       "summary": "Jarosław Kaczyński zapowiedział, że zwróci przyznany mu ukraiński Order Księcia Jarosława Mądrego. - To będzie wyraz mojego stosunku nie tyle może do Ukraińców, co do elit ukraińskich - uzasadnił. Stwierdził ponadto, że obecny na gdańskiej konferencji o odbudowie Ukrainy mer Lwowa jest banderowcem."
     },
     {
-      "title": "20 mln baryłek ropy w ciągu doby. Sekretarz USA o Iranie: odbieramy im kartę przetargową",
-      "url": "https://businessinsider.com.pl/gospodarka/przeplyw-ropy-przez-ormuz-wraca-do-dawnych-poziomow-20-mln-barylek-w-24-godziny/bryrvf2",
-      "date": "2026-06-25T10:28:54Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Przepływ ropy naftowej przez cieśninę Ormuz jest już zbliżony do poziomów sprzed wybuchu wojny na Bliskim Wschodzie. Jak poinformował w środę sekretarz ds. energii USA Chris Wright, tankowce opuszczają tę kluczową drogę wodną przy pomocy eskorty wojskowej — podaje Reuters."
-    },
-    {
       "title": "Warszawa. Urząd Skarbowy obrzucony kamieniami. Kierwiński: Nie dopuścimy do anarchii",
       "url": "https://wiadomosci.gazeta.pl/polska/7,198073,32877117,warszawa-urzad-skarbowy-obrzucony-kamieniami-kierwinski-nie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-06-25T10:22:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Przewodnicząca Związkowej Alternatywy w Krajowej Administracji Skarbowej Agata Jagodzińska poinformowała w mediach społecznościowych, że budynek Urzędu Skarbowego Warszawa-Praga został obrzucony kamieniami. Szef MSWiA potwierdził, że służby pracują na miejscu."
-    },
-    {
-      "title": "\"Katastrofalny punkt zwrotny\". Ekspert o sytuacji Bliskiego Wschodu po wojnie z Iranem",
-      "url": "https://businessinsider.com.pl/gospodarka/bliski-wschod-odwroci-sie-od-usa-katastrofalny-punkt-zwrotny/y5m9m5e",
-      "date": "2026-06-25T10:09:15Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "\"Wycofanie się USA z Zatoki Perskiej i napływ zasobów finansowych i gospodarczych do Iranu prawdopodobnie jeszcze bardziej ośmieli Teheran\" — prognozuje w rozmowie z portalem CNN Hasan Alhasan, starszy pracownik naukowy Międzynarodowego Instytutu Studiów Strategicznych."
     },
     {
       "title": "Trzaskowski o aferze w Szpitalu Południowym. \"Nie będę się wahał ani minuty\"",
@@ -404,6 +404,22 @@
   ],
   "world_security": [
     {
+      "title": "Trzęsienia ziemi w Wenezueli: „intensywne” poszukiwania ocalałych – liczba ofiar śmiertelnych wzrosła do 164 – najnowsze aktualizacje",
+      "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
+      "date": "2026-06-25T12:14:13Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Delcy Rodríguez powiedziała, że władze przenoszą ekipy ratownicze z innych części kraju do najbardziej dotkniętego obszaru La Guaira. Wenezuela dotknięta podwójnym trzęsieniem ziemi, ponieważ eksperci ostrzegają o dużej liczbie ofiar śmiertelnych. Czy trzęsienia ziemi w Wenezueli dotknęły Ciebie? Wolontariusze, lekarze i krewni ofiar udali się do rejonu Altamira w Caracas, mając nadzieję, że uda im się pomóc ocalałym z gruzów zawalonych budynków. „Mieszkam daleko [ale]… Przyjechałem tu na motocyklu najszybciej, jak mogłem” – powiedział José Morillo, gdy dojechał do bloku zwanego Residencias Obelisco. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Brytyjskie Biuro Meteorologiczne przedłuża ostrzeżenie o czerwonych upałach do piątkowej nocy, gdy w Europie panują ekstremalne upały – na żywo",
+      "url": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates",
+      "date": "2026-06-25T12:08:36Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Najwyższe temperatury w Wielkiej Brytanii spodziewane są we wschodniej i południowo-wschodniej Anglii, podczas gdy w Europie wzrosła liczba zgonów spowodowanych falą upałów. Farryn StockOver w Wielkiej Brytanii spółka South East Water ogłosiła tymczasowy zakaz korzystania z węży w hrabstwie Kent w związku z rosnącym obciążeniem wynikającym z trwającej fali upałów (dzisiaj 31°C, jutro 33°C). „Aby zabezpieczyć wspólne dostawy i zapobiec nagłej utracie wody w jakichkolwiek domach, ze smutkiem musimy poprosić nasze społeczności, aby natychmiast nie korzystały z węży. Jest nam niezmiernie przykro z powodu zakłóceń. przyczyn i jesteśmy niesamowicie wdzięczni wszystkim, którzy pomagają nam chronić wodę w Kent”. Kontynuuj czytanie..."
+    },
+    {
       "title": "Ryanair twierdzi, że niechętnie pozwoli rodzicom siedzieć z dziećmi za darmo",
       "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-25T12:08:33Z",
@@ -412,20 +428,20 @@
       "summary": "Linia lotnicza zazwyczaj pobierała od dorosłych opłatę w wysokości 8 funtów za każdą podróż w jedną stronę za miejsce siedzące z małymi dziećmi."
     },
     {
+      "title": "Pojazd uderza w tłum w Cabo San Lucas po zwycięstwie Meksyku nad Czechami w Pucharze Świata",
+      "url": "https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia",
+      "date": "2026-06-25T12:06:38Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Ratusz potwierdza, że w tłum wjechał samochód. „Kilka osób zostało rannych” w wyniku zdarzenia. Pojazd potrącił wiele osób podczas zgromadzenia w popularnym kurorcie turystycznym Cabo San Lucas po zwycięstwie Meksyku w meczu Pucharu Świata w środowy wieczór – poinformował ratusz w Los Cabos w oświadczeniu. „Według wstępnych informacji pojazd został otoczony przez grupę osób i „z przyczyn, które zostaną ustalone przez właściwy organ, przejechał przez tłum, raniąc kilka osób” – dodał ratusz. Kontynuuj czytanie..."
+    },
+    {
       "title": "Reforma planu Wielkiej Brytanii wymierzonego w obywateli UE mieszkających w Wielkiej Brytanii „całkowicie oburzająca”",
       "url": "https://www.theguardian.com/uk-news/2026/jun/25/reform-uk-plan-target-eu-nationals-britain-brexit",
       "date": "2026-06-25T12:00:14Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Ekskluzywnie: Grupa ds. praw człowieka twierdzi, że partia Nigela Farage'a wycofuje się z obietnic złożonych podczas kampanii referendalnej w sprawie Brexitu Polityka na żywo w Wielkiej Brytanii – najnowsze aktualizacje Obywatele UE mieszkający na stałe w Wielkiej Brytanii wyrazili zaniepokojenie planem reformy Wielkiej Brytanii mającym na celu ograniczenie ich praw do zakwaterowania i zatrudnienia, twierdząc, że ta polityka stanowi zdradę obietnic złożonych w referendum w sprawie Brexitu 10 lat temu. Zgodnie z zaktualizowaną polityką migracyjną partia Nigela Farage'a eksmitowałaby wszystkich obcokrajowców z mieszkań socjalnych i znacznie zwiększyłaby koszty zatrudniania ich przez firmy, przy czym obie strony polityk mających wpływ również na obywateli UE, którzy uzyskali status osoby osiedlonej. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Trzęsienia ziemi w Wenezueli: „intensywne” poszukiwania ocalałych – liczba ofiar śmiertelnych wzrosła do 164 – najnowsze aktualizacje",
-      "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
-      "date": "2026-06-25T11:59:08Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Delcy Rodríguez powiedziała, że władze przenoszą ekipy ratownicze z innych części kraju do najbardziej dotkniętego obszaru La Guaira. Wenezuela dotknięta podwójnym trzęsieniem ziemi, ponieważ eksperci ostrzegają o dużej liczbie ofiar śmiertelnych. Czy trzęsienia ziemi w Wenezueli dotknęły Ciebie? Wolontariusze, lekarze i krewni ofiar udali się do rejonu Altamira w Caracas, mając nadzieję, że uda im się pomóc ocalałym z gruzów zawalonych budynków. „Mieszkam daleko [ale]… Przyjechałem tu na motocyklu najszybciej, jak mogłem” – powiedział José Morillo, gdy dojechał do bloku zwanego Residencias Obelisco. Kontynuuj czytanie..."
     },
     {
       "title": "Tysiące ludzi obawiało się śmierci po dwóch dużych trzęsieniach ziemi, które nawiedziły Wenezuelę – Reuters",
@@ -450,14 +466,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Cło na import poza nowym kontyngentem ulegnie podwojeniu, odzwierciedlając podobne zmiany w limitach UE. Biznes na żywo – najnowsze aktualizacje Rząd Wielkiej Brytanii zmniejszy o połowę ilość dozwolonego bezcłowego importu stali, próbując przeciwdziałać globalnej nadpodaży taniego chińskiego metalu i wzmocnić oblężony lokalny przemysł. Nowe „zabezpieczenia” zostaną wprowadzone 1 lipca i zbiegną się z podobnymi nowymi limitami wprowadzonymi przez UE w tych samych celach. Wielka Brytania to stwierdziła, a UE uzgodniła podejście, które odzwierciedlało wzajemne „silnie powiązane łańcuchy dostaw” po miesiącach negocjacji w sprawie utrzymania bezcłowego dostępu między rynkami. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Brytyjskie Biuro Meteorologiczne przedłuża ostrzeżenie o czerwonych upałach do piątkowej nocy, gdy w Europie panują ekstremalne upały – na żywo",
-      "url": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates",
-      "date": "2026-06-25T11:46:03Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Najwyższe temperatury w Wielkiej Brytanii spodziewane są we wschodniej i południowo-wschodniej Anglii, podczas gdy w Europie wzrosła liczba zgonów spowodowanych falą upałów. Farryn StockOver w Wielkiej Brytanii spółka South East Water ogłosiła tymczasowy zakaz korzystania z węży w hrabstwie Kent w związku z rosnącym obciążeniem wynikającym z trwającej fali upałów (dzisiaj 31°C, jutro 33°C). „Aby zabezpieczyć wspólne dostawy i zapobiec nagłej utracie wody w jakichkolwiek domach, ze smutkiem musimy poprosić nasze społeczności, aby natychmiast nie korzystały z węży. Jest nam niezmiernie przykro z powodu zakłóceń. przyczyn i jesteśmy niesamowicie wdzięczni wszystkim, którzy pomagają nam chronić wodę w Kent”. Kontynuuj czytanie..."
     },
     {
       "title": "Wenezuela ogłasza stan wyjątkowy po bliźniaczych, śmiertelnych trzęsieniach ziemi",
@@ -538,14 +546,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "IBM twierdzi, że stworzył pierwszą na świecie znaną technologię chipów poniżej 1 nanometra, ale minie trochę czasu, zanim będzie gotowy do produkcji."
-    },
-    {
-      "title": "Z raportu wynika, że ​​centra danych borykają się ze wzrostem liczby globalnych spraw prawnych związanych z klimatem",
-      "url": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
-      "date": "2026-06-25T10:03:54Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Analiza LSE wskazuje na postępowania sądowe związane ze źródłami energii, zużyciem wody i zanieczyszczeniem powietrza. Jak wynika z raportu, rozprzestrzenianie się centrów danych i sztucznej inteligencji coraz częściej wysuwa się na pierwszy plan w sporach dotyczących ochrony środowiska na całym świecie, od Stanów Zjednoczonych i Wielkiej Brytanii po Chile i Irlandię. Analiza około 3600 pozwów związanych z klimatem złożonych od 2015 r. wykazała, że najnowszy roczny przegląd postępowań klimatycznych przeprowadzony przez London School of Economics (LSE) wykazał rosnącą liczbę spraw kwestionujących źródła energii i zużycie wody oraz zanieczyszczenie powietrza w centrach danych, z których wszystkie mają powiązane skutki klimatyczne. Kontynuuj czytanie..."
     },
     {
       "title": "Macron twierdzi, że francuska marynarka wojenna przechwyciła kolejny rosyjski tankowiec „floty cieni” – Reuters",
@@ -766,9 +766,17 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualizacje na żywo: As Europe Bakes, Hiszpania ostrzega przed możliwą dużą liczbą ofiar śmiertelnych",
+      "url": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france",
+      "date": "2026-06-25T12:19:37Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Hiszpańska agencja monitorująca powiązała ekstremalne upały z szacunkowym wzrostem liczby zgonów od niedzieli. Dni z upalnymi temperaturami wystawiają na próbę zdolność Europy do przystosowania się do ekstremalnych warunków pogodowych."
+    },
+    {
       "title": "Aktualności na żywo z Wenezueli: Liczba ofiar śmiertelnych rośnie, gdy ratownicy gorączkowo poszukują ocalałych z trzęsienia ziemi",
       "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
-      "date": "2026-06-25T12:15:43Z",
+      "date": "2026-06-25T12:15:44Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Władze podały, że w wyniku trzęsień ziemi o sile 7,2 i 7,5 w skali Richtera zginęły co najmniej 164 osoby, a setki uznano za zaginione. Pełna skala zniszczeń wciąż stawała się jasna."
@@ -780,14 +788,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Sprawująca władzę zaledwie od kilku miesięcy prezydent Delcy Rodríguez próbuje zrównoważyć żądania prezydenta Trumpa z własnymi, wewnętrznymi potrzebami politycznymi."
-    },
-    {
-      "title": "Aktualizacje na żywo: As Europe Bakes, Hiszpania ostrzega przed możliwą dużą liczbą ofiar śmiertelnych",
-      "url": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france",
-      "date": "2026-06-25T12:11:58Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Hiszpańska agencja monitorująca powiązała ekstremalne upały z szacunkowym wzrostem liczby zgonów od niedzieli. Dni z upalnymi temperaturami wystawiają na próbę zdolność Europy do przystosowania się do ekstremalnych warunków pogodowych."
     },
     {
       "title": "Śmiertelny upał trawi Europę",
@@ -1008,6 +1008,22 @@
   ],
   "technology": [
     {
+      "title": "Powstanie drugi składany iPhone. No dobra, a gdzie ten pierwszy?",
+      "url": "https://www.instalki.pl/news/hardware/drugi-skladany-iphone-powstaje/",
+      "date": "2026-06-25T12:22:19Z",
+      "source": "Instalki.pl",
+      "confirmed_by": 1,
+      "summary": "Najnowsze pogłoski sugerują, że drugi składany iPhone zyskał właśnie zielone światło... przed premierą pierwszego modelu. Artykuł Powstanie drugi składany iPhone."
+    },
+    {
+      "title": "Scaled Cognition, laboratorium skupiające się na niezawodności, które opracowuje model Agentic Pretrained Transformer, zebrało 100 mln dolarów w ramach serii A pod przewodnictwem Khosli, przy wycenie na 750 mln dolarów (Steven Rosenbush/Wall Street Journal)",
+      "url": "https://www.techmeme.com/260625/p22#a260625p22",
+      "date": "2026-06-25T12:20:14Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Steven Rosenbush / Wall Street Journal: Scaled Cognition, laboratorium skupiające się na niezawodności, które opracowuje model Agentic Pretrained Transformer, pozyskało serię A o wartości 100 mln dolarów, na czele której stoi Khosla, przy wycenie na poziomie 750 mln dolarów &mdash; Modele sztucznej inteligencji mogą być „jak geniusze schizofreników”; mówi dyrektor generalny, który w rundzie prowadzonej przez Khosla Ventures zebrał 100 milionów dolarów."
+    },
+    {
       "title": "Empik rozwalił system. Zestawy DeWalt na mocnej obniżce",
       "url": "https://antyweb.pl/empik-rozwalil-system-zestawy-dewalt-na-mocnej-obnizce",
       "date": "2026-06-25T12:15:54Z",
@@ -1024,7 +1040,7 @@
       "summary": "Jacob Reid / Bloomberg: Widok wykładniczy: globalna sprzedaż sztucznej inteligencji, z wyłączeniem Chin, osiągnęła w pierwszym kwartale 25 miliardów dolarów, przekraczając szacunkowe 21 miliardów dolarów kosztów amortyzacji centrów danych i chipów; marginesy pozostają cienkie &mdash; Przychody ze sztucznej inteligencji osiągnęły punkt krytyczny, co pokazuje, że warte setki miliardów dolarów firmy technologiczne &hellip;."
     },
     {
-      "title": "Bank Millenium z rewelacyjną funkcję. Tak unikniesz kradzieży",
+      "title": "Bank Millenium z rewelacyjną funkcją. Tak unikniesz kradzieży",
       "url": "https://antyweb.pl/bank-millenium-z-rewelacyjna-funkcje-tak-unikniesz-kradziezy",
       "date": "2026-06-25T11:45:03Z",
       "source": "Antyweb",
@@ -1200,14 +1216,6 @@
       "summary": "Oszałamiające zdjęcia serca Drogi Mlecznej. \"Zapierające dech szczegóły\"."
     },
     {
-      "title": "Dyrektor generalny Qualcomm, Cristiano Amon, mówi, że firma projektuje chipy do centrów danych specjalnie dla chińskich klientów, które spełniają wymogi kontroli eksportu w USA (Yifan Yu/Nikkei Asia)",
-      "url": "https://www.techmeme.com/260625/p13#a260625p13",
-      "date": "2026-06-25T09:11:34Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Yifan Yu / Nikkei Azja: Dyrektor generalny Qualcomm, Cristiano Amon, mówi, że firma projektuje chipy do centrów danych specjalnie dla chińskich klientów, które spełniają amerykańskie przepisy dotyczące kontroli eksportu &mdash; NOWY JORK &mdash; W środę Qualcomm zaprezentował swoją ofertę chipów do centrów danych, stając się najnowszym producentem chipów, który bierze udział w wyścigu procesorów AI."
-    },
-    {
       "title": "Popularna ładowarka ze sklepów zagraża życiu. Pilny alert unijnego systemu ostrzegania",
       "url": "https://www.instalki.pl/news/hardware/popularna-ladowarka-ze-sklepow-zagraza-zyciu-pilny-alert-unijnego-systemu-ostrzegania/",
       "date": "2026-06-25T09:07:43Z",
@@ -1302,14 +1310,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Prime Days na Amazonie to idealny moment jeśli w planach mieliście zakup zaawansowanego zegarka sportowego. Trzeba się jednak śpieszyć bo oferty zmieniają się z dnia na dzień."
-    },
-    {
-      "title": "Od tego sci-fi się nie oderwiesz. W nowym sezonie Silos wchodzi na nowy poziom",
-      "url": "https://antyweb.pl/od-tego-sci-fi-sie-nie-oderwiesz-w-nowym-sezonie-silos-wchodzi-na-nowy-poziom",
-      "date": "2026-06-25T06:30:53Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Nadchodzi ekscytujący czas dla fanów sci-fi z gatunku postapo."
     },
     {
       "title": "Half-Life 2 w przeglądarce",
@@ -1410,12 +1410,52 @@
   ],
   "cybersecurity": [
     {
+      "title": "Seminarium internetowe: Dlaczego przejęcia kont pozostają jednym z zagrożeń, które najtrudniej powstrzymać",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
+      "date": "2026-06-25T12:12:20Z",
+      "source": "BleepingComputer",
+      "confirmed_by": 1,
+      "summary": "Ataki polegające na przejęciu konta w dalszym ciągu stanowią wyzwanie dla zespołów ds. bezpieczeństwa, ponieważ napastnicy często działają za pośrednictwem legalnych kont i zaufanych usług. W tym seminarium internetowym dowiesz się, w jaki sposób sztuczna inteligencja behawioralna może pomóc organizacjom szybciej identyfikować zagrożone konta i automatyzować przepływy pracy. [...]."
+    },
+    {
+      "title": "Collabora wypuszcza CODE 26.04 w miarę zaostrzania się rywalizacji między chmurowymi pakietami biurowymi FOSS",
+      "url": "https://www.theregister.com/applications/2026/06/25/collabora-releases-code-2604-as-rivalry-between-foss-cloudy-office-suites-heats-up/5261468",
+      "date": "2026-06-25T11:47:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Teraz z obsługą Markdown i inteligentniejszą obsługą błędów formuł – a także zintegrowaną sztuczną inteligencją, chociaż jest ona domyślnie wyłączona."
+    },
+    {
       "title": "Przetrwać erę mitów: Richard Bejtlich w sprawie NDR",
       "url": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
       "date": "2026-06-25T11:17:31Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Pomimo dużej ilości danych telemetrycznych, którymi dysponują analitycy, wiele zespołów ds. operacji bezpieczeństwa ma trudności z udzieleniem odpowiedzi na kilka podstawowych pytań podczas badania incydentu: Co się stało? Jakie mamy dowody? Skąd mamy wiedzieć, że widzimy to wszystko w odpowiednim kontekście?"
+    },
+    {
+      "title": "ZTE buduje fabrykę sztucznej inteligencji o optymalnym TCO, aby oszczędzać tokeny",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/25/zte-builds-a-tco-optimal-ai-factory-to-fuel-token-economy/5262082",
+      "date": "2026-06-25T11:02:39Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "ZAWARTOŚĆ PARTNERÓW: Wykorzystanie SuperPODów architektury OEX i wielowymiarowego wspólnego projektowania w celu maksymalizacji liczby tokenów na sekundę i obniżenia całkowitego kosztu posiadania na potrzeby skalowanego wnioskowania."
+    },
+    {
+      "title": "Elastyczny rozciąga siłę roboczą o 7% cieńszą, ponieważ sztuczna inteligencja wykonuje więcej ciężkich prac",
+      "url": "https://www.theregister.com/databases/2026/06/25/elastic-stretches-workforce-7-thinner-as-ai-does-more-of-the-heavy-lifting/5261993",
+      "date": "2026-06-25T10:55:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Dyrektor generalny twierdzi, że automatyzacja umożliwia szczuplejsze zespoły, ponieważ inżynieria jest podzielona na trzy główne obszary."
+    },
+    {
+      "title": "ZTE CDO Cui Li na MWC Shanghai 2026: uwolnienie wartości i pokonanie niepewności w erze sztucznej inteligencji",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/25/zte-cdo-cui-li-at-mwc-shanghai-2026-unlocking-value-and-embracing-uncertainty-in-the-ai-era/5262045",
+      "date": "2026-06-25T10:48:42Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "TREŚCI PARTNERÓW: Wykorzystując niepewność dzięki elastycznej architekturze, ZTE zapewnia kompleksową wartość sztucznej inteligencji w telekomunikacji, przedsiębiorstwach i inteligentnych domach na MWC Shanghai 2026."
     },
     {
       "title": "Szkolny e-dziennik od kulis &#8211; jak zaawansowane i bezpieczne jest narzędzie do zarządzania szkołą?",
@@ -1426,12 +1466,28 @@
       "summary": "Z jakimi atakami najczęściej musi liczyć się dostawca szkolnego e-dziennika? Jak wiele podmiotów naprawdę korzysta z tego narzędzia? Z jakimi innymi systemami trzeba taki dziennik zintegrować i czy naprawdę łatwo będzie to zastąpić jednym państwowym rozwiązaniem?"
     },
     {
+      "title": "ZTE prezentuje pełne możliwości sztucznej inteligencji na MWC Shanghai 2026, wprowadzając nową erę operacji na tokenach",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/25/zte-showcases-full-stack-ai-capabilities-at-mwc-shanghai-2026-empowering-new-era-of-token-operations/5262038",
+      "date": "2026-06-25T10:28:04Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "ZAWARTOŚĆ PARTNERÓW: Zapewnienie kompleksowej synergii między fabrykami sztucznej inteligencji, systemem AIOS nowej generacji i sieciami obsługującymi technologię 6G w celu maksymalizacji wydajności tokenów i obniżenia kosztów operacyjnych."
+    },
+    {
       "title": "Europa wzmacnia sektor półprzewodników. Miliony euro dla niemieckiej firmy",
       "url": "https://cyberdefence24.pl/europa-wzmacnia-sektor-polprzewodnikow-miliony-euro-dla-niemieckiej-firmy",
       "date": "2026-06-25T10:08:25Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Komisja Europejska zatwierdziła 76 mln euro niemieckiej pomocy publicznej dla QuantumDiamonds GmbH, która w Monachium ma zbudować zakład produkujący sprzęt do testowania chipów z wykorzystaniem czujników kwantowych. Decyzja wpisuje się w szerszą strategię UE wzmacniania własnego sektora półprzewodników i ograniczania zależności od dostawców spoza Europy."
+    },
+    {
+      "title": "IBM rysuje przyszłość chipów o wielkości poniżej nanometra",
+      "url": "https://www.theregister.com/systems/2026/06/25/ibm-stacks-up-a-sub-nanometer-chip-future/5261555",
+      "date": "2026-06-25T10:03:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Big Blue prezentuje węzeł procesowy, który, jak twierdzi, może skalować się do 1 angstremów."
     },
     {
       "title": "Włamywali się na konta i kradli miliony. Liderzy grupy zatrzymani w akcji CBZC i FBI",
@@ -1450,12 +1506,36 @@
       "summary": "Odkryto, że wcześniej nieudokumentowany oparty na Rust implant macOS i narzędzie do kradzieży informacji zawiera ładunek natychmiastowego wstrzykiwania, którego celem jest oszukanie narzędzi sztucznej inteligencji (AI) analityka złośliwego oprogramowania i nakłonienie go do przerwania lub odmowy analizy artefaktu. Ze względu na to zwodnicze zachowanie złośliwe oprogramowanie otrzymało nazwę kodową Gaslight. Oceniono z dużą pewnością, że narzędzie to jest."
     },
     {
+      "title": "Zaufanie mózgów ds. identyfikacji cyfrowej spotka się za zamkniętymi drzwiami, podczas gdy minister będzie uchylał się od pytań dotyczących kosztów",
+      "url": "https://www.theregister.com/public-sector/2026/06/25/digital-id-brain-trust-will-meet-behind-closed-doors-as-minister-ducks-cost-questions/5261676",
+      "date": "2026-06-25T09:20:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Protokół nie zostanie opublikowany, a parlamentarzyści nadal nie mają odpowiedzi na temat budżetu grupy ani sposobu wyboru jej członków."
+    },
+    {
       "title": "Nowy Mistic Backdoor powiązany z KongTuke w kampaniach ClickFix i ModeloRAT",
       "url": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
       "date": "2026-06-25T08:54:37Z",
       "source": "The Hacker News",
       "confirmed_by": 2,
       "summary": "Od kwietnia 2026 r. nowy, ukryty backdoor o nazwie Mistic jest wdrażany w ramach podejrzanych ataków o charakterze finansowym wymierzonych w wiele organizacji z sektorów ubezpieczeń, edukacji, IT i usług profesjonalnych. Według zespołu Threat Hunter Team firmy Symantec i Carbon Black backdoor, śledzony również jako MLTBackdoor, jest rzekomo powiązany z brokerem początkowego dostępu (IAB) o nazwie."
+    },
+    {
+      "title": "Salut 5, 50: Radziecka stacja kosmiczna, która wywołała chorobę u jednej załogi i prawie utopiła drugą",
+      "url": "https://www.theregister.com/science/2026/06/25/salyut-5-at-50-the-soviet-space-station-that-sickened-one-crew-and-nearly-drowned-another/5261425",
+      "date": "2026-06-25T08:21:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Ostatnia zamieszkana placówka Almaz była krótkotrwała, tajemnicza i niezwykle podatna na wypadki."
+    },
+    {
+      "title": "Rosnąca rola procesora w infrastrukturze agentowej sztucznej inteligencji",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/25/the-cpus-growing-role-in-agentic-ai-infrastructure/5261720",
+      "date": "2026-06-25T08:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "TREŚĆ PARTNERÓW: Ponieważ agentyczne systemy AI skalują się w środowiskach chmurowych i centrach danych, procesory pozostają płaszczyzną kontrolną koordynującą wydajność i efektywność."
     },
     {
       "title": "YubiKey as a Service (YaaS): rewolucja w MFA bez barier budżetowych",
@@ -1466,12 +1546,28 @@
       "summary": "YubiKey as a Service (YaaS) to nowoczesny model subskrypcyjny, który rewolucjonizuje podejście firm do uwierzytelniania MFA. Eliminując barierę wysokich kosztów początkowych (CAPEX) oraz skomplikowaną logistykę, usługa pozwala organizacjom na elastyczne, tanie i masowe wdrażanie fizycznych kluczy bezpieczeństwa odpornych na phishing. Dowiedz się, jak YaaS automatyzuje zarządzanie dostępem, obniża koszty TCO nawet o 50% i ułatwia przejście na standard chmurowy zero-trust oraz logowanie bezhasłowe."
     },
     {
+      "title": "Uczeń odkrył, że sieć szkół w Wielkiej Brytanii była szeroko otwarta na inwazję",
+      "url": "https://www.theregister.com/security/2026/06/25/uk-schools-network-left-wide-open-for-invasion-student-found/5261567",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "A hasło administratora było prawidłowe w polu opisu Active Directory."
+    },
+    {
       "title": "AI karmi się naszymi danymi. UODO idzie do ministra: „Nowelizacja ustawy jest konieczna”",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/prywatnosc/ai-karmi-sie-naszymi-danymi-uodo-idzie-do-ministra-nowelizacja-ustawy-jest-konieczna",
       "date": "2026-06-25T06:55:38Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Sztuczna inteligencja poluje na nasze dane? Wiceszefowa UODO stawia sprawę jasno: za pozorne oszczędności płacimy utratą prywatności. Urząd ma dość skomplikowanych procedur i chce zmian w prawie."
+    },
+    {
+      "title": "Szef Infosys twierdzi, że kodowanie wibracyjne nie stanowi zagrożenia, ponieważ pisanie oprogramowania to coś więcej niż tylko pisanie oprogramowania",
+      "url": "https://www.theregister.com/channel/2026/06/25/infosys-boss-says-vibe-coding-is-no-threat-because-theres-more-to-writing-software-than-writing-software/5261900",
+      "date": "2026-06-25T06:13:18Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Pomimo ostrzeżeń o deflacji przychodów prezes przewiduje, że sztuczna inteligencja sprawi, że organizacje usługowe będą pracować więcej, a nie mniej."
     },
     {
       "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 wykorzystany do uzyskania dostępu do roota",
@@ -1488,6 +1584,14 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Smartfon od dawna jest czymś więcej niż zwykłym telefonem, a to przecież nie koniec technologicznej ewolucji. Urządzenia mogą dziś pełnić rolę przemysłowego terminala, przechowywać klucze kryptograficzne, komunikować się przez alternatywne sieci radiowe i działać nawet wtedy, gdy klasyczna infrastruktura telekomunikacyjna przestanie być jedynym kanałem łączności."
+    },
+    {
+      "title": "Podmioty z państw narodowych złamały krytyczną australijską infrastrukturę, aby „uszkodzić ją w wybranym przez siebie momencie”",
+      "url": "https://www.theregister.com/security/2026/06/25/nation-state-actors-cracked-critical-australian-infrastructure-to-cripple-it-at-a-time-of-their-choosing/5261877",
+      "date": "2026-06-25T04:31:01Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Aby odeprzeć kolejny atak, szpiedzy z Oz zadzwonili do zagranicznych odpowiedników i poinformowali ich, że operacja zakończyła się fiaskiem."
     },
     {
       "title": "Masowy atak na urządzenia Fortinet. Prawie 74 tys. przejętych urządzeń. Kulisy kampanii FortiBleed",
@@ -1634,36 +1738,12 @@
       "summary": "Departament Sprawiedliwości Stanów Zjednoczonych ogłosił we wtorek zajęcie konta do przetwarzania w chmurze wykorzystywanego przez spółki zależne konglomeratu korporacyjnego HuiOne Group z siedzibą w Kambodży po ujawnieniu przez Ministerstwo Skarbu nowych sankcji nałożonych na dziewięć osób i 26 podmiotów powiązanych z Prince Group. „Zarzuca się, że te spółki zależne pomagały osobom i organizacjom w przekazywaniu dochodów."
     },
     {
-      "title": "Jak przestępcy piorą pieniądze? Banki śledzą przepływy i szukają „słupów”",
-      "url": "https://cyberdefence24.pl/strefa-pekao-sa/jak-przestepcy-piora-pieniadze-banki-sledza-przeplywy-i-szukaja-slupow",
-      "date": "2026-06-24T08:01:51Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Pranie pieniędzy i finansowanie terroryzmu należą do najpoważniejszych zagrożeń dla sektora finansowego. Banki analizują transakcje, identyfikują nietypowe przepływy i próbują ustalić, czy środki znajdujące się na rachunkach mogą pochodzić z działalności przestępczej."
-    },
-    {
       "title": "Wykorzystano lukę w Cisco Unified CM po tym, jak PoC ujawnił ścieżkę zapisu pliku do katalogu głównego",
       "url": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
       "date": "2026-06-24T06:50:38Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Podmioty zagrażające zaczęły wykorzystywać niedawno ujawnioną krytyczną lukę w zabezpieczeniach wpływającą na rozwiązania Cisco Unified Communications Manager (Unified CM) i Unified Communications Manager Session Management Edition (Unified CM SME). Luka, oznaczona jako CVE-2026-20230 (wynik CVSS: 8,6), polega na nieprawidłowej weryfikacji danych wejściowych dla określonych żądań HTTP, co może pozwolić na nieuwierzytelnione, zdalne."
-    },
-    {
-      "title": "Estonia chce nadać cyfrową tożsamość agentom AI",
-      "url": "https://cyberdefence24.pl/polityka-i-prawo/estonia-chce-nadac-cyfrowa-tozsamosc-agentom-ai",
-      "date": "2026-06-24T06:47:38Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Estonia jako pierwsze państwo planuje stworzyć cyfrowe identyfikatory dla agentów sztucznej inteligencji. To próba przygotowania się na przyszłość, w której AI będzie coraz częściej wykonywać zadania w czyimś imieniu. Projekt ma pomóc uporządkować kwestie związane z odpowiedzialnością technologii."
-    },
-    {
-      "title": "Myślisz, że Twoja firma jest za mała dla cyberprzestępców? Ten błąd drogo kosztuje polski biznes",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/myslisz-ze-twoja-firma-jest-za-mala-dla-cyberprzestepcow-ten-blad-drogo-kosztuje-polski-biznes",
-      "date": "2026-06-24T05:37:37Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Aż 71% małych firm uważa, że cyberataki nie są dla nich zagrożeniem. Tymczasem badanie Mastercard brutalnie obala ten mit. Cyberprzestępcy traktują sektor MŚP jak łatwy łup, a globalne straty rosną w lawinowym tempie."
     },
     {
       "title": "Usterka Cisco Unified CM CVE-2026-20230 jest teraz wykorzystywana w atakach",
@@ -1722,63 +1802,23 @@
       "summary": "W tym tygodniu dwóch mężczyzn przyznało się w Wielkiej Brytanii do zarzutów karnych wynikających z cyberataku z sierpnia 2024 r., który sparaliżował Transport for London, podmiot odpowiedzialny za sieć transportu publicznego w obszarze Wielkiego Londynu. Duet był kluczowymi członkami płodnej grupy cyberprzestępczej znanej jako Scattered Spider, a ich przyznanie się do winy nastąpiło pierwszego dnia spodziewanego sześciotygodniowego procesu."
     },
     {
-      "title": "Członkowie Scattered Spider przyznają się do włamania do Transport for London",
-      "url": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
-      "date": "2026-06-23T15:31:59Z",
-      "source": "BleepingComputer",
-      "confirmed_by": 1,
-      "summary": "Dwóch członków grupy cyberprzestępczej „Scattered Spider” przyznało się do włamania do systemów Transport for London (TfL) w 2024 r. […]."
-    },
-    {
-      "title": "Podpisy poparcia w mObywatelu. Rząd przyjął rozporządzenie",
-      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/podpisy-poparcia-w-mobywatelu-rzad-przyjal-rozporzadzenie",
-      "date": "2026-06-23T15:17:55Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Rada Ministrów przyjęła we wtorek rozporządzenie, które umożliwi mObywatelowi pobieranie danych z kolejnych rejestrów publicznych. Dzięki zmianom w aplikacji pojawią się nowe funkcje, które pozwolą na dostęp do dyplomów, dokumentów zawodowych czy popierania kandydatów w wyborach."
-    },
-    {
       "title": "Umiejętność fałszywego agenta AI przeszła skanowanie bezpieczeństwa i według doniesień dotarła do 26 000 agentów",
       "url": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
       "date": "2026-06-23T15:16:43Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Firma ochroniarska AIR stworzyła fałszywą umiejętność agenta AI, przepuściła ją przez popularny rynek umiejętności i reklamę na Instagramie i twierdzi, że dotarła do około 26 000 agentów, w tym niektórych na kontach firmowych. Każdy skaner bezpieczeństwa, pod kątem którego firma go testowała, oznaczał go jako bezpieczny. Ładunek był z założenia nieszkodliwy: zbierał adres e-mail użytkownika i nie robił nic więcej."
-    },
-    {
-      "title": "Rozkaz Trumpa wyznacza termin federalnej postkwantowej migracji kryptowalut na rok 2030",
-      "url": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
-      "date": "2026-06-23T15:16:40Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "22 czerwca prezydent Trump podpisał zarządzenie wykonawcze wyznaczające rygorystyczne terminy dla agencji federalnych na przeniesienie aktywów o dużej wartości i systemów o dużym wpływie do kryptografii postkwantowej. Kluczowy zakład musi się przenieść do 31 grudnia 2030 r.; podpisów cyfrowych do 31 grudnia 2031 r. EO 14409 pozostawia systemy bezpieczeństwa narodowego na osobnym torze."
-    },
-    {
-      "title": "GitHub aktualizuje działania/zamówienie, aby blokować typowe wzorce ataków na żądanie Pwn",
-      "url": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
-      "date": "2026-06-23T14:22:03Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "GitHub pracuje nad wzmocnieniem bezpieczeństwa łańcucha dostaw oprogramowania, aktualizując „actions/checkout”, aby blokować ataki typu pwn request wykorzystujące ryzykowne użycie wyzwalacza „pull_request_target flow” w celu uruchomienia złośliwego kodu z pełnymi uprawnieniami przepływu pracy. Od 18 czerwca 2026 r. obowiązuje najnowsza wersja „akcji/checkout”, oficjalnej akcji GitHub służącej do sprawdzania repozytorium w pliku."
-    },
-    {
-      "title": "Exploit nie istnieje. Nadal możesz udowodnić, że działa przeciwko tobie",
-      "url": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
-      "date": "2026-06-23T14:01:11Z",
-      "source": "BleepingComputer",
-      "confirmed_by": 1,
-      "summary": "Atakujący mogą teraz wykorzystać nowo ujawnione luki w zabezpieczeniach znacznie szybciej, niż większość organizacji jest w stanie je załatać. Picus Security wyjaśnia, w jaki sposób zespoły ds. bezpieczeństwa mogą zweryfikować możliwość wykorzystania exploita, zanim w ogóle pojawi się publiczny exploit. [...]."
-    },
-    {
-      "title": "Agentyczna sztuczna inteligencja: broń, która nie potrzebuje już wojownika",
-      "url": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
-      "date": "2026-06-23T11:30:00Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Każda broń zaczyna się jako przedłużenie ręki, która ją trzyma. Włócznia wydłużała zasięg ramienia. Łuk wysłał grot w powietrze bez rzutu."
     }
   ],
   "finance": [
+    {
+      "title": "\"Król Północy\" przejmuje Londyn. Burnham chce przenieść Downing Street do Manchesteru",
+      "url": "https://www.bankier.pl/wiadomosc/Krol-Polnocy-przejmuje-Londyn-Burnham-chce-przeniesc-Downing-Street-do-Manchesteru-9157775.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-25T12:25:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Andy Burnham, najprawdopodobniej przyszły szef brytyjskiego rządu, zamierza stworzyć „Downing Street na północy Anglii” i otworzyć biuro premiera w Manchesterze - pisze w czwartek „Financial Times”. To część planu decentralizacji władzy."
+    },
     {
       "title": "Koniec celnego pata. Bruksela ustępuje przed ultimatum i obniża taryfy",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-celnego-pata-Bruksela-ustepuje-przed-ultimatum-i-obniza-taryfy-9157760.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -1794,6 +1834,14 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Ukraina będzie potrzebować na odbudowę ponad 580 mld dolarów w ciągu nadchodzącej dekady; Bank Światowy jest w trakcie pozyskiwania 2 mld na rzecz instrumentu dotyczącego odbudowy tego kraju - poinformował w czwartek szef Banku Światowego Ajay Banga."
+    },
+    {
+      "title": "Niemcy chcą zbudować wielką armię. Coraz więcej kandydatów do Bundeswehry - Forsal.pl",
+      "url": "https://forsal.pl/swiat/niemcy/artykuly/11267726,niemcy-chca-zbudowac-wielka-armie-coraz-wiecej-kandydatow-do-bundeswehry.html",
+      "date": "2026-06-25T12:12:12Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Niemcy chcą zbudować wielką armię. Coraz więcej kandydatów do Bundeswehry Forsal.pl."
     },
     {
       "title": "Berlin nie chce Polski w negocjacjach? \"Włoszka i Polak chcą siedzieć przy tym samym stole\"",
@@ -1850,14 +1898,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Dotychczasowy przebieg kontroli potwierdza, że odwołanie dotychczasowego zarządu było w pełni uzasadnione, a zarazem oznacza, że nowy zarząd musi ten stan rzeczy jak najszybciej naprawić – powiedział prezydent Warszawy Rafał Trzaskowski, przedstawiając radnym sytuację w Szpitalu Południowym."
-    },
-    {
-      "title": "Jaecoo zeszło z ceny. Ile kosztuje nowa hybryda Jaecoo 5?",
-      "url": "https://www.bankier.pl/wiadomosc/Jaecoo-5-cena-osiagi-wyposazenie-9157491.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-06-25T11:30:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Jaecoo wprowadził do polskiej oferty hybrydę Jaecoo 5 – swojego najtańszego, hybrydowego SUV-a. Choć samochód jest droższy od konkurencyjnych modeli MG, Dacii czy siostrzanej Omody, to wyższa cena broni się mocą. Sprawdzamy, ile trzeba zapłacić za Jaecoo 5 Hybrid i co dostaniemy w zamian."
     },
     {
       "title": "Komunikat EBI Corey Europe SA (corey): Powołanie osoby zarządzającej lub nadzorującej - stockwatch.pl",
@@ -1962,14 +2002,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Dębica wypłaci 6,79 zł dywidendy na akcję stockwatch.pl."
-    },
-    {
-      "title": "Kiedy euro w Polsce? Raport Komisji Europejskiej nie pozostawia wątpliwości - Forsal.pl",
-      "url": "https://forsal.pl/biznes/artykuly/11267620,polska-a-euro-najnowsza-ocena-komisji-europejskiej.html",
-      "date": "2026-06-25T09:53:00Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Kiedy euro w Polsce? Raport Komisji Europejskiej nie pozostawia wątpliwości Forsal.pl."
     },
     {
       "title": "AIPSeed - stockwatch.pl",
@@ -2172,12 +2204,12 @@
       "summary": "Deweloperzy coraz częściej szukają finansowania poza sektorem bankowym przede wszystkim dlatego, że potrzebują szybkich decyzji i większej elastyczności. Inwestycje nie czekają na zakończenie długich procedur, a atrakcyjne okazje zakupowe potrafią zniknąć w ciągu kilku dni. Dlatego alternatywne źródła kapitału stają się dla wielu firm sposobem na sprawne realizowanie kolejnych etapów przedsięwzięć."
     },
     {
-      "title": "Notowania INTSBCO97931 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/INTSBCO97931",
-      "date": "2026-06-23T14:40:03Z",
+      "title": "Transakcje INTLSPC98137 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/transakcje/INTLSPC98137",
+      "date": "2026-06-23T14:48:58Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania INTSBCO97931 INGBANK BiznesRadar."
+      "summary": "Transakcje INTLSPC98137 INGBANK BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2316,8 +2348,8 @@
       "lng": 19.5,
       "type": "cyber",
       "region": "Polska",
-      "description": "Aż 71% małych firm uważa, że cyberataki nie są dla nich zagrożeniem.",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/myslisz-ze-twoja-firma-jest-za-mala-dla-cyberprzestepcow-ten-blad-drogo-kosztuje-polski-biznes"
+      "description": "Poważna awaria systemu GSM-R spowodowała we wtorkowy wieczór wstrzymanie ruchu na całej sieci kolejowej w Niemczech.",
+      "url": "https://cyberdefence24.pl/technologie/kolejowy-paraliz-w-niemczech-podano-powod"
     },
     {
       "lat": 62.0,
@@ -2528,13 +2560,8 @@
     },
     {
       "name": "Iran",
-      "score": 62,
+      "score": 43,
       "reasons": [
-        {
-          "title": "\"Katastrofalny punkt zwrotny\". Ekspert o sytuacji Bliskiego Wschodu po wojnie z Iranem",
-          "url": "https://businessinsider.com.pl/gospodarka/bliski-wschod-odwroci-sie-od-usa-katastrofalny-punkt-zwrotny/y5m9m5e",
-          "source": "Business Insider Polska"
-        },
         {
           "title": "Cena ropy spada do poziomu sprzed wojny w Iranie, gdy coraz więcej tankowców wypływa z cieśniny Ormuz",
           "url": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
@@ -2544,6 +2571,11 @@
           "title": "Dubaj szykuje się na kolejne kryzysy. Firmy mają pomóc utrzymać pozycję globalnego hubu",
           "url": "https://businessinsider.com.pl/gospodarka/po-wojnie-z-iranem-dubaj-wzmacnia-gospodarke-wladze-stawiaja-na-biznes/9g4mq3z",
           "source": "Business Insider Polska"
+        },
+        {
+          "title": "JD Vance jest twarzą nękanego porozumienia z Iranem – czy to on jest odpowiedzialny za jego upadek?",
+          "url": "https://www.theguardian.com/us-news/2026/jun/25/jd-vance-iran-peace-deal",
+          "source": "The Guardian"
         }
       ]
     },
@@ -2798,58 +2830,58 @@
       24120.4,
       24737.25,
       24758.98,
-      25763.07,
+      25767.16,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26931.52,
+      26935.79,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27078.99,
+      27083.29,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27324.79,
+      27329.13,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27962.78,
+      27967.22,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27998.94,
+      28003.39,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28244.49,
+      28248.97,
       27354.94,
       27400.36,
       27412.11,
-      28647.32,
+      28651.87,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27905.37,
+      27909.8,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28085.72,
+      28090.18,
       27686.17,
       27404.78,
       27351.97,
       27846.5,
       27905.42,
       27661.43,
-      27808.92
+      27813.34
     ],
     "currency": "PLN"
   }
