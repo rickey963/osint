@@ -101,13 +101,16 @@ function updateCriticalTicker(alerts) {
     const a = document.getElementById('critical-alert-text-a');
     const b = document.getElementById('critical-alert-text-b');
     if (!track || !a || !b) return;
-    const text = (alerts && alerts.length ? alerts : ['Sytuacja stabilna - brak nowych alarmów krytycznych'])
-        .join('   •   ');
-    a.textContent = text;
-    b.textContent = text;
+    const items = (alerts && alerts.length ? alerts : [{ title: 'Sytuacja stabilna - brak nowych alarmów krytycznych', url: '' }]);
+    const plainText = items.map((al) => al.title).join('   •   ');
+    const html = items.map((al) => (al.url
+        ? `<a href="${al.url}" target="_blank" rel="noopener noreferrer">${al.title}</a>`
+        : `<span>${al.title}</span>`)).join('   •   ');
+    a.innerHTML = html;
+    b.innerHTML = html;
     // Slow, constant reading speed regardless of how much text there is -
     // longer alert lists get a longer loop instead of scrolling faster.
-    track.style.animationDuration = `${Math.max(25, text.length * 0.22)}s`;
+    track.style.animationDuration = `${Math.max(25, plainText.length * 0.22)}s`;
 }
 
 function buildSubcategoryColumn(id, label, colorClass, articles) {

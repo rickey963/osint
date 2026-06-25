@@ -531,11 +531,19 @@ def _all_text(sections, *keys):
 
 
 def build_critical_alerts(sections):
+    """Returns full article objects (not just titles) so the ticker can link
+    each headline back to its source - same as medint's fetch_data.py."""
     alerts = []
+    seen_titles = set()
     for item, text in _all_text(sections, 'poland', 'world_security', 'world_politics'):
+        if item['title'] in seen_titles:
+            continue
         if any(kw in text for kw in CRITICAL_KEYWORDS):
-            alerts.append(item['title'])
-    return alerts[:5] or ["Sytuacja stabilna - brak nowych alarmów krytycznych"]
+            alerts.append(item)
+            seen_titles.add(item['title'])
+    if not alerts:
+        return [{'title': 'Sytuacja stabilna - brak nowych alarmów krytycznych', 'url': '', 'source': ''}]
+    return alerts[:5]
 
 
 def build_map_features(sections):
