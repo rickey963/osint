@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T23:02:34Z",
+  "last_updated": "2026-06-25T23:03:06Z",
   "poland": [
     {
       "title": "Koniec lex deweloper. Jak zmieni się rynek nieruchomości od 1 lipca",
@@ -24,14 +24,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Daniel Castellani, były selekcjoner reprezentacji Polski siatkarzy, zmarł 25 czerwca 2026 roku w wieku 65 lat po walce z chorobą nowotworową. Informację o jego śmierci przekazała Argentyńska Federacja Piłki Siatkowej."
-    },
-    {
-      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
-      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
-      "date": "2026-06-25T21:28:40Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
     },
     {
       "title": "Piotr Rogucki świętuje 30 lat na scenie. Rusza projekt „Rogucki x 30” i trasa „Transmutacje”",
@@ -274,6 +266,14 @@
       "summary": "Atak nożownika w Specjalistycznym Szpitalu Wojewódzkim w Jastrzębiu-Zdroju. Reporter Polsat News Michał Mitoraj przekazał, że sprawcą był 19-latek, który ugodził nożem pacjentkę. W jej obronie stanęli ordynator oddziału i pielęgniarka, którzy zostali ranni."
     },
     {
+      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
+      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
+      "date": "2026-06-25T17:50:56Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
+    },
+    {
       "title": "Fala upałów w Niemczech. Lokalne władze wprowadziły zakazy",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-06-25/fala-upalow-w-niemczech-lokalne-wladze-zakazaly-zapalania-zniczy-na-cmentarzach/",
       "date": "2026-06-25T17:03:00Z",
@@ -338,14 +338,6 @@
       "summary": "Wielki koncert w Radomiu już w sobotę. Wystąpią znane gwiazdy Polskie Radio 24."
     },
     {
-      "title": "Rzeszów: WSPiA wdrożyła zaawansowany system VR do nauki kryminalistyki - Polska Agencja Prasowa SA",
-      "url": "https://infopakiety.pap.pl/aktualnosci/news,647315,rzeszow-wspia-wdrozyla-zaawansowany-system-vr-do-nauki-kryminalistyki.html",
-      "date": "2026-06-25T15:29:50Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Rzeszów: WSPiA wdrożyła zaawansowany system VR do nauki kryminalistyki Polska Agencja Prasowa SA."
-    },
-    {
       "title": "Prezes ukraińskiego banku centralnego: nasza waluta cieszy się zaufaniem - Polska Agencja Prasowa SA",
       "url": "https://www.pap.pl/aktualnosci/prezes-ukrainskiego-banku-centralnego-nasza-waluta-cieszy-sie-zaufaniem",
       "date": "2026-06-25T15:25:00Z",
@@ -400,6 +392,14 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Podczas upałów woda to podstawa, jednak lepiej nawadniają mleko i soki owoce Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "Costa: odbudowa Ukrainy wzmocni całą Europę - Polska Agencja Prasowa SA",
+      "url": "https://www.pap.pl/aktualnosci/urc-gdansk-costa-odbudowa-ukrainy-wzmocni-cala-europe",
+      "date": "2026-06-25T09:08:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Costa: odbudowa Ukrainy wzmocni całą Europę Polska Agencja Prasowa SA."
     }
   ],
   "world_security": [
@@ -766,20 +766,36 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualizacje na żywo z Wenezueli: Poszukiwanie ocalałych staje się pilniejsze 24 godziny po trzęsieniach ziemi",
+      "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
+      "date": "2026-06-25T22:58:25Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Władze podały, że w kolejnych trzęsieniach ziemi zginęło co najmniej 188 osób, a ponad 1500 zostało rannych. Mieszkańcy portowego miasta La Guaira oszacowali, że pod gruzami uwięzione zostały setki osób. Spodziewano się, że liczba ofiar wzrośnie."
+    },
+    {
+      "title": "Po trzęsieniach ziemi w Wenezueli mieszkańcy La Guaira szukają bliskich w gruzach",
+      "url": "https://www.nytimes.com/2026/06/25/world/americas/la-guaira-venezuela-earthquakes-rescue-survivors.html",
+      "date": "2026-06-25T22:58:23Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Zaginione dziecko. Chłopak w gruzach. W czwartek Wenezuelczycy nadal próbowali zrozumieć skalę zniszczeń w tym ciężko dotkniętym mieście."
+    },
+    {
+      "title": "Kryzys wywołany wirusem Ebola w Kongo: śledzenie kontaktów jest niebezpieczne – ostrzegają urzędnicy",
+      "url": "https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html",
+      "date": "2026-06-25T22:57:48Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Większość osób, u których wynik testu na obecność wirusa Ebola w Demokratycznej Republice Konga jest pozytywny, nie jest obserwowana przez pracowników służby zdrowia, co sugeruje, że śledzenie kontaktów zakaźnych pozostaje niebezpiecznie opóźnione."
+    },
+    {
       "title": "Wenezuelczycy szukają gruzów w poszukiwaniu ocalałych po dwóch silnych trzęsieniach, w których zginęło co najmniej 188 osób – AP News",
       "url": "https://apnews.com/article/venezuela-earthquake-caracas-rodriguez-aid-0a62e6fc9feb5202a750c4fbb11a6aec",
       "date": "2026-06-25T22:52:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Wenezuelczycy szukają gruzów w poszukiwaniu ocalałych po 2 silnych trzęsieniach, które zabiły co najmniej 188 AP News."
-    },
-    {
-      "title": "Aktualizacje na żywo z Wenezueli: Poszukiwanie ocalałych staje się pilniejsze 24 godziny po trzęsieniach ziemi",
-      "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
-      "date": "2026-06-25T22:46:36Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Władze podały, że w kolejnych trzęsieniach ziemi zginęło co najmniej 188 osób, a ponad 1500 zostało rannych. Mieszkańcy portowego miasta La Guaira oszacowali, że pod gruzami uwięzione zostały setki osób. Spodziewano się, że liczba ofiar wzrośnie."
     },
     {
       "title": "Sąd Najwyższy pozwala administracji Trumpa zakończyć ochronę prawną Haitańczyków i Syryjczyków – AP News",
@@ -796,6 +812,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Zależy to od wody, powietrza i tego, jak szybko ratownikom uda się odnaleźć ludzi."
+    },
+    {
+      "title": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek – AP News",
+      "url": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-25-2026-862164c2aecbdc376dea434198eaf75f",
+      "date": "2026-06-25T22:34:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek AP News."
     },
     {
       "title": "Iran uderza w statek w cieśninie Ormuz, utrudniając wysiłki mające na celu przywrócenie ruchu",
@@ -886,28 +910,12 @@
       "summary": "Ekstremalne upały, które tłumią Europę, udaremniły Tydzień Klimatyczny w Londynie."
     },
     {
-      "title": "Po trzęsieniach ziemi w Wenezueli mieszkańcy La Guaira szukają bliskich w gruzach",
-      "url": "https://www.nytimes.com/2026/06/25/world/americas/la-guaira-venezuela-earthquakes-rescue-survivors.html",
-      "date": "2026-06-25T19:06:59Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Zaginione dziecko. Chłopak w gruzach. Wenezuelczycy w tym najbardziej dotkniętym kryzysem mieście stwierdzili, że potrzebują dodatkowej pomocy, aby uratować zaginionych."
-    },
-    {
       "title": "Władze zamknęły stolicę Kenii, aby zablokować protesty",
       "url": "https://www.nytimes.com/2026/06/25/world/africa/kenya-protest-nairobi-shutdown.html",
       "date": "2026-06-25T18:12:08Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Protest, będący corocznym wydarzeniem, stał się wizytówką rosnącej siły politycznej młodzieży w Kenii."
-    },
-    {
-      "title": "Wenezuelczycy desperacko poszukują zaginionych krewnych w terenie i w Internecie.",
-      "url": "https://www.nytimes.com/2026/06/25/world/americas/survivor-search-venezuela-earthquake.html",
-      "date": "2026-06-25T17:44:56Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Przyjaciele i rodzina osób znajdujących się w strefie trzęsienia ziemi korzystali z mediów społecznościowych i udali się do dotkniętych dzielnic, czekając na oficjalną reakcję ratunkową."
     },
     {
       "title": "Sąd Najwyższy uchyla hawajskie prawo wymagające pozwolenia na noszenie broni w sklepach i hotelach – AP News",
@@ -932,14 +940,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "UE udostępnia pakiet pożyczek o wartości 3 miliardów euro na odbudowę Ukrainy w ramach dwuletniego zobowiązania AP News."
-    },
-    {
-      "title": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek – AP News",
-      "url": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-25-2026-862164c2aecbdc376dea434198eaf75f",
-      "date": "2026-06-25T06:52:50Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek AP News."
     },
     {
       "title": "Dziesiątki stanów mogą ponieść nowe koszty z powodu wysokiego poziomu błędów w pomocy żywnościowej SNAP – AP News",
@@ -2076,20 +2076,20 @@
       "summary": "Największe firmy świata według \"Forbesa\". Wcale nie dominuje AI, a ta branża Forbes."
     },
     {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/archiwum/2009-10-07,1",
+      "date": "2026-06-25T12:17:56Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
       "title": "Niemcy chcą zbudować wielką armię. Coraz więcej kandydatów do Bundeswehry - Forsal.pl",
       "url": "https://forsal.pl/swiat/niemcy/artykuly/11267726,niemcy-chca-zbudowac-wielka-armie-coraz-wiecej-kandydatow-do-bundeswehry.html",
       "date": "2026-06-25T12:12:12Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Niemcy chcą zbudować wielką armię. Coraz więcej kandydatów do Bundeswehry Forsal.pl."
-    },
-    {
-      "title": "Katastrofa awionetki w Warszawie. Spadła na plac manewrowy. Są ofiary - Forsal.pl",
-      "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11267720,katastrofa-awionetki-w-warszawie-spadla-na-plac-manewrowy-sa-ofiary.html",
-      "date": "2026-06-25T12:05:49Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Katastrofa awionetki w Warszawie. Spadła na plac manewrowy. Są ofiary Forsal.pl."
     },
     {
       "title": "Proacta zawarła list intencyjny z Uniwersyteckim Centrum Zdrowia Kobiety i Noworodka WUM - BiznesRadar",
@@ -2540,8 +2540,8 @@
       "lng": 21.76,
       "type": "conflict",
       "region": "DR Kongo",
-      "description": "Kongo zaostrza zasady podróżowania po tym, jak przypadek wirusa Ebola dotarł do Francji Reuters.",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congo-tightens-travel-rules-after-ebola-case-reaches-france-2026-06-25/"
+      "description": "Większość osób, u których wynik testu na obecność wirusa Ebola w Demokratycznej Republice Konga jest pozytywny, nie jest obserwowana przez pracowników służby zdrowia, co sugeruje, że śledzenie kontaktów zakaźnych pozostaje niebezpiecznie opóźnione.",
+      "url": "https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html"
     },
     {
       "lat": 34.8,
@@ -2571,20 +2571,20 @@
           "source": "Polskie Radio 24"
         },
         {
-          "title": "Po trzęsieniach ziemi w Wenezueli mieszkańcy La Guaira szukają bliskich w gruzach",
-          "url": "https://www.nytimes.com/2026/06/25/world/americas/la-guaira-venezuela-earthquakes-rescue-survivors.html",
-          "source": "The New York Times"
-        },
-        {
           "title": "Międzynarodowa pomoc dociera do Wenezueli po śmiertelnym trzęsieniu ziemi – Reuters",
           "url": "https://www.reuters.com/world/americas/international-aid-heads-venezuela-after-deadly-earthquake-2026-06-25/",
           "source": "Reuters"
+        },
+        {
+          "title": "Trzęsienia ziemi w Wenezueli: „intensywne” poszukiwania ocalałych – liczba ofiar śmiertelnych wzrosła do 188 – tak się stało",
+          "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
+          "source": "The Guardian"
         }
       ]
     },
     {
       "name": "Iran",
-      "score": 26,
+      "score": 29,
       "reasons": [
         {
           "title": "Trump prosi Kongres o miliardy na wojnę z Iranem po napięciach z Republikanami",
@@ -2605,7 +2605,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 15,
+      "score": 17,
       "reasons": [
         {
           "title": "Minister Żurek: Ukraina walczy z korupcją mimo trwającej wojny - Polska Agencja Prasowa SA",
@@ -2616,6 +2616,17 @@
           "title": "Klimczak: Polska chce być najważniejszym partnerem lotniczym Ukrainy po wojnie - Polska Agencja Prasowa SA",
           "url": "https://www.pap.pl/aktualnosci/klimczak-polska-chce-byc-najwazniejszym-partnerem-lotniczym-ukrainy-po-wojnie",
           "source": "PAP"
+        }
+      ]
+    },
+    {
+      "name": "DR Kongo",
+      "score": 3,
+      "reasons": [
+        {
+          "title": "Kryzys wywołany wirusem Ebola w Kongo: śledzenie kontaktów jest niebezpieczne – ostrzegają urzędnicy",
+          "url": "https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html",
+          "source": "The New York Times"
         }
       ]
     }
@@ -2833,51 +2844,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25655.37,
+      25659.46,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26818.93,
+      26823.2,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26965.78,
+      26970.08,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27210.56,
+      27214.9,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27845.87,
+      27850.31,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27881.89,
+      27886.34,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28126.4,
+      28130.89,
       27354.94,
       27400.36,
       27412.11,
-      28527.56,
+      28532.1,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27788.71,
+      27793.14,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27968.3,
+      27972.76,
       27686.17,
       27404.78,
       27351.97,
@@ -2885,7 +2896,7 @@
       27905.42,
       27661.43,
       27749.69,
-      27689.91
+      27694.33
     ],
     "currency": "PLN"
   }
