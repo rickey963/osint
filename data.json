@@ -1,21 +1,45 @@
 {
-  "last_updated": "2026-06-25T11:57:02Z",
+  "last_updated": "2026-06-25T12:06:36Z",
   "poland": [
     {
-      "title": "Katastrofa awionetki na warszawskim Bemowie",
+      "title": "Odpowiedzialność to kompetencja biegłego rewidenta",
+      "url": "https://pro.rp.pl/esg-w-praktyce/art44692111-odpowiedzialnosc-to-kompetencja-bieglego-rewidenta",
+      "date": "2026-06-25T11:53:34Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "O zaufaniu do informacji, ESG, edukacji i odpowiedzialności w sprawozdawczości z Joanną Chwaścikowską-Karwacką, wiceprezeską Krajowej Rady Biegłych Rewidentów, rozmawia Anna Mizerska."
+    },
+    {
+      "title": "Katastrofa awionetki w Warszawie. Samolot stanął w płomieniach",
+      "url": "https://www.rp.pl/wypadki/art44693771-katastrofa-awionetki-w-warszawie-samolot-stanal-w-plomieniach",
+      "date": "2026-06-25T11:51:58Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 2,
+      "summary": "Awionetka rozbiła się na warszawskim Bemowie podczas próby lądowania. Maszyna nie doleciała do pasa i runęła na ziemię w pobliżu ośrodka szkolenia kierowców przy ul. Powstańców Śląskich 127."
+    },
+    {
+      "title": "TFG: Turysto, nie kupuj wycieczki i nie podróżuj w ciemno. Pięć kroków do bezpiecznych wakacji",
+      "url": "https://turystyka.rp.pl/biura-podrozy/art44693651-tfg-turysto-nie-kupuj-wycieczki-i-nie-podrozuj-w-ciemno-piec-krokow-do-bezpiecznych-wakacji",
+      "date": "2026-06-25T11:51:15Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Turystyczny Fundusz Gwarancyjny i Rzecznik Finansowy przygotowali listę najważniejszych zasad dla podróżnych. Ich przestrzeganie może uchronić przed stratą pieniędzy i problemami za granicą."
+    },
+    {
+      "title": "Instytut Pileckiego pod lupą. Szwajcarski współpracownik w śledztwie Pandora Papers",
+      "url": "https://www.rp.pl/polityka/art44690641-instytut-pileckiego-pod-lupa-szwajcarski-wspolpracownik-w-sledztwie-pandora-papers",
+      "date": "2026-06-25T11:48:34Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Prokurentem szwajcarskiego oddziału Instytutu Pileckiego został prezes kancelarii prawnej, którego Pandora Papers powiązała z Rosjanami wspierającymi Władimira Putina. – Nie ma jasnych procedur, jak w takiej sytuacji reagować – mówi nam jeden z prawników."
+    },
+    {
+      "title": "Katastrofa małego samolotu na warszawskim Bemowie",
       "url": "https://wiadomosci.gazeta.pl/polska/7,198072,32877644,katastrofa-awionetki-na-warszawskim-bemowie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-06-25T11:43:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
-      "summary": "Na warszawskim Bemowie rozbiła się awionetka - informuje Polsat News."
-    },
-    {
-      "title": "PKP Cargo łagodzi warunki emisji. Drobny akcjonariusz wychodzi na tym lepiej",
-      "url": "https://www.rp.pl/biznes/art44693441-pkp-cargo-lagodzi-warunki-emisji-drobny-akcjonariusz-wychodzi-na-tym-lepiej",
-      "date": "2026-06-25T11:42:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Komunikat ESPI z 23 czerwca 2026 r. zmienia obraz, który inwestorzy PKP Cargo poznali miesiąc wcześniej. Pierwotny plan emisji akcji, ogłoszony 29 maja, został istotnie przebudowany i niemal każda z wprowadzonych zmian działa na korzyść akcjonariuszy mniejszościowych."
+      "summary": "Na warszawskim Bemowie rozbił się mały samolot. W katastrofie zginęły dwie osoby - informuje TVN 24."
     },
     {
       "title": "Konferencja na rzecz Odbudowy Ukrainy w Gdańsku. Tusk: Przyszłość możemy zbudować tylko na prawdzie",
@@ -24,6 +48,14 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Odbudowa to także to, co w nas. Ukraina - i słusznie - chce być częścią zjednoczonej Europy; zawsze warunkiem prawdziwego, pełnego zjednoczenia było rozumienie własnej historii i autentyczna zdolność i gotowość do pojednania - mówił Donald Tusk w Gdańsku."
+    },
+    {
+      "title": "PKP Cargo łagodzi warunki emisji. Drobny akcjonariusz wychodzi na tym lepiej",
+      "url": "https://www.rp.pl/biznes/art44693441-pkp-cargo-lagodzi-warunki-emisji-drobny-akcjonariusz-wychodzi-na-tym-lepiej",
+      "date": "2026-06-25T11:42:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Komunikat ESPI z 23 czerwca 2026 r. zmienia obraz, który inwestorzy PKP Cargo poznali miesiąc wcześniej. Pierwotny plan emisji akcji, ogłoszony 29 maja, został istotnie przebudowany i niemal każda z wprowadzonych zmian działa na korzyść akcjonariuszy mniejszościowych."
     },
     {
       "title": "Ponad 580 mld dol. na odbudowę Ukrainy. Szef Banku Światowego wspomina o Polsce",
@@ -42,7 +74,7 @@
       "summary": "Cyberbezpieczeństwo w dobie AI to nieustanny wyścig zbrojeń. O tym, dlaczego manipulacja konsumentem pozostaje najskuteczniejszą bronią przestępców oraz jak biometria behawioralna zmienia zasady gry mówi Przemysław Kulesza, dyrektor Departamentu Cyberbezpieczeństwa Alior Banku."
     },
     {
-      "title": "Amerykański umysł nie potrafi zrozumieć europejskiej niechęci do klimatyzacji",
+      "title": "Dlaczego Europa ma tak mało klimatyzatorów? To nie tylko \"upór\"",
       "url": "https://businessinsider.com.pl/lifestyle/dlaczego-europa-ma-tak-malo-klimatyzatorow-w-usa-nie-moga-tego-pojac/ytdjclr",
       "date": "2026-06-25T11:33:37Z",
       "source": "Business Insider Polska",
@@ -88,38 +120,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Ryzyko w biznesie nie wiąże się już z tradycyjnie rozumianymi kategoriami. Ostatnie lata pokazały, że przedsiębiorstwa powinny na nowo zdefiniować zarówno czynniki, jakie mogą oddziaływać na prowadzoną przez nich działalność, jak i ustalić granice, poza którymi konieczna jest reakcja."
-    },
-    {
-      "title": "ESG pod wpływem zmian regulacyjnych",
-      "url": "https://pro.rp.pl/esg-w-praktyce/art44692061-esg-pod-wplywem-zmian-regulacyjnych",
-      "date": "2026-06-25T11:31:05Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Drugi rok raportowania ESG zgodnie ze standardami ESRS przyniósł większą dojrzałość spółek i audytorów, ale nie mniej wyzwań. Zamiast problemów z wdrożeniem na pierwszy plan wysunęły się oczekiwania nadzorcze, jakość danych i proces atestacji."
-    },
-    {
-      "title": "Praktyczna twarz litery S w ESG",
-      "url": "https://pro.rp.pl/esg-w-praktyce/art44692121-praktyczna-twarz-litery-s-w-esg",
-      "date": "2026-06-25T11:30:52Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Stakeholder management nie jest miękkim dodatkiem do projektu. Z perspektywy grup kapitałowych, które prowadzą inwestycje za miliardy euro w kraju i za granicą, jest realnym zarządzaniem ryzykiem w biznesie."
-    },
-    {
-      "title": "Od Zatoki Destrukcji po ulicę Freta. Nauka bez granic",
-      "url": "https://pro.rp.pl/esg-w-praktyce/art44692091-od-zatoki-destrukcji-po-ulice-freta-nauka-bez-granic",
-      "date": "2026-06-25T11:30:37Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Co ma wspólnego Maria Skłodowska-Curie z Antarktyką?"
-    },
-    {
-      "title": "Transformacja energetyczna w sektorze MŚP",
-      "url": "https://pro.rp.pl/esg-w-praktyce/art44691981-transformacja-energetyczna-w-sektorze-msp",
-      "date": "2026-06-25T11:30:17Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Transformacja energetyczna przez wiele lat była postrzegana głównie jako element polityki klimatycznej i temat zarezerwowany dla dużych firm przemysłowych lub sektora energetycznego."
     },
     {
       "title": "Sprawa \"Skóry\". Sąd Najwyższy zdecydował",
@@ -404,20 +404,36 @@
   ],
   "world_security": [
     {
-      "title": "Trzęsienia ziemi w Wenezueli: „intensywne” poszukiwania ocalałych – liczba ofiar śmiertelnych wzrosła do 164 – najnowsze aktualizacje",
-      "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
-      "date": "2026-06-25T11:28:43Z",
-      "source": "The Guardian",
+      "title": "Ryanair „niechętnie” zgadza się, aby rodzice mogli bezpłatnie siedzieć z dziećmi",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-25T11:47:37Z",
+      "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Delcy Rodríguez powiedziała, że władze przenoszą ekipy ratownicze z innych części kraju do najbardziej dotkniętego obszaru La Guaira. Wenezuela dotknięta podwójnym trzęsieniem ziemi, ponieważ eksperci ostrzegają o dużej liczbie ofiar śmiertelnych. Czy trzęsienia ziemi w Wenezueli dotknęły Cię? Wolontariusze, lekarze i krewni ofiar udali się do rejonu Altamira w Caracas, mając nadzieję, że uda im się pomóc ocalałym z gruzów zawalonych budynków. „Mieszkam daleko [ale]… Przyjechałem tu na motocyklu najszybciej, jak mogłem” – powiedział José Morillo, gdy dojechał do bloku zwanego Residencias Obelisco. Kontynuuj czytanie..."
+      "summary": "Wcześniej linia lotnicza zazwyczaj pobierała od rodziców opłatę w wysokości 8 funtów za każdą podróż w jedną stronę, jeśli chodzi o siedzenie z małymi dziećmi."
     },
     {
-      "title": "Brytyjskie Biuro Meteorologiczne przedłuża ostrzeżenie o czerwonych upałach do piątkowej nocy, gdy w Europie panują ekstremalne upały – na żywo",
+      "title": "Trzęsienia ziemi w Wenezueli: „intensywne” poszukiwania ocalałych – liczba ofiar śmiertelnych wzrosła do 164 – najnowsze aktualizacje",
+      "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
+      "date": "2026-06-25T11:46:27Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Delcy Rodríguez powiedziała, że władze przenoszą ekipy ratownicze z innych części kraju do najbardziej dotkniętego obszaru La Guaira. Wenezuela dotknięta podwójnym trzęsieniem ziemi, ponieważ eksperci ostrzegają o dużej liczbie ofiar śmiertelnych. Czy trzęsienia ziemi w Wenezueli dotknęły Ciebie? Wolontariusze, lekarze i krewni ofiar udali się do rejonu Altamira w Caracas, mając nadzieję, że uda im się pomóc ocalałym z gruzów zawalonych budynków. „Mieszkam daleko [ale]… Przyjechałem tu na motocyklu najszybciej, jak mogłem” – powiedział José Morillo, gdy dojechał do bloku zwanego Residencias Obelisco. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Brytyjskie Biuro Meteorologiczne przedłuża ostrzeżenie przed czerwonymi upałami do piątkowej nocy, gdy w Europie panują ekstremalne upały – na żywo",
       "url": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates",
-      "date": "2026-06-25T11:27:52Z",
+      "date": "2026-06-25T11:46:03Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Najwyższe temperatury w Wielkiej Brytanii spodziewane są we wschodniej i południowo-wschodniej Anglii, podczas gdy w Europie wzrosła liczba zgonów spowodowanych falą upałów. Farryn StockOver w Wielkiej Brytanii spółka South East Water ogłosiła tymczasowy zakaz korzystania z węży w hrabstwie Kent w związku z rosnącym obciążeniem wynikającym z trwającej fali upałów (dzisiaj 31°C, jutro 33°C). „Aby zabezpieczyć wspólne dostawy i zapobiec nagłej utracie wody w jakichkolwiek domach, ze smutkiem musimy poprosić nasze społeczności, aby natychmiast nie korzystały z węży. Jest nam niezmiernie przykro z powodu zakłóceń. przyczyn i jesteśmy niesamowicie wdzięczni wszystkim, którzy pomagają nam chronić wodę w Kent”. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Wenezuela ogłasza stan wyjątkowy po bliźniaczych, śmiertelnych trzęsieniach ziemi",
+      "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
+      "date": "2026-06-25T11:40:44Z",
+      "source": "The Guardian",
+      "confirmed_by": 2,
+      "summary": "Drugie trzęsienie o sile 7,5 było najpotężniejsze, jakie nawiedziło kraj od 1900 r., powodując zawalenie budynków w stolicy Trzęsienie ziemi w Wenezueli – najnowsze aktualizacje Tymczasowy przywódca Wenezueli Delcy Rodríguez ogłosił stan wyjątkowy po tym, jak w kraj nawiedziły dwa potężne trzęsienia ziemi, w wyniku których zawaliły się dziesiątki budynków i zginęły co najmniej 164 osoby, a liczba ofiar, które według obaw mogą znacznie wzrosnąć. Rodríguez powiedział, że 971 osób zostało rannych, a spodziewano się większej liczby ofiar. Dwa silne trzęsienia ziemi miały miejsce w odstępie minuty w środę krótko po godzinie 18:00 czasu lokalnego. Według amerykańskiej służby geologicznej (USGS) pierwsza miała magnitudę 7,2, a druga 7,5 i była najpotężniejsza, jaka uderzyła w ten kraj od 1900 roku."
     },
     {
       "title": "Policja zamyka kluczowe drogi w Nairobi, gdy Kenijczycy maszerują, by uczcić pamięć ofiar protestów",
@@ -426,6 +442,14 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Protestujący domagają się sprawiedliwości za ponad 80 osób zabitych podczas demonstracji w 2024 r. i ubiegłorocznych protestów rocznicowych."
+    },
+    {
+      "title": "Niemiecki Merck rozwija działalność w zakresie nauk przyrodniczych dzięki umowie Bio-Techne o wartości 11 miliardów dolarów – Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/germanys-merck-buy-bio-techne-73-per-share-2026-06-25/",
+      "date": "2026-06-25T11:12:03Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Niemiecki Merck wzmacnia działalność w zakresie nauk przyrodniczych dzięki transakcji Bio-Techne o wartości 11 miliardów dolarów Reuters."
     },
     {
       "title": "Lotniska w Rzymie grożą zawieszeniem nowego systemu paszportów UE, aby uniknąć letniej „katastrofy”",
@@ -468,6 +492,14 @@
       "summary": "Cło na import poza nowym kontyngentem ulegnie podwojeniu, odzwierciedlając podobne zmiany w limitach UE. Biznes na żywo – najnowsze aktualizacje Rząd Wielkiej Brytanii zmniejszy o połowę ilość dozwolonego bezcłowego importu stali, próbując przeciwdziałać globalnej nadpodaży taniego chińskiego metalu i wzmocnić oblężony lokalny przemysł. Nowe „zabezpieczenia” zostaną wprowadzone 1 lipca i zbiegną się z podobnymi nowymi limitami wprowadzonymi przez UE w tych samych celach. Kontynuuj czytanie..."
     },
     {
+      "title": "IBM chwali nowy, przełomowy projekt „bloków mieszkalnych” w zakresie ultramałych chipów",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-25T10:04:43Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "IBM twierdzi, że stworzył pierwszą na świecie znaną technologię chipów poniżej 1 nanometra, ale minie trochę czasu, zanim będzie gotowy do produkcji."
+    },
+    {
       "title": "Z raportu wynika, że ​​centra danych borykają się ze wzrostem liczby globalnych spraw prawnych związanych z klimatem",
       "url": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
       "date": "2026-06-25T10:03:54Z",
@@ -476,12 +508,20 @@
       "summary": "Analiza LSE wskazuje na postępowania sądowe związane ze źródłami energii, zużyciem wody i zanieczyszczeniem powietrza. Z raportu wynika, że rozprzestrzenianie się centrów danych i sztuczna inteligencja coraz częściej wysuwa się na pierwszy plan w sporach dotyczących ochrony środowiska na całym świecie, od Chile po Irlandię. Analiza około 3600 pozwów związanych z klimatem złożonych od 2015 r. wykazała, że najnowszy roczny przegląd postępowań klimatycznych przeprowadzony przez London School of Economics (LSE) wykazał rosnącą liczbę spraw kwestionujących źródła energii, zużycie wody i zanieczyszczenie powietrza centra danych, z których wszystkie mają powiązane skutki klimatyczne. Kontynuuj czytanie..."
     },
     {
-      "title": "Usługi przetwarzania w chmurze Amazon i Microsoft powinny podlegać unijnym przepisom technologicznym, twierdzą unijni organy regulacyjne – Reuters",
+      "title": "Macron twierdzi, że francuska marynarka wojenna przechwyciła kolejny rosyjski tankowiec „floty cieni” – Reuters",
+      "url": "https://www.reuters.com/world/french-navy-has-intercepted-another-russian-shadow-fleet-tanker-macron-says-2026-06-25/",
+      "date": "2026-06-25T09:51:57Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Macron twierdzi, że francuska marynarka wojenna przechwyciła kolejny rosyjski tankowiec „floty cieni”, twierdzi Reuters."
+    },
+    {
+      "title": "Usługi przetwarzania w chmurze Amazon i Microsoft powinny podlegać unijnym przepisom technologicznym, twierdzą unijni regulatorzy – Reuters",
       "url": "https://www.reuters.com/business/retail-consumer/amazon-microsoft-cloud-computing-services-should-fall-under-eu-tech-rules-eu-2026-06-25/",
       "date": "2026-06-25T09:50:57Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Usługi przetwarzania w chmurze Amazon i Microsoft powinny podlegać przepisom technologicznym UE, twierdzą unijni organy regulacyjne Reuters."
+      "summary": "Usługi przetwarzania w chmurze Amazon i Microsoft powinny podlegać unijnym przepisom technologicznym, twierdzą unijne organy regulacyjne Reuters."
     },
     {
       "title": "JD Vance jest twarzą nękanego porozumienia z Iranem – czy to on jest odpowiedzialny za jego upadek?",
@@ -489,7 +529,7 @@
       "date": "2026-06-25T09:46:07Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Wiceprezydent, który prowadzi niszczące porozumienie pokojowe mające położyć kres rodzajowi wojny, któremu sprzeciwiał się w przeszłości, pozostaje z trudem. JD Vance podjął największe ryzyko swojej wiceprezydenta, stając się twarzą porozumienia o zawieszeniu broni z Iranem – chwiejnego porozumienia, które już wydaje się rozpadać w szwach. Jednak po miesiącach spędzonych w zawieszeniu z powodu wojny może to być dla niego najlepsza szansa, aby ponownie stanąć na nogi. Kontynuuj czytanie..."
+      "summary": "Wiceprezydent, który prowadzi niszczące porozumienie pokojowe mające położyć kres rodzajowi wojny, któremu sprzeciwiał się w przeszłości, zostaje z trudem. JD Vance podjął największe ryzyko swojej wiceprezydenta, stając się twarzą porozumienia o zawieszeniu broni z Iranem – chwiejnego porozumienia, które już wydaje się rozpadać w szwach. Jednak po miesiącach spędzonych w zawieszeniu z powodu wojny może to być dla niego najlepsza szansa, aby ponownie stanąć na nogi. Kontynuuj czytanie..."
     },
     {
       "title": "Tysiące ludzi obawiało się śmierci po dwóch dużych trzęsieniach ziemi, które nawiedziły Wenezuelę – Reuters",
@@ -514,14 +554,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "EKSKLUZYWNIE: Irak rozważy wszystkie opcje, jeśli kwoty OPEC nie zostaną zwiększone, rozważa wyjście, podają źródła Reuters."
-    },
-    {
-      "title": "Stolica Wenezueli dotknięta podwójnym trzęsieniem ziemi – eksperci ostrzegają przed dużą liczbą ofiar śmiertelnych",
-      "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
-      "date": "2026-06-25T09:25:38Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Delcy Rodríguez ogłasza stan wyjątkowy po zawaleniu się budynków w Caracas i wstrząsach odczuwalnych w Kolumbii Trzęsienie ziemi w Wenezueli – najnowsze aktualizacje Tymczasowy przywódca Wenezueli, Delcy Rodríguez, ogłosił stan wyjątkowy po tym, jak w kraj nawiedziły dwa potężne trzęsienia ziemi, w wyniku których zawaliły się dziesiątki budynków i zginęły co najmniej 32 osoby, a eksperci przewidują, że liczba ofiar śmiertelnych może znacząco wzrosnąć. Rodríguez powiedział, że setki osób zostało rannych i spodziewano się większej liczby ofiar. Dwa silne trzęsienia ziemi miały miejsce w odstępie minuty. Według amerykańskiej służby geologicznej (USGS) pierwsza miała magnitudę 7,2, a druga 7,5, co czyni ją najpotężniejszą, jaka uderzyła w ten kraj od 1900 roku."
     },
     {
       "title": "Izrael i Liban zaprzeczają, jakoby Izrael wycofał się z części południowego Libanu – Reuters",
@@ -585,15 +617,7 @@
       "date": "2026-06-25T07:36:56Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Ten blog jest już zamknięty. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami.Mike Burgess mówi, że naprawdę zaniepokoi się poziomem, do jakiego niektóre państwa narodowe, takie jak Iran, mogą posunąć się, aby wyrządzić krzywdę Australijczykom. W rozmowie z ABC RN Breakfast szef szpiega mówi, że poziom bezpieczeństwa pogarsza się i możemy być świadkami śmierci Australijczyka z rąk obcego rządu. Ukierunkowane zabójstwo… może to być zabity prominentny Australijczyk lub zwykli Australijczycy zajmujący się swoimi sprawami. Dlatego naprawdę niepokoję się działaniami niektórych państw narodowych, w szczególności Iranu, oraz poziomem, na jaki się one zajdą. Dlatego opisujemy nasze środowisko bezpieczeństwa jako zdegradowane, ponieważ niektóre państwa narodowe sięgną dna i osiągną ekstremalny poziom, który uznalibyśmy za nie do przyjęcia i okropny. W tej chwili, gdy mamy do czynienia z dynamicznym, zróżnicowanym zintegrowanym środowiskiem bezpieczeństwa, naprawdę się tym niepokoimy. Mówienie o wielokulturowej Australii to po prostu rozmowa o współczesnej Australii, rozmowa o tym, kim jesteśmy i kim zawsze byliśmy."
-    },
-    {
-      "title": "Reeves z Wielkiej Brytanii twierdzi, że Burnham jako premier zapewniłby stabilność – Reuters",
-      "url": "https://www.reuters.com/world/uk/uks-reeves-backs-burnham-prime-minister-defers-own-role-2026-06-25/",
-      "date": "2026-06-25T06:33:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Reeves z Wielkiej Brytanii twierdzi, że Burnham jako premier zapewniłby stabilność."
+      "summary": "Ten blog jest już zamknięty. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Mike Burgess mówi, że naprawdę zaniepokojony jest poziomem, do jakiego niektóre państwa narodowe, takie jak Iran, mogą wyrządzić krzywdę Australijczykom. W rozmowie z ABC RN Breakfast szef szpiega mówi, że poziom bezpieczeństwa pogarsza się i możemy być świadkami śmierci Australijczyka z rąk obcego rządu. Ukierunkowane zabójstwo… może to być zabity prominentny Australijczyk lub zwykli Australijczycy zajmujący się swoimi sprawami. Dlatego naprawdę niepokoję się działaniami niektórych państw narodowych, w szczególności Iranu, oraz poziomem, na jaki się one zajdą. Dlatego opisujemy nasze środowisko bezpieczeństwa jako zdegradowane, ponieważ niektóre państwa narodowe sięgną dna i osiągną ekstremalny poziom, który uznalibyśmy za nie do przyjęcia i okropny. W tej chwili, gdy mamy do czynienia z dynamicznym, zróżnicowanym zintegrowanym środowiskiem bezpieczeństwa, naprawdę się tym niepokoimy. Mówienie o wielokulturowej Australii to po prostu rozmowa o współczesnej Australii, rozmowa o tym, kim jesteśmy i kim zawsze byliśmy."
     },
     {
       "title": "Tajlandia stara się aresztować zbiegłego chińskiego biznesmena w związku z nielegalnym wydobywaniem kryptowalut – Reuters",
@@ -652,15 +676,7 @@
       "summary": "EKSKLUZYWNIE: amerykańska firma zbrojeniowa Anduril prowadzi rozmowy dotyczące fabryki Nissana, która będzie produkować drony w Japonii, podają źródła Reuters."
     },
     {
-      "title": "Rubio podczas podróży po Bliskim Wschodzie twierdzi, że jakakolwiek umowa z Iranem zapewni bezpieczeństwo sojusznikom z Zatoki Perskiej – Reuters",
-      "url": "https://www.reuters.com/world/middle-east/rubio-visits-bahrain-seeking-gulf-backing-iran-deal-2026-06-25/",
-      "date": "2026-06-25T05:01:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Rubio przebywający na Bliskim Wschodzie twierdzi, że jakakolwiek umowa z Iranem zapewni bezpieczeństwo sojusznikom z Zatoki Perskiej Reuters."
-    },
-    {
-      "title": "„To jest jak piec”: walka Francuzów z domami z pułapkami cieplnymi w obliczu rosnących nierówności klimatycznych",
+      "title": "„To jest jak piec”: walka Francji z domami z pułapkami cieplnymi w obliczu rosnących nierówności klimatycznych",
       "url": "https://www.theguardian.com/world/2026/jun/25/french-heat-trap-homes-climate-inequality-grows",
       "date": "2026-06-25T05:00:04Z",
       "source": "The Guardian",
@@ -673,7 +689,7 @@
       "date": "2026-06-25T04:45:57Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Oczekuje się, że Nine Entertainment zerwie współpracę z gospodarzem programu Today, ale nie podało jeszcze szczegółów rozstania. Śledź nasz australijski blog z aktualnościami, aby uzyskać najnowsze aktualizacje. Otrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Karl Stefanovic nie pojawi się w swoim zaplanowanym na piątkowe popołudnie programie radiowym z Eddiem McGuire'em po powszechnej krytyce jego wywiadu podcastowego z brytyjskim działaczem skrajnie prawicowym Tommym Robinsonem. Stefanovic dopiero niedawno podpisał umowę z ARN Media na współgospodarza Długiego weekendu nadawanych w całym kraju na antenie Gold FM, ale Guardian Australia rozumie, że groźba bojkotu reklamowego doprowadziła do rewizji umowy. Kontynuuj czytanie..."
+      "summary": "Oczekuje się, że Nine Entertainment zerwie współpracę z gospodarzem programu Today, ale nie podało jeszcze szczegółów rozstania. Śledź nasz australijski blog z aktualnościami, aby uzyskać najnowsze aktualizacje. Otrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Karl Stefanovic nie pojawi się w swoim zaplanowanym na piątkowe popołudnie programie radiowym z Eddiem McGuire'em po powszechnej krytyce jego wywiadu podcastowego z brytyjskim działaczem skrajnie prawicowym Tommym Robinsonem. Stefanovic dopiero niedawno podpisał umowę z ARN Media na współgospodarza Długiego weekendu nadawanych na całym świecie w Gold FM, ale Guardian Australia rozumie, że groźba bojkotu reklamowego doprowadziła do rewizji umowy. Kontynuuj czytanie..."
     },
     {
       "title": "Anthropic oskarża chińskiego rywala Alibabę o nielegalne wydobywanie możliwości sztucznej inteligencji",
@@ -746,22 +762,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Dziesiątki milionów ludzi zmagają się z potwornymi temperaturami, które doprowadziły do ​​wydania czerwonych alertów upałów na całym kontynencie."
-    },
-    {
-      "title": "Szef ONZ ds. energii nuklearnej mówi, że inspektorzy odwiedzą miejsca w Iranie w ramach porozumienia wojennego",
-      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-24T17:31:48Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Rafael Grossi twierdzi, że MAEA „pracuje nad warunkami”, ale irański minister twierdzi, że taki dostęp będzie jedynie częścią ostatecznej umowy z USA."
-    },
-    {
-      "title": "Klimatyzacja powoduje podziały polityczne po tym, jak Francja odnotowała najgorętszy dzień",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-24T13:51:24Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "W obliczu gwałtownie rosnących temperatur Francja jest zmuszona ponownie przemyśleć swoje wieloletnie zastrzeżenia dotyczące klimatyzacji."
     }
   ],
   "world_politics": [
@@ -779,7 +779,7 @@
       "date": "2026-06-25T11:42:40Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Ministerstwo zdrowia podało, że od niedzieli zginęło około 200 osób. W czwartek prognozy dla całej Europy miały pozostać znacznie powyżej normy."
+      "summary": "Ministerstwo zdrowia podało, że od niedzieli mogło zginęło około 200 osób. W czwartek prognozy dla całej Europy miały pozostać znacznie powyżej normy."
     },
     {
       "title": "Trzęsienie ziemi w Wenezueli utrudnia infrastrukturę, utrudniając akcję pomocy",
@@ -798,7 +798,7 @@
       "summary": "Oczekuje się, że król opublikuje informacje podatkowe w czwartek w ramach dążenia do większej przejrzystości po skandalu z udziałem byłego księcia Andrzeja."
     },
     {
-      "title": "Śmiertelny upał trawi Europę",
+      "title": "Zabójczy upał trawi Europę",
       "url": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france/heres-the-latest",
       "date": "2026-06-25T11:17:51Z",
       "source": "The New York Times",
@@ -942,12 +942,12 @@
       "summary": "Obszary wiejskie w Północnej Kalifornii wstrząśnięte największym trzęsieniem ziemi od 1940 r. AP News."
     },
     {
-      "title": "Pentagon przywraca obowiązkowe szczepienia przeciw grypie wszystkim rekrutom, ponieważ prawie 300 osób zachorowało na obozie rekrutacyjnym – AP News",
+      "title": "Pentagon przywraca obowiązkowe szczepienia przeciw grypie wszystkim rekrutom, ponieważ prawie 300 osób zachorowało na obozy rekrutacyjne – AP News",
       "url": "https://apnews.com/article/pentagon-flu-shot-requirement-boot-camp-outbreak-4255f063ef99ea2d00cb24fec8793c32",
       "date": "2026-06-24T22:04:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Pentagon przywraca obowiązkowe szczepienia przeciw grypie dla wszystkich rekrutów, ponieważ wybuch obozu rekrutacyjnego dotyka prawie 300 AP News."
+      "summary": "Pentagon przywraca obowiązkowe szczepienia przeciw grypie dla wszystkich rekrutów, ponieważ wybuch obozu szkoleniowego dotyka prawie 300 AP News."
     },
     {
       "title": "Były szef sztabu byłego burmistrza Nowego Jorku Erica Adamsa oskarżony o przyjmowanie łapówek – AP News",
@@ -990,7 +990,7 @@
       "summary": "Kim z Korei Północnej twierdzi, że po wprowadzeniu do służby nowego okrętu wojennego nastąpił postęp w zakresie floty uzbrojonej w broń nuklearną AP News."
     },
     {
-      "title": "Ukraina twierdzi, że uderzyła w most kolejowy na Krym, próbując odizolować półwysep zajęty przez Rosję – AP News",
+      "title": "Ukraina twierdzi, że uderzyła w most kolejowy na Krym, próbując odizolować półwysep okupowany przez Rosję – AP News",
       "url": "https://apnews.com/article/russia-ukraine-war-crimea-drone-peninsula-d44f4639e670ed6e4f97c1e0ad6dce6e",
       "date": "2026-06-24T08:11:00Z",
       "source": "Associated Press",
@@ -1101,7 +1101,7 @@
       "date": "2026-06-25T10:28:16Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://9to5mac.com/2026/06/23/lastpass-notify-users-of-yet-another-data-breach/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48671468 Punkty: 15 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://9to5mac.com/2026/06/23/lastpass-notify-users-of-yet-another-data-breach/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48671468 Punkty: 33 # Komentarze: 4."
     },
     {
       "title": "Postęp emulatora Dolphin w wersji 2606",
@@ -1109,7 +1109,7 @@
       "date": "2026-06-25T10:20:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48671392 Punkty: 55 # Komentarze: 2."
+      "summary": "Adres URL artykułu: https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48671392 Punkty: 71 # Komentarze: 8."
     },
     {
       "title": "IBM szczegółowo opisuje proces produkcji chipów 0,7 nm, w którym wykorzystuje się architekturę tranzystorów 3D typu „nanostack”, która według niego może utrzymać innowacyjność chipów przez 10 lat (Don Clark/New York Times)",
@@ -1157,7 +1157,7 @@
       "date": "2026-06-25T09:40:04Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Jeanny Yu / Bloomberg: Alibaba spada o ~5% w Hongkongu po tym, jak Anthropic oskarżyła ją o „nielegalne” dostęp do modeli sztucznej inteligencji, co oznacza spadek od początku roku do 33%; Xiaomi i Baidu spadły o 3%+ &mdash; Akcje Alibaba Group Holding Ltd. w Hongkongu spadły do ​​najniższego poziomu od 16 miesięcy po tym, jak Anthropic PBC oskarżyła chińskiego giganta technologicznego o &hellip;."
+      "summary": "Jeanny Yu / Bloomberg: Alibaba spada o ~5% w Hongkongu po tym, jak Anthropic oskarżyła ją o „nielegalne” dostęp do modeli sztucznej inteligencji, co oznacza spadek od początku roku do 33%; Xiaomi i Baidu spadły o 3%+ &mdash; Akcje Alibaba Group Holding Ltd. spadły w Hongkongu do najniższego poziomu od 16 miesięcy po tym, jak Anthropic PBC oskarżyła chińskiego giganta technologicznego o &hellip;."
     },
     {
       "title": "Wiceprezes Arm Mohamed Awad twierdzi, że architektura chipów tej firmy stanowi obecnie ponad 50% rynku hiperskalowego przetwarzania w chmurze, ponieważ zapotrzebowanie na sztuczną inteligencję zmienia branżę centrów danych (Cheng Ting-Fang/Nikkei Asia)",
@@ -1165,7 +1165,7 @@
       "date": "2026-06-25T09:30:27Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Cheng Ting-Fang / Nikkei Azja: Wiceprezes Armii Mohamed Awad twierdzi, że architektura chipów tej firmy stanowi obecnie ponad 50% rynku hiperskalowego przetwarzania w chmurze, ponieważ zapotrzebowanie na sztuczną inteligencję zmienia branżę centrów danych &mdash; TAJPEJ &mdash; Projektant chipów Arm, wspierany przez SoftBank, twierdzi, że osiągnął kamień milowy w trwającym od kilkudziesięciu lat wyzwaniu rzucanym firmom Intel i AMD &hellip;."
+      "summary": "Cheng Ting-Fang / Nikkei Azja: Wiceprezes Armii Mohamed Awad twierdzi, że architektura chipów tej firmy stanowi obecnie ponad 50% rynku hiperskalowego przetwarzania w chmurze, ponieważ zapotrzebowanie na sztuczną inteligencję zmienia branżę centrów danych &mdash; TAJPEJ &mdash; Projektant chipów Arm, wspierany przez SoftBank, twierdzi, że osiągnął kamień milowy w trwającym od kilkudziesięciu lat wyzwaniu rzucanym Intelowi i AMD &hellip;."
     },
     {
       "title": "Oszałamiające zdjęcia serca Drogi Mlecznej. \"Zapierające dech szczegóły\"",
@@ -1174,14 +1174,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Oszałamiające zdjęcia serca Drogi Mlecznej. \"Zapierające dech szczegóły\"."
-    },
-    {
-      "title": "Dyrektor generalny Qualcomm, Cristiano Amon, mówi, że firma projektuje chipy do centrów danych specjalnie dla chińskich klientów, które spełniają wymogi kontroli eksportu w USA (Yifan Yu/Nikkei Asia)",
-      "url": "https://www.techmeme.com/260625/p13#a260625p13",
-      "date": "2026-06-25T09:11:34Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Yifan Yu / Nikkei Azja: Dyrektor generalny Qualcomm, Cristiano Amon, mówi, że firma projektuje chipy do centrów danych specjalnie dla chińskich klientów, które spełniają amerykańskie przepisy dotyczące kontroli eksportu &mdash; NOWY JORK &mdash; W środę Qualcomm zaprezentował swoją ofertę chipów do centrów danych, stając się najnowszym producentem chipów, który bierze udział w wyścigu procesorów AI."
     },
     {
       "title": "Popularna ładowarka ze sklepów zagraża życiu. Pilny alert unijnego systemu ostrzegania",
@@ -1198,14 +1190,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Pierwsze grafiki przedstawiające Nothing Phone (4b) trafiły do sieci i błyskawicznie wywołały dyskusję wśród fanów. Premiera już za 2 tygodnie Artykuł Nothing pokazał nowy budżetowy telefon &#8211; Nothing Phone (4b). Fani są podzieleni pochodzi z serwisu INSTALKI."
-    },
-    {
-      "title": "Firma Mirendil, założona przez byłych badaczy Anthropic i pragnąca zbudować samodoskonalącą się sztuczną inteligencję dla programistów open source, zebrała kapitał o wartości 200 milionów dolarów przy wycenie na poziomie 1 miliarda dolarów (Tina Li/Wall Street Journal)",
-      "url": "https://www.techmeme.com/260625/p12#a260625p12",
-      "date": "2026-06-25T08:56:18Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Tina Li / Wall Street Journal: Firma Mirendil, założona przez byłych badaczy Anthropic i pragnąca stworzyć samodoskonalącą się sztuczną inteligencję dla programistów open source, zebrała kapitał o wartości 200 mln dolarów przy wycenie na poziomie 1 mld dolarów &mdash; Mirendil zbiera 200 milionów dolarów od Andreessena Horowitza i Kleinera Perkinsa na stworzenie sztucznej inteligencji, która może wykonywać pracę inżyniera sztucznej inteligencji."
     },
     {
       "title": "Ludzie są zdesperowani. Wykupują dwudziestoletnią pamięć DDR2",
@@ -1232,6 +1216,14 @@
       "summary": "Miał być przełom w komputerach kwantowych. Microsoft zgrillowany przez ekspertów."
     },
     {
+      "title": "Futurystyczny i przemyślany. Test Tineco Floor One S9 Scientist Complete",
+      "url": "https://www.benchmark.pl/futurystyczny-i-przemyslany-test-tineco-floor-one-s9-scientist-complete-7299514610149408a",
+      "date": "2026-06-25T08:21:46Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Sprzątanie zwykle kojarzy się z czynnością, którą wykonujemy niechętnie. Tineco Floor One S9 Scientist Complete to odkurzacz myjący, który ma sprawić, że ją polubimy – bo będzie szybka i skuteczna. Czy faktycznie tak jest i jak ten sprzęt sprawdza się na co dzień?"
+    },
+    {
       "title": "Z Androidem w samochodzie da się zrobić jeszcze więcej. Ponad 200 aplikacji pod ręką",
       "url": "https://antyweb.pl/z-androidem-w-samochodzie-da-sie-zrobic-jeszcze-wiecej-ponad-200-aplikacji-pod-reka",
       "date": "2026-06-25T08:14:23Z",
@@ -1240,20 +1232,12 @@
       "summary": "General Motors jeszcze bardziej akcentuje swoje odejście od Android Auto i prezentuje rozszerzenie wbudowanego systemu Google o kolejnych dziesiątki aplikacji."
     },
     {
-      "title": "Rząd ma sposób na drogowych piratów. Będą bać się wsiadać do aut",
-      "url": "https://www.instalki.pl/news/motoryzacja/rzad-ma-sposob-na-drogowych-piratow-beda-bac-sie-wsiadac-do-aut/",
-      "date": "2026-06-25T08:12:11Z",
-      "source": "Instalki.pl",
+      "title": "Pociągi pojadą wolniej. PKP obniża prędkość 680 wagonów",
+      "url": "https://www.benchmark.pl/pociagi-pojada-wolniej-pkp-obniza-predkosc-700-wagonow-7300602570139648a",
+      "date": "2026-06-25T08:07:01Z",
+      "source": "Benchmark.pl",
       "confirmed_by": 1,
-      "summary": "Blisko 17 tysięcy kierowców zlekceważyło w ubiegłym roku sądowe wyroki i jak gdyby nigdy nic wyjechało na polskie drogi. Statystyki policyjne obnażają całkowitą bezradność dotychczasowych mechanizmów karnych. Każdego dnia patrole zatrzymują średnio 46 osób, które prowadzą auta pomimo oficjalnego zakazu jazdy."
-    },
-    {
-      "title": "Aisle odkrywa 6 nowych CVE w Curl, w tym najstarszy problem, jaki kiedykolwiek zgłoszono",
-      "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
-      "date": "2026-06-25T08:07:54Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-w tym-najstarszy-problem- kiedykolwiek-zgłoszony Adres URL komentarzy: https://news.ycombinator.com/item?id=48670411 Punkty: 19 # Komentarze: 17."
+      "summary": "PKP Intercity obniży maksymalną prędkość blisko 700 wagonów z kołami obręczowymi po kwietniowym incydencie, kiedy w pociągu Żeglarz jadącym z Łodzi do Gdyni doszło do pęknięcia obręczy koła. Ograniczenie dla wózków 4ANc'S' ma wynieść 150 km/h i może wpłynąć na punktualność pociągów."
     },
     {
       "title": "Mocny argument za życiem na Marsie. Niezwykły węgiel kryje się w skałach",
@@ -1262,6 +1246,14 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Mocny argument za życiem na Marsie. Niezwykły węgiel kryje się w skałach."
+    },
+    {
+      "title": "Towarzyszył mi na urlopie. Spisał się doskonale",
+      "url": "https://www.benchmark.pl/towarzyszyl-mi-na-urlopie-spisal-sie-doskonale-7300261979953152a",
+      "date": "2026-06-25T07:58:39Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Przygotowując się do urlopu na Islandii i pakując ostatnie rzeczy do bagażu, stanąłem przed kluczowym wyborem: zabrać swojego leciwego już Apple Watcha SE2 czy może jednak wybrać Huawei Watch Fit 5 Pro. Wybrałem tę drugą opcję."
     },
     {
       "title": "Chiny mają superkomputer, jakiego jeszcze nie było. Amerykanie stracili koronę",
@@ -1280,12 +1272,20 @@
       "summary": "Castorama rzuca obniżkami na sprzęt warsztatowy. Dzięki temu niższym kosztem można skompletować zestawy uznanych marek pokroju Boscha, Erbauera i DeWalta. Promocje obowiązują od 24 czerwca do 7 lipca."
     },
     {
+      "title": "Cyfrowe euro coraz bliżej. Parlament Europejski zrobił ważny krok",
+      "url": "https://www.benchmark.pl/cyfrowe-euro-coraz-blizej-parlament-europejski-zrobil-wazny-krok-7300595277363200a",
+      "date": "2026-06-25T07:28:37Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Płatności bez gotówki, większa niezależność od amerykańskich gigantów finansowych i obietnica wysokiej ochrony prywatności. Cyfrowe euro zrobiło właśnie kolejny ważny krok na drodze do wdrożenia. Jeśli wszystko pójdzie zgodnie z planem, nowa forma europejskiej waluty może trafić do portfeli mieszkańców strefy euro już za kilka lat."
+    },
+    {
       "title": "Wikipedia Pracownicy w Wielkiej Brytanii jako pierwsi na świecie starali się o uznanie związku zawodowego",
       "url": "https://utaw.tech/news/wikipedia-recognition",
       "date": "2026-06-25T07:02:37Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://utaw.tech/news/wikipedia-recognition Adres URL komentarzy: https://news.ycombinator.com/item?id=48669932 Punkty: 99 # Komentarze: 109."
+      "summary": "Adres URL artykułu: https://utaw.tech/news/wikipedia-recognition Adres URL komentarzy: https://news.ycombinator.com/item?id=48669932 Punkty: 103 # Komentarze: 113."
     },
     {
       "title": "Garmin w świetnych cenach na Amazonie. Ale trzeba się śpieszyć",
@@ -1304,20 +1304,12 @@
       "summary": "Nadchodzi ekscytujący czas dla fanów sci-fi z gatunku postapo."
     },
     {
-      "title": "200 MP, OIS i bateria na wakacje. realme 16 Pro 5G to świetny wybór do 2000 zł",
-      "url": "https://spidersweb.pl/2026/06/realme-16-pro-5g-kamera.html",
-      "date": "2026-06-25T06:05:00Z",
-      "source": "Spider's Web",
+      "title": "OpenAI stworzyło własny procesor. Nie będzie służyć do tego, co myślisz",
+      "url": "https://www.benchmark.pl/openai-stworzylo-wlasny-procesor-nie-bedzie-sluzyc-do-tego-co-myslisz-7300579245488128a",
+      "date": "2026-06-25T06:21:43Z",
+      "source": "Benchmark.pl",
       "confirmed_by": 1,
-      "summary": "200 MP, OIS i bateria na wakacje. realme 16 Pro 5G to świetny wybór do 2000 zł."
-    },
-    {
-      "title": "Commodore poszło po rozum do głowy. Firma obniża ceny swojego telefonu",
-      "url": "https://antyweb.pl/commodore-poszlo-po-rozum-do-glowy-firma-obniza-ceny-swojego-telefonu",
-      "date": "2026-06-25T06:00:11Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": ""
+      "summary": "Miliony osób każdego dnia zadają pytania ChatGPT, oczekując niemal natychmiastowej odpowiedzi. Za kulisami oznacza to gigantyczne zapotrzebowanie na moc obliczeniową i energię. OpenAI uznało, że czas przestać polegać wyłącznie na cudzym sprzęcie i stworzyło własny procesor, który ma usprawnić działanie usług opartych na sztucznej inteligencji."
     },
     {
       "title": "Half-Life 2 w przeglądarce",
@@ -1325,7 +1317,7 @@
       "date": "2026-06-25T06:00:04Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://hl2.slqnt.dev/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48669534 Punkty: 308 # Komentarze: 112."
+      "summary": "Adres URL artykułu: https://hl2.slqnt.dev/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48669534 Punkty: 318 # Komentarze: 117."
     },
     {
       "title": "Studenci medycyny korzystają z popularnych narzędzi badawczych, aby publikować wprowadzające w błąd badania",
@@ -1333,7 +1325,7 @@
       "date": "2026-06-25T02:30:18Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies Adres URL komentarzy: https://news.ycombinator.com/item?id=48668119 Punkty: 65 # Komentarze: 33."
+      "summary": "Adres URL artykułu: https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies Adres URL komentarzy: https://news.ycombinator.com/item?id=48668119 Punkty: 69 # Komentarze: 34."
     },
     {
       "title": "Cloudflare uruchomiło dla wszystkich samodzielnie zarządzany OAuth",
@@ -1341,7 +1333,7 @@
       "date": "2026-06-25T02:18:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://blog.cloudflare.com/oauth-for-all/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48668033 Punkty: 190 # Komentarze: 85."
+      "summary": "Adres URL artykułu: https://blog.cloudflare.com/oauth-for-all/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48668033 Punkty: 198 # Komentarze: 89."
     },
     {
       "title": "Jednorożce zombie nawiedzają Dolinę Krzemową",
@@ -1349,7 +1341,7 @@
       "date": "2026-06-25T02:16:15Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley Adres URL komentarzy: https://news.ycombinator.com/item?id=48668020 Punkty: 114 # Komentarze: 66."
+      "summary": "Adres URL artykułu: https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley Adres URL komentarzy: https://news.ycombinator.com/item?id=48668020 Punkty: 119 # Komentarze: 67."
     },
     {
       "title": "Długo oczekiwane Grand Theft Auto VI będzie kosztować więcej niż inne gry AAA",
@@ -1389,7 +1381,7 @@
       "date": "2026-06-24T21:03:34Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "„Operacja Endgame” zakłóca jednocześnie dwa powszechnie stosowane narzędzia przestępcze."
+      "summary": "„Operacja Endgame” burzy jednocześnie dwa powszechnie stosowane narzędzia przestępcze."
     },
     {
       "title": "Niedostatecznie obiecaj, przesadź? Praktyczny egzemplarz Slate Auto za 24 950 dolarów.",
@@ -1400,12 +1392,20 @@
       "summary": "Jego zasięg wynosi 205 mil."
     },
     {
-      "title": "Disney zgodził się na ugodę w wysokości 50 milionów dolarów w związku z twierdzeniami, że streaming telewizji na żywo stał się kosztowny",
-      "url": "https://arstechnica.com/tech-policy/2026/06/disney-agreed-to-50m-settlement-over-claims-it-made-live-tv-streaming-expensive/",
-      "date": "2026-06-24T20:22:58Z",
-      "source": "Ars Technica",
+      "title": "Hugin Superior ruszył w morze. Norwegia mapuje głębiny do 6 tys. m",
+      "url": "https://www.benchmark.pl/hugin-superior-ruszyl-w-morze-norwegia-mapuje-glebiny-do-6-tys-m-7300355524442144a",
+      "date": "2026-06-24T20:03:00Z",
+      "source": "Benchmark.pl",
       "confirmed_by": 1,
-      "summary": "W pozwie zarzucono Disneyowi zawyżenie cen rynkowych, zmuszając przewoźników do włączenia ESPN."
+      "summary": "Na początku czerwca na północnych akwenach Morza Norweskiego wystartowała pierwsza misja autonomicznego drona podwodnego Hugin Superior. Norwegowie liczą, że pojazd zdolny pracować nawet na głębokości 6 tys. metrów dostarczy przełomowych danych do mapowania i zarządzania obszarami głębinowymi."
+    },
+    {
+      "title": "Euclid sfotografował serce Drogi Mlecznej. Ponad 60 mln gwiazd",
+      "url": "https://www.benchmark.pl/euclid-sfotografowal-serce-drogi-mlecznej-ponad-60-mln-gwiazd-7300355048536096a",
+      "date": "2026-06-24T18:01:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Sonda Euclid Europejskiej Agencji Kosmicznej przygotowała jak dotąd największy i najbardziej szczegółowy obraz centralnych rejonów Drogi Mlecznej, na którym widać ponad 60 mln gwiazd. Materiał z 26-godzinnej obserwacji ma pomóc astronomom m.in. w poszukiwaniu egzoplanet metodą mikrosoczewkowania oraz w dokładniejszym wyznaczaniu ich mas."
     }
   ],
   "cybersecurity": [
@@ -1416,6 +1416,14 @@
       "source": "The Register",
       "confirmed_by": 1,
       "summary": "Teraz z obsługą Markdown i inteligentniejszą obsługą błędów formuł – a także zintegrowaną sztuczną inteligencją, chociaż jest ona domyślnie wyłączona."
+    },
+    {
+      "title": "Przetrwać erę mitów: Richard Bejtlich w sprawie NDR",
+      "url": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+      "date": "2026-06-25T11:17:31Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Pomimo dużej ilości danych telemetrycznych, którymi dysponują analitycy, wiele zespołów ds. operacji bezpieczeństwa ma trudności z udzieleniem odpowiedzi na kilka podstawowych pytań podczas badania incydentu: Co się stało? Jakie mamy dowody? Skąd mamy wiedzieć, że widzimy to wszystko w odpowiednim kontekście?"
     },
     {
       "title": "ZTE buduje fabrykę sztucznej inteligencji o optymalnym TCO, aby oszczędzać tokeny",
@@ -1450,12 +1458,12 @@
       "summary": "Z jakimi atakami najczęściej musi liczyć się dostawca szkolnego e-dziennika? Jak wiele podmiotów naprawdę korzysta z tego narzędzia? Z jakimi innymi systemami trzeba taki dziennik zintegrować i czy naprawdę łatwo będzie to zastąpić jednym państwowym rozwiązaniem?"
     },
     {
-      "title": "ZTE prezentuje pełne możliwości sztucznej inteligencji na MWC Shanghai 2026, wprowadzając nową erę operacji na tokenach",
+      "title": "ZTE prezentuje pełne możliwości sztucznej inteligencji na MWC w Szanghaju 2026, wprowadzając nową erę operacji na tokenach",
       "url": "https://www.theregister.com/ai-and-ml/2026/06/25/zte-showcases-full-stack-ai-capabilities-at-mwc-shanghai-2026-empowering-new-era-of-token-operations/5262038",
       "date": "2026-06-25T10:28:04Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "ZAWARTOŚĆ PARTNERÓW: Zapewnienie kompleksowej synergii między fabrykami sztucznej inteligencji, systemem AIOS nowej generacji i sieciami obsługującymi technologię 6G w celu maksymalizacji wydajności tokenów i obniżenia kosztów operacyjnych."
+      "summary": "ZAWARTOŚĆ PARTNERÓW: Zapewnienie kompleksowej synergii między fabrykami sztucznej inteligencji, systemem AIOS nowej generacji i sieciami gotowymi na 6G w celu maksymalizacji wydajności tokenów i obniżenia kosztów operacyjnych."
     },
     {
       "title": "Europa wzmacnia sektor półprzewodników. Miliony euro dla niemieckiej firmy",
@@ -1487,7 +1495,7 @@
       "date": "2026-06-25T09:23:03Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Odkryto, że wcześniej nieudokumentowany oparty na Rust implant macOS i narzędzie do kradzieży informacji zawiera ładunek natychmiastowego wstrzykiwania, którego celem jest oszukanie narzędzi sztucznej inteligencji (AI) analityka złośliwego oprogramowania i nakłonienie go do przerwania lub odmowy analizy artefaktu. Ze względu na to zwodnicze zachowanie złośliwe oprogramowanie otrzymało nazwę kodową Gaslight. Oceniono z dużą pewnością, że narzędzie to jest."
+      "summary": "Odkryto, że wcześniej nieudokumentowany oparty na Rust implant macOS i narzędzie do kradzieży informacji zawiera ładunek natychmiastowego wstrzykiwania, którego celem jest oszukanie narzędzi sztucznej inteligencji (AI) analityka złośliwego oprogramowania i nakłonienie go do przerwania lub odmowy analizy artefaktu. Ze względu na to zwodnicze zachowanie złośliwe oprogramowanie otrzymało nazwę kodową Gaslight. Z dużą pewnością stwierdzono, że narzędzie to jest."
     },
     {
       "title": "Zaufanie mózgów ds. identyfikacji cyfrowej spotka się za zamkniętymi drzwiami, podczas gdy minister będzie uchylał się od pytań dotyczących kosztów",
@@ -1519,7 +1527,7 @@
       "date": "2026-06-25T08:00:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "ZAWARTOŚĆ PARTNERÓW: Ponieważ agentyczne systemy sztucznej inteligencji skalują się w środowiskach chmurowych i centrach danych, procesory pozostają płaszczyzną kontrolną koordynującą wydajność i efektywność."
+      "summary": "TREŚĆ PARTNERÓW: Ponieważ agentyczne systemy AI skalują się w środowiskach chmurowych i centrach danych, procesory pozostają płaszczyzną kontrolną koordynującą wydajność i efektywność."
     },
     {
       "title": "YubiKey as a Service (YaaS): rewolucja w MFA bez barier budżetowych",
@@ -1570,7 +1578,7 @@
       "summary": "Smartfon od dawna jest czymś więcej niż zwykłym telefonem, a to przecież nie koniec technologicznej ewolucji. Urządzenia mogą dziś pełnić rolę przemysłowego terminala, przechowywać klucze kryptograficzne, komunikować się przez alternatywne sieci radiowe i działać nawet wtedy, gdy klasyczna infrastruktura telekomunikacyjna przestanie być jedynym kanałem łączności."
     },
     {
-      "title": "Podmioty z państw narodowych złamały krytyczną australijską infrastrukturę, aby „uszkodzić ją w wybranym przez siebie czasie”",
+      "title": "Podmioty z państw narodowych złamały krytyczną australijską infrastrukturę, aby „uszkodzić ją w wybranym przez siebie momencie”",
       "url": "https://www.theregister.com/security/2026/06/25/nation-state-actors-cracked-critical-australian-infrastructure-to-cripple-it-at-a-time-of-their-choosing/5261877",
       "date": "2026-06-25T04:31:01Z",
       "source": "The Register",
@@ -1800,17 +1808,17 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Firma ochroniarska AIR stworzyła fałszywą umiejętność agenta AI, przepuściła ją przez popularny rynek umiejętności i reklamę na Instagramie i twierdzi, że dotarła do około 26 000 agentów, w tym niektórych na kontach firmowych. Każdy skaner bezpieczeństwa, pod kątem którego firma go testowała, oznaczał go jako bezpieczny. Ładunek był z założenia nieszkodliwy: zbierał adres e-mail użytkownika i nie robił nic więcej."
-    },
-    {
-      "title": "Rozkaz Trumpa wyznacza termin federalnej postkwantowej migracji kryptowalut na rok 2030",
-      "url": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
-      "date": "2026-06-23T15:16:40Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "22 czerwca prezydent Trump podpisał zarządzenie wykonawcze wyznaczające rygorystyczne terminy dla agencji federalnych na przeniesienie aktywów o dużej wartości i systemów o dużym wpływie do kryptografii postkwantowej. Kluczowy zakład musi się przenieść do 31 grudnia 2030 r.; podpisów cyfrowych do 31 grudnia 2031 r. EO 14409 pozostawia systemy bezpieczeństwa narodowego na osobnym torze."
     }
   ],
   "finance": [
+    {
+      "title": "Kaczyński oddaje ukraiński order. „To wyraz mojego stosunku do elit w Kijowie”",
+      "url": "https://www.bankier.pl/wiadomosc/Kaczynski-oddaje-ukrainski-order-To-wyraz-mojego-stosunku-do-elit-w-Kijowie-9157733.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-25T11:54:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Prezes PiS Jarosław Kaczyński poinformował, że zwróci przyznany mu w 2022 r. ukraiński Order Księcia Jarosława Mądrego. To wyraz mojego stosunku do elit ukraińskich i lojalności wobec prezydenta Karola Nawrockiego - tłumaczył swoją decyzję."
+    },
     {
       "title": "Podatek od nadmiarowych zysków. Jest decyzja Senatu",
       "url": "https://www.money.pl/gospodarka/podatek-od-nadmiarowych-zyskow-jest-decyzja-senatu-7300661007095968a.html",
@@ -1852,6 +1860,14 @@
       "summary": "Jaecoo wprowadził do polskiej oferty hybrydę Jaecoo 5 – swojego najtańszego, hybrydowego SUV-a. Choć samochód jest droższy od konkurencyjnych modeli MG, Dacii czy siostrzanej Omody, to wyższa cena broni się mocą. Sprawdzamy, ile trzeba zapłacić za Jaecoo 5 Hybrid i co dostaniemy w zamian."
     },
     {
+      "title": "Komunikat EBI Corey Europe SA (corey): Powołanie osoby zarządzającej lub nadzorującej - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/corey,powolanie-osoby-zarzadzajacej-lub-nadzorujace-2026-06-25,ebi,20260625_132833_0000003887",
+      "date": "2026-06-25T11:28:33Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI Corey Europe SA (corey): Powołanie osoby zarządzającej lub nadzorującej stockwatch.pl."
+    },
+    {
       "title": "Możliwe odwołanie szefa PIP. Kluczową decyzję podejmie sejmowa komisja - Forsal.pl",
       "url": "https://forsal.pl/gospodarka/artykuly/11267688,mozliwe-odwolanie-szefa-pip-kluczowa-decyzje-podejmie-sejmowa-komisja.html",
       "date": "2026-06-25T11:23:39Z",
@@ -1890,14 +1906,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Binance poinformował oficjalnie o wycofaniu wniosku o przyznanie licencji CASP w Grecji. Tym samym wszystko wskazuje na to, że już za tydzień największa giełda kryptowalut świata będzie musiała wstrzymać przyjmowanie nowych klientów i obsługę większości zleceń w Unii Europejskiej."
-    },
-    {
-      "title": "Nowe ceny paliw na piątek. Benzyna 95 znowu tanieje, diesel grosz w górę",
-      "url": "https://www.bankier.pl/wiadomosc/Nowe-ceny-paliw-na-piatek-Benzyna-95-znowu-tanieje-diesel-grosz-w-gore-9157660.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-06-25T11:01:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 2,
-      "summary": "W piątek litr benzyny 95 ma kosztować nie więcej niż 5,95 zł, benzyny 98 - 6,65 zł, a diesla - 6,12 zł - wynika z czwartkowego obwieszczenia Ministra Energii. Oznacza to, że ceny maksymalne obu rodzajów benzyny będą niższe niż w czwartek, a cena diesla będzie wyższa."
     },
     {
       "title": "160 umów wartych 10 mld euro. Premier Ukrainy składa deklarację",
@@ -2004,14 +2012,6 @@
       "summary": "Gospodarka Forsal.pl."
     },
     {
-      "title": "Komunikat EBI Stem Cells Spin SA (stemcells): Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach) - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/stemcells,informacje-o-walnym-zgromadzeniu-tresc-uchw-2026-06-25,ebi,20260625_111842_0000003880",
-      "date": "2026-06-25T09:18:42Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat EBI Stem Cells Spin SA (stemcells): Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach) stockwatch.pl."
-    },
-    {
       "title": "Afera orderowa. Ukraiński biznes obawia się wypchnięcia z Polski",
       "url": "https://www.money.pl/gospodarka/afera-orderowa-ukrainski-biznes-obawia-sie-wypchniecia-z-polski-7300344642029568a.html",
       "date": "2026-06-25T09:12:50Z",
@@ -2036,6 +2036,14 @@
       "summary": "Chcemy wypełnić cele z programu motywacyjnego. Od 2027 oczekujemy znaczącego przyspieszenia branży – mówi Maciej Posadzy prezes Elektrotim Seb Seb czw., 25.06.2026 Kanał Strefa Inwestorów Elektrotim portfel SAFE elektrownia atomowa infrastruktura inwestycje magazyny energii elektromobilność CPK obronność Treść Celem Elektrotimu w tym roku jest wykonanie wymagających założeń wynikowych przyjętych w ramach programu menadżerskiego. W branży rok 2026 powinien w ocenie spółki być przejściowy ze względu na harmonogram realizowanych przetargów i specyfikę branży."
     },
     {
+      "title": "Notowania INTSPKN98160 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/INTSPKN98160",
+      "date": "2026-06-25T07:55:28Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania INTSPKN98160 INGBANK BiznesRadar."
+    },
+    {
       "title": "Debiut Liftero na NewConnect w przyszłym tygodniu",
       "url": "https://strefainwestorow.pl/debiut-ipo/liftero-data-debiutu-na-newconnect",
       "date": "2026-06-25T07:44:00Z",
@@ -2050,6 +2058,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Wezwanie i delisting Polenergii. Dlaczego sprzedaż akcji przez inwestorów jest nieopłacalna Piotr Maciążek czw., 25.06.2026 Kanał W Zielonej Strefie delisitng polenergii notowania polenergii prognozy polenergii Treść Decyzja o próbie delistingu Polenergii zbiega się z przemodelowaniem bilansu spółki, wyprzedażą jej aktywów pobocznych i budową długoterminowej wartości. Lider transformacji energetycznej stoi u progu przełomu przychodowego, który powinien mieć miejsce w 2028 r."
+    },
+    {
+      "title": "Były prezes Enter Air wychodzi z akcjonariatu - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/148816,byly-prezes-enter-air-wychodzi-z-akcjonariatu",
+      "date": "2026-06-25T07:00:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Były prezes Enter Air wychodzi z akcjonariatu BiznesRadar."
     },
     {
       "title": "„Forbes” 7/2026. Zobacz, co w numerze - Forbes",
@@ -2180,36 +2196,20 @@
       "summary": "Prezes UOKiK nałożył na Neonet ponad 3 mln zł kary za praktyki związane ze sprzedażą na Allegro. Urząd ustalił, że spółka podawała nieprawdziwe informacje o dostępności części produktów i terminach wysyłki, a klientów nie informowała od razu o problemach z realizacją zamówień. Sprawa jest ważna dla kupujących online, bo czas dostawy i dostępność produktu często decydują o wyborze sprzedawcy."
     },
     {
+      "title": "Transakcje FLPPH27 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/transakcje/FLPPH27",
+      "date": "2026-06-24T10:11:01Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Transakcje FLPPH27 BiznesRadar."
+    },
+    {
       "title": "Dlaczego deweloperzy coraz częściej szukają finansowania poza sektorem bankowym?",
       "url": "https://300gospodarka.pl/material-partnera/dlaczego-deweloperzy-coraz-czesciej-szukaja-finansowania-poza-sektorem-bankowym",
       "date": "2026-06-24T04:53:41Z",
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Deweloperzy coraz częściej szukają finansowania poza sektorem bankowym przede wszystkim dlatego, że potrzebują szybkich decyzji i większej elastyczności. Inwestycje nie czekają na zakończenie długich procedur, a atrakcyjne okazje zakupowe potrafią zniknąć w ciągu kilku dni. Dlatego alternatywne źródła kapitału stają się dla wielu firm sposobem na sprawne realizowanie kolejnych etapów przedsięwzięć."
-    },
-    {
-      "title": "Formacje analizy technicznej OW20G263725 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/OW20G263725",
-      "date": "2026-06-23T20:11:56Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Formacje analizy technicznej OW20G263725 BiznesRadar."
-    },
-    {
-      "title": "Transakcje INTLSPC98137 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/transakcje/INTLSPC98137",
-      "date": "2026-06-23T14:48:58Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Transakcje INTLSPC98137 INGBANK BiznesRadar."
-    },
-    {
-      "title": "Notowania INTSBCO97931 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/INTSBCO97931",
-      "date": "2026-06-23T14:40:03Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania INTSBCO97931 INGBANK BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2238,12 +2238,12 @@
       "summary": "\"Spójrzcie na tę katastrofę\". Trzęsienie ziemi w Wenezueli, zniszczenia na lotnisku Polskie Radio 24."
     },
     {
-      "title": "Stolica Wenezueli dotknięta podwójnym trzęsieniem ziemi – eksperci ostrzegają przed dużą liczbą ofiar śmiertelnych",
+      "title": "Wenezuela ogłasza stan wyjątkowy po bliźniaczych, śmiertelnych trzęsieniach ziemi",
       "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
-      "date": "2026-06-25T09:25:38Z",
+      "date": "2026-06-25T11:40:44Z",
       "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Delcy Rodríguez ogłasza stan wyjątkowy po zawaleniu się budynków w Caracas i wstrząsach odczuwalnych w Kolumbii Trzęsienie ziemi w Wenezueli – najnowsze aktualizacje Tymczasowy przywódca Wenezueli, Delcy Rodríguez, ogłosił stan wyjątkowy po tym, jak w kraj nawiedziły dwa potężne trzęsienia ziemi, w wyniku których zawaliły się dziesiątki budynków i zginęły co najmniej 32 osoby, a eksperci przewidują, że liczba ofiar śmiertelnych może znacząco wzrosnąć. Rodríguez powiedział, że setki osób zostało rannych i spodziewano się większej liczby ofiar. Dwa silne trzęsienia ziemi miały miejsce w odstępie minuty. Według amerykańskiej służby geologicznej (USGS) pierwsza miała magnitudę 7,2, a druga 7,5, co czyni ją najpotężniejszą, jaka uderzyła w ten kraj od 1900 roku."
+      "confirmed_by": 2,
+      "summary": "Drugie trzęsienie o sile 7,5 było najpotężniejsze, jakie nawiedziło kraj od 1900 r., powodując zawalenie budynków w stolicy Trzęsienie ziemi w Wenezueli – najnowsze aktualizacje Tymczasowy przywódca Wenezueli Delcy Rodríguez ogłosił stan wyjątkowy po tym, jak w kraj nawiedziły dwa potężne trzęsienia ziemi, w wyniku których zawaliły się dziesiątki budynków i zginęły co najmniej 164 osoby, a liczba ofiar, które według obaw mogą znacznie wzrosnąć. Rodríguez powiedział, że 971 osób zostało rannych, a spodziewano się większej liczby ofiar. Dwa silne trzęsienia ziemi miały miejsce w odstępie minuty w środę krótko po godzinie 18:00 czasu lokalnego. Według amerykańskiej służby geologicznej (USGS) pierwsza miała magnitudę 7,2, a druga 7,5 i była najpotężniejsza, jaka uderzyła w ten kraj od 1900 roku."
     },
     {
       "title": "Czwartkowa odprawa informacyjna: Dlaczego rozmowy UE–talibowie wywołały oburzenie wśród afgańskich kobiet",
@@ -2324,7 +2324,7 @@
       "lng": -98.3,
       "type": "critical",
       "region": "Stany Zjednoczone",
-      "description": "Delcy Rodríguez ogłasza stan wyjątkowy po zawaleniu się budynków w Caracas i wstrząsach odczuwalnych w Kolumbii Trzęsienie ziemi w Wenezueli – najnowsze aktualizacje Tymczasowy przywódca Wenezueli, Delcy Rodríguez, ogłosił stan wyjątkowy po tym, jak w kraj nawiedziły dwa potężne trzęsienia ziemi, w wyniku których zawaliły się dziesiątki budynków i zginęły co najmniej 32 osoby, a eksperci przewidują, że liczba ofiar śmiertelnych może znacząco wzrosnąć.",
+      "description": "Drugie trzęsienie o sile 7,5 było najpotężniejsze, jakie nawiedziło kraj od 1900 r., powodując zawalenie budynków w stolicy Trzęsienie ziemi w Wenezueli – najnowsze aktualizacje Tymczasowy przywódca Wenezueli Delcy Rodríguez ogłosił stan wyjątkowy po tym, jak w kraj nawiedziły dwa potężne trzęsienia ziemi, w wyniku których zawaliły się dziesiątki budynków i zginęły co najmniej 164 osoby, a liczba ofiar, które według obaw mogą znacznie wzrosnąć.",
       "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks"
     },
     {
@@ -2358,14 +2358,6 @@
       "region": "Rosja",
       "description": "Szacuje się, że rosyjskojęzyczny broker początkowego dostępu (IAB), kierujący się korzyściami finansowymi, stoi za zakrojoną na szeroką skalę operację gromadzenia danych uwierzytelniających znaną jako FortiBleed, która objęła ponad 430 000 zapór sieciowych FortiGate na całym świecie.",
       "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html"
-    },
-    {
-      "lat": 35.5,
-      "lng": 104.3,
-      "type": "cyber",
-      "region": "Chiny",
-      "description": "Korzystanie z rdzeni Arm i Linuksa oznacza, że ​​Pekin nie oddzielił się od świata.",
-      "url": "https://www.theregister.com/hpc/2026/06/24/chinese-supercomputer-using-local-processors-heads-top500-list/5260532"
     },
     {
       "lat": 40.34,
@@ -2834,58 +2826,58 @@
       24120.4,
       24737.25,
       24758.98,
-      25774.53,
+      25786.59,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26943.49,
+      26956.1,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27091.03,
+      27103.71,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27336.94,
+      27349.74,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27975.21,
+      27988.3,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28011.39,
+      28024.5,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28257.04,
+      28270.27,
       27354.94,
       27400.36,
       27412.11,
-      28660.06,
+      28673.47,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27917.77,
+      27930.84,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28098.2,
+      28111.35,
       27686.17,
       27404.78,
       27351.97,
       27846.5,
       27905.42,
       27661.43,
-      27821.28
+      27834.31
     ],
     "currency": "PLN"
   }
