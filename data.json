@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T12:26:16Z",
+  "last_updated": "2026-06-25T12:27:23Z",
   "poland": [
     {
       "title": "Tragedia w Czarnej Wodzie. Siedmiolatka zginęła w pożarze",
@@ -231,7 +231,7 @@
       "date": "2026-06-25T10:54:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
-      "summary": "Zwrócę ukraiński Order Jarosława Mądrego drugiej klasy - poinformował w czwartek podczas konferencji prasowej prezes PiS Jarosław Kaczyński."
+      "summary": "Przyznanie się do winy, przeprosiny, pochowanie wszystkich ofiar, oczywiście przedtem ekshumacje - to są nasze warunki. One naprawdę nie są daleko idące, ale muszą być spełnione - podkreślał w czwartek podczas konferencji prasowej prezes PiS Jarosław Kaczyński."
     },
     {
       "title": "Koszty budowy mieszkań rosną w Polsce szybciej niż średnia w UE",
@@ -314,14 +314,6 @@
       "summary": "Kurzajki to objaw zakażenia HPV Serwis Zdrowie."
     },
     {
-      "title": "Ciemności spowiły Sewastopol. Ukraina wciąż wyprowadza ciosy na Krymie - Polskie Radio 24",
-      "url": "https://polskieradio24.pl/swiat/ciemnosci-spowily-sewastopol-ukraina-nie-odpuszcza-i-wciaz-uderza-na-krymie",
-      "date": "2026-06-25T08:16:56Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Ciemności spowiły Sewastopol. Ukraina wciąż wyprowadza ciosy na Krymie Polskie Radio 24."
-    },
-    {
       "title": "Trzęsienie ziemi w Wenezueli. Wiemy, co z polskimi obywatelami - Polskie Radio 24",
       "url": "https://polskieradio24.pl/swiat/trzesienie-ziemi-w-wenezueli-wiemy-co-z-polskimi-obywatelami",
       "date": "2026-06-25T07:03:15Z",
@@ -352,6 +344,14 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Drony wzięły na celownik skład ropy naftowej w Rosji. Wybuchł pożar Polskie Radio 24."
+    },
+    {
+      "title": "Tak wyglądały pierwsze sekundy po trzęsieniu ziemi w Wenezueli - Polskie Radio 24",
+      "url": "https://polskieradio24.pl/swiat/tak-kamery-uchwycily-pierwsze-sekundy-trzesienia-ziemi-w-wenezueli",
+      "date": "2026-06-25T05:50:18Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Tak wyglądały pierwsze sekundy po trzęsieniu ziemi w Wenezueli Polskie Radio 24."
     },
     {
       "title": "Przywódcy Grupy Wyszehradzkiej chcą ożywić sojusz regionalny (PAP/AFP), Oglądaj na PAP - serwis wideo - PAP - serwis wideo",
@@ -404,12 +404,28 @@
   ],
   "world_security": [
     {
+      "title": "Fala upałów w Europie przesuwa się na wschód, gdy Francja podnosi alert zdrowotny do najwyższego poziomu",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-25T12:22:26Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Temperatury w Niemczech mogą w niektórych obszarach sięgnąć 40 stopni Celsjusza, natomiast francuscy urzędnicy twierdzą, że wśród młodych ludzi obserwuje się przypadki zgonów związanych z upałami."
+    },
+    {
       "title": "Trzęsienia ziemi w Wenezueli: „intensywne” poszukiwania ocalałych – liczba ofiar śmiertelnych wzrosła do 164 – najnowsze aktualizacje",
       "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
       "date": "2026-06-25T12:14:13Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Delcy Rodríguez powiedziała, że władze przenoszą ekipy ratownicze z innych części kraju do najbardziej dotkniętego obszaru La Guaira. Wenezuela dotknięta podwójnym trzęsieniem ziemi, ponieważ eksperci ostrzegają o dużej liczbie ofiar śmiertelnych. Czy trzęsienia ziemi w Wenezueli dotknęły Cię? Wolontariusze, lekarze i krewni ofiar udali się do rejonu Altamira w Caracas, mając nadzieję, że uda im się pomóc ocalałym z gruzów zawalonych budynków. „Mieszkam daleko [ale]… Przyjechałem tu na motocyklu najszybciej, jak mogłem” – powiedział José Morillo, gdy dojechał do bloku zwanego Residencias Obelisco. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Policja w Kenii rozpędza grupę upamiętniającą śmiertelne protesty w 2024 r. – Reuters",
+      "url": "https://www.reuters.com/world/africa/kenyans-march-mark-anniversary-deadly-2024-anti-government-protests-2026-06-25/",
+      "date": "2026-06-25T12:10:13Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Policja w Kenii rozpędza grupę upamiętniającą śmiertelne protesty w 2024 r. Reuters."
     },
     {
       "title": "Brytyjskie Biuro Meteorologiczne przedłuża ostrzeżenie o czerwonych upałach do piątkowej nocy, gdy w Europie panują ekstremalne upały – na żywo",
@@ -612,14 +628,6 @@
       "summary": "Amazon zainwestuje dodatkowe 13 miliardów dolarów w chmurę w Indiach, AI Reuters."
     },
     {
-      "title": "Kenijczycy maszerują z okazji rocznicy śmiertelnych protestów antyrządowych w 2024 r. – Reuters",
-      "url": "https://www.reuters.com/world/africa/kenyans-march-mark-anniversary-deadly-2024-anti-government-protests-2026-06-25/",
-      "date": "2026-06-25T08:47:43Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Kenijczycy maszerują z okazji rocznicy śmiertelnych protestów antyrządowych w 2024 r. Reuters."
-    },
-    {
       "title": "Dowiedz się, na jakich studiach uniwersyteckich możesz zarobić najwięcej przez całe życie",
       "url": "https://www.bbc.co.uk/news/articles/c892dv0qy2jo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-25T08:32:12Z",
@@ -754,14 +762,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Rzadka strzelanina w szkole, w wyniku której zginęło trzech uczniów, a 20 innych zostało rannych, zszokowała kraj."
-    },
-    {
-      "title": "We Francji, Wielkiej Brytanii i Hiszpanii odnotowuje się rekordowe temperatury w związku z falą upałów, która ogarnia Europę Zachodnią",
-      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-24T21:39:18Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Dziesiątki milionów ludzi zmagają się z potwornymi temperaturami, które doprowadziły do ​​wydania czerwonych alertów upałów na całym kontynencie."
     }
   ],
   "world_politics": [
@@ -2552,15 +2552,15 @@
           "source": "Polskie Radio 24"
         },
         {
-          "title": "Trzęsienia ziemi w Wenezueli: „intensywne” poszukiwania ocalałych – liczba ofiar śmiertelnych wzrosła do 164 – najnowsze aktualizacje",
-          "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
-          "source": "The Guardian"
+          "title": "Tak wyglądały pierwsze sekundy po trzęsieniu ziemi w Wenezueli - Polskie Radio 24",
+          "url": "https://polskieradio24.pl/swiat/tak-kamery-uchwycily-pierwsze-sekundy-trzesienia-ziemi-w-wenezueli",
+          "source": "Polskie Radio 24"
         }
       ]
     },
     {
       "name": "Iran",
-      "score": 43,
+      "score": 40,
       "reasons": [
         {
           "title": "Cena ropy spada do poziomu sprzed wojny w Iranie, gdy coraz więcej tankowców wypływa z cieśniny Ormuz",
@@ -2581,7 +2581,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 17,
+      "score": 16,
       "reasons": [
         {
           "title": "Cena ropy spada do poziomu sprzed wojny w Iranie, gdy coraz więcej tankowców wypływa z cieśniny Ormuz",
@@ -2830,58 +2830,58 @@
       24120.4,
       24737.25,
       24758.98,
-      25768.53,
+      25773.98,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26937.22,
+      26942.92,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27084.72,
+      27090.45,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27330.58,
+      27336.36,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27968.7,
+      27974.62,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28004.87,
+      28010.8,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28250.47,
+      28256.44,
       27354.94,
       27400.36,
       27412.11,
-      28653.39,
+      28659.45,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27911.28,
+      27917.18,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28091.66,
+      28097.61,
       27686.17,
       27404.78,
       27351.97,
       27846.5,
       27905.42,
       27661.43,
-      27814.81
+      27820.69
     ],
     "currency": "PLN"
   }
