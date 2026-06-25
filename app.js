@@ -5,8 +5,8 @@
 const DATA_URL = 'data.json';
 const REFRESH_INTERVAL = 60000; // 60s - dashboard refreshes itself, no reload needed
 const FRESH_THRESHOLD_MINUTES = 30;
-const MAX_ARTICLES_PER_CATEGORY = 30;
-const MAX_ARTICLES_PER_SUBCATEGORY = 30;
+const MAX_ARTICLES_PER_CATEGORY = 50;
+const MAX_ARTICLES_PER_SUBCATEGORY = 50;
 
 let map, sp500Chart;
 let mapMarkers = [];

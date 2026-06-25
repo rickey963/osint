@@ -89,14 +89,26 @@ SOURCES_CYBER = [
 SOURCES_FINANSE = [
     ("Money.pl", "https://www.money.pl/rss/rss.xml", "rss"),
     ("Bankier.pl", "https://www.bankier.pl/rss/wiadomosci.xml", "rss"),
-    ("Forbes Polska", "https://www.forbes.pl/rss", "rss"),
+    # forbes.pl/rss now serves the full HTML homepage instead of an RSS/XML
+    # document (confirmed: feedparser gets 0 entries, "not well-formed"
+    # bozo_exception) - the native feed is dead. Google News still indexes
+    # the domain fine, so routed through that instead, same as PAP/Polskie
+    # Radio 24 above for the same reason.
+    ("Forbes Polska", _google_news_url("forbes.pl"), "google_news"),
     ("300Gospodarka", "https://300gospodarka.pl/feed", "rss"),
     ("Inwestomat (Albert Rokicki)", "https://www.inwestomat.eu/feed/", "rss"),
     ("Strefa Inwestorów", "https://strefainwestorow.pl/rss.xml", "rss"),
     ("Forsal.pl", _google_news_url("forsal.pl"), "google_news"),
     ("Biznesradar", _google_news_url("biznesradar.pl"), "google_news"),
     ("StockWatch.pl", _google_news_url("stockwatch.pl"), "google_news"),
-    ("Piotr Cymcyk", _google_news_url("cymcyk.pl"), "google_news"),
+    # cymcyk.pl no longer resolves to the blog - it now redirects to a
+    # domain-marketplace parking page (confirmed: https://www.cymcyk.pl ->
+    # https://www.fruits.co/en/domain/cymcyk.pl), and Google News has zero
+    # items indexed for the domain at all, not just within the freshness
+    # window. Disabled rather than silently left in returning nothing -
+    # needs a replacement URL from the user if Piotr Cymcyk now publishes
+    # elsewhere (e.g. a different domain, Substack, X/Twitter).
+    # ("Piotr Cymcyk", _google_news_url("cymcyk.pl"), "google_news"),
 ]
 
 ALL_SECTIONS = {

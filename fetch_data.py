@@ -26,8 +26,8 @@ from scraper import sources
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-MAX_ARTICLES_PER_SOURCE = 8
-MAX_ARTICLES_PER_SECTION = 30
+MAX_ARTICLES_PER_SOURCE = 30
+MAX_ARTICLES_PER_SECTION = 50
 FRESHNESS_WINDOW_HOURS = 72
 DEDUPE_OVERLAP_THRESHOLD = 0.5
 
@@ -186,6 +186,41 @@ def _dedupe(items):
     return kept
 
 
+# A flat "take the 50 newest across the whole section" cap after dedup let a
+# single high-volume source (e.g. PAP/Reuters/Antyweb routinely return 50-100
+# items a day) fill most or all of those slots, leaving low-volume sources
+# (Benchmark.pl, Instalki.pl...) with nothing even though they had something
+# to say - this was the actual root cause of "I gave you this source but it
+# never shows up" (confirmed: Benchmark.pl's feed itself works fine, it was
+# just always crowded out downstream). Round-robin by source instead: one
+# pass takes each source's next-most-recent item before any source gets a
+# second, guaranteeing every configured source a fair shot at a slot. Same
+# fix already proven in the medint project's fetch_data.py.
+PER_SOURCE_SECTION_CAP = 15
+
+
+def _cap_fairly_by_source(items, total_cap, per_source_cap):
+    by_source = {}
+    for item in items:  # already sorted newest-first
+        by_source.setdefault(item['source'], []).append(item)
+    result = []
+    while len(result) < total_cap:
+        progressed = False
+        for bucket in by_source.values():
+            if not bucket:
+                continue
+            if sum(1 for r in result if r['source'] == bucket[0]['source']) >= per_source_cap:
+                continue
+            result.append(bucket.pop(0))
+            progressed = True
+            if len(result) >= total_cap:
+                break
+        if not progressed:
+            break
+    result.sort(key=lambda it: it['date'], reverse=True)
+    return result
+
+
 def fetch_section(name_to_url_kind):
     """Fetches every source in a section concurrently, dedupes, caps, then
     translates+decodes only the items that actually survive (cheaper and
@@ -195,7 +230,7 @@ def fetch_section(name_to_url_kind):
         all_items = [item for f in futures for item in f.result()]
 
     all_items.sort(key=lambda it: it['date'], reverse=True)
-    deduped = _dedupe(all_items)[:MAX_ARTICLES_PER_SECTION]
+    deduped = _cap_fairly_by_source(_dedupe(all_items), MAX_ARTICLES_PER_SECTION, PER_SOURCE_SECTION_CAP)
 
     def _finalize(item):
         title_original = item['title']
