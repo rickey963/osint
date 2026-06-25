@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T00:26:57Z",
+  "last_updated": "2026-06-25T00:36:16Z",
   "poland": [
     {
       "title": "Kurs JPY/PLN 24 czerwca 2026 r.",
@@ -244,7 +244,7 @@
   ],
   "world_security": [
     {
-      "title": "Wenezuelą wstrząsnęły potężne, następujące po sobie trzęsienia ziemi",
+      "title": "Trzęsienie ziemi w Wenezueli: potężne, następujące po sobie trzęsienia ziemi zawalają budynki w stolicy Caracas",
       "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
       "date": "2026-06-24T23:50:05Z",
       "source": "The Guardian",
@@ -696,6 +696,14 @@
       "summary": "Niewielka cząstka powietrza w butelce powoduje wchodzenie i wychodzenie tlenu i innych substancji chemicznych."
     },
     {
+      "title": "Hugin Superior ruszył w morze. Norwegia mapuje głębiny do 6 tys. m",
+      "url": "https://www.benchmark.pl/hugin-superior-ruszyl-w-morze-norwegia-mapuje-glebiny-do-6-tys-m-7300355524442144a",
+      "date": "2026-06-24T20:03:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Na początku czerwca na północnych akwenach Morza Norweskiego wystartowała pierwsza misja autonomicznego drona podwodnego Hugin Superior. Norwegowie liczą, że pojazd zdolny pracować nawet na głębokości 6 tys. metrów dostarczy przełomowych danych do mapowania i zarządzania obszarami głębinowymi."
+    },
+    {
       "title": "GitHub nie powinien być zależny przy publikowaniu Rusta na crates.io",
       "url": "https://infosec.exchange/@mttaggart/116806641273303255",
       "date": "2026-06-24T19:40:11Z",
@@ -736,6 +744,14 @@
       "summary": "Steam Machine zadebiutował kilka dni temu, a pierwsze redakcje mają już okazję testować konsolę Valve. Pierwsze wnioski są całkiem ciekawe."
     },
     {
+      "title": "Euclid sfotografował serce Drogi Mlecznej. Ponad 60 mln gwiazd",
+      "url": "https://www.benchmark.pl/euclid-sfotografowal-serce-drogi-mlecznej-ponad-60-mln-gwiazd-7300355048536096a",
+      "date": "2026-06-24T18:01:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Sonda Euclid Europejskiej Agencji Kosmicznej przygotowała jak dotąd największy i najbardziej szczegółowy obraz centralnych rejonów Drogi Mlecznej, na którym widać ponad 60 mln gwiazd. Materiał z 26-godzinnej obserwacji ma pomóc astronomom m.in. w poszukiwaniu egzoplanet metodą mikrosoczewkowania oraz w dokładniejszym wyznaczaniu ich mas."
+    },
+    {
       "title": "Prywatny ekran nie tylko na Samsungu. Chińczycy wezmą najlepsze",
       "url": "https://spidersweb.pl/2026/06/prywatny-ekran-samsung-chinskie-smartfony.html",
       "date": "2026-06-24T17:47:00Z",
@@ -774,22 +790,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Polacy zostawiają w Uberze dziwne rzeczy. Lista jest zabawna."
-    },
-    {
-      "title": "Skoda Peaq rozpoczyna nową w erę. Z Androidem i Sonosem na pokładzie",
-      "url": "https://antyweb.pl/skoda-peaq-rozpoczyna-nowa-w-ere-z-androidem-i-sonosem-na-pokladzie",
-      "date": "2026-06-24T16:45:49Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Skoda oficjalnie zaprezentowała swój flagowy model Peaq, siedmioosobowego SUV-a, który pod względem gabarytów prześcignął nawet popularnego Kodiaqa, stając się największym pojazdem w portfolio producenta."
-    },
-    {
-      "title": "Duże laboratoria AI zatrudniają filozofów",
-      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
-      "date": "2026-06-24T16:40:13Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "https://archive.is/T1FJG Adres URL komentarzy: https://news.ycombinator.com/item?id=48662452 Punkty: 113 # Komentarze: 104."
     }
   ],
   "cybersecurity": [
@@ -1277,7 +1277,7 @@
     }
   ],
   "critical_alerts": [
-    "Wenezuelą wstrząsnęły potężne, następujące po sobie trzęsienia ziemi",
+    "Trzęsienie ziemi w Wenezueli: potężne, następujące po sobie trzęsienia ziemi zawalają budynki w stolicy Caracas",
     "Minister Kenii nakazuje wstrzymanie budowy amerykańskiej placówki przeciwko wirusowi Ebola"
   ],
   "map_features": [
@@ -1736,58 +1736,58 @@
       24120.4,
       24737.25,
       24758.98,
-      25724.22,
+      25734.44,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26890.9,
+      26901.59,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27038.15,
+      27048.89,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27283.58,
+      27294.43,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27920.6,
+      27931.7,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27956.72,
+      27967.83,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28201.89,
+      28213.1,
       27354.94,
       27400.36,
       27412.11,
-      28604.12,
+      28615.48,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27863.28,
+      27874.36,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28043.36,
+      28054.5,
       27686.17,
       27404.78,
       27351.97,
       27846.5,
       27905.42,
       27661.43,
-      27766.98
+      27778.02
     ],
     "currency": "PLN"
   }
