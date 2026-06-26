@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-06-26T02:31:01Z",
+  "last_updated": "2026-06-26T02:35:41Z",
   "poland": [
+    {
+      "title": "Estera Flieger: Precyzyjny Pawlikowski",
+      "url": "https://www.rp.pl/publicystyka/art44692481-estera-flieger-precyzyjny-pawlikowski",
+      "date": "2026-06-26T02:30:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Ulubionym miejscem Pawła Pawlikowskiego jest powojenna Europa. Ulubionym miejscem bohaterów i bohaterek jego filmów są przeważnie opuszczone kościoły. Wśród ruin schodzą się kochankowie w „Zimnej wojnie”."
+    },
+    {
+      "title": "Paraliż właścicielski – jak zapobiec sądowej likwidacji spółki?",
+      "url": "https://pro.rp.pl/biznes/art44676121-paraliz-wlascicielski-jak-zapobiec-sadowej-likwidacji-spolki",
+      "date": "2026-06-26T02:30:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Odpowiednie sformułowanie zapisów umowy spółki z ograniczoną odpowiedzialnością może pomóc uniknąć sądowego rozwiązania spółki w przypadku konfliktu wspólników."
+    },
+    {
+      "title": "Mimo klęsk na Ukrainie Putin nie zrezygnował z odbudowy imperium",
+      "url": "https://www.rp.pl/polityka/art44692711-mimo-klesk-na-ukrainie-putin-nie-zrezygnowal-z-odbudowy-imperium",
+      "date": "2026-06-26T02:30:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Kreml zaczął działania wobec trzech nieuznawanych na świecie, separatystycznych quasipaństw. Może to świadczyć o tym, że chce je w końcu przyłączyć."
+    },
     {
       "title": "USA „całkowicie zamknięte” dla uchodźców. Haitańczycy mają być deportowani",
       "url": "https://www.rp.pl/polityka/art44702371-usa-calkowicie-zamkniete-dla-uchodzcow-haitanczycy-maja-byc-deportowani",
@@ -48,30 +72,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Chętnych na nowe dwupokojowe mieszkania jest tak dużo, że deweloperzy mają problem z uzupełnianiem oferty. Lokale, które dopiero trafiają na rynek są już droższe – wynika z analiz BIG DATA RynekPierwotny.pl."
-    },
-    {
-      "title": "Kapitalizacja państwowych spółek w czasie rządów Tuska wzrosła o 100 proc.",
-      "url": "https://pro.rp.pl/raporty-ekonomiczne/art44691001-kapitalizacja-panstwowych-spolek-w-czasie-rzadow-tuska-wzrosla-o-100-proc",
-      "date": "2026-06-26T02:02:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Łączna wartość akcji notowanych na GPW spółek, nad którymi kontrolę sprawuje Skarb Państwa, wzrosła w ciągu 2,5 roku działania rządu Donalda Tuska z 240,6 mld zł do 480,7 mld zł. Rosła przy tym wyraźnie szybciej niż rynek."
-    },
-    {
-      "title": "Cyfrowy filtr na big techy. Polski biznes chce testu suwerenności",
-      "url": "https://pro.rp.pl/raporty-ekonomiczne/art44693421-cyfrowy-filtr-na-big-techy-polski-biznes-chce-testu-suwerennosci",
-      "date": "2026-06-26T02:01:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Rząd pracuje nad mechanizmem kontroli technologii kupowanych przez państwo, który ma ograniczyć ryzyko uzależnienia cyfrowego od globalnych dostawców. Pomysł zyskał poparcie rodzimych firm. Eksperci mają jednak uwagi."
-    },
-    {
-      "title": "Koniec lex deweloper. Jak zmieni się rynek nieruchomości od 1 lipca",
-      "url": "https://www.rp.pl/regulacje-prawne-i-przepisy/art44680971-koniec-lex-deweloper-jak-zmieni-sie-rynek-nieruchomosci-od-1-lipca",
-      "date": "2026-06-25T22:05:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Przepisy przejściowe specustawy są nieprecyzyjne i prawdopodobnie będą wymagały doprecyzowania w orzecznictwie – ocenia ekspertka."
     },
     {
       "title": "To był heroiczny bój Ekwadoru. Niemcy ograni, sensacja stała się faktem - Polskie Radio 24",
@@ -441,7 +441,7 @@
       "date": "2026-06-26T01:54:39Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Vanessa Silva z BBC relacjonuje przebieg wydarzeń w Caracas, w których miasto zmaga się z następstwami kolejnych wstrząsów."
+      "summary": "Vanessa Silva z BBC donosi z Caracas, jak miasto boryka się z następstwami kolejnych wstrząsów."
     },
     {
       "title": "Zespoły ratownicze pędzą do Wenezueli w obawie, że tysiące osób zginęło w trzęsieniach ziemi",
@@ -449,7 +449,7 @@
       "date": "2026-06-26T01:34:30Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Stany Zjednoczone wśród krajów wysyłają pomoc w poszukiwaniu ocalałych na północnym wybrzeżu, gdzie dziesiątki budynków zostało zrównanych z ziemią, gdy oficjalna liczba ofiar śmiertelnych sięga 235. Zespoły ratownicze pędzą na zniszczone północne wybrzeże Wenezueli po tym, jak niemal jednoczesne trzęsienia ziemi obróciły w gruzy dziesiątki budynków, zabijając co najmniej 235 osób, ale obawiano się, że liczba ofiar śmiertelnych będzie jeszcze tysiące. Amerykański sekretarz stanu Marco Rubio powiedział, że departament obrony pomoże zespołom poszukiwawczo-ratowniczym rozmieścić siły poszukiwawczo-ratownicze w dotkniętym regionie po Główna brama Wenezueli, międzynarodowe lotnisko Simón Bolívar, w pobliżu stolicy, Caracas, zostało poważnie uszkodzone w wyniku trzęsień o magnitudzie 7,2 i 7,5 w odstępie niecałych 40 sekund, późnym popołudniem w środę. Kontynuuj czytanie..."
+      "summary": "Stany Zjednoczone wśród krajów wysyłają pomoc w poszukiwaniu ocalałych na północnym wybrzeżu, gdzie dziesiątki budynków zostało zrównanych z ziemią, gdy oficjalna liczba ofiar śmiertelnych sięga 235. Zespoły ratownicze pędzą na zniszczone północne wybrzeże Wenezueli po tym, jak niemal jednoczesne trzęsienia ziemi obróciły w gruz dziesiątki budynków, zabijając co najmniej 235 osób, ale obawiano się, że liczba ofiar śmiertelnych będzie jeszcze tysiące. Amerykański sekretarz stanu Marco Rubio powiedział, że departament obrony pomoże zespołom poszukiwawczo-ratowniczym rozmieścić siły poszukiwawczo-ratownicze w dotkniętym regionie po Główna brama Wenezueli, międzynarodowe lotnisko Simón Bolívar, w pobliżu stolicy, Caracas, zostało poważnie uszkodzone w wyniku trzęsień o magnitudzie 7,2 i 7,5 w odstępie niecałych 40 sekund, późnym popołudniem w środę. Kontynuuj czytanie..."
     },
     {
       "title": "Xi Jinping gościł w tym roku kilkunastu przywódców, ponieważ „mocarstwa średnie” patrzą poza USA",
@@ -457,7 +457,7 @@
       "date": "2026-06-26T01:28:11Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Przywódca Chin chce promować swoją alternatywę dla obecnego porządku światowego, a jego wysiłkom pomaga kapryśny amerykański Xi Jinping spotyka się w piątek z nowym premierem Bangladeszu. Jest to ostatnie z fali światowych przywódców, którzy odwiedzą Pekin w tym roku, w związku z budowaniem przez chińskiego przywódcę swoich wpływów i powiązań gospodarczych oraz dążeniem do „przesunięcia równowagi sił” z Zachodu. Spotkanie Xi z Tarique Rahmanem następuje niecałe dwa tygodnie po powitaniu przez chińskiego przywódcę wojska Birmy główna, która została prezydentem Min Aung Hlaing w Pekinie. Kontynuuj czytanie..."
+      "summary": "Przywódca Chin chce promować swoją alternatywę dla obecnego porządku światowego, a jego wysiłkom pomaga kapryśny amerykański Xi Jinping spotyka się w piątek z nowym premierem Bangladeszu. Jest to ostatnie z fali światowych przywódców, którzy odwiedzą Pekin w tym roku, w związku z budowaniem swoich wpływów i powiązań gospodarczych oraz dążeniem do „przesunięcia równowagi sił” z Zachodu. Spotkanie Xi z Tarique Rahmanem następuje niecałe dwa tygodnie po powitaniu przez chińskiego przywódcę wojska Birmy główna, która została prezydentem Min Aung Hlaing w Pekinie. Kontynuuj czytanie..."
     },
     {
       "title": "Australijscy muzycy wydają ostrzeżenie po tym, jak Nick Cave, Kylie i wiele innych osób siorbało w narzędzie szkoleniowe AI",
@@ -465,7 +465,7 @@
       "date": "2026-06-26T01:09:13Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "„To wszystko stało się po prostu bezużyteczne” – mówi Paul Dempsey z Something For Kate, gdy sztuczna inteligencja przegląda miliony piosenek, aby nauczyć się tworzyć muzykę. Śledź nasz australijski blog z aktualnościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj e-maile z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Paul Dempsey i Bernard Fanning należą do znanych australijskich muzyków zdenerwowanych znalezieniem ich oryginalnych piosenek w zbiorach danych wykorzystywanych do szkolenia sztucznej inteligencji. Narzędzie do wyszukiwania zbiorów danych stworzone niedawno przez amerykańską publikację The Atlantic ujawnia miliony Twórczość została pobrana z Internetu w celu szkolenia przełomowej technologii. Kontynuuj czytanie..."
+      "summary": "„To wszystko stało się po prostu bezużyteczne” – mówi Paul Dempsey z Something For Kate, gdy sztuczna inteligencja przegląda miliony piosenek, aby nauczyć się tworzyć muzykę. Śledź nasz australijski blog z aktualnościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj e-maile z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Paul Dempsey i Bernard Fanning należą do znanych australijskich muzyków zdenerwowanych znalezieniem ich oryginalnych piosenek w zbiorach danych wykorzystywanych do szkolenia sztucznej inteligencji. Narzędzie do wyszukiwania zbiorów danych stworzone niedawno przez amerykańską publikację The Atlantic ujawnia miliony Twórczość została pobrana z Internetu w celu szkolenia w zakresie przełomowej technologii. Kontynuuj czytanie..."
     },
     {
       "title": "ONZ wstrzymuje plan ewakuacji w Cieśninie Ormuz po ataku statku towarowego",
@@ -476,12 +476,12 @@
       "summary": "Według doniesień statek został trafiony „nieznanym pociskiem” w pobliżu Omanu, ale nie zgłoszono żadnych ofiar."
     },
     {
-      "title": "„Nie wykryto przestępstwa”: policja stanu Wiktoria kończy dochodzenie w sprawie zarzutu Moiry Deeming o napaść ze strony Matthew Guya",
+      "title": "„Nie wykryto żadnego przestępstwa”: policja stanu Wiktoria kończy dochodzenie w sprawie zarzutu Moiry Deeming o napaść ze strony Matthew Guya",
       "url": "https://www.theguardian.com/australia-news/2026/jun/26/victoria-police-close-investigation-moira-deeming-allegation-assault-by-matthew-guy-saying-no-offence-detected-ntwnfb",
       "date": "2026-06-26T00:17:41Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Guy oskarża Uznanie za wysuwanie „śmiesznych i bezpodstawnych” twierdzeń w związku z zmaganiami Partii Liberalnej z konsekwencjami. Śledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Policja zakończyła dochodzenie w sprawie zarzutów wiktoriańskiej parlamentarzystki liberałów Moiry Deeming, że jej kolega Matthew Guy ją napadł, stwierdzając, że „nie wykryto przestępstwa”. Deeming zgłosił policji 16 czerwca tego Guya, rzecznik opozycji ds. transportu publicznego zaatakował ją 23 maja podczas wydarzenia społeczności macedońskiej w Sunshine. Kontynuuj czytanie..."
+      "summary": "Guy oskarża Uznanie za wysuwanie „śmiesznych i bezpodstawnych” twierdzeń w związku z zmaganiami Partii Liberalnej z konsekwencjami. Śledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Policja zakończyła dochodzenie w sprawie zarzutów wiktoriańskiej parlamentarzystki liberałów Moiry Deeming, że jej kolega Matthew Guy ją napadł, stwierdzając, że „nie wykryto przestępstwa”. Deeming zgłosił policji 16 czerwca tego Guya, rzecznik opozycji ds. transportu publicznego, zaatakował ją 23 maja podczas wydarzenia społeczności macedońskiej w Sunshine. Kontynuuj czytanie..."
     },
     {
       "title": "Paryż ogranicza spożycie i sprzedaż alkoholu w związku z przesuwaniem się fali upałów w Europie na wschód",
@@ -508,14 +508,6 @@
       "summary": "Robinson, którego prawdziwe nazwisko brzmi Stephen Yaxley-Lennon, jest antyislamskim, skrajnie prawicowym działaczem politycznym, dobrze znanym w Wielkiej Brytanii i Europie. Śledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Człowiek, który nazywa siebie Tommym Robinsonem, zyskał rozgłos w Australii po tym, jak Karl Stefanovic, główny bohater telewizji porannej, opublikował wywiad z Robinsonem w ramach swojego podcastu. Skutki były szybkie. Nine Entertainment, największe lokalne imperium medialne w Australii, zerwało relacje ze Stefanoviciem i w piątek nie pojawi się on w audycji radiowej z Eddiem McGuire'em. Kontynuuj czytanie..."
     },
     {
-      "title": "Według doniesień medialnych Samsung ogłosi inwestycje o wartości 648 miliardów dolarów w Korei Południowej – Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/samsung-invest-1000-trillion-won-south-korea-media-report-says-2026-06-25/",
-      "date": "2026-06-25T23:37:26Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Jak podaje Reuters, Samsung ogłosi inwestycje o wartości 648 miliardów dolarów w Korei Południowej."
-    },
-    {
       "title": "Stany Zjednoczone kontynuują sprzedaż Turcji silników odrzutowych za 700 milionów dolarów pomimo obaw prawodawców – Reuters",
       "url": "https://www.reuters.com/world/middle-east/trump-notifies-congress-turkey-engine-sale-2026-06-25/",
       "date": "2026-06-25T23:28:26Z",
@@ -524,7 +516,7 @@
       "summary": "Stany Zjednoczone kontynuują sprzedaż Turcji silników odrzutowych o wartości 700 milionów dolarów pomimo obaw prawodawcy Reutersa."
     },
     {
-      "title": "Ekwador walczy, by zszokować Niemcy i dotrzeć do fazy pucharowej – Reuters",
+      "title": "Ekwador walczy, by zaszokować Niemcy i dotrzeć do fazy pucharowej – Reuters",
       "url": "https://www.reuters.com/sports/soccer/ecuador-fight-back-shock-germany-reach-knockout-stage-2026-06-25/",
       "date": "2026-06-25T23:24:31Z",
       "source": "Reuters",
@@ -546,6 +538,14 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Starlink zapewni użytkownikom Wenezueli bezpłatny dostęp do Internetu po trzęsieniach ziemi Reuters."
+    },
+    {
+      "title": "Jak wynika z raportu, Samsung Group ujawni w Korei Południowej inwestycje o wartości 648 miliardów dolarów, w tym zakłady produkujące chipy",
+      "url": "https://www.reuters.com/world/asia-pacific/samsung-invest-1000-trillion-won-south-korea-media-report-says-2026-06-25/",
+      "date": "2026-06-25T23:20:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Jak wynika z raportu Reuters, Samsung Group ujawni inwestycje w Korei Południowej o wartości 648 miliardów dolarów, w tym w fabryki chipów."
     },
     {
       "title": "Kongo twierdzi, że liczba potwierdzonych przypadków wirusa Ebola wzrosła do 1155 – Reuters",
@@ -604,12 +604,12 @@
       "summary": "OpenAI skłania się ku czekaniu na IPO do przyszłego roku, podaje NYT Reuters."
     },
     {
-      "title": "Axios mówi, że spiker Izby Reprezentantów prześle projekt ustawy mieszkaniowej do Białego Domu – Reuters",
+      "title": "Axios mówi, że spiker Izby Reprezentantów prześle do Białego Domu projekt ustawy mieszkaniowej – Reuters",
       "url": "https://www.reuters.com/world/us/house-speaker-send-housing-bill-white-house-axios-says-2026-06-25/",
       "date": "2026-06-25T21:39:46Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Axios twierdzi, że spiker Izby Reprezentantów prześle projekt ustawy mieszkaniowej do Białego Domu."
+      "summary": "Axios, mówi Reuters, spiker Izby Reprezentantów prześle projekt ustawy mieszkaniowej do Białego Domu."
     },
     {
       "title": "Sąd Najwyższy Stanów Zjednoczonych rezygnuje z pozwów przeciwnowotworowych Roundup, wygrywając dla Bayera – Reuters",
@@ -657,15 +657,7 @@
       "date": "2026-06-25T19:31:43Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Kennedy wielokrotnie powtarzał, że podróż do Samoa w 2019 r. „nie ma nic wspólnego ze szczepionkami”. E-mail od jego ówczesnego kolegi informuje, że byli na „misji” związanej ze szczepionkami. Pojawiły się nowe dowody na to, że Robert F. Kennedy Jr. przebywał na „misji” związanej ze szczepionkami, kiedy odwiedził Samoa przed epidemią śmiertelnej odry w 2019 r., co rodzi dalsze pytania dotyczące tego, czy sekretarz zdrowia USA okłamał Senat USA, mówiąc, że podróż „nie ma nic wspólnego ze szczepionkami”. Z dokumentów uzyskanych przez „The Guardian” wynika, że kolega Kennedy’ego powiedział samoańskim urzędnikom w e-mailu, że on i Kennedy przybędą w ramach tej podróży misji mającej na celu zbadanie dokumentacji medycznej narodu wyspiarskiego w następstwie „przerwy w szczepieniach”. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Sąd Najwyższy Stanów Zjednoczonych obniża limity dotyczące broni krótkiej na Hawajach – Reuters",
-      "url": "https://www.reuters.com/world/us-supreme-court-rules-challenge-hawaii-handgun-limits-2026-06-25/",
-      "date": "2026-06-25T19:25:38Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Sąd Najwyższy Stanów Zjednoczonych znosi ograniczenia dotyczące broni palnej na Hawajach Reuters."
+      "summary": "Kennedy wielokrotnie powtarzał, że podróż do Samoa w 2019 r. „nie ma nic wspólnego ze szczepionkami”. E-mail od jego ówczesnego kolegi informuje, że byli na „misji” związanej ze szczepionkami. Pojawiły się nowe dowody na to, że Robert F. Kennedy Jr. przebywał na „misji” związanej ze szczepionkami, kiedy odwiedził Samoa przed epidemią śmiertelnej odry w 2019 r., co rodzi dalsze pytania dotyczące tego, czy sekretarz zdrowia USA okłamał Senat USA, mówiąc, że podróż „nie ma nic wspólnego ze szczepionkami”. Z dokumentów uzyskanych przez „The Guardian” wynika, że kolega Kennedy’ego powiedział samoańskim urzędnikom w e-mailu, że on i Kennedy przybędą w ramach podróży misji mającej na celu zbadanie dokumentacji medycznej narodu wyspiarskiego w następstwie „przerwy w szczepieniach”. Kontynuuj czytanie..."
     },
     {
       "title": "SpaceX planuje budowę gazociągu „Starpipe” do zasilania rakiet Starship – Reuters",
@@ -674,6 +666,14 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "SpaceX planuje budowę gazociągu „Starpipe” do zasilania rakiet Starship Reuters."
+    },
+    {
+      "title": "Micron wyprzedza Meta i Teslę pod względem wartości rynkowej w obliczu nieustającego zapotrzebowania na infrastrukturę AI – Reuters",
+      "url": "https://www.reuters.com/business/micron-overtakes-meta-market-value-amid-relentless-ai-infrastructure-demand-2026-06-25/",
+      "date": "2026-06-25T19:15:23Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Micron wyprzedza Meta i Teslę pod względem wartości rynkowej w obliczu nieustającego zapotrzebowania na infrastrukturę AI Reuters."
     },
     {
       "title": "Kobiety oskarżające się o gwałt i napaść na tle seksualnym we Francji wzywają do zniesienia przedawnienia",
@@ -713,7 +713,7 @@
       "date": "2026-06-25T16:53:43Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Temperatury powiązane ze śmiercią trzeciego dziecka we Francji, gdzie w trzech czwartych kraju obowiązuje alert dotyczący ekstremalnych upałów. W Wielkiej Brytanii i Szwajcarii odnotowano w czwartek najwyższą temperaturę w historii w czerwcu, podczas gdy brutalnie wysokie temperatury spowodowane kryzysem klimatycznym powiązano ze śmiercią trzeciego malucha we Francji i gwałtownym wzrostem liczby nagłych przypadków medycznych w całej Europie. Nowa tymczasowa najwyższa temperatura w Wielkiej Brytanii wynosząca 36,4°C (97,5°F), zarejestrowana w Yeovilton w Somerset, przekroczyła środowy czerwcowy rekord wynoszącej 36,1°C w Gosport w Hampshire, która przekroczyła poprzedni szczyt wynoszący 35,6°C ustanowiony w Southampton w 1976 r. Kontynuuj czytanie..."
+      "summary": "Temperatury powiązane ze śmiercią trzeciego dziecka we Francji, gdzie w trzech czwartych kraju obowiązuje alert dotyczący ekstremalnych upałów. W Wielkiej Brytanii i Szwajcarii odnotowano w czwartek najwyższą w historii czerwcową temperaturę, natomiast brutalnie wysokie temperatury spowodowane kryzysem klimatycznym powiązano ze śmiercią trzeciego malucha we Francji i gwałtownym wzrostem liczby nagłych przypadków medycznych w całej Europie. Nowa tymczasowa najwyższa temperatura w Wielkiej Brytanii wynosząca 36,4°C (97,5°F), zarejestrowana w Yeovilton w Somerset, przekroczyła środowy czerwcowy rekord wynoszącej 36,1°C w Gosport w Hampshire, która przekroczyła poprzedni szczyt wynoszący 35,6°C, który miał miejsce w Southampton w 1976 r. Kontynuuj czytanie..."
     },
     {
       "title": "Iran odrzuca wspierany przez ONZ plan uwolnienia statków uwięzionych w cieśninie Ormuz",
@@ -766,9 +766,17 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualizacje na żywo z Wenezueli: Poszukiwanie ocalałych staje się pilniejsze niż dzień po trzęsieniach ziemi",
+      "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
+      "date": "2026-06-26T02:29:17Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Według rządu Wenezueli w kolejnych trzęsieniach ziemi zginęło co najmniej 235 osób, a ponad 4300 zostało rannych. Mieszkańcy portowego miasta La Guaira oszacowali, że pod gruzami uwięzione zostały setki osób. Spodziewano się, że liczba ofiar wzrośnie."
+    },
+    {
       "title": "Minister zdrowia Wenezueli twierdzi, że w wyniku katastrofalnych trzęsień ziemi zginęło około 235 osób, a 4300 zostało rannych – AP News",
       "url": "https://apnews.com/article/venezuela-earthquake-caracas-rodriguez-aid-0a62e6fc9feb5202a750c4fbb11a6aec",
-      "date": "2026-06-26T02:15:00Z",
+      "date": "2026-06-26T02:25:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Minister zdrowia Wenezueli twierdzi, że w wyniku katastrofalnych trzęsień ziemi zginęło około 235 osób, a 4300 zostało rannych."
@@ -780,14 +788,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Adriana Loureiro Fernandez, fotografka „The New York Times”, opisuje scenę na miejscu po trzęsieniu ziemi w Wenezueli."
-    },
-    {
-      "title": "Aktualizacje na żywo z Wenezueli: Poszukiwanie ocalałych staje się pilniejsze niż dzień po trzęsieniach ziemi",
-      "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
-      "date": "2026-06-26T02:12:12Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Według rządu Wenezueli w kolejnych trzęsieniach ziemi zginęło co najmniej 235 osób, a ponad 4300 zostało rannych. Mieszkańcy portowego miasta La Guaira oszacowali, że pod gruzami uwięzione zostały setki osób. Spodziewano się, że liczba ofiar wzrośnie."
     },
     {
       "title": "Niszczycielskie trzęsienia ziemi wystawią na próbę nowo nawiązany sojusz Wenezueli z USA",
@@ -803,7 +803,7 @@
       "date": "2026-06-26T00:17:51Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Protest, będący wydarzeniem corocznym, stał się wizytówką rosnącej siły politycznej młodzieży w Kenii."
+      "summary": "Protest, będący corocznym wydarzeniem, stał się wizytówką rosnącej siły politycznej młodzieży w Kenii."
     },
     {
       "title": "Po trzęsieniach ziemi w Wenezueli mieszkańcy La Guaira szukają bliskich w gruzach",
@@ -836,6 +836,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Zależy to od wody, powietrza i tego, jak szybko ratownikom uda się odnaleźć ludzi."
+    },
+    {
+      "title": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek – AP News",
+      "url": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-25-2026-862164c2aecbdc376dea434198eaf75f",
+      "date": "2026-06-25T22:34:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek AP News."
     },
     {
       "title": "Iran uderza w statek w cieśninie Ormuz, utrudniając wysiłki mające na celu przywrócenie ruchu",
@@ -894,7 +902,7 @@
       "summary": ""
     },
     {
-      "title": "Sąd Najwyższy otwiera drogę administracji Trumpa do ożywienia restrykcyjnej polityki wobec osób ubiegających się o azyl – AP News",
+      "title": "Sąd Najwyższy otwiera administracji Trumpa drogę do ożywienia restrykcyjnej polityki wobec osób ubiegających się o azyl – AP News",
       "url": "https://apnews.com/article/supreme-court-immigration-trump-d36d0092617c7115780c06de38e2000f",
       "date": "2026-06-25T20:55:00Z",
       "source": "Associated Press",
@@ -907,7 +915,7 @@
       "date": "2026-06-25T19:18:37Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Ekstremalne upały dławiące Europę wywróciły do ​​góry nogami Tydzień Klimatyczny w Londynie."
+      "summary": "Ekstremalne upały, które tłumią Europę, udaremniły Tydzień Klimatyczny w Londynie."
     },
     {
       "title": "Sąd Najwyższy uchyla hawajskie prawo wymagające pozwolenia na noszenie broni w sklepach i hotelach – AP News",
@@ -926,7 +934,7 @@
       "summary": "Orzeczenie Sądu Najwyższego blokuje tysiące pozwów przeciwko producentowi środka chwastobójczego Roundup AP News."
     },
     {
-      "title": "Wyłącznie dla AP: senator Van Hollen popiera El-Sayeda w Senacie stanu Michigan w zerwaniu z przywództwem Demokratów – AP News",
+      "title": "Tylko dla AP: senator Van Hollen popiera El-Sayeda w Senacie stanu Michigan w zerwaniu z przywództwem Demokratów – AP News",
       "url": "https://apnews.com/article/michigan-democrats-senate-elsayed-van-hollen-506138f60767f1907340eb89373c80c8",
       "date": "2026-06-25T11:18:14Z",
       "source": "Associated Press",
@@ -940,14 +948,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "UE udostępnia pakiet pożyczek o wartości 3 miliardów euro na odbudowę Ukrainy w ramach dwuletniego zobowiązania AP News."
-    },
-    {
-      "title": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek – AP News",
-      "url": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-25-2026-862164c2aecbdc376dea434198eaf75f",
-      "date": "2026-06-25T06:52:50Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek AP News."
     },
     {
       "title": "Republikanie w Senacie przeprowadzają nowe głosowanie w sprawie sił wojennych po tym, jak Trump skrytykował ich na posiedzeniu Kapitolu – AP News",
@@ -1061,7 +1061,7 @@
       "date": "2026-06-26T00:00:46Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Richard Speed ​​/ The Register: Firma Elastic ogłasza redukcję zatrudnienia o ~7% i twierdzi, że „postępy w dziedzinie sztucznej inteligencji i automatyzacji pozwalają nam pracować w mniejszych zespołach”; ESTC zamknął się o 8,70% &mdash; Dyrektor generalny twierdzi, że automatyzacja umożliwia szczuplejsze zespoły, ponieważ inżynieria jest podzielona na trzy główne obszary."
+      "summary": "Richard Speed ​​/ The Register: Elastic ogłasza redukcję zatrudnienia o ~7% i twierdzi, że „postępy w sztucznej inteligencji i automatyzacji pozwalają nam pracować w mniejszych zespołach”; ESTC zamknął się o 8,70% &mdash; Dyrektor generalny twierdzi, że automatyzacja umożliwia szczuplejsze zespoły, ponieważ inżynieria jest podzielona na trzy główne obszary."
     },
     {
       "title": "YouTube wprowadza zmiany w Shorts, w tym dodaje ustawienie podwójnej szybkości odtwarzania, eliminuje przycisk „Nie podoba mi się” i nie tylko (Lucas Ropek/TechCrunch)",
@@ -1069,7 +1069,7 @@
       "date": "2026-06-25T23:55:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Lucas Ropek / TechCrunch: YouTube wprowadza zmiany w Shorts, w tym dodaje ustawienie podwójnej szybkości odtwarzania, co eliminuje zjawisko „niechęci”. przycisk i nie tylko &mdash; YouTube wprowadza szereg zmian w Shorts, w tym nową metodę, która pozwala użytkownikom skracać czas trwania krótkich filmów."
+      "summary": "Lucas Ropek / TechCrunch: YouTube wprowadza zmiany w Shorts, w tym dodanie ustawienia podwójnej szybkości odtwarzania, co eliminuje zjawisko „niechęci”. przycisk i nie tylko &mdash; YouTube wprowadza szereg zmian w Shorts, w tym nową metodę, która pozwala użytkownikom skracać czas trwania krótkich filmów."
     },
     {
       "title": "Doc: Departament Obrony po cichu zrewidował swoją doktrynę dotyczącą sposobu, w jaki wojsko amerykańskie wybiera cele, przewidując „systemy, w których sztuczna inteligencja inicjuje działania przy monitorowaniu przez człowieka” (Katrina Manson/Bloomberg)",
@@ -1077,7 +1077,7 @@
       "date": "2026-06-25T23:40:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Katrina Manson / Bloomberg: Doc: Departament Obrony po cichu zrewidował swoją doktrynę dotyczącą sposobu, w jaki armia amerykańska wybiera cele, przewidując „systemy, w których sztuczna inteligencja inicjuje działania przy monitorowaniu przez człowieka”. &mdash; Pentagon po cichu zrewidował swoją doktrynę dotyczącą sposobu, w jaki armia amerykańska wybiera cele w bitwie."
+      "summary": "Katrina Manson / Bloomberg: Dok.: Departament Obrony po cichu zrewidował swoją doktrynę dotyczącą sposobu, w jaki armia amerykańska wybiera cele, przewidując „systemy, w których sztuczna inteligencja inicjuje działania przy monitorowaniu przez człowieka”. &mdash; Pentagon po cichu zrewidował swoją doktrynę dotyczącą sposobu, w jaki armia amerykańska wybiera cele w bitwie."
     },
     {
       "title": "Podręcznik zbierania śmieci: sztuka automatycznego zarządzania pamięcią (wyd. 2)",
@@ -1567,7 +1567,7 @@
       "date": "2026-06-25T14:12:52Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Analiza popularnego rozszerzenia bloku reklam Google Chrome dla YouTube odkryła możliwość wykonania dowolnego kodu JavaScript. Według Island rozszerzenie o nazwie Adblock dla YouTube (identyfikator: cmedhionkhpnakcndndgjdbohmhepckk) ma ponad 10 milionów instalacji i ma plakietkę Polecane w sklepie Chrome Web Store. W opisie rozszerzenia znajduje się informacja, że ​​pozwala ono użytkownikom zapobiegać atakom web."
+      "summary": "Analiza popularnego rozszerzenia bloku reklam Google Chrome dla YouTube odkryła możliwość wykonania dowolnego kodu JavaScript. Według Island rozszerzenie o nazwie Adblock dla YouTube (identyfikator: cmedhionkhpnakcndndgjdbohmhepckk) ma ponad 10 milionów instalacji i jest oznaczone plakietką Polecane w sklepie Chrome Web Store. W opisie rozszerzenia znajduje się informacja, że ​​pozwala ono użytkownikom zapobiegać atakom web."
     },
     {
       "title": "Cztery poziomy skutecznego zapobiegania oszustwom",
@@ -1607,7 +1607,7 @@
       "date": "2026-06-25T12:24:43Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Znowu jest tam głupio. W tym tygodniu unosi się zwyczajowy zapach palonej żywności i nikt nie chce się przyznać, kto zostawił otwarte drzwi – stare dane uwierzytelniające nadal działają, zaufane aplikacje robią bzdury, sztuczki przeglądarek przeskakują płot i „normalne” przepływy pracy zamieniają się w phishing, ponieważ najwyraźniej e-maile już nie wystarczają. Najgorsze jest to, jak tanie wydają się niektóre z nich."
+      "summary": "Znowu jest tam głupio. W tym tygodniu unosi się typowy zapach palonej żywności i nikt nie chce się przyznać, kto zostawił otwarte drzwi – stare dane uwierzytelniające nadal działają, zaufane aplikacje robią bzdury, sztuczki przeglądarek przeskakują płot i „normalne” przepływy pracy zamieniają się w phishing, ponieważ najwyraźniej e-maile już nie wystarczają. Najgorsze jest to, jak tanie wydają się niektóre z nich."
     },
     {
       "title": "Seminarium internetowe: Dlaczego przejęcia kont pozostają jednym z zagrożeń, które najtrudniej powstrzymać",
@@ -1640,14 +1640,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Pomimo dużej ilości danych telemetrycznych, którymi dysponują analitycy, wiele zespołów ds. operacji bezpieczeństwa ma trudności z odpowiedzią na kilka podstawowych pytań podczas badania incydentu: Co się stało? Jakie mamy dowody? Skąd mamy wiedzieć, że widzimy to wszystko w odpowiednim kontekście?"
-    },
-    {
-      "title": "Szkolny e-dziennik od kulis &#8211; jak zaawansowane i bezpieczne jest narzędzie do zarządzania szkołą?",
-      "url": "https://niebezpiecznik.pl/post/szkolny-e-dziennik-od-kulis-jak-zaawansowane-i-bezpieczne-jest-narzedzie-do-zarzadzania-szkola/",
-      "date": "2026-06-25T10:32:01Z",
-      "source": "Niebezpiecznik",
-      "confirmed_by": 1,
-      "summary": "Z jakimi atakami najczęściej musi liczyć się dostawca szkolnego e-dziennika? Jak wiele podmiotów naprawdę korzysta z tego narzędzia? Z jakimi innymi systemami trzeba taki dziennik zintegrować i czy naprawdę łatwo będzie to zastąpić jednym państwowym rozwiązaniem?"
     },
     {
       "title": "Europa wzmacnia sektor półprzewodników. Miliony euro dla niemieckiej firmy",
@@ -1751,7 +1743,7 @@
       "date": "2026-06-24T15:59:50Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Skoordynowana akcja organów ścigania we współpracy z firmami z sektora prywatnego, w tym Bitdefender, Bitsight, ESET i Microsoft, zaowocowała zniszczeniem infrastruktury przestępczej obsługującej Amadey i StealC. „Głównym wspólnym celem było zakłócenie „linii montażowych”, których cyberprzestępcy używają do uruchamiania oprogramowania ransomware, oszustw finansowych i ataków na infrastrukturę krytyczną” – stwierdził Europol w."
+      "summary": "Skoordynowana akcja organów ścigania, we współpracy z firmami z sektora prywatnego, w tym Bitdefender, Bitsight, ESET i Microsoft, zaowocowała zniszczeniem infrastruktury przestępczej obsługującej Amadey i StealC. „Głównym wspólnym celem było zakłócenie „linii montażowych”, których cyberprzestępcy używają do uruchamiania oprogramowania ransomware, oszustw finansowych i ataków na infrastrukturę krytyczną” – stwierdził Europol w."
     },
     {
       "title": "Kolejne deepnude w szkole. UODO: sprawców można ścigać",
@@ -1802,6 +1794,14 @@
       "summary": "Podmioty zagrażające zaczęły wykorzystywać niedawno ujawnioną krytyczną lukę w zabezpieczeniach wpływającą na rozwiązania Cisco Unified Communications Manager (Unified CM) i Unified Communications Manager Session Management Edition (Unified CM SME). Luka, oznaczona jako CVE-2026-20230 (wynik CVSS: 8,6), polega na nieprawidłowej weryfikacji danych wejściowych dla określonych żądań HTTP, co może pozwolić na nieuwierzytelnione, zdalne."
     },
     {
+      "title": "FortiBleed obrał za cel zapory ogniowe FortiGate w operacji gromadzenia 110 milionów danych uwierzytelniających",
+      "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+      "date": "2026-06-23T18:20:49Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Szacuje się, że rosyjskojęzyczny broker początkowego dostępu (IAB), kierujący się korzyściami finansowymi, stoi za zakrojoną na szeroką skalę operację gromadzenia danych uwierzytelniających znaną jako FortiBleed, która objęła ponad 430 000 zapór sieciowych FortiGate na całym świecie. Kampania, aktywna od lutego 2026 r., obejmuje zbieranie list danych uwierzytelniających, wyszukiwanie ujawnionych usług, wymuszanie dostępu do systemów i wdrażanie „szytych na miarę”."
+    },
+    {
       "title": "Hakerzy Scattered Spider przyznają się do winy już w pierwszym dniu procesu",
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "date": "2026-06-23T16:12:49Z",
@@ -1811,14 +1811,6 @@
     }
   ],
   "finance": [
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/archiwum/2016-01-07,1",
-      "date": "2026-06-25T22:45:49Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
-    },
     {
       "title": "Komunikat EBI Aqua SA (aquapoz): Powołanie osoby zarządzającej lub nadzorującej - stockwatch.pl",
       "url": "https://www.stockwatch.pl/komunikaty-spolek/aquapoz,powolanie-osoby-zarzadzajacej-lub-nadzorujace-2026-06-26,ebi,20260626_004125_0000003919",
@@ -1882,14 +1874,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Szwedzki oddział Garo Polska po 30 latach wycofuje się z Polski i planuje w najbliższych miesiącach zamknięcie szczecińskiego zakładu elektromobilności. Pracownicy próbują znaleźć inwestora, który przejmie trzyletnią fabrykę i utrzyma ok. 150 miejsc pracy - podaje serwis wSzczecinie.pl."
-    },
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/archiwum/2022-03-12,2",
-      "date": "2026-06-25T18:49:18Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Droga Kijowa do UE. Żurek: Ukraina skutecznie walczy z korupcją",
@@ -2028,14 +2012,6 @@
       "summary": "Notowania INTSSPX98368 INGBANK BiznesRadar."
     },
     {
-      "title": "Wiadomości ETFBNQ3LV BETA ETF NASDAQ-100 3x - strona: 64 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/ETFBNQ3LV,64",
-      "date": "2026-06-25T15:02:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości ETFBNQ3LV BETA ETF NASDAQ-100 3x - strona: 64 BiznesRadar."
-    },
-    {
       "title": "Rosyjskie pozycje pod presją. Doniesienia z frontu nad Morzem Czarnym - Forsal.pl",
       "url": "https://forsal.pl/swiat/ukraina/artykuly/11268070,walka-o-mierzeje-kinburska-ukraina-rosja.html",
       "date": "2026-06-25T14:58:05Z",
@@ -2098,6 +2074,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Największe firmy świata według \"Forbesa\". Wcale nie dominuje AI, a ta branża Forbes."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/archiwum/2009-10-07,1",
+      "date": "2026-06-25T12:17:56Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Ogromne koszty odbudowy Ukrainy. Prezes Banku Światowego wskazał kwotę - Forsal.pl",
@@ -2164,6 +2148,14 @@
       "summary": "Notowania RBIFL10GOLD3 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
+      "title": "Drug Dealer Simulator 2 z blisko 18 tys. sprzedanych kopii w tydzień od premiery na konsolach - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/148834,drug-dealer-simulator-2-z-blisko-18-tys-sprzedanych-kopii-w-tydzien-od-premiery-na-konsolach",
+      "date": "2026-06-25T07:52:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Drug Dealer Simulator 2 z blisko 18 tys. sprzedanych kopii w tydzień od premiery na konsolach BiznesRadar."
+    },
+    {
       "title": "Debiut Liftero na NewConnect w przyszłym tygodniu",
       "url": "https://strefainwestorow.pl/debiut-ipo/liftero-data-debiutu-na-newconnect",
       "date": "2026-06-25T07:44:00Z",
@@ -2210,6 +2202,14 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Tylko 9 proc. badanych Polaków nie planuje w tym roku żadnych wydatków na wakacyjny wypoczynek – wynika z badania Rankomat.pl. Rok wcześniej taką odpowiedź wskazywało 15 proc."
+    },
+    {
+      "title": "Niepewne etaty, zmęczone głowy. Tak wygląda rynek pracy od środka",
+      "url": "https://300gospodarka.pl/tylko-w-300gospodarce/wypalenie-zawodowe-i-lek-o-prace-badania-czerwiec-2026",
+      "date": "2026-06-24T20:15:49Z",
+      "source": "300Gospodarka",
+      "confirmed_by": 1,
+      "summary": "Tylko 21 proc. pracowników w Polsce uważa, że ich stanowisku nie grozi likwidacja – wynika z raportu ADP Research „People at Work 2026”. Jednocześnie 32,9 proc."
     }
   ],
   "critical_alerts": [
@@ -2252,8 +2252,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Miejmy nadzieję, że konferencja URC 2026 w Gdańsku wyleje kubeł zimnej wody na rozemocjonowane głowy polityków po obu stronach Bugu.",
-      "url": "https://www.rp.pl/opinie-ekonomiczne/art44692201-boguslaw-chrabota-przed-ukraina-dluga-droga-urc-2026-to-tylko-potwierdzi"
+      "description": "Kreml zaczął działania wobec trzech nieuznawanych na świecie, separatystycznych quasipaństw.",
+      "url": "https://www.rp.pl/polityka/art44692711-mimo-klesk-na-ukrainie-putin-nie-zrezygnowal-z-odbudowy-imperium"
     },
     {
       "lat": 31.5,
@@ -2856,51 +2856,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25719.45,
+      25719.79,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26885.91,
+      26886.27,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27033.13,
+      27033.49,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27278.52,
+      27278.88,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27915.42,
+      27915.79,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27951.53,
+      27951.9,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28196.66,
+      28197.03,
       27354.94,
       27400.36,
       27412.11,
-      28598.81,
+      28599.19,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27858.11,
+      27858.48,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28038.16,
+      28038.53,
       27686.17,
       27404.78,
       27351.97,
@@ -2908,7 +2908,7 @@
       27905.42,
       27661.43,
       27749.69,
-      27759.08
+      27759.44
     ],
     "currency": "PLN"
   }
