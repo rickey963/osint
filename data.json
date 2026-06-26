@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-06-26T20:32:57Z",
+  "last_updated": "2026-06-26T20:42:27Z",
   "poland": [
+    {
+      "title": "Cyfrowy Polsat: rada TiVi Foundation daje głos. Jest data rozprawy w Trybunale",
+      "url": "https://www.rp.pl/media/art44712101-cyfrowy-polsat-rada-tivi-foundation-daje-glos-jest-data-rozprawy-w-trybunale",
+      "date": "2026-06-26T20:27:49Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Kurs akcji Cyfrowego Polsatu skończył tydzień ze sporą stratą, ale na piątkowej sesji nabrał wigoru. To reakcja inwestorów na pisma opublikowane przez spółkę. Rada TiVi Foundation formalnie odniosła się do listów małżeństwa Solorzów."
+    },
+    {
+      "title": "Rekordowe upały w Europie. To zagrożenie dla 12 mln nieruchomości we Francji",
+      "url": "https://businessinsider.com.pl/nieruchomosci/rekordowe-upaly-w-europie-temperatura-zagraza-domom-w-europejskim-kraju/4c2v1f0",
+      "date": "2026-06-26T20:26:06Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "W Europie padają rekordy gorąca. Tymczasem ponad połowie domów jednorodzinnych we Francji zagrażają rosnące temperatury. Zjawisko znane jako RGA generuje roczne koszty rzędu miliarda euro z tytułu odszkodowań."
+    },
     {
       "title": "Izrael, Liban i USA podpisały porozumienie ramowe. Rubio: To pierwszy krok",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,32881063,izrael-liban-i-usa-podpisaly-porozumienie-ramowe-rubio-to.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -146,14 +162,6 @@
       "summary": "Prezydent USA Donald Trump zagroził w piątek nałożeniem 100-procentowych ceł na wszystkie towary z każdego państwa, które nałoży podatek od usług cyfrowych na amerykańskie firmy."
     },
     {
-      "title": "Przy tych chorobach przysługuje renta z ZUS. LISTA W 2026 r. kwota wzrosła",
-      "url": "https://www.rp.pl/praca-emerytury-i-renty/art44693391-przy-tych-chorobach-przysluguje-renta-z-zus-lista-w-2026-r-kwota-wzrosla",
-      "date": "2026-06-26T18:00:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Renta z tytułu niezdolności do pracy przysługuje osobom, które zostały uznane za całkowicie lub częściowo niezdolne do wykonywania pracy z powodu stanu zdrowia. Od marca 2026 r. kwota świadczenia wzrosła."
-    },
-    {
       "title": "Rekordzista z Biedronki oddał niemal tysiąc opakowań. Tyle pieniędzy otrzymał",
       "url": "https://businessinsider.com.pl/finanse/handel/tyle-opakowan-oddal-rekordzista-w-biedronce-otrzymal-spora-sume/6b9brq6",
       "date": "2026-06-26T17:43:20Z",
@@ -248,14 +256,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Ile pracują lekarze? Zbyt długo. Tak wynika z ostatnich dwóch raportów Najwyżej Izby Kontroli."
-    },
-    {
-      "title": "Bitcoin czwarty dzień na spadkowym kursie. Trwa przeciąganie liny na ważnej granicy",
-      "url": "https://businessinsider.com.pl/gielda/kryptowaluty/kurs-bitcoina-pod-presja-spada-czwarty-dzien-z-rzedu-i-budzi-niepokoj/ce1m6qw",
-      "date": "2026-06-26T14:41:33Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Boom na AI odciąga kapitał spekulacyjny od kryptowalut, a wygasanie opcji potęguje presję na rynku. Kurs bitcoina kolejny dzień jest na minusie."
     },
     {
       "title": "Nagranie z katastrofy samolotu na Bemowie. Uderzenie i kula ognia - Polskie Radio 24",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Swatch domaga się od Samsunga odszkodowania w wysokości 170 milionów dolarów w związku z naruszeniem znaku towarowego – Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/swatch-claiming-170-million-damages-against-samsung-over-trademark-infringement-2026-06-26/",
+      "date": "2026-06-26T20:02:14Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Swatch domaga się od Samsunga odszkodowania w wysokości 170 milionów dolarów w związku z naruszeniem znaku towarowego Reuters."
+    },
+    {
       "title": "Burkina Faso zrywa stosunki dyplomatyczne z Francją – Reuters",
       "url": "https://www.reuters.com/world/africa/burkina-faso-breaks-off-diplomatic-relations-with-france-2026-06-26/",
       "date": "2026-06-26T19:52:08Z",
@@ -505,7 +513,7 @@
       "date": "2026-06-26T17:48:33Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Prawnik Reuters mówi, że Hakimi złoży apelację od wyroku w sprawie gwałtu."
+      "summary": "Hakimi złoży apelację od wyroku w sprawie stanięcia przed sądem za gwałt, mówi prawnik Reuters."
     },
     {
       "title": "OpenAI opóźnia publiczne wdrożenie GPT-5.6, ponieważ Stany Zjednoczone starają się o wcześniejszy dostęp do pionierskich modeli sztucznej inteligencji – Reuters",
@@ -545,7 +553,7 @@
       "date": "2026-06-26T17:07:33Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Ten blog jest już zamknięty. Więcej informacji na ten temat można przeczytać tutaj: Trzeci dzień z rzędu rekord upałów w Wielkiej Brytanii pobity trzeci dzień z rzędu Czwarte dziecko umiera we Francji w związku z prognozami brutalnej fali upałów, która przesunie się na wschód. W Wielkiej Brytanii strażacy wciąż próbują opanować duży pożar w Derbyshire. Pożar, który strawił ponad 500 metrów kwadratowych wrzosowisk i lasów na Tintwistle Moor, niedaleko Glossop, wybuchł w środę wieczorem, a uczestniczyli w nim ekipy strażackie z Manchesteru i W czwartek Derbyshire wysłało helikopter zrzucający wodę i sześć wozów strażackich. Kontynuuj czytanie..."
+      "summary": "Ten blog jest już zamknięty, więcej na ten temat możesz przeczytać tutaj: Rekord upałów w czerwcu w Wielkiej Brytanii trzeci dzień z rzędu pobity Czwarte dziecko umiera we Francji w związku z prognozami brutalnej fali upałów, która przesunie się na wschód. W Wielkiej Brytanii strażacy wciąż próbują opanować duży pożar w Derbyshire. Pożar, który strawił ponad 500 metrów kwadratowych wrzosowisk i lasów na Tintwistle Moor, niedaleko Glossop, wybuchł w środę wieczorem, a uczestniczyli w nim ekipy strażackie z Manchesteru i W czwartek Derbyshire wysłało helikopter zrzucający wodę i sześć wozów strażackich. Kontynuuj czytanie..."
     },
     {
       "title": "DR Kongo pozywa Rwandę przed sąd międzynarodowy w związku z dziesięcioleciami konfliktu",
@@ -569,15 +577,7 @@
       "date": "2026-06-26T17:04:30Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Naukowcy twierdzą, że okres upałów jest najgorszy w historii, ponieważ prawie połowa z 850 największych miast regionu stoi w obliczu bezprecedensowego stresu cieplnego. Liczba zgonów we Francji spowodowanych falą upałów wzrosła do czterech małych dzieci i ponad 55 utonięć, ponieważ według prognoz brutalnie gorące warunki panujące w Europie przesuną się na wschód, powodując uduszenie 150 milionów ludzi poniżej temperatury 35°C (95°F). Naukowcy twierdzą, że fala upałów była najdotkliwsza i najbardziej rozpowszechniona w historii, powodując, że prawie połowa mieszkańców regionu 850 największych miast zmagających się z niespotykanym dotąd stresem cieplnym. Powiedzieli, że ekstremalne temperatury były możliwe dzięki kryzysowi klimatycznemu spowodowanemu spalaniem paliw kopalnych. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Swatch domaga się od Samsunga odszkodowania w wysokości 170 milionów dolarów w związku z naruszeniem znaku towarowego – Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/swatch-claiming-170-million-damages-against-samsung-over-trademark-infringement-2026-06-26/",
-      "date": "2026-06-26T16:33:13Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Swatch domaga się od Samsunga odszkodowania w wysokości 170 milionów dolarów w związku z naruszeniem znaku towarowego Reuters."
+      "summary": "Naukowcy twierdzą, że okres upałów jest najgorszy w historii, ponieważ prawie połowa z 850 największych miast regionu stoi w obliczu bezprecedensowego stresu cieplnego. Liczba zgonów we Francji spowodowanych falą upałów wzrosła do czterech małych dzieci i ponad 55 utonięć, ponieważ według prognoz brutalnie gorące warunki panujące w Europie przesuną się na wschód, powodując uduszenie 150 milionów ludzi poniżej 35°C (95°F). Naukowcy twierdzą, że fala upałów była najcięższa i najbardziej rozpowszechniona w historii, powodując, że prawie połowa mieszkańców regionu 850 największych miast zmagających się z niespotykanym dotąd stresem cieplnym. Powiedzieli, że ekstremalne temperatury były możliwe dzięki kryzysowi klimatycznemu spowodowanemu spalaniem paliw kopalnych. Kontynuuj czytanie..."
     },
     {
       "title": "EDF zgadza się sprzedać KKR jednostkę w USA i Kanadzie – Reuters",
@@ -593,7 +593,7 @@
       "date": "2026-06-26T16:09:00Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Różne problemy – w tym plaga gryzoni i pleśń – sprawiły, że historyczna, rozległa posiadłość w Ottawie jest pusta10 Na Downing Street są dwie rzeczy: myszy i główny mysz. Od ponad dziesięciu lat oficjalnie uznany kot ogranicza do minimum plagę gryzoni w rezydencji brytyjskiego premiera. W podobnym okresie w oficjalnej rezydencji premiera Kanady doszło do niekontrolowanej eksplozji gryzoni. Kontynuuj czytanie..."
+      "summary": "Różne problemy – w tym plaga gryzoni i pleśń – sprawiły, że historyczna, rozległa posiadłość w Ottawie jest pusta10. Na Downing Street są dwie rzeczy: myszy i główny mysz. Od ponad dziesięciu lat oficjalnie uznany kot ogranicza do minimum plagę gryzoni w rezydencji brytyjskiego premiera. W podobnym okresie w oficjalnej rezydencji premiera Kanady doszło do niekontrolowanej eksplozji gryzoni. Kontynuuj czytanie..."
     },
     {
       "title": "Ocalali opowiadają o „brutalnym i szybkim” trzęsieniu ziemi w Wenezueli podczas poszukiwania ocalałych",
@@ -732,7 +732,7 @@
       "summary": "Start-upy przyjmują świeże podejście do energii geotermalnej, ale czy ekonomia się sprawdzi?"
     },
     {
-      "title": "Rada ds. mieszkalnictwa głosuje za zamrożeniem czynszów w Nowym Jorku, co oznacza zwycięstwo Mamdaniego",
+      "title": "Rada ds. Mieszkalnictwa głosuje za zamrożeniem czynszów w Nowym Jorku, co oznacza zwycięstwo Mamdaniego",
       "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-26T09:42:26Z",
       "source": "BBC News",
@@ -787,7 +787,7 @@
       "date": "2026-06-26T19:54:35Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Administracja Trumpa oświadczyła, że ​​zaangażuje się w pomoc, rozszerzając interesy handlowe USA w Wenezueli poza ropę naftową."
+      "summary": "Administracja Trumpa oświadczyła, że ​​zaangażuje się w pomoc, rozszerzając interesy handlowe USA w Wenezueli poza ropą."
     },
     {
       "title": "Trump twierdzi, że irański atak na statek towarowy w cieśninie Ormuz naruszył zawieszenie broni",
@@ -846,7 +846,7 @@
       "summary": ""
     },
     {
-      "title": "Szukaj zespołów Z Kalifornii, Wirginii i Florydy udaj się do Wenezueli",
+      "title": "Szukaj zespołów Z Kalifornii, Wirginii i Florydy Udaj się do Wenezueli",
       "url": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-rescuers.html",
       "date": "2026-06-26T18:36:34Z",
       "source": "The New York Times",
@@ -942,6 +942,14 @@
       "summary": "Sąd Najwyższy otwiera administracji Trumpa drogę do ożywienia restrykcyjnej polityki wobec osób ubiegających się o azyl AP News."
     },
     {
+      "title": "Orzeczenie Sądu Najwyższego blokuje tysiące pozwów przeciwko producentowi środka chwastobójczego Roundup – AP News",
+      "url": "https://apnews.com/article/supreme-court-roundup-monsanto-a7f054d80919f98bdfc5190013a8f6f1",
+      "date": "2026-06-25T20:19:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Orzeczenie Sądu Najwyższego blokuje tysiące pozwów przeciwko producentowi środka chwastobójczego Roundup AP News."
+    },
+    {
       "title": "Sąd Najwyższy uchyla hawajskie prawo wymagające pozwolenia na noszenie broni w sklepach i hotelach – AP News",
       "url": "https://apnews.com/article/supreme-court-guns-hawaii-trump-c5dbdf945bc870f70a03455f5eb1dec7",
       "date": "2026-06-25T19:17:00Z",
@@ -972,14 +980,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Żyrafa o imieniu Gracie uciekła w Teksasie. Wygląda na to, że nikt nie może znaleźć jej AP News."
-    },
-    {
-      "title": "Orzeczenie Sądu Najwyższego blokuje tysiące pozwów przeciwko producentowi środka chwastobójczego Roundup – AP News",
-      "url": "https://apnews.com/article/supreme-court-roundup-monsanto-a7f054d80919f98bdfc5190013a8f6f1",
-      "date": "2026-06-25T14:12:37Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Orzeczenie Sądu Najwyższego blokuje tysiące pozwów przeciwko producentowi środka chwastobójczego Roundup AP News."
     },
     {
       "title": "UE udostępnia pakiet pożyczek o wartości 3 miliardów euro na odbudowę Ukrainy w ramach dwuletniego zobowiązania – AP News",
@@ -1200,7 +1200,7 @@
       "summary": "Windows 10 tak szybko nie umrze. Microsoft podjął nietypową decyzję."
     },
     {
-      "title": "OpenAI udostępnia trzy wersje GPT-5.6, zwane Sol, Terra i Luna, jako ograniczoną wersję zapoznawczą dla około 20 firm, a uczestnicy zostaną ujawnieni rządowi USA (Axios)",
+      "title": "OpenAI wypuszcza trzy wersje GPT-5.6, zwane Sol, Terra i Luna, jako ograniczoną wersję zapoznawczą dla około 20 firm, a uczestnicy zostaną ujawnieni rządowi USA (Axios)",
       "url": "https://www.techmeme.com/260626/p16#a260626p16",
       "date": "2026-06-26T17:13:23Z",
       "source": "Techmeme",
@@ -1455,7 +1455,7 @@
       "date": "2026-06-26T17:49:07Z",
       "source": "BleepingComputer",
       "confirmed_by": 1,
-      "summary": "Podmioty zagrażające tworzą dzierżawców OpenAI, którzy podszywają się pod legalne firmy i zapraszają pracowników do dołączenia do nich, co wydaje się być podstępem mającym na celu nakłonienie celów do przesyłania poufnych informacji firmowych na czatach i projektach. [...]."
+      "summary": "Podmioty zagrażające tworzą dzierżawców OpenAI, którzy podszywają się pod legalne firmy i zapraszają pracowników do dołączenia do nich, co wydaje się być podstępem mającym na celu oszukanie celów w celu przesyłania poufnych informacji firmowych na czatach i projektach. [...]."
     },
     {
       "title": "Amerykańskie organy regulacyjne chcą zabić pedały hamulca robotaxi",
@@ -1522,7 +1522,7 @@
       "summary": "Luka w podsystemie kontroli ruchu jądra Linuksa może pozwolić lokalnemu nieuprzywilejowanemu użytkownikowi na uzyskanie uprawnień roota w systemach, których dotyczy problem. CVE-2026-46331, nazywany „pedit COW”, to zapis przekraczający dopuszczalne granice w akcji edycji pakietu (act_pedit), który uszkadza współdzieloną pamięć podręczną stron. Publiczny, działający exploit pojawił się w ciągu jednego dnia od przydzielenia CVE 16 czerwca."
     },
     {
-      "title": "Błąd programisty Amazon Q może pozwolić złośliwym repozytoriam na uruchomienie kodu za pośrednictwem konfiguracji MCP",
+      "title": "Błąd programisty Amazon Q może pozwolić złośliwym repozytoriom na uruchomienie kodu za pośrednictwem konfiguracji MCP",
       "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
       "date": "2026-06-26T13:53:00Z",
       "source": "The Hacker News",
@@ -1546,7 +1546,7 @@
       "summary": "Międzygminny Związek Komunikacyjny w Jastrzębiu-Zdroju poinformował o cyberataku skutkującym nieuprawnionym dostępem do bazy danych pasażerów. MZK działa na obszarze 19 gmin, zamieszkanych przez pół miliona osób. Zakres naruszenia obejmuje m.in."
     },
     {
-      "title": "Notion zabija swojego klienta Gmaila po tym, jak agenci sztucznej inteligencji powstrzymują ludzi od zakłócania porządku w skrzynce odbiorczej",
+      "title": "Notion zabija swojego klienta Gmaila po tym, jak agenci sztucznej inteligencji uniemożliwiają ludziom zakłócanie porządku w skrzynce odbiorczej",
       "url": "https://www.theregister.com/ai-and-ml/2026/06/26/notion-kills-its-gmail-client-after-ai-agents-keep-humans-from-troubling-inbox/5263024",
       "date": "2026-06-26T13:01:16Z",
       "source": "The Register",
@@ -1607,7 +1607,7 @@
       "date": "2026-06-26T11:51:35Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "DirtyClone to nowa eskalacja uprawnień jądra Linuksa w rodzinie DirtyFrag. 25 czerwca firma JFrog Security Research opublikowała działający opis exploita dotyczącego tej luki, co było pierwszą publiczną demonstracją tego wariantu. Śledzony jako CVE-2026-43503 (CVSS 8.8), umożliwia lokalnemu użytkownikowi uszkodzenie pamięci opartej na plikach poprzez sklonowany pakiet sieciowy i uzyskanie uprawnień roota."
+      "summary": "DirtyClone to nowa eskalacja uprawnień jądra Linuksa w rodzinie DirtyFrag. 25 czerwca firma JFrog Security Research opublikowała działający opis exploita dotyczącego tej luki, co było pierwszą publiczną demonstracją tego wariantu. Śledzony jako CVE-2026-43503 (CVSS 8.8), umożliwia użytkownikowi lokalnemu uszkodzenie pamięci opartej na plikach poprzez sklonowany pakiet sieciowy i uzyskanie uprawnień roota."
     },
     {
       "title": "Policyjny algorytm poza kontrolą. Kontrowersyjny system profilował Brytyjczyków",
@@ -1812,6 +1812,14 @@
   ],
   "finance": [
     {
+      "title": "Brexit miał dać niezależność. Po dekadzie widać rachunek dla gospodarki",
+      "url": "https://300gospodarka.pl/news/brexit-mial-dac-niezaleznosc-po-dekadzie-widac-rachunek-dla-gospodarki",
+      "date": "2026-06-26T20:24:41Z",
+      "source": "300Gospodarka",
+      "confirmed_by": 1,
+      "summary": "Brytyjska gospodarka byłaby dziś o 2-4 proc. większa, gdyby nie brexit – szacuje Allianz Research w raporcie opublikowanym 10 lat po referendum. Handel towarami między Wielką Brytanią a Unią Europejską jest o około 21 proc."
+    },
+    {
       "title": "Liban, Izrael i USA podpisali porozumienie. Rubio ogłasza sukces, ale ostrzega",
       "url": "https://www.bankier.pl/wiadomosc/Liban-Izrael-i-USA-podpisali-porozumienie-Rubio-oglasza-sukces-ale-ostrzega-9159063.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-06-26T18:59:00Z",
@@ -1916,6 +1924,14 @@
       "summary": "Napięcia USA–Iran wracają. Uderzenie dronów na statek handlowy Forsal.pl."
     },
     {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/finanse/waluty,88",
+      "date": "2026-06-26T16:15:21Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
+    },
+    {
       "title": "Nawet po wojnie Rosja może wrócić do siły. Niepokojąca analiza dla NATO - Forsal.pl",
       "url": "https://forsal.pl/swiat/rosja/artykuly/11268629,rosja-zagrozenie-dla-europy-po-wojnie.html",
       "date": "2026-06-26T16:06:29Z",
@@ -1932,6 +1948,14 @@
       "summary": "W Polsce studiuje już ponad 1,32 mln osób, ale publiczne i prywatne akademiki mają łącznie nieco ponad 129 tys. miejsc – wynika z danych Cushman & Wakefield. To średnio prawie 10 studentów na jedno łóżko."
     },
     {
+      "title": "WIG20 2026 - konkurs - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513217_WIG20-2026--konkurs.aspx",
+      "date": "2026-06-26T15:30:52Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "WIG20 2026 - konkurs stockwatch.pl."
+    },
+    {
       "title": "Biznes, Gospodarka, Świat - Forsal.pl",
       "url": "https://forsal.pl/?chr=1782487211092",
       "date": "2026-06-26T15:23:12Z",
@@ -1946,14 +1970,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "MEDINICE [ICE] stockwatch.pl."
-    },
-    {
-      "title": "To ważna inwestycja dla Podkarpacia i Świętokrzyskiego. S74 z kolejnym etapem - Forsal.pl",
-      "url": "https://forsal.pl/transport/drogi/artykuly/11268587,nowa-droga-s74-coraz-blizej-gddkia-wybrala-wykonawce-koncepcji-programowej-pierwszego-odcinka.html",
-      "date": "2026-06-26T14:28:45Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "To ważna inwestycja dla Podkarpacia i Świętokrzyskiego. S74 z kolejnym etapem Forsal.pl."
     },
     {
       "title": "Rosjanie masowo ruszyli do kantorów. Powód jest jeden",
@@ -1996,12 +2012,28 @@
       "summary": "Na początku wakacji kierowcy tankują taniej niż rok temu, ale od 1 lipca ceny mogą wyraźnie wzrosnąć, jeśli rząd nie zmieni zdania i zakończy program \"Ceny Paliwa Niżej\" - wynika z informacji biura Reflex."
     },
     {
+      "title": "List do akcjonariuszy Grupy Forte 2025/2026 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/148891,list-do-akcjonariuszy-grupy-forte-2025-2026",
+      "date": "2026-06-26T13:43:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "List do akcjonariuszy Grupy Forte 2025/2026 BiznesRadar."
+    },
+    {
       "title": "Komunikat EBI WB ELECTRONICS/WB Electronics Spółka Akcyjna (wb-electronicswb-electronics-spolka-akcyjna): Powołanie osoby zarządzającej lub nadzorującej - stockwatch.pl",
       "url": "https://www.stockwatch.pl/komunikaty-spolek/wb-electronicswb-electronics-spolka-akcyjna,powolanie-osoby-zarzadzajacej-lub-nadzorujace-2026-06-26,ebi,20260626_152333_0000003935",
       "date": "2026-06-26T13:23:33Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat EBI WB ELECTRONICS/WB Electronics Spółka Akcyjna (wb-electronicswb-electronics-spolka-akcyjna): Powołanie osoby zarządzającej lub nadzorującej stockwatch.pl."
+    },
+    {
+      "title": "Liftero osiągnął kamień milowy w projekcie napędu satelitarnego dla ESA - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/148888,liftero-osiagnal-kamien-milowy-w-projekcie-napedu-satelitarnego-dla-esa",
+      "date": "2026-06-26T13:13:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Liftero osiągnął kamień milowy w projekcie napędu satelitarnego dla ESA BiznesRadar."
     },
     {
       "title": "Możliwy Pat wyborczy i jego wpływ na giełdę. - stockwatch.pl",
@@ -2018,14 +2050,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Forum giełdowe StockWatch.pl: XTB stockwatch.pl."
-    },
-    {
-      "title": "PKPCARGO [PKP] - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513208_PKPCARGO.aspx",
-      "date": "2026-06-26T13:08:00Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "PKPCARGO [PKP] stockwatch.pl."
     },
     {
       "title": "Studia w Polsce jak XIX-wieczny folwark. Efekt? Lekarze zarabiają 100 tys. zł - Forbes",
@@ -2060,6 +2084,14 @@
       "summary": "Od soboty do poniedziałku włącznie litr benzyny 95 ma kosztować nie więcej niż 6,02 zł, benzyny 98 - 6,70 zł, a diesla - 6,17 zł - wynika z piątkowego obwieszczenia ministra energii. Oznacza to, że w porównaniu z piątkiem ceny maksymalne wszystkich rodzajów paliw będą wyższe."
     },
     {
+      "title": "AB uplasowała obligacje o wartości 110 mln zł - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/148885,ab-uplasowal-obligacje-o-wartosci-110-mln-zl",
+      "date": "2026-06-26T10:16:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "AB uplasowała obligacje o wartości 110 mln zł BiznesRadar."
+    },
+    {
       "title": "Travel retail w erze masowej mobilności: wyzwania i strategie - Forbes",
       "url": "https://www.forbes.pl/biznes/travel-retail-w-erze-masowej-mobilnosci-wyzwania-i-strategie/7p01de7",
       "date": "2026-06-26T10:00:00Z",
@@ -2074,14 +2106,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Ceny gazu mogą spaść dzięki zmniejszeniu monopolu. Akcje Orlen pod presją Piotr Maciążek pt., 26.06.2026 Kanał W Zielonej Strefie notowania orlen monopol gazowy fsru2 rynek gazu unimot notowania unimot ukraina Treść Wyniki procedury Open Season dla drugiego terminalu gazowego w Zatoce Gdańskiej otwierają zupełnie nowy rozdział w historii polskiego rynku gazowego. Od czasu dawnych, ograniczonych prób przełamania monopolu gazowego PGNiG przez spółki Duon oraz HEG, nie staliśmy przed tak realną szansą zwiększenia konkurencji."
-    },
-    {
-      "title": "Genactiv konsekwentnie stawia na markę i nowe produkty. Colostrum było pierwszym krokiem, teraz czas na gut health. - Forbes",
-      "url": "https://www.forbes.pl/diamenty/2026/artykuly/antoni-krokowicz-o-planach-genactiv-inwestycje-i-zdrowie-jelit-na-horyzoncie/qvlt7np",
-      "date": "2026-06-26T09:52:00Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Genactiv konsekwentnie stawia na markę i nowe produkty. Colostrum było pierwszym krokiem, teraz czas na gut health. Forbes."
     },
     {
       "title": "Rachunki za ciepło. Co dalej z taryfami? Jest deklaracja ministra",
@@ -2100,6 +2124,14 @@
       "summary": "Giełdowa historia Saule Technologies dobiegła końca, a spółka Olgi Malinkiewicz została wykluczona z obrotu na NewConnect. W tle pozostaje ostry spór założycielki z inwestorami i niepewna przyszłość rewolucyjnej technologii perowskitowej, która miała zmienić globalny rynek energetyczny."
     },
     {
+      "title": "Wiadomości UNIMOT SA (UNT) - strona: 19 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wiadomosci/UNIMOT-GAZ,19",
+      "date": "2026-06-26T08:49:09Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości UNIMOT SA (UNT) - strona: 19 BiznesRadar."
+    },
+    {
       "title": "K2 dla Wojska Polskiego. Koreańczycy przyspieszają wielki kontrakt",
       "url": "https://www.money.pl/gospodarka/k2-dla-wojska-polskiego-koreanczycy-przyspieszaja-wielki-kontrakt-7300963283474592a.html",
       "date": "2026-06-26T08:37:18Z",
@@ -2114,6 +2146,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Podsumowanie wyników Rex Concepts za 1Q26 oraz plany na przyszłość – czat z CFO Grupy Czaty pt., 26.06.2026 Obrazek."
+    },
+    {
+      "title": "Jak działania lokalne wspierają widoczność stron internetowych w Bydgoszczy - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/148870,jak-dzialania-lokalne-wspieraja-widocznosc-stron-internetowych-w-bydgoszczy",
+      "date": "2026-06-26T08:11:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Jak działania lokalne wspierają widoczność stron internetowych w Bydgoszczy BiznesRadar."
     },
     {
       "title": "Prognozy dla złota, srebra i miedzi po zmianach w FED",
@@ -2140,6 +2180,14 @@
       "summary": "Polski inwestor indywidualny przez ostatnie dwie dekady przeszedł drogę, którą rynki dojrzałe pokonywały znacznie dłużej. Najpierw odkładał nadwyżki na lokatach, potem nauczył się funduszy i obligacji skarbowych, następnie polubił rynek mieszkaniowy w Warszawie, Krakowie i Trójmieście jako sposób na ochronę kapitału przed inflacją. Stan na 2026 rok pokazuje kolejny etap tej ewolucji: rosnącą grupę osób, które zaczynają myśleć o swoim portfelu nieruchomości nie tylko w kategoriach jednego kraju, lecz w kategoriach geografii."
     },
     {
+      "title": "Notowania INTLMCR98244 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/INTLMCR98244",
+      "date": "2026-06-25T20:48:50Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania INTLMCR98244 INGBANK BiznesRadar."
+    },
+    {
       "title": "GTA VI bez płyty, ale z wysokimi oczekiwaniami. Co na to kurs i rekomendacje analityków TTWO?",
       "url": "https://strefainwestorow.pl/strefa-global-market/spolki/gta-vi-pre-order-take-two-interactive",
       "date": "2026-06-25T10:14:00Z",
@@ -2162,54 +2210,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Plany rozwoju i komercjalizacja technologii Defence.Hub S.A. [webinar z zarządem] Webinary czw., 25.06.2026 Kanał Strefa Inwestorów Defence.Hub Defence.Hub newconnect technologie defence defence-tech Defence.Hub plany operacyjne Defence.Hub notowania Treść Defence.Hub S.A. to spółka notowana na rynku NewConnect, która specjalizuje się w rozwoju i komercjalizacji technologii defence oraz dual-use."
-    },
-    {
-      "title": "Transakcje OW20G263775 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/transakcje/OW20G263775",
-      "date": "2026-06-25T08:57:44Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Transakcje OW20G263775 BiznesRadar."
-    },
-    {
-      "title": "Były prezes Enter Air wychodzi z akcjonariatu - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/148816,byly-prezes-enter-air-wychodzi-z-akcjonariatu",
-      "date": "2026-06-25T07:00:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Były prezes Enter Air wychodzi z akcjonariatu BiznesRadar."
-    },
-    {
-      "title": "Transakcje FLPPH27 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/transakcje/FLPPH27",
-      "date": "2026-06-24T10:11:01Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Transakcje FLPPH27 BiznesRadar."
-    },
-    {
-      "title": "Notowania Goldman Sachs Perspektywa 2055 (Goldman Sachs Perspektywa SFIO) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/INGP55.TFI",
-      "date": "2026-06-23T22:00:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania Goldman Sachs Perspektywa 2055 (Goldman Sachs Perspektywa SFIO) BiznesRadar."
-    },
-    {
-      "title": "Notowania Generali Aktywny Dochodowy (Generali Fundusze SFIO) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/UNIAPI.TFI",
-      "date": "2026-06-23T22:00:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania Generali Aktywny Dochodowy (Generali Fundusze SFIO) BiznesRadar."
-    },
-    {
-      "title": "Notowania PKO Zabezpieczenia Emerytalnego 2060 (PKO Zabezpieczenia Emerytalnego SFIO) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/PKOZ60.TFI",
-      "date": "2026-06-23T22:00:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania PKO Zabezpieczenia Emerytalnego 2060 (PKO Zabezpieczenia Emerytalnego SFIO) BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2227,7 +2227,7 @@
       "date": "2026-06-26T19:54:35Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Administracja Trumpa oświadczyła, że ​​zaangażuje się w pomoc, rozszerzając interesy handlowe USA w Wenezueli poza ropę naftową."
+      "summary": "Administracja Trumpa oświadczyła, że ​​zaangażuje się w pomoc, rozszerzając interesy handlowe USA w Wenezueli poza ropą."
     }
   ],
   "map_features": [
@@ -2284,7 +2284,7 @@
       "lng": -98.3,
       "type": "critical",
       "region": "Stany Zjednoczone",
-      "description": "Administracja Trumpa oświadczyła, że ​​zaangażuje się w pomoc, rozszerzając interesy handlowe USA w Wenezueli poza ropę naftową.",
+      "description": "Administracja Trumpa oświadczyła, że ​​zaangażuje się w pomoc, rozszerzając interesy handlowe USA w Wenezueli poza ropą.",
       "url": "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html"
     },
     {
@@ -2829,51 +2829,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25656.05,
+      25660.14,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26819.64,
+      26823.92,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26966.5,
+      26970.79,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27211.28,
+      27215.62,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27846.61,
+      27851.05,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27882.63,
+      27887.08,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28127.15,
+      28131.64,
       27354.94,
       27400.36,
       27412.11,
-      28528.31,
+      28532.86,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27789.45,
+      27793.87,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27969.04,
+      27973.5,
       27686.17,
       27404.78,
       27351.97,
@@ -2882,7 +2882,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27677.59
+      27682.0
     ],
     "currency": "PLN"
   }
