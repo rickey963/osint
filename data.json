@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T01:51:24Z",
+  "last_updated": "2026-06-26T02:00:46Z",
   "poland": [
     {
       "title": "Koniec lex deweloper. Jak zmieni się rynek nieruchomości od 1 lipca",
@@ -484,6 +484,14 @@
       "summary": "Robinson, którego prawdziwe nazwisko brzmi Stephen Yaxley-Lennon, jest antyislamskim, skrajnie prawicowym działaczem politycznym, dobrze znanym w Wielkiej Brytanii i Europie. Śledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Człowiek, który nazywa siebie Tommym Robinsonem, zyskał rozgłos w Australii po tym, jak Karl Stefanovic, główny bohater telewizji porannej, opublikował wywiad z Robinsonem w ramach swojego podcastu. Skutki były szybkie. Nine Entertainment, największe lokalne imperium medialne w Australii, zerwało relacje ze Stefanoviciem i w piątek nie pojawi się on w audycji radiowej z Eddiem McGuire'em. Kontynuuj czytanie..."
     },
     {
+      "title": "Stany Zjednoczone kontynuują sprzedaż Turcji silników odrzutowych za 700 milionów dolarów pomimo obaw prawodawców – Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trump-notifies-congress-turkey-engine-sale-2026-06-25/",
+      "date": "2026-06-25T23:28:26Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Stany Zjednoczone kontynuują sprzedaż Turcji silników odrzutowych o wartości 700 milionów dolarów pomimo obaw prawodawcy Reutersa."
+    },
+    {
       "title": "Ekwador walczy, by zszokować Niemcy i dotrzeć do fazy pucharowej – Reuters",
       "url": "https://www.reuters.com/sports/soccer/ecuador-fight-back-shock-germany-reach-knockout-stage-2026-06-25/",
       "date": "2026-06-25T23:24:31Z",
@@ -538,14 +546,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Onsemi kupi Synaptics w ramach transakcji obejmującej wszystkie akcje o wartości 7 miliardów dolarów Reuters."
-    },
-    {
-      "title": "Trump powiadamia Kongres Turcji o sprzedaży silników – Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-notifies-congress-turkey-engine-sale-2026-06-25/",
-      "date": "2026-06-25T22:13:43Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Trump powiadamia Reuters o sprzedaży silników Kongresu Turcji."
     },
     {
       "title": "OpenAI skłania się ku czekaniu na IPO w przyszłym roku, podaje NYT – Reuters",
@@ -768,7 +768,7 @@
     {
       "title": "Aktualizacje na żywo z Wenezueli: Poszukiwanie ocalałych staje się pilniejsze 24 godziny po trzęsieniach ziemi",
       "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
-      "date": "2026-06-26T01:27:42Z",
+      "date": "2026-06-26T01:44:00Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Władze podały, że w kolejnych trzęsieniach ziemi zginęło co najmniej 188 osób, a ponad 1500 zostało rannych. Mieszkańcy portowego miasta La Guaira oszacowali, że pod gruzami uwięzione zostały setki osób. Spodziewano się, że liczba ofiar wzrośnie."
@@ -820,6 +820,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Zależy to od wody, powietrza i tego, jak szybko ratownikom uda się odnaleźć ludzi."
+    },
+    {
+      "title": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek – AP News",
+      "url": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-25-2026-862164c2aecbdc376dea434198eaf75f",
+      "date": "2026-06-25T22:34:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek AP News."
     },
     {
       "title": "Iran uderza w statek w cieśninie Ormuz, utrudniając wysiłki mające na celu przywrócenie ruchu",
@@ -942,14 +950,6 @@
       "summary": "UE udostępnia pakiet pożyczek o wartości 3 miliardów euro na odbudowę Ukrainy w ramach dwuletniego zobowiązania AP News."
     },
     {
-      "title": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek – AP News",
-      "url": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-25-2026-862164c2aecbdc376dea434198eaf75f",
-      "date": "2026-06-25T06:52:50Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek AP News."
-    },
-    {
       "title": "Republikanie w Senacie przeprowadzają nowe głosowanie w sprawie sił wojennych po tym, jak Trump skrytykował ich na posiedzeniu Kapitolu – AP News",
       "url": "https://apnews.com/article/trump-capitol-republican-senators-968c1454ede461d2db413790670c07df",
       "date": "2026-06-25T04:06:00Z",
@@ -1008,12 +1008,20 @@
   ],
   "technology": [
     {
-      "title": "Wyścig danych, który się nie kompiluje (w Rust)",
+      "title": "Kalifornia uruchamia narzędzie, które ma służyć jako „system wczesnego ostrzegania” w przypadku powszechnej utraty pracy spowodowanej sztuczną inteligencją, łącząc narażenie na sztuczną inteligencję z roszczeniami z tytułu ubezpieczenia na wypadek bezrobocia (Jo Constantz/Bloomberg)",
+      "url": "https://www.techmeme.com/260625/p59#a260625p59",
+      "date": "2026-06-26T01:45:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Jo Constantz / Bloomberg: Kalifornia wprowadza narzędzie, które ma służyć jako „system wczesnego ostrzegania”; w sprawie powszechnej utraty pracy spowodowanej sztuczną inteligencją, łączącej narażenie na sztuczną inteligencję z roszczeniami z tytułu ubezpieczenia od bezrobocia &mdash; Politycy tacy jak gubernator Kalifornii Gavin Newsom są pod presją, aby wykazywać się proaktywnością w obliczu zagrożenia, jakie technologia stwarza dla rynku pracy."
+    },
+    {
+      "title": "Wyścig danych, który się nie kompiluje",
       "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
       "date": "2026-06-26T01:33:15Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://corentin-core.github.io/posts/ruxe-type-level-disjointness/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48681361 Punkty: 3 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://corentin-core.github.io/posts/ruxe-type-level-disjointness/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48681361 Punkty: 8 # Komentarze: 2."
     },
     {
       "title": "Firma Upside, która zapewnia pracownikom socjalnym analizy mieszkaniowe oparte na sztucznej inteligencji, zebrała 20 milionów dolarów w ramach serii A prowadzonej przez Aquiline przy udziale Flare Capital, 645 i innych uczestniczących osób (Cailey Gleeson/Fierce Healthcare)",
@@ -1022,6 +1030,14 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Cailey Gleeson / Fierce Healthcare: Upside, która zapewnia pracownikom socjalnym informacje na temat mieszkalnictwa opartego na sztucznej inteligencji, zebrała 20 milionów dolarów w ramach serii A prowadzonej przez Aquiline wraz z Flare Capital, 645 i innymi uczestniczącymi osobami &mdash; runda finansowania serii A Payers Medicaid &mdash; Upside, skalowalna platforma stabilizacji warunków mieszkaniowych, zarobiła serię &hellip; o wartości 20 milionów dolarów."
+    },
+    {
+      "title": "Moduł Ethernet 10G Framework ujawnia złożoność USB-C",
+      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "date": "2026-06-26T01:10:52Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48681220 Punkty: 11 # Komentarze: 0."
     },
     {
       "title": "Jak rozwój sztucznej inteligencji w USA podnosi ceny energii elektrycznej, oprogramowania i nie tylko; w ankiecie 81% ekonomistów twierdzi, że w przyszłym roku spowoduje to inflację (Justin Lahart/Wall Street Journal)",
@@ -1061,7 +1077,7 @@
       "date": "2026-06-25T23:10:30Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://gchandbook.org/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48680370 Punkty: 36 # Komentarze: 4."
+      "summary": "Adres URL artykułu: https://gchandbook.org/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48680370 Punkty: 40 # Komentarze: 5."
     },
     {
       "title": "NHTSA proponuje zniesienie obowiązku stosowania ręcznych pedałów hamulca w „pojazdach zaprojektowanych do napędzania wyłącznie za pomocą zautomatyzowanych systemów jazdy” (Sean O'Kane/TechCrunch)",
@@ -1085,7 +1101,7 @@
       "date": "2026-06-25T22:16:55Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48679934 Punkty: 115 # Komentarze: 47."
+      "summary": "Adres URL artykułu: https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48679934 Punkty: 124 # Komentarze: 51."
     },
     {
       "title": "Patronus AI, który tworzy symulowane środowiska cyfrowe do oceny agentów AI, zebrał 50 mln dolarów w ramach serii B prowadzonej przez Greenfielda, zwiększając całkowite finansowanie do 70 mln dolarów (Marina Temkin/TechCrunch)",
@@ -1096,20 +1112,12 @@
       "summary": "Marina Temkin / TechCrunch: Patronus AI, który tworzy symulowane środowiska cyfrowe do oceny agentów AI, zebrał serię B o wartości 50 mln dolarów pod przewodnictwem Greenfielda, zwiększając całkowite finansowanie do 70 mln dolarów &mdash; Agenci AI stają się coraz bardziej wyrafinowani. Ewoluują od odpowiadania na pytania do samodzielnego wykonywania wieloetapowych, złożonych zadań."
     },
     {
-      "title": "Om Malik, wieloletni pisarz technologiczny, założyciel Gigaom i partner w True Ventures, zmarł w środę w wieku 59 lat (Om Malik/On my Om)",
-      "url": "https://www.techmeme.com/260625/p50#a260625p50",
-      "date": "2026-06-25T21:50:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 2,
-      "summary": "Om Malik / Na moim Om: Om Malik, wieloletni pisarz technologiczny, założyciel Gigaom i partner w True Ventures, zmarł w środę w wieku 59 lat &mdash; Om Malik zmarł 24 czerwca 2026 roku w szpitalu Stanford po długiej podróży po zdrowie serca. Otaczała go rodzina i przyjaciele."
-    },
-    {
       "title": "Era Internetu „poproszę dokumenty” zdziesiątkuje Twoją prywatność",
       "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
       "date": "2026-06-25T21:44:55Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://expression.fire.org/p/the-papers-Please-era-of-the-internet Adres URL komentarzy: https://news.ycombinator.com/item?id=48679608 Punkty: 394 # Komentarze: 173."
+      "summary": "Adres URL artykułu: https://expression.fire.org/p/the-papers-Please-era-of-the-internet Adres URL komentarzy: https://news.ycombinator.com/item?id=48679608 Punkty: 408 # Komentarze: 184."
     },
     {
       "title": "Migracja z Proxmox do NixOS i Incus",
@@ -1117,7 +1125,7 @@
       "date": "2026-06-25T21:22:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.nijho.lt/post/proxmox-to-nixos/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48679385 Punkty: 46 # Komentarze: 22."
+      "summary": "Adres URL artykułu: https://www.nijho.lt/post/proxmox-to-nixos/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48679385 Punkty: 50 # Komentarze: 25."
     },
     {
       "title": "Un-0: Generowanie obrazów za pomocą sprzężonych oscylatorów",
@@ -1125,7 +1133,7 @@
       "date": "2026-06-25T20:50:02Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48679007 Punkty: 108 # Komentarze: 28."
+      "summary": "Adres URL artykułu: https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48679007 Punkty: 111 # Komentarze: 28."
     },
     {
       "title": "Microsoft dodaje kolejny rok do programu rozszerzonej aktualizacji systemu Windows 10",
@@ -1141,7 +1149,7 @@
       "date": "2026-06-25T20:14:35Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://calpaterson.com/bank-python.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48678645 Punkty: 71 # Komentarze: 23."
+      "summary": "Adres URL artykułu: https://calpaterson.com/bank-python.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48678645 Punkty: 73 # Komentarze: 25."
     },
     {
       "title": "Dopasowywanie nawiasów równoległych",
@@ -1149,7 +1157,7 @@
       "date": "2026-06-25T20:12:24Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://williamdue.github.io/blog/parallel-parentheses-matching Adres URL komentarzy: https://news.ycombinator.com/item?id=48678623 Punkty: 55 # Komentarze: 8."
+      "summary": "Adres URL artykułu: https://williamdue.github.io/blog/parallel-parentheses-matching Adres URL komentarzy: https://news.ycombinator.com/item?id=48678623 Punkty: 57 # Komentarze: 8."
     },
     {
       "title": "FCC może zabić program o wartości 2 miliardów dolarów, który łączy szkoły i biblioteki z Internetem",
@@ -1158,14 +1166,6 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "Carr powołuje się na obawy dotyczące czasu spędzanego przed ekranem i zostaje oskarżony o próbę bycia „rodzicem narodu”."
-    },
-    {
-      "title": "Złudzenie odźwiernego w akcji",
-      "url": "https://rozumem.xyz/posts/17",
-      "date": "2026-06-25T20:00:35Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://rozumem.xyz/posts/17 Adres URL komentarzy: https://news.ycombinator.com/item?id=48678495 Punkty: 50 # Komentarze: 89."
     },
     {
       "title": "Aplikacja Wimbledon 2026 z AI od IBM. Ma tłumaczyć mecze lepiej niż suche statystyki",
@@ -2100,6 +2100,14 @@
       "summary": "Ogromne koszty odbudowy Ukrainy. Prezes Banku Światowego wskazał kwotę Forsal.pl."
     },
     {
+      "title": "Możliwe odwołanie szefa PIP. Kluczową decyzję podejmie sejmowa komisja - Forsal.pl",
+      "url": "https://forsal.pl/gospodarka/artykuly/11267688,mozliwe-odwolanie-szefa-pip-kluczowa-decyzje-podejmie-sejmowa-komisja.html",
+      "date": "2026-06-25T11:23:39Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Możliwe odwołanie szefa PIP. Kluczową decyzję podejmie sejmowa komisja Forsal.pl."
+    },
+    {
       "title": "Proacta zawarła list intencyjny z Uniwersyteckim Centrum Zdrowia Kobiety i Noworodka WUM - BiznesRadar",
       "url": "https://www.biznesradar.pl/a/148846,proacta-zawarla-list-intencyjny-z-uniwersyteckim-centrum-zdrowia-kobiety-i-noworodka-wum",
       "date": "2026-06-25T11:12:00Z",
@@ -2122,14 +2130,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Obligacje Skarbu Państwa lipiec 2026. Ministerstwo Finansów opublikowało nową ofertę Wioletta Hass czw., 25.06.2026 Kanał Strefa Inwestorów obligacje obligacje skarbowe obligacje skarbowe lipiec 2026 obligacje skarbowe oprocentowanie obligacje skarbowe nowe oprocentowani obligacje obligacje Skarbu Państwa oferta obligacji Treść Znamy najnowszą ofertę obligacji Skarbu Państwa. W lipcu Ministerstwo Finansów nie zaskoczyło.Ministerstwo Finansów utrzymało warunki oferty oszczędnościowych obligacji skarbowych bez zmian wobec czerwca."
-    },
-    {
-      "title": "Kiedy euro w Polsce? Raport Komisji Europejskiej nie pozostawia wątpliwości - Forsal.pl",
-      "url": "https://forsal.pl/biznes/artykuly/11267620,polska-a-euro-najnowsza-ocena-komisji-europejskiej.html",
-      "date": "2026-06-25T09:53:00Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Kiedy euro w Polsce? Raport Komisji Europejskiej nie pozostawia wątpliwości Forsal.pl."
     },
     {
       "title": "Plany rozwoju i komercjalizacja technologii Defence.Hub S.A. [webinar z zarządem]",
@@ -2856,51 +2856,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25707.52,
+      25709.56,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26873.44,
+      26875.58,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27020.59,
+      27022.74,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27265.87,
+      27268.04,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27902.48,
+      27904.7,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27938.57,
+      27940.79,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28183.58,
+      28185.82,
       27354.94,
       27400.36,
       27412.11,
-      28585.54,
+      28587.82,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27845.19,
+      27847.41,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28025.15,
+      28027.38,
       27686.17,
       27404.78,
       27351.97,
@@ -2908,7 +2908,7 @@
       27905.42,
       27661.43,
       27749.69,
-      27746.2
+      27748.41
     ],
     "currency": "PLN"
   }
