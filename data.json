@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T17:05:33Z",
+  "last_updated": "2026-06-26T17:06:47Z",
   "poland": [
     {
       "title": "Powstało narzędzie do analizy decyzji modeli AI. Jego autorami są Polacy",
@@ -768,7 +768,7 @@
     {
       "title": "Aktualności na żywo z Wenezueli: Ratownicy szukają ocalałych z trzęsienia ziemi, gdy przywódca wzywa do „militaryzacji” obszaru",
       "url": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
-      "date": "2026-06-26T16:48:55Z",
+      "date": "2026-06-26T17:02:16Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Prezydent Delcy Rodríguez powiedział, że w środę w dwóch potężnych trzęsieniach ziemi zginęło 589 osób, a prawie 3000 zostało rannych. Stany Zjednoczone i Meksyk jako jedne z ostatnich wysłały wsparcie, ponieważ setki osób zaginęły lub zostały uwięzione pod gruzami."
@@ -990,23 +990,31 @@
       "summary": "Republikanie w Senacie przeprowadzają nowe głosowanie w sprawie sił wojennych po tym, jak Trump skrytykował ich na posiedzeniu AP News na Kapitolu."
     },
     {
+      "title": "Amerykanie są zasypywani podejrzanymi oszustwami. Nowe sondaże pokazują, dlaczego zgłasza je niewiele ofiar – AP News",
+      "url": "https://apnews.com/article/poll-scams-law-enforcement-social-media-389f8d824b89fa434c297729f2aaf56d",
+      "date": "2026-06-25T04:02:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Amerykanie są zasypywani podejrzanymi oszustwami. Nowe sondaże pokazują, dlaczego niewiele ofiar zgłasza je AP News."
+    },
+    {
       "title": "Kolejne potężne trzęsienia ziemi nawiedziły Wenezuelę, powodując rozległe zniszczenia – AP News",
       "url": "https://apnews.com/article/venezuela-earthquake-caracas-7179acaee70a9c543f953852f15d4814",
       "date": "2026-06-25T03:32:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Kolejne potężne trzęsienia ziemi nawiedziły Wenezuelę, powodując rozległe zniszczenia AP News."
-    },
-    {
-      "title": "Astronomowie odkryli największe jak dotąd superpuchnięte planety, które są lżejsze od waty cukrowej – AP News",
-      "url": "https://apnews.com/article/super-puffs-cotton-candy-giant-light-planets-db1ebf1cb946e1c0bba67a5040bfc8a9",
-      "date": "2026-06-25T01:02:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Astronomowie odkryli największe jak dotąd superpuchłe planety, które są lżejsze od waty cukrowej AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Liva AI (YC S25) poszukuje pracowników",
+      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+      "date": "2026-06-26T17:00:43Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operacje-lead Adres URL komentarzy: https://news.ycombinator.com/item?id=48688961 Punkty: 0 # Komentarze: 0."
+    },
     {
       "title": "Mała firma w wynikach AI: jak klienci cię szukają i co decyduje, że cię znajdą",
       "url": "https://spidersweb.pl/2026/06/rewolucja-ai-pozycjonowanie-wsparcie-grupa-wenet-partner-technologiczny.html",
@@ -1030,6 +1038,14 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Samsung się wygadał. Będzie telefon, na który czeka pół świata."
+    },
+    {
+      "title": "Pokaż HN: Inteligentne routing modelu bezpośrednio w Claude, Codex i Cursor",
+      "url": "https://github.com/workweave/router",
+      "date": "2026-06-26T16:40:11Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Zbudowaliśmy router modelowy, który podłącza się do agentów kodujących (np. Claude Code, Codex, Cursor itp.) i inteligentnie wysyła żądania do najlepszego modelu, aby je obsłużyć. Oto krótka demonstracja uruchamiania go lokalnie: https://www.youtube.com/watch?v=isKhAyivtfM. W Weave piszemy ~ cały nasz kod za pomocą sztucznej inteligencji, a to staje się coraz droższe."
     },
     {
       "title": "Oglądaj mundial, pokaż jak wracasz do domu i wygraj kamerę i hulajnogę",
@@ -1133,7 +1149,7 @@
       "date": "2026-06-26T15:35:23Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://ohadravid.github.io/posts/2026-06-tool-talking/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48687903 Punkty: 41 # Komentarze: 26."
+      "summary": "Adres URL artykułu: https://ohadravid.github.io/posts/2026-06-tool-talking/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48687903 Punkty: 50 # Komentarze: 36."
     },
     {
       "title": "Źródła: 14- i 16-calowe ekrany dotykowe OLED firmy Apple MacBooki Pro będą zasilane przez istniejące chipy M5 Pro i M5 Max i będą miały zaktualizowany projekt przemysłowy (Mark Gurman/Bloomberg)",
@@ -1142,14 +1158,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Mark Gurman / Bloomberg: Źródła: 14- i 16-calowe MacBooki Pro z ekranem dotykowym OLED firmy Apple będą napędzane istniejącymi chipami M5 Pro i M5 Max i będą miały zaktualizowany projekt przemysłowy &mdash; Pierwszy w historii laptop Apple Inc. z ekranem dotykowym będzie opierał się na obecnych, wysokiej klasy chipach M5 firmy, a nie na krzemie nowej generacji &hellip;."
-    },
-    {
-      "title": "Następcy ChatGPT szybko nie będzie. Podziękuj Trumpowi",
-      "url": "https://spidersweb.pl/2026/06/gpt5-6-bialy-dom-trump.html",
-      "date": "2026-06-26T15:21:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Następcy ChatGPT szybko nie będzie. Podziękuj Trumpowi."
     },
     {
       "title": "Biały Dom podjął decyzję. GPT-5.6 od OpenAI z kontrolowanym startem",
@@ -1189,7 +1197,7 @@
       "date": "2026-06-26T14:46:00Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://commerce.jolla.com/products/jolla-phone-october-2026 Adres URL komentarzy: https://news.ycombinator.com/item?id=48687272 Punkty: 135 # Komentarze: 87."
+      "summary": "Adres URL artykułu: https://commerce.jolla.com/products/jolla-phone-october-2026 Adres URL komentarzy: https://news.ycombinator.com/item?id=48687272 Punkty: 145 # Komentarze: 90."
     },
     {
       "title": "Informacje zwrotne na temat informacji zwrotnych: wietrzenie skał i klimat",
@@ -1229,7 +1237,7 @@
       "date": "2026-06-26T14:10:26Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted Adres URL komentarzy: https://news.ycombinator.com/item?id=48686834 Punkty: 211 # Komentarze: 89."
+      "summary": "Adres URL artykułu: https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted Adres URL komentarzy: https://news.ycombinator.com/item?id=48686834 Punkty: 217 # Komentarze: 100."
     },
     {
       "title": "Odkryli sekret oceanu wykorzystując pomysł z Polski. W Wiśle też już mamy taką technologię",
@@ -1272,6 +1280,14 @@
       "summary": "Akcja miałaby sprawdzić, czy grupie uda się przekształcić ambicje w biznes telefoniczny na masowy rynek."
     },
     {
+      "title": "Czytanie wiadomości to nowe palenie",
+      "url": "https://www.experimental-history.com/p/reading-the-news-is-the-new-smoking",
+      "date": "2026-06-26T13:07:05Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.experimental-history.com/p/reading-the-news-is-the-new- smoking URL komentarzy: https://news.ycombinator.com/item?id=48686167 Punkty: 18 # Komentarze: 19."
+    },
+    {
       "title": "Przetestowałem akcelerator AI – GIGABYTE RADEON AI PRO R9700 32 GB",
       "url": "https://www.benchmark.pl/przetestowalem-akcelerator-ai-gigabyte-radeon-ai-pro-r9700-32-gb-7301004908542048a",
       "date": "2026-06-26T13:03:14Z",
@@ -1293,7 +1309,7 @@
       "date": "2026-06-26T12:58:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48686093 Punkty: 332 # Komentarze: 56."
+      "summary": "Adres URL artykułu: https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48686093 Punkty: 348 # Komentarze: 61."
     },
     {
       "title": "Insta360 Luna Ultra – test. Kamera bez żadnego \"ale\"",
@@ -1349,7 +1365,7 @@
       "date": "2026-06-26T11:51:11Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://alephneuro.com/blog/ultrasound-brain Adres URL komentarzy: https://news.ycombinator.com/item?id=48685558 Punkty: 97 # Komentarze: 26."
+      "summary": "Adres URL artykułu: https://alephneuro.com/blog/ultrasound-brain Adres URL komentarzy: https://news.ycombinator.com/item?id=48685558 Punkty: 105 # Komentarze: 30."
     },
     {
       "title": "Recenzja Corsair Nightsword V2 Wireless. Mysz z nietuzinkową funkcją",
@@ -1374,22 +1390,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Netflix opublikował pierwszy zwiastun THE ONE PIECE, czyli nowej adaptacji mangi Eiichiro Ody. Anime powróci w nowej odsłonie już w przyszłym roku!"
-    },
-    {
-      "title": "Wszyscy jesteśmy zależni od open source. Będziemy go wspólnie bronić",
-      "url": "https://akrites.org/letter/",
-      "date": "2026-06-26T05:40:36Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://akrites.org/letter/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48682737 Punkty: 387 # Komentarze: 192."
-    },
-    {
-      "title": "Projekt kodów kreskowych Libre",
-      "url": "https://graphicore.github.io/librebarcode/",
-      "date": "2026-06-26T03:12:42Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://graphicore.github.io/librebarcode/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48681949 Punkty: 245 # Komentarze: 39."
     },
     {
       "title": "Microsoft dodaje kolejny rok do programu rozszerzonej aktualizacji systemu Windows 10",
@@ -2850,51 +2850,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25656.05,
+      25658.43,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26819.64,
+      26822.13,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26966.5,
+      26969.0,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27211.28,
+      27213.81,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27846.61,
+      27849.2,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27882.63,
+      27885.22,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28127.15,
+      28129.77,
       27354.94,
       27400.36,
       27412.11,
-      28528.31,
+      28530.97,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27789.45,
+      27792.03,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27969.04,
+      27971.64,
       27686.17,
       27404.78,
       27351.97,
@@ -2902,8 +2902,8 @@
       27905.42,
       27661.43,
       27749.69,
-      27690.65,
-      27769.95
+      27693.23,
+      27773.66
     ],
     "currency": "PLN"
   }
