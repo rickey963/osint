@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T07:01:32Z",
+  "last_updated": "2026-06-26T07:02:44Z",
   "poland": [
     {
       "title": "Komendant SOK wygrał przetarg na dostawę sprzętu dla policji. Sprawą zajmie się CBA",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Apple rezygnuje z procesorów M6 Pro i Max. Wina leży po stronie AI",
+      "url": "https://antyweb.pl/apple-rezygnuje-z-procesorow-m6-pro-i-max-wina-lezy-po-stronie-ai",
+      "date": "2026-06-26T07:00:52Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Każda kolejna generacja procesorów Apple przynosiła nam klasyczny zestaw: wersję podstawową, po której w krótkich odstępach czasu debiutowały potężniejsze odmiany Pro, Max, a czasami nawet Ultra. Ten schemat, sprawdzający się od czasów układu M1 aż do obecnej serii M5, właśnie odchodzi w zapomnienie."
+    },
+    {
       "title": "Poszedłem do sklepu i mnie zatkało. Napoje bez kaucji prawie zniknęły",
       "url": "https://spidersweb.pl/2026/06/system-kaucyjny-polska-dominacja.html",
       "date": "2026-06-26T06:57:00Z",
@@ -1344,14 +1352,6 @@
       "summary": "W dobie elektroniki, naprawa której często się nie opłaca, bo w serwisie kosztuje krocie, a w domu jest niemalże niemożliwa, pojawił się on – najnowszy tablet od Lenovo, Lenovo ThinkTab X11 Gen 1 – tablet z łatwym dostępem do wymienialnej baterii i konstrukcją, do której dobierzesz się sam, zgodnie z instrukcją, którą zapewnia nawet sam [&#8230;] Artykuł Recenzja Lenovo ThinkTab X11 Gen 1. To tablet z wymienną baterią pochodzi z serwisu INSTALKI."
     },
     {
-      "title": "We Wrocławiu zakwitła niezwykła roślina. Zachwyca wielkością, przeraża smrodem",
-      "url": "https://antyweb.pl/we-wroclawiu-zakwitla-niezwykla-roslina-zachwyca-wielkoscia-przeraza-smrodem",
-      "date": "2026-06-25T16:23:38Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "W Ogrodzie Botanicznym Uniwersytetu Wrocławskiego właśnie zakwitło dziwidło olbrzymie. Transmisję z tego wyjątkowo rzadkiego wydarzenia można oglądać w internecie."
-    },
-    {
       "title": "Federalni odmawiają Polestarowi zezwolenia na sprzedaż samochodów w USA od roku modelowego 2027",
       "url": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
       "date": "2026-06-25T14:40:23Z",
@@ -1410,44 +1410,12 @@
   ],
   "cybersecurity": [
     {
-      "title": "Szef bezpieczeństwa uważał, że MFA będzie zbyt dużym zabezpieczeniem",
-      "url": "https://www.theregister.com/security/2026/06/26/security-boss-thought-mfa-would-be-too-much-security/5261934",
-      "date": "2026-06-26T06:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Jedna zasada dla robotników, druga dla dyrektorów."
-    },
-    {
       "title": "Służba zdrowia pod presją cyberataków. W jaki sposób AI zmienia zasady gry",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/sluzba-zdrowia-pod-presja-cyberatakow-w-jaki-sposob-ai-zmienia-zasady-gry",
       "date": "2026-06-26T05:38:46Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Wraz z rozwojem sztucznej inteligencji i rosnącą liczbą cyberataków, sektor ochrony zdrowia staje się jednym z najbardziej wrażliwych obszarów infrastruktury krytycznej. O tym, jak zmienia się charakter zagrożeń, dlaczego szpitale są coraz częściej na celowniku cyberprzestępców i jak budować odporność operacyjną w erze AI, mówi Tomasz Pietrzyk, dyrektor techniczny w regionie Europy Środkowo-Wschodniej w Palo Alto Networks."
-    },
-    {
-      "title": "Microsoft rozszerza rozszerzone aktualizacje systemu Windows 10 w najbardziej wyciszony sposób, jaki można sobie wyobrazić",
-      "url": "https://www.theregister.com/os-platforms/2026/06/26/microsoft-extends-extended-updates-for-windows-10-in-the-most-muted-way-imaginable/5262673",
-      "date": "2026-06-26T05:35:25Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Drobna poprawka na stronie pomocy technicznej pokazuje, że konsumenci mogą kupić kolejny rok ochrony za pomocą poprawek."
-    },
-    {
-      "title": "Chińska firma zajmująca się cyberbezpieczeństwem twierdzi, że stworzyła wyszukiwarkę błędów lepszą niż Mythos",
-      "url": "https://www.theregister.com/security/2026/06/26/chinese-cybersecurity-company-claims-its-built-a-better-than-mythos-bug-finder/5262642",
-      "date": "2026-06-26T01:49:35Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Qihoo 360, który został zakazany w USA, twierdzi, że jest potrzebny jako środek odstraszający dla uzbrojonych modeli antropicznych."
-    },
-    {
-      "title": "Giganci sztucznej inteligencji wspierają organizacje non-profit, aby przekwalifikować pracowników pozostawionych przez sztuczną inteligencję",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/26/ai-giants-back-non-profit-to-retrain-workers-left-behind-by-ai/5262601",
-      "date": "2026-06-25T23:16:52Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Przepraszamy, że wydaliśmy Twoje pensje na centra danych, ale zadzwoń do nas, gdy będziesz gotowy na sztuczną inteligencję."
     },
     {
       "title": "Anthropic testuje aplikację Claude Cowork przypominającą komputer stacjonarny na urządzenia mobilne",
@@ -1466,52 +1434,12 @@
       "summary": "Władze w Polsce aresztowały czterech członków zorganizowanej grupy cyberprzestępczej oskarżonych o włamywanie się do partnerów telekomunikacyjnych i przejmowanie kont e-mail w celu przeprowadzania ataków polegających na zmianie karty SIM. [...]."
     },
     {
-      "title": "Samoniszczący backdoor Mistic powiązany z brokerem dostępu sprzedającym korporacyjne przyczółki gangom ransomware",
-      "url": "https://www.theregister.com/security/2026/06/25/self-destructing-mistic-backdoor-linked-to-access-broker-selling-corporate-footholds-to-ransomware-gangs/5262579",
-      "date": "2026-06-25T22:26:55Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Wykrywany podczas włamań ukierunkowanych na sektory ubezpieczeń, edukacji, IT i usług profesjonalnych."
-    },
-    {
-      "title": "Czytali ten zwój! Sztuczna inteligencja pomaga rozszyfrować starożytny dokument zwęglony przez Wezuwiusza",
-      "url": "https://www.theregister.com/offbeat/2026/06/25/they-read-the-scroll-thing-ai-helps-decipher-ancient-document-charred-by-vesuvius/5262525",
-      "date": "2026-06-25T21:18:47Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "„Z pewnością wytężyliśmy się do granic możliwości poprzez badania i naukę, nie będziemy już od nich gorsi” – czytamy w zwoju praktycznie rozpakowanym przy pomocy sztucznej inteligencji."
-    },
-    {
-      "title": "Analityk byłej firmy Huntress twierdzi, że poufne informacje firmy przekazały informacje oszustowi wykorzystującemu oprogramowanie ransomware. Następuje dramat w mediach społecznościowych",
-      "url": "https://www.theregister.com/cyber-crime/2026/06/25/ex-huntress-analyst-claims-company-insider-fed-info-to-a-ransomware-crim-social-media-drama-ensues/5262538",
-      "date": "2026-06-25T20:36:22Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Były pracownik oskarża firmę o przedkładanie oczekującego IPO nad bezpieczeństwo klienta."
-    },
-    {
-      "title": "OpenAI twierdzi, że pracownicy przechodzą od czatu do agentów",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-employees-moving-beyond-chat-to-agents/5262499",
-      "date": "2026-06-25T19:58:23Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Kodeks, tak naprawdę, nie jest przeznaczony tylko dla programistów."
-    },
-    {
       "title": "Aplikacja do śledzenia zamówień Sklep wykorzystywany do ataków phishingowych poprzez wywołanie zwrotne",
       "url": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
       "date": "2026-06-25T19:45:48Z",
       "source": "BleepingComputer",
       "confirmed_by": 1,
       "summary": "Podmioty zagrażające w coraz większym stopniu wykorzystują Shop, aplikację Shopify do śledzenia zamówień, dodając fałszywe potwierdzenia zakupu do historii zamówień użytkowników, aby nakłonić ich do podania wrażliwych danych lub zainstalowania oprogramowania do zdalnego dostępu. [...]."
-    },
-    {
-      "title": "Łazik Perseverance znajduje jeszcze więcej oznak wymarłego życia na Marsie",
-      "url": "https://www.theregister.com/offbeat/2026/06/25/perseverance-rover-finds-even-more-signs-of-extinct-life-on-mars/5262477",
-      "date": "2026-06-25T18:38:12Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Naukowcy pozostają sceptyczni, proszą, aby ktoś przyniósł skały do ​​domu."
     },
     {
       "title": "Microsoft po cichu przedłuża bezpłatną pomoc techniczną dla systemu Windows 10 ESU do października 2027 r",
@@ -1538,36 +1466,12 @@
       "summary": "Duża grupa piractwa sportowego powiązana z nielegalną platformą streamingową PirloTV została rozbita w wyniku akcji, która wycelowała w 44 domeny. [...]."
     },
     {
-      "title": "Twórca FOSS buduje kompilator BASIC przy użyciu LLVM",
-      "url": "https://www.theregister.com/personal-tech/2026/06/25/foss-dev-builds-a-basic-compiler-using-llvm/5262171",
-      "date": "2026-06-25T15:10:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "I to nie byle jaki BASIC: BASIC09 z OS-9."
-    },
-    {
       "title": "Zestaw phishingowy Bluekit wykorzystuje przeglądarkę pośrodku w celu kradzieży logowania",
       "url": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
       "date": "2026-06-25T15:00:00Z",
       "source": "BleepingComputer",
       "confirmed_by": 1,
       "summary": "Platforma phishingu jako usługi Bluekit w dalszym ciągu ewoluuje — w ciągu ostatniego tygodnia zidentyfikowano prawie 70 nowych nazw hostów i dodano funkcje przeglądarki pośredniej w celu usprawnienia kradzieży danych. [...]."
-    },
-    {
-      "title": "Regeneracja musi nadążać za sztuczną inteligencją",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/25/recovery-has-to-keep-up-with-ai/5260452",
-      "date": "2026-06-25T15:00:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "POST SPONSOROWANY: Dlaczego architektura odzyskiwania w epoce sztucznej inteligencji wygląda inaczej, z Gonen Steinem z Eon."
-    },
-    {
-      "title": "Apple przenosi koszty RAMpocalypse na konsumentów",
-      "url": "https://www.theregister.com/personal-tech/2026/06/25/apple-passes-rampocalypse-costs-on-to-consumers/5262266",
-      "date": "2026-06-25T14:48:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Ceny Fondleslaba i Maca rosną o setki; telefony bezpieczne...na razie."
     },
     {
       "title": "Cyberatak na dolnośląskie miasto. Zaszyfrowano dane, możliwy wyciek",
@@ -1770,12 +1674,52 @@
       "summary": "17-latka z krakowskiego liceum miała stworzyć materiał deepnude z wizerunkiem swojej młodszej koleżanki. Prezes Urzędu Ochrony Danych Osobowych Mirosław Wróblewski skierował do Komendanta Policji w Krakowie pismo, w którym wskazuje sposób rozumienia deepfake’ów oraz zagrożeń, które stanowią. Jest to kolejny taki przypadek w ostatnim czasie."
     },
     {
+      "title": "UODO zapowiada kontrolę w Szpitalu Południowym",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/uodo-zapowiada-kontrole-w-szpitalu-poludniowym",
+      "date": "2026-06-24T14:38:27Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Prezes Urzędu Ochrony Danych Osobowych zapowiedział przeprowadzenie kontroli w Szpitalu Południowym w Warszawie. To konsekwencja doniesień medialnych dotyczących wydarzeń w placówce. Chodzi o m.in."
+    },
+    {
+      "title": "CISA ostrzega przed maksymalnie poważnymi wadami Ubiquiti wykorzystywanymi w atakach",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
+      "date": "2026-06-24T14:35:15Z",
+      "source": "BleepingComputer",
+      "confirmed_by": 1,
+      "summary": "Amerykańska Agencja ds. Cyberbezpieczeństwa i Bezpieczeństwa Infrastruktury (CISA) ostrzega przed hakerami aktywnie wykorzystującymi luki w serwerach Ubiquity UniFi OS i Lantronix typu serial-to-Ethernet. [...]."
+    },
+    {
+      "title": "Amadey, działanie złośliwego oprogramowania StealC zostało zakłócone w ramach operacji Endgame",
+      "url": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
+      "date": "2026-06-24T14:35:11Z",
+      "source": "BleepingComputer",
+      "confirmed_by": 1,
+      "summary": "Microsoft, Europol i partnerzy międzynarodowi zakłócili infrastrukturę wykorzystywaną przez złośliwe oprogramowanie Amadey i StealC w ramach operacji Endgame, której celem są usługi cyberprzestępcze i gangi zajmujące się oprogramowaniem ransomware. [...]."
+    },
+    {
+      "title": "Urzędy nadal nie dla wszystkich. NIK wskazuje na bariery",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/urzedy-nadal-nie-dla-wszystkich-nik-wskazuje-na-bariery",
+      "date": "2026-06-24T14:08:50Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Urzędowe strony internetowe, budynki i sposób komunikacji z mieszkańcami nadal nie są w pełni dostępne dla osób ze szczególnymi potrzebami. Kontrola NIK wykazała, że w wielu samorządach obowiązki wynikające z przepisów pozostają przede wszystkim formalnością, a nie realnym standardem obsługi. Żadna ze sprawdzonych witryn nie spełniła wszystkich wymogów dostępności cyfrowej."
+    },
+    {
       "title": "Wady Cordyceps CI/CD narażają ponad 300 repozytoriów GitHub na ataki na łańcuch dostaw",
       "url": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
       "date": "2026-06-24T12:48:11Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Badacze zajmujący się cyberbezpieczeństwem zauważyli nową klasę słabości w przepływie pracy CI/CD, która umożliwia atakującym przejmowanie przepływów pracy i narażanie na szwank łańcuchów dostaw typu open source. „Krytyczny możliwy do wykorzystania wzorzec” został nazwany przez firmę Novee Security nazwą kodową Cordyceps. Problem może umożliwić osobie atakującej pełną kontrolę nad repozytoriami w kilkudziesięciu największych organizacjach na całym świecie, w tym Microsoft, Google, Apache i."
+    },
+    {
+      "title": "Znany sojusz wywiadowczy ostrzega przed AI. „To wydarzy się w ciągu kilku miesięcy”",
+      "url": "https://cyberdefence24.pl/znany-sojusz-wywiadowczy-ostrzega-przed-ai-to-wydarzy-sie-w-ciagu-kilku-miesiecy",
+      "date": "2026-06-24T11:42:09Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Sojusz wywiadowczy Five Eyes ostrzega, że rozwój najbardziej zaawansowanych modeli sztucznej inteligencji może w najbliższych miesiącach wyraźnie przyspieszyć zmiany w cyberprzestrzeni. Służby apelują do państw, firm i organizacji, by nie traktowały cyberbezpieczeństwa wyłącznie jako zadania działów IT, lecz jako element strategii, odporności i zaufania. AI zwiększa bowiem możliwości atakujących, ale może też stać się ważnym narzędziem skuteczniejszej obrony."
     },
     {
       "title": "Agentyczny przeciwnik Świtu Apex",
@@ -1802,12 +1746,44 @@
       "summary": "Podmioty zagrażające zaczęły wykorzystywać niedawno ujawnioną krytyczną lukę w zabezpieczeniach wpływającą na rozwiązania Cisco Unified Communications Manager (Unified CM) i Unified Communications Manager Session Management Edition (Unified CM SME). Luka, oznaczona jako CVE-2026-20230 (wynik CVSS: 8,6), polega na nieprawidłowej weryfikacji danych wejściowych dla określonych żądań HTTP, co może pozwolić na nieuwierzytelnione, zdalne."
     },
     {
+      "title": "FortiBleed obrał za cel zapory ogniowe FortiGate w operacji gromadzenia 110 milionów danych uwierzytelniających",
+      "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+      "date": "2026-06-23T18:20:49Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Szacuje się, że rosyjskojęzyczny broker początkowego dostępu (IAB), kierujący się korzyściami finansowymi, stoi za zakrojoną na szeroką skalę operację gromadzenia danych uwierzytelniających znaną jako FortiBleed, która objęła ponad 430 000 zapór sieciowych FortiGate na całym świecie. Kampania, aktywna od lutego 2026 r., obejmuje zbieranie list danych uwierzytelniających, wyszukiwanie ujawnionych usług, wymuszanie dostępu do systemów i wdrażanie „szytych na miarę”."
+    },
+    {
       "title": "Hakerzy Scattered Spider przyznają się do winy już w pierwszym dniu procesu",
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "date": "2026-06-23T16:12:49Z",
       "source": "Krebs on Security",
       "confirmed_by": 1,
       "summary": "W tym tygodniu dwóch mężczyzn przyznało się w Wielkiej Brytanii do zarzutów karnych wynikających z cyberataku z sierpnia 2024 r., który sparaliżował Transport for London, podmiot odpowiedzialny za sieć transportu publicznego w obszarze Wielkiego Londynu. Duet był kluczowymi członkami płodnej grupy cyberprzestępczej znanej jako Scattered Spider, a ich przyznanie się do winy nastąpiło pierwszego dnia spodziewanego sześciotygodniowego procesu."
+    },
+    {
+      "title": "Umiejętność fałszywego agenta AI przeszła skanowanie bezpieczeństwa i według doniesień dotarła do 26 000 agentów",
+      "url": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
+      "date": "2026-06-23T15:16:43Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Firma ochroniarska AIR stworzyła fałszywą umiejętność agenta AI, przepuściła ją przez popularny rynek umiejętności i reklamę na Instagramie i twierdzi, że dotarła do około 26 000 agentów, w tym niektórych na kontach firmowych. Każdy skaner bezpieczeństwa, pod kątem którego firma go testowała, oznaczał go jako bezpieczny. Ładunek był z założenia nieszkodliwy: zbierał adres e-mail użytkownika i nie robił nic więcej."
+    },
+    {
+      "title": "Rozkaz Trumpa wyznacza termin federalnej postkwantowej migracji kryptowalut na rok 2030",
+      "url": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
+      "date": "2026-06-23T15:16:40Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "22 czerwca prezydent Trump podpisał zarządzenie wykonawcze wyznaczające rygorystyczne terminy dla agencji federalnych na przeniesienie aktywów o dużej wartości i systemów o dużym wpływie do kryptografii postkwantowej. Kluczowy zakład musi się przenieść do 31 grudnia 2030 r.; podpisów cyfrowych do 31 grudnia 2031 r. EO 14409 pozostawia systemy bezpieczeństwa narodowego na osobnym torze."
+    },
+    {
+      "title": "GitHub aktualizuje działania/zamówienie, aby blokować typowe wzorce ataków na żądanie Pwn",
+      "url": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+      "date": "2026-06-23T14:22:03Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "GitHub pracuje nad wzmocnieniem bezpieczeństwa łańcucha dostaw oprogramowania, aktualizując „actions/checkout”, aby blokować ataki typu pwn request wykorzystujące ryzykowne użycie wyzwalacza „pull_request_target flow” w celu uruchomienia złośliwego kodu z pełnymi uprawnieniami przepływu pracy. Od 18 czerwca 2026 r. obowiązuje najnowsza wersja „akcji/checkout”, oficjalnej akcji GitHub służącej do sprawdzania repozytorium w pliku."
     }
   ],
   "finance": [
@@ -2892,51 +2868,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25675.2,
+      25668.86,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26839.66,
+      26833.04,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26986.63,
+      26979.97,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27231.6,
+      27224.87,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27867.41,
+      27860.52,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27903.45,
+      27896.56,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28148.15,
+      28141.2,
       27354.94,
       27400.36,
       27412.11,
-      28549.61,
+      28542.56,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27810.19,
+      27803.33,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27989.93,
+      27983.01,
       27686.17,
       27404.78,
       27351.97,
@@ -2944,7 +2920,7 @@
       27905.42,
       27661.43,
       27749.69,
-      27711.33
+      27704.48
     ],
     "currency": "PLN"
   }
