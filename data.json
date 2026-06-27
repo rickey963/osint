@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T17:09:52Z",
+  "last_updated": "2026-06-27T17:14:47Z",
   "poland": [
     {
       "title": "Groził Karolowi Nawrockiemu. Obywatel Ukrainy usłyszał zarzuty",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualizacje na żywo: Rozbłysk działań wojennych na Bliskim Wschodzie, testowanie kruchego rozejmu między USA a Iranem",
+      "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
+      "date": "2026-06-27T17:04:05Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Bahrajn stwierdził, że stał się celem irańskich dronów, co stanowi oczywisty odwet po nocnych atakach USA na irańskie obiekty wojskowe. W ostatnich dniach po raz drugi statek został zaatakowany w Cieśninie Ormuz."
+    },
+    {
       "title": "Aktualności na żywo z Wenezueli: Ratownicy zawężają okno, aby znaleźć ocalałych z trzęsienia ziemi",
       "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
       "date": "2026-06-27T16:54:45Z",
@@ -780,14 +788,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": ""
-    },
-    {
-      "title": "Aktualizacje na żywo: Rozbłysk działań wojennych na Bliskim Wschodzie, testowanie kruchego rozejmu między USA a Iranem",
-      "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
-      "date": "2026-06-27T16:33:24Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Bahrajn stwierdził, że stał się celem irańskich dronów, co stanowi oczywisty odwet po nocnych atakach USA na irańskie obiekty wojskowe. W ostatnich dniach po raz drugi statek został zaatakowany w Cieśninie Ormuz."
     },
     {
       "title": "Oto najnowsze.",
@@ -902,14 +902,6 @@
       "summary": "Przywódca poligamicznej sekty skazany za zarzuty molestowania po tym, jak dziewczynki znaleziono w przyczepie na autostradzie w Arizonie AP News."
     },
     {
-      "title": "Co warto wiedzieć o potężnych trzęsieniach ziemi w Wenezueli – AP News",
-      "url": "https://apnews.com/article/venezuela-earthquake-caracas-la-guaira-187d64e541983800b16f063ca5a8392c",
-      "date": "2026-06-27T00:20:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Co warto wiedzieć o potężnych trzęsieniach ziemi w Wenezueli AP News."
-    },
-    {
       "title": "Historie biblijne są uznane za lekturę obowiązkową w szkołach publicznych w Teksasie – AP News",
       "url": "https://apnews.com/article/texas-education-board-reading-list-bible-vote-eb6ea9e23e303da0ca2da6132889e020",
       "date": "2026-06-26T23:02:00Z",
@@ -932,6 +924,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Buttigieg został na krótko oddzielony od swoich dzieci po tym, jak policja podała, że ​​był celem fałszywego raportu AP News."
+    },
+    {
+      "title": "Co warto wiedzieć o potężnych trzęsieniach ziemi w Wenezueli – AP News",
+      "url": "https://apnews.com/article/venezuela-earthquake-caracas-la-guaira-187d64e541983800b16f063ca5a8392c",
+      "date": "2026-06-26T18:11:31Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Co warto wiedzieć o potężnych trzęsieniach ziemi w Wenezueli AP News."
     },
     {
       "title": "Grecja stawia na technologię kosmiczną, która po raz pierwszy na świecie powstrzyma pożary – AP News",
@@ -1008,12 +1008,20 @@
   ],
   "technology": [
     {
+      "title": "Supabase (YC S20) zatrudnia firmę Multigres",
+      "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+      "date": "2026-06-27T17:00:15Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228 Adres URL komentarzy: https://news.ycombinator.com/item?id=48699842 Punkty: 0 # Komentarze: 0."
+    },
+    {
       "title": "Lekarze podejrzewali, że mężczyzna ma raka mózgu. Miał robaki",
       "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
       "date": "2026-06-27T16:31:58Z",
       "source": "Hacker News",
       "confirmed_by": 2,
-      "summary": "Adres URL artykułu: https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48699617 Punkty: 7 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48699617 Punkty: 10 # Komentarze: 2."
     },
     {
       "title": "Dwie planety lżejsze niż wata cukrowa. Są wielkości Jowisza",
@@ -1032,12 +1040,28 @@
       "summary": "Unia Europejska robi gigantyczny krok w stronę cyfrowej rewolucji finansowej. Komisja Gospodarcza Parlamentu Europejskiego właśnie dała zielone światło dla projektu cyfrowego euro. Nowa, oficjalna e-waluta strefy euro staje się faktem."
     },
     {
+      "title": "Kierownictwo AI i lobbyści twierdzą, że oczekują od administracji Trumpa przejrzystości regulacyjnej, ale obawiają się nalegania na odpowiedzi w obawie przed odwetem (Politico)",
+      "url": "https://www.techmeme.com/260627/p10#a260627p10",
+      "date": "2026-06-27T15:45:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Polityka: Kierownictwo AI i lobbyści twierdzą, że oczekują od administracji Trumpa przejrzystości regulacyjnej, ale obawiają się naciskania o odpowiedzi w obawie przed odwetem &mdash; Nieprzewidywalność ponownie dała o sobie znać w piątek, kiedy administracja Trumpa częściowo uchyliła zakaz eksportu produktów &hellip; firmy Anthropic."
+    },
+    {
       "title": "Twój mózg zdradza, kiedy kłamiesz. Naukowcy wiedzą, jak to odczytać",
       "url": "https://antyweb.pl/klamstwo-eeg-mozg",
       "date": "2026-06-27T15:31:26Z",
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Jak wskazuje badanie w NeuroImage, samo \"przygotowanie się\" do kłamstwa zostawia zdatny do oczytania ślad w aktywności mózgu. Z EEG można nie tyle wykryć sam fakt kłamstwa, ale... wyłapać je, zanim w ogóle zostanie wyartykułowane."
+    },
+    {
+      "title": "Spojrzenie na cztery szkoły zawodowe „meisterów” w Korei Południowej, które kształcą uczniów do pracy przy produkcji półprzewodników, co prowadzi do pracy w firmach Samsung i SK Hynix (Max Kim/New York Times)",
+      "url": "https://www.techmeme.com/260627/p9#a260627p9",
+      "date": "2026-06-27T15:15:00Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Max Kim / New York Times: Spojrzenie na czterech „meisterów” zawodowych w Korei Południowej szkoły kształcące uczniów do pracy przy produkcji półprzewodników, co prowadzi do pracy w firmach Samsung i SK Hynix &mdash; Chungbuk Semiconductor High School w hrabstwie Eumseong w Korei Południowej to najstarsza szkoła średnia zawodowa &hellip;."
     },
     {
       "title": "Czy Sony Alpha 7R VI to aparat idealny. Nie dla każdego, ale...",
@@ -1077,7 +1101,7 @@
       "date": "2026-06-27T14:38:05Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://pluralistic.net/2026/06/27/zuckerstreisand-2/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48698684 Punkty: 201 # Komentarze: 77."
+      "summary": "Adres URL artykułu: https://pluralistic.net/2026/06/27/zuckerstreisand-2/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48698684 Punkty: 230 # Komentarze: 84."
     },
     {
       "title": "Anonimowe konto GitHub masowo usuwane, nieujawnione przez 0 dni",
@@ -1085,7 +1109,7 @@
       "date": "2026-06-27T14:31:00Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/bikini/exploitarium Adres URL komentarzy: https://news.ycombinator.com/item?id=48698617 Punkty: 139 # Komentarze: 54."
+      "summary": "Adres URL artykułu: https://github.com/bikini/exploitarium Adres URL komentarzy: https://news.ycombinator.com/item?id=48698617 Punkty: 175 # Komentarze: 71."
     },
     {
       "title": "To najgorszy wynik PlayStation od lat. Drastyczny spadek",
@@ -1101,7 +1125,7 @@
       "date": "2026-06-27T14:23:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48698559 Punkty: 51 # Komentarze: 14."
+      "summary": "Adres URL artykułu: https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48698559 Punkty: 53 # Komentarze: 17."
     },
     {
       "title": "Telewizory LED RGB od dziś w Polsce. To musisz wiedzieć",
@@ -1144,12 +1168,20 @@
       "summary": "Ten rower zastąpił mi samochód. Wyposażenie to prawdziwe \"Pro\"."
     },
     {
+      "title": "Źródło: administracja Trumpa jest bliska umożliwienia firmie Anthropic przywrócenia dostępu do Fable 5; limity mogą zostać zniesione już w nadchodzącym tygodniu (Axios)",
+      "url": "https://www.techmeme.com/260627/p8#a260627p8",
+      "date": "2026-06-27T14:05:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Axios: Źródło: administracja Trumpa jest bliska umożliwienia Anthropic przywrócenia dostępu do Fable 5; limity mogą zostać zniesione już w nadchodzącym tygodniu &mdash; Administracja Trumpa jest bliska umożliwienia firmie Anthropic przywrócenia dostępu do jej potężnego modelu Fable 5, który był niedostępny przez 15 dni."
+    },
+    {
       "title": "Jak bramkarz w księgarni: ustawa o odpowiedzialności w sklepie z aplikacjami w Teksasie",
       "url": "https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/",
       "date": "2026-06-27T14:02:52Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48698402 Punkty: 8 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48698402 Punkty: 9 # Komentarze: 4."
     },
     {
       "title": "Jest nowe GPT. Nie licz na dostęp",
@@ -1160,12 +1192,20 @@
       "summary": "Jest nowe GPT. Nie licz na dostęp."
     },
     {
+      "title": "Polymarket twierdzi, że jego roczne przychody wynoszą obecnie ponad miliard dolarów; Dune Analytics: dzienny obrót na amerykańskiej platformie Polymarket wzrósł z ~50 mln dolarów w połowie maja do ponad 200 mln dolarów do 20 czerwca (Davis Giangiulio/CNBC)",
+      "url": "https://www.techmeme.com/260627/p7#a260627p7",
+      "date": "2026-06-27T13:35:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Davis Giangiulio / CNBC: Polymarket twierdzi, że jego roczne przychody wynoszą obecnie ponad miliard dolarów; Dune Analytics: dzienny obrót na amerykańskiej platformie Polymarket wzrósł z ~50 mln USD w połowie maja do ponad 200 mln USD do 20 czerwca &mdash; Jak poinformowała w piątek firma wyłącznie CNBC, roczne przychody platformy rynku prognostycznego Polymarket przekraczają obecnie znacznie ponad 1 miliard dolarów."
+    },
+    {
       "title": "Podejrzane nieciągłości",
       "url": "https://danluu.com/discontinuities/",
       "date": "2026-06-27T13:32:20Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://danluu.com/discontinuities/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48698151 Punkty: 82 # Komentarze: 16."
+      "summary": "Adres URL artykułu: https://danluu.com/discontinuities/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48698151 Punkty: 92 # Komentarze: 22."
     },
     {
       "title": "\"Lalka\" od Netfliksa z datą premiery. Jest też nowy zwiastun",
@@ -1189,7 +1229,15 @@
       "date": "2026-06-27T12:43:16Z",
       "source": "Hacker News",
       "confirmed_by": 2,
-      "summary": "Adres URL artykułu: https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxously-loud-ads-become-illegal-on-july-1-in-california/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697768 Punkty: 125 # Komentarze: 31."
+      "summary": "Adres URL artykułu: https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxously-loud-ads-become-illegal-on-july-1-in-california/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697768 Punkty: 132 # Komentarze: 32."
+    },
+    {
+      "title": "Ile tak naprawdę jest cząstek elementarnych?",
+      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
+      "date": "2026-06-27T12:40:59Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697746 Punkty: 69 # Komentarze: 50."
     },
     {
       "title": "GTA 6 jednak z płytą w pudełku? Znamy pierwsze szczegóły",
@@ -1198,30 +1246,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Oficjalne uruchomienie przedsprzedaży GTA 6 przez firmę Rockstar odsłoniło karty w kwestii cen oraz dostępnych edycji nadchodzącego hitu. Radość społeczności graczy została jednak szybko zmącona przez spore zamieszanie wokół fizycznego wydania tytułu na konsole PlayStation 5 oraz Xbox Series X. Jeśli planujesz zakup gry w tradycyjnym, plastikowym opakowaniu zaraz po premierze, musisz przygotować się na [&#8230;] Artykuł GTA 6 jednak z płytą w pudełku?"
-    },
-    {
-      "title": "Otwórz RA",
-      "url": "https://www.openra.net/",
-      "date": "2026-06-27T12:10:27Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.openra.net/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697560 Punkty: 286 # Komentarze: 63."
-    },
-    {
-      "title": "Nox Metals (YC S25) zatrudnia SWE",
-      "url": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
-      "date": "2026-06-27T12:01:03Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer Adres URL komentarzy: https://news.ycombinator.com/item?id=48697504 Punkty: 0 # Komentarze: 0."
-    },
-    {
-      "title": "Jeśli nie możesz tego utrzymać, nie jesteś jego właścicielem",
-      "url": "https://dervis.de/physical/",
-      "date": "2026-06-27T11:32:10Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://dervis.de/physical/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697335 Punkty: 179 # Komentarze: 113."
     },
     {
       "title": "Absolwenci Apple i Audi stworzyli luksusowy pojazd elektryczny oparty na księżycowym buggy",
@@ -1246,6 +1270,14 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Microsoft zmienia sposób działania mechanizmu Windows Update. Aktualizacje w Windows 11 będzie można teraz pauzować wygodniej niż dotychczas, a przy odrobinie konsekwencji mechanizm da się wykorzystywać praktycznie bez końca. Przy okazji system ma rzadziej wymuszać restarty."
+    },
+    {
+      "title": "Usługi przesyłania strumieniowego muszą być zgodne z kalifornijskim prawem, które od 1 lipca zabrania odtwarzania reklam głośniej niż oglądana treść, ale jego wdrożenie nie jest jasne (Scharon Harding/Ars Technica)",
+      "url": "https://www.techmeme.com/260627/p6#a260627p6",
+      "date": "2026-06-27T10:35:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Scharon Harding / Ars Technica: Usługi przesyłania strumieniowego muszą być zgodne z kalifornijskim prawem, które od 1 lipca zabrania odtwarzania reklam głośniej niż oglądana treść, ale jego wdrożenie nie jest jasne &mdash; Od 1 lipca platformy streamingowe nie będą mogły odtwarzać reklam głośniej niż treści oglądane w Kalifornii."
     },
     {
       "title": "KaOS Linux 2026.06 odcina się od systemd. To koniec pewnej epoki",
@@ -1288,14 +1320,6 @@
       "summary": "GTA VI to z pewnością najgłośniejsza premiera ostatnich lat. Problem jest w tym, że wydawcy sami oddają grze pola. Zanim Rockstar oddał choć jeden strzał, cała branża wywiesiła białą flagę."
     },
     {
-      "title": "Disney+ na wakacje 2026. Te seriale warto nadrobić",
-      "url": "https://antyweb.pl/najlepsze-seriale-na-disney-wakacje-2026",
-      "date": "2026-06-27T08:00:42Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Co obejrzeć na Disney+ podczas wakacji 2026? Wybraliśmy najlepsze seriale z ostatnich lat, największe hity i najważniejszą premierę tego lata."
-    },
-    {
       "title": "Masz bilet na pociąg? PKP wprowadza wyjątkowe ułatwienia z powodu pogody",
       "url": "https://www.instalki.pl/news/internet/masz-bilet-pociag-pkp-wprowadza-wyjatkowe-ulatwienia-z-powodu-pogody/",
       "date": "2026-06-27T07:51:43Z",
@@ -1304,28 +1328,28 @@
       "summary": "Ekstremalna fala upałów paraliżuje Europę i plany urlopowe Polaków. W odpowiedzi na anomalie pogodowe PKP Intercity wprowadza darmowe zwroty biletów dla pasażerów, którzy wolą uniknąć podróży w upale. Zmiany obejmują trasy krajowe oraz międzynarodowe."
     },
     {
-      "title": "Zmiana myślenia o życiu we Wszechświecie. \"Obcy są naprawdę obcy\"",
-      "url": "https://spidersweb.pl/2026/06/obcy-zycie-pozaziemskie-poszukiwania.html",
-      "date": "2026-06-27T07:45:00Z",
-      "source": "Spider's Web",
+      "title": "Spojrzenie na zaawansowane opakowania chipów, obecnie bardziej niż kiedykolwiek zależne od TSMC i jej partnerów na Tajwanie, oraz wysiłki mające na celu rozwiązanie tego wąskiego gardła w USA (Don Clark/New York Times)",
+      "url": "https://www.techmeme.com/260627/p5#a260627p5",
+      "date": "2026-06-27T06:35:00Z",
+      "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Zmiana myślenia o życiu we Wszechświecie. \"Obcy są naprawdę obcy\"."
+      "summary": "Don Clark / New York Times: Spojrzenie na zaawansowane opakowania chipów, obecnie bardziej niż kiedykolwiek zależne od TSMC i jej partnerów na Tajwanie, oraz wysiłki mające na celu usunięcie tego wąskiego gardła w USA &mdash; Płytka krzemowa odzwierciedlająca Subramaniana Iyera, specjalistę z Uniwersytetu Kalifornijskiego w Los Angeles, w dziedzinie technologii zwanej zaawansowanym pakowaniem chipów."
     },
     {
-      "title": "Google wie o Tobie za dużo? Zmień te ustawienia prywatności żeby ograniczyć śledzenie",
-      "url": "https://www.instalki.pl/news/bezpieczenstwo/google-wie-o-tobie-za-duzo-zmien-te-ustawienia-prywatnosci-zeby-ograniczyc-sledzenie/",
-      "date": "2026-06-27T07:30:00Z",
-      "source": "Instalki.pl",
+      "title": "Źródła: Meituan, Baidu, Xiaomi i inni chińscy giganci technologiczni zmniejszają liczbę pracowników, podsycając obawy chińskich pracowników przed zastąpieniem ich przez sztuczną inteligencję (Wency Chen/South China Morning Post)",
+      "url": "https://www.techmeme.com/260627/p4#a260627p4",
+      "date": "2026-06-27T06:10:00Z",
+      "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Większość z nas zdaje sobie sprawę, że Google gromadzi o nas dane. Niewiele osób wie jednak, jak szczegółowy tworzy obraz i jak to ograniczyć Artykuł Google wie o Tobie za dużo? Zmień te ustawienia prywatności żeby ograniczyć śledzenie pochodzi z serwisu INSTALKI."
+      "summary": "Wency Chen / South China Morning Post: Źródła: Meituan, Baidu, Xiaomi i inni chińscy giganci technologiczni zmniejszają liczbę pracowników, podsycając obawy chińskich pracowników przed zastąpieniem ich przez sztuczną inteligencję &mdash; Kiedy pod koniec zeszłego miesiąca znajomy odwiedził pracownika Meituan, aby sprawdzić, czy przeżył ostatnią rundę korporacyjnego uboju &hellip;."
     },
     {
-      "title": "Komary same polecą w pułapkę. Nie będzie ucieczki",
-      "url": "https://spidersweb.pl/2026/06/komary-malaria-drozdze-pulapka.html",
-      "date": "2026-06-27T07:30:00Z",
-      "source": "Spider's Web",
+      "title": "Japoński gigant finansowy SBI zgadza się nabyć Bitbank, 10 największych japońskich giełd kryptowalut pod względem działalności handlowej, za ~289 mln dolarów, a transakcja ma zostać sfinalizowana w październiku (Jamie Crawley/CoinDesk)",
+      "url": "https://www.techmeme.com/260627/p3#a260627p3",
+      "date": "2026-06-27T05:15:00Z",
+      "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Komary same polecą w pułapkę. Nie będzie ucieczki."
+      "summary": "Jamie Crawley / CoinDesk: Japoński gigant finansowy SBI zgadza się nabyć Bitbank, 10 największych japońskich giełd kryptowalut pod względem działalności handlowej, za ~289 mln dolarów, a transakcja ma zostać sfinalizowana w październiku &mdash; Japoński gigant usług finansowych SBI Holdings powiedział, że zgodził się kupić giełdę kryptowalut Bitbank za około 289 milionów dolarów."
     },
     {
       "title": "Korea Południowa planuje wyszkolić całe wojsko na „wojowników dronów”",
@@ -1382,30 +1406,6 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "Dołącz do nas w transmisji na żywo o 13:00 czasu wschodniego i zadawaj pytania na temat następstw wydarzenia w New Glenn."
-    },
-    {
-      "title": "Wyprzedaż kamer w Action. Tani sposób na zabezpieczenie domu przed urlopem",
-      "url": "https://www.instalki.pl/news/hardware/wyprzedaz-kamer-w-action-tani-sposob-na-zabezpieczenie-domu/",
-      "date": "2026-06-26T16:00:00Z",
-      "source": "Instalki.pl",
-      "confirmed_by": 1,
-      "summary": "Sezon wakacyjny tradycyjnie napędza popyt na domowe systemy bezpieczeństwa. Dla osób, które przed wczasami chcą zyskać spokój ducha, ale nie zamierzają inwestować tysięcy złotych w profesjonalne instalacje alarmowe, sieć Action przygotowała letnią przecenę urządzeń z linii LSC Smart Connect. Możecie więc stworzyć mały, domowy system monitoringu nie wydając fortuny."
-    },
-    {
-      "title": "Z raportu wynika, że ​​VW może zamknąć cztery fabryki, aby dostosować się do przyszłości",
-      "url": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/",
-      "date": "2026-06-26T15:10:03Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "W obliczu spadającej sprzedaży w USA, a zwłaszcza w Chinach, Grupa VW chce przeprowadzić restrukturyzację."
-    },
-    {
-      "title": "Informacje zwrotne na temat informacji zwrotnych: wietrzenie skał i klimat",
-      "url": "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/",
-      "date": "2026-06-26T14:41:18Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Wietrzenie skał może uwalniać lub pochłaniać dwutlenek węgla – to zależy od skały."
     }
   ],
   "cybersecurity": [
@@ -1844,6 +1844,14 @@
       "summary": "Powyżej tych limitów oszczędności trzeba będzie od 2027 r. płacić nowy podatek. Podatek Belki nie zniknie ale będą zwolnienia podatkowe dla posiadaczy kont OKI Forsal.pl."
     },
     {
+      "title": "Lokalnie nawet 42 stopnie. Nadciąga ekstremalna fala upałów",
+      "url": "https://www.bankier.pl/wiadomosc/Lokalnie-nawet-42-stopnie-Nadciaga-ekstremalna-fala-upalow-9159286.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-27T15:33:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Przez Polskę i inne kraje europejskie przechodzi fala wysokich temperatur. W niektórych miejscach doszło do pobicia dotychczasowych rekordów czerwcowych pomiarów. Władze i służby dążą do zminimalizowania ewentualnych negatywnych skutków pogody; apelują o ostrożność i zadbanie o swoje zdrowie podczas upałów."
+    },
+    {
       "title": "Biznes, Gospodarka, Świat - Forsal.pl",
       "url": "https://forsal.pl/?chr=1782573867164",
       "date": "2026-06-27T15:29:16Z",
@@ -1882,14 +1890,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Około 1,4 mld zł w ciągu pięciu lat miałoby kosztować stworzenie w Polsce nowej instytucji naukowej działającej według zasad najlepszych ośrodków świata. O kulisach projektu i jego celach opowiedział PAP prof. Leszek Pacholski."
-    },
-    {
-      "title": "Groził śmiercią prezydentowi w internecie. Służby wkroczyły do akcji",
-      "url": "https://www.bankier.pl/wiadomosc/Grozil-smiercia-prezydentowi-w-internecie-Sluzby-wkroczyly-do-akcji-9159272.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-06-27T13:44:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "36-letni obywatel Ukrainy, który miał grozić śmiercią prezydentowi Karolowi Nawrockiemu, został objęty policyjnym dochodzeniem i usłyszał zarzuty - przekazali śledczy z zielonogórskiej prokuratury. Z obawy przed ucieczką albo matactwem, policjanci wystąpili o zastosowanie wobec niego aresztu."
     },
     {
       "title": "Gospodarka - Forsal.pl",
@@ -1980,6 +1980,14 @@
       "summary": "W poszukiwaniu sygnałów - 27 czerwca 2026 - Indeksy GPW na wsparciach Ewa sob., 27.06.2026 Wstęp Indeksy GPW, #DAX, Indeksy USA, #Nikkei, #KOSPI, #Ropa, #Miedź, #Złoto, #Usdpln, #Eurpln, Spółki wcześniej sygnalizowane, Obserwowane wykresy, Kącik życzeń W poszukiwaniu sygnałów - 27 czerwca 2026 - Indeksy GPW na wsparciach Ewa."
     },
     {
+      "title": "Formacje analizy technicznej BNPPGOLD0629 BNP PARIBAS ARBITRAGE ISSUANCE - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/BNPPGOLD0629",
+      "date": "2026-06-27T06:19:14Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Formacje analizy technicznej BNPPGOLD0629 BNP PARIBAS ARBITRAGE ISSUANCE BiznesRadar."
+    },
+    {
       "title": "Aktualności - Forbes - wiadomości gospodarcze i finansowe - Forbes",
       "url": "https://www.forbes.pl/summit/2026/aktualnosci",
       "date": "2026-06-27T04:24:28Z",
@@ -2042,14 +2050,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Przez lata opakowanie ochronne traktowano jako pozycję kosztową, którą należy minimalizować. Kilka groszy folii na przesyłkę, niewidocznych w żadnym sprawozdaniu zarządczym. W 2026 roku to założenie przestaje się bronić z dwóch niezależnych powodów."
-    },
-    {
-      "title": "Formacje analizy technicznej PEO0630 PEKAO - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/PEO0630",
-      "date": "2026-06-26T16:13:02Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Formacje analizy technicznej PEO0630 PEKAO BiznesRadar."
     },
     {
       "title": "Rynek najmu dostaje kolejny impuls. Studentów jest znacznie więcej niż miejsc w akademikach",
