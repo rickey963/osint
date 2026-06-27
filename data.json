@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-27T18:53:39Z",
+  "last_updated": "2026-06-27T19:03:04Z",
   "poland": [
+    {
+      "title": "Żołnierz groził Putinowi buntem armii. Został pociągnięty do „odpowiedzialności administracyjnej”",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art44713721-zolnierz-grozil-putinowi-buntem-armii-zostal-pociagniety-do-odpowiedzialnosci-administracyjnej",
+      "date": "2026-06-27T18:26:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Przeszukano dom rosyjskiego żołnierza Aleksandra Łunina, który wcześniej opublikował na Instagramie wideoprzesłanie do prezydenta Władimira Putina. Na kilku kanałach Telegrama pojawiła się informacja, że mężczyzna został aresztowany."
+    },
     {
       "title": "Geopolityka Czech: Między Berlinem a Wyszehradem. Cena melaninowego mitu",
       "url": "https://www.rp.pl/swiat/art44694011-geopolityka-czech-miedzy-berlinem-a-wyszehradem-cena-melaninowego-mitu",
@@ -160,14 +168,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Sprawa finansów Kościoła, a ściślej środków jakie trafiają do kościołów ze źródeł publicznych wraca z regularnością faz księżyca. Poświęcone tej sprawie publikacje, zwłaszcza w mediach społecznościowych i wypowiedzi polityków streścić można krótkim zdaniem: „zabrać Kościołowi pieniądze” – pisze Juliusz Braun, wykładowca Uniwersytetu Civitas."
-    },
-    {
-      "title": "Problemy ratowników z dotarciem do Wenezueli po trzęsieniu ziemi. „Absurd”",
-      "url": "https://www.rp.pl/kleski-zywiolowe/art44713401-problemy-ratownikow-z-dotarciem-do-wenezueli-po-trzesieniu-ziemi-absurd",
-      "date": "2026-06-27T14:53:39Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Po katastrofalnym trzęsieniu ziemi liczne państwa zaoferowały Wenezueli pomoc, ale nie wszystkim ratownikom udało się dotrzeć na miejsce. Burmistrz jednego z kolumbijskich miast ocenił sytuację jako absurdalną. Tymczasem przedstawicielka Czerwonego Krzyża zwraca uwagę, że pracę ratowników utrudniają liczne wstrząsy wtórne."
     },
     {
       "title": "Australia zaostrza kurs. Chodzi o zakaz mediów społecznościowych dla dzieci",
@@ -403,6 +403,14 @@
     }
   ],
   "world_security": [
+    {
+      "title": "Obejrzyj: Wyścig z czasem ratowników po trzęsieniu ziemi w Wenezueli",
+      "url": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27T18:41:03Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Istnieje poczucie, że następne kilka godzin będzie miało kluczowe znaczenie dla uratowania każdego, kto nadal jest w pułapce, mówi Dan Johnson z BBC, donoszący z granicy Wenezueli i Kolumbii."
+    },
     {
       "title": "Serbski prezydent Vucic zapowiedział, że złoży rezygnację w ciągu kilku tygodni – Reuters",
       "url": "https://www.reuters.com/world/serbia-president-vucic-says-resign-within-weeks-one-year-before-end-mandate-2026-06-27/",
@@ -748,14 +756,6 @@
       "summary": "Niektórzy analitycy twierdzą, że pierwszy lot bez przesiadek z Londynu do Sydney to kamień milowy – ale czy kupiłbyś bilet?"
     },
     {
-      "title": "Opuścili Zachód dla tradycyjnych wartości Rosji, ale nie tego się spodziewali",
-      "url": "https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26T23:02:05Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "BBC pyta mieszkańców Zachodu, którzy przenieśli się do Rosji, czy życie tam spełnia oczekiwania."
-    },
-    {
       "title": "Liczba ofiar śmiertelnych trzęsienia ziemi w Wenezueli osiągnęła 920, a tymczasowy prezydent przysięga ocalić „jak najwięcej”",
       "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
       "date": "2026-06-26T22:44:43Z",
@@ -766,20 +766,28 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualności na żywo z Wenezueli: Zawęża się okno, aby znaleźć ocalałych, ponieważ liczba ofiar trzęsienia ziemi przekracza 1400",
+      "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
+      "date": "2026-06-27T18:48:48Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "W sobotę międzynarodowe zespoły dołączyły do ​​poszukiwań po tym, jak bliźniacze trzęsienia ziemi, które nawiedziły północną Wenezuelę, pozostawiły wiele osób uwięzionych pod gruzami."
+    },
+    {
+      "title": "W ruinach Wenezueli cywile wypełniają luki po jednym „ziarnku piasku” na raz",
+      "url": "https://www.nytimes.com/2026/06/27/world/americas/venezuela-civilians-volunteers-earthquakes.html",
+      "date": "2026-06-27T18:48:46Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Wolontariusze pospieszyli na pomoc ofiarom trzęsienia ziemi, ładując do pojazdów środki medyczne, łopaty i inne narzędzia, aby wspomóc akcję ratowniczą i odbudowę."
+    },
+    {
       "title": "Aktualizacje na żywo: Rozbłysk działań wojennych na Bliskim Wschodzie, testowanie kruchego rozejmu między USA a Iranem",
       "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
       "date": "2026-06-27T18:41:03Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Bahrajn stwierdził, że stał się celem irańskich dronów, co stanowi oczywisty odwet po nocnych atakach USA na irańskie obiekty wojskowe. W ostatnich dniach po raz drugi statek został zaatakowany w Cieśninie Ormuz."
-    },
-    {
-      "title": "Aktualności na żywo z Wenezueli: Zawęża się okno, aby znaleźć ocalałych, ponieważ liczba ofiar trzęsienia ziemi przekracza 1400",
-      "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
-      "date": "2026-06-27T18:27:26Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "W sobotę międzynarodowe zespoły dołączyły do ​​poszukiwań po tym, jak bliźniacze trzęsienia ziemi, które nawiedziły północną Wenezuelę, pozostawiły wiele osób uwięzionych pod gruzami."
     },
     {
       "title": "Oto najnowsze.",
@@ -886,14 +894,6 @@
       "summary": "Większość świata nie zna tej kuchni, ale exodus z Birmy po zamachu stanu uczynił ją bardziej widoczną na arenie międzynarodowej."
     },
     {
-      "title": "Australia twierdzi, że zaostrzy zakaz korzystania z mediów społecznościowych dla dzieci",
-      "url": "https://www.nytimes.com/2026/06/27/world/australia/social-media-ban-children.html",
-      "date": "2026-06-27T12:30:04Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Twierdząc, że firmy technologiczne „nie robią wystarczająco dużo”, aby odciągnąć młodzież poniżej 16 roku życia od swoich platform, rząd zapowiedział surowsze kary i nowe uprawnienia dla organu regulacyjnego."
-    },
-    {
       "title": "Przywódca poligamicznej sekty skazany za molestowanie po tym, jak dziewczynki znaleziono w przyczepie na autostradzie w Arizonie – AP News",
       "url": "https://apnews.com/article/samuel-bateman-trial-arizona-child-abuse-polygamy-1b0504057b9aed19852abb4317d2441c",
       "date": "2026-06-27T00:44:00Z",
@@ -974,6 +974,14 @@
       "summary": "Sąd Najwyższy pozwala administracji Trumpa zakończyć ochronę prawną Haitańczyków i Syryjczyków AP News."
     },
     {
+      "title": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek – AP News",
+      "url": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-25-2026-862164c2aecbdc376dea434198eaf75f",
+      "date": "2026-06-25T22:34:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek AP News."
+    },
+    {
       "title": "Sąd Najwyższy otwiera drogę administracji Trumpa do ożywienia restrykcyjnej polityki wobec osób ubiegających się o azyl – AP News",
       "url": "https://apnews.com/article/supreme-court-immigration-trump-d36d0092617c7115780c06de38e2000f",
       "date": "2026-06-25T20:55:00Z",
@@ -996,14 +1004,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Z danych AP News wynika, że ​​oszałamiające ilości fentanylu trafiły na ulice, podczas gdy DEA obserwowała tę sytuację i nie podjęła żadnych działań."
-    },
-    {
-      "title": "Sąd Najwyższy uchyla hawajskie prawo wymagające pozwolenia na noszenie broni w sklepach i hotelach – AP News",
-      "url": "https://apnews.com/article/supreme-court-guns-hawaii-trump-c5dbdf945bc870f70a03455f5eb1dec7",
-      "date": "2026-06-25T19:17:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Sąd Najwyższy uchyla hawajskie prawo wymagające pozwolenia na noszenie broni w sklepach i hotelach AP News."
     }
   ],
   "technology": [
@@ -1064,12 +1064,20 @@
       "summary": "Unia Europejska robi gigantyczny krok w stronę cyfrowej rewolucji finansowej. Komisja Gospodarcza Parlamentu Europejskiego właśnie dała zielone światło dla projektu cyfrowego euro. Nowa, oficjalna e-waluta strefy euro staje się faktem."
     },
     {
-      "title": "Kierownictwo AI i lobbyści twierdzą, że oczekują od administracji Trumpa przejrzystości regulacyjnej, ale obawiają się naciskania o odpowiedzi w obawie przed odwetem (Politico)",
+      "title": "Kierownictwo AI i lobbyści twierdzą, że oczekują od administracji Trumpa przejrzystości regulacyjnej, ale obawiają się nalegania na odpowiedzi w obawie przed odwetem (Politico)",
       "url": "https://www.techmeme.com/260627/p10#a260627p10",
       "date": "2026-06-27T15:45:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Polityka: Kierownictwo AI i lobbyści twierdzą, że oczekują od administracji Trumpa przejrzystości regulacyjnej, ale obawiają się naciskania o odpowiedzi w obawie przed odwetem &mdash; Nieprzewidywalność ponownie dała o sobie znać w piątek, kiedy administracja Trumpa częściowo uchyliła zakaz eksportu produktów &hellip; firmy Anthropic."
+    },
+    {
+      "title": "Starmind od SpaceX: megakonstelacja AI nawet do miliona satelitów",
+      "url": "https://www.benchmark.pl/starmind-od-spacex-megakonstelacja-ai-nawet-do-miliona-satelitow-7300717131335776a",
+      "date": "2026-06-27T15:36:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "SpaceX ujawnił nazwę nowego projektu satelitarnego ukierunkowanego na sztuczną inteligencję – \"Starmind\". Według zapowiedzi ma to być megakonstelacja licząca nawet milion satelitów, która ma zmienić sposób przetwarzania danych w kosmosie i wykorzystania energii na orbicie."
     },
     {
       "title": "Twój mózg zdradza, kiedy kłamiesz. Naukowcy wiedzą, jak to odczytać",
@@ -1200,12 +1208,12 @@
       "summary": "Axios: Źródło: administracja Trumpa jest bliska umożliwienia Anthropic przywrócenia dostępu do Fable 5; limity mogą zostać zniesione już w nadchodzącym tygodniu &mdash; Administracja Trumpa jest bliska umożliwienia firmie Anthropic przywrócenia dostępu do jej potężnego modelu Fable 5, który był niedostępny przez 15 dni."
     },
     {
-      "title": "Jest nowe GPT. Nie licz na dostęp",
-      "url": "https://spidersweb.pl/2026/06/openai-gpt-5-6-sol.html",
-      "date": "2026-06-27T14:00:00Z",
-      "source": "Spider's Web",
+      "title": "North Pole Dome w Australii. To najstarszy krater po planetoidzie",
+      "url": "https://www.benchmark.pl/north-pole-dome-w-australii-to-najstarszy-krater-po-planetoidzie-7300354564458496a",
+      "date": "2026-06-27T13:59:00Z",
+      "source": "Benchmark.pl",
       "confirmed_by": 1,
-      "summary": "Jest nowe GPT. Nie licz na dostęp."
+      "summary": "Naukowcy potwierdzili, że struktura North Pole Dome w odludnym regionie Pilbara w Zachodniej Australii ma około 3,02 mld lat. Jak relacjonuje ScienceAlert, oznacza to, że może być to najstarszy znany na Ziemi krater powstały po uderzeniu asteroidy."
     },
     {
       "title": "Polymarket twierdzi, że jego roczne przychody wynoszą obecnie ponad miliard dolarów; Dune Analytics: dzienny obrót na amerykańskiej platformie Polymarket wzrósł z ~50 mln dolarów w połowie maja do ponad 200 mln dolarów do 20 czerwca (Davis Giangiulio/CNBC)",
@@ -1240,20 +1248,12 @@
       "summary": "Jeżeli wybierasz się w najbliższym czasie na wakacje i lecisz samolotem Rayanaira, to lepiej, żeby nie było żadnych nieoczekiwanych sytuacji. W ostateczności możesz zostać na lodzie. Tak, jak ja."
     },
     {
-      "title": "Od 1 lipca w Kalifornii obrzydliwie głośne reklamy serwisów streamingowych staną się nielegalne",
-      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-      "date": "2026-06-27T12:43:16Z",
-      "source": "Hacker News",
-      "confirmed_by": 2,
-      "summary": "Adres URL artykułu: https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxously-loud-ads-become-illegal-on-july-1-in-california/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697768 Punkty: 169 # Komentarze: 37."
-    },
-    {
-      "title": "Ile tak naprawdę jest cząstek elementarnych?",
-      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
-      "date": "2026-06-27T12:40:59Z",
-      "source": "Hacker News",
+      "title": "Hit na lato w Biedronce. Sprzedają klimator w niezłej cenie",
+      "url": "https://www.benchmark.pl/hit-na-lato-w-biedronce-sprzedaja-klimator-w-niezlej-cenie-7299965746145312a",
+      "date": "2026-06-27T12:41:00Z",
+      "source": "Benchmark.pl",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697746 Punkty: 85 # Komentarze: 66."
+      "summary": "Nie każdy chce wydawać kilkaset czy kilka tysięcy złotych na klimatyzację. Dla osób szukających tańszego sposobu na poprawę komfortu podczas upałów Biedronka przygotowała ciekawą ofertę. Klimator Hoffen można kupić za 139 zł."
     },
     {
       "title": "GTA 6 jednak z płytą w pudełku? Znamy pierwsze szczegóły",
@@ -1304,12 +1304,12 @@
       "summary": "KaOS Linux 2026.06 został oficjalnie wydany i jest jedną z najważniejszych aktualizacji w historii tej dystrybucji. Po latach przygotowań system przechodzi na Dinit jako domyślny system init, rezygnując z dotychczasowego podejścia opartego na systemd. KaOS Linux 2026.06 to mała rewolucja dla fanów Linuksa KaOS nigdy nie był dystrybucją dla każdego."
     },
     {
-      "title": "Hity za darmo. Obok tej jednej gry nie można przejść obojętnie",
-      "url": "https://antyweb.pl/hity-za-darmo-obok-tej-jednej-gry-nie-mozna-przejsc-obojetnie",
-      "date": "2026-06-27T10:00:28Z",
-      "source": "Antyweb",
+      "title": "Ultra-gorące jowisze pod lupą. Pierwszy taki pomiar pól magnetycznych",
+      "url": "https://www.benchmark.pl/ultra-gorace-jowisze-pod-lupa-pierwszy-taki-pomiar-pol-magnetycznych-7299749973923840a",
+      "date": "2026-06-27T10:00:00Z",
+      "source": "Benchmark.pl",
       "confirmed_by": 1,
-      "summary": "Co w tym tygodniu sklep Epic Games Store przygotował za darmo dla graczy? Jeden tytuł to prawdziwa gratka dla fanów klasyków."
+      "summary": "Naukowcy po raz pierwszy bezpośrednio wyznaczyli pole magnetyczne siedmiu tzw. ultra-gorących jowiszów — olbrzymich egzoplanet krążących skrajnie blisko swoich gwiazd. Wyniki, opublikowane w \"Nature Astronomy\", mogą przybliżyć odpowiedź na pytanie, jakie warunki pomagają planetom utrzymać atmosferę i wodę, a w konsekwencji sprzyjać życiu poza Układem Słonecznym."
     },
     {
       "title": "Windows 11 26H2 waży 174 KB. To… największa aktualizacja w tym roku",
@@ -1320,12 +1320,28 @@
       "summary": "Windows 11 26H2 będzie jedną z najdziwniejszych dużych aktualizacji systemu Microsoftu. Dla wielu użytkowników cały pakiet będzie ważyć zaledwie 174 KB. To mniej niż przeciętne zdjęcie w telefonie, a mówimy przecież o najważniejszej tegorocznej aktualizacji Windowsa."
     },
     {
-      "title": "Elektryki generują spore oszczędności? Tylko do pierwszej wizyty w warsztacie",
-      "url": "https://www.instalki.pl/news/motoryzacja/elektryki-generuja-spore-oszczednosci-tylko-do-pierwszej-wizyty-w-warsztacie/",
-      "date": "2026-06-27T09:32:55Z",
-      "source": "Instalki.pl",
+      "title": "Panthalassa buduje morskie centra danych. Zasilą je fale morskie",
+      "url": "https://www.benchmark.pl/panthalassa-buduje-morskie-centra-danych-zasila-je-fale-morskie-7299503077972000a",
+      "date": "2026-06-27T09:21:00Z",
+      "source": "Benchmark.pl",
       "confirmed_by": 1,
-      "summary": "Samochody elektryczne kuszą tanią jazdą i ekologią, ale ich czar pryska przy pierwszej lepszej stłuczce. Chociaż pod maską &#8222;elektryka&#8221; znajdziemy znacznie mniej skomplikowaną technologię niż w tradycyjnym aucie spalinowym, to koszty powypadkowe potrafią zwalić z nóg. Najnowsze raporty jasno pokazują, że serwisy i ubezpieczyciele po prostu nie nadążają za rewolucją EV."
+      "summary": "Amerykański startup Panthalassa pozyskał 140 mln dol. na rozwój autonomicznych centrów danych działających na oceanie i zasilanych energią fal. Firma chce sprawdzić rozwiązanie w praktyce jeszcze w tym roku, uruchamiając pilotażową platformę na północnym Pacyfiku."
+    },
+    {
+      "title": "Upały za oknem? Sprawdź, jakie temperatury są bezpieczne dla komputera",
+      "url": "https://www.benchmark.pl/upaly-za-oknem-sprawdz-jakie-temperatury-sa-bezpieczne-dla-komputera-7300274739668992a",
+      "date": "2026-06-27T09:03:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Latem komputer potrafi zmienić się w mały grzejnik – wentylatory pracują głośniej, obudowa robi się ciepła, a gry lub programy nagle zaczynają działać wolniej. W takiej sytuacji wiele osób zastanawia się, czy to już powód do niepokoju, czy jeszcze normalna praca sprzętu."
+    },
+    {
+      "title": "Jaki klimatyzator przenośny wybrać, aby przetrwać upały?",
+      "url": "https://www.benchmark.pl/jaki-klimatyzator-przenosny-wybrac-aby-przetrwac-upaly-7300999346505824a",
+      "date": "2026-06-27T07:23:59Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Jaki klimatyzator przenośny do domu lub biura kupić, aby przetrwać letnie fale upałów i zachować pełną produktywność? Przygotowaliśmy konkretny, niezależny ranking urządzeń, które skutecznie obniżą temperaturę w twoim mieszkaniu. Sprawdź nasze zestawienie i wybierz sprawdzony sprzęt, bez względu na to, jakim budżetem dysponujesz."
     },
     {
       "title": "Spojrzenie na zaawansowane opakowania chipów, obecnie bardziej niż kiedykolwiek zależne od TSMC i jej partnerów na Tajwanie, oraz wysiłki mające na celu rozwiązanie tego wąskiego gardła w USA (Don Clark/New York Times)",
@@ -1342,14 +1358,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Wency Chen / South China Morning Post: Źródła: Meituan, Baidu, Xiaomi i inni chińscy giganci technologiczni zmniejszają liczbę pracowników, podsycając obawy chińskich pracowników przed zastąpieniem ich przez sztuczną inteligencję &mdash; Kiedy pod koniec zeszłego miesiąca znajomy odwiedził pracownika Meituan, aby sprawdzić, czy przeżył ostatnią rundę korporacyjnego uboju &hellip;."
-    },
-    {
-      "title": "Japoński gigant finansowy SBI zgadza się nabyć Bitbank, 10 największych japońskich giełd kryptowalut pod względem działalności handlowej, za ~289 mln dolarów, a transakcja ma zostać sfinalizowana w październiku (Jamie Crawley/CoinDesk)",
-      "url": "https://www.techmeme.com/260627/p3#a260627p3",
-      "date": "2026-06-27T05:15:00Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Jamie Crawley / CoinDesk: Japoński gigant finansowy SBI zgadza się nabyć Bitbank, 10 największych japońskich giełd kryptowalut pod względem działalności handlowej, za ~289 mln dolarów, a transakcja ma zostać sfinalizowana w październiku &mdash; Japoński gigant usług finansowych SBI Holdings powiedział, że zgodził się kupić giełdę kryptowalut Bitbank za około 289 milionów dolarów."
     },
     {
       "title": "Korea Południowa planuje wyszkolić całe wojsko na „wojowników dronów”",
@@ -1398,14 +1406,6 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "To „ekscytujący postęp w wysiłkach na rzecz uzupełnienia arsenału antybiotyków”."
-    },
-    {
-      "title": "Ars Live: Jakie są najnowsze informacje po katastrofie w New Glenn?",
-      "url": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
-      "date": "2026-06-26T16:24:59Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Dołącz do nas w transmisji na żywo o 13:00 czasu wschodniego i zadawaj pytania na temat następstw wydarzenia w New Glenn."
     }
   ],
   "cybersecurity": [
@@ -1833,7 +1833,7 @@
       "date": "2026-06-27T17:57:59Z",
       "source": "Money.pl",
       "confirmed_by": 1,
-      "summary": "Nie ma takiego kosztu, który nie ląduje w cenie produktu - Krzysztof Pawiński, współzałożyciel Maspexu, ostro komentuje sposób i styl podnoszenia podatku cukrowego, a także sposób wprowadzenia systemu kaucyjnego. Obejrzyj całą rozmowę."
+      "summary": "Nie ma takiego kosztu, który nie ląduje w cenie produktu - Krzysztof Pawiński, współzałożyciel Maspexu, dosadnie komentuje sposób i styl podnoszenia podatku cukrowego, a także sposób wprowadzenia systemu kaucyjnego. Obejrzyj całą rozmowę."
     },
     {
       "title": "\"Wystarczy przestrzegać tych przepisów, które są\". Szykuje się starcie lekarzy z rządem",
@@ -1900,14 +1900,6 @@
       "summary": "Od początku inwazji Rosji na Ukrainę w 2022 roku szwedzkie firmy żeglugowe sprzedały co najmniej 10 tankowców, które stały się częścią rosyjskiej floty cieni – ujawnił w czwartek nadawca publiczny SVT. Przypomniał, że postępowanie Rosji podniosło ceny wyeksploatowanych statków i stworzyło lukratywny rynek dla zachodnich armatorów."
     },
     {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/sejm;kryzys,43?strona=40",
-      "date": "2026-06-27T13:43:50Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
-    },
-    {
       "title": "Komunikat EBI Maxipizza SA (maxipizza): Powołanie osoby zarządzającej lub nadzorującej - stockwatch.pl",
       "url": "https://www.stockwatch.pl/komunikaty-spolek/maxipizza,powolanie-osoby-zarzadzajacej-lub-nadzorujace-2026-06-27,ebi,20260627_145403_0000003965",
       "date": "2026-06-27T12:54:03Z",
@@ -1930,14 +1922,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Polacy trzymają na nieoprocentowanych kontach astronomiczną kwotę — i z każdym rokiem realnie tracą. — Już jest bilion złotych leżący na nieoprocentowanych kontach w Polsce — alarmuje Katarzyna Iwuć, ekspertka od finansów osobistych, w programie \"Biznes Klasa\"."
-    },
-    {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/gospodarka,1001",
-      "date": "2026-06-27T10:42:29Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Sygnały analizy technicznej BNPPMXWO0629 BNP PARIBAS ARBITRAGE ISSUANCE - BiznesRadar",
@@ -1972,12 +1956,28 @@
       "summary": "Kronika Sportowa stockwatch.pl."
     },
     {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/archiwum/2020-08-31,1",
+      "date": "2026-06-27T07:43:08Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
       "title": "W poszukiwaniu sygnałów - 27 czerwca 2026 - Indeksy GPW na wsparciach",
       "url": "https://strefainwestorow.pl/blog/w-poszukiwaniu-sygnalow/w-poszukiwaniu-sygnalow-27-czerwca-2026-indeksy-gpw-na-wsparciach",
       "date": "2026-06-27T06:56:00Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "W poszukiwaniu sygnałów - 27 czerwca 2026 - Indeksy GPW na wsparciach Ewa sob., 27.06.2026 Wstęp Indeksy GPW, #DAX, Indeksy USA, #Nikkei, #KOSPI, #Ropa, #Miedź, #Złoto, #Usdpln, #Eurpln, Spółki wcześniej sygnalizowane, Obserwowane wykresy, Kącik życzeń W poszukiwaniu sygnałów - 27 czerwca 2026 - Indeksy GPW na wsparciach Ewa."
+    },
+    {
+      "title": "Tańsze zakupy dla seniorów, którzy skończyli 60 lat. Zniżki w piekarniach, cukierniach, sklepach spożywczych. Wystarczy okazać tę kartę - Forsal.pl",
+      "url": "https://forsal.pl/finanse/twoje-pieniadze/artykuly/11268689,tansze-zakupy-dla-seniorow-ktorzy-skonczyli-60-lat-znizki-w-piekarniach-cukierniach-sklepach-spozywczych-wystarczy-okazac-te-karte.html",
+      "date": "2026-06-27T06:46:54Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Tańsze zakupy dla seniorów, którzy skończyli 60 lat. Zniżki w piekarniach, cukierniach, sklepach spożywczych. Wystarczy okazać tę kartę Forsal.pl."
     },
     {
       "title": "Aktualności - Forbes - wiadomości gospodarcze i finansowe - Forbes",
@@ -2268,8 +2268,8 @@
       "lng": -66.59,
       "type": "conflict",
       "region": "Wenezuela",
-      "description": "Po katastrofalnym trzęsieniu ziemi liczne państwa zaoferowały Wenezueli pomoc, ale nie wszystkim ratownikom udało się dotrzeć na miejsce.",
-      "url": "https://www.rp.pl/kleski-zywiolowe/art44713401-problemy-ratownikow-z-dotarciem-do-wenezueli-po-trzesieniu-ziemi-absurd"
+      "description": "Wenezuela znów zadrżała.",
+      "url": "https://polskieradio24.pl/swiat/kolejne-trzesienie-ziemi-w-wenezueli-epicentrum-niecale-100-kilometrow-od-stolicy"
     },
     {
       "lat": 55.5,
@@ -2534,9 +2534,9 @@
       "score": 100,
       "reasons": [
         {
-          "title": "Problemy ratowników z dotarciem do Wenezueli po trzęsieniu ziemi. „Absurd”",
-          "url": "https://www.rp.pl/kleski-zywiolowe/art44713401-problemy-ratownikow-z-dotarciem-do-wenezueli-po-trzesieniu-ziemi-absurd",
-          "source": "Rzeczpospolita"
+          "title": "Obejrzyj: Wyścig z czasem ratowników po trzęsieniu ziemi w Wenezueli",
+          "url": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News"
         },
         {
           "title": "Wenezuela przyjmuje 1600 zagranicznych ratowników pilnie poszukujących ocalałych z trzęsienia ziemi – Reuters",
@@ -2552,7 +2552,7 @@
     },
     {
       "name": "Iran",
-      "score": 38,
+      "score": 37,
       "reasons": [
         {
           "title": "Po wyborach w Nowym Jorku Izraelczycy obawiają się dalszego zerwania stosunków amerykańsko-izraelskich",
