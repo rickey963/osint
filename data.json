@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-27T15:13:08Z",
+  "last_updated": "2026-06-27T15:22:36Z",
   "poland": [
+    {
+      "title": "Chiny: Jedna ofiara śmiertelna i 13 rannych w wyniku uderzenia samolotu w wieżowiec w Pekinie",
+      "url": "https://www.rp.pl/wypadki/art44713611-chiny-jedna-ofiara-smiertelna-i-13-rannych-w-wyniku-uderzenia-samolotu-w-wiezowiec-w-pekinie",
+      "date": "2026-06-27T15:11:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Władze pekińskiej dzielnicy Chaoyang poinformowały w sobotę, że jedna osoba zginęła, a 13 zostało rannych, gdy mały samolot uderzył dzień wcześniej w najwyższy wieżowiec w stolicy Chin. Trwa ustalanie przyczyn zdarzenia. To pierwszy oficjalny komunikat w tej sprawie, mimo że od wypadku minęła doba."
+    },
     {
       "title": "Juliusz Braun: Miliardy dla Kościoła? Policzmy na spokojnie",
       "url": "https://www.rp.pl/publicystyka/art44706601-juliusz-braun-miliardy-dla-kosciola-policzmy-na-spokojnie",
@@ -176,14 +184,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Policjanci z Lidzbarka Warmińskiego interweniowali w sprawie psa zostawionego w zamkniętym samochodzie. Opiekuna zwierzęcia znaleźli w sklepie."
-    },
-    {
-      "title": "Miał grozić prezydentowi Karolowi Nawrockiemu. Ukrainiec zatrzymany",
-      "url": "https://www.rp.pl/przestepczosc/art44713241-mial-grozic-prezydentowi-karolowi-nawrockiemu-ukrainiec-zatrzymany",
-      "date": "2026-06-27T12:10:51Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Zielonogórscy policjanci zatrzymali obywatela Ukrainy, który na jednym z kanałów internetowych miał grozić prezydentowi Karolowi Nawrockiemu. W sobotę mężczyzna ma zostać doprowadzony do prokuratury."
     },
     {
       "title": "Wypadek wojskowej ciężarówki. Żołnierze przewiezieni do szpitali",
@@ -404,12 +404,44 @@
   ],
   "world_security": [
     {
-      "title": "Fala upałów w Europie na żywo: strach przed suszą we Włoszech, pobity rekord na Słowacji i w Danii, załamane główne drogi w Niemczech",
-      "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-      "date": "2026-06-27T14:35:06Z",
+      "title": "Niemcy i Włochy zmagają się z falą upałów, a w Europie padają rekordy",
+      "url": "https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe",
+      "date": "2026-06-27T15:08:40Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Prognozy mówią, że w Europie Środkowej i Wschodniej panują najgorętsze warunki. Dlaczego po dziesięcioleciach ostrzeżeń klimatycznych Europa jest tak nieprzygotowana na rosnące upały, woda morska przedostaje się do najdłuższej rzeki Włoch, gdy droga wodna zaczyna wysychać w wyniku fali upałów, uderzając w rolnicze tereny, które produkują mleko do parmezanu. Rzeka Pad nigdy nie spadła tak nisko w tym zakątku roku, co budzi strach przed niszczycielską suszą w lipcu w tym zakątku północnych Włoch. Kontynuuj czytanie..."
+      "summary": "W Danii odnotowana została w sobotę najwyższa temperatura w systemie pogodowym rozprzestrzeniającym się na wschód. Europejska fala upałów – najnowsze aktualizacje W Niemczech i Włoszech panowały w sobotę upalne dni, gdy fala upałów powodująca dziesiątki zgonów w Europie Zachodniej rozprzestrzeniła się na wschód po tym, jak temperatury przekroczyły rekordowe 40 stopni Celsjusza (104 stopni F). Według Duńskiego Instytutu Meteorologicznego w sobotę najwyższa zarejestrowana temperatura została zarejestrowana w Danii. „Przy temperaturze 36,6°C na północ od Odense mamy najcieplejszy dzień od rozpoczęcia pomiarów w 1874 r.” – napisano w poście na portalu X. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Eksperci ostrzegają, że porozumienie między Libanem a Izraelem może uniemożliwić ofiarom zbrodni wojennych ubieganie się o sprawiedliwość",
+      "url": "https://www.theguardian.com/world/2026/jun/27/lebanon-israel-deal-alleged-war-crime-victims-justice-icc",
+      "date": "2026-06-27T15:07:58Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Porozumienie może również zakończyć nadzieje na jurysdykcję MTK w Libanie – jest to posunięcie, na które nalegali zwolennicy ścigania Izraela. Nowe porozumienie między Libanem a Izraelem może uniemożliwić ofiarom izraelskich zbrodni wojennych w Libanie dochodzenie odpowiedzialności i utrudnić przyszłe wysiłki na rzecz przyznania jurysdykcji międzynarodowego trybunału karnego w tym kraju, ostrzegają eksperci prawni. Liban i Izrael podpisały w piątek w Waszyngtonie 14-punktowe porozumienie ramowe, którego celem jest zakończenie walk między Izraelem a Hezbollahem. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Fala upałów w Europie na żywo: strach przed suszą we Włoszech, a w Europie padają rekordy",
+      "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
+      "date": "2026-06-27T15:07:22Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Rekordy temperatury pobite w Niemczech, Danii i na Słowacji w związku z falą upałów, które Europa w dalszym ciągu ogarnia fala upałówPo dziesięcioleciach ostrzeżeń klimatycznych dlaczego Europa jest tak nieprzygotowana na rosnące upały? Woda morska przedostaje się do najdłuższej rzeki Włoch, gdy podczas fali upałów droga wodna zaczyna wysychać, uderza w rolnicze obszary, w których produkuje się mleko do parmezanu. Rzeka Pad nigdy nie spadła tak nisko w tym zakątku roku, budząc obawy przed niszczycielską suszą w lipcu w tym zakątku północnych Włoch. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Silne trzęsienie ziemi nawiedziło Hindukusz, wstrząsając Afganistanem i Pakistanem – Reuters",
+      "url": "https://www.reuters.com/business/environment/strong-earthquake-hits-hindu-kush-shaking-afghanistan-pakistan-2026-06-27/",
+      "date": "2026-06-27T15:01:12Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Silne trzęsienie ziemi nawiedziło Hindukusz, wstrząsając Afganistanem i Pakistanem Reuters."
+    },
+    {
+      "title": "„To stało się papierkiem lakmusowym”: zwycięstwa izraelskich krytyków rzucają światło na kluczową dla Demokratów kwestię",
+      "url": "https://www.theguardian.com/us-news/2026/jun/27/israel-democrats-palestinians",
+      "date": "2026-06-27T15:00:07Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Kandydaci wierzący, że Izrael dopuścił się ludobójstwa, odnieśli duże zwycięstwo w Nowym Jorku – czy popchnie to partię do zmiany kierunku? Niezależnie od tego, która partia przejmie kontrolę nad Kongresem w listopadzie, nowojorscy wyborcy niemal zapewnili, że w przyszłym roku na Kapitol pojawi się blok wokalny nowych Demokratów z Izby Reprezentantów, wybranych w dużej mierze dlatego, że uważają, że Izrael dopuścił się ludobójstwa w Gazie. Jest to wynik prawyborów, które odbyły się we wtorek w Nowym Jorku, podczas których wyborcy obalili dwóch urzędujących izb Demokratów, a trzecią odchodzącą na emeryturę zastąpił postępowcami, których zwolennikiem jest Zohran Mamdani. Kontynuuj czytanie..."
     },
     {
       "title": "W Caracas wydaje się, że to najtrudniejszy moment we współczesnej historii Wenezueli",
@@ -444,7 +476,7 @@
       "summary": "Wenezuela przyjmuje 1600 zagranicznych ratowników pilnie poszukujących osób, które przeżyły trzęsienie ziemi Reuters."
     },
     {
-      "title": "Pekin bada sprawę rzadkiej katastrofy lekkiego samolotu, w której zginął pilot, a 13 zostało rannych – Reuters",
+      "title": "Pekin prowadzi dochodzenie w sprawie rzadkiej katastrofy lekkiego samolotu, w której zginął pilot, a 13 osób zostało rannych – Reuters",
       "url": "https://www.reuters.com/world/china/small-aircraft-crash-beijing-kills-one-person-injures-13-local-govt-says-2026-06-27/",
       "date": "2026-06-27T13:14:25Z",
       "source": "Reuters",
@@ -481,7 +513,7 @@
       "date": "2026-06-27T11:58:03Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Świeży statek uderzył w Ormuz, gdy Iran atakował handel amerykański z najgorszą eskalacją od czasu porozumienia pokojowego Reuters."
+      "summary": "Świeży statek uderzył w Ormuz, gdy Iran atakował handel z USA z najgorszą eskalacją od czasu porozumienia pokojowego Reuters."
     },
     {
       "title": "Francja rozważa podjęcie działań po zerwaniu stosunków przez Burkina Faso – Reuters",
@@ -577,7 +609,7 @@
       "date": "2026-06-27T05:53:31Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Według policji i lokalnych mediów 46-latek został zatrzymany w piątek około godziny 21:30 w trakcie przygotowań do wejścia na pokład samolotu Jetstar lecącego do Perth. Otrzymaj nasz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Australijczyk został aresztowany na tajskim lotnisku w związku z rzekomym morderstwem 17-letniej dziewczyny, której nagie ciało znaleziono w walizce – według lokalnej policji. 46-letni mężczyzna został zatrzymany w piątek około godziny 21:30 podczas przygotowań do podróży. Według lokalnych mediów podróż samolotem Jetstar do Perth. Kontynuuj czytanie..."
+      "summary": "Według policji i lokalnych mediów 46-latek został zatrzymany w piątek około godziny 21:30 w trakcie przygotowań do wejścia na pokład samolotu Jetstar lecącego do Perth. Otrzymaj nasz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Australijczyk został aresztowany na tajskim lotnisku w związku z rzekomym morderstwem 17-letniej dziewczyny, której nagie ciało znaleziono w walizce – według lokalnej policji. 46-letni mężczyzna został zatrzymany w piątek około godziny 21:30 podczas przygotowań do podróży. Według lokalnych mediów podróżuje samolotem Jetstar do Perth. Kontynuuj czytanie..."
     },
     {
       "title": "Iran czeka na postęp w Pucharze Świata po nieuznaniu gola w końcówce meczu w Egipcie – Reuters",
@@ -585,15 +617,7 @@
       "date": "2026-06-27T05:23:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Iran czeka na postęp w Pucharze Świata po nieuznaniu gola w końcówce meczu w Egipcie Reuters."
-    },
-    {
-      "title": "Belgia pokonała Nową Zelandię 5:1 i awansowała do fazy pucharowej mistrzostw świata – Reuters",
-      "url": "https://www.reuters.com/sports/soccer/belgium-beat-new-zealand-5-1-advance-world-cup-knockout-stage-2026-06-27/",
-      "date": "2026-06-27T05:16:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Belgia pokonała Nową Zelandię 5:1 i awansowała do fazy pucharowej Pucharu Świata Reuters."
+      "summary": "Iran czeka na postęp w Pucharze Świata po nieuznaniu gola w końcówce meczu w Egipcie Reuters"
     },
     {
       "title": "Protest w Wenecji zaplanowany na wizytę superjachtem ambasadora USA",
@@ -633,7 +657,7 @@
       "date": "2026-06-27T03:05:44Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Straż pożarna NSW wykorzystuje obraz termowizyjny i czerwone światło telefonu komórkowego, aby szybko zlokalizować mężczyzn, którzy zjechali z trasy spacerowej w pobliżu Jindabyne. Otrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Dwóch turystów, którzy zjechali z trasy pieszej w Parku Narodowym Kościuszki, zostało odnalezionych w ciągu pięciu godzin za pomocą drona zasilanego sztuczną inteligencją. To pierwsza w swoim rodzaju misja – poinformowała straż pożarna i ratownictwo NSW (FRNSW). Zaginięcie zgłoszono we wtorek o godzinie 19:00, po tym jak nie wrócili na miejsce spotkania na czas. Kontynuuj czytanie..."
+      "summary": "Straż pożarna NSW wykorzystuje obraz termowizyjny i czerwone światło telefonu komórkowego, aby szybko zlokalizować mężczyzn, którzy zjechali z trasy spacerowej w pobliżu Jindabyne. Otrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Dwóch turystów, którzy zjechali z trasy pieszej w Parku Narodowym Kościuszki, zostało odnalezionych w ciągu pięciu godzin za pomocą drona napędzanego sztuczną inteligencją. To pierwsza w swoim rodzaju misja – poinformowała straż pożarna i ratownictwo NSW (FRNSW). Zaginięcie zgłoszono we wtorek o godzinie 19:00, po tym jak nie wrócili na miejsce spotkania na czas. Kontynuuj czytanie..."
     },
     {
       "title": "Były doradca Trumpa John Bolton przyznaje się do niewłaściwego posługiwania się tajnymi dokumentami",
@@ -649,7 +673,7 @@
       "date": "2026-06-27T02:50:42Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Oczekuje się, że nagromadzenie się lodu na lodowcach szwajcarskich z ostatniej zimy do poniedziałku zniknie w związku z „ogromną” szybkością topnienia w Alpach w Europie: najnowsze aktualizacje Według szefa Glacier Monitoring w Szwajcarii (Glamos) szwajcarskie lodowce stracą ogromne ilości lodu w wyniku fali upałów. Oczekuje się, że śnieg i lód nagromadzone zeszłej zimy przez szwajcarskie lodowce stopnieją do poniedziałku, co oznacza alarmujące, drugie w historii najwcześniejsze pojawienie się punktu krytycznego zwanego dniem utraty lodowca. Kontynuuj czytanie..."
+      "summary": "Oczekuje się, że nagromadzenie się lodu na lodowcach szwajcarskich z zeszłej zimy do poniedziałku zniknie w związku z „ogromną” szybkością topnienia w Alpach: fala upałów w Europie: najnowsze aktualizacje Według szefa Glacier Monitoring w Szwajcarii (Glamos) szwajcarskie lodowce stracą ogromne ilości lodu w wyniku fali upałów. Oczekuje się, że śnieg i lód nagromadzone zeszłej zimy przez szwajcarskie lodowce stopnieją do poniedziałku, co oznacza alarmujące, drugie w historii najwcześniejsze pojawienie się punktu krytycznego zwanego dniem utraty lodowca. Kontynuuj czytanie..."
     },
     {
       "title": "W jakich kłopotach znajduje się gospodarka Kanady?",
@@ -708,7 +732,7 @@
       "summary": "BBC pyta mieszkańców Zachodu, którzy przenieśli się do Rosji, czy życie tam spełnia oczekiwania."
     },
     {
-      "title": "Meloni i Trump: Bardzo publiczny konflikt, który okazuje się bardzo trudny do naprawienia",
+      "title": "Meloni i Trump: bardzo publiczny konflikt, który okazuje się bardzo trudny do naprawienia",
       "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-26T23:01:50Z",
       "source": "BBC News",
@@ -721,7 +745,7 @@
       "date": "2026-06-26T22:44:43Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Delcy Rodríguez twierdzi, że zagraniczne ekipy ratownicze przybywają w miarę narastania gniewu w związku z oficjalną reakcją i ograniczonymi zasobami. Ocaleni opowiadają o „brutalnym i szybkim” trzęsieniu ziemi w Wenezueli w trakcie poszukiwania ocalałych. Tymczasowy prezydent Wenezueli Delcy Rodríguez obiecał walczyć, aby ocalić „jak najwięcej ludzi”, ponieważ oficjalna liczba ofiar śmiertelnych najgorszego trzęsienia ziemi w kraju od ponad stulecia niemal się podwoiła, ale frustracja rosła w związku z postrzeganym ospałością odpowiedź rządu. Brat Rodrígueza, Jorge, przewodniczący Zgromadzenia Narodowego, powiedział w piątek, że oficjalna liczba ofiar wzrosła do 920. Delcy Rodríguez powiedział wcześniej, że prawie 3000 osób zostało rannych. W przemówieniu podczas wycieczki po La Guaira, najbardziej zniszczonym regionie, powiedziała, że ​​zaczynają przybywać zagraniczne grupy poszukiwawczo-ratownicze."
+      "summary": "Delcy Rodríguez twierdzi, że zagraniczne ekipy ratownicze przybywają w miarę narastania gniewu w związku z oficjalną reakcją i ograniczonymi zasobami Ocaleni opowiadają o „brutalnym i szybkim” trzęsieniu ziemi w Wenezueli w trakcie poszukiwania ocalałych Tymczasowy prezydent Wenezueli Delcy Rodríguez przyrzekł walczyć, aby ocalić „jak najwięcej ludzi”, ponieważ oficjalna liczba ofiar śmiertelnych najgorszego trzęsienia ziemi w kraju od ponad stulecia niemal się podwoiła, ale frustracja narastała w związku z postrzeganym ospałością odpowiedź rządu. Brat Rodrígueza, Jorge, przewodniczący Zgromadzenia Narodowego, powiedział w piątek, że oficjalna liczba ofiar wzrosła do 920. Delcy Rodríguez powiedział wcześniej, że prawie 3000 osób zostało rannych. W przemówieniu podczas wycieczki po La Guaira, najbardziej zniszczonym regionie, powiedziała, że ​​zaczynają przybywać zagraniczne grupy poszukiwawczo-ratownicze."
     },
     {
       "title": "Trump obwinia Iran za atak drona na statek towarowy w cieśninie Ormuz",
@@ -732,36 +756,12 @@
       "summary": "Prezydent USA nazywa to „głupim naruszeniem” porozumienia o zawieszeniu broni po tym, jak dron uszkodził górny pokład statku. Polityka USA na żywo – najnowsze aktualizacjeDonald Trump w piątek obwinił Iran za przeprowadzenie ataku dronem na statek towarowy w cieśninie Ormuz, nazywając to „głupim naruszeniem” porozumienia o zawieszeniu broni z USA. Jeden z dronów uszkodził górny pokład statku, ale statek mógł płynąć dalej – powiedział amerykański prezydent. Powiedział, że Stany Zjednoczone zestrzeliły trzy inne drony wycelowane w statek. Kontynuuj czytanie..."
     },
     {
-      "title": "Rekord upałów w Wielkiej Brytanii w czerwcu ponownie pobity, Francja odkłada Pride, a Polska ostrzega przed pożarami w związku z falą upałów ogarniającą Europę – tak się stało",
-      "url": "https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates",
-      "date": "2026-06-26T17:07:33Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Ten blog jest już zamknięty, więcej na ten temat możesz przeczytać tutaj: Rekord upałów w czerwcu w Wielkiej Brytanii trzeci dzień z rzędu pobity Czwarte dziecko umiera we Francji w związku z prognozami brutalnej fali upałów, która przesunie się na wschód. W Wielkiej Brytanii strażacy wciąż próbują opanować duży pożar w Derbyshire. Pożar, który strawił ponad 500 metrów kwadratowych wrzosowisk i lasów na Tintwistle Moor, niedaleko Glossop, wybuchł w środę wieczorem, a uczestniczyli w nim ekipy strażackie z Manchesteru i W czwartek Derbyshire wysłało helikopter zrzucający wodę i sześć wozów strażackich. Kontynuuj czytanie..."
-    },
-    {
       "title": "Carney ogłasza konkurs na remont rezydencji premiera Kanady, która nie nadaje się do zamieszkania",
       "url": "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence",
       "date": "2026-06-26T16:09:00Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Różne problemy – w tym plaga gryzoni i pleśń – sprawiły, że historyczna, rozległa posiadłość w Ottawie jest pusta10. Na Downing Street są dwie rzeczy: myszy i główny mysz. Od ponad dziesięciu lat oficjalnie uznany kot ogranicza do minimum plagę gryzoni w rezydencji brytyjskiego premiera. W podobnym okresie w oficjalnej rezydencji premiera Kanady doszło do niekontrolowanej eksplozji gryzoni. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Ocalali opowiadają o „brutalnym i szybkim” trzęsieniu ziemi w Wenezueli podczas poszukiwania ocalałych",
-      "url": "https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake",
-      "date": "2026-06-26T16:02:33Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Najgorszy tego typu incydent w kraju od ponad 125 lat zmusza wiele osób do poszukiwania członków rodziny i proszenia o pomoc międzynarodową Liczba ofiar śmiertelnych w Wenezueli podwaja się, a tymczasowy prezydent przysięga, że ocali „jak najwięcej ludzi”. Prawie cała rodzina Ligii Level mieszkała w trzech apartamentowcach wzdłuż Hotel Avenue, wśród nadmorskich kurortów i wielopiętrowych apartamentowców na karaibskim wybrzeżu Wenezueli. Kiedy potężny „dublet” Trzęsienia ziemi nawiedziły region w środowe popołudnie, budynki i życie w nich runęły. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Ogromne zwycięstwa i obietnica zmian – ale na tym kończą się podobieństwa Starmer-Albanese",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/27/australia-uk-prime-minister-keir-starmer-anthony-albanese-comparison",
-      "date": "2026-06-26T15:00:22Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Podczas gdy Anthony Albanese nazywa swojego partnera obalonego brytyjskiego premiera Keira Starmera, obaj mają bardzo odmienne losy polityczne. Skorzystaj z naszego e-maila z najświeższymi wiadomościami, bezpłatnej aplikacji lub codziennego podcastu z wiadomościami. Anthony Albanese przekazał Paulowi Keatingowi rozmowę z parlamentarzystami rządu w Canberze w tym tygodniu, zastanawiając się nad ciężką pracą związaną z reformami. Albanese stwierdził, że Keating uważa Partię Pracy za trochę jak rower. „Wstaje tylko wtedy, gdy pedałujesz” – ostrzegł kiedyś imprezowicz, sugerując, że bez pomysłów, kierunku i rozmachu całe przedstawienie się przewróci. Kontynuuj czytanie..."
     }
   ],
   "world_politics": [
@@ -774,7 +774,7 @@
       "summary": "W sobotę międzynarodowe zespoły dołączyły do ​​poszukiwań po tym, jak bliźniacze trzęsienia ziemi w północnej Wenezueli zabiły ponad 900 osób, a wiele innych pozostawiło w pułapce."
     },
     {
-      "title": "Aktualizacje na żywo: Rozbłysk działań wojennych na Bliskim Wschodzie, testowanie kruchego rozejmu między USA a Iranem",
+      "title": "Aktualizacje na żywo: Rozbłysk działań wojennych na Bliskim Wschodzie, testowanie kruchego rozejmu między USA i Iranem",
       "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
       "date": "2026-06-27T14:51:50Z",
       "source": "The New York Times",
@@ -795,7 +795,7 @@
       "date": "2026-06-27T14:33:58Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Zwolennicy z zadowoleniem przyjęli porozumienie jako krok w kierunku ograniczenia wpływów Iranu w Libanie, ale inni wyszli na ulice, nazywając to kapitulacją."
+      "summary": "Zwolennicy z zadowoleniem przyjęli porozumienie jako krok w kierunku ograniczenia wpływów Iranu w Libanie, ale inni wyszli na ulice, nazywając je kapitulacją."
     },
     {
       "title": "Wolontariusze ryzykują życie, aby powstrzymać wirusa Ebola. Nie zawsze są mile widziani.",
@@ -875,7 +875,7 @@
       "date": "2026-06-27T12:29:32Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Prezydent Meksyku Claudia Sheinbaum sprzeciwiła się amerykańskim dochodzeniom w sprawie meksykańskich polityków. Teraz niektórzy politycy chcą współpracować."
+      "summary": "Prezydent Meksyku Claudia Sheinbaum sprzeciwiła się amerykańskim dochodzeniom w sprawie meksykańskich polityków. Teraz część polityków chce współpracować."
     },
     {
       "title": "Selekcja naturalna",
@@ -892,14 +892,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Przywódca poligamicznej sekty skazany za zarzuty molestowania po tym, jak dziewczynki znaleziono w przyczepie na autostradzie w Arizonie AP News."
-    },
-    {
-      "title": "Co warto wiedzieć o potężnych trzęsieniach ziemi w Wenezueli – AP News",
-      "url": "https://apnews.com/article/venezuela-earthquake-caracas-la-guaira-187d64e541983800b16f063ca5a8392c",
-      "date": "2026-06-27T00:20:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Co warto wiedzieć o potężnych trzęsieniach ziemi w Wenezueli AP News."
     },
     {
       "title": "Historie biblijne są uznane za lekturę obowiązkową w szkołach publicznych w Teksasie – AP News",
@@ -924,6 +916,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Buttigieg został na krótko oddzielony od swoich dzieci po tym, jak policja podała, że ​​był celem fałszywego raportu AP News."
+    },
+    {
+      "title": "Co warto wiedzieć o potężnych trzęsieniach ziemi w Wenezueli – AP News",
+      "url": "https://apnews.com/article/venezuela-earthquake-caracas-la-guaira-187d64e541983800b16f063ca5a8392c",
+      "date": "2026-06-26T18:11:31Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Co warto wiedzieć o potężnych trzęsieniach ziemi w Wenezueli AP News."
     },
     {
       "title": "Grecja stawia na technologię kosmiczną, która po raz pierwszy na świecie powstrzyma pożary – AP News",
@@ -974,7 +974,7 @@
       "summary": "Agencja ONZ wstrzymuje ewakuację statków przez Cieśninę Ormuz po ataku na statek AP News."
     },
     {
-      "title": "Sąd Najwyższy otwiera drogę administracji Trumpa do ożywienia restrykcyjnej polityki wobec osób ubiegających się o azyl – AP News",
+      "title": "Sąd Najwyższy otwiera administracji Trumpa drogę do ożywienia restrykcyjnej polityki wobec osób ubiegających się o azyl – AP News",
       "url": "https://apnews.com/article/supreme-court-immigration-trump-d36d0092617c7115780c06de38e2000f",
       "date": "2026-06-25T20:55:00Z",
       "source": "Associated Press",
@@ -987,7 +987,7 @@
       "date": "2026-06-25T19:18:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Z danych AP News wynika, że ​​oszałamiające ilości fentanylu trafiły na ulice, podczas gdy DEA obserwowała tę sytuację i nie podjęła żadnych działań."
+      "summary": "Jak wynika z danych AP News, oszałamiające ilości fentanylu trafiły na ulice, podczas gdy DEA obserwowała tę sytuację i nie podjęła żadnych działań."
     },
     {
       "title": "Sąd Najwyższy uchyla hawajskie prawo wymagające pozwolenia na noszenie broni w sklepach i hotelach – AP News",
@@ -1040,6 +1040,14 @@
       "summary": "Samolot rozbił się o najwyższy wieżowiec w Chinach. Przerażające nagranie."
     },
     {
+      "title": "Coraz dziwniejsza wojna Zuckerberga z sygnalistami",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+      "date": "2026-06-27T14:38:05Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://pluralistic.net/2026/06/27/zuckerstreisand-2/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48698684 Punkty: 15 # Komentarze: 0."
+    },
+    {
       "title": "To najgorszy wynik PlayStation od lat. Drastyczny spadek",
       "url": "https://antyweb.pl/playstation-maj-2026-circana-spadek",
       "date": "2026-06-27T14:30:42Z",
@@ -1053,7 +1061,7 @@
       "date": "2026-06-27T14:23:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48698559 Punkty: 10 # Komentarze: 2."
+      "summary": "Adres URL artykułu: https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48698559 Punkty: 21 # Komentarze: 5."
     },
     {
       "title": "Telewizory LED RGB od dziś w Polsce. To musisz wiedzieć",
@@ -1104,12 +1112,12 @@
       "summary": "Axios: Źródło: administracja Trumpa jest bliska umożliwienia Anthropic przywrócenia dostępu do Fable 5; limity mogą zostać zniesione już w nadchodzącym tygodniu &mdash; Administracja Trumpa jest bliska umożliwienia firmie Anthropic przywrócenia dostępu do jej potężnego modelu Fable 5, który był niedostępny przez 15 dni."
     },
     {
-      "title": "Jest nowe GPT. Nie licz na dostęp",
-      "url": "https://spidersweb.pl/2026/06/openai-gpt-5-6-sol.html",
-      "date": "2026-06-27T14:00:00Z",
-      "source": "Spider's Web",
+      "title": "North Pole Dome w Australii. To najstarszy krater po planetoidzie",
+      "url": "https://www.benchmark.pl/north-pole-dome-w-australii-to-najstarszy-krater-po-planetoidzie-7300354564458496a",
+      "date": "2026-06-27T13:59:00Z",
+      "source": "Benchmark.pl",
       "confirmed_by": 1,
-      "summary": "Jest nowe GPT. Nie licz na dostęp."
+      "summary": "Naukowcy potwierdzili, że struktura North Pole Dome w odludnym regionie Pilbara w Zachodniej Australii ma około 3,02 mld lat. Jak relacjonuje ScienceAlert, oznacza to, że może być to najstarszy znany na Ziemi krater powstały po uderzeniu asteroidy."
     },
     {
       "title": "Polymarket twierdzi, że jego roczne przychody wynoszą obecnie ponad miliard dolarów; Dune Analytics: dzienny obrót na amerykańskiej platformie Polymarket wzrósł z ~50 mln dolarów w połowie maja do ponad 200 mln dolarów do 20 czerwca (Davis Giangiulio/CNBC)",
@@ -1120,20 +1128,20 @@
       "summary": "Davis Giangiulio / CNBC: Polymarket twierdzi, że jego roczne przychody wynoszą obecnie ponad miliard dolarów; Dune Analytics: dzienny obrót na amerykańskiej platformie Polymarket wzrósł z ~50 mln USD w połowie maja do ponad 200 mln USD do 20 czerwca &mdash; Jak poinformowała w piątek firma wyłącznie CNBC, roczne przychody platformy rynku prognostycznego Polymarket przekraczają obecnie znacznie ponad 1 miliard dolarów."
     },
     {
+      "title": "Podejrzane nieciągłości",
+      "url": "https://danluu.com/discontinuities/",
+      "date": "2026-06-27T13:32:20Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://danluu.com/discontinuities/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48698151 Punkty: 16 # Komentarze: 0."
+    },
+    {
       "title": "\"Lalka\" od Netfliksa z datą premiery. Jest też nowy zwiastun",
       "url": "https://antyweb.pl/lalka-od-netfliksa-z-data-premiery-jest-tez-nowy-zwiastun",
       "date": "2026-06-27T13:19:03Z",
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "We wrześniu czeka nas sytuacja bez precedensu. Polscy twórcy w niemal jednym czasie wzięli na warsztat klasykę polskiej literatury - \"Lalkę\" Bolesława Prusa i w ciągu 2 tygodni dostaniemy dwie wersje filmowe."
-    },
-    {
-      "title": "Azjatyckie start-upy AI wprowadzają modele przypominające Mythos",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "date": "2026-06-27T13:10:21Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697958 Punkty: 47 # Komentarze: 39."
     },
     {
       "title": "Nigdy więcej z Rayanair. Miałem problem i zostałem na lodzie",
@@ -1149,7 +1157,15 @@
       "date": "2026-06-27T12:43:16Z",
       "source": "Hacker News",
       "confirmed_by": 2,
-      "summary": "Adres URL artykułu: https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxously-loud-ads-become-illegal-on-july-1-in-california/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697768 Punkty: 58 # Komentarze: 9."
+      "summary": "Adres URL artykułu: https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxously-loud-ads-become-illegal-on-july-1-in-california/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697768 Punkty: 67 # Komentarze: 11."
+    },
+    {
+      "title": "Hit na lato w Biedronce. Sprzedają klimator w niezłej cenie",
+      "url": "https://www.benchmark.pl/hit-na-lato-w-biedronce-sprzedaja-klimator-w-niezlej-cenie-7299965746145312a",
+      "date": "2026-06-27T12:41:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Nie każdy chce wydawać kilkaset czy kilka tysięcy złotych na klimatyzację. Dla osób szukających tańszego sposobu na poprawę komfortu podczas upałów Biedronka przygotowała ciekawą ofertę. Klimator Hoffen można kupić za 139 zł."
     },
     {
       "title": "Ile tak naprawdę jest cząstek elementarnych?",
@@ -1157,7 +1173,7 @@
       "date": "2026-06-27T12:40:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697746 Punkty: 24 # Komentarze: 6."
+      "summary": "Adres URL artykułu: https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697746 Punkty: 31 # Komentarze: 10."
     },
     {
       "title": "GTA 6 jednak z płytą w pudełku? Znamy pierwsze szczegóły",
@@ -1173,7 +1189,7 @@
       "date": "2026-06-27T12:10:27Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.openra.net/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697560 Punkty: 153 # Komentarze: 41."
+      "summary": "Adres URL artykułu: https://www.openra.net/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697560 Punkty: 166 # Komentarze: 46."
     },
     {
       "title": "Nox Metals (YC S25) zatrudnia SWE",
@@ -1182,14 +1198,6 @@
       "source": "Hacker News",
       "confirmed_by": 1,
       "summary": "Adres URL artykułu: https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer Adres URL komentarzy: https://news.ycombinator.com/item?id=48697504 Punkty: 0 # Komentarze: 0."
-    },
-    {
-      "title": "Jeśli nie możesz tego utrzymać, nie jesteś jego właścicielem",
-      "url": "https://dervis.de/physical/",
-      "date": "2026-06-27T11:32:10Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://dervis.de/physical/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48697335 Punkty: 119 # Komentarze: 81."
     },
     {
       "title": "Absolwenci Apple i Audi stworzyli luksusowy pojazd elektryczny oparty na księżycowym buggy",
@@ -1224,14 +1232,6 @@
       "summary": "Scharon Harding / Ars Technica: Usługi przesyłania strumieniowego muszą być zgodne z kalifornijskim prawem, które od 1 lipca zabrania odtwarzania reklam głośniej niż oglądana treść, ale jego wdrożenie nie jest jasne &mdash; Od 1 lipca platformy streamingowe nie będą mogły odtwarzać reklam głośniej niż treści oglądane w Kalifornii."
     },
     {
-      "title": "Podręcznik inżynierii Fintech",
-      "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "date": "2026-06-27T10:28:53Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://w.pitula.me/fintech-engineering-handbook/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48696982 Punkty: 225 # Komentarze: 72."
-    },
-    {
       "title": "KaOS Linux 2026.06 odcina się od systemd. To koniec pewnej epoki",
       "url": "https://www.instalki.pl/news/software/kaos-linux-2026-06-dinit-bez-systemd/",
       "date": "2026-06-27T10:25:20Z",
@@ -1248,6 +1248,14 @@
       "summary": "Co w tym tygodniu sklep Epic Games Store przygotował za darmo dla graczy? Jeden tytuł to prawdziwa gratka dla fanów klasyków."
     },
     {
+      "title": "Ultra-gorące jowisze pod lupą. Pierwszy taki pomiar pól magnetycznych",
+      "url": "https://www.benchmark.pl/ultra-gorace-jowisze-pod-lupa-pierwszy-taki-pomiar-pol-magnetycznych-7299749973923840a",
+      "date": "2026-06-27T10:00:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Naukowcy po raz pierwszy bezpośrednio wyznaczyli pole magnetyczne siedmiu tzw. ultra-gorących jowiszów — olbrzymich egzoplanet krążących skrajnie blisko swoich gwiazd. Wyniki, opublikowane w \"Nature Astronomy\", mogą przybliżyć odpowiedź na pytanie, jakie warunki pomagają planetom utrzymać atmosferę i wodę, a w konsekwencji sprzyjać życiu poza Układem Słonecznym."
+    },
+    {
       "title": "Windows 11 26H2 waży 174 KB. To… największa aktualizacja w tym roku",
       "url": "https://www.instalki.pl/news/software/windows-11-26h2-174-kb-aktualizacja/",
       "date": "2026-06-27T09:50:57Z",
@@ -1262,6 +1270,22 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Samochody elektryczne kuszą tanią jazdą i ekologią, ale ich czar pryska przy pierwszej lepszej stłuczce. Chociaż pod maską &#8222;elektryka&#8221; znajdziemy znacznie mniej skomplikowaną technologię niż w tradycyjnym aucie spalinowym, to koszty powypadkowe potrafią zwalić z nóg. Najnowsze raporty jasno pokazują, że serwisy i ubezpieczyciele po prostu nie nadążają za rewolucją EV."
+    },
+    {
+      "title": "Panthalassa buduje morskie centra danych. Zasilą je fale morskie",
+      "url": "https://www.benchmark.pl/panthalassa-buduje-morskie-centra-danych-zasila-je-fale-morskie-7299503077972000a",
+      "date": "2026-06-27T09:21:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Amerykański startup Panthalassa pozyskał 140 mln dol. na rozwój autonomicznych centrów danych działających na oceanie i zasilanych energią fal. Firma chce sprawdzić rozwiązanie w praktyce jeszcze w tym roku, uruchamiając pilotażową platformę na północnym Pacyfiku."
+    },
+    {
+      "title": "Upały za oknem? Sprawdź, jakie temperatury są bezpieczne dla komputera",
+      "url": "https://www.benchmark.pl/upaly-za-oknem-sprawdz-jakie-temperatury-sa-bezpieczne-dla-komputera-7300274739668992a",
+      "date": "2026-06-27T09:03:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Latem komputer potrafi zmienić się w mały grzejnik – wentylatory pracują głośniej, obudowa robi się ciepła, a gry lub programy nagle zaczynają działać wolniej. W takiej sytuacji wiele osób zastanawia się, czy to już powód do niepokoju, czy jeszcze normalna praca sprzętu."
     },
     {
       "title": "Irracjonalny strach przed GTA VI. Wydawcy niepotrzebnie przenoszą premiery",
@@ -1288,28 +1312,20 @@
       "summary": "Ekstremalna fala upałów paraliżuje Europę i plany urlopowe Polaków. W odpowiedzi na anomalie pogodowe PKP Intercity wprowadza darmowe zwroty biletów dla pasażerów, którzy wolą uniknąć podróży w upale. Zmiany obejmują trasy krajowe oraz międzynarodowe."
     },
     {
-      "title": "Zmiana myślenia o życiu we Wszechświecie. \"Obcy są naprawdę obcy\"",
-      "url": "https://spidersweb.pl/2026/06/obcy-zycie-pozaziemskie-poszukiwania.html",
-      "date": "2026-06-27T07:45:00Z",
-      "source": "Spider's Web",
+      "title": "Jaki klimatyzator przenośny wybrać, aby przetrwać upały?",
+      "url": "https://www.benchmark.pl/jaki-klimatyzator-przenosny-wybrac-aby-przetrwac-upaly-7300999346505824a",
+      "date": "2026-06-27T07:23:59Z",
+      "source": "Benchmark.pl",
       "confirmed_by": 1,
-      "summary": "Zmiana myślenia o życiu we Wszechświecie. \"Obcy są naprawdę obcy\"."
+      "summary": "Jaki klimatyzator przenośny do domu lub biura kupić, aby przetrwać letnie fale upałów i zachować pełną produktywność? Przygotowaliśmy konkretny, niezależny ranking urządzeń, które skutecznie obniżą temperaturę w twoim mieszkaniu. Sprawdź nasze zestawienie i wybierz sprawdzony sprzęt, bez względu na to, jakim budżetem dysponujesz."
     },
     {
-      "title": "Google wie o Tobie za dużo? Zmień te ustawienia prywatności żeby ograniczyć śledzenie",
-      "url": "https://www.instalki.pl/news/bezpieczenstwo/google-wie-o-tobie-za-duzo-zmien-te-ustawienia-prywatnosci-zeby-ograniczyc-sledzenie/",
-      "date": "2026-06-27T07:30:00Z",
-      "source": "Instalki.pl",
+      "title": "Koniec Słońca a los Ziemi. Symulacje wskazują na nowy scenariusz",
+      "url": "https://www.benchmark.pl/koniec-slonca-a-los-ziemi-symulacje-wskazuja-na-nowy-scenariusz-7299499531597824a",
+      "date": "2026-06-27T06:38:00Z",
+      "source": "Benchmark.pl",
       "confirmed_by": 1,
-      "summary": "Większość z nas zdaje sobie sprawę, że Google gromadzi o nas dane. Niewiele osób wie jednak, jak szczegółowy tworzy obraz i jak to ograniczyć Artykuł Google wie o Tobie za dużo? Zmień te ustawienia prywatności żeby ograniczyć śledzenie pochodzi z serwisu INSTALKI."
-    },
-    {
-      "title": "Fujifilm X-T6 coraz bliżej. Co wiemy na temat aparatu?",
-      "url": "https://antyweb.pl/fujifilm-x-t6-coraz-blizej-co-wiemy-na-temat-aparatu",
-      "date": "2026-06-27T07:00:28Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "To będzie jedna z najważniejszych premier w świecie aparatów w tym roku. Fujifilm jeszcze tej jesieni ma wprowadzić do sprzedaży swój najnowszy model: X-T6."
+      "summary": "Nowsze obliczenia dotyczące starzenia się Słońca sugerują, że Ziemia niekoniecznie musi zostać wchłonięta, gdy nasza gwiazda zacznie puchnąć do rozmiarów czerwonego olbrzyma. Autorzy pracy wskazują, że po uwzględnieniu aktualnych danych o utracie masy i oddziaływaniach pływowych rosną szanse na \"fizyczne\" przetrwanie naszej planety."
     },
     {
       "title": "Spojrzenie na zaawansowane opakowania chipów, obecnie bardziej niż kiedykolwiek zależne od TSMC i jej partnerów na Tajwanie, oraz wysiłki mające na celu rozwiązanie tego wąskiego gardła w USA (Don Clark/New York Times)",
@@ -1336,20 +1352,12 @@
       "summary": "Jamie Crawley / CoinDesk: Japoński gigant finansowy SBI zgadza się nabyć Bitbank, 10 największych japońskich giełd kryptowalut pod względem działalności handlowej, za ~289 mln dolarów, a transakcja ma zostać sfinalizowana w październiku &mdash; Japoński gigant usług finansowych SBI Holdings powiedział, że zgodził się kupić giełdę kryptowalut Bitbank za około 289 milionów dolarów."
     },
     {
-      "title": "Źródło: Intel obiecał dostarczyć SpaceX i Apple jesienią tego roku zestaw narzędzi do przetestowania węzła 14A, zanim podejmą ostateczne zobowiązania dotyczące produkcji chipów wspólnie z firmą Intel (Tripp Mickle/New York Times)",
+      "title": "Źródło: Intel obiecał dostarczyć SpaceX i Apple tej jesieni zestaw narzędzi do przetestowania węzła 14A, zanim podejmą ostateczne zobowiązania dotyczące produkcji chipów wspólnie z firmą Intel (Tripp Mickle/New York Times)",
       "url": "https://www.techmeme.com/260627/p2#a260627p2",
       "date": "2026-06-27T04:45:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Tripp Mickle / New York Times: Źródło: Intel obiecał dostarczyć SpaceX i Apple jesienią tego roku zestaw narzędzi umożliwiający przetestowanie węzła 14A, zanim podejmą ostateczne zobowiązania w zakresie produkcji chipów z technologią Intel &mdash; W tym tygodniu na konferencji technologicznej w San Francisco wielbiciele otoczyli Lip-Bu Tan, dyrektora generalnego Intel &hellip;."
-    },
-    {
-      "title": "Corgi, start-up zajmujący się technologią ubezpieczeniową, zaprzecza oskarżeniom, że wykorzystał kod oprogramowania open source firmy Papermark do opracowania swojego oprogramowania i zaprezentowania go jako własnego (Julie Bort/TechCrunch)",
-      "url": "https://www.techmeme.com/260627/p1#a260627p1",
-      "date": "2026-06-27T04:05:02Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Julie Bort / TechCrunch: Corgi, start-up zajmujący się technologią ubezpieczeniową, zaprzecza oskarżeniom, jakoby do tworzenia swojego oprogramowania wykorzystywał kod oprogramowania open source firmy Papermark i prezentował je jako własne &mdash; Corgi, wspierany przez Y Combinator start-up zajmujący się technologią ubezpieczeniową, wdał się w kolejną kontrowersję na początku tego tygodnia, kiedy Papermark &hellip;."
+      "summary": "Tripp Mickle / New York Times: Źródło: Intel obiecał dostarczyć SpaceX i Apple jesienią tego roku zestaw narzędzi umożliwiający przetestowanie węzła 14A, zanim podejmą ostateczne zobowiązania w zakresie produkcji chipów z technologią Intel &mdash; W tym tygodniu na konferencji technologicznej w San Francisco wielbiciele otoczyli Lip-Bu Tana, dyrektora generalnego Intel &hellip;."
     },
     {
       "title": "Korea Południowa planuje wyszkolić całe wojsko na „wojowników dronów”",
@@ -1389,7 +1397,7 @@
       "date": "2026-06-26T18:51:04Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "FCC odmawia przekazywania wiadomości, twierdząc, że „zmarnowała rok” czasu sądu."
+      "summary": "FCC odmawia przekazywania wiadomości, według pozwu „zmarnowała rok” czasu sądu."
     },
     {
       "title": "Netflix wymaga teraz powiązania każdego profilu użytkownika z unikalnym adresem e-mail",
@@ -1398,14 +1406,6 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "Aktualizacja rozpoczęła się 15 czerwca i nie pozwala już na udostępnianie danych logowania."
-    },
-    {
-      "title": "Odkrycie „megaklasterów” antybiotyków zapewnia nową strategię zwalczania superbakterii",
-      "url": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
-      "date": "2026-06-26T17:46:07Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "To „ekscytujący postęp w wysiłkach na rzecz uzupełnienia arsenału antybiotyków”."
     }
   ],
   "cybersecurity": [
@@ -1538,7 +1538,7 @@
       "summary": "Chińskojęzyczny ugrupowanie zaawansowanego trwałego zagrożenia (APT) zostało powiązane z nowym, niestandardowym backdoorem o nazwie TinyRCT w ramach cyberataków wymierzonych w podmioty rządowe i infrastrukturę krytyczną w Azji Południowo-Wschodniej. Działanie, skierowane w szczególności do przedsiębiorstw państwowych z sektora energetycznego i rządowego, zostało przypisane aktorowi zagrażającemu o nazwie CL-STA-1062, którym jest Palo Alto Networks."
     },
     {
-      "title": "Luka w Amazon Q pozwalała na wykonanie kodu w repozytoriach Git z pułapkami i przesuwanie danych uwierzytelniających w chmurze",
+      "title": "Luka w Amazon Q umożliwiała uwięzionym w repozytoriach Git wykonywanie kodu i przesuwanie danych uwierzytelniających w chmurze",
       "url": "https://www.theregister.com/cyber-crime/2026/06/26/amazon-q-flaw-let-booby-trapped-git-repos-execute-code-swipe-cloud-creds/5263202",
       "date": "2026-06-26T15:34:00Z",
       "source": "The Register",
@@ -1591,7 +1591,7 @@
       "date": "2026-06-26T13:53:00Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Bardzo poważna luka w Amazon Q Developer umożliwia złośliwemu repozytorium uruchamianie poleceń i kradzież danych uwierzytelniających programisty w chmurze. Ścieżka była krótka: programista otwiera repozytorium, ufa przestrzeni roboczej, a Amazon Q zajmuje się resztą. Amazon to załatał."
+      "summary": "Bardzo poważna luka w Amazon Q Developer umożliwia złośliwemu repozytorium uruchamianie poleceń i kradzież danych uwierzytelniających programisty w chmurze. Ścieżka była krótka: programista otwiera repozytorium, ufa przestrzeni roboczej, a Amazon Q robi resztę. Amazon to załatał."
     },
     {
       "title": "Jeden człowiek, dwa jądra i dużo RISC-V",
@@ -1639,7 +1639,7 @@
       "date": "2026-06-26T11:51:35Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "DirtyClone to nowa eskalacja uprawnień jądra Linuksa w rodzinie DirtyFrag. 25 czerwca firma JFrog Security Research opublikowała działający opis exploita dotyczącego tej luki, co było pierwszą publiczną demonstracją tego wariantu. Śledzony jako CVE-2026-43503 (CVSS 8.8), umożliwia użytkownikowi lokalnemu uszkodzenie pamięci opartej na plikach poprzez sklonowany pakiet sieciowy i uzyskanie uprawnień roota."
+      "summary": "DirtyClone to nowa eskalacja uprawnień jądra Linuksa w rodzinie DirtyFrag. 25 czerwca firma JFrog Security Research opublikowała działający opis exploita dotyczącego tej luki, co było pierwszą publiczną demonstracją tego wariantu. Śledzony jako CVE-2026-43503 (CVSS 8.8), umożliwia lokalnemu użytkownikowi uszkodzenie pamięci opartej na plikach poprzez sklonowany pakiet sieciowy i uzyskanie uprawnień roota."
     },
     {
       "title": "Policyjny algorytm poza kontrolą. Kontrowersyjny system profilował Brytyjczyków",
@@ -1658,7 +1658,7 @@
       "summary": "Agenci AI poruszają się po środowiskach korporacyjnych, dziedziczą uprawnienia, przechodzą przez systemy i wykonują decyzje z szybkością maszyny przy minimalnym nadzorze. Infrastruktura tożsamości zbudowana w celu zarządzania dostępem ludzi nie została zaprojektowana dla podmiotów autonomicznych, a luka między tym, co wdrażają przedsiębiorstwa, a tym, co faktycznie obejmują ich programy zarządzania, szybko się powiększa. Ten poradnik psuje się."
     },
     {
-      "title": "Złośliwe oprogramowanie Miasma atakuje pakiety npm i działania GitHub w ramach ataku na łańcuch dostaw",
+      "title": "Złośliwe oprogramowanie Miasma atakuje pakiety npm i działania GitHub w ataku na łańcuch dostaw",
       "url": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
       "date": "2026-06-26T11:05:45Z",
       "source": "The Hacker News",
@@ -1695,7 +1695,7 @@
       "date": "2026-06-26T09:27:12Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Od kwietnia 2026 r. aktywna kampania phishingowa skierowana jest do organizacji hotelowych i innych branży hotelarsko-gastronomicznej w Europie i Azji i wykorzystuje pliki ZIP ze zdjęciami do upuszczania implantu Node.js i włamywania się do maszyn w recepcji – twierdzi Microsoft. Firma nie przypisała tego działania znanemu ugrupowaniu zagrażającemu, a ostateczny cel operatorów jest nadal niejasny. Przynęta polega na tym, jak działają hotele."
+      "summary": "Od kwietnia 2026 r. prowadzona jest aktywna kampania phishingowa, której celem są organizacje hotelowe i inne organizacje z branży hotelarsko-gastronomicznej w Europie i Azji. Wykorzystuje się do tego pliki ZIP ze zdjęciami, aby upuścić implant Node.js i włamać się do maszyn znajdujących się w recepcji – twierdzi Microsoft. Firma nie przypisała tego działania znanemu ugrupowaniu zagrażającemu, a ostateczny cel operatorów jest nadal niejasny. Przynęta polega na tym, jak działają hotele."
     },
     {
       "title": "Rosja użyła Cellebrite w iPhone'ie uwięzionego aktywisty kilka miesięcy po odcięciu sprzedaży",
@@ -1812,6 +1812,14 @@
   ],
   "finance": [
     {
+      "title": "Kto nie złoży oświadczenia do 30 czerwca 2026, zapłaci rachunki grozy za prąd. Zostało kilka dni - Forsal.pl",
+      "url": "https://forsal.pl/gospodarka/aktualnosci/artykuly/10638259,kto-nie-zlozy-oswiadczenia-do-30-czerwca-2026-zaplaci-rachunki-grozy-za-prad-zostalo-kilka-dni-gov-pge-tauron-eon-enea-energa-wniosek-wzor-pdf-online-2026.html",
+      "date": "2026-06-27T15:11:32Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Kto nie złoży oświadczenia do 30 czerwca 2026, zapłaci rachunki grozy za prąd. Zostało kilka dni Forsal.pl."
+    },
+    {
       "title": "Komunikat EBI Maxipizza SA (maxipizza): Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach) - stockwatch.pl",
       "url": "https://www.stockwatch.pl/komunikaty-spolek/maxipizza,informacje-o-walnym-zgromadzeniu-tresc-uchw-2026-06-27,ebi,20260627_144930_0000003964",
       "date": "2026-06-27T12:49:30Z",
@@ -1876,6 +1884,14 @@
       "summary": "Całoroczną stację ratunkową chcą wybudować w Wiśle goprowcy. Naczelnik Grupy Beskidzkiej GOPR Marcin Szczurek powiedział PAP, że potrzebne jest około 3,2 mln zł, które ratownicy starają się pozyskać. Mają już działkę, projekt i pozwolenie na budowę."
     },
     {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/gospodarka,1001",
+      "date": "2026-06-27T10:42:29Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
+    },
+    {
       "title": "Zły kierunek w polskiej edukacji. 58 proc. badanych o problemach",
       "url": "https://www.bankier.pl/wiadomosc/Zly-kierunek-w-polskiej-edukacji-58-proc-badanych-o-problemach-9158416.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-06-27T10:00:00Z",
@@ -1890,14 +1906,6 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
-      "title": "Sygnały analizy technicznej BNPPMXWO0629 BNP PARIBAS ARBITRAGE ISSUANCE - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/BNPPMXWO0629",
-      "date": "2026-06-27T09:56:38Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Sygnały analizy technicznej BNPPMXWO0629 BNP PARIBAS ARBITRAGE ISSUANCE BiznesRadar."
     },
     {
       "title": "Zełenski: Uderzyliśmy w rosyjskie zakłady zbrojeniowe w Wołgogradzie",
@@ -1946,14 +1954,6 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Tańsze zakupy dla seniorów, którzy skończyli 60 lat. Zniżki w piekarniach, cukierniach, sklepach spożywczych. Wystarczy okazać tę kartę Forsal.pl."
-    },
-    {
-      "title": "Narodzi się nowy trend zakupowy? Polacy coraz częściej z tego korzystają - Forsal.pl",
-      "url": "https://forsal.pl/biznes/handel/artykuly/11268685,narodzi-sie-nowy-trend-zakupowy-polacy-coraz-czesciej-z-tego-korzysta.html",
-      "date": "2026-06-27T06:15:28Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Narodzi się nowy trend zakupowy? Polacy coraz częściej z tego korzystają Forsal.pl."
     },
     {
       "title": "Aktualności - Forbes - wiadomości gospodarcze i finansowe - Forbes",
@@ -2020,6 +2020,14 @@
       "summary": "Notowania RBITSOIL47 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
+      "title": "Notowania RBIFL8GOLD4 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/RBIFL8GOLD4",
+      "date": "2026-06-26T19:45:15Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania RBIFL8GOLD4 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+    },
+    {
       "title": "Tydzień nad Bałtykiem za prawie 10 tys. zł. Wakacyjne ceny znów rosną",
       "url": "https://300gospodarka.pl/news/wakacje-2026-koszty-urlopu-wg-zbp",
       "date": "2026-06-26T18:17:27Z",
@@ -2034,14 +2042,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Przez lata opakowanie ochronne traktowano jako pozycję kosztową, którą należy minimalizować. Kilka groszy folii na przesyłkę, niewidocznych w żadnym sprawozdaniu zarządczym. W 2026 roku to założenie przestaje się bronić z dwóch niezależnych powodów."
-    },
-    {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/finanse/waluty,88",
-      "date": "2026-06-26T16:15:21Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Formacje analizy technicznej PEO0630 PEKAO - BiznesRadar",
@@ -2116,12 +2116,12 @@
       "summary": "List do akcjonariuszy Grupy Forte 2025/2026 BiznesRadar."
     },
     {
-      "title": "Analiza techniczna OW20S263475 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/OW20S263475",
-      "date": "2026-06-26T13:18:41Z",
+      "title": "Liftero osiągnął kamień milowy w projekcie napędu satelitarnego dla ESA - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/148888,liftero-osiagnal-kamien-milowy-w-projekcie-napedu-satelitarnego-dla-esa",
+      "date": "2026-06-26T13:13:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna OW20S263475 BiznesRadar."
+      "summary": "Liftero osiągnął kamień milowy w projekcie napędu satelitarnego dla ESA BiznesRadar."
     },
     {
       "title": "Studia w Polsce jak XIX-wieczny folwark. Efekt? Lekarze zarabiają 100 tys. zł - Forbes",
@@ -2214,6 +2214,14 @@
   ],
   "critical_alerts": [
     {
+      "title": "Silne trzęsienie ziemi nawiedziło Hindukusz, wstrząsając Afganistanem i Pakistanem – Reuters",
+      "url": "https://www.reuters.com/business/environment/strong-earthquake-hits-hindu-kush-shaking-afghanistan-pakistan-2026-06-27/",
+      "date": "2026-06-27T15:01:12Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Silne trzęsienie ziemi nawiedziło Hindukusz, wstrząsając Afganistanem i Pakistanem Reuters."
+    },
+    {
       "title": "Wenezuela przyjmuje 1600 zagranicznych ratowników pilnie poszukujących ocalałych z trzęsienia ziemi – Reuters",
       "url": "https://www.reuters.com/world/americas/venezuela-welcomes-1600-foreign-rescuers-urgent-search-quake-survivors-2026-06-27/",
       "date": "2026-06-27T14:10:54Z",
@@ -2244,15 +2252,15 @@
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Hezbollah odrzuca zawartą za pośrednictwem USA umowę o bezpieczeństwie między Izraelem a Libanem jako „kapitulację” – Reuters.",
-      "url": "https://www.reuters.com/world/middle-east/israeli-drone-strike-hits-southern-lebanon-day-after-security-deal-2026-06-27/"
+      "description": "Porozumienie może również zakończyć nadzieje na jurysdykcję MTK w Libanie – jest to posunięcie, na które nalegali zwolennicy ścigania Izraela.",
+      "url": "https://www.theguardian.com/world/2026/jun/27/lebanon-israel-deal-alleged-war-crime-victims-justice-icc"
     },
     {
       "lat": 32.43,
       "lng": 53.69,
       "type": "conflict",
       "region": "Iran",
-      "description": "Świeży statek uderzył w Ormuz, gdy Iran atakował handel amerykański z najgorszą eskalacją od czasu porozumienia pokojowego Reuters.",
+      "description": "Świeży statek uderzył w Ormuz, gdy Iran atakował handel z USA z najgorszą eskalacją od czasu porozumienia pokojowego Reuters.",
       "url": "https://www.reuters.com/world/asia-pacific/iran-says-it-hits-us-linked-targets-bahrain-reports-drone-attack-2026-06-27/"
     },
     {
@@ -2476,8 +2484,8 @@
       "lng": 35.5,
       "type": "conflict",
       "region": "Liban",
-      "description": "Hezbollah odrzuca zawartą za pośrednictwem USA umowę o bezpieczeństwie między Izraelem a Libanem jako „kapitulację” – Reuters.",
-      "url": "https://www.reuters.com/world/middle-east/israeli-drone-strike-hits-southern-lebanon-day-after-security-deal-2026-06-27/"
+      "description": "Porozumienie może również zakończyć nadzieje na jurysdykcję MTK w Libanie – jest to posunięcie, na które nalegali zwolennicy ścigania Izraela.",
+      "url": "https://www.theguardian.com/world/2026/jun/27/lebanon-israel-deal-alleged-war-crime-victims-justice-icc"
     },
     {
       "lat": 24.2,
@@ -2516,7 +2524,7 @@
       "lng": 9.9,
       "type": "disaster",
       "region": "Niemcy",
-      "description": "Prognozy mówią, że w Europie Środkowej i Wschodniej panują najgorętsze warunki.",
+      "description": "Rekordy temperatury pobite w Niemczech, Danii i na Słowacji w związku z falą upałów, które Europa w dalszym ciągu ogarnia fala upałówPo dziesięcioleciach ostrzeżeń klimatycznych dlaczego Europa jest tak nieprzygotowana na rosnące upały?",
       "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates"
     },
     {
@@ -2526,6 +2534,30 @@
       "region": "Włochy",
       "description": "Prognozy mówią, że w Europie Środkowej i Wschodniej panują najgorętsze warunki.",
       "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates"
+    },
+    {
+      "lat": 33.94,
+      "lng": 67.71,
+      "type": "conflict",
+      "region": "Afganistan",
+      "description": "Silne trzęsienie ziemi nawiedziło Hindukusz, wstrząsając Afganistanem i Pakistanem Reuters.",
+      "url": "https://www.reuters.com/business/environment/strong-earthquake-hits-hindu-kush-shaking-afghanistan-pakistan-2026-06-27/"
+    },
+    {
+      "lat": 33.44,
+      "lng": 67.21,
+      "type": "disaster",
+      "region": "Afganistan",
+      "description": "Silne trzęsienie ziemi nawiedziło Hindukusz, wstrząsając Afganistanem i Pakistanem Reuters.",
+      "url": "https://www.reuters.com/business/environment/strong-earthquake-hits-hindu-kush-shaking-afghanistan-pakistan-2026-06-27/"
+    },
+    {
+      "lat": 33.64,
+      "lng": 68.00999999999999,
+      "type": "critical",
+      "region": "Afganistan",
+      "description": "Silne trzęsienie ziemi nawiedziło Hindukusz, wstrząsając Afganistanem i Pakistanem Reuters.",
+      "url": "https://www.reuters.com/business/environment/strong-earthquake-hits-hindu-kush-shaking-afghanistan-pakistan-2026-06-27/"
     }
   ],
   "instability": [
@@ -2552,7 +2584,7 @@
     },
     {
       "name": "Iran",
-      "score": 32,
+      "score": 36,
       "reasons": [
         {
           "title": "Świeży statek uderzył w Ormuz, gdy Iran atakował handel z USA z najgorszą eskalacją od czasu porozumienia pokojowego – Reuters",
@@ -2573,12 +2605,23 @@
     },
     {
       "name": "Mjanma",
-      "score": 10,
+      "score": 11,
       "reasons": [
         {
           "title": "Szefowie kuchni na wygnaniu z Birmy dają birmańskiej kuchni szansę zabłysnąć na arenie międzynarodowej",
           "url": "https://www.nytimes.com/2026/06/27/world/asia/burmese-food-myanmar.html",
           "source": "The New York Times"
+        }
+      ]
+    },
+    {
+      "name": "Afganistan",
+      "score": 11,
+      "reasons": [
+        {
+          "title": "Silne trzęsienie ziemi nawiedziło Hindukusz, wstrząsając Afganistanem i Pakistanem – Reuters",
+          "url": "https://www.reuters.com/business/environment/strong-earthquake-hits-hindu-kush-shaking-afghanistan-pakistan-2026-06-27/",
+          "source": "Reuters"
         }
       ]
     }
