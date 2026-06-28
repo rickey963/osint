@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T05:41:23Z",
+  "last_updated": "2026-06-28T05:42:02Z",
   "poland": [
     {
       "title": "Rzymski historyk gardził chrześcijaństwem. Przypadkiem potwierdził istnienie Jezusa",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Trzęsienia ziemi w Wenezueli: liczba ofiar śmiertelnych ponownie wzrosła do ponad 1400",
+      "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
+      "date": "2026-06-28T05:27:30Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Trwają poszukiwania ocalałych – prawie 70 000 osób nie zostało podanych przez członków ich rodzin. Według jednego z czołowych polityków w kraju, Jorge Rodrígueza, liczba ofiar śmiertelnych bliźniaczych trzęsień ziemi, które nawiedziły Wenezuelę na początku tego tygodnia, wzrosła do 1430. W wyniku katastrofy 3200 osób zostało rannych, a 3100 straciło dach nad głową – dodał przewodniczący Zgromadzenia Narodowego w przemówieniu w telewizji państwowej. Kontynuuj czytanie..."
+    },
+    {
       "title": "USA i Iran wymieniają ataki i oskarżają się nawzajem o naruszenie zawieszenia broni",
       "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-28T04:54:50Z",
@@ -658,14 +666,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Wyłącznie: analiza Guardiana sugeruje kilka grup liczących tysiące członków prowadzonych w Azji Południowo-Wschodniej przez – jak to nazywają eksperci – „farmę zaangażowania”. Śledź nasz australijski blog z aktualnościami, aby uzyskać najnowsze aktualizacje. Otrzymuj e-maile z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Niektóre z największych grup zwolenników One Nation na Facebooku wydają się być prowadzone z zagranicy przez zagranicznych twórców cyfrowych, którzy zarabiają na treściach. Guardian Australia zbadał 14 największych grup publicznych opowiadających się za One Nation, liczących co najmniej 8000 członków, i stwierdził, że większość została utworzona w tym roku. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Trzęsienia ziemi w Wenezueli: liczba ofiar śmiertelnych ponownie wzrosła do ponad 1400",
-      "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
-      "date": "2026-06-27T19:52:15Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Trwają poszukiwania ocalałych – prawie 70 000 osób nie zostało podanych przez członków ich rodzin. Według jednego z czołowych polityków w kraju, Jorge Rodrígueza, liczba ofiar śmiertelnych bliźniaczych trzęsień ziemi, które nawiedziły Wenezuelę na początku tego tygodnia, wzrosła do 1430. W wyniku katastrofy 3200 osób zostało rannych, a 3100 straciło dach nad głową – dodał przewodniczący Zgromadzenia Narodowego w przemówieniu w telewizji państwowej. Kontynuuj czytanie..."
     },
     {
       "title": "Jak podaje gazeta Dawn – Reuters, trzech pakistańskich strażników zginęło w ataku w Karaczi",
@@ -2494,14 +2494,14 @@
       "score": 100,
       "reasons": [
         {
-          "title": "Ataki paniki i złamania – szpital w Wenezueli leczy ofiary trzęsienia ziemi",
-          "url": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News"
-        },
-        {
           "title": "Trzęsienia ziemi w Wenezueli: liczba ofiar śmiertelnych ponownie wzrosła do ponad 1400",
           "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
           "source": "The Guardian"
+        },
+        {
+          "title": "Ataki paniki i złamania – szpital w Wenezueli leczy ofiary trzęsienia ziemi",
+          "url": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News"
         },
         {
           "title": "12 godzin z wenezuelskimi lekarzami w poszukiwaniu ocalałych z trzęsienia ziemi",
