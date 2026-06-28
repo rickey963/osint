@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T18:31:32Z",
+  "last_updated": "2026-06-28T18:41:15Z",
   "poland": [
     {
       "title": "OpenAI chce się wyrwać z uścisku Nvidii. Nie jako jedyne",
@@ -194,12 +194,12 @@
       "summary": "Polska przygotowuje się do szczytu NATO w Ankarze. Wśród tematów najważniejszych dla Ministerstwa Obrony Narodowej Władysław Kosiniak-Kamysz wymienił budowę wspólnej sieci rurociągów oraz przeniesienie potencjału produkcji zbrojeniowej do Europy. — Polska ma tutaj swoje ambicje: być hubem produkcyjnym, hubem serwisowym — zauważył."
     },
     {
-      "title": "Karambol na S3. Jedna osoba nie żyje, trzy zostały ranne",
+      "title": "Karambol na S3. Jedna osoba nie żyje, pięć zostało rannych",
       "url": "https://wiadomosci.gazeta.pl/polska/7,198073,32882907,karambol-na-s3-jedna-osoba-nie-zyje-trzy-zostaly-ranne.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-06-28T15:09:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
-      "summary": "Na drodze ekspresowej S3 między węzłami Myślibórz i Pyrzyce zderzyły się cztery samochody osobowe. W wypadku zginęła jedna osoba, a pięć zostało rannych."
+      "summary": "Na drodze ekspresowej S3 między węzłami Myślibórz i Pyrzyce zderzyły się dwa samochody osobowe. W wypadku zginęła jedna osoba, a pięć zostało rannych."
     },
     {
       "title": "Coraz więcej nadmiarowego prądu. Te inwestycje będą kluczowe, żeby Polska nie traciła na eksporcie",
@@ -766,9 +766,17 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualności na żywo z Bliskiego Wschodu: Ataki handlowe USA i Iranu z kilkoma oznakami deeskalacji",
+      "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+      "date": "2026-06-28T18:28:03Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Prezydent Trump i irańska Gwardia Rewolucyjna wymienili groźby, a sojusznicy USA w Zatoce Perskiej oświadczyli, że przechwycili irańskie drony, gdy działania wojenne rozpoczęły się czwarty dzień."
+    },
+    {
       "title": "Aktualności na żywo z Wenezueli: Ratownicy walczą z wstrząsami wtórnymi w poszukiwaniu ocalałych",
       "url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
-      "date": "2026-06-28T18:06:24Z",
+      "date": "2026-06-28T18:26:21Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Ponad trzy dni po bliźniaczych trzęsieniach ziemi, które spustoszyły wybrzeże Wenezueli, akcja ratunkowa stanęła w obliczu chaosu i opóźnień, ponieważ szanse na odnalezienie ocalałych malały."
@@ -780,14 +788,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": ""
-    },
-    {
-      "title": "Aktualności na żywo z Bliskiego Wschodu: Ataki handlowe USA i Iranu z kilkoma oznakami deeskalacji",
-      "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
-      "date": "2026-06-28T17:42:27Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Prezydent Trump i irańska Gwardia Rewolucyjna wymienili groźby, a sojusznicy USA w Zatoce Perskiej oświadczyli, że przechwycili irańskie drony, gdy działania wojenne rozpoczęły się czwarty dzień."
     },
     {
       "title": "Dziesiątki psów przyłączają się do poszukiwań ocalałych z trzęsienia ziemi w Wenezueli",
@@ -820,6 +820,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Do zdarzenia doszło w pobliżu obiektu Ras Tanura na wschodzie kraju, kluczowego węzła eksportu ropy transportowanej przez Cieśninę Ormuz."
+    },
+    {
+      "title": "Iraccy urzędnicy, w tym prawodawcy, aresztowani pod zarzutem korupcji podczas nocnego nalotu – AP News",
+      "url": "https://apnews.com/article/iraq-arrests-corruption-eebff7c8229d69ffd48d280014407fe1",
+      "date": "2026-06-28T15:06:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Iraccy urzędnicy, w tym prawodawcy, aresztowani pod zarzutem korupcji podczas nocnej nalotu AP News."
     },
     {
       "title": "Oto, co warto wiedzieć o starciu w cieśninie Ormuz",
@@ -894,14 +902,6 @@
       "summary": "Naród środkowoazjatycki agresywnie zabiega o względy Waszyngtonu prezydenta Trumpa, aby zrównoważyć jego potężnych sąsiadów, Rosję i Chiny."
     },
     {
-      "title": "Iraccy urzędnicy, w tym prawodawcy, aresztowani pod zarzutem korupcji podczas nocnego nalotu – AP News",
-      "url": "https://apnews.com/article/iraq-arrests-corruption-eebff7c8229d69ffd48d280014407fe1",
-      "date": "2026-06-28T08:11:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Iraccy urzędnicy, w tym prawodawcy, aresztowani pod zarzutem korupcji podczas nocnej nalotu AP News."
-    },
-    {
       "title": "Frustracja rośnie w Wenezueli po trzęsieniu ziemi, w którym zginęło 1430 osób – AP News",
       "url": "https://apnews.com/article/earthquakes-venezuela-rescues-survivors-92a3d6c13c0f9af9c1bfb4ff6d041254",
       "date": "2026-06-28T03:32:00Z",
@@ -940,14 +940,6 @@
       "source": "Associated Press",
       "confirmed_by": 2,
       "summary": "Europa Środkowa wariuje po pobiciu rekordów ciepła w Szwajcarii, Danii i Czechach AP News."
-    },
-    {
-      "title": "Bojownik wjeżdża pojazdem wypełnionym materiałami wybuchowymi w kwaterę główną paramilitarnej w Pakistanie – AP News",
-      "url": "https://apnews.com/article/pakistan-militants-attack-paramilitary-rangers-headquarters-karachi-c587c48d9bceba758ede65b34bea75cd",
-      "date": "2026-06-27T18:20:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Bojownik wjeżdża pojazdem wypełnionym materiałami wybuchowymi w kwaterę główną paramilitarnej agencji AP News w Pakistanie."
     },
     {
       "title": "Tysiące Vesp zalewa historyczne centrum Rzymu, aby uczcić 80. rocznicę powstania kultowej hulajnogi - AP News",
@@ -1004,9 +996,25 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Komisja Trumpa w obszernym projekcie raportu AP News wzywa do „budowania mostów” między kościołem a państwem."
+    },
+    {
+      "title": "DC zawarło ugodę sądową w sprawie mężczyzny zatrzymanego podczas protestu przeciwko patrolowi żołnierzy śpiewającym piosenkę Dartha Vadera – AP News",
+      "url": "https://apnews.com/article/darth-vader-theme-song-national-guard-protest-f7914320bd80612a90b92ca2769e6532",
+      "date": "2026-06-26T20:47:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "DC zawarło ugodę sądową w sprawie mężczyzny zatrzymanego podczas protestu przeciwko patrolowi żołnierzy za pomocą piosenki Dartha Vadera AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Rząd Australii twierdzi, że planuje podwoić maksymalną karę dla każdej firmy z mediów społecznościowych łamiącej przepisy dotyczące minimalnego wieku i przyznać więcej uprawnień organom wykonawczym (Jackson Chen/Engadget)",
+      "url": "https://www.techmeme.com/260628/p10#a260628p10",
+      "date": "2026-06-28T18:25:04Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Jackson Chen / Engadget: Rząd Australii twierdzi, że planuje podwoić maksymalną karę dla dowolnej firmy z branży mediów społecznościowych, która złamie przepisy dotyczące minimalnego wieku, i przyznać więcej uprawnień organom wykonawczym &mdash; Kara może obecnie wynieść 99 milionów AUD, czyli 68 milionów dolarów. &mdash; Po tym, jak jako pierwszy na świecie wdrożyłem &hellip;."
+    },
     {
       "title": "Pękła historyczna bariera. W Polsce odnotowano 40,5 stopnia C, padł absolutny rekord ciepła",
       "url": "https://spidersweb.pl/2026/06/w-polsce-odnotowano-405-stopnia-c-padl-absolutny-rekord-ciepla.html",
@@ -1061,7 +1069,7 @@
       "date": "2026-06-28T16:58:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48709187 Punkty: 34 # Komentarze: 3."
+      "summary": "Adres URL artykułu: http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48709187 Punkty: 37 # Komentarze: 3."
     },
     {
       "title": "Pokaż HN: Książki bez DRM",
@@ -1069,7 +1077,7 @@
       "date": "2026-06-28T16:58:56Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Po kilku latach obowiązkowych blokad DRM w większości komercyjnych źródeł książek, autorzy mają teraz wybór, jeśli chodzi o DRM w swoich książkach. Wybierz autorów i książki wolne od DRM lub pobierz klasyki wolne od DRM, które nie są objęte prawami autorskimi.https://frequal.com/Perspectives/DrmFreeAuthors.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48709186 Punkty: 12 # Komentarze: 2."
+      "summary": "Po kilku latach obowiązkowych blokad DRM w większości komercyjnych źródeł książek, autorzy mają teraz wybór, jeśli chodzi o DRM w swoich książkach. Wybierz autorów i książki wolne od DRM lub pobierz klasyki wolne od DRM, które nie są objęte prawami autorskimi.https://frequal.com/Perspectives/DrmFreeAuthors.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48709186 Punkty: 13 # Komentarze: 3."
     },
     {
       "title": "Czy to jeszcze gra, czy już żart? 3 tys. zł za 10 minut grania",
@@ -1085,7 +1093,7 @@
       "date": "2026-06-28T16:35:19Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://antoine.fi/mri-analytic-using-claude-code-opus Adres URL komentarzy: https://news.ycombinator.com/item?id=48708941 Punkty: 95 # Komentarze: 122."
+      "summary": "Adres URL artykułu: https://antoine.fi/mri-analytic-using-claude-code-opus Adres URL komentarzy: https://news.ycombinator.com/item?id=48708941 Punkty: 109 # Komentarze: 151."
     },
     {
       "title": "Australijska firma Firmus współpracuje z firmą Nvidia przy budowie pierwszego centrum danych w Batam w Indonezji; kampus fabryczny Nvidia DSX AI o mocy 360 MW został opracowany wspólnie z DayOne (Bloomberg)",
@@ -1101,7 +1109,7 @@
       "date": "2026-06-28T16:28:50Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "https://x.com/wrathofgnon/status/1250287741247426565, https://xcancel.com/wrathofgnon/status/1250287741247426565 Adres URL komentarzy: https://news.ycombinator.com/item?id=48708859 Punkty: 46 # Komentarze: 18."
+      "summary": "https://x.com/wrathofgnon/status/1250287741247426565, https://xcancel.com/wrathofgnon/status/1250287741247426565 Adres URL komentarzy: https://news.ycombinator.com/item?id=48708859 Punkty: 48 # Komentarze: 18."
     },
     {
       "title": "Tokenmaxxing umarł, niech żyje Tokenmaxxing",
@@ -1109,7 +1117,7 @@
       "date": "2026-06-28T16:24:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing Adres URL komentarzy: https://news.ycombinator.com/item?id=48708795 Punkty: 34 # Komentarze: 35."
+      "summary": "Adres URL artykułu: https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing Adres URL komentarzy: https://news.ycombinator.com/item?id=48708795 Punkty: 41 # Komentarze: 45."
     },
     {
       "title": "Refleksje na temat inżynierii oprogramowania w dobie sztucznej inteligencji",
@@ -1117,7 +1125,7 @@
       "date": "2026-06-28T16:17:38Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48708721 Punkty: 44 # Komentarze: 8."
+      "summary": "Adres URL artykułu: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48708721 Punkty: 52 # Komentarze: 13."
     },
     {
       "title": "Badanie płytek drukowanych procesora I/O promu kosmicznego",
@@ -1125,7 +1133,7 @@
       "date": "2026-06-28T16:16:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48708700 Punkty: 42 # Komentarze: 7."
+      "summary": "Adres URL artykułu: https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48708700 Punkty: 46 # Komentarze: 7."
     },
     {
       "title": "Webb uchwycił zderzenie sześciu galaktyk. Powstaje kosmiczny gigant",
@@ -1310,14 +1318,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Burza na Słońcu, mniej deszczu na Ziemi. Dziwny trop w danych zbieranych przez 67 lat."
-    },
-    {
-      "title": "Wentylator kolumnowy - polecane modele. Które warto kupić, a które omijać szerokim łukiem?",
-      "url": "https://spidersweb.pl/2026/06/wentylator-kolumnowy-polecane-modele.html",
-      "date": "2026-06-28T07:00:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Wentylator kolumnowy - polecane modele. Które warto kupić, a które omijać szerokim łukiem?"
     },
     {
       "title": "Profil Jacoba Andreou, 33-letniego byłego dyrektora Snapa, kierującego skonsolidowanym zespołem Copilot firmy Microsoft, mającym na celu dogonienie OpenAI i Anthropic (Sebastian Herrera/Fortune)",
@@ -1666,6 +1666,14 @@
       "summary": "ZAWARTOŚĆ PARTNERÓW: Integracja 50G-PON, FTTR-B, Wi-Fi 7 i inteligentnego planowania AI w celu zapewnienia dwukierunkowej prędkości 10 Gb/s z bardzo niskim opóźnieniem 0,1 ms na całym Uniwersytecie Południowo-Wschodnim."
     },
     {
+      "title": "Kampania Miasma zatruwa pakiety ponad 20 npm, poluje na tajemnice programistów",
+      "url": "https://www.theregister.com/security/2026/06/26/miasma-campaign-poisons-20-plus-npm-packages-hunts-for-developer-secrets/5262886",
+      "date": "2026-06-26T12:18:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Microsoft twierdzi, że celem najnowszego ataku są pakiety Leo Platform i RStreams, zbierając kredyty i atakując większą liczbę opiekunów."
+    },
+    {
       "title": "Nowa usterka jądra systemu Linux DirtyClone umożliwia lokalnym użytkownikom uzyskanie uprawnień roota poprzez sklonowane pakiety",
       "url": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
       "date": "2026-06-26T11:51:35Z",
@@ -1800,14 +1808,6 @@
       "source": "BleepingComputer",
       "confirmed_by": 1,
       "summary": "Podmioty zagrażające w coraz większym stopniu wykorzystują Shop, aplikację Shopify do śledzenia zamówień, dodając fałszywe potwierdzenia zakupu do historii zamówień użytkowników, aby nakłonić ich do podania wrażliwych danych lub zainstalowania oprogramowania do zdalnego dostępu. [...]."
-    },
-    {
-      "title": "Microsoft po cichu przedłuża bezpłatną pomoc techniczną dla systemu Windows 10 ESU do października 2027 r",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
-      "date": "2026-06-25T18:29:20Z",
-      "source": "BleepingComputer",
-      "confirmed_by": 1,
-      "summary": "Firma Microsoft po cichu przedłużyła swój bezpłatny program rozszerzonych aktualizacji zabezpieczeń systemu Windows 10 (ESU) dla konsumentów o dodatkowy rok, dzięki czemu zarejestrowane urządzenia mogą w dalszym ciągu otrzymywać aktualizacje zabezpieczeń do 12 października 2027 r. [...]."
     }
   ],
   "finance": [
@@ -1988,6 +1988,14 @@
       "summary": "\"Absurdalna prezentacja bez ładu u składu\". Kosmiczne wyceny start-upów AI Forbes."
     },
     {
+      "title": "Wiadomości RBIFL5SILVE5 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wiadomosci/RBIFL5SILVE5",
+      "date": "2026-06-28T02:43:39Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości RBIFL5SILVE5 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+    },
+    {
       "title": "Notowania historyczne RBIFS10SILVE17 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania-historyczne/RBIFS10SILVE17",
       "date": "2026-06-27T21:50:37Z",
@@ -2052,14 +2060,6 @@
       "summary": "Notowania historyczne RBITSSILVE53 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
-      "title": "Wiadomości RBIFS10GOLD9 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/RBIFS10GOLD9",
-      "date": "2026-06-27T16:47:54Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości RBIFS10GOLD9 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
-    },
-    {
       "title": "Komunikat EBI Maxipizza SA (maxipizza): Powołanie osoby zarządzającej lub nadzorującej - stockwatch.pl",
       "url": "https://www.stockwatch.pl/komunikaty-spolek/maxipizza,powolanie-osoby-zarzadzajacej-lub-nadzorujace-2026-06-27,ebi,20260627_145403_0000003965",
       "date": "2026-06-27T12:54:03Z",
@@ -2093,7 +2093,7 @@
     },
     {
       "title": "Kronika Sportowa - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513255_Kronika-Sportowa.aspx",
+      "url": "https://www.stockwatch.pl/forum/wpisy-12392p71_Kronika-Sportowa.aspx",
       "date": "2026-06-27T07:50:52Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
