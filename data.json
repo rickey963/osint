@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-28T20:57:59Z",
+  "last_updated": "2026-06-28T21:02:57Z",
   "poland": [
+    {
+      "title": "Wyjeżdżamy spontanicznie czy z planem?",
+      "url": "https://turystyka.rp.pl/tendencje/art44716881-wyjezdzamy-spontanicznie-czy-z-planem",
+      "date": "2026-06-28T20:54:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Weekendowy wypad może kojarzyć się z szybką decyzją w piątkowe popołudnie. Jednak rzeczywistość wygląda inaczej: preferujemy wyjazdy zaplanowane. Jedynie 8 proc."
+    },
     {
       "title": "Biznes w cieniu ptasiej grypy",
       "url": "https://www.rp.pl/rolnictwo/art44716871-biznes-w-cieniu-ptasiej-grypy",
@@ -82,14 +90,6 @@
       "summary": "Gwałtowne burze przechodzą przez Polskę. Grad do 3 cm i zniszczenia Polskie Radio 24."
     },
     {
-      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
-      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
-      "date": "2026-06-28T19:33:14Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
-    },
-    {
       "title": "Mężczyzna utonął, ratując dwoje dzieci w Międzywodziu. Ratownicy alarmują",
       "url": "https://wiadomosci.gazeta.pl/polska/7,198073,32883200,mezczyzna-utonal-ratujac-dwoje-dzieci-w-miedzywodziu-ratownicy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-06-28T19:24:00Z",
@@ -128,14 +128,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Donald Trump to narcyz, który chce być prezydentem USA, by zarabiać na tym miliardy – przekonywał na wiecu Partii Demokratycznej Joe Biden. Były prezydent Stanów Zjednoczonych zarzucił obecnemu korupcję, próżność oraz niszczenie NATO."
-    },
-    {
-      "title": "Lotnisko Chopina wyłączyło z ruchu jedną z dróg startowych",
-      "url": "https://www.rp.pl/wypadki/art44716721-lotnisko-chopina-wylaczylo-z-ruchu-jedna-z-drog-startowych",
-      "date": "2026-06-28T18:44:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Na Lotnisku Chopina w Warszawie wyłączono z użytkowania jedną z dwóch dróg startowych po wykryciu spękań podczas rutynowej kontroli. Operacje lotnicze odbywają się obecnie z wykorzystaniem drugiej drogi, a zarządzający portem ostrzegają, że pasażerowie mogą spodziewać się niewielkich opóźnień."
     },
     {
       "title": "Uratował dwoje dzieci, sam nie przeżył. Tragedia w Międzywodziu",
@@ -314,6 +306,14 @@
       "summary": "Rekord ciepła 65 km od granicy z Polską. \"Po raz pierwszy w historii\" Polskie Radio 24."
     },
     {
+      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
+      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
+      "date": "2026-06-28T13:10:18Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
+    },
+    {
       "title": "Alert RCB dla pięciu województw. Lasy są jak beczka prochu - Polskie Radio 24",
       "url": "https://polskieradio24.pl/pogoda/alert-rcb-dla-pieciu-wojewodztw-lasy-sa-jak-beczka-prochu",
       "date": "2026-06-28T10:15:31Z",
@@ -394,12 +394,12 @@
       "summary": "Hat-trick Dembele, sensacyjny awans Republiki Zielonego Przylądka. Podsumowanie piątku Polska Agencja Prasowa SA."
     },
     {
-      "title": "- Polska Agencja Prasowa SA",
-      "url": "https://www.pap.pl/aktualnosci/komunikat?page=2",
-      "date": "2026-06-27T06:17:53Z",
+      "title": "Małopolskie/ Pożar hali produkcyjnej w Mszanie Dolnej opanowany - PAP - serwis wideo",
+      "url": "https://wideo.pap.pl/pap-media,101/malopolskie-pozar-hali-produkcyjnej-w-mszanie-dolnej-opanowany-,92845",
+      "date": "2026-06-27T09:12:00Z",
       "source": "PAP",
       "confirmed_by": 1,
-      "summary": "Polska Agencja Prasowa SA."
+      "summary": "Małopolskie/ Pożar hali produkcyjnej w Mszanie Dolnej opanowany PAP - serwis wideo."
     }
   ],
   "world_security": [
@@ -768,10 +768,18 @@
     {
       "title": "Aktualności na żywo z Bliskiego Wschodu: spór o cieśninę pogłębia się w wyniku ataków handlowych USA i Iranu",
       "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
-      "date": "2026-06-28T20:43:04Z",
+      "date": "2026-06-28T20:56:13Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Czwartego dnia działań wojennych Iran oświadczył, że za pomocą dronów i rakiet obrał za cel bazę morską USA w Bahrajnie i bazę lotniczą Kuwejtu. Nie zgłoszono żadnych większych szkód ani ofiar."
+    },
+    {
+      "title": "Oto najnowsze.",
+      "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz/heres-the-latest",
+      "date": "2026-06-28T20:56:12Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": ""
     },
     {
       "title": "Aktualizacje na żywo z Wenezueli: Okno poszukiwania ocalałych zamyka się, gdy ratownicy walczą z wstrząsami wtórnymi",
@@ -820,14 +828,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Iran postrzega swoją kontrolę nad Cieśniną Ormuz jako kluczową dźwignię w rozmowach pokojowych ze Stanami Zjednoczonymi. Wydaje się, że jest skłonna zaryzykować zawieszenie broni, aby utrzymać tę władzę."
-    },
-    {
-      "title": "Oto najnowsze.",
-      "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz/heres-the-latest",
-      "date": "2026-06-28T19:30:28Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": ""
     },
     {
       "title": "Głęboko pod gruzami ratownicy odnajdują żywego 11-letniego chłopca",
@@ -2076,14 +2076,6 @@
       "summary": "Komunikat EBI Maxipizza SA (maxipizza): Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach) stockwatch.pl."
     },
     {
-      "title": "Możliwy Pat wyborczy i jego wpływ na giełdę. - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513240_Mozliwy-Pat-wyborczy-i-jego-wplyw-na-gielde.aspx",
-      "date": "2026-06-27T11:54:49Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Możliwy Pat wyborczy i jego wpływ na giełdę. stockwatch.pl."
-    },
-    {
       "title": "Masz pieniądze na koncie? Tracisz więcej, niż myślisz",
       "url": "https://www.money.pl/pieniadze/masz-pieniadze-na-koncie-tracisz-wiecej-niz-myslisz-7301354780406849v.html",
       "date": "2026-06-27T11:35:25Z",
@@ -2108,14 +2100,6 @@
       "summary": "W poszukiwaniu sygnałów - 27 czerwca 2026 - Indeksy GPW na wsparciach Ewa sob., 27.06.2026 Wstęp Indeksy GPW, #DAX, Indeksy USA, #Nikkei, #KOSPI, #Ropa, #Miedź, #Złoto, #Usdpln, #Eurpln, Spółki wcześniej sygnalizowane, Obserwowane wykresy, Kącik życzeń W poszukiwaniu sygnałów - 27 czerwca 2026 - Indeksy GPW na wsparciach Ewa."
     },
     {
-      "title": "Fundacja Rodzinna Rodziny Wysmyk - Portfel inwestora - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/inwestor/fundacja-rodzinna-rodziny-wysmyk.aspx",
-      "date": "2026-06-26T23:47:56Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Fundacja Rodzinna Rodziny Wysmyk - Portfel inwestora stockwatch.pl."
-    },
-    {
       "title": "Komunikat EBI Letus Capital SA (letus): Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach) - stockwatch.pl",
       "url": "https://www.stockwatch.pl/komunikaty-spolek/letus,informacje-o-walnym-zgromadzeniu-tresc-uchw-2026-06-27,ebi,20260627_001023_0000003961",
       "date": "2026-06-26T22:10:23Z",
@@ -2124,12 +2108,28 @@
       "summary": "Komunikat EBI Letus Capital SA (letus): Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach) stockwatch.pl."
     },
     {
+      "title": "Komunikat EBI Bras SA (bras): Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/bras,informacje-o-walnym-zgromadzeniu-informacje-2026-06-26,ebi,20260626_235919_0000003960",
+      "date": "2026-06-26T21:59:19Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI Bras SA (bras): Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały stockwatch.pl."
+    },
+    {
       "title": "Hakerzy podszywają się pod rekruterów. Irańska grupa celuje w specjalistów IT",
       "url": "https://300gospodarka.pl/news/falszywe-rekrutacje-nowe-narzedzia-cyberprzestepcow",
       "date": "2026-06-26T21:20:09Z",
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Irańska grupa hakerska Screening Serpens prowadzi kampanię cyberszpiegowską wymierzoną w specjalistów z branży technologicznej i obronnej – wynika z analizy Unit 42, zespołu Palo Alto Networks. Przestępcy podszywają się pod rekruterów i wysyłają wiarygodnie wyglądające oferty pracy. W tle są napięcia geopolityczne, ale dla firm najważniejszy jest inny wniosek: fałszywe rekrutacje mogą stać się początkiem ataku na organizację."
+    },
+    {
+      "title": "powołanie prezesa zarządu - komunikat spółki Black Point SA (blackpoin) - komunikat EBI - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/blackpoin,powolanie-prezesa-zarzadu-2026-06-26,ebi,20260626_225234_0000003959",
+      "date": "2026-06-26T20:52:34Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "powołanie prezesa zarządu - komunikat spółki Black Point SA (blackpoin) - komunikat EBI stockwatch.pl."
     },
     {
       "title": "Brexit miał dać niezależność. Po dekadzie widać rachunek dla gospodarki",
@@ -2818,51 +2818,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25628.78,
+      25627.42,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26791.13,
+      26789.71,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26937.83,
+      26936.4,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27182.36,
+      27180.91,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27817.02,
+      27815.54,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27853.0,
+      27851.51,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28097.26,
+      28095.76,
       27354.94,
       27400.36,
       27412.11,
-      28497.99,
+      28496.48,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27759.91,
+      27758.43,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27939.32,
+      27937.83,
       27686.17,
       27404.78,
       27351.97,
@@ -2871,7 +2871,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27648.17
+      27646.7
     ],
     "currency": "PLN"
   }
