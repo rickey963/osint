@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-06-28T12:32:50Z",
+  "last_updated": "2026-06-28T12:42:16Z",
   "poland": [
+    {
+      "title": "Login do Facebooka i Messangera to dane osobowe. Ważne orzeczenie NSA",
+      "url": "https://www.rp.pl/dane-osobowe/art44694931-login-do-facebooka-i-messangera-to-dane-osobowe-wazne-orzeczenie-nsa",
+      "date": "2026-06-28T12:32:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Pracownik po odejściu z pracy zostawił dane logowania do Facebooka, pozwalające też na wgląd w korespondencję na Messengerze. Tym sposobem ujawniono poufne rozmowy m.in. o jego przełożonym z innymi pracownikami."
+    },
+    {
+      "title": "Polisa od rezygnacji lub przerwania podróży raczej nie zadziała z powodu ekstremalnych upałów",
+      "url": "https://www.rp.pl/ubezpieczenia-i-odszkodowania/art44714551-polisa-od-rezygnacji-lub-przerwania-podrozy-raczej-nie-zadziala-z-powodu-ekstremalnych-upalow",
+      "date": "2026-06-28T12:22:47Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Wykupienie ubezpieczenia kosztów rezygnacji czy przerwania imprezy turystycznej nie oznacza, że ubezpieczyciel pokryje koszty, gdy po prostu się rozmyślimy."
+    },
     {
       "title": "Katastrofu samolotu we Francji. Nie żyje 11 osób",
       "url": "https://www.rp.pl/wypadki/art44714571-katastrofu-samolotu-we-francji-nie-zyje-11-osob",
@@ -138,28 +154,12 @@
       "summary": "Jeśli chcesz spędzić urlop nad polskim morzem bez patrzenia na koszty, jeść w dobrych knajpach i spać w luksusowych hotelach, to mamy dla ciebie kilka podpowiedzi. Sprawdziliśmy za ciebie, którą część naszego wybrzeża powinieneś wybrać."
     },
     {
-      "title": "Psycholog: Podróże nie zawsze kształcą. Aby coś zobaczyć, trzeba coś wiedzieć",
-      "url": "https://turystyka.rp.pl/zanim-wyjedziesz/art44714431-psycholog-podroze-nie-zawsze-ksztalca-aby-cos-zobaczyc-trzeba-cos-wiedziec",
-      "date": "2026-06-28T10:55:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Choć podróże uznaje się za kształcące, sam kontakt z inną kulturą nie gwarantuje rozwoju. Według psychologa Konrada Schroedera, aby z wyjazdu przywieźć coś więcej niż zdjęcia, potrzebna jest ciekawość, otwartość i refleksja – podkreśla."
-    },
-    {
       "title": "To jeden z najtańszych i najpopularniejszych kierunków wakacyjnych. Porównaliśmy ceny",
       "url": "https://businessinsider.com.pl/poradnik-finansowy/egipt-na-wakacje-kursy-walut-i-ceny-robia-roznice/j8d0q9n",
       "date": "2026-06-28T10:48:44Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Koszty życia i ceny w Egipcie są niskie, a korzystny kurs tamtejszej waluty (na najniższych poziomach od lat) sprawia, że wakacje są tam bardzo przystępne. Sprawdziliśmy konkretne stawki i podpowiadamy, jakie \"kieszonkowe\" wziąć na urlop."
-    },
-    {
-      "title": "Magdalena Cielecka po 24 godzinach performansu: strażak skradł moje serce",
-      "url": "https://www.rp.pl/kultura/art44714441-magdalena-cielecka-po-24-godzinach-performansu-strazak-skradl-moje-serce",
-      "date": "2026-06-28T10:47:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Magdalena Cielecka podsumowała 24 godziny na scenie w performansie „The Second Woman”, w którym na Malta Festival, w grała scenę miłości lub rozstania z setką partnerów wyłonionych w castingu."
     },
     {
       "title": "Kurs JPY/PLN 25 czerwca 2026 r.",
@@ -404,12 +404,20 @@
   ],
   "world_security": [
     {
-      "title": "Lokalne władze podają, że jedenaście osób zginęło w katastrofie lotniczej w północno-wschodniej Francji – Reuters",
-      "url": "https://www.reuters.com/world/europe/french-authorities-responding-incident-involving-civilian-aircraft-2026-06-28/",
-      "date": "2026-06-28T11:50:27Z",
+      "title": "Władze podają, że 11 osób zginęło w katastrofie cywilnego samolotu w północno-wschodniej Francji",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-28T12:10:19Z",
+      "source": "BBC News",
+      "confirmed_by": 2,
+      "summary": "Lokalne władze poinformowały, że w wypadku zginął pilot i 10 pasażerów."
+    },
+    {
+      "title": "Jak podaje państwowa agencja informacyjna, w katastrofie helikoptera Saudi Aramco zginęło 14 obywateli – podaje Reuters",
+      "url": "https://www.reuters.com/world/saudi-aramco-helicopter-crash-kills-14-state-new-agency-says-2026-06-28/",
+      "date": "2026-06-28T12:09:39Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Lokalne władze podają Reuters, że jedenaście osób zginęło w katastrofie lotniczej w północno-wschodniej Francji."
+      "summary": "Jak podaje państwowa agencja informacyjna Reuters, w katastrofie helikoptera Saudi Aramco zginęło 14 obywateli."
     },
     {
       "title": "Rekordy temperatur spadają w całej Europie wraz z przemieszczaniem się fali upałów na wschód",
@@ -564,14 +572,6 @@
       "summary": "Podwójne kary będą miały niewielki skutek, jeśli platformy nie zostaną pociągnięte do odpowiedzialności za zamieszczane przez siebie treści. Otrzymuj e-maile z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Rząd musi przejść w „tryb egzekwowania” i stawić czoła gigantom technologicznym w związku z zakazem mediów społecznościowych po podwojeniu kar – ostrzegają eksperci. Rząd federalny ogłosił w niedzielę, że wprowadzi nowe przepisy przewidujące podwojenie kar finansowych do 99 mln dolarów dla platform, które złamią zakaz mediów społecznościowych, oraz wzmocni pozycję komisarz ds. e-bezpieczeństwa, Julie Inman Grant. uprawnienia do gromadzenia informacji. Kontynuuj czytanie..."
     },
     {
-      "title": "Późny dramat przekreśla nadzieje Iranu na pierwszy w historii awans do fazy pucharowej Pucharu Świata – Reuters",
-      "url": "https://www.reuters.com/sports/soccer/late-drama-ends-irans-hopes-reaching-world-cup-knockouts-first-time-2026-06-28/",
-      "date": "2026-06-28T05:34:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Późny dramat przekreśla nadzieje Iranu na po raz pierwszy w historii nokaut w Pucharze Świata Reuters."
-    },
-    {
       "title": "Trzęsienia ziemi w Wenezueli: liczba ofiar śmiertelnych ponownie wzrosła do ponad 1400",
       "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
       "date": "2026-06-28T05:27:30Z",
@@ -610,6 +610,14 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Izraelskie wojsko twierdzi, że zabiło bojowników Hezbollahu i zaatakowało wyrzutnię w rejonie Nabatieh Reuters."
+    },
+    {
+      "title": "Austria i Algieria awansują do 1/8 finału Pucharu Świata, Iran odpada – Reuters",
+      "url": "https://www.reuters.com/sports/soccer/austria-algeria-advance-world-cup-round-32-iran-eliminated-2026-06-28/",
+      "date": "2026-06-28T04:21:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Austria i Algieria awansują do 1/8 finału Pucharu Świata, Iran wyeliminował Reuters."
     },
     {
       "title": "Wskaźniki rozliczenia aukcji nadal oscylują poniżej 50% – i tak się stało",
@@ -732,14 +740,6 @@
       "summary": "W Budapeszcie odbył się pierwszy marsz Równości od zakończenia 16-letniego rządu byłego premiera Viktora Orbana, który zgromadził tysiące osób, aby świętować."
     },
     {
-      "title": "Rodziny wzywają bliskich uwięzionych pod gruzami przez trzęsienia ziemi w Wenezueli",
-      "url": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-27T21:12:51Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "W La Guaira zdesperowane rodziny czuwają pod budynkami, w których obawiają się, że ich bliscy zostali uwięzieni, ale stoją przed niemożliwym do wykonania zadaniem, polegającym na przeniesieniu ciężkiego gruzu."
-    },
-    {
       "title": "Bahrajn potępia irański atak dronów typu „wet za wet” jako „rażące zagrożenie”",
       "url": "https://www.theguardian.com/world/2026/jun/27/bahrain-iran-drone-attack-overnight-us-strikes-strait-hormuz",
       "date": "2026-06-27T16:49:24Z",
@@ -766,9 +766,17 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualności na żywo z Wenezueli: Ratownicy walczą z wstrząsami wtórnymi w poszukiwaniu ocalałych",
+      "url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
+      "date": "2026-06-28T12:28:53Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Ponad trzy dni po bliźniaczych trzęsieniach ziemi, które spustoszyły wybrzeże Wenezueli, akcja ratunkowa stanęła w obliczu chaosu i opóźnień, ponieważ szanse na odnalezienie ocalałych malały."
+    },
+    {
       "title": "Aktualności na żywo z Bliskiego Wschodu: Ataki handlowe USA i Iranu z kilkoma oznakami deeskalacji",
       "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
-      "date": "2026-06-28T12:17:55Z",
+      "date": "2026-06-28T12:28:16Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Prezydent Trump i irańska Gwardia Rewolucyjna wymienili groźby, a sojusznicy USA w Zatoce Perskiej oświadczyli, że przechwycili irańskie drony, gdy działania wojenne rozpoczęły się czwarty dzień."
@@ -782,17 +790,9 @@
       "summary": "Porozumienie między Stanami Zjednoczonymi a Kazachstanem zapewniło grupie amerykańskich inwestorów powiązanych z prezydentem i sekretarzem handlu dostęp do jednych z największych na świecie niewykorzystanych zasobów wolframu."
     },
     {
-      "title": "Aktualności na żywo z Wenezueli: Ratownicy walczą z wstrząsami wtórnymi w poszukiwaniu ocalałych",
-      "url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
-      "date": "2026-06-28T11:34:36Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Ponad trzy dni po bliźniaczych trzęsieniach ziemi, które spustoszyły wybrzeże Wenezueli, akcja ratunkowa stanęła w obliczu chaosu i opóźnień, ponieważ szanse na odnalezienie ocalałych malały."
-    },
-    {
       "title": "W Europie Zachodniej zaczynają się upały, podczas gdy Europa Środkowa zaczyna się piec",
       "url": "https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html",
-      "date": "2026-06-28T11:26:26Z",
+      "date": "2026-06-28T11:26:27Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Po dniach rekordowych temperatur w Europie Zachodniej, ekstremalne upały tam ustępują. Teraz Europę Środkową czekają dni niebezpiecznego upału."
@@ -990,20 +990,20 @@
       "summary": "Komisja Trumpa w obszernym projekcie raportu AP News wzywa do „budowania mostów” między kościołem a państwem."
     },
     {
-      "title": "Trump grozi 100% podatkiem na europejski import, jeśli kraje nałożą podatek na usługi cyfrowe – AP News",
-      "url": "https://apnews.com/article/trump-tariff-europe-d2007fee8ae733a15f240c5f83462c96",
-      "date": "2026-06-26T18:54:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Trump grozi 100% podatkiem na europejski import, jeśli kraje nałożą podatek na usługi cyfrowe AP News."
-    },
-    {
       "title": "Jak pomóc osobom dotkniętym trzęsieniem ziemi w Wenezueli – AP News",
       "url": "https://apnews.com/article/venezuela-earthquakes-red-cross-how-to-help-fc64bb65cd2da3c9206a37b74e89d3f7",
       "date": "2026-06-26T17:02:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Jak pomóc osobom dotkniętym trzęsieniem ziemi w Wenezueli AP News."
+    },
+    {
+      "title": "Trump grozi 100% podatkiem na europejski import, jeśli kraje nałożą podatek na usługi cyfrowe – AP News",
+      "url": "https://apnews.com/article/trump-tariff-europe-d2007fee8ae733a15f240c5f83462c96",
+      "date": "2026-06-26T16:44:23Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Trump grozi 100% podatkiem na europejski import, jeśli kraje nałożą podatek na usługi cyfrowe AP News."
     }
   ],
   "technology": [
@@ -1029,7 +1029,7 @@
       "date": "2026-06-28T11:55:08Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645 Adres URL komentarzy: https://news.ycombinator.com/item?id=48706554 Punkty: 5 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645 Adres URL komentarzy: https://news.ycombinator.com/item?id=48706554 Punkty: 9 # Komentarze: 2."
     },
     {
       "title": "Oura i Samsung będą mieć problem. Apple szykuje „iRing”",
@@ -1093,7 +1093,7 @@
       "date": "2026-06-28T09:53:58Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467 Adres URL komentarzy: https://news.ycombinator.com/item?id=48705910 Punkty: 12 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467 Adres URL komentarzy: https://news.ycombinator.com/item?id=48705910 Punkty: 22 # Komentarze: 1."
     },
     {
       "title": "Windows 11 w końcu przyspieszy. I nareszcie nie jest to preloading",
@@ -1261,7 +1261,7 @@
       "date": "2026-06-28T04:48:32Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/cfenollosa/bashblog Adres URL komentarzy: https://news.ycombinator.com/item?id=48704454 Punkty: 65 # Komentarze: 43."
+      "summary": "Adres URL artykułu: https://github.com/cfenollosa/bashblog Adres URL komentarzy: https://news.ycombinator.com/item?id=48704454 Punkty: 67 # Komentarze: 44."
     },
     {
       "title": "Science fiction na Netflixie. Te filmy warto nadrobić w wakacje!",
@@ -1285,7 +1285,7 @@
       "date": "2026-06-28T04:31:18Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/itsthelore/wayfinder-router Adres URL komentarzy: https://news.ycombinator.com/item?id=48704373 Punkty: 78 # Komentarze: 30."
+      "summary": "Adres URL artykułu: https://github.com/itsthelore/wayfinder-router Adres URL komentarzy: https://news.ycombinator.com/item?id=48704373 Punkty: 79 # Komentarze: 31."
     },
     {
       "title": "Źródła: Pracownicy Salesforce martwią się, że Claude Tag z Anthropic może kanibalizować Slackbota i zapewnić firmie zajmującej się sztuczną inteligencją większą przewagę nad branżą oprogramowania dla przedsiębiorstw (Laura Bratton/The Information)",
@@ -1301,7 +1301,7 @@
       "date": "2026-06-28T02:23:08Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep Adres URL komentarzy: https://news.ycombinator.com/item?id=48703759 Punkty: 272 # Komentarze: 74."
+      "summary": "Adres URL artykułu: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep Adres URL komentarzy: https://news.ycombinator.com/item?id=48703759 Punkty: 278 # Komentarze: 78."
     },
     {
       "title": "Najlepszą reakcją na błędy AI i szumy w Internecie jest Robin Williams",
@@ -1309,7 +1309,7 @@
       "date": "2026-06-28T01:28:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://jayacunzo.com/blog/your-move-chief Adres URL komentarzy: https://news.ycombinator.com/item?id=48703452 Punkty: 272 # Komentarze: 151."
+      "summary": "Adres URL artykułu: https://jayacunzo.com/blog/your-move-chief Adres URL komentarzy: https://news.ycombinator.com/item?id=48703452 Punkty: 276 # Komentarze: 151."
     },
     {
       "title": "Przekształcenie muzyki w obowiązek – tak zostałem muzykiem (2022)",
@@ -1317,7 +1317,7 @@
       "date": "2026-06-28T01:22:30Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48703418 Punkty: 50 # Komentarze: 17."
+      "summary": "Adres URL artykułu: https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48703418 Punkty: 52 # Komentarze: 18."
     },
     {
       "title": "Pokaż HN: Decomp Academy – Naucz się dekompilować gry GameCube do pasujących plików C",
@@ -2501,7 +2501,7 @@
     },
     {
       "name": "Iran",
-      "score": 73,
+      "score": 80,
       "reasons": [
         {
           "title": "Iran atakuje Bahrajn i Kuwejt po atakach USA i grozi wstrzymaniem rozmów o zakończeniu wojny – AP News",
@@ -2522,7 +2522,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 33,
+      "score": 37,
       "reasons": [
         {
           "title": "Donald Trump grozi unicestwieniem Iranu po strzelaninie krzyżowej w związku z kryzysem na Bliskim Wschodzie w Ormuz na żywo",
@@ -2543,7 +2543,7 @@
     },
     {
       "name": "Liban",
-      "score": 33,
+      "score": 37,
       "reasons": [
         {
           "title": "Donald Trump grozi unicestwieniem Iranu po strzelaninie krzyżowej w związku z kryzysem na Bliskim Wschodzie w Ormuz na żywo",
@@ -2564,7 +2564,7 @@
     },
     {
       "name": "Jemen",
-      "score": 9,
+      "score": 10,
       "reasons": [
         {
           "title": "Wojna cieni: jak użycie sił zastępczych przez Iran, Izrael i USA powoduje niestabilność na Bliskim Wschodzie",
