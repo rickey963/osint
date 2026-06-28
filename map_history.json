@@ -6,34 +6,34 @@
     "region": "Ukraina",
     "description": "Przywódca Rosji Władimir Putin przyznał, że po ukraińskich atakach na infrastrukturę naftową część regionów kraju zmaga się z problemami z dostawami paliw.",
     "url": "https://www.rp.pl/konflikty-zbrojne/art44716821-putin-przyznal-ze-rosja-ma-problemy-z-paliwem-po-atakach-ukrainy",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
     "lng": 34.47,
     "type": "conflict",
     "region": "Strefa Gazy / Izrael",
-    "description": "Izrael niszczy podziemną infrastrukturę Hezbollahu w południowym Libanie Reuters.",
-    "url": "https://www.reuters.com/world/middle-east/israel-destroys-hezbollah-underground-infrastructure-southern-lebanon-2026-06-28/",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "description": "W całym regionie panuje tendencja do rozbrojenia milicji i wzmocnienia władzy państwowej, jednak pokusa wykorzystania pełnomocników pozostaje.",
+    "url": "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east",
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "conflict|Iran": {
     "lat": 32.43,
     "lng": 53.69,
     "type": "conflict",
     "region": "Iran",
-    "description": "Trump grozi Iranowi: przestanie istnieć, jeśli nie będzie przestrzegać rozejmu Polska Agencja Prasowa SA.",
-    "url": "https://www.pap.pl/aktualnosci/usa-trump-zagrozil-iranowi-ze-przestanie-istniec-jesli-nie-bedzie-przestrzegac-rozejmu",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "description": "Nawet jeśli porozumienie pokojowe między USA i Iranem utrzyma się, ruch w cieśninie Ormuz nie wróci w najbliższym czasie do poziomu sprzed wojny.",
+    "url": "https://businessinsider.com.pl/gospodarka/ruch-w-ciesninie-ormuz-nie-wroci-do-normy-iran-pozostawil-tam-dziesiatki-min/xdfgz0t",
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "conflict|Wenezuela": {
     "lat": 6.42,
     "lng": -66.59,
     "type": "conflict",
     "region": "Wenezuela",
-    "description": "Trzydzieści trzy osoby uratowano, tysiące wciąż są zaginione po trzęsieniu ziemi w Wenezueli Reuters.",
-    "url": "https://www.reuters.com/business/environment/thirty-three-people-rescued-thousands-still-missing-after-venezuela-quakes-2026-06-28/",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "description": "Ratownicy spędzili sześć godzin na dokładnym kopaniu, aby dotrzeć do jednego z chłopców, podczas gdy wielu mieszkańców nadal ręcznie przeszukuje gruzy, wciąż czekając na przybycie ciężkiego sprzętu.",
+    "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "cyber|Wielka Brytania": {
     "lat": 55.5,
@@ -42,7 +42,7 @@
     "region": "Wielka Brytania",
     "description": "Brytyjska policja miała wykorzystać sztuczną inteligencję do szybszego rozpoznawania zagrożeń i ochrony osób najbardziej narażonych na przemoc lub wykorzystanie.",
     "url": "https://cyberdefence24.pl/armia-i-sluzby/policyjny-algorytm-poza-kontrola-kontrowersyjny-system-profilowal-brytyjczykow",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "cyber|Stany Zjednoczone": {
     "lat": 40.3,
@@ -51,7 +51,7 @@
     "region": "Stany Zjednoczone",
     "description": "Amerykańska Agencja ds.",
     "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "conflict|Tajwan": {
     "lat": 23.7,
@@ -60,7 +60,7 @@
     "region": "Tajwan",
     "description": "Zaobserwowano nowo odkrytą kampanię cyberataków dostarczającą wcześniej nieudokumentowaną rodzinę złośliwego oprogramowania o nazwie SharkLoader, która działa jako moduł ładujący do wdrażania Cobalt Strike Beacon na zaatakowanych hostach.",
     "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "cyber|Polska": {
     "lat": 52.5,
@@ -69,7 +69,7 @@
     "region": "Polska",
     "description": "Władze w Polsce aresztowały czterech członków zorganizowanej grupy cyberprzestępczej oskarżonych o włamywanie się do partnerów telekomunikacyjnych i przejmowanie kont e-mail w celu przeprowadzania ataków polegających na zmianie karty SIM.",
     "url": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "cyber|Rosja": {
     "lat": 62.0,
@@ -78,7 +78,7 @@
     "region": "Rosja",
     "description": "Władze rosyjskie wykorzystały narzędzia kryminalistyczne UFED firmy Cellebrite do włamania się do iPhone’a zatrzymanego działacza opozycji Andrieja Pivovarowa w czerwcu 2021 r., trzy miesiące po oświadczeniu Cellebrite, że zaprzestanie sprzedaży swoich narzędzi i usług Rosji i Białorusi.",
     "url": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "cyber|Niemcy": {
     "lat": 51.7,
@@ -94,9 +94,9 @@
     "lng": -67.09,
     "type": "disaster",
     "region": "Wenezuela",
-    "description": "Frustracja rośnie w Wenezueli, gdy liczba ofiar trzęsienia ziemi osiągnęła 1430 AP News.",
-    "url": "https://apnews.com/article/earthquakes-venezuela-rescues-survivors-92a3d6c13c0f9af9c1bfb4ff6d041254",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "description": "Krytycy twierdzą, że tymczasowa prezydent kraju Delcy Rodríguez próbuje wykorzystać tragedię dla swoich korzyści politycznych.",
+    "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "critical|Wenezuela": {
     "lat": 6.12,
@@ -114,7 +114,7 @@
     "region": "Australia",
     "description": "Australia chce wzmocnienia zakazu mediów społecznościowych dla osób poniżej 16 roku życia.",
     "url": "https://cyberdefence24.pl/polityka-i-prawo/problemy-z-zakazem-social-mediow-w-australii-rzad-chce-uderzyc-w-platformy",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "conflict|DR Kongo": {
     "lat": -4.32,
@@ -132,7 +132,7 @@
     "region": "Ukraina",
     "description": "Sponsorowanemu przez państwo rosyjskiemu ugrupowaniu zagrażającemu znanemu jako Turla przypisano wcześniej nieudokumentowanemu backdoorowi .NET o nazwie STOCKSTAY, który został wdrożony przeciwko organizacjom rządowym i wojskowym na Ukrainie oraz podmiotom zainteresowanym włoską polityką zagraniczną.",
     "url": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "cyber|Belgia": {
     "lat": 51.3,
@@ -141,16 +141,16 @@
     "region": "Belgia",
     "description": "Autonomiczne pojazdy mają stać się jednym z elementów przyszłości miejskiego transportu w Unii Europejskiej.",
     "url": "https://cyberdefence24.pl/technologie/autonomiczne-auta-w-miastach-ue-bruksela-uruchamia-adacities",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "conflict|Liban": {
     "lat": 33.89,
     "lng": 35.5,
     "type": "conflict",
     "region": "Liban",
-    "description": "Izrael niszczy podziemną infrastrukturę Hezbollahu w południowym Libanie Reuters.",
-    "url": "https://www.reuters.com/world/middle-east/israel-destroys-hezbollah-underground-infrastructure-southern-lebanon-2026-06-28/",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "description": "Wydaje się, że dokument był przedmiotem sprzecznych interpretacji w kluczowych kwestiach zawieszenia broni w Libanie i kryzysu w cieśninie Ormuz na żywo – najnowsze aktualizacje Nagły wybuch nowych działań wojennych w Zatoce Perskiej – zaledwie 10 dni po podpisaniu przez Iran i USA protokołu ustaleń w sprawie zakończenia konfliktu – grozi skierowaniem obu krajów z powrotem na ścieżkę wojny.",
+    "url": "https://www.theguardian.com/world/2026/jun/28/fresh-hostilities-gulf-us-iran-memorandum-interpretations-lebanon-ceasefire-strait-of-hormuz",
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "cyber|Tajwan": {
     "lat": 24.2,
@@ -159,7 +159,7 @@
     "region": "Tajwan",
     "description": "Zaobserwowano nowo odkrytą kampanię cyberataków dostarczającą wcześniej nieudokumentowaną rodzinę złośliwego oprogramowania o nazwie SharkLoader, która działa jako moduł ładujący do wdrażania Cobalt Strike Beacon na zaatakowanych hostach.",
     "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "disaster|Niemcy": {
     "lat": 50.7,
@@ -222,7 +222,7 @@
     "region": "Jemen",
     "description": "W całym regionie panuje tendencja do rozbrojenia milicji i wzmocnienia władzy państwowej, jednak pokusa wykorzystania pełnomocników pozostaje.",
     "url": "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "cyber|Portugalia": {
     "lat": 39.9,
@@ -231,7 +231,7 @@
     "region": "Portugalia",
     "description": "Czas wrócić na papier i zebrać nagle cenną pamięć RAM.",
     "url": "https://www.theregister.com/offbeat/2026/06/28/portuguese-bank-signs-storage-is-about-to-cash-out/5263175",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "disaster|Polska": {
     "lat": 51.5,
@@ -267,16 +267,16 @@
     "region": "Japonia",
     "description": "Japoński operator telekomunikacyjny KDDI Corporation ujawnił naruszenie bezpieczeństwa danych, w wyniku którego podmioty zagrażające uzyskały dostęp do jednego z jego systemów poczty elektronicznej używanych przez pięciu innych dostawców usług internetowych (ISP) w kraju.",
     "url": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "cyber|Chiny": {
     "lat": 35.5,
     "lng": 104.3,
     "type": "cyber",
     "region": "Chiny",
-    "description": "TREŚCI PARTNERÓW: Współpraca na rzecz rozwoju ekosystemu „Better Home” firmy China Telecom w ramach wspólnej premiery wprowadza koncentrator Wi-Fi 7 o przepustowości 2000 Mb/s oparty na podstawowych funkcjach połączeń AI, wykrywania i kontroli.",
+    "description": "TREŚCI PARTNERÓW: Współpraca na rzecz rozwoju ekosystemu „Better Home” firmy China Telecom w ramach wspólnej premiery wprowadza koncentrator Wi-Fi 7 o przepustowości 2000 Mb/s, oparty na podstawowych funkcjach połączeń AI, wykrywania i kontroli.",
     "url": "https://www.theregister.com/networks/2026/06/26/zte-and-tianyi-digital-life-jointly-unveil-flagship-home-ai-router/5263090",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   },
   "disaster|Chiny": {
     "lat": 34.5,
@@ -303,6 +303,6 @@
     "region": "Polska",
     "description": "Branża drobiarska, jeden z filarów sektora rolno-spożywczego, od lat toczy nierówną walkę z epidemiami.",
     "url": "https://www.rp.pl/rolnictwo/art44716871-biznes-w-cieniu-ptasiej-grypy",
-    "last_seen": "2026-06-28T21:33:42Z"
+    "last_seen": "2026-06-28T21:43:05Z"
   }
 }
