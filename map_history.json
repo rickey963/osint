@@ -6,7 +6,7 @@
     "region": "Ukraina",
     "description": "Do Gdańska przyjechały setki ważnych gości.",
     "url": "https://businessinsider.com.pl/gospodarka/zelenski-narazil-sie-na-smiesznosc-bojkotem-polski-przeciez-to-absurd/tk5c7z1",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
@@ -15,25 +15,25 @@
     "region": "Strefa Gazy / Izrael",
     "description": "Iran zaatakował Bahrajn i Kuwejt po atakach USA i zagroził „całkowitym wstrzymaniem” rozmów.",
     "url": "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "conflict|Iran": {
     "lat": 32.43,
     "lng": 53.69,
     "type": "conflict",
     "region": "Iran",
-    "description": "Prezydent USA Donald Trump oświadczył, że amerykańskie ataki to odpowiedź na ponowne naruszenie porozumienia o zawieszeniu broni.",
-    "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32882319,usa-zaatakowaly-kolejne-cele-w-iranie-trump-stawia-ultimatum.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "description": "Trump grozi Iranowi: przestanie istnieć, jeśli nie będzie przestrzegać rozejmu Polska Agencja Prasowa SA.",
+    "url": "https://www.pap.pl/aktualnosci/usa-trump-zagrozil-iranowi-ze-przestanie-istniec-jesli-nie-bedzie-przestrzegac-rozejmu",
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "conflict|Wenezuela": {
     "lat": 6.42,
     "lng": -66.59,
     "type": "conflict",
     "region": "Wenezuela",
-    "description": "Trwa walka o uratowanie jak największej liczby osób spod gruzów po trzęsieniu ziemi w Wenezueli.",
-    "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32882374,ratownicy-wydobyli-zywe-niemowle-spod-gruzow-w-wenezueli-ale.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "description": "- Życie małżeńskie można przeżywać w pełni tylko jeżeli opuści się dom rodziców - mówił podczas niedzielnego spotkania z wiernymi papież Leon XIV.",
+    "url": "https://www.polsatnews.pl/wiadomosc/2026-06-28/papiez-o-zyciu-malzenskim-wspomnial-o-nadopiekunczych-rodzicach/",
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "cyber|Wielka Brytania": {
     "lat": 55.5,
@@ -42,7 +42,7 @@
     "region": "Wielka Brytania",
     "description": "Brytyjska policja miała wykorzystać sztuczną inteligencję do szybszego rozpoznawania zagrożeń i ochrony osób najbardziej narażonych na przemoc lub wykorzystanie.",
     "url": "https://cyberdefence24.pl/armia-i-sluzby/policyjny-algorytm-poza-kontrola-kontrowersyjny-system-profilowal-brytyjczykow",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "cyber|Stany Zjednoczone": {
     "lat": 40.3,
@@ -51,7 +51,7 @@
     "region": "Stany Zjednoczone",
     "description": "Amerykańska Agencja ds.",
     "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "conflict|Tajwan": {
     "lat": 23.7,
@@ -60,7 +60,7 @@
     "region": "Tajwan",
     "description": "Zaobserwowano nowo odkrytą kampanię cyberataków dostarczającą wcześniej nieudokumentowaną rodzinę złośliwego oprogramowania o nazwie SharkLoader, która działa jako moduł ładujący do wdrażania Cobalt Strike Beacon na zaatakowanych hostach.",
     "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "cyber|Polska": {
     "lat": 52.5,
@@ -69,16 +69,16 @@
     "region": "Polska",
     "description": "Cyberprzestępcy po raz czwarty uderzyli w najniższy szczebel polskiego samorządu na przestrzeni pierwszej połowy 2026 roku.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/cyberatak-na-dolnoslaskie-miasto-zaszyfrowano-dane-mozliwy-wyciek",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "cyber|Rosja": {
     "lat": 62.0,
     "lng": 105.8,
     "type": "cyber",
     "region": "Rosja",
-    "description": "FBI i CISA ostrzegają, że kampania phishingowa wycelowana w użytkowników Signal powiązanych z rosyjskimi służbami wywiadowczymi ewoluowała w kierunku kradzieży kluczy odzyskiwania kopii zapasowych Signal, umożliwiając atakującym dostęp do historycznych wiadomości ofiar.",
-    "url": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "description": "Władze rosyjskie wykorzystały narzędzia kryminalistyczne UFED firmy Cellebrite do włamania się do iPhone’a zatrzymanego działacza opozycji Andrieja Pivovarowa w czerwcu 2021 r., trzy miesiące po oświadczeniu Cellebrite, że zaprzestanie sprzedaży swoich narzędzi i usług Rosji i Białorusi.",
+    "url": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "cyber|Niemcy": {
     "lat": 51.7,
@@ -105,7 +105,7 @@
     "region": "Wenezuela",
     "description": "Jak pomóc osobom dotkniętym trzęsieniem ziemi w Wenezueli AP News.",
     "url": "https://apnews.com/article/venezuela-earthquakes-red-cross-how-to-help-fc64bb65cd2da3c9206a37b74e89d3f7",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "critical|Wenezuela": {
     "lat": 6.12,
@@ -123,7 +123,7 @@
     "region": "Australia",
     "description": "Australia chce wzmocnienia zakazu mediów społecznościowych dla osób poniżej 16 roku życia.",
     "url": "https://cyberdefence24.pl/polityka-i-prawo/problemy-z-zakazem-social-mediow-w-australii-rzad-chce-uderzyc-w-platformy",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "conflict|DR Kongo": {
     "lat": -4.32,
@@ -141,7 +141,7 @@
     "region": "Ukraina",
     "description": "Służba Bezpieczeństwa Ukrainy (SSU) podała, że ​​wraz z Federalnym Biurem Śledczym Stanów Zjednoczonych (FBI) odkryła długotrwałą kampanię zorganizowaną przez rosyjskie służby wywiadowcze mającą na celu włamanie się na konta urzędników rządowych, personelu wojskowego, polityków i aktywistów na Ukrainie, w Europie i USA.",
     "url": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "cyber|Belgia": {
     "lat": 51.3,
@@ -150,7 +150,7 @@
     "region": "Belgia",
     "description": "Autonomiczne pojazdy mają stać się jednym z elementów przyszłości miejskiego transportu w Unii Europejskiej.",
     "url": "https://cyberdefence24.pl/technologie/autonomiczne-auta-w-miastach-ue-bruksela-uruchamia-adacities",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "conflict|Liban": {
     "lat": 33.89,
@@ -159,7 +159,7 @@
     "region": "Liban",
     "description": "Iran zaatakował Bahrajn i Kuwejt po atakach USA i zagroził „całkowitym wstrzymaniem” rozmów.",
     "url": "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "cyber|Tajwan": {
     "lat": 24.2,
@@ -168,7 +168,7 @@
     "region": "Tajwan",
     "description": "Zaobserwowano nowo odkrytą kampanię cyberataków dostarczającą wcześniej nieudokumentowaną rodzinę złośliwego oprogramowania o nazwie SharkLoader, która działa jako moduł ładujący do wdrażania Cobalt Strike Beacon na zaatakowanych hostach.",
     "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "critical|Mjanma": {
     "lat": 19.45,
@@ -195,7 +195,7 @@
     "region": "Niemcy",
     "description": "Rekordy temperatury pobite w Niemczech, Danii i na Słowacji w związku z falą upałów, które Europa w dalszym ciągu ogarnia fala upałówPo dziesięcioleciach ostrzeżeń klimatycznych dlaczego Europa jest tak nieprzygotowana na rosnące upały?",
     "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "disaster|Włochy": {
     "lat": 41.4,
@@ -258,7 +258,7 @@
     "region": "Jemen",
     "description": "W całym regionie panuje tendencja do rozbrojenia milicji i wzmocnienia władzy państwowej, jednak pokusa wykorzystania pełnomocników pozostaje.",
     "url": "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "cyber|Portugalia": {
     "lat": 39.9,
@@ -267,7 +267,7 @@
     "region": "Portugalia",
     "description": "Czas wrócić na papier i zebrać nagle cenną pamięć RAM.",
     "url": "https://www.theregister.com/offbeat/2026/06/28/portuguese-bank-signs-storage-is-about-to-cash-out/5263175",
-    "last_seen": "2026-06-28T13:22:20Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   },
   "disaster|Polska": {
     "lat": 51.5,
@@ -276,6 +276,6 @@
     "region": "Polska",
     "description": "W lasach od tygodni pojawiają się grzyby, a zbieracze chwalą się zdobyczami.",
     "url": "https://www.polsatnews.pl/ciekawostki/2026-06-28/gdzie-jest-wysyp-grzybow-w-polsce-tutaj-warto-jechac-z-koszykiem/",
-    "last_seen": "2026-06-28T13:12:59Z"
+    "last_seen": "2026-06-28T13:27:20Z"
   }
 }
