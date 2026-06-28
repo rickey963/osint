@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T12:23:27Z",
+  "last_updated": "2026-06-28T12:32:50Z",
   "poland": [
     {
       "title": "Katastrofu samolotu we Francji. Nie żyje 11 osób",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Lokalne władze podają, że jedenaście osób zginęło w katastrofie lotniczej w północno-wschodniej Francji – Reuters",
+      "url": "https://www.reuters.com/world/europe/french-authorities-responding-incident-involving-civilian-aircraft-2026-06-28/",
+      "date": "2026-06-28T11:50:27Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Lokalne władze podają Reuters, że jedenaście osób zginęło w katastrofie lotniczej w północno-wschodniej Francji."
+    },
+    {
       "title": "Rekordy temperatur spadają w całej Europie wraz z przemieszczaniem się fali upałów na wschód",
       "url": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east",
       "date": "2026-06-28T11:24:05Z",
@@ -604,14 +612,6 @@
       "summary": "Izraelskie wojsko twierdzi, że zabiło bojowników Hezbollahu i zaatakowało wyrzutnię w rejonie Nabatieh Reuters."
     },
     {
-      "title": "Austria i Algieria awansują do 1/8 finału Pucharu Świata, Iran odpada – Reuters",
-      "url": "https://www.reuters.com/sports/soccer/austria-algeria-advance-world-cup-round-32-iran-eliminated-2026-06-28/",
-      "date": "2026-06-28T04:21:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Austria i Algieria awansują do 1/8 finału Pucharu Świata, Iran wyeliminował Reuters."
-    },
-    {
       "title": "Wskaźniki rozliczenia aukcji nadal oscylują poniżej 50% – i tak się stało",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-politics-ntwnfb",
       "date": "2026-06-28T03:46:39Z",
@@ -712,7 +712,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-27T21:35:40Z",
       "source": "BBC News",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Media państwowe podają dzień po podpisaniu przez Liban i Izrael porozumienia ramowego w wyniku strajków zginęła co najmniej jedna osoba."
     },
     {
@@ -766,20 +766,20 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualności na żywo z Bliskiego Wschodu: Ataki handlowe USA i Iranu z kilkoma oznakami deeskalacji",
+      "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+      "date": "2026-06-28T12:17:55Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Prezydent Trump i irańska Gwardia Rewolucyjna wymienili groźby, a sojusznicy USA w Zatoce Perskiej oświadczyli, że przechwycili irańskie drony, gdy działania wojenne rozpoczęły się czwarty dzień."
+    },
+    {
       "title": "Trump zawarł miliardową umowę wydobywczą. Jego synowie liczą na zysk.",
       "url": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
       "date": "2026-06-28T11:57:56Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Porozumienie między Stanami Zjednoczonymi a Kazachstanem zapewniło grupie amerykańskich inwestorów powiązanych z prezydentem i sekretarzem handlu dostęp do jednych z największych na świecie niewykorzystanych zasobów wolframu."
-    },
-    {
-      "title": "Aktualności na żywo z Bliskiego Wschodu: Ataki handlowe USA i Iranu z kilkoma oznakami deeskalacji",
-      "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
-      "date": "2026-06-28T11:34:36Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Prezydent Trump i irańska Gwardia Rewolucyjna wymienili groźby, a sojusznicy USA w Zatoce Perskiej oświadczyli, że przechwycili irańskie drony, gdy działania wojenne rozpoczęły się czwarty dzień."
     },
     {
       "title": "Aktualności na żywo z Wenezueli: Ratownicy walczą z wstrząsami wtórnymi w poszukiwaniu ocalałych",
@@ -852,14 +852,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Dahiya, rozległy obszar i bastion Hezbollahu, budzi się do życia w obliczu napiętego rozejmu z Izraelem. „Ta wojna przyniosła tak wiele strat” – powiedział jeden z mieszkańców."
-    },
-    {
-      "title": "Iraccy urzędnicy, w tym prawodawcy, aresztowani pod zarzutem korupcji podczas nocnego nalotu – AP News",
-      "url": "https://apnews.com/article/iraq-arrests-corruption-eebff7c8229d69ffd48d280014407fe1",
-      "date": "2026-06-28T08:11:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Iraccy urzędnicy, w tym prawodawcy, aresztowani pod zarzutem korupcji podczas nocnej nalotu AP News."
     },
     {
       "title": "Chiny potwierdzają śmierć pilota, który wleciał małym samolotem w najwyższą wieżę w Pekinie",
@@ -1004,9 +996,25 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Trump grozi 100% podatkiem na europejski import, jeśli kraje nałożą podatek na usługi cyfrowe AP News."
+    },
+    {
+      "title": "Jak pomóc osobom dotkniętym trzęsieniem ziemi w Wenezueli – AP News",
+      "url": "https://apnews.com/article/venezuela-earthquakes-red-cross-how-to-help-fc64bb65cd2da3c9206a37b74e89d3f7",
+      "date": "2026-06-26T17:02:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Jak pomóc osobom dotkniętym trzęsieniem ziemi w Wenezueli AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Apple ma pomysł na obniżenie kosztów. Potrzebuje do tego odpowiedniej zgody",
+      "url": "https://antyweb.pl/apple-ma-pomysl-na-obnizenie-kosztow-potrzebuje-do-tego-odpowiedniej-zgody",
+      "date": "2026-06-28T12:15:28Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Sytuacja na rynku podzespołów, w szczególności pamięci RAM, robi się na tyle nieciekawa, że Apple szuka różnych rozwiązań. Najnowsze budzi sporo emocji."
+    },
     {
       "title": "Czy Instagram wie, czego potrzebują jego użytkownicy? Szef platformy zdradza plany",
       "url": "https://antyweb.pl/bez-tego-nowy-iphone-nie-mialby-sensu-przecieki-zdradzaja-wazne-ulepszenie",
@@ -1320,14 +1328,6 @@
       "summary": "W ciągu ostatnich kilku miesięcy byłem mocno zaangażowany w społeczność dekompilacyjną. Osobiście dekompilowałem ukochaną grę z dzieciństwa (Star Fox Adventures). Zacząłem tę podróż z zerowym doświadczeniem w dekompilacji — a co gorsza, nigdy tak naprawdę nie miałem styczności z C ani asemblerem. Nauka dekompilacji była wyzwaniem."
     },
     {
-      "title": "Najlepsze seriale na Apple TV+ – co obejrzeć w wakacje 2026?",
-      "url": "https://antyweb.pl/najlepsze-seriale-na-apple-tv-co-obejrzec-w-wakacje-2026",
-      "date": "2026-06-27T18:00:09Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Katalog seriali dostępnych na Apple TV nie jest może tak bogaty, jak oferta Netflixa lub HBO, ale z pewnością nadrabia jakością. Znajdziesz w nim wiele świetnych seriali science fiction, dramatów, thrillerów i komedii. Do naszego wakacyjnego rankingu wybraliśmy te, które trzeba koniecznie obejrzeć."
-    },
-    {
       "title": "Xiaomi, Apple i Huawei przy jednym stole. Nadchodzi bezprzewodowe ładowanie Qi 50W",
       "url": "https://www.instalki.pl/news/hardware/xiaomi-apple-i-huawei-przy-jednym-stole-nadchodzi-bezprzewodowe-ladowanie-qi-50w/",
       "date": "2026-06-27T16:36:44Z",
@@ -1626,7 +1626,7 @@
       "summary": "Międzygminny Związek Komunikacyjny w Jastrzębiu-Zdroju poinformował o cyberataku skutkującym nieuprawnionym dostępem do bazy danych pasażerów. MZK działa na obszarze 19 gmin, zamieszkanych przez pół miliona osób. Zakres naruszenia obejmuje m.in."
     },
     {
-      "title": "Notion zabija swojego klienta Gmaila po tym, jak agenci sztucznej inteligencji uniemożliwiają ludziom zakłócanie porządku w skrzynce odbiorczej",
+      "title": "Notion zabija swojego klienta Gmaila po tym, jak agenci sztucznej inteligencji powstrzymują ludzi od zakłócania porządku w skrzynce odbiorczej",
       "url": "https://www.theregister.com/ai-and-ml/2026/06/26/notion-kills-its-gmail-client-after-ai-agents-keep-humans-from-troubling-inbox/5263024",
       "date": "2026-06-26T13:01:16Z",
       "source": "The Register",
@@ -1844,6 +1844,14 @@
       "summary": "Premier Holandii Rob Jetten przeprosił Molukańczyków, których rodziny po wojnie o niepodległość Indonezji przewieziono do Holandii, bo ich bliscy służyli w kolonialnej armii. Obiecywano im tymczasowy pobyt i powrót na wyspy, ale obietnicy nie dotrzymano."
     },
     {
+      "title": "Impuls i korekta - 28 czerwca 2026",
+      "url": "https://strefainwestorow.pl/impuls-i-korekta/impuls-i-korekta-28-czerwca-2026",
+      "date": "2026-06-28T11:41:25Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Impuls i korekta - 28 czerwca 2026 tchoman ndz., 28.06.2026 Treść Wig walczy o utrzymanie wsparcia. Dodatkowo pomagają 50 dniowe. W nadchodzącym tygodniu powinno się wyjaśnić czy popytowi uda się je utrzymać, czy jednak wyłamią i wtedy konsekwencją powinno być zejście do niższego i okolic 100 dniowych."
+    },
+    {
       "title": "Szef polskiego wywiadu ostrzega przed Putinem. Mówi o \"zielonych ludzikach\"",
       "url": "https://www.bankier.pl/wiadomosc/Szef-polskiego-wywiadu-ostrzega-przed-Putinem-Mowi-o-zielonych-ludzikach-9159380.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-06-28T11:00:00Z",
@@ -1964,6 +1972,14 @@
       "summary": "tvn24bis.pl Forbes."
     },
     {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/archiwum/2014-01-10,2",
+      "date": "2026-06-28T00:49:55Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
       "title": "Notowania historyczne RBIFS10SILVE17 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania-historyczne/RBIFS10SILVE17",
       "date": "2026-06-27T21:50:37Z",
@@ -1972,20 +1988,12 @@
       "summary": "Notowania historyczne RBIFS10SILVE17 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/swiat/niemcy,25?strona=20",
-      "date": "2026-06-27T21:46:11Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
-      "title": "Notowania RBIFS4GOLD5 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/RBIFS4GOLD5",
-      "date": "2026-06-27T20:47:42Z",
+      "title": "Formacje analizy technicznej RBIFL3GOLD3 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/RBIFL3GOLD3",
+      "date": "2026-06-27T20:54:21Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania RBIFS4GOLD5 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+      "summary": "Formacje analizy technicznej RBIFL3GOLD3 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "Analiza techniczna RBIFS7GOLD7 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
@@ -1994,14 +2002,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Analiza techniczna RBIFS7GOLD7 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
-    },
-    {
-      "title": "Wiadomości RBIFL6SILVE8 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/RBIFL6SILVE8",
-      "date": "2026-06-27T18:48:30Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości RBIFL6SILVE8 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "Prezes spożywczego giganta dosadnie. Mówi, za co zapłacą klienci",
@@ -2036,12 +2036,12 @@
       "summary": "Wiadomości INTSGLD98285 INGBANK BiznesRadar."
     },
     {
-      "title": "Leszek Skiba - Forsal.pl",
-      "url": "https://forsal.pl/autor/14788,Leszek-Skiba-14788",
-      "date": "2026-06-27T14:51:42Z",
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/zarobki;galeria,96?strona=2",
+      "date": "2026-06-27T17:17:55Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Leszek Skiba Forsal.pl."
+      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Komunikat EBI Maxipizza SA (maxipizza): Powołanie osoby zarządzającej lub nadzorującej - stockwatch.pl",
@@ -2321,8 +2321,8 @@
       "lng": -67.09,
       "type": "disaster",
       "region": "Wenezuela",
-      "description": "Frustracja rośnie w Wenezueli, gdy liczba ofiar trzęsienia ziemi osiągnęła 1430 AP News.",
-      "url": "https://apnews.com/article/earthquakes-venezuela-rescues-survivors-92a3d6c13c0f9af9c1bfb4ff6d041254"
+      "description": "Jak pomóc osobom dotkniętym trzęsieniem ziemi w Wenezueli AP News.",
+      "url": "https://apnews.com/article/venezuela-earthquakes-red-cross-how-to-help-fc64bb65cd2da3c9206a37b74e89d3f7"
     },
     {
       "lat": 6.12,
@@ -2501,7 +2501,7 @@
     },
     {
       "name": "Iran",
-      "score": 80,
+      "score": 73,
       "reasons": [
         {
           "title": "Iran atakuje Bahrajn i Kuwejt po atakach USA i grozi wstrzymaniem rozmów o zakończeniu wojny – AP News",
@@ -2522,7 +2522,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 37,
+      "score": 33,
       "reasons": [
         {
           "title": "Donald Trump grozi unicestwieniem Iranu po strzelaninie krzyżowej w związku z kryzysem na Bliskim Wschodzie w Ormuz na żywo",
@@ -2543,7 +2543,7 @@
     },
     {
       "name": "Liban",
-      "score": 37,
+      "score": 33,
       "reasons": [
         {
           "title": "Donald Trump grozi unicestwieniem Iranu po strzelaninie krzyżowej w związku z kryzysem na Bliskim Wschodzie w Ormuz na żywo",
@@ -2564,7 +2564,7 @@
     },
     {
       "name": "Jemen",
-      "score": 10,
+      "score": 9,
       "reasons": [
         {
           "title": "Wojna cieni: jak użycie sił zastępczych przez Iran, Izrael i USA powoduje niestabilność na Bliskim Wschodzie",
