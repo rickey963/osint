@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T14:37:55Z",
+  "last_updated": "2026-06-28T14:38:35Z",
   "poland": [
     {
       "title": "Rekord najwyższej temperatury w Polsce. Odnotowano go w Toruniu",
@@ -7,7 +7,7 @@
       "date": "2026-06-28T14:29:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
-      "summary": "Instytut Meteorologii i Gospodarki Wodnej poinformował o nowym rekordzie najwyższej temperatury w Polsce. Wyniosła ona 40,3 stopnia Celsjusza."
+      "summary": "Temperatura w Toruniu była wyższa o 0,1 st. C. od wartości odnotowanej w 1921 roku w Prószkowie."
     },
     {
       "title": "Zełenski: Nikt nie będzie nam mówił, jakich bohaterów szanować",
@@ -120,6 +120,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Polska ma podpisać w poniedziałek umowę na zakup trzech szwedzkich okrętów podwodnych A26. Po raz pierwszy przy kontrakcie zbrojeniowym położyliśmy tak duży nacisk na współpracę przemysłową. Ale to jedna z ostatnich tak dużych umów na zakup uzbrojenia."
+    },
+    {
+      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
+      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
+      "date": "2026-06-28T13:10:18Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
     },
     {
       "title": "Fala upałów zbiera tragiczne żniwo. We Francji już tysiąc nadmiarowych zgonów",
@@ -258,14 +266,6 @@
       "summary": "Polacy mają patent na Argentynę. Ta seria robi wrażenie Polskie Radio 24."
     },
     {
-      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
-      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
-      "date": "2026-06-28T10:09:23Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
-    },
-    {
       "title": "Wybuch w budynku pod Koninem. Jedna osoba utknęła pod gruzami",
       "url": "https://wiadomosci.gazeta.pl/polska/7,198073,32882553,wybuch-w-budynku-pod-koninem-jedna-osoba-uwieziona-pod-gruzami.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-06-28T09:25:00Z",
@@ -378,6 +378,14 @@
       "summary": "Hat-trick Dembele, sensacyjny awans Republiki Zielonego Przylądka. Podsumowanie piątku Polska Agencja Prasowa SA."
     },
     {
+      "title": "Małopolskie/ Pożar hali produkcyjnej w Mszanie Dolnej opanowany - PAP - serwis wideo",
+      "url": "https://wideo.pap.pl/pap-media,101/malopolskie-pozar-hali-produkcyjnej-w-mszanie-dolnej-opanowany-,92845",
+      "date": "2026-06-27T09:12:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Małopolskie/ Pożar hali produkcyjnej w Mszanie Dolnej opanowany PAP - serwis wideo."
+    },
+    {
       "title": "Sąd apelacyjny podtrzymał wyrok skazujący Harveya Weinsteina na 16 lat więzienia - Polska Agencja Prasowa SA",
       "url": "https://www.pap.pl/aktualnosci/usa-sad-apelacyjny-podtrzymal-wyrok-skazujacy-producenta-filmowego-harveya-weinsteina",
       "date": "2026-06-27T04:04:00Z",
@@ -392,24 +400,24 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Ukraiński bokser Ołeksandr Usyk ogłosił, że zrzeka się trzech tytułów mistrza świata wagi ciężkiej Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "Kraków/ Kozy i owce pasą się na Zakrzówku i przy Forcie Bodzów - PAP - serwis wideo",
-      "url": "https://wideo.pap.pl/pap-media,101/krakow-kozy-i-owce-pasa-sie-na-zakrzowku-i-przy-forcie-bodzow,92780",
-      "date": "2026-06-26T19:00:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Kraków/ Kozy i owce pasą się na Zakrzówku i przy Forcie Bodzów PAP - serwis wideo."
     }
   ],
   "world_security": [
+    {
+      "title": "Australijczyk oskarżony o morderstwo po tym, jak martwa dziewczyna została znaleziona w walizce w Tajlandii",
+      "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-28T14:30:05Z",
+      "source": "BBC News",
+      "confirmed_by": 3,
+      "summary": "Policja twierdzi, że w sobotę ciało 17-latka znaleziono porzucone w pobliżu torów kolejowych."
+    },
     {
       "title": "Donald Trump grozi unicestwieniem Iranu po strzelaninie krzyżowej w związku z kryzysem na Bliskim Wschodzie w Ormuz na żywo",
       "url": "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates",
       "date": "2026-06-28T14:21:36Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Iran zaatakował Bahrajn i Kuwejt po atakach Stanów Zjednoczonych i zagroził „całkowitym wstrzymaniem” rozmów. Strajki handlowe USA i Iranu, ponieważ obie strony oskarżają się wzajemnie o zagrażanie zawieszeniu broni. Minister spraw zagranicznych Włoch Antonio Tajani potępił ataki Iranu w Bahrajnie i Kuwejcie, mówiąc, że jeśli będą się one nasilać, może to spowodować ryzyko przechwycenia wysiłków dyplomatycznych. „Wyrażam moje najgłębsze potępienie dla nowych irańskich ataków, które w ostatnich godzinach nawiedziły Bahrajn i Kuwejt, na co Iran Włoski rząd wyraża pełną solidarność” – powiedział Tajani w X. Kontynuuj czytanie..."
+      "summary": "Iran zaatakował Bahrajn i Kuwejt po atakach USA i zagroził „całkowitym wstrzymaniem” rozmów. Strajki handlowe USA i Iranu, ponieważ obie strony oskarżają się wzajemnie o zagrażanie zawieszeniu broni. Minister spraw zagranicznych Włoch Antonio Tajani potępił ataki Iranu w Bahrajnie i Kuwejcie, mówiąc, że jeśli będą się one dalej eskalować, może to spowodować ryzyko przechwycenia wysiłków dyplomatycznych. „Wyrażam moje najgłębsze potępienie dla nowych irańskich ataków, które w ostatnich godzinach nawiedziły Bahrajn i Kuwejt, na co Iran Włoski rząd wyraża pełną solidarność” – powiedział Tajani w X. Kontynuuj czytanie..."
     },
     {
       "title": "Eskalacja ataków USA-Iran zagraża tymczasowemu porozumieniu pokojowemu",
@@ -417,10 +425,10 @@
       "date": "2026-06-28T13:45:06Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Teheran atakuje Bahrajn i Kuwejt w ramach wysiłków zmierzających do otwarcia cieśniny Ormuz bez bezpośredniego nadzoru Iranu Kryzys na Bliskim Wschodzie na żywo – najnowsze aktualizacje Kontynuowana jest nowa runda eskalacji ataków między Iranem a Stanami Zjednoczonymi, co jeszcze bardziej podważa kruche tymczasowe porozumienie pokojowe między obydwoma krajami i skłoniło Donalda Trumpa do zagrozenia przemocą, która sprawi, że Iran „nie będzie już istnieć”. W niedzielę Teheran przeprowadził ataki dronami i rakietami na Bahrajn i Kuwejt po nowych atakach USA na miejsca w południowym Iranie i zagroził „całkowitym wstrzymaniem” negocjacji w sprawie zakończenia wojny. Trump powiedział, że wkrótce może nadejść moment, w którym porzuci rozmowy, a USA „militarnie zakończą robotę”. Kontynuuj czytanie..."
+      "summary": "Teheran atakuje Bahrajn i Kuwejt w ramach wysiłków zmierzających do otwarcia cieśniny Ormuz bez bezpośredniego nadzoru Iranu Kryzys na Bliskim Wschodzie na żywo – najnowsze aktualizacje Kontynuowana jest nowa runda eskalacji ataków między Iranem a Stanami Zjednoczonymi, co jeszcze bardziej podważa kruche tymczasowe porozumienie pokojowe między obydwoma krajami i skłoniło Donalda Trumpa do grożenia przemocą, która sprawi, że Iran „nie będzie już istnieć”. W niedzielę Teheran przeprowadził ataki dronami i rakietami na Bahrajn i Kuwejt po nowych atakach USA na miejsca w południowym Iranie i zagroził „całkowitym wstrzymaniem” negocjacji w sprawie zakończenia wojny. Trump powiedział, że wkrótce może nadejść moment, w którym porzuci rozmowy, a USA „militarnie zakończą robotę”. Kontynuuj czytanie..."
     },
     {
-      "title": "Rekordowa fala upałów w Europie: Francja ostrzega, że ​​liczba ofiar śmiertelnych wzrośnie – Reuters",
+      "title": "Rekordowa fala upałów zakłóca Europę – Francja ostrzega, że ​​liczba ofiar śmiertelnych wzrośnie – Reuters",
       "url": "https://www.reuters.com/business/environment/france-records-1000-excess-deaths-during-record-breaking-heatwave-2026-06-28/",
       "date": "2026-06-28T13:29:43Z",
       "source": "Reuters",
@@ -492,12 +500,20 @@
       "summary": "Pakistański organ nadzoru zawiesza Geo News na 15 dni w związku z „obraźliwą” audycją religijną Reuters."
     },
     {
+      "title": "„Całkowicie zdumiony” prezydent Korei Południowej pozwala sobie na wcześniejsze wyjście z Pucharu Świata – Reuters",
+      "url": "https://www.reuters.com/sports/soccer/south-koreas-utterly-baffled-president-lets-rip-after-early-world-cup-exit-2026-06-28/",
+      "date": "2026-06-28T12:03:24Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "„Całkowicie zdumiony” prezydent Korei Południowej pozwala sobie na wcześniejsze opuszczenie Pucharu Świata Reuters."
+    },
+    {
       "title": "Coraz więcej krajów europejskich przygotowuje się na temperatury powyżej 40 stopni Celsjusza w miarę przesuwania się fali upałów na wschód",
       "url": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east",
       "date": "2026-06-28T11:24:05Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Ponad 191 milionów ludzi w Europie boryka się z temperaturami przekraczającymi 35°C w związku z ostrzeżeniami o ekstremalnych upałach od Niemiec po Węgry. „Smutna nieunikniona”: dlaczego Europa jest tak nieprzygotowana na rosnące temperatury po dziesięcioleciach ostrzeżeń klimatycznych? Polska, Czechy i Słowacja czekają na rekordowe temperatury przekraczające 40°C, gdy fala upałów powodująca setki zgonów w Europie Zachodniej rozprzestrzeni się na wschód. Ponad 191 milionów ludzi w Europie doświadczyło w niedzielę temperatur co najmniej 35°C. ostrzeżenia o ekstremalnych upałach w Niemczech, Czechach, Polsce i na Węgrzech. Kontynuuj czytanie..."
+      "summary": "Ponad 191 milionów ludzi w Europie boryka się z temperaturami przekraczającymi 35°C w związku z ostrzeżeniami o ekstremalnych upałach od Niemiec po Węgry „Smutna nieuchronność”: dlaczego Europa jest tak nieprzygotowana na rosnące temperatury po dziesięcioleciach ostrzeżeń klimatycznych? Polska, Czechy i Słowacja czekają na rekordowe temperatury przekraczające 40°C, gdy fala upałów, powodująca setki zgonów w Europie Zachodniej, rozprzestrzeni się na wschód. Ponad 191 milionów ludzi w Europie doświadczyło w niedzielę temperatur co najmniej 35°C ostrzeżenia o ekstremalnych upałach w Niemczech, Czechach, Polsce i na Węgrzech. Kontynuuj czytanie..."
     },
     {
       "title": "Tajska rodzina opłakuje nastolatkę znalezioną martwą w walizce podczas aresztowania Australijki – Reuters",
@@ -516,7 +532,7 @@
       "summary": "Uwaga na falę upałów: inteligentna technologia pomaga zapewnić bezpieczeństwo osobom starszym w Rzymie Reuters"
     },
     {
-      "title": "Szef armii zamknął główne media w Ugandzie",
+      "title": "Szef armii zamknął wiodące media w Ugandzie",
       "url": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-28T10:11:35Z",
       "source": "BBC News",
@@ -538,14 +554,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Marco Rubio stara się zapewnić skuteczną reakcję na klęski żywiołowe w kraju, którego prezydent USA został obalony w styczniu. Podwójne trzęsienia ziemi w Wenezueli, które miały miejsce w tym tygodniu, stanowią test na nową erę amerykańskiej potęgi na półkuli zachodniej, ponieważ administracja Trumpa stara się zapewnić skuteczną misję reagowania na katastrofy w kraju, który obecnie nazywa sojusznikiem w Ameryce Łacińskiej, po styczniowym nalocie amerykańskich sił specjalnych, który obalił przywódcę tego kraju Nicolása Maduro. Stany Zjednoczone wyznaczają stanowisko sekretarza stanu Marco Rubio nazwał „dużą, szybką, skuteczną” i „obejmującą cały rząd” reakcją, po tym jak departament stanu wysłał trzy wyspecjalizowane miejskie zespoły poszukiwawczo-ratownicze i zadeklarował utworzenie funduszu pomocowego o wartości 150 milionów dolarów, który jeden z byłych ekspertów ds. pomocy ofiarom katastrof nazwał największym, jaki widział w ciągu 24 godzin od zdarzenia. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Australijczyk oskarżony o morderstwo w Tajlandii po znalezieniu w walizce ciała nastolatki",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/28/australian-man-charged-thailand-teenage-girl-body-found-in-suitcase-pattaya-city-ntwnfb",
-      "date": "2026-06-28T09:25:27Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Simon Peter Carman (46 l.) zaprzeczył postawionym mu zarzutom. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Australijczyk został oskarżony o morderstwo nastolatki, której nagie ciało znaleziono w walizce w Tajlandii. Policja miasta Pattaya powiedziała Guardianowi, że mężczyzna, zidentyfikowany jako Simon Peter Carman, lat 46, zaprzecza stawianym mu zarzutom. Kontynuuj czytanie..."
     },
     {
       "title": "Irak aresztuje polityków i urzędników rządowych w ramach akcji antykorupcyjnej – Reuters",
@@ -617,15 +625,7 @@
       "date": "2026-06-28T05:51:15Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Obserwatorzy twierdzą, że podwójne kary będą miały niewielki skutek, jeśli platformy nie zostaną pociągnięte do odpowiedzialności za zamieszczane przez siebie treści. Otrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Rząd musi przejść w „tryb egzekwowania prawa” i stawić czoła gigantom technologicznym w związku z zakazem mediów społecznościowych po podwojeniu kar – ostrzegają eksperci. Rząd federalny ogłosił w niedzielę, że wprowadzi nowe przepisy przewidujące podwojenie kar finansowych do 99 mln dolarów dla platform, które złamią zakaz mediów społecznościowych, oraz wzmocni pozycję komisarz ds. e-bezpieczeństwa, Julie Inman Grant. uprawnienia do gromadzenia informacji. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Późny dramat przekreśla nadzieje Iranu na pierwszy w historii awans do fazy pucharowej Pucharu Świata – Reuters",
-      "url": "https://www.reuters.com/sports/soccer/late-drama-ends-irans-hopes-reaching-world-cup-knockouts-first-time-2026-06-28/",
-      "date": "2026-06-28T05:34:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Późny dramat przekreśla nadzieje Iranu na po raz pierwszy w historii nokaut w Pucharze Świata Reuters."
+      "summary": "Podwójne kary będą miały niewielki skutek, jeśli platformy nie zostaną pociągnięte do odpowiedzialności za zamieszczane przez siebie treści. Otrzymuj e-maile z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Rząd musi przejść w „tryb egzekwowania” i stawić czoła gigantom technologicznym w związku z zakazem mediów społecznościowych po podwojeniu kar – ostrzegają eksperci. Rząd federalny ogłosił w niedzielę, że wprowadzi nowe przepisy przewidujące podwojenie kar finansowych do 99 mln dolarów dla platform, które złamią zakaz mediów społecznościowych, oraz wzmocni pozycję komisarz ds. e-bezpieczeństwa, Julie Inman Grant. uprawnienia do gromadzenia informacji. Kontynuuj czytanie..."
     },
     {
       "title": "Trzęsienia ziemi w Wenezueli: liczba ofiar śmiertelnych ponownie wzrosła do ponad 1400",
@@ -657,7 +657,7 @@
       "date": "2026-06-28T02:26:48Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Wybory ustalą równowagę sił w Nowej Kaledonii przed ponownymi negocjacjami z Francją w sprawie statusu tego terytorium W niedzielę na francuskim terytorium zamorskim Nowej Kaledonii otwarto lokale wyborcze w związku z pierwszymi od 2019 r. wyborami do władz prowincji na archipelagu, po opóźnieniu głosowania na temat jego politycznej przyszłości. Wybory, pierwotnie zaplanowane na 2024 r., określą równowagę sił w Nowej Kaledonii przed nowymi negocjacjami z Francją w sprawie statusu tego terytorium i niepodległości pozostaje decydującą kwestią polityczną. Kontynuuj czytanie..."
+      "summary": "Wybory określą równowagę sił w Nowej Kaledonii przed ponownymi negocjacjami z Francją w sprawie statusu tego terytorium W niedzielę na francuskim terytorium zamorskim Nowej Kaledonii otwarto lokale wyborcze w związku z pierwszymi od 2019 r. wyborami do władz prowincji archipelagu, po opóźnieniu głosowania ze względu na utknięcie w rozmowach na temat jego politycznej przyszłości. Wybory, pierwotnie zaplanowane na 2024 r., określą równowagę sił w Nowej Kaledonii przed nowymi negocjacjami z Francją w sprawie statusu tego terytorium i niepodległości pozostaje decydującą kwestią polityczną. Kontynuuj czytanie..."
     },
     {
       "title": "Bad Bunny rozświetla Londyn historycznym widowiskiem na stadionie",
@@ -737,7 +737,7 @@
       "date": "2026-06-27T22:34:11Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Od grudnia 2025 r. dzieci poniżej 16 roku życia nie mogą korzystać z 10 kluczowych platform mediów społecznościowych w Australii."
+      "summary": "Od grudnia 2025 r. dzieciom poniżej 16 roku życia nie wolno korzystać z 10 kluczowych platform mediów społecznościowych w Australii."
     },
     {
       "title": "Izrael uderza w południowy Liban, gdy Hezbollah potępia nowe porozumienie",
@@ -748,30 +748,38 @@
       "summary": "Media państwowe podają dzień po podpisaniu przez Liban i Izrael porozumienia ramowego w wyniku strajków zginęła co najmniej jedna osoba."
     },
     {
-      "title": "Ataki paniki i złamania – szpital w Wenezueli leczy ofiary trzęsienia ziemi",
-      "url": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-27T21:33:12Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "BBC udało się do szpitala w Caracas, w którym leczeni są ludzie z najbardziej dotkniętych obszarów."
-    },
-    {
       "title": "Bahrajn potępia irański atak dronów typu „wet za wet” jako „rażące zagrożenie”",
       "url": "https://www.theguardian.com/world/2026/jun/27/bahrain-iran-drone-attack-overnight-us-strikes-strait-hormuz",
       "date": "2026-06-27T16:49:24Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Brak bezpośrednich doniesień o szkodach po tym, jak Bahrajn został uderzony „wielką liczbą dronów”, gdy statek w cieśninie Ormuz również był celem Bahrajn powiedział, że został w sobotę zaatakowany przez Iran przy użyciu dronów, najwyraźniej w odpowiedzi na nocne ataki USA na Iran. Zaatakowano także statek w cieśninie Ormuz. Ministerstwo Spraw Zagranicznych Bahrajnu poinformowało, że w kierunku kraju wystrzelono „wiele dronów”, choć nie ma bezpośrednich doniesień o zniszczeniach. Potępiła atak i określiła go jako „rażące zagrożenie dla bezpieczeństwa obywateli i mieszkańców”."
+    },
+    {
+      "title": "Fala upałów w Europie: strach przed suszą we Włoszech, a w Europie padają rekordy – tak się stało",
+      "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
+      "date": "2026-06-27T15:43:10Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Rekordy temperatury pobite w Niemczech, Danii i na Słowacji w związku z falą upałów, które Europa w dalszym ciągu ogarnia fala upałówPo dziesięcioleciach ostrzeżeń klimatycznych dlaczego Europa jest tak nieprzygotowana na rosnące upały? Woda morska przedostaje się do najdłuższej rzeki Włoch, gdy podczas fali upałów droga wodna zaczyna wysychać, uderza w rolnicze obszary, w których produkuje się mleko do parmezanu. Rzeka Pad nigdy nie spadła tak nisko w tym zakątku roku, budząc obawy przed niszczycielską suszą w lipcu w tym zakątku północnych Włoch. Kontynuuj czytanie..."
     }
   ],
   "world_politics": [
     {
       "title": "Aktualności na żywo z Bliskiego Wschodu: Ataki handlowe USA i Iranu z kilkoma oznakami deeskalacji",
       "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
-      "date": "2026-06-28T14:27:20Z",
+      "date": "2026-06-28T14:35:33Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Prezydent Trump i irańska Gwardia Rewolucyjna wymienili groźby, a sojusznicy USA w Zatoce Perskiej oświadczyli, że przechwycili irańskie drony, gdy działania wojenne rozpoczęły się czwarty dzień."
+    },
+    {
+      "title": "Rząd Wenezueli oskarżony o upolitycznienie pomocy po trzęsieniu ziemi",
+      "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
+      "date": "2026-06-28T14:35:33Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Krytycy twierdzą, że tymczasowa prezydent kraju Delcy Rodríguez próbuje wykorzystać tragedię dla swoich korzyści politycznych. Jej zwolennicy zarzucają opozycji, że robi to samo."
     },
     {
       "title": "Aktualności na żywo z Wenezueli: Ratownicy walczą z wstrząsami wtórnymi w poszukiwaniu ocalałych",
@@ -803,7 +811,7 @@
       "date": "2026-06-28T13:52:38Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Porozumienie między USA a Kazachstanem zapewniło grupie amerykańskich inwestorów powiązanych z prezydentem i sekretarzem handlu dostęp do jednych z największych na świecie niewykorzystanych zasobów wolframu."
+      "summary": "Porozumienie między Stanami Zjednoczonymi a Kazachstanem zapewniło grupie amerykańskich inwestorów powiązanych z prezydentem i sekretarzem handlu dostęp do jednych z największych na świecie niewykorzystanych zasobów wolframu."
     },
     {
       "title": "Oto najnowsze.",
@@ -822,7 +830,7 @@
       "summary": "Iran atakuje Bahrajn i Kuwejt po atakach USA i grozi przerwaniem rozmów w celu zakończenia wojny AP News."
     },
     {
-      "title": "W Europie Zachodniej zaczynają się upały, podczas gdy Europa Środkowa zaczyna się piec",
+      "title": "W Europie Zachodniej zaczynają się upały, a w Europie Środkowej zaczyna się piec",
       "url": "https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html",
       "date": "2026-06-28T11:26:27Z",
       "source": "The New York Times",
@@ -854,14 +862,6 @@
       "summary": "Naród środkowoazjatycki agresywnie zabiega o względy Waszyngtonu prezydenta Trumpa, aby zrównoważyć jego potężnych sąsiadów, Rosję i Chiny."
     },
     {
-      "title": "Rząd Wenezueli oskarżony o upolitycznienie pomocy po trzęsieniu ziemi",
-      "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
-      "date": "2026-06-28T09:00:58Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Krytycy twierdzą, że tymczasowa prezydent kraju Delcy Rodríguez próbuje wykorzystać tragedię dla swoich korzyści politycznych. Jej zwolennicy zarzucają opozycji, że robi to samo."
-    },
-    {
       "title": "Jak wygląda życie w Dahiya pośród rozejmu Hezbollah-Izrael w Libanie",
       "url": "https://www.nytimes.com/2026/06/28/world/middleeast/beirut-dahiya-israel-lebanon-cease-fire.html",
       "date": "2026-06-28T09:00:47Z",
@@ -875,7 +875,7 @@
       "date": "2026-06-28T07:22:05Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Oświadczenie nadeszło dzień po tym, jak w Internecie pojawiły się zdjęcia przedstawiające spadające szczątki i części samolotu. Kolejnych 13 osób zostało rannych w wypadku pięć mil od siedziby partii komunistycznej."
+      "summary": "Oświadczenie nadeszło dzień po tym, jak zdjęcia w Internecie pokazały spadające szczątki i części samolotu. Kolejnych 13 osób zostało rannych w wypadku pięć mil od siedziby partii komunistycznej."
     },
     {
       "title": "Burmistrz bierze urlop macierzyński w Japonii. Niektórzy mężczyźni są wściekli.",
@@ -998,12 +998,12 @@
       "summary": "Komisja Trumpa w obszernym projekcie raportu AP News wzywa do „budowania mostów” między kościołem a państwem."
     },
     {
-      "title": "Według usługi śledzenia lotów – AP News, mały samolot rozbija się o najwyższy budynek w Pekinie",
-      "url": "https://apnews.com/article/china-citic-tower-beijing-damage-9c95676d875fbb0906a9dd893e14c3f5",
-      "date": "2026-06-26T17:35:00Z",
+      "title": "Trump grozi 100% podatkiem na europejski import, jeśli kraje nałożą podatek na usługi cyfrowe – AP News",
+      "url": "https://apnews.com/article/trump-tariff-europe-d2007fee8ae733a15f240c5f83462c96",
+      "date": "2026-06-26T18:54:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Według usługi śledzenia lotów AP News mały samolot rozbija się o najwyższy budynek w Pekinie."
+      "summary": "Trump grozi 100% podatkiem na europejski import, jeśli kraje nałożą podatek na usługi cyfrowe AP News."
     }
   ],
   "technology": [
@@ -1032,7 +1032,7 @@
       "summary": "Adres URL artykułu: https://github.com/open-energy-transition/open-tyndp Adres URL komentarzy: https://news.ycombinator.com/item?id=48707361 Punkty: 9 # Komentarze: 0."
     },
     {
-      "title": "Analiza danych dotyczących wynagrodzeń w USA w ponad 730 zawodach: zatrudnienie wśród pracowników w wieku od 22 do 25 lat na stanowiskach silnie narażonych na sztuczną inteligencję kurczy się obecnie o 3,8% rocznie (Nick Lichtenberg/Fortune)",
+      "title": "Analiza danych dotyczących płac w USA w ponad 730 zawodach: zatrudnienie wśród pracowników w wieku od 22 do 25 lat na stanowiskach silnie narażonych na sztuczną inteligencję kurczy się obecnie o 3,8% rocznie (Nick Lichtenberg/Fortune)",
       "url": "https://www.techmeme.com/260628/p8#a260628p8",
       "date": "2026-06-28T14:00:00Z",
       "source": "Techmeme",
@@ -1317,7 +1317,7 @@
       "date": "2026-06-28T05:25:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Alistair Gray / Financial Times: Odwołanie Apple od wyroku Londyńskiego Sądu Apelacyjnego rozpoczyna się w poniedziałek przed Sądem Najwyższym Wielkiej Brytanii; orzeczenie nałożyło na nią obowiązek zapłaty 502 mln dolarów za korzystanie z patentów Optis na urządzenia bezprzewodowe &mdash; Bitwa o licencjonowanie protokołów połączeń mobilnych może wpłynąć na globalne stawki za inne technologie."
+      "summary": "Alistair Gray / Financial Times: W poniedziałek przed Sądem Najwyższym Wielkiej Brytanii rozpoczyna się apelacja Apple od wyroku Londyńskiego Sądu Apelacyjnego; orzeczenie nałożyło na nią obowiązek zapłaty 502 mln dolarów za korzystanie z patentów Optis na urządzenia bezprzewodowe &mdash; Bitwa o licencjonowanie protokołów połączeń mobilnych może wpłynąć na globalne stawki za inne technologie."
     },
     {
       "title": "Naukowcy twierdzą, że GLM-5.2 firmy Z.ai dorównuje najnowszym amerykańskim modelom pod względem wykrywania błędów bezpieczeństwa, ponieważ krytycy kwestionują luźne podejście Stanów Zjednoczonych do ograniczania chińskich modeli otwartych (Wall Street Journal)",
@@ -1349,7 +1349,7 @@
       "date": "2026-06-27T11:07:05Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Amble One to dopuszczony do ruchu ulicznego elektryczny buggy o wartości 25 000 dolarów, przeznaczony dla luksusowych kurortów."
+      "summary": "Amble One to dopuszczony do ruchu ulicznego elektryczny wózek spacerowy o wartości 25 000 dolarów, przeznaczony dla luksusowych kurortów."
     },
     {
       "title": "Korea Południowa planuje wyszkolić całe wojsko na „wojowników dronów”",
@@ -1410,7 +1410,7 @@
   ],
   "cybersecurity": [
     {
-      "title": "Naruszenie danych ujawnia aż do 14,2 miliona loginów e-mail u sześciu dostawców usług internetowych",
+      "title": "Naruszenie danych ujawnia do 14,2 miliona loginów e-mail u sześciu dostawców usług internetowych",
       "url": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
       "date": "2026-06-28T14:13:46Z",
       "source": "BleepingComputer",
@@ -1426,7 +1426,7 @@
       "summary": "Czas wrócić na papier i zebrać nagle cenną pamięć RAM."
     },
     {
-      "title": "Ukraina twierdzi, że rosyjski wywiad używał fałszywych SMS-ów do pomocy w celu kradzieży danych uwierzytelniających do przesyłania wiadomości",
+      "title": "Ukraina twierdzi, że rosyjski wywiad wykorzystywał fałszywe SMS-y do pomocy w celu kradzieży danych uwierzytelniających do przesyłania wiadomości",
       "url": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
       "date": "2026-06-27T17:27:11Z",
       "source": "The Hacker News",
@@ -1543,7 +1543,7 @@
       "date": "2026-06-26T17:49:07Z",
       "source": "BleepingComputer",
       "confirmed_by": 1,
-      "summary": "Podmioty zagrażające tworzą dzierżawców OpenAI, którzy podszywają się pod legalne firmy i zapraszają pracowników do dołączenia do nich, co wydaje się być podstępem mającym na celu oszukanie celów w celu przesyłania poufnych informacji firmowych na czatach i projektach. [...]."
+      "summary": "Podmioty zagrażające tworzą dzierżawców OpenAI, którzy podszywają się pod legalne firmy i zapraszają pracowników do dołączenia do nich, co wydaje się być podstępem mającym na celu nakłonienie celów do przesyłania poufnych informacji firmowych na czatach i projektach. [...]."
     },
     {
       "title": "Amerykańskie organy regulacyjne chcą zabić pedały hamulca robotaxi",
@@ -1562,7 +1562,7 @@
       "summary": "Chińskojęzyczny ugrupowanie zaawansowanego trwałego zagrożenia (APT) zostało powiązane z nowym, niestandardowym backdoorem o nazwie TinyRCT w ramach cyberataków wymierzonych w podmioty rządowe i infrastrukturę krytyczną w Azji Południowo-Wschodniej. Działanie, skierowane w szczególności do przedsiębiorstw państwowych z sektora energetycznego i rządowego, zostało przypisane aktorowi zagrażającemu o nazwie CL-STA-1062, którym jest Palo Alto Networks."
     },
     {
-      "title": "Luka w Amazon Q umożliwiała uwięzionym w repozytoriach Git wykonywanie kodu i przesuwanie danych uwierzytelniających w chmurze",
+      "title": "Luka w Amazon Q pozwalała na wykonanie kodu w repozytoriach Git z pułapkami i przesuwanie danych uwierzytelniających w chmurze",
       "url": "https://www.theregister.com/cyber-crime/2026/06/26/amazon-q-flaw-let-booby-trapped-git-repos-execute-code-swipe-cloud-creds/5263202",
       "date": "2026-06-26T15:34:00Z",
       "source": "The Register",
@@ -1610,12 +1610,12 @@
       "summary": "Luka w podsystemie kontroli ruchu jądra Linuksa może pozwolić lokalnemu nieuprzywilejowanemu użytkownikowi na uzyskanie uprawnień roota w systemach, których dotyczy problem. CVE-2026-46331, nazywany „pedit COW”, to zapis przekraczający dopuszczalne granice w akcji edycji pakietu (act_pedit), który uszkadza współdzieloną pamięć podręczną stron. Publiczny, działający exploit pojawił się w ciągu jednego dnia od przydzielenia CVE 16 czerwca."
     },
     {
-      "title": "Błąd programisty Amazon Q może pozwolić złośliwym repozytoriom na uruchomienie kodu za pośrednictwem konfiguracji MCP",
+      "title": "Błąd programisty Amazon Q może pozwolić złośliwym repozytoriam na uruchomienie kodu za pośrednictwem konfiguracji MCP",
       "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
       "date": "2026-06-26T13:53:00Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Bardzo poważna luka w Amazon Q Developer umożliwia złośliwemu repozytorium uruchamianie poleceń i kradzież danych uwierzytelniających programisty w chmurze. Ścieżka była krótka: programista otwiera repozytorium, ufa przestrzeni roboczej, a Amazon Q robi resztę. Amazon to załatał."
+      "summary": "Bardzo poważna luka w Amazon Q Developer umożliwia złośliwemu repozytorium uruchamianie poleceń i kradzież danych uwierzytelniających programisty w chmurze. Ścieżka była krótka: programista otwiera repozytorium, ufa przestrzeni roboczej, a Amazon Q zajmuje się resztą. Amazon to załatał."
     },
     {
       "title": "Jeden człowiek, dwa jądra i dużo RISC-V",
@@ -1634,7 +1634,7 @@
       "summary": "Międzygminny Związek Komunikacyjny w Jastrzębiu-Zdroju poinformował o cyberataku skutkującym nieuprawnionym dostępem do bazy danych pasażerów. MZK działa na obszarze 19 gmin, zamieszkanych przez pół miliona osób. Zakres naruszenia obejmuje m.in."
     },
     {
-      "title": "Notion zabija swojego klienta Gmaila po tym, jak agenci sztucznej inteligencji uniemożliwiają ludziom zakłócanie porządku w skrzynce odbiorczej",
+      "title": "Notion zabija swojego klienta Gmaila po tym, jak agenci sztucznej inteligencji powstrzymują ludzi od zakłócania porządku w skrzynce odbiorczej",
       "url": "https://www.theregister.com/ai-and-ml/2026/06/26/notion-kills-its-gmail-client-after-ai-agents-keep-humans-from-troubling-inbox/5263024",
       "date": "2026-06-26T13:01:16Z",
       "source": "The Register",
@@ -1682,7 +1682,7 @@
       "summary": "Agenci AI poruszają się po środowiskach korporacyjnych, dziedziczą uprawnienia, przechodzą przez systemy i wykonują decyzje z szybkością maszyny przy minimalnym nadzorze. Infrastruktura tożsamości zbudowana w celu zarządzania dostępem ludzi nie została zaprojektowana dla podmiotów autonomicznych, a luka między tym, co wdrażają przedsiębiorstwa, a tym, co faktycznie obejmują ich programy zarządzania, szybko się powiększa. Ten poradnik psuje się."
     },
     {
-      "title": "Złośliwe oprogramowanie Miasma atakuje pakiety npm i działania GitHub w ataku na łańcuch dostaw",
+      "title": "Złośliwe oprogramowanie Miasma atakuje pakiety npm i działania GitHub w ramach ataku na łańcuch dostaw",
       "url": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
       "date": "2026-06-26T11:05:45Z",
       "source": "The Hacker News",
@@ -1719,7 +1719,7 @@
       "date": "2026-06-26T09:27:12Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Od kwietnia 2026 r. prowadzona jest aktywna kampania phishingowa, której celem są organizacje hotelowe i inne organizacje z branży hotelarsko-gastronomicznej w Europie i Azji. Wykorzystuje się do tego pliki ZIP ze zdjęciami, aby upuścić implant Node.js i włamać się do maszyn znajdujących się w recepcji – twierdzi Microsoft. Firma nie przypisała tego działania znanemu ugrupowaniu zagrażającemu, a ostateczny cel operatorów jest nadal niejasny. Przynęta polega na tym, jak działają hotele."
+      "summary": "Od kwietnia 2026 r. aktywna kampania phishingowa skierowana jest do organizacji hotelowych i innych branży hotelarsko-gastronomicznej w Europie i Azji i wykorzystuje pliki ZIP ze zdjęciami do upuszczania implantu Node.js i włamywania się do maszyn w recepcji – twierdzi Microsoft. Firma nie przypisała tego działania znanemu ugrupowaniu zagrażającemu, a ostateczny cel operatorów jest nadal niejasny. Przynęta polega na tym, jak działają hotele."
     },
     {
       "title": "Wakacje, to więcej czasu przed ekranem dla dzieci. Ale tak nie musi być ;)",
@@ -1786,7 +1786,7 @@
       "summary": "Firma Microsoft po cichu przedłużyła swój bezpłatny program rozszerzonych aktualizacji zabezpieczeń systemu Windows 10 (ESU) dla konsumentów o dodatkowy rok, dzięki czemu zarejestrowane urządzenia mogą w dalszym ciągu otrzymywać aktualizacje zabezpieczeń do 12 października 2027 r. [...]."
     },
     {
-      "title": "Nowe złośliwe oprogramowanie dla systemu macOS osadza fałszywe błędy, aby zmylić narzędzia analizy AI",
+      "title": "Nowe złośliwe oprogramowanie dla systemu macOS osadza fałszywe błędy, aby zmylić narzędzia analityczne AI",
       "url": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
       "date": "2026-06-25T16:23:19Z",
       "source": "BleepingComputer",
@@ -1988,6 +1988,14 @@
       "summary": "Formacje analizy technicznej RBIFL3GOLD3 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
+      "title": "Notowania RBIFS4GOLD5 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/RBIFS4GOLD5",
+      "date": "2026-06-27T20:47:42Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania RBIFS4GOLD5 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+    },
+    {
       "title": "Analiza techniczna RBIFS7GOLD7 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
       "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/RBIFS7GOLD7",
       "date": "2026-06-27T19:17:09Z",
@@ -2002,14 +2010,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Wiadomości RBIFL6SILVE8 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
-    },
-    {
-      "title": "Analiza techniczna RBIFL7SILVE10 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/RBIFL7SILVE10",
-      "date": "2026-06-27T18:43:25Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Analiza techniczna RBIFL7SILVE10 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "Prezes spożywczego giganta dosadnie. Mówi, za co zapłacą klienci",
@@ -2029,8 +2029,8 @@
     },
     {
       "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/archiwum/2021-08-27,1",
-      "date": "2026-06-27T15:40:54Z",
+      "url": "https://forsal.pl/tagi/zarobki;galeria,96?strona=2",
+      "date": "2026-06-27T17:17:55Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Gospodarka Forsal.pl."
@@ -2077,7 +2077,7 @@
     },
     {
       "title": "Kronika Sportowa - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513255_Kronika-Sportowa.aspx",
+      "url": "https://www.stockwatch.pl/forum/wpisy-12392p71_Kronika-Sportowa.aspx",
       "date": "2026-06-27T07:50:52Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
@@ -2090,6 +2090,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "W poszukiwaniu sygnałów - 27 czerwca 2026 - Indeksy GPW na wsparciach Ewa sob., 27.06.2026 Wstęp Indeksy GPW, #DAX, Indeksy USA, #Nikkei, #KOSPI, #Ropa, #Miedź, #Złoto, #Usdpln, #Eurpln, Spółki wcześniej sygnalizowane, Obserwowane wykresy, Kącik życzeń W poszukiwaniu sygnałów - 27 czerwca 2026 - Indeksy GPW na wsparciach Ewa."
+    },
+    {
+      "title": "Fundacja Rodzinna Rodziny Wysmyk - Portfel inwestora - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/inwestor/fundacja-rodzinna-rodziny-wysmyk.aspx",
+      "date": "2026-06-26T23:47:56Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Fundacja Rodzinna Rodziny Wysmyk - Portfel inwestora stockwatch.pl."
     },
     {
       "title": "Komunikat EBI Letus Capital SA (letus): Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach) - stockwatch.pl",
@@ -2106,14 +2114,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Irańska grupa hakerska Screening Serpens prowadzi kampanię cyberszpiegowską wymierzoną w specjalistów z branży technologicznej i obronnej – wynika z analizy Unit 42, zespołu Palo Alto Networks. Przestępcy podszywają się pod rekruterów i wysyłają wiarygodnie wyglądające oferty pracy. W tle są napięcia geopolityczne, ale dla firm najważniejszy jest inny wniosek: fałszywe rekrutacje mogą stać się początkiem ataku na organizację."
-    },
-    {
-      "title": "powołanie prezesa zarządu - komunikat spółki Black Point SA (blackpoin) - komunikat EBI - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/blackpoin,powolanie-prezesa-zarzadu-2026-06-26,ebi,20260626_225234_0000003959",
-      "date": "2026-06-26T20:52:34Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "powołanie prezesa zarządu - komunikat spółki Black Point SA (blackpoin) - komunikat EBI stockwatch.pl."
     },
     {
       "title": "Brexit miał dać niezależność. Po dekadzie widać rachunek dla gospodarki",
@@ -2504,15 +2504,15 @@
           "source": "The Guardian"
         },
         {
-          "title": "Ataki paniki i złamania – szpital w Wenezueli leczy ofiary trzęsienia ziemi",
-          "url": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News"
+          "title": "Papież o życiu małżeńskim. Wspomniał o nadopiekuńczych rodzicach",
+          "url": "https://www.polsatnews.pl/wiadomosc/2026-06-28/papiez-o-zyciu-malzenskim-wspomnial-o-nadopiekunczych-rodzicach/",
+          "source": "Polsat News"
         }
       ]
     },
     {
       "name": "Iran",
-      "score": 74,
+      "score": 85,
       "reasons": [
         {
           "title": "Eskalacja ataków USA-Iran zagraża tymczasowemu porozumieniu pokojowemu",
@@ -2533,7 +2533,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 15,
+      "score": 18,
       "reasons": [
         {
           "title": "Wojna cieni: jak użycie sił zastępczych przez Iran, Izrael i USA powoduje niestabilność na Bliskim Wschodzie",
@@ -2549,7 +2549,7 @@
     },
     {
       "name": "Liban",
-      "score": 15,
+      "score": 18,
       "reasons": [
         {
           "title": "Wojna cieni: jak użycie sił zastępczych przez Iran, Izrael i USA powoduje niestabilność na Bliskim Wschodzie",
@@ -2565,7 +2565,7 @@
     },
     {
       "name": "Jemen",
-      "score": 8,
+      "score": 9,
       "reasons": [
         {
           "title": "Wojna cieni: jak użycie sił zastępczych przez Iran, Izrael i USA powoduje niestabilność na Bliskim Wschodzie",
@@ -2583,6 +2583,10 @@
     {
       "sector": "Sektor energetyczny/surowcowy",
       "instrument": "np. ETF Energy Select Sector (XLE)"
+    },
+    {
+      "sector": "Sektor agro",
+      "instrument": "np. ETF Invesco DB Agriculture (DBA)"
     }
   ],
   "sp500_trend": {
