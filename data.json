@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T16:51:45Z",
+  "last_updated": "2026-06-29T16:52:47Z",
   "poland": [
     {
       "title": "Dobra wiadomość dla Sił Powietrznych. Kupimy aż cztery latające tankowce?",
@@ -128,14 +128,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Polska podpisała ze Szwecją umowę na zakup trzech okrętów podwodnych. Premier Donald Tusk, mówiąc o tym kontrakcie, podzielił się też informacją na temat symbolicznych prezentów od szwedzkiego premiera."
-    },
-    {
-      "title": "Rosja zatruwa internet i AI. MSZ ostrzega przed nowym zagrożeniem - Polskie Radio 24",
-      "url": "https://polskieradio24.pl/polska/rosja-juz-wplywa-na-odpowiedzi-sztucznej-inteligencji-polska-celem",
-      "date": "2026-06-29T15:46:25Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Rosja zatruwa internet i AI. MSZ ostrzega przed nowym zagrożeniem Polskie Radio 24."
     },
     {
       "title": "Złodziej myślał, że \"najciemniej pod latarnią\". Policji nie przechytrzył",
@@ -338,6 +330,14 @@
       "summary": "Upadek Mai Chwalińskiej na meczu. Potrzebowała pomocy lekarza Polskie Radio 24."
     },
     {
+      "title": "Obrończyni tytułu wkracza do gry. O której mecz Świątek na Wimbledonie? - Polskie Radio 24",
+      "url": "https://polskieradio24.pl/sport/swiatek-zaczyna-obrone-tytulu-o-ktorej-mecz-z-townsend",
+      "date": "2026-06-29T10:34:15Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Obrończyni tytułu wkracza do gry. O której mecz Świątek na Wimbledonie? Polskie Radio 24."
+    },
+    {
       "title": "Tak wyglądają pary 1/8 finału MŚ. Kibice czekają na hity - Polskie Radio 24",
       "url": "https://polskieradio24.pl/sport/pary-18-finalu-ms-kto-z-kim-zagra-na-mundialu",
       "date": "2026-06-29T10:13:38Z",
@@ -404,7 +404,15 @@
   ],
   "world_security": [
     {
-      "title": "Wstrząs wtórny po trzęsieniu ziemi w Wenezueli w pobliżu stolicy: mężczyzna uratowany spod gruzów po 106 godzinach uwięzienia – najnowsze aktualizacje",
+      "title": "Sąd Najwyższy blokuje próbę Trumpa zwolnienia gubernator Rezerwy Federalnej Lisy Cook",
+      "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-29T16:51:52Z",
+      "source": "BBC News",
+      "confirmed_by": 2,
+      "summary": "Decyzja ta, postrzegana jako zwycięstwo niezależności banku centralnego, odsyła walkę o usunięcie z powrotem do sądów niższej instancji."
+    },
+    {
+      "title": "Wstrząsy wtórne po trzęsieniu ziemi w Wenezueli w pobliżu stolicy: mężczyzna uratowany spod gruzów po 106 godzinach uwięzienia – najnowsze aktualizacje",
       "url": "https://www.theguardian.com/world/live/2026/jun/29/venezuela-earthquakes-search-rescue-latest-updates",
       "date": "2026-06-29T16:28:07Z",
       "source": "The Guardian",
@@ -417,7 +425,7 @@
       "date": "2026-06-29T16:24:07Z",
       "source": "BBC News",
       "confirmed_by": 2,
-      "summary": "Według policji cztery kobiety i mężczyzna zginęły na miejscu, a szósta osoba zmarła w szpitalu."
+      "summary": "Policja twierdzi, że cztery kobiety i mężczyzna zginęli na miejscu, a szósta osoba zmarła w szpitalu."
     },
     {
       "title": "Iran zazdrośnie konkuruje z Omanem w zakresie podejmowania decyzji w sprawie cieśniny Ormuz",
@@ -425,7 +433,7 @@
       "date": "2026-06-29T16:20:16Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Teheran uważa, że ​​powinien kontrolować szlak żeglugowy, ale jego sąsiad ma własne plany jego ponownego otwarcia. Cieśnina Ormuz jest głównym narzędziem przetargowym Iranu w negocjacjach z Ameryką, dlatego zawsze prawdopodobnie była największym punktem spornym. Każdy metr 39-kilometrowej drogi wodnej jest testem woli i cierpliwości. Dla Iranu kontynuacja sporu nie stanowi problemu, o ile nie straci kontroli. Kontynuuj czytanie..."
+      "summary": "Teheran uważa, że ​​powinien kontrolować szlak żeglugowy, ale sąsiad ma własne plany jego ponownego otwarcia. Cieśnina Ormuz jest głównym narzędziem przetargowym Iranu w negocjacjach z USA i dlatego zawsze prawdopodobnie była największym punktem spornym. Każdy centymetr drogi wodnej o szerokości 24 mil jest testem woli i cierpliwości. Dla Iranu kontynuacja sporu nie stanowi problemu, o ile nie straci kontroli. Kontynuuj czytanie..."
     },
     {
       "title": "Alphabet debiutuje w Dow Jones Industrial Average w miarę przechylania się indeksu w stronę technologii – Reuters",
@@ -484,14 +492,6 @@
       "summary": "EKSKLUZYWNIE: Apple oskarża Indie o „kopiowanie i wklejanie” roszczeń konkurentów w ramach dochodzenia antymonopolowego Reuters."
     },
     {
-      "title": "Sąd Najwyższy Stanów Zjednoczonych odrzuca bezprecedensową propozycję Trumpa dotyczącą zwolnienia kucharza Fed – Reuters",
-      "url": "https://www.reuters.com/world/us-supreme-court-rejects-trumps-unprecedented-bid-fire-feds-cook-2026-06-29/",
-      "date": "2026-06-29T15:37:11Z",
-      "source": "Reuters",
-      "confirmed_by": 2,
-      "summary": "Sąd Najwyższy Stanów Zjednoczonych odrzuca bezprecedensową propozycję Trumpa dotyczącą zwolnienia Cooka Reutersa z Fed."
-    },
-    {
       "title": "Sześć osób zginęło w strzelaninie w ośrodku dla młodzieży w północnych Niemczech – Reuters",
       "url": "https://www.reuters.com/world/five-people-dead-shooting-northern-germany-police-say-2026-06-29/",
       "date": "2026-06-29T15:30:21Z",
@@ -505,7 +505,7 @@
       "date": "2026-06-29T15:27:26Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "W miarę jak sukcesja JPMorgan nabiera kształtów, znawcy twierdzą, że tym razem chodzi o prawdziwego Reutersa."
+      "summary": "W miarę jak sukcesja JPMorgan nabiera kształtów, znawcy mówią, że tym razem chodzi o prawdziwego Reutersa."
     },
     {
       "title": "NBCUniversal zostanie oddzielony od Comcast w wyniku ostatnich wstrząsów medialnych – Reuters",
@@ -537,7 +537,7 @@
       "date": "2026-06-29T15:01:21Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Minister transportu Nowej Południowej Walii twierdzi, że rozwój wspólnych systemów jest pozytywnym zjawiskiem, ale piesi „wołają o porządek”. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast. Udostępniane rowery elektryczne zaśmiecające chodniki w Sydney zostaną w nadchodzących miesiącach wyrzucone do krawężnika w ramach funduszy na utworzenie oznakowanych miejsc parkingowych – twierdzi rząd Nowej Południowej Walii. We wtorek rząd stanowy ogłosił finansowanie w wysokości 6,6 mln dolarów dla samorządów lokalnych Sydney w celu wyznaczenia i pomalowania dedykowanych parkingów. Każda rada otrzyma maksymalnie 200 000 dolarów. Kontynuuj czytanie..."
+      "summary": "Minister transportu Nowej Południowej Walii twierdzi, że rozwój wspólnych systemów jest pozytywnym zjawiskiem, ale piesi „wołają o porządek”. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast. Udostępniane rowery elektryczne zaśmiecające chodniki w Sydney zostaną w nadchodzących miesiącach wyrzucone do krawężnika w ramach funduszy na utworzenie oznakowanych miejsc parkingowych – twierdzi rząd Nowej Południowej Walii. We wtorek rząd stanowy ogłosił finansowanie w wysokości 6,6 mln dolarów dla samorządów lokalnych Sydney w celu wyznaczenia i pomalowania dedykowanych parkingów. Każda rada otrzyma do 200 000 dolarów. Kontynuuj czytanie..."
     },
     {
       "title": "Spektakl musi trwać: odwołanie teatrów muzycznych powoduje, że branża wzywa do pilnej pomocy rządu",
@@ -569,7 +569,7 @@
       "date": "2026-06-29T14:40:58Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Politycy opozycji zarzucają rządowi wykorzystanie epidemii do wstrzymania planowanego protestu."
+      "summary": "Politycy opozycji oskarżają rząd o wykorzystanie epidemii do wstrzymania planowanego protestu."
     },
     {
       "title": "UE wprowadza opłatę celną w wysokości 3 euro na małe paczki, aby ograniczyć tani import z Chin",
@@ -577,7 +577,7 @@
       "date": "2026-06-29T14:35:27Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Paczki z towarami o wartości poniżej 150 euro nie będą już objęte zwolnieniem „de minimis”, z którego korzystają platformy takie jak Temu i SheinBusiness na żywo – najnowsze aktualizacje Komisja Europejska wyraziła nadzieję, że zapobiegnie „pustynnieniu” europejskich głównych ulic, przygotowując się do wprowadzenia podatku celnego od małych paczek w celu ograniczenia taniego chińskiego importu. Konsumenci byli w stanie kupić towary o wartości do 150 euro (129 funtów), w tym towary fast fashion, kosmetyki i zabawki, bez opłat celnych w ramach zwolnienia „de minimis”, czyli ulga celna, która jest zbyt mała, aby miała znaczenie. Kontynuuj czytanie..."
+      "summary": "Paczki z towarami o wartości poniżej 150 euro nie będą już objęte zwolnieniem „de minimis”, z którego korzystają platformy takie jak Temu i SheinBusiness na żywo – najnowsze aktualizacje Komisja Europejska wyraziła nadzieję, że zapobiegnie „pustynnieniu” europejskich głównych ulic, przygotowując się do wprowadzenia podatku celnego na małe paczki, próbując ograniczyć tani chiński import. Konsumenci byli w stanie kupić towary o wartości do 150 euro (129 funtów), w tym towary fast fashion, kosmetyki i zabawki, bez opłat celnych w ramach zwolnienia „de minimis”, czyli ulga celna, która jest zbyt mała, aby miała znaczenie. Kontynuuj czytanie..."
     },
     {
       "title": "W wyniku ukraińskich ataków niedobory paliwa rozprzestrzeniły się na większą część Rosji – Reuters",
@@ -585,10 +585,10 @@
       "date": "2026-06-29T14:33:31Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Po ukraińskich atakach Reutersa niedobory paliwa rozprzestrzeniły się na większą część Rosji."
+      "summary": "Po ukraińskich atakach Reutersa niedobory paliwa rozprzestrzeniły się na kolejne części Rosji."
     },
     {
-      "title": "Wyższy urzędnik libański ostro krytykuje wynegocjowaną przez USA umowę z Izraelem i ostrzega przed podziałami – Reuters",
+      "title": "Wyższy rangą urzędnik libański ostro krytykuje wynegocjowaną przez USA umowę z Izraelem i ostrzega przed podziałami – Reuters",
       "url": "https://www.reuters.com/world/middle-east/senior-lebanese-official-slams-us-brokered-deal-with-israel-warns-divisions-2026-06-29/",
       "date": "2026-06-29T14:18:19Z",
       "source": "Reuters",
@@ -628,6 +628,14 @@
       "summary": "Rocket Lab kupuje Iridium za 8 miliardów dolarów w celu rozszerzenia działalności poza premiery Reuters."
     },
     {
+      "title": "Cła Trumpa nie ratują miejsc pracy w fabryce lodówek Whirlpool w Iowa – Reuters",
+      "url": "https://www.reuters.com/business/world-at-work/trumps-tariffs-arent-saving-jobs-whirlpools-iowa-refrigerator-plant-2026-06-29/",
+      "date": "2026-06-29T13:42:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Cła Trumpa nie oszczędzają miejsc pracy w fabryce lodówek Whirlpool w stanie Iowa Reuters."
+    },
+    {
       "title": "Rodziny dwóch piłkarzy zabitych i rannych w wyniku trzęsień ziemi w Wenezueli",
       "url": "https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes",
       "date": "2026-06-29T13:21:27Z",
@@ -660,7 +668,7 @@
       "summary": "Były prezydent USA skupił się na projektach swojego następcy w Waszyngtonie, w tym na planowanej nowej sali balowej Białego Domu."
     },
     {
-      "title": "Łzy Teyany Taylor i hołd dla Lauryn Hill kradną show podczas rozdania nagród BET",
+      "title": "Łzy Teyany Taylor i hołd Lauryn Hill kradną show podczas rozdania nagród BET",
       "url": "https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-29T12:00:06Z",
       "source": "BBC News",
@@ -681,7 +689,7 @@
       "date": "2026-06-29T10:51:03Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Gdy serial Netflixa śledzący ich życie powraca, ekipa zaczyna opowiadać o nowo zdobytej sławie."
+      "summary": "Gdy powraca serial Netflixa śledzący ich życie, ekipa zaczyna opowiadać o nowo zdobytej sławie."
     },
     {
       "title": "Eskalacja ataków USA-Iran zagraża tymczasowemu porozumieniu pokojowemu",
@@ -689,15 +697,15 @@
       "date": "2026-06-29T09:55:14Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Teheran atakuje Bahrajn i Kuwejt w ramach wysiłków zmierzających do otwarcia cieśniny Ormuz bez bezpośredniego nadzoru Iranu Świeże działania wojenne w Zatoce sugerują, że memorandum amerykańsko-irańskie zostało sformułowane zbyt szeroko. Kontynuowano nową rundę eskalacji ataków między Iranem a Stanami Zjednoczonymi, co jeszcze bardziej podważa kruche tymczasowe porozumienie pokojowe między obydwoma krajami i skłoniło Donalda Trumpa do grożenia przemocą, która sprawi, że Iran „przestanie istnieć”. W niedzielę Teheran przeprowadził ataki dronami i rakietami. przeciwko Bahrajnowi i Kuwejtowi po nowych atakach USA na tereny w południowym Iranie i zagroził „całkowitym wstrzymaniem” negocjacji w sprawie zakończenia wojny. Trump powiedział, że wkrótce może nadejść moment, w którym porzuci rozmowy, a USA „militarnie zakończą robotę”. Kontynuuj czytanie..."
+      "summary": "Teheran atakuje Bahrajn i Kuwejt w ramach wysiłków zmierzających do otwarcia cieśniny Ormuz bez bezpośredniego nadzoru Iranu Świeże działania wojenne w Zatoce sugerują, że memorandum amerykańsko-irańskie zostało sformułowane zbyt szeroko. Kontynuowano nową rundę eskalacji ataków między Iranem a Stanami Zjednoczonymi, co jeszcze bardziej podważa kruche tymczasowe porozumienie pokojowe między obydwoma krajami i skłoniło Donalda Trumpa do grożenia przemocą, która sprawi, że Iran „przestanie istnieć”. W niedzielę Teheran przeprowadził ataki dronami i rakietami przeciwko Bahrajnowi i Kuwejtowi po nowych atakach USA na tereny w południowym Iranie i zagroził „całkowitym wstrzymaniem” negocjacji w sprawie zakończenia wojny. Trump powiedział, że wkrótce może nadejść moment, w którym porzuci rozmowy, a USA „militarnie zakończą robotę”. Kontynuuj czytanie..."
     },
     {
-      "title": "Trybunał orzekł, że nie można publikować tożsamości wielu osób, które przeżyły atak Bondiego – i tak się stało",
+      "title": "Trybunał orzekł, że tożsamość wielu ocalałych z ataku Bondiego nie może zostać opublikowana – i tak się stało",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/29/australia-politics-live-vanuatu-nakamal-treaty-pacific-china-anthony-albanese-jotham-napat-one-nation-coalition-pauline-hanson-angus-taylor-royal-commission-antisemitism-ntwnfb",
       "date": "2026-06-29T08:06:27Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Ten blog jest już zamknięty. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Dzisiaj wznowione zostaną przesłuchania komisji królewskiej. Kolejna runda przesłuchań komisji królewskiej ds. antysemityzmu rozpoczyna się dzisiaj. Niestety, jesteśmy tu do czwartkowego wieczoru z Parlamentem, a mecz rozpoczyna się o 4:00 rano w sobotę. Więc będę oglądać w telewizji. I tak jak powiedziałem wcześniej, czasami jestem ministrem sportu i ważne jest, aby być na ważnych wydarzeniach, ponieważ jest tam mnóstwo elementów i interesariuszy, dzięki którym mogę być tam osobiście."
+      "summary": "Ten blog jest już zamknięty. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Dzisiaj wznowione zostaną przesłuchania komisji królewskiej. Kolejna runda przesłuchań komisji królewskiej ds. antysemityzmu rozpoczyna się dzisiaj. Niestety, jesteśmy tu do czwartkowego wieczoru z Parlamentem, a mecz rozpoczyna się o 4:00 rano w sobotę. Więc będę oglądać w telewizji. I jak powiedziałem wcześniej, czasami jestem ministrem sportu i ważne jest, aby być na ważnych wydarzeniach, ponieważ jest tam mnóstwo elementów i interesariuszy, dzięki którym mogę być tam osobiście."
     },
     {
       "title": "Indyjscy dziennikarze potępiają „odmowę” głosowania i praw paszportowych wybitnemu redaktorowi",
@@ -724,7 +732,7 @@
       "summary": "„Cud” uratowania 18-dniowego dziecka Juana Davida jest symbolem nadziei w Wenezueli po niszczycielskich trzęsieniach ziemi."
     },
     {
-      "title": "Bruce Lehrmann przegrywa starania o uzyskanie materiału filmowego z filmu dokumentalnego z udziałem Brittany Higgins przed procesem o gwałt",
+      "title": "Bruce Lehrmann przegrywa starania o uzyskanie materiału filmowego z filmu dokumentalnego z Brittany Higgins przed procesem o gwałt",
       "url": "https://www.theguardian.com/australia-news/2026/jun/29/bruce-lehrmann-loses-bid-brittany-higgins-silenced-documentary-footage-ntwnfb",
       "date": "2026-06-29T07:49:52Z",
       "source": "The Guardian",
@@ -732,7 +740,7 @@
       "summary": "Sędzia twierdzi, że wezwanie byłego pracownika Partii Liberalnej do wezwania do nagrania materiału filmowego przed jego procesem w Queensland nie ma żadnego uzasadnionego celu. Otrzymaj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Były pracownik polityczny Bruce Lehrmann stracił prawną możliwość uzyskania dostępu do kopii wszystkich materiałów filmowych z filmu dokumentalnego z udziałem Brittany Higgins. Lehrmann wezwał producentów filmu dokumentalnego Silenced i zasygnalizował możliwą próbę zakazu jego transmisji przed procesem w Queensland w sprawie gwałtu. Kontynuuj czytanie..."
     },
     {
-      "title": "Trener piłki nożnej w Korei Południowej odchodzi po tym, jak prezydent wzywa do wszczęcia śledztwa w sprawie przegranej w Pucharze Świata",
+      "title": "Trener piłki nożnej w Korei Południowej odchodzi po tym, jak prezydent wzywa do wszczęcia śledztwa w sprawie porażki w Pucharze Świata",
       "url": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-29T07:18:14Z",
       "source": "BBC News",
@@ -754,14 +762,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Dziesiątki lat po upadku muru berlińskiego spadek liczby ludności na wschodzie obnaża istniejące podziały."
-    },
-    {
-      "title": "Australijczyk oskarżony o morderstwo po znalezieniu martwej dziewczyny w walizce w Tajlandii",
-      "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-29T01:58:29Z",
-      "source": "BBC News",
-      "confirmed_by": 3,
-      "summary": "Policja twierdzi, że w sobotę ciało 17-letniego Tunchanoka Donhomli znaleziono porzucone w pobliżu torów kolejowych."
     }
   ],
   "world_politics": [
@@ -779,7 +779,7 @@
       "date": "2026-06-29T16:45:59Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Wenezuelczycy zaczęli chować niektóre z ponad 1400 ofiar trzęsień ziemi z zeszłego tygodnia, dzieląc się opowieściami o niewyobrażalnych stratach."
+      "summary": "Wenezuelczycy zaczęli grzebać niektóre z ponad 1400 ofiar trzęsień ziemi z zeszłego tygodnia, dzieląc się opowieściami o niewyobrażalnych stratach."
     },
     {
       "title": "Andy Burnham, prawdopodobny następny premier Wielkiej Brytanii, obiecuje przeniesienie władzy z Londynu",
@@ -934,7 +934,7 @@
       "summary": "Sąd Najwyższy dobiega końca z doniosłymi sprawami dotyczącymi władzy Trumpa, które zostaną rozstrzygnięte AP News."
     },
     {
-      "title": "Francja odnotowuje około 1000 dodatkowych zgonów w wyniku ekstremalnych upałów pobijających europejskie rekordy – AP News",
+      "title": "Francja odnotowuje około 1000 dodatkowych zgonów w wyniku pobicia europejskich rekordów przez ekstremalne upały – AP News",
       "url": "https://apnews.com/article/europe-heat-temperature-records-france-deaths-germany-61f444317600cf1bd9af5af84cb582bd",
       "date": "2026-06-29T01:30:00Z",
       "source": "Associated Press",
@@ -942,20 +942,12 @@
       "summary": "Francja odnotowuje około 1000 dodatkowych zgonów w wyniku pobicia europejskich rekordów przez ekstremalne upały AP News."
     },
     {
-      "title": "Ukraińskie drony podpaliły kolejną rosyjską rafinerię po tym, jak Putin przyznał się do niedoborów paliwa – AP News",
-      "url": "https://apnews.com/article/ukraine-russia-war-oil-refinery-drones-88370faa1a49504438388f2854d7afd3",
-      "date": "2026-06-29T01:26:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Ukraińskie drony podpaliły kolejną rosyjską rafinerię po tym, jak Putin przyznaje, że brakuje paliwa AP News."
-    },
-    {
       "title": "Ameryka oddzieliła się od monarchii 250 lat temu. Prezydentura Trumpa sprawdza, jak daleko zaszła – AP News",
       "url": "https://apnews.com/article/america-250-trump-king-imperial-presidency-13c1b8f5ad2cb4c94d879d5738000e53",
       "date": "2026-06-28T21:27:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Ameryka oddzieliła się od monarchii 250 lat temu. AP News prezydencja Trumpa testuje, jak daleko zaszły."
+      "summary": "Ameryka oddzieliła się od monarchii 250 lat temu. Prezydentura Trumpa testuje, jak daleko zaszły AP News."
     },
     {
       "title": "Meteorolodzy twierdzą, że w tym tygodniu fala upałów i wysoka wilgotność uderzą w większą część wschodnich Stanów Zjednoczonych – AP News",
@@ -966,7 +958,7 @@
       "summary": "Meteorolodzy twierdzą, że w tym tygodniu fala upałów i wysoka wilgotność uderzą w większą część wschodnich Stanów Zjednoczonych – twierdzą meteorolodzy AP News."
     },
     {
-      "title": "Co najmniej 117 martwych psów znaleziono w „strasznej scenie” w kalifornijskim schronisku, w którym nie wolno zabijać – AP News",
+      "title": "Co najmniej 117 martwych psów znaleziono w „strasznej scenie” w kalifornijskim schronisku „bez zabijania” – AP News",
       "url": "https://apnews.com/article/dog-remains-animal-rescue-california-92545f7942f1f8663d5665c3b5bafec8",
       "date": "2026-06-28T19:31:00Z",
       "source": "Associated Press",
@@ -982,12 +974,20 @@
       "summary": "Wojsko szuka zaginionego żołnierza piechoty morskiej USA u wybrzeży Kalifornii AP News."
     },
     {
-      "title": "NASA ściga się, by uratować teleskop Swift przed spadkiem na Ziemię, wykonując odważną misję ratunkową – AP News",
+      "title": "NASA ściga się, by uratować teleskop Swift przed upadkiem na Ziemię, wykonując odważną misję ratunkową – AP News",
       "url": "https://apnews.com/article/nasa-swift-satellite-rescue-mission-f715e10a93c1015e280a7ccd1028a9c4",
       "date": "2026-06-28T13:01:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "NASA ściga się, by uratować teleskop Swift przed upadkiem na Ziemię, wykonując odważną misję ratunkową AP News."
+      "summary": "NASA ściga się, by uratować teleskop Swift przed spadkiem na Ziemię, wykonując odważną misję ratunkową AP News."
+    },
+    {
+      "title": "Ukraińskie drony podpaliły kolejną rosyjską rafinerię po tym, jak Putin przyznał się do niedoborów paliwa – AP News",
+      "url": "https://apnews.com/article/ukraine-russia-war-oil-refinery-drones-88370faa1a49504438388f2854d7afd3",
+      "date": "2026-06-28T11:03:42Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Ukraińskie drony podpaliły kolejną rosyjską rafinerię po tym, jak Putin przyznaje, że brakuje paliwa AP News."
     },
     {
       "title": "Frustracja rośnie w Wenezueli po trzęsieniu ziemi, w którym zginęło 1430 osób – AP News",
@@ -1008,12 +1008,20 @@
   ],
   "technology": [
     {
+      "title": "Tak działa klimatyzacja w pociągu. \"Kilka prostych zasad\"",
+      "url": "https://spidersweb.pl/2026/06/pkp-jak-dziala-klimatyzacja-pociag-ekspres-polarny-upal-wysokie-temperatury.html",
+      "date": "2026-06-29T16:52:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Tak działa klimatyzacja w pociągu. \"Kilka prostych zasad\"."
+    },
+    {
       "title": "Firma Quantifind, której produkty AI pomagają bankom zwalczać przestępstwa finansowe, takie jak pranie pieniędzy, zebrała 200 mln dolarów pod przewodnictwem Summit Partners (Laura Kreutzer/Wall Street Journal)",
       "url": "https://www.techmeme.com/260629/p30#a260629p30",
       "date": "2026-06-29T16:40:07Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Laura Kreutzer / Wall Street Journal: Quantifind, którego produkty AI pomagają bankom zwalczać przestępstwa finansowe, takie jak pranie pieniędzy, zebrała 200 mln dolarów pod przewodnictwem Summit Partners &mdash; Platforma Graphyte ma na celu pomóc bankom i innym organizacjom w wykrywaniu prania pieniędzy i innych przestępstw finansowych – twierdzi firma."
+      "summary": "Laura Kreutzer / Wall Street Journal: Quantifind, którego produkty AI pomagają bankom zwalczać przestępstwa finansowe, takie jak pranie pieniędzy, zebrała 200 mln dolarów pod przewodnictwem Summit Partners &mdash; Jej platforma Graphyte ma na celu pomóc bankom i innym organizacjom w wykrywaniu prania pieniędzy i innych przestępstw finansowych – twierdzi firma."
     },
     {
       "title": "Fatalne wieści dla miłośników smartfonów Samsung Galaxy",
@@ -1206,14 +1214,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Nikt go nie zna. Właśnie został najbogatszym Polakiem."
-    },
-    {
-      "title": "Rocket Lab planuje nabyć Iridium za 8 miliardów dolarów i połączyć usługi wystrzeliwania Rocket Lab z satelitarną siecią komunikacyjną Iridium, aby konkurować ze SpaceX (Emma Roth/The Verge)",
-      "url": "https://www.techmeme.com/260629/p23#a260629p23",
-      "date": "2026-06-29T14:15:02Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Emma Roth / The Verge: Rocket Lab planuje nabyć Iridium za 8 miliardów dolarów i połączyć usługi Rocket Lab w zakresie wystrzeliwania rakiet z satelitarną siecią komunikacyjną Iridium, aby konkurować ze SpaceX &mdash; Konstelacja 66 satelitów Iridium zapewnia łączność dla 2,5 miliona abonentów."
     },
     {
       "title": "Mag 7 zaczyna słabiej działać [pdf]",
@@ -1410,7 +1410,7 @@
   ],
   "cybersecurity": [
     {
-      "title": "WhatsApp w końcu uzyskuje nazwy użytkowników, aby zachować prywatność numerów telefonów",
+      "title": "WhatsApp wreszcie uzyskuje nazwy użytkowników, aby zachować prywatność numerów telefonów",
       "url": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
       "date": "2026-06-29T16:09:21Z",
       "source": "The Hacker News",
@@ -1586,7 +1586,7 @@
       "summary": "Microsoft zamknął długotrwałą operację złośliwego rozszerzenia w sklepie z dodatkami Edge, która ukrywała swoje ładunki w zwykłych plikach obrazów i czcionek, a następnie budziła się kilka dni po instalacji, aby kraść dane uwierzytelniające i przeprowadzać oszustwa reklamowe. Firma nazywa to StegoAd, połączenie steganografii i oprogramowania reklamowego i łączy 119 rozszerzeń z jednym ugrupowaniem zagrażającym, które według niego jest aktywne co najmniej od 2021 roku."
     },
     {
-      "title": "Wskazywanie platformom internetowym, gdzie mają umieszczać media publiczne, nikomu nie będzie służyć. Połóż go na głowie",
+      "title": "Wskazywanie platformom internetowym, gdzie mają umieszczać media publiczne, nikomu nie służy. Połóż go na głowie",
       "url": "https://www.theregister.com/columnists/2026/06/29/telling-internet-platforms-where-to-stick-public-service-media-will-serve-nobody-turn-it-on-its-head/5262789",
       "date": "2026-06-29T08:28:00Z",
       "source": "The Register",
@@ -1658,7 +1658,7 @@
       "summary": "PLUS: Qualcomm ulepsza chipy centrów danych dla Chin; Japońskie Siły Powietrzne rozciągają się w kosmos; Nieszczęścia WiseTechs mnożą się; i więcej!"
     },
     {
-      "title": "Ukraina twierdzi, że rosyjski wywiad wykorzystywał fałszywe SMS-y do pomocy w celu kradzieży danych uwierzytelniających do przesyłania wiadomości",
+      "title": "Ukraina twierdzi, że rosyjski wywiad używał fałszywych SMS-ów do pomocy w celu kradzieży danych uwierzytelniających do przesyłania wiadomości",
       "url": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
       "date": "2026-06-27T17:27:11Z",
       "source": "The Hacker News",
@@ -1695,7 +1695,7 @@
       "date": "2026-06-26T19:38:29Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "FBI i CISA zaktualizowały swoje marcowe ostrzeżenie dotyczące kont Signal wyłudzających informacje od rosyjskiego wywiadu, a operatorzy dodali kolejny krok: teraz namawiają cele do przekazania klucza odzyskiwania kopii zapasowej Signal. Przekaż go raz, a atakujący będzie mógł przywrócić kopię zapasową konta, przeczytać historię wiadomości prywatnych i grupowych oraz przejąć konto. Co gorsza, klucz nadal działa."
+      "summary": "FBI i CISA zaktualizowały swoje marcowe ostrzeżenie dotyczące kont Signal wyłudzających informacje od rosyjskiego wywiadu, a operatorzy dodali jeden krok: teraz namawiają cele do przekazania klucza odzyskiwania kopii zapasowej Signal. Przekaż go raz, a atakujący będzie mógł przywrócić kopię zapasową konta, przeczytać historię wiadomości prywatnych i grupowych oraz przejąć konto. Co gorsza, klucz nadal działa."
     },
     {
       "title": "Nowe złośliwe oprogramowanie SharkLoader wykorzystuje Cobalt Strike w cyberatakach StrikeShark",
@@ -1707,6 +1707,14 @@
     }
   ],
   "finance": [
+    {
+      "title": "Dwa oblicza Sądu Najwyższego. Trump zablokowany w banku centralnym, ale triumfuje w agencjach federalnych",
+      "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-nie-pozwolil-Trumpowi-zwolnic-gubernatorki-Fed-9160143.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-29T16:48:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Sąd Najwyższy USA orzekł w poniedziałek, że prezydent Donald Trump postąpił niezgodnie z prawem, zwalniając Lisę Cook, jedną z członkiń Rady Gubernatorów Rezerwy Federalnej. W odrębnym orzeczeniu sąd rozszerzył jednak uprawnienia prezydenta do swobodnego zwalniania urzędników innych agencji rządowych."
+    },
     {
       "title": "Sąd Najwyższy miażdży skargę Trumpa. Głosy korespondencyjne liczone legalnie",
       "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-USA-miazdzy-skarge-Trumpa-Glosy-korespondencyjne-liczone-legalnie-9160116.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -1796,14 +1804,6 @@
       "summary": "Komunikat EBI MakoLab SA (makolab): Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach) stockwatch.pl."
     },
     {
-      "title": "Mo-BRUK z nowym programem motywacyjnym na lata 2026–2030 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/148933,mo-bruk-z-nowym-programem-motywacyjnym-na-lata-2026-2030",
-      "date": "2026-06-29T15:34:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Mo-BRUK z nowym programem motywacyjnym na lata 2026–2030 BiznesRadar."
-    },
-    {
       "title": "Najnowszy sondaż polityczny. Trzy partie w ścisłej czołówce - Forsal.pl",
       "url": "https://forsal.pl/kraj/polityka/artykuly/11269430,sondaz-ibris-ko-pis-konfederacja-wyniki.html",
       "date": "2026-06-29T15:28:06Z",
@@ -1858,14 +1858,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Prezydent podpisał ustawę o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych w sprawach rozstrzyganych w drodze decyzji administracyjnych albo załatwianych milcząco – podała w poniedziałek Kancelaria Prezydenta."
-    },
-    {
-      "title": "Stacje ORLEN w nowej odsłonie. Od punktu tankowania do kompleksowej przestrzeni usługowej",
-      "url": "https://www.bankier.pl/wiadomosc/Stacje-ORLEN-w-nowej-odslonie-Od-punktu-tankowania-do-kompleksowej-przestrzeni-uslugowej-9159662.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-06-29T14:45:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Stacje paliw już dawno przestały być miejscem, w którym tylko tankujemy swój pojazd. Przykładem jest ORLEN, który rozpoczął prawdziwą zmianę ukierunkowaną na potrzeby klienta. Rozbudowa miejskiego formatu convenience ma zagwarantować błyskawiczne usługi handlowe oraz zaawansowaną ofertę stref kawiarnianych."
     },
     {
       "title": "800 plus dla seniorów w 2026 roku? Wszystko jasne, zapadła decyzja - Forsal.pl",
@@ -1964,6 +1956,14 @@
       "summary": "KNF odebrała mPay uprawnienia do świadczenia usług płatniczych BiznesRadar."
     },
     {
+      "title": "P.A. Nova: Park Handlowy w Nysie sprzedany - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/148918,p-a-nova-park-handlowy-w-nysie-sprzedany",
+      "date": "2026-06-29T07:59:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "P.A. Nova: Park Handlowy w Nysie sprzedany BiznesRadar."
+    },
+    {
       "title": "Ekstremalne upały. Tyle mocy potrzebowała Polska",
       "url": "https://www.money.pl/gospodarka/ekstremalne-upaly-tyle-mocy-potrzebowala-polska-7302013899593920a.html",
       "date": "2026-06-29T07:58:26Z",
@@ -1978,6 +1978,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "NWZA PKP Cargo uchwaliło emisję akcji BiznesRadar."
+    },
+    {
+      "title": "Orlen rozpoczyna sprzedaż HVO100 na Słowacji - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/148912,orlen-rozpoczyna-sprzedaz-hvo100-na-slowacji",
+      "date": "2026-06-29T07:44:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Orlen rozpoczyna sprzedaż HVO100 na Słowacji BiznesRadar."
     },
     {
       "title": "Synektik: Pierwsza umowa sprzedaży systemu MRgFUS na Słowacji - BiznesRadar",
@@ -2066,14 +2074,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Impuls i korekta - 28 czerwca 2026 tchoman ndz., 28.06.2026 Treść Wig walczy o utrzymanie wsparcia. Dodatkowo pomagają 50 dniowe. W nadchodzącym tygodniu powinno się wyjaśnić czy popytowi uda się je utrzymać, czy jednak wyłamią i wtedy konsekwencją powinno być zejście do niższego i okolic 100 dniowych."
-    },
-    {
-      "title": "Notowania historyczne RBIFS10SILVE17 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania-historyczne/RBIFS10SILVE17",
-      "date": "2026-06-27T21:50:37Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania historyczne RBIFS10SILVE17 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "Hakerzy podszywają się pod rekruterów. Irańska grupa celuje w specjalistów IT",
@@ -2188,7 +2188,7 @@
       "lng": 105.8,
       "type": "cyber",
       "region": "Rosja",
-      "description": "FBI i CISA zaktualizowały swoje marcowe ostrzeżenie dotyczące kont Signal wyłudzających informacje od rosyjskiego wywiadu, a operatorzy dodali kolejny krok: teraz namawiają cele do przekazania klucza odzyskiwania kopii zapasowej Signal.",
+      "description": "FBI i CISA zaktualizowały swoje marcowe ostrzeżenie dotyczące kont Signal wyłudzających informacje od rosyjskiego wywiadu, a operatorzy dodali jeden krok: teraz namawiają cele do przekazania klucza odzyskiwania kopii zapasowej Signal.",
       "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html"
     },
     {
@@ -2372,7 +2372,7 @@
       "lng": 21.76,
       "type": "conflict",
       "region": "DR Kongo",
-      "description": "Politycy opozycji zarzucają rządowi wykorzystanie epidemii do wstrzymania planowanego protestu.",
+      "description": "Politycy opozycji oskarżają rząd o wykorzystanie epidemii do wstrzymania planowanego protestu.",
       "url": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss"
     }
   ],
@@ -2387,7 +2387,7 @@
           "source": "The Guardian"
         },
         {
-          "title": "Wstrząs wtórny po trzęsieniu ziemi w Wenezueli w pobliżu stolicy: mężczyzna uratowany spod gruzów po 106 godzinach uwięzienia – najnowsze aktualizacje",
+          "title": "Wstrząsy wtórne po trzęsieniu ziemi w Wenezueli w pobliżu stolicy: mężczyzna uratowany spod gruzów po 106 godzinach uwięzienia – najnowsze aktualizacje",
           "url": "https://www.theguardian.com/world/live/2026/jun/29/venezuela-earthquakes-search-rescue-latest-updates",
           "source": "The Guardian"
         },
@@ -2681,51 +2681,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25575.88,
+      25575.61,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26735.84,
+      26735.55,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26882.23,
+      26881.95,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27126.25,
+      27125.97,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27759.6,
+      27759.31,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27795.51,
+      27795.21,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28039.27,
+      28038.97,
       27354.94,
       27400.36,
       27412.11,
-      28439.17,
+      28438.87,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27702.61,
+      27702.32,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27881.65,
+      27881.35,
       27686.17,
       27404.78,
       27351.97,
@@ -2734,8 +2734,8 @@
       27661.43,
       27749.69,
       27709.26,
-      27591.11,
-      27814.98
+      27590.81,
+      27820.31
     ],
     "currency": "PLN"
   }
