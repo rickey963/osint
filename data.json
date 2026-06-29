@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T06:32:55Z",
+  "last_updated": "2026-06-29T06:37:51Z",
   "poland": [
     {
       "title": "Minister z KPRP: Zwrot orderu kurierem to próba upokorzenia Polski",
@@ -476,12 +476,12 @@
       "summary": "Chiny obiecują wsparcie dla suwerenności narodowej Białorusi Reuters."
     },
     {
-      "title": "Urzędnicy twierdzą, że w pakistańskich atakach zginęło dziesiątki osób w Afganistanie",
+      "title": "W atakach pakistańskich w Afganistanie giną dziesiątki osób",
       "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-29T04:39:05Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Pakistan twierdzi, że jego ataki były odpowiedzią na „ataki terrorystyczne”. Talibowie nazwali ich „tchórzliwymi”."
+      "summary": "Rząd talibów twierdzi, że zginęli cywile, natomiast Pakistan utrzymuje, że ich celem byli bojownicy."
     },
     {
       "title": "Sprzedaż Toyoty spada w maju czwarty miesiąc w związku ze spadkiem w Chinach, USA i na Bliskim Wschodzie – Reuters",
@@ -1852,14 +1852,6 @@
       "summary": "Mieszkania \"spod lady\". \"Najlepsze oferty nie trafiają na ogólnodostępne portale\" Forbes."
     },
     {
-      "title": "W co inwestować w drugiej połowie 2026 roku? Hossa AI czy bańka AI?",
-      "url": "https://inwestomat.eu/w-co-inwestowac-w-drugiej-polowie-2026-roku/",
-      "date": "2026-06-29T05:00:00Z",
-      "source": "Inwestomat (Albert Rokicki)",
-      "confirmed_by": 1,
-      "summary": "Na razie wygrywają optymiści. Chyba nie pamiętam żadnego półrocza w ostatnich 6 latach (czyli mniej więcej czasie, w którym prowadzę tego bloga), w którym inwestorzy nie baliby się nowych rekordów cen akcji i nie przewidywali, że bańka zaraz pęknie. Jednak jeśli ktoś dołączyłby 6 lat temu do giełdowych optymistów i po prostu zainwestował swoje pieniądze w [&#8230;]."
-    },
-    {
       "title": "Autem na wakacje po Europie 2026. Nowe cenniki i surowe kary na autostradach. Jeden błąd i zapłacisz fortunę",
       "url": "https://www.bankier.pl/wiadomosc/Winiety-i-oplaty-autostradowe-w-Europie-2026-Ceny-haczyki-platnosci-9158658.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-06-29T05:00:00Z",
@@ -1874,6 +1866,14 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "System kaucyjny we wrześniu czeka mała rewolucja. Jak zapowiedziało Ministerstwo Klimatu i Środowiska, obejmie on tzw. małpki i inne szklane butelki jednorazowe."
+    },
+    {
+      "title": "Zwrot trendów w hipotekach. Za nami poważne turbulencje",
+      "url": "https://www.bankier.pl/wiadomosc/Oprocentowanie-kredytow-hipotecznych-zdolnosc-kredytowa-podsumowanie-II-kw-2026-9159398.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-29T05:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Pierwsze dwa kwartały 2026 r. to jak dwa odmienne światy. W pierwszym wszystkie tendencje sprzyjały kredytobiorcom."
     },
     {
       "title": "Upał uderza w kolej. PKP Intercity odwołuje kolejne pociągi - Forsal.pl",
@@ -2340,7 +2340,7 @@
       "lng": 67.71,
       "type": "conflict",
       "region": "Afganistan",
-      "description": "Pakistan twierdzi, że jego ataki były odpowiedzią na „ataki terrorystyczne”.",
+      "description": "Rząd talibów twierdzi, że zginęli cywile, natomiast Pakistan utrzymuje, że ich celem byli bojownicy.",
       "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -2523,7 +2523,7 @@
       "score": 6,
       "reasons": [
         {
-          "title": "Urzędnicy twierdzą, że w pakistańskich atakach zginęło dziesiątki osób w Afganistanie",
+          "title": "W atakach pakistańskich w Afganistanie giną dziesiątki osób",
           "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News"
         }
@@ -2742,51 +2742,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25629.53,
+      25628.78,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26791.92,
+      26791.13,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26938.62,
+      26937.83,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27183.16,
+      27182.36,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27817.83,
+      27817.02,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27853.81,
+      27853.0,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28098.08,
+      28097.26,
       27354.94,
       27400.36,
       27412.11,
-      28498.83,
+      28497.99,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27760.72,
+      27759.91,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27940.13,
+      27939.32,
       27686.17,
       27404.78,
       27351.97,
@@ -2795,7 +2795,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27648.98
+      27648.17
     ],
     "currency": "PLN"
   }
