@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T01:20:51Z",
+  "last_updated": "2026-06-29T01:25:50Z",
   "poland": [
     {
       "title": "Apel z Niemiec: Mniej biurokracji, a więcej uznania – turystyka na to zasługuje",
@@ -386,20 +386,20 @@
       "summary": "Hat-trick Dembele, sensacyjny awans Republiki Zielonego Przylądka. Podsumowanie piątku Polska Agencja Prasowa SA."
     },
     {
-      "title": "Małopolskie/ Pożar hali produkcyjnej w Mszanie Dolnej opanowany - PAP - serwis wideo",
-      "url": "https://wideo.pap.pl/pap-media,101/malopolskie-pozar-hali-produkcyjnej-w-mszanie-dolnej-opanowany-,92845",
-      "date": "2026-06-27T09:12:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Małopolskie/ Pożar hali produkcyjnej w Mszanie Dolnej opanowany PAP - serwis wideo."
-    },
-    {
       "title": "- Polska Agencja Prasowa SA",
       "url": "https://www.pap.pl/aktualnosci/komunikat?page=2",
       "date": "2026-06-27T06:17:53Z",
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "Sąd apelacyjny podtrzymał wyrok skazujący Harveya Weinsteina na 16 lat więzienia - Polska Agencja Prasowa SA",
+      "url": "https://www.pap.pl/aktualnosci/usa-sad-apelacyjny-podtrzymal-wyrok-skazujacy-producenta-filmowego-harveya-weinsteina",
+      "date": "2026-06-27T04:04:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Sąd apelacyjny podtrzymał wyrok skazujący Harveya Weinsteina na 16 lat więzienia Polska Agencja Prasowa SA."
     }
   ],
   "world_security": [
@@ -1096,20 +1096,28 @@
       "summary": "Bash4LLM to jednoplikowe opakowanie Bash umożliwiające interakcję z LLM z poziomu terminala. Stworzyłem go, ponieważ chciałem czegoś prostego, co działałoby bez instalowania Pythona, Node lub innego środowiska wykonawczego. Używa tylko Bash, curl i jq. Możesz wysyłać podpowiedzi, rozpoczynać krótki czat, przetwarzać pliki linia po linii, przesyłać strumieniowo dane wyjściowe i zapisywać metadane sesji w formacie JSON. Starałem się, aby było to bezpieczne i przewidywalne: nie używaj systemu /tmp, nie używaj eval."
     },
     {
+      "title": "Pokaż HN: NanoEuler – model w skali GPT-2 od podstaw w czystym C/CUDA",
+      "url": "https://github.com/JustVugg/nanoeuler",
+      "date": "2026-06-28T19:38:14Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Cześć wszystkim, Zacząłem pracować nad nanoeulerem po zakazie bajki anthropic, ponieważ moją ambicją i marzeniem jest praca w dziedzinie sztucznej inteligencji w anthropic. Dwa interesujące powody, które skłoniły mnie do stworzenia nanoeulera, to (1) połączenie z llm nie oznacza zrozumienia ich budowy oraz (2) praca nad llm z warstwą bardzo niskiego poziomu, aby zrozumieć korelację między parametrami i danymi a wzrostem modelu oraz tym, jak działa procesor graficzny i jak można zoptymalizować niektóre warstwy. Zacząłem więc nad tym pracę z aspektem badawczym, sprawiając, że nanoeuler rośnie coraz bardziej, ale robiąc krok po kroku, zaczynając od Shakespeare.txt i rozumiejąc, czym jest model generowania tekstu rozumie 23 miliony parametrów. Na przykład nanoeuler pod tym numerem zrozumiał, że Name: rozpoczął linię i napisał ją z rozsądkiem. Wszystko napisałem w CUDA, ponieważ nie chciałem używać żadnego pośrednika pomiędzy modelem w szkoleniu a wnioskowaniem i tym, co ma robić."
+    },
+    {
+      "title": "TOP500 na ISC’26: Mamy nowy superkomputer numer 1",
+      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+      "date": "2026-06-28T19:38:00Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number Adres URL komentarzy: https://news.ycombinator.com/item?id=48710775 Punkty: 66 # Komentarze: 34."
+    },
+    {
       "title": "Genialny trik dla posiadaczy Garminów. Zmień tani zegarek w drogi model",
       "url": "https://www.instalki.pl/news/software/genialny-trik-dla-posiadaczy-garminow-zmien-tani-zegarek-w-drogi-model/",
       "date": "2026-06-28T19:32:45Z",
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Właściciele tańszych zegarków sportowych marki Garmin właśnie zyskali potężną broń w walce z ograniczeniami systemowymi swojego sprzętu. Niezależny deweloper działający pod szyldem CrispGarmin stworzył aplikację Awesome Maps, która rewolucjonizuje podejście do nawigacji w przypadku smartwatchy. Oprogramowanie to pozwala ominąć sztuczne bariery producenckie i wprowadza zaawansowane, topograficzne mapowanie na urządzenia, które fabrycznie były odcięte od tej [&#8230;] Artykuł Genialny trik dla posiadaczy Garminów."
-    },
-    {
-      "title": "Rzym: Inteligentne opaski dla samotnych seniorów. Zupełnie za darmo",
-      "url": "https://www.benchmark.pl/rzym-inteligentne-opaski-dla-samotnych-seniorow-zupelnie-za-darmo-7301763446474976a",
-      "date": "2026-06-28T19:12:00Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Rzym rozdaje samotnie mieszkającym seniorom elektroniczne opaski, które kontrolują m.in. tętno, sen i sygnalizują nagłe zdarzenia. Jak podaje Reuters, miasto traktuje ten projekt jako istotne wsparcie zdrowotne na czas fali upałów, gdy temperatury we Włoszech ponownie przekraczają 30 st."
     },
     {
       "title": "Źródła: Jednostka zajmująca się chipami Baidu, Kunlunxin Technology, planuje pierwszą ofertę publiczną w Hongkongu za docelową wycenę 50 miliardów dolarów, prosząc inwestorów o zakup chipów o wartości 3-7-krotności ich inwestycji w IPO (Qianer Liu/The Information)",
@@ -1152,14 +1160,6 @@
       "summary": "Jest gorąco, jak diabli. Naturalną odpowiedzią na te szczególne warunki pogodowe wydaje się być zamontowanie klimatyzatora. Jednak źle dobrany może być ogromnym utrapieniem: także finansowym."
     },
     {
-      "title": "Kwestia bezpieczeństwa. Powstanie ukraińska infrastruktura dla AI",
-      "url": "https://www.benchmark.pl/kwestia-bezpieczenstwa-powstanie-ukrainska-infrastruktura-dla-ai-7301712422557888a",
-      "date": "2026-06-28T17:26:00Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Ukraina chce rozwijać krajową infrastrukturę obliczeniową dla sztucznej inteligencji we współpracy z operatorem Kyivstar. Według informacji podanych przez Reuters inicjatywa ma wzmocnić ochronę kluczowych systemów w realiach wojny oraz zmniejszyć uzależnienie od zagranicznych dostawców technologii."
-    },
-    {
       "title": "Co rzuty karne mówią o ludzkiej psychice? Sprawdził, dlaczego zawodzą nawet najlepsi",
       "url": "https://antyweb.pl/co-rzuty-karne-mowia-o-ludzkiej-psychice-sprawdzil-dlaczego-zawodza-nawet-najlepsi",
       "date": "2026-06-28T17:15:34Z",
@@ -1184,36 +1184,12 @@
       "summary": "Niezależnie od tego, czy wolicie horror, animację na żywo, czy wielkie kino Nolana, w lipcu każdy znajdzie w repertuarze coś dla siebie – oto pięć najciekawszych premier nadchodzącego miesiąca."
     },
     {
-      "title": "Czy to jeszcze gra, czy już żart? 3 tys. zł za 10 minut grania",
-      "url": "https://www.benchmark.pl/czy-to-jeszcze-gra-czy-juz-zart-3-tys-zl-za-10-minut-grania-7300259858184224a",
-      "date": "2026-06-28T16:55:00Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Na Steamie co jakiś czas pojawiają się tytuły, które bardziej przypominają eksperyment społeczny niż klasyczną grę. \"Congratulations On Your Purchase\" to jednak przypadek skrajny – produkcja, która nie udaje, że chodzi w niej o rozrywkę. Tutaj główną rolę gra cena, a nie zawartość."
-    },
-    {
       "title": "Australijska firma Firmus współpracuje z firmą Nvidia przy budowie pierwszego centrum danych w Batam w Indonezji; kampus fabryczny Nvidia DSX AI o mocy 360 MW został opracowany wspólnie z DayOne (Bloomberg)",
       "url": "https://www.techmeme.com/260628/p9#a260628p9",
       "date": "2026-06-28T16:30:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Bloomberg: Australijska firma Firmus współpracuje z firmą Nvidia przy budowie pierwszego centrum danych w Batam w Indonezji; kampus fabryczny Nvidia DSX AI o mocy 360 MW został opracowany przy użyciu DayOne &mdash; Firmus Technologies Pty Ltd. zbuduje swój pierwszy projekt centrum danych w Indonezji w ramach partnerstwa z amerykańskim gigantem chipów Nvidia Corp. &hellip;."
-    },
-    {
-      "title": "Webb uchwycił zderzenie sześciu galaktyk. Powstaje kosmiczny gigant",
-      "url": "https://www.benchmark.pl/webb-uchwycil-zderzenie-szesciu-galaktyk-powstaje-kosmiczny-gigant-7300975221242016a",
-      "date": "2026-06-28T15:17:00Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Kosmiczny Teleskop Jamesa Webba zaobserwował niezwykłe spotkanie sześciu galaktyk w młodym wszechświecie. Naukowcy dostali dzięki temu rzadką szansę, by jednocześnie badać narodziny ogromnej galaktyki oraz rozwój supermasywnej czarnej dziury w jej centrum."
-    },
-    {
-      "title": "Shenlong znów zaskakuje na orbicie. Co wypuścił tajny \"Boski Smok\"",
-      "url": "https://www.benchmark.pl/shenlong-znow-zaskakuje-na-orbicie-co-wypuscil-tajny-boski-smok-7300357308815360a",
-      "date": "2026-06-28T15:10:00Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Chiński samolot kosmiczny Shenlong podczas swojej czwartej misji na orbicie miał uwolnić nieznany obiekt — wynika z obserwacji firmy LeoLabs. Pekin nie ujawnia, jaki był cel operacji, a analitycy wskazują, że to kolejny przykład utajnionych testów prowadzonych z użyciem tej konstrukcji."
     },
     {
       "title": "PKP chyba robi to specjalnie. Czy w słowniku spółki występuje słowo \"normalnie\"?",
@@ -1304,20 +1280,12 @@
       "summary": "Jesteś na wakacjach i planujesz dać się okraść lokalnym rzezimieszkom? Lepiej to przemyśl, a przynajmniej wybierz inny dzień niż weekend. Możesz wtedy zapłacić nawet czterokrotnie więcej za powrót do domu."
     },
     {
-      "title": "Planetoidy opóźniły narodziny kontynentów. Nowe spojrzenie na hadeik",
-      "url": "https://www.benchmark.pl/planetoidy-opoznily-narodziny-kontynentow-nowe-spojrzenie-na-hadeik-7300969420757152a",
-      "date": "2026-06-28T12:44:00Z",
-      "source": "Benchmark.pl",
+      "title": "Apple ma pomysł na obniżenie kosztów. Potrzebuje do tego odpowiedniej zgody",
+      "url": "https://antyweb.pl/apple-ma-pomysl-na-obnizenie-kosztow-potrzebuje-do-tego-odpowiedniej-zgody",
+      "date": "2026-06-28T12:15:28Z",
+      "source": "Antyweb",
       "confirmed_by": 1,
-      "summary": "Wczesna Ziemia mogła przez setki milionów lat nie być w stanie \"zabetonować\" pierwszej skorupy kontynentalnej z powodu długotrwałego bombardowania planetoidami — opisuje ScienceAlert. Zespół geologa Tima Johnsona wskazuje, że energia kolejnych uderzeń podtrzymywała wysokie temperatury i osłabiała młodą skorupę, przez co trudno było jej się utrwalić."
-    },
-    {
-      "title": "Test Razer Hammerhead V3 HyperSpeed. Tego się po nich nie spodziewałem",
-      "url": "https://www.benchmark.pl/test-razer-hammerhead-v3-hyperspeed-tego-sie-po-nich-nie-spodziewalem-7300969913972896a",
-      "date": "2026-06-28T12:03:00Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Spędziłem kilka tygodni ze słuchawkami Razer Hammerhead V3 Hyperspeed. Potwierdziło to moje podejrzenia, które mam od dłuższego czasu. Producenci sprzętu gamingowego doścignęli tych od \"prawdziwych słuchawek\"."
+      "summary": "Sytuacja na rynku podzespołów, w szczególności pamięci RAM, robi się na tyle nieciekawa, że Apple szuka różnych rozwiązań. Najnowsze budzi sporo emocji."
     },
     {
       "title": "Oura i Samsung będą mieć problem. Apple szykuje „iRing”",
@@ -1328,12 +1296,28 @@
       "summary": "Na rynku urządzeń ubieralnych szykuje się potężne trzęsienie ziemi. Dobrze znany w branży insider Kosutami, odpalił prawdziwą bombę informacyjną. Apple potajemnie pracuje nad własnym inteligentnym pierścieniem, który ma rzucić wyzwanie kultowemu Oura Ring 5."
     },
     {
+      "title": "Brazylia, która miała trudności ze standaryzacją wyszukiwania talentów piłkarskich, korzysta z aplikacji scoutingowych opartych na sztucznej inteligencji, które oceniają graczy na podstawie analizy klipów wideo i nie tylko (New York Times)",
+      "url": "https://www.techmeme.com/260628/p7#a260628p7",
+      "date": "2026-06-28T10:00:36Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "New York Times: Brazylia, która miała trudności ze standaryzacją wyszukiwania talentów piłkarskich, korzysta z aplikacji scoutingowych opartych na sztucznej inteligencji, które oceniają graczy na podstawie analizy klipów wideo i nie tylko &mdash; Aplikacje rekrutacyjne oparte na sztucznej inteligencji zyskują na popularności w Brazylii, obiecując wyrównać szanse i znaleźć więcej talentów piłkarskich."
+    },
+    {
       "title": "Masz Androida? Włącz tę ukrytą funkcję w Sklepie Play, zanim znowu stracisz majątek na aplikacje",
       "url": "https://www.instalki.pl/news/software/sklep-play-ma-ukryta-funkcje-zaoszczedzisz-sporo-pieniedzy/",
       "date": "2026-06-28T09:59:56Z",
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Twórcy aplikacji żyją z tego, że zapomnisz kliknąć anuluj przed końcem darmowego okresu próbnego. Zamiast zaśmiecać kalendarz przypomnieniami albo ściągać kolejne aplikacje do kontroli budżetu, wystarczy użyć narzędzia, które i tak masz na smartfonie. Ty ustalasz limit, a Google pilnuje reszty."
+    },
+    {
+      "title": "InPost miał chatbota, który się rozbierał. Tak, to wydarzyło się naprawdę",
+      "url": "https://www.instalki.pl/news/internet/chatbot-inpostu-rozbieral-sie-striptiz-paczkomaty-2009/",
+      "date": "2026-06-28T08:40:41Z",
+      "source": "Instalki.pl",
+      "confirmed_by": 1,
+      "summary": "InPost kojarzy się dziś z Paczkomatami i nierzadko kreatywnym marketingiem. Mało kto pamięta jednak, że w historii firmy był rozdział, o którym w dzisiejszych realiach Rafał Brzoska być może chciałby zapomnieć. W 2009 roku Polacy mogli porozmawiać z chatbotem InPostu, który po wpisaniu tajnego kodu zaczynał striptiz."
     },
     {
       "title": "Meta śledziła klawiatury pracowników. Potem sama zgubiła dane",
@@ -1358,6 +1342,14 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Burza na Słońcu, mniej deszczu na Ziemi. Dziwny trop w danych zbieranych przez 67 lat."
+    },
+    {
+      "title": "Wentylator kolumnowy - polecane modele. Które warto kupić, a które omijać szerokim łukiem?",
+      "url": "https://spidersweb.pl/2026/06/wentylator-kolumnowy-polecane-modele.html",
+      "date": "2026-06-28T07:00:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Wentylator kolumnowy - polecane modele. Które warto kupić, a które omijać szerokim łukiem?"
     },
     {
       "title": "Absolwenci Apple i Audi stworzyli luksusowy pojazd elektryczny oparty na księżycowym buggy",
@@ -1406,6 +1398,14 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "NYT zmienia roszczenia dotyczące praw autorskich OpenAI/Microsoft po wyroku SCOTUS przeciwko Sony."
+    },
+    {
+      "title": "FCC oskarżona o ukrywanie wiadomości przewodniczącego Carra przed DOGE i Muskiem",
+      "url": "https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/",
+      "date": "2026-06-26T18:51:04Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "FCC odmawia przekazywania wiadomości, według pozwu „zmarnowała rok” czasu sądu."
     }
   ],
   "cybersecurity": [
@@ -1940,22 +1940,6 @@
       "summary": "\"Absurdalna prezentacja bez ładu u składu\". Kosmiczne wyceny start-upów AI Forbes."
     },
     {
-      "title": "Sygnały analizy technicznej RBIFL4SILVE4 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/RBIFL4SILVE4",
-      "date": "2026-06-27T21:11:21Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Sygnały analizy technicznej RBIFL4SILVE4 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
-    },
-    {
-      "title": "Analiza techniczna RBIFL7GOLD4 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/RBIFL7GOLD4",
-      "date": "2026-06-27T18:34:51Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Analiza techniczna RBIFL7GOLD4 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
-    },
-    {
       "title": "Prezes spożywczego giganta dosadnie. Mówi, za co zapłacą klienci",
       "url": "https://www.money.pl/podatki/prezes-spozywczego-giganta-ostro-mowi-za-co-zaplaca-klienci-7300056864297537v.html",
       "date": "2026-06-27T17:57:59Z",
@@ -1994,14 +1978,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Polacy trzymają na nieoprocentowanych kontach astronomiczną kwotę — i z każdym rokiem realnie tracą. — Już jest bilion złotych leżący na nieoprocentowanych kontach w Polsce — alarmuje Katarzyna Iwuć, ekspertka od finansów osobistych, w programie \"Biznes Klasa\"."
-    },
-    {
-      "title": "Sygnały analizy technicznej BNPPMXWO0629 BNP PARIBAS ARBITRAGE ISSUANCE - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/BNPPMXWO0629",
-      "date": "2026-06-27T09:56:38Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Sygnały analizy technicznej BNPPMXWO0629 BNP PARIBAS ARBITRAGE ISSUANCE BiznesRadar."
     },
     {
       "title": "Kronika Sportowa - stockwatch.pl",
@@ -2092,12 +2068,36 @@
       "summary": "W Polsce studiuje już ponad 1,32 mln osób, ale publiczne i prywatne akademiki mają łącznie nieco ponad 129 tys. miejsc – wynika z danych Cushman & Wakefield. To średnio prawie 10 studentów na jedno łóżko."
     },
     {
+      "title": "Notowania WIG-GORNIC WIG-górnictwo - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/WIG-GORNIC",
+      "date": "2026-06-26T15:15:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania WIG-GORNIC WIG-górnictwo BiznesRadar."
+    },
+    {
       "title": "Rating PXM (POLIMEXMS) - BiznesRadar",
       "url": "https://www.biznesradar.pl/rating/POLIMEX",
       "date": "2026-06-26T15:04:59Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Rating PXM (POLIMEXMS) BiznesRadar."
+    },
+    {
+      "title": "Analiza techniczna FW20 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/FW20",
+      "date": "2026-06-26T15:04:26Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Analiza techniczna FW20 BiznesRadar."
+    },
+    {
+      "title": "Wskaźniki wartości rynkowej EUR (EUROCASH) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wskazniki-wartosci-rynkowej/EUROCASH",
+      "date": "2026-06-26T15:03:48Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wskaźniki wartości rynkowej EUR (EUROCASH) BiznesRadar."
     },
     {
       "title": "Rosjanie masowo ruszyli do kantorów. Powód jest jeden",
@@ -2238,14 +2238,6 @@
       "region": "Rosja",
       "description": "Władze rosyjskie wykorzystały narzędzia kryminalistyczne UFED firmy Cellebrite do włamania się do iPhone’a zatrzymanego działacza opozycji Andrieja Pivovarowa w czerwcu 2021 r., trzy miesiące po oświadczeniu Cellebrite, że zaprzestanie sprzedaży swoich narzędzi i usług Rosji i Białorusi.",
       "url": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html"
-    },
-    {
-      "lat": 51.7,
-      "lng": 10.9,
-      "type": "cyber",
-      "region": "Niemcy",
-      "description": "Komisja Europejska zatwierdziła 76 mln euro niemieckiej pomocy publicznej dla QuantumDiamonds GmbH, która w Monachium ma zbudować zakład produkujący sprzęt do testowania chipów z wykorzystaniem czujników kwantowych.",
-      "url": "https://cyberdefence24.pl/europa-wzmacnia-sektor-polprzewodnikow-miliony-euro-dla-niemieckiej-firmy"
     },
     {
       "lat": 5.92,
@@ -2762,51 +2754,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25671.59,
+      25666.61,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26835.89,
+      26830.69,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26982.83,
+      26977.6,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27227.77,
+      27222.49,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27863.48,
+      27858.08,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27899.52,
+      27894.11,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28144.19,
+      28138.74,
       27354.94,
       27400.36,
       27412.11,
-      28545.6,
+      28540.06,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27806.28,
+      27800.89,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27985.99,
+      27980.56,
       27686.17,
       27404.78,
       27351.97,
@@ -2815,7 +2807,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27694.36
+      27688.99
     ],
     "currency": "PLN"
   }
