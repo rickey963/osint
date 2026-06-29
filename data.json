@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T10:25:25Z",
+  "last_updated": "2026-06-29T10:30:36Z",
   "poland": [
     {
       "title": "Nowe ceny paliw od wtorku. Benzyna znów tanieje, ale diesel idzie w górę",
@@ -768,7 +768,7 @@
     {
       "title": "Aktualne informacje na żywo ze Środkowego Wschodu: Stany Zjednoczone osiągają porozumienie z Iranem w sprawie powstrzymania ataków, twierdzi urzędnik",
       "url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes",
-      "date": "2026-06-29T10:08:38Z",
+      "date": "2026-06-29T10:22:47Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Porozumienie umożliwi statkom swobodny przepływ przez Cieśninę Ormuz – powiedział amerykański urzędnik. Iran nie potwierdził transakcji."
@@ -1007,6 +1007,14 @@
     }
   ],
   "technology": [
+    {
+      "title": "Jak spór Polymarketu dotyczący jednej sylaby wywołał gorzką debatę; Polymarket korzysta z Optymistycznej Oracle firmy Risk Labs, aby decydować o ~200 tys. trudnych zakładów sprawdzających miesięcznie (David Segal/New York Times)",
+      "url": "https://www.techmeme.com/260629/p15#a260629p15",
+      "date": "2026-06-29T10:25:02Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "David Segal / New York Times: Jak spór Polymarket dotyczący jednej sylaby wywołał gorzką debatę; Polymarket korzysta z Optymistycznej Oracle firmy Risk Labs, aby decydować o ~200 tys. trudnych zakładów sprawdzających miesięcznie &mdash; W połowie kwietnia w Internecie wybuchła długa i drażliwa kłótnia dotycząca pozornie banalnego pytania: Czy facet na filmie powiedział „Donk”?"
+    },
     {
       "title": "Microsoft eksperymentuje z nową funkcją. Nie było jej nawet w Windowsie 10",
       "url": "https://antyweb.pl/microsoft-eksperymentuje-z-nowa-funkcja-nie-bylo-jej-nawet-w-windowsie-10",
@@ -1302,14 +1310,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Badacze z Uniwersytetu Cornella opracowali specjalną kąpiel elektrochemiczną, która potrafi przywrócić zużytym bateriom litowo-jonowym niemal stuprocentową sprawność."
-    },
-    {
-      "title": "Czy przyszłość to drukowanie sobie ubrań z plastiku? Ten człowiek dał temu szansę",
-      "url": "https://antyweb.pl/czy-przyszlosc-to-drukowanie-sobie-ubran-z-plastiku-ten-czlowiek-dal-temu-szanse",
-      "date": "2026-06-29T06:30:46Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Czy w przyszłości będziemy sobie po prostu drukować ubrania z plastiku, zamiast je kupować?"
     },
     {
       "title": "GTA 6 bez płyty w pudełku. Nowe ustalenia rozwiewają wszelkie wątpliwości",
@@ -1828,6 +1828,14 @@
       "summary": "Poniedziałkowe zwyczajne walne zgromadzenie akcjonariuszy PKO BP zdecydowało o wypłacie 6,14 zł dywidendy na akcję z zysku netto za 2025 r. Na dywidendę trafi łącznie 7,67 mld zł, czyli 74,95 proc. ubiegłorocznego zysku."
     },
     {
+      "title": "Wielki przekręt przy zakupie \"elektryków\". CBA wkroczyło do akcji",
+      "url": "https://www.bankier.pl/wiadomosc/Wielki-przekret-przy-zakupie-elektrykow-CBA-wkroczylo-do-akcji-9159645.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-29T09:32:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Funkcjonariusze CBA zatrzymali cztery osoby w związku ze śledztwem ws. nieprawidłowości przy organizacji i przeprowadzaniu przetargów na zakup autobusów elektrycznych dla samorządów – podała w poniedziałek Prokuratura Okręgowa w Poznaniu."
+    },
+    {
       "title": "Rewolucja w dieslu? Orlen zaczyna sprzedaż biopaliwa HVO100 na Słowacji - Forsal.pl",
       "url": "https://forsal.pl/biznes/motoryzacja/artykuly/11269163,nowe-paliwo-z-odpadow-orlen-testuje-biopaliwa-dla-silnikow-diesla.html",
       "date": "2026-06-29T09:24:41Z",
@@ -1962,14 +1970,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Mieszkania \"spod lady\". Najlepsze oferty w ogóle nie trafiają na portale Forbes."
-    },
-    {
-      "title": "W co inwestować w drugiej połowie 2026 roku? Hossa AI czy bańka AI?",
-      "url": "https://inwestomat.eu/w-co-inwestowac-w-drugiej-polowie-2026-roku/",
-      "date": "2026-06-29T05:00:00Z",
-      "source": "Inwestomat (Albert Rokicki)",
-      "confirmed_by": 1,
-      "summary": "Na razie wygrywają optymiści. Chyba nie pamiętam żadnego półrocza w ostatnich 6 latach (czyli mniej więcej czasie, w którym prowadzę tego bloga), w którym inwestorzy nie baliby się nowych rekordów cen akcji i nie przewidywali, że bańka zaraz pęknie. Jednak jeśli ktoś dołączyłby 6 lat temu do giełdowych optymistów i po prostu zainwestował swoje pieniądze w [&#8230;]."
     },
     {
       "title": "Prognozy dla dolara na 2026. Rynek widzi słabszy USD, ale ostrzega przed mocnym odbiciem",
@@ -2731,51 +2731,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25653.66,
+      25655.71,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26817.15,
+      26819.28,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26963.99,
+      26966.14,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27208.75,
+      27210.92,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27844.02,
+      27846.24,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27880.04,
+      27882.26,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28124.54,
+      28126.78,
       27354.94,
       27400.36,
       27412.11,
-      28525.66,
+      28527.94,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27786.86,
+      27789.08,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27966.44,
+      27968.67,
       27686.17,
       27404.78,
       27351.97,
@@ -2784,7 +2784,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27675.02
+      27677.22
     ],
     "currency": "PLN"
   }
