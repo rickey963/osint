@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T05:23:20Z",
+  "last_updated": "2026-06-29T05:24:01Z",
   "poland": [
     {
       "title": "Mundial 2026, dzień dziewiętnasty. Wyniki meczów",
@@ -766,20 +766,20 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualności na żywo z Bliskiego Wschodu: Stany Zjednoczone wyrażają zgodę na zawieszenie ataków w cieśninie, ale Iran tego nie potwierdził",
+      "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+      "date": "2026-06-29T05:20:26Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Urzędnik amerykański powiedział, że Stany Zjednoczone i Iran zgodziły się wstrzymać ataki w Cieśninie Ormuz i umożliwić statkom swobodny przepływ."
+    },
+    {
       "title": "Europejska polityka cieplna",
       "url": "https://www.nytimes.com/2026/06/28/world/heat-wave-europe-iran-venezuela.html",
       "date": "2026-06-29T04:58:53Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "W miarę jak na kontynencie robi się gorąco, niektórzy prawicowi populiści wyrażają swoje poparcie dla klimatyzacji."
-    },
-    {
-      "title": "Aktualności na żywo z Bliskiego Wschodu: Stany Zjednoczone wyrażają zgodę na zawieszenie ataków w cieśninie, ale Iran tego nie potwierdził",
-      "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
-      "date": "2026-06-29T04:45:15Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Urzędnik amerykański powiedział, że Stany Zjednoczone i Iran zgodziły się wstrzymać ataki w Cieśninie Ormuz i umożliwić statkom swobodny przepływ."
     },
     {
       "title": "Francja odnotowuje około 1000 dodatkowych zgonów w wyniku ekstremalnych upałów pobijających europejskie rekordy – AP News",
@@ -1053,7 +1053,7 @@
       "date": "2026-06-29T04:47:53Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6298838 Adres URL komentarzy: https://news.ycombinator.com/item?id=48714919 Punkty: 5 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6298838 Adres URL komentarzy: https://news.ycombinator.com/item?id=48714919 Punkty: 13 # Komentarze: 2."
     },
     {
       "title": "Papież mówi o AI to, czego nigdy nie powiedzą giganci. Warto go posłuchać",
@@ -1141,7 +1141,7 @@
       "date": "2026-06-29T03:42:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026 Adres URL komentarzy: https://news.ycombinator.com/item?id=48714529 Punkty: 173 # Komentarze: 42."
+      "summary": "Adres URL artykułu: https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026 Adres URL komentarzy: https://news.ycombinator.com/item?id=48714529 Punkty: 184 # Komentarze: 64."
     },
     {
       "title": "Momenta z siedzibą w Szanghaju, z której technologii wspomagających kierowcę korzystają Toyota, Mercedes i Audi w Chinach, składa wniosek o pierwszą ofertę publiczną w Hongkongu, starając się zebrać do 751,1 mln dolarów (Reuters)",
@@ -1165,15 +1165,7 @@
       "date": "2026-06-29T01:44:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://danunparsed.com/p/hackerrank-open-source-ats Adres URL komentarzy: https://news.ycombinator.com/item?id=48713832 Punkty: 35 # Komentarze: 5."
-    },
-    {
-      "title": "Być może nie będziesz potrzebować pracownika serwisu",
-      "url": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
-      "date": "2026-06-29T00:48:17Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48713453 Punkty: 14 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://danunparsed.com/p/hackerrank-open-source-ats Adres URL komentarzy: https://news.ycombinator.com/item?id=48713832 Punkty: 53 # Komentarze: 15."
     },
     {
       "title": "Producent robotów humanoidalnych Apptronik pozyskał ~1 miliard dolarów przy wycenie ~5 miliardów dolarów, w tym od Mercedes-Benz, który ma w swoich fabrykach kilka robotów Apollo Apptronik (Joshua Brustein/Bloomberg)",
@@ -1208,12 +1200,12 @@
       "summary": "Marton Eder / Bloomberg: List: Austria naciska na UE, aby rozważyła przyjęcie Anthropic w swoich granicach, podkreślając wysiłki UE na rzecz zwiększenia niezależności bloku od technologii amerykańskich i chińskich &mdash; Austria naciska na Unię Europejską, aby rozważyła przyjęcie w swoich granicach Anthropic PBC, aby przeciwstawić się wysiłkom Stanów Zjednoczonych mającym na celu blokowanie obcokrajowców."
     },
     {
-      "title": "Pokaż HN: NanoEuler – model w skali GPT-2 od podstaw w czystym C/CUDA",
-      "url": "https://github.com/JustVugg/nanoeuler",
-      "date": "2026-06-28T19:38:14Z",
+      "title": "Pokaż HN: Bash4LLM+ – Lekkie, wolne od zależności opakowanie Bash dla interfejsów API LLM",
+      "url": "https://github.com/kamaludu/bash4llm/",
+      "date": "2026-06-28T19:43:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Cześć wszystkim, Zacząłem pracować nad nanoeulerem po zakazie bajki anthropic, ponieważ moją ambicją i marzeniem jest praca w dziedzinie sztucznej inteligencji w anthropic. Dwa interesujące powody, które skłoniły mnie do stworzenia nanoeulera, to (1) łączenie się z llm nie oznacza zrozumienia ich budowy oraz (2) praca nad llm z warstwą bardzo niskiego poziomu, aby zrozumieć korelację między parametrami i danymi a wzrostem modelu oraz tym, jak działa procesor graficzny i jak można zoptymalizować niektóre warstwy. Zacząłem więc nad tym pracę w aspekcie badawczym, sprawiając, że nanoeuler rośnie coraz bardziej, ale robiąc krok po kroku, zaczynając od Shakespeare.txt i rozumiejąc, czym jest model generowania tekstu rozumie 23 miliony parametrów. Na przykład nanoeuler pod tym numerem zrozumiał, że Name: rozpoczął linię i napisał ją z rozsądkiem. Wszystko napisałem w CUDA, ponieważ nie chciałem używać żadnego pośrednika pomiędzy modelem w szkoleniu a wnioskowaniem i tym, co ma robić."
+      "summary": "Bash4LLM to jednoplikowe opakowanie Bash umożliwiające interakcję z LLM z poziomu terminala. Stworzyłem go, ponieważ chciałem czegoś prostego, co działałoby bez instalowania Pythona, Node lub innego środowiska wykonawczego. Używa tylko Bash, curl i jq. Możesz wysyłać podpowiedzi, rozpoczynać krótki czat, przetwarzać pliki linia po linii, przesyłać strumieniowo dane wyjściowe i zapisywać metadane sesji w formacie JSON. Starałem się, aby było to bezpieczne i przewidywalne: nie używaj systemu /tmp, nie używaj eval."
     },
     {
       "title": "TOP500 na ISC’26: Mamy nowy superkomputer numer 1",
@@ -1246,6 +1238,14 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "Kliknięcie linków powoduje teraz wyświetlenie pustych stron i pustych plików PDF. „Intelektualnie jest to nie do przyjęcia.”"
+    },
+    {
+      "title": "Librepody: AirPods wyzwolone",
+      "url": "https://github.com/librepods-org/librepods",
+      "date": "2026-06-28T18:48:53Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://github.com/librepods-org/librepods Adres URL komentarzy: https://news.ycombinator.com/item?id=48710232 Punkty: 327 # Komentarze: 105."
     },
     {
       "title": "Czy smartfon przyciąga pioruny? Elektronika a burze – fakty i mity",
@@ -2750,51 +2750,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25659.12,
+      25657.41,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26822.85,
+      26821.06,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26969.72,
+      26967.93,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27214.53,
+      27212.73,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27849.94,
+      27848.09,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27885.96,
+      27884.11,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28130.52,
+      28128.65,
       27354.94,
       27400.36,
       27412.11,
-      28531.73,
+      28529.83,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27792.77,
+      27790.92,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27972.39,
+      27970.53,
       27686.17,
       27404.78,
       27351.97,
@@ -2803,7 +2803,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27680.9
+      27679.06
     ],
     "currency": "PLN"
   }
