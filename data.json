@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T12:17:44Z",
+  "last_updated": "2026-06-30T12:21:05Z",
   "poland": [
     {
       "title": "Magdalena Sobkowiak-Czarnecka z nową funkcją. Zapadła decyzja na posiedzeniu rządu",
@@ -307,7 +307,23 @@
     },
     {
       "title": "- Polska Agencja Prasowa SA",
+      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC105%20contains(Krzysztof%20Zaremba))",
+      "date": "2026-06-30T09:35:07Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "- Polska Agencja Prasowa SA",
       "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC005%20contains(BRAA20260630_432))",
+      "date": "2026-06-30T09:35:07Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "- Polska Agencja Prasowa SA",
+      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC105%20contains(Marcin%20Kulasek%2C%20Dariusz%20Standerski))",
       "date": "2026-06-30T09:35:07Z",
       "source": "PAP",
       "confirmed_by": 1,
@@ -354,28 +370,12 @@
       "summary": "Czy piorun może wpaść przez okno? Polacy wciąż popełniają ten błąd podczas burzy Polskie Radio 24."
     },
     {
-      "title": "IMGW wydało ostrzeżenia. Dotyczą upałów i burz - Polska Agencja Prasowa SA",
-      "url": "https://www.pap.pl/aktualnosci/imgw-ostrzega-przed-burzami-w-siedmiu-wojewodztwach-i-upalami-w-11-wojewodztwach",
-      "date": "2026-06-30T06:34:47Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "IMGW wydało ostrzeżenia. Dotyczą upałów i burz Polska Agencja Prasowa SA."
-    },
-    {
       "title": "Nawet 37°C i czerwone alerty. W tych miejscach żar nie odpuści - Polskie Radio 24",
       "url": "https://polskieradio24.pl/pogoda/nawet-37c-i-ostrzezenia-imgw-najwyzszego-stopnia-upal-dzis-nie-odpusci",
       "date": "2026-06-30T05:16:34Z",
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Nawet 37°C i czerwone alerty. W tych miejscach żar nie odpuści Polskie Radio 24."
-    },
-    {
-      "title": "Zastrzyk dla piłki nożnej w Chicago i MLS - media o transferze Lewandowskiego - Polska Agencja Prasowa SA",
-      "url": "https://www.pap.pl/aktualnosci/zastrzyk-dla-pilki-noznej-w-chicago-i-mls-media-o-transferze-lewandowskiego",
-      "date": "2026-06-30T05:11:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Zastrzyk dla piłki nożnej w Chicago i MLS - media o transferze Lewandowskiego Polska Agencja Prasowa SA."
     },
     {
       "title": "Wiadomo, gdzie spadnie najwięcej deszczu. Tak przez Polskę przejdą ulewy - Polskie Radio 24",
@@ -428,6 +428,14 @@
       "summary": "Zawalenie się bloku mieszkalnego w Atenach, ratownicy szukają uwięzionych Reuters."
     },
     {
+      "title": "Giełda rośnie w znakomitym kwartale; dolar uderza w złoto i jena – Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-30/",
+      "date": "2026-06-30T11:37:35Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Giełda rośnie w znakomitym kwartale; dolar uderza w złoto i jen Reuters."
+    },
+    {
       "title": "Trwa obława po bombie, w której ranny zostaje ukraiński oligarcha i inne osoby w Monako",
       "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-30T11:36:05Z",
@@ -449,7 +457,7 @@
       "date": "2026-06-30T11:20:44Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Ze względu na spodziewane dalsze opady deszczu wezwano ludzi do przeniesienia się na wyżej położone tereny lub pozostania w domach."
+      "summary": "Ze względu na spodziewane dalsze opady wezwano ludzi do przeniesienia się na wyżej położone tereny lub pozostania w domach."
     },
     {
       "title": "Założyciel azjatyckiej superaplikacji Gojek skazany na lata więzienia za korupcję",
@@ -457,7 +465,7 @@
       "date": "2026-06-30T11:16:20Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Sprawa przeciwko założycielowi firmy Gojek, Nadiemowi Makarimowi, dotyczy umowy na laptopa zawartej podczas jego kadencji jako ministra edukacji Indonezji."
+      "summary": "Sprawa przeciwko założycielowi Gojek, Nadiemowi Makarimowi, dotyczy umowy na laptopa zawartej podczas jego kadencji jako ministra edukacji Indonezji."
     },
     {
       "title": "WYŁĄCZNIE: Turcja twierdzi, że NATO dostosowuje się do krajobrazu bezpieczeństwa, USA nie wycofują się – Reuters",
@@ -473,7 +481,7 @@
       "date": "2026-06-30T11:13:26Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Deklaracja USA o wyjściu z USMCA, aby rozpocząć trwające dekadę odliczanie do paktu Reuters."
+      "summary": "Deklaracja USA o wyjściu z USMCA, aby rozpocząć dziesięcioletnie odliczanie do paktu Reuters."
     },
     {
       "title": "W podsumowaniu raportu stwierdza się, że Chiny są wyraźnym zwycięzcą wojny Trumpa na Bliskim Wschodzie",
@@ -521,7 +529,7 @@
       "date": "2026-06-30T10:41:01Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Zakłócenia w Ormuz opóźnią handel LNG w 2026 r., popyt wzrośnie do 2050 r., twierdzi Shell Reuters."
+      "summary": "Zakłócenia w Ormuz zatrzymają handel LNG w 2026 r., popyt wzrośnie do 2050 r., twierdzi Shell Reuters."
     },
     {
       "title": "EKSKLUZYWNIE: Stany Zjednoczone pracują nad zakazem dotyczącym chińskich falowników, podają źródła – Reuters",
@@ -564,6 +572,14 @@
       "summary": "Brytyjski organ regulacyjny rozważa otwarcie sklepów z aplikacjami Apple i Google, aby konkurować z płatnościami Reuters."
     },
     {
+      "title": "Ukraina po raz drugi uderzyła w rosyjską stację satelitarną Dubna, mówi Zełenski – Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/ukraine-hits-russias-dubna-satellite-site-second-time-zelenskiy-says-2026-06-30/",
+      "date": "2026-06-30T09:36:37Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Ukraina po raz drugi uderzyła w rosyjską stację satelitarną Dubna, mówi Zełenski Reuters."
+    },
+    {
       "title": "Obława rozpoczęta po wybuchu w Monako, którego celem według mediów był urodzony na Ukrainie oligarcha – Reuters",
       "url": "https://www.reuters.com/business/media-telecom/manhunt-launched-after-monaco-blast-that-media-say-targeted-ukrainian-born-2026-06-30/",
       "date": "2026-06-30T09:27:52Z",
@@ -596,22 +612,6 @@
       "summary": "Z raportu UBS wynika, że ​​w 2025 r. prawie milion ludzi na całym świecie zostało milionerami."
     },
     {
-      "title": "Wyprzedaż technologii budzi strach przed bańką na amerykańskiej giełdzie – Reuters",
-      "url": "https://www.reuters.com/legal/transactional/tech-selloff-stirs-bubble-fears-us-stock-market-2026-06-30/",
-      "date": "2026-06-30T09:04:09Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Wyprzedaż technologii budzi strach przed bańką na amerykańskiej giełdzie Reuters."
-    },
-    {
-      "title": "Paragwaj ogłasza święto narodowe po szoku drużynowym Niemiec na mundialu – Reuters",
-      "url": "https://www.reuters.com/sports/soccer/paraguay-declares-national-holiday-after-team-shock-germany-world-cup-2026-06-30/",
-      "date": "2026-06-30T08:58:04Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Paragwaj ogłasza święto narodowe po szoku drużynowym Niemiec na Pucharze Świata Reuters."
-    },
-    {
       "title": "Komisja słyszy, że Georgie Purcell staje w obliczu antysemickich i mizoginicznych nadużyć ze względu na posiadanie żydowskiego partnera",
       "url": "https://www.theguardian.com/australia-news/2026/jun/30/georgie-purcell-antisemitic-misogynistic-abuse-jewish-partner-commission-ntwnfb",
       "date": "2026-06-30T08:42:02Z",
@@ -620,7 +620,7 @@
       "summary": "Królewska Komisja ds. Antysemityzmu i Spójności Społecznej słyszy dowody na mowę nienawiści w środowisku internetowym. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. W dochodzeniu usłyszano, że świadkowie królewskiej komisji antysemityzmu kierują się groźbami nadużyć, a poseł Partii Pracy stwierdził, że ataki na jego partnera nasiliły się, ponieważ były przepełnione mizoginią. Tymczasem analiza danych pokazała, jak szybko oparte na faktach raporty przekształcają się w teorie spiskowe w Internecie, a że chociaż po ataku terrorystycznym w Bondi nastąpił gwałtowny wzrost antysemityzmu, nastąpił „ogromny wzrost” nienawiści wobec muzułmanów. Kontynuuj czytanie..."
     },
     {
-      "title": "CSIRO stwierdza, że ​​śmiercionośne powodzie, które zdarzają się raz na 100 lat w Nowej Południowej Walii, można by ograniczyć za pomocą tam o dwa metry",
+      "title": "CSIRO stwierdza, że ​​śmiercionośne powodzie, które zdarzają się raz na 100 lat w Nowej Południowej Walii, można było ograniczyć za pomocą tam o dwa metry",
       "url": "https://www.theguardian.com/australia-news/2026/jun/30/lismore-floods-northern-rivers-flooding-nsw-2022-two-metres-lower-with-dams",
       "date": "2026-06-30T08:18:24Z",
       "source": "The Guardian",
@@ -628,7 +628,7 @@
       "summary": "Rządy nie zobowiązały się do podjęcia działań wzorowanych w raporcie na temat powodzi w Lismore w 2022 r., w wyniku których zginęło 13 osób. Otrzymaj nasz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Budowa 10 nowych tam na północnych rzekach Nowej Południowej Walii mogłaby zmniejszyć poziom powodzi w czasie niszczycielskich powodzi w 2022 r., ale nie na tyle, aby zapobiec przepełnieniu kluczowego wałów przeciwpowodziowych. Z raportu CSIRO wynika, że opublikowano we wtorek, cztery lata po zamówieniu przez rząd Morrisona w związku z powodzią, która zdarza się raz na 100 lat w Nowej Południowej Walii. Kontynuuj czytanie..."
     },
     {
-      "title": "Garth Hamilton wypada poza czasowy dyskusji po wybuchu – tak się złożyło",
+      "title": "Garth Hamilton wypada poza czas gry po wybuchu – tak się złożyło",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/30/australia-politics-live-anthony-albanese-tax-reform-pauline-hanson-one-nation-multiculturalism-question-time-angus-taylor-coalition-royal-commission-ntwnfb",
       "date": "2026-06-30T08:14:40Z",
       "source": "The Guardian",
@@ -641,7 +641,7 @@
       "date": "2026-06-30T08:13:02Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Dyplomaci z całego świata spotykają się w Sarajewie po raz drugi próbując osiągnąć porozumienie w sprawie głównego wysłannika, w związku z naleganiem Stanów Zjednoczonych na jego wybór Dyplomaci z całego świata mają spotkać się we wtorek w Sarajewie, próbując rozwiązać głęboki rozłam między Stanami Zjednoczonymi a Europą w sprawie nominacji najwyższego wysłannika, który może mieć potężny wpływ na przyszłość Bośni i Hercegowiny. Wybuchł spór co do tego, kto powinien zostać kolejnym wysokim przedstawicielem społeczności międzynarodowej, stanowisko to ma znaczące władzy, w jawnym teście woli politycznej. Administracja Trumpa asertywnie forsuje program oparty na biznesie, potencjalnie kosztem delikatnej powojennej równowagi politycznej w Bośni. Kontynuuj czytanie..."
+      "summary": "Dyplomaci z całego świata spotykają się w Sarajewie po raz drugi próbując osiągnąć porozumienie w sprawie głównego wysłannika, w związku z naleganiem Stanów Zjednoczonych na jego wybór Dyplomaci z całego świata mają spotkać się we wtorek w Sarajewie, próbując załagodzić głęboki rozłam między Stanami Zjednoczonymi a Europą w sprawie nominacji najwyższego wysłannika, który może mieć potężny wpływ na przyszłość Bośni i Hercegowiny. Wybuchł spór co do tego, kto powinien zostać kolejnym wysokim przedstawicielem społeczności międzynarodowej, stanowisko to ma znaczące władzy, w jawnym teście woli politycznej. Administracja Trumpa asertywnie forsuje program oparty na biznesie, potencjalnie kosztem delikatnej powojennej równowagi politycznej w Bośni. Kontynuuj czytanie..."
     },
     {
       "title": "EY zwalnia absolwenta po tym, jak rzekomo uzyskał dostęp do konta bankowego premiera Australii",
@@ -657,7 +657,7 @@
       "date": "2026-06-30T04:22:07Z",
       "source": "The Guardian",
       "confirmed_by": 2,
-      "summary": "Guo Wengui, który zyskał fanów krytykując Komunistyczną Partię Chin, został uznany za winnego dziewięciu zarzutów, w tym prania pieniędzy. Amerykański sąd federalny skazał Guo Wengui na wygnaniu na 30 lat więzienia po tym, jak został skazany za oszukanie tysięcy ludzi na kwotę ponad 1 miliarda dolarów. W lipcu 2024 roku ława przysięgłych jednomyślnie uznała Guo, znanego również jako Ho Wan Kwok i Miles Guo, winny dziewięciu z 12 zarzutów, w tym przestępstw związanych z papierami wartościowymi, oszustw elektronicznych i prania pieniędzy. FBI aresztowało pięćdziesięcioletniego Guo w marcu 2023 r. w jego luksusowym apartamencie na Manhattanie z widokiem na Central Park. Kontynuuj czytanie..."
+      "summary": "Guo Wengui, który zyskał fanów krytykując Komunistyczną Partię Chin, został uznany za winnego w 2024 r. dziewięciu zarzutów, w tym prania brudnych pieniędzy. Amerykański sąd federalny skazał chińskiego potentata na wygnaniu Guo Wengui na 30 lat więzienia po tym, jak został skazany za oszukanie tysięcy ludzi na kwotę ponad 1 miliarda dolarów. W lipcu 2024 r. ława przysięgłych jednomyślnie uznała Guo, znanego również jako Ho Wan Kwok i Miles Guo, jest winny dziewięciu z 12 zarzutów, w tym przestępstw związanych z papierami wartościowymi, oszustw elektronicznych i prania pieniędzy. FBI aresztowało pięćdziesięcioletniego Guo w marcu 2023 r. w jego luksusowym apartamencie na Manhattanie z widokiem na Central Park. Kontynuuj czytanie..."
     },
     {
       "title": "Wstrząs wtórny nadwyrężył nerwy, ponieważ wielu Wenezuelczyków pozostało zdanych na siebie",
@@ -668,7 +668,7 @@
       "summary": "Na obszarach zniszczonych przez bliźniacze trzęsienia ziemi ludzie używają łomów, kilofów i gołych rąk, próbując dotrzeć do ocalałych."
     },
     {
-      "title": "Wściekli Wenezuelczycy oskarżają rząd o zaniedbania w reakcji na trzęsienie ziemi",
+      "title": "Wściekli Wenezuelczycy oskarżają rząd o zaniedbania w zakresie reakcji na trzęsienie ziemi",
       "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-30T03:53:48Z",
       "source": "BBC News",
@@ -883,10 +883,10 @@
       "date": "2026-06-30T07:13:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Pożar w zakładach petrochemicznych we wschodnich Indiach rani co najmniej 20 osób AP News."
+      "summary": "Co najmniej 20 osób zostało rannych w pożarze zakładów petrochemicznych we wschodnich Indiach AP News."
     },
     {
-      "title": "Co USA są winne Wenezueli",
+      "title": "Co USA zawdzięczają Wenezueli",
       "url": "https://www.nytimes.com/2026/06/29/world/venezuela-earthquake-trump-aid.html",
       "date": "2026-06-30T04:44:50Z",
       "source": "The New York Times",
@@ -939,7 +939,7 @@
       "date": "2026-06-29T22:37:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Sąd Najwyższy twierdzi, że kucharka z Fed może na razie zachować pracę, ale podtrzymuje decyzję o zwolnieniu innych Trumpów z AP News."
+      "summary": "Sąd Najwyższy twierdzi, że kucharka z Fed może na razie zachować pracę, ale podtrzymuje decyzję o zwolnieniu innych pracowników AP News przez Trumpa."
     },
     {
       "title": "Zaginęło ponad 100 Wenezuelczyków deportowanych z USA na kilka godzin przed trzęsieniami ziemi – AP News",
@@ -950,7 +950,7 @@
       "summary": "AP News brakuje ponad 100 Wenezuelczyków deportowanych z USA na kilka godzin przed trzęsieniami ziemi."
     },
     {
-      "title": "Służby zdrowia podają, że w izraelskich atakach w Gazie zginęło co najmniej 8 osób – AP News",
+      "title": "W izraelskich atakach zginęło co najmniej 8 osób w Gazie, w tym dwójka dzieci – twierdzą urzędnicy ds. zdrowia – AP News",
       "url": "https://apnews.com/article/israel-gaza-airstrike-hamas-civilians-156a754e51d1647add376554bd518f2f",
       "date": "2026-06-29T19:35:00Z",
       "source": "Associated Press",
@@ -982,7 +982,7 @@
       "summary": "Penelope Keith, gwiazda klasycznego brytyjskiego serialu komediowego „Dobre życie”, umiera w 86 AP News."
     },
     {
-      "title": "Bill Maher przyjmuje nagrodę humorystyczną Twaina, podczas gdy Kennedy Center radzi sobie z przewrotem ery Trumpa – AP News",
+      "title": "Bill Maher przyjmuje nagrodę humorystyczną Twaina, podczas gdy Kennedy Center radzi sobie z przewrotem za czasów Trumpa – AP News",
       "url": "https://apnews.com/article/kennedy-center-maher-trump-mark-twain-prize-acb16f64d8ec2ea2c2904e9d8e30bb75",
       "date": "2026-06-29T15:34:00Z",
       "source": "Associated Press",
@@ -1008,12 +1008,12 @@
   ],
   "technology": [
     {
-      "title": "Indonezyjski sąd skazał współzałożycielkę Gojek i byłą minister edukacji Nadiem Makarim na 10 lat więzienia za nadużycia w związku z umową na Chromebooka (New York Times)",
+      "title": "Indonezyjski sąd skazał współzałożycielkę Gojek i byłą minister edukacji Nadiem Makarim na 10 lat więzienia za nadużycia prądu w związku z umową na Chromebooka (New York Times)",
       "url": "https://www.techmeme.com/260630/p13#a260630p13",
       "date": "2026-06-30T12:05:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "New York Times: Indonezyjski sąd skazał współzałożycielkę Gojek i byłą minister edukacji Nadiem Makarim na 10 lat więzienia za nadużycie władzy w związku z umową o Chromebooku &mdash; Sprawa przeciwko Nadiem Makarim, współzałożycielce Gojek, wzbudziła obawy o sprawiedliwość sądową w kraju, w którym zagraniczni inwestorzy już wykazywali się ostrożnością."
+      "summary": "New York Times: Indonezyjski sąd skazał współzałożycielkę Gojek i byłą minister edukacji Nadiem Makarim na 10 lat więzienia za nadużycie władzy w związku z umową o Chromebooku &mdash; Sprawa przeciwko Nadiem Makarim, współzałożycielce Gojek, wzbudziła obawy o sprawiedliwość sądową w kraju, w którym zagraniczni inwestorzy już wykazywali się coraz większą ostrożnością."
     },
     {
       "title": "Ranking robotów do mycia okien 2026 - TOP 5",
@@ -1038,6 +1038,14 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Stało się. GeForce RTX 3060 – zgodnie z zapowiedziami – ponownie pojawił się na sklepowych półkach. I wszystko byłoby w porządku, gdyby nie jeden drobny szczegół: wycena nowych dostaw wygląda tak, jakby ktoś zupełnie oderwał się od rzeczywistości."
+    },
+    {
+      "title": "American Pride spada do rekordowo niskiego poziomu od 25 lat",
+      "url": "https://news.gallup.com/poll/711938/american-pride-falls-year-record-low.aspx",
+      "date": "2026-06-30T11:30:56Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://news.gallup.com/poll/711938/american-pride-falls-year-record-low.aspx Adres URL komentarzy: https://news.ycombinator.com/item?id=48731167 Punkty: 10 # Komentarze: 0."
     },
     {
       "title": "Zakupy spożywcze online 2026 – porównanie ​​​​​​​​​​delio i Żabka Jush",
@@ -1069,7 +1077,7 @@
       "date": "2026-06-30T11:03:30Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced Adres URL komentarzy: https://news.ycombinator.com/item?id=48730922 Punkty: 12 # Komentarze: 24."
+      "summary": "Adres URL artykułu: https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced Adres URL komentarzy: https://news.ycombinator.com/item?id=48730922 Punkty: 16 # Komentarze: 36."
     },
     {
       "title": "Sony usuwa treści cyfrowe z bibliotek; Przypominamy, że nie jesteśmy właścicielami tego, co kupujemy",
@@ -1077,7 +1085,7 @@
       "date": "2026-06-30T11:02:10Z",
       "source": "Hacker News",
       "confirmed_by": 2,
-      "summary": "Adres URL artykułu: https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-rethought-we-dont-own-what-we-buy/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48730904 Punkty: 60 # Komentarze: 16."
+      "summary": "Adres URL artykułu: https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-rethought-we-dont-own-what-we-buy/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48730904 Punkty: 74 # Komentarze: 24."
     },
     {
       "title": "Prawdziwa rewolucja na polskiej kolei – ma być, jak… w Szwajcarii",
@@ -1109,7 +1117,7 @@
       "date": "2026-06-30T10:48:23Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://cekrem.github.io/posts/parse-dont-validate-typescript/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48730818 Punkty: 13 # Komentarze: 4."
+      "summary": "Adres URL artykułu: https://cekrem.github.io/posts/parse-dont-validate-typescript/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48730818 Punkty: 18 # Komentarze: 5."
     },
     {
       "title": "mObywatel z super opcją dla kierowców. Wszystko w jednym miejscu",
@@ -1141,7 +1149,7 @@
       "date": "2026-06-30T10:36:23Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48730729 Punkty: 168 # Komentarze: 73."
+      "summary": "Adres URL artykułu: https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48730729 Punkty: 197 # Komentarze: 90."
     },
     {
       "title": "Nowe odcinkowe pomiary prędkości na autostradzie A1. Jeden z nich właśnie ruszył",
@@ -1157,7 +1165,7 @@
       "date": "2026-06-30T10:31:02Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext Adres URL komentarzy: https://news.ycombinator.com/item?id=48730694 Punkty: 30 # Komentarze: 27."
+      "summary": "Adres URL artykułu: https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext Adres URL komentarzy: https://news.ycombinator.com/item?id=48730694 Punkty: 40 # Komentarze: 41."
     },
     {
       "title": "Jak hiszpańska LaLiga wykorzystuje ogólnokrajowe blokowanie adresów IP do zwalczania nielegalnych transmisji sportowych, wpływając na około 550 tys. domen i powodując konflikt z Cloudflare (Bloomberg)",
@@ -1189,7 +1197,7 @@
       "date": "2026-06-30T10:15:15Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting Adres URL komentarzy: https://news.ycombinator.com/item?id=48730608 Punkty: 32 # Komentarze: 2."
+      "summary": "Adres URL artykułu: https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting Adres URL komentarzy: https://news.ycombinator.com/item?id=48730608 Punkty: 60 # Komentarze: 12."
     },
     {
       "title": "Microsoft mówi „dość”. Authenticator może nie działać na twoim smartfonie",
@@ -1280,14 +1288,6 @@
       "summary": "Przed wyjazdem na wakacje warto sprawdzić nie tylko zamki i bagaż. Część domowych urządzeń pobiera energię nawet po wyłączeniu, a niektóre zwiększają też ryzyko pożaru."
     },
     {
-      "title": "Antares osiąga krytyczność reaktora Mark-0",
-      "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
-      "date": "2026-06-30T09:15:21Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://antaresindustries.com/updates/antares-achieves-criticality Adres URL komentarzy: https://news.ycombinator.com/item?id=48730246 Punkty: 36 # Komentarze: 20."
-    },
-    {
       "title": "Bydgoszcz uratuje ukraińskie niebo? Polski as w rękawie w wielkiej grze o F-16",
       "url": "https://spidersweb.pl/2026/06/ukraina-f16-serwis-polska-pgz.html",
       "date": "2026-06-30T09:14:00Z",
@@ -1333,7 +1333,7 @@
       "date": "2026-06-30T08:45:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Sam Tabahriti / Reuters: Brytyjska CMA proponuje nałożenie na Apple i Google złagodzenia „sterowania” płatnościami dla brytyjskich programistów zasady i Apple, aby otworzyć NFC; Google twierdzi, że „wprowadził już zmiany” &mdash; Brytyjski organ regulacyjny ds. konkurencji zaproponował we wtorek umożliwienie twórcom aplikacji kontrolowania użytkowników."
+      "summary": "Sam Tabahriti / Reuters: Brytyjskie CMA proponuje nałożenie na Apple i Google złagodzenia „sterowania” płatnościami dla brytyjskich programistów zasady i Apple, aby otworzyć NFC; Google twierdzi, że „wprowadził już zmiany” &mdash; We wtorek brytyjski organ regulacyjny ds. konkurencji zaproponował, aby twórcy aplikacji mogli sterować użytkownikami."
     },
     {
       "title": "Półmetek zbierania zgłoszeń do konkursu Piórko 2026. Nagroda Biedronki czeka",
@@ -1389,7 +1389,7 @@
       "date": "2026-06-29T19:00:23Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Dzięki dzisiejszym narzędziom naukowym problem można było dostrzec już w latach pięćdziesiątych XX wieku."
+      "summary": "Dzięki dzisiejszym narzędziom naukowym problem można było wykryć już w latach pięćdziesiątych XX wieku."
     },
     {
       "title": "Google ostrzega, że ​​plany UE mające na celu osłabienie jej monopolu mogą narazić dane użytkowników",
@@ -1458,7 +1458,7 @@
       "summary": "Linux 6.18 pojawia się z kilkoma poprawkami na pulpicie, podczas gdy zaniedbana edycja x86 pozostaje utknięta w Debianie 11."
     },
     {
-      "title": "Koniec z uzupełnianiem oprogramowania Java dla komputerów Mac z procesorem Intel po wydaniu pakietu JDK 27, twierdzi Oracle",
+      "title": "Koniec z uzupełnianiem oprogramowania Java w komputerach Mac z procesorem Intel po wydaniu pakietu JDK 27, twierdzi Oracle",
       "url": "https://www.theregister.com/software/2026/06/30/no-more-java-refills-for-intel-macs-after-jdk-27-says-oracle/5263667",
       "date": "2026-06-30T10:00:00Z",
       "source": "The Register",
@@ -1634,7 +1634,7 @@
       "summary": "Microsoft znalazł złośliwe rozszerzenie do przeglądarki Chrome, które udawało wyszukiwarkę AI Perplexity i po cichu rejestrowało, czego szukali ludzie. Przekierowywał każde zapytanie i każdy znak wpisany w pasku adresu przez serwer kontrolowany przez osobę atakującą, a następnie przekierowywał użytkowników do rzeczywistych wyników. Microsoft twierdzi, że Google usunął go ze sklepu po odpowiedzialnym ujawnieniu."
     },
     {
-      "title": "WhatsApp wreszcie uzyskuje nazwy użytkowników, aby zachować prywatność numerów telefonów",
+      "title": "WhatsApp w końcu uzyskuje nazwy użytkowników, aby zachować prywatność numerów telefonów",
       "url": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
       "date": "2026-06-29T16:09:21Z",
       "source": "The Hacker News",
@@ -1850,14 +1850,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat EBI Adatex SA (adatex): Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały stockwatch.pl."
-    },
-    {
-      "title": "Wskaźniki wartości rynkowej LIFTERO SA (LFR) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wskazniki-wartosci-rynkowej/LFR,1",
-      "date": "2026-06-30T10:36:03Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wskaźniki wartości rynkowej LIFTERO SA (LFR) BiznesRadar."
     },
     {
       "title": "Masz więcej niż 35 lat? Możesz sprawdzić, jaką emeryturę wypłaci ci ZUS - Forsal.pl",
@@ -2148,6 +2140,14 @@
       "summary": "KNF odebrała mPay uprawnienia do świadczenia usług płatniczych BiznesRadar."
     },
     {
+      "title": "Magdalena Sierocka, Synthaverse: Hiszpania jest obecnie jednym z priorytetowych rynków europejskich dla Onko BCG - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/148921,magdalena-sierocka-synthaverse-hiszpania-jest-obecnie-jednym-z-priorytetowych-rynkow-europejskich-dla-onko-bcg",
+      "date": "2026-06-29T08:37:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Magdalena Sierocka, Synthaverse: Hiszpania jest obecnie jednym z priorytetowych rynków europejskich dla Onko BCG BiznesRadar."
+    },
+    {
       "title": "W co inwestować w drugiej połowie 2026 roku? Hossa AI czy bańka AI?",
       "url": "https://inwestomat.eu/w-co-inwestowac-w-drugiej-polowie-2026-roku/",
       "date": "2026-06-29T05:00:00Z",
@@ -2182,7 +2182,7 @@
       "summary": "Szef rządu Monako powiedział, że eksplozja została spowodowana ładunkiem wybuchowym, który prawdopodobnie zawierał bełty i granulki."
     },
     {
-      "title": "Wściekli Wenezuelczycy oskarżają rząd o zaniedbania w reakcji na trzęsienie ziemi",
+      "title": "Wściekli Wenezuelczycy oskarżają rząd o zaniedbania w zakresie reakcji na trzęsienie ziemi",
       "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-30T03:53:48Z",
       "source": "BBC News",
@@ -2480,7 +2480,7 @@
           "source": "BBC News"
         },
         {
-          "title": "Wściekli Wenezuelczycy oskarżają rząd o zaniedbania w reakcji na trzęsienie ziemi",
+          "title": "Wściekli Wenezuelczycy oskarżają rząd o zaniedbania w zakresie reakcji na trzęsienie ziemi",
           "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News"
         }
@@ -2533,7 +2533,7 @@
       "score": 9,
       "reasons": [
         {
-          "title": "Służby zdrowia podają, że w izraelskich atakach w Gazie zginęło co najmniej 8 osób – AP News",
+          "title": "W izraelskich atakach zginęło co najmniej 8 osób w Gazie, w tym dwójka dzieci – twierdzą urzędnicy ds. zdrowia – AP News",
           "url": "https://apnews.com/article/israel-gaza-airstrike-hamas-civilians-156a754e51d1647add376554bd518f2f",
           "source": "Associated Press"
         }
@@ -2751,51 +2751,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25698.24,
+      25704.52,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26863.75,
+      26870.31,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27010.85,
+      27017.44,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27256.03,
+      27262.69,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27892.41,
+      27899.22,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27928.49,
+      27935.3,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28173.41,
+      28180.29,
       27354.94,
       27400.36,
       27412.11,
-      28575.23,
+      28582.21,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27835.15,
+      27841.94,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28015.04,
+      28021.88,
       27686.17,
       27404.78,
       27351.97,
@@ -2804,8 +2804,8 @@
       27661.43,
       27749.69,
       27709.26,
-      27723.11,
-      28048.86
+      27729.88,
+      28055.7
     ],
     "currency": "PLN"
   }
