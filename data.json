@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-01T14:12:11Z",
+  "last_updated": "2026-07-01T14:24:36Z",
   "poland": [
+    {
+      "title": "Nie ma już CPN. Paliwa drożeją, ale nadal można zatankować taniej",
+      "url": "https://energia.rp.pl/paliwa/art44750671-nie-ma-juz-cpn-paliwa-drozeja-ale-nadal-mozna-zatankowac-taniej",
+      "date": "2026-07-01T14:14:59Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Kierowcy w Polsce obudzili się 1 lipca w nowej rzeczywistości. Przestał obowiązywać rządowy pakiet CPN. VAT na paliwa wrócił z 8 proc."
+    },
     {
       "title": "Od monastyru do łagru. Historia Wysp Sołowieckich",
       "url": "https://www.rp.pl/plus-minus/art44701791-od-monastyru-do-lagru-historia-wysp-solowieckich",
@@ -128,14 +136,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Lekarz Emil Jędrzejewski, były ordynator Oddziału Chirurgii w Szpitalu Południowym w poniedziałek przez ponad dziewięć godzin zeznawał w Prokuraturze Okręgowej w Warszawie. Jego pełnomocnik, radca prawny Tomasz Jendrasiak w rozmowie z Wirtualną Polską opowiedział, jak wyglądało przesłuchanie."
-    },
-    {
-      "title": "Wyciek ropy na drodze krajowej. Operator koparki był pijany",
-      "url": "https://www.rp.pl/wypadki/art44750341-wyciek-ropy-na-drodze-krajowej-operator-koparki-byl-pijany",
-      "date": "2026-07-01T12:22:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Do uszkodzenia rurociągu z ropą naftową i wycieku ropy doszło przy drodze wojewódzkiej nr 130. Jak się okazuje winny wypadku był 45-letni operator koparki, który znajdował się pod wpływem alkoholu - badanie wykazało niemal 1 promil w jego organizmie. Informację podaje serwis gorzowianin.pl."
     },
     {
       "title": "Dezinformacja coraz większym wyzwaniem. Raport: Polacy oczekują zdecydowanych działań",
@@ -404,6 +404,22 @@
   ],
   "world_security": [
     {
+      "title": "UE musi dotrzymać obietnic dotyczących rozmów akcesyjnych z Ukrainą, mówi Zełenski, gdy Irlandia obejmuje prezydencję – Europa na żywo",
+      "url": "https://www.theguardian.com/world/live/2026/jul/01/ireland-set-to-take-presidency-of-eu-in-dublin-opening-ceremony-europe-live",
+      "date": "2026-07-01T14:00:14Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Ukraiński przywódca wśród gości w Dublinie, jak mówi Micheál Martin, „będziemy niezachwianie stać przy waszym narodzie”. Pistorius mówi o zmianach w niemieckim systemie rezerw wojskowych, wraz z „rozbudową Bundeswehry”. Mówi o reformach niezbędnych, aby umożliwić lepszą i skuteczniejszą mobilizację rezerwistów. Kontynuuj czytanie..."
+    },
+    {
+      "title": "UE wezwała do zwolnienia Wielkiej Brytanii z przepisów dotyczących samochodów, co może mieć najgorszy jak dotąd wpływ Brexitu",
+      "url": "https://www.theguardian.com/business/2026/jul/01/eu-rules-threaten-to-shut-out-uk-car-manufacturers-motor-industry",
+      "date": "2026-07-01T13:53:45Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Przepisy Bloku dotyczące „wyprodukowano w Europie” grożą wykluczeniem brytyjskich producentów przy „najbardziej spektakularnej samobójczej bramce w historii”. Unijny przemysł samochodowy wezwał do pełnego uwzględnienia Wielkiej Brytanii w nowych przepisach „wyprodukowanych w Europie”, które grożą wykluczeniem brytyjskich producentów z ich największego rynku eksportowego. Europejskie Stowarzyszenie Producentów Samochodów (Acea) wezwało w środę Brukselę do przyznania Wielkiej Brytanii, Turcji i Maroko „uzasadnionych, ukierunkowanych wyjątków” od przepisów, które będą wymagały, aby samochody i części były produkowane w UE, aby kwalifikowały się do dotacji lub zamówień publicznych. Kontynuuj czytanie..."
+    },
+    {
       "title": "Trump zarobił na kryptowalutach ponad 1 miliard dolarów w pierwszym roku po powrocie na urząd",
       "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-01T13:52:20Z",
@@ -428,28 +444,12 @@
       "summary": "Warsh z Fed: Decyzja o podwyżce stóp procentowych zostanie podjęta, gdy decydenci „zamkną drzwi” na następnym posiedzeniu Reuters."
     },
     {
-      "title": "Nike się pogarsza, bo ponure perspektywy sprzedaży, problemy w Chinach utrudniają poprawę sytuacji – Reuters",
+      "title": "Nike ulega pogorszeniu ze względu na ponure perspektywy sprzedaży, a problemy w Chinach utrudniają poprawę sytuacji – Reuters",
       "url": "https://www.reuters.com/business/retail-consumer/nike-stumbles-china-woes-cautious-outlook-temper-turnaround-hopes-2026-07-01/",
       "date": "2026-07-01T13:40:17Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Nike się pogarsza, ponieważ ponure perspektywy sprzedaży, problemy Chin utrudniają zmianę sytuacji Reuters."
-    },
-    {
-      "title": "Irlandia obejmuje przewodnictwo w UE podczas ceremonii w Dublinie – Europa na żywo",
-      "url": "https://www.theguardian.com/world/live/2026/jul/01/ireland-set-to-take-presidency-of-eu-in-dublin-opening-ceremony-europe-live",
-      "date": "2026-07-01T13:39:51Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Wołodymyr Zełenski wśród gości, gdy Micheál Martin mówi: „Będziemy niezachwianie stać przy narodzie Ukrainy”. Pistorius mówi o zmianach w niemieckim systemie rezerw wojskowych, wraz z „rozbudową Bundeswehry”. Mówi o reformach niezbędnych, aby umożliwić lepszą i skuteczniejszą mobilizację rezerwistów. Kontynuuj czytanie..."
-    },
-    {
-      "title": "UE wezwała do zwolnienia Wielkiej Brytanii z przepisów dotyczących samochodów, co może mieć najgorszy jak dotąd wpływ Brexitu",
-      "url": "https://www.theguardian.com/business/2026/jul/01/eu-rules-threaten-to-shut-out-uk-car-manufacturers-motor-industry",
-      "date": "2026-07-01T13:28:59Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Przepisy Bloku dotyczące „wyprodukowano w Europie” grożą wykluczeniem brytyjskich producentów po „najbardziej spektakularnym samobójczym golu w historii”. Unijny przemysł samochodowy wezwał do pełnego uwzględnienia Wielkiej Brytanii w nowych przepisach „Made in Europe”, które grożą wykluczeniem brytyjskich producentów z ich największego rynku eksportowego. Europejskie Stowarzyszenie Producentów Samochodów (Acea) wezwało w środę Brukselę do przyznania Wielkiej Brytanii, Turcji i Maroko „uzasadnionych, ukierunkowanych wyjątków” od przepisów, które będą wymagały, aby samochody i części były produkowane w UE, aby kwalifikowały się do dotacji lub zamówień publicznych. Kontynuuj czytanie..."
     },
     {
       "title": "USA i Iran rozpoczynają rozmowy techniczne, aby zapewnić porozumienie pokojowe i wznowienie żeglugi – Reuters",
@@ -465,7 +465,7 @@
       "date": "2026-07-01T13:18:44Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Yorgen Fenech, który zaprzecza wszystkim zarzutom, staje przed sądem ponad dziewięć lat po śmierci dziennikarzaW środę, ponad dziewięć lat po jej śmierci w zamachu bombowym, który wywołał falę wstrząsu w Europie, stanie przed sądem Biznesmen oskarżony o nakazanie zabójstwa maltańskiej dziennikarki Daphne Caruany Galizii. Yorgen Fenech, spadkobierca wartego setki milionów imperium majątkowego, jest jednym z siedmiu prokuratorów oskarżonych o udział w zabójstwie i ostatnim, który stanąć przed sądem. Kontynuuj czytanie..."
+      "summary": "Yorgen Fenech, który zaprzecza wszystkim zarzutom, staje przed sądem ponad dziewięć lat po śmierci dziennikarza Biznesmen oskarżony o zlecenie zabójstwa maltańskiej dziennikarki Daphne Caruany Galizia staje przed sądem w środę, ponad dziewięć lat po jej śmierci w zamachu bombowym, który wstrząsnął Europą. Yorgen Fenech, spadkobierca wartego setki milionów imperium majątkowego, jest jednym z siedmiu prokuratorów oskarżonych o udział w zabójstwie i ostatnim, który skazał stanąć przed sądem. Kontynuuj czytanie..."
     },
     {
       "title": "Trump debiutuje nowym Air Force One podczas podróży na poświęcenie muzeum Theodore'a Roosevelta – Reuters",
@@ -521,7 +521,7 @@
       "date": "2026-07-01T12:41:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Wall St może spaść w drugiej połowie, gdy napięcie między USA a Iranem zacznie się chmurzyć Reuters."
+      "summary": "Wall St może spaść, gdy w drugiej połowie zacznie pojawiać się napięcie między USA a Iranem Reuters."
     },
     {
       "title": "Kanada weźmie udział w Konkursie Piosenki Eurowizji 2027",
@@ -545,7 +545,7 @@
       "date": "2026-07-01T12:26:52Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Jednodniowym wycieczkowiczom grożą mandaty za wjazd na stare miasto w Austrii w lipcu i sierpniu w celu ograniczenia „chaotycznych sytuacji w ruchu drogowym” Europa na żywo – najnowsze aktualizacje Salzburg rozpoczął egzekwowanie letniego zakazu wjazdu dla gości do jego historycznego centrum, podejmując politykę wzorowaną na innych zatłoczonych samochodach europejskich miastach nękanych nadmiernym ruchem turystycznym. Władze czwartego co do wielkości obszaru miejskiego Austrii wyraziły nadzieję, że wprowadzone w lipcu i sierpniu ograniczenia „mniejszy ruch, więcej miast” zmniejszą liczbę wjazdów pojazdów o 1000 dziennie. Kontynuuj czytanie..."
+      "summary": "Jednodniowym wycieczkowiczom grożą mandaty za wjazd na stare miasto w Austrii w lipcu i sierpniu w celu ograniczenia „chaotycznych sytuacji w ruchu drogowym” Europa na żywo – najnowsze aktualizacje Salzburg rozpoczął egzekwowanie letniego zakazu wjazdu dla gości do jego historycznego centrum, podejmując politykę wzorowaną na innych zatłoczonych samochodach europejskich miastach nękanych nadmiernym turystyką. Władze czwartego co do wielkości obszaru miejskiego Austrii wyraziły nadzieję, że wprowadzone w lipcu i sierpniu ograniczenia „mniejszy ruch, więcej miast” zmniejszą liczbę wjazdów pojazdów o 1000 dziennie. Kontynuuj czytanie..."
     },
     {
       "title": "Strach przed katolicką schizmą, gdy buntownicza sekta wyświęca ultrakonserwatywnych biskupów",
@@ -601,7 +601,7 @@
       "date": "2026-07-01T09:10:22Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Grupa ochrony konsumentów Choice przetestowała w ciemno 30 oliw z oliwek i odkryła, że wiele z najwyżej ocenionych oliw z oliwek pochodzi z Australii.Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast. Grupa ochrony konsumentów Choice przetestowała smak 30 oliw z oliwek z pierwszego tłoczenia w supermarketach i odkryła, że niektóre oliwy wyprodukowane w Australii plasują się wyżej niż te importowane z Włoch i Hiszpanii. „Wielu Australijczyków poszukuje produktów lokalnych, a jest wielu australijskich producentów oliwy z oliwek, którzy zdobyli całkiem dobrą reputację” – Pru Engel, Choice powiedział redaktor ds. odbiorców i zaangażowania. Kontynuuj czytanie..."
+      "summary": "Grupa ochrony konsumentów Choice przetestowała w ciemno 30 oliw z oliwek i odkryła, że wiele z najwyżej ocenionych oliw z oliwek pochodzi z Australii.Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast. Grupa ochrony konsumentów Choice przetestowała smak 30 oliw z oliwek z pierwszego tłoczenia w supermarketach i odkryła, że niektóre oliwy wyprodukowane w Australii plasują się wyżej niż te importowane z Włoch i Hiszpanii. „Wielu Australijczyków poszukuje produktów lokalnych, a jest wielu australijskich producentów oliwy z oliwek, którzy zdobyli całkiem dobrą reputację” – Pru Engel, Choice powiedział redaktor ds. widzów i zaangażowania. Kontynuuj czytanie..."
     },
     {
       "title": "Lek „ratujący życie” dla osób uzależnionych od opioidów zostanie wycofany z Australii do końca roku",
@@ -700,7 +700,7 @@
       "summary": "Orzeczenie w sprawie pierworództwa kończy kadencję Sądu Najwyższego, która zapewniła prezydentowi kilka kluczowych zwycięstw."
     },
     {
-      "title": "Sąd Najwyższy Stanów Zjednoczonych podtrzymuje zakazy dla transpłciowych sportowców w sportach żeńskich w szkołach i na uczelniach",
+      "title": "Sąd Najwyższy Stanów Zjednoczonych podtrzymuje zakazy dla transpłciowych sportowców w sporcie żeńskim w szkołach i na uczelniach",
       "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-30T21:24:15Z",
       "source": "BBC News",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Grupa katolicka konsekruje 4 biskupów, ryzykując zerwanie z Watykanem",
+      "url": "https://www.nytimes.com/2026/07/01/world/europe/vatican-bishops-church-excommunication.html",
+      "date": "2026-07-01T14:01:43Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Tradycjonalistyczne Bractwo św. Piusa X kontynuowało ceremonię, nawet po tym, jak Watykan ostrzegł, że grozi ona ekskomuniką biskupów."
+    },
+    {
       "title": "USA i Iran zamierzają przeprowadzić rozmowy pośrednie po atakach handlowych: co warto wiedzieć",
       "url": "https://www.nytimes.com/2026/07/01/world/middleeast/us-iran-diplomacy-qatar.html",
       "date": "2026-07-01T13:53:03Z",
@@ -779,7 +787,7 @@
       "date": "2026-07-01T12:44:58Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Wyniki podstawowych wyników stanu Kolorado w roku 2026: Wiadomości Senatu, Izby Reprezentantów i gubernatora AP."
+      "summary": "Wyniki podstawowych wyników stanu Kolorado w 2026 r.: Wiadomości Senatu, Izby Reprezentantów i gubernatora AP."
     },
     {
       "title": "Podziemne porody, bombardowania: rodzenie dzieci na Ukrainie",
@@ -803,7 +811,7 @@
       "date": "2026-07-01T11:41:00Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „politycznym chwytem”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju."
+      "summary": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „wyczyn polityczny”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju."
     },
     {
       "title": "Eksplozja w Monako podobno rani ukraińskiego potentata powiązanego z Rosją – AP News",
@@ -827,7 +835,7 @@
       "date": "2026-07-01T10:26:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Z dokumentów Trumpa wynika, że ​​w zeszłym roku zarobił około 1,2 miliarda dolarów od firm zajmujących się kryptowalutami. AP News."
+      "summary": "Z dokumentów Trumpa wynika, że ​​w zeszłym roku przyjął około 1,2 miliarda dolarów od firm zajmujących się kryptowalutami. AP News."
     },
     {
       "title": "3 osoby zginęły podczas obchodów Pucharu Świata w Meksyku",
@@ -835,7 +843,7 @@
       "date": "2026-07-01T10:00:01Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Władze podały, że 44-letni mężczyzna i dwie kobiety w wieku 19 i 48 lat zmarli w wyniku uduszenia, gdy tłumy świętowały zwycięstwo meksykańskiej drużyny nad Ekwadorem."
+      "summary": "Władze podały, że 44-letni mężczyzna i dwie kobiety w wieku 19 i 48 lat zmarli w wyniku uduszenia, gdy tłumy świętowały zwycięstwo drużyny meksykańskiej nad Ekwadorem."
     },
     {
       "title": "Dlaczego tak wielu Kubańczyków migruje do Gujany?",
@@ -843,7 +851,7 @@
       "date": "2026-07-01T09:43:36Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Gujana, mały, bogaty w ropę, anglojęzyczny kraj Ameryki Południowej, stała się celem Kubańczyków uciekających przed rozpaczliwymi warunkami. Pojechaliśmy do stolicy, Georgetown, aby spotkać się z rodzinami imigrantów i dowiedzieć się więcej o życiu, które pozostawiły po sobie."
+      "summary": "Gujana, mały, bogaty w ropę, anglojęzyczny kraj Ameryki Południowej, stała się celem Kubańczyków uciekających przed rozpaczliwymi warunkami. Pojechaliśmy do stolicy, Georgetown, aby spotkać się z rodzinami imigrantów i dowiedzieć się więcej o życiu, które pozostawiły."
     },
     {
       "title": "Sugestia Trumpa dotycząca rozprawienia się przez Syrię z Hezbollahem wprawia wielu mieszkańców Bliskiego Wschodu w zakłopotanie",
@@ -918,14 +926,6 @@
       "summary": "Naukowcy przejechali wiele kilometrów quadami, a następnie przeszli kolejne kilometry przez gęsty las, aby dotrzeć do miejsca nietkniętego przez grabieże na półwyspie Jukatan w Meksyku. Nazwali go Minanbé, co oznacza „nie ma ścieżki”."
     },
     {
-      "title": "Zgłoszono śmierć kierowcy kilka dni po wjechaniu w kibiców Pucharu Świata w Meksyku",
-      "url": "https://www.nytimes.com/2026/06/30/world/americas/mexico-driver-died-world-cup-party.html",
-      "date": "2026-07-01T01:24:59Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "W odcinku widać najbardziej znaczącą przemoc po zwycięstwach reprezentacji Meksyku, która przyciągnęła na ulice całego kraju ogromne tłumy."
-    },
-    {
       "title": "Trump ogłasza średniookresową konwencję Republikanów w Dallas we wrześniu – AP News",
       "url": "https://apnews.com/article/rnc-republican-midterm-convention-donald-trump-fb02b785fb38362f99d7991a97e969d2",
       "date": "2026-06-30T23:38:00Z",
@@ -942,6 +942,14 @@
       "summary": "LeBron uderza w darmową agencję: James nie wraca do Lakers, planuje rozegrać 24. sezon gdzie indziej AP News."
     },
     {
+      "title": "Producenci jaj zapłacą 3,3 mln dolarów i przekażą 53 mln jaj na uregulowanie roszczeń związanych ze zmową cenową – AP News",
+      "url": "https://apnews.com/article/egg-prices-collusion-settlement-d32b05892541613df3f4e4932109ee0c",
+      "date": "2026-06-30T22:39:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Producenci jaj zapłacą 3,3 mln dolarów i przekażą 53 mln jaj w celu uregulowania roszczeń związanych ze zmową cenową AP News."
+    },
+    {
       "title": "Republikanin Tom Kean Jr. ujawnia diagnozę depresji po czteromiesięcznej nieobecności w Kongresie – AP News",
       "url": "https://apnews.com/article/tom-kean-jr-new-jersey-congress-e7c40a55f06df86228f3646441532444",
       "date": "2026-06-30T22:11:00Z",
@@ -950,7 +958,7 @@
       "summary": "Republikanin Tom Kean Jr. ujawnia diagnozę depresji po czteromiesięcznej nieobecności w Congress AP News."
     },
     {
-      "title": "Pakistan ostrzega Indie przed bronią wodną na seminarium dotyczącym Traktatu o wodach Indusu – AP News",
+      "title": "Pakistan ostrzega Indie przed bronią wodną podczas seminarium dotyczącego Traktatu o wodach Indusu – AP News",
       "url": "https://apnews.com/article/pakistan-wars-india-water-weaponization-indus-1f8c5fff1fccdfec03192811e80ea6b7",
       "date": "2026-06-30T19:41:00Z",
       "source": "Associated Press",
@@ -990,23 +998,23 @@
       "summary": "Meksykańscy kibice trąbią przed hotelem w Ekwadorze, co podsyca bezsenną noc w wiadomościach AP News o Pucharze Świata."
     },
     {
-      "title": "Orzeł Feliks wrócił do domu w Serbii po porwaniu na Bliskim Wschodzie – AP News",
-      "url": "https://apnews.com/article/serbia-eagle-poachers-middle-east-migration-flight-a686cbf954125cd1c20ceb6ca9984c8f",
-      "date": "2026-06-30T13:18:00Z",
+      "title": "Sąd Najwyższy podtrzymuje przepisy stanowe zabraniające transpłciowym dziewczętom i kobietom występów w szkolnych drużynach lekkoatletycznych – AP News",
+      "url": "https://apnews.com/article/supreme-court-transgender-athletes-school-teams-e01548be1fc0f574d9c274e077414075",
+      "date": "2026-06-30T17:14:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Orzeł Feliks wrócił do domu w Serbii po porwaniu, o którym donosi AP News na Bliskim Wschodzie."
-    },
-    {
-      "title": "Co najmniej 20 osób zostało rannych w pożarze zakładów petrochemicznych we wschodnich Indiach – AP News",
-      "url": "https://apnews.com/article/india-fire-naphtha-pipeline-8afe62030efd95f585c0e8e0d27a22d1",
-      "date": "2026-06-30T09:13:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Pożar w zakładach petrochemicznych we wschodnich Indiach rani co najmniej 20 osób AP News."
+      "summary": "Sąd Najwyższy podtrzymuje przepisy stanowe zabraniające transpłciowym dziewczętom i kobietom występów w szkolnych drużynach lekkoatletycznych AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Oxmiq, którego celem jest połączenie procesorów graficznych, procesorów i silnika tensorowego w jeden blok adresu IP, na który może licencjonować, zebrał 35 mln dolarów pod przewodnictwem Samsung Catalyst Fund i Fudomo (Max A. Cherney/Reuters)",
+      "url": "https://www.techmeme.com/260701/p31#a260701p31",
+      "date": "2026-07-01T14:10:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Max A. Cherney / Reuters: Oxmiq, którego celem jest połączenie procesorów graficznych, procesorów i silnika tensorowego w jeden blok adresu IP, na który może licencjonować, zebrał 35 mln dolarów pod przewodnictwem Samsung Catalyst Fund i Fudomo &mdash; Startup zajmujący się sztuczną inteligencją Oxmiq poinformował w środę, że zebrał od inwestorów 35 milionów dolarów na stworzenie architektury projektowania chipów."
+    },
     {
       "title": "Uruchom HN: Parsewise (YC P25) – Porozmawiaj o dokumentach za pomocą interfejsu API",
       "url": "https://news.ycombinator.com/item?id=48746752",
@@ -1045,7 +1053,23 @@
       "date": "2026-07-01T13:29:29Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48746445 Punkty: 72 # Komentarze: 42."
+      "summary": "Adres URL artykułu: https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48746445 Punkty: 122 # Komentarze: 82."
+    },
+    {
+      "title": "Co jest złego w weryfikacji wieku w UE? (Nic)",
+      "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
+      "date": "2026-07-01T13:27:07Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48746404 Punkty: 11 # Komentarze: 3."
+    },
+    {
+      "title": "Zakaz akcji w Palestynie: Walczymy",
+      "url": "https://www.craigmurray.org.uk/archives/2026/07/palestine-action-proscription-we-fight-back/",
+      "date": "2026-07-01T13:26:40Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.craigmurray.org.uk/archives/2026/07/palestine-action-proscription-we-fight-back/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48746396 Punkty: 11 # Komentarze: 3."
     },
     {
       "title": "MGX z siedzibą w Abu Zabi zebrało fundusz o wartości 49 miliardów dolarów na sztuczną inteligencję, przekraczając docelowy poziom 45 miliardów dolarów i planuje wydawać aż 10 miliardów dolarów rocznie w ciągu najbliższych kilku lat (Dinesh Nair/Bloomberg)",
@@ -1077,7 +1101,7 @@
       "date": "2026-07-01T13:20:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Financial Times: List: Stany Zjednoczone twierdzą, że firma Anthropic „zgodziła się proaktywnie wykrywać zagrożenia bezpieczeństwa i eliminować je”; z Bajki 5 i Mitu 5; źródło podaje, że firma Anthropic opracowała „zabezpieczenie” &mdash; Posunięcie rządu USA umożliwia start-upom AI ponowne wydawanie modeli Mythos i Fable."
+      "summary": "Financial Times: List: Stany Zjednoczone twierdzą, że firma Anthropic „zgodziła się proaktywnie wykrywać i eliminować zagrożenia bezpieczeństwa”; z Bajki 5 i Mitu 5; źródło podaje, że firma Anthropic opracowała „zabezpieczenie” &mdash; Posunięcie rządu USA umożliwia start-upom AI ponowne wydawanie modeli Mythos i Fable."
     },
     {
       "title": "Przyszłość sprzątania już tu jest. Dreame pokazuje siłę nowoczesnej inżynierii",
@@ -1160,14 +1184,6 @@
       "summary": "W Polsce powstanie nowy ogromny zalew. Powierzchnia to 100 ha."
     },
     {
-      "title": "Od stycznia 2028 roku Sony nie będzie już produkować płyt z grami na PlayStation",
-      "url": "https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028",
-      "date": "2026-07-01T12:43:48Z",
-      "source": "Hacker News",
-      "confirmed_by": 2,
-      "summary": "Adres URL artykułu: https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028 Adres URL komentarzy: https://news.ycombinator.com/item?id=48745785 Punkty: 43 # Komentarze: 27."
-    },
-    {
       "title": "Badacz twierdzi, że luka w narzędziu Apple Hide My Email pozwala każdemu odkryć prawdziwy adres e-mail; po raz pierwszy zgłoszono w czerwcu 2025 r., Apple jeszcze tego nie naprawiło (Joseph Cox/404 Media)",
       "url": "https://www.techmeme.com/260701/p26#a260701p26",
       "date": "2026-07-01T12:35:00Z",
@@ -1181,7 +1197,15 @@
       "date": "2026-07-01T12:30:04Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Bloomberg: Władze Tajwanu zatrzymują dwóch pracowników Super Micro i menedżera Albatron po nalocie na lokalne biura Super Micro w tym tygodniu w związku z dostawami Nvidii do Chin &mdash; Tajwańska prokuratura zatrzymała dwóch pracowników Super Micro Computer Inc. po wcześniejszym nalocie na lokalne biura amerykańskiej firmy."
+      "summary": "Bloomberg: Władze Tajwanu zatrzymują dwóch pracowników Super Micro i menedżera Albatron po nalocie na lokalne biura Super Micro w tym tygodniu w związku z dostawami Nvidii do Chin &mdash; Tajwańscy prokuratorzy zatrzymali dwóch pracowników Super Micro Computer Inc. po wcześniejszym nalocie na lokalne biura amerykańskiej firmy."
+    },
+    {
+      "title": "Sony twierdzi, że wszystkie nowe gry na PlayStation, zarówno od twórców własnych, jak i zewnętrznych, będą sprzedawane w formatach cyfrowych od stycznia 2028 r., kończąc na fizycznych dyskach z grami (Stephen Totilo/Game File)",
+      "url": "https://www.techmeme.com/260701/p24#a260701p24",
+      "date": "2026-07-01T12:20:02Z",
+      "source": "Techmeme",
+      "confirmed_by": 2,
+      "summary": "Stephen Totilo / Plik gry: Sony twierdzi, że wszystkie nowe gry na PlayStation, zarówno od twórców własnych, jak i zewnętrznych, będą sprzedawane w formatach cyfrowych od stycznia 2028 r., a zakończy się to na fizycznych dyskach z grami &mdash; Koniec pewnej ery, potencjalny śmiertelny cios dla gier wideo jako nośnika fizycznego i zapowiedź tego, co czeka PS6?"
     },
     {
       "title": "LEGO prezentuje nowe zestawy. W roli głównej znana gwiazda",
@@ -1192,14 +1216,6 @@
       "summary": "LEGO sięga po gwiazdę największego formatu i wspólnie z nią tworzy nowe zestawy klocków. Olivia Rodrigio wchodzi do siedziby duńskiej firmy razem z drzwiami i prezentuje aż pięć swoich zestawów."
     },
     {
-      "title": "Produkcja dysków fizycznych z nowymi grami na PlayStation zakończy się w styczniu 2028 r",
-      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "date": "2026-07-01T12:13:34Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48745456 Punkty: 89 # Komentarze: 60."
-    },
-    {
       "title": "Google odpala dwa nowe modele AI. Wygenerujesz obraz w sekundę i zmienisz go w wideo",
       "url": "https://www.instalki.pl/news/internet/google-odpala-dwa-nowe-modele-ai-wygenerujesz-obraz-w-sekunde-i-zmienisz-go-w-wideo/",
       "date": "2026-07-01T12:10:55Z",
@@ -1208,12 +1224,12 @@
       "summary": "Szybciej, taniej i z pełną swobodą kreatywnej edycji &#8211; tak Google zapowiada swoją najnowszą rewolucję w segmencie generatywnej sztucznej inteligencji. Amerykański gigant udostępnił dwa potężne narzędzia &#8211; superszybki model graficzny Nano Banana 2 Lite oraz system wideo Gemini Omni Flash. Nowości trafiają zarówno do platform programistycznych (Google AI Studio i Gemini API), jak i bezpośrednio [&#8230;] Artykuł Google odpala dwa nowe modele AI."
     },
     {
-      "title": "Sztokholmski Sąd Patentowy i Rynkowy nakazuje Google zapłacić prawie 2 miliardy dolarów firmie PriceRunner należącej do Klarny w związku ze sporem dotyczącym nadużycia władzy na rynku porównywarek zakupów (Bloomberg)",
-      "url": "https://www.techmeme.com/260701/p23#a260701p23",
-      "date": "2026-07-01T12:10:03Z",
-      "source": "Techmeme",
+      "title": "Pokaż HN: Frond – środowisko wykonawcze frontendu dla wykresu zależności Twojej aplikacji",
+      "url": "https://frondruntime.dev",
+      "date": "2026-07-01T12:10:37Z",
+      "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Bloomberg: Sztokholmski Sąd Patentowy i Rynkowy nakazuje Google zapłatę prawie 2 miliardów dolarów na rzecz PriceRunner należącej do Klarny w związku ze sporem dotyczącym nadużycia władzy na rynku porównywarek cenowych &mdash; W wyniku sporu firma Google, należąca do Alphabet Inc., została zobowiązana do zapłaty prawie 2 miliardów dolarów jednostce Pricerunner należącej do Klarna Group Plc."
+      "summary": "Adres URL artykułu: https://frondruntime.dev Adres URL komentarzy: https://news.ycombinator.com/item?id=48745434 Punkty: 3 # Komentarze: 0."
     },
     {
       "title": "Ktoś wystawił na sprzedaż bazę rzekomych użytkowników Temu",
@@ -1253,7 +1269,7 @@
       "date": "2026-07-01T11:35:20Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48745113 Punkty: 148 # Komentarze: 43."
+      "summary": "Adres URL artykułu: https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48745113 Punkty: 171 # Komentarze: 51."
     },
     {
       "title": "Sprawdziłem lokalizator MOVA SureTrack Pro. Telefon dla psa? To nie jest już science fiction",
@@ -1270,14 +1286,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Obudowa Corsair 2800X RS-R ARGB trafiła do sprzedaży. To kompaktowa obudowa Micro ATX łącząca efektowny wygląd szklanej konstrukcji z funkcjami kojarzonymi raczej z większymi modelami. Pomieści naprawdę długą kartę graficzną, chłodnicę 360 mm oraz płyty główne z tylnymi złączami."
-    },
-    {
-      "title": "Szwedzki sąd stwierdził, że Google ma zapłacić firmie Klarna 1,5 miliarda dolarów z tytułu szkód wynikających z naruszenia prawa konkurencji",
-      "url": "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/",
-      "date": "2026-07-01T11:28:26Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48745061 Punkty: 78 # Komentarze: 41."
     },
     {
       "title": "Nadchodzą burze i przepięcia. Listwa antyprzepięciowa czy UPS – co lepiej chroni sprzęt?",
@@ -1310,14 +1318,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Android 17 utrze nosa złodziejom. Zgadnięcie PIN-u będzie niemal niemożliwe."
-    },
-    {
-      "title": "Internet, w którym dorastałem, już nie istnieje",
-      "url": "https://cleberg.net/blog/internet.html",
-      "date": "2026-07-01T10:26:45Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://cleberg.net/blog/internet.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48744655 Punkty: 145 # Komentarze: 123."
     },
     {
       "title": "Nadchodzi burza? Odłącz ten sprzęt - wielu o tym zapomina",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Kontrowersje wokół modeli Anthropic. Jest decyzja władz USA",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/kontrowersje-wokol-modeli-anthropic-jest-decyzja-wladz-usa",
+      "date": "2026-07-01T14:05:39Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Departament Handlu USA zniósł ograniczenia w dostępie cudzoziemców do modeli Fable oraz Mythos od Anthropic. Twórcy wskazali, że jest to efekt wprowadzenia zabezpieczeń do modeli. Przyczyną kontrowersji miały być obawy o wykorzystanie sztucznej inteligencji przez służby wywiadowcze Chin oraz Rosji."
+    },
+    {
       "title": "Minister cyfryzacji powołał nowy zespół CSIRT",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/minister-cyfryzacji-powolal-nowy-zespol-csirt",
       "date": "2026-07-01T13:30:01Z",
@@ -1434,12 +1442,12 @@
       "summary": "Discord testuje nowe metody weryfikacji wieku użytkowników – od skanowania twarzy i dokumentu tożsamości, po Portfel Google i kartę kredytową. Platforma zapewnia, że dane mają być przetwarzane w ograniczonym zakresie i nie trafiać bezpośrednio do Discorda. Sprawa budzi jednak pytania o prywatność i przejrzystość zewnętrznych dostawców."
     },
     {
-      "title": "DRAMuj to! Tanie komputery PC wycofywane są z istnienia ze względu na spadek cen pamięci",
+      "title": "DRAMuj to! Tanie komputery PC wycofywane z istnienia ze względu na spadek cen pamięci",
       "url": "https://www.theregister.com/personal-tech/2026/07/01/dram-it-cheap-pcs-being-priced-out-of-existence-as-memory-cost-bites/5265010",
       "date": "2026-07-01T12:30:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Gorączka złota w serwerach AI sprawia, że ​​budżetowe laptopy cierpią na brak chipów, podobnie jak maszyny za mniej niż 500 dolarów w niemal co piątym stanie."
+      "summary": "Gorączka złota na serwerach AI sprawia, że ​​budżetowe laptopy cierpią na brak chipów, podobnie jak maszyny za mniej niż 500 dolarów w niemal co piątym stanie."
     },
     {
       "title": "Citrix twierdzi, że powraca jako główny gracz w dziedzinie wirtualizacji serwerów, który nie będzie generował strasznych rachunków",
@@ -1450,7 +1458,7 @@
       "summary": "Ale twierdzi również, że XenServer 9 jest świetny w niszy DaaS, do której wycofał się dziesięć lat temu."
     },
     {
-      "title": "Brytyjscy policjanci zajmujący się konkurencją przyspieszają przekształcenie Netomni w pretendenta Openreach za 2 miliardy funtów",
+      "title": "Brytyjscy policjanci zajmujący się konkursami przyspieszają przekształcenie Netomni w pretendenta Openreach za 2 miliardy funtów",
       "url": "https://www.theregister.com/networks/2026/07/01/brit-competition-cops-fast-track-2b-borging-of-netomnia-into-openreach-challenger/5264986",
       "date": "2026-07-01T11:31:00Z",
       "source": "The Register",
@@ -1471,7 +1479,7 @@
       "date": "2026-07-01T10:59:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Przełączniki Kill, Coreboot i PureOS celują w osoby dbające o bezpieczeństwo i posiadające głębokie kieszenie."
+      "summary": "Przełączniki Kill, Coreboot i PureOS są skierowane do osób dbających o bezpieczeństwo i dysponujących głębokimi kieszeniami."
     },
     {
       "title": "Microsoft przyspiesza przejście w kryptografii postkwantowej do 2029 r",
@@ -1551,7 +1559,7 @@
       "date": "2026-07-01T07:20:51Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Duże modele językowe wciąż wymyślają adresy internetowe, które nie istnieją. Atakujący zaczęli kupować te wymyślone domeny, zanim zrobi to ktokolwiek inny, a następnie hostować na nich strony phishingowe, aby przechwycić ruch kierowany przez narzędzia AI. Jednostka 42 w Palo Alto Networks nazywa tę sztuczkę fantomowym kucaniem, a nowe badania pokazują, że zdarza się to już na wolności."
+      "summary": "Duże modele językowe ciągle wymyślają adresy internetowe, które nie istnieją. Atakujący zaczęli kupować te wymyślone domeny, zanim zrobi to ktokolwiek inny, a następnie hostować na nich strony phishingowe, aby przechwycić ruch kierowany przez narzędzia AI. Jednostka 42 w Palo Alto Networks nazywa tę sztuczkę fantomowym kucaniem, a nowe badania pokazują, że zdarza się to już na wolności."
     },
     {
       "title": "Anthropic przywraca Claude Fable 5 po zniesieniu przez USA kontroli eksportu związanych z jailbreakiem",
@@ -1591,7 +1599,7 @@
       "date": "2026-07-01T05:32:12Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "ClickFix, sztuczka, która nakłania ludzi do ręcznego uruchamiania złośliwego oprogramowania, po cichu rozrosła zaplecze biurowe. Nowe badania pokazują, że złośliwe polecenia stojące za fałszywymi stronami „udowodnij, że jesteś człowiekiem” są teraz rozdawane przez serwery oparte na interfejsach API, które udostępniają każdemu odwiedzającemu to samo złośliwe oprogramowanie w innym przebraniu. To samo badanie ujawniło także nową metodę dostarczania, której zadaniem jest wymykanie się skanowaniu skryptów systemu Windows."
+      "summary": "ClickFix, sztuczka, która oszukuje ludzi do ręcznego uruchamiania złośliwego oprogramowania, po cichu rozrosła się w back-office. Nowe badania pokazują, że złośliwe polecenia stojące za fałszywymi stronami „udowodnij, że jesteś człowiekiem” są teraz rozdawane przez serwery oparte na interfejsach API, które udostępniają każdemu odwiedzającemu to samo złośliwe oprogramowanie w innym przebraniu. To samo badanie ujawniło także nową metodę dostarczania, której zadaniem jest wymykanie się skanowaniu skryptów systemu Windows."
     },
     {
       "title": "Były indonezyjski minister i bohater startupu skazany za zakupy Chromebooków",
@@ -1602,7 +1610,7 @@
       "summary": "Nadiem Makarim przysięga odwołać się od wyroku, ponieważ uznano, że nie odniósł zysków z programu laptopów dla szkół o wartości 600 milionów dolarów."
     },
     {
-      "title": "Citrix łata sześć usterek NetScaler umożliwiających odczyt plików i odmowę usługi",
+      "title": "Citrix łata sześć luk NetScaler umożliwiających odczyt plików i ataki typu „odmowa usługi”.",
       "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
       "date": "2026-07-01T03:54:22Z",
       "source": "The Hacker News",
@@ -1610,7 +1618,7 @@
       "summary": "We wtorek firma Citrix wydała aktualizacje zabezpieczeń, które eliminują liczne luki w NetScaler ADC (dawniej Citrix ADC) i NetScaler Gateway (dawniej Citrix Gateway), które mogą zostać wykorzystane przez osobę atakującą do ułatwienia dowolnego odczytu plików lub wywołania stanu odmowy usługi (DoS). Luki są wymienione poniżej - CVE-2026-8451 (wynik CVSS: 8,8) - Niewystarczająca weryfikacja danych wejściowych."
     },
     {
-      "title": "Wygląda na to, że T-Mobile odchodzi z VMware i toczy dobrze znaną bitwę o prawa do wsparcia",
+      "title": "Wygląda na to, że T-Mobile odchodzi z VMware i toczy dobrze znaną bitwę o prawa do pomocy technicznej",
       "url": "https://www.theregister.com/virtualization/2026/07/01/t-mobile-appears-to-be-quitting-vmware-and-fighting-a-very-familiar-battle-for-support-rights-on-the-way-out/5264750",
       "date": "2026-07-01T01:19:14Z",
       "source": "The Register",
@@ -1626,12 +1634,12 @@
       "summary": "Masz ważne czaty starsze niż 30 dni? Lepiej upewnij się, że transkrypcje nadal istnieją."
     },
     {
-      "title": "Rozwiązanie zaproponowane przez Qualcomm w celu nadrobienia zaległości w infrastrukturze AI: zakopanie obliczeń w pamięci DRAM",
+      "title": "Rozwiązanie zaproponowane przez Qualcomm w celu nadrobienia zaległości w infrastrukturze AI: zakopanie obliczeń pod pamięcią DRAM",
       "url": "https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071",
       "date": "2026-06-30T20:25:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Dzięki akceleratorom AI nowej generacji dostawca SoC chce wznieść się wysoko ponad ścianę pamięci."
+      "summary": "Dzięki akceleratorom AI nowej generacji dostawca SoC zamierza wznieść się wysoko ponad ścianę pamięci."
     },
     {
       "title": "Naukowcy pokazują, że zmiana matematyki AI może zmniejszyć obciążenie sprzętu",
@@ -1786,14 +1794,6 @@
       "summary": "Kilka nietypowych ogłoszeń na Vinted wystarczyło, by w mediach społecznościowych wybuchła fala spekulacji o możliwym handlu dziećmi. Sprawa została zgłoszona służbom, ale oficjalnych ustaleń wciąż nie ma. Policja, jak i sama platforma apelują o ostrożność, weryfikację informacji i zgłaszanie podejrzanych treści właściwymi kanałami."
     },
     {
-      "title": "Australia zaostrza zakaz social mediów dla dzieci",
-      "url": "https://cyberdefence24.pl/polityka-i-prawo/australia-zaostrza-zakaz-social-mediow-dla-dzieci",
-      "date": "2026-06-29T14:26:06Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Australia podwoi maksymalną kwotę kary za naruszenie przepisów dotyczących zakazu korzystania z mediów społecznościowych przez dzieci. Po wprowadzeniu zasad w grudniu tego roku, większość małoletnich omija wprowadzone zabezpieczenia; według premiera, właściciele platform nie podejmują wystarczających działań w tej kwestii. Dodatkowo, reforma ma wzmocnić pozycję eSafety Commissionera."
-    },
-    {
       "title": "SCAM na GTA 6. Cyberprzestępcy oferują wczesny dostęp do gry w zamian za kryptowaluty",
       "url": "https://sekurak.pl/scam-na-gta-6-cyberprzestepcy-oferuja-wczesny-dostep-do-gry-w-zamian-za-kryptowaluty/",
       "date": "2026-06-29T05:41:26Z",
@@ -1811,6 +1811,14 @@
     }
   ],
   "finance": [
+    {
+      "title": "Google musi zapłacić 1,3 mld euro kary. Historyczny wyrok w Sztokholmie",
+      "url": "https://www.bankier.pl/wiadomosc/Google-musi-zaplacic-1-3-mld-euro-kary-Historyczny-wyrok-w-Sztokholmie-9161983.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-07-01T14:14:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Sąd Patentowy i Gospodarczy w Sztokholmie nakazał w środę wyszukiwarce Google wypłatę 14,3 mld koron (ok. 1,3 mld euro) odszkodowania szwedzkiemu serwisowi porównującemu ceny Pricerunner. Powodem jest nieuczciwa konkurencja."
+    },
     {
       "title": "Ujawnili skalę podwyżek. Oto co się stało z cenami paliw wraz z końcem \"CPN\"",
       "url": "https://www.money.pl/mobility/ujawnili-skale-podwyzek-oto-co-sie-stalo-z-cenami-paliw-wraz-z-koncem-cpn-7302753395497280a.html",
@@ -1956,6 +1964,14 @@
       "summary": "27 nowych rekomendacji dla spółek z GPW. Oto jakie spółki zalecali kupować i sprzedawać analitycy w czerwcu Szymon Machalica śr., 01.07.2026 Kanał Strefa Inwestorów Rekomendacje w co inwestować Treść W czerwcu 2026 roku analitycy wydali łącznie 27 nowych rekomendacji dla spółek z GPW. Wśród nich dominowały zalecenia pozytywne – „kupuj”, „akumuluj” i „przeważaj” – ale pojawiło się też kilka mocnych sygnałów ostrzegawczych w handlu detalicznym, grach oraz surowcach.Największy optymizm w rekomendacjach w segmencie wzrostowymNajwiększe oczekiwania koncentrują się ponownie na spółkach wzrostowych i konsumenckich, gdzie analitycy widzą przestrzeń do kilkudziesięcioprocentowych zwyżek kursu."
     },
     {
+      "title": "PKP CARGO składa zmienione Propozycje Układowe - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/148996,pkp-cargo-sklada-zmienione-propozycje-ukladowe",
+      "date": "2026-07-01T11:32:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "PKP CARGO składa zmienione Propozycje Układowe BiznesRadar."
+    },
+    {
       "title": "Ekspert: Medycyna dokonała przełomu: możemy odwrócić starzenie. Tak to zrobisz - Forbes",
       "url": "https://www.forbes.pl/life/jak-zatrzymac-i-odwrocic-starzenie-ekspert-radzi-co-naprawde-dziala-wywiad/klqh96c",
       "date": "2026-07-01T11:25:00Z",
@@ -1972,20 +1988,20 @@
       "summary": "„Jeżeli system jest dziurawy, to tego wiadra się już uszczelnić nie da”. Rafał Brzoska o problemach systemu podatkowego Forbes."
     },
     {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/tagi/system-eureka",
+      "date": "2026-07-01T11:15:33Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
+    },
+    {
       "title": "„Zmienność formularzy jest większa niż zmienność naszych nawyków konsumenckich”. Krzysztof Pawiński o stabilności rynku i zmienności regulacji - Forbes",
       "url": "https://www.forbes.pl/biznes/zmiennosc-formularzy-jest-wieksza-niz-zmiennosc-naszych-nawykow-konsumenckich/lb1fz6p",
       "date": "2026-07-01T11:03:50Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "„Zmienność formularzy jest większa niż zmienność naszych nawyków konsumenckich”. Krzysztof Pawiński o stabilności rynku i zmienności regulacji Forbes."
-    },
-    {
-      "title": "Ukraina straciła trzy MiG-i w jeden dzień. Z Gripenem Rosjanom nie pójdzie już tak łatwo - Forsal.pl",
-      "url": "https://forsal.pl/swiat/bezpieczenstwo/artykuly/11270164,ukraina-stracila-trzy-mig-i-w-jeden-dzien-z-gripenem-rosjanom-nie-poj.html",
-      "date": "2026-07-01T10:55:54Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Ukraina straciła trzy MiG-i w jeden dzień. Z Gripenem Rosjanom nie pójdzie już tak łatwo Forsal.pl."
     },
     {
       "title": "„W Polsce 2–2,5 roku, w Stanach 8 miesięcy. Dla biznesu to jest przepaść” – Paweł Jarski o inwestowaniu i warunkach prowadzenia biznesu w Polsce - Forbes",
@@ -2050,22 +2066,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat EBI Duality SA (duality): Powołanie osoby zarządzającej lub nadzorującej stockwatch.pl."
-    },
-    {
-      "title": "Notowania SGI1228 SGI FINANCE - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/SGI1228",
-      "date": "2026-07-01T08:31:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania SGI1228 SGI FINANCE BiznesRadar."
-    },
-    {
-      "title": "Bridge Solutions Hub wypłaci 1 zł dywidendy na akcję - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/bridge-solutions-hub-dywidenda-2026-wyplata,akcje,375433",
-      "date": "2026-07-01T08:21:55Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Bridge Solutions Hub wypłaci 1 zł dywidendy na akcję stockwatch.pl."
     },
     {
       "title": "Kończą się zapisy na rekordową emisję obligacji PragmaGO",
@@ -2148,6 +2148,14 @@
       "summary": "Wdrożenie zaawansowanego programu CAM jest decyzją, którą wiele zakładów produkcyjnych traktuje jak zakup oprogramowania – wyślij zamówienie, zainstaluj, szkol pracowników. W praktyce takie podejście kończy się frustracją i niedotrzymanymi obietnicami&#8230; Artykuł Jak przygotować zakład produkcyjny na wdrożenie zaawansowanego CAM pochodzi z serwisu 300Gospodarka.pl."
     },
     {
+      "title": "Komunikat ESPI LARQ SPÓŁKA AKCYJNA (larq): Powołanie członka Rady Nadzorczej Larq S.A - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/larq,powolanie-czlonka-rady-nadzorczej-larq-sa-2026-06-30,espi,20260630_235627_0000353303",
+      "date": "2026-06-30T21:56:27Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat ESPI LARQ SPÓŁKA AKCYJNA (larq): Powołanie członka Rady Nadzorczej Larq S.A stockwatch.pl."
+    },
+    {
       "title": "Co dzieje się z igłą po zabiegu? Wiele salonów beauty ma problem z ewidencją odpadów",
       "url": "https://300gospodarka.pl/news/odpady-medyczne-w-branzy-beauty",
       "date": "2026-06-30T21:54:32Z",
@@ -2202,14 +2210,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Raporty finansowe: Bilans REX CONCEPTS SA BiznesRadar."
-    },
-    {
-      "title": "W co inwestować w drugiej połowie 2026 roku? Hossa AI czy bańka AI?",
-      "url": "https://inwestomat.eu/w-co-inwestowac-w-drugiej-polowie-2026-roku/",
-      "date": "2026-06-29T05:00:00Z",
-      "source": "Inwestomat (Albert Rokicki)",
-      "confirmed_by": 1,
-      "summary": "Na razie wygrywają optymiści. Chyba nie pamiętam żadnego półrocza w ostatnich 6 latach (czyli mniej więcej czasie, w którym prowadzę tego bloga), w którym inwestorzy nie baliby się nowych rekordów cen akcji i nie przewidywali, że bańka zaraz pęknie. Jednak jeśli ktoś dołączyłby 6 lat temu do giełdowych optymistów i po prostu zainwestował swoje pieniądze w [&#8230;]."
     }
   ],
   "critical_alerts": [
@@ -2219,7 +2219,7 @@
       "date": "2026-07-01T13:18:44Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Yorgen Fenech, który zaprzecza wszystkim zarzutom, staje przed sądem ponad dziewięć lat po śmierci dziennikarzaW środę, ponad dziewięć lat po jej śmierci w zamachu bombowym, który wywołał falę wstrząsu w Europie, stanie przed sądem Biznesmen oskarżony o nakazanie zabójstwa maltańskiej dziennikarki Daphne Caruany Galizii. Yorgen Fenech, spadkobierca wartego setki milionów imperium majątkowego, jest jednym z siedmiu prokuratorów oskarżonych o udział w zabójstwie i ostatnim, który stanąć przed sądem. Kontynuuj czytanie..."
+      "summary": "Yorgen Fenech, który zaprzecza wszystkim zarzutom, staje przed sądem ponad dziewięć lat po śmierci dziennikarza Biznesmen oskarżony o zlecenie zabójstwa maltańskiej dziennikarki Daphne Caruany Galizia staje przed sądem w środę, ponad dziewięć lat po jej śmierci w zamachu bombowym, który wstrząsnął Europą. Yorgen Fenech, spadkobierca wartego setki milionów imperium majątkowego, jest jednym z siedmiu prokuratorów oskarżonych o udział w zabójstwie i ostatnim, który skazał stanąć przed sądem. Kontynuuj czytanie..."
     },
     {
       "title": "Urzędnicy Trumpa odsuwają na bok Machado, przywódcę opozycji w Wenezueli, w związku z reakcją na trzęsienie ziemi",
@@ -2227,7 +2227,7 @@
       "date": "2026-07-01T11:41:00Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „politycznym chwytem”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju."
+      "summary": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „wyczyn polityczny”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju."
     },
     {
       "title": "Eksplozja w Monako podobno rani ukraińskiego potentata powiązanego z Rosją – AP News",
@@ -2308,7 +2308,7 @@
       "lng": -67.09,
       "type": "disaster",
       "region": "Wenezuela",
-      "description": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „politycznym chwytem”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju.",
+      "description": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „wyczyn polityczny”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju.",
       "url": "https://www.nytimes.com/2026/06/30/world/americas/trump-machado-venezuela-rift.html"
     },
     {
@@ -2316,7 +2316,7 @@
       "lng": -66.29,
       "type": "critical",
       "region": "Wenezuela",
-      "description": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „politycznym chwytem”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju.",
+      "description": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „wyczyn polityczny”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju.",
       "url": "https://www.nytimes.com/2026/06/30/world/americas/trump-machado-venezuela-rift.html"
     },
     {
@@ -2516,8 +2516,16 @@
       "lng": 14.680000000000001,
       "type": "critical",
       "region": "Malta",
-      "description": "Yorgen Fenech, który zaprzecza wszystkim zarzutom, staje przed sądem ponad dziewięć lat po śmierci dziennikarzaW środę, ponad dziewięć lat po jej śmierci w zamachu bombowym, który wywołał falę wstrząsu w Europie, stanie przed sądem Biznesmen oskarżony o nakazanie zabójstwa maltańskiej dziennikarki Daphne Caruany Galizii.",
+      "description": "Yorgen Fenech, który zaprzecza wszystkim zarzutom, staje przed sądem ponad dziewięć lat po śmierci dziennikarza Biznesmen oskarżony o zlecenie zabójstwa maltańskiej dziennikarki Daphne Caruany Galizia staje przed sądem w środę, ponad dziewięć lat po jej śmierci w zamachu bombowym, który wstrząsnął Europą.",
       "url": "https://www.theguardian.com/world/2026/jul/01/daphne-caruana-galizia-murder-yorgen-fenech-trial-malta"
+    },
+    {
+      "lat": 62.0,
+      "lng": 105.8,
+      "type": "cyber",
+      "region": "Rosja",
+      "description": "Departament Handlu USA zniósł ograniczenia w dostępie cudzoziemców do modeli Fable oraz Mythos od Anthropic.",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/kontrowersje-wokol-modeli-anthropic-jest-decyzja-wladz-usa"
     }
   ],
   "instability": [
@@ -2795,51 +2803,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25674.38,
+      25663.89,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26838.81,
+      26827.83,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26985.77,
+      26974.74,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27230.73,
+      27219.59,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27866.52,
+      27855.12,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27902.56,
+      27891.15,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28147.26,
+      28135.75,
       27354.94,
       27400.36,
       27412.11,
-      28548.7,
+      28537.03,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27809.31,
+      27797.94,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27989.03,
+      27977.59,
       27686.17,
       27404.78,
       27351.97,
@@ -2848,10 +2856,10 @@
       27661.43,
       27749.69,
       27709.26,
-      27697.37,
+      27686.05,
       27930.04,
-      28244.76,
-      28167.74
+      28233.22,
+      28213.19
     ],
     "currency": "PLN"
   }
