@@ -1,13 +1,45 @@
 {
-  "last_updated": "2026-07-01T10:44:17Z",
+  "last_updated": "2026-07-01T10:44:52Z",
   "poland": [
+    {
+      "title": "Duże zaskoczenie w danych o PMI z polskiego przemysłu. Wskaźnik jak na huśtawce",
+      "url": "https://www.rp.pl/dane-gospodarcze/art44747981-duze-zaskoczenie-w-danych-o-pmi-z-polskiego-przemyslu-wskaznik-jak-na-hustawce",
+      "date": "2026-07-01T10:39:42Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Wskaźnik PMI dla polskiego przemysłu wyniósł w czerwcu tylko 46,1 pkt – podał S&P Global. Oznacza to największy miesięczny spadek od połowy 2022 r. Jednocześnie analitycy uspokajają, zauważając, że inne dane nie sugerują tąpnięcia koniunktury w przemyśle."
+    },
+    {
+      "title": "Będzie unijne wsparcie dla polskich rolników. Dostaną więcej niż Niemcy i Włosi",
+      "url": "https://businessinsider.com.pl/gospodarka/unijne-wsparcie-dla-rolnikow-polacy-dostana-niemal-najwiecej-srodkow/shfwkgx",
+      "date": "2026-07-01T10:38:09Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Polska otrzyma 66 mln euro wsparcia z unijnego pakietu przygotowanego dla rolników, którzy odczuwają skutki drożejących nawozów. Kwota ta plasuje nasz kraj na drugim miejscu wśród wszystkich państw członkowskich."
+    },
+    {
+      "title": "Wizz Air ogłosił 10 nowych tras. W tym z pięciu miast do Egiptu",
+      "url": "https://turystyka.rp.pl/linie-lotnicze/art44749171-wizz-air-oglosil-10-nowych-tras-w-tym-z-pieciu-miast-do-egiptu",
+      "date": "2026-07-01T10:35:45Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Wizz Air ogłosił dzisiaj uruchomienie lotów do Egiptu i wprowadzenie 10 nowych tras z pięciu lotnisk w Polsce. To jedno z największych rozszerzeń siatki połączeń Wizz Air na polskim rynku w ostatnich latach – podkreśla."
+    },
+    {
+      "title": "Artur Bartkiewicz: W Warszawie afera, w sondażach bez zmian. PiS nie wyciągnął wniosków",
+      "url": "https://www.rp.pl/komentarze/art44748051-artur-bartkiewicz-w-warszawie-afera-w-sondazach-bez-zmian-pis-nie-wyciagnal-wnioskow",
+      "date": "2026-07-01T10:34:48Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Gwoźdźmi do politycznej trumny Koalicji Obywatelskiej miały być już przegrane wybory prezydenckie, pieniądze z KPO wydawane na budowę oranżerii w kebabie, a teraz ostatecznie wieko umocować miała afera w Szpitalu Południowym. Tymczasem KO, jak mawiał Waldemar Pawlak, trwa i trwa mać."
+    },
     {
       "title": "Włodzimierz Czarzasty o ukraińskim Panteonie Narodowym: Nie przesuniemy Ukrainy na mapie",
       "url": "https://www.rp.pl/polityka/art44749131-wlodzimierz-czarzasty-o-ukrainskim-panteonie-narodowym-nie-przesuniemy-ukrainy-na-mapie",
       "date": "2026-07-01T10:32:54Z",
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
-      "summary": "Na Boga, proszę o rozsądek myślenia o tym, jak będzie wyglądała polska polityka zagraniczna za 5 czy 10 lat - mówił na konferencji prasowej marszałek Sejmu Włodzimierz Czarzasty pytany o przyjęcie przez Radę Najwyższą Ukrainy decyzji o utworzeniu Panteonu Narodowego."
+      "summary": "– Na Boga, proszę o rozsądek myślenia o tym, jak będzie wyglądała polska polityka zagraniczna za 5 czy 10 lat - mówił na konferencji prasowej marszałek Sejmu Włodzimierz Czarzasty pytany o przyjęcie przez Radę Najwyższą Ukrainy decyzji o utworzeniu Panteonu Narodowego."
     },
     {
       "title": "Wakacyjne oszczędności i karta w walizce",
@@ -19,11 +51,19 @@
     },
     {
       "title": "Wypadek autobusu z Polakami na południu Turcji",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,32888914,wypadek-autobusu-z-polakami-na-poludniu-turcji.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32888914,wypadek-autobusu-z-polakami-na-poludniu-turcji.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-07-01T10:26:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Autobus z 30 Polakami zderzył się w południowej Turcji z samochodem osobowym - przekazał portalowi TVN24.pl rzecznik MSZ Maciej Wiewiór."
+    },
+    {
+      "title": "Wypadek autokaru w Turcji. Rannych jest kilkunastu Polaków",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-01/wypadek-autokaru-w-turcji-rannych-jest-kilkunastu-polakow/",
+      "date": "2026-07-01T10:25:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "W mieście Antalya w Turcji doszło do zderzenia samochodu osobowego i autobusu. 12 Polaków doznało lekkich obrażeń - przekazał Polsat News rzecznik MSZ Maciej Wewiór."
     },
     {
       "title": "Liwiusz Laska nowym prezesem ZUS",
@@ -42,12 +82,28 @@
       "summary": "Znana z minimalistycznego wzornictwa japońska marka MUJI kończy działalność na polskim rynku. Wkrótce zamknie swój sklep przy ul. Mysiej w Warszawie, gdzie aktualnie trwa wyprzedaż towaru."
     },
     {
+      "title": "Małgorzata Pępek złożyła wyjaśnienia ws. kolejki w szpitalu. Jest decyzja KO",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-01/malgorzata-pepek-zlozyla-wyjasnienia-ws-kolejki-w-szpitalu-jest-decyzja-ko/",
+      "date": "2026-07-01T10:06:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Kolegium klubu Koalicji Obywatelskiej zdecydowało, że nie będzie konsekwencji dla posłanki Małgorzaty Pępek - dowiaduje się Polsat News. Złożyła wyjaśnienia ws. skorzystania ze świadczeń medycznych poza kolejką, które nie potwierdziły doniesień medialnych - przekazał nam przewodniczący klubu Zbigniew Konwiński."
+    },
+    {
       "title": "Ponad 1000 ofiar śmiertelnych upałów w Hiszpanii w czerwcu",
       "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198071,32888747,ponad-1000-ofiar-smiertelnych-upalow-w-hiszpanii-w-czerwcu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-07-01T10:04:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "W czerwcu z powodu wysokich temperatur zmarło w Hiszpanii 1028 osób - wynika z danych hiszpańskiego ministerstwa zdrowia. W kraju odnotowano drugi najgorętszy czerwiec w historii pomiarów."
+    },
+    {
+      "title": "\"Halo, tu Londyn\". Ostatnia taka rozmowa w Finlandii",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-01/halo-tu-londyn-koniec-ery-telefonow-stacjonarnych-w-finlandii/",
+      "date": "2026-07-01T10:01:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Finlandia kończy erę tradycyjnej telefonii stacjonarnej. Operator Elisa wyłączył we wtorek swoje linie przewodowe po ponad 140 latach ich funkcjonowania. Z tej okazji prezes firmy publicznie wykonał ostatnie połączenie, dzwoniąc z Londynu do Helsinek."
     },
     {
       "title": "W Ukrainie powstanie Panteon Narodowy. Parlament przegłosował",
@@ -74,6 +130,14 @@
       "summary": "Paliwa długo w Polsce były bardzo tanie. Teraz jednak wróciła dawna stawka VAT. Kierowcy nie są w najlepszych nastrojach — odwiedziliśmy na przykład stację, na której cena za litr benzyny 95 podskoczyła o ponad 80 gr."
     },
     {
+      "title": "Ukraina przyjęła ustawę o Panteonie Narodowym. Może znaleźć się w nim Bandera",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-01/ukraina-przyjela-ustawe-o-panteonie-narodowym-moze-znalezc-sie-w-nim-bandera/",
+      "date": "2026-07-01T09:48:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Rada Najwyższa Ukrainy przyjęła w środę ustawę o utworzeniu Panteonu Narodowego. Za projektem zagłosowało 227 deputowanych, przeciw było ośmiu, 29 wstrzymało się od głosu, a 39 parlamentarzystów nie wzięło udziału w głosowaniu."
+    },
+    {
       "title": "Busy jak ciężarówki. Od 1 lipca nowe obowiązki dla firm transportowych",
       "url": "https://pro.rp.pl/abc-firmy/art44747551-busy-jak-ciezarowki-od-1-lipca-nowe-obowiazki-dla-firm-transportowych",
       "date": "2026-07-01T09:47:55Z",
@@ -98,12 +162,12 @@
       "summary": "Fundacja Bezkres opublikowała apel w sprawie zaginionej kobiety. Kaję Kojder-Demską ostatni raz widziano 29 czerwca w Gródku na Podlasiu."
     },
     {
-      "title": "Parlament Ukrainy przyjął ustawę o Panteonie Narodowym. Wśród kandydatów pojawia się Bandera",
-      "url": "https://www.rp.pl/polityka/art44748641-parlament-ukrainy-przyjal-ustawe-o-panteonie-narodowym-wsrod-kandydatow-pojawia-sie-bandera",
-      "date": "2026-07-01T09:44:00Z",
-      "source": "Rzeczpospolita",
+      "title": "Maja Chwalińska wydała oświadczenie. \"Jest mi ogromnie przykro\"",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-01/maja-chwalinska-wydala-oswiadczenie-jest-mi-ogromnie-przykro/",
+      "date": "2026-07-01T09:42:00Z",
+      "source": "Polsat News",
       "confirmed_by": 1,
-      "summary": "Rada Najwyższa Ukrainy uchwaliła ustawę o utworzeniu Panteonu Narodowego, którego powstanie zapowiedział wcześniej prezydent Wołodymyr Zełenski. W memorialnym kompleksie mają być upamiętniane osoby uznane za szczególnie zasłużone dla walki o niepodległość i rozwoju państwa. Już na etapie prac nad projektem pojawiły się pytania o możliwość uhonorowania Stepana Bandery."
+      "summary": "Maja Chwalińska wycofała się z rywalizacji deblowej na Wimbledonie. Polska tenisistka poinformowała o swojej decyzji w mediach społecznościowych. W krótkim oświadczeniu przekazała, że teraz najważniejszy jest dla niej powrót do zdrowia."
     },
     {
       "title": "Kiedy wrócą upały? Kolejna fala zmierza do Polski",
@@ -138,22 +202,6 @@
       "summary": "Olsztyńska policja i prokuratura próbują rozwikłać sprawę zabójstwa Stanisława Hornowicza, do którego doszło ok. 20 lat temu. Śledczy zaapelowali o kontakt do wszystkich, którzy znają okoliczności śmierci Hornowicza, lub mają informacje, które mogą pomóc w rozwikłaniu sprawy."
     },
     {
-      "title": "Japońska marka Muji żegna się z polskim rynkiem. „Dziękujemy za 16 wspólnych lat”",
-      "url": "https://sukces.rp.pl/styl-zycia/art44748281-japonska-marka-muji-zegna-sie-z-polskim-rynkiem-dziekujemy-za-16-wspolnych-lat",
-      "date": "2026-07-01T09:31:38Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Muji, japońska marki minimalistycznej mody, przedmiotów codziennego użytku i mebli, zamyka swój ostatni sklep w Polsce. W ten sposób kończy się rozdział w historii obecności na polskim rynku japońskiego giganta handlu detalicznego, który w dużym stopniu ukształtował postrzeganie na świecie współczesnego japońskiego wzornictwa."
-    },
-    {
-      "title": "Tomasz Terlikowski: Lefebryści zerwali z Kościołem. Schizma dokonana",
-      "url": "https://www.rp.pl/komentarze/art44748341-tomasz-terlikowski-lefebrysci-zerwali-z-kosciolem-schizma-dokonana",
-      "date": "2026-07-01T09:26:09Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Lata debaty, liczne ustępstwa Stolicy Apostolskiej – wszystko to poszło na marne i wracamy do punktu wyjścia. Święcenia biskupie w Écône, siedzibie Bractwa Kapłańskiego św. Piusa X, które miały miejsce 1 lipca, oznaczają ponowną schizmę i ekskomunikę zarówno wyświęconych, jak i wyświęcających."
-    },
-    {
       "title": "Rzekoma próba otrucia Nawrockiego. \"Dlaczego nie wezwano karetki?\", \"Banialuki\"",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32888248,rzekoma-proba-otrucia-nawrockiego-dlaczego-nie-wezwano-karetki.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-07-01T09:21:00Z",
@@ -170,12 +218,12 @@
       "summary": "Lexus RX to duży, komfortowy SUV, który przede wszystkim zapewnia spokój. I to na różne sposoby. Pali mało, więc nie trzeba troszczyć się o częste tankowanie."
     },
     {
-      "title": "Nie żyje Victor Willis. Amerykański gwiazdor Village People miał 74 lata",
-      "url": "https://www.rp.pl/muzyka-popularna/art44748071-nie-zyje-victor-willis-amerykanski-gwiazdor-village-people-mial-74-lata",
-      "date": "2026-07-01T09:13:00Z",
-      "source": "Rzeczpospolita",
+      "title": "Eksplozja w Monako. Media: Śledczy nie wykluczają udziału ukraińskich służb",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-01/eksplozja-w-monako-media-sledczy-nie-wykluczaja-udzialu-ukrainskich-sluzb/",
+      "date": "2026-07-01T09:12:00Z",
+      "source": "Polsat News",
       "confirmed_by": 1,
-      "summary": "W wieku 74 lat zmarł Victor Willis, amerykański piosenkarz, współzałożyciel grającego muzykę taneczną zespołu Village People. Największe hity grupy to „YMCA” i „In the navy”."
+      "summary": "Po wybuchu w Monako służby badają wątek udziału ukraińskich służb specjalnych - opisuje Le Figaro. W eksplozji ranny został oligarcha ukraińskiego pochodzenia, który od 2023 roku jest liście sankcyjnej Kijowa."
     },
     {
       "title": "Milionowa kara od UOKiK dla kosmetycznego giganta. Ponad 500 zaległych faktur",
@@ -210,20 +258,20 @@
       "summary": "Dziś w Polsce dwie pory roku na raz. IMGW: ogromny kontrast, 18°C różnicy Polskie Radio 24."
     },
     {
-      "title": "\"Ukraińcy robią głupotę\". Hołownia komentuje spór z Kijowem",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32888142,ukraincy-robia-glupote-holownia-komentuje-spor-z-kijowem.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-07-01T08:50:00Z",
-      "source": "Gazeta Wyborcza",
+      "title": "Trzylatek przeżył pod gruzami niemal tydzień. Cud w Wenezueli",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-01/trzylatek-przezyl-pod-gruzami-niemal-tydzien-cud-w-wenezueli/",
+      "date": "2026-07-01T09:04:00Z",
+      "source": "Polsat News",
       "confirmed_by": 1,
-      "summary": "Szymon Hołownia skrytykował zarówno decyzję Wołodymyra Zełenskiego, jak i reakcję Karola Nawrockiego, który zdecydował o odebraniu Orderu Orła Białego prezydentowi Ukrainy. W opinii wicemarszałka Sejmu była ona \"absolutnie niewspółmierna\"."
+      "summary": "Trzylatek, który spędził sześć dni pod gruzami po trzęsieniu ziemi w Wenezueli, został odnaleziony żywy przez jordańskich ratowników - potwierdziła pełniąca obowiązki prezydenta Delcy Rodriguez. Jak dodała, przypadek ten daje nadzieję rodzinom innych zaginionych."
     },
     {
-      "title": "Zełenski wezwał do siebie Załużnego, \"by zrezygnował z prezydenckich ambicji\"",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32888252,zelenski-wezwal-do-siebie-zaluznego-by-zrezygnowal-z-prezydenckich.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-07-01T08:40:00Z",
-      "source": "Gazeta Wyborcza",
+      "title": "Zełenski, Załużny i wybory na Ukrainie. \"Bracie, ale przemyśl to jeszcze raz\"",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-01/zelenski-zaluzny-i-wybory-na-ukrainie-bracie-ale-przemysl-to-jeszcze-raz/",
+      "date": "2026-07-01T08:38:00Z",
+      "source": "Polsat News",
       "confirmed_by": 1,
-      "summary": "Wołodymyr Zełenski wezwał do Kijowa byłego naczelnego dowódcę sił zbrojnych, Walerija Załużnego. Prezydent Ukrainy chciał się dowiedzieć, czy zamierza startować w wyborach prezydenckich, gdyby te odbyły się na jesieni - podał portal Ukraińska Prawda."
+      "summary": "Generał i dyplomata Wałerij Załużny został wezwany do Kijowa na spotkanie u Wołodymyra Zełenskiego. Rozmowy miały się toczyć wokół możliwych wyborów w Ukrainie. Prezydent chciał dowiedzieć się, czy były naczelny dowódca sił zbrojnych zamierza w nich kandydować, gdyby odbyły się one jesienią."
     },
     {
       "title": "Rywal spoza setki na kursie Hurkacza. Polak ma na niego patent - Polskie Radio 24",
@@ -248,22 +296,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Od 1 lipca Unia Europejska zezwala na bezcłowy przywóz do strefy euro amerykańskich towarów przemysłowych. To część umowy handlowej zawartej w ubiegłym roku z prezydentem USA Donaldem Trumpem. \"To dobra wiadomość dla handlu transatlantyckiego\" — podkreśliła Ursula von der Leyen, przewodnicząca Komisji Europejskiej."
-    },
-    {
-      "title": "Nissan Ariya Nismo kusi mocą. To nie jest sportowy crossover, choć wygląda efektownie",
-      "url": "https://businessinsider.com.pl/technologie/motoryzacja/nissan-ariya-nismo-zachwyca-moca-ale-czy-to-prawdziwy-sportowiec/fcy9scz",
-      "date": "2026-07-01T08:07:56Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Nissan nie ma w tej chwili w ofercie, przynajmniej europejskiej, spektakularnych samochodów o sportowym zacięciu. Proponuje jednak coś, co w teorii ma stanowić namiastkę legendarnych modeli z serii „SX”, czy też rewelacyjnego GT-R-a. To elektryczny Nissan Ariya Nismo."
-    },
-    {
-      "title": "Czym są wyładowania dodatnie? Te pioruny niszczą nawet sprzęt odłączony od gniazdek",
-      "url": "https://businessinsider.com.pl/technologie/nowe-technologie/wyladowania-dodatnie-podczas-burzy-dlaczego-sa-tak-niebezpieczne/ks10lr9",
-      "date": "2026-07-01T08:06:31Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Podczas burzy większość ludzi boi się typowych, rozgałęzionych błyskawic. Tymczasem meteorolodzy i łowcy burz od lat ostrzegają przed znacznie groźniejszym zjawiskiem — wyładowaniami dodatnimi. To one, chociaż stanowią tylko ok."
     },
     {
       "title": "Szef MSWiA: „Wielki Bu\" z aktem oskarżenia - Polska Agencja Prasowa SA",
@@ -322,14 +354,6 @@
       "summary": "PAP Biznes."
     },
     {
-      "title": "Konin: Nowe mieszkania komunalne na konińskiej Starówce oddane do użytku - | Serwis Samorządowy PAP",
-      "url": "https://samorzad.pap.pl/klub-samorzadowy/konin/kategoria/aktualnosci/konin-nowe-mieszkania-komunalne-na-koninskiej-starowce",
-      "date": "2026-06-30T21:45:15Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Konin: Nowe mieszkania komunalne na konińskiej Starówce oddane do użytku | Serwis Samorządowy PAP."
-    },
-    {
       "title": "Wszystko jasne! Chicago ogłosiło numer Lewandowskiego - Polskie Radio 24",
       "url": "https://polskieradio24.pl/sport/wszystko-jasne-chicago-oglosilo-numer-lewandowskiego",
       "date": "2026-06-30T21:13:21Z",
@@ -344,14 +368,6 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Trener Chicago tylko podsycił spekulacje. Chodzi o numer i debiut Lewandowskiego Polskie Radio 24."
-    },
-    {
-      "title": "Brwinów: Rowerowe rozpoczęcie wakacji - | Serwis Samorządowy PAP",
-      "url": "http://samorzad.pap.pl/klub-samorzadowy/brwinow/kategoria/aktualnosci/brwinow-rowerowe-rozpoczecie-wakacji",
-      "date": "2026-06-30T20:48:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Brwinów: Rowerowe rozpoczęcie wakacji | Serwis Samorządowy PAP."
     },
     {
       "title": "Polska bije rekordy, mamy najlepszy wynik. Szef MON: jesteśmy europejskim liderem - Polskie Radio 24",
@@ -384,22 +400,6 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "\"Brzmienia historii. Dzień Cytadeli\". Zapraszamy na piknik muzyczny!"
-    },
-    {
-      "title": "Świątek gra mecz 2. rundy. Kiedy starcie z Pliskovą? - Polskie Radio 24",
-      "url": "https://polskieradio24.pl/sport/swiatek-gra-na-wimbledonie-kiedy-mecz-z-pliskova",
-      "date": "2026-06-30T14:42:05Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Świątek gra mecz 2. rundy. Kiedy starcie z Pliskovą?"
-    },
-    {
-      "title": "Spektakularna erupcja Etny. Lawa i czerwone błyski rozświetliły Sycylię - Polskie Radio 24",
-      "url": "https://polskieradio24.pl/swiat/spektakularna-erupcja-etny-lawa-i-czerwone-blyski-rozswietlily-sycylie",
-      "date": "2026-06-30T11:45:59Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Spektakularna erupcja Etny. Lawa i czerwone błyski rozświetliły Sycylię Polskie Radio 24."
     }
   ],
   "world_security": [
@@ -424,7 +424,7 @@
       "url": "https://www.reuters.com/sports/soccer/two-people-die-suffocation-during-world-cup-celebrations-mexico-2026-07-01/",
       "date": "2026-07-01T10:23:55Z",
       "source": "Reuters",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Trzy osoby zginęły podczas obchodów Pucharu Świata w Meksyku, gdy kibice tłoczą się na ulicach Reuters."
     },
     {
@@ -452,6 +452,14 @@
       "summary": "Lokalne media podały, ale niepotwierdzone informacje o trzeciej śmierci Ponad milion osób zgromadziło się w Meksyku Co najmniej dwie osoby zginęły podczas masowych uroczystości w Meksyku w związku z awansem drużyny narodowej do kolejnej rundy Pucharu Świata – podały lokalne władze. Według ministerstwa zdrowia miasta 19-letnia kobieta i 44-letni mężczyzna zmarli w wyniku uduszenia. Władze nie potwierdziły śmierci trzeciej osoby, o czym poinformowały lokalne media. Kontynuuj czytanie..."
     },
     {
+      "title": "Potężna burza uderza w Rumunię, jedna osoba zginęła – Reuters",
+      "url": "https://www.reuters.com/business/environment/powerful-storm-hits-romania-one-person-killed-2026-07-01/",
+      "date": "2026-07-01T09:25:53Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Potężna burza uderza w Rumunię, jedna osoba zginęła Reuters."
+    },
+    {
       "title": "Następna wojna w Iranie może nadejść szybciej, niż myślisz – Reuters",
       "url": "https://www.reuters.com/commentary/reuters-open-interest/next-iran-war-may-come-sooner-than-you-think-joachim-klement-2026-07-01/",
       "date": "2026-07-01T09:15:01Z",
@@ -465,7 +473,7 @@
       "date": "2026-07-01T09:10:22Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Grupa ochrony konsumentów Choice przetestowała w ciemno 30 oliw z oliwek z pierwszego tłoczenia i odkryła, że wiele z najwyżej ocenionych oliw pochodzi z Australii.Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast. Grupa ochrony konsumentów Choice przetestowała smak 30 oliw z oliwek z pierwszego tłoczenia w supermarketach i odkryła, że niektóre oliwy wyprodukowane w Australii plasują się wyżej niż te importowane z Włoch i Hiszpanii. „Wielu Australijczyków poszukuje produktów lokalnych, a jest wielu australijskich producentów oliwy z oliwek, którzy zdobyli całkiem dobrą reputację” – Pru Engel, Choice powiedział redaktor ds. widzów i zaangażowania. Kontynuuj czytanie..."
+      "summary": "Grupa ochrony konsumentów Choice przetestowała w ciemno 30 oliw z oliwek i odkryła, że wiele z najwyżej ocenionych oliw z oliwek pochodzi z Australii.Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast. Grupa ochrony konsumentów Choice przetestowała smak 30 oliw z oliwek z pierwszego tłoczenia w supermarketach i odkryła, że niektóre oliwy wyprodukowane w Australii plasują się wyżej niż te importowane z Włoch i Hiszpanii. „Wielu Australijczyków poszukuje produktów lokalnych, a jest wielu australijskich producentów oliwy z oliwek, którzy zdobyli całkiem dobrą reputację” – Pru Engel, Choice powiedział redaktor ds. odbiorców i zaangażowania. Kontynuuj czytanie..."
     },
     {
       "title": "Analiza pokazuje, że fundusze kredytowe notowane na giełdzie są nierentowne – jest to sygnał ostrzegawczy – Reuters",
@@ -474,14 +482,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Analiza pokazuje, że notowane na giełdzie fundusze kredytowe są nierentowne. Reuters to sygnał ostrzegawczy."
-    },
-    {
-      "title": "Potężna burza uderza w Rumunię, jedna osoba zginęła – Reuters",
-      "url": "https://www.reuters.com/business/environment/powerful-storm-hits-romania-one-person-killed-2026-07-01/",
-      "date": "2026-07-01T08:35:45Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Potężna burza uderza w Rumunię, jedna osoba zginęła Reuters."
     },
     {
       "title": "Hiszpania przypisuje ponad 1000 dodatkowych zgonów upałom w drugim najgorętszym czerwcu w historii – Reuters",
@@ -524,12 +524,12 @@
       "summary": "Dochody prezydenta z kryptowalut znacznie przewyższają jego zarobki z nieruchomości i przedmiotów związanych z Trumpem, takich jak zegarki."
     },
     {
-      "title": "Citi tnie bitcoiny, prognozy dotyczące eteru, gdy przepływy ETF stają się ujemne – Reuters",
+      "title": "Citi obcina bitcoiny, prognozy dotyczące eteru, gdy przepływy ETF stają się ujemne – Reuters",
       "url": "https://www.reuters.com/technology/citi-cuts-bitcoin-ether-forecasts-etf-flows-turn-negative-2026-07-01/",
       "date": "2026-07-01T07:13:32Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Citi obcina bitcoiny, prognozy dotyczące eteru, gdy przepływy ETF stają się ujemne, Reuters."
+      "summary": "Citi obcina bitcoiny, prognozy dotyczące eteru, gdy przepływy ETF stają się ujemne Reuters."
     },
     {
       "title": "„Polowanie na czarownice” w Nigrze w czasie, gdy reżim wojskowy przeprowadza łapanki na populację LGBTQ+",
@@ -625,7 +625,7 @@
       "date": "2026-07-01T05:04:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Sojusznicy NATO przemilczeli obawy dotyczące praw w Turcji Reuters."
+      "summary": "Sojusznicy z NATO milczą na temat obaw dotyczących praw w Turcji Reuters."
     },
     {
       "title": "Inwestorzy cieszą się z europejskich akcji przyćmionych blaskiem sztucznej inteligencji na Wall Street – Reuters",
@@ -689,7 +689,7 @@
       "date": "2026-06-30T21:26:47Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Mocarstwa europejskie sprzeciwiają się wyborowi przez administrację Trumpa wysokiego przedstawiciela po wypchnięciu urzędującego Dyplomaci z USA i Europy nie byli w stanie rozwiązać istniejących sporów i uzgodnić nowego najwyższego wysłannika międzynarodowego w Bośni i Hercegowinie w wyniku konfliktu, który stał się transatlantyckim sprawdzianem woli nad wpływami na Bałkanach. Spotkanie w Sarajewie mające na celu wybór nowego wysokiego przedstawiciela, stanowisko o dalekosiężnych uprawnieniach, zakończyło się bezkompromisowo, spór, który miał podważyły ​​zachodnią spójność w regionie w epoce Trumpa. Kontynuuj czytanie..."
+      "summary": "Mocarstwa europejskie sprzeciwiają się wyborowi przez administrację Trumpa wysokiego przedstawiciela po wypchnięciu urzędującego Dyplomaci z USA i Europy nie byli w stanie rozwiązać istniejących sporów i uzgodnić nowego najwyższego wysłannika międzynarodowego w Bośni i Hercegowinie w wyniku konfliktu, który stał się transatlantyckim sprawdzianem woli nad wpływami na Bałkanach. Spotkanie w Sarajewie mające na celu wybór nowego wysokiego przedstawiciela, stanowisko o dalekosiężnych uprawnieniach, zakończyło się bezkompromisowo, spór, który miał podważyły ​​zachodnią spójność w regionie za czasów Trumpa. Kontynuuj czytanie..."
     },
     {
       "title": "Sąd Najwyższy Stanów Zjednoczonych podtrzymuje zakazy dla transpłciowych sportowców w sportach żeńskich w szkołach i na uczelniach",
@@ -761,7 +761,7 @@
       "date": "2026-06-30T16:14:48Z",
       "source": "The Guardian",
       "confirmed_by": 2,
-      "summary": "Zwykle bezpieczne księstwo chwiało się po wybuchu mieszkania, w wyniku którego ranne zostały także żona i dziecko Wadyma Iermołajewa „On nie jest polityczny”: urodzony na Ukrainie oligarcha celem zamachowca z Monako Trwają międzynarodowe poszukiwania podejrzanego o zamachowiec po tym, jak ukraiński potentat i jego rodzina zostali ranni w eksplozji w Monako w bezprecedensowym ataku, który wstrząsnął zwykle ultrabezpiecznym księstwem. Stéphane Thibault, prokurator Monako, powiedział reporterom że w poniedziałek wieczorem mężczyzna wszedł do bloku mieszkalnego, zostawił paczkę w holu i oddalił się. Chwilę później, gdy trzech mieszkańców mieszkania na parterze podeszło do wejścia, paczka eksplodowała – dodał. Kontynuuj czytanie..."
+      "summary": "Zwykle bezpieczne księstwo zataczało się po wybuchu mieszkania, w wyniku którego ranne zostały także żona i dziecko Wadyma Iermołajewa „On nie jest polityczny”: urodzony na Ukrainie oligarcha celem zamachowca z Monako Trwają międzynarodowe poszukiwania podejrzanego o zamachowiec po tym, jak ukraiński potentat i jego rodzina zostali ranni w eksplozji w Monako w bezprecedensowym ataku, który wstrząsnął zwykle ultrabezpiecznym księstwem. Stéphane Thibault, prokurator Monako, powiedział reporterom że w poniedziałek wieczorem mężczyzna wszedł do bloku mieszkalnego, zostawił paczkę w holu i oddalił się. Chwilę później, gdy trzech mieszkańców mieszkania na parterze podeszło do wejścia, paczka eksplodowała – dodał. Kontynuuj czytanie..."
     }
   ],
   "world_politics": [
@@ -771,7 +771,7 @@
       "date": "2026-07-01T10:00:01Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Władze podały, że 44-letni mężczyzna i dwie kobiety w wieku 19 i 48 lat zmarli w wyniku uduszenia, gdy tłumy świętowały zwycięstwo drużyny meksykańskiej nad Ekwadorem."
+      "summary": "Władze podały, że 44-letni mężczyzna i dwie kobiety w wieku 19 i 48 lat zmarli w wyniku uduszenia, gdy tłumy świętowały zwycięstwo meksykańskiej drużyny nad Ekwadorem."
     },
     {
       "title": "Dlaczego tak wielu Kubańczyków migruje do Gujany?",
@@ -779,7 +779,7 @@
       "date": "2026-07-01T09:43:36Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Gujana, mały, bogaty w ropę, anglojęzyczny kraj Ameryki Południowej, stała się celem Kubańczyków uciekających przed rozpaczliwymi warunkami. Pojechaliśmy do stolicy, Georgetown, aby spotkać się z rodzinami imigrantów i dowiedzieć się więcej o życiu, które pozostawiły."
+      "summary": "Gujana, mały, bogaty w ropę, anglojęzyczny kraj Ameryki Południowej, stała się celem Kubańczyków uciekających przed rozpaczliwymi warunkami. Pojechaliśmy do stolicy, Georgetown, aby spotkać się z rodzinami imigrantów i dowiedzieć się więcej o życiu, które pozostawiły po sobie."
     },
     {
       "title": "Sugestia Trumpa dotycząca rozprawienia się przez Syrię z Hezbollahem wprawia wielu mieszkańców Bliskiego Wschodu w zakłopotanie",
@@ -883,7 +883,7 @@
       "date": "2026-07-01T01:48:38Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „wyczyn polityczny”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju."
+      "summary": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „politycznym chwytem”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju."
     },
     {
       "title": "Z dokumentów Trumpa wynika, że ​​w zeszłym roku przyjął około 1,2 miliarda dolarów od firm zajmujących się kryptowalutami – AP News",
@@ -891,7 +891,7 @@
       "date": "2026-07-01T01:41:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Z dokumentów Trumpa wynika, że ​​w zeszłym roku przyjął około 1,2 miliarda dolarów od firm zajmujących się kryptowalutami. AP News."
+      "summary": "Z dokumentów Trumpa wynika, że ​​w zeszłym roku zarobił około 1,2 miliarda dolarów od firm zajmujących się kryptowalutami. AP News."
     },
     {
       "title": "Zgłoszono śmierć kierowcy kilka dni po wjechaniu w kibiców Pucharu Świata w Meksyku",
@@ -931,10 +931,10 @@
       "date": "2026-06-30T22:16:46Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Jeden z kilkudziesięciu posągów narodowego zwierzęcia Kanady, będący częścią publicznej instalacji artystycznej przygotowanej na mistrzostwa świata, został zniszczony. To był ten w gwiazdach i paskach."
+      "summary": "Jeden z kilkudziesięciu posągów narodowego zwierzęcia Kanady, będący częścią publicznej instalacji artystycznej z okazji Pucharu Świata, został zniszczony. To był ten w gwiazdach i paskach."
     },
     {
-      "title": "Pakistan ostrzega Indie przed bronią wodną podczas seminarium dotyczącego Traktatu o wodach Indusu – AP News",
+      "title": "Pakistan ostrzega Indie przed bronią wodną na seminarium dotyczącym Traktatu o wodach Indusu – AP News",
       "url": "https://apnews.com/article/pakistan-wars-india-water-weaponization-indus-1f8c5fff1fccdfec03192811e80ea6b7",
       "date": "2026-06-30T19:41:00Z",
       "source": "Associated Press",
@@ -979,7 +979,7 @@
       "date": "2026-06-30T09:13:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Co najmniej 20 osób zostało rannych w pożarze zakładów petrochemicznych we wschodnich Indiach AP News."
+      "summary": "Pożar w zakładach petrochemicznych we wschodnich Indiach rani co najmniej 20 osób AP News."
     },
     {
       "title": "Chiński miliarder Guo Wengui, który sam wyemigrował, skazany na 30 lat więzienia w USA za oszustwo – AP News",
@@ -990,23 +990,39 @@
       "summary": "Chiński miliarder Guo Wengui, który sam wyemigrował, skazany na 30 lat więzienia w USA za oszustwo AP News."
     },
     {
+      "title": "Kibice piłki nożnej starli się z policją w Hadze po tym, jak Maroko ogłuszało Holandię na mundialu – AP News",
+      "url": "https://apnews.com/article/world-cup-morocco-netherlands-celebrations-violence-6a98c9a6649fe40d7deb62a092748dc2",
+      "date": "2026-06-30T07:52:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Kibice piłki nożnej starli się z policją w Hadze po tym, jak Maroko ogłusza Holandię podczas mistrzostw świata AP News."
+    },
+    {
       "title": "Eksplozja w Monako podobno rani ukraińskiego potentata powiązanego z Rosją – AP News",
       "url": "https://apnews.com/article/monaco-explosion-ukrainian-tycoon-58cb87e398a0c1936fd2ad1c4f207e40",
       "date": "2026-06-30T03:42:23Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Według doniesień AP News, eksplozja w Monako rani ukraińskiego potentata powiązanego z Rosją."
-    },
-    {
-      "title": "Wenezuelczycy przeszukują kolejne ruiny po trzęsieniu ziemi, gdy uwaga skupia się na kryzysie humanitarnym – AP News",
-      "url": "https://apnews.com/article/venezuela-earthquakes-survivors-rescue-rodriguez-c1e96329a6194b56f19c75c168b9595d",
-      "date": "2026-06-29T23:26:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Wenezuelczycy przeszukują kolejne ruiny po trzęsieniu ziemi, gdy uwaga skupia się na kryzysie humanitarnym AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Ten robot sprzątający ma „ramiona” jak żaden inny. Właśnie trafił do Polski",
+      "url": "https://www.instalki.pl/news/agd/mova-v70-ultra-complete-robot-sprzatajacy-cena-promocja/",
+      "date": "2026-07-01T10:39:25Z",
+      "source": "Instalki.pl",
+      "confirmed_by": 1,
+      "summary": "MOVA V70 Ultra Complete oficjalnie trafiła do sprzedaży w Polsce. To flagowy robot sprzątający, który próbuje skuteczniej od innych rozwiązać problem brudu zostającego przy ścianach, w kątach i pod niskimi meblami. Producent postawił na wyjątkowo daleko wysuwane elementy robocze, wysoką siłę ssania i stację bazową ograniczającą obsługę sprzętu do minimum."
+    },
+    {
+      "title": "Anthropic twierdzi, że po ostrych reakcjach wycofuje tajną funkcję śledzenia Claude Code w celu identyfikacji użytkowników mających siedzibę w Chinach lub powiązanych z chińskimi laboratoriami AI (Juro Osawa/The Information)",
+      "url": "https://www.techmeme.com/260701/p17#a260701p17",
+      "date": "2026-07-01T10:35:03Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Juro Osawa / Informacje: Anthropic twierdzi, że wycofuje tajną funkcję śledzenia Claude Code w celu identyfikacji użytkowników mających siedzibę w Chinach lub powiązanych z chińskimi laboratoriami sztucznej inteligencji po ostrych reakcjach &mdash; Anthropic wycofuje oprogramowanie szpiegowskie wprowadzone potajemnie w celu śledzenia lokalizacji użytkowników oraz tego, czy mają oni siedzibę w Chinach, czy też są powiązani z &hellip;."
+    },
     {
       "title": "Android 17 utrze nosa złodziejom. Zgadnięcie PIN-u będzie niemal niemożliwe",
       "url": "https://spidersweb.pl/2026/07/android-17-zabezpieczenie-ekranu.html",
@@ -1061,7 +1077,7 @@
       "date": "2026-07-01T10:07:04Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://asahilinux.org/2026/06/progress-report-7-1/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48744518 Punkty: 11 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://asahilinux.org/2026/06/progress-report-7-1/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48744518 Punkty: 46 # Komentarze: 4."
     },
     {
       "title": "Domowe SPA zmienia życie. Wanna ma więcej technologii niż Apollo 11",
@@ -1093,7 +1109,7 @@
       "date": "2026-07-01T09:57:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch Adres URL komentarzy: https://news.ycombinator.com/item?id=48744446 Punkty: 14 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch Adres URL komentarzy: https://news.ycombinator.com/item?id=48744446 Punkty: 21 # Komentarze: 4."
     },
     {
       "title": "Stany Zjednoczone skazują Guo Wengui, miliardera, miliardera, który sam wygnał się z kraju, chińskiego potentata, który oszukał swoich internetowych obserwujących na setki milionów, na 30 lat więzienia (Associated Press)",
@@ -1109,7 +1125,7 @@
       "date": "2026-07-01T09:45:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Peter Millard / Bloomberg: ByteDance buduje kompleks centrów danych o wartości 39 miliardów dolarów w strefie wolnego handlu w brazylijskiej dzielnicy Cear&aacute;, który ma być największym obiektem poza Chinami o mocy 1 GW &mdash; Centrum danych twórcy TikToka o wartości 39 miliardów dolarów to najnowszy efekt zalotów Luli do chińskich inwestycji."
+      "summary": "Peter Millard / Bloomberg: ByteDance buduje kompleks centrów danych o wartości 39 miliardów dolarów w strefie wolnego handlu w brazylijskiej dzielnicy Cear&aacute;, który będzie największym obiektem poza Chinami o mocy 1 GW &mdash; Centrum danych twórcy TikToka o wartości 39 miliardów dolarów to najnowszy efekt zalotów Luli do chińskich inwestycji."
     },
     {
       "title": "Przenośne PlayStation 6 powstanie. Mam jednak ogromne obawy",
@@ -1229,7 +1245,7 @@
       "date": "2026-07-01T08:12:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.dongascience.com/en/news/30374 Adres URL komentarzy: https://news.ycombinator.com/item?id=48743655 Punkty: 7 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://www.dongascience.com/en/news/30374 Adres URL komentarzy: https://news.ycombinator.com/item?id=48743655 Punkty: 8 # Komentarze: 3."
     },
     {
       "title": "[Wątek] Zniesione obecnie w USA kontrole eksportu modeli antropicznych wywołały niepewność, są celem samobójczym i popchną dostawców usług w stronę chińskich modeli sztucznej inteligencji (Alex Stamos/@alexstamos)",
@@ -1261,7 +1277,7 @@
       "date": "2026-07-01T07:43:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48743472 Punkty: 170 # Komentarze: 91."
+      "summary": "Adres URL artykułu: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48743472 Punkty: 179 # Komentarze: 109."
     },
     {
       "title": "Nadchodzi burza? Odłącz ten sprzęt - wielu o tym zapomina",
@@ -1270,14 +1286,6 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Gdy nadciąga burza, większość osób zamyka okna i unika wychodzenia z domu. Niewielu jednak pamięta, że zagrożenie dla sprzętu elektronicznego może kryć się tuż obok – w zwykłym routerze podłączonym do gniazdka."
-    },
-    {
-      "title": "Do Polski wróci ekstremalny upał. Będzie nowy rekord gorąca",
-      "url": "https://spidersweb.pl/2026/07/prognoza-do-polski-wroci-ekstremalny-upal.html",
-      "date": "2026-07-01T07:27:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Do Polski wróci ekstremalny upał. Będzie nowy rekord gorąca."
     },
     {
       "title": "NASA chce wysłać na Księżyc \"Promise\". To zapasowy łazik Perseverance",
@@ -1296,14 +1304,6 @@
       "summary": "Jeszcze kilka lat temu dostęp dzieci do pornografii wymagał aktywnego poszukiwania. Dziś wystarczy smartfon i połączenie z internetem. Z raportu \"Internet dzieci 2026\" wynika, że kontakt z treściami pornograficznymi miało już co trzecie dziecko w wieku 7–14 lat."
     },
     {
-      "title": "Spojrzenie na Manifest, coroczną konwencję rynków prognostycznych, podczas której wielu purystów obawia się, że Kalshi i Polymarket podważają dobro publiczne tej technologii (Christopher Beam/Bloomberg)",
-      "url": "https://www.techmeme.com/260701/p10#a260701p10",
-      "date": "2026-07-01T06:35:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Christopher Beam / Bloomberg: Spojrzenie na Manifest, coroczną konwencję rynków prognostycznych, podczas której wielu purystów obawia się, że Kalshi i Polymarket podważają dobro publiczne tej technologii &mdash; Podczas Manifest niektórzy intelektualiści zastanawiali się, czy zakłady na Super Bowl naprawdę pomagają ludzkości."
-    },
-    {
       "title": "LHC zatrzymany do 2030 r. CERN rozpoczyna modernizację HiLumi",
       "url": "https://www.benchmark.pl/lhc-zatrzymany-do-2030-r-cern-rozpoczyna-modernizacje-hilumi-7302685887637760a",
       "date": "2026-07-01T05:35:00Z",
@@ -1317,7 +1317,7 @@
       "date": "2026-07-01T05:13:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48742514 Punkty: 43 # Komentarze: 2."
+      "summary": "Adres URL artykułu: https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48742514 Punkty: 44 # Komentarze: 2."
     },
     {
       "title": "Pierwsze wczesne ludzkie jaja z komórek macierzystych",
@@ -1325,7 +1325,7 @@
       "date": "2026-07-01T05:09:30Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells Adres URL komentarzy: https://news.ycombinator.com/item?id=48742483 Punkty: 124 # Komentarze: 72."
+      "summary": "Adres URL artykułu: https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells Adres URL komentarzy: https://news.ycombinator.com/item?id=48742483 Punkty: 126 # Komentarze: 78."
     },
     {
       "title": "Samolot z Warszawy stracił łączność. Izrael wysłał dwa myśliwce",
@@ -1479,7 +1479,7 @@
       "date": "2026-07-01T07:20:51Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Duże modele językowe ciągle wymyślają adresy internetowe, które nie istnieją. Atakujący zaczęli kupować te wymyślone domeny, zanim zrobi to ktokolwiek inny, a następnie hostować na nich strony phishingowe, aby przechwycić ruch kierowany przez narzędzia AI. Jednostka 42 w Palo Alto Networks nazywa tę sztuczkę fantomowym kucaniem, a nowe badania pokazują, że zdarza się to już na wolności."
+      "summary": "Duże modele językowe wciąż wymyślają adresy internetowe, które nie istnieją. Atakujący zaczęli kupować te wymyślone domeny, zanim zrobi to ktokolwiek inny, a następnie hostować na nich strony phishingowe, aby przechwycić ruch kierowany przez narzędzia AI. Jednostka 42 w Palo Alto Networks nazywa tę sztuczkę fantomowym kucaniem, a nowe badania pokazują, że zdarza się to już na wolności."
     },
     {
       "title": "Anthropic przywraca Claude Fable 5 po zniesieniu przez USA kontroli eksportu związanych z jailbreakiem",
@@ -1519,7 +1519,7 @@
       "date": "2026-07-01T05:32:12Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "ClickFix, sztuczka, która oszukuje ludzi do ręcznego uruchamiania złośliwego oprogramowania, po cichu rozrosła się w back-office. Nowe badania pokazują, że złośliwe polecenia stojące za fałszywymi stronami „udowodnij, że jesteś człowiekiem” są teraz rozdawane przez serwery oparte na interfejsach API, które udostępniają każdemu odwiedzającemu to samo złośliwe oprogramowanie w innym przebraniu. To samo badanie ujawniło także nową metodę dostarczania, której zadaniem jest wymykanie się skanowaniu skryptów systemu Windows."
+      "summary": "ClickFix, sztuczka, która nakłania ludzi do ręcznego uruchamiania złośliwego oprogramowania, po cichu rozrosła zaplecze biurowe. Nowe badania pokazują, że złośliwe polecenia stojące za fałszywymi stronami „udowodnij, że jesteś człowiekiem” są teraz rozdawane przez serwery oparte na interfejsach API, które udostępniają każdemu odwiedzającemu to samo złośliwe oprogramowanie w innym przebraniu. To samo badanie ujawniło także nową metodę dostarczania, której zadaniem jest wymykanie się skanowaniu skryptów systemu Windows."
     },
     {
       "title": "Były indonezyjski minister i bohater startupu skazany za zakupy Chromebooków",
@@ -1530,7 +1530,7 @@
       "summary": "Nadiem Makarim przysięga odwołać się od wyroku, ponieważ uznano, że nie odniósł zysków z programu laptopów dla szkół o wartości 600 milionów dolarów."
     },
     {
-      "title": "Citrix łata sześć luk NetScaler umożliwiających odczyt plików i ataki typu „odmowa usługi”.",
+      "title": "Citrix łata sześć usterek NetScaler umożliwiających odczyt plików i odmowę usługi",
       "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
       "date": "2026-07-01T03:54:22Z",
       "source": "The Hacker News",
@@ -1538,7 +1538,7 @@
       "summary": "We wtorek firma Citrix wydała aktualizacje zabezpieczeń, które eliminują liczne luki w NetScaler ADC (dawniej Citrix ADC) i NetScaler Gateway (dawniej Citrix Gateway), które mogą zostać wykorzystane przez osobę atakującą do ułatwienia dowolnego odczytu plików lub wywołania stanu odmowy usługi (DoS). Luki są wymienione poniżej - CVE-2026-8451 (wynik CVSS: 8,8) - Niewystarczająca weryfikacja danych wejściowych."
     },
     {
-      "title": "Wygląda na to, że T-Mobile odchodzi z VMware i toczy dobrze znaną bitwę o prawa do pomocy technicznej",
+      "title": "Wygląda na to, że T-Mobile odchodzi z VMware i toczy dobrze znaną bitwę o prawa do wsparcia",
       "url": "https://www.theregister.com/virtualization/2026/07/01/t-mobile-appears-to-be-quitting-vmware-and-fighting-a-very-familiar-battle-for-support-rights-on-the-way-out/5264750",
       "date": "2026-07-01T01:19:14Z",
       "source": "The Register",
@@ -1554,12 +1554,12 @@
       "summary": "Masz ważne czaty starsze niż 30 dni? Lepiej upewnij się, że transkrypcje nadal istnieją."
     },
     {
-      "title": "Rozwiązanie zaproponowane przez Qualcomm w celu nadrobienia zaległości w infrastrukturze AI: zakopanie obliczeń pod pamięcią DRAM",
+      "title": "Rozwiązanie zaproponowane przez Qualcomm w celu nadrobienia zaległości w infrastrukturze AI: zakopanie obliczeń w pamięci DRAM",
       "url": "https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071",
       "date": "2026-06-30T20:25:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Dzięki akceleratorom AI nowej generacji dostawca SoC zamierza wznieść się wysoko ponad ścianę pamięci."
+      "summary": "Dzięki akceleratorom AI nowej generacji dostawca SoC chce wznieść się wysoko ponad ścianę pamięci."
     },
     {
       "title": "Naukowcy pokazują, że zmiana matematyki AI może zmniejszyć obciążenie sprzętu",
@@ -1575,7 +1575,7 @@
       "date": "2026-06-30T19:38:07Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "W zeszłym roku 29% specjalistów ds. bezpieczeństwa było otwartych na w pełni autonomiczne pentesty; obecnie jest ich tylko 9%."
+      "summary": "W ubiegłym roku 29% specjalistów ds. bezpieczeństwa było otwartych na w pełni autonomiczne pentesty; obecnie jest ich tylko 9%."
     },
     {
       "title": "Microsoft ostrzega, że ​​opisy zatrutych narzędzi MCP mogą spowodować wyciek danych przez agentów AI",
@@ -1594,7 +1594,7 @@
       "summary": "Nowa dwuetapowa rodzina szkodliwego oprogramowania o nazwie RustDuck porywa domowe routery, kamery IP, urządzenia z systemem Android i słabo zabezpieczone serwery, a następnie łączy je w sieć zbudowaną w celu wyłączania witryn i usług online. Naukowcy z XLab QiAnXin śledzą go od lutego 2026 r. i twierdzą, że prawdziwa historia nie polega na tym, jak duża jest dzisiaj, ale na tym, jak szybko się zmienia. Ostatecznym celem jest a."
     },
     {
-      "title": "Dyrektor naczelny Huntress twierdzi, że firma Threat Hunter „złej oceny sytuacji” ostrzegała przestępców zajmujących się oprogramowaniem ransomware o dochodzeniu organów ścigania",
+      "title": "Dyrektor generalny Huntress twierdzi, że firma Threat Hunter „złej oceny sytuacji” ostrzegała przestępców zajmujących się oprogramowaniem ransomware o dochodzeniu organów ścigania",
       "url": "https://www.theregister.com/security/2026/06/30/huntress-ceo-says-threat-hunter-used-poor-judgment-in-alerting-ransomware-crim-about-law-enforcement-probe/5264532",
       "date": "2026-06-30T16:54:01Z",
       "source": "The Register",
@@ -1812,6 +1812,30 @@
   ],
   "finance": [
     {
+      "title": "Gotówka obowiązkowa w sklepach i aptekach. Szwecja zmienia przepisy",
+      "url": "https://www.bankier.pl/wiadomosc/Gotowka-obowiazkowa-w-sklepach-i-aptekach-Szwecja-zmienia-przepisy-9161771.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-07-01T10:40:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Sklepy spożywcze i apteki w Szwecji od środy są zobowiązane do przyjmowania płatności gotówką, co ma wzmocnić odporność kraju na wypadek kryzysu lub wojny. W Szwecji planowano wprowadzenie elektronicznego pieniądza, ale projekt wstrzymano w 2023 r. po ataku Rosji na Ukrainę."
+    },
+    {
+      "title": "Jutro debiut Robyg. Jeden z największych deweloperów będzie notowany na GPW",
+      "url": "https://strefainwestorow.pl/debiut-ipo/robyg-data-debiutu-2026",
+      "date": "2026-07-01T10:37:12Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Jutro debiut Robyg. Jeden z największych deweloperów będzie notowany na GPW Piotr Kwestarz śr., 01.07.2026 Kanał Strefa Inwestorów Treść Robyg, jeden z największych deweloperów mieszkaniowych w Polsce, zadebiutuje już jutro, 2 lipca na głównym rynku GPW. Spółka w udanej ofercie publicznej uplasowała wszystkie oferowane walory."
+    },
+    {
+      "title": "800 plus dla seniorów w 2026 roku? Zapadła ostateczna decyzja rządu - Forsal.pl",
+      "url": "https://forsal.pl/gospodarka/aktualnosci/artykuly/11261683,800-plus-dla-seniorow-w-2026-roku-zapadla-ostateczna-decyzja-rzadu.html",
+      "date": "2026-07-01T10:36:32Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "800 plus dla seniorów w 2026 roku? Zapadła ostateczna decyzja rządu Forsal.pl."
+    },
+    {
       "title": "Wyciek ropy z rurociągu PERN koło Gorzowa. Służby opanowują sytuację",
       "url": "https://www.bankier.pl/wiadomosc/Wyciek-ropy-z-rurociagu-PERN-kolo-Gorzowa-Sluzby-opanowuja-sytuacje-9161735.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-01T10:34:00Z",
@@ -1834,6 +1858,14 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "W bliskim sąsiedztwie Wrocławia, tuż u podnóża Ślęży, ruszył nietypowy punkt samoobsługowy o nazwie \"Sudecki Zdrój\". Zamiast tradycyjnego paliwa, kierowcy i turyści mogą tam napełnić pojemniki lokalną wodą mineralną prosto z dystrybutorów. Stacja funkcjonuje w trybie całodobowym, a woda pochodząca z tamtejszego źródła wyróżnia się bardzo atrakcyjną ceną, co błyskawicznie zyskało uznanie wśród pierwszych klientów - czytamy w \"Fakcie\"."
+    },
+    {
+      "title": "Wielki atom – wielka szansa, czyli jak wejść do budowlanej Ligi Mistrzów - Forsal.pl",
+      "url": "https://forsal.pl/biznes/energetyka/artykuly/11270139,wielki-atom-wielka-szansa-czyli-jak-wejsc-do-budowlanej-ligi-mistrzow.html",
+      "date": "2026-07-01T10:22:08Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Wielki atom – wielka szansa, czyli jak wejść do budowlanej Ligi Mistrzów Forsal.pl."
     },
     {
       "title": "Drugi terminal LNG w Gdańsku. Ma kosztować ułamek tego, co pierwszy",
@@ -1884,14 +1916,6 @@
       "summary": "Władze Rosji od środy (1 lipca) wprowadziły tymczasowe zawieszenie ruchu osób i towarów przez kolejowe przejścia graniczne na wybranych odcinkach granicy Rosji z Finlandią, Estonią i Łotwą. Nie podano, jak długo ograniczenia będą obowiązywać."
     },
     {
-      "title": "5,50% wciąż do zyskania w Credit Agricole. Bank przedłuża ofertę dla nowych klientów",
-      "url": "https://www.bankier.pl/wiadomosc/Credit-Agricole-wyplaca-5-50-na-lokacie-Promocyjna-oferta-przedluzona-9161695.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-07-01T09:45:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Credit Agricole nie rezygnuje ze swojej flagowej promocji lokaty terminowej. Nowi klienci, którzy założą konto osobiste, będą mogli skorzystać ze specjalnie dla nich przygotowanego depozytu oprocentowanego na 5,50 proc. w skali roku."
-    },
-    {
       "title": "„Dogoniliśmy Japonię, ale możemy wszystko zmarnować”. Małgorzata Adamkiewicz o budowaniu w Polsce globalnej firmy - Forbes",
       "url": "https://www.forbes.pl/biznes/dogonilismy-japonie-ale-mozemy-wszystko-zmarnowac-malgorzata-adamkiewicz-o-budowaniu/64zj3c3",
       "date": "2026-07-01T09:26:55Z",
@@ -1906,14 +1930,6 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "KRUS a umowa o pracę. Zmiany od 8 lipca 2026 r. Forsal.pl."
-    },
-    {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/?chr=1782896816333",
-      "date": "2026-07-01T09:10:24Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Polacy oceniają zarobki lekarzy. Wyniki sondażu mogą zaskakiwać - Forsal.pl",
@@ -1938,14 +1954,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Ekspert: W raportach to był system idealny. W rzeczywistości stworzyliśmy coś, co sparaliżowało firmę [OPINIA] Forbes."
-    },
-    {
-      "title": "Średnia pensja myli? Co drugi pracownik zarabia mniej niż 7447 zł brutto - Forsal.pl",
-      "url": "https://forsal.pl/praca/wynagrodzenia/artykuly/11270060,mediana-wynagrodzen-kontra-srednia-pensja-roznica-siega-niemal-1900-zl.html",
-      "date": "2026-07-01T08:50:09Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Średnia pensja myli? Co drugi pracownik zarabia mniej niż 7447 zł brutto Forsal.pl."
     },
     {
       "title": "Polski gigant rozpycha się w Chile",
@@ -1978,14 +1986,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat EBI Duality SA (duality): Powołanie osoby zarządzającej lub nadzorującej stockwatch.pl."
-    },
-    {
-      "title": "Notowania SGI1228 SGI FINANCE - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/SGI1228",
-      "date": "2026-07-01T08:31:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania SGI1228 SGI FINANCE BiznesRadar."
     },
     {
       "title": "Bridge Solutions Hub wypłaci 1 zł dywidendy na akcję - stockwatch.pl",
@@ -2180,20 +2180,20 @@
       "summary": "347,5 tys. osób w Polsce ma zaległości wobec co najmniej trzech wierzycieli – wynika z danych BIG InfoMonitor. Tacy multidłużnicy odpowiadają już za 40 proc."
     },
     {
+      "title": "Raporty finansowe: Bilans REX CONCEPTS SA - BiznesRadar",
+      "url": "https://www.biznesradar.pl/raporty-finansowe-bilans/REX",
+      "date": "2026-06-30T13:53:47Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Raporty finansowe: Bilans REX CONCEPTS SA BiznesRadar."
+    },
+    {
       "title": "Podsumowanie wyników Rex Concepts za 1Q26 oraz plany na przyszłość – czat z CFO Grupy",
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-07-01/wyniki-finansowe-rex-concepts-1q26",
       "date": "2026-06-30T13:27:40Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Podsumowanie wyników Rex Concepts za 1Q26 oraz plany na przyszłość – czat z CFO Grupy Czaty wt., 30.06.2026 Obrazek."
-    },
-    {
-      "title": "Micron po rekordowym kwartale. Hossa trwa, ale ryzyka rosną",
-      "url": "https://strefainwestorow.pl/strefa-global-market/spolki/micron-akcje-prognozy",
-      "date": "2026-06-30T13:18:52Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "Micron po rekordowym kwartale. Hossa trwa, ale ryzyka rosną Szymon Machalica wt., 30.06.2026 Kanał Strefa Global Market Micron AI spółki zagraniczne Treść Akcje Micron Technology mają za sobą spektakularny okres wzrostów, ale wraz z rosnącym zainteresowaniem inwestorów rośnie też zmienność. Po najlepszym kwartale w historii spółki pojawia się pytanie, czy boom na rynku pamięci ma jeszcze paliwo.Notowania producenta chipów pamięci w ostatnich miesiącach przyciągają uwagę rynku."
     },
     {
       "title": "Nowoczesne standardy bezpieczeństwa w inżynierii i budownictwie. Postaw na sprawdzone rozwiązania.",
@@ -2214,12 +2214,20 @@
   ],
   "critical_alerts": [
     {
+      "title": "Eksplozja w Monako. Media: Śledczy nie wykluczają udziału ukraińskich służb",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-01/eksplozja-w-monako-media-sledczy-nie-wykluczaja-udzialu-ukrainskich-sluzb/",
+      "date": "2026-07-01T09:12:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Po wybuchu w Monako służby badają wątek udziału ukraińskich służb specjalnych - opisuje Le Figaro. W eksplozji ranny został oligarcha ukraińskiego pochodzenia, który od 2023 roku jest liście sankcyjnej Kijowa."
+    },
+    {
       "title": "Trwa obława po urodzonym na Ukrainie potentacie rannym w wyniku bomby w Monako",
       "url": "https://www.theguardian.com/world/2026/jun/30/monaco-parcel-bomb-blast-ukrainian-oligarch",
       "date": "2026-06-30T16:14:48Z",
       "source": "The Guardian",
       "confirmed_by": 2,
-      "summary": "Zwykle bezpieczne księstwo chwiało się po wybuchu mieszkania, w wyniku którego ranne zostały także żona i dziecko Wadyma Iermołajewa „On nie jest polityczny”: urodzony na Ukrainie oligarcha celem zamachowca z Monako Trwają międzynarodowe poszukiwania podejrzanego o zamachowiec po tym, jak ukraiński potentat i jego rodzina zostali ranni w eksplozji w Monako w bezprecedensowym ataku, który wstrząsnął zwykle ultrabezpiecznym księstwem. Stéphane Thibault, prokurator Monako, powiedział reporterom że w poniedziałek wieczorem mężczyzna wszedł do bloku mieszkalnego, zostawił paczkę w holu i oddalił się. Chwilę później, gdy trzech mieszkańców mieszkania na parterze podeszło do wejścia, paczka eksplodowała – dodał. Kontynuuj czytanie..."
+      "summary": "Zwykle bezpieczne księstwo zataczało się po wybuchu mieszkania, w wyniku którego ranne zostały także żona i dziecko Wadyma Iermołajewa „On nie jest polityczny”: urodzony na Ukrainie oligarcha celem zamachowca z Monako Trwają międzynarodowe poszukiwania podejrzanego o zamachowiec po tym, jak ukraiński potentat i jego rodzina zostali ranni w eksplozji w Monako w bezprecedensowym ataku, który wstrząsnął zwykle ultrabezpiecznym księstwem. Stéphane Thibault, prokurator Monako, powiedział reporterom że w poniedziałek wieczorem mężczyzna wszedł do bloku mieszkalnego, zostawił paczkę w holu i oddalił się. Chwilę później, gdy trzech mieszkańców mieszkania na parterze podeszło do wejścia, paczka eksplodowała – dodał. Kontynuuj czytanie..."
     },
     {
       "title": "Urzędnicy Trumpa odsuwają na bok Machado, przywódcę opozycji w Wenezueli, w związku z reakcją na trzęsienie ziemi",
@@ -2227,7 +2235,7 @@
       "date": "2026-07-01T01:48:38Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „wyczyn polityczny”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju."
+      "summary": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „politycznym chwytem”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju."
     },
     {
       "title": "Eksplozja w Monako podobno rani ukraińskiego potentata powiązanego z Rosją – AP News",
@@ -2244,7 +2252,7 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Na Boga, proszę o rozsądek myślenia o tym, jak będzie wyglądała polska polityka zagraniczna za 5 czy 10 lat - mówił na konferencji prasowej marszałek Sejmu Włodzimierz Czarzasty pytany o przyjęcie przez Radę Najwyższą Ukrainy decyzji o utworzeniu Panteonu Narodowego.",
+      "description": "– Na Boga, proszę o rozsądek myślenia o tym, jak będzie wyglądała polska polityka zagraniczna za 5 czy 10 lat - mówił na konferencji prasowej marszałek Sejmu Włodzimierz Czarzasty pytany o przyjęcie przez Radę Najwyższą Ukrainy decyzji o utworzeniu Panteonu Narodowego.",
       "url": "https://www.rp.pl/polityka/art44749131-wlodzimierz-czarzasty-o-ukrainskim-panteonie-narodowym-nie-przesuniemy-ukrainy-na-mapie"
     },
     {
@@ -2268,8 +2276,8 @@
       "lng": -66.59,
       "type": "conflict",
       "region": "Wenezuela",
-      "description": "Na nagraniu wideo widać wiwatujących ratowników podczas wyciągania dziecka spod gruzów w stanie La Guaira.",
-      "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss"
+      "description": "Trzylatek, który spędził sześć dni pod gruzami po trzęsieniu ziemi w Wenezueli, został odnaleziony żywy przez jordańskich ratowników - potwierdziła pełniąca obowiązki prezydenta Delcy Rodriguez.",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-01/trzylatek-przezyl-pod-gruzami-niemal-tydzien-cud-w-wenezueli/"
     },
     {
       "lat": 55.5,
@@ -2308,15 +2316,15 @@
       "lng": -67.09,
       "type": "disaster",
       "region": "Wenezuela",
-      "description": "Wenezuelczycy przeszukują kolejne ruiny po trzęsieniu ziemi, gdy uwaga skupia się na kryzysie humanitarnym AP News.",
-      "url": "https://apnews.com/article/venezuela-earthquakes-survivors-rescue-rodriguez-c1e96329a6194b56f19c75c168b9595d"
+      "description": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „politycznym chwytem”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju.",
+      "url": "https://www.nytimes.com/2026/06/30/world/americas/trump-machado-venezuela-rift.html"
     },
     {
       "lat": 6.12,
       "lng": -66.29,
       "type": "critical",
       "region": "Wenezuela",
-      "description": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „wyczyn polityczny”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju.",
+      "description": "Urzędnicy amerykańscy nazwali kandydaturę Marii Coriny Machado, laureatki Pokojowej Nagrody Nobla, aby powrócić do zniszczonej trzęsieniem ziemi Wenezueli, „politycznym chwytem”, który odciągnął uwagę od wysiłków zmierzających do odbudowy kraju.",
       "url": "https://www.nytimes.com/2026/06/30/world/americas/trump-machado-venezuela-rift.html"
     },
     {
@@ -2396,7 +2404,7 @@
       "lng": 31.48,
       "type": "critical",
       "region": "Ukraina",
-      "description": "Zwykle bezpieczne księstwo chwiało się po wybuchu mieszkania, w wyniku którego ranne zostały także żona i dziecko Wadyma Iermołajewa „On nie jest polityczny”: urodzony na Ukrainie oligarcha celem zamachowca z Monako Trwają międzynarodowe poszukiwania podejrzanego o zamachowiec po tym, jak ukraiński potentat i jego rodzina zostali ranni w eksplozji w Monako w bezprecedensowym ataku, który wstrząsnął zwykle ultrabezpiecznym księstwem.",
+      "description": "Zwykle bezpieczne księstwo zataczało się po wybuchu mieszkania, w wyniku którego ranne zostały także żona i dziecko Wadyma Iermołajewa „On nie jest polityczny”: urodzony na Ukrainie oligarcha celem zamachowca z Monako Trwają międzynarodowe poszukiwania podejrzanego o zamachowiec po tym, jak ukraiński potentat i jego rodzina zostali ranni w eksplozji w Monako w bezprecedensowym ataku, który wstrząsnął zwykle ultrabezpiecznym księstwem.",
       "url": "https://www.theguardian.com/world/2026/jun/30/monaco-parcel-bomb-blast-ukrainian-oligarch"
     },
     {
@@ -2523,9 +2531,9 @@
           "source": "The Guardian"
         },
         {
-          "title": "Wenezuelczycy przeszukują kolejne ruiny po trzęsieniu ziemi, gdy uwaga skupia się na kryzysie humanitarnym – AP News",
-          "url": "https://apnews.com/article/venezuela-earthquakes-survivors-rescue-rodriguez-c1e96329a6194b56f19c75c168b9595d",
-          "source": "Associated Press"
+          "title": "Trzylatek przeżył pod gruzami niemal tydzień. Cud w Wenezueli",
+          "url": "https://www.polsatnews.pl/wiadomosc/2026-07-01/trzylatek-przezyl-pod-gruzami-niemal-tydzien-cud-w-wenezueli/",
+          "source": "Polsat News"
         },
         {
           "title": "Trzylatek został uratowany i przewieziony do szpitala sześć dni po trzęsieniu ziemi w Wenezueli",
@@ -2536,7 +2544,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 40,
+      "score": 42,
       "reasons": [
         {
           "title": "Trwa obława po urodzonym na Ukrainie potentacie rannym w wyniku bomby w Monako",
@@ -2552,7 +2560,7 @@
     },
     {
       "name": "Iran",
-      "score": 15,
+      "score": 16,
       "reasons": [
         {
           "title": "Następna wojna w Iranie może nadejść szybciej, niż myślisz – Reuters",
@@ -2563,7 +2571,7 @@
     },
     {
       "name": "Afganistan",
-      "score": 10,
+      "score": 11,
       "reasons": [
         {
           "title": "W miarę eskalacji napięcia afgańscy talibowie przeprowadzają ataki na granicy z Pakistanem",
@@ -2781,51 +2789,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25671.93,
+      25675.0,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26836.24,
+      26839.45,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26983.19,
+      26986.41,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27228.13,
+      27231.38,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27863.85,
+      27867.18,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27899.89,
+      27903.23,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28144.57,
+      28147.93,
       27354.94,
       27400.36,
       27412.11,
-      28545.98,
+      28549.39,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27806.65,
+      27809.97,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27986.36,
+      27989.7,
       27686.17,
       27404.78,
       27351.97,
@@ -2834,9 +2842,9 @@
       27661.43,
       27749.69,
       27709.26,
-      27694.72,
+      27698.03,
       27930.04,
-      28242.06
+      28245.44
     ],
     "currency": "PLN"
   }
