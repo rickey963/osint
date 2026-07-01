@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T01:35:20Z",
+  "last_updated": "2026-07-01T01:44:49Z",
   "poland": [
     {
       "title": "Mundial. Mbappé w pościgu za Messim, Francuzi wjechali na autostradę do finału",
@@ -21,14 +21,6 @@
       "title": "- PAP Biznes",
       "url": "https://biznes.pap.pl/wiadomosci/przemysl/liftero-dlugoterminowo-celuje-w-produkcje-kilkudziesieciu-systemow-napedowych",
       "date": "2026-06-30T23:12:52Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "PAP Biznes."
-    },
-    {
-      "title": "- PAP Biznes",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/bgk-planuje-przeprowadzic-w-iii-kw-26-r-szesc-przetargow-sprzedazy-obligacji-na",
-      "date": "2026-06-30T23:12:51Z",
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "PAP Biznes."
@@ -192,6 +184,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Dwa sklepy sieci E.Leclerc – w Szczecinie i w Radomiu – zdecydowały się niedawno na uruchomienie „czytelni”, dzięki którym mogą być otwarte we wszystkie niedziele, w tym te niehandlowe. Sieć na prośbę Portalu Spożywczego przedstawiła stanowisko w sprawie."
+    },
+    {
+      "title": "Premier Izraela: nie wycofamy się z Libanu, dopóki zagraża nam Hezbollah - Polska Agencja Prasowa SA",
+      "url": "https://infopakiety.pap.pl/aktualnosci/news,648513,premier-izraela-nie-wycofamy-sie-z-libanu-dopoki-zagraza-nam-hezbollah.html",
+      "date": "2026-06-30T19:41:43Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Premier Izraela: nie wycofamy się z Libanu, dopóki zagraża nam Hezbollah Polska Agencja Prasowa SA."
     },
     {
       "title": "Polska bije rekordy, mamy najlepszy wynik. Szef MON: jesteśmy europejskim liderem - Polskie Radio 24",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Zgłoszono śmierć kierowcy kilka dni po wjechaniu w kibiców Pucharu Świata w Meksyku",
+      "url": "https://www.nytimes.com/2026/06/30/world/americas/mexico-driver-died-world-cup-party.html",
+      "date": "2026-07-01T01:24:59Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "W odcinku widać najbardziej znaczącą przemoc po zwycięstwach reprezentacji Meksyku, która przyciągnęła na ulice całego kraju ogromne tłumy."
+    },
+    {
       "title": "Z dokumentów Trumpa wynika, że ​​w zeszłym roku przyjął około 1,2 miliarda dolarów od firm zajmujących się kryptowalutami – AP News",
       "url": "https://apnews.com/article/trump-financial-disclosure-crypto-060c15062b8fedc6104159ea13775463",
       "date": "2026-07-01T00:41:00Z",
@@ -886,14 +894,6 @@
       "summary": "Zgodnie z propozycją Iran i Oman miałyby pobierać opłaty za statki przepływające przez Cieśninę Ormuz – twierdzą znający tę sprawę urzędnicy i dyplomaci."
     },
     {
-      "title": "Sąd Najwyższy obniża limity wydatków partii w wyborach federalnych, popierając apelację Republikanów – AP News",
-      "url": "https://apnews.com/article/supreme-court-campaign-finance-party-spending-ohio-91e49ee112197ae1210a9abfa46986ed",
-      "date": "2026-06-30T18:37:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Sąd Najwyższy obniża limity wydatków partii w wyborach federalnych, potwierdzając apelację Republikanów AP News."
-    },
-    {
       "title": "Meksykańscy kibice trąbią przed hotelem w Ekwadorze, co podsyciło bezsenną noc na mundialu – AP News",
       "url": "https://apnews.com/article/mexico-ecuador-world-cup-serenade-1e194494bead5ec3fa2ea643e7ad51f8",
       "date": "2026-06-30T18:03:00Z",
@@ -932,14 +932,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Władze rosyjskie podały, że w całej Rosji, w tym w stolicy i na Krymie, zestrzelono 419 dronów."
-    },
-    {
-      "title": "Oto najnowsze.",
-      "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz/heres-the-latest",
-      "date": "2026-06-30T15:50:07Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": ""
     },
     {
       "title": "Orzeł Feliks wrócił do domu w Serbii po porwaniu na Bliskim Wschodzie – AP News",
@@ -1004,9 +996,25 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "W szufladzie AP News znaleziono rzadką skamieniałość dinozaura z Antarktydy."
+    },
+    {
+      "title": "Władze zakończyły przejęcie więzienia w Karolinie Północnej kilka godzin po tym, jak więźniowie obezwładnili strażników – AP News",
+      "url": "https://apnews.com/article/jail-inmate-uprising-north-carolina-edd316a039c60ec788a93276c1c567e5",
+      "date": "2026-06-29T21:03:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Władze zakończyły przejęcie więzienia w Karolinie Północnej kilka godzin po tym, jak więźniowie obezwładnili strażników AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Podziemne ogrody Forestiere’a",
+      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+      "date": "2026-07-01T01:23:09Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens Adres URL komentarzy: https://news.ycombinator.com/item?id=48741359 Punkty: 3 # Komentarze: 0."
+    },
     {
       "title": "Pie, startup, który wykorzystuje sztuczną inteligencję do optymalizacji marketingu dla małych firm stacjonarnych, wychodzi z ukrycia dzięki serii A o wartości 19,5 mln dolarów, prowadzonej przez Lightspeed (Lisa Bonos/Inc)",
       "url": "https://www.techmeme.com/260630/p41#a260630p41",
@@ -1020,7 +1028,7 @@
       "url": "https://www.techmeme.com/260630/p40#a260630p40",
       "date": "2026-07-01T00:03:23Z",
       "source": "Techmeme",
-      "confirmed_by": 5,
+      "confirmed_by": 3,
       "summary": "@anthropicai: Anthropic twierdzi, że Departament Handlu zniósł kontrolę eksportu Claude Fable 5 i Mythos 5 i że w środę rozpocznie przywracanie dostępu &mdash; Otrzymaliśmy informację, że Departament Handlu zniósł kontrolę eksportu gier Claude Fable 5 i Mythos 5. Jutro zaczniemy przywracać dostęp i wkrótce udostępnimy aktualizację. Jesteśmy wdzięczni naszym użytkownikom za cierpliwość i wszystkim, którzy z nami pracowali."
     },
     {
@@ -1037,7 +1045,7 @@
       "date": "2026-06-30T23:45:39Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/google/copybara Adres URL komentarzy: https://news.ycombinator.com/item?id=48740698 Punkty: 36 # Komentarze: 4."
+      "summary": "Adres URL artykułu: https://github.com/google/copybara Adres URL komentarzy: https://news.ycombinator.com/item?id=48740698 Punkty: 41 # Komentarze: 5."
     },
     {
       "title": "Trump znosi ograniczenia dotyczące modeli Fable i Mythos firmy Anthropic (Politico)",
@@ -1061,7 +1069,7 @@
       "date": "2026-06-30T22:34:23Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://hatari.frama.io/hatari/online/hatari.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48740135 Punkty: 29 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://hatari.frama.io/hatari/online/hatari.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48740135 Punkty: 30 # Komentarze: 3."
     },
     {
       "title": "Prawie 1700 brytyjskich inwestorów pozywa Binance i Changpeng Zhao na co najmniej 150 mln funtów, twierdząc, że Binance sprzedało im ryzykowne produkty pochodne bez zgody organów regulacyjnych (Kirstin Ridley/Reuters)",
@@ -1085,7 +1093,7 @@
       "date": "2026-06-30T22:08:38Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48739919 Punkty: 37 # Komentarze: 6."
+      "summary": "Adres URL artykułu: https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48739919 Punkty: 38 # Komentarze: 6."
     },
     {
       "title": "Zgłoszenie: Prezydent Trump zgłasza ponad 1,4 miliarda dolarów dochodu z rodzinnych przedsięwzięć kryptograficznych w 2025 r., w tym ponad 500 mln dolarów od WLF i 635 mln dolarów ze sprzedaży swojej monety $TRUMP (Reuters)",
@@ -1104,20 +1112,12 @@
       "summary": "Wylogowany dostęp do Old Reddit jest „znaczącym źródłem nadużycia”."
     },
     {
-      "title": "Źródła: TikTok zawarł ugodę przed drugim procesem w Kalifornii w sprawie szkód wyrządzonych nieletnim w mediach społecznościowych za nieujawnioną kwotę; Meta i Snap pozostają oskarżonymi (Bloomberg)",
-      "url": "https://www.techmeme.com/260630/p34#a260630p34",
-      "date": "2026-06-30T21:45:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Bloomberg: Źródła: TikTok zawarł ugodę przed drugim procesem w Kalifornii w sprawie szkód wyrządzonych nieletnim w mediach społecznościowych za nieujawnioną kwotę; Meta i Snap pozostają oskarżonymi &mdash; TikTok finalizuje ugodę w związku z pozwem dotyczącym uzależnienia największych platform mediów społecznościowych na świecie od nieletnich &hellip;."
-    },
-    {
       "title": "Od fal mózgowych do słów: nowa droga do komunikacji bez operacji",
       "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
       "date": "2026-06-30T21:29:13Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-komunikacja/?_fb_noscript=1 Adres URL komentarzy: https://news.ycombinator.com/item?id=48739466 Punkty: 106 # Komentarze: 55."
+      "summary": "Adres URL artykułu: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-komunikacja/?_fb_noscript=1 Adres URL komentarzy: https://news.ycombinator.com/item?id=48739466 Punkty: 107 # Komentarze: 56."
     },
     {
       "title": "Amazon obwinia pirackie aplikacje zawierające złośliwe oprogramowanie za zakłócanie ładowania nowego Fire Stick",
@@ -1141,7 +1141,7 @@
       "date": "2026-06-30T20:48:36Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "https://github.com/ngrok/weberneteshttps://webernetes-demo.ngrok.app/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48738985 Punkty: 159 # Komentarze: 51."
+      "summary": "https://github.com/ngrok/weberneteshttps://webernetes-demo.ngrok.app/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48738985 Punkty: 162 # Komentarze: 53."
     },
     {
       "title": "Leanstral 1.5",
@@ -1149,7 +1149,7 @@
       "date": "2026-06-30T20:44:56Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06 Adres URL komentarzy: https://news.ycombinator.com/item?id=48738938 Punkty: 94 # Komentarze: 19."
+      "summary": "Adres URL artykułu: https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06 Adres URL komentarzy: https://news.ycombinator.com/item?id=48738938 Punkty: 98 # Komentarze: 19."
     },
     {
       "title": "Google zabija interfejs API Tenor GIF, wymuszając zmiany w X, Discord i nie tylko",
@@ -1181,7 +1181,7 @@
       "date": "2026-06-30T19:47:24Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48738262 Punkty: 66 # Komentarze: 11."
+      "summary": "Adres URL artykułu: https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48738262 Punkty: 67 # Komentarze: 12."
     },
     {
       "title": "Godox to najciekawszy aparat ostatnich lat i kosztuje grosze",
@@ -1868,6 +1868,14 @@
       "summary": "Minister zdrowia Jolanta Sobierańska-Grenda w ostatnim oświadczeniu majątkowym w pozycji „inne osiągnięte dochody\" podała kwotę 725 tys. zł. W wywiadzie dla Wirtualnej Polski wyjaśniła, że pieniądze zarobiła w roli radcy prawnego, zarządzającego czy wykładowcy."
     },
     {
+      "title": "Izrael nie zamierza się wycofać z Libanu. Szokująca deklaracja Netanjahu, mimo podpisanego pokoju",
+      "url": "https://www.bankier.pl/wiadomosc/Izrael-nie-zamierza-sie-wycofac-z-Libanu-Szokujaca-deklaracja-Netanjahu-mimo-podpisanego-pokoju-9161380.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-06-30T19:11:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Premier Izraela Benjamin Netanjahu zapowiedział, że wojska tego kraju pozostaną na południu Libanu tak długo, jak wspierany przez Iran Hezbollah będzie stanowił zagrożenie. Netanjahu odwiedził we wtorek izraelskie wojska na południu Libanu."
+    },
+    {
       "title": "Krótki blog poświęcony IKE/IKZE - stockwatch.pl",
       "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513311_Krotki-blog-poswiecony-IKEIKZE.aspx",
       "date": "2026-06-30T17:10:04Z",
@@ -1951,14 +1959,6 @@
       "title": "Biznes, Gospodarka, Świat - Forsal.pl",
       "url": "https://forsal.pl/tagi/nastroje-polakow",
       "date": "2026-06-30T14:06:36Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/?chr=1782828275090",
-      "date": "2026-06-30T14:06:35Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
@@ -2084,6 +2084,14 @@
       "summary": "Karol Nawrocki spotka się w środę z ministrem obrony narodowej Władysławem Kosiniakiem-Kamyszem. Według RMF FM głównym tematem rozmowy będzie sprawa stałej bazy wojsk amerykańskich w Polsce. Negocjacje z USA są już na kolejnym etapie."
     },
     {
+      "title": "Kredyt czy wynajem? Najnowsze dane NBP mogą zaskoczyć Polaków - Forsal.pl",
+      "url": "https://forsal.pl/nieruchomosci/mieszkania/artykuly/11269699,przelom-na-rynku-mieszkan-kredyt-kosztuje-juz-tyle-samo-co-wynajem.html",
+      "date": "2026-06-30T11:33:09Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Kredyt czy wynajem? Najnowsze dane NBP mogą zaskoczyć Polaków Forsal.pl."
+    },
+    {
       "title": "UE nie jest przeregulowana. Prawny parasol poprawia konkurencyjność [OPINIA] - Forbes",
       "url": "https://www.forbes.pl/opinie/europa-nie-jest-przeregulowana-prawny-parasol-bezpieczenstwa-poprawia-konkurencyjnosc/7mg0wgc",
       "date": "2026-06-30T11:15:03Z",
@@ -2170,14 +2178,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Zakład Ubezpieczeń Społecznych zakończył proces corocznego udostępniania informacji o stanie konta ubezpieczonego i prognozowanych emeryturach. Informację za 2025 r. można uzyskać w aplikacji mZUS lub za pośrednictwem platformy usług elektronicznych eZUS."
-    },
-    {
-      "title": "W co inwestować w drugiej połowie 2026 roku? Hossa AI czy bańka AI?",
-      "url": "https://inwestomat.eu/w-co-inwestowac-w-drugiej-polowie-2026-roku/",
-      "date": "2026-06-29T05:00:00Z",
-      "source": "Inwestomat (Albert Rokicki)",
-      "confirmed_by": 1,
-      "summary": "Na razie wygrywają optymiści. Chyba nie pamiętam żadnego półrocza w ostatnich 6 latach (czyli mniej więcej czasie, w którym prowadzę tego bloga), w którym inwestorzy nie baliby się nowych rekordów cen akcji i nie przewidywali, że bańka zaraz pęknie. Jednak jeśli ktoś dołączyłby 6 lat temu do giełdowych optymistów i po prostu zainwestował swoje pieniądze w [&#8230;]."
     }
   ],
   "critical_alerts": [
@@ -2236,8 +2236,8 @@
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Trwa wyjaśnianie okoliczności incydentu, do którego doszło w trakcie lotu z Warszawy do Tel Awiwu.",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32887382,incydent-z-samolotem-lecacym-z-warszawy-do-tel-awiwu-zaloga.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882"
+      "description": "Premier Izraela: nie wycofamy się z Libanu, dopóki zagraża nam Hezbollah Polska Agencja Prasowa SA.",
+      "url": "https://infopakiety.pap.pl/aktualnosci/news,648513,premier-izraela-nie-wycofamy-sie-z-libanu-dopoki-zagraza-nam-hezbollah.html"
     },
     {
       "lat": 32.43,
@@ -2452,8 +2452,8 @@
       "lng": 35.5,
       "type": "conflict",
       "region": "Liban",
-      "description": "Netanjahu odwiedza okupowany południowy Liban, twierdzi, że Izrael jeszcze nie opuści Reuters.",
-      "url": "https://www.reuters.com/world/middle-east/netanyahu-visits-occupied-southern-lebanon-says-israel-wont-leave-yet-2026-06-30/"
+      "description": "Premier Izraela: nie wycofamy się z Libanu, dopóki zagraża nam Hezbollah Polska Agencja Prasowa SA.",
+      "url": "https://infopakiety.pap.pl/aktualnosci/news,648513,premier-izraela-nie-wycofamy-sie-z-libanu-dopoki-zagraza-nam-hezbollah.html"
     },
     {
       "lat": 51.7,
@@ -2734,51 +2734,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25699.47,
+      25700.63,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26865.03,
+      26866.24,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27012.14,
+      27013.35,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27257.34,
+      27258.56,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27893.74,
+      27895.0,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27929.82,
+      27931.08,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28174.76,
+      28176.03,
       27354.94,
       27400.36,
       27412.11,
-      28576.6,
+      28577.89,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27836.48,
+      27837.73,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28016.38,
+      28017.64,
       27686.17,
       27404.78,
       27351.97,
@@ -2787,9 +2787,9 @@
       27661.43,
       27749.69,
       27709.26,
-      27724.43,
+      27725.68,
       27930.04,
-      28272.36
+      28273.64
     ],
     "currency": "PLN"
   }
