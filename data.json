@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T03:05:29Z",
+  "last_updated": "2026-07-02T03:10:30Z",
   "poland": [
     {
       "title": "Louis Vuitton mocniej wchodzi na polski rynek. Start oficjalnego e-sklepu w Polsce",
@@ -1719,7 +1719,7 @@
       "date": "2026-07-01T05:32:12Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "ClickFix, sztuczka, która oszukuje ludzi do ręcznego uruchamiania złośliwego oprogramowania, po cichu rozrosła się w back-office. Nowe badania pokazują, że złośliwe polecenia stojące za fałszywymi stronami „udowodnij, że jesteś człowiekiem” są teraz rozdawane przez serwery oparte na interfejsach API, które udostępniają każdemu odwiedzającemu to samo złośliwe oprogramowanie w innym przebraniu. To samo badanie ujawniło także nową metodę dostarczania, której zadaniem jest wymykanie się skanowaniu skryptów systemu Windows."
+      "summary": "ClickFix, sztuczka, która oszukuje ludzi do ręcznego uruchamiania złośliwego oprogramowania, po cichu rozrosła zaplecze biurowe. Nowe badania pokazują, że złośliwe polecenia stojące za fałszywymi stronami „udowodnij, że jesteś człowiekiem” są teraz rozdawane przez serwery oparte na interfejsach API, które udostępniają każdemu odwiedzającemu to samo złośliwe oprogramowanie w innym przebraniu. To samo badanie ujawniło także nową metodę dostarczania, której zadaniem jest wymykanie się skanowaniu skryptów systemu Windows."
     },
     {
       "title": "Chińska grupa APT atakuje Indie. Ma jasny cel",
@@ -2204,12 +2204,12 @@
       "summary": "Wdrożenie zaawansowanego programu CAM jest decyzją, którą wiele zakładów produkcyjnych traktuje jak zakup oprogramowania – wyślij zamówienie, zainstaluj, szkol pracowników. W praktyce takie podejście kończy się frustracją i niedotrzymanymi obietnicami&#8230; Artykuł Jak przygotować zakład produkcyjny na wdrożenie zaawansowanego CAM pochodzi z serwisu 300Gospodarka.pl."
     },
     {
-      "title": "W co inwestować w drugiej połowie 2026 roku? Hossa AI czy bańka AI?",
-      "url": "https://inwestomat.eu/w-co-inwestowac-w-drugiej-polowie-2026-roku/",
-      "date": "2026-06-29T05:00:00Z",
-      "source": "Inwestomat (Albert Rokicki)",
+      "title": "Co dzieje się z igłą po zabiegu? Wiele salonów beauty ma problem z ewidencją odpadów",
+      "url": "https://300gospodarka.pl/news/odpady-medyczne-w-branzy-beauty",
+      "date": "2026-06-30T21:54:32Z",
+      "source": "300Gospodarka",
       "confirmed_by": 1,
-      "summary": "Na razie wygrywają optymiści. Chyba nie pamiętam żadnego półrocza w ostatnich 6 latach (czyli mniej więcej czasie, w którym prowadzę tego bloga), w którym inwestorzy nie baliby się nowych rekordów cen akcji i nie przewidywali, że bańka zaraz pęknie. Jednak jeśli ktoś dołączyłby 6 lat temu do giełdowych optymistów i po prostu zainwestował swoje pieniądze w [&#8230;]."
+      "summary": "W salonach kosmetycznych, gabinetach medycyny estetycznej i punktach stylizacji paznokci powstają odpady medyczne, które wymagają szczególnego postępowania. Tylko 62 proc. przedstawicieli branży beauty deklaruje, że ich działalność jest zarejestrowana w Bazie Danych o Odpadach – wynika z badania przeprowadzonego na zlecenie EMKA S.A."
     }
   ],
   "critical_alerts": [
@@ -2761,51 +2761,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25696.95,
+      25697.97,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26862.4,
+      26863.47,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27009.49,
+      27010.56,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27254.66,
+      27255.75,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27891.01,
+      27892.12,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27927.08,
+      27928.19,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28171.99,
+      28173.12,
       27354.94,
       27400.36,
       27412.11,
-      28573.79,
+      28574.93,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27833.75,
+      27834.86,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28013.63,
+      28014.75,
       27686.17,
       27404.78,
       27351.97,
@@ -2814,10 +2814,10 @@
       27661.43,
       27749.69,
       27709.26,
-      27721.71,
+      27722.82,
       27930.04,
       28234.04,
-      28208.78
+      28209.91
     ],
     "currency": "PLN"
   }
