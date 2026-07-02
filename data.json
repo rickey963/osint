@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-02T08:39:49Z",
+  "last_updated": "2026-07-02T08:44:45Z",
   "poland": [
+    {
+      "title": "Ceny mieszkań przebiły inflację. Cztery województwa na czele wzrostów",
+      "url": "https://businessinsider.com.pl/gospodarka/ceny-mieszkan-w-polsce-rosna-szybciej-niz-inflacja-gus-ujawnia-dane/q75bpfj",
+      "date": "2026-07-02T08:37:43Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Według najnowszych danych GUS ceny mieszkań w pierwszym kwartale br. wzrosły o 6 proc. rok do roku."
+    },
     {
       "title": "Ostatnia taka plaża w Europie. Kobiety i mężczyzn oddziela betonowy mur",
       "url": "https://www.polsatnews.pl/ciekawostki/2026-07-02/ostatnia-taka-plaza-w-europie-kobiety-i-mezczyzn-oddziela-betonowy-mur/",
@@ -248,14 +256,6 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Wiadomo, kiedy będzie najgoręcej w lipcu. IMGW pokazał prognozę na cały miesiąc Polskie Radio 24."
-    },
-    {
-      "title": "\"Apokaliptyczne nagranie z Wenezueli\". Czerwone niebo nad Caracas zaniepokoiło mieszkańców",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32890555,apokaliptyczne-nagranie-z-wenezueli-czerwone-niebo-nad-caracas.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-07-02T06:38:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Zaledwie kilka dni po trzęsieniu ziemi niebo w Caracas przybrało czerwony kolor, co wzbudziło niepokój mieszkańców. Naukowcy wyjaśniają, że za to zjawisko odpowiada rozpraszanie Rayleigha."
     },
     {
       "title": "Starcie byłych liderek rankingu hitem. Iga Świątek w czwartek faworytką - Polskie Radio 24",
@@ -2233,8 +2233,8 @@
       "lng": -66.59,
       "type": "conflict",
       "region": "Wenezuela",
-      "description": "Zaledwie kilka dni po trzęsieniu ziemi niebo w Caracas przybrało czerwony kolor, co wzbudziło niepokój mieszkańców.",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32890555,apokaliptyczne-nagranie-z-wenezueli-czerwone-niebo-nad-caracas.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882"
+      "description": "Wylądowali lotem 164 tuż przed bliźniaczymi trzęsieniami ziemi.",
+      "url": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "lat": 55.5,
@@ -2479,29 +2479,8 @@
   ],
   "instability": [
     {
-      "name": "Wenezuela",
-      "score": 100,
-      "reasons": [
-        {
-          "title": "\"Apokaliptyczne nagranie z Wenezueli\". Czerwone niebo nad Caracas zaniepokoiło mieszkańców",
-          "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32890555,apokaliptyczne-nagranie-z-wenezueli-czerwone-niebo-nad-caracas.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-          "source": "Gazeta Wyborcza"
-        },
-        {
-          "title": "Stany Zjednoczone deportowały ich do Wenezueli – kilka godzin później doszło do trzęsienia ziemi",
-          "url": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ciotka wenezuelskiego chłopca wyciągniętego z gruzów mówi BBC, że zapewni mu „matczyne ciepło”",
-          "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News"
-        }
-      ]
-    },
-    {
       "name": "Ukraina",
-      "score": 87,
+      "score": 100,
       "reasons": [
         {
           "title": "Ukraina przenosi wojnę do Rosji",
@@ -2516,6 +2495,27 @@
         {
           "title": "W rosyjskich atakach na Kijów zginęło co najmniej 13 osób – Europa żyje",
           "url": "https://www.theguardian.com/world/live/2026/jul/02/russia-strikes-ukraine-war-kyiv-volodymyr-zelenskyy-europe-latest-news-updates",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Wenezuela",
+      "score": 92,
+      "reasons": [
+        {
+          "title": "Stany Zjednoczone deportowały ich do Wenezueli – kilka godzin później doszło do trzęsienia ziemi",
+          "url": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ciotka wenezuelskiego chłopca wyciągniętego z gruzów mówi BBC, że zapewni mu „matczyne ciepło”",
+          "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News"
+        },
+        {
+          "title": "Wenezuelscy policjanci aresztowani w związku z rzekomymi grabieżami po trzęsieniach ziemi",
+          "url": "https://www.theguardian.com/world/2026/jul/01/venezuela-police-officers-arrested-alleged-looting-after-earthquakes",
           "source": "The Guardian"
         }
       ]
@@ -2730,51 +2730,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25614.12,
+      25613.03,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26775.82,
+      26774.67,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26922.43,
+      26921.28,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27166.82,
+      27165.66,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27801.11,
+      27799.93,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27837.07,
+      27835.88,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28081.19,
+      28079.99,
       27354.94,
       27400.36,
       27412.11,
-      28481.7,
+      28480.48,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27744.04,
+      27742.85,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27923.34,
+      27922.15,
       27686.17,
       27404.78,
       27351.97,
@@ -2783,10 +2783,10 @@
       27661.43,
       27749.69,
       27709.26,
-      27632.36,
+      27631.19,
       27930.04,
       28234.04,
-      28117.86
+      28116.66
     ],
     "currency": "PLN"
   }
