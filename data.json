@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T18:36:10Z",
+  "last_updated": "2026-07-02T18:41:15Z",
   "poland": [
     {
       "title": "Spędził pod gruzami osiem dni. Zwrócił się do ratowników z prośbą",
@@ -40,6 +40,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": ""
+    },
+    {
+      "title": "W niemieckim mieście skradziono pomnik Puszkina. Rosja podejrzewa Polskę i kraje bałtyckie",
+      "url": "https://www.rp.pl/polityka/art44763531-w-niemieckim-miescie-skradziono-pomnik-puszkina-rosja-podejrzewa-polske-i-kraje-baltyckie",
+      "date": "2026-07-02T17:46:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "W mieście Hemer w Nadrenii Północnej-Westfalii skradziono pomnik rosyjskiego poety Aleksandra Puszkina. Rosyjskie MSZ i ambasada w Berlinie oceniły sprawę jako niepokojącą, a rzeczniczka resortu Maria Zacharowa powiązała incydent z „wojną z pomnikami” i rosyjską kulturą w Europie."
     },
     {
       "title": "Tu obowiązuje zakaz kąpieli. Ponad 40 kąpielisk nad Bałtykiem zamkniętych",
@@ -152,14 +160,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Myślę, że bardzo ważne jest zauważenie, że relacje polsko-ukraińskie mają dwa poziomy: polityczny i międzyludzki. Bardzo bym nie chciała, żeby pierwszy wpłynął na drugi."
-    },
-    {
-      "title": "Konrad Szymański: Porzućmy toksyczną alternatywę i chęć bycia prymusem w oczach USA",
-      "url": "https://www.rp.pl/plus-minus/art44756161-konrad-szymanski-porzucmy-toksyczna-alternatywe-i-chec-bycia-prymusem-w-oczach-usa",
-      "date": "2026-07-02T16:00:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Po raz pierwszy można odnieść wrażenie, że nie tylko europejscy zwolennicy separacji ze Stanami Zjednoczonymi, ale także amerykańska prawica woli wzmacniać podziały atlantyckie zamiast je zasypywać. W efekcie wspólnego języka z Białym Domem nie może znaleźć ani tożsamościowa premier Giorgia Meloni, ani biznesowo wiarygodny kanclerz Friedrich Merz. Jak w tej sytuacji powinna się odnaleźć Polska?"
     },
     {
       "title": "Tankowiec z rosyjskiej floty cieni zatrzymany. Fałszywa flaga kosztuje milion euro",
@@ -404,20 +404,20 @@
   ],
   "world_security": [
     {
+      "title": "„Najbardziej masowy” rosyjski atak na Kijów, zginęło co najmniej 25 osób",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-02T18:35:36Z",
+      "source": "BBC News",
+      "confirmed_by": 2,
+      "summary": "Ostatni ostrzał rozmieścił w stolicy największą liczbę broni i uderzył w lokalizacje na dużym obszarze."
+    },
+    {
       "title": "Iran ostrzega USA i Izrael przed atakami przed procesjami pogrzebowymi Chameneiego – Reuters",
       "url": "https://www.reuters.com/world/middle-east/iran-warns-us-israel-against-attacks-ahead-funeral-processions-khamenei-2026-07-02/",
       "date": "2026-07-02T17:56:56Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Iran ostrzega USA i Izrael przed atakami przed procesjami pogrzebowymi Chameneiego Reuters."
-    },
-    {
-      "title": "„Najbardziej masowy” rosyjski atak na Kijów, zginęło co najmniej 22 osoby",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-02T17:49:48Z",
-      "source": "BBC News",
-      "confirmed_by": 2,
-      "summary": "Ostatni ostrzał rozmieścił w stolicy największą liczbę broni i uderzył w lokalizacje na dużym obszarze."
     },
     {
       "title": "Watykan ekskomunikuje wyznawców światowej sekty katolickiej",
@@ -460,7 +460,7 @@
       "summary": "Linia lotnicza wzywa rządy europejskie do odroczenia wprowadzenia systemu EES na okres po wakacjach."
     },
     {
-      "title": "NATO planuje zastąpić AWACS samolotami Saab GlobalEye, podają źródła – Reuters",
+      "title": "NATO planuje zastąpić AWACS odrzutowcami Saab GlobalEye, podają źródła – Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/nato-plans-saab-globaleye-jets-replace-awacs-sources-say-2026-07-02/",
       "date": "2026-07-02T17:13:56Z",
       "source": "Reuters",
@@ -497,7 +497,7 @@
       "date": "2026-07-02T17:00:43Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Cele Trumpa dotyczące biopaliw stały się rzeczywistością, gdy amerykańskie fabryki pozostają w tyle Reuters."
+      "summary": "Cele Trumpa w zakresie biopaliw stały się rzeczywistością, gdy amerykańskie fabryki pozostają w tyle Reuters."
     },
     {
       "title": "W wyniku wybuchu w kawiarni w Damaszku sześć osób zginęło, a inni zostali ranni – podają syryjskie media państwowe – Reuters",
@@ -524,12 +524,12 @@
       "summary": "Wall St mieszane, ponieważ inwestorzy oceniają gorsze dane o zatrudnieniu Reuters."
     },
     {
-      "title": "Ocalały z trzęsienia ziemi w Wenezueli po ośmiu dniach wyszedł żywy",
+      "title": "Po ośmiu dniach ocalały z trzęsienia ziemi w Wenezueli przeżył",
       "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-02T16:11:24Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Hernán Gil utknął pod zawalonym wielopoziomowym parkingiem i zachęcał ich, gdy zbliżali się do niego."
+      "summary": "Hernán Gil został uwięziony pod zawalonym wielopoziomowym parkingiem i zachęcał ich, gdy zbliżali się do niego."
     },
     {
       "title": "Kryzys paliwowy w Rosji zachęca do zakupu samochodów elektrycznych – Reuters",
@@ -564,7 +564,7 @@
       "summary": "Ochroniarz uratowany spod gruzów tydzień po trzęsieniu ziemi w Wenezueli Reuters."
     },
     {
-      "title": "Liczba ofiar śmiertelnych wzrosła do 21, a ponad 80 zostało rannych w ogromnym rosyjskim ataku na Kijów – tak się stało",
+      "title": "Liczba ofiar śmiertelnych wzrasta do 21, a ponad 80 zostało rannych w ogromnym rosyjskim ataku na Kijów – tak się złożyło",
       "url": "https://www.theguardian.com/world/live/2026/jul/02/russia-strikes-ukraine-war-kyiv-volodymyr-zelenskyy-europe-latest-news-updates",
       "date": "2026-07-02T15:04:54Z",
       "source": "The Guardian",
@@ -580,20 +580,20 @@
       "summary": "Roszczenia przeciwko batalionowi Sił Obronnych Izraela obejmują celowe wybranie na cel i zniszczenie budynków mieszkalnych w 2023 i 2024 r. bez uzasadnienia wojskowegoOtrzymaj nasz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami Australijska policja federalna śledczy oceniają krótki opis rzekomych zbrodni wojennych popełnionych przez obywatela Australii służącego w Siłach Obronnych Izraela w Gazie. Australijskie Centrum Sprawiedliwości Międzynarodowej przekazało AFP 61-stronicowe sprawozdanie zawierające szczegółowe informacje na temat rzekomych zbrodni wojennych popełnionych przez IDF batalionu w Gazie w latach 2023 i 2024. Czytaj dalej..."
     },
     {
-      "title": "Z sondażu Guardiana Essential wynika, że ​​Australijczycy mają bardziej negatywny stosunek do Izraela niż do Chin",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/03/australians-more-negative-view-of-israel-than-china-guardian-essential-poll-ntwnfb",
-      "date": "2026-07-02T15:00:03Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Sondaż pokazuje również, że postrzeganie Donalda Trumpa pogorszyło się od czasu jego reelekcji – mniej niż jedna trzecia respondentów postrzega go pozytywnie. Skorzystaj z naszego e-maila z najświeższymi wiadomościami, bezpłatnej aplikacji lub codziennego podcastu z wiadomościami. Jak wykazało najnowsze badanie Guardian Essential, Australijczycy mają bardziej negatywny stosunek do Izraela niż do Chin, a kobiety i osoby w średnim wieku wykazują najmniej pozytywne postrzeganie Izraela. Z sondażu wynika również, że postrzeganie Donalda Trumpa przez Australijczyków spadło od czasu jego reelekcji – mniej niż jedna trzecia respondentów wyborców, którzy pozytywnie zareagowali na prezydenta USA. Kontynuuj czytanie..."
-    },
-    {
       "title": "Z raportu wynika, że ​​od 2020 r. mediana bogactwa Australii spadła o prawie 7%, mimo że bogaci się bogacą",
       "url": "https://www.theguardian.com/australia-news/2026/jul/03/australia-median-wealth-falls-but-rich-getting-richer",
       "date": "2026-07-02T15:00:03Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Szwajcarski bank UBS stwierdza, że „przepaść między najbogatszymi a szerszą populacją rośnie” w miarę powiększania się liczby milionerów w kraju o ponad 25 000. Skorzystaj z naszego e-maila z najświeższymi wiadomościami, bezpłatnej aplikacji lub codziennego podcastu z wiadomościami. Według nowego badania, które pokazuje, że w zeszłym roku ponad 25 000 osób w całym kraju zostało milionerami, bogactwo środkowej Australii cofa się, podczas gdy najbogatsi mają coraz większy udział w stosie, wynika z nowego badania, które pokazuje, że w zeszłym roku ponad 25 000 osób w całym kraju zostało milionerami. Z najnowszego globalnego raportu majątkowego szwajcarskiego banku UBS wynika, że Rok 2025 był „niezwykłym rokiem”, w którym na całym świecie urodziło się blisko milion nowych milionerów – co stanowi rekordowy wzrost w ciągu jednego roku. Kontynuuj czytanie..."
+      "summary": "Szwajcarski bank UBS stwierdza, że „rosnąca przepaść między najbogatszymi a szerszą populacją” wynika z nowego badania, które pokazuje, że w zeszłym roku ponad 25 000 osób w całym kraju zostało milionerami. Najnowszy globalny raport majątkowy szwajcarskiego banku UBS podaje, że szwajcarski bank UBS „rośnie przepaść między najbogatszymi a szerszą populacją”. Rok 2025 był „niezwykłym rokiem”, w którym na świecie pojawiło się blisko milion nowych milionerów – co stanowi rekordowy wzrost w ciągu jednego roku. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Z sondażu Guardiana Essential wynika, że ​​Australijczycy mają bardziej negatywny stosunek do Izraela niż do Chin",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/03/australians-more-negative-view-of-israel-than-china-guardian-essential-poll-ntwnfb",
+      "date": "2026-07-02T15:00:03Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Sondaż pokazuje również, że postrzeganie Donalda Trumpa pogorszyło się od czasu jego reelekcji – mniej niż jedna trzecia respondentów ocenia go pozytywnie. Skorzystaj z naszego e-maila z najświeższymi wiadomościami, bezpłatnej aplikacji lub codziennego podcastu z wiadomościami. Jak wynika z najnowszego sondażu Guardian Essential, Australijczycy mają bardziej negatywny stosunek do Izraela niż do Chin, a kobiety i osoby w średnim wieku wykazują najmniej pozytywne postrzeganie Izraela. Z sondażu wynika również, że postrzeganie Donalda Trumpa przez Australijczyków spadło od czasu jego reelekcji – mniej niż jedna trzecia respondentów wyborców, którzy pozytywnie zareagowali na prezydenta USA. Kontynuuj czytanie..."
     },
     {
       "title": "Producent pojazdów elektrycznych Rivian podnosi prognozę dostaw na 2026 r. w związku z dużym popytem, ​​akcje rosną – Reuters",
@@ -625,7 +625,7 @@
       "date": "2026-07-02T13:51:49Z",
       "source": "Reuters",
       "confirmed_by": 2,
-      "summary": "Ośmiu mnichów zginęło w Tajlandii w wyniku wypadku 11-letniego chłopca Reuters."
+      "summary": "Ośmiu mnichów zginęło w Tajlandii po tym, jak 11-letni chłopiec rozbił ciężarówkę Reuters."
     },
     {
       "title": "Peru ogłasza stan wyjątkowy w 40% okręgów przed deszczami El Niño – Reuters",
@@ -689,7 +689,7 @@
       "date": "2026-07-02T11:41:20Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Julie Inman Grant wyróżnia X podczas składania zeznań królewskiej komisji ds. antysemityzmu i spójności społecznejOtrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami Platformy głównego nurtu walczą o dystrybucję i monetyzację „brutalnych” i „fragmentowych” treści, powiedział organ nadzorujący eSafety królewskiej komisji ds. antysemityzmu. Australijska komisarz ds. eSafety, Julie Inman Grant, w czwartek wyróżniła X, informując w trakcie dochodzenia, że jej biuro musi walczyć ze swoim miliarderem właściciela, Elona Muska, do próby zablokowania dostępu do platformy lub zablokowania materiałów filmowych – w tym niektórych opublikowanych z ataku terrorystycznego w Bondi. Kontynuuj czytanie..."
+      "summary": "Julie Inman Grant wyróżnia X podczas składania zeznań królewskiej komisji ds. antysemityzmu i spójności społecznejOtrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami Platformy głównego nurtu walczą o dystrybucję i monetyzację „brutalnych” i „fragmentowych” treści, powiedział organ nadzorujący eSafety królewskiej komisji ds. antysemityzmu. Australijska komisarz ds. eSafety, Julie Inman Grant, w czwartek wyróżniła X, informując w trakcie dochodzenia, że jej biuro musi walczyć ze swoim miliarderem właściciela, Elona Muska, do próby zablokowania lub usunięcia materiałów filmowych – w tym niektórych opublikowanych z ataku terrorystycznego na Bondi – na platformie. Kontynuuj czytanie..."
     },
     {
       "title": "W powodziach na Wybrzeżu Kości Słoniowej zginęło 59 osób, a w Afryce Zachodniej nawiedziły ulewne deszcze",
@@ -721,7 +721,7 @@
       "date": "2026-07-02T09:00:00Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Jeśli nie znamy źródła, nie tylko ludzie pozostają zagrożeni, ale także dzikie zwierzęta mogą niepotrzebnie cierpieć w wyniku odwetu. Podczas gdy wirusolodzy i departamenty zdrowia publicznego z niecierpliwością czekały na wiadomość o wybuchu choroby zakaźnej wywołanej wirusem Andów na statku wycieczkowym (13 przypadków, trzy zgony), w Demokratycznej Republice Konga wirus Bundibugyo był przyczyną obecnej epidemii wirusa Ebola (obecnie ponad 1250 przypadków i co najmniej 362 zgony). tlący się pod radarem.Wirus Bundibugyo jest przerażającym, wysoce śmiertelnym patogenem. Objawy pojawiają się nagle i obejmują bóle głowy, biegunkę, nieprawidłowe funkcjonowanie nerek i wątroby oraz rzadziej krwawienia wewnętrzne i zewnętrzne (stąd określenie „choroba krwotoczna”). Co smutne, zaraźliwość pozostaje po śmierci, co oznacza, że ​​rodzina i bliscy zmarłego mogą zostać narażeni, gdy myją i ubierają ciało w ramach przygotowań do pogrzebu."
+      "summary": "Jeśli nie znamy źródła, nie tylko ludzie pozostają zagrożeni, ale także dzikie zwierzęta mogą niepotrzebnie cierpieć w wyniku odwetu. Podczas gdy wirusolodzy i departamenty zdrowia publicznego z niecierpliwością czekały na wiadomość o wybuchu choroby zakaźnej wywołanej wirusem Andów na statku wycieczkowym (13 przypadków, trzy zgony), w Demokratycznej Republice Konga wirus Bundibugyo był przyczyną obecnej epidemii wirusa Ebola (obecnie ponad 1250 przypadków i co najmniej 362 zgony). tlący się pod radarem. Wirus Bundibugyo to przerażający, wysoce śmiertelny patogen. Objawy pojawiają się nagle i obejmują bóle głowy, biegunkę, nieprawidłowe funkcjonowanie nerek i wątroby oraz rzadziej krwawienia wewnętrzne i zewnętrzne (stąd określenie „choroba krwotoczna”). Co smutne, zaraźliwość pozostaje po śmierci, co oznacza, że ​​rodzina i bliscy zmarłego mogą zostać narażeni, gdy myją i ubierają ciało w ramach przygotowań do pogrzebu."
     },
     {
       "title": "Albanese niszczy przemówienie Taylora na Midwinter Ball – tak się złożyło",
@@ -729,7 +729,7 @@
       "date": "2026-07-02T08:03:23Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Ten blog jest już zamkniętyOtrzymuj nasz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami „Osiem tygodni na niszczenie dokumentów”: Wells o opóźnieniu w sprawie ustawy o mediach społecznościowych Głównym powodem dzisiejszego porannego wystąpienia Aniki Wells w mediach jest kopnięcie Koalicji i Zielonych za skierowanie ustawy o mediach społecznościowych – zwiększającej kary dla platform i przyznającej komisarzowi ds. e-bezpieczeństwa więcej uprawnień – do ośmiotygodniowego dochodzenia. Nie jest to skomplikowane i myślę, że Angus Taylor powinien wyjaśnić, dlaczego uczciwie przyznaje wielkim technologiom osiem więcej tygodni na przygotowanie swojej sprawy, osiem kolejnych tygodni na uporządkowanie swoich spraw, potencjalnie osiem tygodni na zniszczenie dokumentów teraz, gdy wiedzą, że nadchodzą zmiany. Uważam, że jest to naprawdę pilne. Jestem załamany. Angus Taylor zdecydował się odejść od dwupartyjności i powinien wyjaśnić, dlaczego podjął tak tchórzliwą i celową decyzję. Jeśli zdecydujesz się oglądać – nie chcę wymieniać żadnego konkretnego, biorąc pod uwagę, że jesteśmy w ABC – ale jeśli oglądasz mistrzostwa świata w piłce nożnej na przykład w SBS, innym nadawcy publicznym, możesz zrezygnować z reklam hazardu i od 1 stycznia z transmisji strumieniowej."
+      "summary": "Ten blog jest już zamkniętyOtrzymuj nasz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami „Osiem tygodni na niszczenie dokumentów”: Wells o opóźnieniu w sprawie ustawy o mediach społecznościowych Głównym powodem dzisiejszego porannego wystąpienia Aniki Wells w mediach jest kopnięcie Koalicji i Zielonych za skierowanie ustawy o mediach społecznościowych – zwiększającej kary dla platform i przyznającej komisarzowi ds. e-bezpieczeństwa więcej uprawnień – do ośmiotygodniowego dochodzenia. Nie jest to skomplikowane i myślę, że Angus Taylor powinien wyjaśnić, dlaczego uczciwie przyznaje wielkim technologiom osiem więcej tygodni na przygotowanie swojej sprawy, osiem kolejnych tygodni na uporządkowanie swoich spraw, potencjalnie osiem tygodni na zniszczenie dokumentów teraz, gdy wiedzą, że nadchodzą zmiany. Uważam, że jest to naprawdę pilne. Jestem załamany. Angus Taylor zdecydował się odejść od dwupartyjności i powinien wyjaśnić, dlaczego podjął tak tchórzliwą i celową decyzję. Jeśli zdecydujesz się oglądać – nie chcę wymieniać żadnego konkretnego, biorąc pod uwagę, że jesteśmy w ABC – ale jeśli oglądasz Mistrzostwa Świata w piłce nożnej na przykład w SBS, innym nadawcy publicznym, możesz zrezygnować z reklam hazardu i od 1 stycznia z transmisji strumieniowej."
     },
     {
       "title": "Domniemany haker Scattered Spider aresztowany w Finlandii",
@@ -753,7 +753,7 @@
       "date": "2026-07-02T04:59:55Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Według ministerstwa zdrowia kierowanego przez Hamas w Gazie około 300 Palestyńczyków skierowanych na leczenie za granicą zmarło od rozpoczęcia zawieszenia broni."
+      "summary": "Według ministerstwa zdrowia kierowanego przez Hamas w Gazie około 300 Palestyńczyków skierowanych na leczenie za granicą zginęło od rozpoczęcia zawieszenia broni."
     },
     {
       "title": "„Piękne i straszne” – myśli świata o USA na poziomie 250",
@@ -779,7 +779,7 @@
       "date": "2026-07-02T18:18:46Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Posunięcie przeciwko Bractwu św. Piusa X było następstwem sprzeciwu wobec papieża Leona XIV i wyświęcenia nowych biskupów wbrew jego woli."
+      "summary": "Posunięcie przeciwko Bractwu Św. Piusa X było następstwem sprzeciwu wobec papieża Leona XIV poprzez wyświęcenie nowych biskupów wbrew jego woli."
     },
     {
       "title": "Stany Zjednoczone wznawiają dostawy dolarów do Iraku, wstrzymując presję",
@@ -827,7 +827,7 @@
       "date": "2026-07-02T16:30:33Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Jedno zdjęcie lotnicze zawalonego budynku mówi nam o następstwach trzęsienia ziemi w La Guaira w Wenezueli."
+      "summary": "Co jedno zdjęcie lotnicze zawalonego budynku mówi nam o następstwach trzęsienia ziemi w La Guaira w Wenezueli."
     },
     {
       "title": "Rosja wbija w stolicę Ukrainy śmiercionośnymi atakami",
@@ -835,7 +835,7 @@
       "date": "2026-07-02T16:12:07Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Lokalne władze podały, że w Kijowie zginęło co najmniej 21 osób. Prezydent Ukrainy ostrzegł, że Moskwa przygotowuje „masowy strajk”, ponieważ siły jego kraju uderzą głębiej w terytorium Rosji."
+      "summary": "Lokalne władze podały, że w Kijowie zginęło co najmniej 21 osób. Prezydent Ukrainy ostrzegł, że Moskwa przygotowuje „masowy strajk”, ponieważ siły jego kraju wkroczą w głąb terytorium Rosji."
     },
     {
       "title": "Mieszkańcy Kijowa otrząsają się po ostatnim rosyjskim ataku",
@@ -918,7 +918,15 @@
       "summary": "New Jersey ma obciążyć firmy zatrudniające pracowników korzystających z Medicaid. Inne stany mogą śledzić AP News."
     },
     {
-      "title": "Według raportu AP News Rosja prawdopodobnie użyła statków cieni do prowadzenia kampanii dronów w Europie",
+      "title": "Para wspinaczy aresztowana po tym, jak wspięła się na antenę Empire State Building w celu rzekomej propozycji małżeństwa – AP News",
+      "url": "https://apnews.com/article/empire-state-building-antenna-stunt-banner-68f02bde462ee033662f3e5939142559",
+      "date": "2026-07-02T11:01:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Para wspinaczy aresztowana po tym, jak wspięła się na antenę Empire State Building w celu rzekomej propozycji małżeństwa AP News."
+    },
+    {
+      "title": "Według raportu AP News Rosja prawdopodobnie wykorzystała statki cieni do prowadzenia kampanii dronów w Europie",
       "url": "https://apnews.com/projects/russian-drones-shadow-fleet/",
       "date": "2026-07-02T08:49:49Z",
       "source": "Associated Press",
@@ -955,10 +963,10 @@
       "date": "2026-07-01T21:23:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Szczegółowy przegląd prezentacji przed wielką ławą przysięgłych odbywa się w Chicago w związku z doniesieniami o niewłaściwym postępowaniu AP News."
+      "summary": "Szczegółowy przegląd prezentacji wielkiej ławy przysięgłych odbywających się w Chicago w następstwie ujawnień dotyczących niewłaściwego postępowania AP News."
     },
     {
-      "title": "USA, Kanada i Meksyk rozpoczynają trudne negocjacje w sprawie odnowienia północnoamerykańskiego paktu handlowego – AP News",
+      "title": "Stany Zjednoczone, Kanada i Meksyk rozpoczynają trudne negocjacje w sprawie odnowienia północnoamerykańskiego paktu handlowego – AP News",
       "url": "https://apnews.com/article/usmca-mexico-canada-trade-nafta-4531f12f1a59cb2b2e20bcdbdd9d47b5",
       "date": "2026-07-01T21:11:00Z",
       "source": "Associated Press",
@@ -982,7 +990,7 @@
       "summary": "Producenci jaj zapłacą 3,3 mln dolarów i przekażą 53 mln jaj na uregulowanie roszczeń AP News dotyczących zmowy cenowej."
     },
     {
-      "title": "Przewodniczący Rezerwy Federalnej Warsh podkreśla niezależność polityczną, sygnalizuje skupienie się na inflacji – AP News",
+      "title": "Przewodniczący Rezerwy Federalnej Warsh podkreśla niezależność polityczną i sygnalizuje skupienie się na inflacji – AP News",
       "url": "https://apnews.com/article/warsh-federal-reserve-inflation-interest-rate-18c005515444abd2043ad113c9849407",
       "date": "2026-07-01T19:16:00Z",
       "source": "Associated Press",
@@ -996,14 +1004,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Władze AP News twierdzą, że 16 dzieci uratowanych z domu w Ohio było „prawie dzikich”."
-    },
-    {
-      "title": "Victor Willis, współzałożyciel Village People i współautor scenariusza „YMCA”, umiera w wieku 74 lat Nowości",
-      "url": "https://apnews.com/article/victor-willis-dies-0409f2baba4afa338f93ba98273e9539",
-      "date": "2026-07-01T16:51:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Victor Willis, współzałożyciel Village People i współautor scenariusza „YMCA”, umiera w 74 AP News."
     }
   ],
   "technology": [
@@ -1077,7 +1077,7 @@
       "date": "2026-07-02T16:46:47Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Nie widziałem, żeby ktoś podał datę premiery nowej rakiety i rzeczywiście ją osiągnął."
+      "summary": "Nie widziałem, żeby ktoś podał datę premiery nowej rakiety i faktycznie ją osiągnął."
     },
     {
       "title": "Pokaż HN: QUALITY.md – otwarty format/specyfikacja, umiejętności agenta i CLI",
@@ -1104,7 +1104,7 @@
       "summary": "Wczesne raporty wskazują, że może istnieć inny przypadek, ale uważa się, że rozprzestrzenianie się jest zlokalizowane."
     },
     {
-      "title": "Rząd USA jest obecnie udziałowcem w 26 spółkach",
+      "title": "Rząd USA jest obecnie udziałowcem 26 spółek",
       "url": "https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder",
       "date": "2026-07-02T16:29:13Z",
       "source": "Hacker News",
@@ -1141,7 +1141,7 @@
       "date": "2026-07-02T16:00:12Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Bloomberg: Źródła: Erebor Bank należący do Palmera Luckeya prowadzi rozmowy w sprawie pozyskania środków o wartości ponad 8 miliardów dolarów, w porównaniu z 4,35 miliarda dolarów w 2025 r.; jego depozyty wzrosły z 1,1 miliarda dolarów w marcu do 4,05 miliarda dolarów &mdash; Erebor Bank prowadzi rozmowy w sprawie zebrania pieniędzy o wartości co najmniej 8 miliardów dolarów, w związku z szybkim wzrostem depozytów w politycznie powiązanym startupie &hellip;."
+      "summary": "Bloomberg: Źródła: Erebor Bank należący do Palmera Luckeya prowadzi rozmowy w sprawie pozyskania środków o wycenie ponad 8 miliardów dolarów, w porównaniu z 4,35 miliarda dolarów w 2025 r.; jego depozyty wzrosły z 1,1 miliarda dolarów w marcu do 4,05 miliarda dolarów &mdash; Erebor Bank prowadzi rozmowy w sprawie zebrania pieniędzy o wartości co najmniej 8 miliardów dolarów, w związku z szybkim wzrostem depozytów w politycznie powiązanym startupie &hellip;."
     },
     {
       "title": "To może być przełom w badaniach czarnych dziur. Horyzont zdarzeń pod lupą",
@@ -1152,7 +1152,7 @@
       "summary": "Fizycy znaleźli w falach grawitacyjnych coś, co może pochodzić z okolic horyzontu zdarzeń czarnej dziury. Jeśli interpretacja się utrzyma, dostaniemy nowy sposób badania miejsca, którego nie da się zobaczyć \"ot tak\". To jedna z większych tajemnic czarnych dziur!"
     },
     {
-      "title": "Kling AI, spin-off generatora wideo Kuaishou AI, zebrał 2 miliardy dolarów przy wycenie wstępnej na 15 miliardów dolarów i twierdzi, że runda może sięgnąć nawet 3 miliardów dolarów (Zheping Huang/Bloomberg)",
+      "title": "Kling AI, spin-off generatora wideo Kuaishou AI, zebrał 2 miliardy dolarów przy wycenie przedpłatowej na 15 miliardów dolarów i twierdzi, że runda może sięgnąć nawet 3 miliardów dolarów (Zheping Huang/Bloomberg)",
       "url": "https://www.techmeme.com/260702/p25#a260702p25",
       "date": "2026-07-02T15:45:00Z",
       "source": "Techmeme",
@@ -1189,7 +1189,7 @@
       "date": "2026-07-02T15:12:25Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Znawcy mówią, że Sam Altman prowadzi aktywne rozmowy z administracją Trumpa."
+      "summary": "Znawcy twierdzą, że Sam Altman prowadzi aktywne rozmowy z administracją Trumpa."
     },
     {
       "title": "Uruchom HN: Manufact (YC S25) – Chmura MCP",
@@ -1415,7 +1415,7 @@
       "date": "2026-07-02T18:05:50Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Nie licz, że LLM zwróci Twoje dane – nawet jeśli zapłacisz."
+      "summary": "Nie licz na to, że LLM zwróci Twoje dane – nawet jeśli zapłacisz."
     },
     {
       "title": "SoftBank wkracza w wyścig wynajmu GPU, gdy Ameryka szuka wsparcia w zakresie szkoleń w zakresie sztucznej inteligencji",
@@ -1655,7 +1655,7 @@
       "date": "2026-07-01T17:53:06Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Nieznani ugrupowania zagrażające wykorzystują narzędzie zdalnego dostępu ScreenConnect do wdrażania i uruchamiania AsyncRAT. Kaspersky powiedział, że to działanie jest częścią „masowej, wielodomenowej i wielojęzycznej” kampanii, która dystrybuuje archiwa złośliwych instalatorów hostowanych na sfałszowanych stronach internetowych. Instalatory te udają między innymi popularne oprogramowanie, takie jak OBS Studio, DNS Jumper, DS4Windows i Bandicam."
+      "summary": "Nieznani ugrupowania zagrażające wykorzystują narzędzie zdalnego dostępu ScreenConnect do wdrażania i uruchamiania AsyncRAT. Kaspersky powiedział, że to działanie jest częścią „masowej, wielodomenowej i wielojęzycznej” kampanii, która rozpowszechnia archiwa złośliwych instalatorów hostowanych na sfałszowanych stronach internetowych. Instalatory te udają między innymi popularne oprogramowanie, takie jak OBS Studio, DNS Jumper, DS4Windows i Bandicam."
     },
     {
       "title": "Łańcuch złośliwego oprogramowania VEIL#DROP wykorzystuje platformę Bloggera do dostarczania kradzieży PureLogs",
@@ -1690,7 +1690,7 @@
       "summary": "Firma Adobe udostępniła poprawki dla wielu luk w zabezpieczeniach o maksymalnym poziomie istotności, wpływających na programy Adobe ColdFusion i Adobe Campaign Classic. Aktualizacje ColdFusion „usuwają krytyczne i ważne luki w zabezpieczeniach, które mogą prowadzić do wykonania dowolnego kodu, eskalacji uprawnień, dowolnego odczytu systemu plików i obejścia funkcji zabezpieczeń” – oznajmiła firma Adobe w opublikowanym we wtorek alercie. Luki są wymienione."
     },
     {
-      "title": "Krytyczne błędy kursora mogą spowodować, że polecenie szybkiego wstrzyknięcia opuści piaskownicę i uruchomi polecenia",
+      "title": "Krytyczne wady kursora mogą spowodować, że polecenie szybkiego wstrzyknięcia opuści piaskownicę i uruchomi polecenia",
       "url": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
       "date": "2026-07-01T14:42:54Z",
       "source": "The Hacker News",
@@ -1860,6 +1860,14 @@
       "summary": "Sąd Apelacyjny w Paryżu oczyścił w czwartek byłego lidera ETA Jose Antonia Urrutikoetxeę, znanego jako Josu Ternera, z zarzutu przynależności do organizacji terrorystycznej w okresie od 20 grudnia 2002 do maja 2005 roku – podał hiszpański portal 20 minutos."
     },
     {
+      "title": "Koniec z zakupem biletów na autobus. Darmowa komunikacja miejska dla każdego - Forsal.pl",
+      "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11271007,bezplatna-komunikacja-miejska-dla-kazdego-autobusy-beda-wozic-pasazer.html",
+      "date": "2026-07-02T17:14:14Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Koniec z zakupem biletów na autobus. Darmowa komunikacja miejska dla każdego Forsal.pl."
+    },
+    {
       "title": "Ceny OC spadają w całej Polsce. Szczecin jest jedynym miejskim wyjątkiem",
       "url": "https://300gospodarka.pl/news/ceny-oc-czerwiec-2026-ranking-miast",
       "date": "2026-07-02T16:46:42Z",
@@ -1938,6 +1946,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania INTSDOW98665 INGBANK BiznesRadar."
+    },
+    {
+      "title": "Notowania INTSSLV98731 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/INTSSLV98731",
+      "date": "2026-07-02T15:32:13Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania INTSSLV98731 INGBANK BiznesRadar."
     },
     {
       "title": "Złe wieści dla emerytów. ZUS w lipcu wypłaci im najwyżej 500 zł - Forsal.pl",
@@ -2044,14 +2060,6 @@
       "summary": "Forum giełdowe StockWatch.pl: XTB stockwatch.pl."
     },
     {
-      "title": "Rząd planuje działania przeciw szarej strefie. Na celowniku konkretne branże - Forsal.pl",
-      "url": "https://forsal.pl/nieruchomosci/aktualnosci/artykuly/11270682,rzad-planuje-dzialania-przeciw-szarej-strefie-na-celowniku-konkretne-branze.html",
-      "date": "2026-07-02T12:07:02Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Rząd planuje działania przeciw szarej strefie. Na celowniku konkretne branże Forsal.pl."
-    },
-    {
       "title": "Michał Sołowow vs. Rolls-Royce. Najbogatszy Polak walczy o brytyjskie SMR-y [ANALIZA] - Forbes",
       "url": "https://www.forbes.pl/energetyka/michal-solowow-vs-rolls-royce-najbogatszy-polak-walczy-o-brytyjskie-smr-y-analiza/gwmbbq4",
       "date": "2026-07-02T10:39:22Z",
@@ -2146,14 +2154,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Liczba oszukańczych transakcji z użyciem bezgotówkowych instrumentów płatniczych wzrosła w IV kwartale 2025 roku o 15 proc. kwartał do kwartału – wynika z danych NBP. W tym samym czasie wydawcy kart odnotowali ponad 91,7 tys."
-    },
-    {
-      "title": "Notowania historyczne OW20I262950 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania-historyczne/OW20I262950",
-      "date": "2026-07-01T20:26:25Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania historyczne OW20I262950 BiznesRadar."
     },
     {
       "title": "Duzi spóźniają się z przelewami, mali tracą płynność. UOKiK nakłada kary na Avon i Neptun",
@@ -2284,7 +2284,7 @@
       "lng": -67.09,
       "type": "disaster",
       "region": "Wenezuela",
-      "description": "Jedno zdjęcie lotnicze zawalonego budynku mówi nam o następstwach trzęsienia ziemi w La Guaira w Wenezueli.",
+      "description": "Co jedno zdjęcie lotnicze zawalonego budynku mówi nam o następstwach trzęsienia ziemi w La Guaira w Wenezueli.",
       "url": "https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-oneimage.html"
     },
     {
@@ -2757,51 +2757,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25562.32,
+      25556.86,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26721.66,
+      26715.95,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26867.98,
+      26862.24,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27111.87,
+      27106.08,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27744.88,
+      27738.96,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27780.76,
+      27774.84,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28024.39,
+      28018.41,
       27354.94,
       27400.36,
       27412.11,
-      28424.09,
+      28418.02,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27687.92,
+      27682.01,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27866.86,
+      27860.91,
       27686.17,
       27404.78,
       27351.97,
@@ -2810,11 +2810,11 @@
       27661.43,
       27749.69,
       27709.26,
-      27576.47,
+      27570.59,
       27930.04,
       28234.04,
-      28060.99,
-      27965.29
+      28055.0,
+      27952.92
     ],
     "currency": "PLN"
   }
