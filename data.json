@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T08:57:57Z",
+  "last_updated": "2026-07-02T08:58:38Z",
   "poland": [
     {
       "title": "Rosną ceny gazu w Europie. Dostawy z kluczowego państwa wciąż ograniczone",
@@ -574,7 +574,7 @@
     {
       "title": "OpenAI proponuje przekazać administracji Trumpa 5% udziałów – podaje FT – Reuters",
       "url": "https://www.reuters.com/business/openai-proposes-handing-trump-administration-5-stake-ft-reports-2026-07-02/",
-      "date": "2026-07-02T04:58:01Z",
+      "date": "2026-07-02T04:27:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "OpenAI proponuje przekazać administracji Trumpa 5% udziałów, podaje FT Reuters."
@@ -768,7 +768,7 @@
     {
       "title": "Masowe żałoby, 6 dni i 2 kraje: Iran przygotowuje się do pochówku Najwyższego Przywódcy",
       "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
-      "date": "2026-07-02T08:51:10Z",
+      "date": "2026-07-02T08:53:27Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Długo opóźniane ceremonie pogrzebowe ajatollaha Alego Chameneiego, który zginął podczas amerykańsko-izraelskich ataków na początku wojny, rozpoczną się w piątek. Dla reżimu jest to krytyczny moment, w którym można wykazać, że przetrwał."
@@ -1796,6 +1796,14 @@
   ],
   "finance": [
     {
+      "title": "VeloBank zwalnia po przejęciu Citi. Chroniona pensja to nie gwarancja etatu",
+      "url": "https://www.bankier.pl/wiadomosc/VeloBank-zwalnia-po-przejeciu-Citi-Chroniona-pensja-to-nie-gwarancja-etatu-9162432.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-07-02T08:58:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Pracownicy przeniesieni z Citi Handlowego do VeloBanku mieli zagwarantowany poziom wynagrodzenia przez 12 miesięcy - ale, jak podkreślają oba banki, nie był to ekwiwalent gwarancji samego etatu. Zwolnienia grupowe ruszyły kilka dni po fuzji. Do redakcji trafiło pismo zaniepokojonych pracowników, a VeloBank odpowiedział na nasze pytania."
+    },
+    {
       "title": "Ceny gazu w Europie idą w górę. Katar wciąż walczy ze skutkami wojny",
       "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-ida-w-gore-Katar-wciaz-walczy-ze-skutkami-wojny-9162430.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-02T08:56:00Z",
@@ -1874,14 +1882,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Kurs akcji spółki deweloperskiej Robyg na otwarciu w pierwszym dniu notowań na GPW wzrósł o 0,1 proc. do 34,03 zł. Kurs PDA Robygu wzrósł o 5,29 proc."
-    },
-    {
-      "title": "Inflacja w Szwajcarii znów bliżej zera. Tylko połówka procenta za cały rok",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-Szwajcarii-w-czerwcu-2026-Tylko-polowka-procenta-za-caly-rok-9162397.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-07-02T08:04:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Wskaźnik inflacji konsumenckiej ledwo drgnął i tylko nieznacznie oddalił się od zera. Zerową inflację CPI odnotowano za to w relacji miesięcznej."
     },
     {
       "title": "Orlen ma 95 proc. akcji Energi. Dwa scenariusze na stole",
@@ -2752,51 +2752,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25610.58,
+      25611.74,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26772.11,
+      26773.32,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26918.71,
+      26919.92,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27163.06,
+      27164.29,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27797.26,
+      27798.52,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27833.22,
+      27834.48,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28077.31,
+      28078.58,
       27354.94,
       27400.36,
       27412.11,
-      28477.76,
+      28479.04,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27740.2,
+      27741.45,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27919.48,
+      27920.74,
       27686.17,
       27404.78,
       27351.97,
@@ -2805,10 +2805,10 @@
       27661.43,
       27749.69,
       27709.26,
-      27628.54,
+      27629.79,
       27930.04,
       28234.04,
-      28113.97
+      28115.24
     ],
     "currency": "PLN"
   }
