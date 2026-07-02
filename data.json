@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T10:09:21Z",
+  "last_updated": "2026-07-02T10:14:33Z",
   "poland": [
     {
       "title": "Nowy system zwolni lekarzy z odpowiedzialności. Skorzystało 95 tys. pacjentów",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Niezwykłe odkrycie w lesie. Skarb czekał pod ziemią 3000 lat",
+      "url": "https://spidersweb.pl/2026/07/gdansk-odkrycie-w-lesie-miecz.html",
+      "date": "2026-07-02T10:09:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Niezwykłe odkrycie w lesie. Skarb czekał pod ziemią 3000 lat."
+    },
+    {
       "title": "Nadchodzi zupełnie nowy MacBook Pro. Przecieki zdradzają, co szykuje Apple",
       "url": "https://antyweb.pl/nadchodzi-zupelnie-nowy-macbook-pro-przecieki-zdradzaja-co-szykuje-apple",
       "date": "2026-07-02T10:00:40Z",
@@ -1270,14 +1278,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Gdzie w samolocie usiądą dzieci? Obojętne, bo łatwo rozwiązałem problem."
-    },
-    {
-      "title": "Odważny projekt BMW X5. I do tego 5 różnych napędów",
-      "url": "https://antyweb.pl/odwazny-projekt-bmw-x5-i-do-tego-5-roznych-napedow",
-      "date": "2026-07-02T07:00:48Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Piąta generacja BMW X5 właśnie ujrzała światło dzienne, wprowadzając na rynek prawdziwe trzęsienie ziemi w segmencie luksusowych SUV-ów."
     },
     {
       "title": "Badanie przeprowadzone wśród dorosłych w USA wykazało, że 56% popiera zakaz korzystania z mediów społecznościowych dla osób poniżej 16 roku życia, a 21% jest przeciwne; większość grup demograficznych i partyzanckich popiera zakaz (Pew Research Center)",
@@ -2012,14 +2012,6 @@
       "summary": "CoreWeave stockwatch.pl."
     },
     {
-      "title": "Grodno szacuje sprzedaż w czerwcu na 120,8 mln zł - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149014,grodno-szacuje-sprzedaz-w-czerwcu-na-120-8-mln-zl",
-      "date": "2026-07-02T06:25:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Grodno szacuje sprzedaż w czerwcu na 120,8 mln zł BiznesRadar."
-    },
-    {
       "title": "SGE ujawnia plany dotyczące floty małych reaktorów modułowych w Wielkiej Brytanii - Forbes",
       "url": "https://www.forbes.pl/biznes/sge-ujawnia-plany-dotyczace-floty-malych-reaktorow-modulowych-w-wielkiej-brytanii/1260r1h",
       "date": "2026-07-02T06:00:00Z",
@@ -2194,6 +2186,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania SGI1228 SGI FINANCE BiznesRadar."
+    },
+    {
+      "title": "Lichthund i Team17 rozwiązują umowę wydawniczą dotyczącą Rockbeasts - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/148987,lichthund-i-team17-rozwiazuja-umowe-wydawnicza-dotyczaca-rockbeasts",
+      "date": "2026-07-01T07:59:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Lichthund i Team17 rozwiązują umowę wydawniczą dotyczącą Rockbeasts BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2754,51 +2754,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25631.17,
+      25632.53,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26793.63,
+      26795.05,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26940.34,
+      26941.78,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27184.89,
+      27186.34,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27819.61,
+      27821.09,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27855.59,
+      27857.07,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28099.87,
+      28101.37,
       27354.94,
       27400.36,
       27412.11,
-      28500.65,
+      28502.16,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27762.49,
+      27763.97,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27941.92,
+      27943.4,
       27686.17,
       27404.78,
       27351.97,
@@ -2807,10 +2807,10 @@
       27661.43,
       27749.69,
       27709.26,
-      27650.75,
+      27652.22,
       27930.04,
       28234.04,
-      28136.57
+      28138.07
     ],
     "currency": "PLN"
   }
