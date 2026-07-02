@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T19:46:05Z",
+  "last_updated": "2026-07-02T19:46:47Z",
   "poland": [
     {
       "title": "Trzęsienie ziemi w Wenezueli. Ratownicy znaleźli 43-latka po ponad tygodniu. \"Prawdziwy cud\"",
@@ -766,14 +766,6 @@
   ],
   "world_politics": [
     {
-      "title": "Czy największy stadion świata może wyjaśnić globalną gospodarkę?",
-      "url": "https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html",
-      "date": "2026-07-02T19:43:35Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Wysokie stopy wzrostu i rosnący eksport w Wietnamie maskują głęboką frustrację w jednym z najbardziej ambitnych krajów Azji."
-    },
-    {
       "title": "Rosja wbija w stolicę Ukrainy śmiercionośnymi atakami",
       "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
       "date": "2026-07-02T19:39:59Z",
@@ -908,6 +900,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Ostatnia śmiercionośna noc na Ukrainie, ponad cztery lata po rosyjskiej inwazji na pełną skalę, pokazała, jak liczba ofiar śmiertelnych wśród ludności cywilnej nadal rośnie."
+    },
+    {
+      "title": "Iran przygotowuje się do pochówku najwyższego przywódcy, ajatollaha Alego Chameneiego, zabitego na początku wojny w Iranie",
+      "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
+      "date": "2026-07-02T15:32:34Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Długo opóźniane ceremonie pogrzebowe ajatollaha Alego Chameneiego, który zginął podczas amerykańsko-izraelskich ataków na początku wojny, rozpoczną się w piątek. Dla reżimu jest to krytyczny moment, w którym można wykazać, że przetrwał."
     },
     {
       "title": "New Jersey ma obciążyć firmy zatrudniające pracowników korzystających z Medicaid. Inne stany mogą pójść w ich ślady – AP News",
@@ -1860,14 +1860,6 @@
       "summary": "GDDKiA zamówiła naprawę ponadtrzykilometrowego fragmentu autostrady A1 na wysokości miejscowości Dobieszowice (Śląskie), jednego z najbardziej uszkodzonych miejsc na 16-kilometrowym odcinku Pyrzowice-Piekary Śląskie. Dyrekcja ogłosiła też przetarg na naprawę kolejnego fragmentu."
     },
     {
-      "title": "Posmarowali tym auto i zostawili na pełnym słońcu. Wynik eksperymentu zaskoczył inżynierów - Forsal.pl",
-      "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11271025,lakier-chlodzacy-samochod.html",
-      "date": "2026-07-02T18:46:06Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Posmarowali tym auto i zostawili na pełnym słońcu. Wynik eksperymentu zaskoczył inżynierów Forsal.pl."
-    },
-    {
       "title": "Wojska USA w Polsce. Szef BBN przekazał nowe informacje po rozmowie z Pentagonem - Forsal.pl",
       "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11271029,rotacja-wojsk-usa-do-polski-bbn-potwierdza.html",
       "date": "2026-07-02T18:43:11Z",
@@ -2042,6 +2034,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Rex Concepts celuje w potrojenie przychodów. Drive-Thru, nowy format DELTA i trzecia marka QSR Piotr Kwestarz czw., 02.07.2026 Kanał Strefa Inwestorów Treść Rex Concepts po debiucie giełdowym stawia na dynamiczny rozwój sieci restauracji Burger King i Popeyes, w tym otwarcia w formacie Drive-Thru przy drogach szybkiego ruchu oraz testy nowego, mniejszego formatu DELTA nastawionego na dostawy i sprzedaż na wynos. Grupa pracuje nad wprowadzeniem trzeciej marki QSR w Europie Środkowo-Wschodniej, a środki na ten cel mają pochodzić z IPO."
+    },
+    {
+      "title": "W wakacje łatwiej dostać mandat. Kierowcy łamią jeden zakaz, kara to 500 zł - Forsal.pl",
+      "url": "https://forsal.pl/transport/aktualnosci/artykuly/11270736,w-wakacje-latwiej-dostac-mandat-kierowcy-lamia-jeden-zakaz-kara-to-5.html",
+      "date": "2026-07-02T13:41:27Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "W wakacje łatwiej dostać mandat. Kierowcy łamią jeden zakaz, kara to 500 zł Forsal.pl."
     },
     {
       "title": "MedTech Solutions rozpoczyna testowe wdrożenie systemu MISSO w Polsce - BiznesRadar",
@@ -2548,20 +2548,14 @@
       ]
     },
     {
-      "name": "Syria",
-      "score": 18,
+      "name": "Strefa Gazy / Izrael",
+      "score": 41,
       "reasons": [
         {
-          "title": "Bomba eksploduje w kawiarni Damascus, zabijając co najmniej 6 osób",
-          "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
+          "title": "Iran przygotowuje się do pochówku najwyższego przywódcy, ajatollaha Alego Chameneiego, zabitego na początku wojny w Iranie",
+          "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
           "source": "The New York Times"
-        }
-      ]
-    },
-    {
-      "name": "Strefa Gazy / Izrael",
-      "score": 12,
-      "reasons": [
+        },
         {
           "title": "Iran ostrzega USA i Izrael przed atakami przed procesjami pogrzebowymi Chameneiego – Reuters",
           "url": "https://www.reuters.com/world/middle-east/iran-warns-us-israel-against-attacks-ahead-funeral-processions-khamenei-2026-07-02/",
@@ -2571,12 +2565,28 @@
     },
     {
       "name": "Iran",
-      "score": 12,
+      "score": 41,
       "reasons": [
+        {
+          "title": "Iran przygotowuje się do pochówku najwyższego przywódcy, ajatollaha Alego Chameneiego, zabitego na początku wojny w Iranie",
+          "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
+          "source": "The New York Times"
+        },
         {
           "title": "Iran ostrzega USA i Izrael przed atakami przed procesjami pogrzebowymi Chameneiego – Reuters",
           "url": "https://www.reuters.com/world/middle-east/iran-warns-us-israel-against-attacks-ahead-funeral-processions-khamenei-2026-07-02/",
           "source": "Reuters"
+        }
+      ]
+    },
+    {
+      "name": "Syria",
+      "score": 18,
+      "reasons": [
+        {
+          "title": "Bomba eksploduje w kawiarni Damascus, zabijając co najmniej 6 osób",
+          "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
+          "source": "The New York Times"
         }
       ]
     }
@@ -2787,51 +2797,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25569.47,
+      25576.63,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26729.14,
+      26736.62,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26875.5,
+      26883.02,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27119.46,
+      27127.05,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27752.65,
+      27760.42,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27788.54,
+      27796.32,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28032.24,
+      28040.09,
       27354.94,
       27400.36,
       27412.11,
-      28432.05,
+      28440.01,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27695.67,
+      27703.42,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27874.66,
+      27882.47,
       27686.17,
       27404.78,
       27351.97,
@@ -2840,11 +2850,11 @@
       27661.43,
       27749.69,
       27709.26,
-      27584.19,
+      27591.92,
       27930.04,
       28234.04,
-      28068.85,
-      27983.7
+      28076.7,
+      27980.54
     ],
     "currency": "PLN"
   }
