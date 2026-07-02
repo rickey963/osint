@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T10:32:42Z",
+  "last_updated": "2026-07-02T10:33:18Z",
   "poland": [
     {
       "title": "Spotkanie Kosiniak-Kamysz – Nawrocki. Polska walczy o rurociągi NATO i bazy USA",
@@ -768,26 +768,10 @@
     {
       "title": "Aktualności na żywo: Rosja wbija w stolicę Ukrainy śmiercionośnymi atakami",
       "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
-      "date": "2026-07-02T10:30:10Z",
+      "date": "2026-07-02T10:28:12Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Władze ukraińskie podały, że w ataku na Kijów zginęło co najmniej 17 osób. Prezydent Ukrainy Wołodymyr Zełenski ostrzegł w ostatnich dniach, że Rosja przygotowuje „masowy strajk”."
-    },
-    {
-      "title": "Oto najnowsze.",
-      "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/heres-the-latest",
-      "date": "2026-07-02T10:30:08Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": ""
-    },
-    {
-      "title": "Ukrainiec oskarżony o sabotaż rurociągów między Rosją a Niemcami",
-      "url": "https://www.nytimes.com/2026/07/02/world/europe/pipeline-sabotage-ukraine-russia-germany.html",
-      "date": "2026-07-02T10:29:24Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Mężczyzna zidentyfikowany jedynie jako Serhii K. jest oskarżony o nadzorowanie podmorskiego zamachu bombowego w 2022 r., który odciął kluczowe źródło dochodów z rosyjskiego gazu."
     },
     {
       "title": "Uwięziony chiński dziennikarz stara się o zwolnienie warunkowe z powodu guza płuc",
@@ -804,6 +788,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Porozumienie między kanclerzem Friedrichem Merzem i jego centrolewicowymi partnerami zakłada politycznie bolesne kompromisy w nadziei na powstrzymanie twardogłowych rywali."
+    },
+    {
+      "title": "Oto najnowsze.",
+      "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/heres-the-latest",
+      "date": "2026-07-02T09:32:41Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": ""
     },
     {
       "title": "Masowe żałoby, 6 dni i 2 kraje: Iran przygotowuje się do pochówku Najwyższego Przywódcy",
@@ -824,7 +816,7 @@
     {
       "title": "Drony nad Europą budzą obawy dotyczące działań Rosji",
       "url": "https://www.nytimes.com/2026/07/02/world/europe/drone-incursions-europe-russia.html",
-      "date": "2026-07-02T08:30:05Z",
+      "date": "2026-07-02T08:30:04Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Nowe badanie, poparte przez analityków i przywódców politycznych, pokazuje, że częste loty dronów nad zasobami wojskowymi NATO stanowią oznakę rosyjskiej kampanii mającej na celu zbadanie systemów obronnych i zebranie informacji."
@@ -892,6 +884,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Niemiecki gigant oprogramowania SAP twierdzi, że stawia na to, że pracownicy będą mogli wymyślać nowe miejsca pracy, zamiast je eliminować. Eksperci są podzieleni co do tego, czy to zadziała."
+    },
+    {
+      "title": "Bośnia i Hercegowina: co warto wiedzieć w obliczu Stanów Zjednoczonych",
+      "url": "https://www.nytimes.com/2026/07/01/world/europe/bosnia-and-herzegovina-name-world-cup.html",
+      "date": "2026-07-02T00:27:46Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Kraj ma dwie nazwy, długą historię i w tym roku całkiem niezłą drużynę piłkarską."
     },
     {
       "title": "Para wspinaczy aresztowana po tym, jak wspięła się na antenę Empire State Building w celu rzekomej propozycji małżeństwa – AP News",
@@ -2198,12 +2198,9 @@
   ],
   "critical_alerts": [
     {
-      "title": "Ukrainiec oskarżony o sabotaż rurociągów między Rosją a Niemcami",
-      "url": "https://www.nytimes.com/2026/07/02/world/europe/pipeline-sabotage-ukraine-russia-germany.html",
-      "date": "2026-07-02T10:29:24Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Mężczyzna zidentyfikowany jedynie jako Serhii K. jest oskarżony o nadzorowanie podmorskiego zamachu bombowego w 2022 r., który odciął kluczowe źródło dochodów z rosyjskiego gazu."
+      "title": "Sytuacja stabilna - brak nowych alarmów krytycznych",
+      "url": "",
+      "source": ""
     }
   ],
   "map_features": [
@@ -2478,11 +2475,6 @@
       "score": 100,
       "reasons": [
         {
-          "title": "Ukrainiec oskarżony o sabotaż rurociągów między Rosją a Niemcami",
-          "url": "https://www.nytimes.com/2026/07/02/world/europe/pipeline-sabotage-ukraine-russia-germany.html",
-          "source": "The New York Times"
-        },
-        {
           "title": "Ukraina przenosi wojnę do Rosji",
           "url": "https://www.nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html",
           "source": "The New York Times"
@@ -2491,12 +2483,17 @@
           "title": "Aktualności na żywo: Rosja wbija w stolicę Ukrainy śmiercionośnymi atakami",
           "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
           "source": "The New York Times"
+        },
+        {
+          "title": "Rosja uderza w Ukrainę w wyniku eksplozji skalnej stolicy Kijowa",
+          "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/ukraine-kyiv-russia-attack",
+          "source": "The New York Times"
         }
       ]
     },
     {
       "name": "Wenezuela",
-      "score": 75,
+      "score": 100,
       "reasons": [
         {
           "title": "Stany Zjednoczone deportowały ich do Wenezueli – kilka godzin później doszło do trzęsienia ziemi",
@@ -2517,7 +2514,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 58,
+      "score": 78,
       "reasons": [
         {
           "title": "Masowe żałoby, 6 dni i 2 kraje: Iran przygotowuje się do pochówku Najwyższego Przywódcy",
@@ -2533,7 +2530,7 @@
     },
     {
       "name": "Iran",
-      "score": 58,
+      "score": 78,
       "reasons": [
         {
           "title": "Masowe żałoby, 6 dni i 2 kraje: Iran przygotowuje się do pochówku Najwyższego Przywódcy",
@@ -2757,51 +2754,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25640.03,
+      25642.82,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26802.89,
+      26805.82,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26949.66,
+      26952.6,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27194.29,
+      27197.25,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27829.23,
+      27832.26,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27865.22,
+      27868.26,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28109.59,
+      28112.65,
       27354.94,
       27400.36,
       27412.11,
-      28510.5,
+      28513.61,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27772.09,
+      27775.12,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27951.58,
+      27954.63,
       27686.17,
       27404.78,
       27351.97,
@@ -2810,10 +2807,10 @@
       27661.43,
       27749.69,
       27709.26,
-      27660.31,
+      27663.32,
       27930.04,
       28234.04,
-      28146.3
+      28149.37
     ],
     "currency": "PLN"
   }
