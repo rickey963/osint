@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T07:35:23Z",
+  "last_updated": "2026-07-02T07:41:06Z",
   "poland": [
     {
       "title": "Tragiczny pożar szpitala w Niemczech. Nie żyją dwie osoby",
@@ -16,6 +16,14 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Prokuratura w Radomsku postawiła lokalnemu radnemu zarzut znieważenia prezydenta Karola Nawrockiego. Sprawa dotyczy grafiki udostępnionej w sieci w ubiegłym roku. Działacz porównał głowę państwa do głównego bohatera filmu \"Shrek\"."
+    },
+    {
+      "title": "Polska szkoła kurczy się z demografią. Ale są miejsca, gdzie uczniów przybywa",
+      "url": "https://www.rp.pl/edukacja-i-wychowanie/art44757891-polska-szkola-kurczy-sie-z-demografia-ale-sa-miejsca-gdzie-uczniow-przybywa",
+      "date": "2026-07-02T07:17:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Polska edukacja staje się coraz mniejsza. W ciągu zaledwie roku z przedszkoli, szkół i placówek dla dorosłych ubyło ponad 31 tys. uczących się."
     },
     {
       "title": "Pracownicy fabryki dostali pismo od szefa. \"Dramatyczny spadek zamówień\"",
@@ -160,14 +168,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Wprowadzenie opłat za „mały import” z Chin ma zwiększyć konkurencyjność europejskich, w tym polskich, producentów. Choć klienci mogą odczuć wyższe koszty, to na opłatach celnych i na VAT zyskuje budżet – tylko z VAT to ponad 11 mld zł od 2021 r."
-    },
-    {
-      "title": "Szef PIP ostrzega zatrudnionych na kontraktach. „Czeka ich ubóstwo emerytalne\"",
-      "url": "https://www.rp.pl/praca-emerytury-i-renty/art44757161-szef-pip-ostrzega-zatrudnionych-na-kontraktach-czeka-ich-ubostwo-emerytalne",
-      "date": "2026-07-02T06:07:01Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 2,
-      "summary": "Wiele osób zauważa wyłącznie korzyści płynące z zatrudnienia na kontrakcie np. niższe daniny publiczne, w praktyce czeka ich ubóstwo emerytalne i brak pełnej ochrony w losowych przypadkach - powiedział w wywiadzie dla PAP szef Państwowej Inspekcji Pracy Marcin Stanecki."
     },
     {
       "title": "UPA jak AK? Co Ukraińcy sądzą o sporze z Polską i jak widzą własną historię",
@@ -404,20 +404,28 @@
   ],
   "world_security": [
     {
+      "title": "Co najmniej 13 osób zginęło w rosyjskich atakach dronów i rakiet na Kijów",
+      "url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
+      "date": "2026-07-02T07:32:21Z",
+      "source": "The Guardian",
+      "confirmed_by": 2,
+      "summary": "Wiele miejsc padło ofiarą nocnych ataków, które miały miejsce w związku z niedoborami paliwa w związku z ukraińskimi atakami dalekiego zasięgu na rafinerie ropy naftowej. Co najmniej 13 osób zginęło, a dziesiątki zostało rannych w nocy w Kijowie – podały lokalne władze, gdy Rosja przeprowadziła swój najnowszy zmasowany atak dronami i rakietami na stolicę Ukrainy we wczesnych godzinach porannych w czwartek. O świcie w różnych miejscach stolicy wybuchły pożary, a strajki lub gruz uderzyły w budynki mieszkalne w kilku dzielnicach oraz hotel przy jednym z centralnych bulwarów Kijowa. Liczba 13 ofiar śmiertelnych może wzrosnąć, ponieważ lokalne służby ratunkowe podały, że 86 osób zostało rannych, z czego 70 trafiło do szpitala. Kontynuuj czytanie..."
+    },
+    {
+      "title": "W rosyjskich atakach na Kijów zginęło co najmniej 13 osób – Europa żyje",
+      "url": "https://www.theguardian.com/world/live/2026/jul/02/russia-strikes-ukraine-war-kyiv-volodymyr-zelenskyy-europe-latest-news-updates",
+      "date": "2026-07-02T07:31:07Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Wołodymyr Zełenski powiedział, że w ciągu nocy zaatakowano co najmniej 20 obiektów, przy czym „większość z nich to zwykłe budynki mieszkalne”. Szefowa polityki zagranicznej UE Kaja Kalłas odpowiedziała na nocne ataki na Kijów, mówiąc, że zaproponuje dalsze sankcje na Rosję. „Same słowa potępienia nie powstrzymają ataków na Kijów. Może to zrobić jedynie trwałe wsparcie wojskowe dla Ukrainy i zwiększony nacisk na Moskwę” – powiedziała. „Dzisiaj zaproponuję nałożenie sankcji na więcej podmiotów wspierających rosyjski kompleks wojskowo-przemysłowy w odpowiedzi do strajków Im bardziej Moskwa atakuje ludność cywilną, tym więcej sankcji należy nałożyć."
+    },
+    {
       "title": "Australia: polityka na żywo: Albańczyk niszczy przemówienie Taylora na Midwinter Ball; Dyrektor szkół katolickich w stanie Nowa Południowa Walia ustępuje po oskarżeniach Icaca",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/02/australia-politics-live-defence-aukus-conroy-national-press-club-anthony-albanese-labor-question-time-angus-taylor-coalition-tax-reform-one-nation-pauline-hanson-ntwnfb",
-      "date": "2026-07-02T07:20:42Z",
+      "date": "2026-07-02T07:27:12Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Śledź dzisiejsze wiadomości na żywoOtrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami „Osiem tygodni na niszczenie dokumentów”: Wells o opóźnieniu z wprowadzeniem ustawy o mediach społecznościowych Głównym powodem dzisiejszego porannego wystąpienia Aniki Wells w mediach jest kopnięcie Koalicji i Zielonych za wysłanie ustawy o mediach społecznościowych – zwiększającej kary dla platform i przyznającej komisarzowi ds. e-bezpieczeństwa większe uprawnienia – w ośmiotygodniowe dochodzenie. Nie jest to skomplikowane i myślę, że Angus Taylor powinien uczciwie wyjaśnić, dlaczego przekazuje duże technologie jeszcze osiem tygodni na przygotowanie swojej sprawy, osiem kolejnych tygodni na uporządkowanie spraw, potencjalnie osiem tygodni na zniszczenie dokumentów teraz, gdy wiedzą, że nadchodzą te zmiany. Uważam, że jest to naprawdę pilne. Jestem załamany. Angus Taylor zdecydował się odejść od dwupartyjności i powinien wyjaśnić, dlaczego podjął tak tchórzliwą i celową decyzję. Jeśli zdecydujesz się oglądać – nie chcę wymieniać żadnego konkretnego, biorąc pod uwagę, że jesteśmy w ABC – ale jeśli oglądasz Mistrzostwa Świata w piłce nożnej na przykład w SBS, innym nadawcy publicznym, możesz zrezygnować z reklam hazardu i od 1 stycznia z transmisji strumieniowej."
-    },
-    {
-      "title": "Co najmniej 13 osób zginęło w zakrojonych na szeroką skalę rosyjskich atakach rakietowych i dronów na Kijów",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-02T07:11:48Z",
-      "source": "BBC News",
-      "confirmed_by": 2,
-      "summary": "Rosja przeprowadziła największe ataki na miasto od tygodni, a wśród „znacznej liczby” ofiar są dzieci – twierdzą ukraińscy urzędnicy."
     },
     {
       "title": "USA wznawiają transfery dolarowe do Iraku, podaje NYT - Reuters",
@@ -428,7 +436,7 @@
       "summary": "USA wznawiają transfery dolarowe do Iraku, podaje NYT Reuters."
     },
     {
-      "title": "Rosyjska frustracja rośnie wraz z dotkliwym kryzysem paliwowym – Reuters",
+      "title": "Rosyjska frustracja rośnie wraz z kryzysem paliwowym – Reuters",
       "url": "https://www.reuters.com/business/energy/russian-frustration-rises-fuel-crisis-bites-2026-07-02/",
       "date": "2026-07-02T05:05:00Z",
       "source": "Reuters",
@@ -441,7 +449,7 @@
       "date": "2026-07-02T05:00:07Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Nowe badanie dotyczące neurotoksyczności fluazynamu przynosi odmienne wnioski od wcześniejszego raportu opartego na danych producenta. Naukowcy, którzy ponownie przeprowadzili kluczowe badanie neurotoksyczności środka grzybobójczego dotyczącego neurotoksyczności, doszli do znacznie odmiennych wniosków, a zwolennicy twierdzą, że substancja powinna zostać obecnie wycofana z rynku. W 2005 r. badanie przeprowadzone przez Huntingdon Life Sciences na zlecenie ISK, producenta fluazynamu, dotyczące rozwoju neurotoksyczności fluazynamu u ciężarnych szczurów wykazało, że istnieją: nie stwierdzono statystycznie istotnego wpływu na rozwój mózgu u potomstwa szczurów. Kontynuuj czytanie..."
+      "summary": "Nowe badanie dotyczące neurotoksyczności fluazynamu przynosi inne wnioski niż wcześniejszy raport oparty na danych producenta. Naukowcy, którzy ponownie przeprowadzili kluczowe badanie neurotoksyczności środka grzybobójczego, doszli do znacznie odmiennych wniosków, a zwolennicy twierdzą, że substancja powinna zostać obecnie wycofana z rynku. W 2005 r. badanie przeprowadzone przez Huntingdon Life Sciences na zlecenie ISK, producenta fluazynamu, dotyczące rozwoju neurotoksyczności fluazynamu u ciężarnych szczurów, wykazało, że istnieją: nie stwierdzono statystycznie istotnego wpływu na rozwój mózgu u potomstwa szczurów. Kontynuuj czytanie..."
     },
     {
       "title": "Przemytnik ludzi skazany we Francji, znaleziony przez BBC mieszkający w Wielkiej Brytanii i ubiegający się o azyl",
@@ -457,7 +465,7 @@
       "date": "2026-07-02T04:59:55Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Według ministerstwa zdrowia kierowanego przez Hamas w Gazie około 300 Palestyńczyków skierowanych na leczenie za granicą zginęło od rozpoczęcia zawieszenia broni."
+      "summary": "Według ministerstwa zdrowia kierowanego przez Hamas w Gazie około 300 Palestyńczyków skierowanych na leczenie za granicą zmarło od rozpoczęcia zawieszenia broni."
     },
     {
       "title": "OpenAI proponuje przekazać administracji Trumpa 5% udziałów – podaje FT – Reuters",
@@ -489,7 +497,7 @@
       "date": "2026-07-02T04:01:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Wzrost zatrudnienia w USA prawdopodobnie osłabł w czerwcu po niedawnej serii dużych wzrostów Reuters."
+      "summary": "Wzrost liczby miejsc pracy w USA prawdopodobnie osłabł w czerwcu po niedawnej serii dużych wzrostów Reuters."
     },
     {
       "title": "EKSKLUZYWNIE: Japonia zmienia taktykę interwencyjną zasadzek na krótkich sprzedawców jena, podają źródła – Reuters",
@@ -508,7 +516,7 @@
       "summary": "Microsoft współpracuje z singapurską firmą Lightstorm przy budowie podmorskiego kabla Indie-Azja Południowo-Wschodnia Reuters."
     },
     {
-      "title": "„To oczywiście niepokojące”, jeśli sprzedaż nieruchomości za 1 dolara przez Christian Brothers pozbawia ofiary przemocy wynagrodzenia – twierdzi rząd",
+      "title": "„To oczywiście niepokojące”, jeśli sprzedaż nieruchomości za 1 dolara przez Christian Brothers pozbawi ofiary przemocy wypłaty – twierdzi rząd",
       "url": "https://www.theguardian.com/australia-news/2026/jul/02/christian-brothers-catholic-asset-transfers-abuse-survivors-ntwnfb",
       "date": "2026-07-02T03:04:01Z",
       "source": "The Guardian",
@@ -521,7 +529,7 @@
       "date": "2026-07-02T02:34:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Stany Zjednoczone podtrzymują marzenie o Pucharze Świata dzięki odważnemu zwycięstwu nad Bośnią Reuters."
+      "summary": "USA podtrzymują marzenie o Pucharze Świata dzięki odważnemu zwycięstwu nad Bośnią Reuters."
     },
     {
       "title": "SK Hynix wyda 64 miliardy dolarów na fabryki chipów w ramach szerszego planu inwestycyjnego opartego na sztucznej inteligencji – Reuters",
@@ -572,7 +580,7 @@
       "summary": "Ropa naftowa spada trzeci dzień z rzędu po zakończeniu rozmów w Doha przez USA i Iran Reuters."
     },
     {
-      "title": "Dolar stabilny przed danymi o zatrudnieniu w USA, utrzymują się wahania związane z interwencją jena – Reuters",
+      "title": "Dolar stabilny przed danymi o zatrudnieniu w USA, utrzymujące się wahania związane z interwencją jena – Reuters",
       "url": "https://www.reuters.com/world/china/dollar-steady-focus-turns-us-payrolls-yen-intervention-jitters-persist-2026-07-02/",
       "date": "2026-07-02T01:04:00Z",
       "source": "Reuters",
@@ -633,7 +641,7 @@
       "date": "2026-07-01T22:36:43Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Historycy twierdzą, że ubiegłoroczny dochód Trumpa wynoszący 2,2 miliarda dolarów jest bezprecedensowy i zaciera granicę między konfliktami interesów."
+      "summary": "Historycy twierdzą, że dochód Trumpa w zeszłym roku wynoszący 2,2 miliarda dolarów jest bezprecedensowy i zaciera granicę między konfliktami interesów."
     },
     {
       "title": "Turecka policja pobiła nas żelaznymi prętami, zanim straciliśmy kończyny w wyniku odmrożeń – mówią Afgańczycy",
@@ -641,7 +649,7 @@
       "date": "2026-07-01T22:13:03Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Młodzi migranci udający się do Europy twierdzą, że w ujemnych temperaturach zostali rozebrani i mieli związane ręce."
+      "summary": "Młodzi migranci udający się do Europy twierdzą, że w ujemnych temperaturach zostali rozebrani i związani ręce."
     },
     {
       "title": "Maltański biznesmen zapłacił zabójcom 150 000 euro za zabicie Daphne Caruany Galizii, usłyszała ława przysięgłych",
@@ -668,7 +676,7 @@
       "summary": "Trump i urzędnicy amerykańscy zdecydowali się utrzymać przy życiu USMCA na krótkiej smyczy corocznych przeglądów, a nie na dłuższy okres odnowienia. Donald Trump odmówił odnowienia północnoamerykańskiego paktu handlowego, którego niegdyś bronił jako swojej podpisanej umowy, decydując się zamiast tego utrzymać go przy życiu na krótkiej smyczy corocznych przeglądów, zamiast zobowiązywać się do kolejnych 16 lat. W środę w Porozumieniu Stany Zjednoczone-Meksyk-Kanada (USMCA) upłynął ostateczny termin, w którym trzy kraje miały wspólnie zdecydować o swoim losie, który ma wygasnąć w 2036. Kontynuuj czytanie..."
     },
     {
-      "title": "Stany Zjednoczone blokują długoterminowe przedłużenie północnoamerykańskiej umowy handlowej",
+      "title": "USA blokują długoterminowe przedłużenie północnoamerykańskiej umowy handlowej",
       "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-01T18:56:36Z",
       "source": "BBC News",
@@ -676,7 +684,7 @@
       "summary": "Stany Zjednoczone blokują przedłużenie umowy handlowej z Ameryką Północną na 16 lat, powodując coroczne przeglądy kroczące."
     },
     {
-      "title": "Matka greckiego polityka umiera z powodu odniesionych ran po podpaleniu",
+      "title": "Matka greckiego polityka umiera z powodu ran po podpaleniu",
       "url": "https://www.bbc.co.uk/news/articles/c3eywl0eq29o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-01T18:52:22Z",
       "source": "BBC News",
@@ -690,14 +698,6 @@
       "source": "The Guardian",
       "confirmed_by": 2,
       "summary": "Jury uznało również Riada Bouchakera za winnego napaści na dwójkę innych dzieci i pracownicę opieki nad dziećmi w 2023 r. Mężczyzna został uznany za winnego usiłowania zamordowania trójki dzieci podczas ataku z użyciem noża w Dublinie w 2023 r. – przestępstwa, które przeraziło Irlandię i wywołało zamieszki w stolicy. Ława przysięgłych centralnego sądu karnego uznała w środę także 52-letniego Riada Bouchakera za winnego napaści, która wyrządziła poważną krzywdę pracowniczce opieki nad dziećmi, Leanne Flynna oraz napaści na dwójkę innych dzieci i nastolatka. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Albania ostrzegła, że ​​przystąpienie do UE jest zagrożone w związku z planami kurortu wspieranymi przez Jareda Kushnera",
-      "url": "https://www.theguardian.com/world/2026/jul/01/albania-warned-eu-accession-at-risk-jared-kushner-resort-plans",
-      "date": "2026-07-01T18:19:37Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Proponowany rozwój chronionych linii brzegowych i stref dzikiej przyrody narusza politykę środowiskową UE, zdaniem eurodeputowanych do Parlamentu Europejskiego ostrzegli Albanię, że rozmowy akcesyjne do UE będą zagrożone, jeśli rząd nie „zmieni kursu” w związku z planami budowy luksusowego kurortu wspieranego przez zięcia Donalda Trumpa Jareda Kushnera. Tineke Strik, holenderska eurodeputowana kierująca misją rozpoznawczą Parlamentu Europejskiego do narodu bałkańskiego, stwierdziła, że przywódcy Albanii „igrają z ogniem”, dążąc do kwoty 1,4 miliarda euro (1,2 miliarda funtów) przedsięwzięcie na rynku nieruchomości, które, jej zdaniem, siało spustoszenie na dziewiczym wybrzeżu. Kontynuuj czytanie..."
     },
     {
       "title": "Ukraińcy oskarżeni w Niemczech w związku z wybuchami w Nord Stream",
@@ -716,12 +716,20 @@
       "summary": "Wysoki Komisarz Nigerii twierdzi, że przedsiębiorstwa i nieruchomości pozostawione przez osoby powracające są dokumentowane."
     },
     {
+      "title": "Biblie, Kevin sam w domu i perfumy: sześć wniosków z finansów Trumpa na rok 2025",
+      "url": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-01T17:22:25Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Oficjalne dokumenty pokazują, że prezydent USA po powrocie do Białego Domu zarobił miliardy dolarów."
+    },
+    {
       "title": "Kanada dołączy do Konkursu Piosenki Eurowizji od 2027 roku",
       "url": "https://www.theguardian.com/tv-and-radio/2026/jul/01/canada-joins-eurovision-song-contest",
       "date": "2026-07-01T16:59:08Z",
       "source": "The Guardian",
       "confirmed_by": 2,
-      "summary": "Kraj, który dołączył do konkursu jako pierwszy od Australii w 2015 r., jak twierdzi dyrektor wydarzenia, „nadal wita świat”. Kanada dołączy do konkursu piosenki Eurowizji w 2027 r., stając się pierwszym nowym uczestnikiem od Australii w 2015 r., jak ogłosili organizatorzy. Uczestnictwo nie ogranicza się do krajów w Europie geograficznej i jest otwarte dla wszystkich członków Europejskiej Unii Nadawców (EBU), do której Kanada dołączyła w zeszłym tygodniu. Australia jest członkiem stowarzyszonym. Kontynuuj czytanie..."
+      "summary": "Kraj, który dołączył do konkursu jako pierwszy od Australii w 2015 r., jak twierdzi dyrektor wydarzenia, „nadal wita świat”. Kanada dołączy do konkursu piosenki Eurowizji w 2027 r., stając się pierwszym nowym uczestnikiem od Australii w 2015 r., ogłosili organizatorzy. Uczestnictwo nie ogranicza się do krajów w Europie geograficznej i jest otwarte dla wszystkich członków Europejskiej Unii Nadawców (EBU), do której Kanada dołączyła w zeszłym tygodniu. Australia jest członkiem stowarzyszonym. Kontynuuj czytanie..."
     },
     {
       "title": "Josh Burns twierdzi, że partner Georgie Purcell spotyka się z antysemickimi nadużyciami, ponieważ jest Żydem – słyszy komisja",
@@ -737,7 +745,7 @@
       "date": "2026-07-01T15:00:39Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Barney Glover, szef Australijskiej Komisji ds. Szkolnictwa Wyższego, twierdzi, że w przyszłym roku udzieli rządowi porad w sprawie finansowania stopni naukowych. Śledź nasz australijski blog z aktualnościami, aby uzyskać najnowsze aktualizacje. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Człowiek, któremu powierzono zadanie zreformowania kontrowersyjnego programu Job-ready Graduates (JRG), twierdzi, że nie zaleci żadnych tymczasowych środków mających na celu obniżenie kosztu stopni artystycznych wynoszącego 50 000 dolarów, pomimo nazwania programu porażką. Zgodnie z programem wprowadzonym przez rząd Morrisona koszty w przypadku przedmiotów ścisłych i matematycznych zmniejszono, aby zachęcić uczniów do podejmowania przedmiotów ścisłych, natomiast opłaty za przedmioty artystyczne i humanistyczne gwałtownie wzrosły. Zmiana doprowadziła do spadku liczby studentów z niższych warstw społeczno-ekonomicznych na niektórych kierunkach artystycznych, przy czym krytycy ostrzegali przed „segregowanym” systemem szkolnictwa wyższego. Kontynuuj czytanie..."
+      "summary": "Barney Glover, szef Australijskiej Komisji ds. Szkolnictwa Wyższego, twierdzi, że w przyszłym roku udzieli rządowi porad w sprawie finansowania stopni naukowych. Śledź nasz australijski blog z aktualnościami, aby uzyskać najnowsze aktualizacje. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Człowiek, któremu powierzono zadanie zreformowania kontrowersyjnego programu dla absolwentów gotowych do pracy (JRG), twierdzi, że nie zaleci żadnych tymczasowych środków mających na celu obniżenie kosztu stopni artystycznych wynoszącego 50 000 dolarów, pomimo uznania tego programu za porażkę. Zgodnie z programem wprowadzonym przez rząd Morrisona koszty w przypadku przedmiotów ścisłych i matematycznych zmniejszono, aby zachęcić uczniów do podejmowania przedmiotów ścisłych, natomiast opłaty za przedmioty artystyczne i humanistyczne gwałtownie wzrosły. Zmiana doprowadziła do spadku liczby studentów z niższych warstw społeczno-ekonomicznych na niektórych kierunkach artystycznych, przy czym krytycy ostrzegali przed „segregowanym” systemem szkolnictwa wyższego. Kontynuuj czytanie..."
     },
     {
       "title": "Wenezuelscy policjanci aresztowani w związku z rzekomymi grabieżami po trzęsieniach ziemi",
@@ -754,14 +762,6 @@
       "source": "The Guardian",
       "confirmed_by": 2,
       "summary": "W raporcie oskarża się siły paramilitarne o przestępstwa, w tym czystki etniczne, w systemowej kampanii przeciwko ludności cywilnej Sudańskie paramilitarne siły szybkiego wsparcia dopuściły się zbrodni przeciwko ludzkości i czystek etnicznych podczas swojej kampanii mającej na celu schwytanie El Fasher, jak zarzuca Amnesty International. Wiele przestępstw, w tym morderstwa, tortury, gwałty, zniewolenie i niewolnictwo seksualne, miało miejsce w ramach szeroko zakrojonego i systematycznego ataku na ludność cywilną i stanowiło zbrodnie przeciwko ludzkości, jak stwierdziła organizacja praw człowieka w raporcie opublikowanym środa. Kontynuuj czytanie..."
-    },
-    {
-      "title": "„Polowanie na czarownice” w Nigrze w czasie, gdy reżim wojskowy przeprowadza łapanki na populację LGBTQ+",
-      "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
-      "date": "2026-07-01T07:00:29Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Obawy przed ponownym wzrostem liczby zakażeń HIV/AIDS w związku z utratą dostępu do leków PrEP, ponieważ co najmniej 40 osób aresztowano w „toksycznym” klimacie W Nigrze, gdzie w zachodnioafrykańskim państwie aresztowano dziesiątki osób za homoseksualizm po wprowadzeniu na początku tego roku nowego kodeksu karnego, aresztowano co najmniej 40 osób, a 16 mężczyzn, w tym wysokich rangą urzędników wojskowych, uwięziono w całym kraju – według lokalnych władz mediów. Kontynuuj czytanie..."
     }
   ],
   "world_politics": [
@@ -875,7 +875,7 @@
       "date": "2026-07-01T21:21:29Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "W miarę jak rośnie liczba ofiar śmiertelnych, tysiące ciał przeciążyło system kryminalistyczny Wenezueli, zamieniając port morski w tymczasową kostnicę."
+      "summary": "W miarę wzrostu liczby ofiar śmiertelnych tysiące ciał przeciążyło system kryminalistyczny Wenezueli, zamieniając port morski w tymczasową kostnicę."
     },
     {
       "title": "Świętując Puchar Świata, Anglicy pytają: kto jest właścicielem flagi?",
@@ -886,7 +886,7 @@
       "summary": "Flaga narodowa Anglii, biały sztandar z odważnym czerwonym krzyżem, była wywieszana przez kibiców piłki nożnej podczas Mistrzostw Świata. Wywołało to jednak napięcie co do tego, kogo i co ma reprezentować."
     },
     {
-      "title": "Stany Zjednoczone, Kanada i Meksyk rozpoczynają trudne negocjacje w sprawie odnowienia północnoamerykańskiego paktu handlowego – AP News",
+      "title": "USA, Kanada i Meksyk rozpoczynają trudne negocjacje w sprawie odnowienia północnoamerykańskiego paktu handlowego – AP News",
       "url": "https://apnews.com/article/usmca-mexico-canada-trade-nafta-4531f12f1a59cb2b2e20bcdbdd9d47b5",
       "date": "2026-07-01T21:11:00Z",
       "source": "Associated Press",
@@ -907,7 +907,7 @@
       "date": "2026-07-01T20:14:10Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Gujana, mały, bogaty w ropę, anglojęzyczny kraj Ameryki Południowej, stała się celem Kubańczyków uciekających przed rozpaczliwymi warunkami. Pojechaliśmy do stolicy, Georgetown, aby spotkać się z rodzinami imigrantów i dowiedzieć się więcej o życiu, które pozostawiły po sobie."
+      "summary": "Gujana, mały, bogaty w ropę, anglojęzyczny kraj Ameryki Południowej, stała się celem Kubańczyków uciekających przed rozpaczliwymi warunkami. Pojechaliśmy do stolicy, Georgetown, aby spotkać się z rodzinami imigrantów i dowiedzieć się więcej o życiu, które pozostawiły."
     },
     {
       "title": "Producenci jaj zapłacą 3,3 mln dolarów i przekażą 53 mln jaj na uregulowanie roszczeń związanych ze zmową cenową – AP News",
@@ -947,7 +947,7 @@
       "date": "2026-07-01T15:34:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Z dokumentów Trumpa wynika, że ​​w zeszłym roku zarobił około 1,2 miliarda dolarów od firm zajmujących się kryptowalutami. AP News."
+      "summary": "Z dokumentów Trumpa wynika, że ​​w zeszłym roku przyjął około 1,2 miliarda dolarów od firm zajmujących się kryptowalutami. AP News."
     },
     {
       "title": "Ukraińskie ataki dronów na rafinerie ropy naftowej pogrążają Rosję w letnim kryzysie paliwowym – AP News",
@@ -979,7 +979,7 @@
       "date": "2026-06-30T23:38:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Trump ogłasza średnioterminową konwencję Republikanów w Dallas we wrześniu AP News."
+      "summary": "Trump ogłasza średniookresową konwencję Republikanów w Dallas we wrześniu AP News."
     },
     {
       "title": "Republikanin Tom Kean Jr. ujawnia diagnozę depresji po czteromiesięcznej nieobecności w Kongresie – AP News",
@@ -1007,6 +1007,14 @@
     }
   ],
   "technology": [
+    {
+      "title": "Fani Yellowstone zszokowani. Gwiazda serialu miała zniknąć dużo wcześniej!",
+      "url": "https://antyweb.pl/fani-yellowstone-zszokowani-gwiazda-serialu-miala-zniknac-duzo-wczesniej",
+      "date": "2026-07-02T07:30:26Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Wczesne odejście Kevina Costnera z serialu było planowe. Przynajmniej tak wynika z wypowiedzi twórcy Yellowstone."
+    },
     {
       "title": "Droga Mleczna: zewnętrzne ramiona mogą być dalej o 10 proc.",
       "url": "https://www.benchmark.pl/droga-mleczna-zewnetrzne-ramiona-moga-byc-dalej-o-10-proc-7302941290867104a",
@@ -1189,7 +1197,7 @@
       "date": "2026-07-02T05:10:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Financial Times: Z projektu propozycji UE z 30 czerwca wynika, że ​​po intensywnym lobbingu grup technologicznych &mdash; Z projektu wynika, że ​​dotychczasowe propozycje dotyczące rygorystycznych przepisów dotyczących certyfikatów energii odnawialnej zostały odrzucone w wyniku intensywnego lobbingu."
+      "summary": "Financial Times: Z projektu propozycji UE z 30 czerwca wynika, że ​​po intensywnym lobbingu grup technologicznych &mdash; Projekt pokazuje, że dotychczasowe propozycje dotyczące rygorystycznych przepisów dotyczących certyfikatów energii odnawialnej zostały odrzucone w wyniku intensywnego lobbowania."
     },
     {
       "title": "1,7 mln satelitów nad Ziemią? Astronomowie ostrzegają przed skutkami",
@@ -1304,12 +1312,12 @@
       "summary": "Optymalny stosunek 10-15 gramów larw na gram próbki minimalizuje czas czyszczenia bez uszkodzenia kości."
     },
     {
-      "title": "Sony tego samego dnia ogłasza koniec płyt PlayStation, części sklepu cyfrowego",
+      "title": "Sony ogłasza koniec płyt PlayStation, części sklepu cyfrowego, tego samego dnia",
       "url": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
       "date": "2026-07-01T18:41:49Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "„Nie będziemy mieć nic na własność. To naprawdę smutne”."
+      "summary": "„Niczego nie będziemy posiadać. To naprawdę smutne”."
     },
     {
       "title": "Mały, dobry pojazd elektryczny, którego wkrótce nie będziesz mógł kupić: Volvo EX30 Cross Country",
@@ -1398,14 +1406,6 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Czarna chmura na horyzoncie, nagły błysk i... ciemność w salonie. Jeden bliski strzał pioruna wystarczy, by drogi sprzęt zamienił się w bezużyteczny elektrośmieć."
-    },
-    {
-      "title": "Nadchodzi burza? Odłącz ten sprzęt - wielu o tym zapomina",
-      "url": "https://www.benchmark.pl/nadchodzi-burza-odlacz-ten-sprzet-wielu-o-tym-zapomina-7302719565449472a",
-      "date": "2026-07-01T07:39:52Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Gdy nadciąga burza, większość osób zamyka okna i unika wychodzenia z domu. Niewielu jednak pamięta, że zagrożenie dla sprzętu elektronicznego może kryć się tuż obok – w zwykłym routerze podłączonym do gniazdka."
     }
   ],
   "cybersecurity": [
@@ -1495,7 +1495,7 @@
       "date": "2026-07-01T19:57:48Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "„Oryginalną, niekompletną próbkę DeepSeek można przekształcić w w pełni funkcjonalny atak przy minimalnym wysiłku” – mówi badacz z Check Point w rozmowie z The Reg."
+      "summary": "„Oryginalną, niekompletną próbkę DeepSeek można przekształcić w w pełni funkcjonalny atak przy minimalnym wysiłku” – mówi badacz z Check Point The Reg."
     },
     {
       "title": "Nienaprawiona usterka serwera repozytorium CD Argo może pozwolić atakującym przejąć klastry Kubernetes",
@@ -1527,7 +1527,7 @@
       "date": "2026-07-01T18:13:21Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Pokuty dla stron internetowych za nieprzekierowanie ruchu nie wystarczą."
+      "summary": "Pokuty dla stron internetowych za nieprzekazywanie ruchu nie wystarczą."
     },
     {
       "title": "Ekran nadużyć w witrynach z oprogramowaniem zatrutym SEOPołącz się, aby wdrożyć AsyncRAT",
@@ -1586,7 +1586,7 @@
       "summary": "Firma Adobe udostępniła poprawki dla wielu luk w zabezpieczeniach o maksymalnym poziomie istotności, wpływających na programy Adobe ColdFusion i Adobe Campaign Classic. Aktualizacje ColdFusion „usuwają krytyczne i ważne luki w zabezpieczeniach, które mogą prowadzić do wykonania dowolnego kodu, eskalacji uprawnień, dowolnego odczytu systemu plików i obejścia funkcji zabezpieczeń” – oznajmiła firma Adobe w opublikowanym we wtorek alercie. Luki są wymienione."
     },
     {
-      "title": "Gdy kopie zapasowe nie wystarczą: przypadek prawdziwego odzyskiwania po awarii",
+      "title": "Kiedy kopie zapasowe nie wystarczą: przypadek prawdziwego odzyskiwania po awarii",
       "url": "https://www.theregister.com/storage/2026/07/01/when-backups-arent-enough-the-case-for-real-disaster-recovery/5264668",
       "date": "2026-07-01T15:00:00Z",
       "source": "The Register",
@@ -1594,7 +1594,7 @@
       "summary": "ZAWARTOŚĆ PARTNERÓW: Różnica między posiadaniem kopii zapasowej a faktycznym odzyskiwaniem danych po awarii jest większa, niż zdaje sobie sprawę większość zespołów IT."
     },
     {
-      "title": "Krytyczne wady kursora mogą spowodować, że polecenie szybkiego wstrzyknięcia opuści piaskownicę i uruchomi polecenia",
+      "title": "Krytyczne błędy kursora mogą spowodować, że polecenie szybkiego wstrzyknięcia opuści piaskownicę i uruchomi polecenia",
       "url": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
       "date": "2026-07-01T14:42:54Z",
       "source": "The Hacker News",
@@ -1703,7 +1703,7 @@
       "date": "2026-07-01T07:20:51Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Duże modele językowe wciąż wymyślają adresy internetowe, które nie istnieją. Atakujący zaczęli kupować te wymyślone domeny, zanim zrobi to ktokolwiek inny, a następnie hostować na nich strony phishingowe, aby przechwycić ruch kierowany przez narzędzia AI. Jednostka 42 w Palo Alto Networks nazywa tę sztuczkę fantomowym kucaniem, a nowe badania pokazują, że zdarza się to już na wolności."
+      "summary": "Duże modele językowe ciągle wymyślają adresy internetowe, które nie istnieją. Atakujący zaczęli kupować te wymyślone domeny, zanim zrobi to ktokolwiek inny, a następnie hostować na nich strony phishingowe, aby przechwycić ruch kierowany przez narzędzia AI. Jednostka 42 w Palo Alto Networks nazywa tę sztuczkę fantomowym kucaniem, a nowe badania pokazują, że zdarza się to już na wolności."
     },
     {
       "title": "Anthropic przywraca Claude Fable 5 po zniesieniu przez USA kontroli eksportu związanych z jailbreakiem",
@@ -2164,6 +2164,14 @@
       "summary": "Lichthund i Team17 rozwiązują umowę wydawniczą dotyczącą Rockbeasts BiznesRadar."
     },
     {
+      "title": "List do akcjonariuszy Grupy Betacom 2025/2026 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/148984,list-do-akcjonariuszy-grupy-betacom-2025-2026",
+      "date": "2026-07-01T07:41:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "List do akcjonariuszy Grupy Betacom 2025/2026 BiznesRadar."
+    },
+    {
       "title": "KGHM zwiększy skalę produkcji w Chile - BiznesRadar",
       "url": "https://www.biznesradar.pl/a/148978,kghm-zwiekszy-skale-produkcji-w-chile",
       "date": "2026-07-01T07:19:00Z",
@@ -2178,14 +2186,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "cyber_Folks zawiera porozumienie z założycielami Vercom BiznesRadar."
-    },
-    {
-      "title": "Pakiet Biznesradar MAX + biała edycja Rachunkowości inwestycyjnej - BiznesRadar",
-      "url": "https://www.biznesradar.pl/premium/pakiet",
-      "date": "2026-07-01T05:16:07Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Pakiet Biznesradar MAX + biała edycja Rachunkowości inwestycyjnej BiznesRadar."
     },
     {
       "title": "Jak przygotować zakład produkcyjny na wdrożenie zaawansowanego CAM",
@@ -2217,7 +2217,7 @@
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Według ministerstwa zdrowia kierowanego przez Hamas w Gazie około 300 Palestyńczyków skierowanych na leczenie za granicą zginęło od rozpoczęcia zawieszenia broni.",
+      "description": "Według ministerstwa zdrowia kierowanego przez Hamas w Gazie około 300 Palestyńczyków skierowanych na leczenie za granicą zmarło od rozpoczęcia zawieszenia broni.",
       "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -2273,7 +2273,7 @@
       "lng": -67.09,
       "type": "disaster",
       "region": "Wenezuela",
-      "description": "W miarę jak rośnie liczba ofiar śmiertelnych, tysiące ciał przeciążyło system kryminalistyczny Wenezueli, zamieniając port morski w tymczasową kostnicę.",
+      "description": "W miarę wzrostu liczby ofiar śmiertelnych tysiące ciał przeciążyło system kryminalistyczny Wenezueli, zamieniając port morski w tymczasową kostnicę.",
       "url": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-bodies-morgues.html"
     },
     {
@@ -2315,14 +2315,6 @@
       "region": "Afganistan",
       "description": "Armia pakistańska twierdzi, że zestrzeliła cztery podstawowe drony i odpowie na każdą kolejną prowokację.",
       "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "lat": 46.300000000000004,
-      "lng": 2.5,
-      "type": "critical",
-      "region": "Francja",
-      "description": "Pozostaje pytanie, dlaczego ktoś miałby chcieć zabić Wadyma Iermołajewa, którego osobisty majątek wynosi 225 mln dolarów w Monako, w szoku po tym, jak bomba paczkowa raniła urodzonego na Ukrainie lidera biznesu.",
-      "url": "https://www.theguardian.com/world/2026/jun/30/vadym-iermolaiev-ukrainian-born-oligarch-monaco-bomber"
     },
     {
       "lat": 43.440000000000005,
@@ -2503,6 +2495,27 @@
   ],
   "instability": [
     {
+      "name": "Ukraina",
+      "score": 100,
+      "reasons": [
+        {
+          "title": "Ukraina przenosi wojnę do Rosji",
+          "url": "https://www.nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Zmasowany atak Rosji na Ukrainę. Co najmniej 10 ofiar śmiertelnych",
+          "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32890475,zmasowany-atak-rosji-na-ukraine-polska-poderwala-mysliwce.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+          "source": "Gazeta Wyborcza"
+        },
+        {
+          "title": "Polskie myśliwce poderwane po atakach Rosji na Ukrainę. Wojsko wydało komunikaty",
+          "url": "https://www.polsatnews.pl/wiadomosc/2026-07-02/polskie-mysliwce-poderwane-po-atakach-rosji-na-ukraine-wojsko-wydalo-komunikaty/",
+          "source": "Polsat News"
+        }
+      ]
+    },
+    {
       "name": "Wenezuela",
       "score": 100,
       "reasons": [
@@ -2520,27 +2533,6 @@
           "title": "Ciotka wenezuelskiego chłopca wyciągniętego z gruzów mówi BBC, że zapewni mu „matczyne ciepło”",
           "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News"
-        }
-      ]
-    },
-    {
-      "name": "Ukraina",
-      "score": 73,
-      "reasons": [
-        {
-          "title": "Ukraina przenosi wojnę do Rosji",
-          "url": "https://www.nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Zmasowany atak Rosji na Ukrainę. Co najmniej 10 ofiar śmiertelnych",
-          "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32890475,zmasowany-atak-rosji-na-ukraine-polska-poderwala-mysliwce.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-          "source": "Gazeta Wyborcza"
-        },
-        {
-          "title": "Polskie myśliwce poderwane po atakach Rosji na Ukrainę. Wojsko wydało komunikaty",
-          "url": "https://www.polsatnews.pl/wiadomosc/2026-07-02/polskie-mysliwce-poderwane-po-atakach-rosji-na-ukraine-wojsko-wydalo-komunikaty/",
-          "source": "Polsat News"
         }
       ]
     }
@@ -2750,51 +2742,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25683.11,
+      25691.02,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26847.93,
+      26856.2,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26994.94,
+      27003.25,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27239.98,
+      27248.37,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27875.99,
+      27884.57,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27912.04,
+      27920.64,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28156.82,
+      28165.49,
       27354.94,
       27400.36,
       27412.11,
-      28558.41,
+      28567.2,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27818.76,
+      27827.32,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27998.55,
+      28007.17,
       27686.17,
       27404.78,
       27351.97,
@@ -2803,10 +2795,10 @@
       27661.43,
       27749.69,
       27709.26,
-      27706.79,
+      27715.32,
       27930.04,
       28234.04,
-      28193.59
+      28202.27
     ],
     "currency": "PLN"
   }
