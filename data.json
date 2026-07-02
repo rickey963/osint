@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-02T11:41:50Z",
+  "last_updated": "2026-07-02T11:52:42Z",
   "poland": [
+    {
+      "title": "Odyseusz dostępny już w aplikacji mObywatel",
+      "url": "https://turystyka.rp.pl/zanim-wyjedziesz/art44759861-odyseusz-dostepny-juz-w-aplikacji-mobywatel",
+      "date": "2026-07-02T11:36:35Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Podróż za granicę turysta może teraz zgłosić bezpośrednio w mObywatelu. Usługa Odyseusz, udostępniona w tej aplikacji umożliwia rejestrowanie wyjazdu i zapewnia dostęp do informacji o zasadach wjazdu, lokalnych zagrożeniach i zaleceniach dla podróżnych w wybranych krajach."
+    },
     {
       "title": "Wielka debata o przyszłości public relations. Zakończyła się pierwsza edycja Warsaw PR Summit",
       "url": "https://businessinsider.com.pl/media/reklama/warsaw-pr-summit-przyszlosc-pr-etyka-i-walka-z-manipulacja-w-erze-ai/fnyccs8",
@@ -72,6 +80,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Na profilu Donalda Trumpa w serwisie Truth Social pojawiło się przygotowane przy użyciu sztucznej inteligencji nagranie, na którym Donald Trump występuje w roli lekarza leczącego celebrytów z tzw. Trump Derangement Syndrome, czyli pseudojednostki chorobowej, której nazwę można przetłumaczyć jako Syndrom Obsesji na Punkcie Trumpa."
+    },
+    {
+      "title": "Marek Kutarba: Wołodymyr Zełenski chciałby zająć miejsce Donalda Tuska na europejskich salonach",
+      "url": "https://www.rp.pl/komentarze/art44729751-marek-kutarba-wolodymyr-zelenski-chcialby-zajac-miejsce-donalda-tuska-na-europejskich-salonach",
+      "date": "2026-07-02T11:03:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Prezydentowi Ukrainy Wołodymyrowi Zełenskiemu w sporze z Polską nie chodzi o historię. Wykorzystuje on ją walcząc o przejęcie wpływów, jakie Polska ma w naszej części Europy."
     },
     {
       "title": "Paliwowy armagedon w Rosji. Kombajny wjeżdżają na stacje. Putin boi się buntu wsi",
@@ -152,22 +168,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Rozbudowa infrastruktury paliwowej NATO na wschodnią flankę oraz polskie starania o stałą bazę wojsk USA były głównymi tematami rozmów podczas środowego spotkania szefa MON z prezydentem RP. Władysław Kosiniak-Kamysz ujawnił kulisy przygotowań do szczytu Sojuszu w Ankarze."
-    },
-    {
-      "title": "Sondaż CBOS: rosną notowania Karola Nawrockiego, pogarszają się oceny Sejmu",
-      "url": "https://www.rp.pl/polityka/art44759291-sondaz-cbos-rosna-notowania-karola-nawrockiego-pogarszaja-sie-oceny-sejmu",
-      "date": "2026-07-02T10:30:03Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Najnowszy sondaż CBOS pokazuje wyraźne rozbieżności w ocenach najważniejszych instytucji państwa. Zyskał prezydent Karol Nawrocki, podczas gdy notowania Sejmu i Senatu wyraźnie się pogorszyły."
-    },
-    {
-      "title": "SN uchylił zarządzenie Żurka o odsunięciu Piebiaka od czynności służbowych",
-      "url": "https://www.rp.pl/sady-i-trybunaly/art44759271-sn-uchylil-zarzadzenie-zurka-o-odsunieciu-piebiaka-od-czynnosci-sluzbowych",
-      "date": "2026-07-02T10:21:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Sąd Najwyższy uchylił w czwartek zarządzenie ministra sprawiedliwości Waldemara Żurka o natychmiastowym odsunięciu zasiadającego w KRS sędziego Łukasza Piebiaka od czynności służbowych ze względu na brak „uzasadnionych podstaw”."
     },
     {
       "title": "Prawdziwe bezrobocie w górę tylko w kilku krajach Europy. Polska jednym z nich",
@@ -404,12 +404,28 @@
   ],
   "world_security": [
     {
-      "title": "W „najbardziej masowym” rosyjskim ataku na Kijów zginęło co najmniej 18 osób",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-02T11:11:52Z",
-      "source": "BBC News",
+      "title": "Co najmniej 18 osób zginęło w wyniku masowego ataku dronów i rakiet na Kijów",
+      "url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
+      "date": "2026-07-02T11:29:49Z",
+      "source": "The Guardian",
       "confirmed_by": 2,
-      "summary": "Burmistrz Kijowa ogłasza dzień żałoby po poważnym ataku dronów i rakiet na stolicę Ukrainy."
+      "summary": "Stolica Ukrainy celem, ponieważ Rosja boryka się z niedoborami paliwa w następstwie dalekosiężnych ataków na rafinerie ropy naftowej. Europa na żywo – najnowsze aktualizacje Co najmniej 18 osób zginęło, a dziesiątki zostało rannych w nocy w Kijowie, podały lokalne władze, gdy Rosja przeprowadziła swój ostatni zmasowany atak dronami i rakietami na stolicę Ukrainy. O świcie w czwartek w wielu miejscach stolicy wybuchły pożary, a strajki lub gruz uderzyły w budynki mieszkalne w kilku dzielnicach oraz hotel przy jednym z centralnych bulwarów Kijowa. Liczba ofiar śmiertelnych może wzrosnąć, ponieważ lokalne służby ratunkowe podały, że 86 osób zostało rannych, z czego 70 trafiło do szpitala. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Do 17 wzrosła liczba ofiar ataków w Kijowie, po tym jak Rosja ostrzega, że ​​„w dalszym ciągu będzie zwiększać presję” na ukraińską stolicę – Europa na żywo",
+      "url": "https://www.theguardian.com/world/live/2026/jul/02/russia-strikes-ukraine-war-kyiv-volodymyr-zelenskyy-europe-latest-news-updates",
+      "date": "2026-07-02T11:28:04Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Zniszczenia odnotowane w 30 lokalizacjach w całym mieście w wyniku nocnych ataków, przy czym „większość to zwykłe budynki mieszkalne” w Dublinie Wołodymyr Zełenski powiedział, że ma nadzieję nie czekać zbyt długo na wyniki śledztwa irlandzkiego rządu w sprawie eksportu tlenku glinu do Rosji, który uważa się za zasilanie machiny wojennej Kremla. „Niestety w Europie istnieją firmy, które są własnością Rosji i jej sankcjonowanych oligarchów lub są przez nią skutecznie kontrolowane. Nawet teraz dostarczają agresorowi niezbędne materiały”. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Kontrakty terminowe na Wall St mieszane w miarę oczekiwania inwestorów na dane o płacach – Reuters",
+      "url": "https://www.reuters.com/business/wall-st-futures-muted-investors-await-payrolls-data-2026-07-02/",
+      "date": "2026-07-02T11:03:57Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Kontrakty terminowe na Wall St mieszane w miarę oczekiwania inwestorów na dane o płacach Reuters."
     },
     {
       "title": "Indie i Japonia podpisują pakty w sprawie sztucznej inteligencji, metali i energii po rozmowach Modi-Takaichi Nowości",
@@ -436,14 +452,6 @@
       "summary": "Pod ostrzałem niemiecka koalicja rządząca przedstawia pakiet reform mających pobudzić gospodarkę Reuters."
     },
     {
-      "title": "Do 17 wzrosła liczba ofiar ataków w Kijowie, po tym jak Rosja ostrzega, że ​​„w dalszym ciągu będzie zwiększać presję” na ukraińską stolicę – Europa na żywo",
-      "url": "https://www.theguardian.com/world/live/2026/jul/02/russia-strikes-ukraine-war-kyiv-volodymyr-zelenskyy-europe-latest-news-updates",
-      "date": "2026-07-02T10:51:25Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Zniszczenia odnotowane w 30 lokalizacjach w całym mieście w wyniku nocnych ataków, przy czym „większość to zwykłe budynki mieszkalne” w Dublinie Wołodymyr Zełenski powiedział, że ma nadzieję nie czekać zbyt długo na wyniki śledztwa irlandzkiego rządu w sprawie eksportu tlenku glinu do Rosji, który uważa się za zasilanie machiny wojennej Kremla. „Niestety w Europie istnieją firmy, które są własnością Rosji i jej sankcjonowanych oligarchów lub są przez nią skutecznie kontrolowane. Nawet teraz dostarczają agresorowi niezbędne materiały”. Kontynuuj czytanie..."
-    },
-    {
       "title": "Google przegrywa walkę z rekordową unijną karą antymonopolową w wysokości 4,1 miliarda euro – Reuters",
       "url": "https://www.reuters.com/world/eu-top-court-dismisses-google-fight-against-record-41-billion-eu-antitrust-fine-2026-07-02/",
       "date": "2026-07-02T10:46:04Z",
@@ -460,12 +468,20 @@
       "summary": "Schizma spowodowana przez Bractwo św. Piusa X, które wyświęcało czterech biskupów bez zgody, oznacza pierwszy kryzys dla papieża Leona. Europa na żywo – najnowsze aktualizacje Watykan ekskomunikował grupę rebeliantów ultrakonserwatywnych katolików, którzy przeciwstawili się papieżowi Leonowi, wyświęcając biskupów bez jego zgody, wywołując schizmę w kościele rzymskokatolickim. W czwartkowym oświadczeniu kardynał Víctor Manuel Fernández, który stoi na czele Dykasterii Stolicy Apostolskiej ds. Doktryny Stolicy Apostolskiej Faith, stwierdziła, że grupa z Bractwa Św. Piusa X (SSPX), założonego w szwajcarskiej wiosce Ecône w 1970 r., „dopuściła się aktu o charakterze schizmatyckim”, który zgodnie z prawem kanonicznym grozi automatyczną ekskomuniką. Kontynuuj czytanie..."
     },
     {
-      "title": "Skrajnie prawicowy burmistrz Francji wywołuje oburzenie po tym, jak zabronił wystawiania sztuki o imigrantach",
+      "title": "Skrajnie prawicowy burmistrz Francji wywołuje oburzenie po odwołaniu spektaklu o imigrantach",
       "url": "https://www.theguardian.com/world/2026/jul/02/far-right-french-mayor-florian-azema-bans-staging-of-passeport-play-about-migrant",
       "date": "2026-07-02T10:28:07Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Dramaturg twierdzi, że decyzja jest ostrzeżeniem przed tym, co może się wydarzyć, jeśli krajem rządzi Rajd Narodowy w obliczu oskarżeń o cenzurę kulturową. W anglo-francuskiej sztuce dramaturga Alexisa Michalika Passeport młody mężczyzna został pobity i pozostawiony na śmierć w okrytym złą sławą obozie dla uchodźców w Calais, znanym jako „Dżungla”. Kiedy się budzi, nie ma pojęcia, kim jest – a jego jedynym posiadaniem jest niebieski erytrejski paszport z imieniem Issa. Wraz z dwoma innymi osobami z obozu postanawia wyjechać, nie udając się na niebezpieczną przeprawę przez kanał La Manche do Wielkiej Brytanii, ale zamiast tego spróbować zintegrować się z Francją i zdobyć niezbędne dokumenty, aby pozostać. Kontynuuj czytanie..."
+      "summary": "Pisarz twierdzi, że „Trumpowa” decyzja o zakazie inscenizacji jest ostrzeżeniem przed tym, co może się stać, jeśli krajem rządzi Rajd Narodowy. W anglo-francuskiej sztuce dramaturga Alexisa Michalika Passeport młody mężczyzna został pobity i pozostawiony na śmierć w okrytym złą sławą obozie dla uchodźców w Calais, znanym jako „Dżungla”. Kiedy się budzi, nie ma pojęcia, kim jest – a jego jedynym posiadaniem jest niebieski erytrejski paszport z imieniem Issa. Wraz z dwoma innymi osobami z obozu postanawia wyjechać, nie udając się na niebezpieczną przeprawę przez kanał La Manche do Wielkiej Brytanii, ale zamiast tego spróbować zintegrować się z Francją i zdobyć niezbędne dokumenty, aby pozostać. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Rosyjska frustracja paliwowa rośnie wraz z nadejściem kryzysu – Reuters",
+      "url": "https://www.reuters.com/business/energy/russian-frustration-rises-fuel-crisis-bites-2026-07-02/",
+      "date": "2026-07-02T10:26:11Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Rosyjska frustracja paliwowa rośnie w miarę jak kryzys dotyka Reutersa."
     },
     {
       "title": "Pekin zidentyfikował pilota, który zginął w wypadku w najwyższym budynku w mieście – Reuters",
@@ -562,22 +578,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Badacze twierdzą, że Moskwa działała „znacznie bezkarnie” w 144 incydentach, w tym nad RAF Lakenheath. Kreml zorganizował w ciągu 18 miesięcy skoordynowaną kampanię inwigilacyjną z wykorzystaniem dronów wystrzeliwanych ze statków floty cieni, której celem były obiekty nuklearne w Wielkiej Brytanii, Francji, Belgii i Holandii. Z analizy Międzynarodowego Instytutu Studiów Strategicznych (IISS) obejmującej 144 incydenty w kilkunastu krajach, która rozpoczęła się pod koniec 2024 r., wynika, że rosyjski wywiad działały „zdecydowanie bezkarnie”, pozostawiając władze w całej Europie znieruchomiałe i zdezorientowane. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Japoński jen skacze, a inwestorzy niepokoją się ryzykiem interwencji – Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/japans-yen-jumps-with-traders-twitchy-about-intervention-risk-2026-07-02/",
-      "date": "2026-07-02T08:21:43Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Japoński jen skacze, a inwestorzy niepokoją się o ryzyko interwencji Reuters."
-    },
-    {
-      "title": "IHC ze Zjednoczonych Emiratów Arabskich i Adani planują projekt aluminiowy o wartości 11,5 miliarda dolarów w indyjskiej Odisha – Reuters",
-      "url": "https://www.reuters.com/world/india/uaes-ihc-adani-group-plan-115-billion-aluminium-investment-indias-odisha-2026-07-02/",
-      "date": "2026-07-02T08:04:39Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "IHC ze Zjednoczonych Emiratów Arabskich, Adani, planuje projekt aluminiowy o wartości 11,5 miliarda dolarów w indyjskiej Odisha Reuters."
     },
     {
       "title": "Albanese niszczy przemówienie Taylora na Midwinter Ball – tak się złożyło",
@@ -740,6 +740,14 @@
       "summary": "Chizi, jeden z największych chińskich komików stand-upowych, znalazł nowy etap po tym, jak popadł w konflikt z chińskimi cenzorami."
     },
     {
+      "title": "Cztery osoby zginęły podczas obchodów Pucharu Świata w Meksyku",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-01T20:15:59Z",
+      "source": "BBC News",
+      "confirmed_by": 2,
+      "summary": "We wtorek ponad milion ludzi wyszło na ulice stolicy Meksyku, aby uczcić zwycięstwo kraju nad Ekwadorem."
+    },
+    {
       "title": "Trump odmawia odnowienia paktu handlowego między USA, Kanadą i Meksykiem, którego kiedyś bronił",
       "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
       "date": "2026-07-01T20:09:01Z",
@@ -754,14 +762,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Kraj, który dołączył do konkursu jako pierwszy od Australii w 2015 r., jak twierdzi dyrektor wydarzenia, „nadal wita świat”. Kanada dołączy do konkursu piosenki Eurowizji w 2027 r., stając się pierwszym nowym uczestnikiem od Australii w 2015 r., ogłosili organizatorzy. Uczestnictwo nie ogranicza się do krajów w Europie geograficznej i jest otwarte dla wszystkich członków Europejskiej Unii Nadawców (EBU), do której Kanada dołączyła w zeszłym tygodniu. Australia jest członkiem stowarzyszonym. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Josh Burns twierdzi, że partner Georgie Purcell spotyka się z antysemickimi nadużyciami, ponieważ jest Żydem – słyszy komisja",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/30/georgie-purcell-antisemitic-misogynistic-abuse-jewish-partner-commission-ntwnfb",
-      "date": "2026-07-01T15:20:44Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Królewska Komisja ds. Antysemityzmu i Spójności Społecznej słyszy, jak świadkowie są ofiarami mowy nienawiści wzmocnionej przez mizoginię. Otrzymaj nasz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Z dochodzenia wynika, że świadkowie królewskiej komisji antysemityzmu kierują się groźbami nadużyć, a poseł Partii Pracy stwierdził, że ataki na jego partnera wzmogły się, ponieważ były przepełnione mizoginią. Tymczasem analiza danych pokazała, jak szybko raporty oparte na faktach przekształcają się w teorie spiskowe w Internecie i że chociaż po ataku terrorystycznym w Bondi nastąpił gwałtowny wzrost antysemityzmu, nastąpił „ogromny wzrost” nienawiści wobec muzułmanów. Kontynuuj czytanie..."
     }
   ],
   "world_politics": [
@@ -918,6 +918,14 @@
       "summary": "Były dyrektor CIA John Brennan ubiega się o nakaz sądowy nakazujący zachowanie dokumentacji z dochodzeń AP News."
     },
     {
+      "title": "USA i Iran spotykają się w Katarze oddzielnie i zgadzają się na kontynuowanie rozmów – AP News",
+      "url": "https://apnews.com/article/iran-us-war-strait-of-hormuz-july-1-2026-de0729197bc7b9d3ee9e543d94c18fbe",
+      "date": "2026-07-01T21:37:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "USA i Iran spotykają się w Katarze oddzielnie i zgadzają się na kontynuowanie rozmów AP News."
+    },
+    {
       "title": "USA, Kanada i Meksyk rozpoczynają trudne negocjacje w sprawie odnowienia północnoamerykańskiego paktu handlowego – AP News",
       "url": "https://apnews.com/article/usmca-mexico-canada-trade-nafta-4531f12f1a59cb2b2e20bcdbdd9d47b5",
       "date": "2026-07-01T21:11:00Z",
@@ -996,17 +1004,33 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Republikanin Tom Kean Jr. ujawnia diagnozę depresji po czteromiesięcznej nieobecności w Congress AP News."
-    },
-    {
-      "title": "Sąd Najwyższy rozważy, czy przepisy zwane zakazami broni szturmowej naruszają Drugą Poprawkę – AP News",
-      "url": "https://apnews.com/article/supreme-court-assault-weapons-ban-ar15-a362863265ba8630e71068fe5b75bb8e",
-      "date": "2026-06-30T19:35:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Sąd Najwyższy rozważy, czy przepisy zwane zakazami broni szturmowej naruszają Drugą Poprawkę AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Wyjeżdżasz, odpal mObywatela. Zadbasz o swoje bezpieczeństwo",
+      "url": "https://spidersweb.pl/2026/07/mobywatel-nowosc-podroze-odyseusz.html",
+      "date": "2026-07-02T11:34:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Wyjeżdżasz, odpal mObywatela. Zadbasz o swoje bezpieczeństwo."
+    },
+    {
+      "title": "Zakupy z Chin już nie będą tak tanie. UE wprowadza nowe cło",
+      "url": "https://www.benchmark.pl/zakupy-z-chin-juz-nie-beda-tak-tanie-ue-wprowadza-nowe-clo-7303061661903200a",
+      "date": "2026-07-02T11:34:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Zakupy za symboliczne kwoty na AliExpress, Temu i podobnych platformach przestają być tak opłacalne jak dotąd. Od 1 lipca 2026 r. w Unii Europejskiej zaczęły obowiązywać nowe reguły dla drobnych przesyłek z krajów spoza UE, co w praktyce może podnieść ceny dla milionów klientów."
+    },
+    {
+      "title": "Wyjeżdżasz na wakacje? mObywatel pomoże zadbać o bezpieczeństwo",
+      "url": "https://www.instalki.pl/news/software/mobywatel-odyseusz-nowa-funkcja/",
+      "date": "2026-07-02T11:33:08Z",
+      "source": "Instalki.pl",
+      "confirmed_by": 1,
+      "summary": "mObywatel wzbogacił się o nową funkcję, która przyda się podczas wakacyjnych wyjazdów. Warto o niej wiedzieć. Artykuł Wyjeżdżasz na wakacje?"
+    },
     {
       "title": "Z.ai uruchamia ZCode, „Agentyczne środowisko programistyczne” zoptymalizowane dla nowego modelu GLM-5.2; Plan kodowania GLM firmy Z.ai kosztuje od 16,20 do 144 dolarów miesięcznie (Michael Nuñez/VentureBeat)",
       "url": "https://www.techmeme.com/260702/p19#a260702p19",
@@ -1192,14 +1216,6 @@
       "summary": "Globalny przemysł elektroniki ma dziś problem, którego nie widać ani na sklepowej półce, ani w specyfikacji telefonu. A jednak to właśnie on może zdecydować, czy chipy będą powstawać szybciej… czy po prostu drożej. Zaczyna brakować dwutlenku węgla – jednego z kluczowych gazów wykorzystywanych przy produkcji najbardziej zaawansowanych półprzewodników."
     },
     {
-      "title": "Niemiecka firma Quantum Systems, która sprzedaje drony monitorujące używane na Ukrainie, zebrała 1,2 miliarda dolarów, na czele z firmami Blackstone, Noteus, Airbus i Advent, przy wycenie ~8 miliardów dolarów (Yazhou Sun/Bloomberg)",
-      "url": "https://www.techmeme.com/260702/p12#a260702p12",
-      "date": "2026-07-02T09:50:04Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Yazhou Sun / Bloomberg: Niemiecka firma Quantum Systems, która sprzedaje drony monitorujące używane na Ukrainie, zebrała 1,2 miliarda dolarów, na czele z Blackstone, Noteus, Airbus i Advent, przy wycenie ~8 miliardów dolarów &mdash; Quantum Systems zebrało 1,2 miliarda dolarów w rundzie finansowania, co ponad dwukrotnie zwiększa wycenę niemieckiego startupu zajmującego się dronami &hellip;."
-    },
-    {
       "title": "StormWall ma chronić Ziemię przed superburzami słonecznymi",
       "url": "https://www.benchmark.pl/stormwall-ma-chronic-ziemie-przed-superburzami-slonecznymi-7302946559916384a",
       "date": "2026-07-02T09:46:00Z",
@@ -1238,14 +1254,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Zagraniczny wyjazd kojarzy się nam zwykle z relaksem, nowymi miejscami i odcięciem od codzienności, ale gdy coś pójdzie nie tak, szybko okazuje się, jak bardzo potrzebne jest wsparcie państwa."
-    },
-    {
-      "title": "Kup zajęty majątek dłużników. Skarbówka uruchomiła nowy portal",
-      "url": "https://www.instalki.pl/news/internet/kup-zajety-majatek-dluznikow-skarbowka-uruchomila-nowy-portal/",
-      "date": "2026-07-02T08:56:49Z",
-      "source": "Instalki.pl",
-      "confirmed_by": 1,
-      "summary": "Krajowa Administracja Skarbowa (KAS) oficjalnie przenosi licytacje komornicze i przetargi do internetu. 1 lipca 2026 roku Ministerstwo Finansów uruchomiło centralny portal eLicytacje KAS, który gromadzi w jednym miejscu oferty ze wszystkich 366 urzędów skarbowych w Polsce. Koniec z przeszukiwaniem archaicznych i ukrytych stron BIP poszczególnych izb skarbowych."
     },
     {
       "title": "Xbox pójdzie śladem PlayStation? Wszyscy chcą zabić płyty",
@@ -1326,14 +1334,6 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Dane z kosmicznych teleskopów XMM-Newton i Chandra wykorzystano do zbadania poświaty po trzech wyjątkowo jasnych eksplozjach. Analiza ech promieniowania rentgenowskiego wskazuje, że zewnętrzne ramiona spiralne Drogi Mlecznej mogą leżeć nawet o około 10 proc. dalej, niż wynikało z dotychczasowych wyliczeń."
-    },
-    {
-      "title": "Polski GOG wbija szpilkę Sony. Wystarczyło jedno zdanie o cyfrowych grach",
-      "url": "https://www.benchmark.pl/polski-gog-wbija-szpilke-sony-wystarczylo-jedno-zdanie-o-cyfrowych-grach-7303068230101344a",
-      "date": "2026-07-02T07:20:42Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Decyzja Sony o zakończeniu wydawania gier na płytach wywołała lawinę komentarzy wśród graczy. Teraz do dyskusji dołączył GOG, czyli polska platforma dystrybucji gier komputerowych. Firma opublikowała krótki wpis, który wielu odebrało jako subtelną, ale bardzo wymowną odpowiedź na kierunek obrany przez producenta PlayStation."
     },
     {
       "title": "CursorBench 3.1",
@@ -1796,6 +1796,14 @@
   ],
   "finance": [
     {
+      "title": "KNF wszczyna postępowanie przeciwko PKO TU. Ubezpieczycielowi grozi kara",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-wszczela-postepowanie-ws-nalozenia-kary-na-PKO-TU-9162543.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-07-02T11:40:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Komisja Nadzoru Finansowego wszczęła postępowanie w sprawie nałożenia kary na PKO Towarzystwo Ubezpieczeń - poinformowała KNF w komunikacie."
+    },
+    {
       "title": "Światowa Rada Złota: jesteśmy w punkcie zwrotnym. Jeszcze 15 procent w dół, czy powrót do 5000 USD?",
       "url": "https://www.bankier.pl/wiadomosc/Swiatowa-Rada-Zlota-jestesmy-w-punkcie-zwrotnym-Jeszcze-15-procent-w-dol-czy-powrot-do-5000-USD-9162535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-02T11:28:00Z",
@@ -1850,14 +1858,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Polska zamówi nie dwa, a cztery tankowce powietrzne A330 MRTT - zapowiedział w czwartek wicepremier, szef MON Władysław Kosiniak-Kamysz. Chodzi o zamówienie samolotów od europejskiego koncernu Airbus, które ma zostać sfinansowane z mechanizmu SAFE. Polska ma zamówić samoloty razem z Hiszpanią."
-    },
-    {
-      "title": "Włoskie serce nowej elektrowni w Jaworznie. Tauron wyda miliony euro na obronę przed blackoutem",
-      "url": "https://www.bankier.pl/wiadomosc/Tauron-wybral-ANSALDO-Energia-na-dostawce-wyspy-turbinowej-w-projekcie-budowy-jednostki-gazowej-w-Jaworznie-9162501.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-07-02T10:44:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Tauron Wytwarzanie zdecydował o wyborze ANSALDO Energia S.p.A. jako dostawcy wyspy turbinowej dla projektu budowy szczytowej jednostki gazowej klasy 600 MWe w Jaworznie oraz zawarł umowę na jej dostawę wraz z wieloletnią umową serwisową - poinformowała spółka w komunikacie."
     },
     {
       "title": "800 plus dla seniorów w 2026 roku? Zapadła ostateczna decyzja rządu - Forsal.pl",
@@ -2504,9 +2504,9 @@
           "source": "The New York Times"
         },
         {
-          "title": "W „najbardziej masowym” rosyjskim ataku na Kijów zginęło co najmniej 18 osób",
-          "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News"
+          "title": "Co najmniej 18 osób zginęło w wyniku masowego ataku dronów i rakiet na Kijów",
+          "url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
+          "source": "The Guardian"
         }
       ]
     },
@@ -2768,51 +2768,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25617.53,
+      25628.78,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26779.38,
+      26791.13,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26926.01,
+      26937.83,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27170.43,
+      27182.36,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27804.81,
+      27817.02,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27840.77,
+      27853.0,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28084.93,
+      28097.26,
       27354.94,
       27400.36,
       27412.11,
-      28485.49,
+      28497.99,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27747.73,
+      27759.91,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27927.06,
+      27939.32,
       27686.17,
       27404.78,
       27351.97,
@@ -2821,10 +2821,10 @@
       27661.43,
       27749.69,
       27709.26,
-      27636.04,
+      27648.17,
       27930.04,
       28234.04,
-      28121.6
+      28133.95
     ],
     "currency": "PLN"
   }
