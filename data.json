@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T04:11:08Z",
+  "last_updated": "2026-07-03T04:11:46Z",
   "poland": [
     {
       "title": "Kolejna deklaracja USA ws. stałej bazy w Polsce. Trump porównuje Iran do dziecka",
@@ -378,14 +378,6 @@
       "summary": "Kiedy wrócą upały do Polski? Meteorolodzy pokazali nową animację prognozy Polskie Radio 24."
     },
     {
-      "title": "Stop niepotrzebnym amputacjom – badanie profilaktyczne jest proste - Serwis Zdrowie",
-      "url": "https://zdrowie.pap.pl/wywiady/leczenie/stop-niepotrzebnym-amputacjom-sprzet-do-badania-przesiewowego-kosztuje-grosze",
-      "date": "2026-07-02T05:00:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Stop niepotrzebnym amputacjom – badanie profilaktyczne jest proste Serwis Zdrowie."
-    },
-    {
       "title": "Poznań/Polewaczki, beczkowozy z pitną wodą i komunikacja publiczna z klimatyzacją sposobem na upały (wersja poprawiona) - PAP - serwis wideo",
       "url": "https://wideo.pap.pl/pap-media,101/poznanpolewaczki-beczkowozy-z-pitna-woda-i-komunikacja-publiczna-z-klimatyzacja-sposobem-na-upaly-wersja-poprawiona,92995",
       "date": "2026-07-02T00:00:00Z",
@@ -400,6 +392,14 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Kanada dołącza do Eurowizji. Zadebiutuje już w 2027 r. Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "Eksperci Łukasiewicza: możliwy wzrost PKB nawet o 17 proc. w ciągu kilkunastu lat, ale niezbędny jest wzrost nakładów na innowacje - Polska Agencja Prasowa SA",
+      "url": "https://www.pap.pl/mediaroom/eksperci-lukasiewicza-mozliwy-wzrost-pkb-nawet-o-17-proc-w-ciagu-kilkunastu-lat-ale",
+      "date": "2026-07-01T13:27:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Eksperci Łukasiewicza: możliwy wzrost PKB nawet o 17 proc. w ciągu kilkunastu lat, ale niezbędny jest wzrost nakładów na innowacje Polska Agencja Prasowa SA."
     }
   ],
   "world_security": [
@@ -474,6 +474,14 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Hernán Gil został uwięziony pod zawalonym wielopoziomowym parkingiem."
+    },
+    {
+      "title": "Ropa naftowa nieznacznie rośnie przed długim weekendem w USA w związku z utrzymaniem wysiłków pokojowych – Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-up-slightly-ahead-long-us-weekend-peace-efforts-hold-2026-07-03/",
+      "date": "2026-07-03T02:05:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Ropa naftowa nieznacznie rośnie przed długim weekendem w USA, w miarę utrzymywania wysiłków pokojowych Reuters."
     },
     {
       "title": "„Daj mu jakąkolwiek nagrodę, a przybiegnie”: Narendra Modi zdobywa wyróżnienia podczas zagranicznych podróży",
@@ -618,14 +626,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "„Amazon broni” Trumpa Jr. może zarobić miliony na nowych proponowanych przepisach dotyczących broni palnej, Reuters."
-    },
-    {
-      "title": "Ekskomuniki pokazują, że papież Leon nie boi się podejmować zdecydowanych decyzji – Reuters",
-      "url": "https://www.reuters.com/world/excommunications-show-pope-leo-unafraid-making-firm-decisions-2026-07-02/",
-      "date": "2026-07-02T19:28:21Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Ekskomuniki pokazują, że papież Leon nie boi się podejmować zdecydowanych decyzji Reuters."
     },
     {
       "title": "Zabójcy brytyjskiej pary w Republice Południowej Afryki skazani na dożywocie",
@@ -1980,12 +1980,12 @@
       "summary": "Notowania INTSDOW98665 INGBANK BiznesRadar."
     },
     {
-      "title": "Notowania INTSMCR98657 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/INTSMCR98657",
-      "date": "2026-07-02T15:32:13Z",
+      "title": "Notowania INTLCCC98509 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/INTLCCC98509",
+      "date": "2026-07-02T15:32:12Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania INTSMCR98657 INGBANK BiznesRadar."
+      "summary": "Notowania INTLCCC98509 INGBANK BiznesRadar."
     },
     {
       "title": "Grupa Text: Wzrost MRR i ARR w I kwartale 2026/27 - BiznesRadar",
@@ -2579,6 +2579,10 @@
     {
       "sector": "Sektor obronny",
       "instrument": "np. ETF iShares Global Aerospace & Defense (ITA)"
+    },
+    {
+      "sector": "Sektor energetyczny/surowcowy",
+      "instrument": "np. ETF Energy Select Sector (XLE)"
     }
   ],
   "sp500_trend": {
