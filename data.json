@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T08:40:38Z",
+  "last_updated": "2026-07-03T08:45:31Z",
   "poland": [
     {
       "title": "Amerykanie budują polskie zaplecze e-handlu",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "iPhone 18 będzie wybrakowany. Polacy szybciej sięgną po ładowarkę",
+      "url": "https://www.instalki.pl/news/hardware/iphone-18-mniejsza-pojemnosc-baterii-w-polsce/",
+      "date": "2026-07-03T08:40:40Z",
+      "source": "Instalki.pl",
+      "confirmed_by": 1,
+      "summary": "Wygląda na to, że iPhone 18 nadal będzie oferował u nas slot na kartę SIM, co poskutkuje mniejszą pojemnością baterii. Artykuł iPhone 18 będzie wybrakowany. Polacy szybciej sięgną po ładowarkę pochodzi z serwisu INSTALKI."
+    },
+    {
       "title": "Teleskop Webba zagląda w układ FS Tau. Tak rodzą się młode gwiazdy",
       "url": "https://www.benchmark.pl/teleskop-webba-zaglada-w-uklad-fs-tau-tak-rodza-sie-mlode-gwiazdy-7303283872495968a",
       "date": "2026-07-03T08:38:00Z",
@@ -1304,14 +1312,6 @@
       "summary": "Astronomowie opisują SN 2024adtg jako trzecią najjaśniejszą supernową, jaką dotąd zarejestrowano. To wyjątkowo intensywna eksplozja sprzed miliardów lat świetlnych, która może pomóc lepiej odtworzyć warunki panujące we wczesnym Wszechświecie i wyjaśnić, jak kończą życie masywne gwiazdy."
     },
     {
-      "title": "NASA inwestuje prawie 600 mln dol. w misje na Księżyc do 2028 r.",
-      "url": "https://www.benchmark.pl/nasa-inwestuje-prawie-600-mln-dol-w-misje-na-ksiezyc-do-2028-r-7303041242122592a",
-      "date": "2026-07-02T20:30:00Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "NASA zleciła cztery kolejne komercyjne wyprawy na Księżyc, które mają zostać zrealizowane do końca 2028 r. Na ten cel agencja przeznaczyła łącznie niemal 600 mln dol., wybierając trzy firmy z USA, których misje mają przyspieszyć budowę trwałej infrastruktury na powierzchni Srebrnego Globu."
-    },
-    {
       "title": "Nowo odkryty PamStealer nie jest typowym złośliwym oprogramowaniem dla systemu macOS",
       "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
       "date": "2026-07-02T19:38:57Z",
@@ -1424,6 +1424,14 @@
       "source": "The Register",
       "confirmed_by": 1,
       "summary": "Architektura LTAP kryje w sobie sprytną inżynierię pod dyskusyjnym chwytem marketingowym."
+    },
+    {
+      "title": "PamStealer wykorzystuje fałszywe witryny Maccy i czeki PAM do kradzieży haseł logowania do komputerów Mac",
+      "url": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
+      "date": "2026-07-03T08:03:37Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Badacze zajmujący się cyberbezpieczeństwem oznaczyli nowego złodzieja informacji dla systemu macOS o nazwie PamStealer, który wykorzystuje szereg sprytnych sztuczek w celu infekowania systemów i wysysania wrażliwych danych. Złodziej wykryty przez Jamf Threat Labs jest dystrybuowany w postaci skompilowanego pliku AppleScript (.scpt) podszywającego się pod Maccy, legalnego menedżera schowków o otwartym kodzie źródłowym. Ze względu na swoje możliwości otrzymał nazwę kodową PamStealer."
     },
     {
       "title": "Bronią nas przed tysiącami ataków z Rosji. Dziś mają swoje święto",
@@ -1736,14 +1744,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Firma Adobe udostępniła poprawki dla wielu luk w zabezpieczeniach o maksymalnym poziomie istotności, wpływających na programy Adobe ColdFusion i Adobe Campaign Classic. Aktualizacje ColdFusion „usuwają krytyczne i ważne luki w zabezpieczeniach, które mogą prowadzić do wykonania dowolnego kodu, eskalacji uprawnień, dowolnego odczytu systemu plików i obejścia funkcji zabezpieczeń” – oznajmiła firma Adobe w opublikowanym we wtorek alercie. Luki są wymienione."
-    },
-    {
-      "title": "Krytyczne błędy kursora mogą spowodować, że polecenie szybkiego wstrzyknięcia opuści piaskownicę i uruchomi polecenia",
-      "url": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
-      "date": "2026-07-01T14:42:54Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Dwie wady Cursora, edytora kodu AI, mogą pozwolić pojedynczemu, zwyczajnie wyglądającemu monitowi wydostać się z bezpiecznej piaskownicy edytora i uruchomić dowolne polecenie na komputerze programisty. Nie ma kliknięcia, na które można by się nabrać, ani pola akceptacji, które można zignorować. Cato AI Labs znalazło tę parę i nadało jej nazwę DuneSlide."
     },
     {
       "title": "Kontrowersje wokół modeli Anthropic. Jest decyzja władz USA",
@@ -2788,51 +2788,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25506.01,
+      25503.35,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26662.8,
+      26660.02,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26808.79,
+      26806.0,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27052.15,
+      27049.33,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27683.76,
+      27680.88,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27719.57,
+      27716.68,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27962.66,
+      27959.75,
       27354.94,
       27400.36,
       27412.11,
-      28361.48,
+      28358.52,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27626.93,
+      27624.05,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27805.48,
+      27802.58,
       27686.17,
       27404.78,
       27351.97,
@@ -2841,11 +2841,11 @@
       27661.43,
       27749.69,
       27709.26,
-      27515.73,
+      27512.86,
       27930.04,
       28234.04,
       28218.36,
-      27999.22
+      27996.3
     ],
     "currency": "PLN"
   }
