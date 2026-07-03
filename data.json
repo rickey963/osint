@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T22:20:23Z",
+  "last_updated": "2026-07-03T22:25:22Z",
   "poland": [
     {
       "title": "Kurs HUF/PLN 02 lipca 2026 r.",
@@ -620,14 +620,6 @@
       "summary": "Przywódcy NATO, w tym Trump, potwierdzają „żelazne zaangażowanie” w obronę zbiorową w Ankarze, jak czytamy w tekście szczytu."
     },
     {
-      "title": "Komisja Europejska proponuje pięć dużych transgranicznych projektów obronnych – Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/eu-commission-proposes-five-major-cross-border-defence-projects-2026-07-03/",
-      "date": "2026-07-03T14:16:45Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Komisja Europejska proponuje pięć dużych transgranicznych projektów obronnych Reuters."
-    },
-    {
       "title": "Niemcy przeprowadziły pilne rozmowy z chińskim wysłannikiem w sprawie raportu o szkoleniu przez Chiny rosyjskich żołnierzy – Reuters",
       "url": "https://www.reuters.com/world/china/germany-held-urgent-talks-with-chinese-envoy-over-report-china-training-russian-2026-07-03/",
       "date": "2026-07-03T14:16:37Z",
@@ -658,6 +650,14 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Stany Zjednoczone stwierdziły, że wspólna operacja, która rozpoczęła się w grudniu ubiegłego roku, zakończyła się sukcesem."
+    },
+    {
+      "title": "Jak można porównać kryzys irański z szokiem naftowym z 1979 r.? - Reutersa",
+      "url": "https://www.reuters.com/business/energy/us-iran-war-still-trails-1979-oil-shock-by-total-losses-2026-07-03/",
+      "date": "2026-07-03T13:52:45Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Jak można porównać kryzys irański z szokiem naftowym z 1979 r.? Reutera."
     },
     {
       "title": "Stand-up utrzymany w żartach na temat Erdoğana i ataków islamu w Turcji",
@@ -1008,12 +1008,28 @@
   ],
   "technology": [
     {
+      "title": "Spojrzenie na szaleństwo funduszy ilościowych w Chinach, gdzie zarządzane aktywa wzrosły ponad dwukrotnie do ~384 miliardów dolarów w niecały rok w związku z szybkim przyjęciem sztucznej inteligencji (Bloomberg)",
+      "url": "https://www.techmeme.com/260703/p14#a260703p14",
+      "date": "2026-07-03T22:20:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Bloomberg: Spojrzenie na szaleństwo funduszy ilościowych w Chinach, gdzie zarządzane aktywa wzrosły ponad dwukrotnie do ~384 miliardów dolarów w niecały rok w związku z szybkim przyjęciem sztucznej inteligencji &mdash; Fundusze ilościowe w Chinach stały się tak popularne, że zalewają je pieniądze inwestorów. &mdash; Ubiquant, jeden z najlepszych graczy &hellip;."
+    },
+    {
+      "title": "Demoralizacja pracownika umysłowego",
+      "url": "https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/",
+      "date": "2026-07-03T21:53:04Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48780469 Punkty: 3 # Komentarze: 0."
+    },
+    {
       "title": "Do widzenia, prawdopodobnie na zawsze",
       "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
       "date": "2026-07-03T21:42:19Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://whitep4nth3r.com/blog/goodbye-forever-probably/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48780352 Punkty: 6 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://whitep4nth3r.com/blog/goodbye-forever-probably/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48780352 Punkty: 12 # Komentarze: 2."
     },
     {
       "title": "Afrykanie zwracają się do Starlink",
@@ -1021,7 +1037,7 @@
       "date": "2026-07-03T21:08:37Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink Adres URL komentarzy: https://news.ycombinator.com/item?id=48779977 Punkty: 26 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink Adres URL komentarzy: https://news.ycombinator.com/item?id=48779977 Punkty: 36 # Komentarze: 12."
     },
     {
       "title": "Pokaż HN: ContextCodeCache w Rust",
@@ -1029,7 +1045,7 @@
       "date": "2026-07-03T21:03:19Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/colwill/ccc Adres URL komentarzy: https://news.ycombinator.com/item?id=48779933 Punkty: 4 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://github.com/colwill/ccc Adres URL komentarzy: https://news.ycombinator.com/item?id=48779933 Punkty: 5 # Komentarze: 0."
     },
     {
       "title": "Infracost (YC W21) zatrudnia potencjalnego klienta do przeniesienia działu FinOps na lewo",
@@ -1045,7 +1061,7 @@
       "date": "2026-07-03T20:42:00Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://math.ucr.edu/home/baez/act_course/index.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48779723 Punkty: 13 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://math.ucr.edu/home/baez/act_course/index.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48779723 Punkty: 19 # Komentarze: 0."
     },
     {
       "title": "Szpiegostwo przeciwko Parlamentowi Europejskiemu",
@@ -1053,23 +1069,7 @@
       "date": "2026-07-03T20:38:26Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48779683 Punkty: 120 # Komentarze: 12."
-    },
-    {
-      "title": "SearXNG: darmowa wyszukiwarka internetowa",
-      "url": "https://github.com/searxng/searxng",
-      "date": "2026-07-03T20:15:49Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/searxng/searxng Adres URL komentarzy: https://news.ycombinator.com/item?id=48779454 Punkty: 52 # Komentarze: 14."
-    },
-    {
-      "title": "Projekty dotyczące zwierząt domowych stają się zbyt duże, aby je głaskać",
-      "url": "https://www.nnehdi.me/p/pet-projects-are-getting-too-big",
-      "date": "2026-07-03T20:13:09Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.nnehdi.me/p/pet-projects-are-getting-too-big Adres URL komentarzy: https://news.ycombinator.com/item?id=48779415 Punkty: 29 # Komentarze: 19."
+      "summary": "Adres URL artykułu: https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48779683 Punkty: 143 # Komentarze: 23."
     },
     {
       "title": "Meta mogłaby wykorzystać swoje obliczenia do własnych modeli, skalowania reklam, ofert neocloud podobnych do SpaceX i hostowania modeli stron trzecich; może być blisko porozumienia antropicznego (Jeremie Eliahou Ontiveros/SemiAnalytics)",
