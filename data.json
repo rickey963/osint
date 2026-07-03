@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T00:35:42Z",
+  "last_updated": "2026-07-03T00:40:37Z",
   "poland": [
     {
       "title": "Chorwacja to kierunek powrotów. Co piąty turysta z Polski odwiedził ją siedem razy",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "W miarę eskalacji wojny na Ukrainie Witkoff i Kushner skupiają się na Iranie",
+      "url": "https://www.nytimes.com/2026/07/02/us/politics/ukraine-russia-witkoff-kushner-trump.html",
+      "date": "2026-07-03T00:33:03Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Steve Witkoff i Jared Kushner są kluczowymi graczami w momencie, gdy stanowiska ambasadorów USA w Moskwie i Kijowie są nieobsadzone."
+    },
+    {
       "title": "Brytyjscy prawodawcy żądają deportacji przywódcy „gangu pielęgnacyjnego”.",
       "url": "https://www.nytimes.com/2026/07/02/world/europe/uk-deport-leader-grooming-gang.html",
       "date": "2026-07-03T00:19:38Z",
@@ -788,14 +796,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Zarobki prezydenta Trumpa podczas sprawowania urzędu są na poziomie niewyobrażalnym niegdyś dla żadnego przywódcy liberalnej demokracji, a zwłaszcza urzędującego prezydenta amerykańskiego."
-    },
-    {
-      "title": "W miarę eskalacji wojny na Ukrainie Witkoff i Kushner skupiają się na Iranie",
-      "url": "https://www.nytimes.com/2026/07/02/us/politics/ukraine-russia-witkoff-kushner-trump.html",
-      "date": "2026-07-03T00:00:05Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Steve Witkoff i Jared Kushner są kluczowymi graczami w momencie, gdy stanowiska ambasadorów USA w Moskwie i Kijowie są nieobsadzone."
     },
     {
       "title": "W Londynie odkryto rzadki egzemplarz Deklaracji Niepodległości",
@@ -942,6 +942,14 @@
       "summary": "Stany Zjednoczone pokonują Bośnię i Hercegowinę 2:0 i awansują do 1/8 finału i spełniają swoje marzenia o Pucharze Świata AP News."
     },
     {
+      "title": "Były dyrektor CIA John Brennan ubiega się o nakaz sądowy nakazujący zachowanie dokumentacji z dochodzeń – AP News",
+      "url": "https://apnews.com/article/brennan-cia-russia-justice-department-investigation-0953e358307a391d6f1c0da14b18bf4e",
+      "date": "2026-07-01T22:01:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Były dyrektor CIA John Brennan ubiega się o nakaz sądowy nakazujący zachowanie dokumentacji z dochodzeń AP News."
+    },
+    {
       "title": "USA i Iran spotykają się w Katarze oddzielnie i zgadzają się na kontynuowanie rozmów – AP News",
       "url": "https://apnews.com/article/iran-us-war-strait-of-hormuz-july-1-2026-de0729197bc7b9d3ee9e543d94c18fbe",
       "date": "2026-07-01T21:37:00Z",
@@ -996,14 +1004,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Producenci jaj zapłacą 3,3 mln dolarów i przekażą 53 mln jaj na uregulowanie roszczeń AP News dotyczących zmowy cenowej."
-    },
-    {
-      "title": "Przewodniczący Rezerwy Federalnej Warsh podkreśla niezależność polityczną, sygnalizuje skupienie się na inflacji – AP News",
-      "url": "https://apnews.com/article/warsh-federal-reserve-inflation-interest-rate-18c005515444abd2043ad113c9849407",
-      "date": "2026-07-01T19:16:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Przewodniczący Rezerwy Federalnej Warsh podkreśla niezależność polityczną i sygnalizuje skupienie się na inflacji AP News."
     }
   ],
   "technology": [
@@ -2531,10 +2531,6 @@
     {
       "sector": "Sektor obronny",
       "instrument": "np. ETF iShares Global Aerospace & Defense (ITA)"
-    },
-    {
-      "sector": "Złoto i obligacje skarbowe",
-      "instrument": "np. ETF na złoto (GLD) lub obligacje skarbowe"
     }
   ],
   "sp500_trend": {
@@ -2731,51 +2727,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25589.92,
+      25586.86,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26750.52,
+      26747.31,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26896.99,
+      26893.77,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27141.15,
+      27137.89,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27774.84,
+      27771.51,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27810.77,
+      27807.43,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28054.66,
+      28051.3,
       27354.94,
       27400.36,
       27412.11,
-      28454.79,
+      28451.38,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27717.82,
+      27714.5,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27896.96,
+      27893.61,
       27686.17,
       27404.78,
       27351.97,
@@ -2784,11 +2780,11 @@
       27661.43,
       27749.69,
       27709.26,
-      27606.26,
+      27602.95,
       27930.04,
       28234.04,
       28218.36,
-      28091.34
+      28087.97
     ],
     "currency": "PLN"
   }
