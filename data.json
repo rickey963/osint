@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T23:19:15Z",
+  "last_updated": "2026-07-03T23:19:53Z",
   "poland": [
     {
       "title": "Kurs HUF/PLN 02 lipca 2026 r.",
@@ -1434,6 +1434,14 @@
       "summary": "Badacze zajmujący się cyberbezpieczeństwem odkryli wcześniej nieudokumentowaną modułową strukturę złośliwego oprogramowania o nazwie kodowej Avalon, która jest dystrybuowana za pomocą wieloetapowego łańcucha phishingowego zdolnego do ominięcia tradycyjnych kontroli bezpieczeństwa. Avalon łączy w sobie gromadzenie danych uwierzytelniających, przenoszenie boczne, dostęp zdalny, zakłócanie odzyskiwania i uruchamianie oprogramowania ransomware, łącząc w jednym różne funkcje."
     },
     {
+      "title": "David Potter, człowiek, który położył Psion na dłoni, wylogowuje się w wieku 82 lat",
+      "url": "https://www.theregister.com/personal-tech/2026/07/03/david-potter-the-man-who-put-psion-in-the-palm-of-your-hand-logs-off-at-82/5266624",
+      "date": "2026-07-03T17:24:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Fizyk, filantrop i pionier komputerów kieszonkowych, dysków SSD, smartfonów… i kołder."
+    },
+    {
       "title": "Pakiety npm powiązane z Koreą Północną naśladują wypełnianie pakietów zbiorczych w celu kradzieży tajemnic programistów",
       "url": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
       "date": "2026-07-03T16:07:15Z",
@@ -1442,12 +1450,28 @@
       "summary": "Podmioty zagrażające powiązane z Koreą Północną zostały powiązane z nowym zestawem złośliwych pakietów npm, które udają narzędzia typu Rollup Polyfill w celu ułatwienia zdalnego dostępu i kradzieży danych. Według JFroga pakiety „rollup-packages-polyfill-core” i „rollup-runtime-polyfill-core” naśladują legalny projekt „rollup-plugin-polyfill-node”, aż do opisu, metadanych repozytorium i."
     },
     {
+      "title": "Konstelacja Amazon Leo zbliża się do 400 satelitów w obliczu zbliżającego się startu łączy szerokopasmowych",
+      "url": "https://www.theregister.com/networks/2026/07/03/amazon-leo-constellation-nears-400-satellites-as-broadband-launch-looms/5266588",
+      "date": "2026-07-03T16:06:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Konkurent internetowego emporium, Starlink, twierdzi, że usługa zacznie działać jeszcze w tym roku, gdy na orbitę dotrze kolejnych 29 ptaków."
+    },
+    {
       "title": "Europarlamentarzysta badał spyware. Był celem Pegasusa",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/europarlamentarzysta-badal-spyware-byl-celem-pegasusa",
       "date": "2026-07-03T15:19:11Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Telefon jednego z europosłów został zainfekowany Pegasusem – ujawniło CitizenLab. Według danych ekspertów, oprogramowanie miało być instalowane na sprzęcie parlamentarzysty dwukrotnie. Oba przypadki miały miejsce w istotnych dla Komisji śledczej ds."
+    },
+    {
+      "title": "AdaptHealth twierdzi, że napastnicy wdarli się do systemów chmurowych i ukradli dane pacjentów",
+      "url": "https://www.theregister.com/security/2026/07/03/adapthealth-crooks-stole-our-passwords-patient-health-data/5266512",
+      "date": "2026-07-03T14:29:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Zewnętrzny kontrahent złamał ujawnione informacje zdrowotne i hasła do rozliczeń ubezpieczeniowych."
     },
     {
       "title": "CSIRT Cyfra ze zdolnością operacyjną jeszcze w tym roku",
@@ -1466,12 +1490,28 @@
       "summary": "Cyberatakom wymierzonym w agencje rządowe i sektor elektroenergetyczny w Rosji, Brazylii i Kazachstanie przypisuje się wcześniej nieudokumentowanemu ugrupowaniu zagrażającemu znanemu jako Armored Likho. „Opancerzony Likho łączy kampanie o charakterze finansowym skierowane do osób prywatnych z ukierunkowanym cyberszpiegiem wymierzonym w organizacje” – stwierdził Kaspersky w opublikowanej dzisiaj analizie technicznej. „."
     },
     {
+      "title": "Startup atakuje centra danych z modułem reaktora jądrowego wydrukowanym w 3D",
+      "url": "https://www.theregister.com/systems/2026/07/03/startup-targets-datacenters-with-3d-printed-nuclear-reactor-module/5266480",
+      "date": "2026-07-03T13:36:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Szukasz mikroreaktora torowego zdolnego dostarczać sok o mocy do 30 MWe przez okres do 30 lat?"
+    },
+    {
       "title": "Wyciekły dane gości polskich hoteli. Atak na system",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/wycieki-danych/wyciekly-dane-gosci-polskich-hoteli-atak-na-system",
       "date": "2026-07-03T12:09:17Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "System zarządzania rezerwacjami w wielu polskich hotelach został zhakowany. Cyberprzestępcy mieli uzyskać nieuprawniony dostęp do danych gości hotelowych w obiektach obsługiwanych przez Hotres oraz rozsyłać wiadomości phishingowe, które miały na celu wyłudzanie pieniędzy. Co wiemy?"
+    },
+    {
+      "title": "NetNut złamany, gdy Google i FBI celują w botnet obejmujący 2 miliony urządzeń",
+      "url": "https://www.theregister.com/security/2026/07/03/netnut-cracked-as-google-and-fbi-target-2-million-device-botnet/5266414",
+      "date": "2026-07-03T12:03:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Inne marki serwerów proxy dla gospodarstw domowych mogą korzystać z tej samej sieci."
     },
     {
       "title": "17-latek włamywał się na konta abonentów. Wybierał ofiary wśród graczy",
@@ -1498,6 +1538,14 @@
       "summary": "Dane przesyłane do modelu GPT5.5-Cyber nie mogą być wykorzystywane do treningu – przekazał redakcji CyberDefence24 Marcin Dudek, kierownik CERT Polska. Już na obecnym etapie jego zastosowanie umożliwiło znalezienie podatności w oprogramowaniu. Jak się dowiedzieliśmy, prowadzone są również rozmowy z firmą Anthropic w sprawie udostępnienia modelu Mythos."
     },
     {
+      "title": "Rachunki za sztuczną inteligencję wprawiają zarząd w zakłopotanie po przejściu na ceny oparte na wykorzystaniu",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383",
+      "date": "2026-07-03T10:35:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "KPMG stwierdza, że ​​prawie jedna trzecia dyrektorów ma trudności ze zrozumieniem kosztów, gdy firmy na nowo zastanawiają się nad wdrożeniami."
+    },
+    {
       "title": "Wyciek danych gości wielu polskich hoteli",
       "url": "https://niebezpiecznik.pl/post/wyciek-danych-gosci-wielu-polskich-hoteli/",
       "date": "2026-07-03T09:18:08Z",
@@ -1506,12 +1554,28 @@
       "summary": "Usługa z której tysiące polskich hoteli korzysta do przyjmowania i zarządzania rezerwacjami została zhackowana. Włamywacze uzyskali dostęp do danych gości hotelowych różnych obiektów obsługiwanych przez system Hotres i do wielu z nich już skierowali fałszywe, ale bardzo wiarygodnie wyglądające wiadomości e-mail mające na celu wyłudzenie pieniędzy. Zaczęło się od&#8230; SQL injection O problemach poinformował nas Czytelnik, [&#8230;]."
     },
     {
+      "title": "Wydaje się, że UE łatwiej jest zrównoważyć emisję z centrów danych niż lobbyści",
+      "url": "https://www.theregister.com/on-prem/2026/07/03/eu-appears-to-find-datacenter-emissions-easier-to-offset-than-lobbyists/5265814",
+      "date": "2026-07-03T09:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Z raportu wynika, że ​​zaproponowane zmiany dają operatorom większą swobodę w wyborze bardziej ekologicznej klasy."
+    },
+    {
       "title": "Koniec parlamentarnych prac nad ustawą o sztucznej inteligencji. Czas na ruch prezydenta",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/koniec-parlamentarnych-prac-nad-ustawa-o-sztucznej-inteligencji-czas-na-ruch-prezydenta",
       "date": "2026-07-03T08:33:29Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Sejm zakończył parlamentarne prace nad projektem ustawy o systemach sztucznej inteligencji, która ma dostosować polskie przepisy do unijnego AI Act. Posłowie rozpatrzyli poprawki Senatu, przyjmując 24 z 25 rekomendowanych zmian. Regulacja trafi teraz do prezydenta."
+    },
+    {
+      "title": "Databricks ujednolica OLTP i OLAP, w zależności od tego, co liczy się jako kopia",
+      "url": "https://www.theregister.com/databases/2026/07/03/databricks-unifies-oltp-and-olap-depending-on-what-counts-as-a-copy/5265733",
+      "date": "2026-07-03T08:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Architektura LTAP kryje w sobie sprytną inżynierię pod dyskusyjnym chwytem marketingowym."
     },
     {
       "title": "PamStealer wykorzystuje fałszywe witryny Maccy i czeki PAM do kradzieży haseł logowania do komputerów Mac",
@@ -1530,12 +1594,68 @@
       "summary": "Walczą na niewidzialnym froncie, odpierając tysiące ataków z Rosji. 3 lipca to dla nich wyjątkowy dzień. Dziś Wojska Obrony Cyberprzestrzeni obchodzą swoje święto."
     },
     {
+      "title": "Użytkownik przysięgał, że haker o nazwie General Failure wdarł się na jego komputer",
+      "url": "https://www.theregister.com/personal-tech/2026/07/03/user-swore-hacker-called-general-failure-had-invaded-his-pc/5265548",
+      "date": "2026-07-03T06:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Może szukali prywatnych danych."
+    },
+    {
       "title": "Polska powinna walczyć o centrum AI NATO",
       "url": "https://cyberdefence24.pl/armia-i-sluzby/wojsko-polskie/polska-powinna-walczyc-o-centrum-ai-nato",
       "date": "2026-07-03T05:33:29Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Sztuczna inteligencja nie jest już dodatkiem do planowania obronnego NATO. Staje się jednym z kluczowych elementów dowodzenia, rozpoznania, cyberobrony, walki informacyjnej, interoperacyjności i przyszłej przewagi wojskowej. W rozmowie z dr."
+    },
+    {
+      "title": "Nieudany projekt blockchain kończy się dużą karą za kłamstwa na temat jego realizacji",
+      "url": "https://www.theregister.com/software/2026/07/03/failed-blockchain-project-ends-with-big-fine-for-fibs-about-it-being-on-track/5266297",
+      "date": "2026-07-03T04:35:52Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Ostateczne upokorzenie dla australijskiej giełdy papierów wartościowych i jej prób prowadzenia giełdy w oparciu o rozproszone księgi rachunkowe."
+    },
+    {
+      "title": "Mechanical Turk Amazona przestanie przyjmować nowych klientów – i nawet sztuczna inteligencja nie jest w stanie tego uratować",
+      "url": "https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/5266274",
+      "date": "2026-07-03T02:22:36Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Pracownicy korzystający z platformy crowdsourcingowej OG twierdzą, że AWS zamyka konta."
+    },
+    {
+      "title": "W niestabilnym świecie konsekwentna polityka zrównoważonego rozwoju ma kluczowe znaczenie",
+      "url": "https://www.theregister.com/cxo/2026/07/03/in-a-volatile-world-a-consistent-sustainability-policy-is-critical/5266035",
+      "date": "2026-07-03T01:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "FUNKCJA SPONSOROWANA: ZTE przedstawia kamienie milowe na rok 2025."
+    },
+    {
+      "title": "Dev twierdzi, że Google ostrzegł go o przejęciu konta, a następnie obciążył go kwotą 11 000 dolarów",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/03/dev-says-google-warned-him-about-account-hijack-then-charged-him-11000-anyway/5266234",
+      "date": "2026-07-02T23:08:16Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Lewa ręka spotyka prawą rękę."
+    },
+    {
+      "title": "Startup pozywa Koi Security firmy Palo Alto Networks, twierdząc, że raport pełen halucynacji AI fałszywie powiązał ją z chińskim szpiegostwem",
+      "url": "https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201",
+      "date": "2026-07-02T22:47:46Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "MeetingTV chce zobaczyć dowody."
+    },
+    {
+      "title": "Nvidia wprowadza program podwójnego finansowania centrów danych",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184",
+      "date": "2026-07-02T21:55:31Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Co jest lepszego niż jednorazowa wypłata? Oczywiście płacę podwójnie."
     },
     {
       "title": "FBI przejmuje platformę proxy NetNut i botnet Popa",
@@ -1820,6 +1940,14 @@
       "summary": "Rosyjski rynek akcji wysłał w ostatnich dniach wyraźny sygnał o pogorszeniu nastrojów inwestorów. Indeks MOEX pierwszy raz w historii spadł w jeden dzień o 5 proc., a w tle pojawiają się dane o słabnącej produkcji i ryzyku wzrostu kosztów w gospodarce."
     },
     {
+      "title": "Notowania historyczne INTLCCC98467 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania-historyczne/INTLCCC98467",
+      "date": "2026-07-03T15:23:15Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania historyczne INTLCCC98467 INGBANK BiznesRadar."
+    },
+    {
       "title": "Porty stały się gospodarczym zapleczem bezpieczeństwa i coraz bardziej atrakcyjnym celem",
       "url": "https://300gospodarka.pl/news/polskie-porty-zmagaja-sie-z-wyzwaniami-ktorych-nie-widac-z-glebi-kraju",
       "date": "2026-07-03T15:19:17Z",
@@ -1842,6 +1970,14 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Meta reaguje po śledztwie BBC. Chodzi o nielegalne treści w reklamach Forsal.pl."
+    },
+    {
+      "title": "Sygnały analizy technicznej INTLCCC98442 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/INTLCCC98442",
+      "date": "2026-07-03T14:39:58Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Sygnały analizy technicznej INTLCCC98442 INGBANK BiznesRadar."
     },
     {
       "title": "Ebook Droga Inwestora. Podpatrywanie edycja dla - BiznesRadar",
@@ -1908,14 +2044,6 @@
       "summary": "Brytyjski pomysł na walkę z otyłością: nagrody za kroki każdego dnia Forsal.pl."
     },
     {
-      "title": "Odkryj świat: Dlaczego obozy za granicą to inwestycja w rozwój młodzieży? - Forsal.pl",
-      "url": "https://forsal.pl/lifestyle/turystyka/artykuly/11271358,odkryj-swiat-dlaczego-obozy-za-granica-to-inwestycja-w-rozwoj-mlodziezy.html",
-      "date": "2026-07-03T12:17:29Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Odkryj świat: Dlaczego obozy za granicą to inwestycja w rozwój młodzieży? Forsal.pl."
-    },
-    {
       "title": "Komunikat EBI LIFTERO/Liftero Spółka Akcyjna (lifteroliftero-spolka-akcyjna): Harmonogram publikacji raportów okresowych - stockwatch.pl",
       "url": "https://www.stockwatch.pl/komunikaty-spolek/lifteroliftero-spolka-akcyjna,harmonogram-publikacji-raportow-okresowych-2026-07-03,ebi,20260703_135004_0000004259",
       "date": "2026-07-03T11:50:04Z",
@@ -1932,12 +2060,20 @@
       "summary": "XTPL dostarczy urządzenie DPS do nowego partnera w Japonii BiznesRadar."
     },
     {
-      "title": "Lokum Deweloper zakontraktował w drugim kwartale 50 mieszkań - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149068,lokum-deweloper-zakontraktowal-w-drugim-kwartale-50-mieszkan",
-      "date": "2026-07-03T11:35:00Z",
-      "source": "Biznesradar",
+      "title": "Digital Network uruchamia w centrum stolicy największy ekran cyfrowy w UE. Ma znacząco zwiększyć przychody",
+      "url": "https://strefainwestorow.pl/spolki/digital-network-ekran-warszawa",
+      "date": "2026-07-03T11:01:02Z",
+      "source": "Strefa Inwestorów",
       "confirmed_by": 1,
-      "summary": "Lokum Deweloper zakontraktował w drugim kwartale 50 mieszkań BiznesRadar."
+      "summary": "Digital Network uruchamia w centrum stolicy największy ekran cyfrowy w UE. Ma znacząco zwiększyć przychody Seb Seb pt., 03.07.2026 Kanał Strefa Inwestorów Digital Network ekran cyfrowy Złote Tarasy największy ekran w UE GPW giełda dywidendy Treść Digital Network uruchomi ogromny, największy w Unii Europejskiej, ekran cyfrowy w centrum Warszawy już w przyszłym tygodniu, wynika z informacji Strefy Inwestorów. To element największego w historii giełdowej spółki programu inwestycyjnego w sieć cyfrowych nośników.Operator sieci cyfrowych ekranów outdoor jest blisko ukoronowania swojego dynamicznego rozwoju w ostatnich latach."
+    },
+    {
+      "title": "Sejm niemal jednomyślnie przyjął ustawę o OKI: \"To największa od lat zmiana\"",
+      "url": "https://strefainwestorow.pl/finanse/oki-ustawa-sejm",
+      "date": "2026-07-03T10:45:39Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Sejm niemal jednomyślnie przyjął ustawę o OKI: \"To największa od lat zmiana\" Wioletta Hass pt., 03.07.2026 Kanał Strefa Inwestorów oki osobiste konta oszczędnościowe podatek belki sejm senat głosowanie nad ustawą ustawa o oki Treść Sejm przyjął ustawę o OKI. Aktywa inwestycyjne będą zwolnione z podatku Belki do 100 tys. zł, z aktywa oszczędnościowe do 25 tys."
     },
     {
       "title": "Czego mewy mogą nauczyć przedsiębiorcę i menedżera? [OPINIA] - Forbes",
@@ -1956,14 +2092,6 @@
       "summary": "OKI zamiast podatku Belki- gdzie jest haczyk? stockwatch.pl."
     },
     {
-      "title": "Dywidendowe podsumowanie 27. tygodnia 2026 r. - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149056,dywidendowe-podsumowanie-27-tygodnia-2026-r",
-      "date": "2026-07-03T10:13:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Dywidendowe podsumowanie 27. tygodnia 2026 r. BiznesRadar."
-    },
-    {
       "title": "ASBIS [ASB] - stockwatch.pl",
       "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513403_ASBIS.aspx",
       "date": "2026-07-03T10:02:00Z",
@@ -1972,12 +2100,12 @@
       "summary": "ASBIS [ASB] stockwatch.pl."
     },
     {
-      "title": "Widget - widgets.biznesradar.pl",
-      "url": "https://widgets.biznesradar.pl/grid/ATR_g-GKI_g-PJP_g.skin-modern,1",
-      "date": "2026-07-03T08:44:32Z",
-      "source": "Biznesradar",
+      "title": "Złoto fundamentem bezpieczeństwa - nowy numer \"Obserwatora Finansowego\" już dostępny",
+      "url": "https://strefainwestorow.pl/ekonomia/zloto-obserwator-finasowy-nbp-adam-glapinski",
+      "date": "2026-07-03T08:35:13Z",
+      "source": "Strefa Inwestorów",
       "confirmed_by": 1,
-      "summary": "Widget widgets.biznesradar.pl."
+      "summary": "Złoto fundamentem bezpieczeństwa - nowy numer \"Obserwatora Finansowego\" już dostępny NBP pt., 03.07.2026 Kanał Strefa Inwestorów Adam Glapiński złoto Adam Glapiński Złoto NBP Narodowy Bank Polski Treść Do sprzedaży trafił 24. numer kwartalnika „Obserwator Finansowy”. Motywem przewodnim wydania jest bezpieczeństwo państwa, a w centrum uwagi znalazły się złoto, rezerwy dewizowe, stabilność pieniądza oraz gospodarcza odporność Polski w czasach geopolitycznej niepewności.Numer otwiera tekst prof."
     },
     {
       "title": "Sołowow: Polska potrzebuje pilnych inwestycji w atom [WYWIAD] - Forbes",
@@ -1988,6 +2116,14 @@
       "summary": "Sołowow: Polska potrzebuje pilnych inwestycji w atom [WYWIAD] Forbes."
     },
     {
+      "title": "Sprzedaż mieszkań zwalnia. To jeszcze nie kryzys, ale rynek przechyla się na stronę kupujących",
+      "url": "https://strefainwestorow.pl/nieruchomosci/sprzedaz-ceny-mieszkan-2q26-rynek-pierwotny",
+      "date": "2026-07-03T08:10:38Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Sprzedaż mieszkań zwalnia. To jeszcze nie kryzys, ale rynek przechyla się na stronę kupujących Wioletta Hass pt., 03.07.2026 Kanał Strefa Inwestorów rynek nieruchomości mieszkania deweloperzy ceny mieszkań jawność cen RynekPierwotny.pl popyt i podaż kredyty hipoteczne stopy procentowe Treść Jawność cen mieszkań przeniosła ciężar negocjacji na stronę kupujących i wyraźnie zmieniła proces sprzedaży. To jeszcze nie kryzys, ale w II kwartale 2026 r."
+    },
+    {
       "title": "Napięcie w cieśninie Ormuz. Teheran ostrzega armatorów",
       "url": "https://www.money.pl/gospodarka/napiecie-w-ciesninie-ormuz-teheran-ostrzega-armatorow-7303425398229344a.html",
       "date": "2026-07-03T07:36:53Z",
@@ -1996,12 +2132,20 @@
       "summary": "Iran miał rozmieścić siły specjalne przy cieśninie Ormuz, by identyfikować statki korzystające z trasy wzdłuż Omanu — podał Iran International. Teheran ostrzega armatorów przed południowym korytarzem i twierdzi, że bez koordynacji z Iranem nie da się zagwarantować bezpieczeństwa żeglugi."
     },
     {
-      "title": "Spór o bohaterów. Historyk komentuje. Zełenski zabiega o głosy?",
-      "url": "https://www.money.pl/finanse/wplywowa-postac-u-boku-zelenskiego-ma-sklonnosc-do-wywolywania-skandali-7303397445147040a.html",
-      "date": "2026-07-03T06:45:27Z",
-      "source": "Money.pl",
+      "title": "WIG kontynuuje wzrosty (nowa spółka w portfelu)",
+      "url": "https://strefainwestorow.pl/blog/podsumowanie-sesji/wig-kontynuuje-wzrosty-nowa-spolka-w-portfelu",
+      "date": "2026-07-03T07:00:00Z",
+      "source": "Strefa Inwestorów",
       "confirmed_by": 1,
-      "summary": "Na rozwiązanie sporu o UPA musimy poczekać do zmiany władzy w Kijowie, ale straszenie Ukrainy, że z \"Banderą nie wejdzie do UE\" może przynieść efekt odmienny od spodziewanego - powiedział w rozmowie z PAP ukraiński historyk i zwolennik pojednania polsko-ukraińskiego Jarosław Hrycak."
+      "summary": "WIG kontynuuje wzrosty (nowa spółka w portfelu) Paweł Biedrzycki pt., 03.07.2026 WIG mwig40 Wstęp do wpisu Podsumowanie sesji z dnia 02.07.2026: #WIG, #mWIG40, nowa spółka portfelowa WIG kontynuuje wzrosty (nowa spółka w portfelu) Paweł Biedrzycki."
+    },
+    {
+      "title": "USA kończy 250 lat, a giełda stoi na rozdrożu. Główny strateg ostrzega i wskazuje ważne lekcje z historii",
+      "url": "https://strefainwestorow.pl/strefa-global-market/gospodarka/250-lat-gielda-usa-ryzka",
+      "date": "2026-07-03T06:48:15Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "USA kończy 250 lat, a giełda stoi na rozdrożu. Główny strateg ostrzega i wskazuje ważne lekcje z historii Szymon Machalica pt., 03.07.2026 Kanał Strefa Global Market USA giełdy zagraniczne giełda usa Treść Gdy Stany Zjednoczone świętują 250-lecie istnienia, amerykański rynek akcji znajduje się w jednym z najbardziej wyjątkowych momentów swojej historii. Z jednej strony jest rekordowo dominujący globalnie i silnie skoncentrowany wokół kilku największych spółek technologicznych, z drugiej – coraz bardziej uzależniony od narracji o sztucznej inteligencji, wysokich stopach procentowych i cenach surowców."
     },
     {
       "title": "Z miasta do siedliska. „Miastowi” chcą mieszkać na wsi, kilometr od sąsiada - Forbes",
@@ -2028,14 +2172,6 @@
       "summary": "Budownictwo ma obecnie najwyższe zapotrzebowanie na pracowników spośród wszystkich segmentów przemysłu – wynika z „Raportu wynagrodzeń w sektorze przemysłowym 2026” Grafton Recruitment. Popyt napędzają inwestycje infrastrukturalne, energetyczne, sieciowe i OZE. Firmy szukają zarówno pracowników fizycznych, jak i inżynierów, projektantów, kierowników budów, kierowników kontraktów oraz specjalistów z uprawnieniami budowlanymi."
     },
     {
-      "title": "Polska chce dłuższej aktywności zawodowej, ale bez zdrowia pracowników ten plan się nie zepnie",
-      "url": "https://300gospodarka.pl/tylko-w-300gospodarce/pracownicy-45-plus-a-rynek-pracy-potrzebna-duza-zmiana-w-firmach",
-      "date": "2026-07-02T19:04:59Z",
-      "source": "300Gospodarka",
-      "confirmed_by": 1,
-      "summary": "Aż 84 proc. Polaków przechodzi na emeryturę natychmiast po osiągnięciu ustawowego wieku – wynika z danych Instytutu Pracy i Spraw Socjalnych. To ważny sygnał dla rynku pracy, bo Polska szybko się starzeje, a starsze roczniki, jak np."
-    },
-    {
       "title": "Komunikat EBI G-Devs SA (gdevs): Zmiana harmonogramu publikacji raportów okresowych - stockwatch.pl",
       "url": "https://www.stockwatch.pl/komunikaty-spolek/gdevs,zmiana-harmonogramu-publikacji-raportow-okres-2026-07-02,ebi,20260702_170323_0000004249",
       "date": "2026-07-02T15:03:23Z",
@@ -2044,28 +2180,12 @@
       "summary": "Komunikat EBI G-Devs SA (gdevs): Zmiana harmonogramu publikacji raportów okresowych stockwatch.pl."
     },
     {
-      "title": "Forum giełdowe StockWatch.pl: XTB - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513388_XTB.aspx",
-      "date": "2026-07-02T15:01:00Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Forum giełdowe StockWatch.pl: XTB stockwatch.pl."
-    },
-    {
       "title": "Masz super wyniki w pracy, ale czujesz pustkę? Zacznij słuchać egoizmu [OPINIA] - Forbes",
       "url": "https://www.forbes.pl/opinie/jak-mozemy-wykorzystac-egoizm-do-uratowania-swojej-kariery-opinia/1fz993s",
       "date": "2026-07-02T14:27:18Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Masz super wyniki w pracy, ale czujesz pustkę? Zacznij słuchać egoizmu [OPINIA] Forbes."
-    },
-    {
-      "title": "750 tys. dol. za 30 sekund. Oto najciekawsze statystyki z piłkarskich MŚ 2026 - Forbes",
-      "url": "https://www.forbes.pl/finanse/750-tys-dol-za-30-sekund-oto-najciekawsze-statystyki-z-pilkarskich-ms-2026/g9clvgh",
-      "date": "2026-07-02T12:42:06Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "750 tys. dol. za 30 sekund."
     }
   ],
   "critical_alerts": [
