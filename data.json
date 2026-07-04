@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T16:57:08Z",
+  "last_updated": "2026-07-04T16:57:39Z",
   "poland": [
     {
       "title": "Ukraińcy zniszczyli rosyjski samolot na Krymie. Opublikowali nagranie",
@@ -1442,28 +1442,12 @@
       "summary": "Czasami w przestrzeni publicznej pojawiają się informacje o rzekomych wyciekach danych klientów z polskich witryn, które później okazują się nieprawdziwe. Wykorzystywane są do tego wizerunki znanych firm. Dlaczego mogliśmy usłyszeć o wyciekach danych, których nie było?"
     },
     {
-      "title": "Podstawowy mechanizm zaufania przetwarzania poufnego jest uszkodzony. Poprawka może nie istnieć",
-      "url": "https://www.theregister.com/security/2026/07/04/confidential-computings-core-trust-mechanism-is-broken-the-fix-may-not-exist/5266056",
-      "date": "2026-07-04T10:03:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Atestowany TLS: uścisk dłoni, który nie może udowodnić, kto jest po drugiej stronie."
-    },
-    {
       "title": "Cyberprzestępcy podszywają się pod biskupów, kardynałów i parafie",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/cyberprzestepcy-podszywaja-sie-pod-biskupow-kardynalow-i-parafie",
       "date": "2026-07-04T07:12:52Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Phishingowy mail rzekomo od biskupa, fałszywa strona parafii czy wygenerowane nagranie z kardynałem reklamującym lek na stawy – to tylko niektóre przypadki tego, jak cyberprzestępcy podszywają się pod duchownych Kościoła. Wiele kampanii ma na celu wyłudzanie pieniędzy od wiernych z Polski. Na co uważać i jak się chronić?"
-    },
-    {
-      "title": "NASA twierdzi, że przez rok odizoluje ochotników od świata zewnętrznego",
-      "url": "https://www.theregister.com/science/2026/07/04/nasa-says-it-will-isolate-volunteers-from-the-outside-world-for-a-year/5266558",
-      "date": "2026-07-04T06:21:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Może być też minus."
     },
     {
       "title": "Niezałatane wady ujawnione w systemie plików w milionach urządzeń wbudowanych",
@@ -1490,14 +1474,6 @@
       "summary": "Badacze zajmujący się cyberbezpieczeństwem odkryli wcześniej nieudokumentowaną modułową strukturę złośliwego oprogramowania o nazwie kodowej Avalon, która jest dystrybuowana za pomocą wieloetapowego łańcucha phishingowego zdolnego do ominięcia tradycyjnych kontroli bezpieczeństwa. Avalon łączy w sobie gromadzenie danych uwierzytelniających, przenoszenie boczne, dostęp zdalny, zakłócanie odzyskiwania i uruchamianie oprogramowania ransomware, łącząc w jednym różne funkcje."
     },
     {
-      "title": "David Potter, człowiek, który położył Psion na dłoni, wylogowuje się w wieku 82 lat",
-      "url": "https://www.theregister.com/personal-tech/2026/07/03/david-potter-the-man-who-put-psion-in-the-palm-of-your-hand-logs-off-at-82/5266624",
-      "date": "2026-07-03T17:24:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Fizyk, filantrop i pionier komputerów kieszonkowych, dysków SSD, smartfonów… i kołder."
-    },
-    {
       "title": "Pakiety npm powiązane z Koreą Północną naśladują wypełnianie pakietów zbiorczych w celu kradzieży tajemnic programistów",
       "url": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
       "date": "2026-07-03T16:07:15Z",
@@ -1506,28 +1482,12 @@
       "summary": "Podmioty zagrażające powiązane z Koreą Północną zostały powiązane z nowym zestawem złośliwych pakietów npm, które udają narzędzia typu Rollup Polyfill w celu ułatwienia zdalnego dostępu i kradzieży danych. Według JFroga pakiety „rollup-packages-polyfill-core” i „rollup-runtime-polyfill-core” naśladują legalny projekt „rollup-plugin-polyfill-node”, aż do opisu, metadanych repozytorium i."
     },
     {
-      "title": "Konstelacja Amazon Leo zbliża się do 400 satelitów w obliczu zbliżającego się startu łączy szerokopasmowych",
-      "url": "https://www.theregister.com/networks/2026/07/03/amazon-leo-constellation-nears-400-satellites-as-broadband-launch-looms/5266588",
-      "date": "2026-07-03T16:06:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Konkurent internetowego emporium, Starlink, twierdzi, że usługa zacznie działać jeszcze w tym roku, gdy na orbitę dotrze kolejnych 29 ptaków."
-    },
-    {
       "title": "Europarlamentarzysta badał spyware. Był celem Pegasusa",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/europarlamentarzysta-badal-spyware-byl-celem-pegasusa",
       "date": "2026-07-03T15:19:11Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Telefon jednego z europosłów został zainfekowany Pegasusem – ujawniło CitizenLab. Według danych ekspertów, oprogramowanie miało być instalowane na sprzęcie parlamentarzysty dwukrotnie. Oba przypadki miały miejsce w istotnych dla Komisji śledczej ds."
-    },
-    {
-      "title": "AdaptHealth twierdzi, że napastnicy wdarli się do systemów chmurowych i ukradli dane pacjentów",
-      "url": "https://www.theregister.com/security/2026/07/03/adapthealth-crooks-stole-our-passwords-patient-health-data/5266512",
-      "date": "2026-07-03T14:29:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Zewnętrzny kontrahent złamał ujawnione informacje zdrowotne i hasła do rozliczeń ubezpieczeniowych."
     },
     {
       "title": "CSIRT Cyfra ze zdolnością operacyjną jeszcze w tym roku",
@@ -1546,28 +1506,12 @@
       "summary": "Cyberatakom wymierzonym w agencje rządowe i sektor elektroenergetyczny w Rosji, Brazylii i Kazachstanie przypisuje się wcześniej nieudokumentowanemu ugrupowaniu zagrażającemu znanemu jako Armored Likho. „Opancerzony Likho łączy kampanie o charakterze finansowym skierowane do osób prywatnych z ukierunkowanym cyberszpiegiem wymierzonym w organizacje” – stwierdził Kaspersky w opublikowanej dzisiaj analizie technicznej. „."
     },
     {
-      "title": "Startup atakuje centra danych z modułem reaktora jądrowego wydrukowanym w 3D",
-      "url": "https://www.theregister.com/systems/2026/07/03/startup-targets-datacenters-with-3d-printed-nuclear-reactor-module/5266480",
-      "date": "2026-07-03T13:36:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Szukasz mikroreaktora torowego zdolnego dostarczać sok o mocy do 30 MWe przez okres do 30 lat?"
-    },
-    {
       "title": "Wyciekły dane gości polskich hoteli. Atak na system",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/wycieki-danych/wyciekly-dane-gosci-polskich-hoteli-atak-na-system",
       "date": "2026-07-03T12:09:17Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "System zarządzania rezerwacjami w wielu polskich hotelach został zhakowany. Cyberprzestępcy mieli uzyskać nieuprawniony dostęp do danych gości hotelowych w obiektach obsługiwanych przez Hotres oraz rozsyłać wiadomości phishingowe, które miały na celu wyłudzanie pieniędzy. Co wiemy?"
-    },
-    {
-      "title": "NetNut złamany, gdy Google i FBI celują w botnet obejmujący 2 miliony urządzeń",
-      "url": "https://www.theregister.com/security/2026/07/03/netnut-cracked-as-google-and-fbi-target-2-million-device-botnet/5266414",
-      "date": "2026-07-03T12:03:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Inne marki serwerów proxy dla gospodarstw domowych mogą korzystać z tej samej sieci."
     },
     {
       "title": "17-latek włamywał się na konta abonentów. Wybierał ofiary wśród graczy",
@@ -1594,14 +1538,6 @@
       "summary": "Dane przesyłane do modelu GPT5.5-Cyber nie mogą być wykorzystywane do treningu – przekazał redakcji CyberDefence24 Marcin Dudek, kierownik CERT Polska. Już na obecnym etapie jego zastosowanie umożliwiło znalezienie podatności w oprogramowaniu. Jak się dowiedzieliśmy, prowadzone są również rozmowy z firmą Anthropic w sprawie udostępnienia modelu Mythos."
     },
     {
-      "title": "Rachunki za sztuczną inteligencję wprawiają zarząd w zakłopotanie po przejściu na ceny oparte na wykorzystaniu",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383",
-      "date": "2026-07-03T10:35:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "KPMG stwierdza, że ​​prawie jedna trzecia dyrektorów ma trudności ze zrozumieniem kosztów, gdy firmy na nowo zastanawiają się nad wdrożeniami."
-    },
-    {
       "title": "Wyciek danych gości wielu polskich hoteli",
       "url": "https://niebezpiecznik.pl/post/wyciek-danych-gosci-wielu-polskich-hoteli/",
       "date": "2026-07-03T09:18:08Z",
@@ -1610,28 +1546,12 @@
       "summary": "Usługa z której tysiące polskich hoteli korzysta do przyjmowania i zarządzania rezerwacjami została zhackowana. Włamywacze uzyskali dostęp do danych gości hotelowych różnych obiektów obsługiwanych przez system Hotres i do wielu z nich już skierowali fałszywe, ale bardzo wiarygodnie wyglądające wiadomości e-mail mające na celu wyłudzenie pieniędzy. Zaczęło się od&#8230; SQL injection O problemach poinformował nas Czytelnik, [&#8230;]."
     },
     {
-      "title": "Wydaje się, że UE łatwiej jest zrównoważyć emisję z centrów danych niż lobbyści",
-      "url": "https://www.theregister.com/on-prem/2026/07/03/eu-appears-to-find-datacenter-emissions-easier-to-offset-than-lobbyists/5265814",
-      "date": "2026-07-03T09:15:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Z raportu wynika, że ​​zaproponowane zmiany dają operatorom większą swobodę w wyborze bardziej ekologicznej klasy."
-    },
-    {
       "title": "Koniec parlamentarnych prac nad ustawą o sztucznej inteligencji. Czas na ruch prezydenta",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/koniec-parlamentarnych-prac-nad-ustawa-o-sztucznej-inteligencji-czas-na-ruch-prezydenta",
       "date": "2026-07-03T08:33:29Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Sejm zakończył parlamentarne prace nad projektem ustawy o systemach sztucznej inteligencji, która ma dostosować polskie przepisy do unijnego AI Act. Posłowie rozpatrzyli poprawki Senatu, przyjmując 24 z 25 rekomendowanych zmian. Regulacja trafi teraz do prezydenta."
-    },
-    {
-      "title": "Databricks ujednolica OLTP i OLAP, w zależności od tego, co liczy się jako kopia",
-      "url": "https://www.theregister.com/databases/2026/07/03/databricks-unifies-oltp-and-olap-depending-on-what-counts-as-a-copy/5265733",
-      "date": "2026-07-03T08:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Architektura LTAP kryje w sobie sprytną inżynierię pod dyskusyjnym chwytem marketingowym."
     },
     {
       "title": "PamStealer wykorzystuje fałszywe witryny Maccy i czeki PAM do kradzieży haseł logowania do komputerów Mac",
@@ -1650,52 +1570,12 @@
       "summary": "Walczą na niewidzialnym froncie, odpierając tysiące ataków z Rosji. 3 lipca to dla nich wyjątkowy dzień. Dziś Wojska Obrony Cyberprzestrzeni obchodzą swoje święto."
     },
     {
-      "title": "Użytkownik przysięgał, że haker o nazwie General Failure wdarł się na jego komputer",
-      "url": "https://www.theregister.com/personal-tech/2026/07/03/user-swore-hacker-called-general-failure-had-invaded-his-pc/5265548",
-      "date": "2026-07-03T06:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Może szukali prywatnych danych."
-    },
-    {
       "title": "Polska powinna walczyć o centrum AI NATO",
       "url": "https://cyberdefence24.pl/armia-i-sluzby/wojsko-polskie/polska-powinna-walczyc-o-centrum-ai-nato",
       "date": "2026-07-03T05:33:29Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Sztuczna inteligencja nie jest już dodatkiem do planowania obronnego NATO. Staje się jednym z kluczowych elementów dowodzenia, rozpoznania, cyberobrony, walki informacyjnej, interoperacyjności i przyszłej przewagi wojskowej. W rozmowie z dr."
-    },
-    {
-      "title": "Nieudany projekt blockchain kończy się dużą karą za kłamstwa na temat jego realizacji",
-      "url": "https://www.theregister.com/software/2026/07/03/failed-blockchain-project-ends-with-big-fine-for-fibs-about-it-being-on-track/5266297",
-      "date": "2026-07-03T04:35:52Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Ostateczne upokorzenie dla australijskiej giełdy papierów wartościowych i jej prób prowadzenia giełdy w oparciu o rozproszone księgi rachunkowe."
-    },
-    {
-      "title": "Mechanical Turk Amazona przestanie przyjmować nowych klientów – i nawet sztuczna inteligencja nie jest w stanie tego uratować",
-      "url": "https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/5266274",
-      "date": "2026-07-03T02:22:36Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Pracownicy korzystający z platformy crowdsourcingowej OG twierdzą, że AWS zamyka konta."
-    },
-    {
-      "title": "W niestabilnym świecie konsekwentna polityka zrównoważonego rozwoju ma kluczowe znaczenie",
-      "url": "https://www.theregister.com/cxo/2026/07/03/in-a-volatile-world-a-consistent-sustainability-policy-is-critical/5266035",
-      "date": "2026-07-03T01:00:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "FUNKCJA SPONSOROWANA: ZTE przedstawia kamienie milowe na rok 2025."
-    },
-    {
-      "title": "Dev twierdzi, że Google ostrzegł go o przejęciu konta, a następnie obciążył go kwotą 11 000 dolarów",
-      "url": "https://www.theregister.com/cyber-crime/2026/07/03/dev-says-google-warned-him-about-account-hijack-then-charged-him-11000-anyway/5266234",
-      "date": "2026-07-02T23:08:16Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Lewa ręka spotyka prawą rękę."
     },
     {
       "title": "FBI przejmuje platformę proxy NetNut i botnet Popa",
@@ -1852,12 +1732,12 @@
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/tagi/karta-parkingowa",
-      "date": "2026-07-04T11:59:49Z",
+      "title": "świat - Forsal.pl",
+      "url": "https://forsal.pl/tagi/ceny-ropy;swiat,54",
+      "date": "2026-07-04T12:28:01Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
+      "summary": "świat Forsal.pl."
     },
     {
       "title": "Duża zmiana dla kart parkingowych dla osób z niepełnosprawnościami. Rząd dostosowuje przepisy do prawa UE - Forsal.pl",
@@ -1956,14 +1836,6 @@
       "summary": "„Efekt sztangi” na rynku pracy. Pracownicy średniej klasy wysyłają najwięcej CV i są najmniej potrzebni Forbes."
     },
     {
-      "title": "Toya SA - Portfel inwestora - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/inwestor/toya-sa.aspx",
-      "date": "2026-07-03T23:20:42Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Toya SA - Portfel inwestora stockwatch.pl."
-    },
-    {
       "title": "Polska branża meblarska w potrzasku. Długi rosną, a drewno staje się punktem zapalnym",
       "url": "https://300gospodarka.pl/news/polska-branza-meblarska-w-potrzasku-dlugi-rosna-a-drewno-staje-sie-punktem-zapalnym",
       "date": "2026-07-03T21:55:07Z",
@@ -1978,6 +1850,14 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Około 5 mld zł z Programu Ochrony Ludności i Obrony Cywilnej ma trafić bezpośrednio do samorządów. W latach 2025-2026 na cały program przeznaczono prawie 34 mld zł. Polska wraca tym samym do planowania obiektów ochrony zbiorowej po blisko 30 latach przerwy, ale eksperci ostrzegają: największym problemem nie będzie sama budowa schronów, lecz stworzenie systemu, który zadziała w kryzysie."
+    },
+    {
+      "title": "Marek, Jan Orłowski (wraz z Orenore sp. z o. o.) - Portfel inwestora - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/inwestor/marek-jan-orlowski-wraz-z-orenore-sp-z-o-o.aspx",
+      "date": "2026-07-03T19:18:59Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Marek, Jan Orłowski (wraz z Orenore sp. z o. o.) - Portfel inwestora stockwatch.pl."
     },
     {
       "title": "Tragiczny dzień na Ukrainie. Rosja uderzyła w trzy obwody - Forsal.pl",
