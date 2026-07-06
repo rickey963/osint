@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T13:34:36Z",
+  "last_updated": "2026-07-06T13:35:28Z",
   "poland": [
     {
       "title": "Tak wyglądają pary 1/4 finału MŚ. Oni powalczą o półfinał mundialu - Polskie Radio 24",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Robot, który sprząta tam, gdzie inni nawet nie wjadą. Sprawdziłam możliwości Dreame X60 Pro Ultra Complete",
+      "url": "https://www.instalki.pl/news/agd/sprawdzilam-mozliwosci-dreame-x60-pro-ultra-complete/",
+      "date": "2026-07-06T13:35:09Z",
+      "source": "Instalki.pl",
+      "confirmed_by": 1,
+      "summary": "Jeśli śledzicie rynek smart home tak uważnie jak ja, z pewnością zauważyliście, jak dynamicznie zmienia się segment robotów sprzątających. Jeszcze kilka lat temu szczytem marzeń było urządzenie, które nie gubiło się na środku salonu i potrafiło przetrzeć podłogę wilgotną szmatką. Dzisiaj mówimy już o pełnej autonomii, potężnej sile ssania i zaawansowanej sztucznej inteligencji."
+    },
+    {
       "title": "JetZero buduje samolot nowej generacji. Ta „manta” ma zmniejszyć zużycie paliwa i zrewolucjonizować branżę lotniczą",
       "url": "https://www.instalki.pl/news/technika/jetzero-samolot-demonstrator-nowej-generacji-manta/",
       "date": "2026-07-06T13:19:23Z",
@@ -1342,14 +1350,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Otworzyłem punkt ksero, gdy każdy mówił, że papier umiera. Guzik prawda."
-    },
-    {
-      "title": "Konsola ukryta w padzie. PlayStation 1 miało dostać absurdalną wersję",
-      "url": "https://www.instalki.pl/news/hardware/playstation-1-konsola-ukryta-w-padzie/",
-      "date": "2026-07-06T09:19:02Z",
-      "source": "Instalki.pl",
-      "confirmed_by": 1,
-      "summary": "Świat obiegła informacja o prototypie PlayStation 1 - jedna z wersji konsoli miała zostać ukryta w kontrolerze. Artykuł Konsola ukryta w padzie. PlayStation 1 miało dostać absurdalną wersję pochodzi z serwisu INSTALKI."
     },
     {
       "title": "Wdrożenie NIS2 i KSC – audyt, dokumentacja, zgodność",
@@ -2148,12 +2148,12 @@
       "summary": "Akcjonariat: akcjonariusze PLAYWAY SA (PLW) BiznesRadar."
     },
     {
-      "title": "Notowania CRQ (CRQUANTUM) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/CRQ",
-      "date": "2026-07-03T15:04:27Z",
+      "title": "Analiza techniczna PKO (PKOBP) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/PKO",
+      "date": "2026-07-03T15:04:07Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania CRQ (CRQUANTUM) BiznesRadar."
+      "summary": "Analiza techniczna PKO (PKOBP) BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2764,51 +2764,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25599.47,
+      25603.9,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26760.49,
+      26765.13,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26907.03,
+      26911.68,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27151.27,
+      27155.97,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27785.2,
+      27790.01,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27821.14,
+      27825.96,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28065.12,
+      28069.98,
       27354.94,
       27400.36,
       27412.11,
-      28465.4,
+      28470.33,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27728.16,
+      27732.96,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27907.36,
+      27912.19,
       27686.17,
       27404.78,
       27351.97,
@@ -2817,12 +2817,12 @@
       27661.43,
       27749.69,
       27709.26,
-      27616.55,
+      27621.33,
       27930.04,
       28234.04,
       28218.36,
       28078.54,
-      28228.93
+      28222.77
     ],
     "currency": "PLN"
   }
