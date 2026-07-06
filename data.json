@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-07-06T10:14:54Z",
+  "last_updated": "2026-07-06T10:15:25Z",
   "poland": [
+    {
+      "title": "Autobus z Warszawy do Tallina wypadł z drogi na Litwie. Trwa ustalanie liczby rannych",
+      "url": "https://www.rp.pl/wypadki/art44776211-autobus-z-warszawy-do-tallina-wypadl-z-drogi-na-litwie-trwa-ustalanie-liczby-rannych",
+      "date": "2026-07-06T10:12:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Nocny wypadek autokaru Flixbus relacji Warszawa–Tallin na trasie Via Baltica na Litwie. Według różnych źródeł, pojazdem podróżowało od 20 do 27 osób, w tym Polacy. Ranni pasażerowie zostali przewiezieni do szpitali a przewoźnik uruchomił już specjalną infolinię dla rodzin poszkodowanych."
+    },
     {
       "title": "Niepokojący wzrost cen producentów w Europie. Wskaźnik najwyższy od trzech lat",
       "url": "https://businessinsider.com.pl/gospodarka/inflacja-producentow-najwyzsza-od-2023-roku-wplyw-wojny-i-blokady-ormuz/5d2frt2",
       "date": "2026-07-06T10:07:32Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
-      "summary": "Wojna na Bliskim Wschodzie nie pozostała bez wpływu na ceny, które uzyskują producenci ze sprzedaży swoich towarów. To może zwiastować podbicie inflacji konsumenckiej."
+      "summary": "Wojna na Bliskim Wschodzie nie pozostała w strefie euro bez wpływu na ceny, które uzyskują producenci ze sprzedaży swoich towarów. To może zwiastować podbicie inflacji konsumenckiej. W Polsce sytuacja jest lepsza."
     },
     {
       "title": "\"Taka sytuacja zagraża bezpieczeństwu pacjentów\". Lekarze rezydenci krytykują ministerstwo",
@@ -55,7 +63,7 @@
       "date": "2026-07-06T09:47:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
-      "summary": "Autokar - jadący z Warszawy do Tallinna - zjechał do rowu w Mariampolu. Wstępnie wiadomo, że przyczyną mogły być niekorzystne warunki atmosferyczne."
+      "summary": "Autokar - jadący z Warszawy do Tallinna - zjechał do rowu w pobliżu Mariampola. Wstępnie wiadomo, że przyczyną mogły być niekorzystne warunki atmosferyczne."
     },
     {
       "title": "Koniec z BPA w opakowaniach. Ważne zmiany w sklepach od 20 lipca",
@@ -170,14 +178,6 @@
       "summary": "Wiceprezes PiS Przemysław Czarnek wraz z dolnośląskimi parlamentarzystami partii domaga się wyjaśnień od Ministerstwa Klimatu i Środowiska oraz spółki Tauron w związku z masowym śnięciem ryb w rzece Bóbr po spuszczeniu wody ze zbiornika Pilchowice. Decyzja o zrzucie wody była związana z rozpoczęciem remontu zapory należącej do Tauron Ekoenergia."
     },
     {
-      "title": "Kraj NATO zdejmuje pętlę. Chodzi o broń jądrową - Polskie Radio 24",
-      "url": "https://polskieradio24.pl/swiat/litwa-chce-zniesc-zakaz-broni-jadrowej-mamy-prawo-byc-pelnoprawnym-czlonkiem-nato",
-      "date": "2026-07-06T08:55:14Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Kraj NATO zdejmuje pętlę. Chodzi o broń jądrową Polskie Radio 24."
-    },
-    {
       "title": "Król Erling Haaland nie jest robotem. Snajper uronił łzę po wygranej z Brazylią - Polskie Radio 24",
       "url": "https://polskieradio24.pl/sport/krol-erling-haaland-nie-jest-robotem-snajper-uronil-lze-po-wygranej-z-brazylia",
       "date": "2026-07-06T08:50:35Z",
@@ -290,14 +290,6 @@
       "summary": "Na Morzu Żółtym rozpoczęły się wspólne manewry morskie Chin i Rosji. Ze strony Moskwy w ćwiczeniach mają brać udział: krążownik rakietowy Wariag, korweta Riezkij, okręt podwodny Ufa i statek ratowniczy Igor Biełousow. - Wszystkie załogi są przygotowane i nie mogą doczekać się wykonania zadań - twierdzi dowódca strony rosyjskiej, kontradmirał Siergiej Sinko."
     },
     {
-      "title": "Ostrzeżenie przed \"lipcopadem\". Nadchodzi ochłodzenie, silny wiatr i 5 stopni",
-      "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198071,32897058,ostrzezenie-przed-lipcopadem-nadchodzi-ochlodzenie-silny.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-07-06T07:13:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Nad Polskę napłynie chłodne powietrze polarno-morskie z północnego Atlantyku. W najbliższych dniach czeka nas ochłodzenie, a odczucie zimna potęgować będzie silny wiatr."
-    },
-    {
       "title": "Takiej Sabalenki jeszcze nie było. Jej wyznanie po porażce obiegło świat - Polskie Radio 24",
       "url": "https://polskieradio24.pl/sport/mocne-slowa-aryny-sabalenki-po-porazce-na-wimbledonie-liderka-mowi-o-alkoholu",
       "date": "2026-07-06T06:21:07Z",
@@ -360,6 +352,14 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "Wikingowie wiosłują dalej! Kapitan Haaland wprowadza Norwegię do ćwierćfinału mundialu - Polskie Radio 24",
+      "url": "https://polskieradio24.pl/sport/gole-z-meczu-brazylia-norwegia-zobacz-wideo-bramek-z-meczu-18-finalu-mundialu",
+      "date": "2026-07-05T21:51:48Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Wikingowie wiosłują dalej! Kapitan Haaland wprowadza Norwegię do ćwierćfinału mundialu Polskie Radio 24."
     },
     {
       "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
@@ -492,6 +492,14 @@
       "summary": "Źródła Reuters podają, że Airbus nieformalnie dąży do dostarczenia 900 dostaw po mocnym czerwcu."
     },
     {
+      "title": "Irańscy żałobnicy wzywają do zemsty na Trumpie podczas procesji pogrzebowej Chameneiego – Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iranian-mourners-call-vengeance-trump-during-khamenei-funeral-procession-2026-07-06/",
+      "date": "2026-07-06T09:15:59Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Irańscy żałobnicy wzywają do zemsty na Trumpie podczas procesji pogrzebowej Chameneiego Reuters."
+    },
+    {
       "title": "Tajfun Bavi przynosi katastrofalne wiatry na wyspy zachodniego Pacyfiku – Reuters",
       "url": "https://www.reuters.com/business/environment/typhoon-bavi-brings-catastrophic-winds-western-pacific-islands-2026-07-06/",
       "date": "2026-07-06T08:57:38Z",
@@ -580,14 +588,6 @@
       "summary": "Międzynarodowa korespondentka BBC Yogita Limayee spotyka 12-letnią Fabianę, która została uwięziona podczas niszczycielskiego trzęsienia ziemi w Wenezueli."
     },
     {
-      "title": "Sześć osób zginęło w indyjskim Bombaju w wyniku deszczu, który sieje spustoszenie i utrudnia podróże – Reuters",
-      "url": "https://www.reuters.com/business/environment/six-killed-indias-mumbai-rains-wreak-havoc-disrupt-travel-2026-07-06/",
-      "date": "2026-07-06T07:03:24Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Sześć osób zginęło w indyjskim Bombaju w wyniku deszczów, które sieją spustoszenie i utrudniają podróże Reuters."
-    },
-    {
       "title": "„Czas, ślub, randka” Anthony’ego Albanese’a podkreśla obosieczny miecz występów w mediach społecznościowych",
       "url": "https://www.theguardian.com/australia-news/2026/jul/06/anthony-albanese-shag-marry-date-kylie-minogue-nikki-osborne-podcast-australian-prime-minister-social-media",
       "date": "2026-07-06T06:38:27Z",
@@ -644,14 +644,6 @@
       "summary": "Korespondentka z Europy Wschodniej Sarah Rainsford wyjaśnia, dlaczego Krym jest celem Kijowa i dlaczego półwysep ma znaczenie dla Władimira Putina."
     },
     {
-      "title": "Dziesięcioosobowa Anglia nadal pokonała Meksyk 3:2 w thrillerze 1/8 finału – Reuters",
-      "url": "https://www.reuters.com/sports/soccer/ten-man-england-beat-battling-mexico-3-2-last-16-thriller-2026-07-06/",
-      "date": "2026-07-06T05:58:57Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Dziesięcioosobowa Anglia nadal pokonała Meksyk 3:2 w thrillerze 16 ostatnich meczów Reuters."
-    },
-    {
       "title": "Nauczyciel z Melbourne objęty opieką do końca życia po strasznym zderzeniu głowy podczas meczu piłki nożnej na przedmieściach",
       "url": "https://www.theguardian.com/sport/2026/jul/06/nathan-fitzgerald-epping-footballer-victoria-head-injury-aussie-rules-football-game",
       "date": "2026-07-06T05:56:32Z",
@@ -682,6 +674,14 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Fabiana została uwięziona w gruzach 10-piętrowego budynku mieszkalnego po dwóch trzęsieniach ziemi, które nawiedziły Wenezuelę w czerwcu."
+    },
+    {
+      "title": "Aguirre żegna się z dumą, wspiera Marqueza, aby poprowadził Meksyk do przodu – Reuters",
+      "url": "https://www.reuters.com/sports/soccer/aguirre-bids-farewell-with-pride-backs-marquez-lead-mexico-forward-2026-07-06/",
+      "date": "2026-07-06T04:46:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Aguirre żegna się z dumą i wspiera Marqueza, aby poprowadził napastnika Meksyku Reuters."
     },
     {
       "title": "Australijska agencja kosmiczna znalazła „prawdopodobne źródło” tajemniczych kosmicznych kul",
@@ -836,6 +836,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": ""
+    },
+    {
+      "title": "Senat Filipin otwiera politycznie niepewny proces w sprawie impeachmentu wiceprezydent Sary Duterte – AP News",
+      "url": "https://apnews.com/article/philippine-vice-president-sara-duterte-impeachment-trial-6052d854b78881b742e48732b9305509",
+      "date": "2026-07-06T06:50:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 2,
+      "summary": "Senat Filipin otwiera politycznie niepewny proces w sprawie impeachmentu wiceprezydent Sary Duterte AP News."
     },
     {
       "title": "Trzej strażacy zabici w Kolorado zostali zapamiętani ze swojej odwagi podczas pożarów szalejących na Zachodzie – AP News",
@@ -996,17 +1004,17 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Papież odwiedza ambasadora USA 4 lipca po modlitwach na cmentarzu na Lampedusie w intencji ofiar migrantów AP News."
-    },
-    {
-      "title": "Władze mówią, że Paul Pelosi potrącił i uciekł w Kalifornii, samochód został poważnie uszkodzony – twierdzą władze – AP News",
-      "url": "https://apnews.com/article/paul-pelosi-hit-run-napa-county-nancy-03222e98042228c070971a4d13f8a861",
-      "date": "2026-07-04T21:49:46Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Władze AP News podają, że Paul Pelosi potrącił i uciekł w Kalifornii, samochód został poważnie uszkodzony."
     }
   ],
   "technology": [
+    {
+      "title": "GTA 6 poruszyło internet. Eksperci podali liczby",
+      "url": "https://www.benchmark.pl/gta-6-poruszylo-internet-eksperci-podali-liczby-7304521564494240a",
+      "date": "2026-07-06T10:12:54Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Jak wynika z analizy Instytutu Monitorowania Mediów (IMM), informacja o preorderze GTA VI wygenerowała w Polsce gigantyczny zasięg wśród internautów. Eksperci wyliczają, że było to 14,7 mln kontaktów z przekazem w dwa dni. To niemal sześć razy więcej niż porównywalny news o Resident Evil Requiem."
+    },
     {
       "title": "Ripple zabezpiecza autoryzację CASP od luksemburskiego organu nadzoru finansowego, dzięki czemu jest w pełni zgodny z MiCA i może oferować usługi kryptograficzne w 30 krajach EOG (Brian Danga/The Block)",
       "url": "https://www.techmeme.com/260706/p8#a260706p8",
@@ -1062,6 +1070,14 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Hideo Kojima ocenił, że odejście PlayStation od płyt z grami to zła wiadomość nie tylko dla kolekcjonerów. Jak podał serwis VGC, twórca \"Death Stranding\" i \"Metal Gear\" bardziej niż samą rezygnacją z nośników martwi się przyszłością, w której gry i filmy będą dostępne wyłącznie przez streaming."
+    },
+    {
+      "title": "Mapa sieci kolejowej Wielkiej Brytanii w czasie rzeczywistym",
+      "url": "https://www.map.signalbox.io",
+      "date": "2026-07-06T09:38:36Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.map.signalbox.io Adres URL komentarzy: https://news.ycombinator.com/item?id=48802535 Punkty: 21 # Komentarze: 4."
     },
     {
       "title": "SK Hynix rozpoczyna sprzedaż akcji w USA, aby zebrać ~28 miliardów dolarów; spółka planuje sprzedać 17,79 mln nowych akcji, a konkretny przedział cenowy zostanie ujawniony jeszcze dzisiaj (Reuters)",
@@ -1237,7 +1253,7 @@
       "date": "2026-07-06T07:05:25Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://tomtunguz.com/ai-spend-breakeven-2029/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48801493 Punkty: 84 # Komentarze: 70."
+      "summary": "Adres URL artykułu: https://tomtunguz.com/ai-spend-breakeven-2029/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48801493 Punkty: 86 # Komentarze: 73."
     },
     {
       "title": "Generuj parametryczne, możliwe do wyprodukowania modele 3D w ciągu kilku sekund",
@@ -1245,7 +1261,7 @@
       "date": "2026-07-06T07:04:33Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://kyrall.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48801488 Punkty: 28 # Komentarze: 15."
+      "summary": "Adres URL artykułu: https://kyrall.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48801488 Punkty: 29 # Komentarze: 17."
     },
     {
       "title": "Steam Machine nastraszyło użytkowników \"czerwoną linią śmierci\". Czy są powody do niepokoju?",
@@ -1304,20 +1320,12 @@
       "summary": "Ann Cao / South China Morning Post: Biren, producent chipów AI z siedzibą w Szanghaju, zebrał ~892,5 mln dolarów ze sprzedaży nowych udziałów, aby zwiększyć produkcję procesorów graficznych; Akcje Biren wzrosły o ponad 150% od styczniowej oferty publicznej w Hongkongu &mdash; Chiński mistrz w produkcji chipów wykorzystujących sztuczną inteligencję, Shanghai Biren Technology, zebrał 7 miliardów dolarów HK (892,5 miliona dolarów) &hellip;."
     },
     {
-      "title": "Badacze dokumentują JadePuffer, pierwsze znane „agentyczne oprogramowanie ransomware”, które dostosowuje się w czasie rzeczywistym i ponawia kroki, aby przeprowadzić kompleksową operację wymuszenia (Bill Toulas/BleepingComputer)",
-      "url": "https://www.techmeme.com/260706/p1#a260706p1",
-      "date": "2026-07-06T04:15:10Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Bill Toulas / BleepingComputer: Badacze dokumentują JadePuffer, pierwsze znane „agentyczne oprogramowanie ransomware”, które dostosowuje się w czasie rzeczywistym i ponawia kroki, aby przeprowadzić kompleksową operację wymuszenia &mdash; Badacze zidentyfikowali, ich zdaniem, pierwszy udokumentowany przypadek operacji ransomware, JadePuffer &hellip;."
-    },
-    {
       "title": "Budowanie relacji z klientami poprzez wsparcie nie wyszło tak, jak oczekiwano",
       "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
       "date": "2026-07-06T02:06:49Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support Adres URL komentarzy: https://news.ycombinator.com/item?id=48799929 Punkty: 126 # Komentarze: 80."
+      "summary": "Adres URL artykułu: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support Adres URL komentarzy: https://news.ycombinator.com/item?id=48799929 Punkty: 136 # Komentarze: 82."
     },
     {
       "title": "Sneakerweb",
@@ -1325,7 +1333,7 @@
       "date": "2026-07-06T01:35:09Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://sneakerweb.org/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48799781 Punkty: 59 # Komentarze: 15."
+      "summary": "Adres URL artykułu: https://sneakerweb.org/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48799781 Punkty: 61 # Komentarze: 15."
     },
     {
       "title": "GPT-5.6 Sol Ultra będzie w Codexie",
@@ -1333,7 +1341,7 @@
       "date": "2026-07-06T01:04:03Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Adres URL komentarzy: https://news.ycombinator.com/item?id=48799614 Punkty: 285 # Komentarze: 221."
+      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Adres URL komentarzy: https://news.ycombinator.com/item?id=48799614 Punkty: 290 # Komentarze: 226."
     },
     {
       "title": "Prywatne zdobycie publicznego geniuszu",
@@ -1341,15 +1349,7 @@
       "date": "2026-07-05T23:52:20Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.wysr.xyz/p/the-private-capture-of-public-genius Adres URL komentarzy: https://news.ycombinator.com/item?id=48799178 Punkty: 109 # Komentarze: 55."
-    },
-    {
-      "title": "Nie_był_oglądany_dużo",
-      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-      "date": "2026-07-05T23:49:00Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://iamwillwang.com/notes/has-not-been-viewed-much/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48799155 Punkty: 305 # Komentarze: 80."
+      "summary": "Adres URL artykułu: https://www.wysr.xyz/p/the-private-capture-of-public-genius Adres URL komentarzy: https://news.ycombinator.com/item?id=48799178 Punkty: 110 # Komentarze: 56."
     },
     {
       "title": "Liczba wypadków chemicznych wzrasta, gdy administracja Trumpa proponuje osłabienie zasad bezpieczeństwa",
@@ -1748,6 +1748,14 @@
   ],
   "finance": [
     {
+      "title": "XTB wydłużył godziny handlu na europejskich akcjach i ETF - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/xtb-rozszerzone-godziny-handlu-europejskie-akcje-etf,akcje,375757",
+      "date": "2026-07-06T10:08:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "XTB wydłużył godziny handlu na europejskich akcjach i ETF stockwatch.pl."
+    },
+    {
       "title": "Przełomowy rok dla uczestników PPK. Nadchodzi przegląd całego programu",
       "url": "https://www.bankier.pl/wiadomosc/Przelomowy-rok-dla-uczestnikow-PPK-Nadchodzi-przeglad-calego-programu-9163984.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-06T10:04:00Z",
@@ -1772,20 +1780,20 @@
       "summary": "Wicepremier, szef MSZ Radosław Sikorski ocenił, że rozwiązanie polegające na odtajnieniu donacji dla Ukrainy z lat 2022-2026 „powinno wpłynąć bardzo dobrze na relacje Polski z Ukrainą, bo pokaże, jak dużo Ukrainie pomogliśmy”."
     },
     {
-      "title": "Postępowanie egzekucyjne w administracji. Sprzedaż ruchomości i nieruchomości. Jak wygląda procedura? - Forsal.pl",
-      "url": "https://forsal.pl/gospodarka/aktualnosci/artykuly/11271971,elektronizacja-postepowania-egzekucyjnego-prowadzonego-przez-naczelnikow-urzedow-skarbowych-portal-elicytacje.html",
-      "date": "2026-07-06T09:57:44Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Postępowanie egzekucyjne w administracji. Sprzedaż ruchomości i nieruchomości. Jak wygląda procedura?"
-    },
-    {
       "title": "Jak bardzo Polska pomogła Ukrainie? Rząd odtajni dokumenty z ostatnich lat - Forsal.pl",
       "url": "https://forsal.pl/kraj/bezpieczenstwo/artykuly/11271980,jak-bardzo-polska-pomogla-ukrainie-rzad-odtajni-dokumenty-z-ostatnich-lat.html",
       "date": "2026-07-06T09:54:13Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Jak bardzo Polska pomogła Ukrainie? Rząd odtajni dokumenty z ostatnich lat Forsal.pl."
+    },
+    {
+      "title": "Postępowanie egzekucyjne w administracji. Sprzedaż ruchomości i nieruchomości. Jak wygląda procedura? - Forsal.pl",
+      "url": "https://forsal.pl/gospodarka/aktualnosci/artykuly/11271971,elektronizacja-postepowania-egzekucyjnego-prowadzonego-przez-naczelnikow-urzedow-skarbowych-portal-elicytacje.html",
+      "date": "2026-07-06T09:53:17Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Postępowanie egzekucyjne w administracji. Sprzedaż ruchomości i nieruchomości. Jak wygląda procedura?"
     },
     {
       "title": "B-Act inżynierem kontraktu przy budowie dostępu lądowego do terminalu kontenerowego w Świnoujściu - stockwatch.pl",
@@ -1980,14 +1988,6 @@
       "summary": "Teraz trzeba będzie wymienić nawigację w aucie? Forsal.pl."
     },
     {
-      "title": "Co z ZFŚŚ dla pracowników uczelni? - Forsal.pl",
-      "url": "https://forsal.pl/lifestyle/edukacja/artykuly/11271900,zfss-na-uczelniach-bez-zmian-do-2036-roku-rzad-chce-przedluzyc-zamrozone-przepisy.html",
-      "date": "2026-07-06T08:01:57Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Co z ZFŚŚ dla pracowników uczelni? Forsal.pl."
-    },
-    {
       "title": "Jak zaprogramować sterownik PLC X20? Praktyczny poradnik",
       "url": "https://300gospodarka.pl/material-partnera/jak-zaprogramowac-sterownik-plc-x20-praktyczny-poradnik",
       "date": "2026-07-06T07:48:22Z",
@@ -2108,6 +2108,14 @@
       "summary": "Polskie porty morskie przeładowały w 2025 roku 128 mln ton ładunków, o 3,1 proc. więcej niż rok wcześniej – wynika z najnowszych danych GUS. Im większą rolę porty odgrywają w imporcie surowców, paliw i towarów strategicznych, tym większe znaczenie ma ich ochrona."
     },
     {
+      "title": "Notowania CDR (CDPROJEKT) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/CD-PROJEKT",
+      "date": "2026-07-03T15:04:57Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania CDR (CDPROJEKT) BiznesRadar."
+    },
+    {
       "title": "Notowania MBR (MOBRUK) - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/MBR",
       "date": "2026-07-03T15:04:37Z",
@@ -2138,14 +2146,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania LFR (LIFTERO) BiznesRadar."
-    },
-    {
-      "title": "Wycena MODIVO SA (MDV) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wycena/MDV",
-      "date": "2026-07-03T15:02:57Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wycena MODIVO SA (MDV) BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2674,7 +2674,7 @@
       "2026-07-02"
     ],
     "prices": [
-      25941.01,
+      25930.31,
       24961.42,
       24903.58,
       24943.9,
@@ -2740,51 +2740,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25620.94,
+      25610.38,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26782.94,
+      26771.9,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26929.6,
+      26918.49,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27174.05,
+      27162.84,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27808.51,
+      27797.04,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27844.48,
+      27832.99,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28088.66,
+      28077.08,
       27354.94,
       27400.36,
       27412.11,
-      28489.28,
+      28477.53,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27751.42,
+      27739.97,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27930.77,
+      27919.25,
       27686.17,
       27404.78,
       27351.97,
@@ -2793,7 +2793,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27639.72,
+      27628.32,
       27930.04,
       28234.04,
       28218.36,
