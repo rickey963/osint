@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T19:39:47Z",
+  "last_updated": "2026-07-06T19:40:36Z",
   "poland": [
     {
       "title": "Polska oddała Ukrainie pociski Patriot. „W razie zagrożenia dostaniemy 10 razy więcej”",
@@ -298,6 +298,14 @@
       "summary": "\"Po raz pierwszy ukraińskie drony zaatakowały rafinerię ropy w Omsku, położoną ponad 2 500 km od granicy z Ukrainą\" - podali ukraińscy wojskowi w komunikacie na Facebooku. Jak podkreślili, to ostatnia z największych rosyjskich rafinerii, która dotychczas nie stała się celem ataku."
     },
     {
+      "title": "Potężny niż uderzy w Polskę. Wiatr do 120 km/h, zagrożone całe Wybrzeże - Polskie Radio 24",
+      "url": "https://polskieradio24.pl/pogoda/potezny-niz-uderzy-w-polske-wiatr-do-120-kmh-zagrozone-cale-wybrzeze",
+      "date": "2026-07-06T14:02:34Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Potężny niż uderzy w Polskę. Wiatr do 120 km/h, zagrożone całe Wybrzeże Polskie Radio 24."
+    },
+    {
       "title": "Kiedy powrót upałów? IMGW pokazał nową prognozę pogody",
       "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198071,32898220,kiedy-powrot-upalow-imgw-pokazal-nowa-prognoze-pogody.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-07-06T13:35:00Z",
@@ -328,6 +336,14 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "liliowce - PAP Foto Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "- Polska Agencja Prasowa SA",
+      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC105%20contains(Tour%20de%20France%20cycling%20tour%20-%20Stage%203))",
+      "date": "2026-07-06T13:30:45Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Polska Agencja Prasowa SA."
     },
     {
       "title": "- Polska Agencja Prasowa SA",
@@ -384,22 +400,6 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Sensacyjnie pokonał gwiazdę. Teraz zagra z Hurkaczem o 1/4 finału Wimbledonu Polskie Radio 24."
-    },
-    {
-      "title": "Wiemy, kiedy wrócą letnie temperatury. Animacja pokazuje dzień przełomu - Polskie Radio 24",
-      "url": "https://polskieradio24.pl/pogoda/wiemy-kiedy-wroca-letnie-temperatury-animacja-pokazuje-dzien-przelomu",
-      "date": "2026-07-06T10:09:34Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Wiemy, kiedy wrócą letnie temperatury. Animacja pokazuje dzień przełomu Polskie Radio 24."
-    },
-    {
-      "title": "Deadzone travel, czyli podróż tam gdzie nie ma zasięgu - Polska Agencja Prasowa SA",
-      "url": "https://www.pap.pl/mediaroom/deadzone-travel-czyli-podroz-tam-gdzie-nie-ma-zasiegu",
-      "date": "2026-07-06T09:17:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Deadzone travel, czyli podróż tam gdzie nie ma zasięgu Polska Agencja Prasowa SA."
     }
   ],
   "world_security": [
@@ -1736,14 +1736,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Firma zajmująca się bezpieczeństwem runZero ujawniła siedem luk w zabezpieczeniach FatFs, małej biblioteki systemu plików, która umożliwia urządzeniu odczytywanie i zapisywanie formatów FAT i exFAT używanych na dyskach USB i kartach SD. Wady mają znaczenie, ponieważ FatF jest prawie wszędzie. Jest dostarczany z oprogramowaniem obsługującym kamery bezpieczeństwa, drony, kontrolery przemysłowe, sprzętowe portfele kryptograficzne i inne wbudowane urządzenia."
-    },
-    {
-      "title": "Nowa luka w jądrze Linuksa „Bad Epoll” umożliwia nieuprzywilejowanym użytkownikom uzyskanie roota, uderza w Androida",
-      "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
-      "date": "2026-07-03T19:40:01Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Nowo ujawniona luka w jądrze Linuksa o nazwie Bad Epoll (CVE-2026-46242) pozwala zwykłemu użytkownikowi bez specjalnego dostępu przejąć pełną kontrolę nad komputerem jako root. Wpływa na komputery stacjonarne, serwery i system Android z systemem Linux i obecnie dostępna jest poprawka. Bad Epoll znajduje się w tym samym małym fragmencie kodu jądra, w którym najpotężniejszy model sztucznej inteligencji firmy Anthropic, Mythos, niedawno znalazł inny błąd."
     }
   ],
   "finance": [
@@ -1786,6 +1778,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat EBI The Dust SA (thedust): Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej stockwatch.pl."
+    },
+    {
+      "title": "Nie tylko rakiety do systemu Patriot. Ten sprzęt Polska przekazała Ukrainie od początku wojny - Forsal.pl",
+      "url": "https://forsal.pl/kraj/bezpieczenstwo/artykuly/11272474,ponad-16-mld-zl-donacji-dla-ukrainy-polska-przekazala-rowniez-rakiety.html",
+      "date": "2026-07-06T18:26:36Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Nie tylko rakiety do systemu Patriot. Ten sprzęt Polska przekazała Ukrainie od początku wojny Forsal.pl."
     },
     {
       "title": "Inwestorzy rzucili się na euroobligacje. Obligacyjny hit Pekao",
@@ -1946,14 +1946,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "100 dni na GPW – bilans wydarzeń i perspektywy Zapraszamy na webinar z Zarządem Scanway S.A. Webinary pon., 06.07.2026 Kanał Strefa Inwestorów Scanway webinar Scanway Scanway plany rozwoju Scanway notowania Scanway aktualna sytuacja Scanway akcje Treść Scanway to działająca od 10 lat polska firma specjalizująca się w pełnym łańcuchu danych optycznych – od ich akwizycji po zaawansowaną analitykę. Spółka należy do elitarnego grona kilkunastu podmiotów na świecie, które opracowały kompletne systemy do obserwacji Ziemi z orbity, i obecnie z sukcesem operuje najdłużej działającym polskim satelitą obserwacyjnym STAR VIBE."
-    },
-    {
-      "title": "Wiadomo, kiedy wypłaty 14. emerytury. Jest projekt rozporządzenia RM - Forsal.pl",
-      "url": "https://forsal.pl/finanse/aktualnosci/artykuly/11272337,kiedy-wyplaty-14-emerytury-jest-projekt-rozporzadzenia-rm.html",
-      "date": "2026-07-06T14:27:14Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Wiadomo, kiedy wypłaty 14. emerytury. Jest projekt rozporządzenia RM Forsal.pl."
     },
     {
       "title": "Firma Dun & Bradstreet świętuje 185 lat innowacji - Biznes - Forbes",
@@ -2718,51 +2710,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25550.39,
+      25551.07,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26709.19,
+      26709.9,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26855.44,
+      26856.15,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27099.21,
+      27099.94,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27731.93,
+      27732.67,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27767.8,
+      27768.54,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28011.31,
+      28012.06,
       27354.94,
       27400.36,
       27412.11,
-      28410.82,
+      28411.58,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27675.0,
+      27675.73,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27853.86,
+      27854.6,
       27686.17,
       27404.78,
       27351.97,
@@ -2771,12 +2763,12 @@
       27661.43,
       27749.69,
       27709.26,
-      27563.6,
+      27564.34,
       27930.04,
       28234.04,
       28218.36,
       28078.54,
-      28284.85
+      28285.68
     ],
     "currency": "PLN"
   }
