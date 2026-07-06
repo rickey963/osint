@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-06T02:29:43Z",
+  "last_updated": "2026-07-06T02:30:19Z",
   "poland": [
+    {
+      "title": "Donald Trump w centrum obchodów rocznicowych",
+      "url": "https://www.rp.pl/polityka/art44772041-donald-trump-w-centrum-obchodow-rocznicowych",
+      "date": "2026-07-06T02:30:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Mimo niesprzyjającej pogody Amerykanie z wielkim rozmachem uczcili w sobotę 250. rocznicę uzyskania przez Stany Zjednoczone niepodległości. Prezydent nadał jej charakter skoncentrowany wokół jego osoby i jego wizji świata."
+    },
+    {
+      "title": "Premier stawia ultimatum w sprawie zdrowia. KO oczekuje zmian, nie tylko dymisji",
+      "url": "https://www.rp.pl/polityka/art44771311-premier-stawia-ultimatum-w-sprawie-zdrowia-ko-oczekuje-zmian-nie-tylko-dymisji",
+      "date": "2026-07-06T02:30:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Premier Donald Tusk postawił ultimatum resortowi zdrowia i NFZ. Oczekuje na rekomendacje, które miałyby rozwiązać „oburzające praktyki” w ochronie zdrowia. Czy to oznacza dymisję szefowej resortu?"
+    },
     {
       "title": "Rekrutacja zamienia się w tor przeszkód. Tak długo pracy jeszcze nie szukano",
       "url": "https://www.rp.pl/rynek-pracy/art44772071-rekrutacja-zamienia-sie-w-tor-przeszkod-tak-dlugo-pracy-jeszcze-nie-szukano",
@@ -58,14 +74,6 @@
       "summary": "Ubiegłoroczne regulacje przyczyniły się do spadku liczby studiujących w Polsce cudzoziemców, choć ich napływ pomaga wyrównać malejący napływ rodzimych kandydatów, zapewnia dodatkowe dochody uczelniom i wspiera lokalną gospodarkę."
     },
     {
-      "title": "Ładowarka jak trojan. Cybersabotaż energetyki staje się realny",
-      "url": "https://www.rp.pl/biznes/art44768291-ladowarka-jak-trojan-cybersabotaz-energetyki-staje-sie-realny",
-      "date": "2026-07-06T02:04:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Zabezpieczenia infrastruktury tankowania „elektryków” mają luki, a skoordynowane cyberuderzenie w systemy zasilania transportu może zaburzyć dystrybucję prądu, unieruchomić tysiące pojazdów i posłużyć obcym wywiadom do inwigilacji."
-    },
-    {
       "title": "Tak wyglądają pary 1/4 finału MŚ. Oni powalczą o półfinał mundialu - Polskie Radio 24",
       "url": "https://polskieradio24.pl/sport/pary-i-drabinka-14-finalu-ms-kto-z-kim-zagra-na-mundialu",
       "date": "2026-07-06T01:20:48Z",
@@ -80,14 +88,6 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Sensacyjnie pokonał gwiazdę. Teraz zagra z Hurkaczem o 1/4 finału Wimbledonu Polskie Radio 24."
-    },
-    {
-      "title": "Haaland pokazał Brazylii, co znaczy skuteczność. Norwegia wiosłuje do ćwierćfinału",
-      "url": "https://sport.rp.pl/pilka-nozna/art44774641-haaland-pokazal-brazylii-co-znaczy-skutecznosc-norwegia-wiosluje-do-cwiercfinalu",
-      "date": "2026-07-05T22:26:36Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Dwa gole Erlinga Haalanda w końcówce meczu dały Norwegii zwycięstwo 2:1 w hicie 1/8 finału mundialu z Brazylią. Brazylijczycy nie wykorzystali paru świetnych szans, na czele z rzutem karnym Bruno Guimarãesa, obronionym przez Ørjana Nylanda. Honorowego gola strzelił Neymar."
     },
     {
       "title": "Trump spotka się z Zełenskim podczas szczytu NATO w Ankarze. Ale głównym celem USA będzie \"rozliczenie sojuszników\"",
@@ -2068,6 +2068,14 @@
       "summary": "Notowania CDR (CDPROJEKT) BiznesRadar."
     },
     {
+      "title": "Notowania MBR (MOBRUK) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/MBR",
+      "date": "2026-07-03T15:04:37Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania MBR (MOBRUK) BiznesRadar."
+    },
+    {
       "title": "Notowania DNP (DINOPL) - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/DNP",
       "date": "2026-07-03T15:04:35Z",
@@ -2082,14 +2090,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Akcjonariat: akcjonariusze PLAYWAY SA (PLW) BiznesRadar."
-    },
-    {
-      "title": "Analiza techniczna PKO (PKOBP) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/PKO",
-      "date": "2026-07-03T15:04:07Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Analiza techniczna PKO (PKOBP) BiznesRadar."
     },
     {
       "title": "Notowania SCW (SCANWAY) - BiznesRadar",
@@ -2579,7 +2579,7 @@
       "2026-07-02"
     ],
     "prices": [
-      25914.44,
+      25917.54,
       24961.42,
       24903.58,
       24943.9,
@@ -2645,51 +2645,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25594.7,
+      25597.76,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26755.51,
+      26758.71,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26902.01,
+      26905.23,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27146.21,
+      27149.46,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27780.02,
+      27783.35,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27815.95,
+      27819.29,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28059.89,
+      28063.25,
       27354.94,
       27400.36,
       27412.11,
-      28460.09,
+      28463.5,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27722.99,
+      27726.31,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27902.16,
+      27905.5,
       27686.17,
       27404.78,
       27351.97,
@@ -2698,7 +2698,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27611.4,
+      27614.71,
       27930.04,
       28234.04,
       28218.36,
