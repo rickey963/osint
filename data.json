@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-06T17:53:37Z",
+  "last_updated": "2026-07-06T17:58:38Z",
   "poland": [
+    {
+      "title": "Trump komentuje atak Rosji na Kijów: Myślę, że Putin odczuwa presję",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32898780,trump-komentuje-atak-rosji-na-kijow-mysle-ze-putin-odczuwa.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-07-06T17:52:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Donald Trump, zapytany przez dziennikarkę na konferencji prasowej o ostatni atak Rosji na Ukrainę, stwierdził, że Władimir Putin chce zakończenia wojny, której rozwiązanie jest bliżej, niż się wydaje."
+    },
     {
       "title": "Wołodymyr Zełenski o kluczowej fazie wojny z Rosją. \"Pozostaje tylko jedna niewiadoma\"",
       "url": "https://businessinsider.com.pl/wiadomosci/zelenski-o-pociskach-do-patriotow-docieraly-doslownie-dzien-przed-zmasowanym-atakiem/5mpj6j1",
@@ -88,14 +96,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "W Warszawie powstaną ogólnodostępne kaucjomaty dla mieszkańców osiedli – informuje Portal Samorządowy. Projekt będą realizować wspólnie Kaucja.pl, Recyclo oraz Warszawska Spółdzielnia Mieszkaniowa. Jego celem jest ułatwienie zwrotu butelek i puszek oraz sprawne rozliczanie kaucji."
-    },
-    {
-      "title": "Takimi banknotami nie zapłacisz w sklepie. Wyjaśniamy, jak odzyskać pieniądze",
-      "url": "https://www.rp.pl/finanse/art44777781-takimi-banknotami-nie-zaplacisz-w-sklepie-wyjasniamy-jak-odzyskac-pieniadze",
-      "date": "2026-07-06T16:45:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Zniszczony, podarty, poplamiony lub odbarwiony banknot nie zawsze zostanie przyjęty w sklepie. Kasjer ma prawo odmówić przyjęcia gotówki, jeżeli jej stan budzi wątpliwości. Nie oznacza to jednak, że pieniądze przepadają."
     },
     {
       "title": "Zmiany w Child Alert. Sposób poszukiwania dzieci wywołał kontrowersje",
@@ -307,14 +307,6 @@
     },
     {
       "title": "- Polska Agencja Prasowa SA",
-      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC105%20contains(Tour%20de%20France%20cycling%20tour%20-%20Stage%203))",
-      "date": "2026-07-06T13:30:45Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "- Polska Agencja Prasowa SA",
       "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC025%20contains(Showing))",
       "date": "2026-07-06T13:30:44Z",
       "source": "PAP",
@@ -368,6 +360,14 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Zdjęcia satelitarne pokazują potężne pożary. Dym unosi się nad Europą Polskie Radio 24."
+    },
+    {
+      "title": "Szef MON: wraca rotacja wojsk amerykańskich w Polsce - Polska Agencja Prasowa SA",
+      "url": "https://www.pap.pl/aktualnosci/szef-mon-wraca-rotacja-wojsk-amerykanskich-w-polsce",
+      "date": "2026-07-06T10:49:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Szef MON: wraca rotacja wojsk amerykańskich w Polsce Polska Agencja Prasowa SA."
     },
     {
       "title": "- Polska Agencja Prasowa SA",
@@ -444,12 +444,20 @@
       "summary": "FIFA odrzuca wyzwanie Belgii w związku z kwalifikacją amerykańskiego napastnika Baloguna do starcia w Pucharze Świata Reuters."
     },
     {
-      "title": "Hamas rozwiązuje rząd Gazy, Izrael odrzuca to posunięcie jako „wyczyn” – Reuters",
+      "title": "Hamas rozwiązuje rząd w Gazie, Izrael odrzuca to posunięcie jako „wyczyn” – Reuters",
       "url": "https://www.reuters.com/world/middle-east/hamas-dissolves-gaza-government-presses-progress-stalled-peace-plan-2026-07-06/",
       "date": "2026-07-06T17:05:09Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Hamas rozwiązuje rząd w Gazie, Izrael odrzuca to posunięcie jako „wyczyn” Reuters."
+    },
+    {
+      "title": "FIFA broni decyzji Baloguna, Trump nazywa zwrot czerwonej kartki „genialnym” – Reuters",
+      "url": "https://www.reuters.com/sports/soccer/uefa-says-fifa-crossed-red-line-with-balogun-red-card-u-turn-world-cup-2026-07-06/",
+      "date": "2026-07-06T16:54:59Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "FIFA broni decyzji Baloguna, Trump nazywa zmianę sytuacji czerwoną kartką „genialną” Reuters"
     },
     {
       "title": "Awaria krajowej sieci energetycznej Kuby z nieznanej przyczyny – Reuters",
@@ -481,7 +489,7 @@
       "date": "2026-07-06T16:41:47Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "TKMS pokonuje południowokoreańskiego rywala w wielomiliardowym kontrakcie, który pogłębi więzi Kanady z NATOKanada wybrała niemieckie konsorcjum do zbudowania kilkunastu najnowocześniejszych okrętów podwodnych w ramach jednego z największych w historii kontraktów obronnych, który jeszcze bardziej zacieśni jej więzi z NATO przed kluczowym szczytem w tym tygodniu. W poniedziałek premier Mark Carney ogłosił zwycięzcę zaciętej bitwy o lukratywny kontrakt rządowy na wymianę floty starzejących się, używanych łodzi podwodnych, w tym większości z nich jest w trakcie konserwacji. Kontynuuj czytanie..."
+      "summary": "TKMS pokonuje południowokoreańskiego rywala w wielomiliardowym kontrakcie, który pogłębi więzi Kanady z NATOKanada wybrała niemieckie konsorcjum do zbudowania kilkunastu najnowocześniejszych okrętów podwodnych w ramach jednego z największych w historii kontraktów obronnych w kraju, który jeszcze bardziej zacieśni jej więzi z NATO przed kluczowym szczytem w tym tygodniu. W poniedziałek premier Mark Carney ogłosił zwycięzcę zaciętej bitwy o lukratywny kontrakt rządowy na wymianę floty starzejących się, używanych łodzi podwodnych, w tym większości z nich jest w trakcie konserwacji. Kontynuuj czytanie..."
     },
     {
       "title": "„Spektakl, jaki Iran chce zobaczyć świat”: Lyse Doucet w Teheranie",
@@ -492,23 +500,15 @@
       "summary": "Ogromne tłumy wyszły na ulice Teheranu podczas konduktu pogrzebowego zmarłego najwyższego przywódcy Iranu, ajatollaha Alego Chamenei."
     },
     {
-      "title": "Trump nazywa czerwoną kartkę Baloguna „genialną decyzją”, UEFA twierdzi, że FIFA „przekroczyła czerwoną linię” – Reuters",
-      "url": "https://www.reuters.com/sports/soccer/uefa-says-fifa-crossed-red-line-with-balogun-red-card-u-turn-world-cup-2026-07-06/",
-      "date": "2026-07-06T16:20:14Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Trump nazywa czerwoną kartkę Baloguna „genialną decyzją”, UEFA twierdzi, że FIFA „przekroczyła czerwoną linię” Reuters."
-    },
-    {
       "title": "Wielka Brytania powinna rozważyć uregulowanie modeli sztucznej inteligencji, twierdzi urzędnik FCA – Reuters",
       "url": "https://www.reuters.com/legal/litigation/britain-should-consider-regulating-ai-models-fca-official-says-2026-07-06/",
       "date": "2026-07-06T16:08:44Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Wielka Brytania powinna rozważyć uregulowanie modeli sztucznej inteligencji, twierdzi urzędnik FCA, Reuters."
+      "summary": "Wielka Brytania powinna rozważyć uregulowanie modeli sztucznej inteligencji, twierdzi urzędnik FCA Reuters."
     },
     {
-      "title": "Co najmniej 21 osób zginęło w fali rosyjskich ataków na Ukrainie w przededniu szczytu NATO",
+      "title": "Co najmniej 21 osób zginęło w fali rosyjskich ataków na Ukrainie w przeddzień szczytu NATO",
       "url": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine",
       "date": "2026-07-06T16:06:23Z",
       "source": "The Guardian",
@@ -529,7 +529,7 @@
       "date": "2026-07-06T16:04:29Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Prezydent Ukrainy składa apelację przed szczytem w Ankarze, który odbędzie się w tym tygodniu w Ankarze, gdzie ma spotkać się z Trumpem na marginesie. Tymczasem Wielka Brytania właśnie nałożyła sankcje na rosyjskie podmioty zaangażowane w badania, rozwój i produkcję środka paraliżującego nowiczok oraz śmiercionośnej toksycznej epibatydyny, użytych podczas ataku w Salisbury i otrucia Aleksieja Nawalnego. Sankcje te obejmują SC Signal, rosyjski państwowy instytut naukowo-badawczy, a także trzy osoby prowadzące badania nad nowiczokiem i Epibatydyna. „Powtarzające się użycie przez Rosję broni chemicznej jest obrzydliwym naruszeniem prawa międzynarodowego i bezpośrednim zagrożeniem dla globalnego bezpieczeństwa. Od użycia środków paraliżujących nowiczok w Salisbury po Epibatydynę na Syberii, otrucie Dawn Sturgess i Aleksieja Nawalnego, Rosja w dalszym ciągu używa barbarzyńskich narzędzi do zadawania śmierci i cierpienia niewinnym cywilom, w tym na Ukrainie. Kontynuuj czytanie…"
+      "summary": "Prezydent Ukrainy składa apelację przed szczytem w Ankarze, który odbędzie się w tym tygodniu w Ankarze, gdzie ma spotkać się z Trumpem na marginesie. Tymczasem Wielka Brytania właśnie nałożyła sankcje na rosyjskie podmioty zaangażowane w badania, rozwój i produkcję środka paraliżującego nowiczok oraz śmiercionośnej toksycznej epibatydyny, użytych podczas ataku w Salisbury i otrucia Aleksieja Nawalnego. Wśród tych sankcji znajdują się SC Signal, rosyjski państwowy instytut naukowo-badawczy, a także trzy osoby prowadzące badania nad nowiczokiem i Epibatydyna. „Powtarzające się użycie przez Rosję broni chemicznej jest obrzydliwym naruszeniem prawa międzynarodowego i bezpośrednim zagrożeniem dla globalnego bezpieczeństwa. Od użycia środków paraliżujących nowiczok w Salisbury po Epibatydynę na Syberii, otrucie Dawn Sturgess i Aleksieja Nawalnego, Rosja w dalszym ciągu używa barbarzyńskich narzędzi do zadawania śmierci i cierpienia niewinnym cywilom, w tym na Ukrainie. Kontynuuj czytanie..."
     },
     {
       "title": "Amerykański sędzia odrzuca wniosek Elona Muska o uchylenie wyroku w sprawie oszustwa na Twitterze – Reuters",
@@ -545,7 +545,7 @@
       "date": "2026-07-06T15:58:26Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Przybycie zagrożonych kotów, w tym rzadkich białych młodych, ożywia zespół napięty z powodu niedoborów paliwa i leków. Dla kubańskiego opiekuna zoo Ángela Cordero widok czterech młodych tygrysów bengalskich bawiących się w klatce w kubańskim narodowym zoo to mały cud na wyspie stłumionej niedoborami paliwa, lekarstw i wielodniowymi przerwami w dostawie prądu. Narodziny tych zagrożonych dużych kotów – w tym niezwykle rzadkiego białego tygrysa – ożywił zespół pracowników ogrodów zoologicznych – stwierdził. Kontynuuj czytanie..."
+      "summary": "Przybycie zagrożonych kotów, w tym rzadkich białych młodych, ożywia zespół napięty z powodu niedoborów paliwa i lekarstw. Dla kubańskiego opiekuna zoo Ángela Cordero widok czterech młodych tygrysów bengalskich bawiących się w klatce w kubańskim narodowym zoo to mały cud na wyspie stłumionej niedoborami paliwa, lekarstw i wielodniowymi przerwami w dostawie prądu. Narodziny tych zagrożonych dużych kotów – w tym niezwykle rzadkiego białego tygrysa – ożywił zespół pracowników ogrodów zoologicznych – stwierdził. Kontynuuj czytanie..."
     },
     {
       "title": "Kryzys na Bliskim Wschodzie: W Iranie rozpoczyna się procesja pogrzebowa najwyższego przywódcy Alego Chameneiego – tak się stało",
@@ -596,7 +596,7 @@
       "summary": "Ukraińskie drony uderzyły w największą rafinerię w Rosji, co było jednym z najgłębszych ataków w historii Reutersa."
     },
     {
-      "title": "Ukraina ostrzega przed niedoborami rakiet przechwytujących – w obwodzie kijowskim zginęły 23 osoby",
+      "title": "Ukraina ostrzega przed niedoborami rakiet przechwytujących, ponieważ w obwodzie kijowskim zginęły 23 osoby",
       "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-06T15:09:57Z",
       "source": "BBC News",
@@ -604,7 +604,7 @@
       "summary": "Prezydent Zełenski twierdzi, że niedzielny „zmasowany rosyjski atak” na Kijów składał się z 68 rakiet i 351 dronów uderzeniowych."
     },
     {
-      "title": "Lepiej zarabiający Australijczycy uciekają się do programu pierwszej lokaty mieszkaniowej z oprocentowaniem 5%, a niektórzy pożyczkobiorcy zarabiają ponad 200 000 dolarów",
+      "title": "Wyżej zarabiający Australijczycy uciekają się do programu pierwszej lokaty mieszkaniowej z oprocentowaniem 5%, a niektórzy pożyczkobiorcy zarabiają ponad 200 000 dolarów",
       "url": "https://www.theguardian.com/australia-news/2026/jul/07/first-home-buyers-guarantee-scheme-attracting-high-earners-raising-prices",
       "date": "2026-07-06T15:00:15Z",
       "source": "The Guardian",
@@ -633,7 +633,7 @@
       "date": "2026-07-06T14:35:23Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Kreml twierdzi, że Putin i Trump podczas weekendowej rozmowy telefonicznej zgodzili się na ponowne rozmowy w „niedalekiej przyszłości” – Reuters."
+      "summary": "Kreml twierdzi, że Putin i Trump podczas weekendowej rozmowy telefonicznej zgodzili się na ponowne rozmowy w „niedalekiej przyszłości” Reuters."
     },
     {
       "title": "W zamieszkach w więzieniach na Sri Lance zginęło 26 osób, a ponad 100 zostało rannych",
@@ -673,7 +673,7 @@
       "date": "2026-07-06T13:42:52Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Morgan Stanley twierdzi, że inwestorzy w sztuczną inteligencję mogą zwrócić się ku hiperskalowerom oferowanym przez producentów chipów, twierdzi Reuters."
+      "summary": "Morgan Stanley twierdzi, że inwestorzy w sztuczną inteligencję mogą zwrócić się w stronę hiperskalerów oferowanych przez producentów chipów."
     },
     {
       "title": "EKSKLUZYWNIE: Wydobycie ropy w Zjednoczonych Emiratach Arabskich jest bliskie rekordu po wyjściu OPEC, podają źródła – Reuters",
@@ -689,7 +689,7 @@
       "date": "2026-07-06T13:33:38Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Hussam Abu Safiya stoi w obliczu „namacalnego zagrożenia życia” po 18 miesiącach więzienia bez postawienia zarzutów i procesu Kryzys na Bliskim Wschodzie na żywo – najnowsze aktualizacje Jeden z najwybitniejszych lekarzy w Gazie jest prawie nie do poznania z powodu poważnych obrażeń odniesionych w izraelskim areszcie, powiedział jego prawnik, i stoi w obliczu „namacalnego zagrożenia życia” po 18 miesiącach przetrzymywania bez postawienia zarzutów i procesu. Hussam Abu Safiya spotkał się ze swoim prawnikiem 2 lipca po rozprawie pod koniec czerwca przeniesiono do cieszącego się złą sławą podziemnego więzienia Rakefet w Izraelu. Miał trudności z oddychaniem i ciągłym mówieniem, był tak słaby, że z trudem utrzymywał wyprostowaną pozycję i wielokrotnie wydawało się, że jest na skraju utraty przytomności, powiedział jego prawnik, Nasser Odeh. Kontynuuj czytanie..."
+      "summary": "Hussam Abu Safiya stoi w obliczu „namacalnego zagrożenia życia” po 18 miesiącach więzienia bez postawienia zarzutów i procesu Kryzys na Bliskim Wschodzie na żywo – najnowsze aktualizacje Jeden z najwybitniejszych lekarzy w Gazie jest prawie nie do poznania z powodu poważnych obrażeń odniesionych w izraelskim areszcie, powiedział jego prawnik, i stoi w obliczu „namacalnego zagrożenia życia” po 18 miesiącach przetrzymywania bez postawienia zarzutów i procesu. Hussam Abu Safiya spotkał się ze swoim prawnikiem 2 lipca po rozprawie pod koniec czerwca przeniesiono do okrytego złą sławą podziemnego więzienia Rakefet w Izraelu. Miał trudności z oddychaniem i ciągłym mówieniem, był tak słaby, że z trudem utrzymywał wyprostowaną pozycję i wielokrotnie wydawało się, że jest na skraju utraty przytomności, powiedział jego prawnik, Nasser Odeh. Kontynuuj czytanie..."
     },
     {
       "title": "Pożary na południu Francji zmuszają do ewakuacji 10 000 osób",
@@ -756,7 +756,7 @@
       "summary": "Premier Australii Anthony Albanese przeprosił za uwagi, które w zeszłym tygodniu poczynił na temat gwiazdy popu Kylie Minogue w wywiadzie dla podcastu."
     },
     {
-      "title": "Dlaczego ustawa przeciw świętokradztwu w indyjskim Pendżabie wywołała kontrowersje",
+      "title": "Dlaczego ustawa przeciw świętokradztwu w indyjskim Pendżabie wywołała kontrowersje?",
       "url": "https://www.bbc.co.uk/news/articles/crlw1xrzd8yo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-06T08:35:56Z",
       "source": "BBC News",
@@ -875,7 +875,7 @@
       "date": "2026-07-06T14:29:59Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Kraj spotkał się z krytyką ze strony obrońców praw człowieka za warunki w więzieniach, w tym za przeludnienie i brak ochrony więźniów."
+      "summary": "Kraj spotkał się z krytyką ze strony obrońców praw człowieka za warunki panujące w więzieniach, w tym za przeludnienie i brak ochrony więźniów."
     },
     {
       "title": "Byli urzędnicy syryjscy uznani za winnych torturowania demonstrantów prodemokratycznych",
@@ -955,7 +955,7 @@
       "date": "2026-07-05T20:05:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "W strzelaninie 4 lipca w pobliżu plaży Coney Island 8 osób zostało rannych, w tym 4 dzieci AP News."
+      "summary": "W strzelaninie, do której doszło 4 lipca w pobliżu plaży Coney Island, 8 osób zostało rannych, w tym 4 dzieci AP News."
     },
     {
       "title": "Trump spotka się z Zełenskim z Ukrainy i al-Sharaą z Syrii podczas szczytu NATO – AP News",
@@ -971,7 +971,7 @@
       "date": "2026-07-05T18:25:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Administracja Trumpa nie będzie szukać nowych ofert na naprawę Lincoln Memorial Reflecting Pool AP News."
+      "summary": "Administracja Trumpa nie będzie szukać nowych ofert na naprawę basenu Lincoln Memorial Reflecting Pool AP News."
     },
     {
       "title": "Raport Białego Domu określa kierownictwo Smithsonian jako radykalnych aktywistów, którym nie można ufać – AP News",
@@ -982,7 +982,7 @@
       "summary": "Raport Białego Domu określa kierownictwo Smithsonian jako radykalnych aktywistów, którym nie można ufać AP News."
     },
     {
-      "title": "Prokuratorzy przedstawią sprawę mężczyźnie oskarżonemu o zabicie Charliego Kirka – AP News",
+      "title": "Prokuratorzy przedstawią sprawę przeciwko mężczyźnie oskarżonemu o zabicie Charliego Kirka – AP News",
       "url": "https://apnews.com/article/charlie-kirk-tyler-robinson-preliminary-hearing-91606ff42da6695c4fd482bc3c459493",
       "date": "2026-07-05T16:04:00Z",
       "source": "Associated Press",
@@ -1077,7 +1077,7 @@
       "date": "2026-07-06T16:58:51Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48807383 Punkty: 10 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48807383 Punkty: 22 # Komentarze: 1."
     },
     {
       "title": "Głupi żart w Mapach Google zdemolował Warszawę. Ministerstwo odpowiada",
@@ -1093,10 +1093,10 @@
       "date": "2026-07-06T16:47:44Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/iOfficeAI/OfficeCLI Adres URL komentarzy: https://news.ycombinator.com/item?id=48807225 Punkty: 9 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://github.com/iOfficeAI/OfficeCLI Adres URL komentarzy: https://news.ycombinator.com/item?id=48807225 Punkty: 13 # Komentarze: 1."
     },
     {
-      "title": "Narzędzie śledzące Secret Claude szokuje użytkowników po sprzeciwie wobec inwigilacji firmy Anthropic",
+      "title": "Narzędzie śledzące Secret Claude szokuje użytkowników po sprzeciwie Anthropic wobec inwigilacji",
       "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
       "date": "2026-07-06T16:44:18Z",
       "source": "Ars Technica",
@@ -1181,7 +1181,7 @@
       "date": "2026-07-06T15:53:24Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://arxiv.org/abs/2607.01504 Adres URL komentarzy: https://news.ycombinator.com/item?id=48806410 Punkty: 16 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://arxiv.org/abs/2607.01504 Adres URL komentarzy: https://news.ycombinator.com/item?id=48806410 Punkty: 28 # Komentarze: 1."
     },
     {
       "title": "F1 w Wielkiej Brytanii: zautomatyzowane oprogramowanie winne za miażdżące oczekiwania",
@@ -1197,7 +1197,7 @@
       "date": "2026-07-06T15:45:11Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.astralcodexten.com/p/the-ai-superforecasters-are-here Adres URL komentarzy: https://news.ycombinator.com/item?id=48806296 Punkty: 6 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://www.astralcodexten.com/p/the-ai-superforecasters-are-here Adres URL komentarzy: https://news.ycombinator.com/item?id=48806296 Punkty: 15 # Komentarze: 2."
     },
     {
       "title": "Czy DayQuil powinien być legalny?",
@@ -1205,7 +1205,7 @@
       "date": "2026-07-06T15:44:44Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.teargumentmag.com/p/should-dayquil-be-legal Adres URL komentarzy: https://news.ycombinator.com/item?id=48806289 Punkty: 64 # Komentarze: 74."
+      "summary": "Adres URL artykułu: https://www.teargumentmag.com/p/should-dayquil-be-legal Adres URL komentarzy: https://news.ycombinator.com/item?id=48806289 Punkty: 70 # Komentarze: 83."
     },
     {
       "title": "Windows 11 pożera połowę twojego dysku. Kuriozalny błąd",
@@ -1264,7 +1264,7 @@
       "summary": "Nowy Switch 2 trafi do sklepów znacznie szybciej. Patrz uważnie na pudełko."
     },
     {
-      "title": "Zgłoszenie: Strategy sprzedało 3588 bitcoinów za ~216 mln dolarów pomiędzy 29 czerwca a 5 lipca, aby uzupełnić swoje rezerwy w USD; jego udziały przynoszą stratę na papierze w wysokości 11,4 miliarda dolarów przy cenach bieżących (James Hunt/The Block)",
+      "title": "Złożenie wniosku: Strategy sprzedała 3588 bitcoinów za ~216 mln dolarów pomiędzy 29 czerwca a 5 lipca, aby uzupełnić swoje rezerwy w USD; jego udziały przynoszą stratę na papierze w wysokości 11,4 miliarda dolarów przy cenach bieżących (James Hunt/The Block)",
       "url": "https://www.techmeme.com/260706/p21#a260706p21",
       "date": "2026-07-06T14:25:01Z",
       "source": "Techmeme",
@@ -1418,6 +1418,14 @@
       "summary": "Według Sysdig zaobserwowano, że ugrupowania zagrażające próbowały wykorzystać niedawno załataną krytyczną lukę w zabezpieczeniach obrazów Gitea Docker. Luka, o której mowa, to CVE-2026-20896 (wynik CVSS: 9,8). Wynika ona z zaufania platformy DevOps do nagłówka „X-WEBAUTH-USER” z dowolnego źródłowego adresu IP, co skutecznie umożliwia podniesienie poziomu nieuwierzytelnionego klienta internetowego."
     },
     {
+      "title": "Dzięki Ryzen AI Halo firmy AMD lokalna sztuczna inteligencja wygląda na łatwą, ale przy cenie 4 tys. dolarów łatwe nie jest tanie",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/06/amds-ryzen-ai-halo-makes-local-ai-look-easy-but-at-4k-easy-doesnt-come-cheap/5266711",
+      "date": "2026-07-06T15:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "128 GB pamięci! W tej gospodarce?"
+    },
+    {
       "title": "Nielegalne kasyno podszywa się pod Blika",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/nielegalne-kasyno-podszywa-sie-pod-blika",
       "date": "2026-07-06T14:55:25Z",
@@ -1426,12 +1434,36 @@
       "summary": "Na Facebooku krążą reklamy kasyna wykorzystującego wizerunek systemu płatności Blik. Oszuści stworzyli także stronę podszywającą się pod Sklep Play, która wymaga określonej przeglądarki do pobrania „aplikacji”. Obiecują jednocześnie duży „bonus powitalny” i kuszą rzekomymi wysokimi wygranymi."
     },
     {
-      "title": "⚡ Cotygodniowe podsumowanie: botnety proxy, oprogramowanie ransomware dla przeglądarek, sztuczki agentów AI, fałszywe złośliwe oprogramowanie PoC i nie tylko",
+      "title": "Nowe europejskie zasady importu czekają na Twoje okazje",
+      "url": "https://www.theregister.com/personal-tech/2026/07/06/europes-new-import-rules-are-coming-for-your-bargains/5266899",
+      "date": "2026-07-06T13:49:32Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Dobra wiadomość, jeśli jesteś producentem drukarek OEM, przedsiębiorcą zajmującym się sprzedażą detaliczną w UE lub urzędnikiem celnym... ale hobbystów i innych mniej zadowolonych."
+    },
+    {
+      "title": "⚡ Cotygodniowe podsumowanie: botnety proxy, oprogramowanie ransomware przeglądarki, sztuczki agentów AI, fałszywe złośliwe oprogramowanie PoC i nie tylko",
       "url": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
       "date": "2026-07-06T13:01:14Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Skrzynka do przesyłania strumieniowego nie powinna potrzebować modelu zagrożenia. Nie powinno też zawierać pola nazwy użytkownika, repozytorium demonstracyjnego, procesu resetowania ani monitu o pozwolenie przeglądarki. To jest irytująca część tego tygodnia: ryzykowne kawałki były zwyczajne."
+    },
+    {
+      "title": "Nawet banki i firmy hiperskalowalne biją teraz na alarm w związku z bańką AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123",
+      "date": "2026-07-06T13:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Oracle stracił w tym miesiącu ponad 40%, BIS uważa, że ​​sztuczna inteligencja może zniszczyć gospodarkę, więc włączamy Czajnik i rozmawiamy o całym tym bałaganie."
+    },
+    {
+      "title": "Brytyjski gigant supermarketów potraja rozpoznawanie twarzy, aby złapać złodziei sklepowych",
+      "url": "https://www.theregister.com/security/2026/07/06/brit-supermarket-giant-triples-down-on-facial-recog-to-nab-shoplifters/5266935",
+      "date": "2026-07-06T12:35:35Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Do końca roku nawet 150 sklepów otrzyma „orwellowską” technologię."
     },
     {
       "title": "Rosyjski ślad FortiBleed. Jak wyciek loginów uderzył w brytyjskie instytucje",
@@ -1447,7 +1479,7 @@
       "date": "2026-07-06T11:30:02Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Stworzenie krótkiej listy do oceny AI SOC może być trudne. Dostawcy SIEM, SOAR i pureplay AI SOC mówią to samo. Ale za tą samą etykietą kryją się bardzo różne produkty, od asystentów czatu podłączonych do starszego SIEM po platformy agentów, które obsługują wykrywanie, segregację, badanie i reagowanie na własnych podstawach danych."
+      "summary": "Stworzenie krótkiej listy do oceny AI SOC może być trudne. Dostawcy SIEM, SOAR i pureplay AI SOC mówią to samo. Ale pod tą samą etykietą kryją się bardzo różne produkty, od asystentów czatu podłączonych do starszego SIEM po platformy agentów, które obsługują wykrywanie, segregację, badanie i reagowanie na własnych podstawach danych."
     },
     {
       "title": "Pierwsze miesiące z GSM-R na polskiej kolei. Problemów nie brakuje",
@@ -1463,7 +1495,15 @@
       "date": "2026-07-06T10:58:16Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Zaobserwowano klaster działań podejrzanych o powiązanie z Chinami, którego celem są indyjscy podatnicy, doradcy podatkowi i zespoły finansów przedsiębiorstw w celu dostarczenia trojana zdalnego dostępu, którego zadaniem jest kradzież wrażliwych danych z zaatakowanych hostów. Wieloetapowa kampania o kryptonimie Operacja DragonReturn prowadzona przez Seqrite Labs polega na wysyłaniu wiadomości e-mail typu spear-phishing, podszywających się pod indyjski departament podatku dochodowego."
+      "summary": "Zaobserwowano klaster działań podejrzanych o powiązanie z Chinami, którego celem są indyjscy podatnicy, doradcy podatkowi i zespoły finansów przedsiębiorstw w celu dostarczenia trojana zdalnego dostępu, którego zadaniem jest kradzież wrażliwych danych z zaatakowanych hostów. Wieloetapowa kampania o kryptonimie Operacja DragonReturn prowadzona przez Seqrite Labs polega na wysyłaniu wiadomości e-mail typu spear-phishing, podszywających się pod indyjski Departament Podatku Dochodowego."
+    },
+    {
+      "title": "Włamanie do Moody Bible Institute sprawia, że ​​2,3 miliona kont potrzebuje ratunku, twierdzi ekspert ds. cyberbezpieczeństwa",
+      "url": "https://www.theregister.com/security/2026/07/06/moody-bible-institute-breach-leaves-23m-accounts-needing-salvation-says-cyber-expert/5266827",
+      "date": "2026-07-06T10:47:09Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "ShinyHunters ujawnia nazwiska, adresy, dane DOB i inne informacje po ujawnieniu cyberataku przez Christian College."
     },
     {
       "title": "NIEśmieszna edycja nazw obiektów w Mapach Google",
@@ -1474,6 +1514,14 @@
       "summary": "Wielkie projekty takie, jak Mapy Google nie mogłyby istnieć bez społeczności zasilających je swoją wiedzą i najświeższymi informacjami z pierwszej ręki. Na swoim blogu Google deklaruje, że codziennie otrzymuje około 20 milionów wpisów od użytkowników Map Google. Dzięki temu Mapy Google mogą udostępniać aktualne i sprawdzone informacje pochodzące bezpośrednio od..."
     },
     {
+      "title": "Przodek bezpiecznego Uniksa, KSOS, zajmował się bezpieczeństwem typów, zanim Rust uczynił to modnym",
+      "url": "https://www.theregister.com/os-platforms/2026/07/06/secure-unix-ancestor-ksos-did-type-safety-before-rust-made-it-cool/5266458",
+      "date": "2026-07-06T09:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Kod źródłowy oparty na modułach pojawia się ponownie po prawie czterech dekadach."
+    },
+    {
       "title": "Nowy atak TrojPix powoduje wyciek danych z systemów znajdujących się w szczelinie powietrznej poprzez emisję kabla wideo",
       "url": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
       "date": "2026-07-06T08:50:54Z",
@@ -1482,12 +1530,28 @@
       "summary": "Naukowcy z Uniwersytetu w Shandong pokazali nowy, szybki sposób pobierania danych z komputerów odciętych od każdej sieci. Technika ta, zwana TrojPix, poprawia piksele na ekranie w sposób niewidoczny dla oka, tak że przenoszący je kabel wideo emituje słaby sygnał radiowy, który pobliski odbiornik może zdekodować. Jednak TrojPix działa tylko wtedy, gdy na komputerze docelowym znajduje się już złośliwe oprogramowanie, więc tak się dzieje."
     },
     {
+      "title": "Włóż token, aby kontynuować, mówi AI. Tak, o to...",
+      "url": "https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319",
+      "date": "2026-07-06T08:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Barney Rubble wskazuje na kłopoty z bańką."
+    },
+    {
       "title": "Nowy QuimaRAT MaaS oparty na Javie, stworzony do działania w systemach Windows, Linux i macOS",
       "url": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
       "date": "2026-07-06T08:13:33Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Badacze zajmujący się cyberbezpieczeństwem zauważyli nowego trojana zdalnego dostępu (RAT) opartego na Javie o nazwie QuimaRAT, który może atakować środowiska Windows, Linux i macOS. Według LevelBlue to wieloplatformowe szkodliwe oprogramowanie jest reklamowane w modelu złośliwego oprogramowania jako usługi (MaaS), którego koszt waha się od 150 dolarów za miesiąc do 1200 dolarów za dożywotni dostęp. Inne poziomy subskrypcji obejmują 300 USD za."
+    },
+    {
+      "title": "Praktykantka sprzeciwiła się rozkazom – a potem dostała pracę wspierając jej dziwny kod",
+      "url": "https://www.theregister.com/software/2026/07/06/apprentice-developer-defied-orders-then-got-a-job-supporting-her-weird-code/5266330",
+      "date": "2026-07-06T07:36:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Kto pisał te bzdury? Oh ..."
     },
     {
       "title": "Wada Opery GX pozwala złośliwym witrynom automatycznie instalować mody w celu kradzieży danych z odwiedzanych stron",
@@ -1514,6 +1578,14 @@
       "summary": "Jak wynika z nowego badania przeprowadzonego przez naukowców z Uniwersytetu Naukowo-Technologicznego w Hongkongu, skanery przeznaczone do wychwytywania „umiejętności” szkodliwych dodatków dla agentów kodujących AI można oszukać kilkoma prostymi zmianami, które sprawią, że złośliwe oprogramowanie zacznie działać. Ich najsilniejsza sztuczka przemknęła przez każdy testowany skaner w ponad 90% przypadków, a ten sam zespół zbudował moduł sprawdzający środowisko wykonawcze, który wychwytuje większość."
     },
     {
+      "title": "Japońska sonda do pobierania próbek asteroid szybko przebija odległe skały kosmiczne",
+      "url": "https://www.theregister.com/science/2026/07/06/japans-asteroid-sample-retriever-rapidly-buzzes-remote-space-rock/5266795",
+      "date": "2026-07-06T06:31:26Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Przeleciał zaledwie 800 m obok asteroidy Torifune w ramach bardzo długiej misji."
+    },
+    {
       "title": "Nazywają ich „konkwistadorami teleinformatyki wojskowej”. To wyjątkowa służba dla prawdziwych specjalistów",
       "url": "https://cyberdefence24.pl/armia-i-sluzby/wojsko-polskie/nazywaja-ich-konkwistadorami-xxi-wieku-wojsko-odslania-kulisy-sluzby-wyjatkowych-zolnierzy",
       "date": "2026-07-06T05:43:31Z",
@@ -1522,12 +1594,44 @@
       "summary": "Od 18 lat w Wojsku Polskim funkcjonuje Centrum Wsparcia Systemów Dowodzenia Sił Zbrojnych. Powstała w okresie rewolucji w wojskowych systemach łączności jednostka stała się jedną z czołowych organizacji w zakresie teleinformatyki wojskowej. Wielu jej oficerów to cyberabsolwenci Wojskowej Akademii Technicznej."
     },
     {
+      "title": "Pozew Zombie „kto jest właścicielem Uniksa?” znów ożywa",
+      "url": "https://www.theregister.com/os-platforms/2026/07/06/zombie-who-owns-unix-lawsuit-comes-alive-again/5266761",
+      "date": "2026-07-06T05:29:09Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Następca prawny SCO, Xinuos, zwraca się do prawników, aby pozwolili mu ugryźć IBM w związku ze starymi roszczeniami licencyjnymi i dotyczącymi praw autorskich."
+    },
+    {
       "title": "Błędy przy autoryzacji i obsłudze sesji w aplikacjach Johnson & Johnson",
       "url": "https://sekurak.pl/bledy-przy-autoryzacji-i-obsludze-sesji-w-aplikacjach-johnson-johnson/",
       "date": "2026-07-06T01:43:21Z",
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Badacz bezpieczeństwa o pseudonimie Eaton ujawnił podatności, które znalazł w 2 aplikacjach webowych firmy Johnson &#38; Johnson. Pierwsza umożliwiała dostęp do danych niemal tysiąca studentów, a druga pozwalała na uzyskanie uprawnień administratora w wewnętrznym systemie. TLDR: Rekrutacja studentów Firma Johnson &#38; Johnson chętnie pojawiała się na targach pracy i wydarzeniach..."
+    },
+    {
+      "title": "EY zwalnia pracowników za rzekomy dostęp do konta bankowego premiera Australii",
+      "url": "https://www.theregister.com/legal/2026/07/06/ey-sacks-staff-for-allegedly-accessing-australian-prime-ministers-bank-account/5266687",
+      "date": "2026-07-06T01:29:57Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "PLUS: Indie atakują Ubera; Korea Południowa ostrzegła, że ​​boom na sztuczną inteligencję jest niebezpieczny; Karaluch cyborg nurkujący; i więcej!"
+    },
+    {
+      "title": "Banki korzystające z MFA pozostawiają drzwi sejfów (i konta) szeroko otwarte, aby złodzieje mogli je splądrować",
+      "url": "https://www.theregister.com/security/2026/07/05/mfa-optional-banks-leave-safe-doors-and-accounts-wide-open-for-thieves-to-pillage/5266161",
+      "date": "2026-07-05T15:01:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Instytucje finansowe narażają swoich klientów na ryzyko w imię wygody."
+    },
+    {
+      "title": "Programiści C popełniają nowe przestępstwa przeciwko czytelności",
+      "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
+      "date": "2026-07-05T12:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Przygotuj się na oszołomienie i oszołomienie – i prawdopodobnie na zaczarowanie."
     },
     {
       "title": "Oferta wakacji Last Minute zbyt piękna, by była prawdziwa? Zobacz, jak rozpoznać oszustwo",
@@ -1567,7 +1671,7 @@
       "date": "2026-07-04T12:47:53Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Jak wynika z nowego studium przypadku przeprowadzonego przez Rakesha Krishnana dla Ransom-ISAC, podmiot rządowy USA zapłacił około 1 milion dolarów, aby zapobiec wyciekowi skradzionych plików, opartego na czacie negocjacyjnym, który wyciekł, oraz śladzie blockchain pozostawionym przez płatność. Dziwna część: grupa, która wzięła pieniądze, nazywa się Kairos, ale niekoniecznie jest to gang zajmujący się oprogramowaniem ransomware."
+      "summary": "Jak wynika z nowego studium przypadku przeprowadzonego przez Rakesha Krishnana dla Ransom-ISAC, podmiot rządowy Stanów Zjednoczonych zapłacił około 1 milion dolarów, aby zapobiec wyciekowi skradzionych plików, opierając się na czacie negocjacyjnym, który wyciekł, oraz śladzie blockchain pozostawionym przez płatność. Dziwna część: grupa, która wzięła pieniądze, nazywa się Kairos, ale niekoniecznie jest to gang zajmujący się oprogramowaniem ransomware."
     },
     {
       "title": "Hakerzy z Korei Północnej publikują 108 złośliwych pakietów i rozszerzeń w kampanii PolinRider",
@@ -1586,6 +1690,14 @@
       "summary": "Czasami w przestrzeni publicznej pojawiają się informacje o rzekomych wyciekach danych klientów z polskich witryn, które później okazują się nieprawdziwe. Wykorzystywane są do tego wizerunki znanych firm. Dlaczego mogliśmy usłyszeć o wyciekach danych, których nie było?"
     },
     {
+      "title": "Podstawowy mechanizm zaufania przetwarzania poufnego jest uszkodzony. Poprawka może nie istnieć",
+      "url": "https://www.theregister.com/security/2026/07/04/confidential-computings-core-trust-mechanism-is-broken-the-fix-may-not-exist/5266056",
+      "date": "2026-07-04T10:03:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Atestowany TLS: uścisk dłoni, który nie może udowodnić, kto jest po drugiej stronie."
+    },
+    {
       "title": "Cyberprzestępcy podszywają się pod biskupów, kardynałów i parafie",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/cyberprzestepcy-podszywaja-sie-pod-biskupow-kardynalow-i-parafie",
       "date": "2026-07-04T07:12:52Z",
@@ -1594,12 +1706,20 @@
       "summary": "Phishingowy mail rzekomo od biskupa, fałszywa strona parafii czy wygenerowane nagranie z kardynałem reklamującym lek na stawy – to tylko niektóre przypadki tego, jak cyberprzestępcy podszywają się pod duchownych Kościoła. Wiele kampanii ma na celu wyłudzanie pieniędzy od wiernych z Polski. Na co uważać i jak się chronić?"
     },
     {
+      "title": "NASA twierdzi, że przez rok odizoluje ochotników od świata zewnętrznego",
+      "url": "https://www.theregister.com/science/2026/07/04/nasa-says-it-will-isolate-volunteers-from-the-outside-world-for-a-year/5266558",
+      "date": "2026-07-04T06:21:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Może być też minus."
+    },
+    {
       "title": "Niezałatane wady ujawnione w systemie plików w milionach urządzeń wbudowanych",
       "url": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
       "date": "2026-07-03T20:19:31Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Firma zajmująca się bezpieczeństwem runZero ujawniła siedem luk w zabezpieczeniach FatFs, małej biblioteki systemu plików, która umożliwia urządzeniu odczytywanie i zapisywanie formatów FAT i exFAT używanych na dyskach USB i kartach SD. Wady mają znaczenie, ponieważ FatF jest prawie wszędzie. Znajduje się w oprogramowaniu, które obsługuje kamery bezpieczeństwa, drony, kontrolery przemysłowe, sprzętowe portfele kryptograficzne i inne wbudowane urządzenia."
+      "summary": "Firma zajmująca się bezpieczeństwem runZero ujawniła siedem luk w zabezpieczeniach FatFs, małej biblioteki systemu plików, która umożliwia urządzeniu odczytywanie i zapisywanie formatów FAT i exFAT używanych na dyskach USB i kartach SD. Wady mają znaczenie, ponieważ FatF jest prawie wszędzie. Jest dostarczany z oprogramowaniem obsługującym kamery bezpieczeństwa, drony, kontrolery przemysłowe, sprzętowe portfele kryptograficzne i inne wbudowane urządzenia."
     },
     {
       "title": "Nowa luka w jądrze Linuksa „Bad Epoll” umożliwia nieuprzywilejowanym użytkownikom uzyskanie roota, uderza w Androida",
@@ -1836,12 +1956,12 @@
       "summary": "Zdrowie po 40-tce. \"To moment, gdy trzeba przeprojektować opiekę nad ciałem” Forbes."
     },
     {
-      "title": "Analiza techniczna RBIEPZU0729 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/RBIEPZU0729",
-      "date": "2026-07-06T13:29:07Z",
+      "title": "Sygnały analizy technicznej RBIEPZU0729 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/RBIEPZU0729",
+      "date": "2026-07-06T13:29:31Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna RBIEPZU0729 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+      "summary": "Sygnały analizy technicznej RBIEPZU0729 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "Stare spotyka nowe [BR Premium] - BiznesRadar",
@@ -1882,14 +2002,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Czeska kuchnia, wyjątkowy klimat i sport na żywo. Tak Drevny Kocur buduje swój koncept Forbes."
-    },
-    {
-      "title": "Pekabex zbuduje nowy dom studencki w Poznaniu - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149122,pekabex-zbuduje-nowy-dom-studencki-w-poznaniu",
-      "date": "2026-07-06T11:07:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Pekabex zbuduje nowy dom studencki w Poznaniu BiznesRadar."
     },
     {
       "title": "Dom Development z rekordową sprzedażą mieszkań. \"Na tle konkurencji jest to unikalne osiągnięcie\" - BiznesRadar",
@@ -1948,12 +2060,12 @@
       "summary": "KGHM 2.0 i największy program inwestycyjny w historii spółki Piotr Kwestarz pon., 06.07.2026 Kanał Strefa Inwestorów Treść Grupa KGHM Polska Miedź przedstawiła Strategię 2055+. Wyznaczyła kierunek rozwoju spółki jako nowoczesnej, zdywersyfikowanej grupy multisurowcowej z rosnącym udziałem własnych źródeł energii. Dokument koncentruje się na inwestycjach w krajową bazę wydobywczą i Główny Ciąg Technologiczny, selektywnym wzmacnianiu portfela aktywów zagranicznych oraz transformacji energetycznej."
     },
     {
-      "title": "Sygnały analizy technicznej OW20G263725 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/OW20G263725",
-      "date": "2026-07-06T08:13:31Z",
+      "title": "Analiza techniczna RBIEPZU07291 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/RBIEPZU07291",
+      "date": "2026-07-06T08:25:35Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Sygnały analizy technicznej OW20G263725 BiznesRadar."
+      "summary": "Analiza techniczna RBIEPZU07291 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "Jak zaprogramować sterownik PLC X20? Praktyczny poradnik",
@@ -1970,6 +2082,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Sprzedaż Cyberpunk 2077 przekroczyła 40 mln sztuk. CD Projekt walczy o cel wynikowy programu motywacyjnego Seb Seb pon., 06.07.2026 Kanał Strefa Inwestorów CD Projekt Cyberpunk 2077 gaming gry AAA Egderunners Cyberounk TCG GPW giełda Treść “Cyberpunk 2077” przekroczył 40 mln sprzedanych kopii. Dla CD Projekt to znacznie więcej niż kolejny rekord sprzedaży."
+    },
+    {
+      "title": "Notowania RBIEPZU07291 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/RBIEPZU07291",
+      "date": "2026-07-06T07:24:44Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania RBIEPZU07291 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "8 spółek z bardzo wysoką dywidendą wciąż do wzięcia tego lata",
@@ -2033,8 +2153,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Wołodymyr Zełenski oświadczył, że decydująca faza rosyjskiej wojny przeciwko Ukrainie przeniosła się z lądu i morza w przestrzeń powietrzną.",
-      "url": "https://businessinsider.com.pl/wiadomosci/zelenski-o-pociskach-do-patriotow-docieraly-doslownie-dzien-przed-zmasowanym-atakiem/5mpj6j1"
+      "description": "Donald Trump, zapytany przez dziennikarkę na konferencji prasowej o ostatni atak Rosji na Ukrainę, stwierdził, że Władimir Putin chce zakończenia wojny, której rozwiązanie jest bliżej, niż się wydaje.",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32898780,trump-komentuje-atak-rosji-na-kijow-mysle-ze-putin-odczuwa.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882"
     },
     {
       "lat": 31.5,
@@ -2065,7 +2185,7 @@
       "lng": -98.1,
       "type": "cyber",
       "region": "Stany Zjednoczone",
-      "description": "Jak wynika z nowego studium przypadku przeprowadzonego przez Rakesha Krishnana dla Ransom-ISAC, podmiot rządowy USA zapłacił około 1 milion dolarów, aby zapobiec wyciekowi skradzionych plików, opartego na czacie negocjacyjnym, który wyciekł, oraz śladzie blockchain pozostawionym przez płatność.",
+      "description": "Jak wynika z nowego studium przypadku przeprowadzonego przez Rakesha Krishnana dla Ransom-ISAC, podmiot rządowy Stanów Zjednoczonych zapłacił około 1 milion dolarów, aby zapobiec wyciekowi skradzionych plików, opierając się na czacie negocjacyjnym, który wyciekł, oraz śladzie blockchain pozostawionym przez płatność.",
       "url": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html"
     },
     {
@@ -2299,6 +2419,11 @@
       "score": 100,
       "reasons": [
         {
+          "title": "Trump komentuje atak Rosji na Kijów: Myślę, że Putin odczuwa presję",
+          "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32898780,trump-komentuje-atak-rosji-na-kijow-mysle-ze-putin-odczuwa.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+          "source": "Gazeta Wyborcza"
+        },
+        {
           "title": "Wołodymyr Zełenski o kluczowej fazie wojny z Rosją. \"Pozostaje tylko jedna niewiadoma\"",
           "url": "https://businessinsider.com.pl/wiadomosci/zelenski-o-pociskach-do-patriotow-docieraly-doslownie-dzien-przed-zmasowanym-atakiem/5mpj6j1",
           "source": "Business Insider Polska"
@@ -2307,17 +2432,12 @@
           "title": "\"Putin odczuwa presję\". Trump o zakończeniu wojny w Ukrainie",
           "url": "https://www.polsatnews.pl/wiadomosc/2026-07-06/putin-odczuwa-presje-trump-o-zakonczeniu-wojny-w-ukrainie/",
           "source": "Polsat News"
-        },
-        {
-          "title": "Ukraina uderzyła w Omsk oddalony o blisko 2,5 tys. km. Pożar w największej rafinerii w Rosji",
-          "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32898473,ukraina-uderzyla-w-omsk-oddalony-o-blisko-2-5-tys-km-pozar.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-          "source": "Gazeta Wyborcza"
         }
       ]
     },
     {
       "name": "Iran",
-      "score": 45,
+      "score": 36,
       "reasons": [
         {
           "title": "Miliony ludzi przyłączają się do procesji pogrzebowej najwyższego przywódcy Iranu Alego Chameneiego",
@@ -2338,7 +2458,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 35,
+      "score": 28,
       "reasons": [
         {
           "title": "Kryzys na Bliskim Wschodzie: W Iranie rozpoczyna się procesja pogrzebowa najwyższego przywódcy Alego Chameneiego – tak się stało",
@@ -2359,7 +2479,7 @@
     },
     {
       "name": "Liban",
-      "score": 15,
+      "score": 12,
       "reasons": [
         {
           "title": "Kryzys na Bliskim Wschodzie: W Iranie rozpoczyna się procesja pogrzebowa najwyższego przywódcy Alego Chameneiego – tak się stało",
@@ -2576,51 +2696,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25557.89,
+      25563.0,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26717.03,
+      26722.37,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26863.32,
+      26868.69,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27107.17,
+      27112.59,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27740.07,
+      27745.62,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27775.95,
+      27781.5,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28019.54,
+      28025.14,
       27354.94,
       27400.36,
       27412.11,
-      28419.16,
+      28424.85,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27683.12,
+      27688.66,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27862.03,
+      27867.6,
       27686.17,
       27404.78,
       27351.97,
@@ -2629,12 +2749,12 @@
       27661.43,
       27749.69,
       27709.26,
-      27571.69,
+      27577.21,
       27930.04,
       28234.04,
       28218.36,
       28078.54,
-      28229.53
+      28234.84
     ],
     "currency": "PLN"
   }
