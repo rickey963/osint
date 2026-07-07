@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T11:25:52Z",
+  "last_updated": "2026-07-07T11:26:31Z",
   "poland": [
     {
       "title": "„Nie zdążyłem, mogłem mu zajechać drogę”. Nowe nagranie z pościgu w Wałbrzychu",
@@ -306,6 +306,14 @@
       "summary": "Alert RCB dla mieszkańców Słupska. \"Zachowaj spokój\" Polskie Radio 24."
     },
     {
+      "title": "morwa - Serwis Zdrowie",
+      "url": "https://zdrowie.pap.pl/tagi/morwa",
+      "date": "2026-07-07T07:58:29Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "morwa Serwis Zdrowie."
+    },
+    {
       "title": "Mbappe, Messi i Haaland mają po 7 goli. Szczegół zmienia wszystko w tabeli snajperów - Polskie Radio 24",
       "url": "https://polskieradio24.pl/sport/klasyfikacja-strzelcow-mistrzostw-swiata-mbappe-messi-i-haaland-walcza-o-korone",
       "date": "2026-07-07T07:58:00Z",
@@ -392,17 +400,17 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Infantino zabrał głos ws. Baloguna: tak działa system FIFA Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "Ukraina/ We Lwowie upamiętniono 85. rocznicę mordu na profesorach lwowskich uczelni - Science in Poland",
-      "url": "https://scienceinpoland.pap.pl/aktualnosci/news%2C113818%2Cukraina-we-lwowie-upamietniono-85-rocznice-mordu-na-profesorach-lwowskich",
-      "date": "2026-07-06T14:25:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Ukraina/ We Lwowie upamiętniono 85. rocznicę mordu na profesorach lwowskich uczelni Science in Poland."
     }
   ],
   "world_security": [
+    {
+      "title": "Na Ukrainie znaleziono zwłoki kobiety podejrzanej o zamach bombowy w Monako",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-07T11:25:38Z",
+      "source": "BBC News",
+      "confirmed_by": 3,
+      "summary": "Policja polowała na Anastazję Bieriezowską po tym, jak w wybuchu ranny został ukraiński milioner."
+    },
     {
       "title": "W wyniku eksplozji w Damaszku podczas wizyty Macrona 18 osób zostało rannych",
       "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
@@ -412,12 +420,12 @@
       "summary": "Po nadejściu doniesień o wybuchach telewizja państwowa podała, że ​​prezydent Syrii powitał Macrona w pałacu prezydenckim."
     },
     {
-      "title": "Na Ukrainie znaleziono zwłoki kobiety podejrzanej o zamach bombowy w Monako",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-07T11:14:59Z",
-      "source": "BBC News",
-      "confirmed_by": 2,
-      "summary": "Policja polowała na Anastazję Bieriezowską po tym, jak w wybuchu ranny został ukraiński milioner."
+      "title": "Szczyt NATO rozpoczyna się od skupienia uwagi na wydatkach na obronę w związku ze spotkaniem Zełenskiego i Trumpa – Europa na żywo",
+      "url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates",
+      "date": "2026-07-07T11:13:19Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Spotkanie 32 państw członkowskich odbywa się w kluczowym momencie dla sojuszu po napięciach z USA w sprawie Iranu i Grenlandii. Przemówienia inauguracyjne trwają obecnie w Ankarze i można je obejrzeć poniżej. Pamiętajcie, że jest to pierwsze wydarzenie branżowe, a nie szczyt przywódców. Kontynuuj czytanie..."
     },
     {
       "title": "Gwiazda futbolu Zimbabwe przeżyła atak z użyciem broni w Republice Południowej Afryki",
@@ -425,23 +433,7 @@
       "date": "2026-07-07T11:12:00Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Południowoafrykańska policja twierdzi, że prowadzi śledztwo w sprawie usiłowania morderstwa, ale jak dotąd nie dokonano żadnych aresztowań."
-    },
-    {
-      "title": "Szczyt NATO rozpoczyna się od skupienia się na wydatkach na obronę w związku ze spotkaniem Zełenskiego i Trumpa – Europa na żywo",
-      "url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates",
-      "date": "2026-07-07T11:04:50Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Spotkanie 32 państw członkowskich odbywa się w kluczowym momencie dla sojuszu po napięciach z USA w sprawie Iranu i Grenlandii. Przemówienia inauguracyjne trwają obecnie w Ankarze i można je obejrzeć poniżej. Pamiętajcie, że jest to pierwsze wydarzenie branżowe, a nie szczyt przywódców. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Źródła podają, że katarski tankowiec LNG został poważnie uszkodzony po uderzeniu w Cieśninie Ormuz – Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-fires-missiles-commercial-ships-strait-hormuz-axios-reports-2026-07-07/",
-      "date": "2026-07-07T11:03:18Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Źródła Reuters podają, że katarski tankowiec LNG został poważnie uszkodzony po uderzeniu w Cieśninie Ormuz."
+      "summary": "Policja południowoafrykańska twierdzi, że prowadzi śledztwo w sprawie usiłowania morderstwa, ale jak dotąd nie dokonano żadnych aresztowań."
     },
     {
       "title": "Co określi dziedzictwo Elona Muska? Doge ogranicza programy USAID dotyczące wirusa Ebola",
@@ -457,7 +449,7 @@
       "date": "2026-07-07T10:44:03Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Lachie Perrem odniósł obrażenia zagrażające życiu po czwartkowej eksplozji, która zniszczyła jego dom w Brabham. Mieszkaniec Perth przez pięć dni walczył o życie po tym, jak eksplozja odkurzacza robota podpaliła jego dom. Lachie Perrem, lat 20, został w czwartek przewieziony do szpitala z zagrażającymi życiu poparzeniami spowodowanymi pożarem, w wyniku którego jego narzeczona i współlokatorzy zostali bez domu. Kontynuuj czytanie..."
+      "summary": "Lachie Perrem odniósł obrażenia zagrażające życiu po czwartkowej eksplozji, która zniszczyła jego dom w Brabham. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Mężczyzna z Perth przez pięć dni walczył o życie po tym, jak eksplozja robota odkurzacza podpaliła jego dom. Lachie Perrem, lat 20, został w czwartek zabrany do szpitala z zagrażającymi życiu poparzeniami spowodowanymi pożarem, w wyniku którego jego narzeczona i współlokatorzy zostali bez domu. Kontynuuj czytanie..."
     },
     {
       "title": "EKSKLUZYWNIE: Chińska firma DeepSeek opracowuje własny chip AI, podają źródła – Reuters",
@@ -660,6 +652,14 @@
       "summary": "Pojawiły się pytania w związku z rzekomą kradzieżą gotówki, cennej biżuterii, złota i srebra ofiarowanych przez wielbicieli."
     },
     {
+      "title": "Źródła podają, że plan cięcia oprogramowania do kontroli produkcji chipów w przejściu na projektowanie sztucznej inteligencji – Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/synopsys-cut-chip-fab-manufacturing-control-software-shift-ai-design-sources-say-2026-07-07/",
+      "date": "2026-07-07T06:18:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Źródła Reuters podają, że Synopsys planuje wyciąć oprogramowanie do kontroli produkcji chipów w związku z przejściem na projektowanie sztucznej inteligencji."
+    },
+    {
       "title": "Premier Australii twierdzi, że chiński test rakietowy mógł spowodować „znaczne szkody”, jeśli zostałby uzbrojony",
       "url": "https://www.theguardian.com/world/2026/jul/07/chinese-government-tells-critics-not-to-overinterpret-missile-test-in-pacific-as-criticism-grows",
       "date": "2026-07-07T04:28:02Z",
@@ -700,14 +700,6 @@
       "summary": "Przywódczyni skrajnie prawicowego Zgromadzenia Narodowego Francji i kandydatka na prezydenta, która we wtorek ma rozpatrzyć decyzję apelacyjną Marine Le Pen, skrajnie prawicowa figurantka Francji i czołowa pretendentka do prezydentury, we wtorek dowie się, czy będzie mogła kandydować w przyszłorocznych wyborach, po orzeczeniu paryskiego sądu apelacyjnego w sprawie jej próby uchylenia zakazu sprawowania wybieralnych stanowisk. Od tego orzeczenia zadecyduje, czy kandydatka skrajnie prawicowego Zgromadzenia Narodowego (RN) zastąpi ustępującego prezydenta Emmanuela Macron będzie 57-letnią weteranką Le Pen lub jej młodym protegowanym Jordanem Bardelą, 30 lat. Czytaj dalej..."
     },
     {
-      "title": "„Obróć to”: zwycięski rzut belgijski po kontrowersjach związanych z czerwoną kartką Baloguna",
-      "url": "https://www.theguardian.com/football/2026/jul/06/belgium-reaction-victory-usa-world-cup-red-card",
-      "date": "2026-07-07T03:10:44Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Czerwone Diabły pokonały USA i awansowały do ​​Pucharu Świata w ósmej kolejce Zespół był rozgniewany zawieszeniem czerwonej kartki Dla Belgii poniedziałkowe zwycięstwo 4:1 nad Stanami Zjednoczonymi było podwójnie słodkie. Awansowali do ćwierćfinału Pucharu Świata, a także przezwyciężyli to, co uważali za niesprawiedliwość poza boiskiem. Przygotowania do meczu były zabarwione kontrowersjami po tym, jak FIFA zawiesiła czerwoną kartkę, którą amerykański napastnik Folarin Balogun otrzymał w ostatnich 32 meczach przeciwko Bośni i Hercegowinie. Oznaczało to, że Balogun mógł swobodnie grać przeciwko Belgii, zamiast odbywać karę zawieszenia na jeden mecz."
-    },
-    {
       "title": "Dlaczego niektóre narody afrykańskie odrzucają pomoc Trumpa",
       "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-07T00:49:08Z",
@@ -746,6 +738,14 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Chińskie firmy produkujące samochody autonomiczne zyskały przewagę dzięki krajowemu łańcuchowi dostaw pojazdów elektrycznych w miarę ich globalnej ekspansji."
+    },
+    {
+      "title": "Brytyjska szkoła finansująca działalność charytatywną w centrum nielegalnej ekspansji izraelskich osad",
+      "url": "https://www.theguardian.com/world/2026/jul/06/british-charity-friends-of-yeshivat-shavei-illegal-settlement-hebron",
+      "date": "2026-07-06T21:37:11Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Przyjaciele Jesziwatu Shavei Hevron wysłali w latach 2019–2024 prawie 200 000 funtów do szkoły w Hebronie – gdzie Izrael został oskarżony o narzucenie apartheidu – Brytyjska organizacja charytatywna finansuje szkołę religijną w ramach planów rozbudowy nielegalnego izraelskiego osadnictwa w palestyńskim mieście Hebron. Przyjaciele Jesziwatu Shavei Hevron przesłali tej szkole prawie 200 000 funtów w latach 2019–2019 Rok 2024, ostatni rok, za który rachunki są publicznie dostępne na stronie internetowej Charity Commission, organu regulacyjnego dotyczącego organizacji charytatywnych w Anglii i Walii. Kontynuuj czytanie..."
     },
     {
       "title": "Trump potwierdza, że ​​zwrócił się do FIFA o ponowne rozpatrzenie zakazu dla Baloguna",
@@ -918,7 +918,7 @@
       "summary": "Kylian Mbappé potępia senatora Paragwaju za rasistowskie uwagi po meczu Pucharu Świata AP News."
     },
     {
-      "title": "Chiny wystrzeliwują testowo rakietę balistyczną na południowym Pacyfiku i budzą obawy regionalne – AP News",
+      "title": "Chiny wystrzeliwują test rakiety balistycznej na południowym Pacyfiku i budzą obawy regionalne – AP News",
       "url": "https://apnews.com/article/china-missile-test-submarine-36963889390c8a08079165d8a63e4960",
       "date": "2026-07-07T02:32:00Z",
       "source": "Associated Press",
@@ -1008,6 +1008,22 @@
   ],
   "technology": [
     {
+      "title": "UMA z siedzibą w Paryżu, założona przez byłego naukowca Tesli Optimus Rémi Cadene i byłego badacza Google DeepMind Pierre'a Sermaneta, demonstruje humanoidalnego robota Northstar AI (Benoit Berthelot/Bloomberg)",
+      "url": "https://www.techmeme.com/260707/p13#a260707p13",
+      "date": "2026-07-07T11:25:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Benoit Berthelot / Bloomberg: UMA z siedzibą w Paryżu, założona przez byłego naukowca Tesli Optimus R&eacute;mi Cadene i byłego badacza Google DeepMind Pierre'a Sermaneta, demonstruje humanoidalnego robota Northstar AI &mdash; Były naukowiec Tesla Inc., który pracował nad robotem Optimus Elona Muska, ujawnił plany wyprodukowania lekkiego humanoidalnego robota."
+    },
+    {
+      "title": "Polski producent wraca do pamięci DDR4. Goodram RIVAL DEEP BLACK już w sprzedaży",
+      "url": "https://www.benchmark.pl/polski-producent-wraca-do-pamieci-ddr4-goodram-rival-deep-black-juz-w-sprzedazy-7304898549471584a",
+      "date": "2026-07-07T11:22:18Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Choć rynek powoli przechodzi na pamięci DDR5, starszy standard DDR4 wciąż ma wielu zwolenników – szczególnie w obliczu rosnących cen podzespołów. Polska firma udowadnia, że stara generacja jeszcze nie powiedziała ostatniego słowa i właśnie wprowadza na rynek nową serię modułów pamięci."
+    },
+    {
       "title": "Zatrucie w restauracji? Szczury w kuchni? Teraz zgłosisz to do sanepidu w mObywatelu",
       "url": "https://www.instalki.pl/news/software/zatrucie-w-restauracji-szczury-w-kuchni-teraz-zglosisz-to-do-sanepidu-w-mobywatelu/",
       "date": "2026-07-07T11:17:06Z",
@@ -1077,7 +1093,7 @@
       "date": "2026-07-07T10:42:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.dw.com/en/niemcy-migrantów-wykwalifikowanych-pracowników-integracja-rynku-pracy-biurokracji-języka-housing/a-77853162 Adres URL komentarzy: https://news.ycombinator.com/item?id=48815982 Punkty: 8 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://www.dw.com/en/niemcy-migrantów-wykwalifikowanych-pracowników-integracja-rynku-pracy-biurokracji-języka-housing/a-77853162 Adres URL komentarzy: https://news.ycombinator.com/item?id=48815982 Punkty: 15 # Komentarze: 14."
     },
     {
       "title": "Chcesz dalej oglądać Real i Barcelonę? Od nowego sezonu tylko tutaj",
@@ -1213,7 +1229,7 @@
       "date": "2026-07-07T08:54:03Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device Adres URL komentarzy: https://news.ycombinator.com/item?id=48815196 Punkty: 88 # Komentarze: 30."
+      "summary": "Adres URL artykułu: https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device Adres URL komentarzy: https://news.ycombinator.com/item?id=48815196 Punkty: 94 # Komentarze: 37."
     },
     {
       "title": "Xbox Game Pass sobie nie radzi. Zakładano dwa razy więcej subskrybentów",
@@ -1222,14 +1238,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Wszystko wskazuje na to, że piękny sen Microsoftu o stworzeniu gamingowego Netflixa właśnie dobiegł końca. Przez lata usługa Xbox Game Pass była przedstawiana jako fundament całej strategii firmy i główny powód, dla którego warto wejść w ekosystem Xboxa. Jednak najnowszy raport dziennika &#8222;The Wall Street Journal&#8221; bezlitośnie obnaża głęboki kryzys tego flagowego abonamentu."
-    },
-    {
-      "title": "Zapomnij o systemowym Eksploratorze. Genialny program Windows 11 dostał wielką aktualizację",
-      "url": "https://www.instalki.pl/news/software/files-4-2-aktualizacja-alternatywa-eksplorator-plikow-windows-11/",
-      "date": "2026-07-07T08:33:11Z",
-      "source": "Instalki.pl",
-      "confirmed_by": 1,
-      "summary": "Popularna alternatywa dla Eksploratora plików Windows 11 doczekała się wersji 4.2. Sprawdź nowe funkcje Files, w tym widok drzewa i łatwiejsze dzielenie okien. Artykuł Zapomnij o systemowym Eksploratorze."
     },
     {
       "title": "Europie grozi inwazja z Zatoki Perskiej. \"Nikt o tym nie pomyślał, już do nas płyną\"",
@@ -1269,7 +1277,7 @@
       "date": "2026-07-07T08:12:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Mój folder Pobrane był pozostawiony nieużywany przez naprawdę długi czas, a oczyszczenie go za pomocą Findera było dość kłopotliwe. Zacząłem więc tworzyć prostą aplikację, która pomoże mi odfiltrować i usunąć lub przenieść pliki w folderze. Zaczęło się od bardzo prostego, a opcje filtrowania naprawdę pomogły mi wyczyścić folder Pobrane, a gdy pomyślałem o większej liczbie funkcji, które chciałbym zobaczyć w menedżerze plików, zacząłem je dodawać. Niektóre z funkcji to: - Rozmyte przejście do folderu/pliku, gdzie wystarczy wpisać kilka liter pełnej ścieżki, uzyskać sugestie i natychmiast przejść do właściwej ścieżki - Najedź kursorem na plik, aby wyświetlić podgląd obrazu lub pliku PDF bez otwierania go - Widok z dwoma panelami i zakładkami zapamiętującymi wybrane filtry - Paleta poleceń do szybkiego wyszukiwania działań - Zbiorcza zmiana nazwy (z obsługą wyrażeń regularnych i ustawieniami wstępnymi dla typowych operacji), konwersja obrazu (HEIC/WebP/AVIF do JPG/PNG), tworzenie zip - Zakładki, szybki podgląd, otwieranie jednym kliknięciem, sterowanie za pomocą klawiatury i wiele innych drobnych funkcji ułatwiających życie. Do tworzenia aplikacji użyłem Claude Code, a stos technologiczny to .NET/C# z AppKit."
+      "summary": "Mój folder Pobrane był pozostawiony nieużywany przez naprawdę długi czas, a oczyszczenie go za pomocą Findera było dość kłopotliwe. Zacząłem więc tworzyć prostą aplikację, która pomoże mi odfiltrować i usunąć lub przenieść pliki w folderze. Zaczęło się od bardzo prostego, a opcje filtrowania naprawdę pomogły mi wyczyścić folder Pobrane, a gdy pomyślałem o większej liczbie funkcji, które chciałbym zobaczyć w menedżerze plików, zacząłem je dodawać. Niektóre z funkcji to: - Rozmyte przejście do folderu/pliku, gdzie wystarczy wpisać kilka liter pełnej ścieżki, uzyskać sugestie i natychmiast przejść do właściwej ścieżki - Najedź kursorem na plik, aby wyświetlić podgląd obrazu lub pliku PDF bez otwierania go - Widok z dwoma panelami i karty zapamiętujące wybrane filtry - Paleta poleceń do szybkiego wyszukiwania działań - Zbiorcza zmiana nazwy (z obsługą wyrażeń regularnych i ustawieniami wstępnymi dla typowych operacji), konwersja obrazu (HEIC/WebP/AVIF do JPG/PNG), tworzenie zip - Zakładki, szybki podgląd, otwieranie jednym kliknięciem, sterowanie za pomocą klawiatury i wiele innych drobnych funkcji ułatwiających życie. Do tworzenia aplikacji użyłem Claude Code, a stos technologiczny to .NET/C# z AppKit."
     },
     {
       "title": "Samsung wyprzedzi Apple. Miliony osób na to czekają",
@@ -1320,20 +1328,12 @@
       "summary": "Adres URL artykułu: https://jobs.ashbyhq.com/lago Adres URL komentarzy: https://news.ycombinator.com/item?id=48814509 Punkty: 0 # Komentarze: 0."
     },
     {
-      "title": "AI wypłynie na morze. Samsung zapakuje centra danych na statki",
-      "url": "https://www.benchmark.pl/ai-wyplynie-na-morze-samsung-zapakuje-centra-danych-na-statki-7304829706500512a",
-      "date": "2026-07-07T06:48:04Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Brakuje miejsca pod nowe centra danych, prądu jest coraz mniej, a sztuczna inteligencja potrzebuje coraz większej mocy obliczeniowej. Samsung uważa, że rozwiązanie może... unosić się na wodzie."
-    },
-    {
       "title": "Sztuka programowania komputerowego autorstwa Donalda E. Knutha",
       "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
       "date": "2026-07-07T05:19:03Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www-cs-faculty.stanford.edu/~knuth/taocp.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48813929 Punkty: 40 # Komentarze: 11."
+      "summary": "Adres URL artykułu: https://www-cs-faculty.stanford.edu/~knuth/taocp.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48813929 Punkty: 45 # Komentarze: 11."
     },
     {
       "title": "Jak zsekwencjonować własne DNA w domu",
@@ -1341,7 +1341,7 @@
       "date": "2026-07-07T00:14:21Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home Adres URL komentarzy: https://news.ycombinator.com/item?id=48812156 Punkty: 243 # Komentarze: 98."
+      "summary": "Adres URL artykułu: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home Adres URL komentarzy: https://news.ycombinator.com/item?id=48812156 Punkty: 248 # Komentarze: 98."
     },
     {
       "title": "Małe modele AI zyskują na popularności w miejscach o zawodnych sieciach",
@@ -1349,7 +1349,7 @@
       "date": "2026-07-06T23:59:54Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Adres URL komentarzy: https://news.ycombinator.com/item?id=48812055 Punkty: 161 # Komentarze: 54."
+      "summary": "Adres URL artykułu: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Adres URL komentarzy: https://news.ycombinator.com/item?id=48812055 Punkty: 164 # Komentarze: 54."
     },
     {
       "title": "FCC położy kres przepisom z czasów Bidena, które zmuszają dostawców usług internetowych do podawania wszystkich swoich opłat",
@@ -1522,7 +1522,7 @@
       "summary": "Firma BeyondTrust opublikowała aktualizacje eliminujące dwie krytyczne luki w zabezpieczeniach produktów Remote Support (RS) i Privileged Remote Access (PRA), które w przypadku pomyślnego wykorzystania mogą umożliwić nieuwierzytelnionym atakującym przejęcie kontroli nad podatnymi urządzeniami. Luki są wymienione poniżej - CVE-2026-40138 (wynik CVSS: 9,2) - W programie istnieje luka umożliwiająca wstępne uwierzytelnienie."
     },
     {
-      "title": "IBM prezentuje nowe komputery mainframe z możliwością montażu w szafie, które „uzupełniają” rodzinę z17",
+      "title": "IBM prezentuje nowe komputery mainframe z możliwością montażu w szafie, które „uzupełniają” rodzinę Z17",
       "url": "https://www.theregister.com/systems/2026/07/07/ibm-teases-new-rackable-mainframes-that-complete-the-z17-family/5267423",
       "date": "2026-07-07T02:20:34Z",
       "source": "The Register",
@@ -1567,7 +1567,7 @@
       "date": "2026-07-06T18:46:45Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Rzekome wycofywanie nośników fizycznych przez Sony odbija się na samym GitHubie."
+      "summary": "Rzekome wycofywanie nośników fizycznych przez firmę Sony odbija się na samym GitHubie."
     },
     {
       "title": "Hakerzy powiązani z Iranem wykorzystują nowe ramy Cavern C2 do atakowania organizacji izraelskich",
@@ -1583,7 +1583,7 @@
       "date": "2026-07-06T17:37:01Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Błąd związany z możliwością użycia po zwolnieniu w hiperwizorze KVM systemu Linux może zostać wywołany z gościnnej maszyny wirtualnej w celu uszkodzenia stanu strony cienia jądra hosta, na którym działa. Usterka, nazwana „Januscape” i oznaczona jako CVE-2026-53359, kryje się w kodzie Shadow MMU, który KVM współdzieli zarówno z Intelem, jak i AMD. Publiczny dowód słuszności koncepcji wywołuje panikę u gospodarza; badacz twierdzi, że jest to odrębny, niepublikowany wcześniej exploit."
+      "summary": "Błąd związany z możliwością użycia po zwolnieniu w hiperwizorze KVM systemu Linux może zostać wywołany z gościnnej maszyny wirtualnej w celu uszkodzenia stanu strony cienia jądra hosta, na którym działa. Usterka, nazwana „Januscape” i oznaczona jako CVE-2026-53359, kryje się w kodzie Shadow MMU, który KVM współdzieli zarówno z Intelem, jak i AMD. Publiczny dowód słuszności koncepcji wywołuje panikę u gospodarza; badacz twierdzi, że jest to odrębny, niepublikowany exploit."
     },
     {
       "title": "UE wezwana do działania po tym, jak Pegasus zainfekował telefon oprogramowaniem szpiegującym. Zapytanie posła do Parlamentu Europejskiego",
@@ -1631,7 +1631,7 @@
       "date": "2026-07-06T11:30:02Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Stworzenie krótkiej listy do oceny AI SOC może być trudne. Dostawcy SIEM, SOAR i pureplay AI SOC mówią to samo. Ale pod tą samą etykietą kryją się bardzo różne produkty, od asystentów czatu podłączonych do starszego SIEM po platformy agentów, które obsługują wykrywanie, segregację, badanie i reagowanie na własnych podstawach danych."
+      "summary": "Stworzenie krótkiej listy do oceny AI SOC może być trudne. Dostawcy SIEM, SOAR i pureplay AI SOC mówią to samo. Ale za tą samą etykietą kryją się bardzo różne produkty, od asystentów czatu podłączonych do starszego SIEM po platformy agentów, które obsługują wykrywanie, segregację, badanie i reagowanie na własnych podstawach danych."
     },
     {
       "title": "Pierwsze miesiące z GSM-R na polskiej kolei. Problemów nie brakuje",
@@ -1746,12 +1746,12 @@
       "summary": "Gdy temperatura rośnie, problemy z elektroniką zaczynają się szybciej, niż mogłoby się wydawać. Wystarczy chwila w pełnym słońcu, ładowanie w nagrzanym miejscu albo praca pod dużym obciążeniem, by urządzenie zaczęło wysyłać pierwsze sygnały ostrzegawcze. Latem warto więc pamiętać, że smartfon czy laptop również mają swoje granice."
     },
     {
-      "title": "Podmiot rządowy USA zapłacił firmie Kairos 1 milion dolarów w związku ze sprawą dotyczącą wymuszenia kradzieży danych",
+      "title": "Podmiot rządowy USA zapłacił firmie Kairos 1 milion dolarów w związku z wyłudzeniem danych",
       "url": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
       "date": "2026-07-04T12:47:53Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Jak wynika z nowego studium przypadku przeprowadzonego przez Rakesha Krishnana dla Ransom-ISAC, podmiot rządowy Stanów Zjednoczonych zapłacił około 1 milion dolarów, aby zapobiec wyciekowi skradzionych plików, opierając się na czacie negocjacyjnym, który wyciekł, oraz śladzie blockchain pozostawionym przez płatność. Dziwna część: grupa, która wzięła pieniądze, nazywa się Kairos, ale niekoniecznie jest to gang zajmujący się oprogramowaniem ransomware."
+      "summary": "Jak wynika z nowego studium przypadku przeprowadzonego przez Rakesha Krishnana dla Ransom-ISAC, podmiot rządowy USA zapłacił około 1 milion dolarów, aby zapobiec wyciekowi skradzionych plików, opartego na czacie negocjacyjnym, który wyciekł, oraz śladzie blockchain pozostawionym przez płatność. Dziwna część: grupa, która wzięła pieniądze, nazywa się Kairos, ale niekoniecznie jest to gang zajmujący się oprogramowaniem ransomware."
     }
   ],
   "finance": [
@@ -2168,9 +2168,9 @@
     {
       "title": "Na Ukrainie znaleziono zwłoki kobiety podejrzanej o zamach bombowy w Monako",
       "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-07T11:14:59Z",
+      "date": "2026-07-07T11:25:38Z",
       "source": "BBC News",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Policja polowała na Anastazję Bieriezowską po tym, jak w wybuchu ranny został ukraiński milioner."
     },
     {
@@ -2179,7 +2179,7 @@
       "date": "2026-07-07T10:44:03Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Lachie Perrem odniósł obrażenia zagrażające życiu po czwartkowej eksplozji, która zniszczyła jego dom w Brabham. Mieszkaniec Perth przez pięć dni walczył o życie po tym, jak eksplozja odkurzacza robota podpaliła jego dom. Lachie Perrem, lat 20, został w czwartek przewieziony do szpitala z zagrażającymi życiu poparzeniami spowodowanymi pożarem, w wyniku którego jego narzeczona i współlokatorzy zostali bez domu. Kontynuuj czytanie..."
+      "summary": "Lachie Perrem odniósł obrażenia zagrażające życiu po czwartkowej eksplozji, która zniszczyła jego dom w Brabham. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Mężczyzna z Perth przez pięć dni walczył o życie po tym, jak eksplozja robota odkurzacza podpaliła jego dom. Lachie Perrem, lat 20, został w czwartek zabrany do szpitala z zagrażającymi życiu poparzeniami spowodowanymi pożarem, w wyniku którego jego narzeczona i współlokatorzy zostali bez domu. Kontynuuj czytanie..."
     }
   ],
   "map_features": [
@@ -2220,7 +2220,7 @@
       "lng": -98.1,
       "type": "cyber",
       "region": "Stany Zjednoczone",
-      "description": "Jak wynika z nowego studium przypadku przeprowadzonego przez Rakesha Krishnana dla Ransom-ISAC, podmiot rządowy Stanów Zjednoczonych zapłacił około 1 milion dolarów, aby zapobiec wyciekowi skradzionych plików, opierając się na czacie negocjacyjnym, który wyciekł, oraz śladzie blockchain pozostawionym przez płatność.",
+      "description": "Jak wynika z nowego studium przypadku przeprowadzonego przez Rakesha Krishnana dla Ransom-ISAC, podmiot rządowy USA zapłacił około 1 milion dolarów, aby zapobiec wyciekowi skradzionych plików, opartego na czacie negocjacyjnym, który wyciekł, oraz śladzie blockchain pozostawionym przez płatność.",
       "url": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html"
     },
     {
@@ -2698,51 +2698,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25586.99,
+      25583.79,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26747.45,
+      26744.1,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26893.91,
+      26890.55,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27138.04,
+      27134.64,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27771.66,
+      27768.19,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27807.58,
+      27804.1,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28051.45,
+      28047.93,
       27354.94,
       27400.36,
       27412.11,
-      28451.53,
+      28447.97,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27714.65,
+      27711.18,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27893.76,
+      27890.27,
       27686.17,
       27404.78,
       27351.97,
@@ -2751,12 +2751,12 @@
       27661.43,
       27749.69,
       27709.26,
-      27603.09,
+      27599.64,
       27930.04,
       28234.04,
       28218.36,
       28078.54,
-      28291.52
+      28287.98
     ],
     "currency": "PLN"
   }
