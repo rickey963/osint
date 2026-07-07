@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-07T17:12:31Z",
+  "last_updated": "2026-07-07T17:22:46Z",
   "poland": [
     {
       "title": "Pekin: Rozumiemy obawy Polski, ale widzimy obiecujący potencjał wzrostu",
       "url": "https://www.rp.pl/handel/art44785141-pekin-rozumiemy-obawy-polski-ale-widzimy-obiecujacy-potencjal-wzrostu",
-      "date": "2026-07-07T17:00:31Z",
+      "date": "2026-07-07T17:00:00Z",
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Przedstawiciel chińskiego MSZ w rozmowie z „Rz” wyraził zrozumienie dla polskich obaw dotyczących nierównowagi handlowej z Chinami i pogłębiającego się deficytu. Zauważył, że dane za ten rok wskazują na „obiecujący potencjał wzrostu”."
@@ -98,6 +98,14 @@
       "summary": "Międzynarodowy Komitet Olimpijski (MKOl) podjął decyzję o tymczasowym uchyleniu zawieszenia Rosyjskiego Komitetu Olimpijskiego (ROC), które obowiązywało od 12 października 2023 roku."
     },
     {
+      "title": "Jak odmłodzić swój mózg? Uczyć się języków",
+      "url": "https://www.rp.pl/zdrowie/art44787731-jak-odmlodzic-swoj-mozg-uczyc-sie-jezykow",
+      "date": "2026-07-07T16:23:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Mózgi osób, które posługują się więcej niż jednym językiem, starzeją się wolniej – wskazuje badanie zaprezentowane na FENS Forum 2026. Efekt ten nie zależy wyłącznie od liczby znanych języków, ale też poziomu biegłości językowej i długości kontaktu z obcym językiem."
+    },
+    {
       "title": "NATO mobilizuje 217 mld dol. Banki i inwestorzy prywatni wchodzą do gry",
       "url": "https://businessinsider.com.pl/finanse/nato-mobilizuje-srodki-na-obronnosc-mark-rutte-ujawnia-skale-wsparcia/mdy3ec9",
       "date": "2026-07-07T16:09:06Z",
@@ -112,14 +120,6 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Kiedy przestanie padać w Polsce? ECMWF wskazał datę przełomu Polskie Radio 24."
-    },
-    {
-      "title": "Szybsza legalizacja pobytu w Polsce dla obywateli zamożnych państw",
-      "url": "https://www.rp.pl/praca-emerytury-i-renty/art44783141-szybsza-legalizacja-pobytu-w-polsce-dla-obywateli-zamoznych-panstw",
-      "date": "2026-07-07T16:05:01Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Obywatele USA, Japonii, Korei Płd., Wielkiej Brytanii i Australii – dla nich rząd chce wprowadzić tzw. milczącą zgodę na legalizację pobytu. Eksperci oceniają, że to punktowe rozwiązanie dla biznesu, a nie reforma systemu."
     },
     {
       "title": "Jeśli jezioro to Como, nie Mamry. \"Polacy szukają pewnego słońca\"",
@@ -404,6 +404,22 @@
   ],
   "world_security": [
     {
+      "title": "Katar twierdzi, że Iran ponosi pełną odpowiedzialność za uderzenie tankowców w cieśninie Ormuz",
+      "url": "https://www.theguardian.com/world/2026/jul/07/qatar-says-iran-fully-responsible-after-tankers-struck-in-strait-of-hormuz",
+      "date": "2026-07-07T16:52:34Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Trzy statki, w tym katarski zbiornikowiec LNG, zostały uderzone w ciągu kilku godzin w pobliżu OmanuKatar ostrzegł Iran, że poniesie pełną odpowiedzialność prawną po uderzeniu trzech tankowców, w tym katarskiego statku LNG, w ciągu kilku godzin w cieśninie Ormuz. Wszystkie trzy statki zostały uderzone w pobliżu Omanu, co sugerowało utworzenie nowego korytarza żeglugowego w pobliżu jego wybrzeża – propozycji sprzeciwił się Iran, który chce pobierać opłaty od statków korzystających z drogi wodnej. Kontynuuj czytanie..."
+    },
+    {
+      "title": "NATO twierdzi o dużym wzroście europejskich wydatków na obronę, po czym Trump stwierdza, że ​​jest „bardzo rozczarowany” sytuacją w Iranie – Europa na żywo",
+      "url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates",
+      "date": "2026-07-07T16:52:30Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "NATO twierdzi, że podstawowe wydatki na obronę Europy i Kanady wzrosły o 11%, po tym jak prezydent USA powtarza krytykę sojuszników. Przemówienia inauguracyjne trwają obecnie w Ankarze i można je obejrzeć poniżej. Pamiętajcie, że jest to pierwsze wydarzenie branżowe, a nie szczyt przywódców. Kontynuuj czytanie..."
+    },
+    {
       "title": "Trump powtarza na szczycie NATO, że Grenlandia powinna być kontrolowana przez USA, a nie Danię – Reuters",
       "url": "https://www.reuters.com/world/europe/trump-says-greenland-should-be-controlled-by-us-not-denmark-2026-07-07/",
       "date": "2026-07-07T16:50:35Z",
@@ -428,12 +444,12 @@
       "summary": "Władze Varenny twierdzą, że włóczenie się po wiosce bez koszuli lub w strojach kąpielowych jest obecnie zakazane. Wioska rybacka nad jeziorem Como nałożyła kary w wysokości do 200 euro (171 funtów) na osoby chodzące po wiosce z gołą klatką piersiową lub w strojach kąpielowych. Jest to ostatnia próba podjęta przez włoski kurort mający na celu rozprawienie się z nieokrzesanymi turystami. Varenna odczuwa napięcie ze strony rosnącej liczby odwiedzających, dlatego władze zostały zmuszone do wprowadzenia szeregu nowych przepisów mających na celu ochronę wygląd wioski i zapewnienie odrobiny ciszy i spokoju jej całorocznej populacji liczącej około 650 osób. Czytaj dalej..."
     },
     {
-      "title": "NATO twierdzi o dużym wzroście europejskich wydatków na obronę, po czym Trump stwierdza, że ​​jest „bardzo rozczarowany” sytuacją w Iranie – Europa na żywo",
-      "url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates",
-      "date": "2026-07-07T16:38:08Z",
-      "source": "The Guardian",
+      "title": "Katar twierdzi, że Iran uderzył w cieśninę tankowiec, a ogromne tłumy opłakują Chameneiego – Reuters",
+      "url": "https://www.reuters.com/world/middle-east/ship-hit-hormuz-millions-march-ayatollah-iran-says-no-talks-unless-trump-halts-2026-07-07/",
+      "date": "2026-07-07T16:32:45Z",
+      "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "NATO twierdzi, że podstawowe wydatki na obronę Europy i Kanady wzrosły o 11%, po tym jak prezydent USA powtarza krytykę sojuszników. Przemówienia inauguracyjne trwają obecnie w Ankarze i można je obejrzeć poniżej. Pamiętajcie, że jest to pierwsze wydarzenie branżowe, a nie szczyt przywódców. Kontynuuj czytanie..."
+      "summary": "Katar twierdzi, że Iran uderzył w cieśninę tankowiec, a ogromne tłumy opłakują Chameneia Reuters."
     },
     {
       "title": "Na Ukrainie znaleziono zwłoki kobiety podejrzanej o zamach bombowy w Monako",
@@ -452,7 +468,7 @@
       "summary": "Wniosek: Centra danych Big Tech zwiększają rachunki za energię w amerykańskich fabrykach Rust Belt Reuters."
     },
     {
-      "title": "Ghana opóźnia wizytę prezydenta Republiki Południowej Afryki w związku z awanturą związaną z protestami antyimigranckimi",
+      "title": "Ghana wstrzymuje wizytę prezydenta Republiki Południowej Afryki w związku z awanturą związaną z protestami antyimigranckimi",
       "url": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-07T16:25:59Z",
       "source": "BBC News",
@@ -476,11 +492,19 @@
       "summary": "MKOl znosi zawieszenie Rosji, sportowcy wracają do międzynarodowych zawodów Reuters."
     },
     {
+      "title": "Nasdaq spada o ponad 1% w miarę pogłębiania się straty chipów – Reuters",
+      "url": "https://www.reuters.com/business/nasdaq-futures-fall-after-samsungs-record-profit-fails-allay-chip-jitters-2026-07-07/",
+      "date": "2026-07-07T16:16:15Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Nasdaq spada o ponad 1% w miarę pogłębiania się straty chipów Reuters."
+    },
+    {
       "title": "Prawnik twierdzi, że zatrzymany lekarz w Gazie został dotkliwie pobity w izraelskim więzieniu",
       "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-07T16:10:14Z",
       "source": "BBC News",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Prawnik doktora Hussama Abu Safiyi powiedział BBC, że jego klient został tak dotkliwie pobity, że podczas zeszłotygodniowej wizyty nie mógł go rozpoznać."
     },
     {
@@ -530,14 +554,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Liderka Rajdu Narodowego musi teraz zdecydować, czy wystartuje z elektronicznym identyfikatorem, a później przemówi w telewizji."
-    },
-    {
-      "title": "Rekordowy import dóbr kapitałowych przyczynił się do gwałtownego zwiększenia deficytu handlowego USA w maju – Reuters",
-      "url": "https://www.reuters.com/business/us-trade-deficit-widens-sharply-may-capital-goods-imports-hit-record-high-2026-07-07/",
-      "date": "2026-07-07T15:40:10Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Rekordowy import dóbr kapitałowych przyczynił się do gwałtownego zwiększenia deficytu handlowego USA w maju Reuters."
     },
     {
       "title": "EKSKLUZYWNIE: Pekin rozważa ograniczenie zagranicznego dostępu do najlepszych chińskich modeli sztucznej inteligencji, podają źródła – Reuters",
@@ -628,14 +644,6 @@
       "summary": "Amnesty International twierdzi, że Albańczycy mają okazję „potwierdzić wzajemne zaangażowanie” na rzecz praworządności, czego tysiące członków diaspory spodziewało się na stadionie.Otrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Pierwsza wizyta premiera Indii Narendry Modiego w Australii od trzech lat wywołała wezwania rządu federalnego do poruszenia kwestii praw człowieka w miarę rosnącego podekscytowania wśród indyjskiej diaspory. Wizyta Modiego rozpoczyna się w środę wieczorem i jest jego trzecią wizytą od czasu objęcia funkcji premiera. Spowoduje to jego powrót do Melbourne po ponad dziesięciu latach, a wydarzenie na stadionie ma przyciągnąć ponad 20 000 widzów. Kontynuuj czytanie..."
     },
     {
-      "title": "Największa rafineria w Rosji wstrzymuje przerób po ataku drona, podają źródła – Reuters",
-      "url": "https://www.reuters.com/business/energy/russias-largest-oil-refinery-halts-processing-after-drone-attack-sources-say-2026-07-07/",
-      "date": "2026-07-07T14:57:37Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Źródła Reuters podają, że największa rosyjska rafineria ropy naftowej wstrzymuje przerób po ataku dronów."
-    },
-    {
       "title": "Zełenski naciska na NATO w sprawie systemów obrony powietrznej po intensywnych rosyjskich atakach",
       "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-07T13:24:52Z",
@@ -681,7 +689,7 @@
       "date": "2026-07-07T10:23:05Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Funkcjonariusz straży granicznej objęty dochodzeniem po nagraniu z telewizji przemysłowej, na którym widać, jak krzyczy na pasażerów samochodu i rzuca sprzętem Izraelska policja wszczęła dochodzenie po tym, jak nagrania z telewizji przemysłowej pokazały, jak funkcjonariusz straży granicznej wrzuca granat ogłuszający do samochodu przewożącego młodych Palestyńczyków podczas nalotu na obóz dla uchodźców Qalandiya na okupowanym Zachodnim Brzegu. Na nagraniu z niedzieli, opublikowanym przez izraelską grupę praw człowieka B’Tselem, widać funkcjonariusza zbliżającego się do samochodu i krzyczącego na jego pasażerów. Kontynuuj czytanie..."
+      "summary": "Funkcjonariusz straży granicznej objęty dochodzeniem po nagraniu z telewizji przemysłowej, na którym widać, jak krzyczy na pasażerów samochodu i rzuca sprzętem do rzucania Izraelska policja wszczęła dochodzenie po tym, jak nagrania z telewizji przemysłowej pokazały, jak funkcjonariusz straży granicznej wrzuca granat ogłuszający do samochodu przewożącego młodych Palestyńczyków podczas nalotu na obóz dla uchodźców Qalandiya na okupowanym Zachodnim Brzegu. Na materiale filmowym z niedzieli, opublikowanym przez izraelską grupę praw człowieka B’Tselem, widać funkcjonariusza zbliżającego się do samochodu i krzyczącego na jego pasażerów. Kontynuuj czytanie..."
     },
     {
       "title": "Jak wynika z dochodzenia, główny prokurator Nowej Południowej Walii przedstawił fałszywe zeznania w sprawie wycieku do mediów na temat młodego przestępcy pochodzącego z rdzennej ludności",
@@ -697,7 +705,7 @@
       "date": "2026-07-07T08:25:54Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Do wdowy po Charliem Kirku dołączyła rodzina zmarłego amerykańskiego aktywisty – wszyscy po raz pierwszy stanęli przed sądem w tej sprawie."
+      "summary": "Do wdowy po Charliem Kirku dołączyła rodzina zmarłego amerykańskiego aktywisty – wszyscy obecni w tej sprawie po raz pierwszy przed sądem."
     },
     {
       "title": "Obejrzyj: Rzadkie tornado uderza w centralne chińskie miasta",
@@ -706,14 +714,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Filmy udostępnione BBC pokazują gruzy unoszące się w powietrzu, gdy burza przetoczyła się przez Ezhou i Huanggang w prowincji Hubei."
-    },
-    {
-      "title": "Silne burze w Chinach powodują tornada i osunięcia ziemi, w których zginęło 15 osób",
-      "url": "https://www.theguardian.com/world/2026/jul/07/china-severe-storms-death-toll-xi-jinping-rescue-efforts-landslides-tornadoes",
-      "date": "2026-07-07T06:51:54Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Chiński przywódca Xi Jinping wzywa do „ogólnej” akcji ratunkowej w związku ze wzrostem liczby ofiar śmiertelnych i 16 osób pozostaje pochowanych po osuwisku na zachodzie kraju Liczba ofiar śmiertelnych niszczycielskich burz w niektórych częściach Chin wzrosła we wtorek do 15, setki osób zostało rannych, a dziesiątki tysięcy ewakuowano – podają państwowe media, a przywódca kraju Xi Jinping nawoływał do „wszelkich” wysiłków na rzecz ratowania osób dotkniętych kataklizmem burze i wichury zabiły co najmniej 11 osób, a 331 raniły w centralnej prowincji Hubei, gdzie „silna pogoda konwekcyjna” nawiedziła miasta, podczas gdy w poniedziałek późnym wieczorem w innych miejscach odnotowano tornada – podała państwowa agencja informacyjna Xinhua. Kontynuuj czytanie..."
     },
     {
       "title": "Słynna indyjska świątynia Ram wymienia tablicę po rzekomej kradzieży datków",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Irańskie ataki na statki w cieśninie Ormuz testują zawieszenie broni i zagrażają przepływowi ropy",
+      "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
+      "date": "2026-07-07T17:06:22Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Ostatnie ataki, które miały miejsce zaledwie kilka tygodni po tym, jak Stany Zjednoczone i Iran zgodziły się na próbę wynegocjowania trwałego zakończenia swoich działań wojennych, uwypukliły ryzyko dla przedsiębiorstw żeglugowych."
+    },
+    {
       "title": "Sędzia oddalił pozew księcia Harry'ego o naruszenie prywatności przeciwko wydawcy Daily Mail – AP News",
       "url": "https://apnews.com/article/prince-harry-lawsuit-daily-mail-charles-elton-2ada29f1fc84ade5d414c3b49ac47ac6",
       "date": "2026-07-07T16:38:00Z",
@@ -782,20 +790,20 @@
       "summary": "Nigel Farage, przywódca populistycznej prawicowej partii Reform UK, znalazł się pod rosnącą presją po serii rewelacji na temat nieujawnionych prezentów i darowizn."
     },
     {
-      "title": "Irańskie ataki na statki w cieśninie Ormuz testują zawieszenie broni i zagrażają przepływowi ropy",
-      "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
-      "date": "2026-07-07T16:35:21Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Ostatnie ataki, które miały miejsce zaledwie kilka tygodni po tym, jak Stany Zjednoczone i Iran zgodziły się na próbę wynegocjowania trwałego zakończenia swoich działań wojennych, uwypukliły ryzyko dla przedsiębiorstw żeglugowych."
-    },
-    {
       "title": "Zatrzymanie mężczyzny za namalowanie graffiti „Pam the Bird” na Bridge Tower w Melbourne",
       "url": "https://www.nytimes.com/2026/07/07/world/australia/pam-bird-graffiti-melbourne-bridge.html",
       "date": "2026-07-07T16:33:08Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Godzinny starcie z policją zakończyło się, gdy mężczyzna zszedł z 50-metrowej wieży i się poddał. Graffiti przypominało symbol „Ptaka Pam”, który zaczął pojawiać się w całym mieście w 2023 roku."
+    },
+    {
+      "title": "NATO ujawnia miliardowe kontrakty na broń, aby udowodnić swoją siłę ognia, gdy Trump ponownie żąda Grenlandii – AP News",
+      "url": "https://apnews.com/article/nato-defense-trump-contracts-spending-turkey-summit-bede50a5b5e734b9705ffb480463f7ce",
+      "date": "2026-07-07T16:21:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "NATO ujawnia miliardowe kontrakty na broń, aby udowodnić swoją siłę ognia, gdy Trump ponownie żąda Greenland AP News."
     },
     {
       "title": "Ostateczne tłumy Najwyższego Przywódcy",
@@ -910,14 +918,6 @@
       "summary": "Po dniach publicznych ceremonii żałobnych w stolicy Iranu trumna ajatollaha Alego Chamenei przybyła na plac Azadi w Teheranie. To właśnie widziałem podczas poniedziałkowej, wielokilometrowej procesji."
     },
     {
-      "title": "NATO ujawnia miliardowe kontrakty na broń, aby udowodnić swoją siłę ognia po przybyciu Trumpa do Ankary – AP News",
-      "url": "https://apnews.com/article/nato-defense-trump-contracts-spending-turkey-summit-bede50a5b5e734b9705ffb480463f7ce",
-      "date": "2026-07-07T06:47:53Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "NATO ujawnia miliardowe kontrakty na broń, aby udowodnić swoją siłę ognia, gdy Trump pojawia się w Ankara AP News."
-    },
-    {
       "title": "Po dokładnym zniesieniu zawieszenia Balogun ma niewielki wpływ na porażkę w Pucharze Świata w USA – AP News",
       "url": "https://apnews.com/article/world-cup-balogun-united-states-belgium-4e92a390a67533702744fed9796489bf",
       "date": "2026-07-07T05:26:00Z",
@@ -974,6 +974,14 @@
       "summary": "Trump twierdzi, że Walmart obniżył ceny na jego prośbę, ale w oświadczeniu Walmart pomija rolę administracji AP News."
     },
     {
+      "title": "Nowe dane federalne pokazują, że w ciągu ostatniego roku liczba świadczeń objętych programem Obamacare w wielu stanach drastycznie się zmniejszyła – AP News",
+      "url": "https://apnews.com/article/affordable-care-act-obamacare-enrollment-subsidies-trump-189b9b197edbc3c6883d77691dd894b7",
+      "date": "2026-07-06T22:39:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Nowe dane federalne pokazują, że w ciągu ostatniego roku liczba osób objętych programem Obamacare w wielu stanach drastycznie się zmniejszyła."
+    },
+    {
       "title": "Trump mówi, że buduje lądowisko dla helikopterów w Białym Domu dla nowego, potężniejszego Marine One – AP News",
       "url": "https://apnews.com/article/trump-helipad-white-house-sikorsky-8fc7afedf64788e81e4012c91616ac76",
       "date": "2026-07-06T22:21:00Z",
@@ -996,17 +1004,17 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Kanada wybiera niemiecką firmę ThyssenKrupp do budowy floty łodzi podwodnych, ponieważ zwiększa to wydatki NATO AP News."
-    },
-    {
-      "title": "Senator McConnell „kontynuuje powrót do zdrowia”, ale po długim pobycie w szpitalu nie ma żadnych szczegółów – AP News",
-      "url": "https://apnews.com/article/mitch-mcconnell-senate-illness-hospital-566a584e28137458111cd28ecfceaf8e",
-      "date": "2026-07-06T18:33:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Senator McConnell „kontynuuje powrót do zdrowia”, ale po długim pobycie w szpitalu nie ma żadnych szczegółów. AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Ograliśmy The Blood of Dawnwalker. Będzie polski hit na miarę Wiedźmina",
+      "url": "https://spidersweb.pl/2026/07/ogralismy-the-blood-of-dawnwalker-polski-hit-opinia-wrazenia.html",
+      "date": "2026-07-07T17:07:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Ograliśmy The Blood of Dawnwalker. Będzie polski hit na miarę Wiedźmina."
+    },
     {
       "title": "Google ogłasza wydarzenie Pixel zaplanowane na 12 sierpnia w Nowym Jorku, podczas którego ma zostać zaprezentowana seria telefonów Pixel 11 i zegarek Pixel Watch 5 (Abner Li/9to5Google)",
       "url": "https://www.techmeme.com/260707/p29#a260707p29",
@@ -1029,7 +1037,7 @@
       "date": "2026-07-07T16:42:41Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://govauctions.app/research/cheapest-homes-in-america Adres URL komentarzy: https://news.ycombinator.com/item?id=48820274 Punkty: 10 # Komentarze: 5."
+      "summary": "Adres URL artykułu: https://govauctions.app/research/cheapest-homes-in-america Adres URL komentarzy: https://news.ycombinator.com/item?id=48820274 Punkty: 23 # Komentarze: 21."
     },
     {
       "title": "Chiny skazują urzędnika na śmierć za przyjęcie łapówek w wysokości 325 mln dolarów",
@@ -1037,7 +1045,7 @@
       "date": "2026-07-07T16:38:08Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.bbc.com/news/articles/c33y0n1v1xjo Adres URL komentarzy: https://news.ycombinator.com/item?id=48820220 Punkty: 13 # Komentarze: 11."
+      "summary": "Adres URL artykułu: https://www.bbc.com/news/articles/c33y0n1v1xjo Adres URL komentarzy: https://news.ycombinator.com/item?id=48820220 Punkty: 28 # Komentarze: 31."
     },
     {
       "title": "Redukcja pętli zagłady dzięki optymalizacji preferencji tokena końcowego",
@@ -1045,7 +1053,7 @@
       "date": "2026-07-07T16:31:19Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.liquid.ai/blog/antidoom Adres URL komentarzy: https://news.ycombinator.com/item?id=48820127 Punkty: 3 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://www.liquid.ai/blog/antidoom Adres URL komentarzy: https://news.ycombinator.com/item?id=48820127 Punkty: 6 # Komentarze: 1."
     },
     {
       "title": "Czcionka kodu QR TrueType Jima",
@@ -1053,7 +1061,7 @@
       "date": "2026-07-07T16:30:42Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/jimparis/qr-font Adres URL komentarzy: https://news.ycombinator.com/item?id=48820119 Punkty: 3 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://github.com/jimparis/qr-font Adres URL komentarzy: https://news.ycombinator.com/item?id=48820119 Punkty: 8 # Komentarze: 1."
     },
     {
       "title": "Źródła: Microsoft, chcąc obniżyć koszty sztucznej inteligencji, zaczyna zastępować modele z OpenAI i Anthropic swoimi modelami MAI w produktach takich jak Excel i Outlook (Brody Ford/Bloomberg)",
@@ -1085,7 +1093,7 @@
       "date": "2026-07-07T16:24:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/mplsllc/macsurf/releases/tag/v1.86 Adres URL komentarzy: https://news.ycombinator.com/item?id=48820022 Punkty: 3 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://github.com/mplsllc/macsurf/releases/tag/v1.86 Adres URL komentarzy: https://news.ycombinator.com/item?id=48820022 Punkty: 7 # Komentarze: 1."
     },
     {
       "title": "Ważenie dymu: dlaczego pulpity nawigacyjne widoczności AI są w większości bezużyteczne",
@@ -1093,7 +1101,7 @@
       "date": "2026-07-07T16:20:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://betterthangood.xyz/blog/weighing-smoke/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48819958 Punkty: 3 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://betterthangood.xyz/blog/weighing-smoke/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48819958 Punkty: 7 # Komentarze: 0."
     },
     {
       "title": "Anthropic rozszerza Claude Cowork na internet i urządzenia mobilne w wersji beta dla abonentów planu Max i twierdzi, że ponad 90% wykorzystania Cowork nie jest związane z tworzeniem oprogramowania (David Gewirtz/ZDNET)",
@@ -1128,12 +1136,12 @@
       "summary": "Quantum Systems twierdzi, że jego flagowy, popisowy dron: Apex Recordhunter osiągnął 699 km/h w locie poziomym. Wynik jest wyższy od obecnego rekordu, ale na oficjalne potwierdzenie trzeba jeszcze poczekać. Jeśli wynik się potwierdzi, trafi do Księgi Rekordów Guinnessa."
     },
     {
-      "title": "Better Auth dołącza do Vercel",
-      "url": "https://better-auth.com/blog/better-auth-joins-vercel",
-      "date": "2026-07-07T15:52:22Z",
+      "title": "30papers.com – 30 niezbędnych artykułów Ilyi w formacie ML w formacie przyjaznym dla początkujących",
+      "url": "https://30papers.com/",
+      "date": "2026-07-07T15:58:13Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://better-auth.com/blog/better-auth-joins-vercel Adres URL komentarzy: https://news.ycombinator.com/item?id=48819512 Punkty: 62 # Komentarze: 38."
+      "summary": "Adres URL artykułu: https://30papers.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48819608 Punkty: 6 # Komentarze: 2."
     },
     {
       "title": "Klienci PGE drżą przed \"rachunkami grozy\". Przez nowy system od miesięcy nie dostają faktur",
@@ -1190,14 +1198,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "PlayStation odpowiada na skandal z płytami. \"Weź kup pada za tysiaka\"."
-    },
-    {
-      "title": "Google uruchamia „właściwości platformy” w Google Search Console, umożliwiając twórcom i właścicielom witryn sprawdzenie, które wyszukiwane hasła prowadzą do ich platform społecznościowych (Jay Peters/The Verge)",
-      "url": "https://www.techmeme.com/260707/p22#a260707p22",
-      "date": "2026-07-07T14:45:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Jay Peters / The Verge: Google uruchamia „właściwości platformy” w Google Search Console, dzięki czemu twórcy i właściciele witryn mogą zobaczyć, które wyszukiwane hasła prowadzą do ich platform społecznościowych &mdash; Nowa funkcja pozwoli twórcom i wydawcom sprawdzić, jakie wyszukiwane hasła kierują ludzi na ich platformy społecznościowe."
     },
     {
       "title": "Zrzut wody i mamy prąd. Genialny sposób magazynowania energii nad polskim jeziorem",
@@ -1535,7 +1535,7 @@
       "date": "2026-07-07T11:30:00Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Bezpieczeństwo łańcucha dostaw oprogramowania było wystarczająco trudne. Następnie do procesu kompilacji dołączyła sztuczna inteligencja. Przez pięć lat „bezpieczeństwo łańcucha dostaw oprogramowania” oznaczało jedno pytanie: co kryje się w kodzie?"
+      "summary": "Bezpieczeństwo łańcucha dostaw oprogramowania było wystarczająco trudne. Następnie sztuczna inteligencja dołączyła do potoku kompilacji. Przez pięć lat „bezpieczeństwo łańcucha dostaw oprogramowania” oznaczało jedno pytanie: co kryje się w kodzie?"
     },
     {
       "title": "Fałszywe boty IT w Microsoft Teams namawiają pracowników do instalowania złośliwego oprogramowania",
@@ -1658,7 +1658,7 @@
       "summary": "Firma BeyondTrust opublikowała aktualizacje eliminujące dwie krytyczne luki w zabezpieczeniach produktów Remote Support (RS) i Privileged Remote Access (PRA), które w przypadku pomyślnego wykorzystania mogą umożliwić nieuwierzytelnionym atakującym przejęcie kontroli nad podatnymi urządzeniami. Luki są wymienione poniżej - CVE-2026-40138 (wynik CVSS: 9,2) - W programie istnieje luka umożliwiająca wstępne uwierzytelnienie."
     },
     {
-      "title": "IBM prezentuje nowe komputery mainframe z możliwością montażu w szafie, które „uzupełniają” rodzinę z17",
+      "title": "IBM prezentuje nowe komputery mainframe z możliwością montażu w szafie, które „uzupełniają” rodzinę Z17",
       "url": "https://www.theregister.com/systems/2026/07/07/ibm-teases-new-rackable-mainframes-that-complete-the-z17-family/5267423",
       "date": "2026-07-07T02:20:34Z",
       "source": "The Register",
@@ -1759,7 +1759,7 @@
       "date": "2026-07-06T08:50:54Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Naukowcy z Uniwersytetu w Shandong pokazali nowy, szybki sposób pobierania danych z komputerów odciętych od każdej sieci. Technika ta, zwana TrojPix, poprawia piksele na ekranie w sposób niewidoczny dla oka, tak że przenoszący je kabel wideo emituje słaby sygnał radiowy, który pobliski odbiornik może zdekodować. Jednak TrojPix działa tylko wtedy, gdy na komputerze docelowym znajduje się już złośliwe oprogramowanie, więc tak się dzieje."
+      "summary": "Naukowcy z Uniwersytetu w Shandong pokazali nowy, szybki sposób pobierania danych z komputerów odciętych od każdej sieci. Technika ta, zwana TrojPix, poprawia piksele na ekranie w sposób niewidoczny dla oka, tak że przenoszący je kabel wideo emituje słaby sygnał radiowy, który może zdekodować pobliski odbiornik. Jednak TrojPix działa tylko wtedy, gdy na komputerze docelowym znajduje się już złośliwe oprogramowanie, więc tak się dzieje."
     },
     {
       "title": "„Pałac Kibolski” i „Gowno City”. Skandaliczne nazwy w Google Maps",
@@ -1916,6 +1916,14 @@
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
+      "title": "Komunikat ESPI HUUUGE, INC. (huuuge): Informacja o kwartalnych przychodach ze sprzedaży - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/huuuge,informacja-o-kwartalnych-przychodach-ze-sprze-2026-07-07,espi,20260707_170607_0000353879",
+      "date": "2026-07-07T15:06:07Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat ESPI HUUUGE, INC. (huuuge): Informacja o kwartalnych przychodach ze sprzedaży stockwatch.pl."
+    },
+    {
       "title": "Finanse publiczne są pod presją. Wielkie inwestycje zderzają się z wysokim deficytem",
       "url": "https://300gospodarka.pl/news/finanse-publiczne-zadluzanie-panstwa-a-inwestycje-publiczne",
       "date": "2026-07-07T15:01:25Z",
@@ -1932,6 +1940,22 @@
       "summary": "Odzież robocza to jeden z tych elementów funkcjonowania firmy, o których myśli się dopiero wtedy, gdy coś zaczyna szwankować — przemoczona kurtka na budowie, rozdarte spodnie po tygodniu, pracownik marznący w magazynie albo kontrola, która wytyka braki. Tymczasem dobrze dobrany ubiór roboczy to nie koszt, lecz inwestycja: w bezpieczeństwo zespołu, w wizerunek firmy i — całkiem wymiernie — w budżet, bo trwała odzież po prostu rzadziej wymaga wymiany. W tym przewodniku pokazujemy, na co realnie zwrócić uwagę, żeby wybrać dobrze za pierwszym razem."
     },
     {
+      "title": "Komunikat ESPI SPYROSOFT SPÓŁKA AKCYJNA (spyrosoft): Zwarcie z Ordnance Survey umowy na świadczenie usług informatycznych i dostawcę oprogramowania do rozwoju i wsparcia produktu OS Maps. - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/spyrosoft,zwarcie-z-ordnance-survey-umowy-na-swiadczeni-2026-07-07,espi,20260707_163906_0000353872",
+      "date": "2026-07-07T14:39:06Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat ESPI SPYROSOFT SPÓŁKA AKCYJNA (spyrosoft): Zwarcie z Ordnance Survey umowy na świadczenie usług informatycznych i dostawcę oprogramowania do rozwoju i wsparcia produktu OS Maps. stockwatch.pl."
+    },
+    {
+      "title": "CDRL: dywidenda 0,75 zł na akcję za 2025 rok - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/cdrl-dywidenda-2025-rekomendacja,akcje,375847",
+      "date": "2026-07-07T13:44:28Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "CDRL: dywidenda 0,75 zł na akcję za 2025 rok stockwatch.pl."
+    },
+    {
       "title": "\"Jesteśmy dla nich tylko biednym bydłem\". Tak Trump wzbogacił się na wyznawcach - Forbes",
       "url": "https://www.forbes.pl/inwestowanie/oto-inwestorzy-ktorzy-stracili-miliardy-kupujac-akcje-i-krypto-powiazane-z-trumpem/deesfqf",
       "date": "2026-07-07T13:02:09Z",
@@ -1946,6 +1970,30 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
+    },
+    {
+      "title": "Analiza Ailleron: Co dalej po SaaSpocalypse? - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/analiza-ailleron-co-dalej-po-saaspocalypse,akcje,375812",
+      "date": "2026-07-07T12:39:32Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Analiza Ailleron: Co dalej po SaaSpocalypse? stockwatch.pl."
+    },
+    {
+      "title": "Opcja OW20F273700 - Notowania - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/opcja/OW20F273700,notowania.aspx",
+      "date": "2026-07-07T12:37:42Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Opcja OW20F273700 - Notowania stockwatch.pl."
+    },
+    {
+      "title": "Boryszew: kontrakt z PSE na 250 mln zł dla NPA Skawina - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/boryszew-npa-skawina-umowa-pse-przewody-aluminiowe-2026-2031,akcje,375832",
+      "date": "2026-07-07T12:37:10Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Boryszew: kontrakt z PSE na 250 mln zł dla NPA Skawina stockwatch.pl."
     },
     {
       "title": "Warszawa sprawdza efekt SCT. Pierwsze liczby są dobre, ale wymagają cierpliwości",
@@ -2018,14 +2066,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "76-letni emeryt domaga się od Skarbu Państwa wyrównania świadczeń sięgającego ok. 100 tys. zł."
-    },
-    {
-      "title": "Rekomendacje maklerskie spółki Apator SA i skaner notowań spółki na dzień 2026-07-07 - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/apator,rekomendacje,skaner-notowan.aspx",
-      "date": "2026-07-07T09:21:43Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Rekomendacje maklerskie spółki Apator SA i skaner notowań spółki na dzień 2026-07-07 stockwatch.pl."
     },
     {
       "title": "\"Kompletna paranoja\". Tak polski przemysł przegrywa z chińskim.",
@@ -2148,14 +2188,6 @@
       "summary": "Kurs dolara - 07.07.2026. We wtorek za jednego dolara (USD) trzeba zapłacić 3.7506 zł."
     },
     {
-      "title": "Polskie sądy nie nadążają za przestępcami. „Wklepywaliśmy dowody do Excela” - Forbes",
-      "url": "https://www.forbes.pl/gospodarka/polskie-sady-nie-nadazaja-za-przestepcami-cztery-rzeczy-tworza-niewydolny-system/vwwfdj7",
-      "date": "2026-07-07T05:00:00Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Polskie sądy nie nadążają za przestępcami. „Wklepywaliśmy dowody do Excela” Forbes."
-    },
-    {
       "title": "Zaległy mandat może zamknąć drogę do rat. Gapowicze trafiają do rejestru dłużników",
       "url": "https://300gospodarka.pl/news/zalegly-mandat-moze-zamknac-droge-do-rat-gapowicze-trafiaja-do-rejestru-dluznikow",
       "date": "2026-07-06T21:40:08Z",
@@ -2178,38 +2210,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Wiadomości INC SA - strona: 137 BiznesRadar."
-    },
-    {
-      "title": "Komunikat ESPI Olymp Spółka Akcyjna (olymp): Wykaz akcjonariuszy posiadających co najmniej 5% głosów na walnym zgromadzeniu w dniu 30 czerwca 2026 r. - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/olymp,wykaz-akcjonariuszy-posiadajacych-co-najmniej-2026-07-06,espi,20260706_125656_0000353739",
-      "date": "2026-07-06T10:56:56Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat ESPI Olymp Spółka Akcyjna (olymp): Wykaz akcjonariuszy posiadających co najmniej 5% głosów na walnym zgromadzeniu w dniu 30 czerwca 2026 r. stockwatch.pl."
-    },
-    {
-      "title": "Komunikat ESPI Resi Capital Spółka Akcyjna (resi-capital-spolka-akcyjna): Podjęcie przez Zarząd Spółki uchwały ws. zamiaru emisji obligacji serii F w ramach I Bezprospektowego Programu Emisji Obligacji - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/resi-capital-spolka-akcyjna,podjecie-przez-zarzad-spolki-uchwaly-ws-zamia-2026-07-06,espi,20260706_110531_0000353722",
-      "date": "2026-07-06T09:05:31Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat ESPI Resi Capital Spółka Akcyjna (resi-capital-spolka-akcyjna): Podjęcie przez Zarząd Spółki uchwały ws. zamiaru emisji obligacji serii F w ramach I Bezprospektowego Programu Emisji Obligacji stockwatch.pl."
-    },
-    {
-      "title": "Komunikat EBI Organic Farma Zdrowia SA (organic): Inne informacje - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/organic,inne-informacje-2026-07-06,ebi,20260706_090458_0000004264",
-      "date": "2026-07-06T07:04:58Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat EBI Organic Farma Zdrowia SA (organic): Inne informacje stockwatch.pl."
-    },
-    {
-      "title": "Ankieta dla inwestorów indywidualnych inwestujących na rynkach commodities - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/forum/wpisy-12601_Ankieta-dla-inwestorow-indywidualnych-inwestujacych-na-rynkach-commodities.aspx",
-      "date": "2026-07-05T23:47:34Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Ankieta dla inwestorów indywidualnych inwestujących na rynkach commodities stockwatch.pl."
     }
   ],
   "critical_alerts": [
@@ -2260,8 +2260,8 @@
       "lng": 53.69,
       "type": "conflict",
       "region": "Iran",
-      "description": "NATO twierdzi, że podstawowe wydatki na obronę Europy i Kanady wzrosły o 11%, po tym jak prezydent USA powtarza krytykę sojuszników.",
-      "url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates"
+      "description": "Trzy statki, w tym katarski zbiornikowiec LNG, zostały uderzone w ciągu kilku godzin w pobliżu OmanuKatar ostrzegł Iran, że poniesie pełną odpowiedzialność prawną po uderzeniu trzech tankowców, w tym katarskiego statku LNG, w ciągu kilku godzin w cieśninie Ormuz.",
+      "url": "https://www.theguardian.com/world/2026/jul/07/qatar-says-iran-fully-responsible-after-tankers-struck-in-strait-of-hormuz"
     },
     {
       "lat": 6.42,
@@ -2752,51 +2752,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25634.57,
+      25637.98,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26797.19,
+      26800.76,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26943.92,
+      26947.51,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27188.5,
+      27192.12,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27823.31,
+      27827.01,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27859.29,
+      27863.0,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28103.61,
+      28107.35,
       27354.94,
       27400.36,
       27412.11,
-      28504.44,
+      28508.23,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27766.19,
+      27769.88,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27945.63,
+      27949.35,
       27686.17,
       27404.78,
       27351.97,
@@ -2805,13 +2805,13 @@
       27661.43,
       27749.69,
       27709.26,
-      27654.42,
+      27658.1,
       27930.04,
       28234.04,
       28218.36,
       28078.54,
-      28344.13,
-      28266.4
+      28347.9,
+      28271.97
     ],
     "currency": "PLN"
   }
