@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T08:54:24Z",
+  "last_updated": "2026-07-07T08:55:03Z",
   "poland": [
     {
       "title": "Polacy z „galerii sław” na wojnie z hakerami. Ich AI tropi luki w kodzie",
@@ -1418,12 +1418,44 @@
       "summary": "East Kent Hospitals NHS Trust wdrożył MEMORI – system, który wykorzystuje sztuczną inteligencję do wczesnego wykrywania ryzyka zakażeń u pacjentów. Narzędzie analizuje dostępne dane kliniczne i wskazuje chorych wymagających szczególnej uwagi. Na uwagę zasługuje jednak nie tylko samo działanie systemu, ale również sposób jego wprowadzenia."
     },
     {
+      "title": "Wielka Brytania ma odwagę zaplanować biurokrację, aby centra danych mogły szybciej ominąć sąsiadów",
+      "url": "https://www.theregister.com/on-prem/2026/07/07/uk-guts-planning-red-tape-so-datacenters-can-bypass-the-neighbors-faster/5266865",
+      "date": "2026-07-07T08:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Przegląd procesu może dać NIMBY o rok mniej na składanie skarg."
+    },
+    {
+      "title": "Bruksela pokazuje, jak usunąć tarcia we współpracy",
+      "url": "https://www.theregister.com/applications/2026/07/07/brussels-shows-how-to-remove-friction-from-collaboration/5267449",
+      "date": "2026-07-07T08:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "FUNKCJA SPONSOROWANA: Rząd flamandzki bada radykalny pogląd, że sale konferencyjne powinny po prostu działać."
+    },
+    {
+      "title": "Broadcom i Apple przedłużają niestandardowy pakt krzemowy do 2031 roku",
+      "url": "https://www.theregister.com/personal-tech/2026/07/07/broadcom-and-apple-extend-custom-silicon-pact-to-2031/5267491",
+      "date": "2026-07-07T07:19:27Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Prawdopodobnie jest to przedłużenie długotrwałej umowy dotyczącej wnętrzności iThing, a nie nowa, niestandardowa umowa na akcelerator AI."
+    },
+    {
       "title": "CERT/CC ostrzega przed ukrytym backdoorem administratora w oprogramowaniu routera Tenda",
       "url": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
       "date": "2026-07-07T06:40:47Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Centrum Koordynacji CERT (CERT/CC) ostrzegło w poniedziałek, że w kilku wersjach oprogramowania sprzętowego wydanego przez chińskiego producenta urządzeń sieciowych Tenda wbudowany jest backdoor do nieudokumentowanego uwierzytelniania, który umożliwia administracyjny dostęp do internetowych interfejsów zarządzania urządzeniami. „Osoba atakująca może wykorzystać tę lukę, oznaczoną jako CVE-2026-11405, aby ominąć proces weryfikacji hasła."
+    },
+    {
+      "title": "Zyski Samsunga skaczą 19 razy w ciągu roku i nie potrzebujesz sztucznej inteligencji, aby dowiedzieć się, dlaczego",
+      "url": "https://www.theregister.com/systems/2026/07/07/samsungs-profits-jump-19x-in-a-year-and-you-dont-need-ai-to-figure-out-why/5267467",
+      "date": "2026-07-07T05:39:13Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Ceny akcji gwałtownie w dół, najwyraźniej w obliczu obaw, że bańka się powiększa."
     },
     {
       "title": "Ponad 250 numerów PESEL w BIP. Błędy w anonimizacji dokumentów z kontroli ZUS-u",
@@ -1442,6 +1474,54 @@
       "summary": "Firma BeyondTrust opublikowała aktualizacje eliminujące dwie krytyczne luki w zabezpieczeniach produktów Remote Support (RS) i Privileged Remote Access (PRA), które w przypadku pomyślnego wykorzystania mogą umożliwić nieuwierzytelnionym atakującym przejęcie kontroli nad podatnymi urządzeniami. Luki są wymienione poniżej - CVE-2026-40138 (wynik CVSS: 9,2) - W programie istnieje luka umożliwiająca wstępne uwierzytelnienie."
     },
     {
+      "title": "IBM prezentuje nowe komputery mainframe z możliwością montażu w szafie, które „uzupełniają” rodzinę Z17",
+      "url": "https://www.theregister.com/systems/2026/07/07/ibm-teases-new-rackable-mainframes-that-complete-the-z17-family/5267423",
+      "date": "2026-07-07T02:20:34Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Big Iron pozostaje dużym biznesem dla Big Blue."
+    },
+    {
+      "title": "Startup AI, który nigdy nie przyniósł zysków, twierdzi, że będzie gotowy w 2047 r. i sfinalizuje umowę najmu o wartości 19 miliardów dolarów",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/07/ai-startup-thats-never-turned-a-profit-says-itll-totally-be-around-in-2047-to-close-its-19b-lease/5267385",
+      "date": "2026-07-06T23:37:35Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Twórca modeli i siejący strach w AGI Anthropic podpisuje umowę na 20 lat z TeraWulf."
+    },
+    {
+      "title": "Boffins stawia na komputery kwantowe i supersztuczną sztuczną inteligencję, aby rozwiązać dylemat związany z paliwem termojądrowym",
+      "url": "https://www.theregister.com/science/2026/07/06/boffins-bet-on-quantum-computers-ai-supers-to-solve-fusion-fuel-dilemma/5267199",
+      "date": "2026-07-06T20:20:39Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Departament Energii, klinika w Cleveland i IBM symulują zupę ze stopionych soli i bełkot techno w pogoni za trytem."
+    },
+    {
+      "title": "Inżynierowie oprogramowania nadal mogą zarobić duże pieniądze, pracując dla szybko rozwijających się firm",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/06/software-engineers-can-still-rake-in-big-bucks-by-working-for-fast-growing-companies/5267213",
+      "date": "2026-07-06T19:57:45Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Wpływ sztucznej inteligencji na biznes technologiczny jest skomplikowany."
+    },
+    {
+      "title": "Madlad buduje procesor graficzny homebrew przy użyciu 8192 chipów RISC-V",
+      "url": "https://www.theregister.com/systems/2026/07/06/madlad-builds-homebrew-gpu-using-8192-risc-v-chips/5267175",
+      "date": "2026-07-06T19:39:04Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Następna wersja będzie miała 32 000 MCU."
+    },
+    {
+      "title": "GitHub obcina ofertę nagrywania repozytoriów na CD po tym, jak pojawiają się kpiny",
+      "url": "https://www.theregister.com/devops/2026/07/06/github-cuts-short-offer-to-burn-repos-on-cd-after-mockery-ensues/5267113",
+      "date": "2026-07-06T18:46:45Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Rzekome wycofywanie nośników fizycznych przez Sony odbija się na samym GitHubie."
+    },
+    {
       "title": "Hakerzy powiązani z Iranem wykorzystują nowe ramy Cavern C2 do atakowania organizacji izraelskich",
       "url": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
       "date": "2026-07-06T18:34:26Z",
@@ -1458,6 +1538,22 @@
       "summary": "Błąd związany z możliwością użycia po zwolnieniu w hiperwizorze KVM systemu Linux może zostać wywołany z gościnnej maszyny wirtualnej w celu uszkodzenia stanu strony cienia jądra hosta, na którym działa. Usterka, nazwana „Januscape” i oznaczona jako CVE-2026-53359, kryje się w kodzie Shadow MMU, który KVM współdzieli zarówno z Intelem, jak i AMD. Publiczny dowód słuszności koncepcji wywołuje panikę u gospodarza; badacz twierdzi, że jest to odrębny, niepublikowany exploit."
     },
     {
+      "title": "UE wezwana do działania po tym, jak Pegasus zainfekował telefon oprogramowaniem szpiegującym. Zapytanie posła do Parlamentu Europejskiego",
+      "url": "https://www.theregister.com/security/2026/07/06/eus-latest-spyware-scandal-prompts-calls-for-urgent-action/5267054",
+      "date": "2026-07-06T17:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Działacze żądają dochodzenia i długo opóźnionych działań w związku z zaleceniami Komisji PEGA."
+    },
+    {
+      "title": "Samsung ogłasza premierę morskiego centrum danych w 2028 roku",
+      "url": "https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981",
+      "date": "2026-07-06T16:34:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Koreańska megakorporacja wyznacza sobie docelową datę komercjalizacji koncepcji wodnistej farmy serwerów."
+    },
+    {
       "title": "Podmioty zagrażające badają usterkę Gitea Docker CVE-2026-20896 13 dni po ujawnieniu",
       "url": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
       "date": "2026-07-06T16:28:59Z",
@@ -1466,12 +1562,36 @@
       "summary": "Według Sysdig zaobserwowano, że ugrupowania zagrażające próbowały wykorzystać niedawno załataną krytyczną lukę w zabezpieczeniach obrazów Gitea Docker. Luka, o której mowa, to CVE-2026-20896 (wynik CVSS: 9,8). Wynika ona z zaufania platformy DevOps do nagłówka „X-WEBAUTH-USER” z dowolnego źródłowego adresu IP, co skutecznie umożliwia podniesienie poziomu nieuwierzytelnionego klienta internetowego."
     },
     {
+      "title": "Microsoft twierdzi, że świat zmienia się szybciej, niż jest w stanie za nim nadążać, niszcząc komercyjne zespoły Xbox",
+      "url": "https://www.theregister.com/software/2026/07/06/microsoft-says-the-world-is-changing-faster-than-it-can-keep-up-as-it-guts-commercial-xbox-teams/5267032",
+      "date": "2026-07-06T15:58:24Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Szef Xbox twierdzi, że firma nie może sobie pozwolić na mylenie długowieczności z nieuchronnością."
+    },
+    {
+      "title": "Dzięki Ryzen AI Halo firmy AMD lokalna sztuczna inteligencja wygląda na łatwą, ale przy cenie 4 tys. dolarów łatwe nie jest tanie",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/06/amds-ryzen-ai-halo-makes-local-ai-look-easy-but-at-4k-easy-doesnt-come-cheap/5266711",
+      "date": "2026-07-06T15:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "128 GB pamięci! W tej gospodarce?"
+    },
+    {
       "title": "Nielegalne kasyno podszywa się pod Blika",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/nielegalne-kasyno-podszywa-sie-pod-blika",
       "date": "2026-07-06T14:55:25Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Na Facebooku krążą reklamy kasyna wykorzystującego wizerunek systemu płatności Blik. Oszuści stworzyli także stronę podszywającą się pod Sklep Play, która wymaga określonej przeglądarki do pobrania „aplikacji”. Obiecują jednocześnie duży „bonus powitalny” i kuszą rzekomymi wysokimi wygranymi."
+    },
+    {
+      "title": "Nowe europejskie zasady importu czekają na Twoje okazje",
+      "url": "https://www.theregister.com/personal-tech/2026/07/06/europes-new-import-rules-are-coming-for-your-bargains/5266899",
+      "date": "2026-07-06T13:49:32Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Dobra wiadomość, jeśli jesteś producentem drukarek OEM, przedsiębiorcą zajmującym się sprzedażą detaliczną w UE lub urzędnikiem celnym... ale hobbystów i innych mniej zadowolonych."
     },
     {
       "title": "⚡ Cotygodniowe podsumowanie: botnety proxy, oprogramowanie ransomware przeglądarki, sztuczki agentów AI, fałszywe złośliwe oprogramowanie PoC i nie tylko",
@@ -2599,51 +2719,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25607.72,
+      25607.65,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26769.12,
+      26769.04,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26915.7,
+      26915.62,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27160.02,
+      27159.95,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27794.16,
+      27794.08,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27830.1,
+      27830.03,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28074.17,
+      28074.09,
       27354.94,
       27400.36,
       27412.11,
-      28474.57,
+      28474.5,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27737.09,
+      27737.02,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27916.35,
+      27916.28,
       27686.17,
       27404.78,
       27351.97,
@@ -2652,12 +2772,12 @@
       27661.43,
       27749.69,
       27709.26,
-      27625.45,
+      27625.38,
       27930.04,
       28234.04,
       28218.36,
       28078.54,
-      28314.43
+      28314.36
     ],
     "currency": "PLN"
   }
