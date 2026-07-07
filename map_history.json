@@ -6,7 +6,7 @@
     "region": "Ukraina",
     "description": "Szef Kancelarii Prezydenta Zbigniew Bogucki odniósł się do wpisania go na listę prowadzoną przez ukraińską organizację Myrotworeć.",
     "url": "https://www.polsatnews.pl/wiadomosc/2026-07-07/zbigniew-bogucki-wpisany-na-liste-wrogow-ukrainy-zdecydowana-reakcja-szefa-kancelarii-prezydenta/",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
@@ -15,7 +15,7 @@
     "region": "Strefa Gazy / Izrael",
     "description": "Funkcjonariusz straży granicznej objęty dochodzeniem po nagraniu z telewizji przemysłowej, na którym widać, jak krzyczy na pasażerów samochodu i rzuca sprzętem do rzucania Izraelska policja wszczęła dochodzenie po tym, jak nagrania z telewizji przemysłowej pokazały, jak funkcjonariusz straży granicznej wrzuca granat ogłuszający do samochodu przewożącego młodych Palestyńczyków podczas nalotu na obóz dla uchodźców Qalandiya na okupowanym Zachodnim Brzegu.",
     "url": "https://www.theguardian.com/world/2026/jul/07/israeli-officer-stun-grenade-car-west-bank",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "conflict|Iran": {
     "lat": 32.43,
@@ -24,7 +24,7 @@
     "region": "Iran",
     "description": "Spotkanie 32 państw członkowskich odbywa się w kluczowym momencie dla sojuszu po napięciach z USA w sprawie Iranu i Grenlandii.",
     "url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "conflict|Wenezuela": {
     "lat": 6.42,
@@ -40,9 +40,9 @@
     "lng": -98.1,
     "type": "cyber",
     "region": "Stany Zjednoczone",
-    "description": "Jak wynika z nowego studium przypadku przeprowadzonego przez Rakesha Krishnana dla Ransom-ISAC, podmiot rządowy USA zapłacił około 1 milion dolarów, aby zapobiec wyciekowi skradzionych plików, opartego na czacie negocjacyjnym, który wyciekł, oraz śladzie blockchain pozostawionym przez płatność.",
+    "description": "Jak wynika z nowego studium przypadku przeprowadzonego przez Rakesha Krishnana dla Ransom-ISAC, podmiot rządowy Stanów Zjednoczonych zapłacił około 1 milion dolarów, aby zapobiec wyciekowi skradzionych plików, opierając się na czacie negocjacyjnym, który wyciekł, oraz śladzie blockchain pozostawionym przez płatność.",
     "url": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "conflict|Tajwan": {
     "lat": 23.7,
@@ -60,7 +60,7 @@
     "region": "Polska",
     "description": "Od 18 lat w Wojsku Polskim funkcjonuje Centrum Wsparcia Systemów Dowodzenia Sił Zbrojnych.",
     "url": "https://cyberdefence24.pl/armia-i-sluzby/wojsko-polskie/nazywaja-ich-konkwistadorami-xxi-wieku-wojsko-odslania-kulisy-sluzby-wyjatkowych-zolnierzy",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "disaster|Wenezuela": {
     "lat": 5.92,
@@ -78,16 +78,16 @@
     "region": "Strefa Gazy / Izrael",
     "description": "Irańska grupa hakerska powiązana z irańskim Ministerstwem Wywiadu i Bezpieczeństwa (MOIS) korzysta z nieudokumentowanej wcześniej modułowej struktury dowodzenia i kontroli (C2) zwanej Cavern (znanej również jako Cav3rn), której celem są organizacje izraelskie.",
     "url": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "cyber|Rosja": {
     "lat": 62.0,
     "lng": 105.8,
     "type": "cyber",
     "region": "Rosja",
-    "description": "Cyberatakom wymierzonym w agencje rządowe i sektor elektroenergetyczny w Rosji, Brazylii i Kazachstanie przypisuje się wcześniej nieudokumentowanemu ugrupowaniu zagrażającemu znanemu jako Armored Likho.",
-    "url": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
-    "last_seen": "2026-07-06T13:36:33Z"
+    "description": "Mężczyzna z Palencii podejrzany o powiązania z CARR, Z-Pentest i NoName057(16), a także pomaganie ukraińskiemu hakerowi w ucieczce do Rosji.",
+    "url": "https://www.theregister.com/security/2026/07/07/alleged-pro-russia-hacktivist-arrested-in-palencia/5267569",
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "conflict|Sudan": {
     "lat": 12.86,
@@ -105,7 +105,7 @@
     "region": "Korea Północna",
     "description": "Zaobserwowano, że północnokoreańskie ugrupowania zagrażające powiązane z kampanią Contagious Interview publikują 108 unikalnych pakietów i rozszerzeń przeglądarek internetowych obejmujących npm, Packagist, Go i Google Chrome w ramach ciągłego działania zwanego PolinRider.",
     "url": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "cyber|Korea Północna": {
     "lat": 40.84,
@@ -114,7 +114,7 @@
     "region": "Korea Północna",
     "description": "Zaobserwowano, że północnokoreańskie ugrupowania zagrażające powiązane z kampanią Contagious Interview publikują 108 unikalnych pakietów i rozszerzeń przeglądarek internetowych obejmujących npm, Packagist, Go i Google Chrome w ramach ciągłego działania zwanego PolinRider.",
     "url": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "cyber|Indie": {
     "lat": 21.5,
@@ -139,9 +139,9 @@
     "lng": 38.99,
     "type": "conflict",
     "region": "Syria",
-    "description": "W Damaszku, stolicy Syrii, w pobliżu hotelu, w którym zatrzymał się prezydent Francji Emmanuel Macron, doszło do eksplozji ładunków wybuchowych - informowała agencja Reutera.",
-    "url": "https://www.polsatnews.pl/wiadomosc/2026-07-07/eksplozje-w-damaszku-w-hotelu-obok-zatrzymal-sie-prezydent-francji-emmanuel-macron/",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "description": "Do wybuchów doszło w okolicach hotelu w Damaszku, w którym zatrzymał się prezydent Francji Emmanuel Macron - poinformowała agencja Reutera.",
+    "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32899452,seria-eksplozji-w-syrii-reuters-do-wybuchow-doszlo-w-poblizu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "conflict|Haiti": {
     "lat": 18.97,
@@ -204,7 +204,7 @@
     "region": "Wielka Brytania",
     "description": "Atak nazwany przez badaczy FortiBleed nie jest zwykłym wyciekiem haseł.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/rosyjski-slad-fortibleed-jak-wyciek-loginow-uderzyl-w-brytyjskie-instytucje",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "cyber|Chiny": {
     "lat": 35.5,
@@ -213,7 +213,7 @@
     "region": "Chiny",
     "description": "Zaobserwowano klaster działań podejrzanych o powiązanie z Chinami, którego celem są indyjscy podatnicy, doradcy podatkowi i zespoły finansów przedsiębiorstw w celu dostarczenia trojana zdalnego dostępu, którego zadaniem jest kradzież wrażliwych danych z zaatakowanych hostów.",
     "url": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "disaster|Chiny": {
     "lat": 34.5,
@@ -222,7 +222,7 @@
     "region": "Chiny",
     "description": "Filmy pokazały zalane drogi, pola uprawne i budynki, a także wody powodziowe pędzące w kierunku domów, podczas gdy region przygotowywał się na potencjalny supertajfun w tym tygodniu.",
     "url": "https://www.nytimes.com/2026/07/07/world/asia/china-flooding-typhoon-maysak.html",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "disaster|Polska": {
     "lat": 51.5,
@@ -231,7 +231,7 @@
     "region": "Polska",
     "description": "Kamera uchwyciła potężne tornado.",
     "url": "https://polskieradio24.pl/pogoda/kamera-uchwycila-potezne-tornado-to-nagranie-naocznego-swiadka",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "cyber|Belgia": {
     "lat": 51.3,
@@ -240,7 +240,7 @@
     "region": "Belgia",
     "description": "FUNKCJA SPONSOROWANA: Rząd flamandzki bada radykalny pogląd, że sale konferencyjne powinny po prostu działać.",
     "url": "https://www.theregister.com/applications/2026/07/07/brussels-shows-how-to-remove-friction-from-collaboration/5267449",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "critical|Monako": {
     "lat": 43.440000000000005,
@@ -249,7 +249,7 @@
     "region": "Monako",
     "description": "Znaleziono ciało kobiety podejrzanej o próbę zamachu na Wadyma Jermołajewa, oligarchę objętego ukraińskimi sankcjami - przekazała \"Ukraińska Prawda\".",
     "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32899622,zamach-w-monako-media-pod-kijowem-znaleziono-cialo-kobiety.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "critical|Iran": {
     "lat": 32.13,
@@ -265,9 +265,9 @@
     "lng": 39.29,
     "type": "critical",
     "region": "Syria",
-    "description": "W Damaszku, stolicy Syrii, w pobliżu hotelu, w którym zatrzymał się prezydent Francji Emmanuel Macron, doszło do eksplozji ładunków wybuchowych - informowała agencja Reutera.",
-    "url": "https://www.polsatnews.pl/wiadomosc/2026-07-07/eksplozje-w-damaszku-w-hotelu-obok-zatrzymal-sie-prezydent-francji-emmanuel-macron/",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "description": "Co najmniej 18 osób, w tym czterech policjantów, zostało rannych we wtorek rano w wyniku dwóch eksplozji w stolicy Syrii, Damaszku - poinformowało syryjskie ministerstwo spraw wewnętrznych.",
+    "url": "https://www.bankier.pl/wiadomosc/Zamach-na-Macrona-W-2-eksplozjach-w-Damaszku-rannych-zostalo-18-osob-9164572.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "last_seen": "2026-07-07T11:02:55Z"
   },
   "critical|Francja": {
     "lat": 46.300000000000004,
@@ -294,6 +294,6 @@
     "region": "Irlandia",
     "description": "Nowe zamówienie może być warte 851 mln funtów po wycofaniu poprzedniej nagrody Fujitsu.",
     "url": "https://www.theregister.com/public-sector/2026/07/07/northern-ireland-tries-again-to-expel-capita-from-schools-it-contract/5266887",
-    "last_seen": "2026-07-07T10:57:56Z"
+    "last_seen": "2026-07-07T11:02:55Z"
   }
 }
