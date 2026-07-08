@@ -6,7 +6,7 @@
     "region": "Ukraina",
     "description": "Gen.",
     "url": "https://www.rp.pl/wojsko/art44785191-gen-leon-komornicki-o-ujawnieniu-danych-o-pomocy-ukrainie-w-moskwie-i-kijowie-sie-z-nas-smieja",
-    "last_seen": "2026-07-08T19:12:39Z"
+    "last_seen": "2026-07-08T19:17:35Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
@@ -15,7 +15,7 @@
     "region": "Strefa Gazy / Izrael",
     "description": "Mohamed al-Wahidi zginął, gdy rakieta uderzyła w jego taksówkę na krótko przed ostatnim 16 meczem Egiptu z Argentyną.",
     "url": "https://www.theguardian.com/world/2026/jul/08/aid-worker-world-cup-screenings-gaza-killed-israeli-strike",
-    "last_seen": "2026-07-08T19:12:39Z"
+    "last_seen": "2026-07-08T19:17:35Z"
   },
   "conflict|Iran": {
     "lat": 32.43,
@@ -24,7 +24,7 @@
     "region": "Iran",
     "description": "W związku z konsekwencjami wojny USA z Iranem Międzynarodowy Fundusz Walutowy ponownie obniża prognozy wzrostu dla niemieckiej gospodarki.",
     "url": "https://businessinsider.com.pl/gospodarka/mfw-obniza-prognozy-dla-niemiec-wojna-usa-z-iranem-pogarsza-sytuacje/fl4ee1d",
-    "last_seen": "2026-07-08T19:12:39Z"
+    "last_seen": "2026-07-08T19:17:35Z"
   },
   "conflict|Wenezuela": {
     "lat": 6.42,
@@ -33,7 +33,7 @@
     "region": "Wenezuela",
     "description": "Obawiając się, że urzędnicy zburzą zniszczone budynki bez znalezienia pozostałych ciał, Wenezuelczycy desperacko szukają szczątków swoich bliskich.",
     "url": "https://www.nytimes.com/2026/07/08/world/americas/venezuela-earthquakes-deaths-remains.html",
-    "last_seen": "2026-07-08T19:12:39Z"
+    "last_seen": "2026-07-08T19:17:35Z"
   },
   "cyber|Stany Zjednoczone": {
     "lat": 40.3,
@@ -42,7 +42,7 @@
     "region": "Stany Zjednoczone",
     "description": "Amerykańska agencja cyberbezpieczeństwa korzysta z modelu Mythos – wynika z doniesień medialnych.",
     "url": "https://cyberdefence24.pl/technologie/mythos-wraca-do-lask-w-usa-korzystaja-z-niego-rzadowe-agencje",
-    "last_seen": "2026-07-08T19:12:39Z"
+    "last_seen": "2026-07-08T19:17:35Z"
   },
   "conflict|Tajwan": {
     "lat": 23.7,
@@ -60,7 +60,7 @@
     "region": "Polska",
     "description": "Polskie organizacje coraz mocniej inwestują w SIEM – 45,8% badanych firm już go posiada, a kolejne 32,5% planuje wdrożenie.",
     "url": "https://cyberdefence24.pl/technologie/siem-to-dopiero-poczatek-raport-pokazuje-luki-w-polskim-cyberbezpieczenstwie",
-    "last_seen": "2026-07-08T19:12:39Z"
+    "last_seen": "2026-07-08T19:17:35Z"
   },
   "disaster|Wenezuela": {
     "lat": 5.92,
@@ -123,7 +123,7 @@
     "region": "Chiny",
     "description": "Chiński ugrupowanie zagrażające śledzone jako UAT-7810 aktywnie udoskonala swoje specjalnie zaprojektowane szkodliwe oprogramowanie w celu rozszerzenia sieci Operational Relay Box (ORB) poprzez włamywanie się do urządzeń sieciowych połączonych z Internetem.",
     "url": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
-    "last_seen": "2026-07-08T19:12:39Z"
+    "last_seen": "2026-07-08T19:17:35Z"
   },
   "disaster|Chiny": {
     "lat": 34.5,
@@ -142,15 +142,6 @@
     "description": "Huraganowy wiatr i nie tylko.",
     "url": "https://polskieradio24.pl/pogoda/huraganowy-wiatr-uderzy-w-polske-synoptycy-nie-wykluczaja-trab-powietrznych",
     "last_seen": "2026-07-08T08:11:27Z"
-  },
-  "critical|Monako": {
-    "lat": 43.440000000000005,
-    "lng": 7.7299999999999995,
-    "type": "critical",
-    "region": "Monako",
-    "description": "Władze ukraińskie poinformowały, że Anastazja Bieriezowska, która według władz stała za zeszłotygodniową eksplozją, została zastrzelona.",
-    "url": "https://www.nytimes.com/2026/07/07/world/europe/monaco-bombing-suspect-dead-ukraine.html",
-    "last_seen": "2026-07-07T19:12:40Z"
   },
   "critical|Ukraina": {
     "lat": 48.080000000000005,
@@ -177,7 +168,7 @@
     "region": "Ukraina",
     "description": "Rosyjska propaganda ponownie sięga po jedną z najbardziej dotkliwych ran w relacjach polsko-ukraińskich.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/rosja-podsyca-ogien-miedzy-polska-a-ukraina-zmyslila-raport-sww",
-    "last_seen": "2026-07-08T19:12:39Z"
+    "last_seen": "2026-07-08T19:17:35Z"
   },
   "cyber|Grecja": {
     "lat": 39.6,
@@ -249,6 +240,6 @@
     "region": "Meksyk",
     "description": "Nowa oszukańcza operacja bankowa atakuje klientów meksykańskich banków, fintech, procesorów płatności i giełd kryptowalut, wykorzystując przynęty ClickFix.",
     "url": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
-    "last_seen": "2026-07-08T19:12:39Z"
+    "last_seen": "2026-07-08T19:17:35Z"
   }
 }
