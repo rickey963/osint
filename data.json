@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T21:49:52Z",
+  "last_updated": "2026-07-08T21:50:33Z",
   "poland": [
     {
       "title": "Wyniki matur 2026 już 8 lipca. Wiemy, o której godzinie ruszy system ZIU - Polskie Radio 24",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "„Nie możemy zdecydować się na bycie idiotami”: skandal związany z oszukiwaniem sztucznej inteligencji nękający Uniwersytet Browna",
+      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+      "date": "2026-07-08T21:42:44Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Oszukiwanie przez sztuczną inteligencję prowadzi do „upadłego społeczeństwa” – mówi profesor."
+    },
+    {
       "title": "OpenAI twierdzi, że znalazło powszechne problemy z zadaniami w SWE-Bench Pro, szacuje, że około 30% zadań jest uszkodzonych i wycofuje swoje wcześniejsze zalecenia dotyczące przyjęcia testu porównawczego (OpenAI)",
       "url": "https://www.techmeme.com/260708/p41#a260708p41",
       "date": "2026-07-08T21:10:01Z",
@@ -1080,6 +1088,14 @@
       "summary": "Hej, HN, stworzyłem interfejs użytkownika na podstawie postów „Kto zatrudnia”. Spójrz na https://hnwork.app! Jedną z wad nieustrukturyzowanych postów tekstowych jest czytelność ze względu na ich swobodną formę i niewielki format lub brak formatu. Chociaż istnieją inne narzędzia, które opracowywano przez lata, aby ułatwić przeglądanie postów Kto zatrudnia pracowników, spróbowałem stworzyć własne (właściwie próbowałem to zbudować na hackatonie YC kilka lat temu, ale niedawno zabrałem się za ich ukończenie). Funkcje:1."
     },
     {
+      "title": "Pozew: Mężczyzna użył Groka do zrobienia zdjęć pasierbicy w rozdzielczości 7 tys., a następnie się zastrzelił",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+      "date": "2026-07-08T19:56:37Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Więcej młodych dziewcząt pozywa X w związku z Grok CSAM; X oskarżony o chronienie dziecięcych drapieżników."
+    },
+    {
       "title": "Zdjęcia Google z turbodoładowaniem. Tego platforma jeszcze nie miała!",
       "url": "https://antyweb.pl/zdjecia-google-z-turbodoladowaniem-tego-platforma-jeszcze-nie-miala",
       "date": "2026-07-08T19:45:02Z",
@@ -1094,6 +1110,22 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Finał filmowej trylogii Denisa Villeneuve’a zbliża się wielkimi krokami. Już w grudniu do kin trafi „Diuna: Część trzecia”, która zakończy historię zapoczątkowaną w 2021 roku. W sieci właśnie pojawił się nowy zwiastun widowiska sci-fi."
+    },
+    {
+      "title": "Sędzia odrzuca próbę Kalshiego obejścia przepisów dotyczących hazardu stanu Nowy Jork",
+      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/",
+      "date": "2026-07-08T19:14:02Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Gubernator stanu Nowy Jork twierdzi, że Kalshi próbował zignorować przepisy dotyczące hazardu na swoim rynku prognoz."
+    },
+    {
+      "title": "Google płaci 250 tys. dolarów za lukę w systemie Linux umożliwiającą ucieczkę gościnnej maszyny wirtualnej",
+      "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+      "date": "2026-07-08T19:01:19Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Obie luki umożliwiają niezaufanym użytkownikom uzyskanie uprawnień roota."
     },
     {
       "title": "Assassin's Creed Black Flag Resynced - recenzja. Za łatwo, za grzecznie, za ładnie",
@@ -1248,14 +1280,6 @@
       "summary": "Uwaga na nową, wyjątkowo podstępną falę cyberataków. Oszuści zamiast tradycyjnych wyłudzeń na wnuczka czy fałszywych dopłat do prądu, opracowali nowy mechanizm manipulacji. Teraz podszywają się pod Ministerstwo Finansów oraz oficjalne serwisy administracji publicznej, oferując fikcyjne, „gwarantowane przez państwo” programy inwestycyjne."
     },
     {
-      "title": "Google aktualizuje Android Bench o nowe LLM, ale Gemini wciąż pozostaje w tyle",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "date": "2026-07-08T16:39:48Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Android Bench ewoluuje, a programiści mogą pomóc w kierowaniu tym procesem."
-    },
-    {
       "title": "Polski satelita odezwał się z orbity. Ważniejsza chwila niż sam start",
       "url": "https://spidersweb.pl/2026/07/mikroglob-1-creotech-lacznosc-orbita.html",
       "date": "2026-07-08T16:37:00Z",
@@ -1272,14 +1296,6 @@
       "summary": "Marina Temkin / TechCrunch: Firma Prime Intellect, która pomaga firmom budować własnych agentów sztucznej inteligencji, oferując moc obliczeniową i specjalistyczne narzędzia, pozyskała serię A o wartości 130 mln dolarów przy wycenie na poziomie 1 mld dolarów &mdash; Prime Intellect, startup zapewniający moc obliczeniową i specjalistyczne narzędzia programowe, które pomagają firmom budować agentów AI &hellip;."
     },
     {
-      "title": "Arkenstone Defence, która tworzy oprogramowanie do obsługi zaplecza biurowego dla start-upów z branży technologii obronnych, wychodzi z ukrycia dzięki kapitałowi 35 milionów dolarów kierowanemu przez J2 Ventures (Barratt Dewey/Tectonic Defense)",
-      "url": "https://www.techmeme.com/260708/p34#a260708p34",
-      "date": "2026-07-08T15:55:00Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Barratt Dewey / Tectonic Defense: Firma Arkenstone Defense, która tworzy oprogramowanie do obsługi zaplecza biurowego dla start-upów z branży technologii obronnych, wychodzi z ukrycia dzięki kapitałowi 35 milionów dolarów kierowanemu przez J2 Ventures &mdash; Pamiętasz, jak mówimy, że kochamy nieseksowną stronę obrony? Cóż, wracamy z wiadomościami z najbardziej nieseksownego miejsca, jakie możemy sobie wyobrazić &hellip;."
-    },
-    {
       "title": "Anulowałem PS Plus i ty też powinieneś. Sony samo się o to prosi",
       "url": "https://spidersweb.pl/2026/07/ps-plus-jak-anulowac-abonament-playstation-subskrypcja-promocja-ps5.html",
       "date": "2026-07-08T15:50:00Z",
@@ -1288,28 +1304,12 @@
       "summary": "Anulowałem PS Plus i ty też powinieneś. Sony samo się o to prosi."
     },
     {
-      "title": "Dwóch nastolatków na własnej skórze uczy się, jak nie jeździć zabawkowym pistoletem od Waymo",
-      "url": "https://arstechnica.com/cars/2026/07/two-teens-learn-the-hard-way-not-to-do-toy-gun-drivebys-from-a-waymo/",
-      "date": "2026-07-08T15:40:44Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Robotxi zatrzymała się, zadzwoniła pod numer 911 i czekała na przyjazd policji San Mateo."
-    },
-    {
       "title": "iPhone wyraźnie przytyje. Nie w tę stronę, którą powinien",
       "url": "https://spidersweb.pl/2026/07/iphone-18-pro-max-grubosc-urosnie-smartfon.html",
       "date": "2026-07-08T15:29:00Z",
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "iPhone wyraźnie przytyje. Nie w tę stronę, którą powinien."
-    },
-    {
-      "title": "W strefie szczelin oceanicznych doszło do nagłego rozprzestrzenienia się wirusa",
-      "url": "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/",
-      "date": "2026-07-08T15:09:38Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Skorupa rozszerza się w szczelinach śródoceanicznych. Ale jak?"
     },
     {
       "title": "Samsung zasypie nas smartfonami, smartwatchami i... okularami (?). Jest data premiery nowych urządzeń",
@@ -2736,51 +2736,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25703.77,
+      25703.08,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26869.52,
+      26868.81,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27016.65,
+      27015.93,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27261.89,
+      27261.17,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27898.41,
+      27897.67,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27934.49,
+      27933.75,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28179.47,
+      28178.72,
       27354.94,
       27400.36,
       27412.11,
-      28581.38,
+      28580.62,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27841.13,
+      27840.39,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28021.06,
+      28020.32,
       27686.17,
       27404.78,
       27351.97,
@@ -2789,14 +2789,14 @@
       27661.43,
       27749.69,
       27709.26,
-      27729.07,
+      27728.33,
       27930.04,
       28234.04,
       28218.36,
       28078.54,
       28233.03,
       28294.39,
-      28214.31
+      28213.56
     ],
     "currency": "PLN"
   }
