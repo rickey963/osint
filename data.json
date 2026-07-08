@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-08T04:58:41Z",
+  "last_updated": "2026-07-08T05:08:10Z",
   "poland": [
+    {
+      "title": "„Kłamali w nocy. Kłamali w dzień”. Péter Magyar wyłączył publiczną telewizję informacyjną",
+      "url": "https://www.rp.pl/polityka/art44789201-klamali-w-nocy-klamali-w-dzien-peter-magyar-wylaczyl-publiczna-telewizje-informacyjna",
+      "date": "2026-07-08T04:53:15Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Kanał informacyjny węgierskiej telewizji publicznej M1 zawiesił 7 lipca działanie. Premier Węgier Péter Magyar komentując ten fakt, podkreślił, że „ostatecznie zakończono propagandę w węgierskich mediach publicznych”. Z kolei były premier Viktor Orbán określił tę decyzję mianem tyranii rządu Tiszy."
+    },
     {
       "title": "Trump z Turcji wydał rozkaz ataku na 80 celów w Iranie. Teheran grozi \"miażdżącą\" odpowiedzią",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,32901354,trump-z-turcji-wydal-rozkaz-ataku-na-80-celow-w-iranie-teheran.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -136,14 +144,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Pracownicy administracji mogą dochodzić praw wynikających z dyrektywy o jawności wynagrodzeń, choć w Polsce nie została jeszcze implementowana."
-    },
-    {
-      "title": "Pomoc ARP dla JSW w ciągu najbliższych dni",
-      "url": "https://energia.rp.pl/wegiel/art44788401-pomoc-arp-dla-jsw-w-ciagu-najblizszych-dni",
-      "date": "2026-07-08T03:19:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "W ciągu najbliższych kilku dni ma dojść do decyzji ws. uruchomienia pożyczek Agencji Rozwoju Przemysłu Jastrzębskiej Spółce Węglowej i Grupie Azoty. Kiedy wydawało się, że sytuacja w JSW powoli wychodzi na prostą kolejne opóźnienia znów stawiają spółkę w niełatwej sytuacji."
     },
     {
       "title": "Rosyjskie ślady wokół mega inwestycji Orlenu. ABW zbada sprawę",
@@ -404,20 +404,20 @@
   ],
   "world_security": [
     {
+      "title": "Wiadomości z Australii na żywo: Anika Wells twierdzi, że firmy telekomunikacyjne to „branża najmniej zaufana” po awarii Telstry; Minister cieni skrytykował wezwania do testów potrójnego zera",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
+      "date": "2026-07-08T04:51:16Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Minister komunikacji twierdzi, że „bardzo ważne jest, aby ludzie nie wykonywali połączeń testowych do potrójnego zera”. Śledź dzisiejsze wiadomości na żywoOtrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami Zgłoszono awarię Telstry jako przyczynę zatrzymania pociągu w Victorii. Na oficjalnej stronie V/line znajduje się długa lista odwołanych pociągów, ale z informacji TL/DR wynika, że ​​regionalna sieć pociągów w Wiktorii została wstrzymana. Ze względu na awarię sieci radiowej usługi obecnie nie działają… Pasażerom zaleca się przełożenie podróży, jeśli to możliwe. Kontynuuj czytanie..."
+    },
+    {
       "title": "Strajki handlowe USA i Iranu po uderzeniu tankowców w Cieśninie Ormuz",
       "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-08T04:43:44Z",
       "source": "BBC News",
       "confirmed_by": 3,
-      "summary": "Stany Zjednoczone twierdzą, że ataki mają na celu nałożenie „dużych kosztów”, natomiast Iran ostrzega, że ​​w odpowiedzi „podejmie zdecydowane kroki”."
-    },
-    {
-      "title": "Wiadomości z Australii na żywo: Anika Wells twierdzi, że trwają kontrole opieki społecznej po tym, jak niektórzy dzwoniący nie mogli połączyć się z potrójnym zerem podczas awarii Telstry",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
-      "date": "2026-07-08T04:32:29Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Minister komunikacji twierdzi, że „bardzo ważne jest, aby ludzie nie wykonywali połączeń testowych do potrójnego zera”. Śledź dzisiejsze wiadomości na żywoOtrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami Zgłoszono awarię Telstry jako przyczynę zatrzymania pociągu w Victorii. Na oficjalnej stronie V/line znajduje się długa lista odwołanych pociągów, ale z informacji TL/DR wynika, że ​​regionalna sieć pociągów w Wiktorii została wstrzymana. Ze względu na awarię sieci radiowej usługi obecnie nie działają… Pasażerom zaleca się przełożenie podróży, jeśli to możliwe. Kontynuuj czytanie..."
+      "summary": "Armia USA twierdzi, że uderzyła w stanowiska rakietowe i centra dowodzenia, podczas gdy Iran twierdzi, że wystrzelił rakiety i drony w bazy USA."
     },
     {
       "title": "Czy Le Pen ponownie wzrośnie? Lider francuskich nacjonalistów buntuje się po wyroku sądu",
@@ -473,7 +473,7 @@
       "date": "2026-07-08T01:58:16Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Operator przywraca usługi mobilne po tym, jak sieć, z której korzystają miliony użytkowników, przestaje działać, powodując zamknięcie pociągów regionalnych i wpływając na połączenia alarmowe. Śledź nasz australijski blog z aktualnościami, aby uzyskać najnowsze aktualizacje. Otrzymuj nasze e-maile z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Telstra obwinia problem z serwerem pomiaru czasu za poważną awarię, w wyniku której tysiące klientów mobilnych nie mogło w środę rano wykonywać połączeń ani uzyskiwać dostępu do danych w największej sieci w kraju. Firma telekomunikacyjna, obsługująca około 25 mln usług mobilnych w całym kraju, potwierdziła przerwa w dostawie w środę, a 90% usług przywrócono po godzinie 10:00 czasu AEST. Kontynuuj czytanie..."
+      "summary": "Operator przywraca usługi komórkowe po tym, jak sieć, z której korzystają miliony użytkowników, przestaje działać, zatrzymując pociągi regionalne i wpływając na połączenia alarmowe. Śledź nasz australijski blog z aktualnościami, aby uzyskać najnowsze aktualizacje. Otrzymuj nasze e-maile z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Telstra obwinia problem z serwerem pomiaru czasu za poważną awarię, w wyniku której tysiące klientów mobilnych nie mogło w środę rano wykonywać połączeń ani uzyskiwać dostępu do danych w największej sieci w kraju. Firma telekomunikacyjna, obsługująca około 25 mln usług mobilnych w całym kraju, potwierdziła awaria w środę, a 90% usług przywrócono po godzinie 10:00 czasu AEST. Kontynuuj czytanie..."
     },
     {
       "title": "Szkoła z internatem w Utah, w której Paris Hilton zarzucała molestowanie jako nastolatka, traci licencję",
@@ -564,12 +564,12 @@
       "summary": "Od fabryki do granicy technologicznej: Chiny stają się motorem innowacji tradycyjnych producentów samochodów Reuters."
     },
     {
-      "title": "Ceny ropy rosną po amerykańskich atakach na Iran. Obawy paliwowe, że rozejm się rozpada – Reuters",
+      "title": "Ropa naftowa rośnie w związku z atakami USA na Iran, które budzą obawy w związku z niepewnym rozejmem – Reuters",
       "url": "https://www.reuters.com/business/energy/us-oil-prices-jump-after-us-military-launches-strikes-against-iran-2026-07-07/",
       "date": "2026-07-07T22:42:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Ceny ropy rosną po amerykańskich atakach na Iran. Obawy związane z paliwem rozejm rozwiązują sprawę Reuters."
+      "summary": "Ropa naftowa rośnie w związku z atakami USA na Iran, które budzą obawy w związku z niepewnym rozejmem Reuters."
     },
     {
       "title": "FCC odmawia amerykańskiej firmie posiadającej chińskie łącza zgody na świadczenie usług telekomunikacyjnych – Reuters",
@@ -593,10 +593,10 @@
       "date": "2026-07-07T21:50:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Exxon sygnalizuje nadzwyczajny zysk w drugim kwartale, ponieważ wyższe ceny ropy naftowej poprawiają wyniki finansowe Reuters."
+      "summary": "Exxon sygnalizuje nadzwyczajny zysk w drugim kwartale, ponieważ wyższe ceny ropy zwiększają zyski Reuters."
     },
     {
-      "title": "Przed szczytem NATO Trump ponawia apel do Stanów Zjednoczonych o przejęcie Grenlandii",
+      "title": "Przed szczytem NATO Trump ponawia wezwanie do przejęcia Grenlandii przez USA",
       "url": "https://www.theguardian.com/world/2026/jul/07/trump-renews-call-us-take-over-greenland-nato",
       "date": "2026-07-07T21:49:17Z",
       "source": "The Guardian",
@@ -705,7 +705,7 @@
       "date": "2026-07-07T15:06:41Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Celeste Amarilla może zostać oskarżona po tym, jak Francuska Federacja Piłki Nożnej skarży się na wpisy w mediach społecznościowych dotyczące meczu mistrzostw świata. Prokuratura we Francji wszczęła śledztwo w sprawie rasistowskiego ataku paragwajskiego senatora na Kyliana Mbappé, a urzędnicy zastanawiają się, czy postawić senatorowi zarzuty zaostrzonej publicznej zniewagi lub nawoływania do nienawiści lub przemocy. Prokuratura paryska poinformowała we wtorek „The Guardian”, że wszczęła dochodzenie po złożeniu przez Francuską Federację Piłki Nożnej (FFF) skargi do jednostki krajowej ds. walka z nienawiścią w Internecie. Kontynuuj czytanie..."
+      "summary": "Celeste Amarilla może zostać oskarżona po tym, jak Francuska Federacja Piłki Nożnej skarży się na wpisy w mediach społecznościowych dotyczące meczu mistrzostw świata Prokuratura we Francji wszczęła śledztwo w sprawie rasistowskiego ataku na Kyliana Mbappé dokonanego przez senatora z Paragwaju, a urzędnicy zastanawiają się, czy postawić senatorowi zarzuty zaostrzonej publicznej zniewagi lub nawoływania do nienawiści lub przemocy. Prokuratura paryska poinformowała we wtorek „The Guardian”, że wszczęła dochodzenie po złożeniu przez Francuską Federację Piłki Nożnej (FFF) skargi do jednostki krajowej ds. walka z nienawiścią w Internecie. Kontynuuj czytanie..."
     },
     {
       "title": "Ekonomiści mówią, że recesja nie jest wykluczona, ale Australię czekają ponure perspektywy",
@@ -737,7 +737,7 @@
       "date": "2026-07-07T11:00:06Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Eksperci twierdzą, że cięcia utrudniły reakcję na epidemię wirusa Ebola w DRK i spowodowały „znaczną liczbę” zgonów. Elon Musk ma problem z wirusem Ebola. Akcje SpaceX gwałtownie spadły po pierwszej ofercie publicznej, a Tesla stoi w obliczu fali procesów sądowych. Zamiast jednak skupiać się na swoich firmach, Musk często publikował w serwisie X informacje o Amerykańskiej Agencji Rozwoju Międzynarodowego (USAID), którą pomógł rozmontować – lub, według jego słów, wprowadzić do rębaka – w zeszłym roku. „Warto obserwować awarię Elona w USAID w zeszłym tygodniu” – powiedział Jeremy Konyndyk, były czołowy urzędnik USAID, który nadzorował reakcję agencji na wirus Ebola w latach 2014–2015, i prezes Refugees International."
+      "summary": "Eksperci twierdzą, że cięcia utrudniły reakcję na epidemię wirusa Ebola w DRK i spowodowały „znaczną liczbę” zgonów. Elon Musk ma problem z wirusem Ebola. Akcje SpaceX gwałtownie spadły po pierwszej ofercie publicznej, a Tesla staje w obliczu fali procesów sądowych. Zamiast jednak skupiać się na swoich firmach, Musk często publikował w serwisie X informacje o Amerykańskiej Agencji Rozwoju Międzynarodowego (USAID), którą pomógł rozmontować – lub, według jego słów, wprowadzić do rębaka – w zeszłym roku. „Warto obserwować awarię Elona w USAID w zeszłym tygodniu” – powiedział Jeremy Konyndyk, były czołowy urzędnik USAID, który nadzorował reakcję agencji na wirus Ebola w latach 2014–2015, i prezes Refugees International."
     },
     {
       "title": "Izraelski oficer rzucający granat ogłuszający do samochodu podczas nalotu na Zachodni Brzeg",
@@ -768,7 +768,7 @@
     {
       "title": "Ceny ropy gwałtownie rosną po ponownych strajkach w Zatoce Perskiej, co zagraża ożywieniu żeglugi",
       "url": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-shipping-hormuz.html",
-      "date": "2026-07-08T04:45:05Z",
+      "date": "2026-07-08T04:50:44Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Ataki na statki w Cieśninie Ormuz zapoczątkowały nowy cykl odwetu, który może zdławić przepływ energii z regionu."
@@ -776,7 +776,7 @@
     {
       "title": "Oto najnowsze.",
       "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump/heres-the-latest",
-      "date": "2026-07-08T04:23:25Z",
+      "date": "2026-07-08T04:50:38Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": ""
@@ -803,7 +803,7 @@
       "date": "2026-07-08T04:00:06Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Za pomocą szeregu niedawnych traktatów i sojuszy Canberra stara się uniemożliwić Pekinowi utworzenie przyczółka wojskowego na Oceanie Spokojnym."
+      "summary": "Za pomocą szeregu niedawnych traktatów i sojuszy Canberra stara się uniemożliwić Pekinowi utworzenie przyczółka wojskowego na Pacyfiku."
     },
     {
       "title": "Bitwa sądowa Marine Le Pen to najnowsze starcie między populistami a psami stróżującymi",
@@ -828,6 +828,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Operacja wojskowa miała miejsce kilka godzin po tym, jak Departament Skarbu USA uchylił zezwolenie na globalną sprzedaż irańskiej ropy."
+    },
+    {
+      "title": "Walka o sukcesję już trwa, w miarę jak nasilają się głosy, że Platner powinien wycofać się z wyścigu do Senatu stanu Maine – AP News",
+      "url": "https://apnews.com/article/maine-graham-platner-election-5ce04e85fc3f43a3faa90366dc3cd3a3",
+      "date": "2026-07-08T02:55:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Walka o sukcesję już trwa, w miarę jak napływają głosy, że Platner powinien wycofać się z wyścigu do Senatu stanu Maine AP News."
     },
     {
       "title": "USA rozpoczynają nowe ataki na Iran, cofają pozwolenie na sprzedaż ropy po ataku 3 statków w Cieśninie Ormuz – AP News",
@@ -878,20 +886,20 @@
       "summary": "Wieżowiec na Manhattanie zostanie ustabilizowany po załamaniu się kolumn, co wymusi ewakuację AP News."
     },
     {
-      "title": "Sędzia oddalił pozew księcia Harry'ego o naruszenie prywatności przeciwko wydawcy Daily Mail – AP News",
-      "url": "https://apnews.com/article/prince-harry-lawsuit-daily-mail-charles-elton-2ada29f1fc84ade5d414c3b49ac47ac6",
-      "date": "2026-07-08T00:29:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 2,
-      "summary": "Sędzia oddalił pozew księcia Harry'ego o naruszenie prywatności przeciwko wydawcy Daily Mail AP News"
-    },
-    {
-      "title": "Południowokoreańskie prawo dotyczące „fałszywych wiadomości” wchodzi w życie po tym, jak grupy dziennikarzy zgłaszają obawy – AP News",
+      "title": "Południowokoreańskie prawo dotyczące „fałszywych wiadomości” wchodzi w życie po tym, jak grupy dziennikarzy zgłaszają wątpliwości – AP News",
       "url": "https://apnews.com/article/south-korea-fake-news-law-press-freedom-7dcc52be82c047f9645218bec2f93966",
       "date": "2026-07-07T23:52:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Południowokoreańskie prawo dotyczące „fałszywych wiadomości” wchodzi w życie, gdy grupy dziennikarzy zgłaszają obawy AP News."
+    },
+    {
+      "title": "NATO ujawnia miliardowe kontrakty na broń, aby udowodnić swoją siłę ognia, gdy Trump ponownie żąda Grenlandii – AP News",
+      "url": "https://apnews.com/article/nato-defense-trump-contracts-spending-turkey-summit-bede50a5b5e734b9705ffb480463f7ce",
+      "date": "2026-07-07T23:45:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "NATO ujawnia miliardowe kontrakty na broń, aby udowodnić swoją siłę ognia, gdy Trump ponownie żąda Greenland AP News."
     },
     {
       "title": "Indie krytykują Meta w związku ze zgłaszanymi w reklamach zdjęciami przedstawiającymi wykorzystywanie seksualne dzieci",
@@ -907,7 +915,7 @@
       "date": "2026-07-07T23:38:08Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Abdi Latif Dahir, bliskowschodni korespondent „The Times”, wyjaśnia przesłania kryjące się za powtarzającymi się symbolami podczas trwającego cały dzień pogrzebu ajatollaha Alego Chamenei."
+      "summary": "Abdi Latif Dahir, korespondent „The Times” na Bliskim Wschodzie, wyjaśnia przesłania kryjące się za powtarzającymi się symbolami podczas trwającego cały dzień pogrzebu ajatollaha Alego Chamenei."
     },
     {
       "title": "Gdy Izrael traci poparcie w USA, Rahm Emanuel krytykuje Netanjahu",
@@ -958,14 +966,6 @@
       "summary": "Demokraci zaczynają wycofywać poparcie Platnera po tym, jak kandydat ze stanu Maine zostaje oskarżony o napaść na tle seksualnym AP News."
     },
     {
-      "title": "NATO ujawnia miliardowe kontrakty na broń, aby udowodnić swoją siłę ognia, gdy Trump ponownie żąda Grenlandii – AP News",
-      "url": "https://apnews.com/article/nato-defense-trump-contracts-spending-turkey-summit-bede50a5b5e734b9705ffb480463f7ce",
-      "date": "2026-07-07T06:47:53Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "NATO ujawnia miliardowe kontrakty na broń, aby udowodnić swoją siłę ognia, gdy Trump ponownie żąda Greenland AP News."
-    },
-    {
       "title": "Co warto wiedzieć o szczycie NATO w Turcji, gdy Ameryka wycofuje się z obrony Europy – AP News",
       "url": "https://apnews.com/article/nato-summit-turkey-trump-spending-forces-iran-1be2097870a203c28469246077da4fd1",
       "date": "2026-07-07T06:18:00Z",
@@ -998,7 +998,7 @@
       "summary": "Kylian Mbappé potępia senatora Paragwaju za rasistowskie uwagi po meczu Pucharu Świata AP News."
     },
     {
-      "title": "Chiny wystrzeliwują testowo rakietę balistyczną na południowym Pacyfiku i budzą obawy regionalne – AP News",
+      "title": "Chiny wystrzeliwują test rakiety balistycznej na południowym Pacyfiku i budzą obawy regionalne – AP News",
       "url": "https://apnews.com/article/china-missile-test-submarine-36963889390c8a08079165d8a63e4960",
       "date": "2026-07-07T02:32:00Z",
       "source": "Associated Press",
@@ -1007,6 +1007,22 @@
     }
   ],
   "technology": [
+    {
+      "title": "Wiadomo, co pokaże Samsung za 2 tygodnie. Jest oficjalna zapowiedź",
+      "url": "https://spidersweb.pl/2026/07/samsung-unpacked-2026.html",
+      "date": "2026-07-08T04:58:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Wiadomo, co pokaże Samsung za 2 tygodnie. Jest oficjalna zapowiedź."
+    },
+    {
+      "title": "Źródła: Meta testuje okulary AI, które w sposób ciągły nagrywają dźwięk i robią zdjęcia co kilka sekund, umożliwiając użytkownikom zadawanie pytań lub przypominanie sobie tego, co widzieli lub słyszeli (Hannah Murphy/Financial Times)",
+      "url": "https://www.techmeme.com/260708/p2#a260708p2",
+      "date": "2026-07-08T04:55:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Hannah Murphy / Financial Times: Źródła: Meta testuje okulary AI, które w sposób ciągły nagrywają dźwięk i co kilka sekund robią zdjęcia, umożliwiając użytkownikom sprawdzanie lub przypominanie sobie tego, co widzieli lub słyszeli &mdash; Ambicje sprzętowe Marka Zuckerberga przeradzają się w nową walkę o prywatność o to, kto będzie nagrywany. Meta testuje prototyp &hellip;."
+    },
     {
       "title": "Nvidia i start-up zajmujący się chipami AI d-Matrix łączą swój sprzęt w nowy system do zasilania modeli AI, co jest najnowszym przykładem współpracy Nvidii z rywalami (Phoebe Liu/The Information)",
       "url": "https://www.techmeme.com/260708/p1#a260708p1",
@@ -1069,7 +1085,7 @@
       "date": "2026-07-08T03:59:35Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48827325 Punkty: 26 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48827325 Punkty: 37 # Komentarze: 10."
     },
     {
       "title": "Gwiazda Teorii Wielkiego Wybuchu wraca do aktorstwa! Co wiadomo o nowym projekcie?",
@@ -1093,7 +1109,7 @@
       "date": "2026-07-08T03:22:31Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.digipres.org/the-floppy-guide/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48827092 Punkty: 3 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://www.digipres.org/the-floppy-guide/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48827092 Punkty: 5 # Komentarze: 2."
     },
     {
       "title": "Bizay z siedzibą w Lizbonie, rynek produktów dostosowanych do potrzeb małych i średnich przedsiębiorstw, zebrał 55 mln dolarów w ramach serii D prowadzonej przez Indico, ponieważ ma ona na celu przyspieszenie ekspansji w USA (Tamara Djurickovic/Tech.eu)",
@@ -1117,7 +1133,7 @@
       "date": "2026-07-08T02:17:01Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong Adres URL komentarzy: https://news.ycombinator.com/item?id=48826703 Punkty: 81 # Komentarze: 51."
+      "summary": "Adres URL artykułu: https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong Adres URL komentarzy: https://news.ycombinator.com/item?id=48826703 Punkty: 84 # Komentarze: 56."
     },
     {
       "title": "Producent urządzeń do leczenia bezdechu sennego ResMed zgadza się sprzedać swój dział oprogramowania MatrixCare firmie PE Frazier za 490 mln dolarów w gotówce; ResMed kupił MatrixCare za 750 mln dolarów w 2018 r. (Puyaan Singh/Reuters)",
@@ -1133,7 +1149,7 @@
       "date": "2026-07-08T01:27:39Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://stats.lineageos.org Adres URL komentarzy: https://news.ycombinator.com/item?id=48826329 Punkty: 16 # Komentarze: 4."
+      "summary": "Adres URL artykułu: https://stats.lineageos.org Adres URL komentarzy: https://news.ycombinator.com/item?id=48826329 Punkty: 17 # Komentarze: 6."
     },
     {
       "title": "Pokaż HN: Radio Chiptune",
@@ -1141,7 +1157,7 @@
       "date": "2026-07-08T00:55:19Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Zbudowałem generator piosenek chiptune i ich nadawanie algorytmicznie generowanej muzyki chiptune. Adres URL komentarzy: https://news.ycombinator.com/item?id=48826094 Punkty: 30 # Komentarze: 5."
+      "summary": "Zbudowałem generator piosenek chiptune i ich nadawanie algorytmicznie generowanej muzyki chiptune. Adres URL komentarzy: https://news.ycombinator.com/item?id=48826094 Punkty: 32 # Komentarze: 5."
     },
     {
       "title": "Meta ogłasza, że ​​będzie aktualizować swoje okulary o nową funkcję, która wyłącza kamerę, jeśli ktoś manipuluje diodą LED okularów zapewniającą prywatność (Victoria Song/The Verge)",
@@ -1149,7 +1165,7 @@
       "date": "2026-07-08T00:55:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Victoria Song / The Verge: Meta ogłasza, że ​​zaktualizuje swoje okulary za pomocą nowej funkcji, która wyłącza kamerę, jeśli ktoś manipuluje diodą LED okularów zapewniającą prywatność &mdash; Firma wprowadza aktualizację po wnikliwej analizie swoich inteligentnych okularów. &hellip; Wśród publicznych sprzeciwów wobec inteligentnych okularów &hellip;."
+      "summary": "Victoria Song / The Verge: Meta ogłasza, że ​​zaktualizuje swoje okulary, dodając nową funkcję, która wyłącza kamerę, jeśli ktoś manipuluje diodą LED okularów zapewniającą prywatność &mdash; Firma wprowadza aktualizację po wnikliwej analizie swoich inteligentnych okularów. &hellip; Wśród publicznej krytyki inteligentnych okularów &hellip;."
     },
     {
       "title": "Interaktywny eksplorator prawa Benforda w rzeczywistych zbiorach danych",
@@ -1160,28 +1176,12 @@
       "summary": "Adres URL artykułu: https://vatsalbakshi.com/blog/benfords-law/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48825816 Punkty: 26 # Komentarze: 9."
     },
     {
-      "title": "Meta twierdzi, że Muse Image zawiera niewidzialny system znaków wodnych o nazwie Content Seal i wyświetla podgląd narzędzia internetowego, które pozwala sprawdzić, czy obraz został wygenerowany za pomocą Meta AI (Karissa Bell/Engadget)",
-      "url": "https://www.techmeme.com/260707/p40#a260707p40",
-      "date": "2026-07-08T00:10:02Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Karissa Bell / Engadget: Meta twierdzi, że Muse Image zawiera niewidzialny system znaków wodnych o nazwie Content Seal i wyświetla podgląd narzędzia internetowego, które pozwala sprawdzić, czy obraz został wygenerowany za pomocą Meta AI &mdash; Z jakiegoś powodu ma ograniczenia szybkości. &mdash; Meta pracuje nad narzędziem do identyfikacji obrazów i filmów utworzonych za pomocą nowego modelu generowania obrazów, Muse Image."
-    },
-    {
       "title": "Oprogramowanie sprzętowe Tenda (wiele wersji) zawiera ukryte wejście do uwierzytelniania",
       "url": "https://kb.cert.org/vuls/id/213560",
       "date": "2026-07-08T00:08:51Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://kb.cert.org/vuls/id/213560 Adres URL komentarzy: https://news.ycombinator.com/item?id=48825749 Punkty: 88 # Komentarze: 19."
-    },
-    {
-      "title": "Źródła szczegółowo opisują duży reset konsoli Xbox po niepowodzeniu strategii Game Pass; Xbox wydał prawie 80 miliardów dolarów na umowy dotyczące zawartości, ale gracze wolą pozostać przy kilku grach (Cecilia D'Anastasio/Bloomberg)",
-      "url": "https://www.techmeme.com/260707/p39#a260707p39",
-      "date": "2026-07-07T23:40:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Cecilia D'Anastasio / Bloomberg: Źródła szczegółowo opisują duży reset konsoli Xbox po niepowodzeniu strategii Game Pass; Xbox wydał prawie 80 miliardów dolarów na umowy dotyczące zawartości, ale gracze wolą pozostać przy kilku grach &mdash; Microsoft Xbox zwolni 3200 pracowników, zbywając studia w trakcie remontu. W ciągu ostatniej dekady konsola Xbox firmy Microsoft Corp. wydała prawie 80 miliardów dolarów."
+      "summary": "Adres URL artykułu: https://kb.cert.org/vuls/id/213560 Adres URL komentarzy: https://news.ycombinator.com/item?id=48825749 Punkty: 91 # Komentarze: 24."
     },
     {
       "title": "W stanie Michigan doszło do wybuchowej epidemii pasożyta biegunkowego z ponad 700 przypadkami",
@@ -1479,7 +1479,7 @@
       "date": "2026-07-07T16:30:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Masz dość zapominania flag? Pozwól Instagui odczytać wynik --help i zamiast tego zbuduj GUI przeglądarki."
+      "summary": "Masz dość zapominania flag? Zamiast tego pozwól Instagui odczytać wynik --help i zamiast tego zbuduj GUI przeglądarki."
     },
     {
       "title": "Ofiary Predatorgate snoopfest rzucają 8 milionów euro na producenta oprogramowania szpiegującego",
@@ -1578,7 +1578,7 @@
       "summary": "Z nowo ujawnionej skargi federalnej wynika, że ​​amerykańscy prokuratorzy powiązali rzekomego hakera Scattered Spider z włamaniem do sklepu z luksusową biżuterią przy użyciu trwałego identyfikatora urządzenia z systemem Windows. Dane Microsoftu powiązały ten identyfikator najpierw z kontem, którego napastnicy używali do utrzymania dostępu podczas włamania w maju 2025 r., a następnie z kontami internetowymi, które według prokuratorów należą do 19-letniego Petera Stokesa."
     },
     {
-      "title": "Błąd AI pisarza może pozwolić agentowi na podgląd tokenów sesji wyciekających wśród dzierżawców",
+      "title": "Błąd AI pisarza może pozwolić agentowi na podgląd tokenów sesji wyciekających pomiędzy dzierżawcami",
       "url": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
       "date": "2026-07-07T13:27:09Z",
       "source": "The Hacker News",
@@ -1671,7 +1671,7 @@
       "date": "2026-07-07T06:40:47Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Centrum Koordynacji CERT (CERT/CC) ostrzegło w poniedziałek, że w kilku wersjach oprogramowania sprzętowego wydanego przez chińskiego producenta urządzeń sieciowych Tenda wbudowany jest backdoor do nieudokumentowanego uwierzytelniania, który umożliwia dostęp administracyjny do internetowych interfejsów zarządzania urządzeniami. „Osoba atakująca może wykorzystać tę lukę, oznaczoną jako CVE-2026-11405, aby ominąć proces weryfikacji hasła."
+      "summary": "Centrum Koordynacji CERT (CERT/CC) ostrzegło w poniedziałek, że w kilku wersjach oprogramowania sprzętowego wydanego przez chińskiego producenta urządzeń sieciowych Tenda wbudowany jest backdoor do nieudokumentowanego uwierzytelniania, który umożliwia administracyjny dostęp do internetowych interfejsów zarządzania urządzeniami. „Osoba atakująca może wykorzystać tę lukę, oznaczoną jako CVE-2026-11405, aby ominąć proces weryfikacji hasła."
     },
     {
       "title": "Ponad 250 numerów PESEL w BIP. Błędy w anonimizacji dokumentów z kontroli ZUS-u",
@@ -1703,7 +1703,7 @@
       "date": "2026-07-06T17:37:01Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Błąd związany z możliwością użycia po zwolnieniu w hiperwizorze KVM systemu Linux może zostać wywołany z gościnnej maszyny wirtualnej w celu uszkodzenia stanu strony cienia jądra hosta, na którym działa. Usterka, nazwana „Januscape” i oznaczona jako CVE-2026-53359, kryje się w kodzie cienia MMU, który KVM współdzieli zarówno z Intelem, jak i AMD. Publiczny dowód słuszności koncepcji panikuje gospodarza; badacz twierdzi, że jest to odrębny, niepublikowany exploit."
+      "summary": "Błąd związany z możliwością użycia po zwolnieniu w hiperwizorze KVM systemu Linux może zostać wywołany z gościnnej maszyny wirtualnej w celu uszkodzenia stanu strony cienia jądra hosta, na którym działa. Usterka, nazwana „Januscape” i oznaczona jako CVE-2026-53359, kryje się w kodzie cienia MMU, który KVM współdzieli zarówno z Intelem, jak i AMD. Publiczny dowód słuszności koncepcji wywołuje panikę u gospodarza; badacz twierdzi, że jest to odrębny, niepublikowany exploit."
     },
     {
       "title": "Podmioty zagrażające badają usterkę Gitea Docker CVE-2026-20896 13 dni po ujawnieniu",
@@ -1722,7 +1722,7 @@
       "summary": "Na Facebooku krążą reklamy kasyna wykorzystującego wizerunek systemu płatności Blik. Oszuści stworzyli także stronę podszywającą się pod Sklep Play, która wymaga określonej przeglądarki do pobrania „aplikacji”. Obiecują jednocześnie duży „bonus powitalny” i kuszą rzekomymi wysokimi wygranymi."
     },
     {
-      "title": "⚡ Cotygodniowe podsumowanie: botnety proxy, oprogramowanie ransomware przeglądarki, sztuczki agentów AI, fałszywe złośliwe oprogramowanie PoC i nie tylko",
+      "title": "⚡ Cotygodniowe podsumowanie: botnety proxy, oprogramowanie ransomware dla przeglądarek, sztuczki agentów AI, fałszywe złośliwe oprogramowanie PoC i nie tylko",
       "url": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
       "date": "2026-07-06T13:01:14Z",
       "source": "The Hacker News",
@@ -1914,14 +1914,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Australijskie platformy internetowe mają problem z egzekwowaniem zakazu kont w mediach społecznościowych dla osób poniżej 16 lat – wynika z badania zespołu testerów, który wcześniej doradzał przy wdrażaniu nowych przepisów. Informuje o tym Reuters. Badacze założyli 50 kont po wejściu prawa w życie i nie zostali ani razu poproszeni o potwierdzenie wieku, choć deklarowali 16 lat."
-    },
-    {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/swiat/chiny,76",
-      "date": "2026-07-07T19:36:02Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "WIG20 2026 - konkurs - stockwatch.pl",
@@ -2148,6 +2140,14 @@
       "summary": "[BR Premium] Co robią grube ryby: TFI Allianz Polska (II kwartał 2026) BiznesRadar."
     },
     {
+      "title": "Mają Rosjan na widelcu. 85 proc. mocy przerobowych rafinerii jest już w zasięgu dronów Ukrainy - Forsal.pl",
+      "url": "https://forsal.pl/swiat/rosja/artykuly/11272604,maja-rosjan-na-widelcu-85-proc-mocy-przerobowych-rafinerii-jest-juz.html",
+      "date": "2026-07-07T08:24:16Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Mają Rosjan na widelcu. 85 proc. mocy przerobowych rafinerii jest już w zasięgu dronów Ukrainy Forsal.pl."
+    },
+    {
       "title": "Grupa Azoty w finansowym punkcie zwrotnym. Europie grożą poważne niedobory nawozów",
       "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl/grupa-azoty-nawozy-europa-solidarnosc-protesty-centralizacja",
       "date": "2026-07-07T08:05:05Z",
@@ -2164,12 +2164,12 @@
       "summary": "\"Nikt nie mówi wprost, że musisz, ale każdy wie\". Reportaż z \"piekła\" kurierów Forbes."
     },
     {
-      "title": "Ice Code Games szykuje wejście w nieruchomości i tokenizację aktywów - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149149,ice-code-games-szykuje-wejscie-w-nieruchomosci-i-tokenizacje-aktywow",
-      "date": "2026-07-07T07:38:00Z",
+      "title": "HiProMine zawiesza ofertę publiczną akcji serii S - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149146,hipromine-zawiesza-oferte-publiczna-akcji-serii-s",
+      "date": "2026-07-07T07:19:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Ice Code Games szykuje wejście w nieruchomości i tokenizację aktywów BiznesRadar."
+      "summary": "HiProMine zawiesza ofertę publiczną akcji serii S BiznesRadar."
     },
     {
       "title": "sWIG80 wciąż z problemami",
@@ -2478,7 +2478,7 @@
       "score": 100,
       "reasons": [
         {
-          "title": "Przed szczytem NATO Trump ponawia apel do Stanów Zjednoczonych o przejęcie Grenlandii",
+          "title": "Przed szczytem NATO Trump ponawia wezwanie do przejęcia Grenlandii przez USA",
           "url": "https://www.theguardian.com/world/2026/jul/07/trump-renews-call-us-take-over-greenland-nato",
           "source": "The Guardian"
         },
@@ -2732,51 +2732,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25679.22,
+      25678.54,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26843.87,
+      26843.16,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26990.86,
+      26990.14,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27235.86,
+      27235.14,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27871.77,
+      27871.03,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27907.82,
+      27907.08,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28152.56,
+      28151.82,
       27354.94,
       27400.36,
       27412.11,
-      28554.09,
+      28553.33,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27814.55,
+      27813.81,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27994.31,
+      27993.57,
       27686.17,
       27404.78,
       27351.97,
@@ -2785,13 +2785,13 @@
       27661.43,
       27749.69,
       27709.26,
-      27702.59,
+      27701.86,
       27930.04,
       28234.04,
       28218.36,
       28078.54,
       28233.03,
-      28267.0
+      28266.25
     ],
     "currency": "PLN"
   }
