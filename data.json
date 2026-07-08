@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T11:30:30Z",
+  "last_updated": "2026-07-08T11:36:01Z",
   "poland": [
     {
       "title": "Likwidacja karty parkingowych przesądzona. Zmiana ma związek z unijną dyrektywą",
@@ -16,6 +16,22 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Linia lotnicza United Airlines wnioskowała o odrzucenie pozwu pasażerów, zarzucających jej, że sprzedawała „siedzenia przy oknie” w miejscach, w których tych okien nie było. Sędzia nie przychylił się do wniosku przewoźnika - napisał portal The Independent."
+    },
+    {
+      "title": "G20 na śmieciówkach [OPINIA]",
+      "url": "https://businessinsider.com.pl/gospodarka/smieciowki-b2b-i-demografia-system-emerytalny-w-polsce-zagrozony-opinia/5zcpxn4",
+      "date": "2026-07-08T11:28:26Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "\"Śmieciówki\" — bardzo nie lubię tego określenia do opisu kilku rodzajów umów cywilnoprawnych, jakie od lat są masowo zawierane na polskim rynku pracy, niemniej pejoratywny wydźwięk właściwie oddaje istotę problemu — pisze w felietonie Mikołaj Kunica, redaktor naczelny Business Insider Polska."
+    },
+    {
+      "title": "W wieku dwóch lat już czytał, teraz projektuje samochód. Dziewięciolatek zachwycił świat",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-08/w-wieku-dwoch-lat-juz-czytal-teraz-projektuje-samochod-dziewieciolatek-zachwycil-swiat/",
+      "date": "2026-07-08T11:27:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Stefano Marconi Sgroi to dziewięciolatek urodzony w argentyńskiej La Placie. Jego iloraz inteligencji wynosi 152 punkty i według argentyńskich ekspertów jest to najwyższy wynik w kraju. Podczas gdy jego rówieśnicy dopiero odkrywają swoje pasje, on zajmuje się inżynierią motoryzacyjną i marzy, aby zostać konstruktorem."
     },
     {
       "title": "Minister zdrowia: wprowadzimy maksymalne poziomy wynagrodzeń",
@@ -226,14 +242,6 @@
       "summary": "Rosyjskie siły zbrojne przeprowadziły w nocy z wtorku na środę ataki na terenie Ukrainy, uderzono m.in. w Kijowie i Charkowie. Co najmniej trzy osoby nie żyją, kilkadziesiąt jest rannych."
     },
     {
-      "title": "Potężne tąpnięcie w pogodzie. Z latem nie ma to wiele wspólnego",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-08/potezne-tapniecie-w-pogodzie-z-latem-nie-ma-to-wiele-wspolnego/",
-      "date": "2026-07-08T10:02:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "Nad morzem nie da się teraz wypocząć. Zadbała o to pogoda, która miejscami jest wręcz ekstremalna. W niektórych częściach Wybrzeża panują potężne wichury, przyniesione przez rozległy niż Bernadette."
-    },
-    {
       "title": "Gazprom nie zapłaci ogromnej kary Polsce. Media: nie zgodził się na to Andrzej Domański",
       "url": "https://businessinsider.com.pl/finanse/mf-blokuje-egzekucje-kary-od-gazpromu-1745-mln-zl-pozostaje-poza-zasiegiem/fw178sk",
       "date": "2026-07-08T10:00:21Z",
@@ -248,14 +256,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Jeśli inspekcja stwierdzi, że pracujesz jak etatowiec, a nie masz umowy o pracę, to teoretycznie urzędnik będzie mógł to zmienić. Nowe prawo ma jeden cel: walkę z umowami śmieciowymi. Po co?"
-    },
-    {
-      "title": "Tak Polacy pożyczają rządowi pieniądze. Najlepszy wynik od prawie dwóch lat",
-      "url": "https://businessinsider.com.pl/poradnik-finansowy/inwestowanie/wzrost-sprzedazy-obligacji-detalicznych-polacy-wybieraja-bezpieczne-oszczedzanie/tv82zll",
-      "date": "2026-07-08T09:52:09Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Rosnące oszczędności Polacy w dużej mierze przeznaczają na obligacje Skarbu Państwa. Czerwiec był najlepszym miesiącem pod tym względem od sierpnia 2024 r. Takie obligacje najbardziej upodobali sobie oszczędzający."
     },
     {
       "title": "Szef NRL o zarobkach w ochronie zdrowia. \"Młodym lekarzom wystarczyłyby dwie średnie krajowe\"",
@@ -766,12 +766,36 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualne informacje na żywo z Iranu: Trump podaje w wątpliwość przyszłość zawieszenia broni po ostatnich strajkach",
+      "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+      "date": "2026-07-08T11:29:02Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "„Myślę, że to już koniec” – powiedział prezydent Trump, odnosząc się do wstępnego rozejmu. Siły zbrojne Iranu oświadczyły wcześniej, że w odpowiedzi na najnowsze doniesienia USA obrały za cel obiekty wojskowe USA w Bahrajnie i Kuwejcie."
+    },
+    {
+      "title": "Oto najnowsze.",
+      "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump/heres-the-latest",
+      "date": "2026-07-08T11:29:00Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": ""
+    },
+    {
       "title": "Aktualności na żywo: Trump atakuje Europę na szczycie NATO",
       "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
-      "date": "2026-07-08T11:24:08Z",
+      "date": "2026-07-08T11:28:49Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Prezydent Trump zaatakował sojuszników za to, że nie przyłączyli się do wojny w Iranie, nazwał Hiszpanię „beznadziejną” i powtórzył swoje pragnienie przejęcia kontroli nad Grenlandią. Jego krytyka rzuciła cień na spotkanie krytyczne dla przyszłości NATO."
+    },
+    {
+      "title": "Irakijczycy tłumnie przybyli, aby opłakiwać Chameneiego w ramach pokazu solidarności",
+      "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iraq-funeral-ayatollah-khamenei.html",
+      "date": "2026-07-08T11:28:02Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "W miastach Nadżaf i Karbala, gdzie znajdują się dwa najświętsze miejsca szyickiego islamu, setki tysięcy wzięło udział w uroczystościach upamiętniających ajatollaha Alego Chameneiego, który rozszerzył wpływy Iranu w Iraku."
     },
     {
       "title": "Oto najnowsze.",
@@ -790,14 +814,6 @@
       "summary": "Prezydent Trump rzadko przepuścił okazję do potępienia zachodniego sojuszu wojskowego, z którego przywódcami spotyka się w tym tygodniu, jako słabego i nieskutecznego."
     },
     {
-      "title": "Aktualne informacje na żywo z Iranu: Trump podaje w wątpliwość przyszłość zawieszenia broni po ostatnich strajkach",
-      "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
-      "date": "2026-07-08T11:04:08Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "„Myślę, że to już koniec” – powiedział prezydent Trump, odnosząc się do wstępnego rozejmu. Siły zbrojne Iranu oświadczyły wcześniej, że w odpowiedzi na najnowsze doniesienia USA obrały za cel obiekty wojskowe USA w Bahrajnie i Kuwejcie."
-    },
-    {
       "title": "Święte miasto Iranu Meszhed przygotowuje się do pochówku Chameneiego.",
       "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump/irans-holy-city-of-mashhad-prepares-for-khameneis-burial",
       "date": "2026-07-08T11:03:09Z",
@@ -806,28 +822,12 @@
       "summary": "jak t."
     },
     {
-      "title": "Irakijczycy tłumnie przybyli, aby opłakiwać Chameneiego w ramach pokazu solidarności",
-      "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iraq-funeral-ayatollah-khamenei.html",
-      "date": "2026-07-08T11:03:01Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "W miastach Nadżaf i Karbala, gdzie znajdują się dwa najświętsze miejsca szyickiego islamu, setki tysięcy wzięło udział w uroczystościach upamiętniających ajatollaha Alego Chameneiego, który rozszerzył wpływy Iranu w Iraku."
-    },
-    {
       "title": "Ceny ropy rosną po tym, jak Trump oznajmił, że umowa z Iranem dobiegła końca",
       "url": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html",
       "date": "2026-07-08T10:55:48Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Ataki na statki w Cieśninie Ormuz zapoczątkowały nowy cykl odwetu, który może zdławić przepływ energii z regionu."
-    },
-    {
-      "title": "Oto najnowsze.",
-      "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump/heres-the-latest",
-      "date": "2026-07-08T10:52:50Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": ""
     },
     {
       "title": "Urzekająca albańska wyspa inspirująca fantazję Ivanki",
@@ -2731,51 +2731,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25759.32,
+      25762.05,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26927.6,
+      26930.45,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27075.05,
+      27077.91,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27320.82,
+      27323.71,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27958.71,
+      27961.67,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27994.87,
+      27997.83,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28240.38,
+      28243.37,
       27354.94,
       27400.36,
       27412.11,
-      28643.15,
+      28646.18,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27901.31,
+      27904.26,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28081.63,
+      28084.6,
       27686.17,
       27404.78,
       27351.97,
@@ -2784,13 +2784,13 @@
       27661.43,
       27749.69,
       27709.26,
-      27789.0,
+      27791.94,
       27930.04,
       28234.04,
       28218.36,
       28078.54,
       28233.03,
-      28355.17
+      28358.18
     ],
     "currency": "PLN"
   }
