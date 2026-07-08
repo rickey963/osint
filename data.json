@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T16:05:09Z",
+  "last_updated": "2026-07-08T16:05:53Z",
   "poland": [
     {
       "title": "Wybrano najlepszą książkę wszech czasów. Decyzję podjęło 100 pisarzy z 54 krajów",
@@ -40,6 +40,14 @@
       "source": "Polsat News",
       "confirmed_by": 2,
       "summary": "- Nie udało nam się rozwiązać kwestii historycznych - powiedział prezydent Karol Nawrocki po spotkaniu z Wołodymyrem Zełenskim podczas szczytu NATO w Ankarze. Było to pierwsze bezpośrednie spotkanie przywódców od czasu zaostrzenia sporu dotyczącego polityki historycznej. Podczas konferencji prasowej prezydent Polski podzielił się szczegółami rozmowy z ukraińskim przywódcą."
+    },
+    {
+      "title": "Powiązani z Konfederacją mężczyźni nagrywali obywatelkę Ukrainy. Sprawą zajmuje się policja",
+      "url": "https://www.rp.pl/spoleczenstwo/art44794171-powiazani-z-konfederacja-mezczyzni-nagrywali-obywatelke-ukrainy-sprawa-zajmuje-sie-policja",
+      "date": "2026-07-08T15:33:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Incydent w budynku Uniwersytetu Ekonomicznego w Poznaniu wywołał falę komentarzy w mediach społecznościowych i reakcję służb. Dwóch mężczyzn związanych z Konfederacją nagrywało pracującą tam obywatelkę Ukrainy, zadając jej prowokacyjne pytania."
     },
     {
       "title": "270 mln zł dla samorządów na cyberbezpieczeństwo. Miasta analizują nowy program",
@@ -128,14 +136,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "„Sen nocy letniej” w ogrodach Zamku Królewskiego w Warszawie [WIDEO] Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "„Rzecz w tym”: Cyfryzacja może pomóc w odbudowie zaufania do systemu ochrony zdrowia",
-      "url": "https://www.rp.pl/polityka/art44792311-rzecz-w-tym-cyfryzacja-moze-pomoc-w-odbudowie-zaufania-do-systemu-ochrony-zdrowia",
-      "date": "2026-07-08T15:00:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Afera wokół Szpitala Południowego wywołała polityczne trzęsienie ziemi i zmusiła rząd do przedstawienia planu zmian w ochronie zdrowia. Czy zapowiedziane reformy rzeczywiście poprawią sytuację pacjentów? W podcaście „Rzecz w tym” Marzena Tabor-Olszewska rozmawia z redaktorem naczelnym „Rzeczpospolitej” Michałem Szułdrzyńskim o propozycjach minister zdrowia Jolanty Sobierańskiej-Grendy, ich realnych skutkach oraz politycznych konsekwencjach dla Donalda Tuska."
     },
     {
       "title": "Rosjanie znaleźli sposób na dumę Muska. Ukraiński ekspert alarmuje",
@@ -314,22 +314,6 @@
       "summary": "Mężczyzna pracujący na placu budowy linii kolejowej Podłęże-Piekiełko poszedł odpocząć, ponieważ źle się poczuł w trakcie wykonywania swoich obowiązków. Nieprzytomnego 64-latka znaleźli jego współpracownicy."
     },
     {
-      "title": "Pagu - PAP Foto - Polska Agencja Prasowa SA",
-      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC025%20contains(Pagu))",
-      "date": "2026-07-08T12:31:56Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Pagu - PAP Foto Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "- Polska Agencja Prasowa SA",
-      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC025%20contains(Kolumbien))",
-      "date": "2026-07-08T12:31:55Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Polska Agencja Prasowa SA."
-    },
-    {
       "title": "Pilny komunikat PKP dla pasażerów. Chodzi o opóźnienia pociągów - Polskie Radio 24",
       "url": "https://polskieradio24.pl/polska/pilny-komunikat-pkp-intercity-ruch-pociagow-moze-zostac-tymczasowo-wstrzymany",
       "date": "2026-07-08T10:20:53Z",
@@ -400,6 +384,22 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Creotech Instruments uzyskał łączności z satelitą \"Mikroglob-1\" PAP Biznes."
+    },
+    {
+      "title": "Grupa QnR objęła większościowy pakiet akcji E-XIM IT - PAP Biznes",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/grupa-qnr-objela-wiekszosciowy-pakiet-akcji-e-xim-it",
+      "date": "2026-07-08T06:09:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Grupa QnR objęła większościowy pakiet akcji E-XIM IT PAP Biznes."
+    },
+    {
+      "title": "Wojsko USA: zaatakowaliśmy ponad 80 celów w Iranie - Polska Agencja Prasowa SA",
+      "url": "https://www.pap.pl/aktualnosci/usa-wojsko-zaatakowalismy-ponad-80-celow-w-iranie",
+      "date": "2026-07-08T05:20:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Wojsko USA: zaatakowaliśmy ponad 80 celów w Iranie Polska Agencja Prasowa SA."
     }
   ],
   "world_security": [
@@ -473,7 +473,7 @@
       "date": "2026-07-08T15:00:35Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Flagowy raport zdrowotny pokazuje również, że spada liczba szczepień wśród dzieci, co budzi zaniepokojenie ekspertów. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Australijczycy chorzy na raka żyją dłużej niż kiedykolwiek, jak wynika ze sztandarowego raportu na temat zdrowia, ale spadające wskaźniki szczepień wśród dzieci oraz rosnąca liczba zachorowań na odrę, błonicę i krztusiec wzbudziły wśród ekspertów powody do niepokoju. Opublikowany w czwartek co dwa lata raport Australijskiego Instytutu Zdrowia i Opieki Społecznej (AIHW) pokazuje względne przeżycie pięcioletnie wskaźnik zachorowań na raka wzrósł z 50% do 72% w ciągu 30 lat. Kontynuuj czytanie..."
+      "summary": "Flagowy raport zdrowotny pokazuje również, że spada liczba szczepień wśród dzieci, co budzi zaniepokojenie ekspertów. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Jak wynika ze sztandarowego raportu na temat zdrowia, Australijczycy chorzy na raka żyją dłużej niż kiedykolwiek wcześniej, ale spadające wskaźniki szczepień wśród dzieci oraz rosnąca liczba zachorowań na odrę, błonicę i krztusiec wzbudziły niepokój ekspertów. Opublikowany w czwartek co dwa lata raport Australijskiego Instytutu Zdrowia i Opieki Społecznej (AIHW) pokazuje względne przeżycie pięcioletnie wskaźnik zachorowań na raka wzrósł z 50% do 72% w ciągu 30 lat. Kontynuuj czytanie..."
     },
     {
       "title": "Trumna Chameneiego była przenoszona przez świątynie szyickie podczas ceremonii odbywających się w Iraku",
@@ -521,7 +521,7 @@
       "date": "2026-07-08T14:23:51Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Zdjęcie mężczyzny w bieliźnie, z zawiązanymi oczami i przywiązanego do żelaznego pręta było szeroko udostępniane w mediach społecznościowych na żywo podczas kryzysu na Bliskim Wschodzie – najnowsze aktualizacje Zdjęcie izraelskiego żołnierza przedstawiające Palestyńczyka z Gazy rozebranego do bielizny, z zawiązanymi oczami i przywiązanego twarzą w dół do żelaznego pręta potwierdza obszerne doniesienia na temat izraelskich tortur wobec przetrzymywanych Palestyńczyków i samo w sobie może stanowić zbrodnię wojenną, stwierdziły grupy praw człowieka. Zdjęcie zostało udostępnione na już usuniętym osobistym koncie w mediach społecznościowych, z hebrajskim podpisem w języku hebrajskim „dobre” rano”. Szerszej opinii publicznej zwrócił na to uwagę palestyński pisarz i aktywista, znany pod pseudonimem Tamer. Kontynuuj czytanie..."
+      "summary": "Zdjęcie mężczyzny w bieliźnie, z zawiązanymi oczami i przywiązanego do żelaznego pręta było szeroko udostępniane w mediach społecznościowych na żywo podczas kryzysu na Bliskim Wschodzie – najnowsze aktualizacje Zdjęcie izraelskiego żołnierza przedstawiające Palestyńczyka z Gazy rozebranego do bielizny, z zawiązanymi oczami i przywiązanego twarzą do żelaznego pręta potwierdza obszerne doniesienia na temat izraelskich tortur wobec przetrzymywanych Palestyńczyków i samo w sobie może stanowić zbrodnię wojenną, stwierdziły grupy praw człowieka. Zdjęcie zostało udostępnione na już usuniętym osobistym koncie w mediach społecznościowych, z hebrajskim podpisem w języku hebrajskim „dobrze”. rano”. Szerszej opinii publicznej zwrócił na to uwagę palestyński pisarz i aktywista, znany pod pseudonimem Tamer. Kontynuuj czytanie..."
     },
     {
       "title": "Trump mówi, że USA przekażą Ukrainie licencję na rakietę Patriot – Reuters",
@@ -689,7 +689,7 @@
       "date": "2026-07-08T09:43:03Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Z rządowego przeglądu wynika, że osoby z wysokim poziomem wyszkolenia zawodowego, w tym handlowcy, są najmniej narażone na wypieranie sztucznej inteligencji.Otrzymaj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Sztuczna inteligencja nie spowodowała jeszcze powszechnej utraty miejsc pracy, ale rząd federalny ostrzegł, że telemarketerzy, pracownicy reklamy i księgowi należą do zawodów „najbardziej narażonych” na zastąpienie przez tę technologię. Według pierwszego w swoim rodzaju raportu krajowego osoby pracujące w bardziej eksponowanych zawodach to kobiety i mają wyższe wykształcenie. kwalifikacje. Kontynuuj czytanie..."
+      "summary": "Z rządowego przeglądu wynika, że osoby z wysokim poziomem wyszkolenia zawodowego, w tym handlowcy, są najmniej narażone na wypieranie sztucznej inteligencji. Uzyskaj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Sztuczna inteligencja nie spowodowała jeszcze powszechnej utraty miejsc pracy, ale rząd federalny ostrzegł, że telemarketerzy, pracownicy reklamy i księgowi należą do zawodów „najbardziej narażonych” na zastąpienie przez tę technologię. Według pierwszego w swoim rodzaju raportu krajowego osoby pracujące w bardziej eksponowanych zawodach to kobiety i mają wyższe wykształcenie. kwalifikacje. Kontynuuj czytanie..."
     },
     {
       "title": "Telstra obwinia „wadę oprogramowania” za poważne awarie, które dotknęły telefony komórkowe, pociągi i połączenia potrójne zero",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Cieplejsze morza w Wielkiej Brytanii i Europie zagrażają życiu morskiemu",
+      "url": "https://www.nytimes.com/2026/07/08/world/europe/marine-heat-wave-uk.html",
+      "date": "2026-07-08T16:01:40Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Wyższe temperatury morza nastąpiły po upalnych upałach w całej Europie, co skłoniło brytyjskie służby pogodowe do ogłoszenia „poważnej” morskiej fali upałów."
+    },
+    {
       "title": "Aktualizacje na żywo: Trump przemawia po ostrej awanturze na szczycie NATO",
       "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
       "date": "2026-07-08T15:59:44Z",
@@ -782,7 +790,7 @@
       "summary": "„Myślę, że to już koniec” – powiedział prezydent Trump, odnosząc się do wstępnego rozejmu i zagroził ponownym uderzeniem w Iran. Obie strony wymieniły ataki, gdy wydawało się, że ich rozejm jest coraz bliżej upadku."
     },
     {
-      "title": "Ceny ropy rosną po tym, jak Trump oznajmił, że umowa z Iranem dobiegła końca",
+      "title": "Ceny ropy rosną po tym, jak Trump oznajmia, że ​​umowa z Iranem dobiegła końca",
       "url": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html",
       "date": "2026-07-08T15:59:27Z",
       "source": "The New York Times",
@@ -886,14 +894,6 @@
       "summary": "Prowadzone śledztwo w sprawie nieujawnionego prezentu prawicowego przywódcy Nigela Farage'a może zakończyć się w wyborach specjalnych przeciwko kandydatowi przebranemu za kosz na śmieci."
     },
     {
-      "title": "Irakijczycy tłumnie tłumnie opłakują Chameneiego i okazali solidarność",
-      "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iraq-funeral-ayatollah-khamenei.html",
-      "date": "2026-07-08T14:22:51Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "W miastach Nadżaf i Karbala, gdzie znajdują się dwa najświętsze miejsca szyickiego islamu, setki tysięcy wzięło udział w uroczystościach upamiętniających ajatollaha Alego Chameneiego, który rozszerzył wpływy Iranu w Iraku."
-    },
-    {
       "title": "Egipt wrze po tym, jak zmarnował dwubramkowe prowadzenie i przegrał 3:2 z Argentyną Messiego na mundialu – AP News",
       "url": "https://apnews.com/article/egypt-world-cup-salah-argentina-b7426a5001c912eb82617433106d48c7",
       "date": "2026-07-08T13:32:00Z",
@@ -918,7 +918,7 @@
       "summary": "Pakistan rozszerza poszukiwania zaginionego samolotu transportowego, ponieważ wzburzone morze utrudnia akcję ratowniczą AP News."
     },
     {
-      "title": "Wieżowiec na Manhattanie uznany za stabilny po zawaleniu się kolumn i zniesieniu niektórych ewakuacji – AP News",
+      "title": "Wieżowiec na Manhattanie uznany za stabilny po zawaleniu się kolumn i wstrzymaniu części ewakuacji – AP News",
       "url": "https://apnews.com/article/nyc-manhattan-building-collapse-risk-04dfeb966e0daa2caba74006ad174ea1",
       "date": "2026-07-08T05:35:00Z",
       "source": "Associated Press",
@@ -1016,7 +1016,7 @@
       "summary": "Teleskop Euclid wykrył 31 bardzo odległych kwazarów, z których część świeciła już w czasie, gdy Wszechświat miał mniej niż 770 milionów lat. W nich może kryć się odpowiedź dotycząca jednej z trudniejszych zagadek kosmologii: jak supermasywne czarne dziury mogły urosnąć tak szybko."
     },
     {
-      "title": "Arkenstone Defence, która tworzy oprogramowanie do obsługi back-office dla start-upów z branży technologii obronnych, wychodzi z ukrycia z kapitałem 35 milionów dolarów kierowanym przez J2 Ventures (Barratt Dewey/Tectonic Defense)",
+      "title": "Arkenstone Defence, która tworzy oprogramowanie do obsługi zaplecza biurowego dla start-upów z branży technologii obronnych, wychodzi z ukrycia dzięki kapitałowi 35 milionów dolarów kierowanemu przez J2 Ventures (Barratt Dewey/Tectonic Defense)",
       "url": "https://www.techmeme.com/260708/p34#a260708p34",
       "date": "2026-07-08T15:55:00Z",
       "source": "Techmeme",
@@ -1072,7 +1072,7 @@
       "summary": "Meir Orbach / CTech: Izraelski startup Alta, który opracowuje platformę agentów AI dla zespołów ds. marketingu, sprzedaży i rozwoju biznesu, zebrał 25 mln dolarów w ramach serii A pod przewodnictwem IN Venture &mdash; Platforma agentów AI założona przez absolwentów monday.com osiągnęła nowy wskaźnik przychodów na poziomie 15 milionów dolarów po wzroście przychodów o 800%."
     },
     {
-      "title": "Chińska firma zajmująca się pojazdami autonomicznymi Momenta odnotowała słaby debiut giełdowy podczas pierwszej oferty publicznej w Hongkongu, wyceniając ją na około 9 miliardów dolarów, po zebraniu 751 milionów dolarów (Jiahui Huang/Wall Street Journal)",
+      "title": "Chińska firma zajmująca się pojazdami autonomicznymi Momenta odnotowała słaby debiut giełdowy podczas pierwszej oferty publicznej w Hongkongu, wyceniając ją na ~ 9 miliardów dolarów, po zebraniu 751 milionów dolarów (Jiahui Huang/Wall Street Journal)",
       "url": "https://www.techmeme.com/260708/p31#a260708p31",
       "date": "2026-07-08T15:20:01Z",
       "source": "Techmeme",
@@ -1264,7 +1264,7 @@
       "summary": "Mamy przełom w polskiej gastronomii. I nie chodzi o umowy o pracę dla kelnerów."
     },
     {
-      "title": "Apple zwiększa wydatki na spółkę Broadcom, aby wyprodukować miliardy więcej chipów w USA",
+      "title": "Apple zwiększa wydatki na firmę Broadcom, aby wyprodukować miliardy więcej chipów w USA",
       "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
       "date": "2026-07-08T11:30:56Z",
       "source": "Hacker News",
@@ -1397,7 +1397,7 @@
       "date": "2026-07-07T20:32:39Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Nadal istnieje wiele pytań dotyczących tego, dlaczego u niektórych osób rozwija się zespół alfa-gal."
+      "summary": "Nadal istnieje mnóstwo pytań dotyczących tego, dlaczego u niektórych osób rozwija się zespół alfa-gal."
     },
     {
       "title": "SCOTUS pozwala Teksasowi egzekwować prawo dotyczące sklepów z aplikacjami, które Big Tech nazywa „reżimem cenzury”",
@@ -1423,7 +1423,7 @@
       "date": "2026-07-08T15:24:28Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Wezwano zbrojną reakcję i wsparcie psów, ponieważ sprawiający kłopoty duet został zauważony przez szereg kamer autonomicznego samochodu."
+      "summary": "Wezwano zbrojną reakcję i wsparcie psów, ponieważ kłopotliwy duet został zauważony przez szereg kamer autonomicznego samochodu."
     },
     {
       "title": "WhatsApp z nową funkcją bezpieczeństwa. Aplikacja wyświetli informacje o rozmówcy przed nawiązaniem rozmowy",
@@ -1471,7 +1471,7 @@
       "date": "2026-07-08T13:58:07Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Mechanizm monitorowania krajowych baz danych o lukach w zabezpieczeniach może przesyłać dane chińskich użytkowników do zdalnych serwerów."
+      "summary": "Mechanizm monitorowania roszczeń krajowej bazy danych o lukach w zabezpieczeniach może przesyłać dane chińskich użytkowników do zdalnych serwerów."
     },
     {
       "title": "Będzie kodeks RODO dla dziennikarzy? UODO wysuwa propozycję",
@@ -1527,7 +1527,7 @@
       "date": "2026-07-08T11:51:24Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Nowe badania pokazują, że skrót podpisanego zatwierdzenia Git nie jest jedyną w swoim rodzaju nazwą, jak zakłada większość świata oprogramowania. Biorąc pod uwagę każde podpisane zatwierdzenie, osoba bez klucza podpisującego może wybić drugie zatwierdzenie z tymi samymi plikami, autorem i datą oraz prawidłowym podpisem, GitHub nadal oznacza „Zweryfikowano”. Wszystko, co recenzent sprawdziłby, pasuje. Hash zatwierdzenia nie."
+      "summary": "Nowe badania pokazują, że skrót podpisanego zatwierdzenia Git nie jest jedyną w swoim rodzaju nazwą, jak zakłada większość świata oprogramowania. Biorąc pod uwagę każde podpisane zatwierdzenie, osoba bez klucza podpisu może wybić drugie zatwierdzenie z tymi samymi plikami, autorem i datą oraz prawidłowym podpisem, GitHub nadal oznacza „Zweryfikowano”. Wszystko, co recenzent sprawdziłby, pasuje. Hash zatwierdzenia nie."
     },
     {
       "title": "Awaria Telstry: nieudane wezwania służb ratunkowych, chaos w pociągach, awarie systemów płatności",
@@ -1594,7 +1594,7 @@
       "summary": "Meklemburgia-Pomorze Przednie porzuca SharePoint, podczas gdy Bawaria również rozważa alternatywy Microsoftu."
     },
     {
-      "title": "Nieprawidłowe wdrożenie eVisa przez Home Office stawia brytyjski organ ds. prywatności na celowniku działaczy",
+      "title": "Wadliwe wdrożenie eVisa przez Home Office stawia brytyjski organ ds. prywatności na celowniku działaczy",
       "url": "https://www.theregister.com/software/2026/07/08/home-offices-glitchy-evisa-rollout-lands-uk-privacy-regulator-in-campaigners-crosshairs/5267712",
       "date": "2026-07-08T09:15:00Z",
       "source": "The Register",
@@ -1916,14 +1916,6 @@
       "summary": "Forum giełdowe StockWatch.pl: OTLOG stockwatch.pl."
     },
     {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/tagi/pociski-powietrze-powietrze",
-      "date": "2026-07-08T14:01:18Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
       "title": "Infrastruktura krytyczna zagrożona. MON ostrzega przed rosyjskim sabotażem",
       "url": "https://www.bankier.pl/wiadomosc/Infrastruktura-krytyczna-zagrozona-MON-ostrzega-przed-rosyjskim-sabotazem-9165321.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-08T14:00:00Z",
@@ -1996,6 +1988,14 @@
       "summary": "Komunikat EBI SIGMA DEFENCE SA (sigmadef): Harmonogram publikacji raportów okresowych stockwatch.pl."
     },
     {
+      "title": "Tagi - Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/tagi/egr",
+      "date": "2026-07-08T13:07:14Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Tagi - Biznes, Gospodarka, Świat Forsal.pl."
+    },
+    {
       "title": "KOMBINAT [KMB] - stockwatch.pl",
       "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513560_KOMBINAT.aspx",
       "date": "2026-07-08T13:00:00Z",
@@ -2060,36 +2060,28 @@
       "summary": "Światowe giełdy zareagowały wyraźnymi spadkami na najnowsze doniesienia z Bliskiego Wschodu. Prezydent Stanów Zjednoczonych Donald Trump ogłosił, że wstępne porozumienie pokojowe z Iranem przestało obowiązywać."
     },
     {
-      "title": "Analiza techniczna INTSDNP98939 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/INTSDNP98939",
-      "date": "2026-07-08T09:19:07Z",
+      "title": "Analiza techniczna INTSMCR98996 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/INTSMCR98996",
+      "date": "2026-07-08T09:20:27Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna INTSDNP98939 INGBANK BiznesRadar."
+      "summary": "Analiza techniczna INTSMCR98996 INGBANK BiznesRadar."
     },
     {
-      "title": "List do akcjonariuszy Internetowego Funduszu Leasingowego S.A. 2025 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149191,list-do-akcjonariuszy-internetowego-funduszu-leasingowego-s-a-2025",
-      "date": "2026-07-08T09:12:00Z",
+      "title": "Notowania historyczne INTLGLD98863 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania-historyczne/INTLGLD98863",
+      "date": "2026-07-08T09:09:10Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "List do akcjonariuszy Internetowego Funduszu Leasingowego S.A. 2025 BiznesRadar."
+      "summary": "Notowania historyczne INTLGLD98863 INGBANK BiznesRadar."
     },
     {
-      "title": "Analiza techniczna INTLGLD98848 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/INTLGLD98848",
+      "title": "Notowania historyczne INTLGLD98848 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania-historyczne/INTLGLD98848",
       "date": "2026-07-08T08:56:42Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna INTLGLD98848 INGBANK BiznesRadar."
-    },
-    {
-      "title": "Sygnały analizy technicznej INTSBCO98905 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/INTSBCO98905",
-      "date": "2026-07-08T08:50:55Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Sygnały analizy technicznej INTSBCO98905 INGBANK BiznesRadar."
+      "summary": "Notowania historyczne INTLGLD98848 INGBANK BiznesRadar."
     },
     {
       "title": "Tam, gdzie kończy się horyzont, zaczyna się rozwój. Szczecin zwieńczył XVIII edycję Diamentów Forbesa 2026 - Forbes",
@@ -2122,6 +2114,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "JSW ma miliard zł zadłużenia w ZUS, a wypłata 600 mln zł z ARP opóźniona Piotr Maciążek śr., 08.07.2026 Kanał W Zielonej Strefie notowania jsw jsw pożyczka arp jsw dług zus jsw perspektywy Treść Jastrzębska Spółka Węglowa próbuje odzyskać płynność finansową. To długodystansowa walka pełna zwrotów akcji. Obecnie jedne z najpoważniejszych wyzwań to opóźnienie wypłaty 600 mln zł z ARP i miliardowy dług w ZUS."
+    },
+    {
+      "title": "Creotech Instruments nawiązał łączność z satelitą Mikroglob-1 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149182,creotech-instruments-nawiazal-lacznosc-z-satelita-mikroglob-1",
+      "date": "2026-07-08T07:45:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Creotech Instruments nawiązał łączność z satelitą Mikroglob-1 BiznesRadar."
     },
     {
       "title": "Spółki zbrojeniowe tracą na giełdzie. Koniec hossy?",
@@ -2214,12 +2214,9 @@
   ],
   "critical_alerts": [
     {
-      "title": "„Rzecz w tym”: Cyfryzacja może pomóc w odbudowie zaufania do systemu ochrony zdrowia",
-      "url": "https://www.rp.pl/polityka/art44792311-rzecz-w-tym-cyfryzacja-moze-pomoc-w-odbudowie-zaufania-do-systemu-ochrony-zdrowia",
-      "date": "2026-07-08T15:00:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Afera wokół Szpitala Południowego wywołała polityczne trzęsienie ziemi i zmusiła rząd do przedstawienia planu zmian w ochronie zdrowia. Czy zapowiedziane reformy rzeczywiście poprawią sytuację pacjentów? W podcaście „Rzecz w tym” Marzena Tabor-Olszewska rozmawia z redaktorem naczelnym „Rzeczpospolitej” Michałem Szułdrzyńskim o propozycjach minister zdrowia Jolanty Sobierańskiej-Grendy, ich realnych skutkach oraz politycznych konsekwencjach dla Donalda Tuska."
+      "title": "Sytuacja stabilna - brak nowych alarmów krytycznych",
+      "url": "",
+      "source": ""
     }
   ],
   "map_features": [
@@ -2228,15 +2225,15 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Premier Włoch Giorgia Meloni oświadczyła w środę po szczycie NATO w Ankarze, że nadszedł czas, aby Europa zagwarantowała swoje bezpieczeństwo.",
-      "url": "https://www.rp.pl/polityka/art44793811-szczyt-w-ankarze-meloni-o-nato-trumpie-i-iranie-nie-zaluje-niczego"
+      "description": "Incydent w budynku Uniwersytetu Ekonomicznego w Poznaniu wywołał falę komentarzy w mediach społecznościowych i reakcję służb.",
+      "url": "https://www.rp.pl/spoleczenstwo/art44794171-powiazani-z-konfederacja-mezczyzni-nagrywali-obywatelke-ukrainy-sprawa-zajmuje-sie-policja"
     },
     {
       "lat": 31.5,
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Zdjęcie mężczyzny w bieliźnie, z zawiązanymi oczami i przywiązanego do żelaznego pręta było szeroko udostępniane w mediach społecznościowych na żywo podczas kryzysu na Bliskim Wschodzie – najnowsze aktualizacje Zdjęcie izraelskiego żołnierza przedstawiające Palestyńczyka z Gazy rozebranego do bielizny, z zawiązanymi oczami i przywiązanego twarzą w dół do żelaznego pręta potwierdza obszerne doniesienia na temat izraelskich tortur wobec przetrzymywanych Palestyńczyków i samo w sobie może stanowić zbrodnię wojenną, stwierdziły grupy praw człowieka.",
+      "description": "Zdjęcie mężczyzny w bieliźnie, z zawiązanymi oczami i przywiązanego do żelaznego pręta było szeroko udostępniane w mediach społecznościowych na żywo podczas kryzysu na Bliskim Wschodzie – najnowsze aktualizacje Zdjęcie izraelskiego żołnierza przedstawiające Palestyńczyka z Gazy rozebranego do bielizny, z zawiązanymi oczami i przywiązanego twarzą do żelaznego pręta potwierdza obszerne doniesienia na temat izraelskich tortur wobec przetrzymywanych Palestyńczyków i samo w sobie może stanowić zbrodnię wojenną, stwierdziły grupy praw człowieka.",
       "url": "https://www.theguardian.com/world/2026/jul/08/photo-palestinian-prisoner-corroborates-israeli-torture-claims"
     },
     {
@@ -2496,7 +2493,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 73,
+      "score": 68,
       "reasons": [
         {
           "title": "\"Długoterminowe zagrożenie dla bezpieczeństwa\". Oświadczenie po szczycie w Ankarze",
@@ -2732,51 +2729,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25790.34,
+      25784.48,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26960.02,
+      26953.89,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27107.65,
+      27101.49,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27353.71,
+      27347.5,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27992.37,
+      27986.01,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28028.58,
+      28022.21,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28274.38,
+      28267.95,
       27354.94,
       27400.36,
       27412.11,
-      28677.64,
+      28671.12,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27934.9,
+      27928.55,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28115.44,
+      28109.05,
       27686.17,
       27404.78,
       27351.97,
@@ -2785,14 +2782,14 @@
       27661.43,
       27749.69,
       27709.26,
-      27822.46,
+      27816.14,
       27930.04,
       28234.04,
       28218.36,
       28078.54,
       28233.03,
-      28389.32,
-      28139.5
+      28382.86,
+      28148.39
     ],
     "currency": "PLN"
   }
