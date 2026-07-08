@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T06:21:35Z",
+  "last_updated": "2026-07-08T06:26:35Z",
   "poland": [
     {
       "title": "Sekretarz generalny NATO chwali Polskę: Osiągnęliście już wszystkie cele",
@@ -96,6 +96,14 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Polska znajdzie się pod wpływem niżu, który przyniesie gwałtowne zjawiska pogodowe, przede wszystkim na północy i północnym wschodzie kraju. Synoptycy prognozują również gwałtowne ochłodzenie."
+    },
+    {
+      "title": "Tak Niemcy piszą o tym, co się dzieje w Polsce. Padła gorzka diagnoza - Polskie Radio 24",
+      "url": "https://polskieradio24.pl/polityka/mocny-komentarz-z-niemiec-o-polsce-na-tym-zyskuje-kreml",
+      "date": "2026-07-08T05:40:20Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Tak Niemcy piszą o tym, co się dzieje w Polsce. Padła gorzka diagnoza Polskie Radio 24."
     },
     {
       "title": "Rozwój mózgu nie zna granic. Przełomowe badania",
@@ -392,14 +400,6 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Alert RCB dla mieszkańców Słupska. \"Zachowaj spokój\" Polskie Radio 24."
-    },
-    {
-      "title": "Mbappe, Messi i Haaland mają po 7 goli. Szczegół zmienia wszystko w tabeli snajperów - Polskie Radio 24",
-      "url": "https://polskieradio24.pl/sport/klasyfikacja-strzelcow-mistrzostw-swiata-mbappe-messi-i-haaland-walcza-o-korone",
-      "date": "2026-07-07T07:58:00Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Mbappe, Messi i Haaland mają po 7 goli. Szczegół zmienia wszystko w tabeli snajperów Polskie Radio 24."
     }
   ],
   "world_security": [
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Znawcy i inwestorzy Palantir obawiają się, że entuzjastyczne przyjęcie przez firmę polityki prezydenta Trumpa może zniechęcić klientów korporacyjnych i talenty inżynieryjne (Financial Times)",
+      "url": "https://www.techmeme.com/260708/p7#a260708p7",
+      "date": "2026-07-08T06:20:53Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Financial Times: Znawcy i inwestorzy Palantir obawiają się, że entuzjastyczne przyjęcie przez firmę polityki prezydenta Trumpa może zniechęcić klientów korporacyjnych i talenty inżynieryjne &mdash; Powrót do polityki grupy technologicznej może zagrozić rdzeniowi jej działalności wartej 330 miliardów dolarów. Tydzień po tym, jak amerykański funkcjonariusz organów imigracyjnych zabił &hellip;."
+    },
+    {
       "title": "Jak Polacy zrobili wielką grę w 4 lata? Pytam Rebel Wolves o sekret Dawnwalkera",
       "url": "https://spidersweb.pl/2026/07/rebel-wolves-wywiad-the-blood-of-dawnwalker.html",
       "date": "2026-07-08T06:11:00Z",
@@ -1166,14 +1174,6 @@
       "source": "Hacker News",
       "confirmed_by": 2,
       "summary": "Adres URL artykułu: https://twitter.com/OpenAI/status/2074704958419792299 Adres URL komentarzy: https://news.ycombinator.com/item?id=48827402 Punkty: 97 # Komentarze: 30."
-    },
-    {
-      "title": "Nad Polską przeleci planetoida wielkości wieżowca. \"To zdarza się raz na tysiąc lat\"",
-      "url": "https://spidersweb.pl/2026/07/nad-polska-przeleci-planetoida-apophis.html",
-      "date": "2026-07-08T04:10:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Nad Polską przeleci planetoida wielkości wieżowca. \"To zdarza się raz na tysiąc lat\"."
     },
     {
       "title": "Jak zbudować minimalny serwer NAS ZFS bez Synology, QNAP, TrueNAS (2024)",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "15-letnia luka GhostLock umożliwia ucieczkę z roota i kontenera w większości dystrybucji Linuksa",
+      "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+      "date": "2026-07-08T06:16:44Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Badacze z Nebula Security ujawnili GhostLock (CVE-2026-43499), istniejącą od 15 lat lukę w jądrze Linuksa, która umożliwia każdemu zalogowanemu użytkownikowi przejęcie pełnej kontroli roota nad maszyną, która nie została załatana. Podatny na ataki kod jest domyślnie dostarczany w praktycznie każdej głównej dystrybucji od 2011 roku. Luka nie wymaga specjalnego pozwolenia, żadnych nietypowych ustawień ani sieci."
+    },
+    {
       "title": "Media Over QUIC może skalować transmisję strumieniową w czasie rzeczywistym i przenosić filmy wideo z całego świata",
       "url": "https://www.theregister.com/networks/2026/07/08/media-over-quic-can-scale-real-time-streaming-and-carry-the-worlds-vids/5268101",
       "date": "2026-07-08T06:01:00Z",
@@ -1424,6 +1432,14 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Pod koniec ubiegłego roku dowiedzieliśmy się, że ok. 10% przychodów Mety pochodzi z oszukańczych reklam. BBC ujawniło, że na Instagramie pojawiły się reklamy promujące materiały zawierające wykorzystywanie seksualne dzieci (CSAM)."
+    },
+    {
+      "title": "CISA dodaje do KEV 4 aktywnie wykorzystywane błędy Adobe, Joomla i Langflow",
+      "url": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+      "date": "2026-07-08T05:33:12Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Amerykańska Agencja ds. Cyberbezpieczeństwa i Bezpieczeństwa Infrastruktury (CISA) dodała we wtorek cztery luki w zabezpieczeniach do swojego katalogu znanych luk w zabezpieczeniach (KEV), powołując się na dowody aktywnego wykorzystania. Luki wymieniono poniżej - CVE-2026-48282 (wynik CVSS: 10,0) - Luka w zabezpieczeniach programu Adobe ColdFusion umożliwiająca przekroczenie ścieżki, która może prowadzić do wykonania dowolnego kodu w kontekście."
     },
     {
       "title": "Microsoft wprowadza technologię, która odbudowuje martwe komputery bez konieczności posiadania lokalnych kopii systemu Windows",
@@ -1626,14 +1642,6 @@
       "summary": "Większość zgłasza incydenty lub luki w zabezpieczeniach związane z sztuczną inteligencją."
     },
     {
-      "title": "Ceny pamięci DRAM zabijają tani smartfon",
-      "url": "https://www.theregister.com/personal-tech/2026/07/07/dram-prices-are-killing-the-cheap-smartphone/5267643",
-      "date": "2026-07-07T12:42:06Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Teraz pochłania 60% z zestawienia materiałów telefonu poniżej 400 dolarów i jest tylko gorzej."
-    },
-    {
       "title": "Szkoły będą uczyć o zagrożeniach AI. Wśród nich deepnude",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/prywatnosc/szkoly-beda-uczyc-o-zagrozeniach-ai-wsrod-nich-deepnude",
       "date": "2026-07-07T11:33:06Z",
@@ -1728,14 +1736,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Na Facebooku krążą reklamy kasyna wykorzystującego wizerunek systemu płatności Blik. Oszuści stworzyli także stronę podszywającą się pod Sklep Play, która wymaga określonej przeglądarki do pobrania „aplikacji”. Obiecują jednocześnie duży „bonus powitalny” i kuszą rzekomymi wysokimi wygranymi."
-    },
-    {
-      "title": "⚡ Cotygodniowe podsumowanie: botnety proxy, oprogramowanie ransomware przeglądarki, sztuczki agentów AI, fałszywe złośliwe oprogramowanie PoC i nie tylko",
-      "url": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
-      "date": "2026-07-06T13:01:14Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Skrzynka do przesyłania strumieniowego nie powinna potrzebować modelu zagrożenia. Nie powinno też zawierać pola nazwy użytkownika, repozytorium demonstracyjnego, procesu resetowania ani monitu o pozwolenie przeglądarki. To jest irytująca część tego tygodnia: ryzykowne kawałki były zwyczajne."
     },
     {
       "title": "Rosyjski ślad FortiBleed. Jak wyciek loginów uderzył w brytyjskie instytucje",
@@ -2742,51 +2742,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25664.91,
+      25666.27,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26828.9,
+      26830.33,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26975.81,
+      26977.24,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27220.68,
+      27222.13,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27856.23,
+      27857.71,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27892.26,
+      27893.74,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28136.87,
+      28138.36,
       27354.94,
       27400.36,
       27412.11,
-      28538.17,
+      28539.68,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27799.04,
+      27800.52,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27978.7,
+      27980.19,
       27686.17,
       27404.78,
       27351.97,
@@ -2795,13 +2795,13 @@
       27661.43,
       27749.69,
       27709.26,
-      27687.15,
+      27688.62,
       27930.04,
       28234.04,
       28218.36,
       28078.54,
       28233.03,
-      28251.25
+      28252.75
     ],
     "currency": "PLN"
   }
