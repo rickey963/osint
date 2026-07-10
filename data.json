@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T22:45:32Z",
+  "last_updated": "2026-07-10T22:55:05Z",
   "poland": [
     {
       "title": "Pech Belgów. Dżoker Merino prowadzi Hiszpanów do półfinału, będzie hit z Francją",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "DHS twierdzi, że mężczyzna śmiertelnie postrzelony przez ICE w Houston nie był zamierzonym celem",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-10T22:38:03Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Urzędnicy twierdzą, że agenci imigracyjni szukali innej osoby, kiedy zastrzelili Lorenzo Salgado Araujo podczas kontroli drogowej."
+    },
+    {
       "title": "Trump mówi, że USA zgodziły się na prośbę Iranu o kontynuowanie rozmów, ale zawieszenie broni dobiegło końca – Reuters",
       "url": "https://www.reuters.com/business/energy/tanker-traffic-slows-strait-hormuz-after-us-iran-clashes-2026-07-10/",
       "date": "2026-07-10T22:25:15Z",
@@ -428,20 +436,20 @@
       "summary": "Apple pozywa OpenAI, dwóch byłych pracowników za kradzież tajemnic handlowych Reuters."
     },
     {
+      "title": "USA nalegają, aby Iran zobowiązał się do zaprzestania ataków w cieśninie Ormuz, mówią urzędnicy amerykańscy – Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-insists-iran-commit-stopping-attacks-hormuz-strait-say-us-officials-2026-07-10/",
+      "date": "2026-07-10T21:36:03Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "USA nalegają, aby Iran zobowiązał się do zaprzestania ataków w cieśninie Ormuz, mówią urzędnicy amerykańscy Reuters."
+    },
+    {
       "title": "W Tajlandii odkryto nowy gatunek dinozaura z szyją tak długą jak boisko do krykieta",
       "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-10T21:30:57Z",
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Uważa się, że roślinożerny dinozaur o nazwie Uragasaurus kalasinensis żył około 150 milionów lat temu."
-    },
-    {
-      "title": "USA nalegają, aby Iran zobowiązał się do zaprzestania ataków w cieśninie Ormuz, mówią urzędnicy amerykańscy – Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-insists-iran-commit-stopping-attacks-hormuz-strait-say-us-officials-2026-07-10/",
-      "date": "2026-07-10T21:04:12Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "USA nalegają, aby Iran zobowiązał się do zaprzestania ataków w cieśninie Ormuz, mówią urzędnicy amerykańscy Reuters."
     },
     {
       "title": "Pasażer Ryanaira częściowo wyssany przez okno podczas lotu z Grecji – Reuters",
@@ -658,14 +666,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Prognozuje się, że szeroka na 1000 km Bavi, kierująca się w stronę Tajwanu i południowo-wschodnich Chin, będzie jedną z najsilniejszych burz od dziesięcioleci."
-    },
-    {
-      "title": "DHS twierdzi, że mężczyzna śmiertelnie postrzelony przez ICE w Houston nie był zamierzonym celem",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-10T12:51:46Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Urzędnicy twierdzą, że agenci imigracyjni szukali innej osoby, kiedy zastrzelili Lorenzo Salgado Araujo podczas kontroli drogowej."
     },
     {
       "title": "Jak Pauline Hanson zabiega o względy skrajnej prawicy w Wielkiej Brytanii i buduje globalną markę za pomocą „pseudowydarzeń” i akrobacji reklamowych",
@@ -1101,7 +1101,7 @@
       "date": "2026-07-10T20:45:03Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Mark Gurman / Bloomberg: Apple twierdzi, że OpenAI zrekrutowało ponad 400 byłych pracowników Apple, w tym inżyniera iPhone'a, który rzekomo pobrał poufne pliki sprzętowe przed dołączeniem do OpenAI &mdash; Apple Inc. pozwało OpenAI za kradzież tajemnicy handlowej, oskarżając startup zajmujący się sztuczną inteligencją i jego szefa ds. sprzętu o zaangażowanie &hellip;."
+      "summary": "Mark Gurman / Bloomberg: Apple twierdzi, że OpenAI zrekrutowało ponad 400 byłych pracowników Apple, w tym inżyniera iPhone'a, który rzekomo pobrał poufne pliki sprzętowe przed dołączeniem do OpenAI &mdash; Apple pozywa OpenAI za kradzież tajemnicy handlowej &mdash; Trwa ładowanie odtwarzacza wideo. &mdash; Wyłącz wyciszenie &ndash; Bieżący czas 0:00 Załadowano: 18,24% szybkości odtwarzania."
     },
     {
       "title": "GhostLock, stos-UAF, który istnieje we WSZYSTKICH dystrybucjach Linuksa od 15 lat",
