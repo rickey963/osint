@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T22:34:54Z",
+  "last_updated": "2026-07-10T22:35:25Z",
   "poland": [
     {
       "title": "Pech Belgów. Dżoker Merino prowadzi Hiszpanów do półfinału, będzie hit z Francją",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Trump mówi, że USA zgodziły się na prośbę Iranu o kontynuowanie rozmów, ale zawieszenie broni dobiegło końca – Reuters",
+      "url": "https://www.reuters.com/business/energy/tanker-traffic-slows-strait-hormuz-after-us-iran-clashes-2026-07-10/",
+      "date": "2026-07-10T22:25:15Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Trump twierdzi, że Stany Zjednoczone zgodziły się na prośbę Iranu o kontynuowanie rozmów, ale zawieszenie broni dobiegło końca Reuters."
+    },
+    {
       "title": "Świadkowie śmiertelnej strzelaniny w Houston ICE – twierdzi prawnik – Reuters",
       "url": "https://www.reuters.com/world/us/witnesses-fatal-houston-ice-shooting-challenge-agencys-account-lawyer-says-2026-07-10/",
       "date": "2026-07-10T21:54:50Z",
@@ -474,14 +482,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "USA ułatwiają eksport chipów Nvidia AI i sprzętu wojskowego do Zjednoczonych Emiratów Arabskich Reuters."
-    },
-    {
-      "title": "Trump mówi, że USA zgodziły się na prośbę Iranu o kontynuowanie rozmów, ale zawieszenie broni dobiegło końca – Reuters",
-      "url": "https://www.reuters.com/business/energy/tanker-traffic-slows-strait-hormuz-after-us-iran-clashes-2026-07-10/",
-      "date": "2026-07-10T19:31:16Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Trump twierdzi, że Stany Zjednoczone zgodziły się na prośbę Iranu o kontynuowanie rozmów, ale zawieszenie broni dobiegło końca Reuters."
     },
     {
       "title": "Ukraina tworzy dowództwo „dalekiego zasięgu”, aby zintensyfikować ataki na Rosję – Reuters",
@@ -1045,7 +1045,7 @@
       "date": "2026-07-10T21:20:29Z",
       "source": "Hacker News",
       "confirmed_by": 2,
-      "summary": "Adres URL artykułu: https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48865431 Punkty: 65 # Komentarze: 10."
+      "summary": "Adres URL artykułu: https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48865431 Punkty: 100 # Komentarze: 15."
     },
     {
       "title": "Moss (YC F25) Zatrudnia",
@@ -1061,7 +1061,7 @@
       "date": "2026-07-10T21:03:38Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://arxiv.org/abs/2607.08147 Adres URL komentarzy: https://news.ycombinator.com/item?id=48865238 Punkty: 6 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://arxiv.org/abs/2607.08147 Adres URL komentarzy: https://news.ycombinator.com/item?id=48865238 Punkty: 7 # Komentarze: 0."
     },
     {
       "title": "W swoim pozwie Apple szczegółowo opisuje, jak jego byli pracownicy, którzy rozpoczęli pracę w OpenAI, rzekomo naruszyli umowy o zachowaniu poufności (Aaron Tilley/The Information)",
@@ -1077,7 +1077,7 @@
       "date": "2026-07-10T20:52:28Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Adres URL komentarzy: https://news.ycombinator.com/item?id=48865093 Punkty: 102 # Komentarze: 58."
+      "summary": "Adres URL artykułu: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Adres URL komentarzy: https://news.ycombinator.com/item?id=48865093 Punkty: 112 # Komentarze: 68."
     },
     {
       "title": "Apple twierdzi, że były inżynier Apple trzymał służbowy laptop Apple i wykorzystał błąd, aby uzyskać dostęp do magazynu plików w chmurze Apple, gdy był zatrudniony w OpenAI (Megan Morrone/Axios)",
@@ -1086,6 +1086,14 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Megan Morrone / Axios: Apple twierdzi, że były inżynier Apple przechowywał służbowy laptop Apple i wykorzystywał błąd, aby uzyskać dostęp do magazynu plików w chmurze Apple, gdy był zatrudniony w OpenAI &mdash; Apple pozywa OpenAI za kradzież tajemnicy handlowej, zarzucając gigantowi sztucznej inteligencji celowe i systematyczne pozyskiwanie i kradzież poufnych informacji."
+    },
+    {
+      "title": "Apple pozywa OpenAI, oskarża byłych pracowników o kradzież tajemnic handlowych",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "date": "2026-07-10T20:47:09Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48865019 Punkty: 42 # Komentarze: 14."
     },
     {
       "title": "Apple twierdzi, że OpenAI zrekrutowało ponad 400 byłych pracowników Apple, w tym inżyniera iPhone'a, który rzekomo pobrał poufne pliki sprzętowe przed dołączeniem do OpenAI (Mark Gurman/Bloomberg)",
@@ -1101,7 +1109,7 @@
       "date": "2026-07-10T20:43:02Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://nebusec.ai/research/ionstack-part-2/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48864969 Punkty: 5 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://nebusec.ai/research/ionstack-part-2/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48864969 Punkty: 6 # Komentarze: 2."
     },
     {
       "title": "Apple twierdzi, że Tang Tan, dyrektor ds. sprzętu w OpenAI i były wiceprezes Apple, nakazał pracownikom Apple przeprowadzać rozmowy kwalifikacyjne w OpenAI, aby dzielili się tajemnicami Apple (CNBC)",
@@ -1120,12 +1128,12 @@
       "summary": "CNBC: Źródło: Greg Brockman będzie w dalszym ciągu nadzorował produkty OpenAI, ponieważ firma nie planuje zatrudniać nikogo na miejsce Fidji Simo po jej ustąpieniu &mdash; W OpenAI jest nowy zastępca dowódcy. &mdash; Greg Brockman, prezes firmy, jest oficjalnie odpowiedzialny za &hellip; w OpenAI."
     },
     {
-      "title": "Nie przerywaj Gemini 2.5 Flash",
+      "title": "Proszę nie przerywać Gemini 2.5 Flash",
       "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
       "date": "2026-07-10T20:00:28Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://discuss.ai.google.dev/t/Please-dont-discontinue-gemini-2-5-flash/174246 Adres URL komentarzy: https://news.ycombinator.com/item?id=48864507 Punkty: 69 # Komentarze: 42."
+      "summary": "Adres URL artykułu: https://discuss.ai.google.dev/t/Please-dont-discontinue-gemini-2-5-flash/174246 Adres URL komentarzy: https://news.ycombinator.com/item?id=48864507 Punkty: 86 # Komentarze: 55."
     },
     {
       "title": "Zobacz pierwsze zdjęcia wraku statku Quest",
@@ -1150,14 +1158,6 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "Sześć lat więzienia dla mężczyzny, który „sprzedał te same ofiary, do reprezentowania których został zatrudniony”."
-    },
-    {
-      "title": "Aktualizacja sytuacji ze zgarniaczem",
-      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "date": "2026-07-10T19:38:34Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48864252 Punkty: 38 # Komentarze: 22."
     },
     {
       "title": "Badanie pokazuje, jak toksyczna jest zmiana szczepionki RFK Jr. na szczepionkę przeciw odrze dla małych dzieci w USA",
