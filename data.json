@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T07:27:46Z",
+  "last_updated": "2026-07-11T07:37:13Z",
   "poland": [
     {
       "title": "„Pociski zostały wycelowane”. Donald Trump grozi całkowitym zniszczeniem Iranu",
@@ -186,6 +186,14 @@
       "summary": "Według wstępnych informacji rowerzysta miał wjechać na przejście dla pieszych na czerwonym świetle. \"Pozostajemy w ścisłym kontakcie z policją, lokalnymi służbami oraz naszym partnerem autobusowym i w pełni współpracujemy przy wyjaśnianiu przyczyn wypadku\" - informuje Flixbus."
     },
     {
+      "title": "Pożar lasu w Andaluzji. Władze: większość ofiar to cudzoziemcy - Polska Agencja Prasowa SA",
+      "url": "https://www.pap.pl/aktualnosci/pozar-lasu-w-andaluzji-wladze-wiekszosc-ofiar-cudzoziemcy",
+      "date": "2026-07-10T19:31:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Pożar lasu w Andaluzji. Władze: większość ofiar to cudzoziemcy Polska Agencja Prasowa SA."
+    },
+    {
       "title": "Morawiecki o pomocy Ukrainie za rządów PiS: bez przekazanego sprzętu armia Putina mogłaby się szykować do ataku na Warszawę - Polska Agencja Prasowa SA",
       "url": "https://www.pap.pl/aktualnosci/morawiecki-o-pomocy-ukrainie-za-rzadow-pis-bez-przekazanego-sprzetu-armia-putina",
       "date": "2026-07-10T19:04:00Z",
@@ -320,14 +328,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Wimbledon - pierwszy „czeski” finał w historii Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "Ukraińskie drony uderzyły w Kraju Krasnodarskim. Na celowniku rafineria - Polska Agencja Prasowa SA",
-      "url": "https://www.pap.pl/aktualnosci/ukrainskie-drony-uderzyly-w-kraju-krasnodarskim-na-celowniku-rafineria",
-      "date": "2026-07-10T10:57:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Ukraińskie drony uderzyły w Kraju Krasnodarskim. Na celowniku rafineria Polska Agencja Prasowa SA."
     },
     {
       "title": "Nie żyje Maja Gadowska. Łatwogang nagrał z nią wyjątkową piosenkę - Polskie Radio 24",
@@ -652,14 +652,6 @@
       "summary": "Uważa się, że roślinożerny dinozaur o nazwie Uragasaurus kalasinensis żył około 150 milionów lat temu."
     },
     {
-      "title": "Kubańska sieć energetyczna ulega awarii po raz drugi w tym tygodniu, pogrążając kraj w ciemnościach – Reuters",
-      "url": "https://www.reuters.com/business/energy/cubas-power-grid-fails-second-time-this-week-2026-07-10/",
-      "date": "2026-07-10T21:09:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Kubańska sieć energetyczna ulega awarii po raz drugi w tym tygodniu, pogrążając kraj w ciemnościach Reuters."
-    },
-    {
       "title": "Bóle USA przy pompie pogłębiają się po kolejnych walkach USA-Iran, które podnoszą ceny ropy – Reuters",
       "url": "https://www.reuters.com/business/energy/us-pain-pump-worsens-after-more-us-iran-fighting-lifts-oil-prices-2026-07-10/",
       "date": "2026-07-10T20:42:04Z",
@@ -682,6 +674,14 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Dyrektor generalny SK Hynix widzi najgorszy niedobór pamięci w 2027 r., a popyt przewyższy podaż po 2030 r. Reuters."
+    },
+    {
+      "title": "Król Karol spotyka się z dziećmi księcia Harry'ego po raz pierwszy od 2022 roku – Reuters",
+      "url": "https://www.reuters.com/world/uk/king-charles-hosts-prince-harry-his-wife-meghan-their-two-children-itv-reports-2026-07-10/",
+      "date": "2026-07-10T20:07:29Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Król Karol spotyka się z dziećmi księcia Harry'ego po raz pierwszy od 2022 roku Reuters."
     },
     {
       "title": "Zobacz: Co łączy bombę w Monako ze strzelaniną na Ukrainie?",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Krytyczna luka w Zimbrze może pozwolić spreparowanym e-mailom na uruchomienie złośliwego kodu w sesjach użytkowników",
+      "url": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+      "date": "2026-07-11T06:45:55Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Zimbra nalega, aby klienci zastosowali aktualizacje w celu usunięcia krytycznej luki w zabezpieczeniach klasycznego klienta internetowego, która może skutkować wykonaniem dowolnego kodu. Lukę opisano jako przypadek przechowywanego skryptu między witrynami (XSS), który umożliwia specjalnie spreparowanym e-mailom wykonywanie złośliwych skryptów w sesji użytkownika. Nie przypisano mu jeszcze identyfikatora CVE."
+    },
+    {
       "title": "Letnia aplikacja Slothful pozwala przewijać po prostu przechylając głowę",
       "url": "https://www.theregister.com/personal-tech/2026/07/10/slothful-summer-app-lets-you-scroll-simply-by-tilting-your-head/5270096",
       "date": "2026-07-10T20:32:53Z",
@@ -1698,14 +1706,6 @@
       "summary": "Uważaj na złoty śrubokręt."
     },
     {
-      "title": "Uśpione konta GitHub pomagają atakującym wmieszać się podczas mapowania organizacji korporacyjnych",
-      "url": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
-      "date": "2026-07-09T18:38:49Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Datadog Security Labs ostrzega przed „kilkoma nakładającymi się kampaniami”, które systematycznie wyliczają korporacyjne organizacje GitHub, repozytoria i konta użytkowników za pośrednictwem interfejsu API GitHub. „Operatorzy polegają na automatycznych narzędziach do skrobania za pomocą niestandardowych lub legalnie brzmiących programów użytkownika, wykorzystując konta duchów GitHub, które często mają wiele lat lub tokeny OAuth i dane osobowe zostały naruszone."
-    },
-    {
       "title": "Cyber Shield: brytyjska odpowiedź na nową erę cyberzagrożeń",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyber-shield-brytyjska-odpowiedz-na-nowa-ere-cyberzagrozen",
       "date": "2026-07-09T15:16:15Z",
@@ -1908,12 +1908,12 @@
       "summary": "\"Dzieci mu nie dasz, twoja przydatność się kończy\". Manosfera atakuje kobiety Forbes."
     },
     {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/ceny-energii;unia-europejska,47",
-      "date": "2026-07-10T17:44:46Z",
-      "source": "Forsal.pl",
+      "title": "Opcja OW20S263825 - Analiza techniczna - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/opcja/ow20s263825,analiza-techniczna.aspx",
+      "date": "2026-07-10T18:08:12Z",
+      "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
+      "summary": "Opcja OW20S263825 - Analiza techniczna stockwatch.pl."
     },
     {
       "title": "Transakcja za 1 zł. Pepco sprzedało sieć sklepów",
@@ -1964,12 +1964,20 @@
       "summary": "Kurs franka szwajcarskiego - 10.07.2026. W piątek po południu za jednego franka (CHF) trzeba zapłacić 4.69107 zł."
     },
     {
-      "title": "Robyg zastąpi AC w sWIG80 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149275,robyg-zastapi-ac-w-swig80",
-      "date": "2026-07-10T15:24:00Z",
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/pis;rzad,43",
+      "date": "2026-07-10T15:49:48Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
+      "title": "Sunex podał wstępne dane o przychodach za II kwartał 2026 r. - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149272,sunex-podal-wstepne-dane-o-przychodach-za-ii-kwartal-2026-r",
+      "date": "2026-07-10T15:17:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Robyg zastąpi AC w sWIG80 BiznesRadar."
+      "summary": "Sunex podał wstępne dane o przychodach za II kwartał 2026 r. BiznesRadar."
     },
     {
       "title": "Polwax rozpoczyna studium wykonalności Inwestycji FUTURE - BiznesRadar",
@@ -2068,14 +2076,6 @@
       "summary": "Twoja firma używa AI? Przed 2 sierpnia powinna wykonać ten przegląd Forsal.pl."
     },
     {
-      "title": "Komunikat EBI One Solution SA (1solution): Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/1solution,odwolanie-lub-rezygnacja-osoby-zarzadzajacej-2026-07-10,ebi,20260710_131104_0000004311",
-      "date": "2026-07-10T11:11:04Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat EBI One Solution SA (1solution): Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej stockwatch.pl."
-    },
-    {
       "title": "3 podejścia jak inwestować w kryptowaluty i dlaczego warto je mieć w portfelu",
       "url": "https://strefainwestorow.pl/wideo/kryptowaluty-virtune",
       "date": "2026-07-10T09:57:57Z",
@@ -2132,6 +2132,14 @@
       "summary": "Pozyskał start-up na poboczu drogi. \"Decyzja zapadła niemal natychmiast\" Forbes."
     },
     {
+      "title": "Wysoka aktywność transakcyjna na GPW w pierwszym półroczu 2026 r. - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149245,wysoka-aktywnosc-transakcyjna-na-gpw-w-pierwszym-polroczu-2026-r",
+      "date": "2026-07-10T07:28:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wysoka aktywność transakcyjna na GPW w pierwszym półroczu 2026 r. BiznesRadar."
+    },
+    {
       "title": "Sprzedaż mieszkań odbija, ale rynek się chłodzi. Wyniki deweloperów za II kwartał 2026",
       "url": "https://strefainwestorow.pl/nieruchomosci/sprzedaz-przekazania-deweloperzy-2q26",
       "date": "2026-07-10T07:20:49Z",
@@ -2170,14 +2178,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Unia Europejska pracuje nad zmianami w dyrektywie o wagach i wymiarach pojazdów, które mają ułatwić międzynarodowy ruch tzw. megaciężarówek między państwami dopuszczającymi je na własnych drogach. Chodzi o europejskie zespoły modułowe (EMS), czyli zestawy ciężarowe mogące ważyć nawet 60 ton."
-    },
-    {
-      "title": "Kombinat Konopny planuje emisję crowdfundingową. \"Mamy ambitne plany ekspansji zagranicznej\" - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149227,kombinat-konopny-planuje-emisje-crowdfundingowa-mamy-ambitne-plany-ekspansji-zagranicznej",
-      "date": "2026-07-09T10:00:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Kombinat Konopny planuje emisję crowdfundingową. \"Mamy ambitne plany ekspansji zagranicznej\" BiznesRadar."
     },
     {
       "title": "Dzisiejsze szyfrowanie może nie wystarczyć jutro. Biznes musi spojrzeć dalej niż na audyt",
