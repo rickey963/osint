@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T23:59:34Z",
+  "last_updated": "2026-07-11T00:04:40Z",
   "poland": [
     {
       "title": "Pech Belgów. Dżoker Merino prowadzi Hiszpanów do półfinału, będzie hit z Francją",
@@ -524,6 +524,14 @@
       "summary": "Król Karol spotyka się z dziećmi księcia Harry'ego po raz pierwszy od 2022 roku Reuters."
     },
     {
+      "title": "RPT Rosja wstrzymuje żeglugę kanałem Don-Azow, co ma wpływ na handel zbożem, po atakach Ukrainy - Reuters",
+      "url": "https://www.reuters.com/business/rpt-russia-halts-don-azov-channel-shipping-affecting-grain-trade-after-ukraine-2026-07-10/",
+      "date": "2026-07-10T20:03:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "RPT Rosja wstrzymuje żeglugę kanałem Don-Azow, co wpływa na handel zbożem, po ataku Ukrainy na Reuters."
+    },
+    {
       "title": "USA ułatwiają eksport chipów Nvidia AI i sprzętu wojskowego do Zjednoczonych Emiratów Arabskich – Reuters",
       "url": "https://www.reuters.com/world/middle-east/us-makes-it-easier-export-certain-military-items-ai-chips-commercial-satellites-2026-07-10/",
       "date": "2026-07-10T19:39:42Z",
@@ -578,14 +586,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Ofiary pożarów w Hiszpanii spłonęły w samochodach, gdy drogi zamieniły się w śmiertelne pułapki Reuters."
-    },
-    {
-      "title": "Amerykańscy senatorowie twierdzą, że osiągnięto porozumienie z Trumpem w sprawie ustawy o sankcjach wobec Rosji – Reuters",
-      "url": "https://www.reuters.com/world/us/us-senators-say-agreement-reached-with-trump-russia-sanctions-bill-2026-07-10/",
-      "date": "2026-07-10T18:21:02Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Amerykańscy senatorzy twierdzą, że osiągnięto porozumienie z Trumpem w sprawie ustawy o sankcjach wobec Rosji Reuters."
     },
     {
       "title": "Zobacz: Co łączy bombę w Monako ze strzelaniną na Ukrainie?",
@@ -2520,15 +2520,15 @@
           "source": "PAP"
         },
         {
-          "title": "Ukraina tworzy dowództwo „dalekiego zasięgu”, aby zintensyfikować ataki na Rosję – Reuters",
-          "url": "https://www.reuters.com/business/energy/russian-refineries-oil-terminal-tankers-hit-ukraine-says-2026-07-10/",
+          "title": "RPT Rosja wstrzymuje żeglugę kanałem Don-Azow, co ma wpływ na handel zbożem, po atakach Ukrainy - Reuters",
+          "url": "https://www.reuters.com/business/rpt-russia-halts-don-azov-channel-shipping-affecting-grain-trade-after-ukraine-2026-07-10/",
           "source": "Reuters"
         }
       ]
     },
     {
       "name": "Iran",
-      "score": 75,
+      "score": 60,
       "reasons": [
         {
           "title": "USA nalegają, aby Iran zobowiązał się do zaprzestania ataków w cieśninie Ormuz, mówią urzędnicy amerykańscy – Reuters",
@@ -2549,7 +2549,7 @@
     },
     {
       "name": "Tajwan",
-      "score": 25,
+      "score": 20,
       "reasons": [
         {
           "title": "Azja Wschodnia przygotowuje się na niszczycielski tajfun – w wyniku osuwisk na Filipinach zginęło 15 osób",
