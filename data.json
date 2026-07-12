@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T15:27:18Z",
+  "last_updated": "2026-07-12T15:36:51Z",
   "poland": [
     {
       "title": "Jerzy Haszczyński: Ukraina wejdzie do Unii Europejskiej, a Polska z niej wyjdzie?",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Medycy twierdzą, że w izraelskich atakach w Gazie zginęło sześć osób, w tym dziewczyna – podaje Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-attacks-gaza-kill-three-people-including-girl-say-medics-2026-07-12/",
+      "date": "2026-07-12T15:12:33Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Medycy twierdzą, że w izraelskich atakach w Strefie Gazy zginęło sześć osób, w tym dziewczyna."
+    },
+    {
       "title": "Dom opieki dla osób starszych Dorothy pobierał opłatę w wysokości 52 dolarów dziennie za Foxtel, wino i gazety, które nie były jej potrzebne. Nie była sama",
       "url": "https://www.theguardian.com/australia-news/2026/jul/13/aged-care-charges-services-regulator-investigation",
       "date": "2026-07-12T15:00:22Z",
@@ -524,22 +532,6 @@
       "summary": "Korea Południowa prosi Koreę Północną o pomoc w odnalezieniu zaginionego marynarza w pobliżu granicy Reuters."
     },
     {
-      "title": "W izraelskich atakach w Gazie zginęło pięć osób, w tym dziewczynka – twierdzą lekarze – Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israeli-attacks-gaza-kill-three-people-including-girl-say-medics-2026-07-12/",
-      "date": "2026-07-12T12:47:47Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Służby medyczne Reuters podają, że w izraelskich atakach w Gazie zginęło pięć osób, w tym dziewczyna."
-    },
-    {
-      "title": "Niemcy finansują 50 000 dronów uderzeniowych dla Ukrainy, podaje źródło – Reuters",
-      "url": "https://www.reuters.com/world/germany-funds-50000-strike-drones-ukraine-source-says-2026-07-12/",
-      "date": "2026-07-12T12:46:34Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Niemcy finansują dla Ukrainy 50 000 dronów uderzeniowych, podaje źródło Reuters."
-    },
-    {
       "title": "Syn ofiary pożarów w Belgii kwestionuje ostrzeżenia hiszpańskich urzędników – Reuters",
       "url": "https://www.reuters.com/world/europe/son-belgian-wildfire-victim-disputes-spanish-officials-account-warnings-2026-07-12/",
       "date": "2026-07-12T12:06:32Z",
@@ -634,6 +626,14 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Wspólne oświadczenie na Morzu Południowochińskim stwierdza, że ​​roszczenia morskie Chin są bezpodstawne Reuters."
+    },
+    {
+      "title": "Były emir Kataru, szejk Hamad bin Khalifa Al Thani, umiera w wieku 74 lat – Reuters",
+      "url": "https://www.reuters.com/world/middle-east/former-emir-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-74-2026-07-12/",
+      "date": "2026-07-12T06:06:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Były emir Kataru, szejk Hamad bin Khalifa Al Thani, umiera w wieku 74 lat Reuters."
     },
     {
       "title": "Były partner zaginionej kobiety oskarżony o morderstwo po tym, jak znaleziono jego szczątki w buszu w Queensland",
@@ -958,20 +958,20 @@
       "summary": "Trump sugeruje wydanie stałego rozkazu ataku na Iran, jeśli ten go zabije. Ale Vance zadzwoni do AP News."
     },
     {
-      "title": "Demokrata ogłasza zarzuty sygnalistów dotyczące problemów budowlanych w Kennedy Center – AP News",
-      "url": "https://apnews.com/article/kennedy-center-whistleblowers-trump-democratic-senator-construction-124507bd76de61b812daf555a52e2edf",
-      "date": "2026-07-11T20:39:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Demokrata ogłasza w Kennedy Center AP News zarzuty sygnalistów dotyczące problemów budowlanych."
-    },
-    {
       "title": "Tajfun Bavi dociera na ląd we wschodnich Chinach i ewakuowano ponad milion osób – AP News",
       "url": "https://apnews.com/article/typhoon-bavi-taiwan-china-japan-bfdfdbb239f38b6c22a54c8349ce8d28",
       "date": "2026-07-11T19:21:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Tajfun Bavi dociera na ląd we wschodnich Chinach, a ponad milion osób ewakuowano AP News."
+    },
+    {
+      "title": "Wildfire niszczy społeczność emigrantów w południowej Hiszpanii, zabijając co najmniej 12 osób, a 23 uznano za zaginione – AP News",
+      "url": "https://apnews.com/article/spain-wildfire-almeria-760ecfff1316d56837888de4ab9efa21",
+      "date": "2026-07-11T02:13:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Wildfire niszczy społeczność emigrantów w południowej Hiszpanii, zabijając co najmniej 12 osób, a 23 zaginęły."
     },
     {
       "title": "Apple składa pozew, oskarżając twórcę ChatGPT OpenAI o kradzież tajemnic handlowych – AP News",
@@ -1007,6 +1007,14 @@
     }
   ],
   "technology": [
+    {
+      "title": "Źródła: Apple już wprowadza na rynek M7 z poważnymi ulepszeniami NPU i planuje M7 Ultra z 1,5 TB RAM i M8 na rok 2028; nowe ołówki pojawią się w nowym iPadzie Pro (Mark Gurman/Bloomberg)",
+      "url": "https://www.techmeme.com/260712/p6#a260712p6",
+      "date": "2026-07-12T15:20:00Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Mark Gurman / Bloomberg: Źródła: Apple już nagrywa M7 z poważnymi ulepszeniami NPU i planuje M7 Ultra z 1,5 TB RAM i M8 na rok 2028; nowe ołówki będą dostępne w nowym iPadzie Pro &mdash; Także: Nadchodzą nowe ołówki Apple. &mdash; Nowy plan działania Apple dotyczący chipów Mac przedstawia najnowszy krok firmy w kierunku przebudowy &hellip;."
+    },
     {
       "title": "Nawet były szef PlayStation skomentował kontrowersyjną decyzję firmy",
       "url": "https://antyweb.pl/nawet-byly-szef-playstation-skomentowal-kontrowersyjna-decyzje-firmy",
@@ -1069,15 +1077,7 @@
       "date": "2026-07-12T13:26:13Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://spectrum.ieee.org/ai-science-research-flattens-discovery Adres URL komentarzy: https://news.ycombinator.com/item?id=48881043 Punkty: 35 # Komentarze: 21."
-    },
-    {
-      "title": "Pokaż HN: Tylko 1 z 4356 osiągalnych serwerów MCP jest gotowy na specyfikację z dnia 28.07.2026 r.",
-      "url": "https://github.com/Roee-Tsur/mcp-spec-check",
-      "date": "2026-07-12T13:21:01Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/Roee-Tsur/mcp-spec-check Adres URL komentarzy: https://news.ycombinator.com/item?id=48881009 Punkty: 15 # Komentarze: 5."
+      "summary": "Adres URL artykułu: https://spectrum.ieee.org/ai-science-research-flattens-discovery Adres URL komentarzy: https://news.ycombinator.com/item?id=48881043 Punkty: 43 # Komentarze: 31."
     },
     {
       "title": "Tworzenie Crasha Bandicoota (2011)",
@@ -1085,7 +1085,7 @@
       "date": "2026-07-12T13:18:36Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48880987 Punkty: 22 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48880987 Punkty: 25 # Komentarze: 2."
     },
     {
       "title": "Gina Galeria Międzynarodowej Sztuki Naiwnej",
@@ -1093,7 +1093,7 @@
       "date": "2026-07-12T13:18:34Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.ginagallery.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48880985 Punkty: 9 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://www.ginagallery.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48880985 Punkty: 13 # Komentarze: 3."
     },
     {
       "title": "Ceny pamięci RAM oszalały. Czy warto jeszcze czekać z zakupem, czy lepiej działać teraz?",
@@ -1109,7 +1109,7 @@
       "date": "2026-07-12T12:17:26Z",
       "source": "Hacker News",
       "confirmed_by": 2,
-      "summary": "Adres URL artykułu: https://theconversation.com/the-real-mystery-behind-moana-after-1-700-years-why-did-polynesians-suddenly-sail-east-287226 Adres URL komentarzy: https://news.ycombinator.com/item?id=48880564 Punkty: 21 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://theconversation.com/the-real-mystery-behind-moana-after-1-700-years-why-did-polynesians-suddenly-sail-east-287226 Adres URL komentarzy: https://news.ycombinator.com/item?id=48880564 Punkty: 27 # Komentarze: 6."
     },
     {
       "title": "Assassin's Creed: 3 nowe gry już powstają, ale na nich jeszcze nie koniec!",
@@ -1125,7 +1125,7 @@
       "date": "2026-07-12T12:08:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://odinbook.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48880499 Punkty: 54 # Komentarze: 15."
+      "summary": "Adres URL artykułu: https://odinbook.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48880499 Punkty: 60 # Komentarze: 17."
     },
     {
       "title": "Wygląda jak magia, ale to fizyka. Sama z siebie pękła mu szyba z komputera",
@@ -1157,7 +1157,15 @@
       "date": "2026-07-12T11:52:21Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://mrbruh.com/motorola/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48880406 Punkty: 34 # Komentarze: 9."
+      "summary": "Adres URL artykułu: https://mrbruh.com/motorola/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48880406 Punkty: 37 # Komentarze: 11."
+    },
+    {
+      "title": "Diagramy sekwencji Yt-Dlp",
+      "url": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
+      "date": "2026-07-12T11:49:38Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Adres URL komentarzy do filmów: https://news.ycombinator.com/item?id=48880384 Punkty: 85 # Komentarze: 20."
     },
     {
       "title": "Użytkownicy narzędzi do kodowania AI zalewają projekty open source wkładami niskiej jakości, przytłaczają opiekunów i potencjalnie osłabiają zaangażowanie społeczności (Sam Learner/Financial Times)",
@@ -1222,14 +1230,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Najnowsze przecieki o iPhone Air 2 są wyjątkowo pokaźne i dotyczą niemal całej specyfikacji. Jednak najważniejsza jest data premiery: Apple ma planować start sprzętu wiosenną 2027 i skupić się na poprawie największych pięt achillesowych pierwszego modelu w oczach wielu użytkowników, czyli aparatów i baterii."
-    },
-    {
-      "title": "Te ustawienia całkowicie spacyfikują Twój Instagram!",
-      "url": "https://antyweb.pl/jak-wylaczyc-powiadomienia-na-instagramie",
-      "date": "2026-07-12T08:00:51Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Instagram potrafi przebodźcować. Właśnie dlatego warto zadbać o cyfrową higienę i wyłączyć powiadomienia lub dopasować je do określonych potrzeb. Twój mózg na pewno Ci za to podziękuje."
     },
     {
       "title": "Robot dostał trąbę słonia. To lepsze niż dłonie",
@@ -1607,7 +1607,7 @@
       "date": "2026-07-10T14:51:49Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Badacze z zespołu ds. bezpieczeństwa Donjon w Ledger wykazali, że precyzyjnie ustawiony w czasie impuls laserowy, skierowany na chip znajdujący się w karcie portfela kryptowalutowego Tangem, może zresetować hasło karty na dowolne hasło wybrane przez atakującego. Brak starego hasła. Brak karty zapasowej."
+      "summary": "Badacze z zespołu ds. bezpieczeństwa Donjon w Ledger wykazali, że precyzyjnie ustawiony w czasie impuls laserowy, skierowany na chip znajdujący się w karcie portfela kryptograficznego Tangem, może zresetować hasło karty na dowolne hasło wybrane przez atakującego. Brak starego hasła. Brak karty zapasowej."
     },
     {
       "title": "Sądy wyeliminują papier? Ministerstwo ogłosiło zmiany",
@@ -1868,14 +1868,6 @@
       "summary": "Gospodarka Forsal.pl."
     },
     {
-      "title": "Impuls i korekta - 12 lipca 2026",
-      "url": "https://strefainwestorow.pl/impuls-i-korekta/impuls-i-korekta-12-lipca-2026",
-      "date": "2026-07-12T11:29:13Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "Impuls i korekta - 12 lipca 2026 tchoman ndz., 12.07.2026 Treść Wig podczas piątkowej sesji w ładnym stylu wychodzi na nowe maksima. Indeks wciąż pozostaje pod wpływem tworzącej się potrójnej dywergencji, ale wciąż jest przestrzeń do wzrostu bez jej negacji. Amerykanie powoli, ale zgodnie z kierunkiem wybicia raczej zmierzają w kierunku nowego maksimum."
-    },
-    {
       "title": "\"My nie czujemy paniki przed Rosją\". Szef MSZ o groźbach Kremla",
       "url": "https://www.bankier.pl/wiadomosc/My-nie-czujemy-paniki-przed-Rosja-Szef-MSZ-o-grozbach-Kremla-9167002.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-12T11:19:00Z",
@@ -1884,28 +1876,12 @@
       "summary": "Wicepremier, szef MSZ Radosław Sikorski powiedział włoskiemu dziennikowi „Il Messaggero”, że Polska „nie czuje paniki” przed Rosją. W opublikowanym w niedzielę wywiadzie ocenił, że przywódca Rosji Władimir Putin nie ma środków, by nas zaatakować, najwyżej może spróbować dokonać jakiejś prowokacji."
     },
     {
-      "title": "21% Rocznie 425 EXTRA | Podcast | Jak inwestować- Pepco, KGHM, Dadelo, Medicalgorythmics, Vigo, Kruk",
-      "url": "https://strefainwestorow.pl/podcast/21-rocznie-extra/8-jak-inwestowac-425",
-      "date": "2026-07-12T11:17:17Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "21% Rocznie 425 EXTRA | Podcast | Jak inwestować- Pepco, KGHM, Dadelo, Medicalgorythmics, Vigo, Kruk Paweł Biedrzycki ndz., 12.07.2026 Kanał Strefa Inwestorów Kanał Strefa Inwestorów Podcast Podcast Extra Treść Zapraszamy do wysłuchania podcastu 21% Rocznie EXTRA, odcinek 425: Pepco Group, KGHM, Dadelo, Medicalgorythmics, Vigo Photonics, Kruk Lista omówionych spółek w podcaście:00:45 Pepco Group07:18 KGHM12:43 Dadelo16:15 Medicalgorythmics19:45 Vigo Photonics22:43 Kruk Pobierz 425 odcinek podcastu w wersji mp3 Zawarte w materiale dane, opracowania, informacje, analizy zostały przygotowane wyłącznie w celach informacyjnych, są tylko i wyłącznie subiektywnymi opiniami autorów i nie są rekomendacjami zawarcia transakcji w rozumieniu § 3 Rozporządzenia Ministra Finansów z dnia 19 października 2005 r. w sprawie informacji stanowiących rekomendacje dotyczące instrumentów finansowych, lub ich emitentów lub wystawców m. in."
-    },
-    {
       "title": "Podwyżki są niższe, ale pracowników wciąż brakuje. Te stanowiska są najbardziej poszukiwane - Forsal.pl",
       "url": "https://forsal.pl/praca/kariera/artykuly/11274602,raport-centra-dystrybucyjne-nadal-liderem-wzrostu-plac-ale-tempo-podwyzek-spadlo-o-polowe.html",
       "date": "2026-07-12T10:00:00Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Podwyżki są niższe, ale pracowników wciąż brakuje. Te stanowiska są najbardziej poszukiwane Forsal.pl."
-    },
-    {
-      "title": "Podsumowanie tygodnia - dywergencja pomiędzy WIG20 i sWIG80 narasta",
-      "url": "https://strefainwestorow.pl/blog/podsumowanie-sesji/podsumowanie-tygodnia-dywergencja-pomiedzy-wig20-i-swig80-narasta",
-      "date": "2026-07-12T09:59:59Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "Podsumowanie tygodnia - dywergencja pomiędzy WIG20 i sWIG80 narasta Paweł Biedrzycki ndz., 12.07.2026 Nasdaq DAX CAC WIG WIG-banki swig80 USDPLN eurpln Wstęp do wpisu Podsumowanie tygodnia 6 - 10 lipca 2026: #nasdaq, #DAX, #CAC, #WIG, #WIGBanki, #sWIG80, #USDPLN, #EURPLN, spółki portfelowe, nowa spółka na celowniku, spółki godne uwagi Podsumowanie tygodnia - dywergencja pomiędzy WIG20 i sWIG80 narasta Paweł Biedrzycki."
     },
     {
       "title": "Katar na linii ognia. Najwyższy alert polskiego MSZ po rakietowym ataku Iranu",
@@ -1940,12 +1916,28 @@
       "summary": "Liczba ogłoszeń o pracy publikowanych przez firmy związane z AI podwoiła się. Tych umiejętności związanych z technologiami potrzebujemy by dziś pracę dostać Forsal.pl."
     },
     {
+      "title": "Obszar metropolitarny Gdańsk-Gdynia-Sopot - Forsal.pl",
+      "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11274897,juz-31-lipca-2026-roku-nowy-zwiazek-metropolitalny-w-polsce---trojmiasto-i-polowa-wojewodztwa-pomorskiego.html",
+      "date": "2026-07-12T08:37:50Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Obszar metropolitarny Gdańsk-Gdynia-Sopot Forsal.pl."
+    },
+    {
       "title": "Aleksandra Mirosław żegna się ze sportem. \"Widziałam w oczach pustkę\" - Forbes",
       "url": "https://www.forbes.pl/forbeswomen/aleksandra-miroslaw-konczy-kariere-na-wlasnych-warunkach-nowy-rozdzial-po-sporcie/n40y3s2",
       "date": "2026-07-12T08:30:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Aleksandra Mirosław żegna się ze sportem. \"Widziałam w oczach pustkę\" Forbes."
+    },
+    {
+      "title": "Zełenski traci cierpliwość do dyplomatów. Żąda szybszych dostaw broni po kolejnym ataku na Kijów",
+      "url": "https://www.bankier.pl/wiadomosc/Zelenski-traci-cierpliwosc-do-dyplomatow-Zada-szybszych-dostaw-broni-po-kolejnym-ataku-na-Kijow-9166922.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-07-12T08:11:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Prezydent Ukrainy Wołodymyr Zełenski zapowiedział w sobotę zmiany w dyplomacji i podkreślił, że porozumienia w sprawie licencji na produkcję systemów Patriot i rozwój współpracy z państwami europejskimi przy produkcji systemów obrony przeciwrakietowej powinny być realizowane szybciej i w pełniejszym zakresie."
     },
     {
       "title": "Porzuciła bank, by robić zdjęcia w nocnych klubach. \"Masz 15 minut\" - Forbes",
@@ -1994,14 +1986,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Potrzebujemy stopniowego podniesienia wieku emerytalnego kobiet i zrównania go z wiekiem emerytalnym mężczyzn. Należy wprowadzić mechanizm automatycznie podnoszący ten wiek wraz ze wzrostem oczekiwanej długości życia - piszą w opinii dla money.pl Maciej Albinowski i Piotr Lewandowski z Instytutu Badań Strukturalnych."
-    },
-    {
-      "title": "W poszukiwaniu sygnałów - 11 lipca 2026 - Nowe historyczne maksima na WIG, MWIG40 i WIGBankach",
-      "url": "https://strefainwestorow.pl/blog/w-poszukiwaniu-sygnalow/w-poszukiwaniu-sygnalow-11-lipca-2026-nowe-historyczne-maksima-na-wig",
-      "date": "2026-07-11T09:40:40Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "W poszukiwaniu sygnałów - 11 lipca 2026 - Nowe historyczne maksima na WIG, MWIG40 i WIGBankach Ewa sob., 11.07.2026 Wstęp Indeksy GPW, #DAX. Indeksy USA, Nikkei, #Miedź, #Srebro, #Usdpln, #Eurpln, Ring spekulanta, Spółki wcześniej sygnalizowane, Kącik życzeń W poszukiwaniu sygnałów - 11 lipca 2026 - Nowe historyczne maksima na WIG, MWIG40 i WIGBankach Ewa."
     },
     {
       "title": "Notowania kontraktu terminowego FPXMZ26 - stockwatch.pl",
@@ -2058,6 +2042,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Francuski miliarder Xavier Niel uzgodnił zakup ponad 16 proc. akcji Vodafone za ok. 6 mld dolarów."
+    },
+    {
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 10.07.2026",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-10-07-2026-7306048433740128a.html",
+      "date": "2026-07-10T17:08:16Z",
+      "source": "Money.pl",
+      "confirmed_by": 1,
+      "summary": "Kurs dolara - 10.07.2026. W piątek po południu za jednego dolara (USD) trzeba zapłacić 3.78769 zł."
     },
     {
       "title": "Komunikat ESPI MYCODERN SPÓŁKA AKCYJNA (mycodern): Zawiadomienia akcjonariuszy w trybie art. 69 ustawy o ofercie - stockwatch.pl",
@@ -2140,6 +2132,22 @@
       "summary": "Notowania VGO (VIGOPHOTN) BiznesRadar."
     },
     {
+      "title": "Wycena MAKARONY POLSKIE SA (MAK) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wycena/MAKARONY-POLSKIE",
+      "date": "2026-07-10T15:00:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wycena MAKARONY POLSKIE SA (MAK) BiznesRadar."
+    },
+    {
+      "title": "Opcja OW20S263775 - Notowania - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/opcja/OW20S263775,notowania.aspx",
+      "date": "2026-07-10T14:49:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Opcja OW20S263775 - Notowania stockwatch.pl."
+    },
+    {
       "title": "Inwestycje warunkiem koniecznym utrzymania tempa wzrostu polskiej gospodarki - Forbes",
       "url": "https://www.forbes.pl/diamenty/2026/artykuly/gala-diamentow-forbesa-przedsiebiorcy-i-eksperci-o-przyszlosci-polski/hbsg5rg",
       "date": "2026-07-10T13:34:46Z",
@@ -2148,28 +2156,20 @@
       "summary": "Inwestycje warunkiem koniecznym utrzymania tempa wzrostu polskiej gospodarki Forbes."
     },
     {
-      "title": "Prognozy NBP: jest już nowa projekcja inflacji w Polsce",
-      "url": "https://strefainwestorow.pl/finanse/projekcja-inflacji-nbp-lipiec-2026",
-      "date": "2026-07-10T11:40:26Z",
-      "source": "Strefa Inwestorów",
+      "title": "\"Pracowałam non stop przez trzy dni, aż miałam halucynacje\". Kariera z ADHD i autyzmem - Forbes",
+      "url": "https://www.forbes.pl/life/adhd-i-spektrum-autyzmu-a-kariera-i-prowadzenie-biznesu-niezwykle-historie/e15ck1f",
+      "date": "2026-07-10T13:03:00Z",
+      "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Prognozy NBP: jest już nowa projekcja inflacji w Polsce Wioletta Hass pt., 10.07.2026 Kanał Strefa Inwestorów NBP raport o inflacji projekcja inflacji RPP stopy procentowe PKB polityka pieniężna Adam Glapiński gospodarka polska CPI inflacja bazowa Treść Narodowy Bank Polski pokazał dziś lipcową projekcję inflacji i wzrostu gospodarczego. Z raportu wynika, że w 2026 roku inflacja wyniesie 2,9 proc., podczas gdy w marcowej projekcji bank centralny zakładał 2,3 proc.Bank centralny opublikował lipcową projekcję inflacji. W porównaniu z marcową podniesiono prognozę dla CPI oraz obniżono dla PKB."
+      "summary": "\"Pracowałam non stop przez trzy dni, aż miałam halucynacje\". Kariera z ADHD i autyzmem Forbes."
     },
     {
-      "title": "3 podejścia jak inwestować w kryptowaluty i dlaczego warto je mieć w portfelu",
-      "url": "https://strefainwestorow.pl/wideo/kryptowaluty-virtune",
-      "date": "2026-07-10T09:57:57Z",
-      "source": "Strefa Inwestorów",
+      "title": "Biznes czy medycyna? Wyzwania współczesnej stomatologii i protetyki - Forbes",
+      "url": "https://www.forbes.pl/biznes/biznes-czy-medycyna-wyzwania-wspolczesnej-stomatologii-i-protetyki/nbweefc",
+      "date": "2026-07-10T13:00:00Z",
+      "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "3 podejścia jak inwestować w kryptowaluty i dlaczego warto je mieć w portfelu Paweł Biedrzycki pt., 10.07.2026 Kanał Strefa Inwestorów Virtune ETF BTC ETF ETH Treść Bitcoin, najważniejsza kryptowaluta świata, w ciągu ostatniego roku stracił ponad 50% swojej wartości. W dzisiejszym materiale wyjaśniamy, dlaczego sentyment na rynku kryptowalut tak wyraźnie się pogorszył oraz przedstawiamy trzy sprawdzone podejścia do inwestowania w ten segment.Ceny kryptowalut spadają, podczas gdy rozwój technologii stojącej za tym rynkiem jest dziś bardziej zaawansowany niż kiedykolwiek wcześniej. Ten pozorny paradoks można w dużej mierze wyjaśnić rosnącą rolą regulacji."
-    },
-    {
-      "title": "Scanway chce zostać jednym z największych integratorów optycznych ładunków satelitarnych. Celuje w rynki warte miliardy USD",
-      "url": "https://strefainwestorow.pl/spolki/scanway-plany-strategia-spacetech",
-      "date": "2026-07-10T09:24:24Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "Scanway chce zostać jednym z największych integratorów optycznych ładunków satelitarnych. Celuje w rynki warte miliardy USD Seb Seb pt., 10.07.2026 Kanał Strefa Inwestorów Scanway plany strategia spacetech newspace giełda GPW kosmos Treść Scanway chce w ciągu najbliższych lat awansować do grona czołowych europejskich dostawców optycznych ładunków satelitarnych. Zarząd przekonuje, że rosnący globalny popyt na konstelacje satelitów, technologie obserwacji Ziemi oraz przetwarzanie danych kosmicznych stwarza spółce wyjątkową szansę na dynamiczne zwiększenie skali działalności."
+      "summary": "Biznes czy medycyna? Wyzwania współczesnej stomatologii i protetyki Forbes."
     }
   ],
   "critical_alerts": [
@@ -2439,7 +2439,7 @@
           "source": "Gazeta Wyborcza"
         },
         {
-          "title": "W izraelskich atakach w Gazie zginęło pięć osób, w tym dziewczynka – twierdzą lekarze – Reuters",
+          "title": "Medycy twierdzą, że w izraelskich atakach w Gazie zginęło sześć osób, w tym dziewczyna – podaje Reuters",
           "url": "https://www.reuters.com/world/middle-east/israeli-attacks-gaza-kill-three-people-including-girl-say-medics-2026-07-12/",
           "source": "Reuters"
         }
@@ -2488,10 +2488,6 @@
     {
       "sector": "Sektor obronny",
       "instrument": "np. ETF iShares Global Aerospace & Defense (ITA)"
-    },
-    {
-      "sector": "Złoto i obligacje skarbowe",
-      "instrument": "np. ETF na złoto (GLD) lub obligacje skarbowe"
     }
   ],
   "sp500_trend": {
