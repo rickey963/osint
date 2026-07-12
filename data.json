@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T00:02:54Z",
+  "last_updated": "2026-07-12T00:03:38Z",
   "poland": [
     {
       "title": "Norwegia nie dopłynęła do półfinału mundialu. Zatrzymał ją Jude Bellingham i kabel",
@@ -1008,6 +1008,22 @@
   ],
   "technology": [
     {
+      "title": "Lekarze umierają. To nie jest tak jak reszta z nas, ale powinno być (2016)",
+      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+      "date": "2026-07-11T23:15:06Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://archive.cancerworld.net/featured/how-doctors-die/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48876741 Punkty: 10 # Komentarze: 2."
+    },
+    {
+      "title": "Naukowcy odkryli, że podnoszenie ciężarów zastępuje bieganie w celu kontroli poziomu cukru we krwi",
+      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+      "date": "2026-07-11T22:49:42Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48876593 Punkty: 55 # Komentarze: 28."
+    },
+    {
       "title": "Obecna dynamika rynku sztucznej inteligencji wskazuje, że modele pionierskie stają się infrastrukturą towarową w miarę ustępowania kryzysu tokenowego, a wartość przesuwa się w stronę produktów budowanych odgórnie (Benedict Evans)",
       "url": "https://www.techmeme.com/260711/p11#a260711p11",
       "date": "2026-07-11T22:45:01Z",
@@ -1016,12 +1032,60 @@
       "summary": "Benedict Evans: Obecna dynamika rynku sztucznej inteligencji wskazuje, że modele pionierskie stają się infrastrukturą towarową w miarę ustępowania kryzysu związanego z tokenami, a wartość przesuwa się w stronę produktów zbudowanych na bazie topowych rozwiązań &mdash; Są tylko dwie rzeczy, które możesz powiedzieć z pewnością na temat cen tokenów: mamy do czynienia z załamaniem podaży, a sytuacja jest niestabilna."
     },
     {
+      "title": "Mesh LLM: rozproszone obliczenia AI na iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "date": "2026-07-11T22:38:57Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.iroh.computer/blog/mesh-llm Adres URL komentarzy: https://news.ycombinator.com/item?id=48876505 Punkty: 26 # Komentarze: 10."
+    },
+    {
+      "title": "Przestań mi mówić, żebym zapytał LLM",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "date": "2026-07-11T22:28:48Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48876441 Punkty: 105 # Komentarze: 57."
+    },
+    {
+      "title": "RISCBoy to przenośna konsola do gier typu open source, zaprojektowana od podstaw",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "date": "2026-07-11T21:58:00Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://github.com/Wren6991/RISCBoy Adres URL komentarzy: https://news.ycombinator.com/item?id=48876245 Punkty: 21 # Komentarze: 4."
+    },
+    {
       "title": "Psycholog Peter Gray twierdzi, że stres w szkole, a nie używanie smartfonów, jest główną przyczyną kryzysu psychicznego nastolatków, co podważa tezę Jonathana Haidta (Kaitlyn Tiffany / The Atlantic)",
       "url": "https://www.techmeme.com/260711/p10#a260711p10",
       "date": "2026-07-11T20:15:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Kaitlyn Tiffany / The Atlantic: Psycholog Peter Gray twierdzi, że główną przyczyną kryzysu psychicznego wśród nastolatków jest stres w szkole, a nie używanie smartfonów, co podważa tezę Jonathana Haidta &mdash; Psycholog ewolucyjny kwestionuje popularne rozumienie dzieci i technologii."
+    },
+    {
+      "title": "Pokaż HN: Ant – środowisko wykonawcze i ekosystem JavaScript",
+      "url": "https://antjs.org",
+      "date": "2026-07-11T20:07:18Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Witaj HN!Jestem autorem Ant, ekosystemu JavaScript zbudowanego wokół środowiska uruchomieniowego z własnym silnikiem JavaScript. Ant zawiera także menedżer pakietów, rejestr pakietów ants.land, platformę do wdrażania i hostowania aplikacji oraz Ant Desktop do tworzenia natywnych aplikacji komputerowych przy użyciu technologii internetowych, podobnie jak Electron. Celem jest, aby te elementy działały jako jedna spójna platforma, zachowując jednocześnie kompatybilność z szerszym ekosystemem JavaScript. Jest jeszcze wcześnie i będę wdzięczny za wszelkie opinie na temat ogólnego kierunku lub tego, co chciałbyś zobaczyć w przypadku alternatywy e2e dla istniejących stosów JavaScript.P.S."
+    },
+    {
+      "title": "Chiński aktor głosowy zmuszony do udowodnienia, że ​​jest człowiekiem",
+      "url": "https://www.sixthtone.com/news/1018753",
+      "date": "2026-07-11T19:46:00Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.sixthtone.com/news/1018753 Adres URL komentarzy: https://news.ycombinator.com/item?id=48875153 Punkty: 55 # Komentarze: 7."
+    },
+    {
+      "title": "Jak ukryć się przed zabójczymi dronami",
+      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+      "date": "2026-07-11T18:22:02Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "https://archive.ph/xiCSq Adres URL komentarzy: https://news.ycombinator.com/item?id=48874357 Punkty: 91 # Komentarze: 120."
     },
     {
       "title": "Pozew Apple może odsunąć na dalszy plan aspiracje sprzętowe OpenAI na lata, a może na zawsze, gdy startup popadnie w kolejne kontrowersje i chaotyczny rozwód (M.G. Siegler/Spyglass)",
@@ -1232,14 +1296,6 @@
       "summary": "Meta zgłosiła patent na system sztucznej inteligencji, który miałby przez cały dzień rejestrować głos użytkownika i dźwięki z otoczenia, a następnie wyciągać z nich wnioski o nastroju. Jak opisuje 404 Media, rozwiązanie miałoby dobierać ćwiczenia na podstawie emocji, lokalizacji oraz innych sygnałów zbieranych przez urządzenie."
     },
     {
-      "title": "Najlepsze filmy i seriale science fiction. Subiektywna topka",
-      "url": "https://antyweb.pl/najlepsze-filmy-i-seriale-science-fiction-subiektywna-topka",
-      "date": "2026-07-11T09:00:59Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Są filmy i seriale, które oglądamy dla rozrywki, i są takie, które przeprogramowują nam umysł. Poniższa lista to mój absolutnie subiektywny hołd dla produkcji, które nie tylko zdefiniowały moje podejście do technologii, ale też wryły się w pamięć głębiej niż niejedno wspomnienie z realnego życia."
-    },
-    {
       "title": "Nowy DS N°7 przejedzie 734 km. Francuzi zbudowali elektryczny salon na kołach",
       "url": "https://www.instalki.pl/news/motoryzacja/ds-n7-e-tense-zasieg-cena/",
       "date": "2026-07-11T08:42:15Z",
@@ -1254,14 +1310,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Motorola odsłoniła karty i oficjalnie zapowiedziała premierę nowego modelu ze swojej flagowej linii. Motorola Edge 70 Max, bo o niej mowa, zapowiada się na bardzo interesujący projekt, łączący topową wydajność z rzadko spotykaną pojemnością akumulatora. Ale pytanie czy kupimy go na rodzimym rynku."
-    },
-    {
-      "title": "ChatGPT w tarapatach. Apple rzuca poważne oskarżenia i idzie do sądu",
-      "url": "https://antyweb.pl/chatgpt-w-tarapatach-apple-rzuca-powazne-oskarzenia-i-idzie-do-sadu",
-      "date": "2026-07-11T08:30:26Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Konflikt między Apple a OpenAI właśnie wszedł na znacznie poważniejszy poziom. Apple złożyło pozew przeciwko byłym pracownikom: Changowi Liu i Tangowi Tanowi, a także przeciwko OpenAI oraz io Products, zarzucając im przywłaszczenie tajemnic handlowych i naruszenie warunków umowy."
     },
     {
       "title": "Ludzie uciekają z Netflixa. Problemem nie są nowe seriale, ale ich kolejne sezony",
@@ -1312,52 +1360,12 @@
       "summary": "Zrezygnowałem z zakupów stacjonarnych. Nie mają sensu."
     },
     {
-      "title": "Słaby punkt robotów namierzony. Wszyscy patrzą na głowę, a chodzi o dłonie",
-      "url": "https://spidersweb.pl/2026/07/robotyczne-dlonie-chiny-ai.html",
-      "date": "2026-07-11T07:15:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Słaby punkt robotów namierzony. Wszyscy patrzą na głowę, a chodzi o dłonie."
-    },
-    {
-      "title": "Lidl obniża cenę swojego robota. 1/10 ceny Thermomixa",
-      "url": "https://www.benchmark.pl/lidl-obniza-cene-swojego-robota-1-10-ceny-thermomixa-7304573868558752a",
-      "date": "2026-07-11T07:12:00Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Gotowanie może być prostsze, szybsze i… znacznie tańsze niż w przypadku popularnych urządzeń premium. W najnowszej ofercie Lidla pojawił się sprzęt, który ma ambicję zastąpić kilka kuchennych urządzeń naraz – i kosztuje wyraźnie mniej niż konkurencja z wyższej półki."
-    },
-    {
       "title": "Profile Perfect – jaka szkoda, że nie po polsku (recenzja gry)",
       "url": "https://www.instalki.pl/news/software/profile-perfect-jaka-szkoda-ze-nie-po-polsku-recenzja-gry/",
       "date": "2026-07-11T07:00:00Z",
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Gry z łamigłówkami są często abstrakcyjne. Twórcy sięgają po zagadki związane z kształtami, kolorami itp. Wszystko po to, żeby dotrzeć do jak najszerszego grona odbiorców, niezależnie od wieku czy zdolności językowych."
-    },
-    {
-      "title": "Historyczne notowanie spółki SK Hynix na amerykańskiej giełdzie zakłada, że ​​boom na sztuczną inteligencję przełamie trwający od kilkudziesięciu lat cykl wzrostów i spadków w branży układów pamięci (Bloomberg)",
-      "url": "https://www.techmeme.com/260711/p4#a260711p4",
-      "date": "2026-07-11T06:30:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Bloomberg: Historyczne notowanie SK Hynix na amerykańskiej giełdzie zakłada, że ​​boom na sztuczną inteligencję przełamie trwający od kilkudziesięciu lat cykl wzrostów i spadków w branży układów pamięci &mdash; Południowokoreański producent chipów pamięci SK Hynix Inc. właśnie dokonał największego w historii rynku amerykańskiego notowania zagranicznego przedsiębiorstwa na giełdzie."
-    },
-    {
-      "title": "5 aplikacji na Androida, których nie możesz przegapić [Aplikacje tygodnia #483]",
-      "url": "https://www.instalki.pl/news/software/5-aplikacji-na-androida-ktorych-nie-mozesz-przegapic-aplikacje-tygodnia-483/",
-      "date": "2026-07-11T06:00:00Z",
-      "source": "Instalki.pl",
-      "confirmed_by": 1,
-      "summary": "W tym tygodniu prezentujemy 5 aplikacji na Androida. Proponujemy ważną aplikację wspierającą system ratownictwa, oryginalny tytuł ułatwiający planowanie zadań, a także narzędzie pełne informacji ze świata finansów. Mobilni gracze będą mogli zmierzyć się z tytułem symulacyjnym oraz kolorową grą logiczną."
-    },
-    {
-      "title": "Analiza ponad miliona postów w mediach społecznościowych od 24 kwietnia do 30 czerwca: ~25% długich postów zawierających ponad 250 słów zostało w całości wygenerowanych przez sztuczną inteligencję; na LinkedIn odsetek ten wyniósł 41% (Max Spero/Pangram Labs)",
-      "url": "https://www.techmeme.com/260711/p3#a260711p3",
-      "date": "2026-07-11T05:50:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Max Spero / Pangram Labs: Analiza ponad miliona postów w mediach społecznościowych od 24 kwietnia do 30 czerwca: ~25% długich postów zawierających ponad 250 słów zostało w całości wygenerowanych przez sztuczną inteligencję; na LinkedIn odsetek ten wyniósł 41% &mdash; Pierwsze spojrzenie na statystyki z naszego rozszerzenia Pangram do Chrome &mdash; Dwa miesiące temu uruchomiliśmy rozszerzenie do przeglądarki Chrome, które ma pomóc w walce z rosnącym problemem niechlujstwa w mediach społecznościowych."
     },
     {
       "title": "Kwantowa korekcja błędów może stale ponownie kalibrować procesor",
@@ -1398,14 +1406,6 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "Sześć lat więzienia dla mężczyzny, który „sprzedał te same ofiary, do reprezentowania których został zatrudniony”."
-    },
-    {
-      "title": "Badanie pokazuje, jak toksyczna jest zmiana szczepionki RFK Jr. na szczepionkę przeciw odrze dla małych dzieci w USA",
-      "url": "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
-      "date": "2026-07-10T19:25:04Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Dzieci, którym podano szczepionkę kombinowaną, są jednymi z najbardziej bezbronnych."
     }
   ],
   "cybersecurity": [
