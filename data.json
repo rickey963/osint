@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-12T13:26:34Z",
+  "last_updated": "2026-07-12T13:27:12Z",
   "poland": [
+    {
+      "title": "NATO może zostać z milionami bezużytecznych dronów. \"Ważna lekcja, której musimy nauczyć się od Ukrainy\"",
+      "url": "https://businessinsider.com.pl/technologie/nowe-technologie/ukraina-daje-lekcje-nato-dronow-nie-da-sie-magazynowac/614xnqp",
+      "date": "2026-07-12T13:25:19Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "— Nie żyjemy w pokoju, ale formalnie nie jesteśmy też w stanie wojny — mówi dowódca niemieckich sił zbrojnych. Dlatego NATO musi się zbroić. Zachód zaczyna przy tym zdawać sobie jednak sprawę, że zbyt duże poleganie na dronach może okazać się bolesną pułapką."
+    },
     {
       "title": "Ministerka i europoseł założyli nową partię. Powstała po rozłamie w Polsce 2050",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32908899,ministerka-i-europosel-zalozyli-nowa-partie-powstala-po-rozlamie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -144,14 +152,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Niemiecka firma Helsing SE, specjalizująca się w rozwoju technologii wojskowych z wykorzystaniem sztucznej inteligencji (AI), rozpoczęła seryjną produkcję dronów szturmowych. Ukraina wykorzystuje je już na froncie."
-    },
-    {
-      "title": "Nie uran, lecz Ormuz. Iran narzucił USA nowy temat rozmów",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art44810421-nie-uran-lecz-ormuz-iran-narzucil-usa-nowy-temat-rozmow",
-      "date": "2026-07-12T11:28:52Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Bombardowania nie przerwały rozmów Waszyngtonu z Teheranem. Choć USA i Iran nadal wymieniają ciosy, negocjacje trwają, a ich głównym przedmiotem przestał być program atomowy. Dziś o powodzeniu rozmów może zdecydować kontrola nad cieśniną Ormuz i bezpieczeństwo światowego transportu ropy."
     },
     {
       "title": "Norwegian Air zmienia logo na British Airways. Przyjacielski zakład podbija sieć",
@@ -2201,8 +2201,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Prezydent Ukrainy Wołodymyr Zełenski zapowiedział dymisję premier Julii Swyrydenko.",
-      "url": "https://businessinsider.com.pl/polityka/ukraina-zmienia-rzad-julia-swyrydenko-zegna-sie-ze-stanowiskiem-premiera/4n26xw0"
+      "description": "— Nie żyjemy w pokoju, ale formalnie nie jesteśmy też w stanie wojny — mówi dowódca niemieckich sił zbrojnych.",
+      "url": "https://businessinsider.com.pl/technologie/nowe-technologie/ukraina-daje-lekcje-nato-dronow-nie-da-sie-magazynowac/614xnqp"
     },
     {
       "lat": 31.5,
@@ -2217,8 +2217,8 @@
       "lng": 53.69,
       "type": "conflict",
       "region": "Iran",
-      "description": "Bombardowania nie przerwały rozmów Waszyngtonu z Teheranem.",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art44810421-nie-uran-lecz-ormuz-iran-narzucil-usa-nowy-temat-rozmow"
+      "description": "Konflikt między Stanami Zjednoczonymi a Iranem ponownie przyspiesza.",
+      "url": "https://businessinsider.com.pl/gospodarka/ataki-na-statki-i-bazy-wojskowe-rosna-napiecia-miedzy-usa-a-iranem/9jjwyg3"
     },
     {
       "lat": 6.42,
@@ -2420,8 +2420,29 @@
       ]
     },
     {
+      "name": "Ukraina",
+      "score": 35,
+      "reasons": [
+        {
+          "title": "NATO może zostać z milionami bezużytecznych dronów. \"Ważna lekcja, której musimy nauczyć się od Ukrainy\"",
+          "url": "https://businessinsider.com.pl/technologie/nowe-technologie/ukraina-daje-lekcje-nato-dronow-nie-da-sie-magazynowac/614xnqp",
+          "source": "Business Insider Polska"
+        },
+        {
+          "title": "Trump zabiegał o wyjście z wojny w Iranie. Putin napierał na Ukrainie. Teraz obaj utknęli.",
+          "url": "https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Morawiecki o pomocy Ukrainie za rządów PiS: bez przekazanego sprzętu armia Putina mogłaby się szykować do ataku na Warszawę - Polska Agencja Prasowa SA",
+          "url": "https://www.pap.pl/aktualnosci/morawiecki-o-pomocy-ukrainie-za-rzadow-pis-bez-przekazanego-sprzetu-armia-putina",
+          "source": "PAP"
+        }
+      ]
+    },
+    {
       "name": "Wenezuela",
-      "score": 32,
+      "score": 35,
       "reasons": [
         {
           "title": "Rewolucja w gruzach: wściekłość wśród gruzów osiedla mieszkaniowego w Wenezueli dotkniętej trzęsieniem ziemi",
@@ -2436,24 +2457,8 @@
       ]
     },
     {
-      "name": "Ukraina",
-      "score": 20,
-      "reasons": [
-        {
-          "title": "Trump zabiegał o wyjście z wojny w Iranie. Putin napierał na Ukrainie. Teraz obaj utknęli.",
-          "url": "https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Morawiecki o pomocy Ukrainie za rządów PiS: bez przekazanego sprzętu armia Putina mogłaby się szykować do ataku na Warszawę - Polska Agencja Prasowa SA",
-          "url": "https://www.pap.pl/aktualnosci/morawiecki-o-pomocy-ukrainie-za-rzadow-pis-bez-przekazanego-sprzetu-armia-putina",
-          "source": "PAP"
-        }
-      ]
-    },
-    {
       "name": "Tajwan",
-      "score": 16,
+      "score": 17,
       "reasons": [
         {
           "title": "Tajfun Bavi uderza w Chiny, powodując ewakuacje, powodzie i opóźnienia lotów",
@@ -2464,7 +2469,7 @@
     },
     {
       "name": "Afganistan",
-      "score": 8,
+      "score": 9,
       "reasons": [
         {
           "title": "Wewnątrz Heratu, gdzie kampania talibów atakuje kosmopolityczną placówkę",
