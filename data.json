@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T14:05:48Z",
+  "last_updated": "2026-07-12T14:06:25Z",
   "poland": [
     {
       "title": "Rzuty karne na mundialu odwracają role kata i ofiary. Bramkarze superbohaterami",
@@ -16,6 +16,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Niedawno minęło 1000 dni od ataku Hamasu na Izrael, a rządowi Izraela nadal nie udało się zakończyć szeregu wojen regionalnych. Choć gospodarka poniosła straty związane z wojnami, to jednak okazała się bardzo odporna na wstrząsy."
+    },
+    {
+      "title": "8 tys. złotych za informację o zarobkach lekarzy. \"Do tego koszty papieru, prądu\"",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-12/8-tys-zlotych-za-informacje-o-zarobkach-lekarzy-do-tego-koszty-papieru-pradu/",
+      "date": "2026-07-12T13:59:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Ponad 8 tysięcy złotych zażądał od dziennikarza TVN24 szpital w Chrzanowie. Według placówki to opłata za informację o zarobkach zatrudnionych w niej lekarzy. W tej kwocie - jak czytamy - znalazły się też koszty zużycia papieru, tonera i prądu."
     },
     {
       "title": "Zmarł były emir Kataru Hamad bin Chalifa Al Sani. Miał 74 lata",
@@ -290,14 +298,6 @@
       "summary": "Jest jeszcze za wcześnie, by stwierdzić, czy sztuczna inteligencja \"smaży\" nasze mózgi — ale dotychczasowe badania nie napawają optymizmem."
     },
     {
-      "title": "Mój partner jest ode mnie o 17 lat starszy. Przez to nieustannie prowadzę \"kalkulację żałoby\"",
-      "url": "https://businessinsider.com.pl/lifestyle/prowadze-kalkulacje-zaloby-to-przez-roznice-lat-w-zwiazku/yn86clp",
-      "date": "2026-07-12T07:01:00Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Mój partner jest ode mnie starszy o 17 lat. Coraz częściej łapię się na tym, że obliczam, ile czasu może nam jeszcze zostać. Odkąd moja mama zmarła w wieku 69 lat, nie potrafię przestać martwić się o to, jak może wyglądać nasza przyszłość."
-    },
-    {
       "title": "Zełenski zwrócił się do Polaków w rocznicę zbrodni wołyńskiej. \"Ukraina jest zdecydowana\"",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,32908609,zelenski-zwrocil-sie-do-polakow-w-rocznice-zbrodni-wolynskiej.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-07-12T06:14:00Z",
@@ -409,7 +409,7 @@
       "date": "2026-07-12T13:35:01Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Według lokalnych mediów anonimowa para została znaleziona półprzytomna z 40% poparzeniami po tym, jak została uwięziona w płomieniach szalejących w prowincji Almeria."
+      "summary": "Lokalne media podają, że anonimowa para została znaleziona półprzytomna z 40% oparzeniami po tym, jak została uwięziona w płomieniach szalejących w prowincji Almeria."
     },
     {
       "title": "Francja i Wielka Brytania zwiększą liczbę pracowników kontroli granicznych, aby zapobiec chaosowi w podróżowaniu",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Oto najnowsze.",
+      "url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/heres-the-latest",
+      "date": "2026-07-12T13:58:52Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": ""
+    },
+    {
       "title": "Przy cenach biletów na mistrzostwa świata nawet Messi nie jest w stanie zapełnić stadionu",
       "url": "https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html",
       "date": "2026-07-12T13:23:24Z",
@@ -924,14 +932,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": ""
-    },
-    {
-      "title": "USA uderzają w Iran po tym, jak Iran ostrzela statek w cieśninie Ormuz",
-      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
-      "date": "2026-07-12T01:08:40Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Atak Iranu na kontenerowiec nastąpił kilka godzin po spotkaniu ministrów spraw zagranicznych Iranu i Omanu w sprawie otwarcia cieśniny dla ruchu."
     },
     {
       "title": "Wojsko amerykańskie twierdzi, że uderza w Iran w odpowiedzi na atak na statek cywilny w Cieśninie Ormuz – AP News",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Fala reklam nielegalnych kasyn. Czy to oszustwa?",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/fala-reklam-nielegalnych-kasyn-czy-to-oszustwa",
+      "date": "2026-07-12T14:00:02Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Od kilku tygodni na Facebooku pojawia się wiele reklam promujących nielegalne kasyna online. Kuszą internautów bonusami na start i wielkimi wygranymi, jednak nawet te materiały są niezgodne z prawem. CERT Polska wskazuje wprost: podejrzaną aktywność w sieci najlepiej jest zgłosić odpowiednim podmiotom."
+    },
+    {
       "title": "Twórcy pamięci są niewolnikami kolejki górskiej, a boom na sztuczną inteligencję to najdziksza ze wszystkich przejażdżka",
       "url": "https://www.theregister.com/ai-and-ml/2026/07/12/memory-makers-are-slaves-to-the-boom-bust-rollercoaster-and-the-ai-boom-is-the-wildest-ride-of-all/5269549",
       "date": "2026-07-12T11:04:00Z",
@@ -1853,8 +1861,8 @@
     },
     {
       "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/turystyka;marketing,43?strona=30",
-      "date": "2026-07-12T11:39:33Z",
+      "url": "https://forsal.pl/tagi/trakcja-prkii;finanse,6?strona=10",
+      "date": "2026-07-12T11:44:00Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Gospodarka Forsal.pl."
@@ -2413,7 +2421,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 35,
+      "score": 38,
       "reasons": [
         {
           "title": "NATO może zostać z milionami bezużytecznych dronów. \"Ważna lekcja, której musimy nauczyć się od Ukrainy\"",
@@ -2434,7 +2442,7 @@
     },
     {
       "name": "Wenezuela",
-      "score": 35,
+      "score": 38,
       "reasons": [
         {
           "title": "Rewolucja w gruzach: wściekłość wśród gruzów osiedla mieszkaniowego w Wenezueli dotkniętej trzęsieniem ziemi",
@@ -2450,7 +2458,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 26,
+      "score": 29,
       "reasons": [
         {
           "title": "Bilans wojen Netanjahu. Gospodarka Izraela daje radę, ale premier traci grunt pod nogami",
@@ -2466,7 +2474,7 @@
     },
     {
       "name": "Tajwan",
-      "score": 17,
+      "score": 19,
       "reasons": [
         {
           "title": "Tajfun Bavi uderza w Chiny, powodując ewakuacje, powodzie i opóźnienia lotów",
@@ -2477,7 +2485,7 @@
     },
     {
       "name": "Afganistan",
-      "score": 9,
+      "score": 10,
       "reasons": [
         {
           "title": "Wewnątrz Heratu, gdzie kampania talibów atakuje kosmopolityczną placówkę",
