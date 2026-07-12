@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T10:02:42Z",
+  "last_updated": "2026-07-12T10:03:23Z",
   "poland": [
     {
       "title": "Nowa partia w Sejmie. Wiemy, jak będzie się nazywać",
@@ -1253,7 +1253,7 @@
       "date": "2026-07-11T22:45:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Benedict Evans: Obecna dynamika rynku sztucznej inteligencji wskazuje, że w miarę ustępowania kryzysu na tokenach modele pionierskie stają się infrastrukturą towarową, a wartość przesuwa się w stronę produktów zbudowanych na najlepszych podstawach &mdash; Są tylko dwie rzeczy, które możesz powiedzieć z pewnością na temat cen tokenów: mamy do czynienia z załamaniem podaży, a sytuacja jest niestabilna."
+      "summary": "Benedict Evans: Obecna dynamika rynku sztucznej inteligencji wskazuje, że modele pionierskie stają się infrastrukturą towarową w miarę ustępowania kryzysu związanego z tokenami, a wartość przesuwa się w stronę produktów zbudowanych na bazie topowych rozwiązań &mdash; Są tylko dwie rzeczy, które możesz powiedzieć z pewnością na temat cen tokenów: mamy do czynienia z załamaniem podaży, a sytuacja jest niestabilna."
     },
     {
       "title": "Psycholog Peter Gray twierdzi, że stres w szkole, a nie używanie smartfonów, jest główną przyczyną kryzysu psychicznego nastolatków, co podważa tezę Jonathana Haidta (Kaitlyn Tiffany / The Atlantic)",
@@ -1655,7 +1655,7 @@
       "date": "2026-07-10T11:39:40Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Większość przedsiębiorstw zakłada, że ​​ich inwentaryzacja aktywów jest wystarczająco dokładna. Dowody sugerują co innego. Według ankiety przeprowadzonej wśród ponad 600 liderów bezpieczeństwa, zawartej w raporcie Axonius Actionability Report 2026, tylko 45% organizacji konsoliduje dane dotyczące swoich zasobów i narażenia w jednym widoku, a każdy dalszy program bezpieczeństwa dziedziczy wszelkie błędy w zasobach."
+      "summary": "Większość przedsiębiorstw zakłada, że ​​ich inwentaryzacja aktywów jest wystarczająco dokładna. Dowody sugerują co innego. Według ankiety przeprowadzonej wśród ponad 600 liderów ds. bezpieczeństwa w raporcie Axonius Actionability Report 2026 tylko 45% organizacji konsoliduje dane dotyczące swoich zasobów i narażenia w jednym widoku, a każdy dalszy program bezpieczeństwa dziedziczy wszelkie błędy w zasobach."
     },
     {
       "title": "BMS Legion i Promień sprawdzone w boju. Ważna rola polskich żołnierzy w ćwiczeniach CWIX 2026",
@@ -1711,7 +1711,7 @@
       "date": "2026-07-10T09:17:54Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "NHS Forth Valley to najnowsza komisja ds. zdrowia, która łamie podstawowe zasady ochrony danych w wiadomościach e-mail."
+      "summary": "NHS Forth Valley to najnowsza rada ds. zdrowia, która łamie podstawowe zasady ochrony danych w wiadomościach e-mail."
     },
     {
       "title": "Atakujący wykorzystują lukę „Ill Bloom”, aby wyłudzić ponad 5 milionów dolarów z portfeli kryptowalut",
@@ -1719,7 +1719,7 @@
       "date": "2026-07-10T09:00:05Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Firma ochroniarska Coinspect ujawniła lukę w portfelu kryptograficznym, którą nazywa Ill Bloom, a napastnicy już z niej korzystają. Wadą jest sposób, w jaki oprogramowanie portfela generuje frazę odzyskiwania, czyli słowa kontrolujące pieniądze. Kiedy to zdanie jest ułożone ze słabą losowością, atakujący może to rozpracować i zabrać wszystko, co kontroluje."
+      "summary": "Firma ochroniarska Coinspect ujawniła lukę w portfelu kryptograficznym, którą nazywa Ill Bloom, a napastnicy już z niej korzystają. Wadą jest sposób, w jaki niektóre oprogramowanie portfela generuje frazę odzyskiwania, czyli słowa kontrolujące pieniądze. Kiedy to zdanie jest ułożone ze słabą losowością, atakujący może to rozpracować i zabrać wszystko, co kontroluje."
     },
     {
       "title": "Sfałszowane leki warte miliony. Akcja CBZC w siedmiu województwach",
@@ -1803,6 +1803,14 @@
     }
   ],
   "finance": [
+    {
+      "title": "Podwyżki są niższe, ale pracowników wciąż brakuje. Te stanowiska są najbardziej poszukiwane - Forsal.pl",
+      "url": "https://forsal.pl/praca/kariera/artykuly/11274602,raport-centra-dystrybucyjne-nadal-liderem-wzrostu-plac-ale-tempo-podwyzek-spadlo-o-polowe.html",
+      "date": "2026-07-12T10:00:00Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Podwyżki są niższe, ale pracowników wciąż brakuje. Te stanowiska są najbardziej poszukiwane Forsal.pl."
+    },
     {
       "title": "Podsumowanie tygodnia - dywergencja pomiędzy WIG20 i sWIG80 narasta",
       "url": "https://strefainwestorow.pl/blog/podsumowanie-sesji/podsumowanie-tygodnia-dywergencja-pomiedzy-wig20-i-swig80-narasta",
@@ -1938,14 +1946,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Porzuciła bank, by robić zdjęcia w nocnych klubach. \"Masz 15 minut\" Forbes."
-    },
-    {
-      "title": "Miliony pracowników ponownie trafią do PPK. Nie każdy o tym pamięta - Forsal.pl",
-      "url": "https://forsal.pl/finanse/twoje-pieniadze/artykuly/11274616,autozapis-do-ppk-w-2027-r-nawet-5-mln-pracownikow-moze-ponownie-trafic-do-programu-gov.html",
-      "date": "2026-07-12T04:00:00Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Miliony pracowników ponownie trafią do PPK. Nie każdy o tym pamięta Forsal.pl."
     },
     {
       "title": "80 podmiotów, tysiące osób. Trwa wielki test za pieniądze od państwa",
