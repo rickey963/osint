@@ -6,25 +6,25 @@
     "region": "Ukraina",
     "description": "Rosyjski dron typu Shahed (dron-kamikadze) wleciał w nocy z 12 na 13 lipca w przestrzeń powietrzną Mołdawii, a następnie spadł i eksplodował w okolicy wsi Copanca w rejonie administracyjnym Causeni ok.",
     "url": "https://www.rp.pl/konflikty-zbrojne/art44813791-rosyjski-dron-wlecial-w-glab-moldawii-i-eksplodowal-wszczeto-dochodzenie",
-    "last_seen": "2026-07-13T09:18:48Z"
+    "last_seen": "2026-07-13T09:19:34Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
     "lng": 34.47,
     "type": "conflict",
     "region": "Strefa Gazy / Izrael",
-    "description": "Królewska komisja ds.",
-    "url": "https://www.theguardian.com/australia-news/2026/jul/13/unsw-academic-subjected-to-nazi-salutes-in-class-antisemitism-commission-hears-ntwnfb",
-    "last_seen": "2026-07-13T09:18:48Z"
+    "description": "Republican senator, who died Saturday, had a global reach few could rival and was vital in shaping Trump’s worldviewIt was revealing that one of the first tributes to Lindsey Graham, a US senator who died on Saturday aged 71, came from Itamar Ben-Gvir, Israel’s national security minister, a far-right provocateur who recently caused widespread anger by sharing footage of himself taunting bound activists who had been trying to sail to Gaza with aid.Benjamin Netanyahu, the Israeli prime minister, was not far behind, calling Graham a “great friend of Israel and a cherished friend of mine”, and he was quickly followed by Ukraine’s president, Volodymyr Zelenskyy, who described him as “a true defender of freedom and the values that make our world safer”.",
+    "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-israel-ukraine-foreign-policy-legacy",
+    "last_seen": "2026-07-13T09:19:34Z"
   },
   "conflict|Iran": {
     "lat": 32.43,
     "lng": 53.69,
     "type": "conflict",
     "region": "Iran",
-    "description": "Wojsko amerykańskie twierdzi, że podczas poniedziałkowych strajków uderzyło w dziesiątki irańskich miejsc, podczas gdy szef ONZ ostrzega, że powrót do walk na pełną skalę byłby „katastrofalny”.",
+    "description": "US military says it hit dozens of Iranian sites in strikes on Monday while UN chief warns that a return to full-scale fighting would be ‘catastrophic’US launches new attack wave on Iran as Tehran says diplomacy has proven ‘futile’Iran’s foreign ministry spokesperson, Esmail Baghaei, has been speaking at a press conference in Tehran, the Iranian capital.He suggested that Iran would not abide by the memorandum of understanding signed with the US last month if Washington failed to uphold its commitments to end the war.For now, we remain hopeful that both parties would return to the negotiating table and traffic would start to flow through the strait.",
     "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
-    "last_seen": "2026-07-13T09:18:48Z"
+    "last_seen": "2026-07-13T09:19:34Z"
   },
   "conflict|Wenezuela": {
     "lat": 6.42,
@@ -51,7 +51,7 @@
     "region": "Polska",
     "description": "Zakończyła się tegoroczna edycja CWIX 2026.",
     "url": "https://cyberdefence24.pl/armia-i-sluzby/wojsko-polskie/bms-legion-i-promien-sprawdzone-w-boju-wazna-rola-polskich-zolnierzy-w-cwiczeniach-cwix-2026",
-    "last_seen": "2026-07-13T09:18:48Z"
+    "last_seen": "2026-07-13T09:19:34Z"
   },
   "disaster|Wenezuela": {
     "lat": 5.92,
@@ -69,7 +69,7 @@
     "region": "Wielka Brytania",
     "description": "Brytyjscy parlamentarzyści wzywają rząd Partii Pracy do natychmiastowego zerwania umowy NHS z Palantirem.",
     "url": "https://cyberdefence24.pl/polityka-i-prawo/brytyjska-sluzba-zdrowia-przed-trudna-decyzja-poslowie-zadaja-zerwania-kontraktu-za-330-mln-funtow",
-    "last_seen": "2026-07-13T09:18:48Z"
+    "last_seen": "2026-07-13T09:19:34Z"
   },
   "disaster|Chiny": {
     "lat": 34.5,
@@ -121,9 +121,9 @@
     "lng": 104.3,
     "type": "cyber",
     "region": "Chiny",
-    "description": "Powiązaną z Chinami grupę cyberprzestępczą znaną jako Silver Fox powiązano z nowym trojanem zdalnego dostępu (RAR) opartym na języku Rust o nazwie MODBEACON.",
+    "description": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.",
     "url": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-    "last_seen": "2026-07-13T09:18:48Z"
+    "last_seen": "2026-07-13T09:19:34Z"
   },
   "cyber|Irlandia": {
     "lat": 53.9,
@@ -232,5 +232,14 @@
     "description": "Osoba atakująca przeprowadzająca na żywo operację phishingu na platformie Microsoft 365 pozostawiła serwer sieci Web Python nasłuchujący na porcie publicznym z włączoną listą katalogów.",
     "url": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
     "last_seen": "2026-07-13T09:18:48Z"
+  },
+  "conflict|Liban": {
+    "lat": 33.89,
+    "lng": 35.5,
+    "type": "conflict",
+    "region": "Liban",
+    "description": "Entire towns in southern Lebanon have been hollowed out by the war between Israel and Hezbollah.",
+    "url": "https://www.nytimes.com/2026/07/13/world/middleeast/lebanon-south-israel.html",
+    "last_seen": "2026-07-13T09:19:34Z"
   }
 }
