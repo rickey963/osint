@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T08:32:15Z",
+  "last_updated": "2026-07-13T08:32:45Z",
   "poland": [
     {
       "title": "Raport: Polacy wydadzą średnio ponad tysiąc złotych na wakacyjne zakupy",
@@ -1973,8 +1973,8 @@
     },
     {
       "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/rynki;ceny,64?strona=7",
-      "date": "2026-07-13T05:55:43Z",
+      "url": "https://forsal.pl/tagi/moja-firma;financial-times,74?strona=12",
+      "date": "2026-07-13T06:06:01Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Gospodarka Forsal.pl."
@@ -2148,14 +2148,6 @@
       "summary": "Notowania DNP (DINOPL) BiznesRadar."
     },
     {
-      "title": "Wycena PKO POWSZECHNA KASA OSZCZĘDNOŚCI BANK POLSKI SA - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wycena/PKO",
-      "date": "2026-07-10T15:04:36Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wycena PKO POWSZECHNA KASA OSZCZĘDNOŚCI BANK POLSKI SA BiznesRadar."
-    },
-    {
       "title": "Notowania 11B (11BIT) - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/11-BIT-STUDIOS",
       "date": "2026-07-10T15:04:25Z",
@@ -2186,6 +2178,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania GPW GIEŁDA PAPIERÓW WARTOŚCIOWYCH W WARSZAWIE SA BiznesRadar."
+    },
+    {
+      "title": "Wiadomości PEO (PEKAO) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wiadomosci/PEKAO",
+      "date": "2026-07-10T15:02:12Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości PEO (PEKAO) BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2642,7 +2642,7 @@
       "2026-07-10"
     ],
     "prices": [
-      26424.67,
+      26420.48,
       25126.5,
       25055.31,
       25103.57,
@@ -2703,51 +2703,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25817.27,
+      25813.18,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26988.17,
+      26983.89,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27135.95,
+      27131.65,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27382.27,
+      27377.93,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28021.6,
+      28017.16,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28057.84,
+      28053.4,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28303.9,
+      28299.42,
       27354.94,
       27400.36,
       27412.11,
-      28707.58,
+      28703.03,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27964.07,
+      27959.64,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28144.8,
+      28140.34,
       27686.17,
       27404.78,
       27351.97,
@@ -2756,7 +2756,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27851.51,
+      27847.1,
       27930.04,
       28234.04,
       28218.36,
@@ -2765,7 +2765,7 @@
       28294.39,
       28203.83,
       28555.17,
-      28689.9
+      28685.35
     ],
     "currency": "PLN"
   }
