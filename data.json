@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-13T06:47:33Z",
+  "last_updated": "2026-07-13T06:48:15Z",
   "poland": [
+    {
+      "title": "Meble były w sklepach od 25 lat. Ikea postanowiła zakończyć ich sprzedaż",
+      "url": "https://businessinsider.com.pl/gospodarka/ikea-konczy-sprzedaz-znanych-mebli-byly-w-sklepach-od-25-lat/cl96dfb",
+      "date": "2026-07-13T06:46:30Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Ikea poinformowała, że rozpoczyna globalne wycofywanie jednej ze swoich najbardziej rozpoznawalnych serii mebli Malm, obecnej na rynku od blisko 25 lat."
+    },
     {
       "title": "Burza po słowach Czarnka. Bocheński: To nie jest propaganda Kremla",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-07-13/burza-po-slowach-czarnka-bochenski-to-nie-propaganda-kremla/",
@@ -144,14 +152,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "– Poczułem się tak, jakby ktoś napluł mi w twarz – mówi gen. Leon Komornicki, oceniając decyzję Kijowa o nadaniu jednostce wojskowej imienia „Bohaterów UPA”. Były zastępca szefa Sztabu Generalnego WP mówi o „pełzającej zdradzie” ze strony Ukrainy i zarzuca polskim władzom brak strategii."
-    },
-    {
-      "title": "Prezydent Tarnowa: Najważniejsze, żeby obsługa zadłużenia nie była zbyt droga",
-      "url": "https://regiony.rp.pl/okiem-samorzadowca/art44804071-prezydent-tarnowa-najwazniejsze-zeby-obsluga-zadluzenia-nie-byla-zbyt-droga",
-      "date": "2026-07-13T05:20:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Kiedy obejmowałem funkcję, poziom zadłużenia w stosunku do dochodów wynosił 53 proc., teraz jest to około 41 proc. Można więc powiedzieć, że jest to poziom bezpieczny – mówi Jakub Kwaśny, prezydent Tarnowa."
     },
     {
       "title": "Tobiasz Bocheński w programie \"Graffiti\"",
@@ -436,6 +436,14 @@
       "summary": "Przychody TSMC za drugi kwartał wzrosły o 36% w porównaniu z rokiem poprzednim, przekraczając oczekiwania rynkowe Reuters."
     },
     {
+      "title": "Gwałtowne powodzie zalewają drogi i pojazdy w północnych Chinach – Reuters",
+      "url": "https://www.reuters.com/business/environment/heavy-floods-submerge-roads-vehicles-northern-china-2026-07-13/",
+      "date": "2026-07-13T05:29:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Gwałtowne powodzie zalewają drogi i pojazdy w północnych Chinach Reuters."
+    },
+    {
       "title": "Zapasy na mniej niż miesiąc: zapasy paliwa do silników odrzutowych w Europie kurczą się w obliczu nasilających się napięć w Iranie – Reuters",
       "url": "https://www.reuters.com/business/energy/less-than-months-supply-europes-jet-fuel-stocks-are-wafer-thin-iran-tensions-2026-07-13/",
       "date": "2026-07-13T05:03:00Z",
@@ -668,14 +676,6 @@
       "summary": "W wypadku drogowym w Meksyku zginęło 9 osób, a 10 zostało rannych, w tym czterech Amerykanów Reuters."
     },
     {
-      "title": "Dane pokazują, że w Europie podczas fali upałów pod koniec czerwca zginęło o 10 000 osób więcej – wynika z danych – Reuters",
-      "url": "https://www.reuters.com/business/environment/europe-recorded-10000-excess-deaths-during-late-june-heatwave-data-show-2026-07-12/",
-      "date": "2026-07-12T23:10:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Dane Reuters pokazują, że w Europie podczas fali upałów pod koniec czerwca zginęło o 10 000 osób więcej."
-    },
-    {
       "title": "Lindsey Graham w hołdzie z Izraela i Ukrainy wskazuje na skomplikowane, często krwawe dziedzictwo",
       "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-israel-ukraine-foreign-policy-legacy",
       "date": "2026-07-12T22:36:33Z",
@@ -768,7 +768,7 @@
     {
       "title": "Aktualności na żywo: Rozwikłanie zawieszenia broni po ponownym uderzeniu handlowym USA i Iranu",
       "url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
-      "date": "2026-07-13T06:25:05Z",
+      "date": "2026-07-13T06:46:55Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Wojsko amerykańskie oświadczyło, że ostatnią salwą trafiło w dziesiątki irańskich celów. Armia irańska oświadczyła, że ​​wystrzeliła więcej dronów w kierunku amerykańskich obiektów wojskowych w regionie, gdy obie strony walczą o Cieśninę Ormuz."
@@ -2593,7 +2593,7 @@
       "2026-07-10"
     ],
     "prices": [
-      26510.83,
+      26513.63,
       25126.5,
       25055.31,
       25103.57,
@@ -2654,51 +2654,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25901.45,
+      25904.18,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27076.18,
+      27079.03,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27224.44,
+      27227.3,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27471.56,
+      27474.46,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28112.97,
+      28115.93,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28149.34,
+      28152.3,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28396.2,
+      28399.19,
       27354.94,
       27400.36,
       27412.11,
-      28801.2,
+      28804.23,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28055.26,
+      28058.21,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28236.57,
+      28239.55,
       27686.17,
       27404.78,
       27351.97,
@@ -2707,7 +2707,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27942.33,
+      27945.28,
       27930.04,
       28234.04,
       28218.36,
@@ -2716,7 +2716,7 @@
       28294.39,
       28203.83,
       28555.17,
-      28783.45
+      28786.48
     ],
     "currency": "PLN"
   }
