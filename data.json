@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T20:53:20Z",
+  "last_updated": "2026-07-13T20:53:53Z",
   "poland": [
     {
       "title": "Samotny pies przemierzył Tatry. Pokonał dziesiątki kilometrów górskich szlaków",
@@ -766,6 +766,22 @@
   ],
   "world_politics": [
     {
+      "title": "Węgierski parlament usuwa lojalistę Orbana ze stanowiska prezydenta",
+      "url": "https://www.nytimes.com/2026/07/13/world/europe/hungary-president-removed-parliament-magyar-orban.html",
+      "date": "2026-07-13T20:52:00Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Premier Węgier Peter Magyar bronił tego niezwykłego posunięcia, które zostało skrytykowane przez organizacje praw człowieka i sojuszników byłego przywódcy prawicy Viktora Orbana."
+    },
+    {
+      "title": "ICE zastrzelił kierowcę w Maine. Adwokaci twierdzą, że to 26-letni mężczyzna z Kolumbii – AP News",
+      "url": "https://apnews.com/article/ice-shooting-maine-immigration-dhs-f26f8c2256aa6f0748582ea4adbb515c",
+      "date": "2026-07-13T20:49:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "ICE zastrzelił kierowcę w Maine. Zwolennicy twierdzą, że to 26-letni mężczyzna z Kolumbii AP News."
+    },
+    {
       "title": "Aktualne aktualizacje: Stany Zjednoczone wznawiają blokadę żeglugi w Iranie",
       "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
       "date": "2026-07-13T20:45:02Z",
@@ -804,22 +820,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Ceny ropy rosną po ostatnich walkach na Bliskim Wschodzie, podczas gdy akcje AI pogrążają AP News."
-    },
-    {
-      "title": "ICE zastrzelił kierowcę w Maine. Adwokaci twierdzą, że to 26-letni mężczyzna z Kolumbii – AP News",
-      "url": "https://apnews.com/article/ice-shooting-maine-immigration-dhs-f26f8c2256aa6f0748582ea4adbb515c",
-      "date": "2026-07-13T20:18:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "ICE zastrzelił kierowcę w Maine. Zwolennicy twierdzą, że to 26-letni mężczyzna z Kolumbii AP News."
-    },
-    {
-      "title": "Węgierski parlament usuwa lojalistę Orbana ze stanowiska prezydenta",
-      "url": "https://www.nytimes.com/2026/07/13/world/europe/hungary-president-removed-parliament-magyar-orban.html",
-      "date": "2026-07-13T20:14:53Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Premier Węgier Peter Magyar bronił tego niezwykłego posunięcia, które zostało skrytykowane przez organizacje praw człowieka i sojuszników Viktora Orbana, byłego przywódcy skrajnej prawicy."
     },
     {
       "title": "Oto najnowsze.",
@@ -1812,14 +1812,6 @@
       "summary": "USA blokują Iran. Trump podjął decyzję, amerykańska marynarka rusza do akcji Forsal.pl."
     },
     {
-      "title": "Praca w upale będzie zakazana po przekroczeniu 35°C. Nowe limity dla firm od 2027 r. - Forsal.pl",
-      "url": "https://forsal.pl/praca/aktualnosci/artykuly/11275731,praca-w-upale-bedzie-zakazana-po-przekroczeniu-35c-nowe-limity-dla-firm-od-2027-r.html",
-      "date": "2026-07-13T18:50:05Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Praca w upale będzie zakazana po przekroczeniu 35°C. Nowe limity dla firm od 2027 r. Forsal.pl."
-    },
-    {
       "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 13.07.2026",
       "url": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-13-07-2026-7307132947245056a.html",
       "date": "2026-07-13T18:48:19Z",
@@ -1866,6 +1858,14 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Ponad 21 tys. osób, czyli ok. 97 proc."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/ataki-terrorystyczne;uchodzcy,5?strona=34",
+      "date": "2026-07-13T18:25:22Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Komunikat EBI Varsav Game Studios SA (varsav): Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach) - stockwatch.pl",
@@ -1972,14 +1972,6 @@
       "summary": "Komunikat EBI Ludus SA (ludus): Zawarcie umowy z podmiotem wpisanym na listę Autoryzowanych Doradców, w wykonaniu obowiązku nałożonego na emitenta - § 15b stockwatch.pl."
     },
     {
-      "title": "Formacje analizy technicznej OW20I264150 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/OW20I264150",
-      "date": "2026-07-13T15:46:18Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Formacje analizy technicznej OW20I264150 BiznesRadar."
-    },
-    {
       "title": "Notowania RES0529 RESI CAPITAL - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/RES0529",
       "date": "2026-07-13T14:41:11Z",
@@ -2026,14 +2018,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Przy stole ma się dziać! Koncept dinner show kwitnie Forbes."
-    },
-    {
-      "title": "Warszawski sąd zdecydował ws. ENA dla Ziobry. Orzeczenie jest prawomocne - Forsal.pl",
-      "url": "https://forsal.pl/kraj/polityka/artykuly/11275363,warszawski-sad-zdecydowal-ws-ena-dla-ziobry-orzeczenie-jest-prawomocne.html",
-      "date": "2026-07-13T13:22:43Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Warszawski sąd zdecydował ws. ENA dla Ziobry. Orzeczenie jest prawomocne Forsal.pl."
     },
     {
       "title": "Stalexport Autostrady poprawia wyniki mimo mniejszego natężenia ruchu - BiznesRadar",
@@ -2084,12 +2068,20 @@
       "summary": "Czy to już czas na zmianę pracy? Ekspertka wskazuje na pięć powodów Forbes."
     },
     {
-      "title": "forsal - Forsal.pl",
-      "url": "https://forsal.pl/tagi/praca-za-granica;forsal,29?strona=6",
-      "date": "2026-07-13T12:26:29Z",
+      "title": "Ministerstwo Energii i TAURON podpisały list intencyjny w sprawie wsparcia budowy elektrowni szczytowo-pompowe - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149307,ministerstwo-energii-i-tauron-podpisaly-list-intencyjny-w-sprawie-wsparcia-budowy-elektrowni-szczytowo-pompowe",
+      "date": "2026-07-13T12:42:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Ministerstwo Energii i TAURON podpisały list intencyjny w sprawie wsparcia budowy elektrowni szczytowo-pompowe BiznesRadar."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/archiwum/2023-02-17,2",
+      "date": "2026-07-13T12:19:22Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "forsal Forsal.pl."
+      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Nowa wizja wojny na morzu. Przerobią frachtowce na dronowe lotniskowce - Forsal.pl",
@@ -2114,6 +2106,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Czarny scenariusz dla biur podróży. Demografia uderzy w nie najmocniej Forbes."
+    },
+    {
+      "title": "NATO przygotuje Polskę na najgorszy scenariusz. Czekaliśmy na to od lat - Forsal.pl",
+      "url": "https://forsal.pl/kraj/bezpieczenstwo/artykuly/11275265,nato-przygotuje-polske-na-najgorszy-scenariusz-czekalismy-na-to-od-lat.html",
+      "date": "2026-07-13T11:24:11Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "NATO przygotuje Polskę na najgorszy scenariusz. Czekaliśmy na to od lat Forsal.pl."
     },
     {
       "title": "Cavatina Holding ruszyła z emisją euroobligacji",
@@ -2740,51 +2740,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25945.76,
+      25946.24,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27122.5,
+      27123.0,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27271.01,
+      27271.51,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27518.56,
+      27519.07,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28161.07,
+      28161.59,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28197.49,
+      28198.01,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28444.77,
+      28445.3,
       27354.94,
       27400.36,
       27412.11,
-      28850.47,
+      28851.0,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28103.25,
+      28103.77,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28284.88,
+      28285.4,
       27686.17,
       27404.78,
       27351.97,
@@ -2793,7 +2793,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27990.13,
+      27990.65,
       27930.04,
       28234.04,
       28218.36,
@@ -2802,8 +2802,8 @@
       28294.39,
       28203.83,
       28555.17,
-      28832.69,
-      28604.13
+      28833.22,
+      28604.66
     ],
     "currency": "PLN"
   }
