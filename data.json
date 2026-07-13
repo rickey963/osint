@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T21:36:05Z",
+  "last_updated": "2026-07-13T21:36:47Z",
   "poland": [
     {
       "title": "Strzelanina z udziałem agentów ICE. Nieoficjalnie: Nie żyje 26-letni Kolumbijczyk",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualizacje na żywo: Siły amerykańskie rozpoczynają nową rundę ataków na Iran",
+      "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
+      "date": "2026-07-13T21:31:04Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Prezydent Trump kilka godzin wcześniej zagroził „bardzo mocnymi” uderzeniami i nakazał wznowienie blokady irańskich portów od wtorku."
+    },
+    {
       "title": "Węgierski parlament głosuje za usunięciem lojalisty Orbana ze stanowiska prezydenckiego",
       "url": "https://www.nytimes.com/2026/07/13/world/europe/hungary-president-removed-parliament-magyar-orban.html",
       "date": "2026-07-13T21:27:44Z",
@@ -774,28 +782,12 @@
       "summary": "Premier Węgier Peter Magyar bronił tego niezwykłego posunięcia, które zostało skrytykowane przez organizacje praw człowieka i sojuszników byłego przywódcy prawicy Viktora Orbana."
     },
     {
-      "title": "Senator Angus King twierdzi, że mężczyzna postrzelony i zabity przez ICE w Maine nie był objęty nakazem – AP News",
-      "url": "https://apnews.com/article/ice-shooting-maine-immigration-dhs-f26f8c2256aa6f0748582ea4adbb515c",
-      "date": "2026-07-13T21:27:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Senator Angus King twierdzi, że mężczyzna zastrzelony przez ICE w Maine nie był objęty nakazem aresztowania."
-    },
-    {
       "title": "Trump ponownie nakłada blokadę morską w związku z eskalacją ataków USA i Iranu",
       "url": "https://www.nytimes.com/2026/07/13/world/middleeast/trump-iran-naval-blockade-strikes.html",
       "date": "2026-07-13T21:25:45Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Po kilkudniowych atakach Teheran i Waszyngton faktycznie powróciły do ​​stanu otwartego konfliktu, który istniał, zanim Stany Zjednoczone i Iran zgodziły się na zawieszenie broni w czerwcu."
-    },
-    {
-      "title": "Aktualności na żywo: Stany Zjednoczone wznawiają blokadę żeglugi w Iranie po tym, jak Trump grozi „bardzo mocnymi” uderzeniami",
-      "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
-      "date": "2026-07-13T21:23:35Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Prezydent Trump powiedział, że Stany Zjednoczone będą pobierać 20-procentową opłatę od towarów przechodzących przez Cieśninę Ormuz."
     },
     {
       "title": "Wielka Brytania łączy Iran z atakami antysemickimi i nazywa grupę terrorystyczną IRGC",
@@ -1004,6 +996,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "McConnell twierdzi, że upadek doprowadził do jego hospitalizacji, przerywając tygodnie milczenia na temat stanu zdrowia AP News."
+    },
+    {
+      "title": "Jannik Sinner wraca z kolejnym tytułem na Wimbledonie po krachu w French Open – AP News",
+      "url": "https://apnews.com/article/sinner-zverev-wimbledon-final-e3e69ad0a4900b484b0eccd2751923e0",
+      "date": "2026-07-12T22:04:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Jannik Sinner wraca z kolejnym tytułem na Wimbledonie po krachu w French Open AP News."
     }
   ],
   "technology": [
@@ -1032,12 +1032,20 @@
       "summary": "Stworzyłem prosty interfejs CLI, który zamienia film z lekcją gry na gitarze w YouTube na plik PDF z zakładką gitara. Istnieją usługi, które transkrybują muzykę z filmów z YouTube'a na zakładki, ale nigdy nie działają dla mnie wystarczająco dobrze. Zamiast tego stosuję prostsze podejście. Pobiera wideo, pobiera próbki klatek, wykorzystuje wizję Claude'a do zlokalizowania obszaru tabulatora, przycina każdą klatkę do tego obszaru, usuwa duplikaty przycięcia według numeru taktu wydrukowanego w każdej linii partytury i łączy w pionie różne linie tabulatorów w plik PDF. Nie testowałem tego jeszcze na wielu różnych filmach na Youtube, więc problem na pewno się pojawi."
     },
     {
+      "title": "Linux 0.11 przepisany w idiomatycznym języku Rust, uruchamiany w QEMU",
+      "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
+      "date": "2026-07-13T20:11:29Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://github.com/Poseidon-fan/linux-0.11-rs Adres URL komentarzy: https://news.ycombinator.com/item?id=48898134 Punkty: 4 # Komentarze: 0."
+    },
+    {
       "title": "Pokaż HN: Sigwire – centralę TUI na żywo dla każdego sygnału w twoim Linux-ie",
       "url": "https://github.com/yeet-src/sigwire",
       "date": "2026-07-13T20:07:45Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Hej wszystkim, napisałem to narzędzie do sprawdzania sygnałów Linuksa w procesach Adres URL komentarzy: https://news.ycombinator.com/item?id=48898071 Punkty: 5 # Komentarze: 0."
+      "summary": "Hej wszystkim, napisałem to narzędzie do sprawdzania sygnałów Linuksa w procesach Adres URL komentarzy: https://news.ycombinator.com/item?id=48898071 Punkty: 7 # Komentarze: 1."
     },
     {
       "title": "Kontrole bezpieczeństwa w każdym Lionshead PR",
@@ -1053,7 +1061,7 @@
       "date": "2026-07-13T20:01:43Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://neow.in/cWsyMTV3 Adres URL komentarzy: https://news.ycombinator.com/item?id=48897991 Punkty: 22 # Komentarze: 2."
+      "summary": "Adres URL artykułu: https://neow.in/cWsyMTV3 Adres URL komentarzy: https://news.ycombinator.com/item?id=48897991 Punkty: 79 # Komentarze: 23."
     },
     {
       "title": "Pokaż HN: Zaimplementowałem sieć neuronową w SQL",
@@ -1070,14 +1078,6 @@
       "source": "Hacker News",
       "confirmed_by": 1,
       "summary": "Płaszczyzna sterowania sterowana MCP dla inżynierii agentowej. Planuj z Claude Desktop, wdrażaj w Codexie, przeglądaj w niestandardowym agencie selekcji. Wszystko za pośrednictwem MCP, wszystko rejestrowane i śledzone z pełną dokumentacją wszystkich decyzji podejmowanych przez każdego agenta."
-    },
-    {
-      "title": "Climate.gov został zniszczony. Otwarte dane to uratowały",
-      "url": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
-      "date": "2026-07-13T19:57:55Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://werd.io/climate-gov-was-destroyed-open-data-saved-it/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48897945 Punkty: 204 # Komentarze: 87."
     },
     {
       "title": "Kalifornia tworzy rabat w wysokości 3500 dolarów dla nabywców nowych pojazdów elektrycznych",
@@ -1820,14 +1820,6 @@
       "summary": "USA blokują Iran. Trump podjął decyzję, amerykańska marynarka rusza do akcji Forsal.pl."
     },
     {
-      "title": "Praca w upale będzie zakazana po przekroczeniu 35°C. Nowe limity dla firm od 2027 r. - Forsal.pl",
-      "url": "https://forsal.pl/praca/aktualnosci/artykuly/11275731,praca-w-upale-bedzie-zakazana-po-przekroczeniu-35c-nowe-limity-dla-firm-od-2027-r.html",
-      "date": "2026-07-13T18:50:05Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Praca w upale będzie zakazana po przekroczeniu 35°C. Nowe limity dla firm od 2027 r. Forsal.pl."
-    },
-    {
       "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 13.07.2026",
       "url": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-13-07-2026-7307132947245056a.html",
       "date": "2026-07-13T18:48:19Z",
@@ -1877,8 +1869,8 @@
     },
     {
       "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/abc-data;akcje,32?strona=17",
-      "date": "2026-07-13T18:30:50Z",
+      "url": "https://forsal.pl/tagi/ataki-terrorystyczne;uchodzcy,5?strona=34",
+      "date": "2026-07-13T18:25:22Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Gospodarka Forsal.pl."
@@ -2028,14 +2020,6 @@
       "summary": "Sauny, modelki i biznesowy spryt. Dorobił się miliardów na przyjaźni z Rosjanami Forbes."
     },
     {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/bron;policja,39?strona=40",
-      "date": "2026-07-13T13:34:06Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
-    },
-    {
       "title": "Przy stole ma się dziać! Koncept dinner show kwitnie - Forbes",
       "url": "https://www.forbes.pl/life/przy-stole-ma-sie-dziac-koncept-dinner-show-kwitnie/f51hddx",
       "date": "2026-07-13T13:30:00Z",
@@ -2100,12 +2084,20 @@
       "summary": "Czy to już czas na zmianę pracy? Ekspertka wskazuje na pięć powodów Forbes."
     },
     {
-      "title": "Ministerstwo Energii i TAURON podpisały list intencyjny w sprawie wsparcia budowy elektrowni szczytowo-pompowe - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149307,ministerstwo-energii-i-tauron-podpisaly-list-intencyjny-w-sprawie-wsparcia-budowy-elektrowni-szczytowo-pompowe",
-      "date": "2026-07-13T12:42:00Z",
-      "source": "Biznesradar",
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/archiwum/2023-02-17,2",
+      "date": "2026-07-13T12:19:22Z",
+      "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Ministerstwo Energii i TAURON podpisały list intencyjny w sprawie wsparcia budowy elektrowni szczytowo-pompowe BiznesRadar."
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
+      "title": "Nowa wizja wojny na morzu. Przerobią frachtowce na dronowe lotniskowce - Forsal.pl",
+      "url": "https://forsal.pl/swiat/bezpieczenstwo/artykuly/11275287,nowa-wizja-wojny-na-morzu-przerobia-frachtowce-na-dronowe-lotniskowce.html",
+      "date": "2026-07-13T12:04:58Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Nowa wizja wojny na morzu. Przerobią frachtowce na dronowe lotniskowce Forsal.pl."
     },
     {
       "title": "Włoska „Piazza Grande” w Warszawie. Stefano Terrazzino prężnie promuje formułę PRO-AM - Forbes",
@@ -2146,6 +2138,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Digital Network będzie systematycznie pokazywać nowe projekty i wydarzenia, które będą wspierać dalszy rozwój, zapowiada prezes Agnieszka Godlewska Seb Seb pon., 13.07.2026 Kanał Strefa Inwestorów Digital Network Warsaw STAGE ekran cyfrowy DOOH giełda GPW Screen Network Treść Digital Network podsyca wielką hossę na swoich akcjach uruchomieniem największego ekranu cyfrowego w Europie. Nie spoczywa jednak na laurach i przygotował plan działań na kolejne miesiące. Chce systematycznie pokazywać nowe projekty i kolejne wydarzenia, które będą wspierały dalszy rozwój spółki, mówi w rozmowie ze Strefą Inwestorów prezes Agnieszka Godlewska."
+    },
+    {
+      "title": "Czy dzielenie majątku na wiele portfeli ma sens? Jeden portfel kontra kilka portfeli",
+      "url": "https://inwestomat.eu/czy-dzielenie-majatku-na-wiele-portfeli-ma-sens/",
+      "date": "2026-07-13T05:00:00Z",
+      "source": "Inwestomat (Albert Rokicki)",
+      "confirmed_by": 1,
+      "summary": "Mentalne księgowanie swojego majątku. Wydany przeze mnie już ponad 3 lata temu wpis &#8222;Cała prawda o poduszce finansowej, czyli jak ułatwić sobie inwestowanie&#8221; dotyczył sugestii wcielenia tzw. finansowej poduszki bezpieczeństwa do portfela inwestycyjnego."
     },
     {
       "title": "KGHM chce płacić dywidendy. Nowa \"Strategia 2055+\" – Piotr Krzyżewski | Procent Składany",
@@ -2480,7 +2480,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 26,
+      "score": 24,
       "reasons": [
         {
           "title": "Izrael wyznacza październikową datę pierwszych wyborów od ataków Hamasu w 2023 r",
@@ -2501,7 +2501,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 17,
+      "score": 16,
       "reasons": [
         {
           "title": "Ukraińskie MSZ reaguje po ataku na 11-latki w Bielsku-Białej. Jest odpowiedź człowieka Nawrockiego",
@@ -2517,7 +2517,7 @@
     },
     {
       "name": "Jemen",
-      "score": 13,
+      "score": 12,
       "reasons": [
         {
           "title": "Wątły pokój w Jemenie jest zagrożony, gdy Houthi oskarżają Arabię ​​Saudyjską o zamachy bombowe",
@@ -2528,6 +2528,10 @@
     }
   ],
   "investment_picks": [
+    {
+      "sector": "Sektor obronny",
+      "instrument": "np. ETF iShares Global Aerospace & Defense (ITA)"
+    },
     {
       "sector": "Sektor energetyczny/surowcowy",
       "instrument": "np. ETF Energy Select Sector (XLE)"
@@ -2723,51 +2727,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25894.64,
+      25896.0,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27069.05,
+      27070.48,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27217.27,
+      27218.71,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27464.33,
+      27465.78,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28105.58,
+      28107.06,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28141.93,
+      28143.41,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28388.72,
+      28390.22,
       27354.94,
       27400.36,
       27412.11,
-      28793.62,
+      28795.13,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28047.88,
+      28049.35,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28229.14,
+      28230.63,
       27686.17,
       27404.78,
       27351.97,
@@ -2776,7 +2780,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27934.98,
+      27936.45,
       27930.04,
       28234.04,
       28218.36,
@@ -2785,8 +2789,8 @@
       28294.39,
       28203.83,
       28555.17,
-      28775.88,
-      28547.77
+      28777.39,
+      28549.27
     ],
     "currency": "PLN"
   }
