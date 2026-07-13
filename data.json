@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-13T18:58:16Z",
+  "last_updated": "2026-07-13T18:58:50Z",
   "poland": [
+    {
+      "title": "Dwadzieścia pięć lat więzienia za niewinność? Nagranie rzuca cień na wyrok sądu",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-13/dwadziescia-piec-lat-wiezienia-za-niewinnosc-nagranie-rzuca-cien-na-wyrok-sadu/",
+      "date": "2026-07-13T18:57:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Wojciech Pyłka od prawie dwudziestu lat siedzi w więzieniu. Został skazany za zabójstwo swojego znajomego. Do dziś utrzymuje jednak, że jest niewinny."
+    },
     {
       "title": "Kolegium NSA: nie można już czekać z powołaniami asesorów",
       "url": "https://www.rp.pl/sady-i-trybunaly/art44818611-kolegium-nsa-nie-mozna-juz-czekac-z-powolaniami-asesorow",
@@ -272,14 +280,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Donald Trump ogłosił przywrócenie blokady morskiej irańskich portów. Zapowiedział również natychmiastowe wprowadzenie opłat od statków przepływających przez cieśninę Ormuz w wysokości 20 proc. wartości przewożonego towaru."
-    },
-    {
-      "title": "RMF FM: Dworczyk przegrał w sądzie. Cztery razy. Cofnięto mu dostęp do informacji niejawnych",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32910503,rmf-fm-dworczyk-przegral-w-sadzie-cztery-razy-cofnieto-mu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-07-13T14:44:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Europoseł Prawa i Sprawiedliwości Michał Dworczyk poniósł porażkę w czterech sprawach dotyczących odebrania mu poświadczeń bezpieczeństwa uprawniających do dostępu do informacji niejawnych. O sprawie poinformował dziennikarz RMF FM Kacper Wróblewski."
     },
     {
       "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej - PAP Biznes",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Prawdziwe ceny modeli z pogranicza. Tokeny * Cena, prawda?",
+      "url": "https://playcode.io/blog/real-price-of-frontier-models",
+      "date": "2026-07-13T18:32:27Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://playcode.io/blog/real-price-of-frontier-models Adres URL komentarzy: https://news.ycombinator.com/item?id=48896800 Punkty: 7 # Komentarze: 1."
+    },
+    {
       "title": "Będziesz zwijać swój telefon. Samsung zaskoczy nas szybciej, niż myślisz",
       "url": "https://spidersweb.pl/2026/07/zwijany-smartfon-samsunga-2027-tri-fold-2-prace.html",
       "date": "2026-07-13T18:31:00Z",
@@ -1024,12 +1032,28 @@
       "summary": "Naukowcy z Uniwersytetu Warwick informują o niepokojącym odkryciu w rejonie orbity geostacjonarnej, czyli około 36 tys. km nad Ziemią. Z ich analiz wynika, że w tej kluczowej dla łączności części przestrzeni krąży więcej drobnych, wcześniej niewykrytych odłamków, niż zakładano, co może zagrażać najcenniejszym satelitom."
     },
     {
-      "title": "Interfejs CLI Grok Build firmy xAI przesyła repozytoria Git do zasobnika Google Cloud",
-      "url": "https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/",
-      "date": "2026-07-13T18:10:23Z",
+      "title": "Tworzenie i dostarczanie aplikacji na komputery Mac i iOS bez konieczności otwierania Xcode",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "date": "2026-07-13T18:22:16Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48896493 Punkty: 52 # Komentarze: 12."
+      "summary": "Adres URL artykułu: https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48896665 Punkty: 13 # Komentarze: 2."
+    },
+    {
+      "title": "Linux na Sedze 32X. Kto w ogóle potrzebuje prymitywów synchronizacji sprzętu?",
+      "url": "https://cakehonolulu.github.io/linux-on-32x/",
+      "date": "2026-07-13T18:18:25Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://cakehonolulu.github.io/linux-on-32x/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48896600 Punkty: 6 # Komentarze: 1."
+    },
+    {
+      "title": "Pokaż HN: BillAI Bass, potężny Billy Bass napędzany sztuczną inteligencją korzystający z agentów Strands",
+      "url": "https://github.com/morganwilliscloud/billai-bass",
+      "date": "2026-07-13T18:18:23Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://github.com/morganwilliscloud/billai-bass Adres URL komentarzy: https://news.ycombinator.com/item?id=48896599 Punkty: 4 # Komentarze: 2."
     },
     {
       "title": "Pytania i odpowiedzi z Xinzhou Wu, szefem działu motoryzacji w Nvidii, na temat chipów Nvidii i modeli AI do jazdy autonomicznej, przydatności lidara dla autonomii na poziomie 4 i nie tylko (Nilay Patel/The Verge)",
@@ -1053,7 +1077,7 @@
       "date": "2026-07-13T17:53:52Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://superdario.pawb.de Adres URL komentarzy: https://news.ycombinator.com/item?id=48896286 Punkty: 79 # Komentarze: 16."
+      "summary": "Adres URL artykułu: https://superdario.pawb.de Adres URL komentarzy: https://news.ycombinator.com/item?id=48896286 Punkty: 111 # Komentarze: 24."
     },
     {
       "title": "Szanuj swój telefon. Naprawa właśnie drastycznie podrożała",
@@ -1069,7 +1093,7 @@
       "date": "2026-07-13T17:49:49Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/logseq/logseq/releases Adres URL komentarzy: https://news.ycombinator.com/item?id=48896229 Punkty: 19 # Komentarze: 4."
+      "summary": "Adres URL artykułu: https://github.com/logseq/logseq/releases Adres URL komentarzy: https://news.ycombinator.com/item?id=48896229 Punkty: 32 # Komentarze: 10."
     },
     {
       "title": "Pokaż HN: OpenClawMachines – Rozszerzanie OpenClaw na przedsiębiorstwa",
@@ -1077,7 +1101,7 @@
       "date": "2026-07-13T17:45:29Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/mathaix/OpenClawMachines Adres URL komentarzy: https://news.ycombinator.com/item?id=48896179 Punkty: 7 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://github.com/mathaix/OpenClawMachines Adres URL komentarzy: https://news.ycombinator.com/item?id=48896179 Punkty: 7 # Komentarze: 4."
     },
     {
       "title": "Naładuje się w 4 minuty i wytrzyma całe lata. Oto bateria przyszłości",
@@ -1184,14 +1208,6 @@
       "summary": "Jeśli nie macie już dość płatnych subskrypcji, to możecie kupić kolejną. W Polsce właśnie zadebiutowały nowe pakiety od koncernu Meta: Facebook Plus i Instagram Plus dla użytkowników indywidualnych oraz dwie wersje planu Meta One dla twórców i firm. Jeszcze do niedawna model biznesowy gigantów social media opierał się na prostej zasadzie &#8211; użytkownik dostaje darmowy [&#8230;] Artykuł Facebook i Instagram Plus już w Polsce."
     },
     {
-      "title": "Nowy interfejs API SpeechAnalyzer firmy Apple, porównany z Whisper i jego poprzednikiem",
-      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-      "date": "2026-07-13T16:06:08Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://get-inscribe.com/blog/apple-speech-api-benchmark.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48894752 Punkty: 196 # Komentarze: 99."
-    },
-    {
       "title": "Google rozpętało bitwę na aktualizacje. Mozilla Firefox właśnie do niej dołącza",
       "url": "https://www.instalki.pl/news/software/google-rozpetalo-bitwe-na-aktualizacje-mozilla-firefox-wlasnie-do-niej-dolacza/",
       "date": "2026-07-13T16:05:19Z",
@@ -1222,14 +1238,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Najnowsze dane w postaci szacunków wykazują, iż Steam przyciąga miesięcznie około 200 mln aktywnych użytkowników, podczas gdy ekosystem PlayStation ma ich... 125 mln. Różnica nie oznacza końca konsol ani Sony, ani od Microsoftu, ale pokazuje, gdzie dziś jawi się nam największa platforma służąca do sprzedaży gier."
-    },
-    {
-      "title": "Wikipedia na razie nie jest zaliczana do kategorii 1 zgodnie z brytyjską ustawą o bezpieczeństwie w Internecie",
-      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report",
-      "date": "2026-07-13T15:59:36Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report Adres URL komentarzy: https://news.ycombinator.com/item?id=48894671 Punkty: 54 # Komentarze: 36."
     },
     {
       "title": "Londyńska firma Valarian, która umożliwia firmom korzystanie z usług dostawców usług w chmurze z USA do obsługi zadań związanych ze sztuczną inteligencją, zachowując jednocześnie kontrolę nad swoimi danymi, zebrała 50 mln dolarów w ramach serii A pod przewodnictwem NEA (Lily Mae Lazarus/Fortune)",
@@ -1350,14 +1358,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Huawei oficjalnie potwierdziło datę debiutu swojego najnowszego tabletu ze średniej półki. Model MatePad Air (2026) zostanie zaprezentowany na rynku globalnym już we wtorek, 14 lipca. Opublikowane przez producenta pierwsze grafiki zwiastują zauważalne zmiany w konstrukcji urządzenia, w tym przebudowany moduł aparatu oraz wsparcie dla nowych akcesoriów mobilnych."
-    },
-    {
-      "title": "Najcenniejsze samoloty Rosjan strącone przez polskie rakiety. To był blef stulecia",
-      "url": "https://spidersweb.pl/2026/07/samoloty-rosjan-stracone-przez-polskie-rakiety-blef-stulecia.html",
-      "date": "2026-07-13T13:40:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Najcenniejsze samoloty Rosjan strącone przez polskie rakiety. To był blef stulecia."
     },
     {
       "title": "Lodówka Xiaomi? A jakże! Mijia Refrigerator Cross Door 502L to godny uwagi sprzęt",
@@ -1940,28 +1940,20 @@
       "summary": "Komunikat EBI Ludus SA (ludus): Zawarcie umowy z podmiotem wpisanym na listę Autoryzowanych Doradców, w wykonaniu obowiązku nałożonego na emitenta - § 15b stockwatch.pl."
     },
     {
-      "title": "Formacje analizy technicznej OW20I264150 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/OW20I264150",
-      "date": "2026-07-13T15:46:18Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Formacje analizy technicznej OW20I264150 BiznesRadar."
-    },
-    {
-      "title": "Opcja OW20T263800 - Analiza techniczna - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/ow20t263800,analiza-techniczna.aspx",
-      "date": "2026-07-13T15:39:49Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Opcja OW20T263800 - Analiza techniczna stockwatch.pl."
-    },
-    {
       "title": "Notowania RES0529 RESI CAPITAL - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/RES0529",
       "date": "2026-07-13T14:41:11Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania RES0529 RESI CAPITAL BiznesRadar."
+    },
+    {
+      "title": "Notowania historyczne INTLGLD98863 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania-historyczne/INTLGLD98863",
+      "date": "2026-07-13T14:40:30Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania historyczne INTLGLD98863 INGBANK BiznesRadar."
     },
     {
       "title": "Komunikat EBI BeLeaf SA (beleaf): Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie - stockwatch.pl",
@@ -1978,14 +1970,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Synektik może sprzedawać system Edison w UE. Certyfikat CE otwarty na leczenie guzów wątroby stockwatch.pl."
-    },
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/lw-bogdanka;za-pulawy,6",
-      "date": "2026-07-13T13:58:56Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Synektik otwiera europejski etap komercjalizacji technologii histotrypsji - BiznesRadar",
@@ -2012,20 +1996,20 @@
       "summary": "Sauny, modelki i biznesowy spryt. Dorobił się miliardów na przyjaźni z Rosjanami Forbes."
     },
     {
+      "title": "Komunikat EBI Voolt SA (voolt): Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/voolt,zakonczenie-subskrypcji-lub-sprzedazy-zwiazan-2026-07-13,ebi,20260713_153202_0000004323",
+      "date": "2026-07-13T13:32:02Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI Voolt SA (voolt): Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie stockwatch.pl."
+    },
+    {
       "title": "Przy stole ma się dziać! Koncept dinner show kwitnie - Forbes",
       "url": "https://www.forbes.pl/life/przy-stole-ma-sie-dziac-koncept-dinner-show-kwitnie/f51hddx",
       "date": "2026-07-13T13:30:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Przy stole ma się dziać! Koncept dinner show kwitnie Forbes."
-    },
-    {
-      "title": "Warszawski sąd zdecydował ws. ENA dla Ziobry. Orzeczenie jest prawomocne - Forsal.pl",
-      "url": "https://forsal.pl/kraj/polityka/artykuly/11275363,warszawski-sad-zdecydowal-ws-ena-dla-ziobry-orzeczenie-jest-prawomocne.html",
-      "date": "2026-07-13T13:22:43Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Warszawski sąd zdecydował ws. ENA dla Ziobry. Orzeczenie jest prawomocne Forsal.pl."
     },
     {
       "title": "Stalexport Autostrady poprawia wyniki mimo mniejszego natężenia ruchu - BiznesRadar",
@@ -2074,6 +2058,22 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Czy to już czas na zmianę pracy? Ekspertka wskazuje na pięć powodów Forbes."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/badania;media,164?strona=20",
+      "date": "2026-07-13T12:22:29Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/archiwum/2023-02-17,2",
+      "date": "2026-07-13T12:19:22Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Nowa wizja wojny na morzu. Przerobią frachtowce na dronowe lotniskowce - Forsal.pl",
@@ -2801,7 +2801,7 @@
       28203.83,
       28555.17,
       28820.95,
-      28624.41
+      28618.47
     ],
     "currency": "PLN"
   }
