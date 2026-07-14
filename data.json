@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T01:20:11Z",
+  "last_updated": "2026-07-14T01:20:40Z",
   "poland": [
     {
       "title": "Szkoła to koło zębate profilaktyki",
@@ -524,14 +524,6 @@
       "summary": "Trump mówi, że Stany Zjednoczone zniszczą górę Kilof w Iranie Reuters."
     },
     {
-      "title": "Sąd Najwyższy Brazylii zabrania senatorowi Bolsonaro odwiedzania ojca – Reuters",
-      "url": "https://www.reuters.com/world/americas/brazils-top-court-bars-senator-bolsonaro-visiting-his-father-2026-07-13/",
-      "date": "2026-07-13T20:41:40Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Sąd Najwyższy Brazylii zakazuje senatorowi Bolsonaro odwiedzania ojca Reuters."
-    },
-    {
       "title": "Węgierski parlament głosuje za usunięciem prezydenta ze stanowiska",
       "url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-13T20:39:14Z",
@@ -626,6 +618,14 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Ukraina i dziewięć innych krajów, w tym Wielka Brytania, wydają wspólne oświadczenie po spotkaniu przywódców z Wołodymyrem Zełenskim w ParyżuUkraina i dziewięć innych krajów, w tym Wielka Brytania, Niemcy i Francja, mają zbudować wspólny program ochrony Europy przed rakietami balistycznymi, wykorzystując doświadczenie Kijowa w zwalczaniu rosyjskiej inwazji na pełną skalę od ponad czterech lat. „Naszym celem jest zbudowanie wspólnego potencjału obrony przeciwrakietowej dla Europy” – stwierdziło 10 narodów w poniedziałkowym oświadczeniu podczas spotkania przywódców z ukraińskim prezydentem Wołodymyrem Zełenskim, na rozmowy w Paryżu. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Ukraina wyprodukuje francuskie rakiety, zamawia samoloty bojowe, mówi Macron - Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/ukraine-produce-french-missiles-orders-war-planes-macron-says-2026-07-13/",
+      "date": "2026-07-13T18:30:21Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Ukraina wyprodukuje francuskie rakiety, zamawia samoloty bojowe, mówi Macron Reuters."
     },
     {
       "title": "Trump odnawia blokadę Iranu i ponownie grozi przejęciem kontroli nad cieśniną Ormuz",
@@ -768,7 +768,7 @@
     {
       "title": "Aktualizacje na żywo: Siły amerykańskie rozpoczynają nową rundę ataków na Iran",
       "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
-      "date": "2026-07-14T00:36:36Z",
+      "date": "2026-07-14T01:13:02Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Prezydent Trump wcześniej groził „bardzo ostrymi” strajkami, nakazał wznowienie blokady irańskich portów we wtorek i zapowiedział, że Stany Zjednoczone będą pobierać 20-procentową opłatę za towary przechodzące przez Cieśninę Ormuz."
@@ -1535,7 +1535,7 @@
       "date": "2026-07-13T15:03:28Z",
       "source": "Krebs on Security",
       "confirmed_by": 1,
-      "summary": "Agencja ds. Cyberbezpieczeństwa i Bezpieczeństwa Infrastruktury (CISA) przeprowadziła sekcję zwłok w sprawie wycieku danych, w której wykonawca opublikował dziesiątki wewnętrznych danych uwierzytelniających CISA – w tym klucze AWS Govcloud – w publicznym repozytorium GitHub przez prawie sześć miesięcy, zanim został powiadomiony przez KrebsOnSecurity. Eksperci twierdzą, że luki zidentyfikowane we wstępnej odpowiedzi agencji dostarczają ważnych lekcji, z których powinny skorzystać wszystkie zespoły ds. bezpieczeństwa."
+      "summary": "Agencja ds. Bezpieczeństwa Cyberbezpieczeństwa i Infrastruktury (CISA) przeprowadziła sekcję zwłok w sprawie wycieku danych, w której wykonawca opublikował dziesiątki wewnętrznych danych uwierzytelniających CISA – w tym klucze AWS Govcloud – w publicznym repozytorium GitHub przez prawie sześć miesięcy, zanim został powiadomiony przez KrebsOnSecurity. Eksperci twierdzą, że luki zidentyfikowane we wstępnej odpowiedzi agencji dostarczają ważnych lekcji, z których powinny skorzystać wszystkie zespoły ds. bezpieczeństwa."
     },
     {
       "title": "SRE dla agentów AI: wykaż się, zanim dotkniesz produkcji",
@@ -1788,14 +1788,6 @@
       "summary": "Raport roczny - komunikat spółki JRC Group SA (jrcgroup) - komunikat EBI stockwatch.pl."
     },
     {
-      "title": "forsal - Forsal.pl",
-      "url": "https://forsal.pl/tagi/rolnictwo;forsal,52?strona=17",
-      "date": "2026-07-13T22:49:45Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "forsal Forsal.pl."
-    },
-    {
       "title": "Równa praca, równa płaca – przedłużony termin zgłoszeń do 8. edycji konkursu Lidl Fair Pay w kategorii Best Practice - Forbes",
       "url": "https://www.forbes.pl/life/rowna-praca-rowna-placa-przedluzony-termin-zgloszen-do-8-edycji-konkursu-lidl-fair/wxhpcpr",
       "date": "2026-07-13T22:47:10Z",
@@ -1818,6 +1810,14 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Amerykańskie giełdy spadły w poniedziałek po tym, jak prezydent Donald Trump ogłosił, że ponownie wprowadza blokadę irańskiej żeglugi przez Cieśninę Ormuz, co spowodowało wzrost cen ropy naftowej."
+    },
+    {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/tagi/mostostal-warszawa;pge,38?strona=38",
+      "date": "2026-07-13T20:49:23Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "ETF-y sprzedają, banki centralne kupują. Rynek złota zmienia układ sił",
@@ -1866,6 +1866,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Kurs franka szwajcarskiego - 13.07.2026. W poniedziałek wieczorem za jednego franka (CHF) trzeba zapłacić 4.67364 zł."
+    },
+    {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/swiat/usa,96?strona=39",
+      "date": "2026-07-13T18:47:16Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Ceny w sklepach hamują kolejny miesiąc. Żywność drożeje już wyraźnie wolniej",
@@ -1972,6 +1980,14 @@
       "summary": "Komunikat EBI BTC Studios SA (btcstudio): Informacje udzielone akcjonariuszowi poza WZ na podstawie art. 428 § 5 lub 6 ksh lub art. 429 § 1 lub 2 ksh stockwatch.pl."
     },
     {
+      "title": "Notowania historyczne OW20I264150 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania-historyczne/OW20I264150",
+      "date": "2026-07-13T16:58:16Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania historyczne OW20I264150 BiznesRadar."
+    },
+    {
       "title": "Trend NoLo. Tak teraz piją Polacy. \"Co trzecia butelka\"",
       "url": "https://www.money.pl/gospodarka/trend-nolo-tak-teraz-pija-polacy-co-trzecia-butelka-7307070265410113v.html",
       "date": "2026-07-13T16:57:56Z",
@@ -1988,22 +2004,6 @@
       "summary": "Kolejne małe i średnie spółdzielnie mleczarskie w Polsce mierzą się z ryzykiem upadłości. Wpływa na to jednocześnie wzrost kosztów, presja cenowa i wyzwania regulacyjne, a także problemy po stronie dostawców mleka - donosi \"Portal Spożywczy\"."
     },
     {
-      "title": "Wiadomości ETFBNQ2ST BETA ETF NASDAQ-100 2x SHORT - strona: 65 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/ETFBNQ2ST,65",
-      "date": "2026-07-13T15:02:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości ETFBNQ2ST BETA ETF NASDAQ-100 2x SHORT - strona: 65 BiznesRadar."
-    },
-    {
-      "title": "Rekomendacje dla LIFTERO SA (LFR) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/rekomendacje-spolki/LFR",
-      "date": "2026-07-13T15:00:34Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Rekomendacje dla LIFTERO SA (LFR) BiznesRadar."
-    },
-    {
       "title": "Analiza techniczna OW20I264150 - BiznesRadar",
       "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/OW20I264150",
       "date": "2026-07-13T14:48:24Z",
@@ -2012,20 +2012,20 @@
       "summary": "Analiza techniczna OW20I264150 BiznesRadar."
     },
     {
-      "title": "Analiza techniczna INTLSLV98897 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/INTLSLV98897",
-      "date": "2026-07-13T14:46:59Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Analiza techniczna INTLSLV98897 INGBANK BiznesRadar."
-    },
-    {
       "title": "Notowania RES0529 RESI CAPITAL - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/RES0529",
       "date": "2026-07-13T14:41:11Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania RES0529 RESI CAPITAL BiznesRadar."
+    },
+    {
+      "title": "Synektik otwiera europejski etap komercjalizacji technologii histotrypsji - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149316,synektik-otwiera-europejski-etap-komercjalizacji-technologii-histotrypsji",
+      "date": "2026-07-13T13:55:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Synektik otwiera europejski etap komercjalizacji technologii histotrypsji BiznesRadar."
     },
     {
       "title": "Sauny, modelki i biznesowy spryt. Dorobił się miliardów na przyjaźni z Rosjanami - Forbes",
@@ -2050,6 +2050,22 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Przy stole ma się dziać! Koncept dinner show kwitnie Forbes."
+    },
+    {
+      "title": "Warszawski sąd zdecydował ws. ENA dla Ziobry. Orzeczenie jest prawomocne - Forsal.pl",
+      "url": "https://forsal.pl/kraj/polityka/artykuly/11275363,warszawski-sad-zdecydowal-ws-ena-dla-ziobry-orzeczenie-jest-prawomocne.html",
+      "date": "2026-07-13T13:22:43Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Warszawski sąd zdecydował ws. ENA dla Ziobry. Orzeczenie jest prawomocne Forsal.pl."
+    },
+    {
+      "title": "Stalexport Autostrady poprawia wyniki mimo mniejszego natężenia ruchu - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149310,stalexport-autostrady-poprawia-wyniki-mimo-mniejszego-natezenia-ruchu",
+      "date": "2026-07-13T13:19:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Stalexport Autostrady poprawia wyniki mimo mniejszego natężenia ruchu BiznesRadar."
     },
     {
       "title": "Zwolnienia białych kołnierzyków w Polsce. Co czeka menedżerów po utracie pracy - Forbes",
@@ -2084,14 +2100,6 @@
       "summary": "Czy to już czas na zmianę pracy? Ekspertka wskazuje na pięć powodów Forbes."
     },
     {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/archiwum/2023-02-17,2",
-      "date": "2026-07-13T12:19:22Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
-    },
-    {
       "title": "Włoska „Piazza Grande” w Warszawie. Stefano Terrazzino prężnie promuje formułę PRO-AM - Forbes",
       "url": "https://www.forbes.pl/biznes/wloska-piazza-grande-w-warszawie-stefano-terrazzino-preznie-promuje-formule-pro-am/hy5n0zj",
       "date": "2026-07-13T11:34:00Z",
@@ -2100,25 +2108,9 @@
       "summary": "Włoska „Piazza Grande” w Warszawie. Stefano Terrazzino prężnie promuje formułę PRO-AM Forbes."
     },
     {
-      "title": "Nawet 35 mln euro kary za AI. Nie każda firma zapłaci jednak według tej samej zasady - Forsal.pl",
-      "url": "https://forsal.pl/gospodarka/prawo/artykuly/11274550,35-mln-euro-kary-za-ai-firma-zle-uzywa-sztucznej-inteligencji-tyle-moze-kosztowac-naruszenie.html",
-      "date": "2026-07-13T11:12:57Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Nawet 35 mln euro kary za AI. Nie każda firma zapłaci jednak według tej samej zasady Forsal.pl."
-    },
-    {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/tagi/sprzedaz-detaliczna;lotos,17",
-      "date": "2026-07-13T11:00:14Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
       "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/prezydent-andrzej-duda;duda,16?strona=15",
-      "date": "2026-07-13T10:39:50Z",
+      "url": "https://forsal.pl/tagi/benzyna;gaz-ziemny,42?strona=11",
+      "date": "2026-07-13T11:29:06Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Gospodarka Forsal.pl."
@@ -2146,6 +2138,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Digital Network będzie systematycznie pokazywać nowe projekty i wydarzenia, które będą wspierać dalszy rozwój, zapowiada prezes Agnieszka Godlewska Seb Seb pon., 13.07.2026 Kanał Strefa Inwestorów Digital Network Warsaw STAGE ekran cyfrowy DOOH giełda GPW Screen Network Treść Digital Network podsyca wielką hossę na swoich akcjach uruchomieniem największego ekranu cyfrowego w Europie. Nie spoczywa jednak na laurach i przygotował plan działań na kolejne miesiące. Chce systematycznie pokazywać nowe projekty i kolejne wydarzenia, które będą wspierały dalszy rozwój spółki, mówi w rozmowie ze Strefą Inwestorów prezes Agnieszka Godlewska."
+    },
+    {
+      "title": "Czy dzielenie majątku na wiele portfeli ma sens? Jeden portfel kontra kilka portfeli",
+      "url": "https://inwestomat.eu/czy-dzielenie-majatku-na-wiele-portfeli-ma-sens/",
+      "date": "2026-07-13T05:00:00Z",
+      "source": "Inwestomat (Albert Rokicki)",
+      "confirmed_by": 1,
+      "summary": "Mentalne księgowanie swojego majątku. Wydany przeze mnie już ponad 3 lata temu wpis &#8222;Cała prawda o poduszce finansowej, czyli jak ułatwić sobie inwestowanie&#8221; dotyczył sugestii wcielenia tzw. finansowej poduszki bezpieczeństwa do portfela inwestycyjnego."
     },
     {
       "title": "KGHM chce płacić dywidendy. Nowa \"Strategia 2055+\" – Piotr Krzyżewski | Procent Składany",
@@ -2719,51 +2719,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25929.4,
+      25927.7,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27105.39,
+      27103.61,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27253.81,
+      27252.02,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27501.21,
+      27499.4,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28143.31,
+      28141.46,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28179.71,
+      28177.86,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28426.84,
+      28424.97,
       27354.94,
       27400.36,
       27412.11,
-      28832.27,
+      28830.38,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28085.53,
+      28083.69,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28267.04,
+      28265.19,
       27686.17,
       27404.78,
       27351.97,
@@ -2772,7 +2772,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27972.49,
+      27970.65,
       27930.04,
       28234.04,
       28218.36,
@@ -2781,8 +2781,8 @@
       28294.39,
       28203.83,
       28555.17,
-      28814.51,
-      28586.1
+      28812.62,
+      28584.22
     ],
     "currency": "PLN"
   }
