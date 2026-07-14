@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T18:29:20Z",
+  "last_updated": "2026-07-14T18:30:00Z",
   "poland": [
     {
       "title": "Tusk spotka się z parlamentarzystami. Chodzi o przyszłoroczne wybory",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Wyśmiewanie planów amerykańskiej sieci Chipotle dotyczącej sprzedaży meksykańskiej żywności w Meksyku",
+      "url": "https://www.theguardian.com/world/2026/jul/14/derision-at-us-chain-chipotles-plan-to-sell-its-mexican-food-in-mexico",
+      "date": "2026-07-14T18:23:45Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Jeden z użytkowników mediów społecznościowych opisał otwarcie swojego pierwszego lokalu w Monterrey jako „jak pies uczący kaczkę latać”. Plan amerykańskiej sieci sprzedaży Meksykanom swojej wersji meksykańskiej żywności za pomocą pierwszego oddziału na południe od granicy wywołał zdziwienie, sceptycyzm i złość wśród miejscowej ludności. Chipotle Mexican Grill, znany z dostosowywanych burrito, tacos i misek, ma ponad 4000 lokalizacji na całym świecie i we wtorek ogłosił, że rozszerza swoją działalność na Meksyk w sposób, który określił jako znaczący kamień milowy. Kontynuuj czytanie..."
+    },
+    {
       "title": "ICE zawiesza zatrzymania ruchu w związku ze śmiertelną strzelaniną w Maine, podają źródła – Reuters",
       "url": "https://www.reuters.com/world/ice-suspends-vehicle-stops-us-immigration-enforcement-sources-say-2026-07-14/",
       "date": "2026-07-14T18:17:28Z",
@@ -433,7 +441,7 @@
       "date": "2026-07-14T17:39:38Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Gwiazda muzyki pop, której rodzice są Albańczykami z Kosowa, wyraża podziw dla demonstracji, które rozpoczynają się w szóstym tygodniu. „Rewolucja flamingów” w Albanii zyskała największego jak dotąd zwolennika po tym, jak gwiazda muzyki pop Dua Lipa wyraziła podziw dla ruchu protestacyjnego przeciwko wspieranemu przez rodzinę Trumpa kurortowi w państwie bałkańskim. Gdy w szóstym tygodniu rozpoczęły się demonstracje przeciwko projektowi nieruchomościowemu o wartości 1,6 miliarda euro (0,85 miliarda funtów), urodzona w Londynie piosenkarka, która częściowo wychowywała się w Prisztina, dom jej rodziców, kosowskich Albańczyków, emigrantów, opisała niepokoje społeczne jako „inspirujące”. Kontynuuj czytanie..."
+      "summary": "Gwiazda muzyki pop, której rodzice są Albańczykami z Kosowa, wyraża podziw dla demonstracji, które rozpoczynają się w szóstym tygodniu. „Rewolucja flamingów” w Albanii zyskała największego jak dotąd zwolennika po tym, jak gwiazda muzyki pop Dua Lipa wyraziła podziw dla ruchu protestacyjnego przeciwko wspieranemu przez rodzinę Trumpa kurortowi w państwie bałkańskim. Gdy w szóstym tygodniu rozpoczęły się demonstracje przeciwko projektowi nieruchomościowemu o wartości 1,6 miliarda euro (1,36 miliarda funtów), urodzona w Londynie piosenkarka, która częściowo wychowywała się w Prisztina, dom jej rodziców, kosowskich Albańczyków, emigrantów, opisała niepokoje społeczne jako „inspirujące”. Kontynuuj czytanie..."
     },
     {
       "title": "Akcje Citi spadają, ponieważ obawy inwestorów o wydatki przyćmiewają wyniki w drugim kwartale – Reuters",
@@ -706,14 +714,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Wspierani przez Iran Houthi obwiniają Arabię ​​Saudyjską za atak w stolicy Jemenu i twierdzą, że w odpowiedzi zaatakowali lotnisko w Abha."
-    },
-    {
-      "title": "Irańskie loty do Jemenu stanowią naruszenie suwerenności, twierdzi jemeński urzędnik",
-      "url": "https://www.theguardian.com/world/2026/jul/14/iran-flight-sanaa-yemen-houthis-saudi",
-      "date": "2026-07-14T09:43:54Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Samolot wiozący delegację Houthi do domu z Teheranu musiał zmienić kurs po tym, jak rząd Jemenu zbombardował lotnisko w Sanie. Kryzys na Bliskim Wschodzie na żywo – najnowsze aktualizacje irańskie loty do i z Jemenu stanowią niedopuszczalne naruszenie suwerenności kraju, powiedział wiceprezydent wspieranego przez Arabię Saudyjską i uznawanego przez ONZ rządu Jemenu. Abdullah al-Alimi powiedział w wywiadzie, że w samolotach znajdował się sprzęt dla ruchu Houthi, który jego zdaniem przekształcił się z jedynie zagrożenie wewnętrzne w regionalne i międzynarodowe zagrożenie dla bezpieczeństwa światowego i gospodarki światowej. Kontynuuj czytanie..."
     },
     {
       "title": "UE zakazuje importu złota z Sudanu, aby ograniczyć finansowanie wojny",
@@ -2485,22 +2485,6 @@
       ]
     },
     {
-      "name": "Jemen",
-      "score": 21,
-      "reasons": [
-        {
-          "title": "Jemeńscy Houthi wystrzelili rakiety w Arabię ​​Saudyjską po atakach na lotnisko w Sanie",
-          "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News"
-        },
-        {
-          "title": "Irańskie loty do Jemenu stanowią naruszenie suwerenności, twierdzi jemeński urzędnik",
-          "url": "https://www.theguardian.com/world/2026/jul/14/iran-flight-sanaa-yemen-houthis-saudi",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
       "name": "Ukraina",
       "score": 14,
       "reasons": [
@@ -2508,6 +2492,17 @@
           "title": "Atak na młode Ukrainki w Bielsku-Białej. Monitoring pokazuje, co działo się wcześniej",
           "url": "https://www.rp.pl/przestepczosc/art44825561-atak-na-mlode-ukrainki-w-bielsku-bialej-monitoring-pokazuje-co-dzialo-sie-wczesniej",
           "source": "Rzeczpospolita"
+        }
+      ]
+    },
+    {
+      "name": "Jemen",
+      "score": 14,
+      "reasons": [
+        {
+          "title": "Jemeńscy Houthi wystrzelili rakiety w Arabię ​​Saudyjską po atakach na lotnisko w Sanie",
+          "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News"
         }
       ]
     }
@@ -2713,51 +2708,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25812.84,
+      25814.54,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26983.54,
+      26985.32,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27131.29,
+      27133.08,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27377.57,
+      27379.38,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28016.79,
+      28018.64,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28053.03,
+      28054.88,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28299.04,
+      28300.91,
       27354.94,
       27400.36,
       27412.11,
-      28702.66,
+      28704.55,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27959.27,
+      27961.12,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28139.97,
+      28141.82,
       27686.17,
       27404.78,
       27351.97,
@@ -2766,7 +2761,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27846.73,
+      27848.57,
       27930.04,
       28234.04,
       28218.36,
@@ -2775,9 +2770,9 @@
       28294.39,
       28203.83,
       28555.17,
-      28684.97,
-      28457.59,
-      28594.62
+      28686.87,
+      28459.46,
+      28594.13
     ],
     "currency": "PLN"
   }
