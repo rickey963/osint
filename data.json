@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T15:56:55Z",
+  "last_updated": "2026-07-15T15:57:38Z",
   "poland": [
     {
       "title": "Nowy trener piłkarskiej reprezentacji Polski. Kibu Vicuña dołączy do Jana Urbana",
@@ -160,14 +160,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Dziekani publicznych uniwersyteckich wydziałów prawa protestują przeciw usunięciu przedstawiciela nauki z komisji egzaminacyjnej na aplikację adwokacką. Naczelna Rada Adwokacka, która opracowała przepisy, odpowiada, że komisja wykonuje tylko czynności techniczne."
-    },
-    {
-      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
-      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
-      "date": "2026-07-15T14:33:34Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
     },
     {
       "title": "Wymowny gest Zełenskiego. Dał von der Leyen order i obiecał, że go nie odbierze",
@@ -384,6 +376,14 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Szef MSZ ostrzega: Rosja może przeprowadzić prowokację w formie operacji pod fałszywą flagą Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "dr Piotr Łacwik - Serwis Zdrowie",
+      "url": "https://zdrowie.pap.pl/eksperci/dr-piotr-lacwik",
+      "date": "2026-07-15T06:07:30Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "dr Piotr Łacwik Serwis Zdrowie."
     },
     {
       "title": "Kalendarium rynku kapitałowego GPW 2026-07-15 - PAP Biznes",
@@ -963,7 +963,7 @@
       "date": "2026-07-14T22:00:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Sędziowie Sądu Najwyższego szczegółowo opisują zagrożenia dla bezpieczeństwa i wypowiadają się na temat etyki w rzadkich zeznaniach Kongresu AP News."
+      "summary": "Sędziowie Sądu Najwyższego szczegółowo opisują zagrożenia bezpieczeństwa i wypowiadają się na temat etyki w rzadkich zeznaniach Kongresu AP News."
     },
     {
       "title": "Buffett rezygnuje z prezentu dla fundacji Billa Gatesa po ujawnieniu powiązań współzałożyciela Microsoftu z Epsteinem - AP News",
@@ -1519,7 +1519,7 @@
       "date": "2026-07-15T11:07:07Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Badacz bezpieczeństwa Chaotic Eclipse (znany również jako Nightmare-Eclipse) opublikował nowy exploit sprawdzający koncepcję (PoC) o nazwie LegacyHive. Została opisana jako luka w zabezpieczeniach usługi profilu użytkownika systemu Windows związana z arbitralnym podniesieniem uprawnień gałęzi obciążenia. Usługa profilu użytkownika systemu Windows, nazywana także ProfSvc, to podstawowy komponent systemu zarządzający kontami użytkowników i środowiskami."
+      "summary": "Badacz bezpieczeństwa Chaotic Eclipse (znany również jako Nightmare-Eclipse) opublikował nowy exploit sprawdzający koncepcję (PoC) o nazwie LegacyHive. Została opisana jako luka w zabezpieczeniach usługi profilu użytkownika systemu Windows związana z arbitralnym podniesieniem uprawnień w gałęzi. Usługa profilu użytkownika systemu Windows, nazywana także ProfSvc, to podstawowy komponent systemu zarządzający kontami użytkowników i środowiskami."
     },
     {
       "title": "Nowe seminarium internetowe: Likwidacja luki w zatwierdzeniu w technologii reklamowej w epoce AI",
@@ -2700,51 +2700,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25751.48,
+      25747.39,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26919.4,
+      26915.13,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27066.81,
+      27062.51,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27312.5,
+      27308.16,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27950.2,
+      27945.76,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27986.35,
+      27981.9,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28231.78,
+      28227.3,
       27354.94,
       27400.36,
       27412.11,
-      28634.44,
+      28629.89,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27892.82,
+      27888.39,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28073.08,
+      28068.62,
       27686.17,
       27404.78,
       27351.97,
@@ -2753,7 +2753,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27780.55,
+      27776.13,
       27930.04,
       28234.04,
       28218.36,
@@ -2762,10 +2762,10 @@
       28294.39,
       28203.83,
       28555.17,
-      28616.79,
+      28612.25,
       28590.53,
-      28496.67,
-      28518.95
+      28492.14,
+      28519.26
     ],
     "currency": "PLN"
   }
