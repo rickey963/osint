@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T03:21:50Z",
+  "last_updated": "2026-07-16T03:22:37Z",
   "poland": [
     {
       "title": "Marcello Estevão, IIF: Polska wchodzi w trudniejszą fazę konwergencji, ale ma liczne atuty",
@@ -668,7 +668,7 @@
       "summary": "Jak wynika z ankiety Fed, aktywność gospodarcza rośnie, a inflacja nieznacznie spada."
     },
     {
-      "title": "Anglia sprowadza Jamesa, Spence’a i Rogersa, Argentyna wprowadza jedną zmianę – Reuters",
+      "title": "Anglia sprowadza Jamesa, Spence'a i Rogersa, Argentyna wprowadza jedną zmianę - Reuters",
       "url": "https://www.reuters.com/sports/soccer/england-bring-james-spence-rogers-argentina-make-one-change-2026-07-15/",
       "date": "2026-07-15T19:00:40Z",
       "source": "Reuters",
@@ -768,18 +768,10 @@
     {
       "title": "Aktualizacje na żywo wojny w Iranie: USA i Iran wymieniają ataki piąty dzień z rzędu",
       "url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
-      "date": "2026-07-16T03:20:46Z",
+      "date": "2026-07-16T03:17:49Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Chociaż wydawało się, że obie strony się okopują, wysoki rangą urzędnik irański zdawał się pozostawić otwarte drzwi do porozumienia, mówiąc: „Nie możemy bać się ani wojny, ani negocjacji”."
-    },
-    {
-      "title": "Irańska Amerykanka przetrzymywana w Iranie pod zarzutem szpiegostwa zostaje zwolniona",
-      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html",
-      "date": "2026-07-16T03:20:44Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Podwójne stosunki irańsko-amerykańskie W grudniu 2024 r. zatrzymano jej paszport, Dena Karari, i nie mogła opuścić Iranu ze względu na zarzuty o szpiegostwo."
     },
     {
       "title": "Oto najnowsze.",
@@ -796,6 +788,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "W obliczu intensywnych podziałów w Iranie generał Mohammad Bagher Ghalibaf przyjął wyzywający ton i argumentował, że dyplomacja może bronić interesów Iranu."
+    },
+    {
+      "title": "Irańska Amerykanka przetrzymywana w Iranie pod zarzutem szpiegostwa zostaje zwolniona",
+      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html",
+      "date": "2026-07-16T01:59:52Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Podwójne stosunki irańsko-amerykańskie W grudniu 2024 r. zatrzymano jej paszport, Dena Karari, i nie mogła opuścić Iranu ze względu na zarzuty o szpiegostwo."
     },
     {
       "title": "Donald Trump popiera „Pillow Mana” Mike’a Lindella w wyborach na gubernatora Minnesoty – AP News",
@@ -1730,7 +1730,7 @@
       "summary": "Polski MSZ, FBI, NATO i Unia Europejska mówią jednym głosem w sprawie rosyjskich cyberataków. Tym razem za kolejnym komunikatem europejskich władz, amerykańskiego biura i Sojuszu idą jednak nie tylko ostrzeżenia, ale konkretne oskarżenia, polityczne sygnały i sankcje."
     },
     {
-      "title": "Błędy w RabbitMQ mogą ujawnić sekrety OAuth i metadane kolejek między dzierżawcami",
+      "title": "Błędy RabbitMQ mogą ujawnić sekrety OAuth i metadane kolejek między dzierżawcami",
       "url": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
       "date": "2026-07-14T13:48:07Z",
       "source": "The Hacker News",
@@ -2672,51 +2672,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25713.99,
+      25716.04,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26880.21,
+      26882.35,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27027.4,
+      27029.55,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27272.74,
+      27274.9,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27909.5,
+      27911.72,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27945.6,
+      27947.82,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28190.68,
+      28192.92,
       27354.94,
       27400.36,
       27412.11,
-      28592.74,
+      28595.02,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27852.21,
+      27854.42,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28032.21,
+      28034.44,
       27686.17,
       27404.78,
       27351.97,
@@ -2725,7 +2725,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27740.1,
+      27742.3,
       27930.04,
       28234.04,
       28218.36,
@@ -2734,10 +2734,10 @@
       28294.39,
       28203.83,
       28555.17,
-      28575.13,
+      28577.4,
       28590.53,
       28538.61,
-      28563.85
+      28566.12
     ],
     "currency": "PLN"
   }
