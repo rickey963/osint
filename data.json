@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-16T03:02:09Z",
+  "last_updated": "2026-07-16T03:03:13Z",
   "poland": [
+    {
+      "title": "Bruksela łagodzi ETS. Polska wywalczyła ważne zmiany, ale to nie koniec",
+      "url": "https://pro.rp.pl/raporty-ekonomiczne/art44827651-bruksela-lagodzi-ets-polska-wywalczyla-wazne-zmiany-ale-to-nie-koniec",
+      "date": "2026-07-16T03:02:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Komisja Europejska ma zaprezentować reformę systemu handlu emisjami CO2, która w wielu punktach odpowiada postulatom Warszawy. Stawka jest wysoka, bo od kształtu ETS zależą koszty energii dla przemysłu i gospodarstw domowych."
+    },
     {
       "title": "Dom letniskowy w dawnym chlewiku. Chłodny minimalizm i pochwała prostoty",
       "url": "https://sukces.rp.pl/styl-zycia/art44824581-dom-letniskowy-w-dawnym-chlewiku-chlodny-minimalizm-i-pochwala-prostoty",
@@ -64,14 +72,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Prezydent Ukrainy Wołodymyr Zełenski złożył w Radzie Najwyższej (jednoizbowy parlament Ukrainy) wniosek o powołanie Serhija Koreckiego na stanowisko premiera Ukrainy - poinformował portal Ukraińska Prawda, powołując się na przewodniczącego Rady Rusłana Stefanczuka."
-    },
-    {
-      "title": "„Mogę umrzeć w tej dusznej celi”. Boris Nadieżdin o nowych represjach w Rosji Putina",
-      "url": "https://www.rp.pl/spoleczenstwo/art44825071-moge-umrzec-w-tej-dusznej-celi-boris-nadiezdin-o-nowych-represjach-w-rosji-putina",
-      "date": "2026-07-16T02:30:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Walec represji dotarł do jedynego opozycyjnego kandydata startującego w wyborach parlamentarnych, który wprost potępia wojnę z Ukrainą."
     },
     {
       "title": "Kurs HUF/PLN 14 lipca 2026 r.",
@@ -529,7 +529,7 @@
       "date": "2026-07-15T22:49:47Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Argentyna stoi przed perspektywą działań dyscyplinarnych ze strony FIFA po tym, jak jej gracze świętowali półfinałowe zwycięstwo z Anglią w Pucharze Świata za pomocą sztandaru popierającego roszczenia ich kraju do Falklandów."
+      "summary": "Argentyna stoi przed perspektywą działań dyscyplinarnych ze strony FIFA po tym, jak jej gracze świętowali półfinałowe zwycięstwo przeciwko Anglii z banerem popierającym roszczenia ich kraju do Falklandów."
     },
     {
       "title": "Spóźniony występ Argentyny zatapia Anglię i wyznacza finał Pucharu Świata przeciwko Hiszpanii – Reuters",
@@ -1482,7 +1482,7 @@
       "summary": "Środowisko szkodliwego oprogramowania o nazwie OkoBot działa na komputerach z systemem Windows od kwietnia 2025 r., a jeden z jego modułów został zbudowany w celu oszukania właścicieli portfeli sprzętowych w zakresie czasu odzyskiwania. Na zainfekowanym komputerze żądanie pochodzi z oprogramowania komputerowego portfela. Czasami czeka, aż najpierw podłączysz urządzenie."
     },
     {
-      "title": "CISA alarmuje w związku z trzema wykorzystywanymi lukami w SharePoint",
+      "title": "CISA podnosi alarm w związku z trzema wykorzystywanymi lukami w SharePoint",
       "url": "https://www.theregister.com/security/2026/07/15/cisa-sounds-alarm-over-trio-of-exploited-sharepoint-flaws/5271814",
       "date": "2026-07-15T15:21:58Z",
       "source": "The Register",
@@ -2445,13 +2445,8 @@
     },
     {
       "name": "Ukraina",
-      "score": 33,
+      "score": 23,
       "reasons": [
-        {
-          "title": "„Mogę umrzeć w tej dusznej celi”. Boris Nadieżdin o nowych represjach w Rosji Putina",
-          "url": "https://www.rp.pl/spoleczenstwo/art44825071-moge-umrzec-w-tej-dusznej-celi-boris-nadiezdin-o-nowych-represjach-w-rosji-putina",
-          "source": "Rzeczpospolita"
-        },
         {
           "title": "Ukraina uderza w rosyjskie statki w ramach kampanii mającej na celu odcięcie Krymu",
           "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html",
@@ -2461,6 +2456,11 @@
           "title": "W rosyjskich atakach zginęło 14 osób, gdy Ukraina uderza w tankowce na Morzu Czarnym",
           "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News"
+        },
+        {
+          "title": "Moskwa ostrzega, że ​​obce wojska na Ukrainie zostaną uznane za uzasadnione cele – i tak się stało",
+          "url": "https://www.theguardian.com/world/live/2026/jul/15/ursula-von-der-leyen-ukraine-russia-volodymyr-zelenskyy-vladimir-putin-europe-live-news",
+          "source": "The Guardian"
         }
       ]
     },
@@ -2674,51 +2674,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25723.53,
+      25727.97,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26890.19,
+      26894.82,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27037.43,
+      27042.09,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27282.86,
+      27287.56,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27919.86,
+      27924.67,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27955.97,
+      27960.79,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28201.14,
+      28206.0,
       27354.94,
       27400.36,
       27412.11,
-      28603.36,
+      28608.28,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27862.54,
+      27867.34,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28042.61,
+      28047.44,
       27686.17,
       27404.78,
       27351.97,
@@ -2727,7 +2727,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27750.39,
+      27755.17,
       27930.04,
       28234.04,
       28218.36,
@@ -2736,10 +2736,10 @@
       28294.39,
       28203.83,
       28555.17,
-      28585.73,
+      28590.66,
       28590.53,
       28538.61,
-      28574.45
+      28579.37
     ],
     "currency": "PLN"
   }
