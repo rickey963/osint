@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T04:27:28Z",
+  "last_updated": "2026-07-16T04:32:24Z",
   "poland": [
     {
       "title": "Co się kryje pod pojęciem \"globalny ETF\" i kiedy może on być problematyczny? Wyjaśniamy",
@@ -1686,7 +1686,7 @@
       "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
       "date": "2026-07-14T20:25:47Z",
       "source": "The Hacker News",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Firma Microsoft udostępniła dzisiaj największą w historii łatkę we wtorek, a dwie z poprawek zamykają luki, które atakujący już wykorzystują. Wydanie obejmuje 622 własne CVE Microsoftu według liczby w Przewodniku aktualizacji zabezpieczeń, co stanowi ponad trzykrotność poprzedniej maksymalnej liczby z czerwca, wynoszącej około 200. Te dwa aktywne błędy to te, które należy złapać jako pierwsze."
     },
     {
@@ -1786,14 +1786,6 @@
       "summary": "Apple pozwało OpenAI zarzucając mu bezprawne wykorzystywanie poufnej wiedzy zdobytej przy rozwoju sprzętu i technologii konsumenckich. Firma przekonuje, że nie chodzi o pojedyncze naruszenia, a szerszy schemat działań, który miał pomóc OpenAI szybciej wprowadzić na rynek własne urządzenia oparte na technologii sztucznej inteligencji."
     },
     {
-      "title": "Wnioski wyciągnięte z niedawnego wycieku CISA z GitHuba",
-      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "date": "2026-07-13T15:03:28Z",
-      "source": "Krebs on Security",
-      "confirmed_by": 1,
-      "summary": "Agencja ds. Bezpieczeństwa Cyberbezpieczeństwa i Infrastruktury (CISA) przeprowadziła sekcję zwłok w sprawie wycieku danych, w której wykonawca opublikował dziesiątki wewnętrznych danych uwierzytelniających CISA – w tym klucze AWS Govcloud – w publicznym repozytorium GitHub przez prawie sześć miesięcy, zanim został powiadomiony przez KrebsOnSecurity. Eksperci twierdzą, że luki zidentyfikowane we wstępnej odpowiedzi agencji dostarczają ważnych lekcji, z których powinny skorzystać wszystkie zespoły ds. bezpieczeństwa."
-    },
-    {
       "title": "Jak (nie) założyć w chmurze cyfrowego cmentarza dla cyberprzestępców",
       "url": "https://niebezpiecznik.pl/post/jak-nie-zalozyc-w-chmurze-cyfrowego-cmentarza-dla-cyberprzestepcow/",
       "date": "2026-07-13T13:45:13Z",
@@ -1826,6 +1818,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Opcja OW20H264150 - Analiza techniczna stockwatch.pl."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/archiwum/2013-02-01,2",
+      "date": "2026-07-15T21:19:12Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "S&P 500 po cichu podchodzi pod szczyt hossy. Skromne wzrosty pomimo Iranu",
@@ -1994,14 +1994,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Debiut DM NWAI na GPW. Spółka przejdzie z rynku NewConnect Piotr Kwestarz śr., 15.07.2026 Kanał Strefa Inwestorów debiuty 2026 NewConnect Treść Komisja Nadzoru Finansowego zatwierdziła prospekt NWAI Dom Maklerski, sporządzony w związku z zamiarem ubiegania się o dopuszczenie akcji spółki do obrotu na rynku regulowanym. Tym samym spółka otwiera ostatni etap procesu zmiany rynku notowań, w ramach którego NWAI przechodzi z NewConnect na rynek główny GPW.Rynek główny GPW elementem długoterminowej strategiiPrzeniesienie notowań na rynek główny GPW jest jednym z istotnych elementów realizacji długoterminowej strategii rozwoju NWAI oraz kolejnym etapem budowy pozycji spółki na polskim rynku kapitałowym, a także w regionie."
-    },
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/archiwum/2024-07-18,1",
-      "date": "2026-07-15T13:39:11Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Budują projekt ze schronem 17 metrów pod ziemią. Z Robertem De Niro - Forbes",
@@ -2196,12 +2188,12 @@
       "summary": "Polski system elektroenergetyczny zmienia rytm pracy. Przez dekady największe zapotrzebowanie na prąd przypadało zimą, a dziś coraz mocniej liczą się letnie fale upałów. Wysokie temperatury zwiększają zużycie energii przez klimatyzację, a w tym samym czasie fotowoltaika pracuje z największą mocą."
     },
     {
-      "title": "Czy dzielenie majątku na wiele portfeli ma sens? Jeden portfel kontra kilka portfeli",
-      "url": "https://inwestomat.eu/czy-dzielenie-majatku-na-wiele-portfeli-ma-sens/",
-      "date": "2026-07-13T05:00:00Z",
-      "source": "Inwestomat (Albert Rokicki)",
+      "title": "mózg - Forbes",
+      "url": "https://www.forbes.pl/omp_obsolete_mozg",
+      "date": "2026-07-14T13:56:28Z",
+      "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Mentalne księgowanie swojego majątku. Wydany przeze mnie już ponad 3 lata temu wpis &#8222;Cała prawda o poduszce finansowej, czyli jak ułatwić sobie inwestowanie&#8221; dotyczył sugestii wcielenia tzw. finansowej poduszki bezpieczeństwa do portfela inwestycyjnego."
+      "summary": "mózg Forbes."
     }
   ],
   "critical_alerts": [
@@ -2318,14 +2310,6 @@
       "region": "Wenezuela",
       "description": "Posłowie parlamentu Wenezueli przekazali 200 służbowych mieszkań zlokalizowanych w Caracas, stolicy kraju, dla osób poszkodowanych przez podwójne trzęsienie ziemi, które nawiedziło ten kraj 24 czerwca.",
       "url": "https://www.bankier.pl/wiadomosc/Tragedia-w-Wenezueli-trwa-Bilans-ofiar-rosnie-poslowie-oddaja-sluzbowe-lokale-ofiarom-9168274.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci"
-    },
-    {
-      "lat": 55.5,
-      "lng": -2.5,
-      "type": "cyber",
-      "region": "Wielka Brytania",
-      "description": "Mozilla, Proton i Tor ostrzegają ministrów, że obranie za cel tej technologii może spowodować więcej problemów, niż ich rozwiąże.",
-      "url": "https://www.theregister.com/networks/2026/07/14/hands-off-our-vpns-privacy-groups-tell-uk-ministers/5271070"
     },
     {
       "lat": 62.0,
@@ -2685,51 +2669,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25721.22,
+      25721.49,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26887.76,
+      26888.05,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27034.99,
+      27035.28,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27280.4,
+      27280.69,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27917.35,
+      27917.64,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27953.46,
+      27953.75,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28198.6,
+      28198.9,
       27354.94,
       27400.36,
       27412.11,
-      28600.78,
+      28601.08,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27860.03,
+      27860.33,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28040.09,
+      28040.38,
       27686.17,
       27404.78,
       27351.97,
@@ -2738,7 +2722,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27747.89,
+      27748.19,
       27930.04,
       28234.04,
       28218.36,
@@ -2747,10 +2731,10 @@
       28294.39,
       28203.83,
       28555.17,
-      28583.16,
+      28583.46,
       28590.53,
       28538.61,
-      28571.88
+      28572.18
     ],
     "currency": "PLN"
   }
