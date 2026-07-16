@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T23:29:02Z",
+  "last_updated": "2026-07-16T23:29:40Z",
   "poland": [
     {
       "title": "Czas na Chicago! Giganci na rozkładzie siatkarzy w USA - Polskie Radio 24",
@@ -1410,6 +1410,30 @@
   ],
   "cybersecurity": [
     {
+      "title": "Aktywiści z Amsterdamu oblewają kwasem projekt centrum danych Microsoftu",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/16/amsterdam-activists-throw-acid-at-microsoft-datacenter-project/5273943",
+      "date": "2026-07-16T21:04:35Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Extinction Rebellion bierze odpowiedzialność za atak balonem wypełnionym chemikaliami, którego celem był beton i stal."
+    },
+    {
+      "title": "Badacz zatruwa model AI o otwartej wadze za mniej niż 100 dolarów",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/16/researcher-poisons-open-weight-ai-model-for-under-100/5273880",
+      "date": "2026-07-16T20:25:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Modele żądają zaufania, nie oferując weryfikacji."
+    },
+    {
+      "title": "Zadeklarowanie przez TSMC wartości 265 miliardów dolarów na budowę fabryk w USA stanowi zarys koncepcji planu",
+      "url": "https://www.theregister.com/systems/2026/07/16/tsmcs-265b-us-fab-pledge-is-the-outline-of-a-concept-of-a-plan/5273903",
+      "date": "2026-07-16T19:54:51Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Uważaj na producentów fabryk publikujących komunikaty prasowe."
+    },
+    {
       "title": "Dwóch hakerów typu Scattered Spider dostanie po 5,5 roku więzienia za hakowanie TfL o wartości 29 milionów funtów",
       "url": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
       "date": "2026-07-16T17:09:25Z",
@@ -1418,12 +1442,44 @@
       "summary": "Owen Flowers (18 l.) i Thalha Jubair (20 l.) zostali skazani w czwartek 16 lipca 2026 r. przez sąd koronny w Woolwich na pięć i pół roku za włamanie do Transport for London w 2024 r. W wyniku ataku 148 systemów TfL przestało działać, a wszystkich 27 000 pracowników władz transportowych zmusiło do udania się do biura w celu osobistego zresetowania haseł. Zarówno NCA, jak i CPS oszacowały straty i odzyskaną kwotę TfL."
     },
     {
+      "title": "UE zmusza Google do dzielenia się swoimi zabawkami z innymi sztuczną inteligencją i wyszukiwania dzieci",
+      "url": "https://www.theregister.com/software/2026/07/16/eu-forces-google-to-share-its-toys-with-the-other-ai-and-search-kids/5273819",
+      "date": "2026-07-16T16:48:41Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Fabryce Czekolady nie jest do śmiechu."
+    },
+    {
+      "title": "Dostawcy sztucznej inteligencji znaleźli kogoś, kto zapłaci ich rachunki za infrastrukturę: Ty",
+      "url": "https://www.theregister.com/software/2026/07/16/ai-vendors-have-found-someone-to-pay-their-infrastructure-bills-you/5273712",
+      "date": "2026-07-16T16:21:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Forrester ostrzega, że ​​podwyżki cen i opłaty za użytkowanie zwiększą budżety na oprogramowanie w przyszłym roku."
+    },
+    {
+      "title": "Wyrzuć mysz z domu dzięki temu narzędziu klawiatury wspomaganemu przez sztuczną inteligencję",
+      "url": "https://www.theregister.com/software/2026/07/16/kick-your-mouse-out-of-the-house-with-this-ai-assisted-keyboard-utility/5271938",
+      "date": "2026-07-16T15:46:12Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Neverclick pozwala uniknąć ograniczania się do niektórych aplikacji, rezygnując z interfejsów API ułatwień dostępu na rzecz szybkiego i lekkiego modelu widzenia komputerowego."
+    },
+    {
       "title": "ThreatsDay: oprogramowanie szpiegujące do oszustw w grach, całodobowe oprogramowanie ransomware, prześladowanie przy synchronizacji Chrome i 12 innych historii",
       "url": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
       "date": "2026-07-16T15:41:15Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Wiele problemów w tym tygodniu zaczyna się od czegoś, co wygląda wystarczająco blisko. Znane repozytorium. Przydatny instalator."
+    },
+    {
+      "title": "No dalej, po prostu skopiuj ten ciąg tekstowy i wklej go do terminala macOS – to naprawi twój komputer, szczerze",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/16/cmon-just-copy-this-text-string-and-paste-it-into-your-macos-terminal-itll-fix-your-computer-honest/5273701",
+      "date": "2026-07-16T15:33:01Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Nowo udokumentowany złodziej ClickLock jest przeznaczony dla bardziej ufnych użytkowników komputerów Mac z wykorzystaniem socjotechniki."
     },
     {
       "title": "Wdrożenie DSA na Komisji Cyfryzacji. „Trzeba chronić prawa obywateli”",
@@ -1442,12 +1498,28 @@
       "summary": "Ponad 26 tys. zł musi zapłacić właściciel prywatnego monitoringu, który rejestrował nie tylko jego posesję, lecz także drogę publiczną i sąsiednie nieruchomości. Jedna z kamer miała być skierowana bezpośrednio na okno toalety w pobliskim budynku."
     },
     {
+      "title": "Należąca do NASA Artemis III będzie potrzebować trzech rakiet, aby wykonać zadanie, które Apollo wykonał za pomocą jednej",
+      "url": "https://www.theregister.com/science/2026/07/16/nasas-artemis-iii-will-need-three-rockets-to-do-the-job-apollo-did-with-one/5273620",
+      "date": "2026-07-16T14:52:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Blue Origin i SpaceX mają swoją kolej, aby udowodnić, że potrafią dokować, włóczyć się i nie wysadzać platformy startowej."
+    },
+    {
       "title": "Spotify wprowadza asystenta AI. Pozna Twój gust muzyczny i nie tylko",
       "url": "https://cyberdefence24.pl/biznes-i-finanse/spotify-wprowadza-asystenta-ai-pozna-twoj-gust-muzyczny-i-nie-tylko",
       "date": "2026-07-16T14:18:05Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Spotify chce, by wybór muzyki coraz mniej przypominał obsługę aplikacji, a coraz bardziej rozmowę z kimś, kto zna słuchacza i jego przyzwyczajenia. Szwedzka firma rozpoczęła właśnie testy opartego na sztucznej inteligencji asystenta głosowego, który ma nie tylko reagować na polecenia, lecz także pomagać w odkrywaniu treści, odpowiadać na pytania i dostosowywać rekomendacje w toku rozmowy."
+    },
+    {
+      "title": "Airbus przenosi 70 krytycznych aplikacji z AWS do francuskiego Scaleway w związku z dążeniem do suwerenności cyfrowej",
+      "url": "https://www.theregister.com/paas-and-iaas/2026/07/16/airbus-migrating-70-critical-apps-from-aws-to-frances-scaleway-amid-digital-sovereignty-push/5272373",
+      "date": "2026-07-16T13:49:17Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Łącznie 900 aplikacji, w tym systemy ERP, CRM i systemy produkcyjne, będzie utrzymywanych „pod europejską kontrolą”."
     },
     {
       "title": "Błąd związany z wymianą tokenów n8n może pozwolić atakującym zalogować się jako użytkownicy innego wystawcy",
@@ -1466,6 +1538,14 @@
       "summary": "Badacze zajmujący się cyberbezpieczeństwem zwrócili uwagę na nowe modułowe szkodliwe oprogramowanie o nazwie TELEPUZ, które od końca kwietnia 2026 r. rozprzestrzenia się za pośrednictwem stron internetowych zainfekowanych przynętami ClickFix. „Szkodliwe oprogramowanie jest w pełni funkcjonalne, lekkie i modułowe” – stwierdził w raporcie technicznym Cyril François, badacz z Elastic Security Labs. „Chociaż liczba domen C2 [dowództwa i kontroli] jest obecnie niewielka, dziennik."
     },
     {
+      "title": "Duet Brit Scattered Spider dostał mandaty za atak na Transport for London",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/16/brit-scattered-spider-duo-handed-tickets-to-prison-over-transport-for-london-attack/5272446",
+      "date": "2026-07-16T12:49:38Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Wyrok kończy największy wyrok skazujący za cyberprzestępczość w historii Wielkiej Brytanii."
+    },
+    {
       "title": "Nowy złodziej ClickLock na macOS zabija aplikacje co 210 ms, dopóki ofiary nie wpiszą hasła",
       "url": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
       "date": "2026-07-16T12:33:42Z",
@@ -1480,6 +1560,14 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Unijną aplikację do weryfikacji wieku nadal da się ominąć – stwierdził badacz cyberbezpieczeństwa Paul Moore. Po blisko trzech miesiącach prac od ogłoszenia przez Ursulę von der Leyen gotowości pod względem technicznym, złamanie mechanizmu wciąż jest możliwe. Zdaniem Moore’a, do eliminacji problemu potrzebna jest całkowita przebudowa rozwiązania."
+    },
+    {
+      "title": "AI power binge zapewnia najlepszą połowę od 2022 r. w zakresie finansowania przedsięwzięć w zakresie technologii klimatycznych",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/16/ai-power-binge-delivers-best-half-since-2022-for-climate-tech-venture-funding/5272401",
+      "date": "2026-07-16T12:05:25Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Projekty niskoemisyjne czerpią przypadkowe zyski, gdy miliardy ścigają infrastrukturę obliczeniową."
     },
     {
       "title": "Ponad 20 porwanych witryn rządowych stało się kanałem ataku",
@@ -1498,6 +1586,14 @@
       "summary": "Poproś agenta AI o podsumowanie recenzji na stronie produktu, a pojedyncza recenzja może sprawić, że zamiast tego kliknie „Kup teraz”. Poproś asystenta kodowania, aby zastosował poprawkę opiekuna z wątku GitHub, a fałszywy komentarz może spowodować uruchomienie na Twoim komputerze polecenia nieznajomego. Żadna sztuczka nie przejmuje się zadaniem agenta."
     },
     {
+      "title": "Windows 10 nie umiera, a rachunek za bezpieczeństwo zbliża się terminem płatności",
+      "url": "https://www.theregister.com/os-platforms/2026/07/16/windows-10-refuses-to-die-and-the-security-bill-is-coming-due/5271987",
+      "date": "2026-07-16T11:25:20Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Jedna na sześć maszyn nadal korzysta ze starego systemu operacyjnego, ponieważ migracja przeciąga się, a terminy aktualizacji są coraz bliżej."
+    },
+    {
       "title": "Minister finansów podjął decyzję. Wiadomo, kto stworzy sektorowy CSIRT",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/minister-finansow-podjal-decyzje-wiadomo-kto-stworzy-sektorowy-csirt",
       "date": "2026-07-16T11:20:33Z",
@@ -1514,6 +1610,22 @@
       "summary": "Zaawansowane złośliwe oprogramowanie, wcześniej przypisywane ugrupowaniu zagrażającemu powiązanemu z Chinami, pojawiło się ponownie po ponad czterech latach pracy w tajwańskiej firmie produkcyjnej wraz z wcześniej niezgłoszonym backdoorem o nazwie Stupig. Daxin („srt64.sys”), jak nazywa się rootkit działający w trybie jądra, został po raz pierwszy udokumentowany przez firmę Symantec należącą do firmy Broadcom w marcu 2022 r., a dowody wskazują na jego wykorzystanie w ukierunkowanych atakach."
     },
     {
+      "title": "W tym samym tygodniu znaleziono firmę SpaceX Open Source Grok Build, która przesyłała repozytoria użytkowników do chmury",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/16/spacex-open-sources-grok-build-after-data-retention-furore/5272333",
+      "date": "2026-07-16T11:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Spółka zależna AI-and-X twierdzi teraz, że oferuje „pełną prywatność użytkownika” kilka dni po tym, jak Elon Musk potwierdził, że dane zostaną usunięte."
+    },
+    {
+      "title": "Awaria AWS CloudFront powoduje wyświetlanie błędów zamiast stron internetowych",
+      "url": "https://www.theregister.com/off-prem/2026/07/16/aws-cloudfront-outage-serves-errors-instead-of-websites/5272421",
+      "date": "2026-07-16T10:54:42Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Burza wysyła wiatry poza chmurowego giganta, niszcząc usługi, w tym Hugging Face i brytyjską loterię narodową."
+    },
+    {
       "title": "Sztuczna inteligencja potrafi znaleźć błędy, ale ludzka wiedza i tak je potwierdza",
       "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
       "date": "2026-07-16T10:10:00Z",
@@ -1528,6 +1640,14 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "CyberDefence24.pl i Państwowa Komisja walcząca z przemocą wobec małoletnich łączą siły w działaniach na rzecz ochrony dzieci i młodzieży przed przemocą seksualną, w tym zagrożeniami występującymi w sieci. Podpisane porozumienie ma służyć edukacji, prewencji oraz szerzeniu rzetelnej wiedzy o skali i formach krzywdzenia najmłodszych."
+    },
+    {
+      "title": "Krótkie linki do telegramów zostały przerwane w trybie offline w wyniku zatwierdzonego połączenia VPN",
+      "url": "https://www.theregister.com/security/2026/07/16/telegram-shortlinks-knocked-offline-over-sanctioned-vpn-connection/5271964",
+      "date": "2026-07-16T10:07:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "t.me nie działał przez jeden dzień, dopóki platforma nie udowodniła, że ​​nie ma powiązań z usługami preferowanymi przez cyberprzestępców."
     },
     {
       "title": "Nienaprawiona usterka dotycząca próżni rekina może umożliwić atakującym kontrolowanie innych odkurzaczy w całym regionie",
@@ -2636,51 +2756,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25763.07,
+      25761.03,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26931.52,
+      26929.38,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27078.99,
+      27076.84,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27324.79,
+      27322.62,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27962.78,
+      27960.56,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27998.94,
+      27996.72,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28244.49,
+      28242.24,
       27354.94,
       27400.36,
       27412.11,
-      28647.32,
+      28645.05,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27905.37,
+      27903.15,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28085.72,
+      28083.49,
       27686.17,
       27404.78,
       27351.97,
@@ -2689,7 +2809,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27793.05,
+      27790.84,
       27930.04,
       28234.04,
       28218.36,
@@ -2698,11 +2818,11 @@
       28294.39,
       28203.83,
       28555.17,
-      28629.67,
+      28627.4,
       28590.53,
       28538.61,
       28515.01,
-      28472.38
+      28470.12
     ],
     "currency": "PLN"
   }
