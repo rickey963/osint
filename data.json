@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T11:42:35Z",
+  "last_updated": "2026-07-16T11:43:17Z",
   "poland": [
     {
       "title": "Awantura w Sejmie, Macierewicz oskarża policję. Padły słowa o Putinie",
@@ -766,6 +766,22 @@
   ],
   "world_politics": [
     {
+      "title": "Oto najnowsze.",
+      "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz/heres-the-latest",
+      "date": "2026-07-16T11:42:09Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": ""
+    },
+    {
+      "title": "Minister obrony Ukrainy, zwolennik wojny z dronami, zostaje zmuszony do opuszczenia kraju",
+      "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
+      "date": "2026-07-16T11:41:48Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Mychajło Fiodorow ogłosił w środę, że odchodzi z ministerstwa po konfliktach z generałami i wykonawcami wojskowymi w sprawie roli innowacyjnej broni."
+    },
+    {
       "title": "Masowe protesty na całej Ukrainie sprzeciwiają się odwołaniu ministra obrony",
       "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
       "date": "2026-07-16T11:23:59Z",
@@ -782,28 +798,12 @@
       "summary": ""
     },
     {
-      "title": "Oto najnowsze.",
-      "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz/heres-the-latest",
-      "date": "2026-07-16T10:44:29Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": ""
-    },
-    {
       "title": "Jak wynika z sondażu, światowa opinia zmienia się w stronę faworyzowania Chin zamiast Stanów Zjednoczonych",
       "url": "https://www.nytimes.com/2026/07/16/world/asia/pew-opinion-survey-china-united-states.html",
       "date": "2026-07-16T10:43:34Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Coroczne badanie przeprowadzone przez Pew Research Center wykazało, że więcej krajów pozytywnie odnosi się do Chin niż do Ameryki."
-    },
-    {
-      "title": "Minister obrony Ukrainy, zwolennik wojny z dronami, zostaje zmuszony do opuszczenia kraju",
-      "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
-      "date": "2026-07-16T10:27:12Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Mychajło Fiodorow ogłosił w środę, że odchodzi z ministerstwa po konfliktach z generałami i wykonawcami wojskowymi w sprawie roli innowacyjnej broni."
     },
     {
       "title": "Co warto wiedzieć o Mychajło Fiodorowie, obalonym ministrze obrony Ukrainy",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Debiut Roberta Lewandowskiego w Chicago Fire. Gdzie obejrzeć pierwszy mecz?",
+      "url": "https://www.benchmark.pl/debiut-roberta-lewandowskiego-w-chicago-fire-gdzie-obejrzec-pierwszy-mecz-7308090147137984a",
+      "date": "2026-07-16T11:42:47Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Nowy rozdział w karierze Roberta Lewandowskiego rozpoczyna się na oczach kibiców z całego świata. Wielu polskich fanów z pewnością zarwie noc, by zobaczyć pierwszy występ kapitana reprezentacji Polski w barwach Chicago Fire. Sprawdzamy, gdzie będzie można obejrzeć to historyczne spotkanie."
+    },
+    {
       "title": "Firma Beacon Security, która oferuje platformę agentowego bezpieczeństwa, zebrała kapitał początkowy o wartości 13 mln dolarów i twierdzi, że ma „dziesiątki” dużych klientów korporacyjnych, w tym Cerebras (Chris Metinko/Axios)",
       "url": "https://www.techmeme.com/260716/p18#a260716p18",
       "date": "2026-07-16T11:40:00Z",
@@ -1070,14 +1078,6 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Podczas pokazu Blue Angels na plaży w Pensacoli doszło do niebezpiecznie wyglądającego incydentu: myśliwce marynarki wojennej przeleciały wyjątkowo nisko nad tłumem. Podmuch z silników wywołał panikę wśród widzów i porwał część plażowego wyposażenia, a dowództwo formacji sprawdza teraz, czy lot był zgodny z zasadami bezpieczeństwa."
-    },
-    {
-      "title": "Google DeepMind i Isomorphic Labs uruchamiają program odporności biologicznej, aby wykorzystać modele sztucznej inteligencji do monitorowania patogenów, projektowania szczepionek i reagowania na epidemie (Madison Mills/Axios)",
-      "url": "https://www.techmeme.com/260716/p11#a260716p11",
-      "date": "2026-07-16T10:45:02Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Madison Mills / Axios: Google DeepMind i Isomorphic Labs uruchamiają program odporności biologicznej, aby wykorzystać modele sztucznej inteligencji do nadzoru patogenów, projektowania szczepionek i reagowania na epidemie &mdash; W czwartek Google DeepMind zaprezentowało nowy program dotyczący odporności biologicznej, który ma pomóc rządom i badaczom zapobiegać zagrożeniom biologicznym, wykrywać je i reagować na nie."
     },
     {
       "title": "Darmowe gry w Epicu i Amazon Luna. Czekają na Was dwa horrory i dużo łamigłówek",
@@ -2741,51 +2741,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25739.21,
+      25737.17,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26906.58,
+      26904.44,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27053.91,
+      27051.76,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27299.49,
+      27297.32,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27936.88,
+      27934.66,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27973.01,
+      27970.79,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28218.33,
+      28216.09,
       27354.94,
       27400.36,
       27412.11,
-      28620.79,
+      28618.52,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27879.53,
+      27877.31,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28059.71,
+      28057.48,
       27686.17,
       27404.78,
       27351.97,
@@ -2794,7 +2794,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27767.31,
+      27765.1,
       27930.04,
       28234.04,
       28218.36,
@@ -2803,10 +2803,10 @@
       28294.39,
       28203.83,
       28555.17,
-      28603.16,
+      28600.89,
       28590.53,
       28538.61,
-      28591.87
+      28589.6
     ],
     "currency": "PLN"
   }
