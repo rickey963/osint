@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-17T08:13:58Z",
+  "last_updated": "2026-07-17T08:14:44Z",
   "poland": [
+    {
+      "title": "Genialny koncert Lenny’ego Kravitza w Trójmieście",
+      "url": "https://www.rp.pl/muzyka-popularna/art44841921-genialny-koncert-lenny-ego-kravitza-w-trojmiescie",
+      "date": "2026-07-17T08:12:36Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Ponad dwudziestominutowa wersja „Let Love Rule” wykonana na bis zakończyła wyjątkowy koncert Kravitza, którego trzeba uznać za najlepszego artystę koncertowego w świecie rocka. To była trzecia wizyta gwiazdy w Polsce od lipca 2024 roku."
+    },
+    {
+      "title": "Skwar, burze i przerwy w dostawie prądu. Pogodowy alarm w całej Polsce",
+      "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198071,32917935,skwar-burze-i-przerwy-w-dostawie-pradu-pogodowy-alarm-w-calej.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-07-17T08:08:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał w piątek ostrzeżenia przed burzami i upałami."
+    },
     {
       "title": "Prezydent podpisał nowe przepisy. Dotyczą PPK",
       "url": "https://businessinsider.com.pl/finanse/karol-nawrocki-podpisal-ustawe-nowe-przepisy-dotycza-ppk/jds2r88",
@@ -138,14 +154,6 @@
       "summary": "Revolut otwiera nowe biuro, zlokalizowane w warszawskim biurowcu Rondo 1 — wynika z komunikatu firmy. Bank zamierza zatrudnić u nas nawet 300 osób."
     },
     {
-      "title": "Linie lotnicze w tarapatach, szykują się upadłości i przejęcia. Polski LOT do konsolidacji?",
-      "url": "https://businessinsider.com.pl/biznes/linie-lotnicze-w-tarapatach-szykuja-sie-upadlosci-i-przejecia-polski-lot-do/vms2peb",
-      "date": "2026-07-17T07:02:00Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Rosnące ceny paliwa i wojna na Bliskim Wschodzie stawiają europejskie linie lotnicze pod presją. Branża przygotowuje się na możliwe upadłości i konsolidacje — informuje Reuters. Agencja podaje, że polski LOT wskazywany jest jako potencjalny cel konsolidacji."
-    },
-    {
       "title": "\"Nie dla patocelebrytów\". Prezydent Karol Nawrocki podpisał ustawę",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-07-17/nie-dla-patocelebrytow-prezydent-karol-nawrocki-podpisal-ustawe/",
       "date": "2026-07-17T07:00:00Z",
@@ -200,14 +208,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "W ciągu ostatnich sześciu miesięcy do policji wpłynęło 180 zawiadomień o przestępstwach z nienawiści wobec obywateli Ukrainy - informuje Rzeczpospolita. To wzrost o ponad 30 procent względem analogicznego okresu w ubiegłym roku."
-    },
-    {
-      "title": "„Prezes przy pożegnaniach bywa brutalny”. Prof. Antoni Dudek komentuje rosnący spór w PiS",
-      "url": "https://www.rp.pl/polityka/art44841801-prezes-przy-pozegnaniach-bywa-brutalny-prof-antoni-dudek-komentuje-rosnacy-spor-w-pis",
-      "date": "2026-07-17T06:17:26Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Jeśli dojdzie do wyrzucenia z PiS Mateusza Morawieckiego i jego stronników, najbardziej skorzysta na tym Donald Tusk i Koalicja Obywatelska – ocenił prof. Antoni Dudek, w rozmowie z PAP komentując zaostrzenie konfliktu w Prawie i Sprawiedliwości. Politolog zaznaczył, że rozłam w partii Jarosława Kaczyńskiego nie jest przesądzaony."
     },
     {
       "title": "Marcin Horała o decyzji Jarosława Kaczyńskiego. \"Został wprowadzony w błąd\"",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "USA przeprowadzają nowe ataki, gdy Iran twierdzi, że uderzyła infrastruktura cywilna",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-17T08:10:12Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Teheran twierdzi, że amerykańskie ataki uderzyły w mosty, podczas gdy Stany Zjednoczone wsiadły na statek w Cieśninie Ormuz."
+    },
+    {
       "title": "Chiny ostro krytykują nacjonalizację British Steel",
       "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-17T08:03:45Z",
@@ -412,12 +420,12 @@
       "summary": "Rząd Wielkiej Brytanii stwierdził, że przekazanie firmy w ręce publiczne zabezpieczy „istotny potencjał krajowy”."
     },
     {
-      "title": "Wiadomości z Australii na żywo: Kobieta z Nowej Południowej Walii aresztowana w związku z ruchami Deziego Freemana; Podcast Hansona jest komentowany jako „niedorzeczny” – mówi poseł Partii Pracy",
+      "title": "Wiadomości z Australii na żywo: Kobieta z Nowej Południowej Walii aresztowana w związku z ruchami Deziego Freemana; Barnaby Joyce broni obecności Hansona na pokazie Dolce & Gabbana",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb",
-      "date": "2026-07-17T07:54:26Z",
+      "date": "2026-07-17T08:01:49Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Policja aresztowała 58-letnią kobietę w ramach toczącego się śledztwa w sprawie ruchów Deziego Freemana. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Pauline Hanson została nazwana „nieaustralijką” w związku z jej wystąpieniem w podcaście ze skrajnie prawicowym brytyjskim aktywistą Tommym Robinsonem. Senatorka Zielonych Sarah Hanson-Young powiedziała ABC RN Hanson, że musi wrócić do Australii i przeprosić. To jest przerażające i szczerze mówiąc, to naprawdę nieaustralijczyk. Aby wyjechać za granicę, żeby spotkać się z bandytą-kryminalistą… śmiać się w jego programie o wielokulturowości tutaj, w Australii – czyli naszych społecznościach, obywatelach Australii i ludziach, którzy czynią ten kraj wspaniałym, Pauline Hanson jest najbardziej nieaustralijskim politykiem w parlamencie i powinna wrócić do domu, zmierzyć się z muzyką i przeprosić. Nie jestem pewien, skąd pani Hanson bierze swoje dane, ale nigdy nie zostały mi przekazane jako ministrowi ds. niepełnosprawności i ministrowi ds. NDIS. Podejrzewam, że nie istnieją. Nie mam ochoty odpowiadać na podcast pomiędzy panią Hanson a tym skazanym przestępcą, którego, szczerze mówiąc, wyparło się tak wielu czołowych osobistości prawicy. Kontynuuj czytanie..."
+      "summary": "Policja aresztowała 58-letnią kobietę w ramach toczącego się śledztwa w sprawie ruchów Deziego Freemana. Skorzystaj z naszego e-maila z najświeższymi wiadomościami, bezpłatnej aplikacji lub codziennego podcastu. Pauline Hanson została nazwana „nieaustralijką” w związku z jej wystąpieniem w podcaście ze skrajnie prawicowym brytyjskim działaczem Tommym Robinsonem. Senatorka Zielonych Sarah Hanson-Young powiedziała ABC RN Hanson, że musi wrócić do Australii i przeprosić. To jest przerażające i szczerze mówiąc, to naprawdę nieaustralijczyk. Aby wyjechać za granicę, żeby spotkać się z bandytą-kryminalistą… śmiać się w jego programie o wielokulturowości tutaj, w Australii – czyli naszych społecznościach, obywatelach Australii i ludziach, którzy czynią ten kraj wspaniałym, Pauline Hanson jest najbardziej nieaustralijskim politykiem w parlamencie i powinna wrócić do domu, zmierzyć się z muzyką i przeprosić. Nie jestem pewien, skąd pani Hanson bierze swoje dane, ale nigdy nie zostały mi przekazane jako ministrowi ds. niepełnosprawności i ministrowi ds. NDIS. Podejrzewam, że nie istnieją. Nie mam ochoty odpowiadać na podcast pomiędzy panią Hanson a tym skazanym przestępcą, którego, szczerze mówiąc, wyparło się tak wielu czołowych osobistości prawicy. Kontynuuj czytanie..."
     },
     {
       "title": "Według doniesień amerykańskie ataki na Iran uderzyły w lotniska i mosty – kryzys na Bliskim Wschodzie na żywo",
@@ -425,7 +433,7 @@
       "date": "2026-07-17T07:45:08Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Zaatakowano lotnisko Iranshahr, południowy dworzec kolejowy i dwa mosty – podają irańskie media. Irańskie ministerstwo zdrowia poinformowało, że w ostatnich atakach USA w Iranie zginęło 38 osób, a ponad 400 zostało rannych. Podając dane dotyczące X, Hossein Kermanpour, szef działu public relations w irańskim ministerstwie zdrowia, powiedział, że wśród rannych są 22 kobiety i dziewięcioro dzieci. Kontynuuj czytanie..."
+      "summary": "Irańskie media podają, że zaatakowano lotnisko Iranshahr, południowy dworzec kolejowy i dwa mosty – jak podają irańskie media, amerykańscy żołnierze piechoty morskiej wsiedli na tankowiec podczas blokady irańskich portów Irańskie ministerstwo zdrowia podało, że w ostatnich atakach USA w Iranie zginęło 38 osób, a ponad 400 zostało rannych. Podając dane dotyczące X, Hossein Kermanpour, szef działu public relations w irańskim ministerstwie zdrowia, powiedział, że wśród rannych są 22 kobiety i dziewięcioro dzieci. Kontynuuj czytanie..."
     },
     {
       "title": "Trump Media będzie sprzedawać natychmiastowy dostęp do „poruszających rynek” postów w mediach społecznościowych",
@@ -436,12 +444,12 @@
       "summary": "Trump Media uruchamia szybki, płatny kanał z najbardziej wpływowymi wpisami dla traderów z Wall Street."
     },
     {
-      "title": "USA przeprowadzają nowe ataki, gdy Iran twierdzi, że uderzyła infrastruktura cywilna",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-17T07:00:31Z",
-      "source": "BBC News",
+      "title": "Giełdy spadają w miarę pogłębiania się strat w segmencie chipów, a ropa naftowa osiąga tygodniowe zyski – Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-17/",
+      "date": "2026-07-17T06:39:37Z",
+      "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Teheran twierdzi, że amerykańskie ataki uderzyły w mosty, podczas gdy Stany Zjednoczone wsiadły na statek w Cieśninie Ormuz."
+      "summary": "Giełdy spadają w miarę pogłębiania się strat w sektorze żetonów, a ropa naftowa odnotowuje tygodniowe zyski Reuters."
     },
     {
       "title": "Osuwisko pogrzebało mieszkańców Chongqing w południowo-zachodnich Chinach – Reuters",
@@ -490,6 +498,14 @@
       "source": "BBC News",
       "confirmed_by": 2,
       "summary": "Rohan Dennis przyznał się do kierowania pojazdem po zatrzymaniu go przez policję w zeszłym miesiącu."
+    },
+    {
+      "title": "Volvo Cars odnotowuje mniejszy zysk za drugi kwartał – Reuters",
+      "url": "https://www.reuters.com/world/china/volvo-cars-posts-smaller-profit-second-quarter-2026-07-17/",
+      "date": "2026-07-17T05:06:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Volvo Cars odnotowuje mniejszy zysk za drugi kwartał Reuters."
     },
     {
       "title": "Wśród zwolenników sztucznej inteligencji niektórzy inwestorzy opowiadają się za wolniejszym wzrostem wydatków na hiperskalery – Reuters",
@@ -569,7 +585,7 @@
       "date": "2026-07-17T03:07:11Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Od czasu opuszczenia Birmy 29 czerwca zniknęły dwie łodzie przewożące szacunkowo 530 Rohingjów."
+      "summary": "Od czasu opuszczenia Birmy 29 czerwca zniknęły dwie łodzie przewożące około 530 Rohingjów."
     },
     {
       "title": "Zespół Korei Południowej i USA przedstawia technologię robotyczną, która ubiera użytkownika – Reuters",
@@ -644,22 +660,6 @@
       "summary": "Katar twierdzi, że irański atak rakietowy został udaremniony, dziecko zostało ranne Reuters."
     },
     {
-      "title": "Czołowe chińskie linie lotnicze ostrzegają przed poważnymi stratami przed niepewnym latem – Reuters",
-      "url": "https://www.reuters.com/world/china/chinas-top-airlines-warn-heavy-losses-ahead-uncertain-summer-2026-07-17/",
-      "date": "2026-07-17T01:37:09Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Największe chińskie linie lotnicze ostrzegają przed poważnymi stratami przed niepewnym latem Reuters."
-    },
-    {
-      "title": "Ropa naftowa rośnie w związku z nasilającymi się działaniami wojennymi USA-Iran, groźba zamknięcia Morza Czerwonego – Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-rises-intensifying-us-iran-hostilities-threat-red-sea-closure-2026-07-17/",
-      "date": "2026-07-17T01:31:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Ropa naftowa rośnie w związku z nasilającymi się działaniami wojennymi USA-Iran, groźba zamknięcia Morza Czerwonego Reuters."
-    },
-    {
       "title": "Zaniedbana aktualizacja oprogramowania spowodowała powszechną awarię sieci Telstra, dyrektor generalny zwraca się do Senatu",
       "url": "https://www.theguardian.com/business/2026/jul/17/telstra-missing-software-update-undocumented-design-change-outage",
       "date": "2026-07-17T01:00:08Z",
@@ -676,12 +676,12 @@
       "summary": "Rząd Australii twierdzi, że jest „głęboko sfrustrowany” i będzie w dalszym ciągu nalegać na „prawdziwe oskarżenia z zębami” w związku ze śmiercią Bianki Jones i Holly Morton-Bowles. Śledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Rząd australijski twierdzi, że chce „prawdziwych, ostrych zarzutów” w związku ze śmiertelnym zatruciem metanolem dwóch nastoletnich podróżników w Laosie, podczas gdy władze przygotowują się do przedstawienia mniejszych zarzutów, które uznano za „gorzko” rozczarowujące. Melbourne podróżnicy Bianca Jones i Holly Morton-Bowles (obie 19 lat) podróżowały z plecakiem po Azji Południowo-Wschodniej pod koniec 2024 r., kiedy podczas picia w hostelu Nana w Vang Vieng zostały śmiertelnie otrute metanolem. Kontynuuj czytanie..."
     },
     {
-      "title": "Jakość powietrza gwałtownie spada w 20 stanach USA w miarę rozprzestrzeniania się dymu z kanadyjskich pożarów",
+      "title": "Jakość powietrza gwałtownie spada w 20 stanach USA w związku z rozprzestrzenianiem się dymu z kanadyjskich pożarów",
       "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
       "date": "2026-07-16T22:21:08Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Miliony Amerykanów stoją w obliczu alertów dotyczących jakości powietrza od Minnesoty po Nowy Jork, ponieważ władze wzywają ludzi do pozostania w domach. Zapisz się na e-mailowy biuletyn Breaking News w USA. Powiedz nam: czy dotknęło Cię rozprzestrzenianie się dymu z pożarów w USA i Kanadzie? Dym z pożarów szalejących w południowo-środkowej Kanadzie i częściach Minnesoty rozprzestrzenia się po całych Stanach Zjednoczonych, powodując wydanie alertów dotyczących jakości powietrza w ponad 20 stanach, a miliony Amerykanów w tym tygodniu będą borykać się z niezdrowymi warunkami atmosferycznymi. Według światowych rankingów IQAir ponad 180 aktywnych pożarów w północnym Ontario sprawiło, że w czwartkowy wieczór jakość powietrza w Chicago była najgorsza na świecie, a następnie w Detroit i Minneapolis. Kontynuuj czytanie..."
+      "summary": "Miliony Amerykanów stoją w obliczu alertów dotyczących jakości powietrza od Minnesoty po Nowy Jork, ponieważ władze wzywają ludzi do pozostania w domach. Zapisz się, aby otrzymywać e-mailowy biuletyn Breaking News w USA. Powiedz nam: czy dotknęło Cię rozprzestrzenianie się dymu z pożarów w USA i Kanadzie? Dym z pożarów szalejących w południowo-środkowej Kanadzie i częściach Minnesoty rozprzestrzenia się po całych Stanach Zjednoczonych, powodując wydanie alertów dotyczących jakości powietrza w ponad 20 stanach, a miliony Amerykanów w tym tygodniu będą narażone na niezdrowe warunki powietrza. Według światowych rankingów IQAir ponad 180 aktywnych pożarów w północnym Ontario sprawiło, że w czwartkowy wieczór jakość powietrza w Chicago była najgorsza na świecie, a następnie w Detroit i Minneapolis. Kontynuuj czytanie..."
     },
     {
       "title": "Strajk głodowy jednego człowieka zmienił mapę Indii. Czy to jeszcze może zmienić politykę?",
@@ -761,7 +761,7 @@
       "date": "2026-07-16T15:06:49Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Ten blog jest już zamknięty. Przeczytaj resztę naszych relacji o Europie w Madrycie Tymczasem Sąd Najwyższy UE orzekł, że kontrowersyjne hiszpańskie prawo przewidujące amnestię dla tych, którzy planowali i uczestniczyli w nieudanym i nielegalnym dążeniu do niepodległości Katalonii, nie narusza zasad bloku. Kontynuuj czytanie..."
+      "summary": "Ten blog jest już zamknięty. Przeczytaj resztę naszych relacji o Europie w Madrycie Tymczasem Sąd Najwyższy UE orzekł, że kontrowersyjne hiszpańskie prawo przewidujące amnestię dla tych, którzy planowali nieudany i nielegalny marsz na rzecz niepodległości Katalonii i uczestniczyli w nim, nie narusza zasad bloku. Kontynuuj czytanie..."
     }
   ],
   "world_politics": [
@@ -806,7 +806,7 @@
       "summary": "Nie wszystkie najlepsze momenty turnieju miały miejsce na boisku. Przed niedzielnym finałem wracamy do niektórych z naszych faworytów."
     },
     {
-      "title": "Trump wykorzystuje swój czas największej oglądalności, aby wzbudzić wątpliwości dotyczące wyborów w USA przed śródokresową kadencją – AP News",
+      "title": "Trump wykorzystuje swój czas największej oglądalności, aby wzbudzić wątpliwości co do wyborów w USA przed śródokresową kadencją – AP News",
       "url": "https://apnews.com/article/trump-primetime-address-elections-5c84a59dffc20c12ed2fcb822fa950c9",
       "date": "2026-07-17T04:05:00Z",
       "source": "Associated Press",
@@ -830,7 +830,7 @@
       "summary": "Andy Burnham ma oficjalnie zostać kolejnym premierem w poniedziałek, ale do tego czasu musi się wydarzyć wiele rzeczy. Oto, jak wszystko ma się rozegrać."
     },
     {
-      "title": "USA uderzają w kolejne mosty w Iranie w ramach rozszerzenia swojej kampanii nalotów – AP News",
+      "title": "USA uderzają w kolejne mosty w Iranie w ramach rozszerzania swojej kampanii nalotów – AP News",
       "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-16-2026-f98ff56554de2336f0e85bb5fdcae769",
       "date": "2026-07-17T02:54:00Z",
       "source": "Associated Press",
@@ -883,7 +883,7 @@
       "date": "2026-07-16T22:43:19Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Sonam Wangchuk, długoletnia aktywistka, pościła przez 19 dni, łącząc siły z prowadzoną przez studentów kampanią mającą na celu zmianę indyjskiego systemu edukacji."
+      "summary": "Sonam Wangchuk, wieloletnia aktywistka, pościła przez 19 dni, łącząc siły z prowadzoną przez studentów kampanią mającą na celu zmianę indyjskiego systemu edukacji."
     },
     {
       "title": "Pożary w Kanadzie płoną nocą",
@@ -931,7 +931,7 @@
       "date": "2026-07-16T20:17:13Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "To pierwszy potencjalnie nadający się do zamieszkania świat, w którym istnieje atmosfera, co czyni go głównym pretendentem do poszukiwania życia poza naszym Układem Słonecznym."
+      "summary": "To pierwszy potencjalnie nadający się do zamieszkania świat, w którym istnieje atmosfera, co czyni go głównym pretendentem do poszukiwania życia poza Układem Słonecznym."
     },
     {
       "title": "Administracja Trumpa przywraca zasadę, która może odmówić zielonej karty imigrantom korzystającym ze świadczeń publicznych – AP News",
@@ -1125,7 +1125,7 @@
       "date": "2026-07-17T05:51:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876 Adres URL komentarzy: https://news.ycombinator.com/item?id=48943745 Punkty: 45 # Komentarze: 15."
+      "summary": "Adres URL artykułu: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876 Adres URL komentarzy: https://news.ycombinator.com/item?id=48943745 Punkty: 56 # Komentarze: 21."
     },
     {
       "title": "Podczas wewnętrznego spotkania Satya Nadella skrytykował Claude Fable 5 za „kontrolę redakcyjną”, twierdząc, że odmowa robienia „przypadkowych rzeczy” nie ma sensu (Jordan Novet/CNBC)",
@@ -1229,7 +1229,7 @@
       "date": "2026-07-17T03:53:38Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://repebble.com/blog/pebble-mega-update-july-2026 Adres URL komentarzy: https://news.ycombinator.com/item?id=48943174 Punkty: 72 # Komentarze: 6."
+      "summary": "Adres URL artykułu: https://repebble.com/blog/pebble-mega-update-july-2026 Adres URL komentarzy: https://news.ycombinator.com/item?id=48943174 Punkty: 84 # Komentarze: 13."
     },
     {
       "title": "Jak rzymski beton przetrwał tysiąclecia? Wskazówki można znaleźć w latrynie sprzed 1900 lat",
@@ -1237,7 +1237,7 @@
       "date": "2026-07-17T03:48:26Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48943142 Punkty: 95 # Komentarze: 56."
+      "summary": "Adres URL artykułu: https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48943142 Punkty: 102 # Komentarze: 61."
     },
     {
       "title": "Upał osłabia baterię w telefonie? Tak ochronisz smartfon latem",
@@ -1269,7 +1269,7 @@
       "date": "2026-07-17T02:23:18Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc Adres URL komentarzy: https://news.ycombinator.com/item?id=48942721 Punkty: 15 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc Adres URL komentarzy: https://news.ycombinator.com/item?id=48942721 Punkty: 16 # Komentarze: 0."
     },
     {
       "title": "Źródła: Coatue kieruje inwestycją o wartości 3 miliardów dolarów w Databricks, która wycenia tę firmę zajmującą się oprogramowaniem do analizy danych na 188 miliardów dolarów, co stanowi wzrost o 40% w porównaniu z wyceną z grudnia (Wall Street Journal)",
@@ -1285,7 +1285,7 @@
       "date": "2026-07-17T01:36:52Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48942454 Punkty: 112 # Komentarze: 83."
+      "summary": "Adres URL artykułu: https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48942454 Punkty: 121 # Komentarze: 94."
     },
     {
       "title": "Eksperymentalna eksplozja M 3.9 – 147 km na wschód od Ponce Inlet na Florydzie",
@@ -1293,7 +1293,7 @@
       "date": "2026-07-17T00:45:05Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive Adres URL komentarzy: https://news.ycombinator.com/item?id=48942125 Punkty: 59 # Komentarze: 31."
+      "summary": "Adres URL artykułu: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive Adres URL komentarzy: https://news.ycombinator.com/item?id=48942125 Punkty: 59 # Komentarze: 33."
     },
     {
       "title": "Człowiek w pętli jest zmęczony",
@@ -1301,7 +1301,7 @@
       "date": "2026-07-17T00:21:09Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://pydantic.dev/articles/the-human-in-the-loop-is-tired Adres URL komentarzy: https://news.ycombinator.com/item?id=48942000 Punkty: 168 # Komentarze: 89."
+      "summary": "Adres URL artykułu: https://pydantic.dev/articles/the-human-in-the-loop-is-tired Adres URL komentarzy: https://news.ycombinator.com/item?id=48942000 Punkty: 176 # Komentarze: 94."
     },
     {
       "title": "SpaceX wstrzymuje start statku kosmicznego po tym, jak niektóre jego silniki nie uruchomiły się",
@@ -1463,7 +1463,7 @@
       "date": "2026-07-17T01:56:40Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Dostosowanie istniejącego lokalnego projektu LLM do celów bezpieczeństwa i suwerenności oraz nadzieja, że ​​pewnego dnia dorówna Mythos."
+      "summary": "Dostosowanie istniejącego lokalnego projektu LLM do celów bezpieczeństwa i suwerenności oraz nadzieja, że ​​pewnego dnia dorównamy Mythos."
     },
     {
       "title": "Chiński zakaz pamięci odciąłby ulgę RAMpocalypse",
@@ -1538,7 +1538,7 @@
       "summary": "Neverclick pozwala uniknąć ograniczania się do niektórych aplikacji, rezygnując z interfejsów API ułatwień dostępu na rzecz szybkiego i lekkiego modelu widzenia komputerowego."
     },
     {
-      "title": "ThreatsDay: oprogramowanie szpiegujące do oszukiwania w grach, całodobowe oprogramowanie ransomware, prześladowanie przy synchronizacji Chrome i 12 innych historii",
+      "title": "ThreatsDay: oprogramowanie szpiegujące do oszustw w grach, całodobowe oprogramowanie ransomware, prześladowanie przy synchronizacji Chrome i 12 innych historii",
       "url": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
       "date": "2026-07-16T15:41:15Z",
       "source": "The Hacker News",
@@ -1594,7 +1594,7 @@
       "summary": "Łącznie 900 aplikacji, w tym systemy ERP, CRM i systemy produkcyjne, będzie utrzymywanych „pod europejską kontrolą”."
     },
     {
-      "title": "Błąd związany z wymianą tokenów n8n może pozwolić atakującym zalogować się jako użytkownicy innego wystawcy",
+      "title": "Błąd w wymianie tokenów n8n może pozwolić atakującym zalogować się jako użytkownicy innego wystawcy",
       "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
       "date": "2026-07-16T13:33:25Z",
       "source": "The Hacker News",
@@ -1727,7 +1727,7 @@
       "date": "2026-07-15T18:43:08Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Badacze zajmujący się cyberbezpieczeństwem ujawnili szczegóły dotyczące wcześniej niezgłaszanej struktury botnetu Internetu rzeczy (IoT) o nazwie TuxBot v3 Evolution, która wykazuje oznaki tworzenia przy wsparciu dużego modelu językowego (LLM), aczkolwiek z niezbyt pomyślnymi wynikami. „Chociaż sztuczna inteligencja spełniła prośbę o wygenerowanie kodu botnetu, zawierała zastrzeżenie dotyczące bezpieczeństwa, mówiące, że programista poniósł porażkę."
+      "summary": "Badacze zajmujący się cyberbezpieczeństwem ujawnili szczegóły dotyczące wcześniej niezgłaszanej struktury botnetu Internetu rzeczy (IoT) o nazwie TuxBot v3 Evolution, która wykazuje oznaki tworzenia przy wsparciu dużego modelu językowego (LLM), aczkolwiek z niezbyt pomyślnymi wynikami. „Chociaż sztuczna inteligencja zastosowała się do ich prośby o wygenerowanie kodu botnetu, zawierała zastrzeżenie dotyczące bezpieczeństwa, mówiące, że programista poniósł porażkę."
     },
     {
       "title": "OkoBot Malware Framework wprowadza phishing typu Seed Phrase do aplikacji Ledger i Trezor",
@@ -1735,7 +1735,7 @@
       "date": "2026-07-15T15:30:30Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Środowisko szkodliwego oprogramowania o nazwie OkoBot działa na komputerach z systemem Windows od kwietnia 2025 r., a jeden z jego modułów został zbudowany w celu oszukania właścicieli portfeli sprzętowych w zakresie czasu odzyskiwania. Na zainfekowanym komputerze żądanie pochodzi z oprogramowania komputerowego portfela. Czasami czeka, aż najpierw podłączysz urządzenie."
+      "summary": "Środowisko szkodliwego oprogramowania o nazwie OkoBot działa na komputerach z systemem Windows od kwietnia 2025 r., a jeden z jego modułów został zbudowany w celu oszukania właścicieli portfeli sprzętowych w zakresie odzyskiwania hasła. Na zainfekowanym komputerze żądanie pochodzi z oprogramowania komputerowego portfela. Czasami czeka, aż najpierw podłączysz urządzenie."
     },
     {
       "title": "Rosyjscy hakerzy celują w czuły punkt Ukrainy. Nie muszą łamać zabezpieczeń",
@@ -1788,6 +1788,14 @@
   ],
   "finance": [
     {
+      "title": "Koniec z anonimowością zarobków medyków. Prezydent podpisał ustawę",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-anonimowoscia-zarobkow-medykow-Prezydent-podpisal-ustawe-9169528.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-07-17T08:12:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Prezydent Karol Nawrocki podpisał ustawę umożliwiającą gromadzenie danych o wynagrodzeniach m.in. lekarzy w powiązaniu z numerem PESEL lub numerem prawa wykonywania zawodu."
+    },
+    {
       "title": "Bezdzietne kobiety miałyby pracować dłużej? Prezes ZUS: jestem sceptyczny [WYWIAD]",
       "url": "https://www.money.pl/finanse/bezdzietne-kobiety-mialyby-pracowac-dluzej-prezes-zus-jestem-sceptyczny-wywiad-7308015674485184a.html",
       "date": "2026-07-17T08:00:15Z",
@@ -1802,6 +1810,14 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Seven & i Holdings, japoński koncern detaliczny, który zarządza m.in. globalną siecią sklepów 7-Eleven, potwierdził w piątkowym komunikacie, że prowadzi rozmowy w sprawie inwestycji w Grupę Żabka."
+    },
+    {
+      "title": "Chiny ingerowały w wybory? Donald Trump przedstawił swoje oskarżenia - Forsal.pl",
+      "url": "https://forsal.pl/swiat/usa/artykuly/11277225,trump-oskarzyl-chiny-chodzi-o-bezpieczenstwo-amerykanskich-wyborow.html",
+      "date": "2026-07-17T07:49:02Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Chiny ingerowały w wybory? Donald Trump przedstawił swoje oskarżenia Forsal.pl."
     },
     {
       "title": "Pentagon pierwszy raz utajnił raport o F-35. \"To wadliwy program, trzeba wstrzymać zakupy\" - Forsal.pl",
@@ -1908,28 +1924,12 @@
       "summary": "Najnowsze dane policji pokazują drastyczną zmianę nastrojów społecznych. W I półroczu obywatele Ukrainy złożyli w Polsce aż 180 zawiadomień o przestępstwach z nienawiści - informuje „Rzeczpospolita” w piątkowym wydaniu."
     },
     {
-      "title": "Wall Street zapłaci za sekundy. Firma Trumpa sprzedaje szybszy dostęp do jego wpisów",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-zaplaci-za-sekundy-Firma-Trumpa-sprzedaje-szybszy-dostep-do-jego-wpisow-9169482.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-07-17T06:15:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Należąca do prezydenta USA Donalda Trumpa firma TMTG zapowiedziała w czwartek, że sprzeda firmom i inwestorom najszybszy dostęp do wpisów najpopularniejszych użytkowników, czyli przede wszystkim samego Trumpa. Zapowiedź wywołała oskarżenia, że polityk chce wzbogacić się na sprawowanym urzędzie - podała AP."
-    },
-    {
       "title": "Nawet 11 tys. zł na przydomową oczyszczalnię ścieków. Kto dostanie dofinansowanie w 2026 roku? - Forsal.pl",
       "url": "https://forsal.pl/finanse/finanse-osobiste/artykuly/11277196,nawet-11-tys-zl-na-przydomowa-oczyszczalnie-sciekow-kto-dostanie-dofinansowanie-w-2026-roku.html",
       "date": "2026-07-17T05:51:01Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Nawet 11 tys. zł na przydomową oczyszczalnię ścieków. Kto dostanie dofinansowanie w 2026 roku?"
-    },
-    {
-      "title": "Ukraińcy stworzyli potwora. Spełnia się czarny sen Rosjan - Forsal.pl",
-      "url": "https://forsal.pl/swiat/bezpieczenstwo/artykuly/11277186,ukraincy-stworzyli-potwora-spelnia-sie-czarny-sen-rosjan.html",
-      "date": "2026-07-17T05:38:31Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Ukraińcy stworzyli potwora. Spełnia się czarny sen Rosjan Forsal.pl."
     },
     {
       "title": "Susza zabija rolnictwo. Globalne ocieplenie uderza w Polskę",
@@ -1972,12 +1972,12 @@
       "summary": "USA uderzą w ścianę długu. Złamały „prawo Fergusona”, a to oznacza jedno Forbes."
     },
     {
-      "title": "Analiza techniczna INTSW2099077 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/INTSW2099077",
-      "date": "2026-07-17T01:12:08Z",
+      "title": "Sygnały analizy technicznej INTSW2099077 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/INTSW2099077",
+      "date": "2026-07-17T01:45:39Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna INTSW2099077 INGBANK BiznesRadar."
+      "summary": "Sygnały analizy technicznej INTSW2099077 INGBANK BiznesRadar."
     },
     {
       "title": "Ansurdalny trend AI w korporacjach. Czym jest tokenmaxxing? - Forbes",
@@ -1994,14 +1994,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Aż 82 proc. pracowników doświadcza lęku przed początkiem tygodnia – wynika z badania Adobe przywołanego przez Enpulse. Ten sam mechanizm wraca pod koniec dłuższego urlopu."
-    },
-    {
-      "title": "Analiza techniczna RBIFL5KRU3 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/RBIFL5KRU3",
-      "date": "2026-07-16T20:19:43Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Analiza techniczna RBIFL5KRU3 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "SELENAFM [SEL] - stockwatch.pl",
@@ -2028,12 +2020,12 @@
       "summary": "Rząd mógłby zdecydować się na powrót programu Ceny Paliw Niżej (CPN) w obliczu całkowitego zablokowania Cieśniny Ormuz. To przywróciłoby ceny ropy do poziomów, które obserwowaliśmy w marcu czy kwietniu – uważa wicedyrektor Działu Analiz XTB Michał Stajniak. – Wielu kierowców z nadzieją patrzy w stronę rządu, licząc na powrót programu „Ceny Paliw Niżej” (CPN)."
     },
     {
-      "title": "Notowania INTLEUH99226 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/INTLEUH99226",
-      "date": "2026-07-16T15:02:11Z",
+      "title": "Robyg zakontraktował 660 lokali w drugim kwartale - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149409,robyg-zakontraktowal-660-lokali-w-drugim-kwartale",
+      "date": "2026-07-16T15:23:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania INTLEUH99226 INGBANK BiznesRadar."
+      "summary": "Robyg zakontraktował 660 lokali w drugim kwartale BiznesRadar."
     },
     {
       "title": "Analiza techniczna RBIWP1226W201 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
@@ -2082,6 +2074,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Analiza techniczna INTLCCC98517 INGBANK BiznesRadar."
+    },
+    {
+      "title": "Transakcje OW20G263875 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/transakcje/OW20G263875",
+      "date": "2026-07-16T13:49:31Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Transakcje OW20G263875 BiznesRadar."
     },
     {
       "title": "Jak Christopher Nolan stał się największą gwiazdą filmową w Hollywood? - Forbes",
@@ -2220,8 +2220,8 @@
       "lng": 53.69,
       "type": "conflict",
       "region": "Iran",
-      "description": "Zaatakowano lotnisko Iranshahr, południowy dworzec kolejowy i dwa mosty – podają irańskie media.",
-      "url": "https://www.theguardian.com/world/live/2026/jul/17/us-iran-war-strait-of-hormuz-donald-trump-israel-lebanon-latest-news-updates"
+      "description": "Teheran twierdzi, że amerykańskie ataki uderzyły w mosty, podczas gdy Stany Zjednoczone wsiadły na statek w Cieśninie Ormuz.",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
     },
     {
       "lat": 52.5,
@@ -2324,7 +2324,7 @@
       "lng": 96.1,
       "type": "conflict",
       "region": "Mjanma",
-      "description": "Od czasu opuszczenia Birmy 29 czerwca zniknęły dwie łodzie przewożące szacunkowo 530 Rohingjów.",
+      "description": "Od czasu opuszczenia Birmy 29 czerwca zniknęły dwie łodzie przewożące około 530 Rohingjów.",
       "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -2468,7 +2468,7 @@
       "lng": 128.2,
       "type": "cyber",
       "region": "Korea Południowa",
-      "description": "Dostosowanie istniejącego lokalnego projektu LLM do celów bezpieczeństwa i suwerenności oraz nadzieja, że ​​pewnego dnia dorówna Mythos.",
+      "description": "Dostosowanie istniejącego lokalnego projektu LLM do celów bezpieczeństwa i suwerenności oraz nadzieja, że ​​pewnego dnia dorównamy Mythos.",
       "url": "https://www.theregister.com/ai-and-ml/2026/07/17/south-korea-making-its-own-security-centric-ai-model/5274034"
     },
     {
@@ -2759,51 +2759,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25821.42,
+      25848.97,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26992.52,
+      27021.31,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27140.32,
+      27169.27,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27386.68,
+      27415.89,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28026.11,
+      28056.0,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28062.36,
+      28092.29,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28308.46,
+      28338.65,
       27354.94,
       27400.36,
       27412.11,
-      28712.21,
+      28742.83,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27968.57,
+      27998.4,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28149.33,
+      28179.35,
       27686.17,
       27404.78,
       27351.97,
@@ -2812,7 +2812,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27856.0,
+      27885.71,
       27930.04,
       28234.04,
       28218.36,
@@ -2821,11 +2821,11 @@
       28294.39,
       28203.83,
       28555.17,
-      28694.52,
+      28725.12,
       28590.53,
       28538.61,
       28515.01,
-      28536.87
+      28567.3
     ],
     "currency": "PLN"
   }
