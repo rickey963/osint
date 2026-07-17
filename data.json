@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-17T04:05:03Z",
+  "last_updated": "2026-07-17T04:05:34Z",
   "poland": [
+    {
+      "title": "Nocne naloty na Iran. \"Trafiono w dziesiątki celów\"",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-17/nocne-naloty-na-iran-trafiono-w-dziesiatki-celow/",
+      "date": "2026-07-17T04:04:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Amerykańskie siły przeprowadziły nocą z czwartku na piątek ataki na kilkadziesiąt irańskich celów wojskowych - poinformowało Centralne Dowództwo USA (CENTCOM). Była to szósta noc z rzędu amerykańskich bombardowań Iranu."
+    },
     {
       "title": "Zrównoważony rozwój i odporność na kryzysy – Bruksela wskazuje kierunki dla turystyki",
       "url": "https://turystyka.rp.pl/nowe-trendy/art44837951-zrownowazony-rozwoj-i-odpornosc-na-kryzysy-bruksela-wskazuje-kierunki-dla-turystyki",
@@ -280,14 +288,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 2,
       "summary": "Do wypadku doszło na drodze S6 w okolicy Starych Bielic (woj. zachodniopomorskie). Nie żyje sześcioletnie dziecko, a 35-letni mężczyzna i 22-letnia kobieta zostali przewiezieni do szpitala."
-    },
-    {
-      "title": "Były minister obrony Ukrainy mówi o korupcji w resorcie. \"Zaczęliśmy ich zwalniać jednego po drugim\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,32917514,byly-minister-obrony-ukrainy-mowi-o-korupcji-w-resorcie-zaczelismy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-07-16T16:22:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Mychajło Fedorow powiedział, że korupcja w ukraińskim Ministerstwie Obrony nie dotyczyła tylko pojedynczych umów. Według niego część szefów departamentów utrzymywała bliskie kontakty z organami ścigania i prywatnymi przedsiębiorstwami."
     },
     {
       "title": "Kryzys mieszkaniowy barierą rozwoju polskich miast. Problemem ceny i dostępność - | Serwis Samorządowy PAP",
@@ -2220,8 +2220,8 @@
       "lng": 53.69,
       "type": "conflict",
       "region": "Iran",
-      "description": "Przedstawiamy przegląd najważniejszych wydarzeń mijającej nocy: Donald Trump wygłosił orędzie dotyczące ingerencji Chin w wybory w USA, część amerykańskich stacji telewizyjnych zdecydowała, że nie będzie go transmitować; wzrósł bilans ofiar śmiertelnych trzęsień ziemi w Wenezueli; USA szóstą noc z rzędu atakowały Iran.",
-      "url": "https://www.rp.pl/przeglad-wydarzen-z-nocy/art44841651-nie-wszystkie-stacje-transmitowaly-oredzie-trumpa-niemal-5-tys-ofiar-trzesien-ziemi-w-wenezueli"
+      "description": "Amerykańskie siły przeprowadziły nocą z czwartku na piątek ataki na kilkadziesiąt irańskich celów wojskowych - poinformowało Centralne Dowództwo USA (CENTCOM).",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-17/nocne-naloty-na-iran-trafiono-w-dziesiatki-celow/"
     },
     {
       "lat": 52.5,
@@ -2520,7 +2520,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 24,
+      "score": 22,
       "reasons": [
         {
           "title": "Iran donosi o nowych strajkach w pobliżu wyspy Qeshm i oskarża USA o „barbarzyński” atak na szpital – tak się stało",
@@ -2536,7 +2536,7 @@
     },
     {
       "name": "Liban",
-      "score": 15,
+      "score": 14,
       "reasons": [
         {
           "title": "Iran donosi o nowych strajkach w pobliżu wyspy Qeshm i oskarża USA o „barbarzyński” atak na szpital – tak się stało",
@@ -2547,7 +2547,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 12,
+      "score": 11,
       "reasons": [
         {
           "title": "Ukraina była na fali. Następnie w polu widzenia eksplodowała strategia zderzenia o wojnę.",
@@ -2770,51 +2770,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25813.52,
+      25813.18,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26984.25,
+      26983.89,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27132.01,
+      27131.65,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27378.3,
+      27377.93,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28017.53,
+      28017.16,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28053.77,
+      28053.4,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28299.79,
+      28299.42,
       27354.94,
       27400.36,
       27412.11,
-      28703.41,
+      28703.03,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27960.01,
+      27959.64,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28140.71,
+      28140.34,
       27686.17,
       27404.78,
       27351.97,
@@ -2823,7 +2823,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27847.47,
+      27847.1,
       27930.04,
       28234.04,
       28218.36,
@@ -2832,11 +2832,11 @@
       28294.39,
       28203.83,
       28555.17,
-      28685.73,
+      28685.35,
       28590.53,
       28538.61,
       28515.01,
-      28528.13
+      28527.75
     ],
     "currency": "PLN"
   }
