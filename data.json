@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-17T18:17:24Z",
+  "last_updated": "2026-07-17T18:26:54Z",
   "poland": [
+    {
+      "title": "Joanna Ćwiek-Świdecka: Nie da się zawrócić kijem Wisły. Weto prezydenta zignorowało zmiany społeczne",
+      "url": "https://www.rp.pl/komentarze/art44846701-joanna-cwiek-swidecka-nie-da-sie-zawrocic-kijem-wisly-weto-prezydenta-zignorowalo-zmiany-spoleczne",
+      "date": "2026-07-17T18:14:23Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Prezydenckie weto miało być obroną małżeństwa. Problem w tym, że ustawa o statusie osoby najbliższej nie tworzyła dla niego konkurencji, lecz próbowała rozwiązać konkretne problemy ludzi żyjących poza tą instytucją. Nic z tego nie wyszło."
+    },
+    {
+      "title": "Nowy trend pokolenia Z i milenialsów na wakacje. Wybierają zamiast pięknych plaż i all inclusive",
+      "url": "https://turystyka.rp.pl/zanim-wyjedziesz/art44804061-nowy-trend-pokolenia-z-i-milenialsow-na-wakacje-wybieraja-zamiast-pieknych-plaz-i-all-inclusive",
+      "date": "2026-07-17T18:14:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "To nie żart. Coraz więcej przedstawicieli pokolenia Z i milenialsów mówi „nie” pięciogwiazdkowym hotelom, all inclusive i zatłoczonym kurortom. Zamiast tego masowo wybierają wakacje w stylu retro: z namiotem, kajakami, ogniskiem, wspólnym gotowaniem i telefonem schowanym głęboko w plecaku."
+    },
     {
       "title": "Nowe sankcje na rosyjską zbrojeniówkę za masowe naloty na cywilny Kijów",
       "url": "https://www.rp.pl/biznes/art44846751-nowe-sankcje-na-rosyjska-zbrojeniowke-za-masowe-naloty-na-cywilny-kijow",
@@ -98,28 +114,12 @@
       "summary": "Wołodymyr Zełenski zapowiedział także zwiększenie liczby zezwoleń na poszukiwania i ekshumacje. \"Ukraina jest wdzięczna Polsce za wyraźne wsparcie po rozpoczęciu pełnoskalowej rosyjskiej inwazji\" - podkreślił prezydent Ukrainy."
     },
     {
-      "title": "Pokolenie Z odkrywa nowy sposób podróżowania. Inspiracją są książki i ich autorzy",
-      "url": "https://sukces.rp.pl/spoleczenstwo/art44783241-pokolenie-z-odkrywa-nowy-sposob-podrozowania-inspiracja-sa-ksiazki-i-ich-autorzy",
-      "date": "2026-07-17T16:44:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Coraz więcej młodych ludzi wybiera podróże inspirowane książkami zamiast klasycznego zwiedzania. Trend określany jako literary tourism przyciąga zwłaszcza przedstawicieli pokolenia Z, którzy chcą odkrywać miasta oczami ulubionych bohaterów i pisarzy, łącząc wypoczynek z pasją do literatury."
-    },
-    {
       "title": "Przełomowa decyzja Zełenskiego ws. Wołynia. \"Otwieramy wszystkie archiwa\" - Polskie Radio 24",
       "url": "https://polskieradio24.pl/swiat/przelomowa-decyzja-zelenskiego-ws-wolynia-otwieramy",
       "date": "2026-07-17T16:42:55Z",
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Przełomowa decyzja Zełenskiego ws. Wołynia. \"Otwieramy wszystkie archiwa\" Polskie Radio 24."
-    },
-    {
-      "title": "Prezes NIL: Wojny lekarzy z rządem nie będzie. Chcemy współpracować przy reformie",
-      "url": "https://www.rp.pl/polityka/art44843641-prezes-nil-wojny-lekarzy-z-rzadem-nie-bedzie-chcemy-wspolpracowac-przy-reformie",
-      "date": "2026-07-17T16:31:35Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Nie może być tak, iż Titanic uderzył w górę lodową, a kapitan statku nakazuje zatkać dziurę deseczkami i udawać przez następny rok, do wyborów, że jakoś to będzie. Rząd Donalda Tuska ma mandat społeczny do zmian - uważa dr Łukasz Jankowski, prezes Naczelnej Rady Lekarskiej."
     },
     {
       "title": "Zbliża się trzęsienie ziemi w PiS? Kaczyński dostał list od 45 posłów - Polskie Radio 24",
@@ -404,6 +404,30 @@
   ],
   "world_security": [
     {
+      "title": "Trzęsienie ziemi o magnitudzie 7,3 nawiedziło wybrzeże Meksyku",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-17T18:12:54Z",
+      "source": "BBC News",
+      "confirmed_by": 2,
+      "summary": "W rezultacie Amerykańskie Centrum Ostrzegania przed Tsunami zarejestrowało fale o wysokości 0,3 m (1,1 stopy) nad poziomem pływu w Puerto Madero i Chiapas w Meksyku."
+    },
+    {
+      "title": "Amerykański sąd apelacyjny uznał zakaz posiadania karabinów szturmowych w New Jersey za niezgodny z konstytucją – Reuters",
+      "url": "https://www.reuters.com/world/us-appeals-court-declares-new-jerseys-ban-assault-rifles-unconstitutional-2026-07-17/",
+      "date": "2026-07-17T18:04:37Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Amerykański sąd apelacyjny uznał zakaz sprzedaży karabinów szturmowych w New Jersey za niezgodny z konstytucją Reuters."
+    },
+    {
+      "title": "UE proponuje spowolnienie ograniczania emisji gazów cieplarnianych przez przedsiębiorstwa",
+      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-17T17:52:06Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Zgodnie z propozycjami UE planuje złagodzić swój system handlu uprawnieniami do emisji, aby dać przedsiębiorstwom więcej czasu na zmniejszenie emisji gazów cieplarnianych."
+    },
+    {
       "title": "Iran oskarża USA o uderzenie w infrastrukturę cywilną",
       "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-17T17:46:24Z",
@@ -444,14 +468,6 @@
       "summary": "Amerykański dostawca sałaty Taylor Farms wycofuje składniki powiązane z epidemią pasożytów, donosi Bloomberg News Reuters."
     },
     {
-      "title": "Amerykański sąd apelacyjny uznał zakaz posiadania karabinów szturmowych w New Jersey za niezgodny z konstytucją – Reuters",
-      "url": "https://www.reuters.com/world/us-appeals-court-declares-new-jerseys-ban-assault-rifles-unconstitutional-2026-07-17/",
-      "date": "2026-07-17T17:21:03Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Amerykański sąd apelacyjny uznał zakaz sprzedaży karabinów szturmowych w New Jersey za niezgodny z konstytucją Reuters."
-    },
-    {
       "title": "Apple pozbawia Nvidię pozycji najcenniejszej firmy na świecie w związku ze zmianą zakładów na sztuczną inteligencję – Reuters",
       "url": "https://www.reuters.com/business/apple-closes-nvidia-race-worlds-most-valuable-company-2026-07-17/",
       "date": "2026-07-17T17:11:09Z",
@@ -465,7 +481,7 @@
       "date": "2026-07-17T17:06:44Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Trump Media podał 100 000 dolarów miesięcznej opłaty za „najszybszy” przekaz postów prezydenta USA, podaje FT Reuters."
+      "summary": "Jak podaje FT Reuters, Trump Media nałożył 100 000 dolarów miesięcznej opłaty za „najszybszy” przekaz postów amerykańskiego prezydenta."
     },
     {
       "title": "Drugi tankowiec w ciągu trzech miesięcy uprowadzony u wybrzeży Jemenu przez podejrzanych somalijskich piratów",
@@ -476,7 +492,7 @@
       "summary": "Doszło także do kilku nieudanych ataków w regionie, w którym piractwo zdaje się powracać."
     },
     {
-      "title": "Zoox wycofuje samochody autonomiczne, ponieważ mogą nie wykrywać dymu – Reuters",
+      "title": "Zoox wycofuje samochody autonomiczne, bo mogą nie wykrywać dymu – Reuters",
       "url": "https://www.reuters.com/world/zoox-recalls-self-driving-cars-because-they-may-not-detect-smoke-2026-07-17/",
       "date": "2026-07-17T16:50:39Z",
       "source": "Reuters",
@@ -500,12 +516,12 @@
       "summary": "Wall St spada, gdy obawy związane z rajdem AI pogłębiają się Reuters."
     },
     {
-      "title": "Pożary, susze i burze nękają Europę nawet po ustąpieniu fali upałów – Reuters",
-      "url": "https://www.reuters.com/business/environment/wildfires-drought-storms-hound-europe-even-heatwave-recedes-2026-07-17/",
-      "date": "2026-07-17T16:31:25Z",
+      "title": "Chiny twierdzą, że USA przywrócą Hongkongowi specjalny status handlowy – Reuters",
+      "url": "https://www.reuters.com/business/finance/china-says-us-will-restore-hong-kongs-special-trade-status-2026-07-17/",
+      "date": "2026-07-17T16:37:14Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Pożary, susze i burze nękają Europę nawet po ustąpieniu fali upałów Reuters."
+      "summary": "Chiny twierdzą, że USA przywrócą Hongkongowi specjalny status handlowy Reuters."
     },
     {
       "title": "Indie zatwierdzają lek firmy Novo Nordisk na otyłość Wegovy na stłuszczenie wątroby – Reuters",
@@ -521,7 +537,23 @@
       "date": "2026-07-17T16:20:45Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "W pożarze zginęło jedenaście osób, w tym dzieci, a 19 innych zostało rannych."
+      "summary": "W pożarze zginęło 11 osób, w tym dzieci, a 19 innych zostało rannych."
+    },
+    {
+      "title": "Taylor Farms wycofuje produkty powiązane z epidemią cyklosporozy – donosi Bloomberg News – Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/taylor-farms-recall-products-linked-cyclosporiasis-outbreak-bloomberg-news-2026-07-17/",
+      "date": "2026-07-17T16:11:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Bloomberg News donosi Reuters, że Taylor Farms wycofuje produkty powiązane z epidemią cyklosporozy."
+    },
+    {
+      "title": "EKSKLUZYWNIE: Saudyjski PIF gotowy uzyskać zgodę UE na umowę z Electronic Arts w ramach zasad dotacji, podają źródła – Reuters",
+      "url": "https://www.reuters.com/business/saudi-pif-set-win-eu-nod-electronic-arts-deal-under-subsidy-rules-sources-say-2026-07-17/",
+      "date": "2026-07-17T16:08:52Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "EKSKLUZYWNIE: Saudyjski MIF ma szansę pozyskać UE skinienie głową na umowę z Electronic Arts w ramach zasad dotacji, podają źródła Reuters."
     },
     {
       "title": "Szpital twierdzi, że izraelski atak na pogrzeb w Gazie zabił co najmniej siedem osób",
@@ -529,7 +561,7 @@
       "date": "2026-07-17T16:06:37Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Według miejscowego szpitala kolejne 22 osoby zostały ranne podczas żałoby po Palestynie zabitym w izraelskim ataku wcześniej tego dnia W izraelskim ataku na pogrzeb w Strefie Gazy zginęło co najmniej siedem osób, a kolejne 22 zostały ranne – podaje miejscowy szpital. Izraelskie wojsko nie udzieliło natychmiastowego komentarza. Kontynuuj czytanie..."
+      "summary": "Według lokalnego szpitala kolejne 22 osoby zostały ranne podczas żałoby po Palestynie zabitym w izraelskim ataku wcześniej tego dnia W izraelskim ataku na pogrzeb w Strefie Gazy zginęło co najmniej siedem osób, a kolejne 22 zostały ranne – podaje miejscowy szpital. Izraelskie wojsko nie udzieliło natychmiastowego komentarza. Kontynuuj czytanie..."
     },
     {
       "title": "Najskuteczniejsze w Europie narzędzie ograniczania emisji gazów cieplarnianych „ryzykuje osłabieniem”",
@@ -548,28 +580,12 @@
       "summary": "Intuicyjna chirurgia spada w związku z obawami Obamacare, ożywiając na nowo debatę na temat popytu na technologie medyczne Reuters."
     },
     {
-      "title": "EKSKLUZYWNIE: Saudyjski PIF gotowy uzyskać zgodę UE na umowę z Electronic Arts w ramach zasad dotacji, podają źródła – Reuters",
-      "url": "https://www.reuters.com/business/saudi-pif-set-win-eu-nod-electronic-arts-deal-under-subsidy-rules-sources-say-2026-07-17/",
-      "date": "2026-07-17T15:04:05Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "EKSKLUZYWNIE: Saudyjski PIF ma szansę pozyskać UE skinienie głową na umowę z Electronic Arts w ramach zasad dotacji, podają źródła Reuters."
-    },
-    {
       "title": "Źródła podają, że podejrzani piraci zajęli tankowiec u wybrzeży Jemenu w Zatoce Adeńskiej – Reuters",
       "url": "https://www.reuters.com/world/middle-east/assailants-board-chemical-products-tanker-off-yemen-suspected-pirate-hijacking-2026-07-17/",
       "date": "2026-07-17T15:01:56Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Źródła Reuters podają, że podejrzani piraci zajęli tankowiec u wybrzeży Jemenu w Zatoce Adeńskiej."
-    },
-    {
-      "title": "Trzęsienie ziemi o magnitudzie 7,4 w Puerto Madero w Meksyku – podaje USGS – Reuters",
-      "url": "https://www.reuters.com/business/environment/magnitude-74-earthquake-strikes-puerto-madero-mexico-usgs-says-2026-07-17/",
-      "date": "2026-07-17T15:01:37Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Trzęsienie ziemi o magnitudzie 7,4 nawiedziło Puerto Madero w Meksyku – podaje USGS Reuters."
     },
     {
       "title": "Sygnalistce Robodebt powiedziano, że dowody złożone przez komisję królewską „mogą kosztować cię pracę” – orzekł sąd",
@@ -585,7 +601,7 @@
       "date": "2026-07-17T15:00:34Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Doradca brytyjskiej policji na początku XXI wieku i globalny konsultant ds. zabójstw „niczyich” twierdzi, że zawęził obszar poszukiwań • Morderstwo Petera Falconio 25 lat później: nowy materiał filmowy pokazuje, jak umierający australijski zabójca z buszu odmawia ujawnienia lokalizacji ciała Były ekspert brytyjskiego rządu, który konsultował poszukiwania szczątków zamordowanego turysty z plecakiem, Peter Falconio, twierdzi, że zidentyfikował „najbardziej prawdopodobne” potencjalne miejsce pochówku – opuszczony tor wyścigowy położony zaledwie 8 km od miejsca zbrodni niesławny atak na buszu w Barrow Creek. W lipcu 2001 roku Falconio i jego partnerka Joanne Lees, oboje z Yorkshire, wpadli w zasadzkę i zaatakowani przez Bradleya Johna Murdocha, gdy jechali odległym odcinkiem drogi na Terytorium Północnym Australii, około 300 km na północ od Alice Springs. Kontynuuj czytanie..."
+      "summary": "Doradca brytyjskiej policji na początku XXI wieku i globalny konsultant do spraw zabójstw „niczyich” twierdzi, że zawęził obszar poszukiwań • Morderstwo Petera Falconio 25 lat później: nowy materiał filmowy pokazuje, jak umierający australijski zabójca z buszu odmawia ujawnienia lokalizacji ciała Były ekspert brytyjskiego rządu, który konsultował poszukiwania szczątków zamordowanego turysty z plecakiem, Peter Falconio, twierdzi, że zidentyfikował „najbardziej prawdopodobne” potencjalne miejsce pochówku – opuszczony tor wyścigowy położony zaledwie 8 km od miejsca zdarzenia niesławny atak na buszu w Barrow Creek. W lipcu 2001 roku Falconio i jego partnerka Joanne Lees, oboje z Yorkshire, wpadli w zasadzkę i zaatakowani przez Bradleya Johna Murdocha, gdy jechali odległym odcinkiem drogi na Terytorium Północnym Australii, około 300 km na północ od Alice Springs. Kontynuuj czytanie..."
     },
     {
       "title": "Co najmniej dwie osoby nie żyją w powodzi w Teksasie, która spustoszyła ten sam obszar, w którym zginęli obozowicze",
@@ -617,7 +633,7 @@
       "date": "2026-07-17T14:00:31Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Uciekające pielęgnice kwietnikowe budzą niepokój rodzimych gatunków oraz pasożytów mogących zakażać ludzi Uciekłe ozdobne ryby akwariowe włączyły się do lokalnego ekosystemu na Filipinach, ale naukowcy twierdzą, że mogą zagrażać rodzimej różnorodności biologicznej jeziora. Pielęgnice kwietnikowe – hodowane przez człowieka ryby hybrydowe, cenione za jasnozłoty kolor i wydatne garby na głowie – prawdopodobnie uciekły z obiektów hodowlanych do jeziora Sampaloc, które znajduje się w krater wulkanu podczas tajfunu. Kontynuuj czytanie..."
+      "summary": "Uciekające pielęgnice kwietnikowe budzą niepokój rodzimych gatunków oraz pasożytów mogących zakażać ludzi Uciekłe ozdobne ryby akwariowe włączyły się do lokalnego ekosystemu na Filipinach, ale naukowcy twierdzą, że mogą zagrażać rodzimej różnorodności biologicznej jeziora. Pielęgnice kwietnikowe – hodowane przez człowieka ryby hybrydowe, cenione ze względu na jasnozłoty kolor i wydatne garby na głowie – uciekły z obiektów hodowlanych do jeziora Sampaloc, które znajduje się w krater wulkanu podczas tajfunu. Kontynuuj czytanie..."
     },
     {
       "title": "Coraz więcej kanadyjskiego dymu z pożarów spowija środkowy zachód, środkowy Atlantyk i północny wschód Stanów Zjednoczonych",
@@ -625,7 +641,7 @@
       "date": "2026-07-17T13:49:33Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "109 milionów ludzi czeka kolejny dzień złej jakości powietrza, gdy dym z pożarów w Ontario unosi się nad Stanami ZjednoczonymiZapisz się, aby otrzymywać e-mailowy biuletyn Breaking News w USA Dziesiątki milionów Amerykanów czeka kolejny dzień zadymionego nieba, podrażnionych oczu i złej jakości powietrza, gdy dym z kanadyjskich pożarów ponownie rozprzestrzenił się na ogromnych obszarach Stanów Zjednoczonych, dotykając około 109 milionów ludzi na środkowym zachodzie, środkowym Atlantyku i północnym wschodzie. Ostry pożar objął miasta takie jak Chicago i Według rządowej strony internetowej AirNow, w piątek mieszkańcy Detroit zostali ostrzeżeni, aby pozostali w domach i ograniczyli poziom aktywności po tym, jak wskaźnik jakości powietrza osiągnął „niebezpieczne” 361. Kontynuuj czytanie..."
+      "summary": "109 milionów ludzi czeka kolejny dzień złej jakości powietrza w związku z unoszeniem się dymu z pożarów w Ontario nad Stanami ZjednoczonymiZapisz się, aby otrzymywać e-mailowy biuletyn Breaking News w USA Dziesiątki milionów Amerykanów czeka kolejny dzień zadymionego nieba, podrażnionych oczu i złej jakości powietrza, gdy dym z pożarów w Kanadzie ponownie rozprzestrzenił się na ogromnych obszarach Stanów Zjednoczonych, dotykając około 109 milionów ludzi na środkowym zachodzie, środkowym Atlantyku i północnym wschodzie. Ostry pożar objął miasta takie jak Chicago i Według rządowej strony internetowej AirNow, w piątek mieszkańcy Detroit zostali ostrzeżeni, aby pozostali w domach i ograniczyli poziom aktywności po tym, jak wskaźnik jakości powietrza osiągnął „niebezpieczne” 361. Kontynuuj czytanie..."
     },
     {
       "title": "Uganda zawiesza wycieczki szkolne po tym, jak 20 uczniów zginęło w wypadku autobusu",
@@ -633,7 +649,7 @@
       "date": "2026-07-17T13:45:02Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Co roku na drogach Ugandy giną tysiące ludzi, ale jest to jeden z najbardziej śmiertelnych wypadków z udziałem dzieci."
+      "summary": "Co roku na drogach Ugandy giną tysiące ludzi, ale jest to jeden z najkrwawszych wypadków z udziałem dzieci."
     },
     {
       "title": "Dymisja ministra obrony Ukrainy uwydatnia dla Zełenskiego szersze problemy",
@@ -649,7 +665,7 @@
       "date": "2026-07-17T12:17:14Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Pracownicy organizacji humanitarnych to pierwsze znane osoby, które poddały się kwarantannie w ośrodku, co wywołało ogromny sprzeciw w Kenii Siedmiu amerykańskich pracowników organizacji humanitarnych, którzy przebywali w Kongo, aby walczyć z epidemią wirusa Ebola, odbywa kwarantannę w nowym ośrodku izolacyjnym w Kenii po wprowadzeniu przez rząd Stanów Zjednoczonych ograniczeń w podróżowaniu, powiedział agencji Reuters szef zatrudniającej ich amerykańskiej organizacji charytatywnej. Pracownicy organizacji humanitarnych to pierwsze znane osoby, które poddały się kwarantannie w ośrodku, co wywołało ogromny sprzeciw w Kenii i jest sedno sprawy sądowej, w której sąd nakazał wstrzymanie prac. Według urzędników amerykańskich i zdjęć satelitarnych zweryfikowanych przez Reuters, budowa była jednak kontynuowana. Kontynuuj czytanie..."
+      "summary": "Pracownicy organizacji humanitarnych to pierwsze znane osoby, które poddały się kwarantannie w ośrodku, co wywołało ogromny sprzeciw w Kenii Siedmiu amerykańskich pracowników organizacji humanitarnych, którzy przebywali w Kongo, aby walczyć z epidemią wirusa Ebola, odbywa kwarantannę w nowym ośrodku izolacyjnym w Kenii po wprowadzeniu przez rząd Stanów Zjednoczonych ograniczeń w podróżowaniu, powiedział agencji Reuters szef zatrudniającej ich amerykańskiej organizacji charytatywnej. Pracownicy organizacji humanitarnych to pierwsze znane osoby, które poddały się kwarantannie w ośrodku, co wywołało ogromny sprzeciw w Kenii i jest sedno sprawy sądowej, w której sąd nakazał wstrzymanie prac. Według urzędników amerykańskich i zdjęć satelitarnych zweryfikowanych przez Reuters, budowa była kontynuowana. Kontynuuj czytanie..."
     },
     {
       "title": "Trump zarzuca Chinom ingerencję w wybory w 2020 r. i kwestionuje bezpieczeństwo głosowania przed drugą kadencją",
@@ -681,7 +697,7 @@
       "date": "2026-07-17T08:34:00Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Ten blog jest już zamkniętyOtrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościamiPauline Hanson została nazwana „nieaustralijką” po swoim występie w podcaście ze skrajnie prawicowym brytyjskim aktywistą Tommym Robinsonem. Senatorka Zielonych Sarah Hanson-Young powiedziała ABC RN Hanson, że musi wrócić do Australii i przeprosić. To jest okropne i, szczerze mówiąc, to nieaustralijskie. Wyjeżdżanie za granicę, żeby spotykać się z bandytą – kryminalistą… żeby się z tego śmiać. w jego programie o wielokulturowości tutaj, w Australii – czyli naszych społecznościach, obywatelach Australii i ludziach, którzy czynią ten kraj wspaniałym, Pauline Hanson jest najbardziej nieaustralijskim politykiem w parlamencie i powinna wrócić do domu, stanąć twarzą w twarz z muzyką i przeprosić. Nie jestem pewien, skąd pani Hanson bierze swoje dane, ale nigdy nie przekazano mi ich, jako ministrowi ds. niepełnosprawności i ministrowi ds. NDIS. Podejrzewam, że nie istnieją. Nie chcę odpowiadać na podcast pomiędzy panią Hanson a skazanym przestępcą, którego tak wiele czołowych osobistości prawicy wyparło się. Kontynuuj czytanie..."
+      "summary": "Ten blog jest już zamkniętyOtrzymuj nasz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościamiPauline Hanson została nazwana „nieaustralijką” po swoim występie w podcaście ze skrajnie prawicowym brytyjskim aktywistą Tommym Robinsonem. Senatorka Zielonych Sarah Hanson-Young powiedziała ABC RN Hanson, że musi wrócić do Australii i przeprosić. To jest okropne i, szczerze mówiąc, to nieaustralijskie. Wyjeżdżanie za granicę, żeby spotykać się z bandytą – kryminalistą… żeby się z tego śmiać. w jego programie o wielokulturowości tutaj, w Australii – czyli naszych społecznościach, obywatelach Australii i ludziach, którzy czynią ten kraj wspaniałym, Pauline Hanson jest najbardziej nieaustralijskim politykiem w parlamencie i powinna wrócić do domu, stanąć twarzą w twarz z muzyką i przeprosić. Nie jestem pewien, skąd pani Hanson bierze swoje dane, ale nigdy nie przekazano mi ich, jako ministrowi ds. niepełnosprawności i ministrowi ds. NDIS. Podejrzewam, że nie istnieją. Nie chcę odpowiadać na podcast pomiędzy panią Hanson a skazanym przestępcą, którego tak wiele czołowych osobistości prawicy wyparło się. Kontynuuj czytanie..."
     },
     {
       "title": "Moira Deeming nie zgodziła się na kandydaturę Wiktoriańskiej Partii Liberalnej w nadchodzących wyborach stanowych",
@@ -737,7 +753,7 @@
       "date": "2026-07-17T03:07:11Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Od czasu opuszczenia Birmy 29 czerwca zniknęły dwie łodzie przewożące około 530 Rohingjów."
+      "summary": "Od czasu opuszczenia Birmy 29 czerwca zniknęły dwie łodzie przewożące szacunkowo 530 Rohingjów."
     },
     {
       "title": "Australia „głęboko sfrustrowana” oskarżeniami o zatrucie metanolem w Laosie",
@@ -746,22 +762,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Doniesienia mediów mówią, że Laos postawi zarzuty osobom rzekomo odpowiedzialnym za atak na karę do jednego roku więzienia."
-    },
-    {
-      "title": "Filipiny potępiają wideo przedstawiające małpy w chińskich mediach jako rasistowskie",
-      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-17T02:37:45Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Film AI opublikowany w China Daily pokazał małpę w filipińskim ubraniu wyśpiewującą swoje roszczenia do Morza Południowochińskiego."
-    },
-    {
-      "title": "Pożary w Kanadzie powodują ostrzeżenie o jakości powietrza w USA, ponieważ główne miasta są pokryte dymem",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-17T02:15:23Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Dym z ponad 800 pożarów wypełnił główne miasta, od Toronto i Nowego Jorku po część środkowego zachodu Stanów Zjednoczonych i Wielkich Jezior."
     }
   ],
   "world_politics": [
@@ -827,7 +827,7 @@
       "date": "2026-07-17T16:59:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Tylko dla AP: Funkcjonariusz ICE w Maine, który strzelał, dopuścił się w przeszłości brutalnego zachowania, rodzina i dokumenty mówią AP News."
+      "summary": "Wyłącznie dla AP: Funkcjonariusz ICE w Maine, który strzelał, dopuścił się w przeszłości brutalnego zachowania, rodzina i dokumenty mówią AP News."
     },
     {
       "title": "Trump mierzy się z ograniczeniami amerykańskiej siły ognia i wyciąga wnioski z poprzednich wojen",
@@ -891,7 +891,7 @@
       "date": "2026-07-17T13:56:33Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Burnham, prosto mówiący polityk, pochodzący ze skromnego pochodzenia w północno-zachodniej Anglii, został w piątek liderem laburzystów i nowym premierem Wielkiej Brytanii."
+      "summary": "Burnham, prosto mówiący polityk, pochodzący ze skromnego pochodzenia w północno-zachodniej Anglii, został w piątek przywódcą laburzystów i nowym premierem Wielkiej Brytanii."
     },
     {
       "title": "Oto najnowsze.",
@@ -902,7 +902,7 @@
       "summary": ""
     },
     {
-      "title": "Filipiny potępiają film wideo opublikowany przez chińskie media państwowe, przedstawiający sztuczną inteligencję jako małpę",
+      "title": "Filipiny potępiają wideo opublikowane przez chińskie media państwowe, przedstawiające sztuczną inteligencję jako małpę",
       "url": "https://www.nytimes.com/2026/07/17/world/asia/philippines-ai-video-china-racist.html",
       "date": "2026-07-17T13:36:15Z",
       "source": "The New York Times",
@@ -1085,10 +1085,10 @@
       "date": "2026-07-17T16:24:13Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48949184 Punkty: 7 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48949184 Punkty: 10 # Komentarze: 3."
     },
     {
-      "title": "Modele takie jak Kimi K3, Grok 4.5 i Muse 1.1 mogą zapobiec dominacji 2-3 laboratoriów przygranicznych z 90% marginesami wnioskowania przed szkodzeniem innym warstwom ekosystemu sztucznej inteligencji (Gavin Baker/@gavinsbaker)",
+      "title": "Modele takie jak Kimi K3, Grok 4.5 i Muse 1.1 mogą zapobiec dominacji 2-3 laboratoriów pionierskich z 90% marginesami wnioskowania przed szkodzeniem innym warstwom ekosystemu sztucznej inteligencji (Gavin Baker/@gavinsbaker)",
       "url": "https://www.techmeme.com/260717/p14#a260717p14",
       "date": "2026-07-17T16:20:02Z",
       "source": "Techmeme",
@@ -1125,7 +1125,7 @@
       "date": "2026-07-17T15:52:28Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Komputery stacjonarne, laptopy, telefony, procesory, karty graficzne, NAS — jeśli znasz się na tym, przyjdź i pracuj dla nas!"
+      "summary": "Komputery stacjonarne, laptopy, telefony, procesory, karty graficzne, NAS — jeśli się na tym znasz, przyjdź i pracuj dla nas!"
     },
     {
       "title": "Pokaż HN: Poznaj przestrzenie pracy współczesnych twórców",
@@ -1133,7 +1133,7 @@
       "date": "2026-07-17T15:41:05Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://workspaces.xyz/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48948693 Punkty: 29 # Komentarze: 23."
+      "summary": "Adres URL artykułu: https://workspaces.xyz/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48948693 Punkty: 31 # Komentarze: 24."
     },
     {
       "title": "Gracz ożywił kartridże. Steam jeszcze nigdy nie działał w ten sposób",
@@ -1149,7 +1149,7 @@
       "date": "2026-07-17T15:31:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://isene.org/2026/07/Frame.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48948597 Punkty: 27 # Komentarze: 11."
+      "summary": "Adres URL artykułu: https://isene.org/2026/07/Frame.html Adres URL komentarzy: https://news.ycombinator.com/item?id=48948597 Punkty: 31 # Komentarze: 12."
     },
     {
       "title": "Krótka sprzedaż odnotowuje zysk w wysokości 8,7 miliarda dolarów, gdy akcje SpaceX spadają do ceny IPO",
@@ -1157,7 +1157,7 @@
       "date": "2026-07-17T15:17:54Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48948435 Punkty: 41 # Komentarze: 12."
+      "summary": "Adres URL artykułu: https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48948435 Punkty: 56 # Komentarze: 12."
     },
     {
       "title": "Samsung Galaxy A57 w świetnej ofercie. Ścięli cenę o połowę",
@@ -1213,7 +1213,7 @@
       "date": "2026-07-17T14:31:10Z",
       "source": "Hacker News",
       "confirmed_by": 2,
-      "summary": "Adres URL artykułu: https://stateofopensource.ai/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48947825 Punkty: 210 # Komentarze: 144."
+      "summary": "Adres URL artykułu: https://stateofopensource.ai/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48947825 Punkty: 223 # Komentarze: 149."
     },
     {
       "title": "Apple idzie na całość. Jeżeli przestrzeli, straci ogromne pieniądze",
@@ -1229,7 +1229,7 @@
       "date": "2026-07-17T14:26:58Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48947776 Punkty: 110 # Komentarze: 75."
+      "summary": "Adres URL artykułu: https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48947776 Punkty: 116 # Komentarze: 78."
     },
     {
       "title": "Kimi K3 i czego możemy się jeszcze nauczyć z testu porównawczego Pelikana",
@@ -1237,7 +1237,7 @@
       "date": "2026-07-17T14:21:51Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://simonwillison.net/2026/Jul/16/kimi-k3/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48947717 Punkty: 86 # Komentarze: 44."
+      "summary": "Adres URL artykułu: https://simonwillison.net/2026/Jul/16/kimi-k3/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48947717 Punkty: 98 # Komentarze: 51."
     },
     {
       "title": "To one mają zatrzymać rakiety i drony nad Polską. Te pociski chronią nasze niebo",
@@ -1269,7 +1269,7 @@
       "date": "2026-07-17T13:50:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Tim Fernholz / TechCrunch: Startup zajmujący się wnioskowaniem związanym z sztuczną inteligencją General Compute otrzymuje pożyczkę w wysokości 400 mln dolarów od technologicznej firmy inwestycyjnej Upper90, co najwyraźniej jest pierwszą transakcją, w której zastosowano chipy służące do wnioskowania jako zabezpieczenia &mdash; General Compute, startup zajmujący się chmurą wnioskowania AI, otrzymał pożyczkę w wysokości 400 milionów dolarów od Upper90, technologicznej firmy inwestycyjnej."
+      "summary": "Tim Fernholz / TechCrunch: Startup zajmujący się wnioskowaniem opartym na sztucznej inteligencji General Compute otrzymuje pożyczkę w wysokości 400 mln dolarów od technologicznej firmy inwestycyjnej Upper90, co najwyraźniej jest pierwszą transakcją, w której jako zabezpieczenie wykorzystano chipy służące do wnioskowania &mdash; General Compute, startup zajmujący się chmurą wnioskowania AI, otrzymał pożyczkę w wysokości 400 milionów dolarów od Upper90, technologicznej firmy inwestycyjnej."
     },
     {
       "title": "Lepiej tego nie rób z GPT 5.6 w Codex. Oni zrobili i pożałowali",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Mozilla przyspiesza harmonogram wydawania Firefoksa do dwutygodniowych",
+      "url": "https://www.theregister.com/software/2026/07/17/mozilla-speeds-firefox-release-schedule-to-biweekly/5274423",
+      "date": "2026-07-17T17:40:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "I czego się spodziewać po Firefoksie 153, gdy zbliża się premiera kolejnej wersji ESR."
+    },
+    {
       "title": "Nowy botnet NadMesh wyszukuje odsłonięte usługi AI w poszukiwaniu kluczy Cloud i tokenów Kubernetes",
       "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
       "date": "2026-07-17T17:12:23Z",
@@ -1418,12 +1426,36 @@
       "summary": "Botnet Go o nazwie NadMesh pojawił się na początku lipca, polując na ujawnione usługi AI, a pulpit operatora zawiera 3811 unikalnych kluczy AWS. Kombajn Shodan zapełnia kolejkę skanowania ComfyUI, Ollama, n8n, Open WebUI, Langflow i Gradio: generatory obrazów, lokalne moduły do ​​uruchamiania modeli i narzędzia do tworzenia przepływów pracy, dzięki którym zespoły szybko sobie radzą, a zapora ogniowa spóźnia się. Dane wywiadowcze za tym licznikiem."
     },
     {
+      "title": "W przyszłym miesiącu Microsoft ograniczy obsługę OneDrive dla starszych wersji systemu Windows 10",
+      "url": "https://www.theregister.com/os-platforms/2026/07/17/microsoft-cuts-onedrive-support-for-older-windows-10-versions-next-month/5274489",
+      "date": "2026-07-17T17:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "22H2 ma czas do 2028 roku, w przeciwnym razie zawsze zostanie Windows 11."
+    },
+    {
       "title": "Podgrupa GoldenEyeDog powiązana z naruszeniem zabezpieczeń DigiCert i kradzieżą certyfikatu podpisującego kod",
       "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
       "date": "2026-07-17T16:39:16Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Badacze zajmujący się cyberbezpieczeństwem przypisali incydent związany z bezpieczeństwem DigiCert w kwietniu 2026 r. klasterowi zagrożeń o nazwie CylindricalCanine. Firma Expel, która podzieliła się technicznymi szczegółami zdarzenia, opisała ugrupowanie zagrażające jako podgrupę GoldenEyeDog (znanej również jako APT-Q-27, Dragon Breath i Miuuti Group), chińskiej grupy cyberprzestępczej znanej z ataków na sektory hazardu i gier hazardowych."
+    },
+    {
+      "title": "Błąd oprogramowania rozliczeniowego wysyła szacunki AWS o wartości miliardów dolarów",
+      "url": "https://www.theregister.com/off-prem/2026/07/17/billing-software-error-sends-billion-dollar-aws-estimates/5274521",
+      "date": "2026-07-17T16:37:39Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Amazon prosi użytkowników, aby nie panikowali, ponieważ trwa naprawa błędu."
+    },
+    {
+      "title": "Filtry spamu AI są ssane przez solenie tekstu w starej szkole",
+      "url": "https://www.theregister.com/security/2026/07/17/ai-spam-filters-are-getting-suckered-by-old-school-text-salting/5274434",
+      "date": "2026-07-17T16:15:22Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Okazuje się, że znane od kilkudziesięciu lat sztuczki e-mailowe nadal działają przeciwko niektórym filtrom e-mail opartym na LLM."
     },
     {
       "title": "TikTok pod lupą Brytyjczyków. Przyczyną weryfikacja wieku",
@@ -1442,12 +1474,44 @@
       "summary": "Choć mechanizmy jej działania pozostają często niewidoczne, sztuczna inteligencja coraz częściej wpływa na zawodowe losy zarówno pracowników jak i kandydatów. Prezes UODO postuluje, by polskie prawo nie tylko jasno określało granice wykorzystania takich narzędzi, ale też gwarantowało ochronę przed niesprawiedliwą oceną, nieuprawnionym przetwarzaniem danych i decyzjami podejmowanymi bez realnego nadzoru człowieka."
     },
     {
+      "title": "Torvalds rzucił wyzwanie hejterom, aby rozwidlili Linuksa. Ktoś powiedział „potrzymaj mi piwo”",
+      "url": "https://www.theregister.com/os-platforms/2026/07/17/torvalds-challenged-the-haters-to-fork-linux-someone-said-hold-my-beer/5274275",
+      "date": "2026-07-17T14:02:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Raczej przepisanie, i to bardzo wczesnej wersji: Linux 0.11 – w Rust."
+    },
+    {
       "title": "Testy fałszywego kodowania dostarczają złośliwe oprogramowanie dostosowane do plików OtterCookie ukryte w obrazach flag SVG",
       "url": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
       "date": "2026-07-17T13:48:56Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Zaobserwowano, że północnokoreańskie ugrupowania zagrażające powiązane z kampanią Contagious Interview wykorzystują steganografię w plikach obrazów SVG w celu ukrycia szkodliwych ładunków w ramach kampanii wykorzystującej fałszywe oferty pracy i wyzwania związane z kodowaniem. „Każdy użytkownik, który prowadził projekt, otrzymał czteroetapowy ładunek dostosowany do OTTERCOOKIE: złodziej danych przeglądarki i portfela kryptowalutowego, złodziej plików, a."
+    },
+    {
+      "title": "Microsoft daje administratorom Exchange Online chwilę wytchnienia",
+      "url": "https://www.theregister.com/saas/2026/07/17/microsoft-gives-admins-exchange-online-breathing-room/5274346",
+      "date": "2026-07-17T13:20:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Wycofanie parametru PowerShell -Credential przesunięte na koniec 2026 r."
+    },
+    {
+      "title": "Najwyższy sąd UE odcina pośrednią obronę YouTube w związku z recenzowanymi treściami",
+      "url": "https://www.theregister.com/off-prem/2026/07/17/top-eu-court-clips-youtubes-intermediary-defense-over-reviewed-content/5274299",
+      "date": "2026-07-17T12:35:43Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Po sprawdzeniu kanału twórcy nie możesz twierdzić, że jesteś gospodarzem pasywnym – ostrzegł Google."
+    },
+    {
+      "title": "Atakujący atakują krytyczne błędy FortiSandbox, gdy CISA wydaje zamówienie na łatki",
+      "url": "https://www.theregister.com/security/2026/07/17/attackers-target-critical-fortisandbox-flaws-as-cisa-issues-patch-order/5274287",
+      "date": "2026-07-17T11:58:10Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Luki w zabezpieczeniach polegające na wstrzykiwaniu poleceń trafiają na listę wykorzystywanych narzędzi, gdy badacze wykryją próby nadużyć."
     },
     {
       "title": "GigaWiper: wiper, stealer, ransomware w jednym. Szczegółowa analiza malware",
@@ -1482,12 +1546,28 @@
       "summary": "Siły zbrojne znajdują się pod coraz większą presją, aby udostępnić autonomiczne zdolności szybciej niż kiedykolwiek wcześniej. W Stanach Zjednoczonych, Wielkiej Brytanii i NATO nowe inwestycje, ewoluujące strategie obronne i przyspieszone ścieżki przejęć zmieniają sposób dostarczania zdolności, nagradzając programy, które mogą przejść od koncepcji do wdrożenia operacyjnego z szybkością komercyjną. Teraz uwaga skupia się na zaufanych."
     },
     {
+      "title": "Test lotu statku kosmicznego SpaceX Starship 13 nie zgadza się z bitem „lotu”.",
+      "url": "https://www.theregister.com/science/2026/07/17/spacex-starship-flight-test-13-takes-issue-with-the-flight-bit/5274228",
+      "date": "2026-07-17T11:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Konieczna wymiana silnika po przerwaniu pracy startera."
+    },
+    {
       "title": "Armenia zatrzymuje rosyjskiego turystę na podstawie amerykańskiego nakazu w związku z hakerem REvil – prawnicy twierdzą, że nie ten człowiek",
       "url": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
       "date": "2026-07-17T10:53:31Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Od 28 czerwca Armenia przetrzymuje w ośrodku detencyjnym rosyjskiego turystę Aleksandra Ermakowa w związku z złożonym przez USA wnioskiem o ekstradycję Aleksandra Ermakowa, podejrzanego o oprogramowanie ransomware REvil. Jego żona, Maria Yurova, powiedziała REN TV, że funkcjonariusze graniczni wyciągnęli go z hali odlotów na lotnisku Zvartnots w Erewaniu, podnieśli telefon ze zdjęciem z jego strony na VKontakte i odprowadzili go na bok."
+      "summary": "Od 28 czerwca Armenia przetrzymuje w ośrodku detencyjnym rosyjskiego turystę Aleksandra Ermakowa w związku z złożonym przez USA wnioskiem o ekstradycję Aleksandra Ermakowa, podejrzanego o oprogramowanie ransomware REvil. Jego żona, Maria Yurova, powiedziała REN TV, że funkcjonariusze graniczni wyciągnęli go z hali odlotów na lotnisku Zvartnots w Erywaniu, podali mu telefon ze zdjęciem z jego strony VKontakte i odprowadzili go na bok."
+    },
+    {
+      "title": "Ambicje Europy w zakresie chipów nie zerwą z zależnością od amerykańskiej chmury i oprogramowania, twierdzi Forrester",
+      "url": "https://www.theregister.com/paas-and-iaas/2026/07/17/europes-chip-ambitions-wont-break-dependence-on-us-cloud-and-software-says-forrester/5274086",
+      "date": "2026-07-17T10:45:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Bruksela może wydać miliardy na fabryki półprzewodników, ale suwerenność technologiczna pozostaje mocno w rękach Amerykanów i Chińczyków."
     },
     {
       "title": "Centra danych ogrzeją Polskę?",
@@ -1504,6 +1584,22 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Badacze bezpieczeństwa z Wordfence ujawnili krytyczną podatność Remote Code Execution we wtyczce Everest Forms Pro przeznaczonej dla WordPressa. Luka ma być wciąż wykorzystywana do ataków na strony korzystające z tego rozszerzenia. Podatność dotyczy wszystkich wersji przed 1.9.13 i otrzymała ocenę 9.8 (krytyczna) w skali CVSS."
+    },
+    {
+      "title": "Ransomware wstrzymuje produkcję w mleczarni Fairlife należącej do Coca-Coli",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/17/ransomware-curdles-production-at-coca-colas-fairlife-dairy-biz/5274157",
+      "date": "2026-07-17T10:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Nie ma co płakać nad rozlanym mlekiem, skoro amerykańskie zakłady nie są w stanie go butelkować."
+    },
+    {
+      "title": "Google naprawia błąd ekranu blokady Androida, który pozwala Gemini wysyłać SMS-y bez kodu PIN",
+      "url": "https://www.theregister.com/security/2026/07/17/google-fixing-android-lock-screen-bug-that-lets-gemini-send-sms-without-a-pin/5273027",
+      "date": "2026-07-17T09:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Określony gest wielodotykowy omija monit o uwierzytelnienie, umożliwiając każdemu wysyłanie wiadomości."
     },
     {
       "title": "Polska nie będzie doskonała we wszystkim. Na co warto wydać miliony z budżetu?",
@@ -1530,6 +1626,22 @@
       "summary": "Badacze zajmujący się cyberbezpieczeństwem odkryli wcześniej nieudokumentowane złośliwe oprogramowanie o nazwie GoSerpent, które od końca 2025 r. jest wykorzystywane w cyberatakach na podmioty w Azji Południowo-Wschodniej, skupiających się na długoterminowym dostępie i gromadzeniu danych wywiadowczych. Rosyjska firma zajmująca się cyberbezpieczeństwem Kaspersky, która odkryła to działanie w lutym 2026 r., podała, że ​​była ona wymierzona w podmioty rządowe i dyplomatyczne w Rosji."
     },
     {
+      "title": "Ministerstwo Spraw Wewnętrznych przekazuje 28 milionów funtów specjalistom IT zajmującym się imigracją po zakwestionowaniu zamówienia publicznego",
+      "url": "https://www.theregister.com/public-sector/2026/07/17/home-office-hands-28m-to-immigration-it-incumbents-after-procurement-challenge/5272345",
+      "date": "2026-07-17T08:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Wymagane wsparcie w zakresie ciągłości po transakcji wymiany o wartości 336 milionów funtów opóźnionej o ponad rok."
+    },
+    {
+      "title": "Jak Gartner może pomóc przekształcić wizję sztucznej inteligencji w rzeczywistość biznesową",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/17/how-gartner-can-help-turn-your-ai-vision-into-business-reality/5270873",
+      "date": "2026-07-17T08:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "POST SPONSOROWANY: Czujesz, że utknąłeś w swoich projektach aplikacji AI? Gartner ma rozwiązanie."
+    },
+    {
       "title": "Cios w patostreamerów. Prezydent podpisał ustawę",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/cios-w-patostreamerow-prezydent-podpisal-ustawe",
       "date": "2026-07-17T07:43:30Z",
@@ -1544,6 +1656,14 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Amerykańska Agencja ds. Bezpieczeństwa Cyberbezpieczeństwa i Infrastruktury (CISA) dodała w czwartek nowo załataną lukę w zabezpieczeniach programu Microsoft SharePoint Server do swojego katalogu znanych luk w zabezpieczeniach (KEV), wymagając od agencji Federal Civilian Executive Branch (FCEB) zastosowania poprawek do 19 lipca 2026 r. Omawiana luka to CVE-2026-58644 (wynik CVSS: 9,8), krytyczna deserializacja."
+    },
+    {
+      "title": "Facet z pomocy technicznej powiedział wściekłemu klientowi, aby pomyślał nieszablonowo – i rozwiązał problem",
+      "url": "https://www.theregister.com/personal-tech/2026/07/17/tech-support-chap-told-angry-customer-to-think-inside-the-box-and-solved-the-problem/5272293",
+      "date": "2026-07-17T06:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Nie jesteśmy Li-ion, użytkownik myślał, że baterie w telefonach komórkowych rozładowują się co kilka dni."
     },
     {
       "title": "Polują na żołnierzy i podszywają się pod Microsoft. Tak działa elitarna grupa rosyjskiego GRU",
@@ -1562,7 +1682,7 @@
       "summary": "Owen Flowers (18 l.) i Thalha Jubair (20 l.) zostali skazani w czwartek 16 lipca 2026 r. przez sąd koronny w Woolwich na pięć i pół roku za włamanie do Transport for London w 2024 r. W wyniku ataku 148 systemów TfL przestało działać, a wszystkich 27 000 pracowników władz transportowych zmusiło do udania się do biura w celu osobistego zresetowania haseł. Zarówno NCA, jak i CPS oszacowały straty i odzyskaną kwotę TfL."
     },
     {
-      "title": "ThreatsDay: oprogramowanie szpiegujące do oszustw w grach, całodobowe oprogramowanie ransomware, prześladowanie przy synchronizacji Chrome i 12 innych historii",
+      "title": "ThreatsDay: oprogramowanie szpiegujące do oszukiwania w grach, całodobowe oprogramowanie ransomware, prześladowanie przy synchronizacji Chrome i 12 innych historii",
       "url": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
       "date": "2026-07-16T15:41:15Z",
       "source": "The Hacker News",
@@ -1666,14 +1786,6 @@
       "summary": "Rekonstrukcja ukraińskiego rządu obejmie jedno z najważniejszych stanowisk. Swoją misję jako minister obrony kończy człowiek, który kieruje się ideą cyfryzacji państwa i sił zbrojnych."
     },
     {
-      "title": "Nowy model GPT usuwa dane bez ostrzeżenia. „Wykazuje nadmierną autonomię”",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/nowy-model-gpt-usuwa-dane-bez-ostrzezenia-wykazuje-nadmierna-autonomie",
-      "date": "2026-07-16T05:44:02Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Nowy model od OpenAI bez ostrzeżenia usuwa pliki. Programiści i przedstawiciele startupów ostrzegają: GPT-5.6 Sol nie można ufać. Sami twórcy przed publikacją wskazywali, że model może wykazywać nadmierną autonomię w celu obchodzenia ograniczeń przy realizacji poleceń."
-    },
-    {
       "title": "USA oferują do $10 mln za wskazanie osób powiązanych z rosyjskimi grupami UNC5792 oraz UNC4221",
       "url": "https://sekurak.pl/usa-oferuja-do-10-mln-za-wskazanie-osob-powiazanych-z-rosyjskimi-grupami-unc5792-oraz-unc4221/",
       "date": "2026-07-15T12:46:30Z",
@@ -1699,6 +1811,14 @@
     }
   ],
   "finance": [
+    {
+      "title": "5000 zł emerytury z ZUS. Tyle trzeba zarabiać, by ją dostać",
+      "url": "https://www.money.pl/emerytury/5000-zl-emerytury-z-zus-tyle-trzeba-zarabiac-by-ja-dostac-7308539018619328a.html",
+      "date": "2026-07-17T18:08:30Z",
+      "source": "Money.pl",
+      "confirmed_by": 1,
+      "summary": "Aby otrzymywać emeryturę w wysokości co najmniej 5 tys. zł miesięcznie, obecni trzydziestolatkowie powinni zarabiać od 6,2 do 9,8 tys. zł brutto – wynika z wyliczeń głównego ekonomisty Federacji Przedsiębiorców Polskich Łukasza Kozłowskiego."
+    },
     {
       "title": "Korecki formuje swój rząd. Sybiha pozostaje szefem dyplomacji",
       "url": "https://www.bankier.pl/wiadomosc/Korecki-formuje-swoj-rzad-Sybiha-pozostaje-szefem-dyplomacji-9169997.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -1828,6 +1948,14 @@
       "summary": "Rituals odświeża koncept swoich butików: odnowi aż 1 500 sklepów w 30 dni roboczych Forbes."
     },
     {
+      "title": "ZABKA [ZAB] - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513847_ZABKA.aspx",
+      "date": "2026-07-17T15:00:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "ZABKA [ZAB] stockwatch.pl."
+    },
+    {
       "title": "Frankowicze z ważnymi zmianami. Obowiązują nowe przepisy - Forsal.pl",
       "url": "https://forsal.pl/gospodarka/aktualnosci/artykuly/11277523,ustawa-frankowa-wchodzi-w-zycie-wazne-zmiany-dla-tysiecy-kredytobiorc.html",
       "date": "2026-07-17T14:48:33Z",
@@ -1916,28 +2044,12 @@
       "summary": "Polska gospodarka rozwija się dynamicznie i wyróżnia się na tle regionu, jednak rosnący dług publiczny oraz wysoki deficyt mogą w przyszłości osłabić zaufanie inwestorów – ocenia niemiecki \"Frankfurter Allgemeine Zeitung\". Dziennik wskazuje również na kosztowne inwestycje państwa."
     },
     {
-      "title": "Opcja OW20I264200 - Analiza techniczna - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/ow20i264200,analiza-techniczna.aspx",
-      "date": "2026-07-17T12:09:48Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Opcja OW20I264200 - Analiza techniczna stockwatch.pl."
-    },
-    {
       "title": "Najpierw wyrok, potem blokada pieniędzy. Jest odpowiedź z Polski na działania Pfizera",
       "url": "https://www.money.pl/mobility/jest-wniosek-do-sadu-pazp-walczy-w-brukseli-7308431909841344a.html",
       "date": "2026-07-17T10:59:53Z",
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Polska Agencja Żeglugi Powietrznej złożyła do sądu w Brukseli formalny sprzeciw wobec zajęcia należnych jej środków - poinformowała w piątek PAŻP. Chce uchylenia zabezpieczenia i odblokowania środków z opłat, które stanowią 80 proc. jej przychodów."
-    },
-    {
-      "title": "Opcja OW20S263875 - Analiza techniczna - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/ow20s263875,analiza-techniczna.aspx",
-      "date": "2026-07-17T10:42:19Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Opcja OW20S263875 - Analiza techniczna stockwatch.pl."
     },
     {
       "title": "Dywidendowe podsumowanie 29. tygodnia 2026 r. - BiznesRadar",
@@ -1980,20 +2092,20 @@
       "summary": "Sąd Konstytucyjny w Liechtensteinie podtrzymał wyrok drugiej instancji w sporze Zygmunta Solorza z dziećmi o sukcesję. Przyznał rację dzieciom miliardera. To one mogą zarządzać Grupą Polsat Plus i jej spółkami zależnymi."
     },
     {
+      "title": "Atrem z kontraktem od ENEA Operator. Modernizacja stacji Fordon za ponad 26 mln zł - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/atrem-kontrakt-enea-operator-modernizacja-stacji-fordon,akcje,376485",
+      "date": "2026-07-17T08:05:04Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Atrem z kontraktem od ENEA Operator. Modernizacja stacji Fordon za ponad 26 mln zł stockwatch.pl."
+    },
+    {
       "title": "Notowania IBH0630 ING BANK HIPOTECZNY - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/IBH0630",
       "date": "2026-07-17T07:52:28Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania IBH0630 ING BANK HIPOTECZNY BiznesRadar."
-    },
-    {
-      "title": "Gigant z Japonii przejmie Żabkę? Jest oświadczenie firmy",
-      "url": "https://www.money.pl/biznes/tyle-ma-kosztowac-zabka-miliardy-dolarow-od-giganta-z-japonii-7308371363752384a.html",
-      "date": "2026-07-17T07:10:39Z",
-      "source": "Money.pl",
-      "confirmed_by": 1,
-      "summary": "Japoński gigant Seven & i Holdings, właściciel 7-Eleven, jest na finiszu rozmów o inwestycji w Grupę Żabka - podaje japoński dziennik biznesowy \"Nikkei\". W grę ma wchodzić zakup pakietu akcji wartych miliardy dolarów. Firma z Tokio potwierdza, że trwają rozmowy, ale zastrzega, że nie podjęto jeszcze żadnej decyzji."
     },
     {
       "title": "sWIG80 na kluczowym wsparciu (nowa pozycja w portfelu)",
@@ -2052,12 +2164,12 @@
       "summary": "Robyg zakontraktował 660 lokali w drugim kwartale BiznesRadar."
     },
     {
-      "title": "Analiza techniczna RBIWP1226W201 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/RBIWP1226W201",
-      "date": "2026-07-16T15:01:59Z",
+      "title": "Notowania INTLEUH99226 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/INTLEUH99226",
+      "date": "2026-07-16T15:02:11Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna RBIWP1226W201 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+      "summary": "Notowania INTLEUH99226 INGBANK BiznesRadar."
     },
     {
       "title": "Od badań astronautów po ekonomię. Uczelnie chcą wejść mocniej w sektor kosmiczny",
@@ -2110,20 +2222,20 @@
       "summary": "Zbliża się trzęsienie ziemi w PiS? Kaczyński dostał list od 45 posłów Polskie Radio 24."
     },
     {
+      "title": "Trzęsienie ziemi o magnitudzie 7,3 nawiedziło wybrzeże Meksyku",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-17T18:12:54Z",
+      "source": "BBC News",
+      "confirmed_by": 2,
+      "summary": "W rezultacie Amerykańskie Centrum Ostrzegania przed Tsunami zarejestrowało fale o wysokości 0,3 m (1,1 stopy) nad poziomem pływu w Puerto Madero i Chiapas w Meksyku."
+    },
+    {
       "title": "Silne trzęsienie ziemi u wybrzeży Meksyku nawiedza Gwatemalę i Salwador, ale nie pozostawia szkód – Reuters",
       "url": "https://www.reuters.com/business/environment/earthquake-shakes-buildings-guatemala-witness-says-2026-07-17/",
       "date": "2026-07-17T17:36:28Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Silne trzęsienie ziemi u wybrzeży Meksyku wstrząsa Gwatemalą i Salwadorem, ale nie pozostawia szkód Reuters."
-    },
-    {
-      "title": "Trzęsienie ziemi o magnitudzie 7,4 w Puerto Madero w Meksyku – podaje USGS – Reuters",
-      "url": "https://www.reuters.com/business/environment/magnitude-74-earthquake-strikes-puerto-madero-mexico-usgs-says-2026-07-17/",
-      "date": "2026-07-17T15:01:37Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Trzęsienie ziemi o magnitudzie 7,4 nawiedziło Puerto Madero w Meksyku – podaje USGS Reuters."
     },
     {
       "title": "Trzęsienie ziemi o sile 7,3 w skali Richtera u wybrzeży Meksyku i Gwatemali stwarza zagrożenie tsunami",
@@ -2220,15 +2332,15 @@
       "lng": -99.1,
       "type": "disaster",
       "region": "Stany Zjednoczone",
-      "description": "U wybrzeży meksykańskiego stanu Chiapas wystąpiło w piątek silne trzęsienie ziemi o magnitudzie 7,3 (wcześniej informowano o 7,4).",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-17/trzesienie-ziemi-w-meksyku-wydano-ostrzezenie-przed-tsunami/"
+      "description": "W rezultacie Amerykańskie Centrum Ostrzegania przed Tsunami zarejestrowało fale o wysokości 0,3 m (1,1 stopy) nad poziomem pływu w Puerto Madero i Chiapas w Meksyku.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "lat": 19.75,
       "lng": 96.1,
       "type": "conflict",
       "region": "Mjanma",
-      "description": "Od czasu opuszczenia Birmy 29 czerwca zniknęły dwie łodzie przewożące około 530 Rohingjów.",
+      "description": "Od czasu opuszczenia Birmy 29 czerwca zniknęły dwie łodzie przewożące szacunkowo 530 Rohingjów.",
       "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -2340,8 +2452,8 @@
       "lng": -98.3,
       "type": "critical",
       "region": "Stany Zjednoczone",
-      "description": "U wybrzeży meksykańskiego stanu Chiapas wystąpiło w piątek silne trzęsienie ziemi o magnitudzie 7,3 (wcześniej informowano o 7,4).",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-17/trzesienie-ziemi-w-meksyku-wydano-ostrzezenie-przed-tsunami/"
+      "description": "W rezultacie Amerykańskie Centrum Ostrzegania przed Tsunami zarejestrowało fale o wysokości 0,3 m (1,1 stopy) nad poziomem pływu w Puerto Madero i Chiapas w Meksyku.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "lat": 51.5,
@@ -2518,10 +2630,6 @@
     {
       "sector": "Sektor energetyczny/surowcowy",
       "instrument": "np. ETF Energy Select Sector (XLE)"
-    },
-    {
-      "sector": "Sektor agro",
-      "instrument": "np. ETF Invesco DB Agriculture (DBA)"
     }
   ],
   "sp500_trend": {
@@ -2708,51 +2816,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25865.67,
+      25861.58,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27038.77,
+      27034.49,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27186.82,
+      27182.52,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27433.61,
+      27429.27,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28074.13,
+      28069.69,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28110.44,
+      28106.0,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28356.96,
+      28352.48,
       27354.94,
       27400.36,
       27412.11,
-      28761.4,
+      28756.85,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28016.49,
+      28012.06,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28197.56,
+      28193.1,
       27686.17,
       27404.78,
       27351.97,
@@ -2761,7 +2869,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27903.73,
+      27899.31,
       27930.04,
       28234.04,
       28218.36,
@@ -2770,12 +2878,12 @@
       28294.39,
       28203.83,
       28555.17,
-      28743.68,
+      28739.14,
       28590.53,
       28538.61,
       28515.01,
-      28585.76,
-      28340.3
+      28581.24,
+      28313.14
     ],
     "currency": "PLN"
   }
