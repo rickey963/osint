@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T16:20:46Z",
+  "last_updated": "2026-07-17T16:21:18Z",
   "poland": [
     {
       "title": "Nowa decyzja Komisji Europejskiej. Opłaty ETS obejmą kolejne loty",
@@ -409,7 +409,7 @@
       "date": "2026-07-17T16:06:37Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Według lokalnego szpitala kolejne 22 osoby zostały ranne podczas żałoby po Palestynie zabitym w izraelskim ataku wcześniej tego samego dnia W izraelskim strajku na pogrzebie w Strefie Gazy zginęło co najmniej siedem osób, a kolejne 22 zostały ranne. Izraelskie wojsko nie udzieliło natychmiastowego komentarza. Kontynuuj czytanie..."
+      "summary": "Według lokalnego szpitala kolejne 22 osoby zostały ranne podczas żałoby po Palestynie zabitym w izraelskim ataku wcześniej tego samego dnia W izraelskim ataku na pogrzeb w Strefie Gazy zginęło co najmniej siedem osób, a kolejne 22 zostały ranne – podaje miejscowy szpital. Izraelskie wojsko nie udzieliło natychmiastowego komentarza. Kontynuuj czytanie..."
     },
     {
       "title": "USA uderzają w infrastrukturę cywilną, rozszerzając ataki na Iran",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Modele takie jak Kimi K3, Grok 4.5 i Muse 1.1 mogą zapobiec dominacji 2-3 laboratoriów pionierskich z 90% marginesami wnioskowania przed szkodzeniem innym warstwom ekosystemu sztucznej inteligencji (Gavin Baker/@gavinsbaker)",
+      "url": "https://www.techmeme.com/260717/p14#a260717p14",
+      "date": "2026-07-17T16:20:02Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Gavin Baker / @gavinsbaker: Modele takie jak Kimi K3, Grok 4.5 i Muse 1.1 mogą zapobiec dominacji 2-3 laboratoriów pionierskich z 90% marginesami wnioskowania przed szkodzeniem innym warstwom ekosystemu AI &mdash; Kimi K3 może być ważnym punktem zwrotnym dla AI. Potencjalnie negatywny dla Anthropic i OpenAI, a jednocześnie pozytywny netto dla zasadniczo każdej innej firmy na świecie. Mam na myśli to bardzo dosłownie."
+    },
+    {
       "title": "Gwiazdy pomogły policzyć wiek Wszechświata. Zaskakująca odpowiedź",
       "url": "https://spidersweb.pl/2026/07/droga-mleczna-wiek-wszechswiata.html",
       "date": "2026-07-17T16:01:00Z",
@@ -1262,14 +1270,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Nadchodzący wielkimi krokami kernel 7.0.0-28.28 dla Ubuntu zawiera błąd sterownika dla GPU od AMD, który potrafi zamienić zaledwie kilkusekundowe zadanie w trwającą ponad sześć minut \"operację specjalną\". Problem dotyczy głównie aplikacji wykorzystujących ROCm: nie chodzi o typowe gry. Kłopoty mają także użytkownicy innych dystrybucji."
-    },
-    {
-      "title": "Rosja zrobi swojego Starlinka. Cel jest oczywisty",
-      "url": "https://spidersweb.pl/2026/07/rosja-zrobi-swojego-starlinka-cel-jest-oczywisty.html",
-      "date": "2026-07-17T11:32:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Rosja zrobi swojego Starlinka. Cel jest oczywisty."
     },
     {
       "title": "Raport, o który martwią się koncerny naftowe: Nauka o atrybucji klimatu",
@@ -2268,7 +2268,7 @@
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Według lokalnego szpitala kolejne 22 osoby zostały ranne podczas żałoby po Palestynie zabitym w izraelskim ataku wcześniej tego samego dnia W izraelskim strajku na pogrzebie w Strefie Gazy zginęło co najmniej siedem osób, a kolejne 22 zostały ranne.",
+      "description": "Według lokalnego szpitala kolejne 22 osoby zostały ranne podczas żałoby po Palestynie zabitym w izraelskim ataku wcześniej tego samego dnia W izraelskim ataku na pogrzeb w Strefie Gazy zginęło co najmniej siedem osób, a kolejne 22 zostały ranne – podaje miejscowy szpital.",
       "url": "https://www.theguardian.com/world/2026/jul/17/israeli-strike-gaza-funeral-multiple-deaths"
     },
     {
@@ -2877,7 +2877,7 @@
       28538.61,
       28515.01,
       28573.71,
-      28409.29
+      28401.51
     ],
     "currency": "PLN"
   }
