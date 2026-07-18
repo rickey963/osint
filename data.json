@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T12:44:02Z",
+  "last_updated": "2026-07-18T12:49:04Z",
   "poland": [
     {
       "title": "Pracowałam jako przewodniczka po Paryżu. Zdradzę wam pięć największych błędów, które widziałam u turystów",
@@ -1442,6 +1442,14 @@
       "summary": "Samotna podróż nie musi oznaczać zdania się wyłącznie na własny refleks i intuicję. Odpowiednio wykorzystane cyfrowe narzędzia mogą stać się dyskretnym wsparciem, które ułatwia reagowanie w nieprzewidzianych sytuacjach i pozwala z większym spokojem cieszyć się wyjazdem."
     },
     {
+      "title": "NextBSD powraca do umieszczania źródeł Apple na FreeBSD",
+      "url": "https://www.theregister.com/os-platforms/2026/07/18/nextbsd-returns-to-dollop-apple-source-on-freebsd/5273788",
+      "date": "2026-07-18T07:45:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Nowy opiekun ożywia projekt z komponentami Darwina, Gershwinem i Claude Code."
+    },
+    {
       "title": "Weekendowa Lektura: odcinek 685 [2026-07-18]. Bierzcie i czytajcie",
       "url": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-685-2026-07-18-bierzcie-i-czytajcie/",
       "date": "2026-07-17T22:56:05Z",
@@ -1482,6 +1490,14 @@
       "summary": "Badacze zajmujący się cyberbezpieczeństwem odkryli klaster siedmiu złośliwych pakietów npm, których celem jest ekosystem narzędzi frontendowych Vite w ramach ataku na łańcuch dostaw oprogramowania. Kampania szkodliwych pakietów, o kryptonimie ViteVenom firmy Checkmarx, oznacza ekspansję ChainVeil, którą zaobserwowano przy użyciu „bezprecedensowej” czteropoziomowej infrastruktury dowodzenia i kontroli (C2) opartej na łańcuchu bloków obejmującej Tron."
     },
     {
+      "title": "Mozilla przyspiesza harmonogram wydawania Firefoksa do dwutygodniowych",
+      "url": "https://www.theregister.com/software/2026/07/17/mozilla-speeds-firefox-release-schedule-to-biweekly/5274423",
+      "date": "2026-07-17T17:40:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "I czego się spodziewać po Firefoksie 153, gdy zbliża się premiera kolejnej wersji ESR."
+    },
+    {
       "title": "Nowy botnet NadMesh wyszukuje odsłonięte usługi AI w poszukiwaniu kluczy Cloud i tokenów Kubernetes",
       "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
       "date": "2026-07-17T17:12:23Z",
@@ -1490,12 +1506,36 @@
       "summary": "Botnet Go o nazwie NadMesh pojawił się na początku lipca, polując na ujawnione usługi AI, a pulpit operatora zawiera 3811 unikalnych kluczy AWS. Kombajn Shodan zapełnia kolejkę skanowania ComfyUI, Ollama, n8n, Open WebUI, Langflow i Gradio: generatory obrazów, lokalne moduły do ​​uruchamiania modeli i narzędzia do tworzenia przepływów pracy, dzięki którym zespoły szybko sobie radzą, a zapora ogniowa spóźnia się. Dane wywiadowcze za tym licznikiem."
     },
     {
+      "title": "W przyszłym miesiącu Microsoft ograniczy obsługę OneDrive dla starszych wersji systemu Windows 10",
+      "url": "https://www.theregister.com/os-platforms/2026/07/17/microsoft-cuts-onedrive-support-for-older-windows-10-versions-next-month/5274489",
+      "date": "2026-07-17T17:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "22H2 ma czas do 2028 roku, w przeciwnym razie zawsze zostanie Windows 11."
+    },
+    {
       "title": "Podgrupa GoldenEyeDog powiązana z naruszeniem zabezpieczeń DigiCert i kradzieżą certyfikatu podpisującego kod",
       "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
       "date": "2026-07-17T16:39:16Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Badacze zajmujący się cyberbezpieczeństwem przypisali incydent związany z bezpieczeństwem DigiCert w kwietniu 2026 r. klasterowi zagrożeń o nazwie CylindricalCanine. Firma Expel, która podzieliła się technicznymi szczegółami zdarzenia, opisała ugrupowanie zagrażające jako podgrupę GoldenEyeDog (znanej również jako APT-Q-27, Dragon Breath i Miuuti Group), chińskiej grupy cyberprzestępczej znanej z ataków na sektory hazardu i gier hazardowych."
+    },
+    {
+      "title": "Błąd oprogramowania rozliczeniowego wysyła szacunki AWS o wartości miliardów dolarów",
+      "url": "https://www.theregister.com/off-prem/2026/07/17/billing-software-error-sends-billion-dollar-aws-estimates/5274521",
+      "date": "2026-07-17T16:37:39Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Amazon prosi użytkowników, aby nie panikowali, ponieważ trwa naprawa błędu."
+    },
+    {
+      "title": "Filtry spamu AI są ssane przez solenie tekstu w starej szkole",
+      "url": "https://www.theregister.com/security/2026/07/17/ai-spam-filters-are-getting-suckered-by-old-school-text-salting/5274434",
+      "date": "2026-07-17T16:15:22Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Okazuje się, że znane od kilkudziesięciu lat sztuczki e-mailowe nadal działają przeciwko niektórym filtrom e-mail opartym na LLM."
     },
     {
       "title": "TikTok pod lupą Brytyjczyków. Przyczyną weryfikacja wieku",
@@ -1514,12 +1554,44 @@
       "summary": "Choć mechanizmy jej działania pozostają często niewidoczne, sztuczna inteligencja coraz częściej wpływa na zawodowe losy zarówno pracowników jak i kandydatów. Prezes UODO postuluje, by polskie prawo nie tylko jasno określało granice wykorzystania takich narzędzi, ale też gwarantowało ochronę przed niesprawiedliwą oceną, nieuprawnionym przetwarzaniem danych i decyzjami podejmowanymi bez realnego nadzoru człowieka."
     },
     {
+      "title": "Torvalds rzucił wyzwanie hejterom, aby rozwidlili Linuksa. Ktoś powiedział „potrzymaj mi piwo”",
+      "url": "https://www.theregister.com/os-platforms/2026/07/17/torvalds-challenged-the-haters-to-fork-linux-someone-said-hold-my-beer/5274275",
+      "date": "2026-07-17T14:02:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Raczej przepisanie, i to bardzo wczesnej wersji: Linux 0.11 – w Rust."
+    },
+    {
       "title": "Testy fałszywego kodowania dostarczają złośliwe oprogramowanie dostosowane do plików OtterCookie ukryte w obrazach flag SVG",
       "url": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
       "date": "2026-07-17T13:48:56Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Zaobserwowano, że północnokoreańskie ugrupowania zagrażające powiązane z kampanią Contagious Interview wykorzystują steganografię w plikach obrazów SVG w celu ukrycia szkodliwych ładunków w ramach kampanii wykorzystującej fałszywe oferty pracy i wyzwania związane z kodowaniem. „Każdy użytkownik, który prowadził projekt, otrzymał czteroetapowy ładunek dostosowany do OTTERCOOKIE: złodziej danych przeglądarki i portfela kryptowalutowego, złodziej plików, a."
+    },
+    {
+      "title": "Microsoft daje administratorom Exchange Online chwilę wytchnienia",
+      "url": "https://www.theregister.com/saas/2026/07/17/microsoft-gives-admins-exchange-online-breathing-room/5274346",
+      "date": "2026-07-17T13:20:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Wycofanie parametru PowerShell -Credential przesunięte na koniec 2026 r."
+    },
+    {
+      "title": "Najwyższy sąd UE odcina pośrednią obronę YouTube w związku z recenzowanymi treściami",
+      "url": "https://www.theregister.com/off-prem/2026/07/17/top-eu-court-clips-youtubes-intermediary-defense-over-reviewed-content/5274299",
+      "date": "2026-07-17T12:35:43Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Po sprawdzeniu kanału twórcy nie możesz twierdzić, że jesteś gospodarzem pasywnym – ostrzegł Google."
+    },
+    {
+      "title": "Atakujący atakują krytyczne błędy FortiSandbox, gdy CISA wydaje zamówienie na łatki",
+      "url": "https://www.theregister.com/security/2026/07/17/attackers-target-critical-fortisandbox-flaws-as-cisa-issues-patch-order/5274287",
+      "date": "2026-07-17T11:58:10Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Luki w zabezpieczeniach polegające na wstrzykiwaniu poleceń trafiają na listę wykorzystywanych narzędzi, gdy badacze wykryją próby nadużyć."
     },
     {
       "title": "GigaWiper: wiper, stealer, ransomware w jednym. Szczegółowa analiza malware",
@@ -1554,12 +1626,28 @@
       "summary": "Siły zbrojne znajdują się pod coraz większą presją, aby udostępnić autonomiczne zdolności szybciej niż kiedykolwiek wcześniej. W Stanach Zjednoczonych, Wielkiej Brytanii i NATO nowe inwestycje, ewoluujące strategie obronne i przyspieszone ścieżki przejęć zmieniają sposób dostarczania zdolności, nagradzając programy, które mogą przejść od koncepcji do wdrożenia operacyjnego z szybkością komercyjną. Teraz uwaga skupia się na zaufanych."
     },
     {
+      "title": "Test lotu statku kosmicznego SpaceX Starship 13 nie zgadza się z bitem „lotu”.",
+      "url": "https://www.theregister.com/science/2026/07/17/spacex-starship-flight-test-13-takes-issue-with-the-flight-bit/5274228",
+      "date": "2026-07-17T11:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Konieczna wymiana silnika po przerwaniu pracy startera."
+    },
+    {
       "title": "Armenia zatrzymuje rosyjskiego turystę na podstawie amerykańskiego nakazu w związku z hakerem REvil – prawnicy twierdzą, że nie ten człowiek",
       "url": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
       "date": "2026-07-17T10:53:31Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Od 28 czerwca Armenia przetrzymuje w ośrodku detencyjnym rosyjskiego turystę Aleksandra Ermakowa w związku z złożonym przez USA wnioskiem o ekstradycję Aleksandra Ermakowa, podejrzanego o oprogramowanie ransomware REvil. Jego żona, Maria Yurova, powiedziała REN TV, że funkcjonariusze graniczni wyciągnęli go z hali odlotów na lotnisku Zvartnots w Erewaniu, podnieśli telefon ze zdjęciem z jego strony na VKontakte i odprowadzili go na bok."
+    },
+    {
+      "title": "Ambicje Europy w zakresie chipów nie zerwą z zależnością od amerykańskiej chmury i oprogramowania, twierdzi Forrester",
+      "url": "https://www.theregister.com/paas-and-iaas/2026/07/17/europes-chip-ambitions-wont-break-dependence-on-us-cloud-and-software-says-forrester/5274086",
+      "date": "2026-07-17T10:45:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Bruksela może wydać miliardy na fabryki półprzewodników, ale suwerenność technologiczna pozostaje mocno w rękach Amerykanów i Chińczyków."
     },
     {
       "title": "Centra danych ogrzeją Polskę?",
@@ -1576,6 +1664,22 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Badacze bezpieczeństwa z Wordfence ujawnili krytyczną podatność Remote Code Execution we wtyczce Everest Forms Pro przeznaczonej dla WordPressa. Luka ma być wciąż wykorzystywana do ataków na strony korzystające z tego rozszerzenia. Podatność dotyczy wszystkich wersji przed 1.9.13 i otrzymała ocenę 9.8 (krytyczna) w skali CVSS."
+    },
+    {
+      "title": "Ransomware wstrzymuje produkcję w mleczarni Fairlife należącej do Coca-Coli",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/17/ransomware-curdles-production-at-coca-colas-fairlife-dairy-biz/5274157",
+      "date": "2026-07-17T10:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Nie ma co płakać nad rozlanym mlekiem, skoro amerykańskie zakłady nie są w stanie go butelkować."
+    },
+    {
+      "title": "Google naprawia błąd ekranu blokady Androida, który pozwala Gemini wysyłać SMS-y bez kodu PIN",
+      "url": "https://www.theregister.com/security/2026/07/17/google-fixing-android-lock-screen-bug-that-lets-gemini-send-sms-without-a-pin/5273027",
+      "date": "2026-07-17T09:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Określony gest wielodotykowy omija monit o uwierzytelnienie, umożliwiając każdemu wysyłanie wiadomości."
     },
     {
       "title": "Polska nie będzie doskonała we wszystkim. Na co warto wydać miliony z budżetu?",
@@ -1600,6 +1704,22 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Badacze zajmujący się cyberbezpieczeństwem odkryli wcześniej nieudokumentowane złośliwe oprogramowanie o nazwie GoSerpent, które od końca 2025 r. jest wykorzystywane w cyberatakach na podmioty w Azji Południowo-Wschodniej, skupiających się na długoterminowym dostępie i gromadzeniu danych wywiadowczych. Rosyjska firma zajmująca się cyberbezpieczeństwem Kaspersky, która odkryła to działanie w lutym 2026 r., podała, że ​​była ona wymierzona w podmioty rządowe i dyplomatyczne w Rosji."
+    },
+    {
+      "title": "Ministerstwo Spraw Wewnętrznych przekazuje 28 milionów funtów specjalistom IT zajmującym się imigracją po zakwestionowaniu zamówienia",
+      "url": "https://www.theregister.com/public-sector/2026/07/17/home-office-hands-28m-to-immigration-it-incumbents-after-procurement-challenge/5272345",
+      "date": "2026-07-17T08:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Wymagane wsparcie w zakresie ciągłości po umowie wymiany o wartości 336 milionów funtów opóźnionej o ponad rok."
+    },
+    {
+      "title": "Jak Gartner może pomóc przekształcić wizję sztucznej inteligencji w rzeczywistość biznesową",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/17/how-gartner-can-help-turn-your-ai-vision-into-business-reality/5270873",
+      "date": "2026-07-17T08:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "POST SPONSOROWANY: Czujesz, że utknąłeś w swoich projektach aplikacji AI? Gartner ma rozwiązanie."
     },
     {
       "title": "Cios w patostreamerów. Prezydent podpisał ustawę",
@@ -1664,14 +1784,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Spotify chce, by wybór muzyki coraz mniej przypominał obsługę aplikacji, a coraz bardziej rozmowę z kimś, kto zna słuchacza i jego przyzwyczajenia. Szwedzka firma rozpoczęła właśnie testy opartego na sztucznej inteligencji asystenta głosowego, który ma nie tylko reagować na polecenia, lecz także pomagać w odkrywaniu treści, odpowiadać na pytania i dostosowywać rekomendacje w toku rozmowy."
-    },
-    {
-      "title": "Błąd związany z wymianą tokenów n8n może pozwolić atakującym zalogować się jako użytkownicy innego wystawcy",
-      "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-      "date": "2026-07-16T13:33:25Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "n8n, platforma automatyzacji przepływu pracy, przy logowaniu udostępniała nieprawidłowe konta. W instancjach Enterprise skonfigurowanych tak, aby ufały więcej niż jednemu zewnętrznemu wystawcy tokenów, dopasowywał przychodzący token JWT do użytkownika lokalnego w samym żądaniu podrzędnym i ignorował iss. Ważny token wydawcy A zawierający subskrypcję należącą do osoby wydawcy B zalogował Cię jako tę osobę."
     },
     {
       "title": "Unijną weryfikację wieku wciąż da się ominąć?",
