@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T04:41:43Z",
+  "last_updated": "2026-07-18T04:42:25Z",
   "poland": [
     {
       "title": "Czy bliskość planowanej drogi unieważnia pozwolenia na budowę? Ważny wyrok NSA",
@@ -40,6 +40,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Japonia stała się jednym z najbardziej pożądanych kierunków podróży wśród przedstawicieli pokolenia Z. Młodych turystów przyciągają nie tylko anime i manga, ale także kultura vintage, ceremonia parzenia matchy, rzemiosło oraz estetyka „shibui”, która promuje prostotę i autentyczność."
+    },
+    {
+      "title": "Wymiana ciosów na Bliskim Wschodzie. Iran miał uderzyć na tankowce w cieśninie Ormuz",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-18/wymiana-ciosow-na-bliskim-wschodzie-iran-mial-uderzyc-na-tankowce-w-ciesninie-ormuz/",
+      "date": "2026-07-18T04:08:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Dwa tankowce eksplodowały, a następnie wybuchł na nich pożar, gdy próbowały przepłynąć przez zaminowaną trasę w cieśninie Ormuz - podały w irańskie media. Amerykańskie wojsko nie potwierdziło jednak żadnych nowych ataków Teheranu na statki handlowe. USA przekazały, że zakończyły siódmą z rzędu noc ataków na Iran."
     },
     {
       "title": "Zwolnienie z abonamentu RTV dla części emerytów. Nie przysługuje automatycznie",
@@ -392,14 +400,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Wymiana uderzeń USA i Iranu. Zniszczenia elektrowni w Kuwejcie (PAP/AFP) PAP - serwis wideo."
-    },
-    {
-      "title": "\"Łączy was wóda\". Kulesza z kabanosami na mocnej oprawie kibiców Lecha - Polskie Radio 24",
-      "url": "https://polskieradio24.pl/sport/mocna-oprawa-superpucharu-polski-w-poznaniu-uderzyli-w-pzpn",
-      "date": "2026-07-16T18:49:48Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "\"Łączy was wóda\". Kulesza z kabanosami na mocnej oprawie kibiców Lecha Polskie Radio 24."
     }
   ],
   "world_security": [
@@ -2276,8 +2276,8 @@
       "lng": 53.69,
       "type": "conflict",
       "region": "Iran",
-      "description": "Amerykańskie siły zbrojne rozpoczęły w piątek kolejną serię ataków na Iran - poinformowało Dowództwo Centralne USA (CENTCOM).",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-17/iran-w-ogniu-kolejna-noc-atakow-amerykanskie-wojsko-informuje/"
+      "description": "Dwa tankowce eksplodowały, a następnie wybuchł na nich pożar, gdy próbowały przepłynąć przez zaminowaną trasę w cieśninie Ormuz - podały w irańskie media.",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-18/wymiana-ciosow-na-bliskim-wschodzie-iran-mial-uderzyc-na-tankowce-w-ciesninie-ormuz/"
     },
     {
       "lat": 52.5,
@@ -2568,15 +2568,15 @@
           "source": "The New York Times"
         },
         {
-          "title": "Iran w ogniu. Kolejna noc ataków, amerykańskie wojsko informuje",
-          "url": "https://www.polsatnews.pl/wiadomosc/2026-07-17/iran-w-ogniu-kolejna-noc-atakow-amerykanskie-wojsko-informuje/",
+          "title": "Wymiana ciosów na Bliskim Wschodzie. Iran miał uderzyć na tankowce w cieśninie Ormuz",
+          "url": "https://www.polsatnews.pl/wiadomosc/2026-07-18/wymiana-ciosow-na-bliskim-wschodzie-iran-mial-uderzyc-na-tankowce-w-ciesninie-ormuz/",
           "source": "Polsat News"
         }
       ]
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 27,
+      "score": 25,
       "reasons": [
         {
           "title": "Amerykanie przygotowują się do rozszerzenia ataków na Iran? \"Administracja Trumpa powiadomiła Izrael\" - Polska Agencja Prasowa SA",
@@ -2597,7 +2597,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 14,
+      "score": 12,
       "reasons": [
         {
           "title": "Dymisja ministra obrony Ukrainy uwydatnia dla Zełenskiego szersze problemy",
@@ -2608,7 +2608,7 @@
     },
     {
       "name": "Jemen",
-      "score": 9,
+      "score": 8,
       "reasons": [
         {
           "title": "Drugi tankowiec w ciągu trzech miesięcy uprowadzony u wybrzeży Jemenu przez podejrzanych somalijskich piratów",
@@ -2619,7 +2619,7 @@
     },
     {
       "name": "Somalia",
-      "score": 9,
+      "score": 8,
       "reasons": [
         {
           "title": "Drugi tankowiec w ciągu trzech miesięcy uprowadzony u wybrzeży Jemenu przez podejrzanych somalijskich piratów",
