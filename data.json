@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-18T17:37:17Z",
+  "last_updated": "2026-07-18T17:37:47Z",
   "poland": [
+    {
+      "title": "Wyłączone stacje, limity i paliwo po 200 rubli. Rosjanie odczuwają ataki Ukrainy na rafinerie",
+      "url": "https://businessinsider.com.pl/gospodarka/kryzys-paliwowy-w-rosji-ukrainskie-ataki-zmieniaja-codzienne-zycie/3n429kn",
+      "date": "2026-07-18T17:35:18Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Wyłączone stacje, wielogodzinne kolejki, limity tankowania i ceny sięgające w niektórych miejscach 200 rubli za litr. Ukraińskie ataki na rosyjskie rafinerie coraz wyraźniej odbijają się na życiu mieszkańców Rosji. Moskwa sięga do magazynów i zwiększa import, ale codzienne życie Rosjan już się zasadniczo zmienia — wskazuje Filip Rudnik, ekspert Ośrodka Studiów Wschodnich w Onet Rano Finansowo."
+    },
     {
       "title": "Węgry. Péter Magyar osiągnął cel. Prezydent Tamas Sulyok odchodzi z urzędu",
       "url": "https://www.rp.pl/polityka/art44848341-wegry-peter-magyar-osiagnal-cel-prezydent-tamas-sulyok-odchodzi-z-urzedu",
@@ -226,14 +234,6 @@
       "summary": "W sieci pojawiło się nagranie z wypadku, podczas którego betoniarka przewróciła się na jezdnię. Zginął kierowca i rowerzystka. Rodzina kierującego betoniarką w rozmowie z \"Faktem\" opowiada, że na ich syna zapadł już wyrok."
     },
     {
-      "title": "Inwazyjne modliszki z Azji panoszą się w Europie. Mogą wyrządzić wielkie szkody",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-17/inwazyjne-modliszki-z-azji-panosza-sie-w-europie-moga-wyrzadzic-wielkie-szkody/",
-      "date": "2026-07-18T14:16:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "Dwa azjatyckie gatunki modliszek zostały uznane za inwazyjne gatunki obce w Europie. Te imponujące owady, dotąd traktowane głównie jako egzotyczna ciekawostka w ogrodach, coraz liczniej zasiedlają kolejne regiony kontynentu, a naukowcy ostrzegają, że zagrażają rodzimym gatunkom. Ich ekspansji sprzyjają ocieplenie klimatu i ciepło miast, dzięki którym przesuwają się coraz dalej na północ."
-    },
-    {
       "title": "Polska wśród krajów z najmniejszą liczbą sędziów w UE",
       "url": "https://businessinsider.com.pl/prawo/polska-w-ogonie-europy-pod-wzgledem-liczby-sedziow-statystyki-zaskakuja/tfdsyxx",
       "date": "2026-07-18T13:48:28Z",
@@ -444,6 +444,14 @@
       "summary": "Kanada przygotowuje się do ewakuacji społeczności Ontario, ponieważ dym z pożarów dusi się – Reuters."
     },
     {
+      "title": "Brytyjczyk Josh Kerr bije wieloletni rekord świata na milę – Reuters",
+      "url": "https://www.reuters.com/sports/josh-kerr-breaks-long-standing-world-mile-record-2026-07-18/",
+      "date": "2026-07-18T15:32:46Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Brytyjczyk Josh Kerr pobił wieloletni rekord świata na milę Reuters."
+    },
+    {
       "title": "„Będzie tylko gorzej”: pożary zmuszające strażaków do dokonywania niemożliwych wyborów",
       "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
       "date": "2026-07-18T15:24:42Z",
@@ -650,14 +658,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Założyciel partii Karaluch Janta, Abhijeet Dipke, rozpoczął teraz bezterminowy post w miejsce Sonama Wangchuka."
-    },
-    {
-      "title": "W wyniku gwałtownej powodzi zginęły 4 osoby, a 4 inne osoby zaginęły w Wietnamie – Reuters",
-      "url": "https://www.reuters.com/business/environment/flash-flood-kills-4-leaves-4-others-missing-vietnam-2026-07-18/",
-      "date": "2026-07-18T05:30:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "W wyniku gwałtownej powodzi zginęły 4 osoby, a 4 inne osoby zaginęły w Wietnamie Reuters."
     },
     {
       "title": "Kontrola, groźby, oszpecająca operacja: moje życie w „kulcie” Jeffreya Epsteina",
@@ -2228,8 +2228,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Zgody na kolejne ekshumacje ofiar rzezi wołyńskiej będą wydawane natychmiast - zapewnił szef ukraińskiego IPN, Ołeksandr Ałfiorow w rozmowie z Polskim Radiem.",
-      "url": "https://historia.rp.pl/historia/art44848321-rzez-wolynska-ipn-ukrainy-zgody-na-kolejne-ekshumacje-beda-wydawane-natychmiast"
+      "description": "Wyłączone stacje, wielogodzinne kolejki, limity tankowania i ceny sięgające w niektórych miejscach 200 rubli za litr.",
+      "url": "https://businessinsider.com.pl/gospodarka/kryzys-paliwowy-w-rosji-ukrainskie-ataki-zmieniaja-codzienne-zycie/3n429kn"
     },
     {
       "lat": 31.5,
@@ -2511,6 +2511,22 @@
       ]
     },
     {
+      "name": "Ukraina",
+      "score": 23,
+      "reasons": [
+        {
+          "title": "Dymisja ministra obrony Ukrainy uwydatnia dla Zełenskiego szersze problemy",
+          "url": "https://www.theguardian.com/world/2026/jul/17/dismissal-ukraine-defence-minister-mykhailo-fedorov-volodomyr-zelenskyy",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Wyłączone stacje, limity i paliwo po 200 rubli. Rosjanie odczuwają ataki Ukrainy na rafinerie",
+          "url": "https://businessinsider.com.pl/gospodarka/kryzys-paliwowy-w-rosji-ukrainskie-ataki-zmieniaja-codzienne-zycie/3n429kn",
+          "source": "Business Insider Polska"
+        }
+      ]
+    },
+    {
       "name": "Strefa Gazy / Izrael",
       "score": 18,
       "reasons": [
@@ -2522,17 +2538,6 @@
         {
           "title": "Szpital twierdzi, że izraelski atak na pogrzeb w Gazie zabił co najmniej siedem osób",
           "url": "https://www.theguardian.com/world/2026/jul/17/israeli-strike-gaza-funeral-multiple-deaths",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Ukraina",
-      "score": 14,
-      "reasons": [
-        {
-          "title": "Dymisja ministra obrony Ukrainy uwydatnia dla Zełenskiego szersze problemy",
-          "url": "https://www.theguardian.com/world/2026/jul/17/dismissal-ukraine-defence-minister-mykhailo-fedorov-volodomyr-zelenskyy",
           "source": "The Guardian"
         }
       ]
