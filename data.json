@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T20:43:32Z",
+  "last_updated": "2026-07-18T20:53:04Z",
   "poland": [
     {
       "title": "Niemcy podnoszą stopień zagrożenia terrorystycznego",
@@ -16,6 +16,14 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "- Decyzja prezydenta o zawetowaniu ustawy o statusie osoby najbliższej jest skandaliczna. Skrzywdził nią masę ludzi - powiedział w sobotę w Giżycku marszałek Sejmu, lider Nowej Lewicy Włodzimierz Czarzasty."
+    },
+    {
+      "title": "Gigantyczny pożar w Norwegii. Ponad 100 domów spłonęło w Drammen",
+      "url": "https://www.rp.pl/kleski-zywiolowe/art44848521-gigantyczny-pozar-w-norwegii-ponad-100-domow-splonelo-w-drammen",
+      "date": "2026-07-18T19:38:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Ponad 100 domów zostało zniszczonych w ogromnym pożarze, który wybuchł w piątek w miejscowości Krokstadelva, należącej do gminy Drammen na południu Norwegii. Władze określają go jako największy pożar zabudowy mieszkaniowej we współczesnej historii kraju."
     },
     {
       "title": "Dwóch żołnierzy USA zabitych w ataku Iranu na bazę w Jordanii. Chamenei uderza w Trumpa",
@@ -160,14 +168,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Wszyscy widzą, że PiS i jego formuła istnienia dobiegają końca. Widać, jak bardzo jest podzielony na szczeblu centralnym. A tu, w Małopolsce, jest podzielony jeszcze bardziej – mówi Bartosz Bocheńczak, kandydat Konfederacji na prezydenta Krakowa."
-    },
-    {
-      "title": "Ukraina: Rosja szykuje mobilizację 500 tys. ludzi. Część może szybko trafić na front",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art44848301-ukraina-rosja-szykuje-mobilizacje-500-tys-ludzi-czesc-moze-szybko-trafic-na-front",
-      "date": "2026-07-18T16:11:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Rosja przygotowuje się do przeprowadzenia jesiennej mobilizacji obejmującej nawet 500 tys. osób – poinformował szef ukraińskiego Centrum Przeciwdziałania Dezinformacji przy Radzie Bezpieczeństwa Narodowego i Obrony Ukrainy Andrij Kowalenko."
     },
     {
       "title": "Oddzielmy krytykę od hejtu. Inflacja nienawiści jest ogromna [OPINIA]",
@@ -508,14 +508,6 @@
       "summary": "Przedstawiciel USA Ralph Norman będzie kandydował do Senatu w Karolinie Południowej po śmierci Lindsey Graham Reuters."
     },
     {
-      "title": "Izraelskie wojsko twierdzi, że uderzyło w bojowników Hezbollahu po tym, jak dron został zauważony w południowym Libanie – Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israeli-military-says-it-struck-hezbollah-fighters-after-drone-spotted-southern-2026-07-18/",
-      "date": "2026-07-18T16:22:51Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Izraelskie wojsko twierdzi, że uderzyło w bojowników Hezbollahu po tym, jak dron został zauważony w południowym Libanie Reuters."
-    },
-    {
       "title": "„Będzie tylko gorzej”: pożary zmuszające strażaków do dokonywania niemożliwych wyborów",
       "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
       "date": "2026-07-18T15:24:42Z",
@@ -562,6 +554,14 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Deszcz może złagodzić warunki na środkowym Atlantyku i na północnym wschodzie, a finał Pucharu Świata odbędzie się w niedzielę. Oczekuje się, że w sobotę na niektórych obszarach Stanów Zjednoczonych utrzymają się ostrzeżenia o niebezpiecznych warunkach w związku z niepewnością co do tego, dokąd skierować się będzie następny gęsty dym z pożarów unoszący się z kanadyjskiej prowincji Ontario i amerykańskiego stanu Minnesota. W niektórych częściach środkowoatlantyckich i północno-wschodnich regionów USA jakość powietrza będzie nadal niska do sobotniego popołudnia, kiedy panuje wysoka temperatura ryzyko wystąpienia burz, które mogą przynieść ulgę w obliczu złego powietrza, ale wiążą się z innymi zagrożeniami, takimi jak gwałtowne powodzie i silne wiatry. Tymczasem w niektórych regionach Środkowego Zachodu i Wielkich Jezior w dalszym ciągu będzie panowała niebezpieczna jakość powietrza. Kontynuuj czytanie..."
+    },
+    {
+      "title": "FIFA wykryła 7 milionów obraźliwych komentarzy pod adresem zawodników i personelu podczas mistrzostw świata – Reuters",
+      "url": "https://www.reuters.com/sports/soccer/fifa-detects-7-million-abusive-comments-aimed-players-staff-during-world-cup-2026-07-18/",
+      "date": "2026-07-18T13:57:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "FIFA wykryła 7 milionów obraźliwych komentarzy pod adresem zawodników i personelu podczas mistrzostw świata Reuters."
     },
     {
       "title": "W atakach ukraińskich dronów zginęło siedmiu pracowników magazynów w Rosji, doszło do pożaru w składowisku ropy w obwodzie moskiewskim – Reuters",
@@ -766,12 +766,28 @@
   ],
   "world_politics": [
     {
+      "title": "Najwyższy generał Ukrainy staje się celem gniewu protestujących",
+      "url": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
+      "date": "2026-07-18T20:40:57Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Demonstranci popierający obalonego ministra obrony Ukrainy zaczęli potępiać dowódcę, z którym starł się podczas sprawowania urzędu, gen. Oleksandra Syrskiego."
+    },
+    {
       "title": "Aktualne aktualizacje wojny w Iranie: 2 żołnierzy amerykańskich zginęło, a 1 członek służby zaginął w wyniku irańskiego ataku na Jordanię",
       "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
-      "date": "2026-07-18T20:31:02Z",
+      "date": "2026-07-18T20:36:05Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Żołnierze byli pierwszymi żołnierzami amerykańskimi, którzy zginęli w wyniku wrogiego ostrzału w regionie od czasu rozejmu na początku kwietnia. Śmierć nastąpiła, gdy obie strony rozszerzyły zakres i intensywność swoich ataków."
+    },
+    {
+      "title": "Dlaczego Jordania staje się nowym tematem wojny amerykańsko-irańskiej",
+      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
+      "date": "2026-07-18T20:31:00Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Urzędnicy amerykańscy podali, że celem czterech irańskich ataków w ciągu pięciu dni były wojska amerykańskie w Jordanii, w tym jeden w piątek, w wyniku którego zginęło dwóch żołnierzy, a kolejny członek służby zaginął."
     },
     {
       "title": "Pożary w Kanadzie: co warto wiedzieć",
@@ -796,14 +812,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": ""
-    },
-    {
-      "title": "Najwyższy generał Ukrainy staje się celem gniewu protestujących",
-      "url": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
-      "date": "2026-07-18T19:09:43Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Demonstranci popierający obalonego ministra obrony Ukrainy zaczęli potępiać dowódcę, z którym starł się podczas sprawowania urzędu, gen. Oleksandra Syrskiego."
     },
     {
       "title": "Nazywali Sama Neilla „Skux”. (To był komplement).",
@@ -876,14 +884,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": ""
-    },
-    {
-      "title": "Indyjski aktywista biorący udział w strajku głodowym zostaje siłą usunięty przez policję",
-      "url": "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html",
-      "date": "2026-07-18T14:05:17Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Aktywistka Sonam Wangchuk żądała dymisji ministra edukacji w związku z nieudanymi ogólnokrajowymi egzaminami, które dotknęły miliony uczniów."
     },
     {
       "title": "Potężny pożar stał się największym w dzisiejszych czasach w Norwegii, po zniszczeniu ponad 100 domów – AP News",
