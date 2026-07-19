@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T21:18:14Z",
+  "last_updated": "2026-07-19T21:23:12Z",
   "poland": [
     {
       "title": "Nieoficjalnie: USA wysyłają więcej samolotów wojskowych na Bliski Wschód. \"To sygnał\"",
@@ -1490,14 +1490,6 @@
       "summary": "Hakerzy uzbrojeni w sztuczną inteligencję i perfekcyjne deepfake’i są symbolem nowej ery. Tradycyjne zabezpieczenia nie są już w stanie nas obronić. Właściwe jest zatem pytanie nie „czy”, ale „kiedy” dojdzie do paraliżu."
     },
     {
-      "title": "Krytyczna podatność w WordPress. Można przejmować systemy nawet jak nie masz zainstalowanych żadnych pluginów.",
-      "url": "https://sekurak.pl/krytyczna-podatnosc-w-wordpress-mozna-przejmowac-systemy-nawet-jak-nie-masz-zainstalowanych-zadnych-pluginow/",
-      "date": "2026-07-18T09:32:00Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Bardzo dawno nie było czegoś takiego. Mamy tutaj dwie podatności &#8211; obie nie wymagające uwierzytelnienia: W przypadku pierwszej luki podatne są WordPressy: 6.9.0 &#8211; 6.9.4 oraz 7.0.0 &#8211; 7.0.1. W przypadku drugiej 6.8.0 &#8211; 6.8.5 / 6.9.0 &#8211; 6.9.4 oraz 7.0.0 &#8211; 7.0.1."
-    },
-    {
       "title": "Technologia w samotnej podróży. Jak możemy zwiększyć swój komfort i bezpieczeństwo?",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/poradniki/technologia-w-samotnej-podrozy-jak-mozemy-zwiekszyc-swoj-komfort-i-bezpieczenstwo",
       "date": "2026-07-18T07:58:53Z",
@@ -1658,28 +1650,12 @@
       "summary": "Luki w zabezpieczeniach polegające na wstrzykiwaniu poleceń trafiają na listę wykorzystywanych narzędzi, gdy badacze wykryją próby nadużyć."
     },
     {
-      "title": "GigaWiper: wiper, stealer, ransomware w jednym. Szczegółowa analiza malware",
-      "url": "https://sekurak.pl/gigawiper-wiper-stealer-ransomware-w-jednym-szczegolowa-analiza-malware/",
-      "date": "2026-07-17T11:47:41Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Badacze bezpieczeństwa z Microsoft Threat Intelligence przeprowadzili analizę zaawansowanej kampanii, w której cyberprzestępcy wykorzystali rodzinę złośliwego oprogramowania o nazwie GigaWiper. Jak sama nazwa wskazuje, malware należy do kategorii wiperów, których głównym zadaniem jest bezpowrotne niszczenie danych na zainfekowanej maszynie. Działania te są realizowane poprzez usuwanie metadanych partycji dysków, szyfrowanie danych..."
-    },
-    {
       "title": "UE Nakazuje Google udostępnienie mikrofonu, kamery i ekranu Androida konkurencyjnym asystentom AI",
       "url": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
       "date": "2026-07-17T11:44:41Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Komisja Europejska nakazała w czwartek Google’owi zapewnienie konkurencyjnym asystentom AI takiego samego zasięgu w systemie Android, jaki ma już Gemini: aparat, mikrofon, wszystko, co jest na ekranie, słowo aktywujące uruchamiające się przy wyłączonym wyświetlaczu oraz możliwość sterowania innymi aplikacjami w tle poprzez imitowanie stuknięć i pisania. Google musi go dostarczyć w następnej głównej wersji, Androidzie 18, i do 1 sierpnia 2027 r. o godz."
-    },
-    {
-      "title": "Błąd w 7-Zip umożliwia zdalne wykonanie kodu (RCE)",
-      "url": "https://sekurak.pl/blad-w-7-zip-umozliwia-zdalne-wykonanie-kodu-rce/",
-      "date": "2026-07-17T11:43:01Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Landon Peng z Lunbun LLC odkrył&#160;lukę typu przepełnienie bufora na stosie w 7zip – popularnym narzędziu do obsługi archiwów. TLDR: Błąd obecny jest prawdopodobnie we wszystkich wersjach 7-Zip do 26.02 i znajduje się w funkcji odpowiedzialnej za obsługę archiwów w formacie xz.Skuteczna eksploitacja może prowadzić do zdalnego wykonania kodu. Do przeprowadzenia ataku..."
     },
     {
       "title": "Trwa wyścig o autonomię wojskową w terenie. Czy zaufana infrastruktura informacyjna może dotrzymać kroku?",
@@ -1720,14 +1696,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Budowa i uruchamianie centrów danych może przynieść Polsce zmiany na rynku ciepłowniczym. Pojawił się pomysł, aby położone w miastach serwerownie stały się źródłem ciepła. Wyzwaniem staje się również zaopatrzenie centrów obliczeniowych w energię, co widać w krajach skandynawskich."
-    },
-    {
-      "title": "Krytyczna podatność RCE we wtyczce Everest Forms Pro (WordPress)",
-      "url": "https://sekurak.pl/krytyczna-podatnosc-rce-we-wtyczce-everest-forms-pro-wordpress/",
-      "date": "2026-07-17T10:00:35Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Badacze bezpieczeństwa z Wordfence ujawnili krytyczną podatność Remote Code Execution we wtyczce Everest Forms Pro przeznaczonej dla WordPressa. Luka ma być wciąż wykorzystywana do ataków na strony korzystające z tego rozszerzenia. Podatność dotyczy wszystkich wersji przed 1.9.13 i otrzymała ocenę 9.8 (krytyczna) w skali CVSS."
     },
     {
       "title": "Ransomware wstrzymuje produkcję w mleczarni Fairlife należącej do Coca-Coli",
@@ -1900,6 +1868,14 @@
       "summary": "Rakiety nad Jordanią. Izrael ostrzega przed możliwym rozszerzeniem ostrzału Forsal.pl."
     },
     {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/hazard;pieniadze-i-sport,14",
+      "date": "2026-07-19T12:34:38Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
       "title": "Iran grozi statkom w Ormuzie. „Ani jedna kropla ropy nie przepłynie bez pozwolenia” - Forsal.pl",
       "url": "https://forsal.pl/swiat/aktualnosci/artykuly/11277698,iran-unieruchomil-dwa-statki-ciesnina-ormuz.html",
       "date": "2026-07-19T12:07:23Z",
@@ -1914,14 +1890,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Impuls i korekta - 19 lipca 2026 tchoman ndz., 19.07.2026 Treść Wig otarł się o poziom 145k pkt i skorygował. Teraz naturalnymi wsparciami jest sekwencja poprzednich szczytów. Pierwszy już zaliczony."
-    },
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/sluzby-specjalne;rosja,10",
-      "date": "2026-07-19T10:23:27Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Nocny cios Ukrainy w rosyjską flotę. Drony zaatakowały tankowce na Morzu Czarnym - Forsal.pl",
