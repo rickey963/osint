@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-20T11:43:50Z",
+  "last_updated": "2026-07-20T11:44:26Z",
   "poland": [
+    {
+      "title": "Maleje liczba firm w transporcie drogowym, jesienią załadowcy będą mieli kłopot",
+      "url": "https://logistyka.rp.pl/drogowy/art44854301-maleje-liczba-firm-w-transporcie-drogowym-jesienia-zaladowcy-beda-mieli-klopot",
+      "date": "2026-07-20T11:42:26Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Po wiosennych problemach z brakiem dostępnych ciężarówek, jesień może być dla załadowców jeszcze trudniejsza."
+    },
+    {
+      "title": "Zablokowana Cieśnina Ormuz może zrujnować przewozy lotnicze",
+      "url": "https://logistyka.rp.pl/lotniczy/art44853861-zablokowana-ciesnina-ormuz-moze-zrujnowac-przewozy-lotnicze",
+      "date": "2026-07-20T11:42:13Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Walki w Iranie doprowadziły do ponownego zablokowania Cieśniny Ormuz. Sytuacja w transporcie morskim może doprowadzić do spadku w przewozach lotniczych, które odbudowały się zaskakująco szybko po marcowej katastrofie."
+    },
     {
       "title": "Andy Burnham obejmuje urząd premiera. Wielka Brytania ma nowego szefa rządu",
       "url": "https://www.rp.pl/polityka/art44854261-andy-burnham-obejmuje-urzad-premiera-wielka-brytania-ma-nowego-szefa-rzadu",
@@ -96,22 +112,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Zarobki lekarza w Braniewie, który za pracę w 2024 r. otrzymał 1 mln 800 tys. zł to nie jedyna kontrowersyjna kwestia związana z tamtejszym szpitalem."
-    },
-    {
-      "title": "Ukraina może zyskać dostęp do nowego programu rakietowego",
-      "url": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art44853951-ukraina-moze-zyskac-dostep-do-nowego-programu-rakietowego",
-      "date": "2026-07-20T11:05:39Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Decyzja Francji o przekazaniu Ukrainie licencji na produkcję pocisków przeciwlotniczych Aster, rakiet manewrujących SCALP oraz bomb szybujących AASM Hammer może przynieść skutki wykraczające poza rozwój obecnie wykorzystywanego uzbrojenia."
-    },
-    {
-      "title": "Czarzasty zapowiada przełożenie prac nad związkami partnerskimi na nową kadencję",
-      "url": "https://www.rp.pl/polityka/art44853891-czarzasty-zapowiada-przelozenie-prac-nad-zwiazkami-partnerskimi-na-nowa-kadencje",
-      "date": "2026-07-20T11:02:27Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Włodzimierz Czarzasty zapowiedział przełożenie prac nad ustawą o związkach partnerskich na kolejną kadencję Sejmu. Decyzja ta jest reakcją na weto prezydenta Karola Nawrockiego. Marszałek ogłosił też plan letnich obrad nad zmianami w zdrowiu."
     },
     {
       "title": "Zakaz patostreamingu. Lewica: To nie jest nasze ostatnie słowo",
@@ -378,6 +378,14 @@
       "summary": "Wakacje to nie wyścig z czasem Serwis Zdrowie."
     },
     {
+      "title": "Nadchodzą burze i ulewy. Te regiony są najbardziej zagrożone - Polskie Radio 24",
+      "url": "https://polskieradio24.pl/pogoda/dwa-dni-ulew-imgw-pokazal-nowa-animacje",
+      "date": "2026-07-20T06:07:49Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Nadchodzą burze i ulewy. Te regiony są najbardziej zagrożone Polskie Radio 24."
+    },
+    {
       "title": "Trump o atakach na Iran: uderzyliśmy, by uhonorować poległych żołnierzy - Polska Agencja Prasowa SA",
       "url": "https://www.pap.pl/aktualnosci/usa-trump-mocno-uderzylismy-w-iran-uhonorowac-poleglych-zolnierzy",
       "date": "2026-07-20T05:12:00Z",
@@ -392,14 +400,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "TYDZIEŃ W KRAJU: Czerwcowe płace, produkcja przemysłowa i sprzedaż detal., aukcja MF, SM NBP PAP Biznes."
-    },
-    {
-      "title": "Nie Messi i Yamal. Ronaldo i Ronaldinho kradną show w finale Hiszpania - Argentyna - Polskie Radio 24",
-      "url": "https://www.polskieradio24.pl/sport/nie-messi-i-yamal-ronaldo-i-ronaldinho-kradna-show-w-finale-hiszpania-argentyna",
-      "date": "2026-07-19T20:15:05Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Nie Messi i Yamal. Ronaldo i Ronaldinho kradną show w finale Hiszpania - Argentyna Polskie Radio 24."
     }
   ],
   "world_security": [
@@ -2220,8 +2220,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Decyzja Francji o przekazaniu Ukrainie licencji na produkcję pocisków przeciwlotniczych Aster, rakiet manewrujących SCALP oraz bomb szybujących AASM Hammer może przynieść skutki wykraczające poza rozwój obecnie wykorzystywanego uzbrojenia.",
-      "url": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art44853951-ukraina-moze-zyskac-dostep-do-nowego-programu-rakietowego"
+      "description": "Do 10 wzrosła liczba ofiar rosyjskiego ataku na statek Golden Leo na Morzu Czarnym - poinformowały władze Ukrainy.",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-20/rosja-storpedowala-cywilny-statek-ze-zbozem-zginelo-10-osob/"
     },
     {
       "lat": 31.5,
@@ -2236,8 +2236,8 @@
       "lng": 53.69,
       "type": "conflict",
       "region": "Iran",
-      "description": "Trump o atakach na Iran: uderzyliśmy, by uhonorować poległych żołnierzy Polska Agencja Prasowa SA.",
-      "url": "https://www.pap.pl/aktualnosci/usa-trump-mocno-uderzylismy-w-iran-uhonorowac-poleglych-zolnierzy"
+      "description": "Walki w Iranie doprowadziły do ponownego zablokowania Cieśniny Ormuz.",
+      "url": "https://logistyka.rp.pl/lotniczy/art44853861-zablokowana-ciesnina-ormuz-moze-zrujnowac-przewozy-lotnicze"
     },
     {
       "lat": 52.5,
@@ -2440,7 +2440,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 52,
+      "score": 48,
       "reasons": [
         {
           "title": "Putin chce eskalacji konfliktu? Niepokojące słowa o Polsce",
@@ -2461,7 +2461,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 21,
+      "score": 19,
       "reasons": [
         {
           "title": "Kryzys na Bliskim Wschodzie: Wojsko amerykańskie twierdzi, że członek służby zginął podczas „kontrolowanej detonacji” zestrzelonego irańskiego drona – tak się złożyło",
@@ -2488,7 +2488,7 @@
     },
     {
       "name": "Syria",
-      "score": 7,
+      "score": 6,
       "reasons": [
         {
           "title": "Trump twierdzi, że amerykańskie ataki uderzyły w Iran „na cześć” poległych amerykańskich żołnierzy",
@@ -2696,51 +2696,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25806.7,
+      25807.38,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26977.13,
+      26977.84,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27124.84,
+      27125.56,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27371.07,
+      27371.79,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28010.13,
+      28010.87,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28046.36,
+      28047.1,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28292.32,
+      28293.06,
       27354.94,
       27400.36,
       27412.11,
-      28695.83,
+      28696.59,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27952.63,
+      27953.36,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28133.28,
+      28134.02,
       27686.17,
       27404.78,
       27351.97,
@@ -2749,7 +2749,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27840.11,
+      27840.85,
       27930.04,
       28234.04,
       28218.36,
@@ -2758,12 +2758,12 @@
       28294.39,
       28203.83,
       28555.17,
-      28678.16,
+      28678.91,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28232.58
+      28233.32
     ],
     "currency": "PLN"
   }
