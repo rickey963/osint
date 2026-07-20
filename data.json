@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T17:28:37Z",
+  "last_updated": "2026-07-20T17:29:35Z",
   "poland": [
     {
       "title": "Tak Hiszpania świętuje piłkarskie mistrzostwo świata. Widziane z perspektywy Andaluzji",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Zełenski staje w obliczu presji usunięcia najwyższego generała Ukrainy",
+      "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html",
+      "date": "2026-07-20T17:27:16Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Demonstranci i wielu żołnierzy chcą, aby prezydent Wołodymyr Zełenski potwierdził wizję wojny z użyciem dronów przedstawioną przez zwolnionego w zeszłym tygodniu ministra obrony."
+    },
+    {
       "title": "Hamas mianuje Khalila al-Hayyę swoim nowym przywódcą",
       "url": "https://www.nytimes.com/2026/07/20/world/middleeast/gaza-talks-khalil-al-hayya-leader.html",
       "date": "2026-07-20T17:22:44Z",
@@ -900,14 +908,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": ""
-    },
-    {
-      "title": "Co dzieje się za kulisami, gdy Burnham wchodzi na Downing Street 10",
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/behind-the-scenes-downing-street.html",
-      "date": "2026-07-20T13:07:52Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Rozmowy telefoniczne z zagranicznymi przywódcami, nominacje do gabinetu i pisanie „listów ostatniej szansy”: pierwsze godziny i dni urzędowania Andy'ego Burnhama będą pracowite."
     },
     {
       "title": "Indyjska policja użyła gazu łzawiącego, aby powstrzymać marsz zwolenników ruchu Karaluch na parlament – ​​AP News",
@@ -1908,6 +1908,14 @@
       "summary": "Z prognoz Komisji Europejskiej wynika, że produkcja cukru w UE w sezonie 2026/2027 spadnie o prawie 15 proc. w porównaniu z poprzednim sezonem - przekazał w komunikacie Związek Producentów Cukru w Polsce. Głównym powodem jest ograniczenie powierzchni upraw buraka cukrowego."
     },
     {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/enter-air;turystyka,11",
+      "date": "2026-07-20T14:58:10Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
       "title": "Notowania INTLNVD99424 INGBANK - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/INTLNVD99424",
       "date": "2026-07-20T14:51:36Z",
@@ -2090,14 +2098,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Po mistrzostwach. FIFA zarobiła, a Trump chciał być gwiazdą za wszelką cenę Forbes."
-    },
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/nord-stream-2;usa,8?strona=27",
-      "date": "2026-07-20T11:34:06Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "To tylko korekta, opinie o końcu hossy AI są przesadzone - uważają analitycy JPMorgan",
@@ -2429,7 +2429,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 33,
+      "score": 43,
       "reasons": [
         {
           "title": "Rosyjski atak na Odessę powoduje śmierć trzech osób po tym, jak Ukraina w nocy zaatakowała Moskwę dronami – tak się stało",
@@ -2437,14 +2437,14 @@
           "source": "The Guardian"
         },
         {
-          "title": "Pęd wojny na Ukrainie pomaga zwiększyć zainteresowanie powojennymi inwestycjami",
-          "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html",
+          "title": "Zełenski staje w obliczu presji usunięcia najwyższego generała Ukrainy",
+          "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html",
           "source": "The New York Times"
         },
         {
-          "title": "New Delhi podaje, że czterech Hindusów zginęło w ataku na statek wypływający z Odessy na Ukrainie – podaje Reuters",
-          "url": "https://www.reuters.com/world/india/four-indians-killed-attack-ship-leaving-ukraines-odesa-new-delhi-says-2026-07-20/",
-          "source": "Reuters"
+          "title": "Pęd wojny na Ukrainie pomaga zwiększyć zainteresowanie powojennymi inwestycjami",
+          "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html",
+          "source": "The New York Times"
         }
       ]
     },
@@ -2671,51 +2671,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25874.87,
+      25876.23,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27048.39,
+      27049.81,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27196.49,
+      27197.93,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27443.37,
+      27444.81,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28084.12,
+      28085.6,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28120.44,
+      28121.93,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28367.05,
+      28368.55,
       27354.94,
       27400.36,
       27412.11,
-      28771.63,
+      28773.15,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28026.46,
+      28027.94,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28207.59,
+      28209.08,
       27686.17,
       27404.78,
       27351.97,
@@ -2724,7 +2724,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27913.65,
+      27915.13,
       27930.04,
       28234.04,
       28218.36,
@@ -2733,13 +2733,13 @@
       28294.39,
       28203.83,
       28555.17,
-      28753.91,
+      28755.42,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28307.15,
-      28335.39
+      28308.65,
+      28340.3
     ],
     "currency": "PLN"
   }
