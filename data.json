@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-20T03:26:33Z",
+  "last_updated": "2026-07-20T03:35:54Z",
   "poland": [
+    {
+      "title": "Rozmowa o zmianie pracy ma być równie naturalna co o urlopie",
+      "url": "https://www.rp.pl/praca/art44846391-rozmowa-o-zmianie-pracy-ma-byc-rownie-naturalna-co-o-urlopie",
+      "date": "2026-07-20T03:22:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Choć podstawą zatrudnienia jest praca stacjonarna, to coraz więcej firm oferuje w ogłoszeniach możliwość pracy hybrydowej. Dodatkowo w co trzecim anonsie umieszczono widełki wynagrodzeń. Jest to znacząco więcej niż rok wcześniej."
+    },
     {
       "title": "Prezydentem Węgier ma zostać słynna szachistka. Péter Magyar chce kogoś niezaangażowanego w politykę",
       "url": "https://www.rp.pl/polityka/art44852071-prezydentem-wegier-ma-zostac-slynna-szachistka-peter-magyar-chce-kogos-niezaangazowanego-w-polityke",
@@ -72,14 +80,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Wzajemna nienawiść w każdej dowolnej sprawie i niezdolność do budowania nawet taktycznych porozumień między sobą stały się głównymi cechami naszej kultury politycznej."
-    },
-    {
-      "title": "Marek Kobylański: Komunalne porządki nie wystarczą",
-      "url": "https://www.rp.pl/opinie-prawne/art44849811-marek-kobylanski-komunalne-porzadki-nie-wystarcza",
-      "date": "2026-07-20T02:44:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Dobrze, że państwo próbuje uporządkować zasady korzystania z mieszkań komunalnych. Źle, że skupia się na dzieleniu tego, czego od lat jest zdecydowanie za mało."
     },
     {
       "title": "Mundial w Ameryce Północnej z rekordową frekwencją - Polska Agencja Prasowa SA",
@@ -516,6 +516,14 @@
       "summary": "TSMC spodziewa się „dużego, wieloletniego” popytu na chipy AI w związku ze zwiększeniem inwestycji w Arizonie Reuters."
     },
     {
+      "title": "Dolar umacnia się w miarę nasilania się konfliktu amerykańsko-irańskiego, cena ropy Brent osiąga 90 dolarów – Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-firmer-us-iran-conflict-intensifies-brent-hits-90-2026-07-19/",
+      "date": "2026-07-19T23:47:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Dolar umacnia się w miarę nasilania się konfliktu amerykańsko-irańskiego, cena ropy Brent osiąga 90 dolarów Reuters."
+    },
+    {
       "title": "Hiszpania pokonała 10-osobową Argentynę 1:0 w dogrywce i zdobyła Puchar Świata – Reuters",
       "url": "https://www.reuters.com/sports/soccer/spain-battle-past-10-man-argentina-1-0-extra-time-win-world-cup-2026-07-19/",
       "date": "2026-07-19T23:22:58Z",
@@ -578,14 +586,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Woda wlewała się kaskadą do stacji metra i zalała ulice, a ludzie brodzili w wodzie."
-    },
-    {
-      "title": "W finale Pucharu Świata pomiędzy 10-osobową Argentyną a Hiszpanią dojdzie do dogrywki – Reuters",
-      "url": "https://www.reuters.com/sports/soccer/world-cup-final-between-10-man-argentina-spain-goes-extra-time-2026-07-19/",
-      "date": "2026-07-19T21:25:44Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Finał Pucharu Świata pomiędzy 10-osobową Argentyną i Hiszpanią dojdzie do dogrywki Reuters."
     },
     {
       "title": "Kryzys na Bliskim Wschodzie: Wojsko amerykańskie twierdzi, że członek służby zginął podczas „kontrolowanej detonacji” zestrzelonego irańskiego drona – tak się złożyło",
@@ -866,7 +866,7 @@
       "url": "https://www.nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html",
       "date": "2026-07-19T18:40:31Z",
       "source": "The New York Times",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "W zeszłym tygodniu setki pożarów w Kanadzie i Stanach Zjednoczonych pokryły duże obszary Ameryki Północnej gęstym dymem."
     },
     {
@@ -1957,8 +1957,8 @@
     },
     {
       "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/tagi/fim-92-stinger",
-      "date": "2026-07-19T09:02:22Z",
+      "url": "https://forsal.pl/tagi/zestaw-przeciwlotniczy-stinger",
+      "date": "2026-07-19T09:02:21Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
@@ -2711,51 +2711,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25841.13,
+      25840.44,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27013.11,
+      27012.4,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27161.03,
+      27160.31,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27407.58,
+      27406.85,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28047.49,
+      28046.75,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28083.77,
+      28083.03,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28330.06,
+      28329.31,
       27354.94,
       27400.36,
       27412.11,
-      28734.11,
+      28733.35,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27989.91,
+      27989.17,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28170.81,
+      28170.06,
       27686.17,
       27404.78,
       27351.97,
@@ -2764,7 +2764,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27877.25,
+      27876.52,
       27930.04,
       28234.04,
       28218.36,
@@ -2773,12 +2773,12 @@
       28294.39,
       28203.83,
       28555.17,
-      28716.41,
+      28715.65,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28270.24
+      28269.49
     ],
     "currency": "PLN"
   }
