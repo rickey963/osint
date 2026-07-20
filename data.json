@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T12:26:47Z",
+  "last_updated": "2026-07-20T12:31:48Z",
   "poland": [
     {
       "title": "Nowe narzędzie dla urzędników. Wicepremier: skróci pracę średnio pięć razy",
@@ -902,14 +902,6 @@
       "summary": "Stany Zjednoczone przeprowadzają więcej nalotów na Iran po ogłoszeniu kolejnej śmierci członka służby AP News."
     },
     {
-      "title": "Hiszpania zdobywa Puchar Świata, pokonując Argentynę 1:0 po bramce Ferrana Torresa w dogrywce – AP News",
-      "url": "https://apnews.com/article/argentina-spain-world-cup-final-score-messi-fccc26aa12d9226e63d06b601b770617",
-      "date": "2026-07-20T02:07:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Hiszpania zdobywa Puchar Świata, pokonując Argentynę 1:0 po bramce Ferrana Torresa w dogrywce AP News."
-    },
-    {
       "title": "Trump świętuje Puchar Świata jako zwycięstwo Stanów Zjednoczonych, wręczając trofeum zwycięzcy, Hiszpanii – AP News",
       "url": "https://apnews.com/article/trump-world-cup-final-ad67ea3f25163bbb1d779d17b04da115",
       "date": "2026-07-20T00:50:00Z",
@@ -940,6 +932,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "AIPAC wydał rekordową kwotę na prawybory Senatu stanu Michigan, co stanowi największy test jego wpływów w dotychczasowej historii AP News."
+    },
+    {
+      "title": "Hiszpania zdobywa Puchar Świata, pokonując Argentynę 1:0 po bramce Ferrana Torresa w dogrywce – AP News",
+      "url": "https://apnews.com/article/argentina-spain-world-cup-final-score-messi-fccc26aa12d9226e63d06b601b770617",
+      "date": "2026-07-19T10:11:52Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Hiszpania zdobywa Puchar Świata, pokonując Argentynę 1:0 po bramce Ferrana Torresa w dogrywce AP News."
     },
     {
       "title": "Wpływowi na media społecznościowe, Andrew i Tristan Tate, aresztowani w Miami – informuje AP – AP News US Marshals Service",
@@ -1410,44 +1410,12 @@
   ],
   "cybersecurity": [
     {
-      "title": "Ekspert Infosec: Dane użytkowników płatnej pracy ujawnione po wyrzuceniu do Internetu bazy danych zawierającej 23 miliony rekordów",
-      "url": "https://www.theregister.com/cyber-crime/2026/07/20/infosec-expert-paidwork-users-data-pwned-after-23m-record-database-dumped-online/5274869",
-      "date": "2026-07-20T12:00:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "HIBP twierdzi, że wyciekły informacje, w tym numery kont bankowych, historie wypłat i dane osobowe."
-    },
-    {
-      "title": "Microsoft spieszy się z poprawką systemu Windows dla przegrzanych i problematycznych komputerów Dell",
-      "url": "https://www.theregister.com/os-platforms/2026/07/20/microsoft-rushes-out-windows-fix-for-dells-hot-and-bothered-pcs/5274810",
-      "date": "2026-07-20T11:15:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Mimo wszystko za machnięciem różdżki dotknięte modele pójdą na bal Patch Tuesday."
-    },
-    {
       "title": "NIK bije na alarm. Polskie dzieci nie są bezpieczne w sieci",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/nik-bije-na-alarm-polskie-dzieci-nie-sa-bezpieczne-w-sieci",
       "date": "2026-07-20T10:54:10Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Pomimo podjętych działań, nadal nie wdrożono rozwiązań skutecznie wspierających ochronę dzieci i młodzieży w sieci – wynika z raportu NIK po kontroli w Ministerstwie Cyfryzacji. Według dokumentu, projekty ustaw „przygotowywane od lat” nie weszły w życie, zaś dotychczasowa współpraca z innymi instytucjami nie przyniosła wymiernych efektów. Działania informacyjno-edukacyjne powinny z kolei być oceniane pod kątem skuteczności i brać pod uwagę odpowiedzialność rodziców."
-    },
-    {
-      "title": "Siódmy premier Wielkiej Brytanii w ciągu dekady zapowiada, że ​​porzuci system identyfikacji cyfrowej",
-      "url": "https://www.theregister.com/public-sector/2026/07/20/uks-seventh-prime-minister-in-a-decade-says-hell-ditch-digital-id-scheme/5274794",
-      "date": "2026-07-20T10:31:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Jeden z największych projektów technologicznych Partii Pracy zmierza do kosza, gdy Burnham zmienia priorytety Whitehall."
-    },
-    {
-      "title": "Poważna usterka w Matrixie wynikająca z projektów rządowych Wielkiej Brytanii, które wskazują, że wskaźniki usług wspólnych są czerwone",
-      "url": "https://www.theregister.com/public-sector/2026/07/20/major-glitch-in-matrix-as-uk-government-projects-watchdog-rates-shared-services-cluster-red/5274368",
-      "date": "2026-07-20T10:00:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Remont systemu ERP w dziewięciu działach uznano za nieosiągalny bez pilnych działań."
     },
     {
       "title": "Hakerzy polują na polskie fabryki i sektor kosmiczny. Rusza budowa specjalnego zespołu",
@@ -1464,14 +1432,6 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Trudno wyobrazić sobie współczesny internet bez WordPressa. Ten blogowy system zarządzania treścią z czasem stał się potężnym narzędziem, z którego korzystają nawet najwięksi gracze. Różne dane wskazują, że udział WordPressa w rynku od lat oscyluje w okolicach 60%."
-    },
-    {
-      "title": "Airbus leci z AWS. To, co stanie się później, jest krytyczne",
-      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-      "date": "2026-07-20T09:15:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Którędy znowu do Krainy Wolności?"
     },
     {
       "title": "Nowa luka w zabezpieczeniach 7-Zip może pozwolić spreparowanym archiwom XZ na uruchomienie kodu podczas wyodrębniania",
@@ -1498,36 +1458,12 @@
       "summary": "Czy jedna podatność we wtyczce do WordPressa może doprowadzić do blokady konta Mailgun? Ciekawą historię opisał Austin Ginder, który zaczął otrzymywać wiadomości dotyczące podejrzanej aktywności na koncie Mailgun (usługa do wysyłki tzw. e-maili transakcyjnych)."
     },
     {
-      "title": "Audytorzy mówią rządowi Wielkiej Brytanii, aby przeprowadził obliczenia, zanim zacznie oszczędzać na sztucznej inteligencji o wartości 45 miliardów funtów",
-      "url": "https://www.theregister.com/public-sector/2026/07/20/auditors-tell-uk-government-to-do-the-math-before-banking-on-45b-ai-savings/5274194",
-      "date": "2026-07-20T08:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Departamenty nie opracowały jeszcze, w jaki sposób technologia zmieni personel, role i umiejętności w całym sektorze publicznym."
-    },
-    {
       "title": "Sprytny sposób na reverse shell przez Claude Code",
       "url": "https://sekurak.pl/sprytny-sposob-na-reverse-shell-przez-claude-code/",
       "date": "2026-07-20T08:29:08Z",
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Badacze bezpieczeństwa Andre Hall i Miller Engelbrecht z 0DIN zademonstrowali technikę ataku, która pozwalała na uzyskanie zdalnego dostępu (reverse shell) do komputera ofiary. Wystarczyło, że ta otworzyła złośliwe repozytorium w Claude Code i poleciła asystentowi AI uruchomić projekt. TLDR: Repozytorium nie zawierało złośliwego kodu."
-    },
-    {
-      "title": "Wysokie koszty sprzętu sprawiają, że firma Red Hat oferuje platformę brzegową z dwoma serwerami, która nie wymaga mini-PC",
-      "url": "https://www.theregister.com/systems/2026/07/20/high-hardware-costs-see-red-hat-offer-a-two-server-edge-rig-no-mini-pc-required/5274762",
-      "date": "2026-07-20T07:24:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Martwi się „zaporowymi kosztami zasilania, konserwacji i wdrażania trzeciego węzła”."
-    },
-    {
-      "title": "Komentarz w kodzie brzmi: „Droga przyszłość, przepraszam, że to napisałem”",
-      "url": "https://www.theregister.com/software/2026/07/20/comment-in-code-read-dear-future-me-sorry-i-wrote-this/5274130",
-      "date": "2026-07-20T06:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Deweloper został zatrudniony do napisania VB, zamiast tego użył C# i myślał, że głównie dzięki temu działa."
     },
     {
       "title": "Sztuczna inteligencja strażnikiem polskich granic. Zacznie się od wschodu",
@@ -1554,36 +1490,12 @@
       "summary": "Badacze zajmujący się cyberbezpieczeństwem oznaczyli nowy atak na łańcuch dostaw oprogramowania o kryptonimie SleeperGem, którego celem jest ekosystem Ruby po opublikowaniu w RubyGems trzech złośliwych klejnotów, których ostatecznym celem jest udostępnienie dodatkowych ładunków. Nieuczciwe klejnoty są wymienione poniżej - git_credential_manager (wersje 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Opublikowano 18 lipca 2026 r. Dendreo (wersje 1.1.3, 1.1.4) -."
     },
     {
-      "title": "Narzędzia AI będą powodować rozrastanie się konsoli i częściej psuć IT: Gartner",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/20/ai-ops-tools-will-create-console-sprawl-and-break-it-more-often-gartner/5274712",
-      "date": "2026-07-20T03:28:36Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Jednak do 2030 r. jedna czwarta prac operacyjnych IT, które wykonujesz obecnie, będzie wykonywana przez nienadzorowanego brzękacza."
-    },
-    {
-      "title": "Prezydent Chin Xi Jinping chce, aby systemy reagowania kryzysowego kontrolowały sztuczną inteligencję",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/20/chinese-president-xi-jinping-wants-emergency-response-systems-to-keep-ai-in-check/5274687",
-      "date": "2026-07-20T00:38:54Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "PLUS: magazyn koreańskiego sprzedawcy internetowego Coupang płonie i płonie; Australijski Uni wydala VMware; Pierwsza prywatna rakieta Indii leci po raz pierwszy; I więcej!"
-    },
-    {
       "title": "Krytyczna luka w zabezpieczeniach NGINX może spowodować awarię pracowników i umożliwić zdalne wykonanie kodu",
       "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
       "date": "2026-07-19T20:42:49Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "F5 dostarczył poprawki krytycznej luki w Nginx, która pozwala zdalnemu, nieuwierzytelnionemu atakującemu wywołać przepełnienie bufora sterty w procesie roboczym za pomocą spreparowanych żądań HTTP. CVE-2026-42533 został załatany 15 lipca w nginx 1.30.4 (stabilna) i 1.31.3 (główna wersja) oraz w NGINX Plus 37.0.3.1; każdy, kto korzysta z wcześniejszej wersji, powinien dokonać aktualizacji. Wyzwolenie go może spowodować awarię lub ponowne uruchomienie procesu roboczego, powodując odmowę."
-    },
-    {
-      "title": "Łączenie agentów AI z usługami zewnętrznymi zwiększa promień ryzyka",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/19/connecting-ai-agents-to-outside-services-explodes-the-risk-radius/5274640",
-      "date": "2026-07-19T16:05:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Połącz wszystkie rzeczy i obserwuj, co się stanie."
     },
     {
       "title": "Żołnierze-roboty już w Ukrainie. Czy humanoidy są gotowe pójść na front?",
@@ -1618,28 +1530,12 @@
       "summary": "Rosyjski wywiad wykorzystuje kamery z dostępem do internetu do cyfrowego szpiegostwa – ostrzegają holenderskie służby. Problem dotyczy urządzeń na terenie Holandii, lecz także w innych krajach Unii Europejskiej oraz na Ukrainie. W przypadku tych ostatnich, informacje są wykorzystywane do eliminowania żołnierzy i sprzętu."
     },
     {
-      "title": "Korzystanie ze sztucznej inteligencji sprawia, że ​​ludzie rzadziej przyznają się, że czegoś nie wiedzą",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567",
-      "date": "2026-07-19T08:01:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Naukowcy odkryli, że pewność siebie wzrosła nawet wtedy, gdy spadła dokładność."
-    },
-    {
       "title": "7 cybergrzechów głównych, które popełniamy latem",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/7-cybergrzechow-glownych-ktore-popelniamy-latem",
       "date": "2026-07-19T07:57:54Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Fałszywa oferta noclegu, otwarta sieć Wi-Fi albo wiadomość od bliskiej osoby, która nagle potrzebuje pieniędzy. Wakacyjny spokój szybko może zamienić się w koszmar i walkę o odzyskanie danych, pieniędzy lub cyfrowej tożsamości. Wystarczy chwila nieuwagi."
-    },
-    {
-      "title": "Tylko trzy dni dzieliły Javę od strasznej śmierci na scenie",
-      "url": "https://www.theregister.com/devops/2026/07/18/java-was-a-three-day-hotfix-away-from-dying-horribly-on-stage/5274590",
-      "date": "2026-07-18T13:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Tim Lindholm, pierwotny opiekun JVM Java, dzieli się z El Regem niektórymi nieczystymi szczegółami kompilacji, które dokument pomija."
     },
     {
       "title": "Polska w cyfrowej pułapce. Uzależnienie od zagranicznych technologii coraz więcej kosztuje",
@@ -1672,14 +1568,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Samotna podróż nie musi oznaczać zdania się wyłącznie na własny refleks i intuicję. Odpowiednio wykorzystane cyfrowe narzędzia mogą stać się dyskretnym wsparciem, które ułatwia reagowanie w nieprzewidzianych sytuacjach i pozwala z większym spokojem cieszyć się wyjazdem."
-    },
-    {
-      "title": "NextBSD powraca do umieszczania źródeł Apple na FreeBSD",
-      "url": "https://www.theregister.com/os-platforms/2026/07/18/nextbsd-returns-to-dollop-apple-source-on-freebsd/5273788",
-      "date": "2026-07-18T07:45:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Nowy opiekun ożywia projekt z komponentami Darwina, Gershwinem i Claude Code."
     },
     {
       "title": "Weekendowa Lektura: odcinek 685 [2026-07-18]. Bierzcie i czytajcie",
@@ -1720,14 +1608,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Badacze zajmujący się cyberbezpieczeństwem odkryli klaster siedmiu złośliwych pakietów npm, których celem jest ekosystem narzędzi frontendowych Vite w ramach ataku na łańcuch dostaw oprogramowania. Kampania szkodliwych pakietów, o kryptonimie ViteVenom firmy Checkmarx, oznacza ekspansję ChainVeil, którą zaobserwowano przy użyciu „bezprecedensowej” czteropoziomowej infrastruktury dowodzenia i kontroli (C2) opartej na łańcuchu bloków obejmującej Tron."
-    },
-    {
-      "title": "Mozilla przyspiesza harmonogram wydawania Firefoksa do dwutygodniowych",
-      "url": "https://www.theregister.com/software/2026/07/17/mozilla-speeds-firefox-release-schedule-to-biweekly/5274423",
-      "date": "2026-07-17T17:40:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "I czego się spodziewać po Firefoksie 153, gdy zbliża się premiera kolejnej wersji ESR."
     },
     {
       "title": "Nowy botnet NadMesh wyszukuje odsłonięte usługi AI w poszukiwaniu kluczy Cloud i tokenów Kubernetes",
@@ -2124,14 +2004,6 @@
       "summary": "Analiza techniczna sWIG80 BiznesRadar."
     },
     {
-      "title": "Notowania DNP (DINOPL) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/DNP",
-      "date": "2026-07-17T15:04:03Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania DNP (DINOPL) BiznesRadar."
-    },
-    {
       "title": "Analiza techniczna ACT (ACTION) - BiznesRadar",
       "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/ACTION",
       "date": "2026-07-17T15:03:26Z",
@@ -2162,6 +2034,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania ASB (ASBIS) BiznesRadar."
+    },
+    {
+      "title": "Notowania ALLEGRO.EU SOCIÉTÉ ANONYME (ALE) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/ALE",
+      "date": "2026-07-17T15:01:43Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania ALLEGRO.EU SOCIÉTÉ ANONYME (ALE) BiznesRadar."
     },
     {
       "title": "Koniec wakacji przy basenie? Polacy wybierają zupełnie inny sposób wypoczynku",
@@ -2680,51 +2560,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25869.01,
+      25866.69,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27042.26,
+      27039.84,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27190.33,
+      27187.9,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27437.15,
+      27434.69,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28077.76,
+      28075.24,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28114.07,
+      28111.55,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28360.62,
+      28358.08,
       27354.94,
       27400.36,
       27412.11,
-      28765.12,
+      28762.54,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28020.11,
+      28017.6,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28201.2,
+      28198.68,
       27686.17,
       27404.78,
       27351.97,
@@ -2733,7 +2613,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27907.33,
+      27904.83,
       27930.04,
       28234.04,
       28218.36,
@@ -2742,12 +2622,12 @@
       28294.39,
       28203.83,
       28555.17,
-      28747.39,
+      28744.82,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28300.74
+      28298.21
     ],
     "currency": "PLN"
   }
