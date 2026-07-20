@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-20T05:28:27Z",
+  "last_updated": "2026-07-20T05:29:10Z",
   "poland": [
+    {
+      "title": "Ropa najdroższa od ponad miesiąca. Efekt ataków na Iran",
+      "url": "https://businessinsider.com.pl/gielda/ataki-w-zatoce-perskiej-winduja-ceny-ropy-branza-energetyczna-w-napieciu/4v44lyw",
+      "date": "2026-07-20T05:27:37Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Ceny ropy wzrosły powyżej 90 dol. za baryłkę po raz pierwszy od ponad miesiąca. Do podwyżki doszło po tym, jak Stany Zjednoczone przeprowadziły kolejną falę ataków na Iran, a liczba amerykańskich żołnierzy zabitych w konflikcie wzrosła."
+    },
+    {
+      "title": "Kaczyński ponownie spotka się z Morawieckim? Rzecznik PiS zabrał głos",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32921038,kaczynski-znow-spotka-sie-z-morawieckim-rzecznik-pis-zabral.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-07-20T05:27:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Przyszłość stowarzyszenia Rozwój Plus Mateusza Morawieckiego pozostaje niejasna. Choć były premier spotkał się z Jarosławem Kaczyńskim, nie zapadły żadne decyzje. Według rzecznika PiS kolejne rozmowy są możliwe."
+    },
     {
       "title": "Kupili auta z 2026 roku, dostali z 2025. BYD oferuje pełny zwrot",
       "url": "https://moto.rp.pl/tu-i-teraz/art44852201-kupili-auta-z-2026-roku-dostali-z-2025-byd-oferuje-pelny-zwrot",
@@ -178,14 +194,6 @@
       "summary": "Na fakturze korygującej należy podawać dane faktury korygowanej, jednak podatnicy często pomijają te informacje. Powinni pamiętać, że raczej nie spotka się to z aprobatą fiskusa, który w dobie KSeF może dużo łatwiej wykryć taką praktykę."
     },
     {
-      "title": "Ryczałt za ładowanie elektryka wiąże się z ryzykiem w PIT",
-      "url": "https://pro.rp.pl/pit-zrodla-przychodu/art44840891-ryczalt-za-ladowanie-elektryka-wiaze-sie-z-ryzykiem-w-pit",
-      "date": "2026-07-20T03:40:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Choć ładowanie służbowego auta w domu pracownika wydaje się wygodnym rozwiązaniem, należy uważać na rozliczenie wydatków na prąd. Ich ryczałtowy zwrot może oznaczać powstanie u pracownika dochodu do opodatkowania."
-    },
-    {
       "title": "Zdjęcie satelitarne ujawniło skalę zniszczeń. Rosyjski Tu-95 nie do odratowania",
       "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32920823,zdjecie-satelitarne-ujawnilo-skale-zniszczen-rosyjski-tu-95.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-07-20T03:30:00Z",
@@ -288,14 +296,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "We wtorek 21 lipca na terenie całego kraju ma odbyć się ogólnopolskie ćwiczenie Alarm-26. Służby zapowiadają, że tego dnia w różnych godzinach będą uruchamiane syreny alarmowe."
-    },
-    {
-      "title": "Potężne burze nad Polską. Ponad 1,5 tys. interwencji służb, są ranni",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-19/setki-interwencji-strazakow-niszczycielskie-burze-przechodza-przez-polske/",
-      "date": "2026-07-19T17:58:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "Przez Polskę przetaczają się nawałnice. Silny wiatr powala drzewa i zrywa dachy z budynków, a deszcz zmienia drogi w rwące potoki. Strażacy podjęli ponad 1,5 tys."
     },
     {
       "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
@@ -2244,8 +2244,8 @@
       "lng": 53.69,
       "type": "conflict",
       "region": "Iran",
-      "description": "Dowództwo USA poinformowało, że amerykańskie siły zakończyły dziewiątą noc ataków na Iran.",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32920995,intensywna-seria-atakow-usa-na-iran-amerykanie-przygotowuja.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882"
+      "description": "Ceny ropy wzrosły powyżej 90 dol.",
+      "url": "https://businessinsider.com.pl/gielda/ataki-w-zatoce-perskiej-winduja-ceny-ropy-branza-energetyczna-w-napieciu/4v44lyw"
     },
     {
       "lat": 52.5,
@@ -2456,7 +2456,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 48,
+      "score": 45,
       "reasons": [
         {
           "title": "Rosja uderza w Kijów w jednym z największych ataków rakietowych tej wojny",
@@ -2477,7 +2477,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 30,
+      "score": 28,
       "reasons": [
         {
           "title": "Kryzys na Bliskim Wschodzie: Wojsko amerykańskie twierdzi, że członek służby zginął podczas „kontrolowanej detonacji” zestrzelonego irańskiego drona – tak się złożyło",
@@ -2691,51 +2691,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25827.49,
+      25822.38,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26998.86,
+      26993.52,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27146.7,
+      27141.32,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27393.12,
+      27387.7,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28032.7,
+      28027.15,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28068.95,
+      28063.4,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28315.11,
+      28309.51,
       27354.94,
       27400.36,
       27412.11,
-      28718.95,
+      28713.27,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27975.15,
+      27969.61,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28155.94,
+      28150.37,
       27686.17,
       27404.78,
       27351.97,
@@ -2744,7 +2744,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27862.54,
+      27857.03,
       27930.04,
       28234.04,
       28218.36,
@@ -2753,12 +2753,12 @@
       28294.39,
       28203.83,
       28555.17,
-      28701.26,
+      28695.58,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28255.32
+      28249.73
     ],
     "currency": "PLN"
   }
