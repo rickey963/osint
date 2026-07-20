@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T07:53:38Z",
+  "last_updated": "2026-07-20T07:58:35Z",
   "poland": [
     {
       "title": "Afera wokół dotacji z KPO dla sektora kultury. Sady unieważniają oceny wniosków",
@@ -926,20 +926,20 @@
       "summary": "AIPAC wydał rekordową kwotę na prawybory Senatu stanu Michigan, co stanowi największy test jego wpływów w dotychczasowej historii AP News."
     },
     {
+      "title": "Wpływowi na media społecznościowe, Andrew i Tristan Tate, aresztowani w Miami – informuje AP – AP News US Marshals Service",
+      "url": "https://apnews.com/article/tate-brothers-social-influencers-arrest-82b6638219839dcf653c09309da66f16",
+      "date": "2026-07-19T09:57:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Jak informuje AP AP News, wpływowi media społecznościowe, Andrew i Tristan Tate, aresztowani w Miami."
+    },
+    {
       "title": "Wojsko amerykańskie przeprowadza nowe naloty, aby „szybko ukarać” Iran za śmierć żołnierzy amerykańskich – AP News",
       "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-18-2026-5adfef67554652580963684d9a663af2",
       "date": "2026-07-19T03:10:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Wojsko amerykańskie przeprowadza nowe ataki powietrzne, aby „szybko ukarać” Iran za śmierć żołnierzy amerykańskich AP News."
-    },
-    {
-      "title": "Wpływowi na media społecznościowe, Andrew i Tristan Tate, aresztowani w Miami – informuje AP – AP News US Marshals Service",
-      "url": "https://apnews.com/article/tate-brothers-social-influencers-arrest-82b6638219839dcf653c09309da66f16",
-      "date": "2026-07-18T23:27:14Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Jak informuje AP AP News, wpływowi media społecznościowe, Andrew i Tristan Tate, aresztowani w Miami."
     },
     {
       "title": "Firma Taylor Farms wycofuje sałatę wysłaną do 27 stanów ze względu na ryzyko cyklospory – AP News",
@@ -1554,14 +1554,6 @@
       "summary": "Hakerzy uzbrojeni w sztuczną inteligencję i perfekcyjne deepfake’i są symbolem nowej ery. Tradycyjne zabezpieczenia nie są już w stanie nas obronić. Właściwe jest zatem pytanie nie „czy”, ale „kiedy” dojdzie do paraliżu."
     },
     {
-      "title": "Krytyczna podatność w WordPress. Można przejmować systemy nawet jak nie masz zainstalowanych żadnych pluginów.",
-      "url": "https://sekurak.pl/krytyczna-podatnosc-w-wordpress-mozna-przejmowac-systemy-nawet-jak-nie-masz-zainstalowanych-zadnych-pluginow/",
-      "date": "2026-07-18T09:32:00Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Bardzo dawno nie było czegoś takiego. Mamy tutaj dwie podatności &#8211; obie nie wymagające uwierzytelnienia: W przypadku pierwszej luki podatne są WordPressy: 6.9.0 &#8211; 6.9.4 oraz 7.0.0 &#8211; 7.0.1. W przypadku drugiej 6.8.0 &#8211; 6.8.5 / 6.9.0 &#8211; 6.9.4 oraz 7.0.0 &#8211; 7.0.1."
-    },
-    {
       "title": "Technologia w samotnej podróży. Jak możemy zwiększyć swój komfort i bezpieczeństwo?",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/poradniki/technologia-w-samotnej-podrozy-jak-mozemy-zwiekszyc-swoj-komfort-i-bezpieczenstwo",
       "date": "2026-07-18T07:58:53Z",
@@ -1714,28 +1706,12 @@
       "summary": "Po sprawdzeniu kanału twórcy nie możesz twierdzić, że jesteś gospodarzem pasywnym – ostrzegł Google."
     },
     {
-      "title": "GigaWiper: wiper, stealer, ransomware w jednym. Szczegółowa analiza malware",
-      "url": "https://sekurak.pl/gigawiper-wiper-stealer-ransomware-w-jednym-szczegolowa-analiza-malware/",
-      "date": "2026-07-17T11:47:41Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Badacze bezpieczeństwa z Microsoft Threat Intelligence przeprowadzili analizę zaawansowanej kampanii, w której cyberprzestępcy wykorzystali rodzinę złośliwego oprogramowania o nazwie GigaWiper. Jak sama nazwa wskazuje, malware należy do kategorii wiperów, których głównym zadaniem jest bezpowrotne niszczenie danych na zainfekowanej maszynie. Działania te są realizowane poprzez usuwanie metadanych partycji dysków, szyfrowanie danych..."
-    },
-    {
       "title": "UE Nakazuje Google udostępnienie mikrofonu, kamery i ekranu Androida konkurencyjnym asystentom AI",
       "url": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
       "date": "2026-07-17T11:44:41Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Komisja Europejska nakazała w czwartek Google’owi zapewnienie konkurencyjnym asystentom AI takiego samego zasięgu w systemie Android, jaki ma już Gemini: aparat, mikrofon, wszystko, co jest na ekranie, słowo aktywujące uruchamiające się przy wyłączonym wyświetlaczu oraz możliwość sterowania innymi aplikacjami w tle poprzez imitowanie stuknięć i pisania. Google musi go dostarczyć w następnej głównej wersji, Androidzie 18, i do 1 sierpnia 2027 r. o godz."
-    },
-    {
-      "title": "Błąd w 7-Zip umożliwia zdalne wykonanie kodu (RCE)",
-      "url": "https://sekurak.pl/blad-w-7-zip-umozliwia-zdalne-wykonanie-kodu-rce/",
-      "date": "2026-07-17T11:43:01Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Landon Peng z Lunbun LLC odkrył&#160;lukę typu przepełnienie bufora na stosie w 7zip – popularnym narzędziu do obsługi archiwów. TLDR: Błąd obecny jest prawdopodobnie we wszystkich wersjach 7-Zip do 26.02 i znajduje się w funkcji odpowiedzialnej za obsługę archiwów w formacie xz.Skuteczna eksploitacja może prowadzić do zdalnego wykonania kodu. Do przeprowadzenia ataku..."
     },
     {
       "title": "Trwa wyścig o autonomię wojskową w terenie. Czy zaufana infrastruktura informacyjna może dotrzymać kroku?",
@@ -1762,14 +1738,6 @@
       "summary": "Budowa i uruchamianie centrów danych może przynieść Polsce zmiany na rynku ciepłowniczym. Pojawił się pomysł, aby położone w miastach serwerownie stały się źródłem ciepła. Wyzwaniem staje się również zaopatrzenie centrów obliczeniowych w energię, co widać w krajach skandynawskich."
     },
     {
-      "title": "Krytyczna podatność RCE we wtyczce Everest Forms Pro (WordPress)",
-      "url": "https://sekurak.pl/krytyczna-podatnosc-rce-we-wtyczce-everest-forms-pro-wordpress/",
-      "date": "2026-07-17T10:00:35Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Badacze bezpieczeństwa z Wordfence ujawnili krytyczną podatność Remote Code Execution we wtyczce Everest Forms Pro przeznaczonej dla WordPressa. Luka ma być wciąż wykorzystywana do ataków na strony korzystające z tego rozszerzenia. Podatność dotyczy wszystkich wersji przed 1.9.13 i otrzymała ocenę 9.8 (krytyczna) w skali CVSS."
-    },
-    {
       "title": "Polska nie będzie doskonała we wszystkim. Na co warto wydać miliony z budżetu?",
       "url": "https://cyberdefence24.pl/technologie/polska-nie-bedzie-doskonala-we-wszystkim-na-co-warto-wydac-miliony-z-budzetu",
       "date": "2026-07-17T09:12:12Z",
@@ -1787,6 +1755,14 @@
     }
   ],
   "finance": [
+    {
+      "title": "Paraliż miedziowego zagłębia w Chile. Co z aktywami KGHM?",
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl/kghm-sierra-gorda-chile-burze-pogoda",
+      "date": "2026-07-20T07:53:53Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Paraliż miedziowego zagłębia w Chile. Co z aktywami KGHM? Piotr Maciążek pon., 20.07.2026 Kanał W Zielonej Strefie notowania kghm sytuacja sierra gorda miedź chile sytuacja w chile Treść Gwałtowny i długotrwały front burzowy, który przeszedł w ubiegłym tygodniu przez centralne oraz południowe regiony Chile, wywołał poważny kryzys, wymuszając ograniczenie działalności kluczowych zakładów wydobywczych oraz portów."
+    },
     {
       "title": "Gaz w Europie najdroższy od miesięcy. Wojna USA z Iranem odcina dostawy",
       "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-najdrozszy-od-miesiecy-Wojna-USA-z-Iranem-odciela-dostawy-9170422.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -2028,12 +2004,12 @@
       "summary": "Mózg kontra algorytm. Czego uczyć w świecie AI, by odnieść sukces? Forbes."
     },
     {
-      "title": "Opcja OW20L264200 - Analiza techniczna - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/ow20l264200,analiza-techniczna.aspx",
-      "date": "2026-07-19T19:40:24Z",
+      "title": "Opcja OW20C274200 - Analiza techniczna - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/opcja/ow20c274200,analiza-techniczna.aspx",
+      "date": "2026-07-19T18:39:34Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Opcja OW20L264200 - Analiza techniczna stockwatch.pl."
+      "summary": "Opcja OW20C274200 - Analiza techniczna stockwatch.pl."
     },
     {
       "title": "Dino, Żabka, LPP, Modivo, Allegro czy Pepco? Perspektywy dla spółek handlowych w 2026 – Tomasz Sokołowski | Procent Składany",
@@ -2100,14 +2076,6 @@
       "summary": "Ukraiński Holding MHP z siedzibą na Cyprze rozpoczął tegoroczną kampanię żniwną, angażując 200 kombajnów. Spółka podkreśla rolę cyfrowego monitoringu pracy maszyn i logistyki, który ma ograniczać przestoje."
     },
     {
-      "title": "7-Eleven kupi Żabkę? Czy będzie wezwanie na akcje?",
-      "url": "https://strefainwestorow.pl/analizy/zabka-7eleven-przejecie",
-      "date": "2026-07-18T09:20:20Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "7-Eleven kupi Żabkę? Czy będzie wezwanie na akcje? Paweł Biedrzycki sob., 18.07.2026 Kanał Strefa Inwestorów 7-Eleven Żabka wezwanie Żabka M&A Treść Japoński gigant Seven & i Holdings, właściciel 7-Eleven, oficjalnie potwierdza rozmowy dotyczące potencjalnej inwestycji w Żabkę."
-    },
-    {
       "title": "Gaz odpowiada za większość kosztów nawozów. Dopłaty nie usuną tego problemu",
       "url": "https://300gospodarka.pl/news/gaz-odpowiada-za-wiekszosc-kosztow-nawozow-doplaty-nie-usuna-tego-problemu",
       "date": "2026-07-17T21:08:26Z",
@@ -2148,6 +2116,14 @@
       "summary": "Notowania WIG20 BiznesRadar."
     },
     {
+      "title": "Notowania MDV (MODIVO) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/MDV",
+      "date": "2026-07-17T15:04:03Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania MDV (MODIVO) BiznesRadar."
+    },
+    {
       "title": "Transakcje MEDINICE SA (ICE) - BiznesRadar",
       "url": "https://www.biznesradar.pl/transakcje/ICE",
       "date": "2026-07-17T15:03:53Z",
@@ -2170,14 +2146,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania ASB (ASBIS) BiznesRadar."
-    },
-    {
-      "title": "Notowania CDR (CDPROJEKT) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/CD-PROJEKT",
-      "date": "2026-07-17T15:01:05Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania CDR (CDPROJEKT) BiznesRadar."
     },
     {
       "title": "Koniec wakacji przy basenie? Polacy wybierają zupełnie inny sposób wypoczynku",
@@ -2675,51 +2643,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25834.31,
+      25835.88,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27005.99,
+      27007.62,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27153.86,
+      27155.51,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27400.35,
+      27402.01,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28040.1,
+      28041.8,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28076.36,
+      28078.07,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28322.58,
+      28324.3,
       27354.94,
       27400.36,
       27412.11,
-      28726.53,
+      28728.28,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27982.53,
+      27984.23,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28163.38,
+      28165.08,
       27686.17,
       27404.78,
       27351.97,
@@ -2728,7 +2696,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27869.9,
+      27871.59,
       27930.04,
       28234.04,
       28218.36,
@@ -2737,12 +2705,12 @@
       28294.39,
       28203.83,
       28555.17,
-      28708.84,
+      28710.58,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28262.78
+      28264.5
     ],
     "currency": "PLN"
   }
