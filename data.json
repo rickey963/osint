@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T05:06:34Z",
+  "last_updated": "2026-07-20T05:07:03Z",
   "poland": [
     {
       "title": "Gdy odjechał ostatni autobus. Najpoważniejsze wyzwania dla rozwoju lokalnego",
@@ -330,14 +330,6 @@
       "summary": "Ostrzeżenia Rządowego Centrum Bezpieczeństwa przed nadciągającymi nawałnicami z gradem otrzymali w niedzielę mieszkańcy dziesięciu województw. W niedzielę strażacy interweniowali w całej Polsce ponad 1,5 tysiąca razy."
     },
     {
-      "title": "Selekcjoner Argentyny przed finałem: wszystko, co dotyczy Hiszpanii mnie martwi - Polska Agencja Prasowa SA",
-      "url": "https://www.pap.pl/aktualnosci/selekcjoner-argentyny-przed-finalem-wszystko-co-dotyczy-hiszpanii-mnie-martwi",
-      "date": "2026-07-19T15:54:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Selekcjoner Argentyny przed finałem: wszystko, co dotyczy Hiszpanii mnie martwi Polska Agencja Prasowa SA."
-    },
-    {
       "title": "USA. Pogorszenie jakości powietrza nie powinno wpłynąć na finał MŚ - Polska Agencja Prasowa SA",
       "url": "https://www.pap.pl/aktualnosci/usa-pogorszenie-jakosci-powietrza-nie-powinno-wplynac-na-final-ms-0",
       "date": "2026-07-19T15:38:00Z",
@@ -400,6 +392,14 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "9-latek otworzył swoje muzeum i trafił do Księgi Rekordów Guinnessa Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "Izraelskie źródło w służbach bezpieczeństwa: przywódca Iranu Modżtaba Chamenei „nie przebywa w kraju” - Polska Agencja Prasowa SA",
+      "url": "https://www.pap.pl/aktualnosci/izraelskie-zrodlo-w-sluzbach-bezpieczenstwa-przywodca-iranu-modztaba-chamenei-nie",
+      "date": "2026-07-19T08:52:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Izraelskie źródło w służbach bezpieczeństwa: przywódca Iranu Modżtaba Chamenei „nie przebywa w kraju” Polska Agencja Prasowa SA."
     }
   ],
   "world_security": [
@@ -2013,8 +2013,8 @@
     },
     {
       "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/tagi/fim-92-stinger",
-      "date": "2026-07-19T09:02:22Z",
+      "url": "https://forsal.pl/tagi/zestaw-przeciwlotniczy-stinger",
+      "date": "2026-07-19T09:02:21Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
@@ -2236,8 +2236,8 @@
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Ten blog na żywo jest już zamknięty.",
-      "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed"
+      "description": "Izraelskie źródło w służbach bezpieczeństwa: przywódca Iranu Modżtaba Chamenei „nie przebywa w kraju” Polska Agencja Prasowa SA.",
+      "url": "https://www.pap.pl/aktualnosci/izraelskie-zrodlo-w-sluzbach-bezpieczenstwa-przywodca-iranu-modztaba-chamenei-nie"
     },
     {
       "lat": 32.43,
@@ -2691,51 +2691,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25823.06,
+      25821.02,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26994.23,
+      26992.09,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27142.04,
+      27139.89,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27388.42,
+      27386.25,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28027.89,
+      28025.67,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28064.14,
+      28061.92,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28310.25,
+      28308.01,
       27354.94,
       27400.36,
       27412.11,
-      28714.03,
+      28711.75,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27970.35,
+      27968.13,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28151.11,
+      28148.88,
       27686.17,
       27404.78,
       27351.97,
@@ -2744,7 +2744,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27857.76,
+      27855.56,
       27930.04,
       28234.04,
       28218.36,
@@ -2753,12 +2753,12 @@
       28294.39,
       28203.83,
       28555.17,
-      28696.34,
+      28694.06,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28250.48
+      28248.24
     ],
     "currency": "PLN"
   }
