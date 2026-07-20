@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T13:17:07Z",
+  "last_updated": "2026-07-20T13:17:46Z",
   "poland": [
     {
       "title": "Urzędnicy bez podwyżek? MF nie widzi przestrzeni na nowe wydatki z budżetu",
@@ -194,14 +194,6 @@
       "summary": "Dron polskiej produkcji wpadł w ręce Korpusu Strażników Rewolucji Islamskiej, którzy opublikowali jego zdjęcie. Tiguara M prawdopodobnie bez rozgłosu kupiło i wykorzystuje wojsko USA."
     },
     {
-      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
-      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
-      "date": "2026-07-20T11:29:01Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
-    },
-    {
       "title": "Alert RCB dla wszystkich Polaków. \"Zachowaj spokój\" - Polskie Radio 24",
       "url": "https://polskieradio24.pl/polska/alert-rcb-dla-wszystkich-polakow-zachowaj-spokoj",
       "date": "2026-07-20T11:19:01Z",
@@ -352,6 +344,14 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Anglicy chcą wprowadzić nowe zasady mundialu. Sceny po meczu o brąz Polskie Radio 24."
+    },
+    {
+      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
+      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
+      "date": "2026-07-20T08:28:24Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
     },
     {
       "title": "Polish corporate investment activity seen improving, announced new investments on rise - c. bank - PAP Biznes",
@@ -1900,6 +1900,14 @@
       "summary": "AliExpress ukarany przez KE. 550 mln euro za naruszenie DSA stockwatch.pl."
     },
     {
+      "title": "BIOCELTIX [BCX] - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513879_BIOCELTIX.aspx",
+      "date": "2026-07-20T11:19:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "BIOCELTIX [BCX] stockwatch.pl."
+    },
+    {
       "title": "To tylko korekta, opinie o końcu hossy AI są przesadzone - uważają analitycy JPMorgan",
       "url": "https://strefainwestorow.pl/strefa-global-market/gospodarka/jp-morgan-hossa-ai",
       "date": "2026-07-20T11:18:29Z",
@@ -1954,14 +1962,6 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Gospodarka Forsal.pl."
-    },
-    {
-      "title": "Komunikat ESPI Pekao Bank Hipoteczny SA (pekao-bank-hipoteczny-sa): Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A. - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/pekao-bank-hipoteczny-sa,powiadomienie-o-transakcji-na-instrumentach-f-2026-07-20,espi,20260720_110804_0000354579",
-      "date": "2026-07-20T09:08:04Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat ESPI Pekao Bank Hipoteczny SA (pekao-bank-hipoteczny-sa): Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A. stockwatch.pl."
     },
     {
       "title": "Polskie niebo pod specjalną ochroną. Wojsko szuka pogromcy Shahedów - Forsal.pl",
@@ -2140,6 +2140,14 @@
       "summary": "Analiza techniczna sWIG80 BiznesRadar."
     },
     {
+      "title": "Transakcje MEDINICE SA (ICE) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/transakcje/ICE",
+      "date": "2026-07-17T15:03:53Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Transakcje MEDINICE SA (ICE) BiznesRadar."
+    },
+    {
       "title": "Analiza techniczna ACT (ACTION) - BiznesRadar",
       "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/ACTION",
       "date": "2026-07-17T15:03:26Z",
@@ -2170,14 +2178,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania ALLEGRO.EU SOCIÉTÉ ANONYME (ALE) BiznesRadar."
-    },
-    {
-      "title": "Notowania GPW GIEŁDA PAPIERÓW WARTOŚCIOWYCH W WARSZAWIE SA - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/GPW",
-      "date": "2026-07-17T15:00:51Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania GPW GIEŁDA PAPIERÓW WARTOŚCIOWYCH W WARSZAWIE SA BiznesRadar."
     },
     {
       "title": "Koniec wakacji przy basenie? Polacy wybierają zupełnie inny sposób wypoczynku",
@@ -2696,51 +2696,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25852.92,
+      25850.67,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27025.44,
+      27023.09,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27173.42,
+      27171.06,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27420.09,
+      27417.7,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28060.29,
+      28057.85,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28096.59,
+      28094.14,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28342.99,
+      28340.52,
       27354.94,
       27400.36,
       27412.11,
-      28747.23,
+      28744.72,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28002.69,
+      28000.25,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28183.66,
+      28181.21,
       27686.17,
       27404.78,
       27351.97,
@@ -2749,7 +2749,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27889.97,
+      27887.55,
       27930.04,
       28234.04,
       28218.36,
@@ -2758,12 +2758,12 @@
       28294.39,
       28203.83,
       28555.17,
-      28729.52,
+      28727.02,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28283.14
+      28280.68
     ],
     "currency": "PLN"
   }
