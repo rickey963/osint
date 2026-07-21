@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T00:23:40Z",
+  "last_updated": "2026-07-21T00:28:38Z",
   "poland": [
     {
       "title": "Europejska turystyka nie zwalnia – już 5 procent więcej gości. Grecja liderem wzrostu",
@@ -982,6 +982,14 @@
       "summary": "Stany Zjednoczone przeprowadzają więcej nalotów na Iran po ogłoszeniu kolejnej śmierci członka służby AP News."
     },
     {
+      "title": "Hiszpania zdobywa Puchar Świata, pokonując Argentynę 1:0 po bramce Ferrana Torresa w dogrywce – AP News",
+      "url": "https://apnews.com/article/argentina-spain-world-cup-final-score-messi-fccc26aa12d9226e63d06b601b770617",
+      "date": "2026-07-20T02:07:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Hiszpania zdobywa Puchar Świata, pokonując Argentynę 1:0 po bramce Ferrana Torresa w dogrywce AP News."
+    },
+    {
       "title": "Trump świętuje Puchar Świata jako zwycięstwo Stanów Zjednoczonych, wręczając trofeum zwycięzcy, Hiszpanii – AP News",
       "url": "https://apnews.com/article/trump-world-cup-final-ad67ea3f25163bbb1d779d17b04da115",
       "date": "2026-07-20T00:50:00Z",
@@ -996,14 +1004,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "W wojnie w Iranie zginęło 17 członków amerykańskiej służby, co odzwierciedla konflikt toczony głównie w powietrzu AP News."
-    },
-    {
-      "title": "Dla nich nie jest to grecki. Uczeni kwestionują „Odyseję” Christophera Nolana – AP News",
-      "url": "https://apnews.com/article/odyssey-christopher-nolan-greek-translators-ea67da1d543d021773824bd7e8de8abe",
-      "date": "2026-07-19T21:03:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Dla nich nie jest to grecki. Uczeni kwestionują AP News Christophera Nolana „Odyseja”."
     }
   ],
   "technology": [
@@ -1764,14 +1764,6 @@
   ],
   "finance": [
     {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/bankowosc;waluty,25?strona=18",
-      "date": "2026-07-20T21:27:19Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
-    },
-    {
       "title": "Niemrawe otwarcie tygodnia na nowojorskich giełdach",
       "url": "https://www.bankier.pl/wiadomosc/Niemrawe-otwarcie-tygodnia-na-nowojorskich-gieldach-9170894.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-20T21:10:00Z",
@@ -1868,14 +1860,6 @@
       "summary": "Wiadomości o spółce: BIOINVENT stockwatch.pl."
     },
     {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/wojna-w-syrii,8?strona=13",
-      "date": "2026-07-20T16:49:38Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
-    },
-    {
       "title": "Aut z wtyczką szybko przybywa. Hybrydy plug-in wyprzedziły pełne elektryki",
       "url": "https://300gospodarka.pl/news/samochody-elektryczne-lipiec-2026-nowe-dane-psnm-i-pzpm",
       "date": "2026-07-20T16:47:20Z",
@@ -1898,6 +1882,14 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Mimo potężnych tąpnięć na parkietach w Azji oraz eskalacji konfliktu na Bliskim Wschodzie, poniedziałkowa sesja na warszawskim parkiecie upłynęła na spokojnych wzrostach. Inwestorzy na GPW podjęli próbę odreagowania ostatnich spadków, choć optymizm z pierwszej części dnia nieco przygasł w miarę upływu godzin."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/forsal-dla-dgp;handel,21",
+      "date": "2026-07-20T16:25:54Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Do Polski zmierza potężna broń. Ukraińcy przecierają oczy ze zdumienia - Forsal.pl",
@@ -2090,6 +2082,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "PolTREG bliżej rejestracji w EMA. Kiedy lek trafi do pacjentów? stockwatch.pl."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/zbigniew-ziobro;warszawa,19?strona=16",
+      "date": "2026-07-20T12:36:41Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Po mistrzostwach. FIFA zarobiła, a Trump chciał być gwiazdą za wszelką cenę - Forbes",
@@ -2621,51 +2621,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25873.17,
+      25872.14,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27046.6,
+      27045.54,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27194.7,
+      27193.63,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27441.56,
+      27440.47,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28082.27,
+      28081.16,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28118.59,
+      28117.48,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28365.18,
+      28364.06,
       27354.94,
       27400.36,
       27412.11,
-      28769.74,
+      28768.6,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28024.62,
+      28023.51,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28205.73,
+      28204.62,
       27686.17,
       27404.78,
       27351.97,
@@ -2674,7 +2674,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27911.82,
+      27910.71,
       27930.04,
       28234.04,
       28218.36,
@@ -2683,13 +2683,13 @@
       28294.39,
       28203.83,
       28555.17,
-      28752.01,
+      28750.88,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28305.29,
-      28250.6
+      28304.17,
+      28249.48
     ],
     "currency": "PLN"
   }
