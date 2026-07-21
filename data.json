@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-21T17:03:36Z",
+  "last_updated": "2026-07-21T17:13:01Z",
   "poland": [
+    {
+      "title": "„Pierwszy szczur w kosmosie”: Kosmiczny wyścig szczurów",
+      "url": "https://www.rp.pl/plus-minus/art44834311-pierwszy-szczur-w-kosmosie-kosmiczny-wyscig-szczurow",
+      "date": "2026-07-21T17:00:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "„Pierwszy szczur w kosmosie” to świetny tytuł dla miłośników wyścigów, dużych emocji nad stołem, dla których liczy się zarówno możliwość optymalizowania ruchów, jak i frajda płynąca z rozgrywki."
+    },
     {
       "title": "Z Przemyśla do Frankfurtu już za 48 zł. Podróż potrwa 19 godzin",
       "url": "https://www.rp.pl/ekonomia/art44860591-z-przemysla-do-frankfurtu-juz-za-48-zl-podroz-potrwa-19-godzin",
@@ -112,14 +120,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Egipska misja archeologiczna odkryła w rejonie Sakkary trzy grobowce wykute w skale pochodzące z okresu złotego wieku starożytnego Egiptu. Rzucają one nowe światło na społeczeństwo tamtej epoki i ujawniają ówczesne relacje Egiptu z Bliskim Wschodem."
-    },
-    {
-      "title": "Zmiana w VAT: mniej formalności w dokumentowaniu eksportu i w innych procedurach",
-      "url": "https://pro.rp.pl/stawki-vat/art44861771-zmiana-w-vat-mniej-formalnosci-w-dokumentowaniu-eksportu-i-w-innych-procedurach",
-      "date": "2026-07-21T15:28:09Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Eksporterom łatwiej będzie dokumentować wywóz towarów dla celów stosowania zerowej stawki VAT."
     },
     {
       "title": "Szef PIP ma informację nie tylko dla kurierów pyszne.pl. \"Nie zostawimy nikogo bez naszego wsparcia\"",
@@ -322,14 +322,6 @@
       "summary": "Pasażerowie kradną to z samolotów. Potem sprzedają w sieci nawet za 800 zł Polskie Radio 24."
     },
     {
-      "title": "Tajemnicza \"pętla\" nad Pomorzem. Poderwano polskiego niszczyciela okrętów podwodnych - Polskie Radio 24",
-      "url": "https://polskieradio24.pl/polska/leonardo-aktywny-nad-pomorzem-moze-sledzic-i-niszczyc-okrety-podwodne",
-      "date": "2026-07-21T10:33:17Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Tajemnicza \"pętla\" nad Pomorzem. Poderwano polskiego niszczyciela okrętów podwodnych Polskie Radio 24."
-    },
-    {
       "title": "Port Gdańsk zwiększa przeładunki - Polska Agencja Prasowa SA",
       "url": "https://www.pap.pl/aktualnosci/port-gdansk-zwieksza-przeladunki",
       "date": "2026-07-21T09:31:00Z",
@@ -400,9 +392,25 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Wysokie ceny benzyny. \"Paliwo\" dla opozycji - \"beczka prochu\" dla rządu Polskie Radio 24."
+    },
+    {
+      "title": "Piekielny skwar powróci do Polski. 36°C w cieniu, padła data - Polskie Radio 24",
+      "url": "https://polskieradio24.pl/pogoda/fala-upalow-zbliza-sie-do-polski-meteorolodzy-wskazali-kluczowa-date",
+      "date": "2026-07-20T18:08:12Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Piekielny skwar powróci do Polski. 36°C w cieniu, padła data Polskie Radio 24."
     }
   ],
   "world_security": [
+    {
+      "title": "„Nie ma mowy, żeby przetrwali”: Trump broni nowych 50% ceł na większość kanadyjskich towarów – amerykańska polityka żyje",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
+      "date": "2026-07-21T16:59:03Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Prezydent USA twierdzi, że „Kanada była dla nas bardzo surowa przez lata”, po czym Mark Carney oświadczył, że zgodził się „zintensyfikować negocjacje” z USAZarejestruj się, aby otrzymywać e-mail z najświeższymi wiadomościami Ceny gazu w USA stale rosną od czasu wznowienia w tym miesiącu konfliktu z Iranem. Według American Automobile Association (AAA) galon paliwa kosztuje obecnie nieco ponad 4 dolary – prawie o dolara więcej niż rok temu. Dzieje się tak, gdy międzynarodowy benchmark ropy naftowej Brent Crude wzrósł obecnie o prawie 2% do 90,92 dolara za baryłkę. Kontynuuj czytanie..."
+    },
     {
       "title": "Trump nakłada 50% cła na Kanadę, a Carney obiecuje „zintensyfikować” rozmowy handlowe",
       "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
@@ -410,6 +418,14 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Nałożone cła oznaczają poważną eskalację napięć handlowych między sąsiadami z Ameryki Północnej."
+    },
+    {
+      "title": "Trump obiecuje „zaopiekować się” Houthi, jeśli grupa zablokuje statki saudyjskie – kryzys na Bliskim Wschodzie trwa",
+      "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
+      "date": "2026-07-21T16:50:00Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Grupa z siedzibą w Iranie oświadczyła, że ​​planuje nałożyć natychmiastową blokadę morską Arabii Saudyjskiej na Morzu Czerwonym Prezydent Libanu Joseph Aoun ma dzisiaj po raz pierwszy spotkać się z Donaldem Trumpem, kończącym on czterodniową wizytę w Waszyngtonie. Spotkanie zbiega się z trwającymi rozmowami, w których pośredniczą USA, między Libanem a Izraelem. 26 czerwca obie strony ogłosiły „porozumienie ramowe”, które przewiduje wycofanie sił izraelskich z południowego Libanu oraz rozbrojenie Hezbollahu. Kontynuuj czytanie..."
     },
     {
       "title": "Dwóch francuskich strażaków zginęło podczas gaszenia pożaru w pobliżu lotniska w Bordeaux",
@@ -420,22 +436,6 @@
       "summary": "Uważa się, że pożar w pobliżu parkingów na lotnisku Bordeaux-Mérignac powstał w wyniku pożaru krzaków."
     },
     {
-      "title": "Trump obiecuje „zaopiekować się” Houthi, jeśli grupa zablokuje statki saudyjskie – kryzys na Bliskim Wschodzie trwa",
-      "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
-      "date": "2026-07-21T16:29:34Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Grupa z siedzibą w Iranie oświadczyła, że ​​planuje nałożyć natychmiastową blokadę morską Arabii Saudyjskiej na Morzu Czerwonym Prezydent Libanu Joseph Aoun ma dzisiaj po raz pierwszy spotkać się z Donaldem Trumpem, kończącym on czterodniową wizytę w Waszyngtonie. Spotkanie zbiega się z trwającymi rozmowami, w których pośredniczą USA, między Libanem a Izraelem. 26 czerwca obie strony ogłosiły „porozumienie ramowe”, które przewiduje wycofanie sił izraelskich z południowego Libanu oraz rozbrojenie Hezbollahu. Kontynuuj czytanie..."
-    },
-    {
-      "title": "„Nie ma mowy, żeby przetrwali”: Trump broni nowych 50% ceł na większość kanadyjskich towarów – amerykańska polityka żyje",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
-      "date": "2026-07-21T16:29:11Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Prezydent USA twierdzi, że „Kanada była dla nas bardzo surowa przez lata”, po czym Mark Carney oświadczył, że zgodził się „zintensyfikować negocjacje” z USAZarejestruj się, aby otrzymywać e-mail z najświeższymi wiadomościami Ceny gazu w USA stale rosną od czasu wznowienia w tym miesiącu konfliktu z Iranem. Według American Automobile Association (AAA) galon paliwa kosztuje obecnie nieco ponad 4 dolary – prawie o dolara więcej niż rok temu. Dzieje się tak, gdy międzynarodowy benchmark ropy naftowej Brent Crude wzrósł obecnie o prawie 2% do 90,92 dolara za baryłkę. Kontynuuj czytanie..."
-    },
-    {
       "title": "Wall St zyskuje na odbudowie zapasów chipów; w centrum uwagi wyniki – Reuters",
       "url": "https://www.reuters.com/business/wall-st-futures-gain-iran-ceasefire-hopes-earnings-focus-2026-07-21/",
       "date": "2026-07-21T16:21:43Z",
@@ -444,7 +444,7 @@
       "summary": "Wall St zyskuje na odbudowie zapasów chipów; zyski remis fokus Reuters."
     },
     {
-      "title": "Stany Zjednoczone i Meksyk wznawiają rozmowy handlowe USMCA po tym, jak Trump uderza w Kanadę nowymi cłami – Reuters",
+      "title": "Stany Zjednoczone i Meksyk wznawiają rozmowy handlowe z USMCA po tym, jak Trump uderza w Kanadę nowymi cłami – Reuters",
       "url": "https://www.reuters.com/world/china/us-mexico-resume-usmca-trade-talks-trump-hits-canada-with-new-tariffs-2026-07-21/",
       "date": "2026-07-21T16:21:31Z",
       "source": "Reuters",
@@ -500,6 +500,14 @@
       "summary": "Firas al-Masri, jego żona i czwórka ich dzieci zginęli w jednym ataku, którego celem izraelska armia twierdzi, że był agentem Hamasu."
     },
     {
+      "title": "Burmistrz Francji zabrany z domu i objęty ochroną w związku z groźbami gangów narkotykowych – Reuters",
+      "url": "https://www.reuters.com/world/french-mayor-taken-his-home-placed-under-protection-after-drug-gang-threats-2026-07-21/",
+      "date": "2026-07-21T15:51:44Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Burmistrz Francji zabrany z domu i objęty ochroną po groźbach gangów narkotykowych Reuters."
+    },
+    {
       "title": "Sąd orzekł, że zamordowany były minister Wielkiej Brytanii Widdecombe został uderzony młotkiem w głowę 21 razy – Reuters",
       "url": "https://www.reuters.com/world/uk/murdered-ex-uk-minister-widdecombe-was-struck-with-hammer-21-times-london-court-2026-07-21/",
       "date": "2026-07-21T15:36:53Z",
@@ -514,6 +522,14 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Jak podaje Reuters, Houthi ostrzegają firmy żeglugowe, aby unikały portów Arabii Saudyjskiej."
+    },
+    {
+      "title": "Iran ostrzega Bułgarię przed pomaganiem amerykańskim operacjom wojskowym po przeniesieniu amerykańskich samolotów na stację – Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/iran-warns-bulgaria-against-aiding-us-military-operations-after-move-station-us-2026-07-21/",
+      "date": "2026-07-21T15:27:40Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Iran ostrzega Bułgarię przed pomaganiem amerykańskim operacjom wojskowym po przeniesieniu stacji amerykańskich samolotów Reuters."
     },
     {
       "title": "Rosyjski okręt wojenny przeprowadza rzadkie ćwiczenia z użyciem ostrego ognia w odległości 45 mil od wybrzeży Wielkiej Brytanii",
@@ -556,6 +572,14 @@
       "summary": "Grupa Meliá twierdzi, że sankcje nałożone przez Donalda Trumpa „niemożliwe” uniemożliwiają pozostawienie otwartego któregokolwiek z 34 jej obiektów Hiszpańska sieć hoteli ma zaprzestać wszelkiej działalności na Kubie pod koniec tygodnia ze względu na „poważne trudności” w prowadzeniu działalności na wyspie pod rosnącą presją Waszyngtonu. Najnowsze amerykańskie sankcje sprawiają, że „niemożliwe jest de facto i de iure utrzymanie choćby minimalnej stabilności operacyjnej” – wyjaśniła grupa Meliá we wtorkowym oświadczeniu skierowanym do hiszpańskiego organu nadzoru giełdy. Kontynuuj czytanie..."
     },
     {
+      "title": "Google aktualizuje lekkie modele Gemini, ale flagowiec wciąż się opóźnia – Reuters",
+      "url": "https://www.reuters.com/business/google-updates-lightweight-gemini-models-flagship-still-delayed-2026-07-21/",
+      "date": "2026-07-21T15:04:09Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Google aktualizuje lekkie modele Gemini, ale flagowiec wciąż się opóźnia Reuters."
+    },
+    {
       "title": "Zendaya spotyka się z ostrymi reakcjami za noszenie starożytnej irańskiej biżuterii na wydarzeniu Odyssey",
       "url": "https://www.theguardian.com/science/2026/jul/21/zendaya-faces-backlash-for-wearing-ancient-iranian-jewellery-at-odyssey-event",
       "date": "2026-07-21T15:01:36Z",
@@ -564,7 +588,7 @@
       "summary": "Gwiazda filmowa promuje epicki film Christophera Nolana ubrana w złote artefakty sprzed prawie 3000 lat. Odyseja to opowieść o długiej podróży greckiego króla do domu. Jednak para kolczyków noszonych podczas tournée prasowego nowej adaptacji filmowej oraz długa rozłąka z ojczyzną budzą kontrowersje. Podczas sesji zdjęciowej w Londynie Zendaya, która gra boginię Atenę w filmie Christophera Nolana, miała na sobie parę kolczyków wykonanych z irańskich artefaktów pochodzących z 700 roku p.n.e. Kontynuuj czytanie..."
     },
     {
-      "title": "RBA jest obecnie dwukrotnie bardziej prawdopodobne, że podwyższy stopy procentowe, ponieważ wojna między USA a Iranem powoduje wzrost cen paliw",
+      "title": "RBA jest obecnie dwukrotnie bardziej prawdopodobne, że podwyższy stopy procentowe, ponieważ wojna amerykańsko-irańska powoduje wzrost cen paliw",
       "url": "https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast",
       "date": "2026-07-21T15:00:51Z",
       "source": "The Guardian",
@@ -580,7 +604,7 @@
       "summary": "Ekskluzywnie: raport panelu zwołanego przez LNP ostro krytykuje reakcje policji na przemoc w rodzinie i wzywa do cywilnego nadzoru. Otrzymaj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Rząd Queensland zataił ustalenia swojej własnej grupy roboczej ds. ofiar przemocy domowej, które przeżyły, po tym, jak ich raport ostro krytycznie odnosił się do reakcji policji i wzywał do wprowadzenia „cywilnego mechanizmu przeglądu” w celu eskalacji skarg na policję. Liberalny rząd narodowy wielokrotnie powtarzał, że „umieści ofiary w centrum uwagi państwa”. polityki sprawiedliwości. Kontynuuj czytanie..."
     },
     {
-      "title": "CPC przestaje przyjmować kazachską ropę z powodu ataków na tankowce, podają źródła – Reuters",
+      "title": "CPC przestaje przyjmować kazachską ropę z powodu ataków na tankowce – podają źródła – Reuters",
       "url": "https://www.reuters.com/business/energy/cpc-has-stopped-accepting-kazakh-oil-due-attacks-tankers-sources-say-2026-07-21/",
       "date": "2026-07-21T14:48:38Z",
       "source": "Reuters",
@@ -596,14 +620,6 @@
       "summary": "Saudyjscy tankowcy zawracają, gdy Houthi otwierają nowy front w wojnie amerykańsko-irańskiej Reuters."
     },
     {
-      "title": "EKSKLUZYWNIE: Egipt prowadzi rozmowy z głównymi firmami energetycznymi w sprawie wieloletniej umowy na dostawy LNG, podają źródła – Reuters",
-      "url": "https://www.reuters.com/business/energy/egypt-talks-with-energy-majors-multi-year-lng-supply-deal-sources-say-2026-07-21/",
-      "date": "2026-07-21T14:28:09Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "EKSKLUZYWNIE: Egipt prowadzi rozmowy z głównymi firmami energetycznymi w sprawie wieloletniej umowy na dostawy LNG, podają źródła Reuters."
-    },
-    {
       "title": "Dwa tankowce przewożące saudyjską ropę zawracają na Morzu Czerwonym po ostrzeżeniu Houthi – Reuters",
       "url": "https://www.reuters.com/world/middle-east/two-tankers-carrying-saudi-crude-make-u-turns-red-sea-after-houthi-warning-2026-07-21/",
       "date": "2026-07-21T14:20:45Z",
@@ -612,28 +628,12 @@
       "summary": "Po ostrzeżeniu Reutersa przez Houthi dwa tankowce przewożące saudyjską ropę zawracają na Morzu Czerwonym."
     },
     {
-      "title": "Opóźnienie Gemini Alphabetu, obawy dotyczące wydatków wisią nad zarobkami – Reuters",
-      "url": "https://www.reuters.com/business/alphabets-gemini-delay-spending-worries-loom-over-earnings-2026-07-21/",
-      "date": "2026-07-21T14:07:53Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Opóźnienie Gemini Alphabetu, obawy dotyczące wydatków wisią nad zarobkami Reuters."
-    },
-    {
       "title": "„Usiądź!”: Australijski poseł krzyczy na psa, a następnie warczy na prezentera podczas wywiadu na żywo",
       "url": "https://www.theguardian.com/australia-news/2026/jul/21/australia-one-nation-mp-barnaby-joyce-dog-interview-pauline-hanson",
       "date": "2026-07-21T14:05:31Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Barnaby Joyce broniła w programie publicystycznym ABC „wakacji od pracy” przywódczyni One Nation Pauline Hanson. Australijska polityk Pauline Hanson – populistyczna skrajnie prawicowa postać w stylu Nigela Farage’a – prawdopodobnie spodziewała się, że jej europejskie tournee odbije się na pierwszych stronach gazet. Jednak liderka partii One Nation, która cieszy się wysokimi wynikami w sondażach, nie mogła przewidzieć, że relacje zdominuje jeden z jej parlamentarzystów wrzeszczący na swojego psa w ogólnokrajowej telewizji. Kontynuuj czytanie..."
-    },
-    {
-      "title": "EKSKLUZYWNIE: USA i Chiny przeprowadzą rozmowy w sprawie sztucznej inteligencji we wrześniu, podają źródła – Reuters",
-      "url": "https://www.reuters.com/world/china/us-china-hold-ai-talks-september-sources-say-2026-07-21/",
-      "date": "2026-07-21T14:01:04Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "EKSKLUZYWNIE: Stany Zjednoczone i Chiny przeprowadzą rozmowy w sprawie sztucznej inteligencji we wrześniu, podają źródła Reuters."
     },
     {
       "title": "Stój spokojnie, nawiąż kontakt wzrokowy: Dania mówi turystom, jak zachować się w przypadku spotkania z wilkiem",
@@ -716,7 +716,7 @@
       "summary": "Po ulewie w Coquimbo i Huasco ogłoszono „stan katastrofy”."
     },
     {
-      "title": "„Brak prądu, brak wody, brak paliwa”: ataki ukraińskich dronów skrywają ciemność na Krymie latem",
+      "title": "„Brak prądu, brak wody, brak paliwa”: ukraińskie ataki dronów sprowadzają ciemność na Krym latem",
       "url": "https://www.theguardian.com/world/2026/jul/21/no-electricity-no-water-no-fuel-ukrainian-drone-strikes-bring-darkness-to-crimeas-summer",
       "date": "2026-07-21T11:00:44Z",
       "source": "The Guardian",
@@ -729,7 +729,7 @@
       "date": "2026-07-21T10:09:06Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Gazu łzawiącego i armatek wodnych użyto wobec protestujących po tym, jak Abderrahim ⁠Fakir zmarł, błagając o pomoc policji. Policja starła się z demonstrantami podczas protestu we włoskim mieście Bolonia po tym, jak urodzony w Maroku mężczyzna zmarł, prosząc o pomoc w areszcie policyjnym. Obrońcy praw człowieka i włoskie partie opozycyjne domagają się pilnych odpowiedzi w związku z niedzielną śmiercią Abderrahima ⁠Fakira, lat 42, który mieszkał we Włoszech od piątego roku życia. lat i prowadził małą firmę zajmującą się przeprowadzkami i sprzątaniem. Kontynuuj czytanie..."
+      "summary": "Gazu łzawiącego i armatek wodnych użyto wobec demonstrantów po śmierci Abderrahima ⁠Fakira, błagając o pomoc policjiPolicja starła się z demonstrantami podczas protestu we włoskim mieście Bolonia po tym, jak urodzony w Maroku mężczyzna zmarł, prosząc o pomoc w areszcie policyjnym. Obrońcy praw człowieka i włoskie partie opozycyjne domagają się pilnych odpowiedzi w związku z niedzielną śmiercią Abderrahima ⁠Fakira, lat 42, który mieszkał we Włoszech od piątego roku życia lat i prowadził małą firmę zajmującą się przeprowadzkami i sprzątaniem. Kontynuuj czytanie..."
     },
     {
       "title": "Dlaczego tysiące protestują przeciwko reformie edukacji w Indiach?",
@@ -782,7 +782,7 @@
       "summary": ""
     },
     {
-      "title": "Trump zwiększa cła w Kanadzie, a Mark Carney nie zmienia swojej decyzji",
+      "title": "Trump zwiększa cła w Kanadzie, a Mark Carney nie przestaje się zgadzać",
       "url": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
       "date": "2026-07-21T16:26:15Z",
       "source": "The New York Times",
@@ -942,12 +942,12 @@
       "summary": "Kurtka Wilta Chamberlaina Lakers znaleziona przez nastolatka w sklepie z używaną odzieżą została sprzedana na aukcji AP News za ponad 89 000 dolarów."
     },
     {
-      "title": "Sędzia twierdzi, że Paramount i Warner muszą wstrzymać fuzję na co najmniej dwa tygodnie, przychylając się do wniosku stanów – AP News",
+      "title": "Sędzia stwierdza, że ​​Paramount i Warner muszą wstrzymać fuzję na co najmniej dwa tygodnie, przychylając się do wniosku stanów – AP News",
       "url": "https://apnews.com/article/warner-bros-paramount-injunction-361fa669019e0053cf6d4513e6e275e3",
       "date": "2026-07-20T20:40:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Sędzia stwierdził, że Paramount i Warner muszą wstrzymać fuzję na co najmniej dwa tygodnie, przychylając się do wniosku AP News."
+      "summary": "Sędzia stwierdził, że Paramount i Warner muszą wstrzymać fuzję na co najmniej dwa tygodnie, uwzględniwszy prośbę stanów AP News."
     },
     {
       "title": "Andy Burnham zostaje siódmym premierem Wielkiej Brytanii w ciągu dziesięciu lat po rezygnacji Starmera – AP News",
@@ -974,7 +974,7 @@
       "summary": "Federalni planują udostępnienie 2800 akrów lasu Wayne National Forest w Ohio w celu szczelinowania AP News."
     },
     {
-      "title": "Francuscy prawodawcy ścigają się z wprowadzeniem zakazu korzystania z mediów społecznościowych poniżej 15 roku życia przed nowym rokiem szkolnym – AP News",
+      "title": "Francuscy prawodawcy ścigają się, aby przed nowym rokiem szkolnym wprowadzić zakaz korzystania z mediów społecznościowych poniżej 15 roku życia – AP News",
       "url": "https://apnews.com/article/france-social-media-ban-b559fecdb7193235e8f75d7d69578830",
       "date": "2026-07-20T15:56:00Z",
       "source": "Associated Press",
@@ -1003,10 +1003,26 @@
       "date": "2026-07-20T02:56:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Troy Jackson nabiera rozpędu, aby zastąpić Platnera na stanowisku kandydata do Senatu Demokratów w Maine AP News."
+      "summary": "Troy Jackson nabiera tempa, aby zastąpić Platnera na stanowisku kandydata do Senatu Demokratów w Maine AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Super promocja na Disney+. Zostało jeszcze tylko kilka dni",
+      "url": "https://antyweb.pl/super-promocja-na-disney-zostalo-jeszcze-tylko-kilka-dni",
+      "date": "2026-07-21T17:00:03Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Dostęp do Disney+ można wykupić znacznie taniej, nawet jeśli byliście już subskrybentami. Do kiedy trwa promocja?"
+    },
+    {
+      "title": "LEGO Z Archiwum X oficjalnie. Brzmi absurdalnie, wygląda świetnie",
+      "url": "https://spidersweb.pl/2026/07/lego-z-archiwum-x-mulder-scully-zestaw.html",
+      "date": "2026-07-21T17:00:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "LEGO Z Archiwum X oficjalnie. Brzmi absurdalnie, wygląda świetnie."
+    },
     {
       "title": "Meta dodaje edycję startową Xbox Game Pass do swojego planu Horizon Plus, który kosztuje 60 USD rocznie lub 8 USD miesięcznie; karnet startowy umożliwia 10 godzin grania miesięcznie (Scott Stein/CNET)",
       "url": "https://www.techmeme.com/260721/p36#a260721p36",
@@ -1024,12 +1040,12 @@
       "summary": "Instytut Bezpieczeństwa AI: Analiza: każdy pionierski model sztucznej inteligencji testowany w ocenach cyberbezpieczeństwa próbował „oszukać”, na czele z GPT-5.4 przy 14,1% zadań; Najmniej oszukiwał Mythos – 7,8% &mdash; Czy możesz zaufać modelowi AI, że zrobi to, co zamierzyłeś? Jest to główne pytanie zarówno dla osób wdrażających systemy AI &hellip;."
     },
     {
-      "title": "Dobre słuchawki gamingowe za 199 zł? HyperX Cloud Stinger 3 pokazują, że się da",
+      "title": "Dobre i tanie słuchawki gamingowe? HyperX Cloud Stinger 3 pokazują, że się da",
       "url": "https://www.instalki.pl/news/tv-audio/hyperx-cloud-stinger-3-sluchawki-gamingowe-do-200-zlotych/",
       "date": "2026-07-21T16:34:51Z",
       "source": "Instalki.pl",
       "confirmed_by": 1,
-      "summary": "Dobre słuchawki gamingowe do 200 zł powinny być wygodne, dobrze brzmieć i mieć mikrofon, przez który inni rzeczywiście będą chcieli nas słuchać. HyperX Cloud Stinger 3 spełniają wszystkie te warunki. Sprawdziłem, jak ich przewodowa wersja wypada w praktyce."
+      "summary": "Dobre słuchawki gamingowe za 200-300 zł powinny być wygodne, dobrze brzmieć i mieć mikrofon, przez który inni rzeczywiście będą chcieli nas słuchać. HyperX Cloud Stinger 3 spełniają wszystkie te warunki. Sprawdziłem, jak ich przewodowa wersja wypada w praktyce."
     },
     {
       "title": "Pół internetu znów z problemami. Awaria goni awarię",
@@ -1048,12 +1064,12 @@
       "summary": "Mapy Google będą mądrzejsze od użytkownika. Aż dziwi, że Unia nie reaguje."
     },
     {
-      "title": "Apple twierdzi, że naprawiło lukę w narzędziu Ukryj mój e-mail, które pozwala każdemu zobaczyć prawdziwy adres e-mail użytkownika; badacze po raz pierwszy zgłosili ten problem w czerwcu 2025 r. (Joseph Cox/404 Media)",
+      "title": "Apple twierdzi, że naprawiło lukę w narzędziu Ukryj mój e-mail, które pozwala każdemu zobaczyć prawdziwy adres e-mail użytkownika; badacze zgłosili ten problem po raz pierwszy w czerwcu 2025 r. (Joseph Cox/404 Media)",
       "url": "https://www.techmeme.com/260721/p34#a260721p34",
       "date": "2026-07-21T16:20:02Z",
       "source": "Techmeme",
       "confirmed_by": 2,
-      "summary": "Joseph Cox / 404 Media: Apple twierdzi, że naprawiło lukę w narzędziu Ukryj mój adres e-mail, które pozwala każdemu zobaczyć prawdziwy adres e-mail użytkownika; badacze po raz pierwszy zgłosili ten problem w czerwcu 2025 r. &mdash; Od roku firma Apple wiedziała, że ​​błąd związany z funkcją Ukryj mój adres e-mail polega na ujawnianiu prawdziwych adresów e-mail klientów."
+      "summary": "Joseph Cox / 404 Media: Apple twierdzi, że naprawiło lukę w narzędziu Ukryj mój adres e-mail, które pozwala każdemu zobaczyć prawdziwy adres e-mail użytkownika; badacze po raz pierwszy zgłosili ten problem w czerwcu 2025 r. &mdash; Już od roku firma Apple wiedziała, że ​​błąd związany z funkcją Ukryj mój adres e-mail polega na ujawnianiu prawdziwych adresów e-mail klientów."
     },
     {
       "title": "Samsung zrobił swoje IKEA. Odwiedzam raj fanów Androida i nie chcę wracać",
@@ -1093,7 +1109,7 @@
       "date": "2026-07-21T16:05:58Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://thecastlemap.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48994178 Punkty: 30 # Komentarze: 21."
+      "summary": "Adres URL artykułu: https://thecastlemap.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48994178 Punkty: 42 # Komentarze: 28."
     },
     {
       "title": "Francuska firma Anssi zablokuje certyfikację produktów niezawierających PQC od 2027 r",
@@ -1101,7 +1117,7 @@
       "date": "2026-07-21T16:02:04Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://postquantum.com/security-pqc/anssi-pqc-certification-2027/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48994116 Punkty: 17 # Komentarze: 4."
+      "summary": "Adres URL artykułu: https://postquantum.com/security-pqc/anssi-pqc-certification-2027/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48994116 Punkty: 23 # Komentarze: 4."
     },
     {
       "title": "W obliczu niedoborów pielęgniarek uniwersytet udostępnia matę powitalną dla mężczyzn",
@@ -1109,7 +1125,7 @@
       "date": "2026-07-21T16:01:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://text.npr.org/nx-s1-5869813 Adres URL komentarzy: https://news.ycombinator.com/item?id=48994103 Punkty: 17 # Komentarze: 7."
+      "summary": "Adres URL artykułu: https://text.npr.org/nx-s1-5869813 Adres URL komentarzy: https://news.ycombinator.com/item?id=48994103 Punkty: 26 # Komentarze: 23."
     },
     {
       "title": "\"Na tym systemie nie ma wirusów\"! Nieprawda. Oto jeden z bardziej bezczelnych",
@@ -1128,14 +1144,6 @@
       "summary": "Maggie Eastland / Bloomberg: Dyrektor wykonawczy OpenAI, Chris Lehane, mówi, że Sam Altman planuje w przyszłym tygodniu poinformować administrację Trumpa i amerykańskich prawodawców o nadchodzącej generacji modeli firmy &mdash; Dyrektor naczelny OpenAI Sam Altman planuje w przyszłym tygodniu poinformować administrację Trumpa i amerykańskich prawodawców o nadchodzącej generacji &hellip;."
     },
     {
-      "title": "Czas odnowienia NPM to teatr bezpieczeństwa",
-      "url": "https://blog.outv.im/2026/npm-cooldown-security-theater/",
-      "date": "2026-07-21T15:46:18Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://blog.outv.im/2026/npm-cooldown-security-theater/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48993885 Punkty: 34 # Komentarze: 34."
-    },
-    {
       "title": "Fantastyczna aktualizacja dla flagowego Samsunga. Pozwala rozwinąć mu skrzydła",
       "url": "https://antyweb.pl/fantastyczna-aktualizacja-dla-flagowego-samsunga-pozwala-rozwinac-mu-skrzydla",
       "date": "2026-07-21T15:45:38Z",
@@ -1149,7 +1157,7 @@
       "date": "2026-07-21T15:41:51Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://e360.yale.edu/digest/benin-coral-reef Adres URL komentarzy: https://news.ycombinator.com/item?id=48993816 Punkty: 55 # Komentarze: 2."
+      "summary": "Adres URL artykułu: https://e360.yale.edu/digest/benin-coral-reef Adres URL komentarzy: https://news.ycombinator.com/item?id=48993816 Punkty: 69 # Komentarze: 2."
     },
     {
       "title": "Google twierdzi, że Gemini 3.6 Flash zapewnia lepsze kodowanie, pracę z wiedzą i wydajność multimodalną, jednocześnie zmniejszając wykorzystanie tokenów wyjściowych nawet o 17% w porównaniu z 3.5 Flash (MacKenzie Sigalos/CNBC)",
@@ -1160,20 +1168,12 @@
       "summary": "MacKenzie Sigalos / CNBC: Google twierdzi, że Gemini 3.6 Flash zapewnia lepsze kodowanie, pracę z wiedzą i wydajność multimodalną, jednocześnie zmniejszając użycie tokena wyjściowego nawet o 17% w porównaniu z 3.5 Flash &mdash; Alphabet wypuści we wtorek trzy nowe modele Gemini, w tym najjaśniejszą jak dotąd odpowiedź na wiodącą pozycję Anthropic w dziedzinie cyberbezpieczeństwa &hellip;."
     },
     {
-      "title": "Google wprowadza na rynek Gemini 3.6 Flash, 3.5 Flash-Lite i 3.5 Flash Cyber ​​i twierdzi, że rozpoczął „najbardziej ambitny jak dotąd przebieg przedtreningowy” dla Gemini 4 (Tulsee Doshi/Google)",
-      "url": "https://www.techmeme.com/260721/p29#a260721p29",
-      "date": "2026-07-21T15:40:03Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Tulsee Doshi / Google: Google wprowadza na rynek Gemini 3.6 Flash, 3.5 Flash-Lite i 3.5 Flash Cyber ​​i twierdzi, że rozpoczął „najambitniejszy w historii program przedtreningowy”; dla Gemini 4 &mdash; Nasze najnowsze modele Gemini zapewniają wydajność, opóźnienia i niezawodność potrzebne do tworzenia agentów AI na dużą skalę."
-    },
-    {
       "title": "Oracle może zapłacić 7 miliardów dolarów rachunku za zabezpieczenie centrum danych w Wisconsin",
       "url": "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5",
       "date": "2026-07-21T15:22:33Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5 Adres URL komentarzy: https://news.ycombinator.com/item?id=48993488 Punkty: 62 # Komentarze: 29."
+      "summary": "Adres URL artykułu: https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5 Adres URL komentarzy: https://news.ycombinator.com/item?id=48993488 Punkty: 72 # Komentarze: 39."
     },
     {
       "title": "W obliczu wzmożonej kontroli dane ICE dotyczące zatrzymań i deportacji stają się niejasne",
@@ -1181,7 +1181,15 @@
       "date": "2026-07-21T15:21:02Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.themarshallproject.org/2026/07/15/ice-data-immigration-detention-transparency Adres URL komentarzy: https://news.ycombinator.com/item?id=48993465 Punkty: 109 # Komentarze: 14."
+      "summary": "Adres URL artykułu: https://www.themarshallproject.org/2026/07/15/ice-data-immigration-detention-transparency Adres URL komentarzy: https://news.ycombinator.com/item?id=48993465 Punkty: 125 # Komentarze: 17."
+    },
+    {
+      "title": "ICE zapłaci Thomson Reuters 125 mln dolarów za wykrycie oszustw wyborczych",
+      "url": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
+      "date": "2026-07-21T15:19:44Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/ Adres URL komentarzy: https://news.ycombinator.com/item?id=48993448 Punkty: 174 # Komentarze: 85."
     },
     {
       "title": "Klasyka sc-fi powraca w nowej formie. Fani będą zachwyceni!",
@@ -1254,14 +1262,6 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "Producenci samochodów uwielbiają pojazdy połączone z siecią, ale wsparcie nie jest nieograniczone."
-    },
-    {
-      "title": "Garmin spełnił moje marzenie. Pędzę do sklepu",
-      "url": "https://spidersweb.pl/2026/07/garmin-cirqa-smart-band-premiera-cena.html",
-      "date": "2026-07-21T13:29:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Garmin spełnił moje marzenie. Pędzę do sklepu."
     },
     {
       "title": "Aplikacje skierowane do żołnierzy amerykańskich zawierają kod chiński i rosyjski",
@@ -1410,6 +1410,22 @@
   ],
   "cybersecurity": [
     {
+      "title": "Oracle będzie musiał zapłacić roczny rachunek w wysokości 100 milionów dolarów za wsparcie obietnic dotyczących zasilania centrów danych w Wisconsin",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728",
+      "date": "2026-07-21T16:45:35Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Organ regulacyjny nie zgodził się na gwarancję wynoszącą 7 miliardów dolarów na kampus o mocy prawie 1 GW budowany przy użyciu Vantage i OpenAI."
+    },
+    {
+      "title": "Zestaw Kratos do phishingu jako usługi przegrywa walkę z międzynarodowymi organami ścigania",
+      "url": "https://www.theregister.com/security/2026/07/21/german-authorities-lead-takedown-of-kratos-phishing-platform/5275666",
+      "date": "2026-07-21T16:17:54Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Domniemany programista aresztowany w Indonezji po uszkodzeniu ponad 200 serwerów."
+    },
+    {
       "title": "Błąd AWS Kiro pozwala zatrutej stronie internetowej przepisać jej kod konfiguracyjny i uruchamiający",
       "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
       "date": "2026-07-21T16:06:12Z",
@@ -1463,7 +1479,7 @@
       "date": "2026-07-21T14:15:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Użytkownicy prosili o elastyczność, ale w obliczu gwałtownego wzrostu cen sprzętu tańszy system operacyjny dla starszych komputerów może mieć większe znaczenie."
+      "summary": "Użytkownicy prosili o elastyczność, ale w przypadku starszych komputerów cieńszy system operacyjny może mieć większe znaczenie w obliczu gwałtownego wzrostu cen sprzętu."
     },
     {
       "title": "Osoby atakujące ransomware Qilin wykorzystują obejście uwierzytelniania PAN-OS w ​​celu uzyskania początkowego dostępu",
@@ -1567,7 +1583,7 @@
       "date": "2026-07-21T10:45:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "I trwałoby dłużej, gdyby jakiś kod nie wszedł w miejsca, w których nie powinien."
+      "summary": "I trwałoby dłużej, gdyby jakiś kod nie wdeptał w miejsca, w których nie powinien."
     },
     {
       "title": "Inwestycyjna pułapka. CSIRT KNF ujawnia masową kampanię",
@@ -1594,12 +1610,12 @@
       "summary": "Rząd przeznaczył gigantyczne środki na ochronę polskich gmin, miast i województw przed cyberatakami. Kontrolerzy NIK-u ujawnili jednak poważne luki w projekcie „Cyberbezpieczny samorząd”. Okazuje się, że miliony złotych przyznawano bez realnego sprawdzenia potrzeb, a zakupiony sprzęt wykorzystywano do innych celów."
     },
     {
-      "title": "Niektórzy klienci Mullvad VPN wyprowadzają tunel po tym, jak współzałożyciel przekazał miliony na rzecz partii populistycznej",
+      "title": "Niektórzy klienci Mullvad VPN tunelują w celu wyjścia po tym, jak współzałożyciel przekazał miliony partii populistycznej",
       "url": "https://www.theregister.com/software/2026/07/21/some-mullvad-vpn-customers-tunnel-for-exit-after-co-founder-donates-millions-to-populist-party/5275012",
       "date": "2026-07-21T09:15:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Prezent o wartości 5 mln koron szwedzkich zapewnił 72 procent rocznego dochodu Örebropartiet, ale firma upiera się, że był to cel wyłącznie osobisty."
+      "summary": "Prezent o wartości 5 mln koron szwedzkich zapewnił 72 procent rocznego dochodu Örebropartiet, ale firma upiera się, że był to prezent wyłącznie osobisty."
     },
     {
       "title": "Czy open-source wystarczy do zapewnienia zgodności z NIS2/KSC2?",
@@ -1674,22 +1690,6 @@
       "summary": "Nowelizacja ustawy o KSC to nie tylko nowe obowiązki dla tysiące firm w Polsce. Zmiany dotkną także organy państwowe. Rząd pracuje już nad nowym rozporządzeniem, które zmieni zasady działania Kolegium ds."
     },
     {
-      "title": "OVH ujawnia półtajny plan naprawienia krytycznego błędu hiperwizora Januscape poprzez masowe ponowne uruchomienie i australijski manekin do testów zderzeniowych",
-      "url": "https://www.theregister.com/virtualization/2026/07/21/ovh-reveals-semi-secret-plan-to-fix-critical-januscape-hypervisor-bug-with-mass-reboots-and-an-australian-crash-test-dummy/5275359",
-      "date": "2026-07-21T03:52:43Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Francuska chmura przeniosła łatkę do Debiana i nie pytała o zgodę klienta, pomimo ryzyka przestoju."
-    },
-    {
-      "title": "Atakujący wykorzystują krytyczną lukę w WordPressie, aby stworzyć wszelkiego rodzaju szkody",
-      "url": "https://www.theregister.com/security/2026/07/20/attackers-pummel-critical-wordpress-vuln-to-create-all-sorts-of-mischief/5275265",
-      "date": "2026-07-20T21:57:51Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Plus dziesiątki PoC w domenie publicznej."
-    },
-    {
       "title": "Kampania FakeGit wykorzystuje 7600 repozytoriów GitHub do rozprzestrzeniania złośliwego oprogramowania SmartLoader",
       "url": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
       "date": "2026-07-20T18:23:03Z",
@@ -1743,7 +1743,7 @@
       "date": "2026-07-20T13:32:26Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Pojedyncza prośba nie powinna zdziałać tak wiele. Jednak w tym tygodniu niewielkie dane wejściowe doprowadziły do ​​wykonania kodu, utraty pamięci, kradzieży kluczy i wyłączenia narzędzi bezpieczeństwa. Ścieżki były często proste: odsłonięte systemy, słabe kontrole, stare sterowniki, fałszywe monity i kod publiczny używany do dostarczania złośliwego oprogramowania."
+      "summary": "Pojedyncza prośba nie powinna zdziałać tak wiele. Jednak w tym tygodniu niewielkie nakłady doprowadziły do ​​wykonania kodu, utraty pamięci, kradzieży kluczy i wyłączenia narzędzi bezpieczeństwa. Ścieżki były często proste: odsłonięte systemy, słabe kontrole, stare sterowniki, fałszywe monity i kod publiczny używany do dostarczania złośliwego oprogramowania."
     },
     {
       "title": "NIK bije na alarm. Polskie dzieci nie są bezpieczne w sieci",
@@ -1904,7 +1904,7 @@
       "url": "https://www.stockwatch.pl/wiadomosci/analiza-kgl-biznes-rusza-w-dobra-strone-ale-droga-daleka,akcje,376711",
       "date": "2026-07-21T14:15:14Z",
       "source": "StockWatch.pl",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Analiza KGL: Biznes rusza w dobrą stronę, ale droga daleka stockwatch.pl."
     },
     {
@@ -1930,6 +1930,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Formacje analizy technicznej OW20V263750 BiznesRadar."
+    },
+    {
+      "title": "Analiza techniczna OW20V263750 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/OW20V263750",
+      "date": "2026-07-21T13:49:34Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Analiza techniczna OW20V263750 BiznesRadar."
     },
     {
       "title": "Komunikat EBI BTCS SA (btcs): Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie - stockwatch.pl",
@@ -2010,14 +2018,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Oto jak social media kreują trendy, windując ceny żywności Forbes."
-    },
-    {
-      "title": "Notowania historyczne OW20V264150 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania-historyczne/OW20V264150",
-      "date": "2026-07-21T11:17:07Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania historyczne OW20V264150 BiznesRadar."
     },
     {
       "title": "Wiadomości RBITLING13 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
@@ -2412,7 +2412,7 @@
       "lng": 19.1,
       "type": "cyber",
       "region": "Szwecja",
-      "description": "Prezent o wartości 5 mln koron szwedzkich zapewnił 72 procent rocznego dochodu Örebropartiet, ale firma upiera się, że był to cel wyłącznie osobisty.",
+      "description": "Prezent o wartości 5 mln koron szwedzkich zapewnił 72 procent rocznego dochodu Örebropartiet, ale firma upiera się, że był to prezent wyłącznie osobisty.",
       "url": "https://www.theregister.com/software/2026/07/21/some-mullvad-vpn-customers-tunnel-for-exit-after-co-founder-donates-millions-to-populist-party/5275012"
     },
     {
@@ -2462,6 +2462,14 @@
       "region": "Polska",
       "description": "Stan wyjątkowy w Chile.",
       "url": "https://www.pap.pl/aktualnosci/stan-wyjatkowy-w-chile-sztorm-zabil-co-najmniej-5-osob"
+    },
+    {
+      "lat": -0.30000000000000004,
+      "lng": 114.4,
+      "type": "cyber",
+      "region": "Indonezja",
+      "description": "Domniemany programista aresztowany w Indonezji po uszkodzeniu ponad 200 serwerów.",
+      "url": "https://www.theregister.com/security/2026/07/21/german-authorities-lead-takedown-of-kratos-phishing-platform/5275666"
     }
   ],
   "instability": [
@@ -2470,7 +2478,7 @@
       "score": 100,
       "reasons": [
         {
-          "title": "RBA jest obecnie dwukrotnie bardziej prawdopodobne, że podwyższy stopy procentowe, ponieważ wojna między USA a Iranem powoduje wzrost cen paliw",
+          "title": "RBA jest obecnie dwukrotnie bardziej prawdopodobne, że podwyższy stopy procentowe, ponieważ wojna amerykańsko-irańska powoduje wzrost cen paliw",
           "url": "https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast",
           "source": "The Guardian"
         },
@@ -2829,7 +2837,7 @@
       28464.47,
       28280.31,
       28225.66,
-      28494.14
+      28483.98
     ],
     "currency": "PLN"
   }
