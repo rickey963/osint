@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-21T14:24:18Z",
+  "last_updated": "2026-07-21T14:24:56Z",
   "poland": [
+    {
+      "title": "Zerwane dachy, powalone drzewa. Trąba powietrzna na południu Polski",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-21/traba-powietrzna-w-swietokrzyskiem-ogromna-skala-zniszczen/",
+      "date": "2026-07-21T14:22:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Gmina Osiek (woj. świętokrzyskie) walczy ze skutkami potężnych nawałnic oraz trąby powietrznej, które przeszły nad regionem w weekend. Straty wstępnie oszacowano na ponad milion złotych."
+    },
     {
       "title": "„Nowy cud świata” powstanie w Rotterdamie. Zwycięski projekt pracowni MVRDV",
       "url": "https://sukces.rp.pl/architektura/art44861861-nowy-cud-swiata-powstanie-w-rotterdamie-zwycieski-projekt-pracowni-mvrdv",
@@ -274,14 +282,6 @@
       "summary": "Od stycznia do czerwca odnotowano 1396 ofiar śmiertelnych i 7978 rannych - przekazało ONZ. To o 37 proc. więcej w porównaniu z ubiegłym rokiem."
     },
     {
-      "title": "Rosyjski okręt otworzył ogień u wybrzeży Wielkiej Brytanii. \"Rzucili nam wyzwanie\"",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-21/rosyjski-okret-otworzyl-ogien-u-wybrzezy-wielkiej-brytanii-rzucili-nam-wyzwanie/",
-      "date": "2026-07-21T11:39:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 2,
-      "summary": "Rosyjska fregata Nieustraszymyj otworzyła ogień na wodach międzynarodowych nieopodal wybrzeży Devon - potwierdził brytyjski MON. Media podejrzewają, że nietypowa sytuacja była sygnałem do nowego premiera, Andyiego Burnhama. - Rzucili nam wyzwanie - skomentował były naczelny dowódca brytyjskiej armii lord Richard Dannatt."
-    },
-    {
       "title": "Warszawa z największą liczbą noclegów w najmie krótkoterminowym. Łódź z rekordowym wzrostem - Polska Agencja Prasowa SA",
       "url": "https://www.pap.pl/aktualnosci/warszawa-z-najwieksza-liczba-noclegow-w-najmie-krotkoterminowym-lodz-z-rekordowym-0",
       "date": "2026-07-21T11:19:00Z",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Wall St zyskuje na odbudowie zapasów chipów; w centrum uwagi wyniki – Reuters",
+      "url": "https://www.reuters.com/business/wall-st-futures-gain-iran-ceasefire-hopes-earnings-focus-2026-07-21/",
+      "date": "2026-07-21T14:15:38Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Wall St zyskuje na odbudowie zapasów chipów; zyski remis fokus Reuters."
+    },
+    {
       "title": "Kanada gotowa „zintensyfikować” rozmowy handlowe, ponieważ według doniesień Trump przygotowuje się do uderzenia nowych ceł w więcej krajów – amerykańska polityka na żywo",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
       "date": "2026-07-21T14:14:47Z",
@@ -481,15 +489,7 @@
       "date": "2026-07-21T13:14:57Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "WYŁĄCZNIE Boeing zwraca się do USA o interwencję w sprawie rekordowej pożyczki UE dla Airbus Reuters."
-    },
-    {
-      "title": "Wall St oczekuje na wyższe otwarcie w miarę przedłużania się ożywienia na giełdach chipów; w centrum uwagi wyniki - Reuters",
-      "url": "https://www.reuters.com/business/wall-st-futures-gain-iran-ceasefire-hopes-earnings-focus-2026-07-21/",
-      "date": "2026-07-21T13:09:57Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Wall St oczekuje na wyższe otwarcie w miarę przedłużania się ożywienia na giełdach chipów; w centrum uwagi zyski Reuters."
+      "summary": "WYŁĄCZNIE Boeing prosi USA o interwencję w sprawie rekordowej pożyczki UE dla Airbus Reuters."
     },
     {
       "title": "Rosja przekierowuje syberyjskie paliwo, aby chronić Moskwę przed niedoborami – Reuters",
@@ -508,7 +508,7 @@
       "summary": "Tysiące ludzi wyszło na ulice, domagając się sprawiedliwości dla urodzonego w Maroku mężczyzny, który zmarł w niedzielę."
     },
     {
-      "title": "Novo Nordisk pozywa Eli Lilly, zarzucając jej fałszywą reklamę - Reuters",
+      "title": "Novo Nordisk pozywa Eli Lilly, zarzucając jej fałszywą reklamę – Reuters",
       "url": "https://www.reuters.com/world/novo-nordisk-says-it-is-suing-eli-lilly-accusing-it-false-advertising-2026-07-21/",
       "date": "2026-07-21T12:44:27Z",
       "source": "Reuters",
@@ -561,7 +561,7 @@
       "date": "2026-07-21T11:58:22Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "TSMC podniesie ceny produkcji chipów nawet o 10% w 2027 r., podaje Nikkei Asia Reuters."
+      "summary": "Jak podaje Nikkei Asia Reuters, TSMC podniesie ceny produkcji chipów nawet o 10% w 2027 roku."
     },
     {
       "title": "Brazylia i USA spierają się o przyszłość płatności, a popularny system Pix budzi zainteresowanie na całym świecie – Reuters",
@@ -588,7 +588,7 @@
       "summary": "Wodzowie w Ontario twierdzą, że musieli się ewakuować, zanim domy doszczętnie spalą się doszczętnie, po tym, jak powiedziano im, że nie ma bezpośredniego zagrożenia. Szybko rozprzestrzeniające się pożary doszczętnie spaliły dwie społeczności Pierwszych Narodów w Kanadzie, ponieważ członkowie powiedzieli, że musieli się ewakuować bez pomocy rządu i alertów awaryjnych. Trzynastu społecznościom w prowincji Ontario nakazano ewakuację z powodu pożarów, w większości z nich Pierwszych Narodów. Premier Ontario Doug Ford powiedział w poniedziałek reporterom, że do tej pory ewakuowano blisko 2000 osób do takich miast, jak Toronto i wodospad Niagara. Kontynuuj czytanie..."
     },
     {
-      "title": "Funkcjonariusze policji aresztowani za rzekome żądanie łapówki przy drodze od nigeryjskiego szefa antykorupcyjnego",
+      "title": "Funkcjonariusze policji aresztowani za rzekome żądanie łapówki przydrożnej od nigeryjskiego szefa antykorupcyjnego",
       "url": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-21T11:40:53Z",
       "source": "BBC News",
@@ -609,10 +609,10 @@
       "date": "2026-07-21T11:16:43Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Jak podaje Reuters, Houthi ostrzegają firmy żeglugowe, aby unikały portów Arabii Saudyjskiej."
+      "summary": "Jak wynika z e-maila Reutersa, Houthi ostrzegają firmy żeglugowe, aby unikały portów Arabii Saudyjskiej."
     },
     {
-      "title": "„Brak prądu, brak wody, brak paliwa”: ataki ukraińskich dronów skrywają ciemność na Krymie latem",
+      "title": "„Brak prądu, brak wody, brak paliwa”: ukraińskie ataki dronów sprowadzają ciemność na Krym latem",
       "url": "https://www.theguardian.com/world/2026/jul/21/no-electricity-no-water-no-fuel-ukrainian-drone-strikes-bring-darkness-to-crimeas-summer",
       "date": "2026-07-21T11:00:44Z",
       "source": "The Guardian",
@@ -657,7 +657,7 @@
       "date": "2026-07-21T09:48:56Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Poza dyplomatycznymi frazesami światowe media skupiają się na „ogromnej” skali wyzwania, przed jakim stoi w pracy. Polityka Wielkiej Brytanii na żywo – najnowsze aktualizacje Światowi przywódcy serdecznie pogratulowali Andy'emu Burnhamowi wejścia na 10 Downing Street jako siódmy premier Wielkiej Brytanii w ciągu dekady, ale media międzynarodowe w dużej mierze skupiły się na skali czekających go wyzwań. Emmanuel Macron, prezydent Francji, powiedział, że ma nadzieję na głębsze stosunki „w służbie naszym narodom i nadaniu nowego impetu”. do partnerstwa między Wielką Brytanią a UE”, rozpalonego na nowo przez poprzednika Burnhama, Keira Starmera. Kontynuuj czytanie..."
+      "summary": "Poza dyplomatycznymi frazesami światowe media skupiają się na „ogromnej” skali wyzwania, przed jakim stoi w pracy. Polityka Wielkiej Brytanii na żywo – najnowsze aktualizacje Światowi przywódcy gorąco pogratulowali Andy'emu Burnhamowi wejścia na 10 Downing Street jako siódmy premier Wielkiej Brytanii w ciągu dekady, ale media międzynarodowe w dużej mierze skupiły się na skali czekających go wyzwań. Prezydent Francji Emmanuel Macron powiedział, że ma nadzieję na głębsze stosunki „w służbie naszym narodom i nadając nowy impuls” do partnerstwa między Wielką Brytanią a UE”, rozpalonego na nowo przez poprzednika Burnhama, Keira Starmera. Kontynuuj czytanie..."
     },
     {
       "title": "Stany Zjednoczone przeprowadzają nowe ataki na Iran, po tym jak Trump ostrzega przed odwetem za śmierć żołnierzy",
@@ -673,7 +673,7 @@
       "date": "2026-07-21T08:45:11Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Neustrashimy nagle ogłosiła, że ​​zamierza oddać ogień ze swoich dział, i przeprowadziła 30-minutowe ćwiczenia na południe od Plymouth Rosyjski okręt wojenny przeprowadził rzadkie ćwiczenia z ostrzałem na kanale La Manche, 45 mil na południe od Plymouth, w poniedziałek, w dniu mianowania Andy'ego Burnhama premierem. Neustrashimy nagle ogłosiła, że ​​zamierza oddać ogień ze swoich dział i zażądała, aby śledzący go brytyjski okręt wojenny wycofał się na bezpieczną odległość. Kontynuuj czytanie..."
+      "summary": "Neustrashimy nagle ogłosiła, że ​​zamierza oddać ogień ze swoich dział, i przeprowadziła 30-minutowe ćwiczenia na południe od Plymouth Rosyjski okręt wojenny przeprowadził w poniedziałek, w dniu, w którym Andy Burnham został premierem, rzadkie ćwiczenia z ostrzałem na kanale La Manche, 45 mil na południe od Plymouth. Neustrashimy nagle ogłosiła, że ​​zamierza oddać ogień ze swoich dział i zażądała, aby śledzący go brytyjski okręt wojenny wycofał się na bezpieczną odległość. Kontynuuj czytanie..."
     },
     {
       "title": "Dzień po stłumieniu przez policję indyjskiego protestu dotyczącego karaluchów",
@@ -681,7 +681,7 @@
       "date": "2026-07-21T08:44:43Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "W poniedziałek w Delhi doszło do ogromnej przemocy, w wyniku której co najmniej 60 demonstrantów zostało rannych. Policja podała, że ​​118 ich ludzi również zostało rannych."
+      "summary": "W poniedziałek w Delhi doszło do przytłaczającej przemocy, w wyniku której co najmniej 60 demonstrantów zostało rannych. Policja podała, że ​​118 ich ludzi również zostało rannych."
     },
     {
       "title": "Poparcie Hansona dla polityki deportacyjnej Trumpa „przyprawia mnie o mdłości” – mówi Monique Ryan – tak się złożyło",
@@ -689,10 +689,10 @@
       "date": "2026-07-21T08:04:54Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Śledź dzisiejsze wiadomości na żywoOtrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami W alpejskich ośrodkach narciarskich w Nowej Południowej Walii i Wiktorii w weekend pobito rekordy klimatyczne, a maksymalne temperatury były nawet o 12°C wyższe od średniej.Ośrodki narciarskie Mount Hotham i Falls Creek ustanowiły lipcowe rekordy pod względem najgorętszych temperatur w dzień i w nocy, a według Biura Meteorologii Thredbo również ustanowiło nowy, najgorętszy dzień lipca. Chcemy, aby więcej australijskich pomysłów zostało skomercjalizowanych, więcej australijskich technologii wdrożono globalnie, a w większym stopniu z wartości ekonomicznej wykorzystywanej tutaj, w kraju. Kontynuuj czytanie..."
+      "summary": "Śledź dzisiejsze wiadomości na żywoOtrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami W alpejskich ośrodkach narciarskich w Nowej Południowej Walii i Wiktorii w weekend pobito rekordy klimatyczne, a maksymalne temperatury były nawet o 12°C wyższe od średniej.Ośrodki narciarskie Mount Hotham i Falls Creek ustanowiły lipcowe rekordy pod względem najgorętszych temperatur w dzień i w nocy, a według Biura Meteorologii Thredbo również ustanowiło nowy, najgorętszy dzień lipca. Chcemy, aby więcej australijskich pomysłów zostało skomercjalizowanych, więcej australijskich technologii wdrożono globalnie, a w większym stopniu czerpać z wartości ekonomicznej wykorzystywanej tutaj, w kraju. Kontynuuj czytanie..."
     },
     {
-      "title": "Człowiek dotrzymujący słowa: australijskie narzędzie do wykrywania sztucznej inteligencji uznało przemówienia papieża Leona za ludzkie",
+      "title": "Człowiek dotrzymujący słowa: australijskie narzędzie do wykrywania sztucznej inteligencji uznało przemówienia papieża Leona za człowieka",
       "url": "https://www.theguardian.com/world/2026/jul/21/pope-leo-speech-human-not-ai-artificial-intelligence",
       "date": "2026-07-21T06:29:57Z",
       "source": "The Guardian",
@@ -875,7 +875,7 @@
       "date": "2026-07-21T10:25:33Z",
       "source": "The New York Times",
       "confirmed_by": 2,
-      "summary": "Chiny stwierdziły, że nie był to agresor w tym epizodzie, który był ostatnim zaostrzeniem konfliktu na Morzu Południowochińskim między obydwoma krajami."
+      "summary": "Chiny stwierdziły, że to nie agresor wystąpił w tym epizodzie, który był ostatnim zaostrzeniem konfliktu na Morzu Południowochińskim między obydwoma krajami."
     },
     {
       "title": "Nowy premier Wielkiej Brytanii Burnham obiecuje nadzieję i zmiany. Przeszkody są wysokie.",
@@ -891,7 +891,7 @@
       "date": "2026-07-21T09:38:14Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Dziesiątki osób uznano za zaginione po powodzi, która przetoczyła się przez miasto w Nuristanie, odizolowanej prowincji na wschodzie kraju."
+      "summary": "Dziesiątki osób uznano za zaginione po powodziach, które przetoczyły się przez miasto w Nuristanie, odizolowanej prowincji na wschodzie kraju."
     },
     {
       "title": "Kiedy protestujący mówią, Zełenski słucha, zgodnie z ukraińską tradycją",
@@ -958,12 +958,12 @@
       "summary": "Kurtka Wilta Chamberlaina Lakers znaleziona przez nastolatka w sklepie z używaną odzieżą została sprzedana na aukcji AP News za ponad 89 000 dolarów."
     },
     {
-      "title": "Sędzia twierdzi, że Paramount i Warner muszą wstrzymać fuzję na co najmniej dwa tygodnie, przychylając się do wniosku stanów – AP News",
+      "title": "Sędzia stwierdza, że ​​Paramount i Warner muszą wstrzymać fuzję na co najmniej dwa tygodnie, przychylając się do wniosku stanów – AP News",
       "url": "https://apnews.com/article/warner-bros-paramount-injunction-361fa669019e0053cf6d4513e6e275e3",
       "date": "2026-07-20T20:40:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Sędzia stwierdził, że Paramount i Warner muszą wstrzymać fuzję na co najmniej dwa tygodnie, przychylając się do wniosku AP News."
+      "summary": "Sędzia stwierdził, że Paramount i Warner muszą wstrzymać fuzję na co najmniej dwa tygodnie, uwzględniwszy prośbę stanów AP News."
     },
     {
       "title": "Andy Burnham zostaje siódmym premierem Wielkiej Brytanii w ciągu dziesięciu lat po rezygnacji Starmera – AP News",
@@ -990,23 +990,31 @@
       "summary": "Francuscy prawodawcy ścigają się, aby wprowadzić zakaz korzystania z mediów społecznościowych poniżej 15 roku życia przed nowym rokiem szkolnym AP News."
     },
     {
+      "title": "Ukraina wystrzeliwuje 400 dronów w kierunku Moskwy, gdy Zełenski zmaga się z protestami – AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-drones-missiles-zelenskyy-f42baa61109fcb43b7efabf5334c4f50",
+      "date": "2026-07-20T13:44:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Ukraina wystrzeliwuje 400 dronów w kierunku Moskwy, gdy Zełenski zmaga się z protestami AP News."
+    },
+    {
       "title": "Indyjska policja użyła gazu łzawiącego, aby powstrzymać marsz zwolenników ruchu Karaluch na parlament – ​​AP News",
       "url": "https://apnews.com/article/india-cockroach-janta-party-sonam-wangchuk-hunger-strike-cbeb4773e89d67250f0bcad1670fcd38",
       "date": "2026-07-20T12:16:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Indyjska policja użyła gazu łzawiącego, aby powstrzymać marsz zwolenników ruchu Karaluch na parlament AP News."
-    },
-    {
-      "title": "Ukraina wystrzeliwuje 400 dronów w kierunku Moskwy, gdy Zełenski zmaga się z protestami – AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-drones-missiles-zelenskyy-f42baa61109fcb43b7efabf5334c4f50",
-      "date": "2026-07-20T08:50:21Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Ukraina wystrzeliwuje 400 dronów w kierunku Moskwy, gdy Zełenski zmaga się z protestami AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Dokumenty: Mercor, startup zajmujący się przetwarzaniem danych AI, osiągnął przychody brutto w wysokości 614 mln USD w pierwszej połowie 2026 r., co stanowi wzrost o 70% w porównaniu z całym 2025 r., z czego ~91% pochodzi od podstawowych twórców modeli, takich jak OpenAI i Anthropic (Informacje)",
+      "url": "https://www.techmeme.com/260721/p22#a260721p22",
+      "date": "2026-07-21T14:20:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Informacje: Dokumenty: Startup zajmujący się przetwarzaniem danych AI Mercor osiągnął przychody brutto w wysokości 614 mln USD w pierwszej połowie 2026 r., co oznacza wzrost o 70% w porównaniu z całym 2025 r., z czego ~91% pochodziło od podstawowych twórców modeli, takich jak OpenAI i Anthropic &mdash; Mercor, działający od trzech lat start-up zajmujący się przetwarzaniem danych, którego armia wykonawców uczy AI udzielania lepszych odpowiedzi, szybko się rozwija, ale w dużym stopniu opiera się na &hellip;."
+    },
     {
       "title": "Wkurzył się i zrobił stronę, gdzie najtaniej tankować. Sam korzystam",
       "url": "https://spidersweb.pl/2026/07/paliwomapa-ceny-paliw-tanie-tankowanie.html",
@@ -1125,7 +1133,7 @@
       "date": "2026-07-21T13:00:13Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Lily Mae Lazarus / Fortune: Współzałożyciel Databricks, Ion Stoica, start-up SkyPilot zajmujący się orkiestracją procesorów graficznych, którego celem jest zachowanie neutralności w stosunku do dostawców sprzętu i usług w chmurze, zebrał kapitał o wartości 20 milionów dolarów pod przewodnictwem Lux &mdash; Współzałożyciel Databricks, Ion Stoica, może na bieżąco wyjaśniać przedszkolakowi, co jego najnowszy startup robi."
+      "summary": "Lily Mae Lazarus / Fortune: Współzałożyciel Databricks, należący do Iona Stoica startup SkyPilot zajmujący się orkiestracją procesorów graficznych, którego celem jest zachowanie neutralności w stosunku do dostawców sprzętu i usług w chmurze, zebrał kapitał o wartości 20 mln dolarów pod przewodnictwem Lux &mdash; Współzałożyciel Databricks, Ion Stoica, może na bieżąco wyjaśniać przedszkolakowi, co jego najnowszy startup robi."
     },
     {
       "title": "Microsoft i Mistral podpisują wielomiliardową umowę na budowę europejskich centrów danych i integrację modeli Mistral z narzędziami Foundry, Copilot Studio i Azure Local (Belle Lin/Wall Street Journal)",
@@ -1133,7 +1141,7 @@
       "date": "2026-07-21T12:50:04Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Belle Lin / Wall Street Journal: Microsoft i Mistral podpisują wielomiliardową umowę na budowę europejskich centrów danych i integrację modeli Mistral z Foundry, Copilot Studio i Azure Local &mdash; &lsquo;Wielomilionowe&rsquo; pakt będzie wspierać centra danych Mistral w Europie, pomagając francuskiej firmie w sprzedaży modeli sztucznej inteligencji, a Microsoftowi usługi w zakresie chmury i sztucznej inteligencji."
+      "summary": "Belle Lin / Wall Street Journal: Microsoft i Mistral podpisują wielomiliardową umowę na budowę europejskich centrów danych i integrację modeli Mistral z Foundry, Copilot Studio i Azure Local &mdash; &lsquo;Wielomilionowe&rsquo; pakt będzie wspierał centra danych Mistral w Europie, pomagając francuskiej firmie w sprzedaży modeli sztucznej inteligencji, a Microsoftowi usługi w zakresie chmury i sztucznej inteligencji."
     },
     {
       "title": "Lenovo odświeża potężnego Legiona 9. W środku nowy procesor Core Ultra 9 i do 192 GB RAM",
@@ -1280,14 +1288,6 @@
       "summary": "Przez ponad wiek astronomowie próbowali wyjaśnić, dlaczego dawne relacje o Theta Eridani z gwiazdozbioru Erydanu opisują ją jako obiekt znacznie jaśniejszy niż wskazują współczesne pomiary. Nowe opracowanie sugeruje, że różnica może wynikać z wydarzeń w ciasnym układzie gwiazd, do których doszło w odległej przeszłości."
     },
     {
-      "title": "Jeden z najważniejszych projektów kosmicznych Europy. Polska właśnie do niego dołączyła",
-      "url": "https://spidersweb.pl/2026/07/iris2-polska.html",
-      "date": "2026-07-21T10:02:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Jeden z najważniejszych projektów kosmicznych Europy. Polska właśnie do niego dołączyła."
-    },
-    {
       "title": "Nawet nowe fabryki nie pomogą. ADATA kreśli czarny scenariusz dla RAM-u i SSD",
       "url": "https://www.benchmark.pl/nawet-nowe-fabryki-nie-pomoga-adata-kresli-czarny-scenariusz-dla-ram-u-i-ssd-7309832306681952a",
       "date": "2026-07-21T09:57:33Z",
@@ -1360,7 +1360,7 @@
       "summary": "Policjant z Pensylwanii oskarżony o ucisk i utrudnianie pracy."
     },
     {
-      "title": "Drony gaśnicze działają w obliczu pożarów, które nękają USA niemal przez cały rok",
+      "title": "Drony strażackie działają, ponieważ pożary nękają USA niemal przez cały rok",
       "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
       "date": "2026-07-20T21:55:52Z",
       "source": "Ars Technica",
@@ -1511,7 +1511,7 @@
       "date": "2026-07-21T10:45:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "I trwałoby dłużej, gdyby jakiś kod nie wszedł w miejsca, w których nie powinien."
+      "summary": "I trwałoby dłużej, gdyby jakiś kod nie wdeptał w miejsca, w których nie powinien."
     },
     {
       "title": "Inwestycyjna pułapka. CSIRT KNF ujawnia masową kampanię",
@@ -1538,7 +1538,7 @@
       "summary": "Rząd przeznaczył gigantyczne środki na ochronę polskich gmin, miast i województw przed cyberatakami. Kontrolerzy NIK-u ujawnili jednak poważne luki w projekcie „Cyberbezpieczny samorząd”. Okazuje się, że miliony złotych przyznawano bez realnego sprawdzenia potrzeb, a zakupiony sprzęt wykorzystywano do innych celów."
     },
     {
-      "title": "Niektórzy klienci Mullvad VPN wyprowadzają tunel po tym, jak współzałożyciel przekazał miliony na rzecz partii populistycznej",
+      "title": "Niektórzy klienci Mullvad VPN tunelują w celu wyjścia po tym, jak współzałożyciel przekazał miliony partii populistycznej",
       "url": "https://www.theregister.com/software/2026/07/21/some-mullvad-vpn-customers-tunnel-for-exit-after-co-founder-donates-millions-to-populist-party/5275012",
       "date": "2026-07-21T09:15:00Z",
       "source": "The Register",
@@ -1804,6 +1804,22 @@
   ],
   "finance": [
     {
+      "title": "Premier Węgier wyzywa Orbana na debatę. \"Nie bądźcie tchórzami\"",
+      "url": "https://www.bankier.pl/wiadomosc/Premier-Wegier-wyzywa-Orbana-na-debate-Nie-badzcie-tchorzami-9171242.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-07-21T14:21:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Premier Węgier Peter Magyar rzucił we wtorek wyzwanie swojemu poprzednikowi Viktorowi Orbanowi, zapraszając go do publicznej debaty podczas organizowanego w Rumunii obozu letniego jego partii - podała agencja MTI."
+    },
+    {
+      "title": "Analiza KGL: Biznes rusza w dobrą stronę, ale droga daleka - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/analiza-kgl-biznes-rusza-w-dobra-strone-ale-droga-daleka,akcje,376711",
+      "date": "2026-07-21T14:15:14Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 2,
+      "summary": "Analiza KGL: Biznes rusza w dobrą stronę, ale droga daleka stockwatch.pl."
+    },
+    {
       "title": "Polska zbrojeniówka ma przyspieszyć. Rząd wskazuje bariery i plan działania",
       "url": "https://www.bankier.pl/wiadomosc/Polska-zbrojeniowka-ma-przyspieszyc-Rzad-wskazuje-bariery-i-plan-dzialania-9171230.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-21T14:14:00Z",
@@ -1852,20 +1868,12 @@
       "summary": "Od kwietniowego wyroku TSUE do banków trafiło łącznie ok. 6,6 tys. reklamacji związanych ze stosowaniem sankcji kredytu darmowego, sądy wydały ok."
     },
     {
-      "title": "Dystrybucja czy korekta? Oppenheimer rekomenduje co kupić i sprzedać na Wall Street",
-      "url": "https://www.bankier.pl/wiadomosc/Oppenheimer-rekomenduje-co-kupic-i-sprzedac-na-Wall-Street-Nie-ma-obaw-o-dystrybucje-9171181.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-07-21T13:25:00Z",
+      "title": "Wielka Brytania zniesie VAT na prąd? Rząd chce obniżyć koszty życia",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-Brytania-zniesie-VAT-na-prad-Rzad-chce-obnizyc-koszty-zycia-9171207.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-07-21T13:37:00Z",
       "source": "Bankier.pl",
       "confirmed_by": 1,
-      "summary": "Inwestorzy z niepokojem patrzą na spadek dynamiki akcji spółek technologicznych w USA. Kursy już nie rosną jak kiedyś, a szeroki rynek obrał trend boczny, w którym znajduje się już od dwóch miesięcy. Analitycy Oppenheimera jednak uspokajają: to nie dystrybucja i ucieczka kapitału z giełd."
-    },
-    {
-      "title": "Trump wraca do polityki ceł. Dziesiątki krajów mogą zostać objęte taryfami",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-wraca-do-polityki-cel-Dziesiatki-krajow-moga-zostac-objete-taryfami-9171191.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-07-21T13:22:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Prezydent USA Donald Trump ma zamiar nałożyć nowe cła w wysokości 10 proc. na import z kilkudziesięciu krajów, mimo iż doradcy ostrzegają go przed rozpętaniem wojny handlowej przez listopadowymi wyborami do Kongresu - podaje we wtorek „Financial Times”."
+      "summary": "Brytyjski premier Andy Burnham zapowiedział we wtorek zniesienie VAT na rachunki za prąd. Ma to pomóc Brytyjczykom zmagającym się z wysokimi kosztami życia."
     },
     {
       "title": "Komunikat EBI BTCS SA (btcs): Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie - stockwatch.pl",
@@ -1874,6 +1882,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat EBI BTCS SA (btcs): Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie stockwatch.pl."
+    },
+    {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/tagi/lojalny-skrzydlowy-thunder",
+      "date": "2026-07-21T13:00:30Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Luksusowe apartamenty w Warszawie biją rekordy. Najważniejszy pozostaje niejawny adres - Forbes",
@@ -1900,12 +1916,12 @@
       "summary": "ZUS zmienia terminy wypłat dodatku pielęgnacyjnego w sierpniu. Oto nowy harmonogram Forsal.pl."
     },
     {
-      "title": "Notowania historyczne RBIFL5ATTP2 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania-historyczne/RBIFL5ATTP2",
-      "date": "2026-07-21T12:14:36Z",
+      "title": "Analiza techniczna OW20T263175 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/OW20T263175",
+      "date": "2026-07-21T12:04:34Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania historyczne RBIFL5ATTP2 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+      "summary": "Analiza techniczna OW20T263175 BiznesRadar."
     },
     {
       "title": "Trump ogłasza 50-proc. cła. Jest reakcja Kanady",
@@ -1980,12 +1996,12 @@
       "summary": "Sygnały analizy technicznej OW20H263525 BiznesRadar."
     },
     {
-      "title": "Wiadomości OW20V264050 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/OW20V264050",
-      "date": "2026-07-21T11:17:12Z",
+      "title": "Notowania historyczne OW20V264150 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania-historyczne/OW20V264150",
+      "date": "2026-07-21T11:17:07Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Wiadomości OW20V264050 BiznesRadar."
+      "summary": "Notowania historyczne OW20V264150 BiznesRadar."
     },
     {
       "title": "Polski dług rośnie szybko. Wyprzedziły nas tylko dwa kraje",
@@ -2028,12 +2044,12 @@
       "summary": "Inwestorka o tym, jak zbudowała swój majątek i w co dziś inwestuje Forbes."
     },
     {
-      "title": "Leopold Ryś - Forsal.pl",
-      "url": "https://forsal.pl/autor/113470,Leopold-Rys-113470",
-      "date": "2026-07-21T09:46:00Z",
-      "source": "Forsal.pl",
+      "title": "ONE2TRIBE [O2T] - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513904_ONE2TRIBE.aspx",
+      "date": "2026-07-21T09:55:00Z",
+      "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Leopold Ryś Forsal.pl."
+      "summary": "ONE2TRIBE [O2T] stockwatch.pl."
     },
     {
       "title": "Iran donosi, że zaatakował amerykańskiego giganta",
@@ -2060,28 +2076,12 @@
       "summary": "Stabilne źródło energii cieplnej w postaci pary wodnej stanowi fundament efektywności wielu procesów przemysłowych – od sterylizacji w zakładach spożywczych po napęd turbin w sektorze energetycznym. Kotły parowe stają się niezbędne wszędzie tam, gdzie wymagana jest precyzyjna kontrola temperatury i ciśnienia, a tradycyjne metody ogrzewania nie zapewniają wystarczającej wydajności. Czym jest kocioł parowy i jak wytwarza parę wodną dla przemysłu?"
     },
     {
-      "title": "Asbis bije własny rekord. 649 mln USD przychodów w czerwcu 2026 r. - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/asbis-bije-wlasny-rekord-649-mln-usd-przychodow-w-czerwcu-2026-r,akcje,376663",
-      "date": "2026-07-21T06:56:10Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Asbis bije własny rekord. 649 mln USD przychodów w czerwcu 2026 r. stockwatch.pl."
-    },
-    {
       "title": "17 spółek od DM BOŚ na sierpień 2026",
       "url": "https://strefainwestorow.pl/spolki/dmbos-monthly-raport-akcje-sierpien-inwestycje-portfel-gielda",
       "date": "2026-07-21T06:39:39Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "17 spółek od DM BOŚ na sierpień 2026 Seb Seb wt., 21.07.2026 Kanał Strefa Inwestorów #DM boś #monhly #raport #inwestycje #portfel #giełda #AB #Action #asbis #asseco #atrem #azoty #Polsat #handlowy #LPP #mbank #Neuca #orlen #PGE #toya #vercom #VRG Treść Analitycy DM BOŚ dołączyli jedną spółkę i usunęli trzy w portfelu potencjalnych faworytów na sierpień. Broker stawia na łącznie 17 walorów w drugiej części sezonu letniego.Najnowsze Polish Equities Monthly: 8/2026 nie przynosi takiego przemeblowania jak miesiąc wcześniej, kiedy do faworytów dołączyło aż 6 spółek. Niemniej zmiany w portfelu akcyjnym popularnego brokera są interesujące."
-    },
-    {
-      "title": "Komunikat EBI Milkpol SA (milkpol): Zmiana harmonogramu publikacji raportów okresowych - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/milkpol,zmiana-harmonogramu-publikacji-raportow-okres-2026-07-21,ebi,20260721_082613_0000004396",
-      "date": "2026-07-21T06:26:13Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat EBI Milkpol SA (milkpol): Zmiana harmonogramu publikacji raportów okresowych stockwatch.pl."
     },
     {
       "title": "Alert europejski: Krajobraz po rosyjskim gazie w Europie",
@@ -2433,7 +2433,7 @@
       "lng": 67.71,
       "type": "conflict",
       "region": "Afganistan",
-      "description": "Dziesiątki osób uznano za zaginione po powodzi, która przetoczyła się przez miasto w Nuristanie, odizolowanej prowincji na wschodzie kraju.",
+      "description": "Dziesiątki osób uznano za zaginione po powodziach, które przetoczyły się przez miasto w Nuristanie, odizolowanej prowincji na wschodzie kraju.",
       "url": "https://www.nytimes.com/2026/07/21/world/asia/afghanistan-floods-deaths-nuristan.html"
     },
     {
@@ -2441,7 +2441,7 @@
       "lng": 67.21,
       "type": "disaster",
       "region": "Afganistan",
-      "description": "Dziesiątki osób uznano za zaginione po powodzi, która przetoczyła się przez miasto w Nuristanie, odizolowanej prowincji na wschodzie kraju.",
+      "description": "Dziesiątki osób uznano za zaginione po powodziach, które przetoczyły się przez miasto w Nuristanie, odizolowanej prowincji na wschodzie kraju.",
       "url": "https://www.nytimes.com/2026/07/21/world/asia/afghanistan-floods-deaths-nuristan.html"
     },
     {
@@ -2758,51 +2758,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25850.33,
+      25853.06,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27022.73,
+      27025.58,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27170.7,
+      27173.57,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27417.34,
+      27420.23,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28057.48,
+      28060.44,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28093.77,
+      28096.74,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28340.15,
+      28343.14,
       27354.94,
       27400.36,
       27412.11,
-      28744.35,
+      28747.38,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27999.88,
+      28002.83,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28180.84,
+      28183.81,
       27686.17,
       27404.78,
       27351.97,
@@ -2811,7 +2811,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27887.18,
+      27890.12,
       27930.04,
       28234.04,
       28218.36,
@@ -2820,14 +2820,14 @@
       28294.39,
       28203.83,
       28555.17,
-      28726.64,
+      28729.67,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28280.31,
-      28225.66,
-      28383.76
+      28283.29,
+      28228.64,
+      28387.85
     ],
     "currency": "PLN"
   }
