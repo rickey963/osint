@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T20:36:28Z",
+  "last_updated": "2026-07-21T20:37:01Z",
   "poland": [
     {
       "title": "Dzieci poniżej 15. roku życia bez mediów społecznościowych. Rewolucja we Francji",
@@ -136,14 +136,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Gdyby doszło do rozpadu Prawa i Sprawiedliwości, ewentualna partia Mateusza Morawieckiego Rozwój Plus przekroczyłaby próg wyborczy i weszłaby do parlamentu - wynika z najnowszego sondażu pracowni Opinia24 dla \"Faktów\" TVN i TVN24. Sondaż pokazuje też, jak mocno taki scenariusz uderzyłby w notowania ugrupowania Jarosława Kaczyńskiego."
-    },
-    {
-      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
-      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
-      "date": "2026-07-21T18:11:56Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
     },
     {
       "title": "Monitor Polski z 21 lipca 2026 r. (poz. 720 - 721)",
@@ -312,6 +304,14 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Dwa tankowce przewożące saudyjską ropę zawróciły we wtorek na Morzu Czerwonym. Blokada ogłoszona dzień wcześniej przez jemeńskich Huti zacieśnia kontrolę Iranu nad światowymi dostawami energii."
+    },
+    {
+      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
+      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
+      "date": "2026-07-21T15:09:33Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
     },
     {
       "title": "Bronił nastolatka z Ukrainy, został brutalnie pobity. Policja zatrzymała dwóch mężczyzn",
@@ -593,7 +593,7 @@
       "date": "2026-07-21T15:57:29Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Ilość ziemi spalonej w największym lesie deszczowym świata była najmniejsza od czasu rozpoczęcia rejestracji MapBiomas w 1985 roku."
+      "summary": "Ilość ziemi spalonej w największym lesie deszczowym świata była najmniejsza od rozpoczęcia rejestracji MapBiomas w 1985 roku."
     },
     {
       "title": "Rafinerie narzucają handlarzom większą część wenezuelskiej ropy – Reuters",
@@ -779,7 +779,7 @@
       "date": "2026-07-21T20:09:47Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Akcja wywołała napięcie, ponieważ strony stawiały pierwsze kroki w ramach wynegocjowanej przez USA umowy o przekazaniu Libanie kontroli nad okupowanymi obszarami po miesiącach wojny."
+      "summary": "Akcja wywołała napięcie, ponieważ strony stawiały pierwsze kroki w ramach wynegocjowanej za pośrednictwem USA umowy o przekazaniu Libanie kontroli nad okupowanymi obszarami po miesiącach wojny."
     },
     {
       "title": "Reklama Netanjahu stosuje wątpliwą taktykę wobec pogrążonego w żałobie rywala",
@@ -971,7 +971,7 @@
       "date": "2026-07-20T20:40:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Sędzia stwierdził, że Paramount i Warner muszą wstrzymać fuzję na co najmniej dwa tygodnie, przychylając się do wniosku AP News."
+      "summary": "Sędzia stwierdził, że Paramount i Warner muszą wstrzymać fuzję na co najmniej dwa tygodnie, uwzględniwszy prośbę stanów AP News."
     },
     {
       "title": "Darline Graham twierdzi, że będzie ubiegać się o stanowisko Lindsey Graham w Senacie przez całą kadencję – AP News",
@@ -1189,7 +1189,7 @@
       "date": "2026-07-21T17:30:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Block: Block uruchamia Buzz, przestrzeń roboczą do współpracy typu open source w oparciu o protokół Nostr, umożliwiającą ludziom i agentom AI udostępnianie wiadomości, repozytoriów kodu, przepływów pracy i nie tylko &mdash; Open Source, zdecentralizowana technologia, programiści, sztuczna inteligencja, technologia &mdash; DZIŚ WYDAWAMY Buzz, DARMOWY &hellip;."
+      "summary": "Block: Block uruchamia Buzz, przestrzeń roboczą do współpracy typu open source w oparciu o protokół Nostr, umożliwiającą ludziom i agentom AI udostępnianie wiadomości, repozytoriów kodu, przepływów pracy i nie tylko &mdash; Open Source, zdecentralizowana technologia, programiści, sztuczna inteligencja, technologia &mdash; DZIŚ WYDAJEMY Buzz, DARMOWY &hellip;."
     },
     {
       "title": "Metallica korzysta z wynalazku Polaka. Czekał 300 lat na odkrycie",
@@ -1410,12 +1410,44 @@
   ],
   "cybersecurity": [
     {
+      "title": "Najnowszą zabawką przeciw dronom amerykańskiej piechoty morskiej jest wieża AI, która wykorzystuje zwykłe karabiny maszynowe",
+      "url": "https://www.theregister.com/offbeat/2026/07/21/us-marines-latest-anti-drone-toy-is-an-ai-turret-that-uses-regular-machine-guns/5275691",
+      "date": "2026-07-21T19:14:56Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Nie martw się – może autonomicznie atakować także cele naziemne."
+    },
+    {
       "title": "Apple naprawia błąd Ukryj mój e-mail, który ujawniał prawdziwe adresy w dziennikach poczty",
       "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
       "date": "2026-07-21T18:46:32Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Firma Apple podjęła działania w celu usunięcia luki w zabezpieczeniach swojej usługi Hide My Email, która umożliwiała demaskowanie prawdziwych adresów e-mail użytkowników, skutecznie podważając gwarancję prywatności zapewnianą przez tę funkcję. We wtorek serwis 404 Media poinformował, że rozwiązanie problemu zostało wdrożone przez firmę Apple 3 lipca 2026 r., po ponad roku, kiedy zostało ono ujawnione firmie przez Tylera Murphy’ego, współzałożyciela EasyOptOuts. Ukryj mój e-mail."
+    },
+    {
+      "title": "Iran twierdzi, że ponownie zaatakował placówkę AWS w Bahrajnie, która jest w trybie offline",
+      "url": "https://www.theregister.com/off-prem/2026/07/21/iran-says-its-struck-offline-aws-facility-in-bahrain-again/5275762",
+      "date": "2026-07-21T18:35:52Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Region me-suth-1 AWS jest niedostępny od miesięcy, co przypomina raczej pokonanie martwej chmury."
+    },
+    {
+      "title": "Oracle będzie musiał zapłacić roczny rachunek w wysokości 100 milionów dolarów za wsparcie obietnic dotyczących zasilania centrów danych w Wisconsin",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728",
+      "date": "2026-07-21T16:45:35Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Organ regulacyjny nie zgodził się na gwarancję wynoszącą 7 miliardów dolarów na kampus o mocy prawie 1 GW budowany przy użyciu Vantage i OpenAI."
+    },
+    {
+      "title": "Zestaw Kratos do phishingu jako usługi przegrywa walkę z międzynarodowymi organami ścigania",
+      "url": "https://www.theregister.com/security/2026/07/21/german-authorities-lead-takedown-of-kratos-phishing-platform/5275666",
+      "date": "2026-07-21T16:17:54Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Domniemany programista aresztowany w Indonezji po uszkodzeniu ponad 200 serwerów."
     },
     {
       "title": "Błąd AWS Kiro pozwala zatrutej stronie internetowej przepisać swój kod konfiguracyjny i uruchamiający",
@@ -1442,6 +1474,14 @@
       "summary": "We wtorek firma DeepMind firmy Google ogłosiła wypuszczenie Gemini 3.5 Flash Cyber, wyspecjalizowanego modelu sztucznej inteligencji (AI) zbudowanego na platformie 3.5 Flash, którego zadaniem jest szybkie i skuteczne wykrywanie, sprawdzanie poprawności i łatanie luk w zabezpieczeniach. Według technologicznego giganta model będzie dostępny wyłącznie dla rządów i zaufanych partnerów za pośrednictwem CodeMender w ramach pilotażu o ograniczonym dostępie."
     },
     {
+      "title": "Nvidia prezentuje platformę Very Rubin do tokenmaxxingu",
+      "url": "https://www.theregister.com/systems/2026/07/21/nvidia-shows-off-vera-rubin-platform-for-tokenmaxxing/5275316",
+      "date": "2026-07-21T15:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Jeśli Twoja fabryka AI sprzedaje tokeny, dlaczego nie zoptymalizować emisji tokenów?"
+    },
+    {
       "title": "Pirackie streamy z mundialu pod ostrzałem. Tysiące stron zniknęły z sieci",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/pirackie-streamy-z-mundialu-pod-ostrzalem-tysiace-stron-zniknely-z-sieci",
       "date": "2026-07-21T14:59:39Z",
@@ -1458,6 +1498,14 @@
       "summary": "Według watchTowr trzecia usterka w SharePoint Server załatana przez Microsoft w ramach aktualizacji Patch Tuesday z lipca 2026 r. jest aktywnie wykorzystywana. Luka, o której mowa, to CVE-2026-50522 (wynik CVSS: 9,8), krytyczna deserializacja niezaufanych danych w programie Microsoft Office SharePoint, która może umożliwić nieautoryzowanemu atakującemu wykonanie kodu przez sieć. Microsoft przyznał DEVCORE."
     },
     {
+      "title": "Menu Start systemu Windows 11 zmienia się w wersję beta, ruchomy pasek zadań nadal MIA",
+      "url": "https://www.theregister.com/os-platforms/2026/07/21/windows-11-start-menu-changes-trickle-into-beta-movable-taskbar-still-mia/5275549",
+      "date": "2026-07-21T14:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Użytkownicy prosili o elastyczność, ale w przypadku starszych komputerów cieńszy system operacyjny może mieć większe znaczenie w obliczu gwałtownego wzrostu cen sprzętu."
+    },
+    {
       "title": "Osoby atakujące ransomware Qilin wykorzystują obejście uwierzytelniania PAN-OS w ​​celu uzyskania początkowego dostępu",
       "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
       "date": "2026-07-21T14:04:57Z",
@@ -1466,12 +1514,44 @@
       "summary": "Zaobserwowano, że ugrupowania zagrażające wykorzystują obecnie załataną lukę w zabezpieczeniach PAN-OS Palo Alto Networks o wysokim poziomie ważności jako punkt wejścia do wdrażania oprogramowania ransomware Qilin (znanego również jako Agenda) w środowiskach ofiar. Arctic Wolf Labs stwierdziło, że zbadało wiele włamań, które miały miejsce w czerwcu 2026 r., które rozpoczęły się od wykorzystania CVE-2026-0257 (wynik CVSS: 7,8), czyli luki polegającej na obejściu uwierzytelniania wpływającej na portal i bramę."
     },
     {
+      "title": "Platforma muzyczna AI, Suno, notuje porażkę, ponieważ 55 milionów użytkowników zostało narażonych na naruszenie bezpieczeństwa danych, twierdzi ekspert ds. bezpieczeństwa informacji",
+      "url": "https://www.theregister.com/security/2026/07/21/breach-of-ai-music-platform-suno-affected-55m-user-accounts/5275514",
+      "date": "2026-07-21T13:45:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Have I Been Pwned po raz pierwszy potwierdza skalę."
+    },
+    {
       "title": "Zimbra łata krytyczne luki w zakresie wstrzykiwania poleceń SNMP i cztery luki XSS",
       "url": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
       "date": "2026-07-21T13:18:31Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Zimbra wprowadziła poprawki rozwiązujące wiele krytycznych problemów związanych z bezpieczeństwem, w tym błąd polegający na wstrzykiwaniu poleceń w komponencie monitorującym Simple Network Management Protocol (SNMP). W Zimbrze 10.1.20 załatano aż dziewięć luk w zabezpieczeniach. Na szczycie listy znajduje się luka umożliwiająca wstrzykiwanie poleceń w komponencie monitorowania SNMP, gdy włączone są powiadomienia SNMP."
+    },
+    {
+      "title": "Intel wzmacnia Foundry dzięki faktycznemu klientowi: Fortinet",
+      "url": "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374",
+      "date": "2026-07-21T13:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Producent zapór ogniowych stara się zabezpieczyć swoją niestandardową produkcję układów ASIC za pomocą rodzimego krzemu."
+    },
+    {
+      "title": "Monitory LG wykorzystują funkcję systemu Windows 11 do obsługi oprogramowania reklamowego",
+      "url": "https://www.theregister.com/personal-tech/2026/07/21/lg-monitors-are-using-windows-11-feature-to-serve-adware/5275486",
+      "date": "2026-07-21T12:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Podłącz nowy wyświetlacz i uzyskaj ofertę firmy McAfee, o którą nigdy nie prosiłeś."
+    },
+    {
+      "title": "Dział techniczny UK.gov otrzymuje dział po dwóch latach",
+      "url": "https://www.theregister.com/public-sector/2026/07/21/ukgovs-tech-department-gets-the-chop-after-two-years/5275573",
+      "date": "2026-07-21T12:06:41Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "RIP DSIT: Obowiązki związane z transformacją cyfrową przechodzą do odrodzonego DCMS, wraz z GDS."
     },
     {
       "title": "TikTok wybiela Chiny. Eksperci sprawdzili, co algorytm podsuwa Polakom",
@@ -1498,6 +1578,14 @@
       "summary": "Każdy patch jest wyznaniem. W momencie, gdy sprzedawca dostarcza poprawkę bezpieczeństwa, różnica między starym a nowym kodem mówi każdemu, kto dokładnie obserwuje, co i gdzie zostało zepsute. Zmień tę różnicę z powrotem w działający exploit i będziesz mógł trafić do każdego systemu, który jeszcze nie został zaktualizowany."
     },
     {
+      "title": "Steam Frame firmy Valve popycha Arch Linux w kierunku oficjalnego wsparcia dla Arm64",
+      "url": "https://www.theregister.com/os-platforms/2026/07/21/valves-steam-frame-pushes-arch-linux-toward-official-arm64-support/5275459",
+      "date": "2026-07-21T11:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Port Holo Core firmy Collabora stanowi podstawę do natywnego uruchomienia systemu SteamOS 3 na zestawie słuchawkowym."
+    },
+    {
       "title": "Nowy atak Bit2Watt może pozwolić najemcom chmury zakłócać sieci energetyczne bez wykorzystania exploitów",
       "url": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
       "date": "2026-07-21T11:24:50Z",
@@ -1514,6 +1602,14 @@
       "summary": "Komisja Europejska nałożyła na AliExpress karę w wysokości 550 mln euro za naruszenie Aktu o usługach cyfrowych (DSA). Platforma miała nierzetelnie oceniać i niewystarczająco ograniczać ryzyko sprzedaży nielegalnych, niebezpiecznych oraz podrobionych produktów."
     },
     {
+      "title": "Viking 1 wylądował na Marsie 50 lat temu",
+      "url": "https://www.theregister.com/science/2026/07/21/viking-1-landed-on-mars-50-years-ago/5275041",
+      "date": "2026-07-21T10:45:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "I trwałoby dłużej, gdyby jakiś kod nie wdeptał w miejsca, w których nie powinien."
+    },
+    {
       "title": "Inwestycyjna pułapka. CSIRT KNF ujawnia masową kampanię",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/inwestycyjna-pulapka-csirt-knf-ujawnia-masowa-kampanie",
       "date": "2026-07-21T10:42:25Z",
@@ -1522,12 +1618,28 @@
       "summary": "Fałszywe inwestycje coraz rzadziej przypominają nieudolne próby oszustwa. Rozbudowane zaplecze techniczne, dopasowane komunikaty i pozory profesjonalizmu sprawiają, że granica między wiarygodną ofertą a pułapką staje się dla użytkownika coraz trudniejsza do zauważenia. Eksperci z CSIRT KNF przyjrzeli się strukturze zaawansowanej, międzynarodowej kampanii phishingowej, nakreślając obraz infrastruktury, która umożliwia skalowanie ataków na niespotykaną dotąd skalę."
     },
     {
+      "title": "Gorące akceleratory AI spowodowały, że centra danych znalazły się w gorącej wodzie. Chłodzenie dwufazowe mogłoby je ochłodzić",
+      "url": "https://www.theregister.com/systems/2026/07/21/scalding-hot-ai-accelerators-have-put-datacenters-in-hot-water-two-phase-cooling-could-chill-them-out/5275293",
+      "date": "2026-07-21T10:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Startup Accelsius twierdzi, że może osiągnąć niższą temperaturę procesora graficznego nawet o 14° C, przekształcając chłodzony cieczą serwer Dell PowerEdge tak, aby działał na czynnikach chłodniczych."
+    },
+    {
       "title": "Ponad 1,5 mld zł na bezpieczeństwo samorządów. NIK ujawnia, na co poszły pieniądze",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/ponad-15-mld-zl-na-bezpieczenstwo-samorzadow-nik-ujawnia-na-co-poszly-pieniadze",
       "date": "2026-07-21T09:48:40Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Rząd przeznaczył gigantyczne środki na ochronę polskich gmin, miast i województw przed cyberatakami. Kontrolerzy NIK-u ujawnili jednak poważne luki w projekcie „Cyberbezpieczny samorząd”. Okazuje się, że miliony złotych przyznawano bez realnego sprawdzenia potrzeb, a zakupiony sprzęt wykorzystywano do innych celów."
+    },
+    {
+      "title": "Niektórzy klienci Mullvad VPN tunelują w celu wyjścia po tym, jak współzałożyciel przekazał miliony partii populistycznej",
+      "url": "https://www.theregister.com/software/2026/07/21/some-mullvad-vpn-customers-tunnel-for-exit-after-co-founder-donates-millions-to-populist-party/5275012",
+      "date": "2026-07-21T09:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Prezent o wartości 5 mln koron szwedzkich zapewnił 72 procent rocznego dochodu Örebropartiet, ale firma upiera się, że był to prezent wyłącznie osobisty."
     },
     {
       "title": "Czy open-source wystarczy do zapewnienia zgodności z NIS2/KSC2?",
@@ -1544,6 +1656,14 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Atakujący zaczęli wykorzystywać dwie krytyczne luki w zabezpieczeniach WordPress, które po połączeniu umożliwiają nieuwierzytelnione zdalne wykonanie kodu (RCE) i całkowite naruszenie luk w witrynach internetowych podatnych na ataki. Dwie luki w zabezpieczeniach, oznaczone jako CVE-2026-63030 i CVE-2026-60137, otrzymały nazwę kodową wp2shell. „Wczesnym rankiem w sobotę (UTC) udana eksploatacja była już w dobrym stanie."
+    },
+    {
+      "title": "Zbliża się dzień sądu w sprawie modernizacji wojskowej łączności satelitarnej Skynet w Wielkiej Brytanii za 8,35 miliarda funtów",
+      "url": "https://www.theregister.com/public-sector/2026/07/21/judgment-day-looms-for-uks-835b-skynet-military-satellite-comms-upgrade/5275060",
+      "date": "2026-07-21T08:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Potknięcia dostawców i niedobory kadrowe Ministerstwa Obrony przyznają programowi czerwoną ocenę dostawy."
     },
     {
       "title": "Nowe oprogramowanie ransomware ENCFORGE atakuje pliki modeli AI w ataku Langflow RCE",
@@ -1714,6 +1834,14 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Kanclerz RFN Friedrich Merz rozmawiał we wtorek w Berlinie z prezydentem Azerbejdżanu Ilhamem Alijewem o zwiększeniu dostaw gazu z tego kaukaskiego kraju do Niemiec. Baku uznał za interesującego partnera przy zapewnianiu bezpieczeństwa energetycznego."
+    },
+    {
+      "title": "Siemens - Forbes",
+      "url": "https://www.forbes.pl/siemens_omp",
+      "date": "2026-07-21T18:14:29Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Siemens Forbes."
     },
     {
       "title": "PiS stawia ultimatum. Morawiecki i jego ludzie mają czas do czwartku. \"Stowarzyszenie albo partia\"",
@@ -2044,14 +2172,6 @@
       "summary": "Gdańsk Forbes."
     },
     {
-      "title": "Co zostaje z firmy, kiedy odbierzesz jej produkt? „Przedsiębiorcy często zadają sobie niewłaściwe pytania” [FELIETON] - Forbes",
-      "url": "https://www.forbes.pl/opinie/co-zostaje-z-firmy-kiedy-odbierzesz-jej-produkt-tomasz-osman-o-sile-marki/2q5mz90",
-      "date": "2026-07-20T14:37:38Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Co zostaje z firmy, kiedy odbierzesz jej produkt? „Przedsiębiorcy często zadają sobie niewłaściwe pytania” [FELIETON] Forbes."
-    },
-    {
       "title": "Chcemy aby HANetf stał się w Polsce znacznie bardziej rozpoznawalnym dostawcą funduszy ETF, mówi Head of European Sales Andre Voinea",
       "url": "https://strefainwestorow.pl/wywiady/hanetf-etf-polska-gielda-",
       "date": "2026-07-20T14:35:35Z",
@@ -2140,8 +2260,8 @@
       "lng": -2.5,
       "type": "cyber",
       "region": "Wielka Brytania",
-      "description": "Rozwój sztucznej inteligencji coraz wyraźniej zmienia strukturę zatrudnienia i zapotrzebowanie na kompetencje w Londynie.",
-      "url": "https://cyberdefence24.pl/polityka-i-prawo/sztuczna-inteligencja-zmienia-rynek-pracy-londyn-odpowiada-planem"
+      "description": "Potknięcia dostawców i niedobory kadrowe Ministerstwa Obrony przyznają programowi czerwoną ocenę dostawy.",
+      "url": "https://www.theregister.com/public-sector/2026/07/21/judgment-day-looms-for-uks-835b-skynet-military-satellite-comms-upgrade/5275060"
     },
     {
       "lat": 6.42,
@@ -2268,7 +2388,7 @@
       "lng": 19.1,
       "type": "cyber",
       "region": "Szwecja",
-      "description": "Prezent o wartości 5 mln koron szwedzkich zapewnił 72 procent rocznego dochodu Örebropartiet, ale firma upiera się, że był to cel wyłącznie osobisty.",
+      "description": "Prezent o wartości 5 mln koron szwedzkich zapewnił 72 procent rocznego dochodu Örebropartiet, ale firma upiera się, że był to prezent wyłącznie osobisty.",
       "url": "https://www.theregister.com/software/2026/07/21/some-mullvad-vpn-customers-tunnel-for-exit-after-co-founder-donates-millions-to-populist-party/5275012"
     },
     {
@@ -2630,51 +2750,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25865.33,
+      25866.01,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27038.41,
+      27039.12,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27186.46,
+      27187.18,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27433.25,
+      27433.97,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28073.76,
+      28074.5,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28110.07,
+      28110.81,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28356.59,
+      28357.34,
       27354.94,
       27400.36,
       27412.11,
-      28761.02,
+      28761.78,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28016.13,
+      28016.86,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28197.19,
+      28197.93,
       27686.17,
       27404.78,
       27351.97,
@@ -2683,7 +2803,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27903.36,
+      27904.09,
       27930.04,
       28234.04,
       28218.36,
@@ -2692,14 +2812,14 @@
       28294.39,
       28203.83,
       28555.17,
-      28743.3,
+      28744.06,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28296.71,
+      28297.46,
       28242.11,
-      28492.16
+      28492.91
     ],
     "currency": "PLN"
   }
