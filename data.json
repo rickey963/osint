@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T07:03:23Z",
+  "last_updated": "2026-07-21T07:03:59Z",
   "poland": [
     {
       "title": "Morawiecki wydał oświadczenie. Zaapelował do środowisk prawicowych - Polskie Radio 24",
@@ -128,14 +128,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "W Warszawie doszło do ataku dzika. Mężczyzna został ugryziony przez zwierzę na terenie prywatnej posesji i trafił do szpitala. Dzik został uśpiony, ponieważ uznano, że może stwarzać zagrożenie dla mieszkańców i interweniujących w sprawie służb."
-    },
-    {
-      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
-      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
-      "date": "2026-07-21T06:02:37Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
     },
     {
       "title": "Komentarz Jana Rokity zablokowany przez „Sieci”. „Powstrzymać Czarnka”",
@@ -386,6 +378,14 @@
       "summary": "DZIEŃ NA FX/FI: Złoty powinien się konsolidować w przedziale 4,31-4,35/EUR PAP Biznes."
     },
     {
+      "title": "Zadłużenie Skarbu Państwa na koniec czerwca wzrosło o 2,5 proc. mdm do ok. 2.189,3 mld zł - MF - PAP Biznes",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/zadluzenie-skarbu-panstwa-na-koniec-czerwca-wzroslo-o-25-proc-mdm-do-ok-21893",
+      "date": "2026-07-20T13:11:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Zadłużenie Skarbu Państwa na koniec czerwca wzrosło o 2,5 proc. mdm do ok. 2.189,3 mld zł - MF PAP Biznes."
+    },
+    {
       "title": "Lekarz z Braniewa pracował więcej godzin niż liczy miesiąc. \"Nikt nie zatrzymał tych rozliczeń\" - Polskie Radio 24",
       "url": "https://polskieradio24.pl/polityka/pracowal-wiecej-godzin-niz-liczy-miesiac-nikt-nie-zatrzymal-tych-rozliczen",
       "date": "2026-07-20T13:07:26Z",
@@ -404,12 +404,12 @@
   ],
   "world_security": [
     {
-      "title": "Iran przyznaje się do ataków na statki w cieśninie Ormuz w związku z nowymi atakami USA – kryzys na Bliskim Wschodzie na żywo",
+      "title": "Iran przyznaje się do ataków na statki w cieśninie Ormuz w ramach świeżych ataków USA – kryzys na Bliskim Wschodzie na żywo",
       "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
       "date": "2026-07-21T06:51:54Z",
       "source": "The Guardian",
       "confirmed_by": 2,
-      "summary": "Gwardia Rewolucyjna twierdzi, że atakuje tankowiec i dwa inne statki, podczas gdy Stany Zjednoczone przeprowadzają ataki po raz dziesiąty z rzędu. Pełny raport: Pentagon przyznaje, że w ostatnich tygodniach prawie 100 żołnierzy zostało rannych, gdy Iran rozpoczyna represje wobec sojuszników USA. Armia libańska zaczęła rozmieszczać żołnierzy do wioski na południu Libanu, aby przejąć kontrolę nad bezpieczeństwem w tak zwanej „strefie pilotażowej”, według Reutersa, cytując funkcjonariusza bezpieczeństwa. Libańscy żołnierze udają się do Zawtar al-Gharbiyeh jako jeden z pierwszych obszarów testowanych w ramach programu strefy pilotażowej w ramach umowy ramowej między Libanem a Izraelem, w której pośredniczyły Stany Zjednoczone. Jak ogłosił wczoraj departament stanu USA, dwie inne wsie – Froun i Srifa – również przeprowadzą próbę wdrożenia programu. Kontynuuj czytanie..."
+      "summary": "Gwardia Rewolucyjna twierdzi, że atakuje tankowiec i dwa inne statki, podczas gdy Stany Zjednoczone przeprowadzają ataki po raz dziesiąty z rzędu. Pełny raport: W ostatnich tygodniach prawie 100 żołnierzy zostało rannych, przyznaje Pentagon, gdy Iran rozpoczyna represje wobec sojuszników USA. Armia libańska zaczęła rozmieszczać żołnierzy do wioski na południu Libanu, aby przejąć kontrolę nad bezpieczeństwem w tak zwanej „strefie pilotażowej”, według Reutersa, cytując funkcjonariusza bezpieczeństwa. Libańscy żołnierze udają się do Zawtar al-Gharbiyeh jako jeden z pierwszych obszarów testowanych w ramach programu strefy pilotażowej w ramach umowy ramowej między Libanem a Izraelem, w której pośredniczyły Stany Zjednoczone. Jak ogłosił wczoraj Departament Stanu USA, dwie inne wsie – Froun i Srifa – również przeprowadzą próbę wdrożenia programu. Kontynuuj czytanie..."
     },
     {
       "title": "Wiadomości z Australii na żywo: Nastolatek z Perth aresztowany po rzekomym zadźganiu matki nożem; W czwartek wiktoriańscy nauczyciele strajkują",
@@ -417,10 +417,10 @@
       "date": "2026-07-21T06:50:54Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Śledź dzisiejsze wiadomości na żywoOtrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami W alpejskich ośrodkach narciarskich w Nowej Południowej Walii i Wiktorii w weekend pobito rekordy klimatyczne, a maksymalne temperatury były nawet o 12°C wyższe od średniej.Ośrodki narciarskie Mount Hotham i Falls Creek ustanowiły lipcowe rekordy pod względem najgorętszych temperatur w dzień i w nocy, a według Biura Meteorologii Thredbo również ustanowiło nowy, najgorętszy dzień lipca. Chcemy, aby więcej australijskich pomysłów zostało skomercjalizowanych, więcej australijskich technologii wdrożono globalnie, a w większym stopniu czerpać z wartości ekonomicznej wykorzystywanej tutaj, w kraju. Kontynuuj czytanie..."
+      "summary": "Śledź dzisiejsze wiadomości na żywoOtrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami W alpejskich ośrodkach narciarskich w Nowej Południowej Walii i Wiktorii w weekend pobito rekordy klimatyczne, a maksymalne temperatury były nawet o 12°C wyższe od średniej.Ośrodki narciarskie Mount Hotham i Falls Creek ustanowiły lipcowe rekordy pod względem najgorętszych temperatur w dzień i w nocy, a według Biura Meteorologii Thredbo również ustanowiło nowy, najgorętszy dzień lipca. Chcemy, aby więcej australijskich pomysłów zostało skomercjalizowanych, więcej australijskich technologii wdrożono globalnie, a w większym stopniu z wartości ekonomicznej wykorzystywanej tutaj, w kraju. Kontynuuj czytanie..."
     },
     {
-      "title": "Człowiek dotrzymujący słowa: australijskie narzędzie do wykrywania sztucznej inteligencji uznało przemówienia papieża Leona za człowieka",
+      "title": "Człowiek dotrzymujący słowa: australijskie narzędzie do wykrywania sztucznej inteligencji uznało przemówienia papieża Leona za ludzkie",
       "url": "https://www.theguardian.com/world/2026/jul/21/pope-leo-speech-human-not-ai-artificial-intelligence",
       "date": "2026-07-21T06:29:57Z",
       "source": "The Guardian",
@@ -465,7 +465,7 @@
       "date": "2026-07-21T05:02:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "W miarę jak Rosja rozmieszcza Shahedy o napędzie odrzutowym, firmy zwracają się w stronę szybszych dronów przechwytujących Reuters."
+      "summary": "W miarę jak Rosja wdraża Shahedy o napędzie odrzutowym, firmy zwracają się w stronę szybszych dronów przechwytujących Reuters."
     },
     {
       "title": "Porady dotyczące głosowania w wyborach od chatbotów AI „niedokładne i niewiarygodne”",
@@ -473,7 +473,7 @@
       "date": "2026-07-21T05:00:01Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Badania przeprowadzone podczas wyborów na Węgrzech pokazują, że sztuczna inteligencja rekomendowała partie, aby nie kandydowały i dawała bardzo zmienne odpowiedzi na identyczne podpowiedzi. Chatboty AI udzielają wyborcom niedokładnych, niespójnych i niewiarygodnych wskazówek, pytając, którą partię powinni poprzeć, jak sugeruje badanie, często polecając niewłaściwą partię, nie wspominając o właściwej lub wymieniając partie, które nawet nie kandydują. „Wyniki budzą poważne obawy co do niezawodności systemów sztucznej inteligencji ogólnego przeznaczenia w kontekście wyborczym” – wynika z badania opublikowanego przez grupę ds. wolności obywatelskich Liberties i opartego na badaniach przeprowadzonych podczas tegorocznej edycji węgierskiej wybory parlamentarne dobiegły końca. Kontynuuj czytanie..."
+      "summary": "Badania przeprowadzone podczas wyborów na Węgrzech pokazują, że sztuczna inteligencja rekomendowała partie, aby nie kandydowały i dawała bardzo zmienne odpowiedzi na identyczne podpowiedzi. Chatboty AI udzielają wyborcom niedokładnych, niespójnych i niewiarygodnych wskazówek, pytając, którą partię powinni poprzeć, jak sugeruje badanie, często polecając niewłaściwą partię, nie wspominając o właściwej lub wymieniając partie, które nawet nie startują. „Wyniki budzą poważne obawy co do niezawodności systemów sztucznej inteligencji ogólnego przeznaczenia w kontekście wyborczym” – wynika z badania opublikowanego przez grupę ds. wolności obywatelskich Liberties i opartego na badaniach przeprowadzonych podczas tegorocznej edycji węgierskiej wybory parlamentarne dobiegły końca. Kontynuuj czytanie..."
     },
     {
       "title": "Chiny wzywają ambasadora Filipin w związku ze spotkaniem na Morzu Południowochińskim – Reuters",
@@ -489,7 +489,7 @@
       "date": "2026-07-21T04:55:37Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "W raporcie tymczasowym nie udało się wykazać „powiązania” pomiędzy kwestiami dotyczącymi ochrony dziecka a okolicznościami prowadzącymi do rzekomego morderstwa pięciolatki. • Ostrzeżenie: ta historia zawiera odniesienia do zmarłych rdzennych Australijczyków. Śledź nasz blog z wiadomościami na żywo z Australii, aby uzyskać najnowsze aktualizacje. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Matka Kumanjayi Little Baby została „skutecznie” pozostawiona sama sobie, aby chronić swoje dzieci, doświadczając jednocześnie przemocy domowej, ponieważ organy ds. ochrony dzieci nie oceniły odpowiednio wielu zagrożeń dla niej bezpieczeństwa, jak stwierdzono w projekcie przeglądu. Jednak w raporcie tymczasowym złożonym we wtorek w parlamencie stwierdzono, że pomimo tych wniosków w przeglądzie nie udało się wykazać związku między skierowaniem wniosków w sprawie ochrony dziecka a śmiercią pięcioletniej dziewczynki Warlpiri. Kontynuuj czytanie..."
+      "summary": "W raporcie tymczasowym nie udało się wykazać „powiązania” między kwestiami dotyczącymi ochrony dziecka a okolicznościami prowadzącymi do rzekomego morderstwa pięciolatki. • Ostrzeżenie: ta historia zawiera odniesienia do zmarłych rdzennych Australijczyków. Śledź nasz blog z wiadomościami na żywo z Australii, aby uzyskać najnowsze aktualizacje. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Matka Kumanjayi Little Baby została „skutecznie” pozostawiona sama sobie, aby chronić swoje dzieci, doświadczając jednocześnie przemocy domowej, ponieważ organy ds. ochrony dzieci nie oceniły odpowiednio wielu zagrożeń dla niej bezpieczeństwa, jak stwierdzono w projekcie przeglądu. Jednak w raporcie tymczasowym złożonym we wtorek w parlamencie stwierdzono, że pomimo tych wniosków w przeglądzie nie udało się wykazać związku między skierowaniem wniosków w sprawie ochrony dziecka a śmiercią pięcioletniej dziewczynki Warlpiri. Kontynuuj czytanie..."
     },
     {
       "title": "Poranna oferta: ropa przebija sztuczną inteligencję – Reuters",
@@ -513,7 +513,7 @@
       "date": "2026-07-21T04:18:09Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Zgoda rządu Albanii na rozbudowę gazu na szelfie północno-zachodnim jest kwestionowana przez Australijską Fundację Ochrony Środowiska i Przyjaciół Australijskiej Sztuki Naskalnej Decyzja rządu Albanii o zatwierdzeniu jednego z największych projektów gazowych na świecie w Australii Zachodniej jest kwestionowana w sądzie federalnym, ustanawiając istotny test tego, jak australijskie prawo ochrony środowiska radzi sobie z kryzysem klimatycznym. Australijska Fundacja Ochrony Środowiska (ACF) i Przyjaciele Australijskiej Sztuki Naskalnej (Fara) wnoszą w tym tygodniu równoległe skargi sądowe przeciwko zatwierdzeniu przedłużenia Największy projekt eksportu gazu z szelfu północno-zachodniego firmy Woodside. Kontynuuj czytanie..."
+      "summary": "Zgoda rządu Albanii na rozbudowę gazu na szelfie północno-zachodnim jest kwestionowana przez Australijską Fundację Ochrony Środowiska i Przyjaciół Australijskiej Sztuki Naskalnej Decyzja rządu Albanii o zatwierdzeniu jednego z największych projektów gazowych na świecie w Australii Zachodniej jest kwestionowana w sądzie federalnym, ustanawiając istotny test tego, jak australijskie prawo ochrony środowiska radzi sobie z kryzysem klimatycznym. Australijska Fundacja Ochrony Środowiska (ACF) i Przyjaciele Australijskiej Sztuki Naskalnej (Fara) wnoszą w tym tygodniu równoległe skargi sądowe przeciwko zatwierdzeniu przedłużenia Główny projekt eksportu gazu z szelfu północno-zachodniego firmy Woodside. Kontynuuj czytanie..."
     },
     {
       "title": "Pentagon przyznaje, że w ostatnich tygodniach prawie 100 żołnierzy zostało rannych, gdy Iran rozpoczyna represje wobec sojuszników USA",
@@ -561,7 +561,7 @@
       "date": "2026-07-21T02:02:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Giełdy w Azji odbijają się od fali mediacji na Bliskim Wschodzie, która powoduje spadek cen ropy Reuters."
+      "summary": "Giełdy w Azji odbijają się, gdy mediacja na Bliskim Wschodzie powoduje spadek cen ropy Reuters."
     },
     {
       "title": "Ceny ropy spadają, gdy wysiłki mediacyjne równoważą strajki USA-Iran – Reuters",
@@ -569,7 +569,7 @@
       "date": "2026-07-21T01:04:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Ceny ropy spadają w wyniku wysiłków mediacyjnych równoważących strajki USA-Iran Reuters."
+      "summary": "Ceny ropy spadają, gdy wysiłki mediacyjne równoważą strajki USA-Iran Reuters."
     },
     {
       "title": "Sri Lanka wykorzystuje drony sił powietrznych do walki z rozprzestrzeniającą się epidemią dengi – Reuters",
@@ -633,7 +633,7 @@
       "date": "2026-07-20T22:51:05Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Blokada Houthi na Morzu Czerwonym podniosłaby ceny ropy, ale obejścia mogą ograniczyć wpływ Reuters."
+      "summary": "Blokada Houthi na Morzu Czerwonym podniesie ceny ropy, ale obejścia mogą ograniczyć wpływ Reuters."
     },
     {
       "title": "„Grupy frontowe i towarzysze podróży”: Departament Stanu atakuje Stany Zjednoczone pozostawione nad Kubą",
@@ -673,7 +673,7 @@
       "date": "2026-07-20T20:19:46Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Dyplomaci twierdzą, że rozmowy o deeskalacji są kontynuowane, ponieważ Trump przysięga odwet za śmierć amerykańskich żołnierzy na żywo Kryzys na Bliskim Wschodzie – najnowsze aktualizacje Wojsko amerykańskie poinformowało, że rozpoczęło 10. z rzędu rundę ataków na Iran, aby wymusić ponowne otwarcie cieśniny Ormuz. Wcześniej w poniedziałek prezydent Iranu powiedział, że kraj jest pogrążony w „wojnie na pełną skalę” po tym, jak Stany Zjednoczone rozszerzyły swoją kampanię powietrzną, a Teheran uderzył w sojuszników z Zatoki Waszyngtonu, co nawet twierdzili dyplomaci rozmowy na temat deeskalacji były kontynuowane. Kontynuuj czytanie..."
+      "summary": "Dyplomaci twierdzą, że rozmowy o deeskalacji są kontynuowane, po tym jak Trump przysięga odwet za śmierć amerykańskich żołnierzy na żywo Kryzys na Bliskim Wschodzie – najnowsze aktualizacje Wojsko amerykańskie poinformowało, że rozpoczęło 10. z rzędu rundę ataków na Iran, aby wymusić ponowne otwarcie cieśniny Ormuz. Wcześniej w poniedziałek prezydent Iranu powiedział, że kraj jest pogrążony w „wojnie na pełną skalę” po tym, jak Stany Zjednoczone rozszerzyły swoją kampanię powietrzną, a Teheran uderzył w sojuszników z Zatoki Waszyngtonu, co nawet powiedzieli dyplomaci rozmowy na temat deeskalacji były kontynuowane. Kontynuuj czytanie..."
     },
     {
       "title": "Sędzia wstrzymał fuzję Paramount i Warner Bros",
@@ -766,7 +766,7 @@
   ],
   "world_politics": [
     {
-      "title": "Podejrzewane ataki irańskie były wymierzone w armię amerykańską w co najmniej 4 krajach.",
+      "title": "Podejrzewa się, że irańskie ataki były wymierzone w armię amerykańską w co najmniej 4 krajach.",
       "url": "https://www.nytimes.com/live/2026/07/20/world/iran-war-strikes-trump-hormuz/suspected-iranian-strikes-have-targeted-us-military-in-at-least-four-countries",
       "date": "2026-07-21T06:24:45Z",
       "source": "The New York Times",
@@ -883,7 +883,7 @@
       "date": "2026-07-20T23:08:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Władze AP News podają, że pięciu członków rodziny zginęło po gwałtownej powodzi w malowniczym kanionie w stanie Utah."
+      "summary": "Władze podają AP News, że pięciu członków rodziny zginęło po gwałtownej powodzi w malowniczym kanionie w stanie Utah."
     },
     {
       "title": "Kurtka Wilt Chamberlain Lakers znaleziona przez nastolatka w sklepie z używaną odzieżą została sprzedana na aukcji za ponad 89 000 dolarów - AP News",
@@ -923,7 +923,7 @@
       "date": "2026-07-20T20:38:54Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Płomienie pełzały, a następnie pomknęły w kierunku niczego niepodejrzewających mieszkańców, którzy uciekli z odległych części północno-zachodniego Ontario. Teraz chcą wiedzieć, dlaczego urzędnicy nie byli przygotowani."
+      "summary": "Płomienie pełzały, a następnie pomknęły w stronę niczego niepodejrzewających mieszkańców, którzy uciekli z odległych części północno-zachodniego Ontario. Teraz chcą wiedzieć, dlaczego urzędnicy nie byli przygotowani."
     },
     {
       "title": "Rubio mówi, że Stany Zjednoczone są nadal otwarte na dyplomację z Iranem",
@@ -947,7 +947,7 @@
       "date": "2026-07-20T19:54:20Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Wielu mieszkańców enklawy popierało Hiszpanię, która uznała państwowość palestyńską. Argentyna cieszyła się dużym poparciem wśród izraelskich fanów piłki nożnej."
+      "summary": "Wielu mieszkańców enklawy wspierało Hiszpanię, która uznała państwowość palestyńską. Argentyna cieszyła się dużym poparciem wśród izraelskich fanów piłki nożnej."
     },
     {
       "title": "Andy Burnham zostaje siódmym premierem Wielkiej Brytanii w ciągu dziesięciu lat po rezygnacji Starmera – AP News",
@@ -1261,7 +1261,7 @@
       "date": "2026-07-20T23:40:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Axe Sharma / BleepingComputer: Badacze odkryli ucieczki z piaskownicy lub obejścia granic w programach Cursor, Codex, Gemini CLI i Antigravity, zapisując pliki zaufanych narzędzi, których później użyją; większość z nich została załatana &mdash; Badacze bezpieczeństwa wyszli z piaskownicy w czterech powszechnie używanych agentach kodujących AI, w tym Cursor, Codex &hellip; OpenAI."
+      "summary": "Axe Sharma / BleepingComputer: Badacze odkryli ucieczki z piaskownicy lub obejścia granic w Cursor, Codex, Gemini CLI i Antigravity, zapisując pliki zaufanych narzędzi, których później użyją; większość z nich została załatana &mdash; Badacze bezpieczeństwa wyszli z piaskownicy w czterech powszechnie używanych agentach kodujących AI, w tym Cursor, Codex &hellip; OpenAI."
     },
     {
       "title": "Założyciel Jellyfin, Andrew, opuszcza zespół",
@@ -1280,7 +1280,7 @@
       "summary": "Policjant z Pensylwanii oskarżony o ucisk i utrudnianie pracy."
     },
     {
-      "title": "Drony strażackie działają, ponieważ pożary nękają USA niemal przez cały rok",
+      "title": "Drony gaśnicze działają w obliczu pożarów, które nękają USA niemal przez cały rok",
       "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
       "date": "2026-07-20T21:55:52Z",
       "source": "Ars Technica",
@@ -1495,7 +1495,7 @@
       "date": "2026-07-20T16:01:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "OOXML może posiadać certyfikat ISO, ale można mieć pewność, że tylko Office będzie prawidłowo go renderował."
+      "summary": "OOXML może posiadać certyfikat ISO, ale można mieć pewność, że tylko pakiet Office będzie poprawnie go renderował."
     },
     {
       "title": "Paryż i Berlin zacieśniają sojusz. Wojsko, satelity i cyfrowa suwerenność",
@@ -1578,7 +1578,7 @@
       "summary": "Co najmniej jedna rosyjska służba wywiadowcza systematycznie porywa podłączone do Internetu kamery bezpieczeństwa w Europie i na Ukrainie, wykorzystując kanały do ​​śledzenia tras transportu wojskowego, dostaw broni zmierzających do Kijowa oraz lokalizacji ukraińskich żołnierzy. Takie wnioski płyną z poradnika dotyczącego cyberbezpieczeństwa opublikowanego 10 lipca przez AIVD i MIVD, holenderski wywiad cywilny i wojskowy."
     },
     {
-      "title": "Ekspert Infosec: Dane użytkowników płatnych usług ujawnione po wyrzuceniu do Internetu bazy danych zawierającej 23 miliony rekordów",
+      "title": "Ekspert Infosec: Dane użytkowników płatnej pracy ujawnione po wyrzuceniu do Internetu bazy danych zawierającej 23 miliony rekordów",
       "url": "https://www.theregister.com/cyber-crime/2026/07/20/infosec-expert-paidwork-users-data-pwned-after-23m-record-database-dumped-online/5274869",
       "date": "2026-07-20T12:00:00Z",
       "source": "The Register",
@@ -1615,7 +1615,7 @@
       "date": "2026-07-20T10:31:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Jeden z największych projektów technologicznych Partii Pracy ląduje w koszu, gdy Burnham zmienia priorytety Whitehall."
+      "summary": "Jeden z największych projektów technologicznych Partii Pracy zmierza do kosza, gdy Burnham zmienia priorytety Whitehall."
     },
     {
       "title": "Hakerzy polują na polskie fabryki i sektor kosmiczny. Rusza budowa specjalnego zespołu",
@@ -1940,6 +1940,14 @@
       "summary": "Wojsko wkracza do szkół. Łukaszenka wysyła dzieci do koszar Forsal.pl."
     },
     {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/szczyt-nato;polacy,14?strona=2",
+      "date": "2026-07-21T00:46:17Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
       "title": "pkfinancial-limited.net — czy ktoś już u nich handluje? - stockwatch.pl",
       "url": "https://www.stockwatch.pl/forum/wpisy-12605_pkfinanciallimitednet--czy-ktos-juz-u-nich-handluje.aspx",
       "date": "2026-07-21T00:42:04Z",
@@ -1956,12 +1964,12 @@
       "summary": "Certyfikat INTLJSW99010 - Analiza techniczna stockwatch.pl."
     },
     {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/famur;rekomendacje,62",
-      "date": "2026-07-21T00:35:46Z",
-      "source": "Forsal.pl",
+      "title": "Opcja OW20T263825 - Analiza techniczna - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/opcja/ow20t263825,analiza-techniczna.aspx",
+      "date": "2026-07-21T00:09:08Z",
+      "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
+      "summary": "Opcja OW20T263825 - Analiza techniczna stockwatch.pl."
     },
     {
       "title": "Notowania RBIFL4ING1 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
@@ -1970,14 +1978,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania RBIFL4ING1 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
-    },
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/rafako;ropa-naftowa,28",
-      "date": "2026-07-20T21:23:55Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Komunikat ESPI HiProMine Spółka Akcyjna (hipromine): Złożenie wniosku o restrukturyzację finansowania - stockwatch.pl",
@@ -2012,14 +2012,6 @@
       "summary": "Generalny Inspektor Informacji Finansowej (GIIF) zarejestrował w 2025 r. 11 071 zgłoszeń podejrzanych transakcji, o 36 proc. więcej niż rok wcześniej."
     },
     {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/wojna-w-syrii,8?strona=13",
-      "date": "2026-07-20T16:49:38Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
-    },
-    {
       "title": "Aut z wtyczką szybko przybywa. Hybrydy plug-in wyprzedziły pełne elektryki",
       "url": "https://300gospodarka.pl/news/samochody-elektryczne-lipiec-2026-nowe-dane-psnm-i-pzpm",
       "date": "2026-07-20T16:47:20Z",
@@ -2036,20 +2028,12 @@
       "summary": "Notowania historyczne OBS1132 GMINA OBORNIKI SLASKIE BiznesRadar."
     },
     {
-      "title": "Sygnały analizy technicznej RBIFS3MBK3 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/RBIFS3MBK3",
-      "date": "2026-07-20T15:25:04Z",
+      "title": "Notowania INTLNVD99424 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/INTLNVD99424",
+      "date": "2026-07-20T14:51:36Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Sygnały analizy technicznej RBIFS3MBK3 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
-    },
-    {
-      "title": "EXCELLENC [EXC] - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513886_EXCELLENC.aspx",
-      "date": "2026-07-20T15:00:00Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "EXCELLENC [EXC] stockwatch.pl."
+      "summary": "Notowania INTLNVD99424 INGBANK BiznesRadar."
     },
     {
       "title": "Notowania INTSALE99325 INGBANK - BiznesRadar",
@@ -2114,6 +2098,22 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Gospodarka Forsal.pl."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/rubel;inflacja,23",
+      "date": "2026-07-20T13:09:03Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/tagi/andy-burnham",
+      "date": "2026-07-20T12:53:05Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Po mistrzostwach. FIFA zarobiła, a Trump chciał być gwiazdą za wszelką cenę - Forbes",
@@ -2233,7 +2233,7 @@
       "lng": -2.5,
       "type": "cyber",
       "region": "Wielka Brytania",
-      "description": "Jeden z największych projektów technologicznych Partii Pracy ląduje w koszu, gdy Burnham zmienia priorytety Whitehall.",
+      "description": "Jeden z największych projektów technologicznych Partii Pracy zmierza do kosza, gdy Burnham zmienia priorytety Whitehall.",
       "url": "https://www.theregister.com/public-sector/2026/07/20/uks-seventh-prime-minister-in-a-decade-says-hell-ditch-digital-id-scheme/5274794"
     },
     {
@@ -2397,7 +2397,7 @@
           "source": "The New York Times"
         },
         {
-          "title": "Iran przyznaje się do ataków na statki w cieśninie Ormuz w związku z nowymi atakami USA – kryzys na Bliskim Wschodzie na żywo",
+          "title": "Iran przyznaje się do ataków na statki w cieśninie Ormuz w ramach świeżych ataków USA – kryzys na Bliskim Wschodzie na żywo",
           "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
           "source": "The Guardian"
         }
@@ -2408,7 +2408,7 @@
       "score": 21,
       "reasons": [
         {
-          "title": "Iran przyznaje się do ataków na statki w cieśninie Ormuz w związku z nowymi atakami USA – kryzys na Bliskim Wschodzie na żywo",
+          "title": "Iran przyznaje się do ataków na statki w cieśninie Ormuz w ramach świeżych ataków USA – kryzys na Bliskim Wschodzie na żywo",
           "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
           "source": "The Guardian"
         },
@@ -2424,7 +2424,7 @@
       "score": 12,
       "reasons": [
         {
-          "title": "Iran przyznaje się do ataków na statki w cieśninie Ormuz w związku z nowymi atakami USA – kryzys na Bliskim Wschodzie na żywo",
+          "title": "Iran przyznaje się do ataków na statki w cieśninie Ormuz w ramach świeżych ataków USA – kryzys na Bliskim Wschodzie na żywo",
           "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
           "source": "The Guardian"
         }
@@ -2624,51 +2624,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25835.67,
+      25832.67,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27007.41,
+      27004.28,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27155.29,
+      27152.14,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27401.79,
+      27398.61,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28041.57,
+      28038.32,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28077.84,
+      28074.58,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28324.08,
+      28320.79,
       27354.94,
       27400.36,
       27412.11,
-      28728.05,
+      28724.71,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27984.01,
+      27980.76,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28164.86,
+      28161.59,
       27686.17,
       27404.78,
       27351.97,
@@ -2677,7 +2677,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27871.37,
+      27868.13,
       27930.04,
       28234.04,
       28218.36,
@@ -2686,13 +2686,13 @@
       28294.39,
       28203.83,
       28555.17,
-      28710.35,
+      28707.02,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28264.27,
-      28209.66
+      28260.99,
+      28206.38
     ],
     "currency": "PLN"
   }
