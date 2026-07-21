@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T02:19:08Z",
+  "last_updated": "2026-07-21T02:23:59Z",
   "poland": [
     {
       "title": "Jakub Jaworowski, BGK: Musimy być jak lodołamacz i torować drogę polskim firmom",
@@ -1410,46 +1410,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Atakujący wykorzystują krytyczną lukę w WordPressie, aby stworzyć wszelkiego rodzaju szkody",
-      "url": "https://www.theregister.com/security/2026/07/20/attackers-pummel-critical-wordpress-vuln-to-create-all-sorts-of-mischief/5275265",
-      "date": "2026-07-20T21:57:51Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Plus dziesiątki PoC w domenie publicznej."
-    },
-    {
-      "title": "Oszuści podszywają się pod FBI w mediach społecznościowych i żerują na ofiarach przestępstw",
-      "url": "https://www.theregister.com/security/2026/07/20/scammers-impersonate-fbi-on-social-media-prey-on-crime-victims/5275224",
-      "date": "2026-07-20T20:10:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "IC3 twierdzi, że każde konto podające się za jego reprezentację jest fałszywe."
-    },
-    {
-      "title": "Klient AWS na własnej skórze uczy się, że nawet najmniejsze niedopatrzenie może mieć krytyczne znaczenie dla jego działalności",
-      "url": "https://www.theregister.com/off-prem/2026/07/20/aws-customer-learns-the-hard-way-how-even-the-smallest-oversight-can-be-mission-critical/5275089",
-      "date": "2026-07-20T19:37:16Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Wygasła karta, nadgorliwy filtr antyspamowy i zepsuty moduł uwierzytelniający powodują spustoszenie z bardzo wyraźnym morałem."
-    },
-    {
-      "title": "Złośliwi klienci korzystający z chmury mogą uszkodzić sieć energetyczną",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/20/malicious-cloud-customers-can-bring-down-the-power-grid/5275193",
-      "date": "2026-07-20T19:15:59Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Centra danych zwykle opodatkowują media, więc wyobraź sobie, co by zrobiły, gdyby obciążenia zostały zaprojektowane tak, aby niszczyć."
-    },
-    {
-      "title": "Frontierowe firmy LLM nie mogły pomóc Hugging Face w walce ze złymi agentami",
-      "url": "https://www.theregister.com/cyber-crime/2026/07/20/frontier-llms-couldnt-help-hugging-face-fight-off-evil-agents/5275168",
-      "date": "2026-07-20T18:46:47Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Chiński model GLM 5.2 z otwartą wagą chętnie zobowiązany."
-    },
-    {
       "title": "Kampania FakeGit wykorzystuje 7600 repozytoriów GitHub do rozprzestrzeniania złośliwego oprogramowania SmartLoader",
       "url": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
       "date": "2026-07-20T18:23:03Z",
@@ -1466,28 +1426,12 @@
       "summary": "Operator złośliwego oprogramowania pozostawił swój serwer dostarczający szeroko otwarty, a Rapid7 pobrał cały zestaw narzędzi: 1048 plików obejmujących szablony przynęt, testy fałszowania nazw plików, eksperymenty wykonawcze, droppery, notatki konstruktora i dwa łańcuchy kampanii. Jeden z nich działał już przeciwko użytkownikom systemu Windows w Meksyku i dostarczał złodzieja informacji za pośrednictwem fałszywej rządowej witryny wyszukiwania identyfikatorów za pośrednictwem protokołu WebDAV. Co sprawia, że ​​jest to coś więcej niż a."
     },
     {
-      "title": "Organizacja Document Foundation twierdzi, że formaty plików Microsoftu trzymają użytkowników na krótkiej smyczy",
-      "url": "https://www.theregister.com/applications/2026/07/20/the-document-foundation-says-microsofts-file-formats-keep-users-on-a-short-leash/5274960",
-      "date": "2026-07-20T16:01:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "OOXML może posiadać certyfikat ISO, ale można mieć pewność, że tylko Office będzie prawidłowo go renderował."
-    },
-    {
       "title": "Paryż i Berlin zacieśniają sojusz. Wojsko, satelity i cyfrowa suwerenność",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/paryz-i-berlin-zaciesniaja-sojusz-wojsko-satelity-i-cyfrowa-suwerennosc",
       "date": "2026-07-20T15:15:22Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Niemcy i Francja przyjęły wspólną deklarację polityczną, zapowiadając zacieśnienie strategicznego partnerstwa. Paryż i Berlin stawiają na budowę europejskiej autonomii – od wspólnych misji wojskowych i rozwoju broni dalekiego zasięgu, po niezależne systemy chmurowe i sztuczną inteligencję na potrzeby obronności."
-    },
-    {
-      "title": "Kalendarze Microsoft 365 stają się szpiegowskimi skrzynkami wrzutowymi w kampanii HOLLOWGRAPH",
-      "url": "https://www.theregister.com/security/2026/07/20/microsoft-365-calendars-become-spy-drop-boxes-in-hollowgraph-campaign/5274982",
-      "date": "2026-07-20T14:59:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Złośliwe oprogramowanie ukrywa polecenia podczas spotkań zaplanowanych na rok 2050 i wykorzystuje własną chmurę Redmond, aby dzwonić do domu."
     },
     {
       "title": "Niezależność z rosyjskimi powiązaniami. Kontrowersje wokół Passworka",
@@ -1506,14 +1450,6 @@
       "summary": "Nowo odkryty implant szpiegowski wykorzystuje porwany kalendarz Microsoft 365 jako kanał poleceń, umieszcza instrukcje dla operatorów i przemyca skradzione pliki jako załączniki do wydarzeń w kalendarzu datowanych na rok 2050. Group-IB, która nazwała szkodliwe oprogramowanie HollowGraph, twierdzi, że w ten sposób zadania i skradzione dane są przenoszone przez legalny ruch API Microsoft Graph, na co wygląda aktywność."
     },
     {
-      "title": "Usługi Windows Server Update Services uginają się pod górą metadanych Microsoftu",
-      "url": "https://www.theregister.com/systems/2026/07/20/windows-server-update-services-buckle-under-microsofts-metadata-mountain/5274843",
-      "date": "2026-07-20T14:14:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "W Redmond ustabilizowano liczbę nowych instalacji, ale istniejące wdrożenia nadal utknęły w czyśćcu synchronizacji."
-    },
-    {
       "title": "Rząd zaleca: włącz radio w razie wojny lub kryzysu. Pułapka „cichych pasm”, o której mało się mówi",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/rzad-zaleca-wlacz-radio-w-razie-wojny-lub-kryzysu-pulapka-cichych-pasm-o-ktorej-malo-sie-mowi",
       "date": "2026-07-20T14:02:01Z",
@@ -1530,36 +1466,12 @@
       "summary": "Pojedyncza prośba nie powinna zdziałać tak wiele. Jednak w tym tygodniu niewielkie nakłady doprowadziły do ​​wykonania kodu, utraty pamięci, kradzieży kluczy i wyłączenia narzędzi bezpieczeństwa. Ścieżki były często proste: odsłonięte systemy, słabe kontrole, stare sterowniki, fałszywe monity i kod publiczny używany do dostarczania złośliwego oprogramowania."
     },
     {
-      "title": "Unijne przepisy dotyczące etykietowania sztucznej inteligencji wejdą w życie w przyszłym miesiącu",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/20/eus-ai-labeling-rules-take-effect-next-month/5274917",
-      "date": "2026-07-20T13:27:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Chatboty i agenci będą musieli wyjaśnić, z kim – lub czym – rozmawiają użytkownicy."
-    },
-    {
-      "title": "Patrzenie, jak świat płonie, gdy wszystkie pieniądze wpływają do wartej wiele bilionów dolarów Magic 8 Ball",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/20/watching-the-world-burn-as-all-the-money-flows-into-a-multitrillion-dollar-magic-8-ball/5274553",
-      "date": "2026-07-20T12:44:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "W tym tygodniu w odcinku The Kettle witamy gościa specjalnego, który omawia, jak rozbudowa centrum danych AI podpala świat – dosłownie."
-    },
-    {
       "title": "Rosyjski wywiad włamuje się do kamer IP, aby szpiegować logistykę wojskową w państwach NATO i na Ukrainie",
       "url": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
       "date": "2026-07-20T12:13:39Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Co najmniej jedna rosyjska służba wywiadowcza systematycznie porywa podłączone do Internetu kamery bezpieczeństwa w Europie i na Ukrainie, wykorzystując kanały do ​​śledzenia tras transportu wojskowego, dostaw broni zmierzających do Kijowa oraz lokalizacji ukraińskich żołnierzy. Takie wnioski płyną z poradnika dotyczącego cyberbezpieczeństwa opublikowanego 10 lipca przez AIVD i MIVD, holenderski wywiad cywilny i wojskowy."
-    },
-    {
-      "title": "Ekspert Infosec: Dane użytkowników płatnych usług ujawnione po wyrzuceniu do Internetu bazy danych zawierającej 23 miliony rekordów",
-      "url": "https://www.theregister.com/cyber-crime/2026/07/20/infosec-expert-paidwork-users-data-pwned-after-23m-record-database-dumped-online/5274869",
-      "date": "2026-07-20T12:00:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "HIBP twierdzi, że wyciekły informacje, w tym numery kont bankowych, historie wypłat i dane osobowe."
     },
     {
       "title": "Mity nie złamały Twojego programu bezpieczeństwa. Twoje okno ekspozycji może.",
@@ -1570,36 +1482,12 @@
       "summary": "Branża spędziła pierwsze miesiące po ujawnieniu Mythos przez Anthropic 7 kwietnia, skupiając się na wolumenie. Ile nowych CVE dodałby Mythos do już przeciążonego rurociągu? Jak szybko zalew odkryć opartych na sztucznej inteligencji przytłoczy możliwości selekcji?"
     },
     {
-      "title": "Microsoft spieszy się z poprawką systemu Windows dla przegrzanych i problematycznych komputerów Dell",
-      "url": "https://www.theregister.com/os-platforms/2026/07/20/microsoft-rushes-out-windows-fix-for-dells-hot-and-bothered-pcs/5274810",
-      "date": "2026-07-20T11:15:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Mimo wszystko za machnięciem różdżki dotknięte modele pójdą na bal Patch Tuesday."
-    },
-    {
       "title": "NIK bije na alarm. Polskie dzieci nie są bezpieczne w sieci",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/nik-bije-na-alarm-polskie-dzieci-nie-sa-bezpieczne-w-sieci",
       "date": "2026-07-20T10:54:10Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Pomimo podjętych działań, nadal nie wdrożono rozwiązań skutecznie wspierających ochronę dzieci i młodzieży w sieci – wynika z raportu NIK po kontroli w Ministerstwie Cyfryzacji. Według dokumentu, projekty ustaw „przygotowywane od lat” nie weszły w życie, zaś dotychczasowa współpraca z innymi instytucjami nie przyniosła wymiernych efektów. Działania informacyjno-edukacyjne powinny z kolei być oceniane pod kątem skuteczności i brać pod uwagę odpowiedzialność rodziców."
-    },
-    {
-      "title": "Siódmy premier Wielkiej Brytanii w ciągu dekady zapowiada, że ​​porzuci system identyfikacji cyfrowej",
-      "url": "https://www.theregister.com/public-sector/2026/07/20/uks-seventh-prime-minister-in-a-decade-says-hell-ditch-digital-id-scheme/5274794",
-      "date": "2026-07-20T10:31:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Jeden z największych projektów technologicznych Partii Pracy ląduje w koszu, gdy Burnham zmienia priorytety Whitehall."
-    },
-    {
-      "title": "Poważny błąd w Matrixie wynikający z projektów rządowych Wielkiej Brytanii, w ramach których organy nadzoru oceniają czerwone klastry usług wspólnych",
-      "url": "https://www.theregister.com/public-sector/2026/07/20/major-glitch-in-matrix-as-uk-government-projects-watchdog-rates-shared-services-cluster-red/5274368",
-      "date": "2026-07-20T10:00:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Remont systemu ERP w dziewięciu działach uznano za nieosiągalny bez pilnych działań."
     },
     {
       "title": "Hakerzy polują na polskie fabryki i sektor kosmiczny. Rusza budowa specjalnego zespołu",
@@ -1616,14 +1504,6 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Trudno wyobrazić sobie współczesny internet bez WordPressa. Ten blogowy system zarządzania treścią z czasem stał się potężnym narzędziem, z którego korzystają nawet najwięksi gracze. Różne dane wskazują, że udział WordPressa w rynku od lat oscyluje w okolicach 60%."
-    },
-    {
-      "title": "Airbus leci z AWS. To, co stanie się później, jest krytyczne",
-      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-      "date": "2026-07-20T09:15:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Którędy znowu do Krainy Wolności?"
     },
     {
       "title": "Nowa luka w zabezpieczeniach 7-Zip może pozwolić spreparowanym archiwom XZ na uruchomienie kodu podczas wyodrębniania",
@@ -1940,20 +1820,20 @@
       "summary": "EXCELLENC [EXC] stockwatch.pl."
     },
     {
+      "title": "Notowania INTLNVD99424 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/INTLNVD99424",
+      "date": "2026-07-20T14:51:36Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania INTLNVD99424 INGBANK BiznesRadar."
+    },
+    {
       "title": "Notowania INTSALE99325 INGBANK - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/INTSALE99325",
       "date": "2026-07-20T14:51:36Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania INTSALE99325 INGBANK BiznesRadar."
-    },
-    {
-      "title": "Notowania INTSALE99408 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/INTSALE99408",
-      "date": "2026-07-20T14:51:36Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania INTSALE99408 INGBANK BiznesRadar."
     },
     {
       "title": "Gdańsk - Forbes",
@@ -1970,14 +1850,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "PORTFEL konkursowy STOCKWATCH 2026 - Indywidualne kroniki giełdowe - Forum StockWatch.pl stockwatch.pl."
-    },
-    {
-      "title": "Notowania INTLBCO99499 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/INTLBCO99499",
-      "date": "2026-07-20T14:42:58Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania INTLBCO99499 INGBANK BiznesRadar."
     },
     {
       "title": "Wyniki S&P 500 rosną, ale tolerancja dla negatywnych zaskoczeń maleje - stockwatch.pl",
@@ -2004,14 +1876,6 @@
       "summary": "Chcemy aby HANetf stał się w Polsce znacznie bardziej rozpoznawalnym dostawcą funduszy ETF, mówi Head of European Sales Andre Voinea Seb Seb pon., 20.07.2026 Kanał Strefa Inwestorów HANetf ETF GPW giełda inwestycje Treść HANetf koncentruje się na tematycznych strategiach akcyjnych, które powinny cieszyć się dużym zainteresowaniem inwestorów indywidualnych, ale pracuje też nad poszerzeniem oferty produktów związanych z kryptowalutami, mówi w rozmowie ze Strefą Inwestorów Head of European Sales Andre Voinea.Strefa Inwestorów: Czy mógłby Pan szerzej opowiedzieć o planach dotyczących dalszej współpracy z Giełdą Papierów Wartościowych w Warszawie?Andre Voinea, Head of European Sales, HANetf: Od trzech lat bardzo dobrze współpracujemy z Giełdą Papierów Wartościowych w Warszawie. Zaczynaliśmy od jednego produktu, dwa lata później wprowadziliśmy do notowań ETF inwestujący w globalny sektor obronny, a dziś obserwujemy wyraźne przyspieszenie rozwoju polskiego rynku ETF-ów. Właśnie dlatego zdecydowaliśmy się wprowadzić do obrotu kolejnych osiem funduszy ETF.Koncentrujemy się na tematycznych strategiach akcyjnych, które – naszym zdaniem – będą cieszyć się dużym zainteresowaniem inwestorów indywidualnych."
     },
     {
-      "title": "Notowania INTLDNP99465 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/INTLDNP99465",
-      "date": "2026-07-20T14:17:37Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania INTLDNP99465 INGBANK BiznesRadar."
-    },
-    {
       "title": "Te auta kupuje się na Ukrainie. Rządzą crossovery i Porsche",
       "url": "https://www.money.pl/mobility/te-auta-kupuje-sie-na-ukrainie-rzadza-crossovery-i-porsche-7309530086819872a.html",
       "date": "2026-07-20T14:15:26Z",
@@ -2036,6 +1900,14 @@
       "summary": "Pasażerowie linii lotniczych w Unii Europejskiej zachowają prawo do odszkodowania za lot opóźniony o co najmniej trzy godziny, a przewoźnicy będą musieli uprościć składanie wniosków. Nowe przepisy obejmą też bezpłatne miejsca dla dzieci obok opiekunów, zakaz automatycznego anulowania lotu powrotnego oraz większą przejrzystość cen biletów. Regulacje wejdą w życie rok i 20 dni po publikacji w Dzienniku Urzędowym UE."
     },
     {
+      "title": "Notowania FCHFV26 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/FCHFV26",
+      "date": "2026-07-20T13:45:02Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania FCHFV26 BiznesRadar."
+    },
+    {
       "title": "Gospodarka - Forsal.pl",
       "url": "https://forsal.pl/tagi/rubel;inflacja,23",
       "date": "2026-07-20T13:09:03Z",
@@ -2050,6 +1922,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat EBI Partner-Nieruchomości SA (partner): Zawarcie, zmiana treści, wypowiedzenie, rozwiązanie lub wygaśnięcie umowy o wykonywanie zadań Autoryzowanego Doradcy stockwatch.pl."
+    },
+    {
+      "title": "PHR Quantum planuje debiut na GPW - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149463,phr-quantum-planuje-debiut-na-gpw",
+      "date": "2026-07-20T13:04:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "PHR Quantum planuje debiut na GPW BiznesRadar."
     },
     {
       "title": "Zmiany w \"Czystym Powietrzu\". Większe dotacje od dziś",
