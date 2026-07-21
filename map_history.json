@@ -6,25 +6,25 @@
     "region": "Ukraina",
     "description": "Liczba zabitych i rannych cywilów w wojnie Rosji przeciwko Ukrainie wzrosła w pierwszej połowie 2026 roku o 37 proc.",
     "url": "https://wiadomosci.gazeta.pl/swiat/7,198077,32924155,rosnie-liczba-cywilnych-ofiar-wojny-w-ukrainie-najtragiczniejszy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
     "lng": 34.47,
     "type": "conflict",
     "region": "Strefa Gazy / Izrael",
-    "description": "Gwardia Rewolucyjna twierdzi, że atakuje tankowiec i dwa inne statki, podczas gdy Stany Zjednoczone przeprowadzają ataki po raz dziesiąty z rzędu.",
-    "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "description": "Palestyńczycy obawiają się, że wał ziemny oddzielający okupowaną przez Izrael część Strefy Gazy przekształci się w nową stałą granicę.",
+    "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32924089,izrael-buduje-23-kilometrowy-wal-ziemny-w-gazie-palestynczycy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "conflict|Iran": {
     "lat": 32.43,
     "lng": 53.69,
     "type": "conflict",
     "region": "Iran",
-    "description": "Gwardia Rewolucyjna twierdzi, że atakuje tankowiec i dwa inne statki, podczas gdy Stany Zjednoczone przeprowadzają ataki po raz dziesiąty z rzędu.",
-    "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "description": "Amerykanie i Irańczycy wymieniają się kolejnymi ciosami.",
+    "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32924220,trump-oceniony-przez-wlasny-wywiad-wojna-z-iranem-to-zaklety.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "cyber|Polska": {
     "lat": 52.5,
@@ -33,7 +33,7 @@
     "region": "Polska",
     "description": "Sztuczna inteligencja wkracza na wschodnią granicę.",
     "url": "https://cyberdefence24.pl/armia-i-sluzby/wojsko-polskie/sztuczna-inteligencja-straznikiem-polskich-granic-zacznie-sie-od-wschodu",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "cyber|Rosja": {
     "lat": 62.0,
@@ -42,7 +42,7 @@
     "region": "Rosja",
     "description": "Samotny, rosyjskojęzyczny ugrupowanie cyberprzestępcze znane jako „bandcampro” zlecił część swoich działań sztucznej inteligencji (AI) Gemini CLI firmy Google o otwartym kodzie źródłowym i przejął działający botnet.",
     "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "disaster|Stany Zjednoczone": {
     "lat": 39.3,
@@ -60,7 +60,7 @@
     "region": "Wielka Brytania",
     "description": "Potknięcia dostawców i niedobory kadrowe Ministerstwa Obrony przyznają programowi czerwoną ocenę dostawy.",
     "url": "https://www.theregister.com/public-sector/2026/07/21/judgment-day-looms-for-uks-835b-skynet-military-satellite-comms-upgrade/5275060",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "conflict|Wenezuela": {
     "lat": 6.42,
@@ -69,7 +69,7 @@
     "region": "Wenezuela",
     "description": "Po niszczycielskich trzęsieniach ziemi w Wenezueli Winder i Deivi Delfín codziennie przez 26 dni kopali, aby znaleźć ciała swojej matki, brata i babci.",
     "url": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "disaster|Wenezuela": {
     "lat": 5.92,
@@ -78,7 +78,7 @@
     "region": "Wenezuela",
     "description": "Po niszczycielskich trzęsieniach ziemi w Wenezueli Winder i Deivi Delfín codziennie przez 26 dni kopali, aby znaleźć ciała swojej matki, brata i babci.",
     "url": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "conflict|Syria": {
     "lat": 34.8,
@@ -123,7 +123,7 @@
     "region": "Ukraina",
     "description": "Rosyjski wywiad wykorzystuje kamery z dostępem do internetu do cyfrowego szpiegostwa – ostrzegają holenderskie służby.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/rosjanie-szpieguja-europe-przez-kamery-na-liscie-rowniez-polska",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "critical|Stany Zjednoczone": {
     "lat": 39.5,
@@ -168,7 +168,7 @@
     "region": "Jemen",
     "description": "Huti twierdzą, że embargo rozpoczyna się natychmiast i jest odpowiedzią na saudyjską blokadę portów i lotnisk w Jemenie.",
     "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "cyber|Francja": {
     "lat": 47.1,
@@ -177,7 +177,7 @@
     "region": "Francja",
     "description": "Niemcy i Francja przyjęły wspólną deklarację polityczną, zapowiadając zacieśnienie strategicznego partnerstwa.",
     "url": "https://cyberdefence24.pl/polityka-i-prawo/paryz-i-berlin-zaciesniaja-sojusz-wojsko-satelity-i-cyfrowa-suwerennosc",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "cyber|Meksyk": {
     "lat": 24.1,
@@ -186,7 +186,7 @@
     "region": "Meksyk",
     "description": "Operator złośliwego oprogramowania pozostawił swój serwer dostarczający szeroko otwarty, a Rapid7 pobrał cały zestaw narzędzi: 1048 plików obejmujących szablony przynęt, testy fałszowania nazw plików, eksperymenty wykonawcze, droppery, notatki konstruktora i dwa łańcuchy kampanii.",
     "url": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "conflict|Korea Północna": {
     "lat": 40.34,
@@ -195,7 +195,7 @@
     "region": "Korea Północna",
     "description": "Ich determinacja w walce o wolność umocniła się podczas pandemii, kiedy borykali się z paraliżującym niedoborem żywności i zmuszeni byli być świadkami częstych publicznych egzekucji.",
     "url": "https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "critical|Ukraina": {
     "lat": 48.080000000000005,
@@ -213,7 +213,7 @@
     "region": "Liban",
     "description": "Gwardia Rewolucyjna twierdzi, że atakuje tankowiec i dwa inne statki, podczas gdy Stany Zjednoczone przeprowadzają ataki po raz dziesiąty z rzędu.",
     "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "cyber|Rumunia": {
     "lat": 46.4,
@@ -222,7 +222,7 @@
     "region": "Rumunia",
     "description": "Cały rejestr katastralny Rumunii miał przestać istnieć po tym, jak cyberprzestępca zaszyfrował dane na serwerach, ale nie otrzymał okupu od Narodowej Agencji ds.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/chaos-na-rynku-nieruchomosci-w-rumunii-cyberatak-na-narodowa-agencje",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "cyber|Belgia": {
     "lat": 51.3,
@@ -231,7 +231,7 @@
     "region": "Belgia",
     "description": "Najwyższa w historii kara DSA pokazuje, że Bruksela chce obalić model biznesowy stojący za chińskimi mistrzami taniego handlu elektronicznego.",
     "url": "https://www.theregister.com/legal/2026/07/21/europe-slaps-aliexpress-with-550-million-fine-for-selling-dodgy-goods/5275428",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "cyber|Szwecja": {
     "lat": 60.6,
@@ -240,7 +240,7 @@
     "region": "Szwecja",
     "description": "Prezent o wartości 5 mln koron szwedzkich zapewnił 72 procent rocznego dochodu Örebropartiet, ale firma upiera się, że był to cel wyłącznie osobisty.",
     "url": "https://www.theregister.com/software/2026/07/21/some-mullvad-vpn-customers-tunnel-for-exit-after-co-founder-donates-millions-to-populist-party/5275012",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "conflict|Afganistan": {
     "lat": 33.94,
@@ -249,7 +249,7 @@
     "region": "Afganistan",
     "description": "Dziesiątki osób uznano za zaginione po powodziach, które przetoczyły się przez miasto w Nuristanie, odizolowanej prowincji na wschodzie kraju.",
     "url": "https://www.nytimes.com/2026/07/21/world/asia/afghanistan-floods-deaths-nuristan.html",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "disaster|Afganistan": {
     "lat": 33.44,
@@ -258,7 +258,7 @@
     "region": "Afganistan",
     "description": "Dziesiątki osób uznano za zaginione po powodziach, które przetoczyły się przez miasto w Nuristanie, odizolowanej prowincji na wschodzie kraju.",
     "url": "https://www.nytimes.com/2026/07/21/world/asia/afghanistan-floods-deaths-nuristan.html",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   },
   "critical|Chile": {
     "lat": -36.0,
@@ -276,6 +276,6 @@
     "region": "Sri Lanka",
     "description": "Sri Lanka walczy z epidemią dengi.",
     "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32924009,to-najgorsza-epidemia-dengi-od-dekady-gwaltownie-wzrosla-liczba.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-    "last_seen": "2026-07-21T13:02:36Z"
+    "last_seen": "2026-07-21T13:03:16Z"
   }
 }
