@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T04:57:09Z",
+  "last_updated": "2026-07-21T04:57:49Z",
   "poland": [
     {
       "title": "Włodzimierz Lubański dla „Rz”: Głód sukcesu przesądził o zwycięstwie Hiszpanów",
@@ -476,14 +476,6 @@
       "summary": "Giełdy w Azji rosną, gdy mediacja na Bliskim Wschodzie powoduje spadek cen ropy Reuters."
     },
     {
-      "title": "Trzej Chińczycy ranni w ataku drona na Moskwę – Reuters",
-      "url": "https://www.reuters.com/world/china/three-chinese-injured-drone-attack-moscow-2026-07-21/",
-      "date": "2026-07-21T01:33:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Trzej Chińczycy ranni w ataku drona na Moskwę Reuters."
-    },
-    {
       "title": "Ceny ropy spadają, gdy wysiłki mediacyjne równoważą strajki USA-Iran – Reuters",
       "url": "https://www.reuters.com/business/energy/oil-prices-dip-mediation-efforts-offset-us-iran-strikes-2026-07-21/",
       "date": "2026-07-21T01:04:00Z",
@@ -628,6 +620,14 @@
       "summary": "Messi mówi, że porażka Argentyny z Hiszpanią pozostawiła ogromny ból Reuters."
     },
     {
+      "title": "USA nakładają nowe 50% cła na kanadyjskie produkty o wartości 20 miliardów dolarów – Reuters",
+      "url": "https://www.reuters.com/business/us-imposes-new-50-tariffs-canadian-products-2026-07-20/",
+      "date": "2026-07-20T21:12:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "USA nakładają nowe 50% cła na kanadyjskie produkty o wartości 20 miliardów dolarów Reuters."
+    },
+    {
       "title": "Notoryczny przywódca kartelu narkotykowego Ismael Zambada skazany na dożywocie w USA",
       "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-20T21:03:24Z",
@@ -766,14 +766,6 @@
   ],
   "world_politics": [
     {
-      "title": "Epidemie i wściekłość",
-      "url": "https://www.nytimes.com/2026/07/20/world/epidemics-rage-ebola-first-responders.html",
-      "date": "2026-07-21T04:55:43Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Społeczeństwa zawsze borykały się z wrogimi reakcjami na pracowników służby zdrowia podczas epidemii. Dlaczego?"
-    },
-    {
       "title": "Co najmniej 27 osób zginęło w Gujanie po wywróceniu się promu",
       "url": "https://www.nytimes.com/2026/07/20/world/americas/guyana-ferry-sinking-barima.html",
       "date": "2026-07-21T03:46:58Z",
@@ -788,6 +780,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": ""
+    },
+    {
+      "title": "Epidemie i wściekłość",
+      "url": "https://www.nytimes.com/2026/07/20/world/epidemics-rage-ebola-first-responders.html",
+      "date": "2026-07-21T02:34:54Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Społeczeństwa zawsze borykały się z wrogimi reakcjami na pracowników służby zdrowia podczas epidemii. Dlaczego?"
     },
     {
       "title": "Wewnątrz śmiercionośnego amerykańskiego nalotu na tankowiec Floty Cieni",
@@ -2603,51 +2603,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25860.55,
+      25859.87,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27033.42,
+      27032.71,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27181.45,
+      27180.73,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27428.18,
+      27427.46,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28068.58,
+      28067.84,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28104.89,
+      28104.14,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28351.36,
+      28350.61,
       27354.94,
       27400.36,
       27412.11,
-      28755.72,
+      28754.96,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28010.96,
+      28010.22,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28191.99,
+      28191.24,
       27686.17,
       27404.78,
       27351.97,
@@ -2656,7 +2656,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27898.21,
+      27897.47,
       27930.04,
       28234.04,
       28218.36,
@@ -2665,13 +2665,13 @@
       28294.39,
       28203.83,
       28555.17,
-      28738.0,
+      28737.24,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28291.49,
-      28236.83
+      28290.75,
+      28236.08
     ],
     "currency": "PLN"
   }
