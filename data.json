@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T23:57:28Z",
+  "last_updated": "2026-07-21T23:58:00Z",
   "poland": [
     {
       "title": "Ranking miast świata. Awans Warszawy – już droga, jeszcze nie najlepsza do życia",
@@ -1434,7 +1434,7 @@
       "summary": "Nie martw się – może autonomicznie atakować także cele naziemne."
     },
     {
-      "title": "Apple naprawia błąd Ukryj mój e-mail, który ujawniał prawdziwe adresy w dziennikach poczty",
+      "title": "Apple naprawia błąd ukrywania mojego e-maila, który ujawniał prawdziwe adresy w dziennikach poczty",
       "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
       "date": "2026-07-21T18:46:32Z",
       "source": "The Hacker News",
@@ -1804,6 +1804,14 @@
   ],
   "finance": [
     {
+      "title": "Notowania historyczne RBITLMDV5 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania-historyczne/RBITLMDV5",
+      "date": "2026-07-21T22:18:06Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania historyczne RBITLMDV5 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+    },
+    {
       "title": "Notowania historyczne RBITSPCOP43 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania-historyczne/RBITSPCOP43",
       "date": "2026-07-21T21:56:34Z",
@@ -1868,12 +1876,12 @@
       "summary": "Przełom we Francji. Dzieci nie będą mogły korzystać z mediów społecznościowych Forsal.pl."
     },
     {
-      "title": "Trendy INTLDNP99473 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-trendy/INTLDNP99473",
-      "date": "2026-07-21T19:17:55Z",
+      "title": "Sygnały analizy technicznej RBIFS4PKO3 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/RBIFS4PKO3",
+      "date": "2026-07-21T19:12:09Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Trendy INTLDNP99473 INGBANK BiznesRadar."
+      "summary": "Sygnały analizy technicznej RBIFS4PKO3 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "Niemcy szukają alternatywy dla rosyjskiego gazu. Merz stawia na Azerbejdżan",
@@ -1930,14 +1938,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Państwowa Inspekcja Pracy i Zakład Ubezpieczeń Społecznych rozpoczynają kontrole w Pyszne.pl - poinformowało we wtorek ministerstwo rodziny. Powodem są doniesienia, że dostawca planuje masowe zwolnienia, a pracownicy mają być ponownie zatrudniani na gorszych warunkach."
-    },
-    {
-      "title": "Formacje analizy technicznej OW20J263800 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/OW20J263800",
-      "date": "2026-07-21T17:31:33Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Formacje analizy technicznej OW20J263800 BiznesRadar."
     },
     {
       "title": "Na jednych półkach ulga, na innych drożyzna. Czerwcowe ceny pokazują duży rozjazd",
@@ -2758,51 +2758,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25867.58,
+      25863.28,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27040.76,
+      27036.27,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27188.83,
+      27184.31,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27435.63,
+      27431.08,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28076.2,
+      28071.54,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28112.52,
+      28107.85,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28359.05,
+      28354.35,
       27354.94,
       27400.36,
       27412.11,
-      28763.52,
+      28758.75,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28018.56,
+      28013.91,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28199.64,
+      28194.96,
       27686.17,
       27404.78,
       27351.97,
@@ -2811,7 +2811,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27905.79,
+      27901.15,
       27930.04,
       28234.04,
       28218.36,
@@ -2820,14 +2820,14 @@
       28294.39,
       28203.83,
       28555.17,
-      28745.8,
+      28741.03,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28299.17,
+      28294.47,
       28242.11,
-      28494.64
+      28489.9
     ],
     "currency": "PLN"
   }
