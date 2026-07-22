@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T16:10:08Z",
+  "last_updated": "2026-07-22T16:10:56Z",
   "poland": [
     {
       "title": "Rosja łata braki paliwa w Moskwie. Pomaga Aleksaner Łukaszenko",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Nowa amerykańska stawka celna wynosząca 25% uderza w miliardy dolarów brazylijskiego eksportu – Reuters",
+      "url": "https://www.reuters.com/world/americas/new-us-25-tariff-hits-billions-dollars-brazilian-exports-2026-07-22/",
+      "date": "2026-07-22T16:01:48Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Nowa amerykańska stawka celna wynosząca 25% uderza w miliardy dolarów brazylijskiego eksportu Reuters."
+    },
+    {
       "title": "Francuska policja formalnie prowadzi dochodzenie w sprawie zabójstwa Brytyjki w 2025 roku",
       "url": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-22T15:59:03Z",
@@ -708,14 +716,6 @@
       "summary": "EKSKLUZYWNIE: Chiński gigant handlu elektronicznego JD.com otrzymał zawiadomienie o obawach UE związanych z przejęciem Ceconomy Reuters."
     },
     {
-      "title": "Od pola bitwy po biurokrację – nowego szefa armii Ukrainy przed próbami – Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/battlefield-bureaucracy-ukraines-new-military-chief-faces-tests-2026-07-22/",
-      "date": "2026-07-22T12:26:01Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Od pola bitwy po biurokrację – nowego szefa armii Ukrainy czekają próby Reuters."
-    },
-    {
       "title": "Australia ostrzega Chiny, że nie będą zastraszane „prowokacyjnymi” działaniami podczas budowy arsenału wojskowego i nuklearnego",
       "url": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
       "date": "2026-07-22T11:40:08Z",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Uruchom HN: Unlayer (YC W22) – Dodaj narzędzia do tworzenia wiadomości e-mail i dokumentów do swojej aplikacji",
+      "url": "https://unlayer.com",
+      "date": "2026-07-22T16:02:03Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Cześć, HN, jesteśmy Adeel i Umair, współzałożyciele Unlayer (https://unlayer.com/). Umożliwiamy dodawanie treści do aplikacji bez konieczności samodzielnego tworzenia całego edytora, modułu renderującego, szablonu i stosu eksportu. Unlayer umożliwia tworzenie e-maili, stron internetowych i dokumentów w aplikacji na trzy różne sposoby: w kodzie, wizualnie lub za pomocą sztucznej inteligencji. Oto demonstracja: https://www.youtube.com/watch?v=0HsDtNkdMpM. Zaczęliśmy od osadzanego edytora poczty e-mail, ponieważ wiele produktów ostatecznie go potrzebuje: systemy CRM, narzędzia marketingowe, platformy angażujące klientów, rynki, narzędzia wewnętrzne i pionowe aplikacje SaaS – wszystko to w pewnym momencie się z tym spotyka."
+    },
+    {
       "title": "Dyrektor OSTP w Białym Domu, Michael Kratsios, mówi, że Moonshot AI „nabył serwery wyposażone w GB300 i uzyskał dostęp do serwerów GB300 w Tajlandii, prawdopodobnie w celu szkolenia swoich modeli sztucznej inteligencji” (Maggie Eastland/Bloomberg)",
       "url": "https://www.techmeme.com/260722/p35#a260722p35",
       "date": "2026-07-22T16:00:52Z",
@@ -1044,7 +1052,7 @@
       "url": "https://www.techmeme.com/260722/p33#a260722p33",
       "date": "2026-07-22T15:50:02Z",
       "source": "Techmeme",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Business Insider: OpenAI wprowadza Presence, aby pomóc firmom lepiej łączyć agentów AI z ich systemami wewnętrznymi i automatyzować obsługę klienta, sprzedaż i inne zadania &mdash; OpenAI wprowadza na rynek nowy produkt, który może pomóc firmie zrobić kolejny krok poza ultrakonkurencyjną działalność polegającą na tworzeniu modeli sztucznej inteligencji."
     },
     {
@@ -1061,7 +1069,15 @@
       "date": "2026-07-22T15:45:18Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://dynomight.net/creatine/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008642 Punkty: 9 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://dynomight.net/creatine/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008642 Punkty: 49 # Komentarze: 19."
+    },
+    {
+      "title": "Sześć pytań przed dodaniem LLM",
+      "url": "https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d",
+      "date": "2026-07-22T15:43:45Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d Adres URL komentarzy: https://news.ycombinator.com/item?id=49008624 Punkty: 3 # Komentarze: 1."
     },
     {
       "title": "Patent na zamek błyskawiczny przeleżał w garażu przez 40 lat. Teraz to jest prawdziwe",
@@ -1069,7 +1085,7 @@
       "date": "2026-07-22T15:37:25Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008512 Punkty: 7 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008512 Punkty: 13 # Komentarze: 2."
     },
     {
       "title": "Zrobienie",
@@ -1077,7 +1093,7 @@
       "date": "2026-07-22T15:33:48Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://beej.us/blog/data/ai-making/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008440 Punkty: 4 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://beej.us/blog/data/ai-making/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008440 Punkty: 15 # Komentarze: 0."
     },
     {
       "title": "Pokaż HN: HN Hall of Fame – przeglądaj 3100 legendarnych linków do Hacker News",
@@ -1085,7 +1101,7 @@
       "date": "2026-07-22T15:30:36Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.orangecrumbs.com/hall/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008406 Punkty: 6 # Komentarze: 2."
+      "summary": "Adres URL artykułu: https://www.orangecrumbs.com/hall/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008406 Punkty: 18 # Komentarze: 6."
     },
     {
       "title": "Minerały krytyczne: zmniejszenie zależności od importu USA poprzez substytucję i recykling",
@@ -1093,7 +1109,7 @@
       "date": "2026-07-22T15:26:56Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.gao.gov/products/gao-26-108687 Adres URL komentarzy: https://news.ycombinator.com/item?id=49008346 Punkty: 4 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://www.gao.gov/products/gao-26-108687 Adres URL komentarzy: https://news.ycombinator.com/item?id=49008346 Punkty: 7 # Komentarze: 0."
     },
     {
       "title": "Dlaczego nie kupię komputera",
@@ -1101,7 +1117,7 @@
       "date": "2026-07-22T15:22:53Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://karlvmuller.com/posts/why-i-am-not-going-to-buy-a-computer/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008276 Punkty: 30 # Komentarze: 9."
+      "summary": "Adres URL artykułu: https://karlvmuller.com/posts/why-i-am-not-going-to-buy-a-computer/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008276 Punkty: 52 # Komentarze: 48."
     },
     {
       "title": "Dyrektor OSTP w Białym Domu, Michael Kratsios, mówi: „Mamy informację, że Moonshot AI wydestylował Anthropic’s Fable na potrzeby opracowania swojego modelu K3” (dyrektor Michael Kratsios/@mkratsios47)",
@@ -1110,14 +1126,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Dyrektor Michael Kratsios / @mkratsios47: Dyrektor OSTP w Białym Domu Michael Kratsios mówi, że „mamy informacje, że firma Moonshot AI wydestylowała Anthropic's Fable na potrzeby opracowania modelu K3”. &mdash; Mamy informację, że Moonshot AI wydestylował Anthropic's Fable na potrzeby opracowania swojego modelu K3. W tym celu opracowano zaawansowaną platformę wewnętrzną do przeprowadzania destylacji na dużą skalę w oparciu o modele amerykańskie, umożliwiającą szybkie przełączanie między wieloma metodami."
-    },
-    {
-      "title": "Buduję BorgIOS, żeby pozbyć się gówna z Internetu",
-      "url": "https://github.com/bitmonky/BorgIOS",
-      "date": "2026-07-22T15:19:46Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/bitmonky/BorgIOS Adres URL komentarzy: https://news.ycombinator.com/item?id=49008217 Punkty: 3 # Komentarze: 0."
     },
     {
       "title": "Xbox rozszerza swój program kompatybilności wstecznej na PC, zaczynając od czterech klasycznych oryginalnych gier z obsługą zwiększania rozdzielczości, V-Sync i nie tylko (Jez Corden/Windows Central)",
@@ -1174,14 +1182,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 2,
       "summary": "Problemy z Facebookiem, Messengerem, WhatsAppem i Instagramem. Kolejna globalna awaria Mety wylogowuje użytkowników w Polsce. Sprawdź szczegóły."
-    },
-    {
-      "title": "Londyńska firma Arrakis, która produkuje agentów AI dla firm przemysłowych, wychodzi z ukrycia z wartością zalążkową wynoszącą 7,5 mln dolarów i serią A o wartości 30 mln dolarów przy wycenie post-moneysowej na 140 mln dolarów (Jeremy Kahn/Fortune)",
-      "url": "https://www.techmeme.com/260722/p28#a260722p28",
-      "date": "2026-07-22T14:00:38Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Jeremy Kahn / Fortune: Arrakis z siedzibą w Londynie, produkująca agentów sztucznej inteligencji dla firm przemysłowych, wychodzi z ukrycia z wartością zalążkową wynoszącą 7,5 miliona dolarów i serią A o wartości 30 milionów dolarów przy wycenie post-moneydowej na poziomie 140 milionów dolarów &mdash; Arrakis, start-up działający od siedmiu miesięcy z siedzibą w Londynie i Paryżu, budujący coś, co nazywa „systemem operacyjnym” opartym na sztucznej inteligencji. dla firm przemysłowych &hellip;."
     },
     {
       "title": "Sony właśnie pokazało potwora, na którego czekali wszyscy",
@@ -1812,6 +1812,14 @@
   ],
   "finance": [
     {
+      "title": "Białoruś gromadzi wojsko na granicy z Ukrainą. Co planuje Mińsk? - Forsal.pl",
+      "url": "https://forsal.pl/swiat/bezpieczenstwo/artykuly/11278972,bialorus-gromadzi-wojsko-na-granicy-z-ukraina-co-planuje-minsk.html",
+      "date": "2026-07-22T16:05:20Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Białoruś gromadzi wojsko na granicy z Ukrainą. Co planuje Mińsk? Forsal.pl."
+    },
+    {
       "title": "W poszukiwaniu sygnałów - 22 lipca 2026 - WIG na nowych maksimach",
       "url": "https://strefainwestorow.pl/blog/w-poszukiwaniu-sygnalow/w-poszukiwaniu-sygnalow-22-lipca-2026-wig-na-nowych-maksimach",
       "date": "2026-07-22T15:29:27Z",
@@ -1898,14 +1906,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "UE zwiększa presję na rosyjską tzw. flotę cieni. Tankowiec Mv South Star, podejrzewany o pływanie pod fałszywą banderą z naruszeniem międzynarodowego prawa morskiego, został 20 lipca poddany kontroli przez siły uczestniczące w unijnej operacji Irini - poinformowała szefowa unijnej dyplomacji Kaja Kallas."
-    },
-    {
-      "title": "Gwałtowny skok cen paliw. Diesel w kilka dni podrożał o kilkadziesiąt groszy",
-      "url": "https://www.bankier.pl/wiadomosc/Gwaltowny-skok-cen-paliw-Diesel-w-kilka-dni-podrozal-o-kilkadziesiat-groszy-9171822.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-07-22T14:18:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "W ciągu ostatnich siedmiu dni ceny paliw na stacjach wzrosły o kilkadziesiąt groszy za litr. Najszybciej w ostatnich dniach rosła cena oleju napędowego - poinformowali w środę analitycy e-petrol.pl."
     },
     {
       "title": "MSWiA rozszerza katalog incydentów o charakterze terrorystycznym. Część dotyczy infrastruktury krytycznej - Forsal.pl",
@@ -2727,51 +2727,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25862.33,
+      25863.96,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27035.27,
+      27036.98,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27183.31,
+      27185.03,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27430.06,
+      27431.8,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28070.5,
+      28072.28,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28106.81,
+      28108.59,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28353.3,
+      28355.09,
       27354.94,
       27400.36,
       27412.11,
-      28757.69,
+      28759.51,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28012.88,
+      28014.65,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28193.92,
+      28195.7,
       27686.17,
       27404.78,
       27351.97,
@@ -2780,7 +2780,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27900.12,
+      27901.89,
       27930.04,
       28234.04,
       28218.36,
@@ -2789,15 +2789,15 @@
       28294.39,
       28203.83,
       28555.17,
-      28739.97,
+      28741.79,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28293.43,
+      28295.22,
       28242.11,
-      28488.85,
-      28541.25
+      28490.66,
+      28540.51
     ],
     "currency": "PLN"
   }
