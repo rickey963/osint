@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T17:46:47Z",
+  "last_updated": "2026-07-22T17:47:26Z",
   "poland": [
     {
       "title": "Przejęcie właściciela TVN. Jest decyzja KE",
@@ -8,6 +8,14 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Komisja Europejska zgodziła się warunkowo na przejęcie amerykańskiego przedsiębiorstwa mediowego Warner Bros. Discovery, właściciela m.in. TVN, przez koncern Paramount Skydance."
+    },
+    {
+      "title": "Dlaczego Dawid Kacprzyk wciąż nie został przesłuchany? Prokuratura wyjaśnia - Polskie Radio 24",
+      "url": "https://polskieradio24.pl/polska/dawid-kacprzyk-wciaz-nieprzesluchany-prokuratura-wyjasnia-dlaczego",
+      "date": "2026-07-22T17:39:03Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Dlaczego Dawid Kacprzyk wciąż nie został przesłuchany? Prokuratura wyjaśnia Polskie Radio 24."
     },
     {
       "title": "Ślubowanie nowego sędziego TK. Prezydent podjął decyzję",
@@ -208,14 +216,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Firma OpenAI, twórca ChatGPT, podała, że podczas testów bezpieczeństwa jej zaawansowane modele sztucznej inteligencji zaczęły działać autonomicznie i - aby osiągnąć swój cel - włamały się na serwery popularnej platformy dla programistów. Jej współzałożyciel określił incydent jako bezprecedensowy i wymagający wykorzystania najnowocześniejszych zdolności cybernetycznych."
-    },
-    {
-      "title": "Siedem osób topiło się w morzu. Dramatyczna akcja ratunkowa w Dziwnowie",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-22/siedem-osob-zagrozonych-utonieciem-akcja-sluzb-nad-baltykiem/",
-      "date": "2026-07-22T15:01:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "Siedem osób topiło się w Morzu Bałtyckim w miejscowości Dziwnów - poinformowali miejscowi ratownicy Morskiej Służby Poszukiwania i Ratownictwa. Na pomoc poszkodowanym ruszyli świadkowe zdarzenia, którzy wyciągnęli ich na brzeg."
     },
     {
       "title": "PIP podaje liczbę skarg po dwóch tygodniach reformy. \"Gigantyczny wzrost\"",
@@ -426,6 +426,14 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Mamdani przyznaje, że nie ma uprawnień, aby aresztować izraelskiego premiera po tym, jak powiedział, że „nie jest mile widziany” w Nowym Jorku Zohran Mamdani, burmistrz Nowego Jorku, podwoił w środę swoje poparcie dla Międzynarodowego Trybunału Karnego (MTK) i wezwał władze federalne do wykonania nakazu sądu w sprawie aresztowania Benjamina Netanjahu, jeśli Benjamin Netanjahu odwiedzi miasto jesienią. „Wzywam rząd federalny do przyłączenia się do Międzynarodowego Trybunału Karnego i wykonania zarówno tego nakazu, jak i wszelkich nakazów międzynarodowego trybunału karnego się utrzymuje” – powiedziała Mamdani reporterom na środowej konferencji prasowej. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Panel Senatu USA zatwierdza chińską ustawę dotyczącą zwalczania pojazdów – Reuters",
+      "url": "https://www.reuters.com/business/autos-transportation/us-senate-panel-vote-chinese-vehicle-crackdown-bill-2026-07-22/",
+      "date": "2026-07-22T16:56:52Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Panel Senatu USA zatwierdził chińską ustawę dotyczącą zwalczania pojazdów Reuters."
     },
     {
       "title": "S&P 500 umacnia się w oczekiwaniu na wyniki Big Tech – Reuters",
@@ -708,14 +716,6 @@
       "summary": "Badacze nasłuchujący na karaibskiej wyspie Dominika odkryli różnice w słyszalnych kliknięciach ssaków, gdy ruch morski był blisko. Kaszaloty wydają specyficzny wzór dźwięków klikania, gdy słyszą hałas łodzi – odkryli naukowcy. Wzorzec jest tak wyraźny, że naukowcy, którzy go zidentyfikowali, powiedzieli, że mogą teraz używać go do przewidywania, kiedy w pobliżu znajdują się statki. Naukowcy z Project Ceti (The Cetacean Translation Initiative), organizacji badawczej non-profit zajmującej się dekodowaniem komunikacji kaszalotów, spędzili cztery lata na dostrajaniu się do nawoływań 15 kaszalotów u wybrzeży Dominiki. Kontynuuj czytanie..."
     },
     {
-      "title": "Panel Senatu USA będzie głosował nad chińską ustawą dotyczącą zwalczania pojazdów – Reuters",
-      "url": "https://www.reuters.com/business/autos-transportation/us-senate-panel-vote-chinese-vehicle-crackdown-bill-2026-07-22/",
-      "date": "2026-07-22T12:57:33Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Panel Senatu USA będzie głosował nad chińską ustawą dotyczącą zwalczania pojazdów Reuters."
-    },
-    {
       "title": "W miejscu urodzenia Hitlera otwarto komisariat policji, aby pozbyć się powiązań z nazistami",
       "url": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-22T12:32:13Z",
@@ -766,20 +766,28 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualności na żywo dotyczące wojny w Iranie: Trump grozi odwetem wobec celów cywilnych, jeśli Iran uderzy w cieśninie",
+      "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+      "date": "2026-07-22T17:42:37Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Prezydent Trump powiedział, że jeśli Iran ostrzela Cieśninę Ormuz, Stany Zjednoczone zaatakują most lub elektrownię, w tym w stolicy Iranu lub w jej pobliżu. Sekretarz stanu Marco Rubio zasugerował wcześniej, że Teheran „nie poważnie” podchodzi do dyplomacji."
+    },
+    {
+      "title": "Dlaczego młodzi ludzie w Indiach protestują?",
+      "url": "https://www.nytimes.com/2026/07/22/world/asia/india-youth-protest-modi-cockroach-janta-party.html",
+      "date": "2026-07-22T17:39:22Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Ruch kierowany przez młodzież wściekły na system edukacji i brak miejsc pracy stanowi rzadkie wyzwanie dla rządu, który rządzi od ponad dziesięciu lat twardą ręką."
+    },
+    {
       "title": "Pożądane porozumienie nuklearne USA jest zamachem stanu dla saudyjskiego księcia koronnego",
       "url": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html",
       "date": "2026-07-22T17:30:44Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Arabia Saudyjska od lat zabiegała o kontrowersyjne porozumienie w sprawie uzyskania amerykańskiej technologii nuklearnej. Oczekuje się, że zostanie on przypieczętowany w środę, co pogłębi stosunki amerykańsko-saudyjskie na nadchodzące dziesięciolecia."
-    },
-    {
-      "title": "Aktualności na żywo dotyczące wojny w Iranie: Trump grozi odwetem wobec celów cywilnych, jeśli Iran uderzy w cieśninie",
-      "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
-      "date": "2026-07-22T17:19:07Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Prezydent Trump powiedział, że jeśli Iran ostrzela Cieśninę Ormuz, Stany Zjednoczone zaatakują most lub elektrownię, w tym w stolicy Iranu lub w jej pobliżu. Sekretarz stanu Marco Rubio zasugerował wcześniej, że Teheran „nie poważnie” podchodzi do dyplomacji."
     },
     {
       "title": "Porozumienie nuklearne między USA a Arabią Saudyjską podsyca obawy Izraela przed wyścigiem zbrojeń na Bliskim Wschodzie",
@@ -824,7 +832,7 @@
     {
       "title": "Rubio i chiński dyplomata planują szczyt Trumpa i Xi w Waszyngtonie",
       "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html",
-      "date": "2026-07-22T16:23:06Z",
+      "date": "2026-07-22T16:23:07Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Sekretarz stanu Marco Rubio spędził większość spotkania z ministrem spraw zagranicznych Chin, omawiając szczyt, ale nie poruszył twierdzeń prezydenta Trumpa o ingerencji Chin w wybory."
@@ -876,14 +884,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "W połowie roku dotarliśmy do 11 wybranych przez nas miejsc, odkrywając mniej znane miejsca, w których toczyła się rewolucja amerykańska, całonocne imprezy w Polsce i nie tylko."
-    },
-    {
-      "title": "Nowy dowódca wojskowy Ukrainy staje przed monumentalną próbą",
-      "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html",
-      "date": "2026-07-22T12:33:29Z",
-      "source": "The New York Times",
-      "confirmed_by": 2,
-      "summary": "Generał dywizji Mychajło Drapatyj stoi przed dylematem pomiędzy zapewnieniem niepodległości, za którą opowiadali się reformatorzy wojskowi, a uwzględnieniem wkładu politycznego w strategię pola bitwy."
     },
     {
       "title": "Andy Biggs zdobywa nominację Republikanów w walce o fotel gubernatora Arizony z Demokratką Katie Hobbs – AP News",
@@ -1016,6 +1016,22 @@
       "summary": "Maria Clara Cobo / Bloomberg: Cashea, największy wenezuelski start-up z branży fintech oferujący aplikację bankową i płatniczą, pozyskał serię A o wartości 40 mln dolarów, w tym 20 mln dolarów długu i serię B o wartości 60 mln dolarów &mdash; Cashea, największa wenezuelska firma z branży technologii finansowych, zebrała 100 milionów dolarów w dwóch rundach finansowania, jak obstawiali globalni inwestorzy – hellip;."
     },
     {
+      "title": "Rozmowa ChatGPT Terrence'a Tao na temat kontrprzykładu hipotezy Jakobianu",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "date": "2026-07-22T17:30:40Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56 Adres URL komentarzy: https://news.ycombinator.com/item?id=49010345 Punkty: 11 # Komentarze: 0."
+    },
+    {
+      "title": "GigaToken: ~1000x szybsza tokenizacja modelu języka",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "date": "2026-07-22T17:20:38Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://github.com/marcelroed/gigatoken/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49010167 Punkty: 8 # Komentarze: 0."
+    },
+    {
       "title": "Garmin kupił nowe zabawki. Dostaniemy je w cenie subskrypcji?",
       "url": "https://antyweb.pl/garmin-kupil-nowe-zabawki-dostaniemy-je-w-cenie-subskrypcji",
       "date": "2026-07-22T17:15:41Z",
@@ -1061,7 +1077,7 @@
       "date": "2026-07-22T16:25:08Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.swingnyc.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49009324 Punkty: 12 # Komentarze: 4."
+      "summary": "Adres URL artykułu: https://www.swingnyc.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49009324 Punkty: 15 # Komentarze: 6."
     },
     {
       "title": "Uruchom HN: Unlayer (YC W22) – Dodaj narzędzia do tworzenia wiadomości e-mail i dokumentów do swojej aplikacji",
@@ -1128,20 +1144,12 @@
       "summary": "Jestem autorem artykułu, który napisaliśmy z przyjaciółmi, gdy byliśmy ciekawi, czy MUD, gry tekstowe pochodzące z lat 70. XX wieku, można wykorzystać do oceny LLM. Ostatnie kilka miesięcy spędziliśmy wieczorami i w weekendy, przeprowadzając ten eksperyment i pisząc artykuł wyłącznie na naszych komputerach osobistych, mając około 99 dolarów w środkach API. Nasz eksperyment miał interesującą tabelę wyników, ale jeszcze bardziej zaskakujące były pomiary każdego LLM. Każdy z nich ocenialiśmy w czterech wymiarach behawioralnych, z których dwa w dużym stopniu opierają się na klasyfikatorze LLM."
     },
     {
-      "title": "Patent na zamek błyskawiczny przeleżał w garażu przez 40 lat. Teraz to jest prawdziwe",
-      "url": "https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/",
-      "date": "2026-07-22T15:37:25Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008512 Punkty: 39 # Komentarze: 14."
-    },
-    {
       "title": "Zrobienie",
       "url": "https://beej.us/blog/data/ai-making/",
       "date": "2026-07-22T15:33:48Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://beej.us/blog/data/ai-making/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008440 Punkty: 90 # Komentarze: 24."
+      "summary": "Adres URL artykułu: https://beej.us/blog/data/ai-making/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008440 Punkty: 101 # Komentarze: 34."
     },
     {
       "title": "Pokaż HN: HN Hall of Fame – przeglądaj 3100 legendarnych linków do Hacker News",
@@ -1149,15 +1157,7 @@
       "date": "2026-07-22T15:30:36Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.orangecrumbs.com/hall/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008406 Punkty: 106 # Komentarze: 23."
-    },
-    {
-      "title": "Minerały krytyczne: zmniejszenie zależności od importu USA poprzez substytucję i recykling",
-      "url": "https://www.gao.gov/products/gao-26-108687",
-      "date": "2026-07-22T15:26:56Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.gao.gov/products/gao-26-108687 Adres URL komentarzy: https://news.ycombinator.com/item?id=49008346 Punkty: 21 # Komentarze: 12."
+      "summary": "Adres URL artykułu: https://www.orangecrumbs.com/hall/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49008406 Punkty: 118 # Komentarze: 26."
     },
     {
       "title": "Dyrektor OSTP w Białym Domu, Michael Kratsios, mówi: „Mamy informację, że Moonshot AI wydestylował Anthropic’s Fable na potrzeby opracowania swojego modelu K3” (dyrektor Michael Kratsios/@mkratsios47)",
@@ -1884,6 +1884,14 @@
       "summary": "Wzrost kosztów operacyjnych i konkurencja cenowa ze strony dostawców spoza Unii Europejskiej są dziś największymi problemami firm obsługujących branżę automotive – wynika z badania Keralla Research dla Bibby Financial Services. Na oba czynniki zwraca uwagę po 38 proc. przedsiębiorstw."
     },
     {
+      "title": "Opcja OW20T263625 - Analiza techniczna - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/opcja/ow20t263625,analiza-techniczna.aspx",
+      "date": "2026-07-22T15:08:54Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Opcja OW20T263625 - Analiza techniczna stockwatch.pl."
+    },
+    {
       "title": "Kto rządziłby na Ukrainie? Ukraińcy nie patrzą na Zełenskiego już tak przychylnie",
       "url": "https://www.bankier.pl/wiadomosc/Kto-rzadzilby-na-Ukrainie-Ukraincy-nie-patrza-na-Zelenskiego-juz-tak-przychylnie-9171853.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-22T14:53:00Z",
@@ -1948,6 +1956,14 @@
       "summary": "Do Polski zmierza potężna broń. Ukraińcy przecierają oczy ze zdumienia Forsal.pl."
     },
     {
+      "title": "Komunikat EBI beeIN SA (beein): Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/beein,informacje-o-walnym-zgromadzeniu-informacje-2026-07-22,ebi,20260722_150111_0000004419",
+      "date": "2026-07-22T13:01:11Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI beeIN SA (beein): Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały stockwatch.pl."
+    },
+    {
       "title": "„Tuczą” ofiarę, by dokonać „rzezi”. Tak wygląda oszustwo idealne - Forbes",
       "url": "https://www.forbes.pl/finanse/kryptogangi-maja-pieniadze-niewolnikow-i-dane-z-darknetu-celuja-w-dwie-grupy-osob/syt9mc6",
       "date": "2026-07-22T12:58:00Z",
@@ -1962,14 +1978,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat EBI Browar Czarnków SA (czarnkow): Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały stockwatch.pl."
-    },
-    {
-      "title": "Opcja OW20I263650 - Analiza techniczna - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/ow20i263650,analiza-techniczna.aspx",
-      "date": "2026-07-22T12:09:27Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Opcja OW20I263650 - Analiza techniczna stockwatch.pl."
     },
     {
       "title": "PKPCARGO [PKP] - stockwatch.pl",
@@ -2170,14 +2178,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "W czerwcu codzienne zakupy były średnio o 2,7 proc. droższe niż rok wcześniej. Najmocniej wzrosły ceny chemii gospodarczej, pieczywa, słodyczy, środków higieny osobistej i ryb."
-    },
-    {
-      "title": "Komunikat ESPI ConsoleWay Spółka Akcyjna (consolew): Zawiadomienie z art. 69 Ustawy o ofercie publicznej - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/consolew,zawiadomienie-z-art-69-ustawy-o-ofercie-publi-2026-07-21,espi,20260721_190815_0000354703",
-      "date": "2026-07-21T17:08:15Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat ESPI ConsoleWay Spółka Akcyjna (consolew): Zawiadomienie z art. 69 Ustawy o ofercie publicznej stockwatch.pl."
     },
     {
       "title": "Komunikat EBI Consoleway SA (consolew): Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały - stockwatch.pl",
@@ -2716,51 +2716,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25868.05,
+      25862.6,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27041.26,
+      27035.56,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27189.33,
+      27183.6,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27436.14,
+      27430.35,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28076.72,
+      28070.8,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28113.03,
+      28107.11,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28359.58,
+      28353.6,
       27354.94,
       27400.36,
       27412.11,
-      28764.05,
+      28757.99,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28019.08,
+      28013.17,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28200.16,
+      28194.22,
       27686.17,
       27404.78,
       27351.97,
@@ -2769,7 +2769,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27906.3,
+      27900.42,
       27930.04,
       28234.04,
       28218.36,
@@ -2778,15 +2778,15 @@
       28294.39,
       28203.83,
       28555.17,
-      28746.33,
+      28740.27,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28299.7,
+      28293.73,
       28242.11,
-      28495.16,
-      28525.74
+      28489.15,
+      28519.16
     ],
     "currency": "PLN"
   }
