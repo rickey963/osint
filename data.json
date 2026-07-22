@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-22T10:56:06Z",
+  "last_updated": "2026-07-22T10:56:43Z",
   "poland": [
+    {
+      "title": "Groźnie na rynku ropy. Pojawił się drugi front konfliktu",
+      "url": "https://energia.rp.pl/paliwa/art44867041-groznie-na-rynku-ropy-pojawil-sie-drugi-front-konfliktu",
+      "date": "2026-07-22T10:55:17Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Maleją szanse na obniżkę cen paliw w tegoroczne w wakacje. Bombardowanie Iranu przez USA, odwet Irańczyków, którzy złamali porozumienie o zawieszeniu broni i włączenie się Hutich do konfliktu to kolejna eskalacja w tej wojnie."
+    },
     {
       "title": "Nawet pięć filiżanek kawy dziennie. Kardiolodzy zmieniają dotychczasowe zalecenia",
       "url": "https://www.rp.pl/zdrowie/art44867171-nawet-piec-filizanek-kawy-dziennie-kardiolodzy-zmieniaja-dotychczasowe-zalecenia",
@@ -176,14 +184,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "We wtorkowym oświadczeniu Fidesz poinformował, że prokuratura przeprowadziła nalot na biuro, w którym obsługiwane są serwery ugrupowania. Następnego dnia sprawę skomentował Viktor Orbán."
-    },
-    {
-      "title": "Orbán oskarża władze o łamanie demokracji. Mówi o konfiskacie serwerów Fideszu",
-      "url": "https://www.rp.pl/polityka/art44866771-orban-oskarza-wladze-o-lamanie-demokracji-mowi-o-konfiskacie-serwerow-fideszu",
-      "date": "2026-07-22T09:48:41Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Konflikt polityczny na Węgrzech wchodzi w kolejną fazę. Viktor Orbán oskarża prokuraturę o przejęcie serwerów Fideszu i zarzuca władzom łamanie zasad demokracji po zmianach w konstytucji oraz usunięciu kluczowych urzędników."
     },
     {
       "title": "Zmarł były rektor KUL ks. prof. Andrzej Szostek. \"Głos wyrazisty, samodzielny i potrzebny\"",
@@ -604,20 +604,20 @@
       "summary": "Według ustępującego najwyższego generała, Ukraina odzyskała w tym roku 700 km2 terytorium."
     },
     {
+      "title": "Co kryje się za protestami młodych ludzi w Indiach pod hasłem „karaluch”? - Reutersa",
+      "url": "https://www.reuters.com/world/india/whats-behind-indias-cockroach-youth-protests-2026-07-22/",
+      "date": "2026-07-22T06:07:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Co kryje się za protestami młodych ludzi w Indiach pod hasłem „karaluch”? Reutera."
+    },
+    {
       "title": "Inflacja w Wielkiej Brytanii spowalnia tymczasowy wzrost dla nowego premiera Burnhama – Reuters",
       "url": "https://www.reuters.com/world/uk/uk-inflation-slows-26-june-2026-07-22/",
       "date": "2026-07-22T06:03:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Inflacja w Wielkiej Brytanii spowalnia tymczasowy wzrost dla nowego premiera Burnhama Reutersa."
-    },
-    {
-      "title": "EKSKLUZYWNIE: Indie upominają swój organ nadzorujący lotnictwo za uchybienia w konflikcie interesów – wynika z dokumentów – Reuters",
-      "url": "https://www.reuters.com/world/india/india-rebukes-its-aviation-watchdog-over-conflict-of-interest-lapses-documents-2026-07-22/",
-      "date": "2026-07-22T06:02:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "EKSKLUZYWNIE: Indie upominają swój organ nadzorujący lotnictwo za uchybienia w konflikcie interesów, jak pokazują dokumenty Reutersa."
     },
     {
       "title": "Największy na świecie producent mięsa stoi przed wyzwaniem prawnym w związku z ekologicznymi referencjami globalnej ekspansji o wartości 6 miliardów dolarów",
@@ -770,7 +770,7 @@
       "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html",
       "date": "2026-07-22T10:46:16Z",
       "source": "The New York Times",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Gen. Oleksandr Syrski, który dowodził kluczowymi bitwami, nadzorował ekspansję wojny dronów przeciwko Rosji, ale wielu Ukraińców chce jeszcze więcej."
     },
     {
@@ -2244,8 +2244,8 @@
       "lng": 53.69,
       "type": "conflict",
       "region": "Iran",
-      "description": "Teheran ostrzegł Bułgarię przed konsekwencjami przyjęcia samolotów terrorystycznej armii USA - przekazał konserwatywny irański dziennik Kayhan.",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-22/iran-ostrzega-europejskie-panstwo-chodzi-o-rozmieszczenie-sil-usa/"
+      "description": "Maleją szanse na obniżkę cen paliw w tegoroczne w wakacje.",
+      "url": "https://energia.rp.pl/paliwa/art44867041-groznie-na-rynku-ropy-pojawil-sie-drugi-front-konfliktu"
     },
     {
       "lat": 52.5,
@@ -2308,8 +2308,8 @@
       "lng": 48.52,
       "type": "conflict",
       "region": "Jemen",
-      "description": "Wojsko amerykańskie kończy 11.",
-      "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates"
+      "description": "Maleją szanse na obniżkę cen paliw w tegoroczne w wakacje.",
+      "url": "https://energia.rp.pl/paliwa/art44867041-groznie-na-rynku-ropy-pojawil-sie-drugi-front-konfliktu"
     },
     {
       "lat": 47.1,
@@ -2528,6 +2528,22 @@
           "source": "The New York Times"
         },
         {
+          "title": "Groźnie na rynku ropy. Pojawił się drugi front konfliktu",
+          "url": "https://energia.rp.pl/paliwa/art44867041-groznie-na-rynku-ropy-pojawil-sie-drugi-front-konfliktu",
+          "source": "Rzeczpospolita"
+        }
+      ]
+    },
+    {
+      "name": "Jemen",
+      "score": 16,
+      "reasons": [
+        {
+          "title": "Groźnie na rynku ropy. Pojawił się drugi front konfliktu",
+          "url": "https://energia.rp.pl/paliwa/art44867041-groznie-na-rynku-ropy-pojawil-sie-drugi-front-konfliktu",
+          "source": "Rzeczpospolita"
+        },
+        {
           "title": "Kryzys na Bliskim Wschodzie na żywo: Stany Zjednoczone wznawiają ataki na Iran, po tym jak Trump grozi „bardzo mocnym” atakiem na obiekt nuklearny",
           "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
           "source": "The Guardian"
@@ -2536,7 +2552,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 14,
+      "score": 13,
       "reasons": [
         {
           "title": "Zwolnienie najwyższego generała Ukrainy sygnalizuje koniec pewnej ery",
@@ -2552,22 +2568,11 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 14,
+      "score": 13,
       "reasons": [
         {
           "title": "Minister spraw zagranicznych Iranu opisuje moment ataku, w wyniku którego zginął Chamenei",
           "url": "https://www.theguardian.com/world/2026/jul/22/iran-foreign-minister-abbas-aragchi-attack-killed-khamenei",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Jemen",
-      "score": 9,
-      "reasons": [
-        {
-          "title": "Kryzys na Bliskim Wschodzie na żywo: Stany Zjednoczone wznawiają ataki na Iran, po tym jak Trump grozi „bardzo mocnym” atakiem na obiekt nuklearny",
-          "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
           "source": "The Guardian"
         }
       ]
@@ -2769,51 +2774,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25876.85,
+      25878.35,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27050.45,
+      27052.02,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27198.57,
+      27200.15,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27445.46,
+      27447.05,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28086.26,
+      28087.89,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28122.59,
+      28124.22,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28369.22,
+      28370.86,
       27354.94,
       27400.36,
       27412.11,
-      28773.83,
+      28775.5,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28028.6,
+      28030.23,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28209.75,
+      28211.38,
       27686.17,
       27404.78,
       27351.97,
@@ -2822,7 +2827,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27915.79,
+      27917.4,
       27930.04,
       28234.04,
       28218.36,
@@ -2831,14 +2836,14 @@
       28294.39,
       28203.83,
       28555.17,
-      28756.11,
+      28757.77,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28309.32,
+      28310.96,
       28242.11,
-      28504.85
+      28506.5
     ],
     "currency": "PLN"
   }
