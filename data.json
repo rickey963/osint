@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T18:17:09Z",
+  "last_updated": "2026-07-22T18:17:49Z",
   "poland": [
     {
       "title": "Potężny pożar na Śląsku. Słup dymu nad kamienicą w Chorzowie - Polskie Radio 24",
@@ -766,28 +766,28 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualności na żywo dotyczące wojny w Iranie: Trump grozi odwetem wobec celów cywilnych, jeśli Iran uderzy w cieśninie",
+      "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+      "date": "2026-07-22T18:15:10Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Prezydent Trump powiedział, że jeśli Iran ostrzela Cieśninę Ormuz, Stany Zjednoczone zaatakują most lub elektrownię, w tym w stolicy Iranu lub w jej pobliżu. Sekretarz stanu Marco Rubio zasugerował wcześniej, że Teheran „nie poważnie” podchodzi do dyplomacji."
+    },
+    {
+      "title": "Dlaczego młodzi ludzie w Indiach protestują?",
+      "url": "https://www.nytimes.com/2026/07/22/world/asia/india-youth-protest-modi-cockroach-janta-party.html",
+      "date": "2026-07-22T18:13:16Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Ruch kierowany przez młodzież wściekły na system edukacji i brak miejsc pracy stanowi rzadkie wyzwanie dla rządu, który rządzi od ponad dziesięciu lat twardą ręką."
+    },
+    {
       "title": "Izraelskie banki grożą odcięciem gospodarki palestyńskiej",
       "url": "https://www.nytimes.com/2026/07/22/world/middleeast/israeli-banks-palestinian-economy.html",
       "date": "2026-07-22T18:08:14Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Dwie izraelskie firmy finansowe od dawna są partnerami banków palestyńskich, obsługując transakcje umożliwiające znaczną część importu i eksportu na Zachodnim Brzegu."
-    },
-    {
-      "title": "Dlaczego młodzi ludzie w Indiach protestują?",
-      "url": "https://www.nytimes.com/2026/07/22/world/asia/india-youth-protest-modi-cockroach-janta-party.html",
-      "date": "2026-07-22T18:05:48Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Ruch kierowany przez młodzież wściekły na system edukacji i brak miejsc pracy stanowi rzadkie wyzwanie dla rządu, który rządzi od ponad dziesięciu lat twardą ręką."
-    },
-    {
-      "title": "Aktualności na żywo dotyczące wojny w Iranie: Trump grozi odwetem wobec celów cywilnych, jeśli Iran uderzy w cieśninie",
-      "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
-      "date": "2026-07-22T18:04:47Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Prezydent Trump powiedział, że jeśli Iran ostrzela Cieśninę Ormuz, Stany Zjednoczone zaatakują most lub elektrownię, w tym w stolicy Iranu lub w jej pobliżu. Sekretarz stanu Marco Rubio zasugerował wcześniej, że Teheran „nie poważnie” podchodzi do dyplomacji."
     },
     {
       "title": "Pożądane porozumienie nuklearne USA jest zamachem stanu dla saudyjskiego księcia koronnego",
@@ -958,14 +958,6 @@
       "summary": "Trump mówi, że loty między USA a Libanem mogą zostać wznowione i obiecuje pomoc dla tego kraju po spotkaniu z prezydentem AP News."
     },
     {
-      "title": "Francuscy prawodawcy zatwierdzają całkowity zakaz korzystania z mediów społecznościowych dla dzieci poniżej 15 roku życia – AP News",
-      "url": "https://apnews.com/article/france-social-media-ban-macron-94abd981ccea85138af314cfb1ea62cf",
-      "date": "2026-07-21T21:34:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Francuscy prawodawcy zatwierdzają całkowity zakaz korzystania z mediów społecznościowych dla dzieci poniżej 15 roku życia AP News."
-    },
-    {
       "title": "Nowe zagrożenie ze strony jemeńskich Houthi może rozszerzyć wojnę w Iranie i zagrozić kolejnemu wąskiemu dławikowi w handlu – AP News",
       "url": "https://apnews.com/article/yemen-saudi-houthis-attack-shipping-red-sea-4e25fbdad821762e478173e6308884fb",
       "date": "2026-07-21T19:04:15Z",
@@ -980,6 +972,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Prawnik prowadzący drażliwą sprawę o nadużycia w Watykanie ostro krytykuje tajny system prawny Kościoła AP News."
+    },
+    {
+      "title": "Francuscy prawodawcy zatwierdzają całkowity zakaz korzystania z mediów społecznościowych dla dzieci poniżej 15 roku życia – AP News",
+      "url": "https://apnews.com/article/france-social-media-ban-macron-94abd981ccea85138af314cfb1ea62cf",
+      "date": "2026-07-21T18:11:17Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Francuscy prawodawcy zatwierdzają całkowity zakaz korzystania z mediów społecznościowych dla dzieci poniżej 15 roku życia AP News."
     },
     {
       "title": "Sędzia zatwierdza ugodę Anthropic na kwotę 1,5 miliarda dolarów w związku z pirackimi książkami używanymi do szkolenia chatbota Claude’a – AP News",
@@ -2020,14 +2020,6 @@
       "summary": "Środowa sesja na Giełdzie Papierów Wartościowych w Warszawie przynosi wyraźne umocnienie spółek z sektora energetycznego. Prym wiodą największe podmioty w tej branży."
     },
     {
-      "title": "Luksusowe apartamenty w Warszawie biją rekordy. Najważniejszy pozostaje niejawny adres - Forbes",
-      "url": "https://www.forbes.pl/warszawa-przyciaga-najbogatszych-luksusowe-apartamenty-tylko-dla-wybranych/ng2d1ek",
-      "date": "2026-07-22T10:12:36Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Luksusowe apartamenty w Warszawie biją rekordy. Najważniejszy pozostaje niejawny adres Forbes."
-    },
-    {
       "title": "Polska nie ma problemu z przedsiębiorczością. Ma problem ze skalowaniem firm.",
       "url": "https://www.money.pl/gospodarka/polska-nie-ma-problemu-z-przedsiebiorczoscia-ma-problem-ze-skalowaniem-firm-7308054423640064a.html",
       "date": "2026-07-22T10:09:00Z",
@@ -2210,6 +2202,14 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Prezydent podpisał ustawę o osobach starszych i koordynacji opieki długoterminowej. To otwiera drogę do uruchomienia bonu senioralnego jeszcze w 2026 r. Nowe wsparcie mają realizować samorządy, które będą musiały organizować usługi, analizować dane i raportować wykonane działania."
+    },
+    {
+      "title": "Oto jak social media kreują trendy, windując ceny żywności - Forbes",
+      "url": "https://www.forbes.pl/life/pistacje-awokado-i-matcha-podbijaja-swiat-dlaczego-placimy-coraz-wiecej/lbb8ch6",
+      "date": "2026-07-21T11:17:33Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Oto jak social media kreują trendy, windując ceny żywności Forbes."
     }
   ],
   "critical_alerts": [
@@ -2786,7 +2786,7 @@
       28301.19,
       28242.11,
       28496.66,
-      28491.65
+      28488.28
     ],
     "currency": "PLN"
   }
