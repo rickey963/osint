@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T09:49:30Z",
+  "last_updated": "2026-07-23T09:50:24Z",
   "poland": [
     {
       "title": "Niemcy przebudowują „pas śmierci”. Dawne pogranicze RFN i NRD na liście UNESCO?",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Kino domowe za ułamek ceny. TOP 5 niedrogich projektorów do filmów i seriali",
+      "url": "https://www.instalki.pl/news/tv-audio/top-5-niedrogich-projektorow-do-filmow-i-seriali-do-1500-zl/",
+      "date": "2026-07-23T09:49:24Z",
+      "source": "Instalki.pl",
+      "confirmed_by": 1,
+      "summary": "Szukasz budżetowego projektora, który z powodzeniem zastąpi telewizor w salonie lub sypialni? Przeanalizowaliśmy rynek urządzeń w okolicach 1000-1500 złotych. W tym przedziale cenowym można już wymagać przyzwoitej rozdzielczości Full HD i wbudowanych systemów Smart TV."
+    },
+    {
       "title": "Źródła: Intel i AMD podpisują długoterminowe zobowiązania dotyczące zakupu procesorów serwerowych z chińskimi klientami; ceny niektórych procesorów wzrosły w Chinach od początku roku o ponad 40% (Reuters)",
       "url": "https://www.techmeme.com/260723/p10#a260723p10",
       "date": "2026-07-23T09:45:12Z",
@@ -1304,14 +1312,6 @@
       "summary": "Adres URL artykułu: https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49017265 Punkty: 75 # Komentarze: 49."
     },
     {
-      "title": "Debata na temat wyjazdu założyciela Moonshot AI Yang Zhilina z USA pomija szerszą rzeczywistość strukturalną: Chiny zbudowały rodzimy potok talentów w zakresie sztucznej inteligencji (Zijing Wu/Financial Times)",
-      "url": "https://www.techmeme.com/260723/p3#a260723p3",
-      "date": "2026-07-23T05:20:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Zijing Wu / Financial Times: Debata na temat wyjazdu założyciela Moonshot AI Yang Zhilina z USA pomija szerszą rzeczywistość strukturalną: Chiny zbudowały rodzimy potok talentów w zakresie sztucznej inteligencji &mdash; Więcej przedsiębiorców z Chin uważa, że ​​w kraju są teraz większe możliwości niż w Dolinie Krzemowej."
-    },
-    {
       "title": "Orki łączą siły, by taranować słoneczniki, aż eksplodują",
       "url": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
       "date": "2026-07-23T04:00:38Z",
@@ -1440,6 +1440,14 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Badacze bezpieczeństwa z Sysdig opisali kampanię powiązaną z JadePuffer, w której cyberprzestępcy wykorzystali agenta AI bazującego na LLM (large language model) do przeprowadzenia ataku. Nie byłoby w tym nic dziwnego – w końcu atakujący od dawna wspierają się narzędziami bazującymi na sztucznej inteligencji. Tym razem jednak cała akcja została przeprowadzona..."
+    },
+    {
+      "title": "Dziewięcioletnia luka w systemie RefluXFS w systemie Linux umożliwia lokalnym użytkownikom rootowanie domyślnych instalacji RHEL",
+      "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+      "date": "2026-07-23T08:04:35Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "RefluXFS, nowa luka w jądrze Linuksa ujawniona 22 lipca i oznaczona jako CVE-2026-64600, umożliwia nieuprzywilejowanemu użytkownikowi lokalnemu nadpisanie plików należących do roota w systemie plików XFS i uzyskanie stałego dostępu roota. Qualys twierdzi, że domyślne instalacje Red Hat Enterprise Linux i jego pochodnych, Fedora Server i Amazon Linux mogą spełniać warunki wykorzystania. Firma zademonstrowała wyścig."
     },
     {
       "title": "BusySnake – stealer atakujący cele o znaczeniu krytycznym w Rosji. Za kampanię odpowiada grupa APT Armored Likho",
@@ -1770,14 +1778,6 @@
       "summary": "Departament Sprawiedliwości Stanów Zjednoczonych poinformował o przejęciu ponad tysiąca domen wykorzystywanych do nielegalnego transmitowania meczów mundialu. Łącznie działania prowadzone w USA i państwach Ameryki Łacińskiej doprowadziły do zablokowania lub przejęcia prawie 3 tys. stron internetowych."
     },
     {
-      "title": "Krytyczny program SharePoint RCE CVE-2026-50522 w trakcie aktywnego wykorzystania po publicznym PoC",
-      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-      "date": "2026-07-21T14:57:51Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Według watchTowr trzecia usterka w SharePoint Server załatana przez Microsoft w ramach aktualizacji Patch Tuesday z lipca 2026 r. jest aktywnie wykorzystywana. Luka, o której mowa, to CVE-2026-50522 (wynik CVSS: 9,8), krytyczna deserializacja niezaufanych danych w programie Microsoft Office SharePoint, która może umożliwić nieautoryzowanemu atakującemu wykonanie kodu przez sieć. Microsoft przyznał DEVCORE."
-    },
-    {
       "title": "TikTok wybiela Chiny. Eksperci sprawdzili, co algorytm podsuwa Polakom",
       "url": "https://cyberdefence24.pl/technologie/tiktok-wybiela-chiny-eksperci-sprawdzili-co-algorytm-podsuwa-polakom",
       "date": "2026-07-21T12:02:43Z",
@@ -1811,6 +1811,14 @@
     }
   ],
   "finance": [
+    {
+      "title": "Ławrow żąda rozbrojenia Kijowa. USA nie wstrzymają dostaw broni dla Ukrainy",
+      "url": "https://www.bankier.pl/wiadomosc/Lawrow-zada-rozbrojenia-Kijowa-USA-nie-wstrzymaja-dostaw-broni-dla-Ukrainy-9172219.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-07-23T09:50:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Szef MSZ Rosji Siergiej Ławrow sprzeciwił się w czwartek podczas spotkania z sekretarzem stanu USA Markiem Rubio „dalszemu dozbrajaniu” Ukrainy. Amerykański dyplomata zadeklarował z kolei, że jego kraj chce zakończenia wojny, a polityka USA w kwestii dostaw broni nie ulegnie zmianie."
+    },
     {
       "title": "Polski atom przyspieszy. Nowelizacja specustawy skróci inwestycje nawet o dwa lata",
       "url": "https://www.bankier.pl/wiadomosc/Polski-atom-przyspieszy-Nowelizacja-specustawy-skroci-inwestycje-nawet-o-dwa-lata-9172208.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -1866,14 +1874,6 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Putin będzie wściekły. Kreml chce ukryć przed nim niewygodną prawdę Forsal.pl."
-    },
-    {
-      "title": "Jeździsz samochodem tej marki? Przygotuj się na częste spotkania z policją",
-      "url": "https://www.bankier.pl/wiadomosc/Najczesciej-kontrolowane-auta-w-Polsce-Te-5-marek-drogowka-ma-na-oku-9172193.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-07-23T08:50:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Wśród aut najczęściej kontrolowanych przez policjantów dominuje pięć marek, szczególnie popularnych w polskich komisach samochodowych – informuje „Auto Świat”. Co sprawia, że drogówka macha lizakami kierowcom jeżdżącym autami tych, a nie innych marek?"
     },
     {
       "title": "Alphabet i Tesla spadają po wynikach. Co wystraszyło inwestorów?",
@@ -2749,51 +2749,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25841.67,
+      25840.79,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27013.68,
+      27012.76,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27161.6,
+      27160.67,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27408.16,
+      27407.22,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28048.09,
+      28047.12,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28084.36,
+      28083.4,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28330.65,
+      28329.68,
       27354.94,
       27400.36,
       27412.11,
-      28734.72,
+      28733.73,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27990.5,
+      27989.54,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28171.4,
+      28170.43,
       27686.17,
       27404.78,
       27351.97,
@@ -2802,7 +2802,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27877.84,
+      27876.88,
       27930.04,
       28234.04,
       28218.36,
@@ -2811,15 +2811,15 @@
       28294.39,
       28203.83,
       28555.17,
-      28717.02,
+      28716.03,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28270.83,
+      28269.86,
       28242.11,
       28493.29,
-      28427.28
+      28426.31
     ],
     "currency": "PLN"
   }
