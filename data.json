@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T13:35:15Z",
+  "last_updated": "2026-07-23T13:36:00Z",
   "poland": [
     {
       "title": "Grupa nastolatków oferowała ataki hakerskie za pieniądze. Najmłodszy miał 12 lat",
@@ -79,7 +79,7 @@
       "date": "2026-07-23T13:16:34Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
-      "summary": "Cena ropy wzrosła w czwartek o ponad 6 proc., do 100 dol. za baryłkę. To efekt eskalacji konfliktu na Bliskim Wschodzie, w tym ataków jemeńskich Huti na tankowce na Morzu Czerwonym."
+      "summary": "Cena ropy wzrosła w czwartek o ponad 6 proc., do 100 dol. za baryłkę po tym, jak jemeńscy Huti zaatakowali tankowce na Morzu Czerwonym."
     },
     {
       "title": "Jest wniosek o uchylenie immunitetu Łukasza Mejzy. Prokuratura zarzuca mu m.in. wyłudzenia dotacji",
@@ -452,6 +452,14 @@
       "summary": "Giełda kryptowalut BitMEX zamyka Reuters."
     },
     {
+      "title": "Wall St oczekuje niższego otwarcia, ponieważ zyski Big Tech na nowo budzą obawy dotyczące wydatków na sztuczną inteligencję i skoki cen ropy – Reuters",
+      "url": "https://www.reuters.com/business/autos-transportation/wall-st-futures-ease-big-tech-results-revive-ai-spending-worries-oil-jumps-2026-07-23/",
+      "date": "2026-07-23T13:05:29Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Wall St oczekuje niższego otwarcia, ponieważ zyski Big Tech ponownie budzą obawy dotyczące wydatków na sztuczną inteligencję, a ropa naftowa skacze Reuters."
+    },
+    {
       "title": "Porozumienie nuklearne Trumpa z Saudyjczykami odrzuca wieloletnie żądania USA",
       "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-23T12:58:40Z",
@@ -578,14 +586,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Źródła Reuters podają, że wydobycie ropy w Kazachstanie gwałtownie spada po atakach dronów, które wymusiły zamknięcie terminali eksportowych."
-    },
-    {
-      "title": "Notowania kontraktów terminowych na Wall St spadają, ponieważ zyski Big Tech na nowo budzą obawy dotyczące wydatków na sztuczną inteligencję i skoki cen ropy – Reuters",
-      "url": "https://www.reuters.com/business/autos-transportation/wall-st-futures-ease-big-tech-results-revive-ai-spending-worries-oil-jumps-2026-07-23/",
-      "date": "2026-07-23T11:13:52Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Kontrakty terminowe na Wall St spadają, ponieważ zyski Big Tech na nowo budzą obawy dotyczące wydatków na sztuczną inteligencję, a ropa naftowa skacze Reuters."
     },
     {
       "title": "IBM kupuje HRL Laboratories w związku z przejściem na dwutorową strategię obliczeń kwantowych – Reuters",
@@ -774,6 +774,14 @@
       "summary": "Najpierw jako żołnierz piechoty morskiej, a następnie jako dziennikarz, spędziłem lata związany z Afganistanem. Wróciłem po raz ostatni, aby porozmawiać z byłym wrogiem w poszukiwaniu odpowiedzi i być może zamknięcia."
     },
     {
+      "title": "Stany Zjednoczone są gotowe pomóc zakończyć „bezsensowną wojnę” na Ukrainie, ale nie ma przed nimi szybkiego porozumienia, mówi Rubio – AP News",
+      "url": "https://apnews.com/article/asean-rubio-lavrov-russia-ukraine-502b5eb2dc21caf13fab7928acdc5b1e",
+      "date": "2026-07-23T13:23:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Stany Zjednoczone są gotowe pomóc zakończyć „bezsensowną wojnę” na Ukrainie, ale nie ma przed nimi szybkiego porozumienia, mówi Rubio AP News."
+    },
+    {
       "title": "Oto najnowsze.",
       "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump/heres-the-latest",
       "date": "2026-07-23T13:16:39Z",
@@ -836,14 +844,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Oficer wywiadu wojskowego opuścił kraj po tym, jak „The Times” doniósł, że wykorzystywał biuro linii lotniczych Aeroflot w Tokio do prowadzenia szpiegostwa."
-    },
-    {
-      "title": "Stany Zjednoczone są gotowe pomóc zakończyć „bezsensowną wojnę” na Ukrainie, ale nie ma przed nimi szybkiego porozumienia, mówi Rubio – AP News",
-      "url": "https://apnews.com/article/asean-rubio-lavrov-russia-ukraine-502b5eb2dc21caf13fab7928acdc5b1e",
-      "date": "2026-07-23T10:35:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Stany Zjednoczone są gotowe pomóc zakończyć „bezsensowną wojnę” na Ukrainie, ale nie ma przed nimi szybkiego porozumienia, mówi Rubio AP News."
     },
     {
       "title": "UE nakłada na Google karę w wysokości 1 miliarda dolarów za sklep z aplikacjami Play i wyszukiwarkę – AP News",
@@ -2132,6 +2132,14 @@
       "summary": "Prezes UOKiK postawił zarzuty naruszenia zbiorowych interesów konsumentów spółce Autocentrum AAA Auto. Urząd kwestionuje sposób sprzedaży samochodów na kredyt, bo z ustaleń UOKiK wynika, że konsumenci mogli kupić auto na raty wyłącznie po dokupieniu dodatkowych produktów lub usług. W grę wchodziły m.in."
     },
     {
+      "title": "Analiza techniczna OW20H264175 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/OW20H264175",
+      "date": "2026-07-22T15:53:48Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Analiza techniczna OW20H264175 BiznesRadar."
+    },
+    {
       "title": "W poszukiwaniu sygnałów - 22 lipca 2026 - WIG na nowych maksimach",
       "url": "https://strefainwestorow.pl/blog/w-poszukiwaniu-sygnalow/w-poszukiwaniu-sygnalow-22-lipca-2026-wig-na-nowych-maksimach",
       "date": "2026-07-22T15:29:27Z",
@@ -2148,28 +2156,20 @@
       "summary": "Wzrost kosztów operacyjnych i konkurencja cenowa ze strony dostawców spoza Unii Europejskiej są dziś największymi problemami firm obsługujących branżę automotive – wynika z badania Keralla Research dla Bibby Financial Services. Na oba czynniki zwraca uwagę po 38 proc. przedsiębiorstw."
     },
     {
+      "title": "Analiza techniczna INTLBCO99499 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/INTLBCO99499",
+      "date": "2026-07-22T14:48:01Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Analiza techniczna INTLBCO99499 INGBANK BiznesRadar."
+    },
+    {
       "title": "Notowania INTLXTB99432 INGBANK - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/INTLXTB99432",
       "date": "2026-07-22T14:47:15Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania INTLXTB99432 INGBANK BiznesRadar."
-    },
-    {
-      "title": "Stopa zwrotu INTSBCO97980 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/stopa-zwrotu/INTSBCO97980",
-      "date": "2026-07-22T14:27:38Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Stopa zwrotu INTSBCO97980 INGBANK BiznesRadar."
-    },
-    {
-      "title": "[BR Premium] Co robią grube ryby: TFI PZU (II kwartał 2026) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149502,br-premium-co-robia-grube-ryby-tfi-pzu-ii-kwartal-2026",
-      "date": "2026-07-22T13:54:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "[BR Premium] Co robią grube ryby: TFI PZU (II kwartał 2026) BiznesRadar."
     },
     {
       "title": "„Odporność buduje się przed kryzysem”. Małgorzata Kopka-Piątek o roli kobiet w bezpieczeństwie Polski - Forbes",
@@ -2734,51 +2734,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25907.59,
+      25906.77,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27082.59,
+      27081.74,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27230.89,
+      27230.03,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27478.07,
+      27477.2,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28119.63,
+      28118.75,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28156.0,
+      28155.12,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28402.92,
+      28402.03,
       27354.94,
       27400.36,
       27412.11,
-      28808.02,
+      28807.11,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28061.9,
+      28061.02,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28243.26,
+      28242.37,
       27686.17,
       27404.78,
       27351.97,
@@ -2787,7 +2787,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27948.95,
+      27948.07,
       27930.04,
       28234.04,
       28218.36,
@@ -2796,16 +2796,16 @@
       28294.39,
       28203.83,
       28555.17,
-      28790.27,
+      28789.36,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28342.95,
+      28342.06,
       28242.11,
       28493.29,
-      28499.8,
-      28263.37
+      28498.9,
+      28268.71
     ],
     "currency": "PLN"
   }
