@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T23:12:53Z",
+  "last_updated": "2026-07-23T23:13:25Z",
   "poland": [
     {
       "title": "USA nakładają nowe cła na 60 krajów. Sprytny manewr administracji Trumpa",
@@ -404,14 +404,6 @@
   ],
   "world_security": [
     {
-      "title": "Kanada rozważy podjęcie działań odwetowych w związku z najnowszymi cłami Trumpa, twierdzi Carney – Reuters",
-      "url": "https://www.reuters.com/business/canada-will-do-whatever-it-takes-trade-war-with-us-says-carney-2026-07-23/",
-      "date": "2026-07-23T22:58:43Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Carney twierdzi, że Kanada rozważy podjęcie odwetu w związku z najnowszymi cłami Trumpa, twierdzi Carney Reuters."
-    },
-    {
       "title": "Kryzys na Bliskim Wschodzie „wymyka się spod kontroli” – ostrzega szef ONZ w związku z obawami, że spirala eskalacji nabierze tempa – aktualizacje na żywo",
       "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
       "date": "2026-07-23T22:58:37Z",
@@ -458,6 +450,14 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Dzień handlowy: Spal, kochanie, spal Reuters."
+    },
+    {
+      "title": "Nvidia i Amkor zawarły umowę o wartości 1,5 miliarda dolarów na pakowanie chipów – Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/nvidia-amkor-strike-15-billion-chip-packaging-deal-2026-07-23/",
+      "date": "2026-07-23T21:46:04Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Nvidia i Amkor zawarły umowę o wartości 1,5 miliarda dolarów na pakowanie chipów Reuters."
     },
     {
       "title": "Indyjska aktywistka kończy strajk głodowy po 26 dniach",
@@ -798,6 +798,14 @@
       "summary": "Służby zdrowia USA badają nową epidemię pasożyta wywołującego biegunkę. AP News."
     },
     {
+      "title": "Śmiertelne postrzelenie przez policję mężczyzny z nożem w Madison w stanie Wisconsin – AP News",
+      "url": "https://apnews.com/article/police-shooting-madison-knife-protests-listening-session-f4efad72ed0dc5cad6005bb6e4a326dd",
+      "date": "2026-07-23T21:38:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Śmiertelne postrzelenie przez policję mężczyzny z nożem w Madison, Wisconsin AP News."
+    },
+    {
       "title": "Obecność wojskowa USA w Jordanii czyni ją celem Iranu",
       "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html",
       "date": "2026-07-23T21:16:38Z",
@@ -876,14 +884,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Arabia Saudyjska od dawna twierdzi, że warunkiem normalizacji stosunków z Izraelem byłaby droga do państwowości palestyńskiej, a perspektywa ta została odrzucona przez obecny rząd Izraela."
-    },
-    {
-      "title": "Śmiertelne postrzelenie przez policję mężczyzny z nożem w Madison w stanie Wisconsin – AP News",
-      "url": "https://apnews.com/article/police-shooting-madison-knife-protests-listening-session-f4efad72ed0dc5cad6005bb6e4a326dd",
-      "date": "2026-07-23T19:42:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Śmiertelne postrzelenie przez policję mężczyzny z nożem w Madison, Wisconsin AP News."
     },
     {
       "title": "Bracia Tate tracą prawicowych sojuszników po aresztowaniu",
@@ -1626,12 +1626,36 @@
       "summary": "W czwartek Google ogłosił nowy sposób logowania się użytkowników na swoje konta, umożliwiając im zrobienie filmu typu selfie. Według technologicznego giganta selfie do logowania to kolejna opcja oprócz istniejących metod odzyskiwania, umożliwiająca zalogowanie się na konto, w tym adres e-mail lub numer telefonu. Pomysł polega na wykorzystaniu wideo selfie jako sposobu na odzyskanie dostępu, jeśli użytkownik kiedykolwiek zostanie zablokowany lub nie będzie miał dostępu."
     },
     {
+      "title": "Atak Miasma Worm na Microsoft – GitHub wyłączył 73 repozytoria",
+      "url": "https://sekurak.pl/atak-miasma-worm-na-microsoft-github-wylaczyl-73-repozytoria/",
+      "date": "2026-07-23T08:25:47Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Na początku czerwca zasoby organizacji Microsoft Azure na GitHub zostały dotknięte kampanią Miasma Worm. GitHub wyłączył 73 repozytoria w czterech organizacjach GitHub Microsoftu po tym, jak złośliwy commit został wypchnięty do repozytorium Azure/durabletask. Atakujący umieścili pliki konfiguracyjne wykonujące payload kradnący poświadczenia, gdy programista otwiera repozytorium w Claude Code, Gemini CLI,..."
+    },
+    {
+      "title": "Od rekonesansu do zaszyfrowania infrastruktury: agent AI wyręcza cyberprzestępców. Szczegóły kampanii JadePuffer",
+      "url": "https://sekurak.pl/od-rekonesansu-do-zaszyfrowania-infrastruktury-agent-ai-wyrecza-cyberprzestepcow-szczegoly-kampanii-jadepuffer/",
+      "date": "2026-07-23T08:06:42Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Badacze bezpieczeństwa z Sysdig opisali kampanię powiązaną z JadePuffer, w której cyberprzestępcy wykorzystali agenta AI bazującego na LLM (large language model) do przeprowadzenia ataku. Nie byłoby w tym nic dziwnego – w końcu atakujący od dawna wspierają się narzędziami bazującymi na sztucznej inteligencji. Tym razem jednak cała akcja została przeprowadzona..."
+    },
+    {
       "title": "Dziewięcioletnia luka w systemie RefluXFS w systemie Linux umożliwia lokalnym użytkownikom rootowanie domyślnych instalacji RHEL",
       "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
       "date": "2026-07-23T08:04:35Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "RefluXFS, nowa luka w jądrze Linuksa ujawniona 22 lipca i oznaczona jako CVE-2026-64600, umożliwia nieuprzywilejowanemu użytkownikowi lokalnemu nadpisanie plików należących do roota w systemie plików XFS i uzyskanie stałego dostępu do roota. Qualys twierdzi, że domyślne instalacje Red Hat Enterprise Linux i jego pochodnych, Fedora Server i Amazon Linux mogą spełniać warunki wykorzystania. Firma zademonstrowała wyścig."
+    },
+    {
+      "title": "BusySnake – stealer atakujący cele o znaczeniu krytycznym w Rosji. Za kampanię odpowiada grupa APT Armored Likho",
+      "url": "https://sekurak.pl/busysnake-stealer-atakujacy-cele-o-znaczeniu-krytycznym-w-rosji-za-kampanie-odpowiada-grupa-apt-armored-likho/",
+      "date": "2026-07-23T07:55:30Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Badacze bezpieczeństwa za pośrednictwem portalu Securelist poinformowali o wykryciu nowej kampanii phishingowej powiązanej z nieznaną dotąd grupą APT (nazwaną przez analityków Armored Likho). Wszelkie poszlaki wskazują, że grupa ta jest również znana pod nazwą Eagle Werewolf. Jej celem są przede wszystkim instytucje rządowe oraz przedsiębiorstwa z sektora krytycznego w Rosji,..."
     },
     {
       "title": "Najmłodszy cyberprzestępca miał zaledwie 12 lat. Policja weszła do domów nastolatków",
@@ -1776,6 +1800,14 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Rozwój sztucznej inteligencji coraz wyraźniej zmienia strukturę zatrudnienia i zapotrzebowanie na kompetencje w Londynie. Największe firmy działające w brytyjskiej stolicy wraz z jej władzami chcą stworzyć rozwiązania, które pomogą pracownikom dostosować się do nowych wymagań, a przedsiębiorstwom znaleźć osoby z odpowiednimi kwalifikacjami. W centrum tych działań mają znaleźć się szkolenia, lepsze doradztwo zawodowe i ściślejsza współpraca biznesu z sektorem edukacji, a także nowe systemy monitorujące."
+    },
+    {
+      "title": "Czy open-source wystarczy do zapewnienia zgodności z NIS2/KSC2?",
+      "url": "https://sekurak.pl/czy-open-source-wystarczy-do-zapewnienia-zgodnosci-z-nis2-ksc2/",
+      "date": "2026-07-21T09:00:14Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Od kwietnia 2026 roku nowelizacja ustawy o KSC jest już faktem, a tysiące podmiotów i instytucji właśnie odkrywają, że spoczywają na nich (tak naprawdę od kilku lat zapowiadane) nowe obowiązki: samoidentyfikacja, wdrożenie SZBI, raportowanie incydentów i audyty. Terminy się zbliżają, a kary, choć objęte dwuletnią karencją (art. 35 ustawy nowelizującej),..."
     }
   ],
   "finance": [
@@ -1788,20 +1820,20 @@
       "summary": "Ile zarabiają autorzy książek? Według raportu Polskiej Sieci Ekonomii z 2025 r. średnio za jeden sprzedany egzemplarz dostają 2,87 zł, mimo że średnia cena detaliczna oscyluje wokół 58,50 zł."
     },
     {
-      "title": "Opcja OW20T263575 - Analiza techniczna - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/ow20t263575,analiza-techniczna.aspx",
-      "date": "2026-07-23T21:12:13Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Opcja OW20T263575 - Analiza techniczna stockwatch.pl."
-    },
-    {
       "title": "Mocna przecena na Wall Street. Ropa, Trump, Tesla , Google i cała reszta",
       "url": "https://www.bankier.pl/wiadomosc/Mocna-przecena-na-Wall-Street-Ropa-Trump-Tesla-Google-i-cala-reszta-9172656.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-23T21:03:00Z",
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Kombinacja eskalacji wojny z Iranem, zwyżkujących notowań ropy naftowej oraz rozczarowanie wynikami Google’a i Tesli sprawiły, że czwartkowa sesja na nowojorskich giełdach zakończyła się dotkliwymi spadkami głównych indeksów."
+    },
+    {
+      "title": "Opcja OW20T263875 - Analiza techniczna - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/opcja/ow20t263875,analiza-techniczna.aspx",
+      "date": "2026-07-23T19:17:18Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Opcja OW20T263875 - Analiza techniczna stockwatch.pl."
     },
     {
       "title": "Gigantyczna kara dla Google. USA odpowiadają UE",
@@ -1874,6 +1906,14 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "W Krajowym Rejestrze Długów widnieje 1,9 mln konsumentów, którzy mają do spłaty 40,4 mld zł zaległości. Średnio na jednego dłużnika przypada 21,5 tys. zł zaległości, a największe ryzyko koncentruje się w grupie 36-55 lat."
+    },
+    {
+      "title": "Zmasowany atak USA na Iran? Trump jest bliski decyzji",
+      "url": "https://www.bankier.pl/wiadomosc/Zmasowany-atak-USA-na-Iran-Trump-jest-bliski-decyzji-9172566.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-07-23T16:48:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Prezydent USA Donald Trump powiedział w czwartek portalowi Axios, że poważnie rozważa wznowienie dużych operacji bojowych przeciwko Iranowi, w tym ataki na większą skalę niż te przeprowadzone podczas \"Operacji Epicka Furia”."
     },
     {
       "title": "Tyle kosztuje euro. Kurs euro do złotego PLN/EUR 23.07.2026",
@@ -2010,14 +2050,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Dlaczego ona, a nie ja? Porównywanie się z innymi to największy złodziej energii na drodze do sukcesu [FELIETON] Forbes."
-    },
-    {
-      "title": "Opcja OW20T263725 - Notowania - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/OW20T263725,notowania.aspx",
-      "date": "2026-07-23T09:56:00Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Opcja OW20T263725 - Notowania stockwatch.pl."
     },
     {
       "title": "Grupa Kęty otwiera Aluprof France – ekspansja na rynek francuski - stockwatch.pl",
@@ -2260,8 +2292,8 @@
       "lng": 105.8,
       "type": "cyber",
       "region": "Rosja",
-      "description": "Phishing dla manekinów.",
-      "url": "https://www.theregister.com/patches/2026/07/23/year-long-russian-attacks-infect-users-as-soon-as-they-look-at-an-email/5277358"
+      "description": "Badacze bezpieczeństwa za pośrednictwem portalu Securelist poinformowali o wykryciu nowej kampanii phishingowej powiązanej z nieznaną dotąd grupą APT (nazwaną przez analityków Armored Likho).",
+      "url": "https://sekurak.pl/busysnake-stealer-atakujacy-cele-o-znaczeniu-krytycznym-w-rosji-za-kampanie-odpowiada-grupa-apt-armored-likho/"
     },
     {
       "lat": 55.5,
@@ -2743,51 +2775,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25918.5,
+      25929.4,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27093.99,
+      27105.39,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27242.35,
+      27253.81,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27489.64,
+      27501.21,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28131.47,
+      28143.31,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28167.86,
+      28179.71,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28414.88,
+      28426.84,
       27354.94,
       27400.36,
       27412.11,
-      28820.15,
+      28832.27,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28073.72,
+      28085.53,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28255.15,
+      28267.04,
       27686.17,
       27404.78,
       27351.97,
@@ -2796,7 +2828,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27960.72,
+      27972.49,
       27930.04,
       28234.04,
       28218.36,
@@ -2805,16 +2837,16 @@
       28294.39,
       28203.83,
       28555.17,
-      28802.39,
+      28814.51,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28354.88,
+      28366.82,
       28242.11,
       28493.29,
       28421.66,
-      28167.1
+      28178.95
     ],
     "currency": "PLN"
   }
