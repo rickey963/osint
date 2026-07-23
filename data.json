@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-23T16:59:09Z",
+  "last_updated": "2026-07-23T17:08:39Z",
   "poland": [
+    {
+      "title": "Nabywca wierzytelności z prawem do klauzuli wykonalności. Jest uchwała SN",
+      "url": "https://www.rp.pl/prawo-w-polsce/art44878491-nabywca-wierzytelnosci-z-prawem-do-klauzuli-wykonalnosci-jest-uchwala-sn",
+      "date": "2026-07-23T16:52:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Dopuszczalne jest nadanie klauzuli wykonalności na rzecz następcy prawnego wierzyciela także wtedy, gdy wszczęcie lub dalsze prowadzenie przez niego egzekucji jest możliwe na podstawie tytułu wykonawczego uzyskanego przez jego poprzednika prawnego."
+    },
     {
       "title": "Szukał przodków, pomógł wytypować zabójcę dziewczynki. Był nim jego krewny",
       "url": "https://www.rp.pl/przestepczosc/art44876721-szukal-przodkow-pomogl-wytypowac-zabojce-dziewczynki-byl-nim-jego-krewny",
@@ -8,6 +16,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Zabójca 13-letniej Izy z Gdyni wpadł, bo jego krewny chciał odkryć swoich przodków. Jego DNA trafiło do międzynarodowej bazy - służby poszły po nitce do kłębka i wytypowały kilkunastu mężczyzn, w tym Michała K."
+    },
+    {
+      "title": "Donald Tusk komentuje sytuację w PiS. Jednym zdaniem",
+      "url": "https://www.rp.pl/polityka/art44879431-donald-tusk-komentuje-sytuacje-w-pis-jednym-zdaniem",
+      "date": "2026-07-23T16:23:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "„Tak walczą o jedność partii, że kamień na kamieniu nie zostanie” – napisał w serwisie X premier Donald Tusk, komentując czwartkowe wydarzenia w siedzibie PiS przy ul. Nowogrodzkiej."
     },
     {
       "title": "Wystawili całą wioskę na sprzedaż. 15 domów z ziemią za mniej niż 1,7 mln zł",
@@ -144,22 +160,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Służby zatrzymały 36-latka podejrzewanego w sprawie \"sprowadzenia bezpośredniego niebezpieczeństwa katastrofy na autostradzie A1 koło Woźnik\"."
-    },
-    {
-      "title": "W kosmosie odkryto tajemniczy obiekt. Astronomowie nie do końca wiedzą, co to",
-      "url": "https://www.rp.pl/kosmos/art44875471-w-kosmosie-odkryto-tajemniczy-obiekt-astronomowie-nie-do-konca-wiedza-co-to",
-      "date": "2026-07-23T14:47:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Astronomowie odkryli w kosmosie gigantyczny obiekt, który stanowi dla nich niemałą zagadkę. Naukowcy mają problem z określeniem co dokładnie odkryli. Obiekt znajdujący się w systemie CD-35 2722 pasuje do definicji księżyca, ale ma wielkość olbrzymiej gazowej planety, takiej jak Jowisz."
-    },
-    {
-      "title": "Wojsko Polskie dostanie laser antydronowy polskiej produkcji",
-      "url": "https://radar.rp.pl/innowacje-w-armiach/art44876891-wojsko-polskie-dostanie-laser-antydronowy-polskiej-produkcji",
-      "date": "2026-07-23T14:46:22Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "ASBL, polski laser antydronowy z perspektywą wdrożenia operacyjnego, jest jednym z projektów obronnych, na które podpisano właśnie umowy w ramach programu PERUN."
     },
     {
       "title": "Fiasko rozmów na Nowogrodzkiej. \"Chcemy porozumienia, nie upokorzenia\"",
@@ -404,12 +404,28 @@
   ],
   "world_security": [
     {
+      "title": "Jemeńscy Houthi atakują saudyjski tankowiec, podczas gdy USA przeprowadzają kolejne ataki na Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-23T16:50:59Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Wspierana przez Iran grupa, która wcześniej ogłosiła „embargo morskie” nałożone na Arabię ​​Saudyjską, również twierdzi, że uderzyła w inny statek."
+    },
+    {
       "title": "Francja ewakuuje 20 000 mieszkańców w związku z rozprzestrzenianiem się pożarów na południowym zachodzie",
       "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-23T16:41:52Z",
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Większość ewakuowanych to turyści z kempingów wokół zatoki Arcachon we francuskim regionie Gironde."
+    },
+    {
+      "title": "Pożary we Francji zmuszają tysiące ludzi do ucieczki, ponieważ w ocieplającej się Europie utrzymują się warunki panujące w pojemnikach z proszkiem – Reuters",
+      "url": "https://www.reuters.com/business/environment/france-wildfire-forces-thousands-flee-tinder-box-conditions-persist-warming-2026-07-23/",
+      "date": "2026-07-23T16:41:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Pożary we Francji zmuszają tysiące ludzi do ucieczki, ponieważ w ocieplającej się Europie utrzymują się warunki panujące w pojemnikach z proszkiem do palenia Reuters."
     },
     {
       "title": "Trump rozważa „masowy atak” na Iran, głosi raport – Kryzys na Bliskim Wschodzie na żywo",
@@ -425,7 +441,7 @@
       "date": "2026-07-23T16:36:51Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "W niektórych częściach Morza Śródziemnego temperatura w niektórych częściach Morza Śródziemnego jest o 5 stopni wyższa niż normalnie, a w Hiszpanii spodziewana jest temperatura powietrza powyżej 44 stopni Celsjusza. Europa na żywo – najnowsze aktualizacje Brutalne upały, które trawiły południową Europę, zmusiły ponad 20 000 ludzi do ucieczki przed pożarami we Francji, gdy morska fala upałów parzy Morze Śródziemne, a badacze ostrzegają, że nie można wykluczyć „danteńskich” scenariuszy w miarę nasilenia się piekła. „Szczególnie intensywny” pożar na atlantyckim wybrzeżu Francji wywołał serię ewakuacje, w tym tysiące turystów z kempingów i innych obiektów wakacyjnych, podczas gdy strażacy usiłowali opanować pożar. Kontynuuj czytanie..."
+      "summary": "W niektórych częściach Morza Śródziemnego o 5 stopni cieplej niż zwykle, a w Hiszpanii spodziewana jest temperatura powietrza powyżej 44 stopni Celsjusza. Europa na żywo – najnowsze aktualizacje Brutalne upały, które trawiły południową Europę, zmusiły ponad 20 000 ludzi do ucieczki przed pożarami we Francji, gdy morska fala upałów parzy Morze Śródziemne, a badacze ostrzegają, że nie można wykluczyć „danteńskich” scenariuszy w miarę nasilenia się piekła. „Szczególnie intensywny” pożar na atlantyckim wybrzeżu Francji wywołał serię ewakuacje, w tym tysiące turystów z kempingów i innych obiektów wakacyjnych, ponieważ strażacy usiłowali opanować pożar. Kontynuuj czytanie..."
     },
     {
       "title": "Burmistrz zastrzelony w Meksyku kilka miesięcy po tym, jak przeżył zamach",
@@ -442,6 +458,14 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Spalanie gotówki przez Alphabet budzi niepokój w Big Tech w miarę wzrostu wydatków na sztuczną inteligencję Reuters."
+    },
+    {
+      "title": "Nastolatka skazana w Gwinei za ściąganie na egzaminach umiera w wyniku powikłań sierpowatokrwinkowych – mówi ojciec",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-23T16:26:49Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Na początku tego miesiąca Mamadou Djouma Bah, lat 17, został aresztowany i skazany na karę więzienia za fałszowanie egzaminów."
     },
     {
       "title": "Saudyjczycy muszą uznać Izrael za porozumienie nuklearne, mówi Trump",
@@ -465,7 +489,7 @@
       "date": "2026-07-23T16:13:00Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Mychajło Fiodorow twierdzi, że tylko na swoim poprzednim stanowisku byłby w stanie „zwalczyć korupcję w zamówieniach publicznych i dokończyć transformację armii”. Szefowa polityki zagranicznej UE Kaja Kallas przedstawiła nieco więcej szczegółów na temat nowego pakietu sankcji, mówiąc, że są to „największa runda sankcji od czterech lat” i „uderzą Putina tam, gdzie najbardziej boli”. sektor energetyczny, który utrzymuje rosyjską gospodarkę wojenną. Kontynuuj czytanie..."
+      "summary": "Mychajło Fiodorow twierdzi, że tylko na swoim poprzednim stanowisku mógłby „zwalczyć korupcję w zamówieniach publicznych i dokończyć transformację armii”. Szefowa polityki zagranicznej UE Kaja Kallas przedstawiła nieco więcej szczegółów na temat nowego pakietu sankcji, mówiąc, że są to „największa runda sankcji od czterech lat” i „uderzą Putina tam, gdzie najbardziej boli”. sektor energetyczny, który utrzymuje rosyjską gospodarkę wojenną. Kontynuuj czytanie..."
     },
     {
       "title": "Były gubernator skazany za zamordowanie ciężarnej studentki w Kenii",
@@ -476,28 +500,12 @@
       "summary": "Okoth Obado został uznany za winnego zabicia Sharon Otieno, z którą miał romans."
     },
     {
-      "title": "Jemeńscy Houthi atakują saudyjski tankowiec, podczas gdy USA przeprowadzają kolejne ataki na Iran",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-23T16:04:15Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Wspierana przez Iran grupa, która wcześniej ogłosiła „embargo morskie” na Arabię ​​Saudyjską, również twierdzi, że uderzyła w inny statek."
-    },
-    {
       "title": "Ustawodawca Nikaragui debatuje nad zakazaniem opozycji udziału w wyborach",
       "url": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-23T15:54:41Z",
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Decyzja ta nastąpiła kilka dni po tym, jak prezydent Daniel Ortega zażądał „muru i blokady” przeciwko partiom opozycji."
-    },
-    {
-      "title": "Pożary we Francji zmuszają tysiące ludzi do ucieczki, ponieważ w ocieplającej się Europie utrzymują się warunki panujące w pojemnikach z proszkiem – Reuters",
-      "url": "https://www.reuters.com/business/environment/france-wildfire-forces-thousands-flee-tinder-box-conditions-persist-warming-2026-07-23/",
-      "date": "2026-07-23T15:53:47Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Pożary we Francji zmuszają tysiące ludzi do ucieczki, ponieważ w ocieplającej się Europie utrzymują się warunki panujące w pojemnikach z proszkiem do palenia Reuters."
     },
     {
       "title": "Biały Dom monitoruje incydent związany z „nieuczciwą” sztuczną inteligencją OpenAI, gdy prawodawcy naciskają wyłącznik – Reuters",
@@ -524,7 +532,7 @@
       "summary": "Szwedzka organizacja non-profit twierdzi, że koszt naprawy repliki wyniósł 6000 dolarów, ale Universal – który zarobił 264 miliony dolarów w weekend premiery filmu – nie popisał się 1040 znaleziony w duńskim fiordzie Roskilde – z powodzeniem przepłynął Morze Północne, Bałtyk, a nawet dopłynął do Kanady. Kontynuuj czytanie..."
     },
     {
-      "title": "„Nadal żyję”: Indyjska działaczka prowadząca od 26 dni strajk głodowy schudła 11 kg",
+      "title": "„Jeszcze żyję”: Indyjska aktywistka prowadząca od 26 dni strajk głodowy schudła 11 kg",
       "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-23T15:22:06Z",
       "source": "BBC News",
@@ -556,6 +564,14 @@
       "summary": "EKSKLUZYWNIE: Iran wysłał dowódców IRGC ze sprzętem rakietowym dla jemeńskich Houthi, źródła podają Reuters."
     },
     {
+      "title": "Źródła podają, że dyrektorzy naftowi spieszą się z dokończeniem migracji kontraktowej do Wenezueli – Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-executives-rush-complete-contract-migration-venezuela-sources-say-2026-07-23/",
+      "date": "2026-07-23T15:08:31Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Źródła Reuters podają, że dyrektorzy naftowi spieszą się z zakończeniem migracji kontraktowej do Wenezueli."
+    },
+    {
       "title": "Pauline Hanson za złą prasę obwinia media „fałszywych wiadomości”. Ale poważni przywódcy muszą być odpowiedzialni za swoje działania",
       "url": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb",
       "date": "2026-07-23T15:00:47Z",
@@ -577,7 +593,7 @@
       "date": "2026-07-23T14:49:16Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Trump ustala porozumienie nuklearne z Arabią Saudyjską, dołączając do Abraham Accords Reuters."
+      "summary": "Trump ustala porozumienie nuklearne z Arabią Saudyjską, przyłączając się do Porozumień Abrahamowych Reuters."
     },
     {
       "title": "Transakcja EA Arabii Saudyjskiej PIF o wartości 55 miliardów dolarów zatwierdzona zgodnie z unijnymi przepisami dotyczącymi fuzji – Reuters",
@@ -625,7 +641,7 @@
       "date": "2026-07-23T14:24:01Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Mężczyźni zostali skazani za rzekomy plan przeprowadzenia zamachu stanu i zorganizowania śmiercionośnych demonstracji w związku z cenami paliwa w zeszłym roku Dwóch Rosjan zostało uznanych przez angolski sąd za winnych terroryzmu i szpiegostwa po oskarżeniu ich o planowanie zamachu stanu i pomoc w organizacji śmiercionośnych demonstracji w tym południowoafrykańskim kraju w zeszłym roku. Lew Laksztanow i Igor Ratchin zostali skazani odpowiednio na 8 i 11 lat więzienia. Odpierali zarzuty, twierdząc, że przebywali w Angoli w celach kulturalnych i biznesowych. Kontynuuj czytanie..."
+      "summary": "Mężczyźni zostali skazani za rzekomy plan przeprowadzenia zamachu stanu i zorganizowania śmiercionośnych demonstracji w sprawie cen paliwa w zeszłym roku Dwóch Rosjan zostało uznanych przez angolski sąd za winnych terroryzmu i szpiegostwa po oskarżeniu ich o planowanie zamachu stanu i pomoc w organizacji śmiercionośnych demonstracji w tym południowoafrykańskim kraju w zeszłym roku. Lew Laksztanow i Igor Ratchin zostali skazani odpowiednio na 8 i 11 lat więzienia. Odpierali zarzuty, twierdząc, że przebywali w Angoli w celach kulturalnych i biznesowych. Kontynuuj czytanie..."
     },
     {
       "title": "Wall St spada, gdy zyski Big Tech na nowo budzą obawy dotyczące wydatków na sztuczną inteligencję; ropa naftowa osiągnęła 100 dolarów – Reuters",
@@ -668,14 +684,6 @@
       "summary": "Gwałtowny wzrost cen ropy odzwierciedla obawę, że bojówki Houthi mogą zdusić saudyjski eksport w miarę nasilenia się walk między USA a Iranem. Jak zagrożenie blokadą Bab al-Mandab spowodowało powrót ropy powyżej 100 dolarów. Cena ropy po raz pierwszy od dwóch miesięcy przekroczyła 100 dolarów za baryłkę, w związku z nową eskalacją konfliktu na Bliskim Wschodzie, która grozi pogłębieniem zakłóceń w światowych dostaw ropy. Referencyjna cena ropy gwałtownie wzrosła w czwartek z 95 dolarów dzień wcześniej, w obliczu obaw, że Jemeńska milicja Houthi może zdusić eksport saudyjskiej ropy przez Morze Czerwone, podczas gdy napięcia między USA a Iranem w związku z przepływem ropy przez cieśninę Ormuz nasilają się. Kontynuuj czytanie..."
     },
     {
-      "title": "Liczba tygodniowych bezrobotnych w USA spadła do najniższego poziomu od 1969 r. – Reuters",
-      "url": "https://www.reuters.com/world/us/us-weekly-jobless-claims-fall-sharply-latest-week-2026-07-23/",
-      "date": "2026-07-23T13:26:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Liczba tygodniowych bezrobotnych w USA spadła do najniższego poziomu od 1969 r. Reuters."
-    },
-    {
       "title": "Ryzyko choroby Parkinsona może wzrosnąć w przypadku długotrwałego narażenia na hałas drogowy",
       "url": "https://www.theguardian.com/society/2026/jul/23/road-traffic-noise-parkinsons-disease-study-health",
       "date": "2026-07-23T13:24:25Z",
@@ -697,7 +705,7 @@
       "date": "2026-07-23T12:49:55Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Władze lokalne potwierdziły, że po prawie pięciu godzinach funkcjonariusze schwytali zwierzę, a następnie wypuścili je na wolność."
+      "summary": "Władze lokalne potwierdziły, że po prawie pięciu godzinach służby schwytały zwierzę, a następnie wypuściły je na wolność."
     },
     {
       "title": "„Cieszmy się jazdą” – mówi Elon Musk w miarę narastania obaw AI",
@@ -729,7 +737,7 @@
       "date": "2026-07-23T09:55:27Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Jak twierdzi firma, hakerzy uzyskują dostęp do nazwisk, adresów, dat urodzenia, numerów telefonów i niektórych kont bankowych australijskich klientów. Śledź nasz australijski blog z aktualnościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. W wyniku włamania uzyskano dostęp do adresów, numerów telefonów i częściowych danych kont bankowych klientów Origin Energy – potwierdziła firma. Firma ma 4,8 mln kont klientów w Australii, dostarczających energię elektryczną, gaz kopalny, LPG i usługi internetowe do domów i firm. Kontynuuj czytanie..."
+      "summary": "Jak twierdzi firma, hakerzy uzyskują dostęp do nazwisk, adresów, dat urodzenia, numerów telefonów i niektórych kont bankowych klientów z Australii. Śledź nasz blog z aktualnościami z Australii, aby uzyskać najnowsze aktualizacje. Otrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. W wyniku włamania uzyskano dostęp do adresów, numerów telefonów i częściowych danych kont bankowych klientów Origin Energy – potwierdziła firma. Firma posiada 4,8 mln kont klientów w Australii, dostarczających energię elektryczną, gaz kopalny, LPG i usługi internetowe do domów i firm. Kontynuuj czytanie..."
     },
     {
       "title": "Pauline Hanson twierdzi, że w ujawnionym wywiadzie przemoc domowa uniemożliwia policji zajęcie się „prawdziwym przestępstwem”.",
@@ -754,32 +762,40 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "W ciągu kilku dni ukraińskie drony uderzyły w kilka magazynów detalicznych największego rosyjskiego sprzedawcy internetowego Wildberries."
-    },
-    {
-      "title": "Zablokowani przez cenzurę miłośnicy zwierząt w Chinach walczą z nadużyciami w Internecie i za granicą",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-23T05:46:09Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Zabicie psa i jej szczeniąt w Guangdong wywołało oburzenie w kraju i za granicą."
     }
   ],
   "world_politics": [
     {
       "title": "Aktualizacje na żywo wojny w Iranie: Ataki na Morzu Czerwonym powodują, że ceny ropy przekraczają 100 dolarów za baryłkę",
       "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
-      "date": "2026-07-23T16:35:47Z",
+      "date": "2026-07-23T16:55:53Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Cena ropy Brent wzrosła po tym, jak sojusznicy Iranu Houthi w Jemenie zaatakowali dwa saudyjskie tankowce. Izba oddała drugie głosowanie za ograniczeniem sił wojennych prezydenta Trumpa, a czterech Republikanów dołączyło do Demokratów, aby skarcić prezydenta."
     },
     {
-      "title": "Na przejściach granicznych w Iraku wybucha chaos",
+      "title": "Oto najnowsze.",
+      "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump/heres-the-latest",
+      "date": "2026-07-23T16:55:51Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": ""
+    },
+    {
+      "title": "Na przejściach granicznych z Irakiem wybucha chaos",
       "url": "https://www.nytimes.com/2026/07/23/world/middleeast/iraq-border-crossings-struck.html",
-      "date": "2026-07-23T16:35:07Z",
+      "date": "2026-07-23T16:52:56Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Filmy zweryfikowane przez „The New York Times” pokazują przejścia graniczne w południowym Iraku, które stają się najnowszym celem działań wojennych na Bliskim Wschodzie."
+    },
+    {
+      "title": "„Wszyscy tutaj umrzemy z powodu wirusa Ebola”: wirus atakuje zatłoczone obozy w Kongo",
+      "url": "https://www.nytimes.com/2026/07/23/world/africa/ebola-camps-congo-water-aid.html",
+      "date": "2026-07-23T16:47:14Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "W epicentrum przemocy znajduje się milion osób przesiedlonych. Żyją w niebezpiecznych warunkach i walczą z wirusem, używając bardzo małej ilości czystej wody."
     },
     {
       "title": "Arabii Saudyjskiej bogatej w ropę nie brakuje energii. Oto dlaczego chce przejść na technologię nuklearną.",
@@ -795,7 +811,7 @@
       "date": "2026-07-23T15:52:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Ropa Brent przekracza 100 dolarów za baryłkę, podczas gdy spadające ceny Tesli i Alphabet powodują spadek cen Wall Street AP News."
+      "summary": "Ropa Brent przekracza 100 dolarów za baryłkę, podczas gdy spadki Tesli i Alphabet powodują spadek cen Wall Street AP News."
     },
     {
       "title": "Zawrotny zwrot Zełenskiego to najnowszy zygzak w kadencji pełnej nich",
@@ -820,14 +836,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "W Europie, Azji i na Bliskim Wschodzie kraje poszukują potencjału nuklearnego, aby zabezpieczyć się przed agresywnymi sąsiadami i wycofującym się Waszyngtonem, co potencjalnie stworzy erę bardziej swobodnego ruchu."
-    },
-    {
-      "title": "Oto najnowsze.",
-      "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump/heres-the-latest",
-      "date": "2026-07-23T15:20:49Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": ""
     },
     {
       "title": "Debata na temat starożytnej irańskiej biżuterii noszonej przez Zendayę podczas wydarzenia „Odyseja”.",
@@ -910,14 +918,6 @@
       "summary": "Amish Shah wygrywa prawybory Demokratów w Kongresie w Arizonie, co jest ciosem dla establishmentu partii AP News."
     },
     {
-      "title": "„Wszyscy tutaj umrzemy z powodu wirusa Ebola”: wirus atakuje zatłoczone obozy w Kongo",
-      "url": "https://www.nytimes.com/2026/07/23/world/africa/ebola-camps-congo-water-aid.html",
-      "date": "2026-07-23T09:00:48Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "W epicentrum przemocy znajduje się milion osób przesiedlonych. Żyją w niebezpiecznych warunkach i walczą z wirusem, używając bardzo małej ilości czystej wody."
-    },
-    {
       "title": "Epidemia wirusa Ebola w Kongo zabiła ponad 1000 osób – AP News",
       "url": "https://apnews.com/article/congo-ebola-bundibugyo-ituri-154413267e8816b82c7561c352b90321",
       "date": "2026-07-23T07:41:00Z",
@@ -939,10 +939,10 @@
       "date": "2026-07-23T05:06:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Praca seksualna albo głód: Pracownicy pomocy w Nepalu, którzy pozostali bez pracy w wyniku cięć USAID, zwracają się do pracy seksualnej, aby przetrwać AP News."
+      "summary": "Praca seksualna albo głód: Pracownicy pomocy w Nepalu bezrobotni w wyniku cięć USAID zwracają się do pracy seksualnej, aby przetrwać AP News."
     },
     {
-      "title": "Policjant Wisconsin strzela i zabija mężczyznę na ulicy miejskiej w pobliżu Kapitolu stanu w Madison – AP News",
+      "title": "Policjant Wisconsin strzela i zabija mężczyznę na ulicy niedaleko Kapitolu stanu w Madison – AP News",
       "url": "https://apnews.com/article/madison-wisconsin-police-shooting-7755ab2ec68bda1a7d7890394f4b1267",
       "date": "2026-07-23T04:01:00Z",
       "source": "Associated Press",
@@ -1008,6 +1008,22 @@
   ],
   "technology": [
     {
+      "title": "Adam Mosseri twierdzi, że Instagram usunie „linię odbioru” i inne filmy nagrane w okularach Meta, które przedstawiają nękanie nieznajomych w miejscach publicznych (Katie Notopoulos/Business Insider)",
+      "url": "https://www.techmeme.com/260723/p32#a260723p32",
+      "date": "2026-07-23T16:50:02Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Katie Notopoulos / Business Insider: Adam Mosseri twierdzi, że Instagram wyłączy „linię odbioru” i inne filmy nagrane przy użyciu okularów Meta, przedstawiające molestowanie nieznajomych w miejscach publicznych &mdash; , Śledź starszego korespondenta zajmującego się technologią i kulturą &mdash; Instagram ostro krytykuje filmy kręcone przy użyciu okularów Meta &hellip;."
+    },
+    {
+      "title": "Uruchom HN: Screenpipe (YC S26) – Zasilaj swoich agentów nagrywaniem ekranu 24 godziny na dobę, 7 dni w tygodniu",
+      "url": "https://news.ycombinator.com/item?id=49024620",
+      "date": "2026-07-23T16:48:38Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Cześć Hacker News, jestem Louis. Zbudowałem Screenpipe (https://screenpipe.com). Screenpipe to aplikacja, która lokalnie nagrywa Twój ekran i dźwięk (tylko!) i zapewnia agentom AI możliwość przeszukiwania pamięci o tym, co widziałeś, powiedziałeś i usłyszałeś."
+    },
+    {
       "title": "Dorówna Fable 5 oraz GPT 5.6 i możesz go mieć za darmo. Co trzeba wiedzieć o Kimi K3?",
       "url": "https://antyweb.pl/co-trzeba-wiedziec-o-kimi-k3",
       "date": "2026-07-23T16:31:19Z",
@@ -1024,12 +1040,12 @@
       "summary": "Reuters: Źródła: Indie nakazały firmom telekomunikacyjnym wyłączenie mobilnych usług transmisji danych w centrum Delhi w związku z protestami młodzieży domagającej się dymisji ministra edukacji &mdash; Rząd Indii nakazał firmom telekomunikacyjnym wyłączenie mobilnych usług transmisji danych w centralnych częściach stolicy Delhi."
     },
     {
-      "title": "Microsoft testuje bezpłatne, wspierane reklamami gry w chmurze dla niejawnych testerów Xbox, ograniczone do godzinnych sesji w przypadku gier, które użytkownicy już posiadają (Stevie Bonifield/The Verge)",
+      "title": "Microsoft testuje bezpłatne, wspierane reklamami gry w chmurze dla niejawnych testerów Xbox, ograniczone do godzinnych sesji w przypadku gier posiadanych przez użytkowników; reklamy odtwarzane „przed rozpoczęciem sesji” (Stevie Bonifield/The Verge)",
       "url": "https://www.techmeme.com/260723/p30#a260723p30",
       "date": "2026-07-23T16:20:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Stevie Bonifield / The Verge: Microsoft testuje bezpłatne, wspierane reklamami gry w chmurze dla niejawnych testerów Xbox, ograniczone do godzinnych sesji w przypadku gier, które użytkownicy już posiadają &mdash; „Opcja bezpłatnego przesyłania strumieniowego jest nadal w fazie testów i jest ograniczona do godzinnych sesji w przypadku &lsquo;select&rsquo; zawody sportowe. &hellip; Liczba bezpłatnych sesji przesyłania strumieniowego jest ograniczona &hellip;."
+      "summary": "Stevie Bonifield / The Verge: Microsoft testuje bezpłatne, wspierane reklamami gry w chmurze dla niejawnych testerów Xbox, ograniczone do godzinnych sesji z grami, których używają użytkownicy; reklamy są odtwarzane &bdquo;przed rozpoczęciem sesji&rdquo; &mdash; „Opcja bezpłatnego przesyłania strumieniowego jest nadal w fazie testów i jest ograniczona do godzinnych sesji w przypadku &lsquo;select&rsquo; zawody sportowe."
     },
     {
       "title": "Firma Abstract Security, która oferuje platformę do wykrywania zagrożeń typu in-stream, pozyskała przedłużenie o 25 mln dolarów swojej serii A o wartości 15 mln dolarów, zwiększając całkowite finansowanie do 48,5 mln dolarów (Duncan Riley/SiliconANGLE)",
@@ -1045,7 +1061,7 @@
       "date": "2026-07-23T16:01:02Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://openjdk.org/jeps/540 Adres URL komentarzy: https://news.ycombinator.com/item?id=49023809 Punkty: 12 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://openjdk.org/jeps/540 Adres URL komentarzy: https://news.ycombinator.com/item?id=49023809 Punkty: 22 # Komentarze: 5."
     },
     {
       "title": "Rozdajemy Samsunga Galaxy Z Folda 8 i słuchawki. Musisz zrobić jedną rzecz",
@@ -1061,7 +1077,7 @@
       "date": "2026-07-23T15:45:51Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/Conradqh/scrapemychats Adres URL komentarzy: https://news.ycombinator.com/item?id=49023486 Punkty: 14 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://github.com/Conradqh/scrapemychats Adres URL komentarzy: https://news.ycombinator.com/item?id=49023486 Punkty: 18 # Komentarze: 3."
     },
     {
       "title": "Yelp podpisuje umowę z OpenAI, aby zapewnić użytkownikom ChatGPT lokalne rekomendacje w czasie rzeczywistym i wkrótce umożliwi im kontaktowanie się z lokalnymi firmami w celu uzyskania wyceny za pośrednictwem ChatGPT (Madison Mills/Axios)",
@@ -1085,7 +1101,7 @@
       "date": "2026-07-23T15:35:33Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels Adres URL komentarzy: https://news.ycombinator.com/item?id=49023291 Punkty: 18 # Komentarze: 11."
+      "summary": "Adres URL artykułu: https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels Adres URL komentarzy: https://news.ycombinator.com/item?id=49023291 Punkty: 26 # Komentarze: 14."
     },
     {
       "title": "UE wyda 4 razy więcej, niż szacowała. Taki będzie koszt wyeliminowania Huawei i ZTE z telekomów",
@@ -1101,23 +1117,23 @@
       "date": "2026-07-23T15:18:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Adres URL komentarzy: https://news.ycombinator.com/item?id=49023016 Punkty: 206 # Komentarze: 222."
+      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Adres URL komentarzy: https://news.ycombinator.com/item?id=49023016 Punkty: 237 # Komentarze: 254."
     },
     {
-      "title": "Zapytaj HN: Czy istnieje witryna internetowa, która śledzi nadmierne zapisy na dyskach SSD w wersjach beta systemu operacyjnego/aplikacji?",
-      "url": "https://news.ycombinator.com/item?id=49022990",
-      "date": "2026-07-23T15:16:31Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Jeśli nie, to dlaczego? W ten sposób użytkownicy będą mogli wybrać, czy chcą zainstalować różne wersje beta oprogramowania, w oparciu o stopień zużycia dysku SSD, jaki są skłonni zaakceptować. A ponieważ dane te byłyby upubliczniane i dostępne w jednym miejscu, twórcy oprogramowania byliby bardziej ostrożni w kwestii nadmiernego logowania się w swoich wersjach beta. Adres URL komentarzy: https://news.ycombinator.com/item?id=49022990 Punkty: 14 # Komentarze: 17."
-    },
-    {
-      "title": "Startup zajmujący się chipami wnioskowania AI, Etched, pozyskał 300 mln dolarów w ramach serii C, na czele której stoi Sequoia, z udziałem a16z, SK Hynix i innych, przy wycenie na poziomie 10,3 mld dolarów, w porównaniu z 5 mld dolarów w grudniu (Julie Bort/TechCrunch)",
+      "title": "Startup zajmujący się układami wnioskowania AI, Etched, pozyskał 300 mln dolarów w ramach serii C, na czele której stoi Sequoia, z udziałem a16z, SK Hynix i innych, przy wycenie na 10,3 mld dolarów, w porównaniu z 5 mld dolarów w grudniu (Julie Bort/TechCrunch)",
       "url": "https://www.techmeme.com/260723/p27#a260723p27",
       "date": "2026-07-23T15:15:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Julie Bort / TechCrunch: Startup zajmujący się chipami wnioskowania AI, Etched, zebrał 300 mln dolarów w ramach serii C, na czele której stoi Sequoia, z udziałem a16z, SK Hynix i innych, przy wycenie 10,3 mld dolarów, w porównaniu z 5 mld dolarów w grudniu. &mdash; Etched, startup zajmujący się chipami AI, założony w 2022 r. przez trzech absolwentów Harvardu, zamknął rundę finansowania serii C o wartości 300 milionów dolarów &hellip;."
+    },
+    {
+      "title": "Pokaż HN: Palmier Pro – edytor wideo dla systemu MacOS o otwartym kodzie źródłowym, zbudowany dla sztucznej inteligencji",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "date": "2026-07-23T15:11:37Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Cześć, HN, jesteśmy Marcos i Harrison, współzałożyciele Palmier (https://palmier.io). Budujemy Palmier Pro, edytor wideo macOS o otwartym kodzie źródłowym, z wbudowaną generacją AI i lokalnym serwerem MCP, który łączy się z Twoim agentem. Oto kilka demonstracji:Dokonywanie przejść AI: https://www.youtube.com/watch?v=hbM_-eR1GX4Edycja wielokamerowa za pomocą Codexu: https://www.youtube.com/watch?v=SjS2q2LT1q8Przycinanie długich klipów do krótkich: https://www.youtube.com/watch?v=PR66eN2ouuQStworzyliśmy Palmier Pro jako narzędzie wewnętrzne podczas tworzenia filmów uruchamiających sztuczną inteligencję dla innych startupów."
     },
     {
       "title": "Google musi zmienić wyszukiwarkę. Unia dowaliła potężną karę i ultimatum",
@@ -1133,7 +1149,7 @@
       "date": "2026-07-23T15:02:27Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/ThatXliner/NerdLens Adres URL komentarzy: https://news.ycombinator.com/item?id=49022790 Punkty: 11 # Komentarze: 4."
+      "summary": "Adres URL artykułu: https://github.com/ThatXliner/NerdLens Adres URL komentarzy: https://news.ycombinator.com/item?id=49022790 Punkty: 12 # Komentarze: 5."
     },
     {
       "title": "Ekstraklasa stawia na nowoczesność. Wielkie ułatwienie dla sędziów od przyszłego sezonu",
@@ -1142,14 +1158,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Od sezonu 2026/27 sędziowie Ekstraklasy porzucą wozy VAR pod stadionami i przeniosą się do centralnego Video Operation Room w siedzibie PZPN."
-    },
-    {
-      "title": "Szyfrowanie i globalizacja 15 lat później: E2EE i debata „Going Dark”.",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699",
-      "date": "2026-07-23T14:55:45Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699 Adres URL komentarzy: https://news.ycombinator.com/item?id=49022668 Punkty: 18 # Komentarze: 8."
     },
     {
       "title": "Wyścig zbrojeń AI w kolejce do rozliczenia po incydencie z hackowaniem OpenAI",
@@ -1312,14 +1320,6 @@
       "summary": "Jasne, może twój zegar ma baterię zapasową, ale mój ma proces wdrażania!"
     },
     {
-      "title": "Najtańsze pakiety w zasięgu Plusa – ile można zaoszczędzić?",
-      "url": "https://antyweb.pl/oferty-do-telefonu-plus",
-      "date": "2026-07-23T11:00:48Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "W zasięgu Plusa mamy kilka pakietów komórkowych, które pozwalają ograniczyć miesięczny koszt, ale różnice między nimi są na tyle duże, że łatwo przepłacić za coś, czego i tak nie wykorzystacie w danym miesiącu."
-    },
-    {
       "title": "JetZero Z4: pasażerski odrzutowiec BWB ma spalać nawet o połowę mniej",
       "url": "https://www.benchmark.pl/jetzero-z4-pasazerski-odrzutowiec-bwb-ma-spalac-nawet-o-polowe-mniej-7310375664875904a",
       "date": "2026-07-23T10:35:00Z",
@@ -1442,7 +1442,7 @@
       "summary": "Eksperci twierdzą, że nadeszła era polowania na błędy AI, więc obrońcy będą musieli po prostu dostosować się do bardziej obciążonych zadań."
     },
     {
-      "title": "GitHub obniża publiczne wypłaty nagród za błędy, gdy raport AI pogrzebie zespół ds. bezpieczeństwa",
+      "title": "GitHub obniża publiczne wypłaty nagród za błędy, ponieważ raport AI grzebie zespół ds. bezpieczeństwa",
       "url": "https://www.theregister.com/devops/2026/07/23/github-slashes-public-bug-bounty-payouts-as-ai-report-flood-buries-its-security-team/5277046",
       "date": "2026-07-23T15:15:00Z",
       "source": "The Register",
@@ -1495,7 +1495,7 @@
       "date": "2026-07-23T13:27:59Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Badacze cyberbezpieczeństwa odkryli lukę w zabezpieczeniach piaskownicy w Claude Cowork firmy Anthropic, która umożliwia wyjście z ograniczeń wirtualnej maszyny Linux (VM), w ramach której działa agent w celu odczytu lub zapisu plików w dowolnym miejscu na komputerze Mac. Firma Accomplish AI, która przed publikacją podzieliła się szczegółami tej luki z serwisem The Hacker News, podaje, że około 500 000 użytkowników systemu macOS korzysta z niej."
+      "summary": "Badacze zajmujący się cyberbezpieczeństwem odkryli lukę w zabezpieczeniach piaskownicy w Claude Cowork firmy Anthropic, która umożliwia wyjście z ograniczeń wirtualnej maszyny Linux (VM), w ramach której działa agent w celu odczytu lub zapisu plików w dowolnym miejscu na komputerze Mac. Firma Accomplish AI, która przed publikacją podzieliła się szczegółami tej luki z serwisem The Hacker News, podaje, że około 500 000 użytkowników systemu macOS korzysta z niej."
     },
     {
       "title": "Chaos Ransomware wykorzystuje msaRAT do kierowania ruchu C2 przez Headless Chrome i Edge",
@@ -1503,7 +1503,7 @@
       "date": "2026-07-23T13:11:09Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Grupa oprogramowania ransomware Chaos wykonywała polecenia i kontrolę za pośrednictwem przeglądarki ofiary. W czwartek Cisco Talos szczegółowo opisał msaRAT, znajdujący się za nim implant Rust, znaleziony na zainfekowanej maszynie z systemem Windows przed programem szyfrującym. Implant nigdy sam nie otwiera połączenia wychodzącego."
+      "summary": "Grupa oprogramowania ransomware Chaos wykonywała polecenia i kontrolę za pośrednictwem przeglądarki ofiary. W czwartek Cisco Talos szczegółowo opisał msaRAT, stojący za nim implant Rust, znaleziony na zainfekowanej maszynie z systemem Windows przed programem szyfrującym. Implant nigdy sam nie otwiera połączenia wychodzącego."
     },
     {
       "title": "Jedno łącze ChatGPT może przemycić do Twojej firmy fałszywego agenta AI",
@@ -1615,7 +1615,7 @@
       "date": "2026-07-23T09:15:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Gotówka Tempest dołącza do kontraktu na cele hipersoniczne i ujawnia drona „lojalnego skrzydłowego” BAE."
+      "summary": "Tempest Cash ląduje obok kontraktu na cel hipersoniczny i ujawnienia drona „lojalnego skrzydłowego” BAE."
     },
     {
       "title": "Atak Miasma Worm na Microsoft – GitHub wyłączył 73 repozytoria",
@@ -1682,7 +1682,7 @@
       "summary": "Począwszy od 27 lipca 2026 r. GitHub obniży publiczne nagrody za błędy o co najmniej połowę na każdym poziomie ważności. Krytyczne ustalenia spadną z 20 000–30 000 dolarów i więcej do stałych 10 000 dolarów, podczas gdy stały poziom VIP dostępny tylko na zaproszenie będzie wart 30 000 dolarów lub więcej. Raporty złożone przed tą datą, w tym te już znajdujące się w rosnącej kolejce selekcji w GitHub, zachowają poprzednie warunki wypłaty."
     },
     {
-      "title": "Luka w Ubuntu Snap-Confine może dać lokalnym użytkownikom możliwość rootowania podczas domyślnych instalacji na komputerze stacjonarnym",
+      "title": "Luka w Ubuntu Snap-Confine może dać lokalnym użytkownikom możliwość rootowania podczas domyślnych instalacji na komputerze",
       "url": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
       "date": "2026-07-22T18:07:16Z",
       "source": "The Hacker News",
@@ -1812,6 +1812,14 @@
   ],
   "finance": [
     {
+      "title": "Zmasowany atak USA na Iran? Trump jest bliski decyzji",
+      "url": "https://www.bankier.pl/wiadomosc/Zmasowany-atak-USA-na-Iran-Trump-jest-bliski-decyzji-9172566.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-07-23T16:48:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Prezydent USA Donald Trump powiedział w czwartek portalowi Axios, że poważnie rozważa wznowienie dużych operacji bojowych przeciwko Iranowi, w tym ataki na większą skalę niż te przeprowadzone podczas \"Operacji Epicka Furia”."
+    },
+    {
       "title": "Zniszczona infrastruktura i mieszkania. Wenezuela przed kosztowną odbudową",
       "url": "https://www.bankier.pl/wiadomosc/Zniszczona-infrastruktura-i-mieszkania-Wenezuela-przed-kosztowna-odbudowa-9172564.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-23T16:45:00Z",
@@ -1900,20 +1908,20 @@
       "summary": "W lipcu znów wzrosły ceny oleju napędowego – o niemal 1 zł w sprzedaży hurtowej. To ponownie uderzyło w polskie firmy transportowe. Paliwo odpowiada za około 30 proc."
     },
     {
-      "title": "Model OpenAI wykrył luki i wykradł dane logowania. \"Sygnał ostrzegawczy\"",
-      "url": "https://www.bankier.pl/wiadomosc/Model-OpenAI-wykryl-luki-i-wykradl-dane-logowania-Sygnal-ostrzegawczy-9172507.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-07-23T15:45:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Niezamierzony atak hakerski, podczas którego model OpenAI w trakcie testów bezpieczeństwa przełamał zabezpieczenia cybernetyczne wbrew intencjom firmy, ujawnił rosnące zagrożenia związane z wyścigiem w dziedzinie sztucznej inteligencji – ocenił w czwartek „Financial Times”."
-    },
-    {
       "title": "Polityczny spór w Kijowie. Fedorow stawia warunek Zełenskiemu - Forsal.pl",
       "url": "https://forsal.pl/swiat/ukraina/artykuly/11279722,fedorow-chce-wrocic-na-stanowisko-ministra-obrony-ukrainy.html",
       "date": "2026-07-23T15:40:44Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Polityczny spór w Kijowie. Fedorow stawia warunek Zełenskiemu Forsal.pl."
+    },
+    {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/tagi/data-governance-act",
+      "date": "2026-07-23T14:55:33Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "„Warszawa to ubogi brat Moskwy”. Jak Rosja wykorzystuje influencerów? - Forsal.pl",
@@ -1970,14 +1978,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Wawel i Jeronimo Martins wracają do współpracy. Wypowiedzenie umowy wycofane stockwatch.pl."
-    },
-    {
-      "title": "Ograniczanie obiegu wody w energetyce - Forsal.pl",
-      "url": "https://forsal.pl/gospodarka/aktualnosci/artykuly/11279505,wykorzystanie-sciekow-komunalnych-w-energetyce-czy-wplynie-to-na-wysokosc-rachunkow-za-prad.html",
-      "date": "2026-07-23T11:43:03Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Ograniczanie obiegu wody w energetyce Forsal.pl."
     },
     {
       "title": "Su-57 rozbił się pod Moskwą. To najnowocześniejszy myśliwiec Rosji - Forsal.pl",
@@ -2164,6 +2164,14 @@
       "summary": "Prezes UOKiK postawił zarzuty naruszenia zbiorowych interesów konsumentów spółce Autocentrum AAA Auto. Urząd kwestionuje sposób sprzedaży samochodów na kredyt, bo z ustaleń UOKiK wynika, że konsumenci mogli kupić auto na raty wyłącznie po dokupieniu dodatkowych produktów lub usług. W grę wchodziły m.in."
     },
     {
+      "title": "Analiza techniczna OW20H264175 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/OW20H264175",
+      "date": "2026-07-22T15:53:48Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Analiza techniczna OW20H264175 BiznesRadar."
+    },
+    {
       "title": "W poszukiwaniu sygnałów - 22 lipca 2026 - WIG na nowych maksimach",
       "url": "https://strefainwestorow.pl/blog/w-poszukiwaniu-sygnalow/w-poszukiwaniu-sygnalow-22-lipca-2026-wig-na-nowych-maksimach",
       "date": "2026-07-22T15:29:27Z",
@@ -2178,14 +2186,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Wzrost kosztów operacyjnych i konkurencja cenowa ze strony dostawców spoza Unii Europejskiej są dziś największymi problemami firm obsługujących branżę automotive – wynika z badania Keralla Research dla Bibby Financial Services. Na oba czynniki zwraca uwagę po 38 proc. przedsiębiorstw."
-    },
-    {
-      "title": "Notowania INTLXTB99432 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/INTLXTB99432",
-      "date": "2026-07-22T14:47:15Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania INTLXTB99432 INGBANK BiznesRadar."
     },
     {
       "title": "„Odporność buduje się przed kryzysem”. Małgorzata Kopka-Piątek o roli kobiet w bezpieczeństwie Polski - Forbes",
@@ -2227,7 +2227,7 @@
       "date": "2026-07-23T14:24:01Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Mężczyźni zostali skazani za rzekomy plan przeprowadzenia zamachu stanu i zorganizowania śmiercionośnych demonstracji w związku z cenami paliwa w zeszłym roku Dwóch Rosjan zostało uznanych przez angolski sąd za winnych terroryzmu i szpiegostwa po oskarżeniu ich o planowanie zamachu stanu i pomoc w organizacji śmiercionośnych demonstracji w tym południowoafrykańskim kraju w zeszłym roku. Lew Laksztanow i Igor Ratchin zostali skazani odpowiednio na 8 i 11 lat więzienia. Odpierali zarzuty, twierdząc, że przebywali w Angoli w celach kulturalnych i biznesowych. Kontynuuj czytanie..."
+      "summary": "Mężczyźni zostali skazani za rzekomy plan przeprowadzenia zamachu stanu i zorganizowania śmiercionośnych demonstracji w sprawie cen paliwa w zeszłym roku Dwóch Rosjan zostało uznanych przez angolski sąd za winnych terroryzmu i szpiegostwa po oskarżeniu ich o planowanie zamachu stanu i pomoc w organizacji śmiercionośnych demonstracji w tym południowoafrykańskim kraju w zeszłym roku. Lew Laksztanow i Igor Ratchin zostali skazani odpowiednio na 8 i 11 lat więzienia. Odpierali zarzuty, twierdząc, że przebywali w Angoli w celach kulturalnych i biznesowych. Kontynuuj czytanie..."
     },
     {
       "title": "Epidemia wirusa Ebola w Kongo zabiła ponad 1000 osób – AP News",
@@ -2292,8 +2292,8 @@
       "lng": -66.59,
       "type": "conflict",
       "region": "Wenezuela",
-      "description": "Proces obalonego przez siły USA autorytarnego przywódcy Wenezueli Nicolása Maduro i jego żony Cilii Flores, oskarżonych w USA o przemyt narkotyków, rozpocznie się w czerwcu 2027 roku – zdecydował sędzia sądu federalnego w Nowym Jorku Alvin Hellerstein.",
-      "url": "https://www.rp.pl/polityka/art44873381-jest-data-procesu-nicolasa-maduro-poczeka-jeszcze-rok"
+      "description": "Źródła Reuters podają, że dyrektorzy naftowi spieszą się z zakończeniem migracji kontraktowej do Wenezueli.",
+      "url": "https://www.reuters.com/business/energy/oil-executives-rush-complete-contract-migration-venezuela-sources-say-2026-07-23/"
     },
     {
       "lat": 39.5,
@@ -2444,7 +2444,7 @@
       "lng": 105.6,
       "type": "critical",
       "region": "Rosja",
-      "description": "Mężczyźni zostali skazani za rzekomy plan przeprowadzenia zamachu stanu i zorganizowania śmiercionośnych demonstracji w związku z cenami paliwa w zeszłym roku Dwóch Rosjan zostało uznanych przez angolski sąd za winnych terroryzmu i szpiegostwa po oskarżeniu ich o planowanie zamachu stanu i pomoc w organizacji śmiercionośnych demonstracji w tym południowoafrykańskim kraju w zeszłym roku.",
+      "description": "Mężczyźni zostali skazani za rzekomy plan przeprowadzenia zamachu stanu i zorganizowania śmiercionośnych demonstracji w sprawie cen paliwa w zeszłym roku Dwóch Rosjan zostało uznanych przez angolski sąd za winnych terroryzmu i szpiegostwa po oskarżeniu ich o planowanie zamachu stanu i pomoc w organizacji śmiercionośnych demonstracji w tym południowoafrykańskim kraju w zeszłym roku.",
       "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying"
     },
     {
@@ -2750,51 +2750,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25936.7,
+      25929.4,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27113.02,
+      27105.39,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27261.48,
+      27253.81,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27508.94,
+      27501.21,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28151.23,
+      28143.31,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28187.64,
+      28179.71,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28434.84,
+      28426.84,
       27354.94,
       27400.36,
       27412.11,
-      28840.39,
+      28832.27,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28093.43,
+      28085.53,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28275.0,
+      28267.04,
       27686.17,
       27404.78,
       27351.97,
@@ -2803,7 +2803,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27980.35,
+      27972.49,
       27930.04,
       28234.04,
       28218.36,
@@ -2812,16 +2812,16 @@
       28294.39,
       28203.83,
       28555.17,
-      28822.62,
+      28814.51,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28374.79,
+      28366.82,
       28242.11,
       28493.29,
-      28531.82,
-      28167.78
+      28523.79,
+      28184.43
     ],
     "currency": "PLN"
   }
