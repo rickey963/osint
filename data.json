@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T21:43:47Z",
+  "last_updated": "2026-07-24T21:53:21Z",
   "poland": [
     {
       "title": "WIG20 wciąż czeka z atakiem na szczyt",
@@ -138,14 +138,6 @@
       "summary": "Skandal z udziałem prokuratora generalnego MTK. Media: Khan odwołany ze stanowiska Polska Agencja Prasowa SA."
     },
     {
-      "title": "Rotujący lej kondensacyjny nad polskim miastem. Powiało grozą - Polskie Radio 24",
-      "url": "https://polskieradio24.pl/pogoda/rotujacy-lej-kondensacyjny-nad-polskim-miastem-powialo-groza",
-      "date": "2026-07-24T17:51:38Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Rotujący lej kondensacyjny nad polskim miastem. Powiało grozą Polskie Radio 24."
-    },
-    {
       "title": "Będą większe dopłaty do paliwa, a to nie koniec wsparcia rolników",
       "url": "https://businessinsider.com.pl/gospodarka/stefan-krajewski-o-nowych-doplatach-rolnicy-skorzystaja-na-zmianach/w5fqhd8",
       "date": "2026-07-24T17:48:15Z",
@@ -256,6 +248,14 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Belgia zmienia trenera po mundialu. Wicemistrz świata z 2010 roku obejmuje \"Czerwone Diabły\" Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "Darmowy koncert gwiazd w Grudziądzu. Polacy będą zachwyceni - Polskie Radio 24",
+      "url": "https://polskieradio24.pl/polska/lato-z-radiem-na-polmetku-gwiazdy-zablysna-w-grudziadzu",
+      "date": "2026-07-24T14:28:47Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Darmowy koncert gwiazd w Grudziądzu. Polacy będą zachwyceni Polskie Radio 24."
     },
     {
       "title": "Zełenski poleci do Waszyngtonu na spotkanie z Trumpem. Padła data - Polskie Radio 24",
@@ -420,20 +420,20 @@
       "summary": "Jemen balansuje w kierunku wznowienia wojny w cieniu konfliktu w Iranie Reuters."
     },
     {
-      "title": "Paramount zgadza się wstrzymać umowę z Warner Bros do czasu zakończenia sprawy – Reuters",
-      "url": "https://www.reuters.com/world/paramount-agrees-pause-warner-bros-deal-while-case-plays-out-2026-07-24/",
-      "date": "2026-07-24T21:13:43Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Paramount zgadza się wstrzymać umowę z Warner Bros do czasu zakończenia sprawy Reuters."
-    },
-    {
       "title": "Główny prokurator ICC usunięty z pracy w związku z zarzutami o molestowanie seksualne",
       "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-24T21:02:30Z",
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Karim Khan zaprzecza zarzutom dotyczącym nawiązania niewłaściwych stosunków seksualnych z młodszą członkinią personelu ICC i próbą powstrzymania jej od kontynuowania skargi."
+    },
+    {
+      "title": "Małe firmy z USA składają pozew, kwestionując nowe cła Trumpa na „pracę przymusową” – Reuters",
+      "url": "https://www.reuters.com/world/us-small-businesses-file-lawsuit-challenging-trumps-new-forced-labor-tariffs-2026-07-24/",
+      "date": "2026-07-24T20:50:05Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Małe firmy z USA składają pozew, kwestionując nowe cła Trumpa na „pracę przymusową” Reuters."
     },
     {
       "title": "Nasdaq nie kryje niepokoju związanego z wydatkami na sztuczną inteligencję przed raportami o wynikach – Reuters",
@@ -508,14 +508,6 @@
       "summary": "LeBron James dołącza do Philadelphia 76ers po walce o tytuł w „ostatniej decyzji” Reuters."
     },
     {
-      "title": "Zapowiedź Trumpa dotycząca zasilaczy dla centrów danych budzi sceptycyzm – Reuters",
-      "url": "https://www.reuters.com/legal/litigation/trump-pledge-data-center-power-supplies-draws-skepticism-2026-07-24/",
-      "date": "2026-07-24T18:38:27Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Zobowiązanie Trumpa dotyczące zasilaczy do centrów danych budzi sceptycyzm Reuters."
-    },
-    {
       "title": "Trump mówi, że USA wszczęją dochodzenie UE w sprawie „nielegalnej” kary dla Google – Reuters",
       "url": "https://www.reuters.com/business/trump-says-us-launch-eu-probe-over-illegal-google-fine-2026-07-24/",
       "date": "2026-07-24T18:35:43Z",
@@ -562,6 +554,14 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "EKSKLUZYWNIE: Blackstone i Donerail wśród ostatecznych oferentów sprzedawcy jachtów MarineMax, podają źródła Reuters."
+    },
+    {
+      "title": "Nvidia, Microsoft i inni giganci technologiczni wspierają modele AI typu open source – Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/nvidia-microsoft-other-tech-giants-back-open-source-ai-models-2026-07-24/",
+      "date": "2026-07-24T18:07:36Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Nvidia, Microsoft i inni giganci technologiczni wspierają modele AI typu open source Reuters."
     },
     {
       "title": "Pakistan i Iran badają drogę do nowych rozmów z USA w ramach inicjatywy zainicjowanej przez Chiny, podają źródła – Reuters",
@@ -768,7 +768,7 @@
     {
       "title": "Aktualizacje na żywo wojny w Iranie: Trump spotyka się z gabinetem w sprawie zintensyfikowania ataków na Iran",
       "url": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
-      "date": "2026-07-24T21:30:35Z",
+      "date": "2026-07-24T21:37:15Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Dyskusje w Białym Domu rozpoczęły się na kilka dni przed planowanym spotkaniem z premierem Izraela Benjaminem Netanjahu. W całym regionie Iran i Stany Zjednoczone kontynuowały wymianę ataków."
@@ -1016,20 +1016,20 @@
       "summary": "„Oto bardziej naturalna, płynna wersja tej sekcji…”."
     },
     {
-      "title": "Pokrywa lodowa Grenlandii miała szybko topnieć. To nie było",
-      "url": "https://cp.copernicus.org/articles/18/579/2022/",
-      "date": "2026-07-24T21:06:39Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://cp.copernicus.org/articles/18/579/2022/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49041581 Punkty: 10 # Komentarze: 1."
-    },
-    {
       "title": "W Opus 5 firmy Anthropic chodzi o symboliczną wydajność, a nie o skok w zakresie możliwości",
       "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
       "date": "2026-07-24T21:05:51Z",
       "source": "Ars Technica",
       "confirmed_by": 2,
       "summary": "Modele szybko się udoskonalają, ale tańsze opcje są często wystarczająco dobre."
+    },
+    {
+      "title": "Pokaż HN: Max Studio Tools (moduły C++ DSP dla Max i Ableton Live)",
+      "url": "https://github.com/apresta/max-studio-tools",
+      "date": "2026-07-24T21:03:10Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://github.com/apresta/max-studio-tools Adres URL komentarzy: https://news.ycombinator.com/item?id=49041546 Punkty: 5 # Komentarze: 0."
     },
     {
       "title": "Google twierdzi, że docenia zaangażowanie administracji Trumpa i rządu USA w sprawę nałożonej na UE grzywny w wysokości 1 miliarda dolarów; Trump nazwał karę „nielegalną” (ustawa Rocio Fabbro/Bloomberg)",
@@ -1109,7 +1109,7 @@
       "date": "2026-07-24T19:05:53Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.dbos.dev/blog/postgres-listen-notify-scalability Adres URL komentarzy: https://news.ycombinator.com/item?id=49040296 Punkty: 110 # Komentarze: 17."
+      "summary": "Adres URL artykułu: https://www.dbos.dev/blog/postgres-listen-notify-scalability Adres URL komentarzy: https://news.ycombinator.com/item?id=49040296 Punkty: 115 # Komentarze: 17."
     },
     {
       "title": "Będą podsłuchiwać satelity. Sami nie wyślą żadnego sygnału",
@@ -1149,7 +1149,7 @@
       "date": "2026-07-24T18:03:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49039448 Punkty: 77 # Komentarze: 46."
+      "summary": "Adres URL artykułu: https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49039448 Punkty: 79 # Komentarze: 51."
     },
     {
       "title": "Sędzia odrzuca żądanie administratora Trumpa dotyczące zapisów rozmów telefonicznych reporterów NYT",
@@ -1173,7 +1173,7 @@
       "date": "2026-07-24T17:59:08Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://ui.gsxhq.dev/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49039395 Punkty: 42 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://ui.gsxhq.dev/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49039395 Punkty: 43 # Komentarze: 3."
     },
     {
       "title": "Unia Europejska spełnia prośbę Stanów Zjednoczonych o ograniczenie zdjęć satelitarnych regionu objętego wojną w Iranie",
@@ -1205,7 +1205,7 @@
       "date": "2026-07-24T17:28:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49038977 Punkty: 35 # Komentarze: 13."
+      "summary": "Adres URL artykułu: https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49038977 Punkty: 38 # Komentarze: 14."
     },
     {
       "title": "Awaria PlayStation Network. Na razie nie zagrasz online",
@@ -1256,14 +1256,6 @@
       "summary": "Wiele wskazuje na to, że po zeszłotygodniowym niepowodzeniu oraz wczorajszych problemach z pogodą, SpaceX wreszcie przeprowadzi dzisiaj trzynastą misję testową potężnego statku Starship."
     },
     {
-      "title": "Wzrost i upadek różnorodności językowej w holocenie",
-      "url": "https://www.science.org/doi/10.1126/science.adx4343",
-      "date": "2026-07-24T16:40:49Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.science.org/doi/10.1126/science.adx4343 Adres URL komentarzy: https://news.ycombinator.com/item?id=49038181 Punkty: 54 # Komentarze: 12."
-    },
-    {
       "title": "HP ujawnia dane. Windows 10 w 30 proc. komputerów",
       "url": "https://www.benchmark.pl/hp-ujawnia-dane-windows-10-w-30-proc-komputerow-7310924846324064a",
       "date": "2026-07-24T16:40:00Z",
@@ -1278,6 +1270,14 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Jeśli od dawna chodził wam po głowie ekspres do kawy, teraz może być dobry moment na zakup. Biedronka przygotowała dużą promocję na ekspresy kapsułkowe Delta, a ceny wybranych modeli spadły aż o 75 proc. Największą uwagę zwraca kompaktowy model, który zamiast 199 zł kosztuje zaledwie 50 zł."
+    },
+    {
+      "title": "Bądź sceptyczny wobec historii nieuczciwego agenta-hakera OpenAI",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "date": "2026-07-24T16:33:31Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker Adres URL komentarzy: https://news.ycombinator.com/item?id=49038060 Punkty: 333 # Komentarze: 174."
     },
     {
       "title": "Ten piekarnik ma kamerę. Przyda ci się bardziej, niż myślisz",
@@ -2858,51 +2858,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25949.17,
+      25851.69,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27126.06,
+      27024.16,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27274.59,
+      27172.13,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27522.18,
+      27418.78,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28164.77,
+      28058.96,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28201.2,
+      28095.25,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28448.51,
+      28341.64,
       27354.94,
       27400.36,
       27412.11,
-      28854.26,
+      28745.86,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28106.95,
+      28001.36,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28288.6,
+      28182.33,
       27686.17,
       27404.78,
       27351.97,
@@ -2911,7 +2911,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27993.81,
+      27888.65,
       27930.04,
       28234.04,
       28218.36,
@@ -2920,17 +2920,17 @@
       28294.39,
       28203.83,
       28555.17,
-      28836.48,
+      28728.15,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28388.44,
+      28281.8,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28214.44
+      28108.45
     ],
     "currency": "PLN"
   }
