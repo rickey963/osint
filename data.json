@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T13:48:42Z",
+  "last_updated": "2026-07-24T13:49:14Z",
   "poland": [
     {
       "title": "Padły wieloletnie, a nawet historyczne rekordy. Potencjał polskich firm coraz lepiej wykorzystywany",
@@ -444,6 +444,14 @@
       "summary": "Amerykański piosenkarz Chris Brown przyznaje się do winy w związku z incydentem w londyńskim klubie nocnym Reuters."
     },
     {
+      "title": "Rosyjscy przedsiębiorcy widzą gwałtowny wzrost akcji spółki, gdy Ukraina celuje w Wildberries – Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/russian-entrepreneurs-see-stock-go-up-flames-ukraine-targets-wildberries-2026-07-24/",
+      "date": "2026-07-24T13:06:09Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Rosyjscy przedsiębiorcy widzą gwałtowny wzrost akcji spółki, gdy Ukraina atakuje Wildberries Reuters."
+    },
+    {
       "title": "Wall St gotowy na wyższe otwarcie po porażce technologicznej; Bliski Wschód, w centrum uwagi cła – Reuters",
       "url": "https://www.reuters.com/business/wall-st-futures-rise-after-tech-rout-mideast-tariffs-focus-2026-07-24/",
       "date": "2026-07-24T13:05:15Z",
@@ -610,14 +618,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Amerykańskie CDC łączy cztery kolejne stany z epidemią cyklosporozy, donosi Washington Post Reuters."
-    },
-    {
-      "title": "Amerykański organ ds. bezpieczeństwa samochodowego odrzuca petycję dotyczącą badania usterek w otwieraniu drzwi Tesli – Reuters",
-      "url": "https://www.reuters.com/legal/litigation/us-auto-safety-regulator-denies-petition-seeking-tesla-door-release-defect-probe-2026-07-24/",
-      "date": "2026-07-24T10:57:43Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Amerykański organ ds. bezpieczeństwa samochodowego odrzuca petycję dotyczącą badania usterek w otwieraniu drzwi Tesli Reuters."
     },
     {
       "title": "W związku z utrzymującym się impasem w Indiach protestujący przeciwko „karaluchom” prowadzą rozmowy z rządem",
@@ -2501,7 +2501,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 53,
+      "score": 63,
       "reasons": [
         {
           "title": "Zwrot Ukrainy w kierunku strajków w magazynach przybliża wojnę zwykłym Rosjanom",
@@ -2514,8 +2514,8 @@
           "source": "Associated Press"
         },
         {
-          "title": "W rosyjskim ataku rakietowym zginęło 10 osób podczas wydarzenia poświęconego obronie Ukrainy – Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/russian-missile-strike-kills-10-ukraine-defence-event-2026-07-24/",
+          "title": "Rosyjscy przedsiębiorcy widzą gwałtowny wzrost akcji spółki, gdy Ukraina celuje w Wildberries – Reuters",
+          "url": "https://www.reuters.com/business/retail-consumer/russian-entrepreneurs-see-stock-go-up-flames-ukraine-targets-wildberries-2026-07-24/",
           "source": "Reuters"
         }
       ]
@@ -2754,51 +2754,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25881.48,
+      25878.96,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27055.3,
+      27052.66,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27203.44,
+      27200.79,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27450.38,
+      27447.7,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28091.3,
+      28088.56,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28127.63,
+      28124.89,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28374.3,
+      28371.53,
       27354.94,
       27400.36,
       27412.11,
-      28778.99,
+      28776.18,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28033.62,
+      28030.89,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28214.8,
+      28212.05,
       27686.17,
       27404.78,
       27351.97,
@@ -2807,7 +2807,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27920.79,
+      27918.07,
       27930.04,
       28234.04,
       28218.36,
@@ -2816,17 +2816,17 @@
       28294.39,
       28203.83,
       28555.17,
-      28761.26,
+      28758.45,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28314.39,
+      28311.63,
       28242.11,
       28493.29,
       28421.66,
-      28126.87,
-      28168.6
+      28124.13,
+      28170.18
     ],
     "currency": "PLN"
   }
