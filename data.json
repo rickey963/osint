@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T06:00:04Z",
+  "last_updated": "2026-07-24T06:00:49Z",
   "poland": [
     {
       "title": "Ten sam lekarz publicznie i prywatnie? Opinie Polaków są podzielone",
@@ -500,6 +500,14 @@
       "summary": "Wspierana przez Iran grupa w Jemenie zagroziła, że ​​zaatakuje saudyjskie statki na ważnym szlaku żeglugowym."
     },
     {
+      "title": "Wojsko amerykańskie twierdzi, że zakończyło się 13. z rzędu nocą ataków na Iran – Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-military-says-it-completed-13th-consecutive-night-strikes-iran-2026-07-24/",
+      "date": "2026-07-24T01:56:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Wojsko amerykańskie twierdzi, że zakończyło się 13. z rzędu nocą ataków na Iran Reuters."
+    },
+    {
       "title": "Brent utrzymuje się powyżej 100 dolarów za baryłkę, oczekuje się tygodniowego wzrostu w związku z eskalacją na Bliskim Wschodzie – Reuters",
       "url": "https://www.reuters.com/business/energy/oil-set-weekly-rise-amid-red-sea-shipping-attacks-kazakhstan-output-cuts-2026-07-24/",
       "date": "2026-07-24T01:36:00Z",
@@ -642,14 +650,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "W piątek Trump nałoży cła dotyczące „pracy przymusowej” po wygaśnięciu tymczasowych 10% ceł w USA Reuters."
-    },
-    {
-      "title": "Pentagon przyznaje Oracle kontrakt o wartości prawie 7 miliardów dolarów w ramach najnowszego procesu konsolidacji oprogramowania – Reuters",
-      "url": "https://www.reuters.com/technology/pentagon-awards-oracle-nearly-7-billion-deal-latest-software-consolidation-push-2026-07-23/",
-      "date": "2026-07-23T21:04:28Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Pentagon przyznaje Oracle kontrakt o wartości prawie 7 miliardów dolarów w ramach najnowszej konsolidacji oprogramowania Reuters."
     },
     {
       "title": "Akcje Google i Tesli spadają, gdy wydatki na sztuczną inteligencję wstrząsają rynkami",
@@ -806,14 +806,6 @@
       "summary": "Śmiertelne postrzelenie przez policję mężczyzny z nożem w Madison, Wisconsin AP News."
     },
     {
-      "title": "Trump nakłada dwucyfrowe cła na dziesiątki krajów, ponieważ jego 10% cła wygasną w piątek – AP News",
-      "url": "https://apnews.com/article/trump-tariffs-supreme-court-forced-labor-4ea091eeee3fa1bfbe55af3f482e6bc1",
-      "date": "2026-07-24T02:27:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Trump nakłada dwucyfrowe cła na dziesiątki krajów, ponieważ jego 10% cła wygasną w piątek AP News."
-    },
-    {
       "title": "Oto najnowsze.",
       "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump/heres-the-latest",
       "date": "2026-07-24T01:56:54Z",
@@ -892,6 +884,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "12 senatorów Demokratów w Komisji Sił Zbrojnych stwierdziło, że departament sekretarza obrony Pete'a Hegsetha nie przedstawił „terminowych i kompleksowych” raportów na temat ofiar wojny."
+    },
+    {
+      "title": "Trump nakłada dwucyfrowe cła na dziesiątki krajów, ponieważ jego 10% cła wygasną w piątek – AP News",
+      "url": "https://apnews.com/article/trump-tariffs-supreme-court-forced-labor-4ea091eeee3fa1bfbe55af3f482e6bc1",
+      "date": "2026-07-23T21:09:56Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Trump nakłada dwucyfrowe cła na dziesiątki krajów, ponieważ jego 10% cła wygasną w piątek AP News."
     },
     {
       "title": "Definiujący obraz protestów pokolenia Z w Indiach",
@@ -2552,7 +2552,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 17,
+      "score": 16,
       "reasons": [
         {
           "title": "Stany Zjednoczone są gotowe pomóc zakończyć „bezsensowną wojnę” na Ukrainie, ale nie ma przed nimi szybkiego porozumienia, mówi Rubio – AP News",
@@ -2568,7 +2568,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 13,
+      "score": 12,
       "reasons": [
         {
           "title": "Irlandia wezwała do wywarcia presji na Niemcy w związku z procesem działacza propalestyńskiego",
@@ -2584,7 +2584,7 @@
     },
     {
       "name": "Jemen",
-      "score": 13,
+      "score": 12,
       "reasons": [
         {
           "title": "Ataki Houthi budzą strach przed szerszym konfliktem na Bliskim Wschodzie i większymi globalnymi szkodami gospodarczymi",
@@ -2600,7 +2600,7 @@
     },
     {
       "name": "Wenezuela",
-      "score": 10,
+      "score": 9,
       "reasons": [
         {
           "title": "Miesiąc po trzęsieniu ziemi w Wenezueli rodziny nadal szukają ciał",
@@ -2804,51 +2804,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25926.0,
+      25928.04,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27101.83,
+      27103.97,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27250.23,
+      27252.38,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27497.59,
+      27499.76,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28139.61,
+      28141.83,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28176.01,
+      28178.23,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28423.1,
+      28425.34,
       27354.94,
       27400.36,
       27412.11,
-      28828.48,
+      28830.76,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28081.84,
+      28084.06,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28263.33,
+      28265.56,
       27686.17,
       27404.78,
       27351.97,
@@ -2857,7 +2857,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27968.81,
+      27971.01,
       27930.04,
       28234.04,
       28218.36,
@@ -2866,16 +2866,16 @@
       28294.39,
       28203.83,
       28555.17,
-      28810.72,
+      28813.0,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28363.09,
+      28365.32,
       28242.11,
       28493.29,
       28421.66,
-      28175.25
+      28177.47
     ],
     "currency": "PLN"
   }
