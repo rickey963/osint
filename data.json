@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-24T17:39:52Z",
+  "last_updated": "2026-07-24T17:40:33Z",
   "poland": [
+    {
+      "title": "„Ciche wakacje” coraz popularniejsze. Nowy, ryzykowny trend: pracują z kurortu bez wiedzy szefa",
+      "url": "https://sukces.rp.pl/styl-zycia/art44828281-ciche-wakacje-coraz-popularniejsze-nowy-ryzykowny-trend-pracuja-z-kurortu-bez-wiedzy-szefa",
+      "date": "2026-07-24T17:40:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "„Ciche wakacje\" – praca zdalna z kurortu czy hotelu ze spa bez informowania o tym szefa – zyskują na popularności wśród pracowników zdalnych i hybrydowych. Jednak eksperci od HR ostrzegają przed ryzykami: prawnymi, podatkowymi i związanymi z bezpieczeństwem danych."
+    },
     {
       "title": "\"Czuł się obrażony\". Patryk Jaki o kulisach odejścia Morawieckiego z PiS",
       "url": "https://www.polsatnews.pl/gosc-wydarzen/2026-07-24/czul-sie-obrazony-patryk-jaki-o-kulisach-odejscia-morawieckiego-z-pis/",
@@ -120,14 +128,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 2,
       "summary": "Wypchnięcie frakcji Mateusza Morawieckiego z PiS rozpoczyna polityczne przetasowania, jakich polska prawica nie widziała od lat. Stawką są nie tylko wyborcy i dominacja po prawej stronie, ale również przyszłe koalicje, a nawet rola PSL i Władysława Kosiniaka-Kamysza."
-    },
-    {
-      "title": "Paliwo dla Ukrainy tańsze niż na polskich stacjach. Orlen tłumaczy, dlaczego",
-      "url": "https://energia.rp.pl/surowce-i-paliwa/art44882031-paliwo-dla-ukrainy-tansze-niz-na-polskich-stacjach-orlen-tlumaczy-dlaczego",
-      "date": "2026-07-24T16:42:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "W sieci jakiś czas temu pojawiły się wyliczenia, z których wynika, że Polska sprzedaje Ukrainie paliwo za mniej niż 3 zł za litr, czyli znacznie taniej, niż oferuje je kierowcom na krajowych stacjach. W odpowiedzi na zarzuty Orlen wyjaśnia, że cena dotyczy eksportu netto i nie obejmuje akcyzy, VAT ani innych opłat."
     },
     {
       "title": "TikTok z zarzutami. Unijny regulator grozi, a platforma odpowiada",
@@ -800,7 +800,7 @@
     {
       "title": "Pożary we Francji i Hiszpanii wypędzają dziesiątki tysięcy osób z domów",
       "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-wildfires.html",
-      "date": "2026-07-24T16:12:41Z",
+      "date": "2026-07-24T16:12:42Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Francuscy urzędnicy nakazali ewakuację półwyspu Cap Ferret, popularnego miejsca wypoczynku. Pożary na zachód od Madrytu zbliżały się do zaludnionych obszarów."
@@ -910,14 +910,6 @@
       "summary": "Laura Loomer spotyka się z Zełenskim na Ukrainie po jej poważnym odwróceniu się w sprawie wojny AP News."
     },
     {
-      "title": "Trump nakłada dwucyfrowe cła na dziesiątki krajów, ponieważ jego 10% cła wygasną w piątek – AP News",
-      "url": "https://apnews.com/article/trump-tariffs-supreme-court-forced-labor-4ea091eeee3fa1bfbe55af3f482e6bc1",
-      "date": "2026-07-24T02:27:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Trump nakłada dwucyfrowe cła na dziesiątki krajów, ponieważ jego 10% cła wygasną w piątek AP News."
-    },
-    {
       "title": "Stany Zjednoczone są gotowe pomóc zakończyć „bezsensowną wojnę” na Ukrainie, ale nie ma przed nimi szybkiego porozumienia, mówi Rubio – AP News",
       "url": "https://apnews.com/article/asean-rubio-lavrov-russia-ukraine-502b5eb2dc21caf13fab7928acdc5b1e",
       "date": "2026-07-24T01:55:00Z",
@@ -956,6 +948,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Służby zdrowia USA badają nową epidemię pasożyta wywołującego biegunkę. AP News."
+    },
+    {
+      "title": "Trump nakłada dwucyfrowe cła na dziesiątki krajów, ponieważ jego 10% cła wygasną w piątek – AP News",
+      "url": "https://apnews.com/article/trump-tariffs-supreme-court-forced-labor-4ea091eeee3fa1bfbe55af3f482e6bc1",
+      "date": "2026-07-23T21:09:56Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Trump nakłada dwucyfrowe cła na dziesiątki krajów, ponieważ jego 10% cła wygasną w piątek AP News."
     },
     {
       "title": "Ropa Brent przekracza 100 dolarów za baryłkę, a spadki Tesli i Alphabet ciągną Wall Street w dół – AP News",
@@ -2228,8 +2228,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "W sieci jakiś czas temu pojawiły się wyliczenia, z których wynika, że Polska sprzedaje Ukrainie paliwo za mniej niż 3 zł za litr, czyli znacznie taniej, niż oferuje je kierowcom na krajowych stacjach.",
-      "url": "https://energia.rp.pl/surowce-i-paliwa/art44882031-paliwo-dla-ukrainy-tansze-niz-na-polskich-stacjach-orlen-tlumaczy-dlaczego"
+      "description": "Polska chce produkować pociski do systemów Patriot po to, aby przejąć unijne środki przeznaczone na pomoc Ukrainie - powiedział Anatolij Matwijczuk, rosyjski pułkownik rezerwy w rozmowie z serwisem news.ru.",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-24/rosja-wsciekla-na-pomysl-polskiego-rzadu-polska-zgarnie-wszystko-co-sie-znajdzie/"
     },
     {
       "lat": 31.5,
@@ -2807,51 +2807,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25874.19,
+      25876.23,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27047.67,
+      27049.81,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27195.78,
+      27197.93,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27442.64,
+      27444.81,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28083.38,
+      28085.6,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28119.7,
+      28121.93,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28366.3,
+      28368.55,
       27354.94,
       27400.36,
       27412.11,
-      28770.88,
+      28773.15,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28025.72,
+      28027.94,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28206.85,
+      28209.08,
       27686.17,
       27404.78,
       27351.97,
@@ -2860,7 +2860,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27912.92,
+      27915.13,
       27930.04,
       28234.04,
       28218.36,
@@ -2869,17 +2869,17 @@
       28294.39,
       28203.83,
       28555.17,
-      28753.15,
+      28755.42,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28306.41,
+      28308.65,
       28242.11,
       28493.29,
       28421.66,
-      28118.94,
-      28234.25
+      28121.17,
+      28229.84
     ],
     "currency": "PLN"
   }
