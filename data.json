@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T01:41:42Z",
+  "last_updated": "2026-07-24T01:42:17Z",
   "poland": [
     {
       "title": "Raport: Japońscy turyści przypuścili szturm na Europę, w tym sezonie biją rekordy",
@@ -768,7 +768,7 @@
     {
       "title": "Aktualności na żywo z wojny w Iranie: Iran odrzucił amerykańską ofertę zawieszenia broni złożoną przez Irak, twierdzą urzędnicy",
       "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
-      "date": "2026-07-24T01:33:58Z",
+      "date": "2026-07-24T01:35:48Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Premier Iraku, który niedawno odwiedził Biały Dom, przekazał tę propozycję Teheranowi. Wojsko amerykańskie oświadczyło, że przeprowadziło 13. z rzędu noc ataków na Iran we wczesnych godzinach piątkowych czasu lokalnego."
@@ -1410,6 +1410,22 @@
   ],
   "cybersecurity": [
     {
+      "title": "Awaria światłowodu Microsoft odcięła Azure California na prawie pięć godzin",
+      "url": "https://www.theregister.com/off-prem/2026/07/24/microsoft-fiber-foul-up-cut-off-azure-california-for-almost-five-hours/5277945",
+      "date": "2026-07-24T01:24:36Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Błąd konserwacji spowodował utratę 27 usług."
+    },
+    {
+      "title": "Atak na twarz obejmującą OpenAI nie oznacza, że ​​agenci są źli – chyba że im to powiesz",
+      "url": "https://www.theregister.com/security/2026/07/24/openai-hugging-face-attack-doesnt-mean-agents-are-evil-unless-you-tell-them-to-be/5277881",
+      "date": "2026-07-23T23:51:28Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Modele ataku będą atakować."
+    },
+    {
       "title": "Naukowcy zastępują pobrane aplikacje na macOS złymi bliźniakami, Apple wzrusza ramionami",
       "url": "https://www.theregister.com/security/2026/07/24/researchers-replace-downloaded-macos-apps-with-evil-twins-apple-shrugs/5277858",
       "date": "2026-07-23T23:24:27Z",
@@ -1570,28 +1586,12 @@
       "summary": "Ujawniony serwer Alibaba Cloud ujawnił operację związaną z Chinami, którą Group-IB śledzi jako JadeProx. Klaster obrał za cel organizacje rządowe, zdrowotne i edukacyjne w Azji i Ameryce Łacińskiej, używając wcześniej nieudokumentowanego modułu ładującego dla systemu Windows o nazwie TriBack Loader. Group-IB znalazła serwer w połowie kwietnia 2026 r. w regionie Singapuru Alibaba Cloud; do czasu wygenerowania raportu był on offline."
     },
     {
-      "title": "Szwajcarski producent pociągów każe oszustom korzystającym z oprogramowania ransomware wysiąść na następnym przystanku",
-      "url": "https://www.theregister.com/security/2026/07/23/stadler-rail-scoffs-at-eversts-123m-extortion-attempts/5276922",
-      "date": "2026-07-23T11:58:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Stadler odmawia żądania 12,3 mln dolarów po tym, jak złodzieje przeszukali dane techniczne przez platformę dostawcy."
-    },
-    {
       "title": "Jak nadchodzą oszustwa związane z tożsamością syntetyczną w przypadku tożsamości maszynowych",
       "url": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
       "date": "2026-07-23T11:45:00Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Większość ludzi rozumie kradzież tożsamości jako osobę atakującą kradnącą poufne informacje prawdziwej osoby i podszywającą się pod nią. Oszustwa związane z tożsamością syntetyczną są znacznie trudniejsze do wykrycia. Zamiast kraść prawdziwą tożsamość, atakujący tworzy nową, łącząc kilka prawdziwych danych ze sfabrykowanymi, aby stworzyć osobę, która nie istnieje."
-    },
-    {
-      "title": "IBM upiera się, że sztuczna inteligencja nie zabiła transakcji na oprogramowanie, a jedynie je opóźniła",
-      "url": "https://www.theregister.com/software/2026/07/23/ibm-insists-ai-didnt-kill-software-deals-just-delayed-them/5276977",
-      "date": "2026-07-23T11:34:42Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Big Blue twierdzi, że klienci zamiast rezygnować z większych zakupów, odkładali je na później, ponieważ sprzęt pochłaniał budżety przedsiębiorstw."
     },
     {
       "title": "Atakujący wykorzystują programy uruchamiające akcje GitHub, aby atakować serwery cPanel i WHM",
@@ -2012,6 +2012,14 @@
       "summary": "Wiadomości INC SA - strona: 155 BiznesRadar."
     },
     {
+      "title": "Opcja OW20T263525 - Notowania - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/opcja/OW20T263525,notowania.aspx",
+      "date": "2026-07-23T13:29:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Opcja OW20T263525 - Notowania stockwatch.pl."
+    },
+    {
       "title": "IKZE Yaromana - stockwatch.pl",
       "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513959_IKZE-Yaromana.aspx",
       "date": "2026-07-23T13:06:43Z",
@@ -2058,14 +2066,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Dlaczego ona, a nie ja? Porównywanie się z innymi to największy złodziej energii na drodze do sukcesu [FELIETON] Forbes."
-    },
-    {
-      "title": "Opcja OW20T263725 - Notowania - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/OW20T263725,notowania.aspx",
-      "date": "2026-07-23T09:56:00Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Opcja OW20T263725 - Notowania stockwatch.pl."
     },
     {
       "title": "Flota zbudowana na kompromisach szybko pokazuje, gdzie firma nie policzyła ryzyka - Forbes",
@@ -2764,51 +2764,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25923.95,
+      25921.57,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27099.69,
+      27097.2,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27248.08,
+      27245.58,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27495.42,
+      27492.89,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28137.39,
+      28134.8,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28173.79,
+      28171.19,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28420.86,
+      28418.24,
       27354.94,
       27400.36,
       27412.11,
-      28826.21,
+      28823.56,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28079.63,
+      28077.04,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28261.1,
+      28258.5,
       27686.17,
       27404.78,
       27351.97,
@@ -2817,7 +2817,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27966.6,
+      27964.03,
       27930.04,
       28234.04,
       28218.36,
@@ -2826,16 +2826,16 @@
       28294.39,
       28203.83,
       28555.17,
-      28808.45,
+      28805.8,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28360.85,
+      28358.24,
       28242.11,
       28493.29,
       28421.66,
-      28173.02
+      28170.43
     ],
     "currency": "PLN"
   }
