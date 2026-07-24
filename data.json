@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-24T02:46:55Z",
+  "last_updated": "2026-07-24T02:47:38Z",
   "poland": [
+    {
+      "title": "Trump okradł Wenezuelę",
+      "url": "https://www.rp.pl/polityka/art44875191-trump-okradl-wenezuele",
+      "date": "2026-07-24T02:47:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "„Financial Times” szacuje, że od porwania Nicolása Maduro 3 stycznia Ameryka zarobiła 13 mld dol. na wenezuelskiej ropie. Co się stało z tymi pieniędzmi, nie wiadomo."
+    },
+    {
+      "title": "Minął termin ultimatum w PiS. Zwolennicy Morawieckiego nie chcą podpisywać „lojalek”",
+      "url": "https://www.rp.pl/polityka/art44880711-minal-termin-ultimatum-w-pis-zwolennicy-morawieckiego-nie-chca-podpisywac-lojalek",
+      "date": "2026-07-24T02:46:01Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "O północy minął termin ultimatum, jakie władze PiS przedstawiły członkom stowarzyszenia Rozwój Plus Mateusza Morawieckiego. Władze partii żądały od nich podpisania deklaracji o zakończeniu aktywności w ramach stowarzyszenia. Przełomu nie przyniosło czwartkowe spotkanie Morawieckiego z prezesem PiS, Jarosławem Kaczyńskim."
+    },
     {
       "title": "Nowe warunki techniczne budynków uderzą w patodeweloperów i w seniorów",
       "url": "https://www.rp.pl/nieruchomosci/art44877041-nowe-warunki-techniczne-budynkow-uderza-w-patodeweloperow-i-w-seniorow",
@@ -56,22 +72,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Zaledwie 7 proc. ludzi żyje w liberalnych demokracjach, a 74 proc. w autokracjach."
-    },
-    {
-      "title": "Michał Kolanko: Mija rok od rekonstrukcji rządu. Tusk silny jak zawsze, samotny jak nigdy",
-      "url": "https://www.rp.pl/polityka/art44873181-michal-kolanko-mija-rok-od-rekonstrukcji-rzadu-tusk-silny-jak-zawsze-samotny-jak-nigdy",
-      "date": "2026-07-24T02:30:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "W PiS przywództwo Jarosława Kaczyńskiego jest kwestionowane. W KO nikt pozycji Donalda Tuska nie podważa. Ale to nie tylko osobisty sukces premiera, ale i problem z odpowiedzialnością, gdy zaczyna dziać się źle."
-    },
-    {
-      "title": "Polskie służby mają trudności ze ściganiem przestępców z Ukrainy. Prezydent zwleka z ratyfikacją umowy",
-      "url": "https://www.rp.pl/polityka/art44871521-polskie-sluzby-maja-trudnosci-ze-sciganiem-przestepcow-z-ukrainy-prezydent-zwleka-z-ratyfikacja-umowy",
-      "date": "2026-07-24T02:30:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Umowa o zwalczaniu przestępczości między Polską a Ukrainą czeka na ratyfikację prezydenta. Ale jest do niej lawina zastrzeżeń, dotyczących m.in. groźby wpuszczenia obcych służb na teren Polski."
     },
     {
       "title": "USA nakładają nowe cła na 60 krajów. Sprytny manewr administracji Trumpa",
@@ -436,6 +436,14 @@
       "summary": "Wspierana przez Iran grupa w Jemenie zagroziła, że ​​zaatakuje saudyjskie statki na ważnym szlaku żeglugowym."
     },
     {
+      "title": "Giełdy w Azji tracą na wartości, bo gwałtowny wzrost cen ropy ożywia obawy o inflację, a obligacje ucierpią – Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-24/",
+      "date": "2026-07-24T01:20:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Giełdy azjatyckie spadają, gdy skok cen ropy ożywia obawy o inflację, a obligacje ucierpią Reuters."
+    },
+    {
       "title": "Linie Qantas testują nowego Airbusa o bardzo dużym zasięgu podczas bezpośredniego lotu z Francji do Melbourne o długości 17 000 km",
       "url": "https://www.theguardian.com/business/2026/jul/24/qantas-project-sunrise-airbus-a350-1000ulr-ultra-long-range-france-melbourne-test-flight",
       "date": "2026-07-24T00:39:50Z",
@@ -620,14 +628,6 @@
       "summary": "W miarę jak największe firmy technologiczne ścigają się, by wykorzystać nową falę technologii sztucznej inteligencji, inwestorzy zastanawiają się, kiedy pojawią się korzyści finansowe."
     },
     {
-      "title": "Źródła podają, że dyrektorzy naftowi spieszą się z dokończeniem migracji kontraktowej do Wenezueli – Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-executives-rush-complete-contract-migration-venezuela-sources-say-2026-07-23/",
-      "date": "2026-07-23T19:24:11Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Źródła Reuters podają, że dyrektorzy naftowi spieszą się z zakończeniem migracji kontraktowej do Wenezueli."
-    },
-    {
       "title": "Francja ewakuuje 20 000 mieszkańców w związku z rozprzestrzenianiem się pożarów na południowym zachodzie",
       "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-23T19:17:42Z",
@@ -681,7 +681,7 @@
       "date": "2026-07-23T16:13:00Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Mychajło Fiodorow twierdzi, że tylko na swoim poprzednim stanowisku mógłby „zwalczyć korupcję w zamówieniach publicznych i dokończyć transformację armii”. Szefowa polityki zagranicznej UE Kaja Kallas przedstawiła nieco więcej szczegółów na temat nowego pakietu sankcji, mówiąc, że są to „największa runda sankcji od czterech lat” i „uderzą Putina tam, gdzie najbardziej boli”. sektor energetyczny, który utrzymuje rosyjską gospodarkę wojenną. Kontynuuj czytanie..."
+      "summary": "Mychajło Fiodorow twierdzi, że tylko na swoim poprzednim stanowisku byłby w stanie „zwalczyć korupcję w zamówieniach publicznych i dokończyć transformację armii”. Szefowa polityki zagranicznej UE Kaja Kallas przedstawiła nieco więcej szczegółów na temat nowego pakietu sankcji, mówiąc, że są to „największa runda sankcji od czterech lat” i „uderzą Putina tam, gdzie najbardziej boli”. sektor energetyczny, który utrzymuje rosyjską gospodarkę wojenną. Kontynuuj czytanie..."
     },
     {
       "title": "Były gubernator skazany za zamordowanie ciężarnej studentki w Kenii",
@@ -875,7 +875,7 @@
       "date": "2026-07-23T21:16:10Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "12 senatorów Demokratów w Komisji Sił Zbrojnych stwierdziło, że departament sekretarza obrony Pete'a Hegsetha nie przedstawił „terminowych i kompleksowych” raportów na temat ofiar wojny."
+      "summary": "12 senatorów Partii Demokratycznej w Komisji Sił Zbrojnych stwierdziło, że departament sekretarza obrony Pete'a Hegsetha nie przedstawił „terminowych i kompleksowych” raportów na temat ofiar wojny."
     },
     {
       "title": "Definiujący obraz protestów pokolenia Z w Indiach",
@@ -939,7 +939,7 @@
       "date": "2026-07-23T19:40:01Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Po aresztowaniu w Miami Andrew i Tristana Tate’ów, prominentnych przywódców tzw. manosfery, wielu ich dawnych sojuszników z amerykańskiej prawicy wycofało poparcie."
+      "summary": "Po aresztowaniu w Miami Andrew i Tristana Tate’ów, prominentnych przywódców tzw. manosfery, wielu ich dawnych sojuszników z amerykańskiej prawicy wycofało swoje poparcie."
     },
     {
       "title": "Rosyjski szpieg, nagle rzucony na światło dzienne, ucieka z Japonii",
@@ -1567,7 +1567,7 @@
       "date": "2026-07-23T13:11:09Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Grupa oprogramowania ransomware Chaos wykonywała polecenia i kontrolę za pośrednictwem przeglądarki ofiary. W czwartek Cisco Talos szczegółowo opisał msaRAT, stojący za nim implant Rust, znaleziony na zainfekowanej maszynie z systemem Windows przed programem szyfrującym. Implant nigdy sam nie otwiera połączenia wychodzącego."
+      "summary": "Grupa oprogramowania ransomware Chaos wykonywała polecenia i kontrolę za pośrednictwem przeglądarki ofiary. W czwartek Cisco Talos szczegółowo opisał msaRAT, znajdujący się za nim implant Rust, znaleziony na zainfekowanej maszynie z systemem Windows przed programem szyfrującym. Implant nigdy sam nie otwiera połączenia wychodzącego."
     },
     {
       "title": "Jedno łącze ChatGPT może przemycić do Twojej firmy fałszywego agenta AI",
@@ -1647,7 +1647,7 @@
       "date": "2026-07-23T08:04:35Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "RefluXFS, nowa luka w jądrze Linuksa ujawniona 22 lipca i oznaczona jako CVE-2026-64600, umożliwia nieuprzywilejowanemu użytkownikowi lokalnemu nadpisanie plików należących do roota w systemie plików XFS i uzyskanie stałego dostępu roota. Qualys stwierdziło, że domyślne instalacje Red Hat Enterprise Linux i jego pochodnych, Fedora Server i Amazon Linux mogą spełniać warunki wykorzystania. Firma zademonstrowała wyścig."
+      "summary": "RefluXFS, nowa luka w jądrze Linuksa ujawniona 22 lipca i oznaczona jako CVE-2026-64600, umożliwia nieuprzywilejowanemu użytkownikowi lokalnemu nadpisanie plików należących do roota w systemie plików XFS i uzyskanie stałego dostępu roota. Qualys twierdzi, że domyślne instalacje Red Hat Enterprise Linux i jego pochodnych, Fedora Server i Amazon Linux mogą spełniać warunki wykorzystania. Firma zademonstrowała wyścig."
     },
     {
       "title": "BusySnake – stealer atakujący cele o znaczeniu krytycznym w Rosji. Za kampanię odpowiada grupa APT Armored Likho",
@@ -1924,14 +1924,6 @@
       "summary": "W Krajowym Rejestrze Długów widnieje 1,9 mln konsumentów, którzy mają do spłaty 40,4 mld zł zaległości. Średnio na jednego dłużnika przypada 21,5 tys. zł zaległości, a największe ryzyko koncentruje się w grupie 36-55 lat."
     },
     {
-      "title": "Zmasowany atak USA na Iran? Trump jest bliski decyzji",
-      "url": "https://www.bankier.pl/wiadomosc/Zmasowany-atak-USA-na-Iran-Trump-jest-bliski-decyzji-9172566.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-07-23T16:48:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Prezydent USA Donald Trump powiedział w czwartek portalowi Axios, że poważnie rozważa wznowienie dużych operacji bojowych przeciwko Iranowi, w tym ataki na większą skalę niż te przeprowadzone podczas \"Operacji Epicka Furia”."
-    },
-    {
       "title": "Tyle kosztuje euro. Kurs euro do złotego PLN/EUR 23.07.2026",
       "url": "https://www.money.pl/pieniadze/tyle-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-23-07-2026-7310637682063712a.html",
       "date": "2026-07-23T16:22:47Z",
@@ -2012,14 +2004,6 @@
       "summary": "„Warszawa to ubogi brat Moskwy”. Jak Rosja wykorzystuje influencerów? Forsal.pl."
     },
     {
-      "title": "Upadł rentowny zakład w Polsce. Pogrążył go dług z USA",
-      "url": "https://www.money.pl/biznes/znana-polska-fabryka-zarowek-oglosila-upadlosc-pograzyl-ja-dlug-z-usa-7310598366919040a.html",
-      "date": "2026-07-23T14:09:12Z",
-      "source": "Money.pl",
-      "confirmed_by": 1,
-      "summary": "Sąd w Łodzi ogłosił upadłość spółki Ultinon Motion Poland z Pabianic i wyznaczył syndyka masy upadłościowej. Zakład, który zatrudnia około 700 osób, ucierpiał po problemach finansowych właściciela - amerykańskiej grupy First Brands Group."
-    },
-    {
       "title": "Wiadomości INC SA - strona: 153 - BiznesRadar",
       "url": "https://www.biznesradar.pl/wiadomosci/INC,153",
       "date": "2026-07-23T14:02:37Z",
@@ -2060,14 +2044,6 @@
       "summary": "Komunikat EBI Kubota SA (kubota): rezygnacja członka RN stockwatch.pl."
     },
     {
-      "title": "Wawel i Jeronimo Martins wracają do współpracy. Wypowiedzenie umowy wycofane - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/wawel-i-jeronimo-martins-wracaja-do-wspolpracy-wypowiedzenie-umowy-wycofane,akcje,376886",
-      "date": "2026-07-23T12:33:40Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Wawel i Jeronimo Martins wracają do współpracy. Wypowiedzenie umowy wycofane stockwatch.pl."
-    },
-    {
       "title": "Ograniczanie obiegu wody w energetyce - Forsal.pl",
       "url": "https://forsal.pl/gospodarka/aktualnosci/artykuly/11279505,wykorzystanie-sciekow-komunalnych-w-energetyce-czy-wplynie-to-na-wysokosc-rachunkow-za-prad.html",
       "date": "2026-07-23T11:43:03Z",
@@ -2084,14 +2060,6 @@
       "summary": "Su-57 rozbił się pod Moskwą. To najnowocześniejszy myśliwiec Rosji Forsal.pl."
     },
     {
-      "title": "Polska się wyludnia. GUS pokazał najnowsze dane. Tyle osób ubyło w rok - Forsal.pl",
-      "url": "https://forsal.pl/gospodarka/demografia/artykuly/11279510,demograficzny-alarm-w-polsce-ubylo-159-tys-mieszkancow-spada-liczba-urodzen.html",
-      "date": "2026-07-23T10:52:49Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Polska się wyludnia. GUS pokazał najnowsze dane. Tyle osób ubyło w rok Forsal.pl."
-    },
-    {
       "title": "Dlaczego ona, a nie ja? Porównywanie się z innymi to największy złodziej energii na drodze do sukcesu [FELIETON] - Forbes",
       "url": "https://www.forbes.pl/forbeswomen/dlaczego-ona-a-nie-ja-porownywanie-sie-z-innymi-to-najwiekszy-zlodziej-energii/4h9e3er",
       "date": "2026-07-23T10:19:00Z",
@@ -2106,6 +2074,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Flota zbudowana na kompromisach szybko pokazuje, gdzie firma nie policzyła ryzyka Forbes."
+    },
+    {
+      "title": "Alphabet i Tesla spadają po wynikach. Co wystraszyło inwestorów?",
+      "url": "https://strefainwestorow.pl/strefa-global-market/spolki/alphabet-google-tesla-po-wynikach-2026",
+      "date": "2026-07-23T08:48:38Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Alphabet i Tesla spadają po wynikach. Co wystraszyło inwestorów? Szymon Machalica czw., 23.07.2026 Kanał Strefa Global Market Alphabet Google Tesla Treść Wyniki były mocne, ale to nie wystarczyło."
     },
     {
       "title": "Policjanci w USA skarżą się na AI: niepotrzebnie wydłuża czas pracy, zamiast go skracać - Forbes",
@@ -2132,6 +2108,14 @@
       "summary": "Niemal trzykrotny wzrost sprzedaży Digital Network w drugim kwartale BiznesRadar."
     },
     {
+      "title": "WIG20 coraz bliżej maksimów z 2007 roku",
+      "url": "https://strefainwestorow.pl/blog/podsumowanie-sesji/wig20-coraz-blizej-maksimow-z-2007-roku",
+      "date": "2026-07-23T06:54:23Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "WIG20 coraz bliżej maksimów z 2007 roku Paweł Biedrzycki czw., 23.07.2026 WIG20 Wstęp do wpisu Podsumowanie sesji z 22 lipca 2026: #WIG20, spółka godna uwagi, spółka komentowana WIG20 coraz bliżej maksimów z 2007 roku Paweł Biedrzycki."
+    },
+    {
       "title": "Notowania INTSAMD99655 INGBANK - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/INTSAMD99655",
       "date": "2026-07-23T06:43:09Z",
@@ -2146,6 +2130,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania INTSW2099531 INGBANK BiznesRadar."
+    },
+    {
+      "title": "Po boomie czas na test podaży. Co mówią sygnały z rynku mieszkaniowego?",
+      "url": "https://strefainwestorow.pl/nieruchomosci/sygnaly-rynek-mieszkan-1h26",
+      "date": "2026-07-23T06:30:00Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Po boomie czas na test podaży. Co mówią sygnały z rynku mieszkaniowego? Wioletta Hass czw., 23.07.2026 Kanał Strefa Inwestorów rynek mieszkaniowy nieruchomości ceny mieszkań kredyty hipoteczne deweloperzy budownictwo mieszkaniowe stopy procentowe mieszkania na sprzedaż Treść Na co wskazują sygnały z rynku mieszkaniowego ostatniego półrocza?"
     },
     {
       "title": "Przez lata dokładali do własnej firmy. Przełomy przyszły wraz z nieoczekiwanym momentem - Forbes",
@@ -2180,6 +2172,14 @@
       "summary": "Sprzedaż detaliczna w Polsce wzrosła w czerwcu o 6,8 proc. rok do roku w cenach bieżących, a po uwzględnieniu zmian cen – o 6,2 proc. rok do roku."
     },
     {
+      "title": "Impuls i korekta - 22 lipca 2026",
+      "url": "https://strefainwestorow.pl/impuls-i-korekta/impuls-i-korekta-22-lipca-2026",
+      "date": "2026-07-22T17:25:05Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Impuls i korekta - 22 lipca 2026 tchoman śr., 22.07.2026 Treść Już pierwsze wsparcie na Wig-u wystarczyło. Indeks odbił i zameldował się na nowych maksimach. Trend ma się świetnie i na razie nic nie jest w stanie tego zatrzymać."
+    },
+    {
       "title": "Cena to nie wszystko. UOKiK sprawdza, co doliczano klientom do kredytu w Autocentrum AAA Auto",
       "url": "https://300gospodarka.pl/news/cena-to-nie-wszystko-uokik-sprawdza-co-doliczano-klientom-do-kredytu-w-autocentrum-aaa-auto",
       "date": "2026-07-22T17:05:40Z",
@@ -2188,12 +2188,12 @@
       "summary": "Prezes UOKiK postawił zarzuty naruszenia zbiorowych interesów konsumentów spółce Autocentrum AAA Auto. Urząd kwestionuje sposób sprzedaży samochodów na kredyt, bo z ustaleń UOKiK wynika, że konsumenci mogli kupić auto na raty wyłącznie po dokupieniu dodatkowych produktów lub usług. W grę wchodziły m.in."
     },
     {
-      "title": "Notowania INTLXTB99432 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/INTLXTB99432",
-      "date": "2026-07-22T14:47:15Z",
-      "source": "Biznesradar",
+      "title": "W poszukiwaniu sygnałów - 22 lipca 2026 - WIG na nowych maksimach",
+      "url": "https://strefainwestorow.pl/blog/w-poszukiwaniu-sygnalow/w-poszukiwaniu-sygnalow-22-lipca-2026-wig-na-nowych-maksimach",
+      "date": "2026-07-22T15:29:27Z",
+      "source": "Strefa Inwestorów",
       "confirmed_by": 1,
-      "summary": "Notowania INTLXTB99432 INGBANK BiznesRadar."
+      "summary": "W poszukiwaniu sygnałów - 22 lipca 2026 - WIG na nowych maksimach Ewa śr., 22.07.2026 Wstęp Indeksy GPW, Spółki wcześniej sygnalizowane, Obserwowane wykresy W poszukiwaniu sygnałów - 22 lipca 2026 - WIG na nowych maksimach Ewa."
     },
     {
       "title": "„Odporność buduje się przed kryzysem”. Małgorzata Kopka-Piątek o roli kobiet w bezpieczeństwie Polski - Forbes",
@@ -2204,12 +2204,12 @@
       "summary": "„Odporność buduje się przed kryzysem”. Małgorzata Kopka-Piątek o roli kobiet w bezpieczeństwie Polski Forbes."
     },
     {
-      "title": "Oto ile kosztowałaby reklama, którą media zrobiły Gołębiewskiemu za darmo! - Forbes",
-      "url": "https://www.forbes.pl/life/darmowa-reklama-za-kilkadziesiat-milionow-zl-dostal-ja-hotel-golebiewski-w-pobierowie/58jp9hz",
-      "date": "2026-07-22T05:00:00Z",
-      "source": "Forbes Polska",
+      "title": "Zasób złota - jak NBP buduje bezpieczeństwo finansowe Polski",
+      "url": "https://strefainwestorow.pl/ekonomia/zloto-ceny-zasoby-nbp-adam-glapinski",
+      "date": "2026-07-22T09:59:55Z",
+      "source": "Strefa Inwestorów",
       "confirmed_by": 1,
-      "summary": "Oto ile kosztowałaby reklama, którą media zrobiły Gołębiewskiemu za darmo! Forbes."
+      "summary": "Zasób złota - jak NBP buduje bezpieczeństwo finansowe Polski NBP śr., 22.07.2026 Kanał Strefa Inwestorów Adam Glapiński NBP złoto ceny złota Treść W świecie pełnym zawirowań geopolitycznych Narodowy Bank Polski pełni funkcję nie tylko strażnika wartości polskiego pieniądza, lecz także głównego architekta naszej niezależności finansowej. Dziś, w obliczu gwałtownych zmian na arenie międzynarodowej, Polska stoi przed historycznym wyzwaniem wzmocnienia odporności militarnej i finansowej państwa.Koncepcja wykorzystania części posiadanego złota – bez zmniejszenia poziomu rezerw dewizowych – mogłaby być filarem strategii ukierunkowanej na realizację tego wyzwania. Aby ją urzeczywistnić, potrzeba współpracy prezydenta, rządu i parlamentu, z udziałem Narodowego Banku Polskiego, tak aby przygotować odpowiednie rozwiązania, z poszanowaniem niezależności banku centralnego."
     }
   ],
   "critical_alerts": [
@@ -2260,8 +2260,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Umowa o zwalczaniu przestępczości między Polską a Ukrainą czeka na ratyfikację prezydenta.",
-      "url": "https://www.rp.pl/polityka/art44871521-polskie-sluzby-maja-trudnosci-ze-sciganiem-przestepcow-z-ukrainy-prezydent-zwleka-z-ratyfikacja-umowy"
+      "description": "Wiceminister obrony narodowej Magdalena Sobkowiak-Czarnecka powiedziała w czwartek w Waszyngtonie, że zaproponowała stronie amerykańskiej produkcję pocisków do systemów Patriot we współpracy z USA i Ukrainą.",
+      "url": "https://businessinsider.com.pl/gospodarka/wspolna-produkcja-patriotow-polska-wychodzi-z-inicjatywa-do-usa-i-ukrainy/cn9d954"
     },
     {
       "lat": 31.5,
@@ -2308,8 +2308,8 @@
       "lng": -66.59,
       "type": "conflict",
       "region": "Wenezuela",
-      "description": "Źródła Reuters podają, że dyrektorzy naftowi spieszą się z zakończeniem migracji kontraktowej do Wenezueli.",
-      "url": "https://www.reuters.com/business/energy/oil-executives-rush-complete-contract-migration-venezuela-sources-say-2026-07-23/"
+      "description": "„Financial Times” szacuje, że od porwania Nicolása Maduro 3 stycznia Ameryka zarobiła 13 mld dol.",
+      "url": "https://www.rp.pl/polityka/art44875191-trump-okradl-wenezuele"
     },
     {
       "lat": 39.5,
@@ -2756,51 +2756,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25924.36,
+      25927.02,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27100.12,
+      27102.9,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27248.51,
+      27251.31,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27495.86,
+      27498.68,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28137.83,
+      28140.72,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28174.23,
+      28177.12,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28421.31,
+      28424.22,
       27354.94,
       27400.36,
       27412.11,
-      28826.66,
+      28829.62,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28080.07,
+      28082.95,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28261.54,
+      28264.44,
       27686.17,
       27404.78,
       27351.97,
@@ -2809,7 +2809,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27967.04,
+      27969.91,
       27930.04,
       28234.04,
       28218.36,
@@ -2818,16 +2818,16 @@
       28294.39,
       28203.83,
       28555.17,
-      28808.91,
+      28811.86,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28361.3,
+      28364.2,
       28242.11,
       28493.29,
       28421.66,
-      28173.47
+      28176.36
     ],
     "currency": "PLN"
   }
