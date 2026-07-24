@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T20:59:40Z",
+  "last_updated": "2026-07-24T21:00:25Z",
   "poland": [
     {
       "title": "WIG20 wciąż czeka z atakiem na szczyt",
@@ -96,6 +96,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Orzeczenie o niepełnosprawności lub stopniu niepełnosprawności oprócz podstawowych danych i symbolu przyczyny niepełnosprawności zawiera także określone wskazania. Dotyczą one różnego rodzaju uprawnień oraz ulg i są oznaczone punktami od 1 do 10. Przypominamy, co oznaczają poszczególne punkty."
+    },
+    {
+      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
+      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
+      "date": "2026-07-24T18:43:14Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
     },
     {
       "title": "Duża zmiana w zarządzie Cyfrowego Polsatu. Zrezygnowała dyrektorka finansowa",
@@ -288,14 +296,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Belgia zmienia trenera po mundialu. Wicemistrz świata z 2010 roku obejmuje \"Czerwone Diabły\" Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "Europa zmaga się z pożarami: stan wyjątkowy na terenie wspólnoty Madrytu, we Francji ewakuacje - Polska Agencja Prasowa SA",
-      "url": "https://www.pap.pl/aktualnosci/europa-zmaga-sie-z-pozarami-stan-wyjatkowy-na-terenie-wspolnoty-madrytu-we-francji",
-      "date": "2026-07-24T13:57:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Europa zmaga się z pożarami: stan wyjątkowy na terenie wspólnoty Madrytu, we Francji ewakuacje Polska Agencja Prasowa SA."
     },
     {
       "title": "Atak na poligon w obwodzie kijowskim. Nie żyje 10 osób",
@@ -1410,6 +1410,22 @@
   ],
   "cybersecurity": [
     {
+      "title": "Europol zgłasza 4340 „przerażających” adresów URL prowadzących do witryny The Com",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/24/europol-flags-4340-horrific-urls-linked-to-the-com/5278556",
+      "date": "2026-07-24T20:20:57Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Zatrzymaj rozprzestrzenianie się (rekrutacji i propagandy online)."
+    },
+    {
+      "title": "Liderzy technologii wysyłają list, w którym mają przeszkolić wujka Sama na temat wartości sztucznej inteligencji w otwartej wadze",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/24/tech-leaders-issue-letter-to-train-uncle-sam-about-value-of-open-weight-ai/5278533",
+      "date": "2026-07-24T19:45:27Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Czy zgadniesz, kto nie podpisał się pod listem grupowym?"
+    },
+    {
       "title": "Dev przypadkowo umieścił plik binarny Copilot w repozytorium portów FreeBSD",
       "url": "https://www.theregister.com/os-platforms/2026/07/24/dev-accidentally-commits-copilot-binary-to-freebsd-ports-repo/5278458",
       "date": "2026-07-24T17:03:35Z",
@@ -1674,28 +1690,12 @@
       "summary": "Zespół reagowania na incydenty komputerowe Ukrainy (CERT-UA) ostrzegł przed nową kampanią polegającą na wykorzystaniu szkodliwego programu podszywającego się pod wtyczkę Notepad++ w celu naruszenia bezpieczeństwa systemów Windows. Agencja przypisała to działanie klasterowi zagrożeń, który śledzi jako UAC-0099 – grupie sprzymierzonej z Rosją, która wcześniej zaobserwowała wykorzystywanie luk w zabezpieczeniach oprogramowania WinRAR."
     },
     {
-      "title": "Nowicjusz z działu wsparcia odkrył, jak uniknąć nieprzespanych nocy, a jego koledzy go za to znienawidzili",
-      "url": "https://www.theregister.com/software/2026/07/24/support-newbie-figured-out-how-to-avoid-all-nighters-and-his-colleagues-hated-him-for-it/5276829",
-      "date": "2026-07-24T06:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Sen nie popłaca."
-    },
-    {
       "title": "Państwowy eDziennik coraz bliżej. MEN ujawnia szczegóły pilotażu",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/panstwowy-edziennik-coraz-blizej-men-ujawnia-szczegoly-pilotazu",
       "date": "2026-07-24T05:45:19Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Rząd przyjął projekt ustawy, który umożliwi przeprowadzenie pilotażu państwowego eDziennika już od nowego roku szkolnego. Ministerstwie Edukacji Narodowej wskazuje na łamach CyberDefence24, że na obecnym etapie zakłada się udział co najmniej 18 szkół, a testy będą prowadzone z wykorzystaniem rzeczywistych danych."
-    },
-    {
-      "title": "Intel wie, że musi „przeskoczyć” ARM i AMD, mówi dyrektor generalny Lip-Bu Tan",
-      "url": "https://www.theregister.com/systems/2026/07/24/intel-knows-it-needs-to-leapfrog-arm-and-amd-says-ceo-lip-bu-tan/5277968",
-      "date": "2026-07-24T05:17:54Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Chipzilla zmienia nazwę firmy na PC, aby odzwierciedlić przekonanie, że roboty mogą pewnego dnia być równie cenne."
     },
     {
       "title": "Rosyjska grupa szpiegowska wykorzystała Zimbra Zero-Day do kradzieży poczty i kodów 2FA",
@@ -2214,12 +2214,9 @@
   ],
   "critical_alerts": [
     {
-      "title": "Europa zmaga się z pożarami: stan wyjątkowy na terenie wspólnoty Madrytu, we Francji ewakuacje - Polska Agencja Prasowa SA",
-      "url": "https://www.pap.pl/aktualnosci/europa-zmaga-sie-z-pozarami-stan-wyjatkowy-na-terenie-wspolnoty-madrytu-we-francji",
-      "date": "2026-07-24T13:57:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Europa zmaga się z pożarami: stan wyjątkowy na terenie wspólnoty Madrytu, we Francji ewakuacje Polska Agencja Prasowa SA."
+      "title": "Sytuacja stabilna - brak nowych alarmów krytycznych",
+      "url": "",
+      "source": ""
     }
   ],
   "map_features": [
@@ -2826,51 +2823,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25842.83,
+      25850.33,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27014.89,
+      27022.73,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27162.82,
+      27170.7,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27409.38,
+      27417.34,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28049.34,
+      28057.48,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28085.62,
+      28093.77,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28331.92,
+      28340.15,
       27354.94,
       27400.36,
       27412.11,
-      28736.01,
+      28744.35,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27991.76,
+      27999.88,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28172.66,
+      28180.84,
       27686.17,
       27404.78,
       27351.97,
@@ -2879,7 +2876,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27879.09,
+      27887.18,
       27930.04,
       28234.04,
       28218.36,
@@ -2888,17 +2885,17 @@
       28294.39,
       28203.83,
       28555.17,
-      28718.3,
+      28726.64,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28272.1,
+      28280.31,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28098.82
+      28106.97
     ],
     "currency": "PLN"
   }
