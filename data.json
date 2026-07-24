@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-24T10:22:49Z",
+  "last_updated": "2026-07-24T10:23:19Z",
   "poland": [
+    {
+      "title": "Artur Bartkiewicz: Co się dzieje w PiS? Morawiecki chce być nowym Gowinem, „maślarze” przygotowują się na Brauna",
+      "url": "https://www.rp.pl/komentarze/art44881431-artur-bartkiewicz-co-sie-dzieje-w-pis-morawiecki-chce-byc-nowym-gowinem-maslarze-przygotowuja-sie-na-brauna",
+      "date": "2026-07-24T10:21:30Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Mateusz Morawiecki chce odgrywać rolę pragmatycznej prawicy, która byłaby do przyjęcia nie tylko dla wyborców już stojących przy PiS, ale też dla części wyborców, którzy 15 października pomogli dojść Donaldowi Tuskowi do władzy, głównie popierając Trzecią Drogę. Z kolei PiS przeciera sobie szlak do koalicji nie tylko z Konfederacją, ale też z Grzegorzem Braunem – te dwa procesy obserwujemy właśnie w Prawie i Sprawiedliwości."
+    },
     {
       "title": "To koniec. Kaczyński zdecydował ws. Morawieckiego i dywersantów - Polskie Radio 24",
       "url": "https://polskieradio24.pl/polska/trzesienie-ziemi-w-pis-kaczynski-wyrzucil-ludzi-morawieckiego",
@@ -128,14 +136,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Do końca lipca potrwają konsultacje publiczne projektu wsparcia polskiego ciepłownictwa, także w mniejszych miejscowościach. „Fundusz Transformacji Ciepłownictwa”, finansowany ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, będzie dysponował 3 mld zł."
-    },
-    {
-      "title": "Paraliż eksportu zboża z Ukrainy. Ceny na świecie szybko rosną",
-      "url": "https://www.rp.pl/rolnictwo/art44881631-paraliz-eksportu-zboza-z-ukrainy-ceny-na-swiecie-szybko-rosna",
-      "date": "2026-07-24T09:30:51Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Od tygodnia ukraińskie zboże nie może opuścić portów nad Morzem Czarnym z powodu rosyjskich ataków. Kijów szuka alternatywnych szlaków dostaw, w tym przez terminal w Gdańsku. A na globalnym rynku zboże drożeje coraz bardziej."
     },
     {
       "title": "Rosja zaatakowała Kijów rakietami balistycznymi. W mieście słychać eksplozje",
@@ -2496,7 +2496,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 47,
+      "score": 35,
       "reasons": [
         {
           "title": "Laura Loomer spotyka się z Zełenskim na Ukrainie po znaczącym odwróceniu sytuacji w wojnie – AP News",
@@ -2507,11 +2507,6 @@
           "title": "Stany Zjednoczone są gotowe pomóc zakończyć „bezsensowną wojnę” na Ukrainie, ale nie ma przed nimi szybkiego porozumienia, mówi Rubio – AP News",
           "url": "https://apnews.com/article/asean-rubio-lavrov-russia-ukraine-502b5eb2dc21caf13fab7928acdc5b1e",
           "source": "Associated Press"
-        },
-        {
-          "title": "Paraliż eksportu zboża z Ukrainy. Ceny na świecie szybko rosną",
-          "url": "https://www.rp.pl/rolnictwo/art44881631-paraliz-eksportu-zboza-z-ukrainy-ceny-na-swiecie-szybko-rosna",
-          "source": "Rzeczpospolita"
         }
       ]
     },
@@ -2758,51 +2753,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25851.69,
+      25850.53,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27024.16,
+      27022.95,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27172.13,
+      27170.92,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27418.78,
+      27417.56,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28058.96,
+      28057.71,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28095.25,
+      28094.0,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28341.64,
+      28340.37,
       27354.94,
       27400.36,
       27412.11,
-      28745.86,
+      28744.57,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28001.36,
+      28000.1,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28182.33,
+      28181.06,
       27686.17,
       27404.78,
       27351.97,
@@ -2811,7 +2806,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27888.65,
+      27887.4,
       27930.04,
       28234.04,
       28218.36,
@@ -2820,16 +2815,16 @@
       28294.39,
       28203.83,
       28555.17,
-      28728.15,
+      28726.86,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28281.8,
+      28280.53,
       28242.11,
       28493.29,
       28421.66,
-      28094.5
+      28093.24
     ],
     "currency": "PLN"
   }
