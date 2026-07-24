@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-24T09:31:19Z",
+  "last_updated": "2026-07-24T09:31:58Z",
   "poland": [
+    {
+      "title": "\"Kontrole PIP uderzają w rynek pracy\". Jest reakcja na sprawę Pyszne.pl",
+      "url": "https://businessinsider.com.pl/biznes/biznes-krytykuje-kontrole-pip-nie-trzeba-bylo-dlugo-czekac/vj3sn39",
+      "date": "2026-07-24T09:27:54Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Inicjowanie interwencyjnych i uznaniowych kontroli w celu wywierania presji na przedsiębiorców i wymuszania zmian modeli biznesowych jest niedopuszczalne w państwie prawa — uważa Federacja Przedsiębiorców Polskich (FPP). To efekt kontroli w firmie odpowiedzialną za markę Pyszne.pl."
+    },
     {
       "title": "Odnaleziono szczątki mjr. Mieczysława Dziemieszkiewicza ps. \"Rój\". Konferencja IPN",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-07-24/odnaleziono-szczatki-mjr-mieczyslawa-dziemieszkiewicza-ps-roj-konferencja-ipn/",
@@ -240,14 +248,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Nowa Żabka powstanie w jednym z najbardziej eksponowanych miejsc w centrum Warszawy. Zajmie lokal po najstarszym sklepie H&M w Polsce, który zniknął przed rokiem z Domów Towarowych Centrum. Nie będzie to jednak typowa placówka handlowa tej liczącej już kilkanaście tysięcy punktów sieci."
-    },
-    {
-      "title": "Ropa po 100 dol. \"Masowy atak\" w słowach Donalda Trumpa odbił się na rynku",
-      "url": "https://businessinsider.com.pl/gielda/rynek-ropy-pod-presja-konflikt-usa-z-iranem-grozi-blokada-szlakow-eksportowych/1nbgvvx",
-      "date": "2026-07-24T07:31:52Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Ceny ropy naftowej osiągnęły najwyższy poziom od maja, przekraczając granicę 100 dol. za baryłkę. Na wzrost cen wpłynęły rosnące napięcia na Bliskim Wschodzie, a także zapowiedź Donalda Trumpa o możliwości przeprowadzenia \"masowego ataku\" na Iran."
     },
     {
       "title": "Polska z propozycją dla USA ws. Patriotów. W projekcie także Ukraina",
@@ -2520,7 +2520,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 38,
+      "score": 42,
       "reasons": [
         {
           "title": "Iran odbudowuje infrastrukturę po atakach USA. Amerykańskie media podważają słowa Trumpa",
@@ -2541,7 +2541,7 @@
     },
     {
       "name": "Wenezuela",
-      "score": 29,
+      "score": 32,
       "reasons": [
         {
           "title": "Miesiąc po trzęsieniu ziemi w Wenezueli rodziny nadal szukają ciał",
@@ -2557,7 +2557,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 14,
+      "score": 16,
       "reasons": [
         {
           "title": "Stany Zjednoczone są gotowe pomóc zakończyć „bezsensowną wojnę” na Ukrainie, ale nie ma przed nimi szybkiego porozumienia, mówi Rubio – AP News",
@@ -2568,7 +2568,7 @@
     },
     {
       "name": "Jemen",
-      "score": 10,
+      "score": 11,
       "reasons": [
         {
           "title": "Ataki Houthi budzą strach przed szerszym konfliktem na Bliskim Wschodzie i większymi globalnymi szkodami gospodarczymi",
@@ -2772,51 +2772,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25885.37,
+      25884.89,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27059.36,
+      27058.86,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27207.53,
+      27207.03,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27454.5,
+      27453.99,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28095.51,
+      28095.0,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28131.85,
+      28131.33,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28378.56,
+      28378.04,
       27354.94,
       27400.36,
       27412.11,
-      28783.31,
+      28782.78,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28037.83,
+      28037.32,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28219.04,
+      28218.52,
       27686.17,
       27404.78,
       27351.97,
@@ -2825,7 +2825,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27924.98,
+      27924.46,
       27930.04,
       28234.04,
       28218.36,
@@ -2834,16 +2834,16 @@
       28294.39,
       28203.83,
       28555.17,
-      28765.57,
+      28765.04,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28318.64,
+      28318.12,
       28242.11,
       28493.29,
       28421.66,
-      28131.09
+      28130.57
     ],
     "currency": "PLN"
   }
