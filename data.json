@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T22:23:53Z",
+  "last_updated": "2026-07-25T22:33:25Z",
   "poland": [
     {
       "title": "Pożary pustoszą Francję i Hiszpanię. Ewakuowano ponad ćwierć miliona osób",
@@ -766,20 +766,36 @@
   ],
   "world_politics": [
     {
+      "title": "Brazylia blokuje wizytę delegacji USA mającej na celu zakwestionowanie systemu wyborczego",
+      "url": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html",
+      "date": "2026-07-25T22:21:50Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Władze brazylijskie odmówiły przyznania wiz dwóm wyższym urzędnikom amerykańskim w obawie, że planują zasiać wątpliwości co do bezpieczeństwa systemów głosowania w kraju."
+    },
+    {
+      "title": "Aktualizacje na żywo wojny w Iranie: Ataki USA-Iran słabną, ale zwolennicy obu stron wymieniają się atakami",
+      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
+      "date": "2026-07-25T22:19:08Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Siły Huti i Arabii Saudyjskiej w Jemenie oświadczyły, że wymieniły ataki, a Ukraina oświadczyła, że ​​uderzyła w statek przewożący rosyjskie dostawy wojskowe do Iranu."
+    },
+    {
+      "title": "Trump wstrzymuje się z eskalacją poważnej wojny z Iranem, ponieważ doradcy zgłaszają obawy",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
+      "date": "2026-07-25T22:19:07Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Wśród obaw jest to, że rozszerzone działania wojenne mogą niebezpiecznie wyczerpać zmniejszone zapasy amunicji do obrony powietrznej na Bliskim Wschodzie."
+    },
+    {
       "title": "Impreza Berlin Pride została przerwana po tym, jak samochód uderzył w tłum",
       "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
       "date": "2026-07-25T22:10:42Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Policja poinformowała, że ​​po wydarzeniu na jednym z największych festiwali o tematyce gejowskiej w Europie rozpoczęło się polowanie na podejrzanych."
-    },
-    {
-      "title": "Aktualizacje na żywo wojny w Iranie: Ataki USA-Iran słabną, ale zwolennicy obu stron wymieniają się atakami",
-      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
-      "date": "2026-07-25T22:05:06Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Siły Huti i Arabii Saudyjskiej w Jemenie oświadczyły, że wymieniły ataki, a Ukraina oświadczyła, że ​​uderzyła w statek przewożący rosyjskie dostawy wojskowe do Iranu."
     },
     {
       "title": "Co warto wiedzieć o pożarach szalejących w Europie Zachodniej",
@@ -812,14 +828,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Strażacy starali się opanować płomienie przemieszczające się w stronę głównych miast. Około 200 000 osób ewakuowało się lub schroniło w swoich domach."
-    },
-    {
-      "title": "Brazylia blokuje wizytę delegacji USA mającej na celu zakwestionowanie systemu wyborczego",
-      "url": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html",
-      "date": "2026-07-25T20:03:26Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Władze brazylijskie odmówiły przyznania wiz dwóm wyższym urzędnikom amerykańskim w obawie, że planują zasiać wątpliwości co do bezpieczeństwa systemów głosowania w kraju."
     },
     {
       "title": "Dym z pożarów dławi niebo w Hiszpanii i Francji",
@@ -886,14 +894,6 @@
       "summary": "Prawie wszystkie 14 punktów porozumienia zostały naruszone."
     },
     {
-      "title": "Tajwan testuje, jak oparłby się chińskiemu oblężeniu na morzu",
-      "url": "https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html",
-      "date": "2026-07-25T14:32:49Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Tajwan intensyfikuje plany zabezpieczenia paliwa i innego niezbędnego importu, ponieważ chińskie statki rządowe ćwiczą ruchy, które pewnego dnia mogą zostać wykorzystane w blokadzie."
-    },
-    {
       "title": "Z mieczami, toporami i tarczami wojownicy walczą łeb w łeb w średniowiecznych mistrzostwach świata w walce – AP News",
       "url": "https://apnews.com/article/denmark-medieval-combat-world-championship-b94d792e3ce3094a681fa7e715d1947c",
       "date": "2026-07-25T07:51:00Z",
@@ -924,6 +924,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "UNESCO dodaje Zachodni Brzeg i zamki libańskie na Listę Światowego Dziedzictwa pomimo sprzeciwu Izraela AP News."
+    },
+    {
+      "title": "Administracja Trumpa przyznaje, że dotacje na czystą energię zostały anulowane ze względów politycznych – AP News",
+      "url": "https://apnews.com/article/trump-clean-energy-grants-chris-wright-09d26d615869ce06dd6bb2c047f636cb",
+      "date": "2026-07-25T00:25:21Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Administracja Trumpa przyznaje, że dotacje na czystą energię zostały anulowane ze względu na politykę AP News."
     },
     {
       "title": "Szef ONZ ds. praw człowieka wygrywa drugą kadencję pomimo sprzeciwu USA, Izraela i Rosji – AP News",
@@ -996,14 +1004,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Prawie 150 000 kart do głosowania korespondencyjnego odrzucono w prawyborach w Kalifornii pomimo wysiłków AP News, aby policzyć każdy głos."
-    },
-    {
-      "title": "Ukraina uderza w największy rosyjski rynek internetowy, szkodząc małym firmom i sprowadzając wojnę do domu – AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-wildberries-attacks-d69c6db025a0ff779db9606b9982b1d9",
-      "date": "2026-07-24T16:34:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Ukraina uderza w największy rosyjski rynek internetowy, szkodząc małym firmom i sprowadzając wojnę do domu AP News."
     }
   ],
   "technology": [
@@ -1013,7 +1013,7 @@
       "date": "2026-07-25T21:48:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Adres URL komentarzy: https://news.ycombinator.com/item?id=49051947 Punkty: 5 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Adres URL komentarzy: https://news.ycombinator.com/item?id=49051947 Punkty: 20 # Komentarze: 0."
     },
     {
       "title": "77-letni Republikanin organizuje samodzielny protest przeciwko kamerom Flock",
@@ -1021,15 +1021,15 @@
       "date": "2026-07-25T21:32:08Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49051816 Punkty: 16 # Komentarze: 9."
+      "summary": "Adres URL artykułu: https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49051816 Punkty: 58 # Komentarze: 22."
     },
     {
-      "title": "„Mania sztucznej inteligencji wypacza globalny proces decyzyjny”",
-      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-      "date": "2026-07-25T21:18:06Z",
+      "title": "Kogo właściwie Anubis powstrzymuje?",
+      "url": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
+      "date": "2026-07-25T20:59:24Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh Adres URL komentarzy: https://news.ycombinator.com/item?id=49051692 Punkty: 22 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop Adres URL komentarzy: https://news.ycombinator.com/item?id=49051505 Punkty: 9 # Komentarze: 4."
     },
     {
       "title": "Dystrybucja telewizji multicast w mojej sieci domowej",
@@ -1037,7 +1037,7 @@
       "date": "2026-07-25T20:55:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.apalrd.net/posts/2026/isp_mcast/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49051463 Punkty: 9 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://www.apalrd.net/posts/2026/isp_mcast/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49051463 Punkty: 10 # Komentarze: 1."
     },
     {
       "title": "Zwiastun SDCC daje nam pierwsze dobre spojrzenie na Blade Runner 2099",
@@ -1053,7 +1053,7 @@
       "date": "2026-07-25T20:43:11Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://fly.io/blog/kurt-scott-money-sprites/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49051369 Punkty: 52 # Komentarze: 10."
+      "summary": "Adres URL artykułu: https://fly.io/blog/kurt-scott-money-sprites/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49051369 Punkty: 65 # Komentarze: 17."
     },
     {
       "title": "Nowe zasady inżynierii kontekstu dla modeli Claude'a V generacji",
@@ -1061,7 +1061,7 @@
       "date": "2026-07-25T20:42:35Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generacja-models Adres URL komentarzy: https://news.ycombinator.com/item?id=49051361 Punkty: 41 # Komentarze: 17."
+      "summary": "Adres URL artykułu: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generacja-models Adres URL komentarzy: https://news.ycombinator.com/item?id=49051361 Punkty: 61 # Komentarze: 25."
     },
     {
       "title": "Chiński organ nadzoru rynku twierdzi, że nałożył grzywnę i skonfiskował firmę Trip.com o wartości około 770 mln dolarów za nadużywanie pozycji dominującej na krajowym rynku rezerwacji hoteli online (Reuters)",
@@ -1085,7 +1085,7 @@
       "date": "2026-07-25T20:18:03Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://didtheyghostyou.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49051120 Punkty: 39 # Komentarze: 7."
+      "summary": "Adres URL artykułu: https://didtheyghostyou.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49051120 Punkty: 60 # Komentarze: 20."
     },
     {
       "title": "Kilka uniwersytetów, w tym Yale, Johns Hopkins i University of Waterloo, ograniczyło lub wyłączyło korzystanie z detektorów AI ze względu na obawy dotyczące dokładności (Ima Jackson-Obot/Financial Times)",
@@ -2012,20 +2012,20 @@
       "summary": "Mechthild Christian - Portfel inwestora stockwatch.pl."
     },
     {
-      "title": "Opcja OW20T263950 - Notowania - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/OW20T263950,notowania.aspx",
-      "date": "2026-07-24T23:42:21Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Opcja OW20T263950 - Notowania stockwatch.pl."
-    },
-    {
       "title": "„Ostatni wolny pokój” skłania do przepłacania. Eksperci radzą, jak tego uniknąć",
       "url": "https://300gospodarka.pl/news/ceny-noclegow-w-europie-mocno-w-gore-chorwacja-w-czolowce",
       "date": "2026-07-24T18:42:24Z",
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Ceny noclegów w Unii Europejskiej wzrosły od maja 2021 r. do maja 2026 r. średnio o 46,5 proc."
+    },
+    {
+      "title": "WIG20 2026 - konkurs - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513996_WIG20-2026--konkurs.aspx",
+      "date": "2026-07-24T17:56:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "WIG20 2026 - konkurs stockwatch.pl."
     },
     {
       "title": "Nielegalne kasyna online kuszą Polaków, a budżet traci miliardy. WEI chce końca monopolu",
@@ -2512,7 +2512,7 @@
     },
     {
       "name": "Iran",
-      "score": 58,
+      "score": 81,
       "reasons": [
         {
           "title": "Stany Zjednoczone rozszerzają ataki Iranu, gdy Trump ostrzega Teheran i Houthi w związku z atakami na Morzu Czerwonym",
@@ -2525,15 +2525,15 @@
           "source": "The New York Times"
         },
         {
-          "title": "Iran twierdzi, że ukraiński marynarz zginął w ataku na statek na Morzu Kaspijskim – Reuters",
-          "url": "https://www.reuters.com/world/europe/iran-says-ukrainian-attack-vessel-caspian-sea-killed-sailor-2026-07-25/",
-          "source": "Reuters"
+          "title": "Trump wstrzymuje się z eskalacją poważnej wojny z Iranem, ponieważ doradcy zgłaszają obawy",
+          "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
+          "source": "The New York Times"
         }
       ]
     },
     {
       "name": "Jemen",
-      "score": 50,
+      "score": 57,
       "reasons": [
         {
           "title": "Stany Zjednoczone rozszerzają ataki Iranu, gdy Trump ostrzega Teheran i Houthi w związku z atakami na Morzu Czerwonym",
@@ -2554,7 +2554,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 29,
+      "score": 33,
       "reasons": [
         {
           "title": "Odzyskiwanie skradzionego dzieciństwa: po trzech latach wojny w Gazie wznowiono zajęcia pływania",
