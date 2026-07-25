@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T23:24:47Z",
+  "last_updated": "2026-07-25T23:34:16Z",
   "poland": [
     {
       "title": "Flotę LOT-u zasilił nowy boeing 737 MAX 8. Do końca wakacji przylecą jeszcze dwa",
@@ -370,6 +370,14 @@
       "summary": "Polska Agencja Prasowa SA."
     },
     {
+      "title": "- Polska Agencja Prasowa SA",
+      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC025%20contains(Viering))",
+      "date": "2026-07-24T16:22:54Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Polska Agencja Prasowa SA."
+    },
+    {
       "title": "Belgia zmienia trenera po mundialu. Wicemistrz świata z 2010 roku obejmuje \"Czerwone Diabły\" - Polska Agencja Prasowa SA",
       "url": "https://www.pap.pl/aktualnosci/belgia-zmienia-trenera-po-mundialu-wicemistrz-swiata-z-2010-roku-obejmuje-czerwone",
       "date": "2026-07-24T14:45:00Z",
@@ -392,14 +400,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Prezydent kieruje do TK ustawę o tzw. windfall tax od spółek paliwowych (opis2) PAP Biznes."
-    },
-    {
-      "title": "W przyszłym tygodniu kolejne podwyżki cen paliw, jeśli utrzyma się cena ropy - BM Reflex - PAP Biznes",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-przyszlym-tygodniu-kolejne-podwyzki-cen-paliw-jesli-utrzyma-sie-cena-ropy",
-      "date": "2026-07-24T12:11:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "W przyszłym tygodniu kolejne podwyżki cen paliw, jeśli utrzyma się cena ropy - BM Reflex PAP Biznes."
     }
   ],
   "world_security": [
@@ -766,6 +766,22 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualizacje na żywo wojny w Iranie: Ataki USA-Iran słabną, ale zwolennicy obu stron wymieniają się atakami",
+      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
+      "date": "2026-07-25T23:17:02Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Siły Huti i Arabii Saudyjskiej w Jemenie oświadczyły, że wymieniły ataki, a Ukraina oświadczyła, że ​​uderzyła w statek przewożący rosyjskie dostawy wojskowe do Iranu."
+    },
+    {
+      "title": "Oto najnowsze.",
+      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil/heres-the-latest",
+      "date": "2026-07-25T23:17:00Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": ""
+    },
+    {
       "title": "Brazylia blokuje wizytę delegacji USA mającej na celu zakwestionowanie systemu wyborczego",
       "url": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html",
       "date": "2026-07-25T23:10:30Z",
@@ -780,14 +796,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Prawie 300 000 mieszkańców nakazano ewakuację lub schronienie się w związku z zbliżaniem się poważnych pożarów do Madrytu i Bordeaux."
-    },
-    {
-      "title": "Aktualizacje na żywo wojny w Iranie: Ataki USA-Iran słabną, ale zwolennicy obu stron wymieniają się atakami",
-      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
-      "date": "2026-07-25T22:50:12Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Siły Huti i Arabii Saudyjskiej w Jemenie oświadczyły, że wymieniły ataki, a Ukraina oświadczyła, że ​​uderzyła w statek przewożący rosyjskie dostawy wojskowe do Iranu."
     },
     {
       "title": "Trump wstrzymuje się z eskalacją poważnej wojny z Iranem, ponieważ doradcy zgłaszają obawy",
@@ -820,14 +828,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Ogromne pożary zmusiły dziesiątki tysięcy mieszkańców i urlopowiczów we Francji i Hiszpanii do ewakuacji."
-    },
-    {
-      "title": "Oto najnowsze.",
-      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil/heres-the-latest",
-      "date": "2026-07-25T21:20:02Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": ""
     },
     {
       "title": "Setki tysięcy uciekają przed pożarami w Hiszpanii i Francji",
@@ -1008,12 +1008,12 @@
   ],
   "technology": [
     {
-      "title": "Potrzebujemy narodowej sali balowej",
-      "url": "https://weneedaballroom.com/",
-      "date": "2026-07-25T22:34:01Z",
+      "title": "Wskaźniki niepowodzeń klinicznych na przestrzeni dziesięcioleci: Yikes",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "date": "2026-07-25T22:57:17Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://weneedaballroom.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49052406 Punkty: 8 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes Adres URL komentarzy: https://news.ycombinator.com/item?id=49052628 Punkty: 4 # Komentarze: 0."
     },
     {
       "title": "Kimi K3 zbudował system Windows XP w przeglądarce",
@@ -1021,15 +1021,7 @@
       "date": "2026-07-25T22:03:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://windows-xp.kimi.site/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49052074 Punkty: 18 # Komentarze: 11."
-    },
-    {
-      "title": "Inteligencja cyfrowa: dlaczego ludzkość stworzyła to, czego nie rozumie",
-      "url": "https://singularityforge.space/2026/07/26/illusion-of-control/",
-      "date": "2026-07-25T21:58:14Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://singularityforge.space/2026/07/26/illusion-of-control/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49052025 Punkty: 6 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://windows-xp.kimi.site/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49052074 Punkty: 29 # Komentarze: 15."
     },
     {
       "title": "GM wspiera akumulatory sodowo-jonowe do magazynowania w sieciach w USA",
@@ -1037,7 +1029,7 @@
       "date": "2026-07-25T21:48:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Adres URL komentarzy: https://news.ycombinator.com/item?id=49051947 Punkty: 58 # Komentarze: 13."
+      "summary": "Adres URL artykułu: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Adres URL komentarzy: https://news.ycombinator.com/item?id=49051947 Punkty: 68 # Komentarze: 19."
     },
     {
       "title": "Kogo właściwie Anubis powstrzymuje?",
@@ -1045,7 +1037,7 @@
       "date": "2026-07-25T20:59:24Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop Adres URL komentarzy: https://news.ycombinator.com/item?id=49051505 Punkty: 24 # Komentarze: 27."
+      "summary": "Adres URL artykułu: https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop Adres URL komentarzy: https://news.ycombinator.com/item?id=49051505 Punkty: 30 # Komentarze: 36."
     },
     {
       "title": "Dystrybucja telewizji multicast w mojej sieci domowej",
@@ -1053,7 +1045,7 @@
       "date": "2026-07-25T20:55:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.apalrd.net/posts/2026/isp_mcast/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49051463 Punkty: 18 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://www.apalrd.net/posts/2026/isp_mcast/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49051463 Punkty: 20 # Komentarze: 3."
     },
     {
       "title": "Zwiastun SDCC daje nam pierwsze dobre spojrzenie na Blade Runner 2099",
@@ -1069,7 +1061,7 @@
       "date": "2026-07-25T20:43:11Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://fly.io/blog/kurt-scott-money-sprites/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49051369 Punkty: 109 # Komentarze: 60."
+      "summary": "Adres URL artykułu: https://fly.io/blog/kurt-scott-money-sprites/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49051369 Punkty: 115 # Komentarze: 69."
     },
     {
       "title": "Nowe zasady inżynierii kontekstu dla modeli Claude'a V generacji",
@@ -1077,7 +1069,7 @@
       "date": "2026-07-25T20:42:35Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generacja-models Adres URL komentarzy: https://news.ycombinator.com/item?id=49051361 Punkty: 99 # Komentarze: 47."
+      "summary": "Adres URL artykułu: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generacja-models Adres URL komentarzy: https://news.ycombinator.com/item?id=49051361 Punkty: 104 # Komentarze: 54."
     },
     {
       "title": "Chiński organ nadzoru rynku twierdzi, że nałożył grzywnę i skonfiskował firmę Trip.com o wartości około 770 mln dolarów za nadużywanie pozycji dominującej na krajowym rynku rezerwacji hoteli online (Reuters)",
@@ -1086,6 +1078,14 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Reuters: Chiński organ regulacyjny twierdzi, że nałożył grzywnę i skonfiskował firmę Trip.com o wartości około 770 mln dolarów za nadużywanie pozycji dominującej na krajowym rynku rezerwacji hoteli online &mdash; Chiński organ regulacyjny rynku poinformował w sobotę, że nałożył grzywnę i skonfiskował łącznie 5,2 miliarda juanów (770 milionów dolarów) na Trip.com Group &hellip;."
+    },
+    {
+      "title": "Pokaż HN: Writemark, wolny od zależności komponent sieciowy do wbudowanej edycji Markdown",
+      "url": "https://news.ycombinator.com/item?id=49051130",
+      "date": "2026-07-25T20:18:54Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Lubię pisać Markdown, ale nie lubię pisać go w zwykłym obszarze tekstowym. Chciałem czegoś, czego mógłbym używać w dowolnym miejscu, upuszczając pojedynczy komponent sieciowy: „To stało się Writemark. Renderuje Markdown podczas pisania, ale Markdown pozostaje wartością, którą czytasz, przechowujesz i przesyłasz. Posiada również tryby źródła, podziału i podglądu, a także polecenia ukośnika, tabele, listy zadań, bloki kodu, natywną obsługę formularzy i interfejs API do dodawania własnych elementów sterujących. Nie ma żadnych zależności wykonawczych ani wymaganej struktury ani wbudowanego paska narzędzi. Jest w pełni kodowany wibracją."
     },
     {
       "title": "Kilka uniwersytetów, w tym Yale, Johns Hopkins i University of Waterloo, ograniczyło lub wyłączyło korzystanie z detektorów AI ze względu na obawy dotyczące dokładności (Ima Jackson-Obot/Financial Times)",
@@ -2336,14 +2336,6 @@
       "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32931739,gigantyczny-pozar-w-hiszpanii-wywolaly-iskry-z-maszyny-ogloszono.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882"
     },
     {
-      "lat": 5.92,
-      "lng": -67.09,
-      "type": "disaster",
-      "region": "Wenezuela",
-      "description": "Urzędnicy twierdzą, że liczba ofiar śmiertelnych przekroczyła 5300, choć szacunki dotyczące wciąż zaginionej liczby mogą sięgać nawet 50 000.",
-      "url": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "lat": 46.1,
       "lng": 1.7000000000000002,
       "type": "disaster",
@@ -2763,51 +2755,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25853.06,
+      25949.17,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27025.58,
+      27126.06,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27173.57,
+      27274.59,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27420.23,
+      27522.18,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28060.44,
+      28164.77,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28096.74,
+      28201.2,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28343.14,
+      28448.51,
       27354.94,
       27400.36,
       27412.11,
-      28747.38,
+      28854.26,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28002.83,
+      28106.95,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28183.81,
+      28288.6,
       27686.17,
       27404.78,
       27351.97,
@@ -2816,7 +2808,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27890.12,
+      27993.81,
       27930.04,
       28234.04,
       28218.36,
@@ -2825,12 +2817,12 @@
       28294.39,
       28203.83,
       28555.17,
-      28729.67,
+      28836.48,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28283.29,
+      28388.44,
       28242.11,
       28493.29,
       28421.66,
