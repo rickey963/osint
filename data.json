@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T17:27:21Z",
+  "last_updated": "2026-07-25T17:29:03Z",
   "poland": [
     {
       "title": "Na spotkaniu z Putinem wezwał do zamrożenia wojny w Ukrainie. \"Trzeba położyć temu kres\"",
@@ -436,6 +436,14 @@
       "summary": "Reuters podaje, że pożar w rafinerii ropy naftowej w Tiumeniu ugaszono po uderzeniu drona."
     },
     {
+      "title": "W rozmowie z Putinem prezydent Kazachstanu wzywa do zamrożenia wojny na Ukrainie – Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/speaking-alongside-putin-kazakh-president-calls-freeze-ukraine-war-2026-07-25/",
+      "date": "2026-07-25T16:19:44Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "W rozmowie z Putinem prezydent Kazachstanu wzywa do zamrożenia wojny na Ukrainie Reuters."
+    },
+    {
       "title": "DeepSeek informuje potencjalnych inwestorów o wstrzymaniu finansowania, podaje Bloomberg News – Reuters",
       "url": "https://www.reuters.com/world/china/deepseek-tells-prospective-investors-funding-pause-bloomberg-news-reports-2026-07-25/",
       "date": "2026-07-25T15:44:33Z",
@@ -554,14 +562,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Biżuteria pochodząca z BC Iran, noszona podczas sesji fotograficznej Odysei, rzuca światło na handel rzadkimi znaleziskami archeologicznymi. Odyseja szturmem szturmem trafiła do kin, ale choć jej interpretacja epopei homeryckiej wywołała falę wśród zachodnich klasyków, to kolczyki aktora zrobiły furorę poza nią. Zendaya, która w filmie gra boginię Atenę, wywołała oburzenie, gdy pojawiła się na londyńskiej fotokomórce w kolczykach rzekomo wykonanych z Iranu artefakty pochodzące z I tysiąclecia p.n.e. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Silny wiatr może utrudnić walkę z pożarami w Hiszpanii – twierdzą urzędnicy – ​​Reuters",
-      "url": "https://www.reuters.com/business/environment/high-winds-could-make-fighting-spanish-wildfires-harder-officials-say-2026-07-25/",
-      "date": "2026-07-25T10:49:02Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Władze twierdzą, że silne wiatry mogą utrudnić walkę z pożarami w Hiszpanii – twierdzą urzędnicy Reuters."
     },
     {
       "title": "Strzał ostrzegawczy czy chwyt reklamowy – jak bardzo powinniśmy się martwić włamaniem do OpenAI?",
@@ -1812,20 +1812,20 @@
   ],
   "finance": [
     {
-      "title": "Opcja OW20T263475 - Analiza techniczna - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/ow20t263475,analiza-techniczna.aspx",
-      "date": "2026-07-25T16:11:30Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Opcja OW20T263475 - Analiza techniczna stockwatch.pl."
-    },
-    {
       "title": "Nowy program dla seniorów? Chcą 800 plus za każde pracujące dziecko - Forsal.pl",
       "url": "https://forsal.pl/gospodarka/aktualnosci/artykuly/10642198,nowy-program-dla-seniorow-chca-800-plus-za-kazde-pracujace-dziecko.html",
       "date": "2026-07-25T15:51:23Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Nowy program dla seniorów? Chcą 800 plus za każde pracujące dziecko Forsal.pl."
+    },
+    {
+      "title": "Opcja OW20T263675 - Analiza techniczna - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/opcja/ow20t263675,analiza-techniczna.aspx",
+      "date": "2026-07-25T15:42:43Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Opcja OW20T263675 - Analiza techniczna stockwatch.pl."
     },
     {
       "title": "Turyści uciekają z wakacyjnego raju? Rządzący uspakajają, branża bije na alarm - Forsal.pl",
@@ -1997,7 +1997,7 @@
     },
     {
       "title": "WIG20 2026 - konkurs - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/forum/wpisy-12519p31_WIG20-2026--konkurs.aspx",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-513996_WIG20-2026--konkurs.aspx",
       "date": "2026-07-24T17:56:00Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
@@ -2520,15 +2520,15 @@
           "source": "Polsat News"
         },
         {
-          "title": "Co kryje się za zwrotem uwagi wpływowej Maga Laury Loomer na Ukrainie?",
-          "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
-          "source": "The Guardian"
+          "title": "W rozmowie z Putinem prezydent Kazachstanu wzywa do zamrożenia wojny na Ukrainie – Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/speaking-alongside-putin-kazakh-president-calls-freeze-ukraine-war-2026-07-25/",
+          "source": "Reuters"
         }
       ]
     },
     {
       "name": "Iran",
-      "score": 100,
+      "score": 83,
       "reasons": [
         {
           "title": "Stany Zjednoczone rozszerzają ataki Iranu, gdy Trump ostrzega Teheran i Houthi w związku z atakami na Morzu Czerwonym",
@@ -2549,7 +2549,7 @@
     },
     {
       "name": "Jemen",
-      "score": 80,
+      "score": 67,
       "reasons": [
         {
           "title": "Stany Zjednoczone rozszerzają ataki Iranu, gdy Trump ostrzega Teheran i Houthi w związku z atakami na Morzu Czerwonym",
@@ -2570,7 +2570,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 60,
+      "score": 50,
       "reasons": [
         {
           "title": "Odzyskiwanie skradzionego dzieciństwa: po trzech latach wojny w Gazie wznowiono zajęcia pływania",
