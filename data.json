@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T10:18:08Z",
+  "last_updated": "2026-07-25T10:18:44Z",
   "poland": [
     {
       "title": "Wieczór kawalerski zakończył się przed startem. 34-latek wyrzucony z samolotu",
@@ -846,14 +846,6 @@
       "summary": "Władze w Belgii nie podały nazwy kraju, o szpiegostwo podejrzewana jest stażystka – kobieta „chińskiego pochodzenia”."
     },
     {
-      "title": "Z mieczami, toporami i tarczami wojownicy walczą łeb w łeb w średniowiecznych mistrzostwach świata w walce – AP News",
-      "url": "https://apnews.com/article/denmark-medieval-combat-world-championship-b94d792e3ce3094a681fa7e715d1947c",
-      "date": "2026-07-25T07:51:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Z mieczami, toporami i tarczami wojownicy walczą łeb w łeb w średniowiecznych mistrzostwach świata AP News."
-    },
-    {
       "title": "Kim są ludzie protestujący w Indiach?",
       "url": "https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html",
       "date": "2026-07-25T07:26:22Z",
@@ -974,14 +966,6 @@
       "summary": "Prawie 150 000 kart do głosowania korespondencyjnego odrzucono w prawyborach w Kalifornii pomimo wysiłków AP News, aby policzyć każdy głos."
     },
     {
-      "title": "Ukraina uderza w największy rosyjski rynek internetowy, szkodząc małym firmom i sprowadzając wojnę do domu – AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-wildberries-attacks-d69c6db025a0ff779db9606b9982b1d9",
-      "date": "2026-07-24T16:34:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Ukraina uderza w największy rosyjski rynek internetowy, szkodząc małym firmom i sprowadzając wojnę do domu AP News."
-    },
-    {
       "title": "Piosenkarz Chris Brown przyznaje się do ataku butelką w londyńskim klubie nocnym – AP News",
       "url": "https://apnews.com/article/britain-chris-brown-guilty-altercation-london-nightclub-9dbe9f07e534578d67c0c45215bde71e",
       "date": "2026-07-24T16:07:00Z",
@@ -1004,6 +988,22 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Burza tropikalna Bertha słabnie po sprowadzeniu silnych wiatrów i silnych fal do Luizjany i Teksasu AP News."
+    },
+    {
+      "title": "Wojsko amerykańskie przeprowadza nowe ataki na Iran w miarę eskalacji starć na szlakach żeglugowych – AP News",
+      "url": "https://apnews.com/article/iran-us-hormuz-strait-war-60d46bf8c83c43a8f2268b7b87627c55",
+      "date": "2026-07-24T03:26:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Wojsko amerykańskie przeprowadza nowe ataki na Iran w miarę eskalacji starć na szlakach żeglugowych AP News."
+    },
+    {
+      "title": "Stany Zjednoczone są gotowe pomóc zakończyć „bezsensowną wojnę” na Ukrainie, ale nie ma przed nimi szybkiego porozumienia, mówi Rubio – AP News",
+      "url": "https://apnews.com/article/asean-rubio-lavrov-russia-ukraine-502b5eb2dc21caf13fab7928acdc5b1e",
+      "date": "2026-07-24T01:55:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Stany Zjednoczone są gotowe pomóc zakończyć „bezsensowną wojnę” na Ukrainie, ale nie ma przed nimi szybkiego porozumienia, mówi Rubio AP News."
     }
   ],
   "technology": [
@@ -1410,12 +1410,28 @@
   ],
   "cybersecurity": [
     {
+      "title": "Otwarte oprogramowanie chroniące przed sztuczną inteligencją ma wspólnego wroga, ale prawie nic więcej",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/25/anti-ai-open-source-has-an-enemy-in-common-but-almost-nothing-else/5278275",
+      "date": "2026-07-25T10:17:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Tworzenie alternatyw wolnych od botów może wymagać od lewicowców, libertarian i wojowników kultury dzielenia się kodem."
+    },
+    {
       "title": "Researcher publikuje GitLab RCE PoC umożliwiający uwierzytelnionym użytkownikom uruchamianie poleceń jako Git",
       "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
       "date": "2026-07-25T08:34:15Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Badacz bezpieczeństwa Yuhang Wu z głębokośćfirst opublikował działający exploit sprawdzający koncepcję (PoC), który wykonuje polecenia jako git na niezałatanym, samodzielnie zarządzanym serwerze GitLab 18.11.3. Zwykły uwierzytelniony użytkownik uruchamia go, zatwierdzając dwa spreparowane notatniki Jupyter i prosząc o ich różnicę. Łańcuch nie wymaga uprawnień administratora, dostępu do modułu ciągłej integracji (CI) ani interakcji z ofiarą."
+    },
+    {
+      "title": "BOFH: Ten inżynier drukarki zna każdą sztuczkę z książki",
+      "url": "https://www.theregister.com/bofh/2026/07/25/bofh-this-printer-engineer-knows-every-trick-in-the-book/5278087",
+      "date": "2026-07-25T07:16:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Ale tak samo jest z tym klientem."
     },
     {
       "title": "Jedziesz na urlop? Uważaj, co wpisujesz w autoresponderze",
@@ -1426,12 +1442,84 @@
       "summary": "Automatyczna odpowiedź informująca o urlopie ma ułatwić kontakt podczas nieobecności pracownika. Jeżeli jednak zawiera daty wyjazdu, miejsce pobytu, nazwiska zastępców oraz zakres ich obowiązków może dostarczyć cyberprzestępcom informacji przydatnych do przygotowania wiarygodnego ataku Business Email Compromise. Jak ustawić autoresponder, który spełni swoją funkcję, ale nie ujawni zbyt wielu informacji?"
     },
     {
+      "title": "Anthropic debiutuje Opus 5 za połowę ceny swojego rodzeństwa Fable",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/25/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/5278630",
+      "date": "2026-07-24T23:03:06Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "A jako bonus nie wymaga przechowywania danych."
+    },
+    {
+      "title": "Oficjalna aplikacja modlitewna Papieża popełnia grzech główny i ujawnia informacje ponad 700 tys. użytkowników",
+      "url": "https://www.theregister.com/security/2026/07/24/popes-official-prayer-app-commits-cardinal-sin-leaks-700k-users-info/5278603",
+      "date": "2026-07-24T22:19:16Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "(Bezpieczeństwo) bardziej dziurawe niż ty."
+    },
+    {
+      "title": "Atmosfera AMD przedostaje się przez fosę CUDA dzięki ROCm.AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/24/amd-vibe-codes-its-way-past-the-cuda-moat-with-rocmai/5278580",
+      "date": "2026-07-24T21:55:38Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Hej Claude, zoptymalizuj dla mnie ten model."
+    },
+    {
+      "title": "Europol zgłasza 4340 „przerażających” adresów URL prowadzących do witryny The Com",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/24/europol-flags-4340-horrific-urls-linked-to-the-com/5278556",
+      "date": "2026-07-24T20:20:57Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Zatrzymaj rozprzestrzenianie się (rekrutacji i propagandy online)."
+    },
+    {
+      "title": "Liderzy technologii wysyłają list, w którym mają przeszkolić wujka Sama na temat wartości sztucznej inteligencji w otwartej wadze",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/24/tech-leaders-issue-letter-to-train-uncle-sam-about-value-of-open-weight-ai/5278533",
+      "date": "2026-07-24T19:45:27Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Czy zgadniesz, kto nie podpisał się pod listem grupowym?"
+    },
+    {
+      "title": "Dev przypadkowo umieścił plik binarny Copilot w repozytorium portów FreeBSD",
+      "url": "https://www.theregister.com/os-platforms/2026/07/24/dev-accidentally-commits-copilot-binary-to-freebsd-ports-repo/5278458",
+      "date": "2026-07-24T17:03:35Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Git ma trafną nazwę: nie jest to łatwe – ale istnieją alternatywy."
+    },
+    {
+      "title": "ChatGPT chce dostępu do Twojej dokumentacji zdrowotnej, aby lepiej nie być lekarzem",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/24/chatgpt-wants-access-to-your-health-records-so-it-can-be-a-better-not-doctor/5278430",
+      "date": "2026-07-24T16:21:57Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Funkcja zostaje uruchomiona dzień po tym, jak pozew twierdzi, że porady chatbota przyczyniły się do niemal śmiertelnej zatorowości."
+    },
+    {
       "title": "Zestaw BlueNoroff Zoom Phishing Kit profiluje portfele kryptowalutowe przed dostarczeniem złośliwego oprogramowania",
       "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
       "date": "2026-07-24T15:12:35Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Stwierdzono, że północnokoreańscy ugrupowania zagrażające stojące za kampaniami w stylu ClickFix, które wykorzystują typosquatowane domeny Zoom i Microsoft Teams, korzystają z aktywnego zestawu phishingowego w celu podszywania się pod platformy wideokonferencyjne w kampaniach socjotechnicznych mających na celu dostarczanie złośliwego oprogramowania. „Firma BlueNoroff zoperacjonalizowała nadużycia zaufania, łącząc skompromitowane kontakty branżowe, inżynierię społeczną i portfel."
+    },
+    {
+      "title": "Premier Kambodży Hun Manet spotkał się z ZTE w celu pogłębienia współpracy w zakresie infrastruktury cyfrowej i sztucznej inteligencji (AI)",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/24/partner-content/5278416",
+      "date": "2026-07-24T15:01:47Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "TREŚCI PARTNERÓW: Koncentrowanie się na wdrażaniu 5G, integracji sztucznej inteligencji i rozwoju talentów ICT w celu napędzania transformacji cyfrowej kraju."
+    },
+    {
+      "title": "Kamery stadne stają w płomieniach, gdy policjanci polują na podejrzane podpalacze",
+      "url": "https://www.theregister.com/offbeat/2026/07/24/flock-cameras-go-up-in-flames-as-cops-hunt-suspected-firebugs/5278357",
+      "date": "2026-07-24T14:48:37Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "W Gruzji podpalono dwa czytniki tablic rejestracyjnych w wyniku sprzeciwu wobec sieci nadzoru."
     },
     {
       "title": "Kolejny problem TikToka. Chodzi o bezpieczeństwo nieletnich",
@@ -1458,6 +1546,14 @@
       "summary": "Najwyższa Izba Kontroli przyjrzała się jednemu z flagowych programów Ministerstwa Cyfryzacji. W tle są olbrzymie pieniądze z Unii Europejskiej, brak audytów przed przyznaniem grantów i sprzęt wykorzystywany nie tylko z myślą o bezpieczeństwie samorządów. Resort oraz CPPC na naszych łamach komentują raport NIK, wskazując na kluczowe fakty."
     },
     {
+      "title": "Veterans Affairs podpisuje umowę o wartości 1,6 miliarda dolarów na armię agentów Salesforce AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/24/veterans-affairs-signs-16b-deal-for-an-army-of-salesforce-ai-agents/5278302",
+      "date": "2026-07-24T13:58:06Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Zawiera porozumienie pod nosem Oracle, która zawiera własną umowę obronną o wartości 7 miliardów dolarów."
+    },
+    {
       "title": "Prezydent podpisał ustawę o systemach AI",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/prezydent-podpisal-ustawe-o-systemach-ai",
       "date": "2026-07-24T13:06:55Z",
@@ -1472,6 +1568,22 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Żołnierze Wojska Polskiego oraz funkcjonariusze Straży Granicznej będą korzystać z inteligentnego systemu do ochrony wschodniej granicy. Rozwiązanie wykorzystujące technologię AI analizowało obraz w sposób automatyczny, ograniczając zaangażowanie człowieka."
+    },
+    {
+      "title": "SpaceX ponownie spróbuje szczęścia w Starship Flight 13 po tym, jak silniki i pogoda mówią „nie”.",
+      "url": "https://www.theregister.com/science/2026/07/24/spacex-to-try-its-luck-again-with-starship-flight-13-after-engines-and-weather-say-no/5278239",
+      "date": "2026-07-24T13:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Zamienna głowica Raptors do startu bez statycznego testu ogniowego."
+    },
+    {
+      "title": "Wujek Sam mówi zagranicznym cyberprzestępcom, że ich wizy zostały anulowane",
+      "url": "https://www.theregister.com/security/2026/07/24/uncle-sam-tells-overseas-cybercrooks-their-visas-are-canceled/5278212",
+      "date": "2026-07-24T12:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Polityka skierowana jest do oszustów internetowych, osób zajmujących się seksem i potencjalnie ich najbliższych rodzin."
     },
     {
       "title": "Włochy otwierają pierwsze centrum leczenia uzależnień cyfrowych",
@@ -1504,6 +1616,14 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Bezpieczeństwo agentów AI przechodzi przez znaną krzywą dojrzałości: przyjęcie, następnie widoczność i wreszcie kontrola. Wspólnie odkryliśmy jednak, że egzekwowanie najmniejszych uprawnień agentów AI jest trudniejsze, niż kiedykolwiek sobie wyobrażaliśmy. Dlatego właśnie istnieje tak wiele podejść, od szybkiego filtrowania po kontrolę dostępu w warstwie tożsamości."
+    },
+    {
+      "title": "Firma LG wyłącza wyskakujące okienko McAfee po wkroczeniu szefa systemu Windows",
+      "url": "https://www.theregister.com/personal-tech/2026/07/24/lg-kills-mcafee-pop-up-after-windows-boss-steps-in/5278168",
+      "date": "2026-07-24T11:29:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Reklama zostaje przycięta, ale mechanizm cichej instalacji aplikacji pozostaje nienaruszony."
     },
     {
       "title": "Selfie zamiast hasła? Google testuje nowy sposób odzyskiwania konta",
@@ -2416,7 +2536,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 52,
+      "score": 48,
       "reasons": [
         {
           "title": "Co kryje się za zwrotem uwagi wpływowej Maga Laury Loomer na Ukrainie?",
@@ -2429,15 +2549,15 @@
           "source": "The Guardian"
         },
         {
-          "title": "Ukraina uderza w największy rosyjski rynek internetowy, szkodząc małym firmom i sprowadzając wojnę do domu – AP News",
-          "url": "https://apnews.com/article/russia-ukraine-war-wildberries-attacks-d69c6db025a0ff779db9606b9982b1d9",
+          "title": "Stany Zjednoczone są gotowe pomóc zakończyć „bezsensowną wojnę” na Ukrainie, ale nie ma przed nimi szybkiego porozumienia, mówi Rubio – AP News",
+          "url": "https://apnews.com/article/asean-rubio-lavrov-russia-ukraine-502b5eb2dc21caf13fab7928acdc5b1e",
           "source": "Associated Press"
         }
       ]
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 48,
+      "score": 43,
       "reasons": [
         {
           "title": "Odzyskiwanie skradzionego dzieciństwa: po trzech latach wojny w Gazie wznowiono zajęcia pływania",
@@ -2458,7 +2578,7 @@
     },
     {
       "name": "Jemen",
-      "score": 33,
+      "score": 30,
       "reasons": [
         {
           "title": "Stany Zjednoczone rozszerzają ataki Iranu, gdy Trump ostrzega Teheran i Houthi w związku z atakami na Morzu Czerwonym",
@@ -2474,7 +2594,7 @@
     },
     {
       "name": "Syria",
-      "score": 14,
+      "score": 13,
       "reasons": [
         {
           "title": "Guterres składa pierwszą wizytę szefa ONZ w Syrii od czasów przed wojną domową – Reuters",
