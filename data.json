@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T12:54:05Z",
+  "last_updated": "2026-07-25T12:59:01Z",
   "poland": [
     {
       "title": "Fala upałów przejdzie nad Polską. Ostrzeżenia dla większości kraju",
@@ -974,14 +974,6 @@
       "summary": "Prawie 150 000 kart do głosowania korespondencyjnego odrzucono w prawyborach w Kalifornii pomimo wysiłków AP News, aby policzyć każdy głos."
     },
     {
-      "title": "Ukraina uderza w największy rosyjski rynek internetowy, szkodząc małym firmom i sprowadzając wojnę do domu – AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-wildberries-attacks-d69c6db025a0ff779db9606b9982b1d9",
-      "date": "2026-07-24T16:34:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Ukraina uderza w największy rosyjski rynek internetowy, szkodząc małym firmom i sprowadzając wojnę do domu AP News."
-    },
-    {
       "title": "Piosenkarz Chris Brown przyznaje się do ataku butelką w londyńskim klubie nocnym – AP News",
       "url": "https://apnews.com/article/britain-chris-brown-guilty-altercation-london-nightclub-9dbe9f07e534578d67c0c45215bde71e",
       "date": "2026-07-24T16:07:00Z",
@@ -1004,6 +996,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Wojsko amerykańskie przeprowadza nowe ataki na Iran w miarę eskalacji starć na szlakach żeglugowych AP News."
+    },
+    {
+      "title": "Trump nakłada dwucyfrowe cła na dziesiątki krajów, ponieważ jego 10% cła wygasną w piątek – AP News",
+      "url": "https://apnews.com/article/trump-tariffs-supreme-court-forced-labor-4ea091eeee3fa1bfbe55af3f482e6bc1",
+      "date": "2026-07-24T02:27:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Trump nakłada dwucyfrowe cła na dziesiątki krajów, ponieważ jego 10% cła wygasną w piątek AP News."
     }
   ],
   "technology": [
@@ -1844,14 +1844,6 @@
       "summary": "Siły Obrony Ukrainy zaatakowały w nocy z piątku na sobotę zakład w Kirowie, rafinerię w Tiumeniu, obiekt logistyczny w Jekaterynburgu w Rosji oraz statki wykorzystywane do transportu ładunków wojskowych z Iranu i okręt wojenny na Morzu Kaspijskim - przekazał w sobotę prezydent Ukrainy Wołodymyr Zełenski."
     },
     {
-      "title": "Opcja OW20T263950 - Analiza techniczna - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/ow20t263950,analiza-techniczna.aspx",
-      "date": "2026-07-25T11:11:20Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Opcja OW20T263950 - Analiza techniczna stockwatch.pl."
-    },
-    {
       "title": "Afera na całą Polskę. \"Nie wchodzimy do przypadkowych punktów\"",
       "url": "https://www.money.pl/podatki/afera-na-cala-polske-nie-wchodzimy-do-przypadkowych-punktow-7310941535472000a.html",
       "date": "2026-07-25T11:10:52Z",
@@ -2042,6 +2034,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Kurs franka szwajcarskiego - 24.07.2026. W piątek po południu za jednego franka (CHF) trzeba zapłacić 4.64025 zł."
+    },
+    {
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 24.07.2026",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-24-07-2026-7310988219074912a.html",
+      "date": "2026-07-24T16:09:20Z",
+      "source": "Money.pl",
+      "confirmed_by": 1,
+      "summary": "Kurs dolara - 24.07.2026. W piątek po południu za jednego dolara (USD) trzeba zapłacić 3.79066 zł."
     },
     {
       "title": "Możliwy Pat wyborczy i jego wpływ na giełdę. - stockwatch.pl",
@@ -2552,7 +2552,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 79,
+      "score": 63,
       "reasons": [
         {
           "title": "Rosyjskie porty przerywają pracę. Nie działają terminale naftowe i zbożowe",
@@ -2565,9 +2565,9 @@
           "source": "The Guardian"
         },
         {
-          "title": "Ukraina uderza w największy rosyjski rynek internetowy, szkodząc małym firmom i sprowadzając wojnę do domu – AP News",
-          "url": "https://apnews.com/article/russia-ukraine-war-wildberries-attacks-d69c6db025a0ff779db9606b9982b1d9",
-          "source": "Associated Press"
+          "title": "Kolejne ataki Ukrainy w głąb Rosji. Płonie m.in. ważna rafineria",
+          "url": "https://businessinsider.com.pl/wiadomosci/ukraina-atakuje-w-rosji-drony-uderzyly-min-w-rafinerie/9vpc5ly",
+          "source": "Business Insider Polska"
         }
       ]
     },
