@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T15:02:15Z",
+  "last_updated": "2026-07-25T15:02:54Z",
   "poland": [
     {
       "title": "Ze szczęścia można umrzeć. Winny „zespół szczęśliwego serca”",
@@ -444,6 +444,14 @@
       "summary": "Kierowana przez młodzież Partia Karaluch Janta (CJP) odwołała swój protest kilka godzin po rezygnacji indyjskiego ministra edukacji."
     },
     {
+      "title": "Ta fala ceł Trumpa prawdopodobnie się utrzyma; nadchodzą kolejne – Reuters",
+      "url": "https://www.reuters.com/legal/government/this-wave-trump-tariffs-is-likely-here-stay-more-are-coming-2026-07-25/",
+      "date": "2026-07-25T13:32:11Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Ta fala ceł Trumpa prawdopodobnie się utrzyma; nadchodzą kolejne Reuters."
+    },
+    {
       "title": "Protest CJP: Ruch młodzieżowy, którego indyjski Modi się nie spodziewał",
       "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-25T13:26:04Z",
@@ -580,14 +588,6 @@
       "summary": "Tysiące osób ewakuowano w związku z pożarami zbliżającymi się do miasta Bordeaux Reuters."
     },
     {
-      "title": "Kanadyjski stażysta w kwaterze wojskowej NATO aresztowany w Belgii pod zarzutem szpiegostwa – Reuters",
-      "url": "https://www.reuters.com/world/china/canadian-woman-who-was-nato-intern-arrested-belgium-spying-charge-2026-07-25/",
-      "date": "2026-07-25T06:30:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Kanadyjski stażysta w kwaterze wojskowej NATO aresztowany w Belgii pod zarzutem szpiegostwa Reuters."
-    },
-    {
       "title": "Odzyskiwanie skradzionego dzieciństwa: po trzech latach wojny w Gazie wznowiono zajęcia pływania",
       "url": "https://www.theguardian.com/world/2026/jul/25/swimming-classes-resume-gaza-after-three-years-war",
       "date": "2026-07-25T05:00:36Z",
@@ -616,7 +616,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-25T02:23:09Z",
       "source": "BBC News",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Administracja Trumpa często zarzucała największemu na świecie muzeum badawczemu antyamerykańskie nastawienie."
     },
     {
@@ -918,6 +918,14 @@
       "summary": "UNESCO dodaje Zachodni Brzeg i zamki libańskie na Listę Światowego Dziedzictwa pomimo sprzeciwu Izraela AP News."
     },
     {
+      "title": "Administracja Trumpa przyznaje, że dotacje na czystą energię zostały anulowane ze względów politycznych – AP News",
+      "url": "https://apnews.com/article/trump-clean-energy-grants-chris-wright-09d26d615869ce06dd6bb2c047f636cb",
+      "date": "2026-07-25T00:25:21Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Administracja Trumpa przyznaje, że dotacje na czystą energię zostały anulowane ze względu na politykę AP News."
+    },
+    {
       "title": "W rosyjskim ataku balistycznym zginęło 10 osób po tym, jak Zełenski na Ukrainie gościł amerykańską firmę produkującą Patrioty – AP News",
       "url": "https://apnews.com/article/russiak-ukraine-war-patriots-trump-loomer-raytheon-a2f06208baa0759215d973f01758e30f",
       "date": "2026-07-24T22:11:00Z",
@@ -996,14 +1004,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Burza tropikalna Bertha słabnie po sprowadzeniu silnych wiatrów i silnych fal do Luizjany i Teksasu AP News."
-    },
-    {
-      "title": "Wojsko amerykańskie przeprowadza nowe ataki na Iran w miarę eskalacji starć na szlakach żeglugowych – AP News",
-      "url": "https://apnews.com/article/iran-us-hormuz-strait-war-60d46bf8c83c43a8f2268b7b87627c55",
-      "date": "2026-07-24T03:26:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Wojsko amerykańskie przeprowadza nowe ataki na Iran w miarę eskalacji starć na szlakach żeglugowych AP News."
     }
   ],
   "technology": [
@@ -2528,7 +2528,7 @@
     },
     {
       "name": "Ukraina",
-      "score": 71,
+      "score": 80,
       "reasons": [
         {
           "title": "Co kryje się za zwrotem uwagi wpływowej Maga Laury Loomer na Ukrainie?",
@@ -2549,7 +2549,7 @@
     },
     {
       "name": "Jemen",
-      "score": 71,
+      "score": 80,
       "reasons": [
         {
           "title": "Stany Zjednoczone rozszerzają ataki Iranu, gdy Trump ostrzega Teheran i Houthi w związku z atakami na Morzu Czerwonym",
@@ -2570,7 +2570,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 41,
+      "score": 47,
       "reasons": [
         {
           "title": "Odzyskiwanie skradzionego dzieciństwa: po trzech latach wojny w Gazie wznowiono zajęcia pływania",
