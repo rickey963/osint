@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T10:18:44Z",
+  "last_updated": "2026-07-25T10:20:16Z",
   "poland": [
     {
       "title": "Wieczór kawalerski zakończył się przed startem. 34-latek wyrzucony z samolotu",
@@ -846,6 +846,14 @@
       "summary": "Władze w Belgii nie podały nazwy kraju, o szpiegostwo podejrzewana jest stażystka – kobieta „chińskiego pochodzenia”."
     },
     {
+      "title": "Z mieczami, toporami i tarczami wojownicy walczą łeb w łeb w średniowiecznych mistrzostwach świata w walce – AP News",
+      "url": "https://apnews.com/article/denmark-medieval-combat-world-championship-b94d792e3ce3094a681fa7e715d1947c",
+      "date": "2026-07-25T07:51:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Z mieczami, toporami i tarczami wojownicy walczą łeb w łeb w średniowiecznych mistrzostwach świata AP News."
+    },
+    {
       "title": "Kim są ludzie protestujący w Indiach?",
       "url": "https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html",
       "date": "2026-07-25T07:26:22Z",
@@ -996,14 +1004,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Wojsko amerykańskie przeprowadza nowe ataki na Iran w miarę eskalacji starć na szlakach żeglugowych AP News."
-    },
-    {
-      "title": "Stany Zjednoczone są gotowe pomóc zakończyć „bezsensowną wojnę” na Ukrainie, ale nie ma przed nimi szybkiego porozumienia, mówi Rubio – AP News",
-      "url": "https://apnews.com/article/asean-rubio-lavrov-russia-ukraine-502b5eb2dc21caf13fab7928acdc5b1e",
-      "date": "2026-07-24T01:55:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Stany Zjednoczone są gotowe pomóc zakończyć „bezsensowną wojnę” na Ukrainie, ale nie ma przed nimi szybkiego porozumienia, mówi Rubio AP News."
     }
   ],
   "technology": [
@@ -2535,27 +2535,6 @@
       ]
     },
     {
-      "name": "Ukraina",
-      "score": 48,
-      "reasons": [
-        {
-          "title": "Co kryje się za zwrotem uwagi wpływowej Maga Laury Loomer na Ukrainie?",
-          "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Jak chińska technologia i rosyjska taktyka pomagają Iranowi w bombardowaniu amerykańskich baz",
-          "url": "https://www.theguardian.com/world/2026/jul/24/irans-much-improved-missile-systems-pose-a-real-threat-to-the-us",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Stany Zjednoczone są gotowe pomóc zakończyć „bezsensowną wojnę” na Ukrainie, ale nie ma przed nimi szybkiego porozumienia, mówi Rubio – AP News",
-          "url": "https://apnews.com/article/asean-rubio-lavrov-russia-ukraine-502b5eb2dc21caf13fab7928acdc5b1e",
-          "source": "Associated Press"
-        }
-      ]
-    },
-    {
       "name": "Strefa Gazy / Izrael",
       "score": 43,
       "reasons": [
@@ -2573,6 +2552,27 @@
           "title": "Czterech Palestyńczyków i dwóch Izraelczyków zginęło w strzelaninie na Zachodnim Brzegu",
           "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News"
+        }
+      ]
+    },
+    {
+      "name": "Ukraina",
+      "score": 35,
+      "reasons": [
+        {
+          "title": "Co kryje się za zwrotem uwagi wpływowej Maga Laury Loomer na Ukrainie?",
+          "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Jak chińska technologia i rosyjska taktyka pomagają Iranowi w bombardowaniu amerykańskich baz",
+          "url": "https://www.theguardian.com/world/2026/jul/24/irans-much-improved-missile-systems-pose-a-real-threat-to-the-us",
+          "source": "The Guardian"
+        },
+        {
+          "title": "W rosyjskim ataku balistycznym zginęło 10 osób po tym, jak Zełenski na Ukrainie gościł amerykańską firmę produkującą Patrioty – AP News",
+          "url": "https://apnews.com/article/russiak-ukraine-war-patriots-trump-loomer-raytheon-a2f06208baa0759215d973f01758e30f",
+          "source": "Associated Press"
         }
       ]
     },
