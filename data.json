@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T01:38:35Z",
+  "last_updated": "2026-07-26T01:48:00Z",
   "poland": [
     {
       "title": "Flotę LOT-u zasilił nowy boeing 737 MAX 8. Do końca wakacji przylecą jeszcze dwa",
@@ -346,14 +346,6 @@
       "summary": "Żar wróci do Polski. Wiadomo, kiedy rozpocznie się fala upałów Polskie Radio 24."
     },
     {
-      "title": "PAP - serwis wideo - PAP - serwis wideo",
-      "url": "https://wideo.pap.pl/pap-media,101/wielkopolskie-ksiazkobus--mobilny-antykwariat-daje-osobom-z-niepelnosprawnosciami-szanse-na-prace-i-rozwoj,93736",
-      "date": "2026-07-25T00:00:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "PAP - serwis wideo PAP - serwis wideo."
-    },
-    {
       "title": "Niski poziom Sanu w Stalowej Woli (pion) - PAP - serwis wideo",
       "url": "https://wideo.pap.pl/pap-media,101/niski-poziom-sanu-w-stalowej-woli-pion,93732",
       "date": "2026-07-25T00:00:00Z",
@@ -368,6 +360,14 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Skandal z udziałem prokuratora generalnego MTK. Media: Khan odwołany ze stanowiska Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "quer - PAP Foto - Polska Agencja Prasowa SA",
+      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC025%20contains(quer))",
+      "date": "2026-07-24T16:22:55Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "quer - PAP Foto Polska Agencja Prasowa SA."
     },
     {
       "title": "- Polska Agencja Prasowa SA",
@@ -386,20 +386,20 @@
       "summary": "Polska Agencja Prasowa SA."
     },
     {
+      "title": "- Polska Agencja Prasowa SA",
+      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC005%20contains(imago%20images%200862604822))",
+      "date": "2026-07-24T16:22:54Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Polska Agencja Prasowa SA."
+    },
+    {
       "title": "Belgia zmienia trenera po mundialu. Wicemistrz świata z 2010 roku obejmuje \"Czerwone Diabły\" - Polska Agencja Prasowa SA",
       "url": "https://www.pap.pl/aktualnosci/belgia-zmienia-trenera-po-mundialu-wicemistrz-swiata-z-2010-roku-obejmuje-czerwone",
       "date": "2026-07-24T14:45:00Z",
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Belgia zmienia trenera po mundialu. Wicemistrz świata z 2010 roku obejmuje \"Czerwone Diabły\" Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "Europa zmaga się z pożarami: stan wyjątkowy na terenie wspólnoty Madrytu, we Francji ewakuacje - Polska Agencja Prasowa SA",
-      "url": "https://www.pap.pl/aktualnosci/europa-zmaga-sie-z-pozarami-stan-wyjatkowy-na-terenie-wspolnoty-madrytu-we-francji",
-      "date": "2026-07-24T13:57:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Europa zmaga się z pożarami: stan wyjątkowy na terenie wspólnoty Madrytu, we Francji ewakuacje Polska Agencja Prasowa SA."
     }
   ],
   "world_security": [
@@ -410,6 +410,14 @@
       "source": "BBC News",
       "confirmed_by": 3,
       "summary": "Premier Hiszpanii ostrzega, że ​​czekają go „trudne godziny”, gdyż władze we Francji twierdzą, że są dalekie od opanowania pożarów w pobliżu Bordeaux."
+    },
+    {
+      "title": "Policja identyfikuje islamistę jako podejrzanego w ataku podczas parady w Berlinie i domaga się jego aresztowania – Reuters",
+      "url": "https://www.reuters.com/world/europe/police-identify-islamist-suspect-berlin-pride-attack-seeking-his-arrest-2026-07-26/",
+      "date": "2026-07-26T00:48:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Policja identyfikuje islamistę jako podejrzanego w związku z atakiem podczas Berlin Pride i domaga się jego aresztowania – Reuters."
     },
     {
       "title": "Osławione więzienie kameruńskie z własną wytwórnią płytową",
@@ -578,14 +586,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Rozczarowanie i strach po ewakuacji dziesiątek tysięcy ludzi z powodu pożarów we Francji Reuters."
-    },
-    {
-      "title": "Rosja twierdzi, że Ukraina zabiła 11 osób w obozie turystycznym; Ukraina uderza w rosyjską rafinerię - Reuters",
-      "url": "https://www.reuters.com/world/europe/russia-says-ukraine-killed-11-tourist-camp-ukraine-strikes-russian-refinery-2026-07-25/",
-      "date": "2026-07-25T14:33:53Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Rosja twierdzi, że Ukraina zabiła 11 osób w obozie turystycznym; Ukraina uderza w rosyjską rafinerię Reuters."
     },
     {
       "title": "Trump atakuje prasę podczas kolacji korespondentów w Białym Domu",
@@ -1008,12 +1008,20 @@
   ],
   "technology": [
     {
-      "title": "GNU Hurd otrzymuje 9pfs, OpenNTPD, dynamiczne wpisy /dev/ i wiele więcej",
-      "url": "https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/",
-      "date": "2026-07-26T00:19:13Z",
+      "title": "Możliwe zdarzenie superrozprzestrzenienia się gatunku inwazyjnego w pobliżu Cieśniny Ormuz",
+      "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+      "date": "2026-07-26T01:13:19Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49053255 Punkty: 19 # Komentarze: 4."
+      "summary": "Adres URL artykułu: https://abcnews.com/International/scientists-warn-inwazyjne-species-superspreader-event-due-stalling/story?id=135051186 Adres URL komentarzy: https://news.ycombinator.com/item?id=49053603 Punkty: 6 # Komentarze: 0."
+    },
+    {
+      "title": "Systemy i opóźnienia",
+      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "date": "2026-07-26T00:37:30Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49053382 Punkty: 5 # Komentarze: 1."
     },
     {
       "title": "DeepSeek wstrzymuje zbiórkę pieniędzy po wycieku komentarzy na temat luki w obliczeniach w USA (transkrypcja) [pdf]",
@@ -1021,7 +1029,7 @@
       "date": "2026-07-25T23:32:50Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E 6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf Adres URL komentarzy: https://news.ycombinator.com/item?id=49052912 Punkty: 36 # Komentarze: 14."
+      "summary": "Adres URL artykułu: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E 6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf Adres URL komentarzy: https://news.ycombinator.com/item?id=49052912 Punkty: 52 # Komentarze: 23."
     },
     {
       "title": "Wskaźniki niepowodzeń klinicznych na przestrzeni dziesięcioleci: Yikes",
@@ -1029,7 +1037,7 @@
       "date": "2026-07-25T22:57:17Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes Adres URL komentarzy: https://news.ycombinator.com/item?id=49052628 Punkty: 31 # Komentarze: 16."
+      "summary": "Adres URL artykułu: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes Adres URL komentarzy: https://news.ycombinator.com/item?id=49052628 Punkty: 34 # Komentarze: 17."
     },
     {
       "title": "Nowe opcje ruchu AI Cloudflare dla klientów",
@@ -1037,7 +1045,7 @@
       "date": "2026-07-25T22:50:49Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://blog.cloudflare.com/content-independentence-day-ai-options/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49052564 Punkty: 16 # Komentarze: 6."
+      "summary": "Adres URL artykułu: https://blog.cloudflare.com/content-independentence-day-ai-options/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49052564 Punkty: 21 # Komentarze: 6."
     },
     {
       "title": "Kimi K3 zbudował system Windows XP w przeglądarce",
@@ -1045,7 +1053,7 @@
       "date": "2026-07-25T22:03:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://windows-xp.kimi.site/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49052074 Punkty: 51 # Komentarze: 30."
+      "summary": "Adres URL artykułu: https://windows-xp.kimi.site/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49052074 Punkty: 55 # Komentarze: 30."
     },
     {
       "title": "GM wspiera akumulatory sodowo-jonowe do magazynowania w sieciach w USA",
@@ -1053,7 +1061,7 @@
       "date": "2026-07-25T21:48:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Adres URL komentarzy: https://news.ycombinator.com/item?id=49051947 Punkty: 114 # Komentarze: 37."
+      "summary": "Adres URL artykułu: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Adres URL komentarzy: https://news.ycombinator.com/item?id=49051947 Punkty: 116 # Komentarze: 37."
     },
     {
       "title": "Zostań inżynierem ds. badań w dużym laboratorium LLM",
@@ -1062,14 +1070,6 @@
       "source": "Hacker News",
       "confirmed_by": 1,
       "summary": "Adres URL artykułu: https://www.maxmynter.com/pages/blog/jobhunt Adres URL komentarzy: https://news.ycombinator.com/item?id=49051707 Punkty: 16 # Komentarze: 2."
-    },
-    {
-      "title": "Kogo właściwie Anubis powstrzymuje?",
-      "url": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
-      "date": "2026-07-25T20:59:24Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop Adres URL komentarzy: https://news.ycombinator.com/item?id=49051505 Punkty: 41 # Komentarze: 55."
     },
     {
       "title": "Zwiastun SDCC daje nam pierwsze dobre spojrzenie na Blade Runner 2099",
@@ -1924,14 +1924,6 @@
       "summary": "Certyfikat INTSPKO99150 - Analiza techniczna stockwatch.pl."
     },
     {
-      "title": "Certyfikat RBIWC0926KGH3 - Analiza techniczna - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/certyfikat/rbiwc0926kgh3,analiza-techniczna.aspx",
-      "date": "2026-07-25T11:11:29Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Certyfikat RBIWC0926KGH3 - Analiza techniczna stockwatch.pl."
-    },
-    {
       "title": "Afera na całą Polskę. \"Nie wchodzimy do przypadkowych punktów\"",
       "url": "https://www.money.pl/podatki/afera-na-cala-polske-nie-wchodzimy-do-przypadkowych-punktow-7310941535472000a.html",
       "date": "2026-07-25T11:10:52Z",
@@ -2026,6 +2018,14 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Ceny noclegów w Unii Europejskiej wzrosły od maja 2021 r. do maja 2026 r. średnio o 46,5 proc."
+    },
+    {
+      "title": "WIG20 2026 - konkurs - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpisy-12519p31_WIG20-2026--konkurs.aspx",
+      "date": "2026-07-24T17:56:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "WIG20 2026 - konkurs stockwatch.pl."
     },
     {
       "title": "Nielegalne kasyna online kuszą Polaków, a budżet traci miliardy. WEI chce końca monopolu",
@@ -2213,14 +2213,6 @@
     }
   ],
   "critical_alerts": [
-    {
-      "title": "Europa zmaga się z pożarami: stan wyjątkowy na terenie wspólnoty Madrytu, we Francji ewakuacje - Polska Agencja Prasowa SA",
-      "url": "https://www.pap.pl/aktualnosci/europa-zmaga-sie-z-pozarami-stan-wyjatkowy-na-terenie-wspolnoty-madrytu-we-francji",
-      "date": "2026-07-24T13:57:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Europa zmaga się z pożarami: stan wyjątkowy na terenie wspólnoty Madrytu, we Francji ewakuacje Polska Agencja Prasowa SA."
-    },
     {
       "title": "Epidemia pasożyta wywołującego biegunkę powiązana z 4 kolejnymi stanami – AP News",
       "url": "https://apnews.com/article/cyclospora-outbreak-fda-diarrhea-lettuce-4aa41a7eea5246bf7a3510f667c11bde",
