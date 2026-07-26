@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T06:56:44Z",
+  "last_updated": "2026-07-26T06:57:20Z",
   "poland": [
     {
       "title": "Kradzież mojego samochodu trwała kilkadziesiąt sekund, udręka po tym niemal pół roku. Opowiem wam wszystko ze szczegółami",
@@ -386,20 +386,20 @@
       "summary": "Skandal z udziałem prokuratora generalnego MTK. Media: Khan odwołany ze stanowiska Polska Agencja Prasowa SA."
     },
     {
-      "title": "- Polska Agencja Prasowa SA",
-      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC025%20contains(deklaracja))",
-      "date": "2026-07-24T16:22:55Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Polska Agencja Prasowa SA."
-    },
-    {
       "title": "quer - PAP Foto - Polska Agencja Prasowa SA",
       "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC025%20contains(quer))",
       "date": "2026-07-24T16:22:55Z",
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "quer - PAP Foto Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "- Polska Agencja Prasowa SA",
+      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC025%20contains(Viering))",
+      "date": "2026-07-24T16:22:54Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Polska Agencja Prasowa SA."
     }
   ],
   "world_security": [
@@ -1908,20 +1908,36 @@
       "summary": "Opcja OW20J264250 - Analiza techniczna stockwatch.pl."
     },
     {
-      "title": "Certyfikat INTLZAB99671 - Analiza techniczna - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/certyfikat/intlzab99671,analiza-techniczna.aspx",
-      "date": "2026-07-26T02:14:03Z",
+      "title": "Certyfikat INTSKGH99598 - Analiza techniczna - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/certyfikat/intskgh99598,analiza-techniczna.aspx",
+      "date": "2026-07-26T03:39:12Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Certyfikat INTLZAB99671 - Analiza techniczna stockwatch.pl."
+      "summary": "Certyfikat INTSKGH99598 - Analiza techniczna stockwatch.pl."
     },
     {
       "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/luksemburg;praca,10",
-      "date": "2026-07-25T21:30:55Z",
+      "url": "https://forsal.pl/tagi/forsal-dla-dgp;wywiad,121",
+      "date": "2026-07-25T22:56:59Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Gospodarka Forsal.pl."
+    },
+    {
+      "title": "Świat - Unia Europejska - Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/swiat/unia-europejska,50",
+      "date": "2026-07-25T21:55:15Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Świat - Unia Europejska - Biznes, Gospodarka, Świat Forsal.pl."
+    },
+    {
+      "title": "Komunikat ESPI Honey Payment Group Spółka Akcyjna (honey-payment-group-spolka-akcyjna): Odwołanie Zwyczajnego Walnego Zgromadzenia zwołanego na dzień 29 lipca 2026 r. - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/honey-payment-group-spolka-akcyjna,odwolanie-zwyczajnego-walnego-zgromadzenia-zw-2026-07-25,espi,20260725_235238_0000354997",
+      "date": "2026-07-25T21:52:38Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat ESPI Honey Payment Group Spółka Akcyjna (honey-payment-group-spolka-akcyjna): Odwołanie Zwyczajnego Walnego Zgromadzenia zwołanego na dzień 29 lipca 2026 r. stockwatch.pl."
     },
     {
       "title": "Gospodarka - Forsal.pl",
@@ -1930,22 +1946,6 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Gospodarka Forsal.pl."
-    },
-    {
-      "title": "Certyfikat INTLBCO99572 - Analiza techniczna - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/certyfikat/intlbco99572,analiza-techniczna.aspx",
-      "date": "2026-07-25T16:40:45Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Certyfikat INTLBCO99572 - Analiza techniczna stockwatch.pl."
-    },
-    {
-      "title": "Świat - Unia Europejska - Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/swiat/unia-europejska,48",
-      "date": "2026-07-25T16:39:18Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Świat - Unia Europejska - Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Komunikat EBI Honey Payment Group SA (honeypay): Informacje o walnym zgromadzeniu - odwołanie lub nieodbycie WZ - stockwatch.pl",
