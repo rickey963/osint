@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T02:57:55Z",
+  "last_updated": "2026-07-26T02:58:36Z",
   "poland": [
     {
       "title": "Flotę LOT-u zasilił nowy boeing 737 MAX 8. Do końca wakacji przylecą jeszcze dwa",
@@ -1813,6 +1813,22 @@
   "finance": [
     {
       "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/forsal-dla-dgp;wywiad,121",
+      "date": "2026-07-25T22:56:59Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
+      "title": "Świat - Unia Europejska - Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/swiat/unia-europejska,50",
+      "date": "2026-07-25T21:55:15Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Świat - Unia Europejska - Biznes, Gospodarka, Świat Forsal.pl."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
       "url": "https://forsal.pl/archiwum/2016-06-27,2",
       "date": "2026-07-25T21:21:32Z",
       "source": "Forsal.pl",
@@ -1882,14 +1898,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Certyfikat INTLBCO99572 - Analiza techniczna stockwatch.pl."
-    },
-    {
-      "title": "Świat - Unia Europejska - Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/swiat/unia-europejska,48",
-      "date": "2026-07-25T16:39:18Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Świat - Unia Europejska - Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Opcja OW20T263475 - Analiza techniczna - stockwatch.pl",
@@ -2002,14 +2010,6 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Odpady niebezpieczne a budownictwo Forsal.pl."
-    },
-    {
-      "title": "świat - Forsal.pl",
-      "url": "https://forsal.pl/tagi/polska-w-unii;swiat,38",
-      "date": "2026-07-25T05:24:37Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "świat Forsal.pl."
     },
     {
       "title": "Mechthild Christian - Portfel inwestora - stockwatch.pl",
@@ -2679,7 +2679,8 @@
       "2026-07-20",
       "2026-07-21",
       "2026-07-22",
-      "2026-07-23"
+      "2026-07-23",
+      "2026-07-24"
     ],
     "prices": [
       24657.26,
@@ -2805,7 +2806,8 @@
       28242.11,
       28493.29,
       28421.66,
-      28189.4
+      28189.4,
+      28214.44
     ],
     "currency": "PLN"
   }
