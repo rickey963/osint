@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-26T03:59:57Z",
+  "last_updated": "2026-07-26T04:09:28Z",
   "poland": [
+    {
+      "title": "Koniec czatowania z botem. Uznany naukowiec zmienia sposób interakcji z AI",
+      "url": "https://cyfrowa.rp.pl/ai/art44883791-koniec-czatowania-z-botem-uznany-naukowiec-zmienia-sposob-interakcji-z-ai",
+      "date": "2026-07-26T04:00:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Prof. Andrew Ng zaprezentował OpenWorker, narzędzie które zrywa z dotychczasowym schematem chatbotów. Zamiast prowadzić konwersacje i podsuwać tekstowe odpowiedzi, dostarcza gotowe dokumenty, wiadomości na Slacku czy aktualizuje wpisy w kalendarzu."
+    },
+    {
+      "title": "Sposób parzenia kawy ma znaczenie. Polscy fizycy wyjaśnili zagadkę idealnego espresso",
+      "url": "https://www.rp.pl/nauka/art44858501-sposob-parzenia-kawy-ma-znaczenie-polscy-fizycy-wyjasnili-zagadke-idealnego-espresso",
+      "date": "2026-07-26T04:00:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Polscy fizycy przyjrzeli się bliżej procesowi parzenia kawy. Jak się okazuje, ciśnienie w ekspresie może znacząco wpływać na smak i konsystencję porannego espresso. Z badań naukowców wynika, że wyższe ciśnienie zamiast zwiększać aromat kawy, czasem działa jak coraz mocniej zaciskany korek."
+    },
     {
       "title": "Powrót rosyjskich siatkarzy a prawo. Czy wystąpią na mistrzostwach w Polsce?",
       "url": "https://www.rp.pl/prawo-w-polsce/art44881841-powrot-rosyjskich-siatkarzy-a-prawo-czy-wystapia-na-mistrzostwach-w-polsce",
@@ -96,22 +112,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Powieść „Atlas chmur” Davida Mitchella została uznana przez użytkowników serwisu Goodreads za najlepszą książkę XXI wieku – donosi portal Well.pl. Głosowanie potwierdziło, że wydane w 2004 roku dzieło nadal zachwyca oryginalną konstrukcją, wielowątkową fabułą i uniwersalnym przesłaniem."
-    },
-    {
-      "title": "Nawet 5 tys. zł kary za brak świadectwa energetycznego. Kiedy dokument jest obowiązkowy",
-      "url": "https://www.rp.pl/nieruchomosci/art44815221-nawet-5-tys-zl-kary-za-brak-swiadectwa-energetycznego-kiedy-dokument-jest-obowiazkowy",
-      "date": "2026-07-25T18:22:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Sprzedaż lub wynajem domu albo mieszkania bez świadectwa charakterystyki energetycznej może słono kosztować. Obowiązujące przepisy wymagają przekazania tego dokumentu nabywcy lub najemcy, a jego brak może skutkować grzywną sięgającą nawet 5 tys. zł."
-    },
-    {
-      "title": "Niemcy chcą podnieść wiek emerytalny. Rząd popiera reformę, związkowcy protestują",
-      "url": "https://www.rp.pl/praca-emerytury-i-renty/art44883941-niemcy-chca-podniesc-wiek-emerytalny-rzad-popiera-reforme-zwiazkowcy-protestuja",
-      "date": "2026-07-25T18:15:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Kanclerz Niemiec Friedrich Merz zapowiedział, że przeforsuje proponowaną reformę systemu emerytalnego. Reforma miałaby obejmować stopniowe podnoszenie w przyszłości wieku emerytalnego powyżej 67 lat - w powiązaniu ze średnią długością życia."
     },
     {
       "title": "Zamość. 18-latka podejrzana o zranienie 8-latki. Sąd zdecydował o areszcie",
@@ -1008,12 +1008,20 @@
   ],
   "technology": [
     {
+      "title": "Ludzie nie przestali ewoluować",
+      "url": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
+      "date": "2026-07-26T03:09:46Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selektywne-ciśnienie Adres URL komentarzy: https://news.ycombinator.com/item?id=49054307 Punkty: 6 # Komentarze: 0."
+    },
+    {
       "title": "JetZero",
       "url": "https://www.jetzero.aero",
       "date": "2026-07-26T02:55:50Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.jetzero.aero Adres URL komentarzy: https://news.ycombinator.com/item?id=49054224 Punkty: 46 # Komentarze: 27."
+      "summary": "Adres URL artykułu: https://www.jetzero.aero Adres URL komentarzy: https://news.ycombinator.com/item?id=49054224 Punkty: 58 # Komentarze: 41."
     },
     {
       "title": "Spojrzenie na wysiłki Chin zmierzające do zbudowania alternatywnego porządku globalnego w zakresie sztucznej inteligencji poprzez szerokie udostępnienie otwartych modeli i szkolenie ludzi w krajach rozwijających się w zakresie korzystania z nich (Financial Times)",
@@ -1024,12 +1032,20 @@
       "summary": "Financial Times: spojrzenie na wysiłki Chin zmierzające do zbudowania alternatywnego porządku globalnego w zakresie sztucznej inteligencji poprzez szerokie udostępnienie otwartych modeli i szkolenie ludzi w krajach rozwijających się w zakresie ich wykorzystania &mdash; Pekin składa najambitniejszą jak dotąd ofertę zbudowania alternatywnego porządku globalnego &mdash; Prezydent Chin Xi Jinping postawił &hellip;."
     },
     {
+      "title": "Google ignorowało moją witrynę przez 13 tygodni, więc sprawdzałem wszystkich, którzy mnie przewyższają",
+      "url": "https://getqrcodepro.com/blog/google-ranking-evidence",
+      "date": "2026-07-26T02:35:43Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://getqrcodepro.com/blog/google-ranking-evidence Adres URL komentarzy: https://news.ycombinator.com/item?id=49054108 Punkty: 4 # Komentarze: 0."
+    },
+    {
       "title": "Radar samolotowy oparty na ESP32 na moim biurku",
       "url": "https://blog.ktz.me/esp32-plane-radar/",
       "date": "2026-07-26T02:35:43Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://blog.ktz.me/esp32-plane-radar/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49054107 Punkty: 12 # Komentarze: 4."
+      "summary": "Adres URL artykułu: https://blog.ktz.me/esp32-plane-radar/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49054107 Punkty: 20 # Komentarze: 6."
     },
     {
       "title": "Pokaż HN: Zmapowałem każde pole golfowe w USA – ponad 16 tys. pól, za darmo, bez rejestracji",
@@ -1048,20 +1064,12 @@
       "summary": "Eksplorowanie wykresu jest bezpłatne i nie wymaga rejestracji. SynapTale buduje model historii w postaci wykresu czasowego składającego się z węzłów (elementów) i krawędzi (ich działań i relacji). Wykres nie jest wizualizacją wiki. Wiki, osie czasu, historie relacji i analizy to projekcje wykresu. Bieżące demo zawiera 232 elementy, 1852 krawędzie i migawkę stanu historii w każdym rozdziale."
     },
     {
-      "title": "Pokaż HN: ZWPlayer – Darmowy odtwarzacz z interaktywnymi adnotacjami i wyszukiwaniem napisów",
-      "url": "https://www.zwplayer.com/",
-      "date": "2026-07-26T01:49:37Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.zwplayer.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49053805 Punkty: 3 # Komentarze: 0."
-    },
-    {
       "title": "Git rebase -I nie jest taki straszny",
       "url": "https://cachebag.sh/journal/interactive-rebasing/",
       "date": "2026-07-26T00:37:54Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://cachebag.sh/journal/interactive-rebasing/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49053385 Punkty: 30 # Komentarze: 24."
+      "summary": "Adres URL artykułu: https://cachebag.sh/journal/interactive-rebasing/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49053385 Punkty: 35 # Komentarze: 27."
     },
     {
       "title": "Systemy i opóźnienia",
@@ -1069,15 +1077,7 @@
       "date": "2026-07-26T00:37:30Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49053382 Punkty: 31 # Komentarze: 7."
-    },
-    {
-      "title": "Inflect-Micro-v2: kompletny głos w parametrach 9,36M",
-      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "date": "2026-07-26T00:36:30Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://huggingface.co/owensong/Inflect-Micro-v2 Adres URL komentarzy: https://news.ycombinator.com/item?id=49053375 Punkty: 35 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49053382 Punkty: 34 # Komentarze: 8."
     },
     {
       "title": "Zwiastun SDCC daje nam pierwsze dobre spojrzenie na Blade Runner 2099",
