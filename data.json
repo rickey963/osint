@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-26T14:57:14Z",
+  "last_updated": "2026-07-26T14:57:54Z",
   "poland": [
+    {
+      "title": "W brzuchu mumii znaleziono dzieło Homera. To pierwszy taki przypadek w historii",
+      "url": "https://www.rp.pl/archeologia/art44236471-w-brzuchu-mumii-znaleziono-dzielo-homera-to-pierwszy-taki-przypadek-w-historii",
+      "date": "2026-07-26T14:54:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Papirus zawierający fragment dzieła Homera został odkryty w brzuchu mumii w Egipcie. Inne mumie na tym samym cmentarzysku miały natomiast złote języki."
+    },
     {
       "title": "35 litrów deszczu, grad jak orzechy włoskie i silny wiatr. Nadciąga potężna burza - Polskie Radio 24",
       "url": "https://polskieradio24.pl/pogoda/35-litrow-deszczu-grad-jak-orzechy-wloskie-i-silny-wiatr-nadciaga-potezna-burza",
@@ -296,14 +304,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Jako mieszkanka Florydy uwielbiam odwiedzać centrum Fort Lauderdale, położone ok. 50 km na północ od Miami. Choć miasto zyskało przydomek \"Wenecji Ameryki\", ma niewiele wspólnego z włoską Wenecją."
-    },
-    {
-      "title": "Tyle państwo płaci za wykształcenie lekarza. To nie są najbardziej kosztowne studia",
-      "url": "https://businessinsider.com.pl/praca/droga-do-zawodu-lekarza-ile-kosztuja-studia-i-rezydentura-w-polsce/0y5zdy4",
-      "date": "2026-07-26T08:58:26Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Studia medyczne nie są łatwe. Trudno się na nie dostać i trudno uzyskać dyplom. Potem trzeba jeszcze odbyć staż dyplomowy."
     },
     {
       "title": "Rumunia ma dość. Dron naruszył jej przestrzeń powietrzną już trzeci dzień z rzędu",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Haker, który upokorzył twórców oprogramowania szpiegującego i nigdy nie został złapany",
+      "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+      "date": "2026-07-26T14:30:28Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49058593 Punkty: 3 # Komentarze: 0."
+    },
+    {
       "title": "Niebezpieczne zbliżenie na lotnisku w Bostonie. Błąd kontrolera",
       "url": "https://www.benchmark.pl/niebezpieczne-zblizenie-na-lotnisku-w-bostonie-blad-kontrolera-7311565833931136a",
       "date": "2026-07-26T14:30:00Z",
@@ -1101,7 +1109,7 @@
       "date": "2026-07-26T12:43:21Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c Adres URL komentarzy: https://news.ycombinator.com/item?id=49057574 Punkty: 123 # Komentarze: 62."
+      "summary": "Adres URL artykułu: https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c Adres URL komentarzy: https://news.ycombinator.com/item?id=49057574 Punkty: 142 # Komentarze: 69."
     },
     {
       "title": "Czy Droga Mleczna pomogła uformować kontynenty na Ziemi? Trop w cyrkonach",
@@ -1125,7 +1133,7 @@
       "date": "2026-07-26T12:21:26Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://pkg.go.dev/golang.org/x/tools/go/analytic Adres URL komentarzy: https://news.ycombinator.com/item?id=49057398 Punkty: 61 # Komentarze: 7."
+      "summary": "Adres URL artykułu: https://pkg.go.dev/golang.org/x/tools/go/analytic Adres URL komentarzy: https://news.ycombinator.com/item?id=49057398 Punkty: 68 # Komentarze: 6."
     },
     {
       "title": "Telefon dla zmęczonych smartfonami. Nie ma nawet przeglądarki",
@@ -1141,7 +1149,7 @@
       "date": "2026-07-26T12:00:42Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://english.mapn.ro/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49057248 Punkty: 142 # Komentarze: 130."
+      "summary": "Adres URL artykułu: https://english.mapn.ro/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49057248 Punkty: 147 # Komentarze: 142."
     },
     {
       "title": "Garmin szykuje całkiem nowy sensor. Są już pierwsze wzmianki w aplikacji Connect",
@@ -1205,15 +1213,7 @@
       "date": "2026-07-26T09:18:34Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://status.claude.com/incidents/zftg3gqkmv18 Adres URL komentarzy: https://news.ycombinator.com/item?id=49056194 Punkty: 62 # Komentarze: 55."
-    },
-    {
-      "title": "Tak wygląda karmnik przyszłości: kamera Full HD, AI i powiadomienia na telefon",
-      "url": "https://www.benchmark.pl/tak-wyglada-karmnik-przyszlosci-kamera-full-hd-ai-i-powiadomienia-na-telefon-7309465361816000a",
-      "date": "2026-07-26T09:11:00Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Karmnik Birdfy Feeder robi coś, czego zwykłe karmniki nie potrafią. Nie tylko przyciąga ptaki, ale też nagrywa ich wizyty, rozpoznaje gatunki i wysyła powiadomienia, gdy pojawi się nowy gość."
+      "summary": "Adres URL artykułu: https://status.claude.com/incidents/zftg3gqkmv18 Adres URL komentarzy: https://news.ycombinator.com/item?id=49056194 Punkty: 62 # Komentarze: 56."
     },
     {
       "title": "Ruff v0.16.0 – Znaczące nowe aktualizacje – 413 domyślnych reguł w porównaniu z 59",
@@ -1221,7 +1221,7 @@
       "date": "2026-07-26T09:01:39Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://astral.sh/blog/ruff-v0.16.0 Adres URL komentarzy: https://news.ycombinator.com/item?id=49056112 Punkty: 208 # Komentarze: 122."
+      "summary": "Adres URL artykułu: https://astral.sh/blog/ruff-v0.16.0 Adres URL komentarzy: https://news.ycombinator.com/item?id=49056112 Punkty: 217 # Komentarze: 125."
     },
     {
       "title": "Zasilacz parzył, a my graliśmy dalej. Mario i Contra na Pegasusie to była czysta magia",
@@ -1253,7 +1253,7 @@
       "date": "2026-07-26T05:57:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices Adres URL komentarzy: https://news.ycombinator.com/item?id=49055169 Punkty: 215 # Komentarze: 114."
+      "summary": "Adres URL artykułu: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices Adres URL komentarzy: https://news.ycombinator.com/item?id=49055169 Punkty: 227 # Komentarze: 117."
     },
     {
       "title": "CXMT, który pozyskał 9,8 miliarda dolarów podczas pierwszej oferty publicznej w Szanghaju, z ogromną nadsubskrypcją, jest gotowy na debiutancki pop, który może kilkakrotnie podnieść kapitalizację rynkową powyżej początkowych ~85 miliardów dolarów (Bloomberg)",
