@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-26T21:34:06Z",
+  "last_updated": "2026-07-26T21:43:37Z",
   "poland": [
+    {
+      "title": "Niezbędnik przedsiębiorcy: amortyzacja mieszkań * VAT na zły rachunek * VAT dla eksporterów * wyrób akcyzowy nie musi podlegać akcyzie * firma odpowie za przywłaszczenie * beton w SENT",
+      "url": "https://pro.rp.pl/niezbednik-przedsiebiorcy/art44885381-niezbednik-przedsiebiorcy-amortyzacja-mieszkan-vat-na-zly-rachunek-vat-dla-eksporterow-wyrob-akcyzowy-nie-musi-podlegac-akcyzie-firma-odpowie-za-przywlaszczenie-beton-w-sent",
+      "date": "2026-07-26T21:27:55Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "• Amortyzacja mieszkań: ten wyrok daje nadzieję • Zapłata VAT na zły rachunek - co z kosztami? Będą nowe przepisy • Eksport towarów. Łatwiej będzie udokumentować prawo do zerowej stawki • Czy można zostać producentem wyrobów akcyzowych mimo woli?"
+    },
     {
       "title": "Formuła 1. Pierwsza wygrana w sezonie Lando Norrisa. Powrót dominacji McLarena?",
       "url": "https://sport.rp.pl/formula-1/art44889171-formula-1-pierwsza-wygrana-w-sezonie-lando-norrisa-powrot-dominacji-mclarena",
@@ -130,14 +138,6 @@
       "summary": "W hotelu jednego z państw Zatoki Perskiej odbyło się spotkanie szefa Zondacrypto z prok. Markiem Wełną z Prokuratury Krajowej – dowiedziała się „Rzeczpospolita”. Śledczy namawiają Przemysława Krala, by zaczął współpracę z polskimi organami ścigania."
     },
     {
-      "title": "Tragedia w Berlinie to nie pierwszy taki przypadek. Tak samochody stały się bronią terrorystów",
-      "url": "https://www.rp.pl/przestepczosc/art44888461-tragedia-w-berlinie-to-nie-pierwszy-taki-przypadek-tak-samochody-staly-sie-bronia-terrorystow",
-      "date": "2026-07-26T16:33:48Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "W sobotę wieczorem zamachowiec wjechał furgonetką w uczestników Parady Równości w Berlinie. To kolejny w ostatnich latach przypadek wykorzystania samochodu do ataku na tłum. Przypominamy najgłośniejsze tego typu zamachy w Europie."
-    },
-    {
       "title": "Jak działa biznes podrabianych zegarków. \"To prawdziwa uczta dla handlarzy\"",
       "url": "https://businessinsider.com.pl/lifestyle/rynek-podrabianych-rolexow-w-usa-prywatny-detektyw-odkrywa-mechanizmy-oszustw/5y6zsyc",
       "date": "2026-07-26T16:31:00Z",
@@ -158,7 +158,7 @@
       "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32933150,media-eksplozja-na-tankowcu-w-ciesninie-ormuz-mial-uderzyc.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-07-26T15:59:00Z",
       "source": "Gazeta Wyborcza",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Tankowiec wpłynął na minę morską po tym, jak opuścił korytarz wyznaczony przez Iran - podała irańska agencja Tasmin. Teheran wielokrotnie atakował statki w Ormuzie i groził statkom, by korzystały tylko z wytyczonych przez niego szlaków."
     },
     {
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Płomienie zbliżają się do Bordeaux, gdzie ewakuowani równoważą strach i nadzieję",
+      "url": "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html",
+      "date": "2026-07-26T21:25:31Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Po ewakuacji okolicznych miast w południowo-zachodniej Francji i wciąż szybko rozprzestrzeniającym się pożarze, kilka tysięcy osób szuka schronienia w mieście, nie wiedząc, co stanie się ze swoimi domami."
+    },
+    {
       "title": "Przypadkowy bohater, który zmierzył się z rządem Indii",
       "url": "https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html",
       "date": "2026-07-26T21:12:46Z",
@@ -876,14 +884,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Setki tysięcy ludzi we Francji i Hiszpanii zostało zmuszonych do ewakuacji w związku z ogromnymi pożarami wywołanymi rosnącymi temperaturami i suszą."
-    },
-    {
-      "title": "Wojna amerykańsko-irańska zostaje zawieszona drugi dzień z rzędu, a obie strony wstrzymują się od strajków",
-      "url": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
-      "date": "2026-07-26T12:49:15Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Jak podają amerykańscy urzędnicy, prezydent Trump odłożył plany eskalacji walk po części ze względu na malejące zapasy rakiet przechwytujących."
     },
     {
       "title": "UNESCO dodaje plaże lądowania D-Day we Francji i grecki Olimp na Listę Światowego Dziedzictwa – AP News",
@@ -1016,12 +1016,20 @@
       "summary": "Aditya Kalra / Reuters: Indie łagodzą zasady dotyczące inwestycji zagranicznych dla firm zajmujących się handlem elektronicznym, co jest zwycięstwem Amazona, który lobbował za kupowaniem towarów bezpośrednio od indyjskich sprzedawców i sprzedawaniem ich za granicą &mdash; W czwartek rząd Indii złagodził przepisy dotyczące inwestycji zagranicznych, aby umożliwić firmom zajmującym się handlem elektronicznym kupowanie produktów bezpośrednio od indyjskich sprzedawców."
     },
     {
+      "title": "Wielodrożne maszyny Turinga (2021 przed AI)",
+      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+      "date": "2026-07-26T20:49:43Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49062259 Punkty: 4 # Komentarze: 1."
+    },
+    {
       "title": "Tunele plazmowe pokazują, jak umierające satelity spadają na Ziemię",
       "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
       "date": "2026-07-26T20:31:57Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://spectrum.ieee.org/space-debris-atmphere-burn-up Adres URL komentarzy: https://news.ycombinator.com/item?id=49062120 Punkty: 3 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://spectrum.ieee.org/space-debris-atmphere-burn-up Adres URL komentarzy: https://news.ycombinator.com/item?id=49062120 Punkty: 5 # Komentarze: 0."
     },
     {
       "title": "Symuluj profile audio kasety magnetofonowej za pomocą FFmpeg",
@@ -1029,7 +1037,7 @@
       "date": "2026-07-26T20:02:15Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/AARomanov1985/Audio-Cassette-Simulation Adres URL komentarzy: https://news.ycombinator.com/item?id=49061887 Punkty: 4 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://github.com/AARomanov1985/Audio-Cassette-Simulation Adres URL komentarzy: https://news.ycombinator.com/item?id=49061887 Punkty: 8 # Komentarze: 1."
     },
     {
       "title": "Pokaż HN: Nieskończoną układankę",
@@ -1037,7 +1045,7 @@
       "date": "2026-07-26T20:01:27Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Miałem ten pomysł od zawsze, w końcu udało mi się go zrealizować. Adres URL komentarzy: https://news.ycombinator.com/item?id=49061879 Punkty: 6 # Komentarze: 3."
+      "summary": "Miałem ten pomysł od zawsze, w końcu udało mi się go zrealizować. Adres URL komentarzy: https://news.ycombinator.com/item?id=49061879 Punkty: 9 # Komentarze: 7."
     },
     {
       "title": "Co w ogóle robi zespół ds. bezpieczeństwa GitHuba?",
@@ -1045,7 +1053,7 @@
       "date": "2026-07-26T19:51:05Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://orchidfiles.com/github-security-team/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49061769 Punkty: 62 # Komentarze: 12."
+      "summary": "Adres URL artykułu: https://orchidfiles.com/github-security-team/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49061769 Punkty: 66 # Komentarze: 13."
     },
     {
       "title": "Satya Nadella, niegdyś okrzyknięta wizjonerką sztucznej inteligencji, musi zmierzyć się z presją, ponieważ kryzys obliczeniowy zmusza firmę Microsoft do priorytetowego traktowania własnych produktów sztucznej inteligencji przed klientami korzystającymi z chmury Azure (Ashley Stewart/Business Insider)",
@@ -1056,20 +1064,12 @@
       "summary": "Ashley Stewart / Business Insider: Satya Nadella, niegdyś okrzyknięta wizjonerką sztucznej inteligencji, musi zmierzyć się z presją, ponieważ kryzys obliczeniowy zmusza firmę Microsoft do priorytetowego traktowania własnych produktów sztucznej inteligencji w stosunku do klientów korzystających z chmury Azure &mdash; Microsoft poszedł na całość w stronę sztucznej inteligencji. Czy jego Gwiazda Północna jest teraz pętlą? &mdash; Trzy lata temu Satya Nadella wyrzucił Microsoft na front."
     },
     {
-      "title": "Najsilniejsze El Niño w historii",
-      "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-      "date": "2026-07-26T18:35:36Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.theclimatebrink.com/p/the-strongest-el-nino-ever Adres URL komentarzy: https://news.ycombinator.com/item?id=49060978 Punkty: 166 # Komentarze: 116."
-    },
-    {
       "title": "Jak zablokować niektóre boty",
       "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
       "date": "2026-07-26T18:32:46Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49060945 Punkty: 51 # Komentarze: 31."
+      "summary": "Adres URL artykułu: https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49060945 Punkty: 52 # Komentarze: 37."
     },
     {
       "title": "Decker, platforma oparta na dziedzictwie Hypercard i klasycznym systemie macOS",
@@ -1077,7 +1077,7 @@
       "date": "2026-07-26T18:23:06Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://beyondloom.com/decker/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49060856 Punkty: 105 # Komentarze: 22."
+      "summary": "Adres URL artykułu: https://beyondloom.com/decker/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49060856 Punkty: 120 # Komentarze: 25."
     },
     {
       "title": "Prospekt emisyjny Sheina pokazuje, że przychody za pierwszy kwartał wyniosły 9,05 mld dolarów, co oznacza wzrost o 1% rok do roku, gdyż wahają się z 395 mln dolarów zysku w pierwszym kwartale 2025 r. do 99 mln dolarów straty, częściowo z powodu usunięcia przez USA zasady „de minimis” (Reuters)",
@@ -1836,6 +1836,14 @@
       "summary": "Iran wysyła sygnał do USA. \"Konflikt się rozszerzy\" Forsal.pl."
     },
     {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/tagi/wyzszy-wiek-emerytalny",
+      "date": "2026-07-26T19:00:43Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
+    },
+    {
       "title": "Burza wokół wieku emerytalnego. Ministra pracy nie zostawia złudzeń - Forsal.pl",
       "url": "https://forsal.pl/gospodarka/aktualnosci/artykuly/11280530,dziemianowicz-bak-nie-bedzie-podwyzszenia-wieku-emerytalnego-kobiet-i-mezczyzn.html",
       "date": "2026-07-26T19:00:40Z",
@@ -1858,14 +1866,6 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Porażające wyniki kontroli w smażalniach. Aż w 76 proc. lokali wykryto nieprawidłowości Forsal.pl."
-    },
-    {
-      "title": "Wielka ucieczka od jednego operatora. Ponad 361 tys. Polaków zmieniło sieć w trzy miesiące - Forsal.pl",
-      "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11280463,wielka-ucieczka-od-jednego-operatora-ponad-361-tys-polakow-zmienilo-siec-w-trzy-miesiace.html",
-      "date": "2026-07-26T17:56:20Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Wielka ucieczka od jednego operatora. Ponad 361 tys. Polaków zmieniło sieć w trzy miesiące Forsal.pl."
     },
     {
       "title": "Dramat w prowincji Avila. Żywioł strawił ponad 50 tys. hektarów, płonie rejon Madrytu",
@@ -2206,19 +2206,11 @@
   ],
   "critical_alerts": [
     {
-      "title": "Tragedia w Berlinie to nie pierwszy taki przypadek. Tak samochody stały się bronią terrorystów",
-      "url": "https://www.rp.pl/przestepczosc/art44888461-tragedia-w-berlinie-to-nie-pierwszy-taki-przypadek-tak-samochody-staly-sie-bronia-terrorystow",
-      "date": "2026-07-26T16:33:48Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "W sobotę wieczorem zamachowiec wjechał furgonetką w uczestników Parady Równości w Berlinie. To kolejny w ostatnich latach przypadek wykorzystania samochodu do ataku na tłum. Przypominamy najgłośniejsze tego typu zamachy w Europie."
-    },
-    {
       "title": "Media: Eksplozja na tankowcu w cieśninie Ormuz. Miał uderzyć w minę",
       "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32933150,media-eksplozja-na-tankowcu-w-ciesninie-ormuz-mial-uderzyc.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-07-26T15:59:00Z",
       "source": "Gazeta Wyborcza",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Tankowiec wpłynął na minę morską po tym, jak opuścił korytarz wyznaczony przez Iran - podała irańska agencja Tasmin. Teheran wielokrotnie atakował statki w Ormuzie i groził statkom, by korzystały tylko z wytyczonych przez niego szlaków."
     },
     {
@@ -2752,51 +2744,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25821.7,
+      25827.15,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26992.8,
+      26998.5,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27140.61,
+      27146.34,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27386.97,
+      27392.76,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28026.41,
+      28032.33,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28062.66,
+      28068.58,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28308.76,
+      28314.74,
       27354.94,
       27400.36,
       27412.11,
-      28712.51,
+      28718.57,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27968.87,
+      27974.78,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28149.63,
+      28155.57,
       27686.17,
       27404.78,
       27351.97,
@@ -2805,7 +2797,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27856.29,
+      27862.18,
       27930.04,
       28234.04,
       28218.36,
@@ -2814,17 +2806,17 @@
       28294.39,
       28203.83,
       28555.17,
-      28694.82,
+      28700.88,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28248.98,
+      28254.95,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28075.84
+      28081.77
     ],
     "currency": "PLN"
   }
