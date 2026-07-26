@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T09:58:20Z",
+  "last_updated": "2026-07-26T09:58:52Z",
   "poland": [
     {
       "title": "Wakacje nie zwalniają katolików z tego obowiązku. Kościół mówi jasno",
@@ -379,14 +379,6 @@
     },
     {
       "title": "- Polska Agencja Prasowa SA",
-      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC005%20contains(%20Chris%20Brown%20Court%20Case%20at%20Southwark%20Crown%20Court))",
-      "date": "2026-07-24T16:22:55Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "- Polska Agencja Prasowa SA",
       "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC080%20contains(STATE%20EMERGENCY%20SERVICE%20%2F%20HANDOUT))",
       "date": "2026-07-24T16:22:55Z",
       "source": "PAP",
@@ -400,6 +392,14 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "quer - PAP Foto - Polska Agencja Prasowa SA",
+      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC025%20contains(quer))",
+      "date": "2026-07-24T16:22:55Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "quer - PAP Foto Polska Agencja Prasowa SA."
     }
   ],
   "world_security": [
@@ -1860,20 +1860,20 @@
       "summary": "Ministerstwo spraw zagranicznych i europejskich Chorwacji ostrzegło w środę, że rozwiązanie spornych kwestii między Podgoricą a Zagrzebiem jest niezbędne, aby Czarnogóra mogła zakończyć negocjacje akcesyjne z Unią Europejską."
     },
     {
-      "title": "restauracja - Forbes",
-      "url": "https://www.forbes.pl/omp_obsolete_restauracja",
-      "date": "2026-07-26T07:46:12Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "restauracja Forbes."
-    },
-    {
       "title": "Pojawią się nad Polską za kilka dni. Wojsko ma ważny komunikat - Forsal.pl",
       "url": "https://forsal.pl/kraj/bezpieczenstwo/artykuly/11280035,pojawia-sie-nad-polska-za-kilka-dni-wojsko-ma-wazny-komunikat.html",
       "date": "2026-07-26T07:15:15Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Pojawią się nad Polską za kilka dni. Wojsko ma ważny komunikat Forsal.pl."
+    },
+    {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/tagi/eldrige-colby",
+      "date": "2026-07-26T07:11:11Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Polacy pracują za krótko. Nie obędzie się bez kontrowersyjnej reformy [ANALIZA]",
@@ -1920,24 +1920,8 @@
       "url": "https://www.stockwatch.pl/gpw/certyfikat/intskgh99598,analiza-techniczna.aspx",
       "date": "2026-07-26T03:39:12Z",
       "source": "StockWatch.pl",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Certyfikat INTSKGH99598 - Analiza techniczna stockwatch.pl."
-    },
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/forsal-dla-dgp;wywiad,121",
-      "date": "2026-07-25T22:56:59Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
-    },
-    {
-      "title": "Świat - Unia Europejska - Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/swiat/unia-europejska,50",
-      "date": "2026-07-25T21:55:15Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Świat - Unia Europejska - Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Komunikat ESPI Honey Payment Group Spółka Akcyjna (honey-payment-group-spolka-akcyjna): Odwołanie Zwyczajnego Walnego Zgromadzenia zwołanego na dzień 29 lipca 2026 r. - stockwatch.pl",
@@ -1954,6 +1938,14 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Gospodarka Forsal.pl."
+    },
+    {
+      "title": "Świat - Unia Europejska - Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/swiat/unia-europejska,48",
+      "date": "2026-07-25T16:39:18Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Świat - Unia Europejska - Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Nowy program dla seniorów? Chcą 800 plus za każde pracujące dziecko - Forsal.pl",
@@ -2084,6 +2076,14 @@
       "summary": "Polska przez dziesięciolecia regulowała rzeki, osuszała mokradła i zabudowywała tereny zalewowe. Teraz eksperci przekonują, że część tych działań osłabiła zdolność krajobrazu do zatrzymywania wody, przez co powodzie przebiegają gwałtowniej, a susze stają się dotkliwsze. Odpowiedzią ma być renaturyzacja, czyli przywracanie rzekom i ich dolinom naturalnych funkcji."
     },
     {
+      "title": "Notowania historyczne INTLCPS99739 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania-historyczne/INTLCPS99739",
+      "date": "2026-07-24T14:05:31Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania historyczne INTLCPS99739 INGBANK BiznesRadar."
+    },
+    {
       "title": "Chińskie jachty płyną do Europy: strategia ta sama, co w przypadku aut - Forbes",
       "url": "https://www.forbes.pl/chinskie-jachty-plyna-do-europy-strategia-ta-sama-co-w-przypadku-samochodow/sgtj6kk",
       "date": "2026-07-24T13:00:00Z",
@@ -2124,14 +2124,6 @@
       "summary": "Formacje analizy technicznej INTLZAB99697 INGBANK BiznesRadar."
     },
     {
-      "title": "Wiadomości INTSSLV99556 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/INTSSLV99556",
-      "date": "2026-07-24T10:58:23Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości INTSSLV99556 INGBANK BiznesRadar."
-    },
-    {
       "title": "No Fluff Jobs dołącza do Grupy Pracuj. Grupa RASP konsekwentna w realizowaniu swojej strategii - Forbes",
       "url": "https://www.forbes.pl/life/wydarzenia/no-fluff-jobs-dolacza-do-grupy-pracuj-grupa-rasp-konsekwentna-w-realizowaniu-swojej/d6syf8j",
       "date": "2026-07-24T10:09:48Z",
@@ -2154,6 +2146,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Sekret Gianniego Infantino. Dawną korupcję zamienił na oficjalne przelewy Forbes."
+    },
+    {
+      "title": "Najlepszy gadżet Mundialu? Red Noise pomagał spać, gdy obok ktoś przeżywał nocne mecze - Forbes",
+      "url": "https://www.forbes.pl/technologie/najlepszy-gadzet-mundialu-red-noise-pomagal-spac-gdy-obok-ktos-przezywal-nocne-mecze/w4l371r",
+      "date": "2026-07-24T07:52:00Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Najlepszy gadżet Mundialu? Red Noise pomagał spać, gdy obok ktoś przeżywał nocne mecze Forbes."
     },
     {
       "title": "OKI przyjęte i czeka na podpis prezydenta",
