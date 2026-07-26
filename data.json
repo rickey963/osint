@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T10:44:25Z",
+  "last_updated": "2026-07-26T10:45:05Z",
   "poland": [
     {
       "title": "Który z polityków KO powinien być premierem? Zaskakujące wyniki sondażu",
@@ -412,6 +412,14 @@
       "summary": "Pożary powodują wysiedlenia ludzi na masową skalę i powodują jedną z największych operacji ewakuacji ludności cywilnej w czasie pokoju, jakie kiedykolwiek przeprowadzono we Francji. Ponad 250 000 ludzi ucieka przed pożarami we Francji i Hiszpanii. Jak zauważają w tej historii moi koledzy, naukowcy twierdzą, że załamanie klimatu powoduje częstsze i bardziej ekstremalne zjawiska pogodowe, wyparowanie gleb i dróg wodnych, podsycając pożary i prowadząc do tysięcy zgonów. Europa ogrzewa się w tempie około dwukrotnie większym niż średnia światowa. Ministerstwo środowiska Hiszpanii podało, że w tym roku odnotowano już 32 poważne pożary lasów, w porównaniu z siedmioma w tym samym okresie w 2025 r. Kontynuuj czytanie..."
     },
     {
+      "title": "Palestyńczycy twierdzą, że izraelscy osadnicy podpalili meczety, samochody i pola uprawne na Zachodnim Brzegu",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-26T10:26:05Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Ostatnie ataki mają miejsce dwa dni po starciach między osadnikami a Palestyńczykami w pobliżu wioski Tell, w wyniku których zginęło czterech Palestyńczyków i dwóch Izraelczyków."
+    },
+    {
       "title": "Atak na Berlin Pride wywołuje żal i solidarność ze społecznością LGBTQ – Reuters",
       "url": "https://www.reuters.com/world/europe/berlin-pride-attack-prompts-grief-solidarity-with-lgbtq-community-2026-07-26/",
       "date": "2026-07-26T10:14:27Z",
@@ -730,14 +738,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Prokuratorzy twierdzą, że D4vd zaczął znęcać się nad dziewczyną, gdy miała 13 lat, a ona groziła, że ​​go zdemaskuje."
-    },
-    {
-      "title": "Dziesięć osób zginęło w rosyjskim ataku na wystawę dronów pod Kijowem",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-25T00:06:53Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Wydarzenie, w którym uczestniczyli prominentni przedstawiciele ukraińskiego przemysłu obronnego, zostało w środku dnia trafione rakietami balistycznymi."
     },
     {
       "title": "Trump zmienił samoloty w Turcji na początku tego miesiąca z powodu zagrożenia ze strony zastępczych sił Iranu – raport",
@@ -2228,8 +2228,8 @@
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "W basenach morskich zbudowanych z worków z piaskiem i gruzem Amjed Tantesh zapewnia dzieciom po traumie krótki wytchnienie od codziennego życia.",
-      "url": "https://www.theguardian.com/world/2026/jul/25/swimming-classes-resume-gaza-after-three-years-war"
+      "description": "Ostatnie ataki mają miejsce dwa dni po starciach między osadnikami a Palestyńczykami w pobliżu wioski Tell, w wyniku których zginęło czterech Palestyńczyków i dwóch Izraelczyków.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
     },
     {
       "lat": 32.43,
@@ -2479,6 +2479,22 @@
       ]
     },
     {
+      "name": "Strefa Gazy / Izrael",
+      "score": 41,
+      "reasons": [
+        {
+          "title": "Odzyskiwanie skradzionego dzieciństwa: po trzech latach wojny w Gazie wznowiono zajęcia pływania",
+          "url": "https://www.theguardian.com/world/2026/jul/25/swimming-classes-resume-gaza-after-three-years-war",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Palestyńczycy twierdzą, że izraelscy osadnicy podpalili meczety, samochody i pola uprawne na Zachodnim Brzegu",
+          "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News"
+        }
+      ]
+    },
+    {
       "name": "Jemen",
       "score": 41,
       "reasons": [
@@ -2507,17 +2523,6 @@
           "title": "Kijów w ogniu. Rosja zaatakowała pociskami balistycznymi",
           "url": "https://www.polsatnews.pl/wiadomosc/2026-07-26/kijow-w-ogniu-rosja-zaatakowala-pociskami-balistycznymi/",
           "source": "Polsat News"
-        }
-      ]
-    },
-    {
-      "name": "Strefa Gazy / Izrael",
-      "score": 29,
-      "reasons": [
-        {
-          "title": "Odzyskiwanie skradzionego dzieciństwa: po trzech latach wojny w Gazie wznowiono zajęcia pływania",
-          "url": "https://www.theguardian.com/world/2026/jul/25/swimming-classes-resume-gaza-after-three-years-war",
-          "source": "The Guardian"
         }
       ]
     }
