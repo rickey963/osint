@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T01:48:39Z",
+  "last_updated": "2026-07-26T01:49:13Z",
   "poland": [
     {
       "title": "Flotę LOT-u zasilił nowy boeing 737 MAX 8. Do końca wakacji przylecą jeszcze dwa",
@@ -362,14 +362,6 @@
       "summary": "Nowa RPO zapowiada: interesuje mnie dobro obywateli Polska Agencja Prasowa SA."
     },
     {
-      "title": "PAP - serwis wideo - PAP - serwis wideo",
-      "url": "https://wideo.pap.pl/pap-media,101/wielkopolskie-ksiazkobus--mobilny-antykwariat-daje-osobom-z-niepelnosprawnosciami-szanse-na-prace-i-rozwoj,93736",
-      "date": "2026-07-25T00:00:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "PAP - serwis wideo PAP - serwis wideo."
-    },
-    {
       "title": "Niski poziom Sanu w Stalowej Woli (pion) - PAP - serwis wideo",
       "url": "https://wideo.pap.pl/pap-media,101/niski-poziom-sanu-w-stalowej-woli-pion,93732",
       "date": "2026-07-25T00:00:00Z",
@@ -389,6 +381,14 @@
       "title": "- Polska Agencja Prasowa SA",
       "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC025%20contains(nijmegs))",
       "date": "2026-07-24T16:22:55Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "- Polska Agencja Prasowa SA",
+      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC025%20contains(Viering))",
+      "date": "2026-07-24T16:22:54Z",
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Polska Agencja Prasowa SA."
@@ -934,12 +934,12 @@
       "summary": "UNESCO dodaje Zachodni Brzeg i zamki libańskie na Listę Światowego Dziedzictwa pomimo sprzeciwu Izraela AP News."
     },
     {
-      "title": "Administracja Trumpa przyznaje, że dotacje na czystą energię zostały anulowane ze względów politycznych – AP News",
-      "url": "https://apnews.com/article/trump-clean-energy-grants-chris-wright-09d26d615869ce06dd6bb2c047f636cb",
-      "date": "2026-07-25T00:09:00Z",
+      "title": "Trump zamawia nowe tablice przed Smithsonian, twierdząc, że niektóre eksponaty są niedokładne – AP News",
+      "url": "https://apnews.com/article/trump-smithsonian-history-exhibit-signs-d04879c33b518fe3acb91a4fb41c6a30",
+      "date": "2026-07-24T23:04:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Administracja Trumpa przyznaje, że dotacje na czystą energię zostały anulowane ze względu na politykę AP News."
+      "summary": "Trump zamawia nowe znaki przed Smithsonian, twierdząc, że niektóre eksponaty są niedokładne AP News."
     },
     {
       "title": "Szef ONZ ds. praw człowieka wygrywa drugą kadencję pomimo sprzeciwu USA, Izraela i Rosji – AP News",
@@ -1884,6 +1884,14 @@
       "summary": "Certyfikat INTLBCO99572 - Analiza techniczna stockwatch.pl."
     },
     {
+      "title": "Świat - Unia Europejska - Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/swiat/unia-europejska,48",
+      "date": "2026-07-25T16:39:18Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Świat - Unia Europejska - Biznes, Gospodarka, Świat Forsal.pl."
+    },
+    {
       "title": "Opcja OW20T263475 - Analiza techniczna - stockwatch.pl",
       "url": "https://www.stockwatch.pl/gpw/opcja/ow20t263475,analiza-techniczna.aspx",
       "date": "2026-07-25T16:11:30Z",
@@ -1898,22 +1906,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat EBI Honey Payment Group SA (honeypay): Informacje o walnym zgromadzeniu - odwołanie lub nieodbycie WZ stockwatch.pl."
-    },
-    {
-      "title": "Certyfikat INTSPKO99150 - Analiza techniczna - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/certyfikat/intspko99150,analiza-techniczna.aspx",
-      "date": "2026-07-25T13:09:52Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Certyfikat INTSPKO99150 - Analiza techniczna stockwatch.pl."
-    },
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/przedsiebiorcy,22?strona=8",
-      "date": "2026-07-25T11:45:47Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Afera na całą Polskę. \"Nie wchodzimy do przypadkowych punktów\"",
@@ -2034,6 +2026,14 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Ponad 3 mln Polaków korzysta z nielegalnych serwisów hazardowych online, a w samym segmencie kasyn internetowych szara strefa ma ok. 40 proc. rynku – wynika z najnowszego raportu Warsaw Enterprise Institute (WEI)."
+    },
+    {
+      "title": "Komunikat EBI Labocanna SA (labocanna): Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/labocanna,informacje-o-walnym-zgromadzeniu-informacje-2026-07-24,ebi,20260724_184616_0000004442",
+      "date": "2026-07-24T16:46:16Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI Labocanna SA (labocanna): Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały stockwatch.pl."
     },
     {
       "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 24.07.2026",
