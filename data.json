@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T14:29:41Z",
+  "last_updated": "2026-07-27T14:30:24Z",
   "poland": [
     {
       "title": "Nowy ruch Donalda Trumpa wobec Iranu. \"Daje sprawie nieco swobody\"",
@@ -910,14 +910,6 @@
       "summary": "Podejrzany o śmiertelny atak na Berlin Pride zginął w konfrontacji z policją AP News."
     },
     {
-      "title": "USA i Iran wstrzymują ataki po dniach eskalacji – AP News",
-      "url": "https://apnews.com/article/iran-war-united-states-ceasefire-ad9fa27d5b1b5fd51e30d923ee738238",
-      "date": "2026-07-26T21:01:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "USA i Iran wstrzymują ataki po dniach eskalacji AP News."
-    },
-    {
       "title": "Awaria wody na lotnisku Gatwick w Wielkiej Brytanii spowodowała nieczynność toalet i zamknięcie restauracji – AP News",
       "url": "https://apnews.com/article/water-shortage-gatwick-airport-toilet-london-britain-d5f0bb054fa63c807da7d405085699b1",
       "date": "2026-07-26T20:58:00Z",
@@ -948,6 +940,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Urzędnicy federalni prowadzą dochodzenie po tym, jak pojawiło się wideo przedstawiające osobę kopiącą kalifornijskiego lwa morskiego AP News."
+    },
+    {
+      "title": "USA i Iran wstrzymują ataki po dniach eskalacji – AP News",
+      "url": "https://apnews.com/article/iran-war-united-states-ceasefire-ad9fa27d5b1b5fd51e30d923ee738238",
+      "date": "2026-07-26T15:12:27Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "USA i Iran wstrzymują ataki po dniach eskalacji AP News."
     },
     {
       "title": "UNESCO dodaje plaże lądowania D-Day we Francji i grecki Olimp na Listę Światowego Dziedzictwa – AP News",
@@ -982,14 +982,6 @@
       "summary": "Trener 49ers Kyle Shanahan ranny w wypadku samochodowym, jego ograniczenia związane są z otwarciem obozu treningowego AP News."
     },
     {
-      "title": "W ostatnich atakach Rosji i Ukrainy zginęło łącznie 15 osób – podają AP News",
-      "url": "https://apnews.com/article/russia-ukraine-drone-romania-zelenskyy-6c4dfdb04df911d135675b24ec2e6a7a",
-      "date": "2026-07-25T15:58:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Władze AP News podają, że w ostatnich atakach Rosji i Ukrainy zginęło łącznie 15 osób."
-    },
-    {
       "title": "Trump wraca na kolację korespondentów, by wygłosić chaotyczne i pełne obelg przemówienie 3 miesiące po strzelaninie – AP News",
       "url": "https://apnews.com/article/correspondents-dinner-trump-shooting-white-house-dfa0ecdbe3552910903d5c23a8e96a35",
       "date": "2026-07-25T14:55:00Z",
@@ -1004,6 +996,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Indyjski ruch „Karaluch” kończy protesty po rezygnacji ministra edukacji AP News."
+    },
+    {
+      "title": "Mosty i infrastruktura zostały zniszczone, gdy USA uderzyły głębiej w Iran – AP News",
+      "url": "https://apnews.com/article/us-iran-war-strait-of-hormuz-d7744d3063116944d49a616c007d669c",
+      "date": "2026-07-25T10:30:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Mosty i infrastruktura zostały zniszczone, gdy USA uderzyły głębiej w Iran AP News."
     }
   ],
   "technology": [
@@ -1409,6 +1409,14 @@
     }
   ],
   "cybersecurity": [
+    {
+      "title": "⚡ Cotygodniowe podsumowanie: nieuczciwi agenci AI, exploity Check Point, Slopsquatting, przynęty ClickFix i nie tylko",
+      "url": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
+      "date": "2026-07-27T14:10:54Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Poniedziałek zaczynamy od zwykłej obietnicy, że wszystko jest pod kontrolą. Potem budzą się dzienniki. W tym tygodniu zaufane narzędzia przekroczyły granice, stare wady znalazły nowe zastosowanie, odsłonięte systemy pozostały odsłonięte, a napastnicy ukrywali się w normalnie wyglądających usługach."
+    },
     {
       "title": "Wojsko uszczelnia wschodnią granicę Polski. Nowy system AI zintegrowany z TAK i Jaśminem",
       "url": "https://cyberdefence24.pl/armia-i-sluzby/wojsko-polskie/wojsko-uszczelnia-wschodnia-granice-polski-nowy-system-ai-zintegrowany-z-tak-i-jasminem",
@@ -2503,27 +2511,6 @@
       ]
     },
     {
-      "name": "Ukraina",
-      "score": 24,
-      "reasons": [
-        {
-          "title": "Rosjanie zniszczyli wszystkie stacje paliw na ważnej trasie. Jest apel do mieszkańców",
-          "url": "https://businessinsider.com.pl/wiadomosci/rosjanie-zniszczyli-wszystkie-stacje-paliw-na-jednej-trasie-143-kilometry/z3cy0hm",
-          "source": "Business Insider Polska"
-        },
-        {
-          "title": "W ostatnich atakach Rosji i Ukrainy zginęło łącznie 15 osób – podają AP News",
-          "url": "https://apnews.com/article/russia-ukraine-drone-romania-zelenskyy-6c4dfdb04df911d135675b24ec2e6a7a",
-          "source": "Associated Press"
-        },
-        {
-          "title": "143-kilometrowa trasa do Charkowa bez tankowania. Rosja zniszczyła wszystkie stacje paliw",
-          "url": "https://www.rp.pl/konflikty-zbrojne/art44892601-143-kilometrowa-trasa-do-charkowa-bez-tankowania-rosja-zniszczyla-wszystkie-stacje-paliw",
-          "source": "Rzeczpospolita"
-        }
-      ]
-    },
-    {
       "name": "Jemen",
       "score": 24,
       "reasons": [
@@ -2536,6 +2523,22 @@
           "title": "Wspierani przez Iran Huti twierdzą, że doszło do ataku rakietowego na Arabię ​​Saudyjską w związku z eskalacją napięcia regionalnego",
           "url": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war",
           "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Ukraina",
+      "score": 14,
+      "reasons": [
+        {
+          "title": "Rosjanie zniszczyli wszystkie stacje paliw na ważnej trasie. Jest apel do mieszkańców",
+          "url": "https://businessinsider.com.pl/wiadomosci/rosjanie-zniszczyli-wszystkie-stacje-paliw-na-jednej-trasie-143-kilometry/z3cy0hm",
+          "source": "Business Insider Polska"
+        },
+        {
+          "title": "143-kilometrowa trasa do Charkowa bez tankowania. Rosja zniszczyła wszystkie stacje paliw",
+          "url": "https://www.rp.pl/konflikty-zbrojne/art44892601-143-kilometrowa-trasa-do-charkowa-bez-tankowania-rosja-zniszczyla-wszystkie-stacje-paliw",
+          "source": "Rzeczpospolita"
         }
       ]
     }
@@ -2734,51 +2737,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25910.52,
+      25912.43,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27085.66,
+      27087.65,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27233.97,
+      27235.97,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27481.18,
+      27483.2,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28122.82,
+      28124.89,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28159.19,
+      28161.26,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28406.14,
+      28408.23,
       27354.94,
       27400.36,
       27412.11,
-      28811.28,
+      28813.4,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28065.08,
+      28067.15,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28246.46,
+      28248.54,
       27686.17,
       27404.78,
       27351.97,
@@ -2787,7 +2790,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27952.12,
+      27954.17,
       27930.04,
       28234.04,
       28218.36,
@@ -2796,18 +2799,18 @@
       28294.39,
       28203.83,
       28555.17,
-      28793.53,
+      28795.65,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28346.16,
+      28348.25,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28172.42,
-      28165.95
+      28174.49,
+      28160.65
     ],
     "currency": "PLN"
   }
