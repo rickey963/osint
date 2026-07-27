@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T22:30:48Z",
+  "last_updated": "2026-07-27T22:40:19Z",
   "poland": [
     {
       "title": "Historyczny moment. Polacy nauczą Brytyjczyków produkować materiały wybuchowe",
@@ -428,6 +428,14 @@
       "summary": "Z dokumentów sądowych wynika, że ​​jeden podejrzany przebywa w areszcie, drugi jest poszukiwany, a trzeci prawdopodobnie zginął na miejscu."
     },
     {
+      "title": "Porsche zwolni jedno na pięć stanowisk pracy do 2035 r., gdy w Chinach dotkną problemy związane z pojazdami elektrycznymi – Reuters",
+      "url": "https://www.reuters.com/business/world-at-work/porsche-cut-another-5000-jobs-2026-07-27/",
+      "date": "2026-07-27T22:04:12Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Porsche zwolni jedno na pięć stanowisk pracy do 2035 r., gdy Chiny dotkną Reutersa problemami z pojazdami elektrycznymi."
+    },
+    {
       "title": "Świat ryzykuje ponowne pojawienie się wirusa HIV w związku ze spadkiem finansowania o 18%, twierdzi UNAIDS – Reuters",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/world-risks-hiv-resurgence-funding-falls-18-unaids-says-2026-07-27/",
       "date": "2026-07-27T22:01:30Z",
@@ -594,14 +602,6 @@
       "source": "BBC News",
       "confirmed_by": 2,
       "summary": "Policja podała, że ​​brała udział w pościgu samochodowym z dużą prędkością, ale nie udało jej się aresztować podejrzanego, który pozostaje na wolności. W czerwcu po podobnym ataku aresztowano trzy osoby."
-    },
-    {
-      "title": "Premier Wielkiej Brytanii Burnham wyklucza zmiany opłaty skarbowej w następnym budżecie – Reuters",
-      "url": "https://www.reuters.com/world/uk/uk-pm-burnham-rules-out-changes-stamp-duty-next-budget-2026-07-27/",
-      "date": "2026-07-27T16:46:16Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Premier Wielkiej Brytanii Burnham wyklucza zmiany opłaty skarbowej w następnym budżecie Reuters."
     },
     {
       "title": "Francja i Hiszpania starają się powstrzymać ogromne pożary, zanim rozpocznie się nowa fala upałów",
@@ -950,14 +950,6 @@
       "summary": "Wyłącznie: w ukraińskim schronie Laura Loomer wyjaśnia zmianę w rosyjskiej wojnie AP News."
     },
     {
-      "title": "USA i Iran wstrzymują ataki po dniach eskalacji – AP News",
-      "url": "https://apnews.com/article/iran-war-united-states-ceasefire-ad9fa27d5b1b5fd51e30d923ee738238",
-      "date": "2026-07-26T21:01:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "USA i Iran wstrzymują ataki po dniach eskalacji AP News."
-    },
-    {
       "title": "Lider Demokratów w Izbie Reprezentantów Hakeem Jeffries rozpoczyna 100 dni do połowy kadencji z programem przystępności cenowej – AP News",
       "url": "https://apnews.com/article/house-midterms-election-affordability-trump-d1d9d0cd0c3ed3b53a7f812a6bd2e7a6",
       "date": "2026-07-26T20:55:00Z",
@@ -1004,9 +996,33 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Urzędnicy federalni prowadzą dochodzenie po tym, jak pojawiło się wideo przedstawiające osobę kopiącą kalifornijskiego lwa morskiego AP News."
+    },
+    {
+      "title": "USA i Iran wstrzymują ataki po dniach eskalacji – AP News",
+      "url": "https://apnews.com/article/iran-war-united-states-ceasefire-ad9fa27d5b1b5fd51e30d923ee738238",
+      "date": "2026-07-26T15:12:27Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "USA i Iran wstrzymują ataki po dniach eskalacji AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Dario Amodei mówi, że Anthropic nigdy nie popierał zakazu stosowania modeli z otwartymi ciężarami, wymienia powody, dla których najlepsze chipy nie powinny być sprzedawane do Chin, wzywa do globalnego testowania modeli, więcej (Anthropic)",
+      "url": "https://www.techmeme.com/260727/p32#a260727p32",
+      "date": "2026-07-27T22:25:00Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Anthropic: Dario Amodei mówi, że Anthropic nigdy nie popierał zakazu stosowania modeli z otwartymi ciężarami, wymienia powody, dla których najlepsze chipy nie powinny być sprzedawane do Chin, wzywa do globalnego testowania modeli, więcej &mdash; W ostatnich dniach sporo dyskusji na temat modeli z otwartymi ciężarami, zwłaszcza tych z Chin."
+    },
+    {
+      "title": "Microsoft przedstawia narzędzia bezpieczeństwa AI, które według niego przewyższają konkurencyjne platformy",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "date": "2026-07-27T21:56:14Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Microsoft twierdzi, że narzędzia kosztują mniej niż konkurencyjne narzędzia, a także są od nich lepsze."
+    },
     {
       "title": "Cadence odnotowuje wzrost przychodów w drugim kwartale o 24,2% r/r do 1,58 mld USD i podnosi prognozę rocznych przychodów do 6,26–6,34 mld USD w porównaniu z szacunkowymi 6,21 mld USD; CDNS w górę o 4%+ po godzinach (Reuters)",
       "url": "https://www.techmeme.com/260727/p31#a260727p31",
@@ -1014,6 +1030,14 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Reuters: Cadence odnotowuje wzrost przychodów w drugim kwartale o 24,2% r/r do 1,58 mld USD i podnosi prognozę rocznych przychodów do 6,26–6,34 mld USD w porównaniu z szacunkowymi 6,21 mld USD; CDNS w górę o 4%+ po godzinach &mdash; Firma Cadence Design Systems (CDNS.O) podniosła w poniedziałek swoje roczne prognozy przychodów i zysków, bazując na dużym popycie na oparte na sztucznej inteligencji oprogramowanie do projektowania chipów i systemów."
+    },
+    {
+      "title": "Administrator Trumpa zwalnia Starlink SpaceX z zakazu FCC dotyczącego routerów produkcji zagranicznej",
+      "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+      "date": "2026-07-27T21:40:27Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Starlink ma fabrykę w Teksasie, ale produkuje także routery w Wietnamie."
     },
     {
       "title": "Sędzia federalny wydaje wstępny nakaz uniemożliwiający Minnesocie egzekwowanie nowo uchwalonego prawa, które zakazało rynków prognostycznych, takich jak Kalshi i Polymarket (Nate Raymond/Reuters)",
@@ -1040,12 +1064,36 @@
       "summary": "Adres URL artykułu: https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites Adres URL komentarzy: https://news.ycombinator.com/item?id=49075350 Punkty: 23 # Komentarze: 8."
     },
     {
+      "title": "Epidemia biegunki spowodowała, że ​​40% Amerykanów unika owoców i warzyw",
+      "url": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
+      "date": "2026-07-27T20:42:13Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Krytycy twierdzą, że Kennedy skupił się na żywieniu, ale zaniedbał bezpieczeństwo żywności."
+    },
+    {
       "title": "Corsair 2800X kosztuje 349 zł i wygląda jak obudowa za dwa razy tyle. Jest jeden haczyk (test)",
       "url": "https://www.instalki.pl/testy/hardware/corsair-2800x-rs-r-argb-test-recenzja/",
       "date": "2026-07-27T20:38:57Z",
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Corsair 2800X RS-R ARGB kosztuje 349 złotych, a wygląda jak obudowa z dużo wyższej półki. Ma panoramiczne szkło, trzy podświetlane wentylatory i miejsce na potężne podzespoły. Sprawdziłem, czy efektowna konstrukcja idzie tu w parze z wygodnym montażem i dobrym przepływem powietrza."
+    },
+    {
+      "title": "iOS i macOS 26.6 pojawiają się już dziś, torując drogę iOS i macOS 27",
+      "url": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+      "date": "2026-07-27T20:32:45Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Są to prawdopodobnie ostatnie aktualizacje notatek przed większymi jesiennymi aktualizacjami Apple."
+    },
+    {
+      "title": "Za brakujący podkreślnik skazano niewinnego człowieka na 18 miesięcy więzienia",
+      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+      "date": "2026-07-27T20:22:03Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Kiedy pierwszy krok pójdzie źle, następują złe rezultaty."
     },
     {
       "title": "Naprzód",
@@ -1062,6 +1110,14 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Molly Schuetz / Bloomberg: Francuski przewoźnik Orange i inwestor infrastrukturalny Morrison zgadzają się na utworzenie we Francji platformy centrum danych o mocy docelowo 400 MW, wspieranej przez program inwestycyjny &euro;3B &mdash; Kontynuując, zgadzam się z Polityką prywatności i Warunkami korzystania z usług. &hellip; Wyjaśnienia &hellip; sztuczna inteligencja"
+    },
+    {
+      "title": "„Google i Reddit nie są właścicielami Internetu” – mówi web scraper po wygranej w sądzie",
+      "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+      "date": "2026-07-27T20:12:42Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Ekspert twierdzi, że używanie przez Google i Reddit ustawy DMCA do walki ze skrobakiem sieciowym jest dziwne."
     },
     {
       "title": "Uruchom HN: Rise Reforming (YC S26) – przekształcanie gazów odlotowych w cenne chemikalia",
@@ -1112,14 +1168,6 @@
       "summary": "Amazon szykuje \"kosmiczną\" ofensywę, która ma zagrozić dominacji Starlinka nad naszymi głowami."
     },
     {
-      "title": "Verizon jako pierwszy z wielu zachwala umowę na ciemne światłowód o wartości 1 miliarda dolarów dla centrów danych Google",
-      "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-      "date": "2026-07-27T18:48:41Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Telecom spodziewa się przychodów ze sztucznej inteligencji z transakcji na ciemne światłowody i modernizacji centrów danych."
-    },
-    {
       "title": "Samodzielne, wysoce przenośne dystrybucje języka Python",
       "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
       "date": "2026-07-27T18:43:31Z",
@@ -1142,14 +1190,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Rozładowane słuchawki lub myszka bezprzewodowa mogą zakończyć rozgrywkę w najmniej odpowiednim momencie. Glorious znalazł na to rozwiązanie: nowe słuchawki GHS Wireless InfinitePlay nie wyłączają się nawet podczas wymiany akumulatora. Producent dorzuca dwa akumulatory, ale za tego rodzaju luksus trzeba sporo zapłacić."
-    },
-    {
-      "title": "Eksperci ostrzegają, że obecna technologia osłon termicznych statku Starship to „ślepy zaułek”, jeśli chodzi o szybkie ponowne wykorzystanie",
-      "url": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
-      "date": "2026-07-27T18:34:40Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "NASA od dziesięcioleci nie poczyniła znaczących inwestycji w badania nad ochroną termiczną."
     },
     {
       "title": "Artysta, który pokolorował Ghibli",
@@ -1216,22 +1256,6 @@
       "summary": "Konferencja Advancing AI 2026 może okazać się największym wydarzeniem w historii AMD."
     },
     {
-      "title": "ChatGPT zaczyna blokować bezpośrednie prośby o skopiowanie stylu autora",
-      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-      "date": "2026-07-27T16:58:46Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Nowe zachowanie odzwierciedlające „szerokie cechy” pisarza może mieć konsekwencje prawne."
-    },
-    {
-      "title": "Źródła: Nvidia zobowiązała się zainwestować 5 miliardów dolarów w SSI Ilyi Sutskevera; startup zebrał wcześniej fundusze w wysokości około 3 miliardów dolarów, a w zeszłym roku jego wycena wyniosła 32 miliardy dolarów (Shirin Ghaffary/Bloomberg)",
-      "url": "https://www.techmeme.com/260727/p24#a260727p24",
-      "date": "2026-07-27T16:55:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Shirin Ghaffary / Bloomberg: Źródła: Nvidia zobowiązała się zainwestować 5 miliardów dolarów w SSI Ilyi Sutskevera; startup zebrał wcześniej fundusze w wysokości około 3 miliardów dolarów, a w ubiegłym roku jego wycena wyniosła 32 miliardy dolarów &mdash; Nvidia Corp. zobowiązała się zainwestować 5 miliardów dolarów w start-up Ilyi Sutskevera zajmujący się sztuczną inteligencją Safe Superintelligence Inc. &hellip;."
-    },
-    {
       "title": "Janusz Korwin-Mikke zagra w Counter-Strike na żywo. Chce pokazać kucom, że nie mają racji",
       "url": "https://spidersweb.pl/2026/07/janusz-korwin-mikke-counter-strike-na-zywo.html",
       "date": "2026-07-27T16:36:00Z",
@@ -1270,14 +1294,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Owszem, są tacy, co pracę stracili. Okazuje się jednak, że wiele z tych firm, które dokonały zwolnień... ponownie uruchamiają rekrutacje na te same stanowiska."
-    },
-    {
-      "title": "Aktywista oskarżony o przestępstwo po podaniu agentowi granicznemu „kodu przymusu”, który wyczyścił jego telefon",
-      "url": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
-      "date": "2026-07-27T15:58:34Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Rząd twierdzi, że zniszczenie jego danych podczas przesłuchania na lotnisku było nielegalne."
     },
     {
       "title": "Tłumacz Google przygotowuje petardę. Tak wygodnie jeszcze nie było",
@@ -1326,22 +1342,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Szykujcie się na Krwawy Księżyc nad Polską. To finał kosmicznego miesiąca."
-    },
-    {
-      "title": "Recenzja Framework Laptop 13 Pro: Znacznie lepsza bateria, znacznie gorsza cena",
-      "url": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-      "date": "2026-07-27T15:02:45Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Najnowszy modułowy laptop firmy Framework zamienia jeden zestaw problemów na inny."
-    },
-    {
-      "title": "Czego pracownicy służby zdrowia mogą się nauczyć z opowieści antyszczepionkowych",
-      "url": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
-      "date": "2026-07-27T14:01:56Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Czasami fascynujące historie przewyższają dowody medyczne."
     },
     {
       "title": "Zamknięte AI zawiodło. Teraz technologiczni giganci stawiają na otwartość",
@@ -1796,6 +1796,14 @@
   ],
   "finance": [
     {
+      "title": "Paradoks nadmiaru. O strategicznej selekcji wartości w erze sztucznej inteligencji i nieoczywistych ryzyk - Forbes",
+      "url": "https://www.forbes.pl/nieruchomosci/paradoks-nadmiaru-o-strategicznej-selekcji-wartosci-w-erze-sztucznej-inteligencji-i/pdeve4m",
+      "date": "2026-07-27T22:00:00Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Paradoks nadmiaru. O strategicznej selekcji wartości w erze sztucznej inteligencji i nieoczywistych ryzyk Forbes."
+    },
+    {
       "title": "Nowa ulga w PIT: 1 500 zł za psa i 1 000 zł za kota. Ale maksymalnie pięć zwierząt w jednym roku podatkowym - Forsal.pl",
       "url": "https://forsal.pl/finanse/twoje-pieniadze/artykuly/11280446,nowa-ulga-w-pit-1-500-zl-za-psa-i-1-000-zl-za-kota-ale-maksymalnie-piec-zwierzat-w-jednym-roku-podatkowym.html",
       "date": "2026-07-27T21:28:44Z",
@@ -1972,14 +1980,6 @@
       "summary": "Komponenty indeksu WIG.GAMES5 BiznesRadar."
     },
     {
-      "title": "Donald Trump ostrzega ws. wojny. \"Albo szybko, albo wcale\"",
-      "url": "https://www.bankier.pl/wiadomosc/Donald-Trump-ostrzega-ws-wojny-Albo-szybko-albo-wcale-9173946.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-07-27T16:52:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Jeśli rozmowy z Iranem nie przyniosą rezultatu, wrócimy do silnych działań wojskowych - zapowiedział w poniedziałek prezydent USA Donald Trump w rozmowie z serwisem Axios. Dodał, że nie daje dyplomacji zbyt dużo czasu."
-    },
-    {
       "title": "Komunikat ESPI NOVATURAS AB (novaturas): Notification on the acquisition of voting rights - stockwatch.pl",
       "url": "https://www.stockwatch.pl/komunikaty-spolek/novaturas,notification-on-the-acquisition-of-voting-rig-2026-07-27,espi,20260727_183811_0000355070",
       "date": "2026-07-27T16:38:11Z",
@@ -2116,6 +2116,14 @@
       "summary": "BNP Paribas deklaruje, że mimo pełnoskalowej wojny w Ukrainie pozostaje na rynku i przygotowuje się do udziału w przyszłej odbudowie kraju. - BNP Paribas chce być mostem między Ukrainą a Europą w trakcie odbudowy - ogłosił Francois Benaroya, szef BNP Paribas Europe-Mediterranean, cytowany przez \"Ekonomiczną Prawdę\"."
     },
     {
+      "title": "Notowania historyczne OW20H263925 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania-historyczne/OW20H263925",
+      "date": "2026-07-27T10:34:39Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania historyczne OW20H263925 BiznesRadar."
+    },
+    {
       "title": "Zapytano go ceny paliw. Tusk: teraz mamy Ceny Karola Nawrockiego",
       "url": "https://www.money.pl/gospodarka/tusk-uderza-w-nawrockiego-teraz-mamy-ceny-karola-7311965898664320a.html",
       "date": "2026-07-27T10:31:22Z",
@@ -2154,14 +2162,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "„Desperacko skalowałam firmę”. Ola Budzyńska w pierwszym wywiadzie od upadku „imperium Pani Swojego Czasu” Forbes."
-    },
-    {
-      "title": "UOKiK wszczął postępowanie przeciwko Columbus Energy - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149592,uokik-wszczal-postepowanie-przeciwko-columbus-energy",
-      "date": "2026-07-27T09:40:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "UOKiK wszczął postępowanie przeciwko Columbus Energy BiznesRadar."
     },
     {
       "title": "4 spółki z GPW, które obok ASBiS-u, mogą skorzystać na boomie AI i centrów danych",
@@ -2740,7 +2740,6 @@
       "2026-07-21",
       "2026-07-22",
       "2026-07-23",
-      "2026-07-24",
       "2026-07-27"
     ],
     "prices": [
@@ -2794,51 +2793,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25885.78,
+      25885.09,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27059.79,
+      27059.08,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27207.96,
+      27207.24,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27454.94,
+      27454.21,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28095.96,
+      28095.22,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28132.3,
+      28131.56,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28379.01,
+      28378.26,
       27354.94,
       27400.36,
       27412.11,
-      28783.76,
+      28783.0,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28038.28,
+      28037.54,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28219.48,
+      28218.74,
       27686.17,
       27404.78,
       27351.97,
@@ -2847,7 +2846,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27925.42,
+      27924.68,
       27930.04,
       28234.04,
       28218.36,
@@ -2856,18 +2855,17 @@
       28294.39,
       28203.83,
       28555.17,
-      28766.03,
+      28765.27,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28319.09,
+      28318.34,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28145.51,
-      28150.07
+      28149.33
     ],
     "currency": "PLN"
   }
