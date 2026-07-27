@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T00:38:26Z",
+  "last_updated": "2026-07-27T00:38:55Z",
   "poland": [
     {
       "title": "Tygodniowy flesz - terminy, wskaźniki, stawki 27 lipca – 2 sierpnia 2026 r.",
@@ -814,14 +814,6 @@
       "summary": "Aktywizm antyimigrancki ujawnia sprzeczności kraju, który przedstawia się jako bastion praw człowieka."
     },
     {
-      "title": "USA i Iran wstrzymują ataki po dniach eskalacji – AP News",
-      "url": "https://apnews.com/article/iran-war-united-states-ceasefire-ad9fa27d5b1b5fd51e30d923ee738238",
-      "date": "2026-07-26T21:01:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "USA i Iran wstrzymują ataki po dniach eskalacji AP News."
-    },
-    {
       "title": "Awaria wody na lotnisku Gatwick w Wielkiej Brytanii spowodowała nieczynność toalet i zamknięcie restauracji – AP News",
       "url": "https://apnews.com/article/water-shortage-gatwick-airport-toilet-london-britain-d5f0bb054fa63c807da7d405085699b1",
       "date": "2026-07-26T20:58:00Z",
@@ -892,6 +884,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Wirus Bundibugyo Ebola wziął swoją nazwę od tego małego miasteczka, w którym po raz pierwszy odkryto go w 2007 roku. Obecnie gatunek powrócił do wschodniego Konga, wstrzymując życie na ruchliwej granicy."
+    },
+    {
+      "title": "USA i Iran wstrzymują ataki po dniach eskalacji – AP News",
+      "url": "https://apnews.com/article/iran-war-united-states-ceasefire-ad9fa27d5b1b5fd51e30d923ee738238",
+      "date": "2026-07-26T15:12:27Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "USA i Iran wstrzymują ataki po dniach eskalacji AP News."
     },
     {
       "title": "Trump wstrzymuje się z eskalacją poważnej wojny z Iranem, ponieważ doradcy zgłaszają obawy",
@@ -1008,14 +1008,6 @@
   ],
   "technology": [
     {
-      "title": "Pokaż HN: Destyluj i podawaj małe modele o pionierskiej jakości za połowę ceny",
-      "url": "https://github.com/experientiallabs/world-model-optimizer",
-      "date": "2026-07-26T23:35:15Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Cześć, HN, stworzyliśmy optymalizator modelu świata, narzędzie typu open source do ciągłego ulepszania modeli wyspecjalizowanych dla agentów. Dzisiaj uruchamiamy „wmoserv”, narzędzie do kierowania powtarzalnych zadań do mniejszych modeli. Ślady agentów, które już przechwyciłeś, dają szansę na uzyskanie sygnału, w jaki sposób uczynić Twój model tańszym, szybszym i lepszym. Stale ulepszamy - Twój wyspecjalizowany model poprzez destylację z modeli open source - routing modelu do granicy + modele niestandardowe - zagęszczanie tokenów w celu usunięcia szumów i zapisywania tokenów Demo: https://www.youtube.com/watch?v=2_m4Ze6mdkoPass w śladach i kluczu OpenRouter, a wmo uruchamia lokalny punkt końcowy zgodny z OpenAI, aby działać z Twoim modelem po niższych kosztach i porównywalnej jakości."
-    },
-    {
       "title": "Źródła: Nvidia prowadzi rozmowy w sprawie zapewnienia zabezpieczenia o wartości około 250 miliardów dolarów dla OpenAI w ramach projektu centrum danych o mocy 10 GW rozwijanego przez SoftBank w Ohio (Wall Street Journal)",
       "url": "https://www.techmeme.com/260726/p10#a260726p10",
       "date": "2026-07-26T23:35:02Z",
@@ -1037,15 +1029,15 @@
       "date": "2026-07-26T23:03:35Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.bbc.com/sport/football/articles/c3r087181ndo Adres URL komentarzy: https://news.ycombinator.com/item?id=49063266 Punkty: 37 # Komentarze: 7."
+      "summary": "Adres URL artykułu: https://www.bbc.com/sport/football/articles/c3r087181ndo Adres URL komentarzy: https://news.ycombinator.com/item?id=49063266 Punkty: 38 # Komentarze: 8."
     },
     {
-      "title": "Cursor Bridge – uruchamiaj nieograniczony kod Claude w ramach subskrypcji Cursor",
-      "url": "https://github.com/hkc5/cursor-bridge",
-      "date": "2026-07-26T22:48:09Z",
+      "title": "Obywatel USA oskarżony o wyczyszczenie telefonu z GrapheneOS podczas przeszukiwania lotniska",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "date": "2026-07-26T22:21:41Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/hkc5/cursor-bridge Adres URL komentarzy: https://news.ycombinator.com/item?id=49063186 Punkty: 15 # Komentarze: 18."
+      "summary": "Adres URL artykułu: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49063022 Punkty: 39 # Komentarze: 9."
     },
     {
       "title": "W jaki sposób firmy AI kierują się na rynek edukacyjny, w tym tworzą bezpłatne lub niedrogie, dostosowane do potrzeb narzędzia edukacyjne we współpracy ze szkołami i start-upami z branży edtech (Jamie John/Financial Times)",
@@ -1061,7 +1053,7 @@
       "date": "2026-07-26T21:39:17Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://gracefulliberty.com/articles/teaching-kids-forth/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49062700 Punkty: 38 # Komentarze: 8."
+      "summary": "Adres URL artykułu: https://gracefulliberty.com/articles/teaching-kids-forth/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49062700 Punkty: 39 # Komentarze: 11."
     },
     {
       "title": "Indie łagodzą zasady dotyczące inwestycji zagranicznych dla firm zajmujących się handlem elektronicznym, co jest zwycięstwem Amazona, który lobbował, aby kupować towary bezpośrednio od indyjskich sprzedawców i sprzedawać je za granicą (Aditya Kalra/Reuters)",
@@ -1077,7 +1069,7 @@
       "date": "2026-07-26T20:53:26Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.imperialviolet.org/2026/07/26/zstd-lean.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49062291 Punkty: 40 # Komentarze: 5."
+      "summary": "Adres URL artykułu: https://www.imperialviolet.org/2026/07/26/zstd-lean.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49062291 Punkty: 43 # Komentarze: 5."
     },
     {
       "title": "Wielodrożne maszyny Turinga (2021 przed AI)",
@@ -1093,7 +1085,7 @@
       "date": "2026-07-26T20:31:57Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://spectrum.ieee.org/space-debris-atmphere-burn-up Adres URL komentarzy: https://news.ycombinator.com/item?id=49062120 Punkty: 35 # Komentarze: 9."
+      "summary": "Adres URL artykułu: https://spectrum.ieee.org/space-debris-atmphere-burn-up Adres URL komentarzy: https://news.ycombinator.com/item?id=49062120 Punkty: 37 # Komentarze: 11."
     },
     {
       "title": "Pierwszy zwiastun Neuromancer debiutuje na SDCC",
@@ -1310,6 +1302,14 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Zasilacz parzył, a my graliśmy dalej. Mario i Contra na Pegasusie to była czysta magia."
+    },
+    {
+      "title": "Źródła, w tym pracownicy laboratorium AI, mówią, że użytkownicy przekonują chatboty, aby dokładnie odpowiadały na pytania dotyczące planowania ataków z udziałem masowych ofiar i wytwarzania broni biologicznej (Wall Street Journal)",
+      "url": "https://www.techmeme.com/260726/p3#a260726p3",
+      "date": "2026-07-26T06:00:02Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Wall Street Journal: Źródła, w tym pracownicy laboratorium sztucznej inteligencji, twierdzą, że użytkownicy przekonują chatboty, aby dokładnie odpowiadały na monity dotyczące planowania ataków z udziałem masowych ofiar i wytwarzania broni biologicznej &mdash; Firmy zajmujące się sztuczną inteligencją bawią się w kotka i myszkę, próbując zwiększyć możliwości swoich dzieł, jednocześnie blokując odpowiedzi na niebezpieczne zapytania."
     },
     {
       "title": "Zwiastun SDCC daje nam pierwsze dobre spojrzenie na Blade Runner 2099",
@@ -2676,7 +2676,7 @@
       "2026-07-24"
     ],
     "prices": [
-      26263.95,
+      26265.06,
       24706.41,
       24370.84,
       24458.02,
@@ -2728,51 +2728,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25760.07,
+      25761.16,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26928.38,
+      26929.52,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27075.84,
+      27076.98,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27321.61,
+      27322.77,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27959.52,
+      27960.71,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27995.68,
+      27996.87,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28241.2,
+      28242.39,
       27354.94,
       27400.36,
       27412.11,
-      28643.99,
+      28645.2,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27902.12,
+      27903.3,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28082.45,
+      28083.64,
       27686.17,
       27404.78,
       27351.97,
@@ -2781,7 +2781,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27789.81,
+      27790.99,
       27930.04,
       28234.04,
       28218.36,
@@ -2790,17 +2790,17 @@
       28294.39,
       28203.83,
       28555.17,
-      28626.34,
+      28627.55,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28181.57,
+      28182.76,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28008.84
+      28010.02
     ],
     "currency": "PLN"
   }
