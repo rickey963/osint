@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T08:30:29Z",
+  "last_updated": "2026-07-27T08:31:03Z",
   "poland": [
     {
       "title": "„40 posłów niezrzeszonych, to by było dziwne”. W Sejmie powstanie klub Morawieckiego",
@@ -8,6 +8,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Wierzymy cały czas w jakąś refleksję i w to, że będziemy nadal - mówił w rozmowie z Programem III Polskiego Radia europoseł Michał Dworczyk, jeden z polityków PiS, którzy nie podpisali deklaracji o rezygnacji z działania w ramach stowarzyszeń. Dworczyk przyznał, że w Sejmie prawdopodobnie powstanie nowy klub złożony z Mateusza Morawieckiego i członków jego stowarzyszenia Rozwój Plus."
+    },
+    {
+      "title": "Nawet 5 tys. zł kary za wjazd do centrum. Ukaranych jest już więcej niż rok temu",
+      "url": "https://www.rp.pl/prawo-drogowe/art44890231-nawet-5-tys-zl-kary-za-wjazd-do-centrum-ukaranych-jest-juz-wiecej-niz-rok-temu",
+      "date": "2026-07-27T08:28:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "W Sopocie ponownie obowiązują sezonowe ograniczenia dla rowerzystów i użytkowników hulajnóg elektrycznych. Dotyczą one centrum miasta. Za zignorowanie zakazu można dostać mandat, nawet w wysokości 5 tys."
     },
     {
       "title": "Kancelaria Prezydenta odpowiada Tuskowi. Leśkiewicz: Przygotowali bubel prawny",
@@ -104,14 +112,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Makarska jako pierwsze miasto w Chorwacji wprowadziła zakaz nocnej sprzedaży alkoholu. Obowiązuje on sklepy, piekarnie, kioski i inne placówki handlowe, nie dotyczy natomiast lokali gastronomicznych, które mogą działać na dotychczasowych zasadach."
-    },
-    {
-      "title": "Ukraina i Europa tworzą odpowiednik zestawu Patriot. Prototyp za kilka miesięcy",
-      "url": "https://radar.rp.pl/innowacje-w-armiach/art44889931-ukraina-i-europa-tworza-odpowiednik-zestawu-patriot-prototyp-za-kilka-miesiecy",
-      "date": "2026-07-27T07:43:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Ukraina chce, aby prototyp europejskiego zestawu do zwalczania pocisków balistycznych o nazwie Freja był gotów w pierwszej połowie 2027 roku – podaje Reuters, powołując się na informacje od wysokiego rangą przedstawiciela ukraińskich władz."
     },
     {
       "title": "Ostrzał Iranu wstrzymany. Ceny ropy ostro w dół",
@@ -766,14 +766,6 @@
   ],
   "world_politics": [
     {
-      "title": "Co warto wiedzieć o śmiercionośnych pożarach szalejących w Europie Zachodniej",
-      "url": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
-      "date": "2026-07-27T08:29:28Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Setki tysięcy ludzi we Francji i Hiszpanii zostało zmuszonych do ewakuacji w związku z ogromnymi pożarami wywołanymi rosnącymi temperaturami i suszą."
-    },
-    {
       "title": "Policja aresztuje 1 osobę i poszukuje kolejnej po strzelaninie na festiwalu w Seattle, w której zginęły 3 osoby – AP News",
       "url": "https://apnews.com/article/seattle-shooting-space-needle-92628a1f1597e32ba44d6a2de3272646",
       "date": "2026-07-27T07:41:00Z",
@@ -932,6 +924,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Wśród obaw jest to, że rozszerzone działania wojenne mogą niebezpiecznie wyczerpać zmniejszone zapasy amunicji do obrony powietrznej na Bliskim Wschodzie."
+    },
+    {
+      "title": "Co warto wiedzieć o śmiercionośnych pożarach szalejących w Europie Zachodniej",
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
+      "date": "2026-07-26T13:42:07Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Setki tysięcy ludzi we Francji i Hiszpanii zostało zmuszonych do ewakuacji w związku z ogromnymi pożarami wywołanymi rosnącymi temperaturami i suszą."
     },
     {
       "title": "Wojna amerykańsko-irańska zostaje zawieszona drugi dzień z rzędu, a obie strony wstrzymują się od strajków",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "FOSS rozbił jeden monopol Microsoftu. Po 20 latach niepowodzeń przyszedł czas na kolejny",
+      "url": "https://www.theregister.com/columnists/2026/07/27/foss-smashed-one-microsoft-monopoly-after-20-years-of-failure-its-time-to-smash-another/5278040",
+      "date": "2026-07-27T08:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Słowo w górę."
+    },
+    {
       "title": "Google idzie samotnie, wprowadzając nową taksonomię ekipy cyberprzestępczej",
       "url": "https://www.theregister.com/security/2026/07/27/google-goes-it-alone-with-a-new-cybercrime-crew-taxonomy/5278749",
       "date": "2026-07-27T07:31:00Z",
@@ -1640,14 +1648,6 @@
       "source": "The Register",
       "confirmed_by": 1,
       "summary": "Czy zgadniesz, kto nie podpisał się pod listem grupowym?"
-    },
-    {
-      "title": "Dev przypadkowo umieścił plik binarny Copilot w repozytorium portów FreeBSD",
-      "url": "https://www.theregister.com/os-platforms/2026/07/24/dev-accidentally-commits-copilot-binary-to-freebsd-ports-repo/5278458",
-      "date": "2026-07-24T17:03:35Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Git ma trafną nazwę: nie jest to łatwe – ale istnieją alternatywy."
     },
     {
       "title": "Zestaw BlueNoroff Zoom Phishing Kit profiluje portfele kryptowalutowe przed dostarczeniem złośliwego oprogramowania",
@@ -2140,12 +2140,12 @@
       "summary": "Akcjonariat: akcjonariusze PLAYWAY SA (PLW) BiznesRadar."
     },
     {
-      "title": "Akcjonariat: akcjonariusze DEVELIA SA (DVL) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/akcjonariat/DVL",
-      "date": "2026-07-24T15:02:49Z",
+      "title": "Notowania ANR (ANSWEAR) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/ANR",
+      "date": "2026-07-24T15:02:16Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Akcjonariat: akcjonariusze DEVELIA SA (DVL) BiznesRadar."
+      "summary": "Notowania ANR (ANSWEAR) BiznesRadar."
     },
     {
       "title": "Notowania CPS (CYFRPLSAT) - BiznesRadar",
@@ -2687,7 +2687,7 @@
       "2026-07-24"
     ],
     "prices": [
-      26315.93,
+      26313.22,
       24706.41,
       24370.84,
       24458.02,
@@ -2739,51 +2739,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25811.06,
+      25808.4,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26981.69,
+      26978.91,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27129.43,
+      27126.63,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27375.69,
+      27372.87,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28014.87,
+      28011.98,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28051.1,
+      28048.21,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28297.1,
+      28294.18,
       27354.94,
       27400.36,
       27412.11,
-      28700.68,
+      28697.73,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27957.35,
+      27954.47,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28138.03,
+      28135.14,
       27686.17,
       27404.78,
       27351.97,
@@ -2792,7 +2792,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27844.82,
+      27841.95,
       27930.04,
       28234.04,
       28218.36,
@@ -2801,17 +2801,17 @@
       28294.39,
       28203.83,
       28555.17,
-      28683.0,
+      28680.05,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28237.35,
+      28234.44,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28064.28
+      28061.39
     ],
     "currency": "PLN"
   }
