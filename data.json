@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-27T03:04:52Z",
+  "last_updated": "2026-07-27T03:05:56Z",
   "poland": [
+    {
+      "title": "Diesel znów podrożeje. Na stacjach paliw robi się gorąco",
+      "url": "https://energia.rp.pl/ceny-energii/art44883711-diesel-znow-podrozeje-na-stacjach-paliw-robi-sie-goraco",
+      "date": "2026-07-27T03:05:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Kierowcy muszą przygotować się na kolejne podwyżki cen paliw. Napięcia na Bliskim Wschodzie ponownie wywindowały notowania ropy, a analitycy ostrzegają, że olej napędowy może kosztować ponad 8 zł za litr."
+    },
     {
       "title": "Pożary pustoszą Francję. W departamencie Żyrondy „wyjątkowo niebezpieczna” sytuacja",
       "url": "https://www.rp.pl/kleski-zywiolowe/art44889341-pozary-pustosza-francje-w-departamencie-zyrondy-wyjatkowo-niebezpieczna-sytuacja",
@@ -64,14 +72,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Przedsiębiorca może wziąć w leasing elektryczne auto i rozliczać je w podatkowych kosztach. Chociaż ma już w działalności samochód spalinowy. I prowadzi firmę sam."
-    },
-    {
-      "title": "67 proc. Amerykanów chciałoby natychmiastowego zakończenia wojny z Iranem",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art44889331-67-proc-amerykanow-chcialoby-natychmiastowego-zakonczenia-wojny-z-iranem",
-      "date": "2026-07-27T02:36:59Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Większość Amerykanów jest jest pesymistycznie nastawiona do przebiegu wojny z Iranem – wynika z opublikowanego w niedzielę sondażu CBS News/YouGov. Tylko co czwarty Amerykanin uważa, że przebieg wojny jest zgodny z oczekiwaniami Donalda Trumpa lub że przebiega ona lepiej od jego oczekiwań."
     },
     {
       "title": "Wyniki losowania Lotto w niedzielę 26 lipca. Sprawdź, czy wygrałeś",
@@ -928,7 +928,7 @@
     {
       "title": "Naloty zostały wstrzymane, a rozmowy toczą się dalej. Ale czy USA i Iran mogą zejść z rampy? - Wiadomości AP",
       "url": "https://apnews.com/article/iran-war-trump-diplomacy-netanyahu-d491158a4c9a1d3429a87a6ed58f2f72",
-      "date": "2026-07-26T00:37:09Z",
+      "date": "2026-07-26T05:56:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Naloty zostały wstrzymane, a rozmowy toczą się dalej. Ale czy USA i Iran mogą zejść z rampy? Wiadomości AP."
@@ -2496,7 +2496,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 44,
+      "score": 50,
       "reasons": [
         {
           "title": "USA wstrzymują ataki Iranu na drugą noc po tym, jak Trump zalecił zaprzestanie bombardowań",
@@ -2517,7 +2517,7 @@
     },
     {
       "name": "Jemen",
-      "score": 19,
+      "score": 21,
       "reasons": [
         {
           "title": "Iran użył Hutich, by zastraszyć świat widmem nowego kryzysu naftowego",
@@ -2533,7 +2533,7 @@
     },
     {
       "name": "Sudan",
-      "score": 11,
+      "score": 12,
       "reasons": [
         {
           "title": "Radość w Grecji, gdy Olimp trafia na listę światowego dziedzictwa UNESCO",
@@ -2685,7 +2685,7 @@
       "2026-07-23"
     ],
     "prices": [
-      26279.86,
+      26281.6,
       24706.41,
       24370.84,
       24458.02,
@@ -2737,51 +2737,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25775.68,
+      25777.39,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26944.7,
+      26946.48,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27092.24,
+      27094.03,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27338.17,
+      27339.98,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27976.47,
+      27978.31,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28012.65,
+      28014.5,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28258.31,
+      28260.18,
       27354.94,
       27400.36,
       27412.11,
-      28661.34,
+      28663.24,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27919.03,
+      27920.88,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28099.47,
+      28101.32,
       27686.17,
       27404.78,
       27351.97,
@@ -2790,7 +2790,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27806.65,
+      27808.49,
       27930.04,
       28234.04,
       28218.36,
@@ -2799,12 +2799,12 @@
       28294.39,
       28203.83,
       28555.17,
-      28643.69,
+      28645.58,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28198.65,
+      28200.51,
       28242.11,
       28493.29,
       28421.66,
