@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T12:07:20Z",
+  "last_updated": "2026-07-28T12:08:28Z",
   "poland": [
     {
       "title": "Spółka stworzyła formułę, która ma przewidywać działania Trumpa ws. Iranu",
@@ -766,9 +766,17 @@
   ],
   "world_politics": [
     {
+      "title": "Niemiecka AfD sprzeciwia się flagom dumy, ale może zyskać poparcie po tym, jak LGBTQ Atak",
+      "url": "https://www.nytimes.com/2026/07/28/world/europe/berlin-pride-attack-afd-politics.html",
+      "date": "2026-07-28T12:06:45Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Analitycy twierdzą, że niedawny atak na obchody Dumy prawdopodobnie skupi jesienne wybory na kwestiach faworyzujących skrajnie prawicową partię Alternatywa dla Niemiec."
+    },
+    {
       "title": "Aktualności na żywo: wielu ludzi obawia się, że centrum handlowe zawaliło się po trzęsieniu ziemi w Japonii – twierdzą urzędnicy",
       "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
-      "date": "2026-07-28T12:01:54Z",
+      "date": "2026-07-28T12:06:44Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Służby ratownicze spieszyły się, aby znaleźć ludzi i ugasić pożary po trzęsieniu ziemi o sile 6,8 w skali Richtera, które nawiedziło południowo-zachodnią prefekturę Kumamoto."
@@ -884,14 +892,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Zełenski odwiedzi Trumpa w Białym Domu przed pogrzebem senatora Grahama AP News."
-    },
-    {
-      "title": "Kurorty w Azji Południowo-Wschodniej cierpią, gdy wojna w Iranie odstrasza europejskich turystów",
-      "url": "https://www.nytimes.com/2026/07/28/world/asia/iran-war-southeast-asia-tourism.html",
-      "date": "2026-07-28T08:09:55Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Rosnące ceny biletów lotniczych i zakłócenia w bliskowschodnich węzłach turystycznych odpychają wielu podróżnych od miejsc w Kambodży, Tajlandii i Indonezji."
     },
     {
       "title": "Tornado w Wisconsin powoduje rozległe zniszczenia i odcina prąd w tysiącach domów – AP News",
@@ -2036,14 +2036,6 @@
       "summary": "Synektik z rekordowymi przychodami po 9 miesiącach 2025/2026 BiznesRadar."
     },
     {
-      "title": "PEPCO [PCO] - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-514060_PEPCO.aspx",
-      "date": "2026-07-28T08:33:00Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "PEPCO [PCO] stockwatch.pl."
-    },
-    {
       "title": "Monnari Trade zwiększa sprzedaż w I półroczu 2026 r. - BiznesRadar",
       "url": "https://www.biznesradar.pl/a/149625,monnari-trade-zwieksza-sprzedaz-w-i-polroczu-2026-r",
       "date": "2026-07-28T08:23:00Z",
@@ -2202,6 +2194,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "AI to zmora dla absolwentów. Najgorzej mają... inżynierowie [SZOKUJĄCE DANE] Forbes."
+    },
+    {
+      "title": "Strategia GEM. 15% zysku rocznie, ale czasem po 20 latach za indeksem",
+      "url": "https://inwestomat.eu/strategia-gem/",
+      "date": "2026-07-27T05:00:00Z",
+      "source": "Inwestomat (Albert Rokicki)",
+      "confirmed_by": 1,
+      "summary": "Global Equities Momentum pod lupą. O strategii GEM, czyli Global Equities Momentum miałem napisać od dawna, więc jest mi bardzo miło przedstawić merytoryczny, ale konkretny i skoncentrowany wpis o tym zyskującym w ostatnim roku na popularności sposobie inwestowania. W Polsce GEM jako pierwszy opisał w czerwcu 2019 roku autor bloga systemtrader i portalu atlasetf Jacek Lempart [&#8230;]."
     }
   ],
   "critical_alerts": [
@@ -2527,22 +2527,6 @@
       ]
     },
     {
-      "name": "Iran",
-      "score": 67,
-      "reasons": [
-        {
-          "title": "Trump ostrzega przed powrotem do „zdecydowanych działań wojskowych”, jeśli irańska dyplomacja zakończy się niepowodzeniem",
-          "url": "https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Kurorty w Azji Południowo-Wschodniej cierpią, gdy wojna w Iranie odstrasza europejskich turystów",
-          "url": "https://www.nytimes.com/2026/07/28/world/asia/iran-war-southeast-asia-tourism.html",
-          "source": "The New York Times"
-        }
-      ]
-    },
-    {
       "name": "Tajwan",
       "score": 44,
       "reasons": [
@@ -2582,6 +2566,17 @@
         {
           "title": "Pies uratował Housseina Hamze przed bombą. Kiedy wojna wróciła, pozostał, aby opiekować się zwierzętami w Libanie",
           "url": "https://www.theguardian.com/world/2026/jul/28/man-who-stayed-to-save-lebanon-wartime-animals-mashala-shelter",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Iran",
+      "score": 33,
+      "reasons": [
+        {
+          "title": "Trump ostrzega przed powrotem do „zdecydowanych działań wojskowych”, jeśli irańska dyplomacja zakończy się niepowodzeniem",
+          "url": "https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails",
           "source": "The Guardian"
         }
       ]
@@ -2778,51 +2773,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25947.81,
+      25945.76,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27124.64,
+      27122.5,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27273.16,
+      27271.01,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27520.73,
+      27518.56,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28163.29,
+      28161.07,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28199.71,
+      28197.49,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28447.02,
+      28444.77,
       27354.94,
       27400.36,
       27412.11,
-      28852.74,
+      28850.47,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28105.47,
+      28103.25,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28287.11,
+      28284.88,
       27686.17,
       27404.78,
       27351.97,
@@ -2831,7 +2826,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27992.34,
+      27990.13,
       27930.04,
       28234.04,
       28218.36,
@@ -2840,17 +2835,17 @@
       28294.39,
       28203.83,
       28555.17,
-      28834.97,
+      28832.69,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28386.95,
+      28384.71,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28217.53
+      28215.3
     ],
     "currency": "PLN"
   }
