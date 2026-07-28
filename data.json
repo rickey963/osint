@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T13:12:16Z",
+  "last_updated": "2026-07-28T13:13:19Z",
   "poland": [
     {
       "title": "Po 30 latach wytypowano podejrzanego o zabójstwo. Tożsamość ofiary wciąż nieznana",
@@ -26,7 +26,7 @@
       "summary": "Prawo i Sprawiedliwość dostaje z budżetu subwencję okrojoną o 11 mln zł. Odejście ponad 40 polityków pogorszy sytuację finansową partii."
     },
     {
-      "title": "Silne trzęsienie ziemi w Japonii. Wybuch w centrum handlowym",
+      "title": "Silne trzęsienie ziemi w Japonii. Wybuch w centrum handlowym. Część osób uwięziona pod gruzami",
       "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32936684,silne-trzesienie-ziemi-w-japonii-wybuch-w-centrum-handlowym.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-07-28T12:57:00Z",
       "source": "Gazeta Wyborcza",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Kuba, której brakuje paliwa, polega na pomysłowości, aby przeciwstawić się blokadzie Trumpa",
+      "url": "https://www.nytimes.com/2026/07/27/world/americas/trump-oil-gas-cuba-havana.html",
+      "date": "2026-07-28T13:11:40Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Prezydent Trump próbował udusić Kubę, blokując import ropy. Jednak sześć miesięcy później wyspa znajduje sposoby, aby przetrwać."
+    },
+    {
       "title": "Aktualności na żywo: wielu ludzi obawia się, że centrum handlowe zawaliło się po trzęsieniu ziemi w Japonii – twierdzą urzędnicy",
       "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
       "date": "2026-07-28T13:07:31Z",
@@ -876,14 +884,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Analitycy twierdzą, że w obliczu wytchnienia w walkach przywódcy Iranu zakładają, że zniosą większy ból niż prezydent Trump i będą mieli wpływ na Cieśninę Ormuz."
-    },
-    {
-      "title": "Wiercenie ropy w tradycyjny sposób w „Małym Teksasie” w Indonezji",
-      "url": "https://www.nytimes.com/2026/07/28/world/asia/indonesia-crude-oil-wells-drilling.html",
-      "date": "2026-07-28T09:34:15Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "W niektórych częściach kraju, w którym znajdują się dziesiątki tysięcy odwiertów naftowych prowadzonych przez społeczność, do wydobywania ropy z ziemi wykorzystuje się małe pompy i silniki ciężarówek."
     },
     {
       "title": "Zełenski odwiedzi Trumpa w Białym Domu przed pogrzebem senatora Grahama – AP News",
@@ -1007,6 +1007,14 @@
     }
   ],
   "technology": [
+    {
+      "title": "Jak wybrać lodówkę Samsung? Modele wolnostojące, side by side, multidoor i do zabudowy",
+      "url": "https://www.benchmark.pl/jak-wybrac-lodowke-samsung-modele-wolnostojace-side-by-side-multidoor-i-do-zabudowy-7305992335608224a",
+      "date": "2026-07-28T13:11:30Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Wybór lodówki coraz rzadziej sprowadza się tylko do rozmiaru i koloru frontu. Znaczenie mają pojemność, sposób montażu, układ drzwi, funkcje chłodzenia, łączność Wi-Fi, oszczędzanie energii i rozwiązania, które pomagają dłużej przechowywać świeże produkty. Wśród lodówek Samsung można znaleźć modele wolnostojące, side by side, multidoor oraz do zabudowy – od klasycznej lodówki z dolnym zamrażalnikiem po urządzenie z ekranem Family Hub, AI Vision i obsługą aplikacji SmartThings."
+    },
     {
       "title": "Jaki piekarnik Samsung wybrać? AI Pro Cooking, Dual Cook, Steam Assist i Air Fry",
       "url": "https://www.benchmark.pl/jaki-piekarnik-samsung-wybrac-ai-pro-cooking-dual-cook-steam-assist-i-air-fry-7306006572636576a",
@@ -1398,14 +1406,6 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Zmywanie to kolejna czynność, która może być o wiele łatwiejsza dzięki nowoczesnym urządzeniom. Ze zmywarki z technologią Zeolith możesz wyjąć bardzo dobrze wysuszone naczynia, również wykonane z tworzyw sztucznych. Bez konieczności wycierania, polerowania i wykonywania dodatkowych czynności."
-    },
-    {
-      "title": "Ustawa o AI podpisana. Nowa komisja ma zacząć działać jesienią",
-      "url": "https://www.benchmark.pl/ustawa-o-ai-podpisana-nowa-komisja-ma-zaczac-dzialac-jesienia-7311940082575712a",
-      "date": "2026-07-27T09:07:52Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Prezydent złożył podpis pod ustawą o systemach sztucznej inteligencji, która powołuje Komisję Rozwoju i Bezpieczeństwa Sztucznej Inteligencji. Zgodnie z zapowiedziami nowy organ ma rozpocząć pracę w listopadzie i odpowiadać m.in. za nadzór nad stosowaniem unijnego AI Act w Polsce."
     }
   ],
   "cybersecurity": [
@@ -2206,7 +2206,7 @@
   ],
   "critical_alerts": [
     {
-      "title": "Silne trzęsienie ziemi w Japonii. Wybuch w centrum handlowym",
+      "title": "Silne trzęsienie ziemi w Japonii. Wybuch w centrum handlowym. Część osób uwięziona pod gruzami",
       "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32936684,silne-trzesienie-ziemi-w-japonii-wybuch-w-centrum-handlowym.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-07-28T12:57:00Z",
       "source": "Gazeta Wyborcza",
@@ -2763,51 +2763,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25924.5,
+      25926.0,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27100.26,
+      27101.83,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27248.66,
+      27250.23,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27496.0,
+      27497.59,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28137.98,
+      28139.61,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28174.38,
+      28176.01,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28421.46,
+      28423.1,
       27354.94,
       27400.36,
       27412.11,
-      28826.82,
+      28828.48,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28080.22,
+      28081.84,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28261.69,
+      28263.33,
       27686.17,
       27404.78,
       27351.97,
@@ -2816,7 +2816,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27967.19,
+      27968.81,
       27930.04,
       28234.04,
       28218.36,
@@ -2825,18 +2825,18 @@
       28294.39,
       28203.83,
       28555.17,
-      28809.06,
+      28810.72,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28361.45,
+      28363.09,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28187.61,
-      28192.18
+      28189.24,
+      28193.81
     ],
     "currency": "PLN"
   }
