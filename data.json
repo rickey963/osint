@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T11:36:17Z",
+  "last_updated": "2026-07-28T11:37:08Z",
   "poland": [
     {
       "title": "Mówią o „hakach” i zapowiadają „rozliczenia”. Pracownik uczelni mówi, że jest zastraszany",
@@ -354,14 +354,6 @@
       "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
     },
     {
-      "title": "MSZ reaguje na słowa Putina ws. Polski i Ukrainy. \"Wzywamy władze Rosji\" - Polskie Radio 24",
-      "url": "https://polskieradio24.pl/polska/msz-reaguje-na-slowa-putina-ws-polski-i-ukrainy-wzywamy-wladze-rosji",
-      "date": "2026-07-28T07:56:42Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "MSZ reaguje na słowa Putina ws. Polski i Ukrainy. \"Wzywamy władze Rosji\" Polskie Radio 24."
-    },
-    {
       "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy idą w górę - PAP Biznes",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-ida-w-gore-16",
       "date": "2026-07-28T07:41:00Z",
@@ -400,6 +392,14 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Potężna nawałnica zrywała dachy w Małopolsce. \"Wystarczyło parę minut\" Polskie Radio 24."
+    },
+    {
+      "title": "Alert RCB. Tu mogą wystąpić podtopienia i awarie prądu - Polskie Radio 24",
+      "url": "https://polskieradio24.pl/pogoda/alert-rcb-przed-gwaltownymi-burzami-mozliwe-podtopienia-i-awarie-pradu",
+      "date": "2026-07-27T07:58:47Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Alert RCB. Tu mogą wystąpić podtopienia i awarie prądu Polskie Radio 24."
     }
   ],
   "world_security": [
@@ -1809,7 +1809,7 @@
       "date": "2026-07-28T11:22:00Z",
       "source": "Bankier.pl",
       "confirmed_by": 1,
-      "summary": "Rozporządzenie ministra cyfryzacji, w zakresie, w jakim wprowadza wzory dokumentów do sporządzania i wydawania odpisów aktów małżeństwa i zaświadczeń dot. związków zawartych za granicą, niestanowiących związku kobiety i mężczyzny, jest niezgodny z konstytucją - wynika z wtorkowego orzeczenia TK."
+      "summary": "Trybunał Konstytucyjny orzekł we wtorek o zakresowej niekonstytucyjności rozporządzenia, pozwalającego m.in. na transkrypcję aktów małżeństw jednopłciowych. Rozporządzenie to zaskarżyli posłowie reprezentowani przez Marcina Warchoła (PiS)."
     },
     {
       "title": "Dlaczego księgowość w branży real estate wymaga specjalistycznego podejścia?",
@@ -1996,14 +1996,6 @@
       "summary": "Mercedes zwiększa moce w węgierskim Kecskemét i jednocześnie tnie zdolności produkcyjne w Niemczech. Kluczowe są koszty pracy: 15,60 euro za godzinę na Węgrzech wobec 49,50 euro w niemieckim przemyśle - donosi \"Berliner Zeitung\"."
     },
     {
-      "title": "All in! Games rozpoczyna przegląd opcji strategicznych - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149631,all-in-games-rozpoczyna-przeglad-opcji-strategicznych",
-      "date": "2026-07-28T08:51:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "All in! Games rozpoczyna przegląd opcji strategicznych BiznesRadar."
-    },
-    {
       "title": "Synektik z 292,3 mln zł przychodów w III kw. 2025/2026 – wzrost o 89 proc. r/r - stockwatch.pl",
       "url": "https://www.stockwatch.pl/wiadomosci/synektik-wyniki-iii-kwartal-2025-2026,akcje,377093",
       "date": "2026-07-28T08:50:18Z",
@@ -2052,14 +2044,6 @@
       "summary": "Formacje analizy technicznej ACH0729 ARCHE BiznesRadar."
     },
     {
-      "title": "Sygnały analizy technicznej ACH0729 ARCHE - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/ACH0729",
-      "date": "2026-07-28T07:47:03Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Sygnały analizy technicznej ACH0729 ARCHE BiznesRadar."
-    },
-    {
       "title": "Cały świat patrzy na Trumpa. Oto co się dzieje z cenami ropy",
       "url": "https://www.money.pl/gospodarka/ropa-tanieje-trump-prosili-mnie-nie-atakuj-7312267960142208a.html",
       "date": "2026-07-28T07:36:03Z",
@@ -2082,6 +2066,22 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Jak firmy prowadzą trudne zwolnienia pracowników. Jeden błąd może drogo kosztować Forbes."
+    },
+    {
+      "title": "Jak wybrać idealną kasę fiskalną dla swojej małej firmy? - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149616,jak-wybrac-idealna-kase-fiskalna-dla-swojej-malej-firmy",
+      "date": "2026-07-28T07:07:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Jak wybrać idealną kasę fiskalną dla swojej małej firmy? BiznesRadar."
+    },
+    {
+      "title": "Przelew zagraniczny – od czego zależy jego koszt? - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149613,przelew-zagraniczny-od-czego-zalezy-jego-koszt",
+      "date": "2026-07-28T07:00:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Przelew zagraniczny – od czego zależy jego koszt? BiznesRadar."
     },
     {
       "title": "„Desperacko skalowałam firmę”. Ola Budzyńska w pierwszym wywiadzie od upadku „imperium Pani Swojego Czasu” - Forbes",
@@ -2808,51 +2808,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25953.26,
+      25953.61,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27130.34,
+      27130.69,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27278.89,
+      27279.25,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27526.51,
+      27526.87,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28169.21,
+      28169.58,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28205.64,
+      28206.01,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28453.0,
+      28453.37,
       27354.94,
       27400.36,
       27412.11,
-      28858.8,
+      28859.18,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28111.38,
+      28111.75,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28293.05,
+      28293.43,
       27686.17,
       27404.78,
       27351.97,
@@ -2861,7 +2861,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27998.22,
+      27998.59,
       27930.04,
       28234.04,
       28218.36,
@@ -2870,18 +2870,18 @@
       28294.39,
       28203.83,
       28555.17,
-      28841.02,
+      28841.4,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28392.92,
+      28393.29,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28218.89,
-      28223.46
+      28219.26,
+      28223.83
     ],
     "currency": "PLN"
   }
