@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-28T11:18:36Z",
+  "last_updated": "2026-07-28T11:23:33Z",
   "poland": [
+    {
+      "title": "Spory o WIBOR. Wyrok TSUE wzmocnił dotychczasowe orzecznictwo",
+      "url": "https://www.rp.pl/konsumenci/art44898311-spory-o-wibor-wyrok-tsue-wzmocnil-dotychczasowe-orzecznictwo",
+      "date": "2026-07-28T11:16:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Wyrok Trybunału Sprawiedliwości Unii Europejskiej z 12 lutego 2026 r. nie tylko potwierdził, ale i wzmocnił linię orzeczniczą korzystną dla wskaźnika WIBOR. Potwierdzają to najnowsze prawomocne rozstrzygnięcia polskich sądów."
+    },
     {
       "title": "Wielka agencja ratingowa podała prognozy dla Polski. Tak wyglądamy na tle regionu",
       "url": "https://businessinsider.com.pl/gospodarka/wielka-agencja-ratingowa-podala-prognozy-dla-polski-tak-wygladamy-na-tle-regionu/hl5bm3x",
@@ -304,14 +312,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Nastolatka zmarła z powodu wyziębienia. Wiadomo, kiedy ruszy proces policjantów Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "Kraj NATO zamyka przestrzeń powietrzną przy granicy. Rośnie obawa przed dronami",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32935507,kraj-nato-zamyka-przestrzen-powietrzna-przy-granicy-rosnie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-07-28T09:01:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Siły zbrojne Finlandii ponownie zamknęły we wtorek (28 lipca) przestrzeń powietrzną nad południowo-wschodnią częścią kraju oraz przylegające do niej wody."
     },
     {
       "title": "Mateusz Morawiecki w \"Gościu Wydarzeń\". Oglądaj od 19:15",
@@ -766,20 +766,28 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualizacje na żywo: Trzęsienie ziemi o sile 6,8 w skali Richtera uderza w Japonię",
+      "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
+      "date": "2026-07-28T11:16:44Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Według japońskiego nadawcy państwowego po trzęsieniu ziemi w południowo-zachodniej prefekturze Kumamoto zgłoszono pożary i obrażenia. Zniesiono ostrzeżenie przed tsunami."
+    },
+    {
+      "title": "Atak Ukrainy na irański statek może przybliżyć dwie wojny",
+      "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
+      "date": "2026-07-28T11:13:32Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Atak na Morzu Kaspijskim był niezwykle bezpośrednim starciem dwóch krajów, które od lat stoją po przeciwnych stronach."
+    },
+    {
       "title": "Pożar szalejący w pobliżu Bordeaux przynosi kolejne złe wieści dla winnic",
       "url": "https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-fires-smoke.html",
       "date": "2026-07-28T11:12:36Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "W pobliżu winnic Bordeaux szaleje jeden z największych pożarów we współczesnej historii Francji. To właśnie najnowszy problem borykającego się z problemem francuskiego przemysłu winiarskiego."
-    },
-    {
-      "title": "Aktualizacje na żywo: Trzęsienie ziemi o sile 6,8 w skali Richtera uderza w Japonię",
-      "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
-      "date": "2026-07-28T11:04:14Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Według japońskiego nadawcy państwowego po trzęsieniu ziemi w południowo-zachodniej prefekturze Kumamoto zgłoszono pożary i obrażenia. Zniesiono ostrzeżenie przed tsunami."
     },
     {
       "title": "Sześć mil od płomieni we Francji: chemiczne paliwo rakietowe i używane rakiety",
@@ -884,14 +892,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Rosnące ceny biletów lotniczych i zakłócenia w bliskowschodnich węzłach turystycznych odpychają wielu podróżnych od miejsc w Kambodży, Tajlandii i Indonezji."
-    },
-    {
-      "title": "Moment „karalucha” w Indiach",
-      "url": "https://www.nytimes.com/2026/07/27/world/india-cockroach-protests-spain-france-fires.html",
-      "date": "2026-07-28T08:08:01Z",
-      "source": "The New York Times",
-      "confirmed_by": 2,
-      "summary": "Narendra Modi ugiął się pod żądaniami młodych ludzi w Indiach, co było ukłonem w stronę ich prawdziwej władzy."
     },
     {
       "title": "Tornado w Wisconsin powoduje rozległe zniszczenia i odcina prąd w tysiącach domów – AP News",
@@ -1141,7 +1141,7 @@
       "date": "2026-07-28T09:59:13Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://spawn-queue.acm.org/doi/10.1145/3819083 Adres URL komentarzy: https://news.ycombinator.com/item?id=49081644 Punkty: 11 # Komentarze: 2."
+      "summary": "Adres URL artykułu: https://spawn-queue.acm.org/doi/10.1145/3819083 Adres URL komentarzy: https://news.ycombinator.com/item?id=49081644 Punkty: 15 # Komentarze: 5."
     },
     {
       "title": "Meta i BlackRock tworzą strategiczne przedsięwzięcie mające na celu budowę kampusu centrum danych o mocy 1 GW w El Paso, którego koszt ma wynieść około 14 miliardów dolarów i zapewnić wydajność online od 2028 r. (Meta Newsroom)",
@@ -1150,14 +1150,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Meta Newsroom: Meta i BlackRock tworzą strategiczne przedsięwzięcie mające na celu budowę kampusu centrum danych o mocy 1 GW w El Paso, którego koszt ma wynieść ~14 miliardów dolarów i zapewnić przepustowość online od 2028 r. &mdash; Meta i BlackRock ogłaszają przedsięwzięcie mające na celu finansowanie rozwoju i obsługi kampusu centrum danych w El Paso w Teksasie."
-    },
-    {
-      "title": "Czym w ogóle są mikrousługi?",
-      "url": "https://var0.xyz/posts/what-even-are-microservices.html",
-      "date": "2026-07-28T09:52:31Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://var0.xyz/posts/what-even-are-microservices.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49081594 Punkty: 27 # Komentarze: 31."
     },
     {
       "title": "Wezwanie do zapłaty za wycieraczką? UOKiK prześwietla parkingi pod sklepami",
@@ -1181,7 +1173,7 @@
       "date": "2026-07-28T09:45:43Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://support.apple.com/en-us/128067 Adres URL komentarzy: https://news.ycombinator.com/item?id=49081555 Punkty: 42 # Komentarze: 20."
+      "summary": "Adres URL artykułu: https://support.apple.com/en-us/128067 Adres URL komentarzy: https://news.ycombinator.com/item?id=49081555 Punkty: 52 # Komentarze: 23."
     },
     {
       "title": "REDMAGIC Astra 2 – recenzja. Kolejny, jeszcze mocniejszy tablet dla graczy",
@@ -1248,6 +1240,14 @@
       "summary": "Największe filmy sci-fi trafiają na małe ekrany. Teraz kolej na Blade Runner 2099!"
     },
     {
+      "title": "Powiedz HN: Nasza płatna subskrypcja Claude AI jest niedostępna przez ponad 1 tydzień i brak wsparcia",
+      "url": "https://news.ycombinator.com/item?id=49080775",
+      "date": "2026-07-28T08:00:19Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Szanowni Państwo, nasz zespół korzysta z planu Claude AI Team już od ponad roku: - jesteśmy normalną firmą, prowadzimy normalną działalność, nic krytycznego - wszystkie nasze rachunki są opłacone i widzimy je jako opłacone - niemniej jednak usługa nie jest dla nas dostępna dłużej niż przez tydzień. Pytanie: - czy jest jakiś inny pomysł na skontaktowanie się z nimi niż ich „Fin AI Chatbot” pod adresem support@anthropic.com? - czy ktoś inny miał takie same doświadczenia? Jeśli tak, co pomogło rozwiązać ten problem? To naprawdę frustrujące :-((zwłaszcza, że ​​niektórzy ludzie zbudowali swój wewnętrzny przepływ pracy wokół Claude'a, teraz jakoś utknęli) Adres URL komentarzy: https://news.ycombinator.com/item?id=49080775 Punkty: 19 # Komentarze: 8."
+    },
+    {
       "title": "Planujesz kupić tablet? Zapisz tę datę w kalendarzu",
       "url": "https://spidersweb.pl/2026/07/huawei-matepad-air-2026-papermatte-pro-max-early-bird-promocja.html",
       "date": "2026-07-28T08:00:00Z",
@@ -1269,7 +1269,7 @@
       "date": "2026-07-28T07:44:24Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang;=en Adres URL komentarzy: https://news.ycombinator.com/item?id=49080664 Punkty: 257 # Komentarze: 59."
+      "summary": "Adres URL artykułu: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang;=en Adres URL komentarzy: https://news.ycombinator.com/item?id=49080664 Punkty: 271 # Komentarze: 60."
     },
     {
       "title": "Sprzedaję moje okulary. Samsung ma rozsądnie wycenić rynkowy hit",
@@ -1301,7 +1301,7 @@
       "date": "2026-07-28T05:25:34Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://arsastronomica.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49079727 Punkty: 67 # Komentarze: 9."
+      "summary": "Adres URL artykułu: https://arsastronomica.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49079727 Punkty: 70 # Komentarze: 9."
     },
     {
       "title": "Neutrino-1 8B",
@@ -1309,7 +1309,7 @@
       "date": "2026-07-28T04:49:54Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.fermionresearch.com/models/neutrino-8b/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49079490 Punkty: 90 # Komentarze: 29."
+      "summary": "Adres URL artykułu: https://www.fermionresearch.com/models/neutrino-8b/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49079490 Punkty: 92 # Komentarze: 31."
     },
     {
       "title": "PyTorch: język odniesienia",
@@ -1317,7 +1317,7 @@
       "date": "2026-07-28T04:46:00Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49079454 Punkty: 37 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49079454 Punkty: 39 # Komentarze: 3."
     },
     {
       "title": "Microsoft przedstawia narzędzia bezpieczeństwa AI, które według niego przewyższają konkurencyjne platformy",
@@ -1410,44 +1410,12 @@
   ],
   "cybersecurity": [
     {
-      "title": "Sygnały dla Obserwatorium Jodrell Bank są ponure po decyzji Wielkiej Brytanii o finansowaniu nauki",
-      "url": "https://www.theregister.com/science/2026/07/28/signals-are-grim-for-jodrell-bank-observatory-after-uk-science-funding-decision/5279451",
-      "date": "2026-07-28T10:28:50Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Wsparcie dla e-MERLIN zakończy się w 2028 r., chyba że historyczne centrum radioastronomii znajdzie inne źródło środków pieniężnych."
-    },
-    {
       "title": "Czaty AI publicznie dostępne w sieci. Zawierają wrażliwe dane",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/prywatnosc/czaty-ai-publicznie-dostepne-w-sieci-zawieraja-wrazliwe-dane",
       "date": "2026-07-28T10:21:48Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Wyszukiwarki internetowe indeksują rozmowy z modelami AI prowadzone przez ich użytkowników. Odpowiednio skonstruowane zapytanie pozwala na znalezienie dziesiątek rozmów, także z wrażliwymi informacjami. To kolejne przypadki tego rodzaju w ostatnich miesiącach – problemem ciągle jest mechanizm udostępniania rozmów."
-    },
-    {
-      "title": "Kieszonkowy arsenał hackera w akcji",
-      "url": "https://sekurak.pl/kieszonkowy-arsenal-hackera-w-akcji/",
-      "date": "2026-07-28T09:51:17Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Zielony kod, szybkie uderzenia w klawiaturę (koniecznie głośne dla większego dramatyzmu) i tajemniczy gadżet, który przejmuje kontrolę nad komputerem, siecią czy otwiera wszystkie drzwi&#8230;&#160; Kto z nas nie chciał zostać hackerem rodem z hollywoodzkich filmów i mieć w posiadaniu podobny gadżet?&#160; Sprzęty takie jak Cardputer ADV, Rubber Ducky, O.M.G Cable,... Artykuł Kieszonkowy arsenał hackera w akcji pochodzi z serwisu Sekurak."
-    },
-    {
-      "title": "Łatki Aristy aktywnie wykorzystywały błąd VeloCloud, ponieważ CISA stawia administratorów na nogi",
-      "url": "https://www.theregister.com/security/2026/07/28/arista-patches-actively-exploited-velocloud-bug-as-cisa-puts-admins-on-the-clock/5279414",
-      "date": "2026-07-28T09:15:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Nieuwierzytelnione wstrzykiwanie poleceń uzyskuje doskonały wynik 10 i może narazić zarządzane urządzenia Edge."
-    },
-    {
-      "title": "Openreach skłania kolejne 112 obszarów wymiany w stronę pełnego światłowodu",
-      "url": "https://www.theregister.com/networks/2026/07/28/openreach-nudges-another-112-exchange-areas-toward-full-fiber/5279046",
-      "date": "2026-07-28T08:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Najnowsza partia wprowadza ograniczenia w sprzedaży miedzi do 1572 lokalizacji i 15,4 mln lokali."
     },
     {
       "title": "Otwarte środowisko obronne dla AI. Czym jest Open Secure AI Alliance?",
@@ -1474,14 +1442,6 @@
       "summary": "STAR Labs opublikowało exploit na jądro Linuksa, który zamienia zwykłego użytkownika lokalnego w roota w docelowej kompilacji CentOS Stream 9. Luka, oznaczona jako CVE-2026-53264 (wynik CVSS: 7,8), to wyścig po zwolnieniu z użycia w podsystemie kontroli ruchu sieciowego jądra. Badacz Lee Jia Jie powiedział, że sztuczna inteligencja (AI) pomogła mu znaleźć błąd i przyspieszyć rozwój exploitów. To jest lokalne."
     },
     {
-      "title": "Cisco blisko wydania większej liczby modeli sztucznej inteligencji, tym razem do zastosowań w głębokiej sieci",
-      "url": "https://www.theregister.com/networks/2026/07/28/cisco-close-to-releasing-more-ai-models-this-time-for-deep-networking-ops/5279350",
-      "date": "2026-07-28T06:50:40Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Koszty tokenów nie są całkiem uporządkowane, ale opcja lokalna będzie opcją."
-    },
-    {
       "title": "Niemcy będą gromadzić adresy IP? „Masowa inwigilacja”",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/niemcy-beda-gromadzic-adresy-ip-masowa-inwigilacja",
       "date": "2026-07-28T06:12:26Z",
@@ -1506,54 +1466,6 @@
       "summary": "Luka w zabezpieczeniach o maksymalnej wadze wpływająca na lokalne wersje programu Arista VeloCloud Orchestrator (VCO) jest aktywnie wykorzystywana w środowisku naturalnym. Luka, oznaczona jako CVE-2026-16812 (wynik CVSS: 10,0), polega na wstrzyknięciu polecenia systemu operacyjnego, które może utorować drogę do wykonania dowolnego kodu. „VeloCloud Orchestrator (VCO) lokalnie ma problem z bezpieczeństwem tam, gdzie występuje ten problem."
     },
     {
-      "title": "Chiny odpowiadają w sporze dotyczącym sztucznej inteligencji, twierdząc, że amerykańskie firmy zajmujące się sztuczną inteligencją destylują chińskie modele",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/28/china-fights-back-in-ai-spat-with-claim-us-ai-companies-distil-chinese-models/5279315",
-      "date": "2026-07-28T01:01:59Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Pekin chętnie „podejmie wszelkie niezbędne środki”, jeśli zostaną nałożone sankcje."
-    },
-    {
-      "title": "Wiodące modele sztucznej inteligencji (nawet Grok) to banda lewicowych punków",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/27/leading-ai-models-even-grok-are-all-a-bunch-of-leftist-punks/5279208",
-      "date": "2026-07-27T22:05:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Wydaje się, że sztuczna inteligencja ma liberalne nastawienie."
-    },
-    {
-      "title": "Jensen kładzie kciuk na wadze przeciwko sianiu strachu w otwartych ciężarach",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/27/jensen-puts-his-thumb-on-the-scales-against-open-weights-fearmongering/5279194",
-      "date": "2026-07-27T21:34:49Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Nosiciele amerykańskiej flagi AI ustawiają się w kolejce, przynajmniej na papierze."
-    },
-    {
-      "title": "Microsoft udostępnia bufet gadżetów Windows dla programistów JavaScript",
-      "url": "https://www.theregister.com/devops/2026/07/27/microsoft-lays-out-a-buffet-of-windows-goodies-for-javascript-developers/5279244",
-      "date": "2026-07-27T21:25:33Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Po prostu nie nazywaj projekcji WinRT dla Node.js blokadą."
-    },
-    {
-      "title": "Oszuści Chińskie modelki udają Claude'a",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/27/impostor-chinese-models-pretend-theyre-claude/5279165",
-      "date": "2026-07-27T20:43:01Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Badacze odkrywają, że GLM i Kimi mogą przyjąć tożsamość Claude'a, ale dowody nie potwierdzają destylacji."
-    },
-    {
-      "title": "Rozwiązanie Microsoftu dotyczące bezpieczeństwa sztucznej inteligencji: więcej sztucznej inteligencji i więcej akronimów",
-      "url": "https://www.theregister.com/security/2026/07/27/microsofts-solution-to-ai-security-more-ai-and-more-acronyms/5279140",
-      "date": "2026-07-27T19:50:27Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "MDASH nafaszerowany MAI-Cyber-1-Flash i stroną GPT-5.4."
-    },
-    {
       "title": "NVIDIA tworzy 37 członków Open Secure AI Alliance i Open-Sources NOOA Framework",
       "url": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
       "date": "2026-07-27T18:10:05Z",
@@ -1570,22 +1482,6 @@
       "summary": "Dysphoria, linia botnetów Internetu rzeczy (IoT), śledzona przez CNCERT i XLab, przyjęła usługi nazw oparte na blockchain i przekaźniki zainfekowanych urządzeń po marcowej operacji organów ścigania przeciwko infrastrukturze JackSkid. Naukowcy twierdzą, że taka konstrukcja sprawia, że ​​botnet jest trudniejszy do zakłócenia. CNCERT, chiński krajowy zespół reagowania na awarie komputerowe oraz XLab, chińskie laboratorium analizy zagrożeń."
     },
     {
-      "title": "Technolodzy łączą ręce, aby wychwalać otwarte modele AI po ataku OpenAI – Hugging Face",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/27/tech-giants-link-hands-to-praise-open-ai-models-after-openai-hugging-face-attack/5279061",
-      "date": "2026-07-27T16:17:30Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Organizacja Open Security AI Alliance twierdzi, że bałagan w Hugging Face/OpenAI dowodzi, że nie można ufać laboratoriom z pogranicza, jeśli chodzi o odpowiednie zabezpieczenie wrażliwych systemów."
-    },
-    {
-      "title": "Symulator kasety przewija dźwięk cyfrowy do bardziej analogowego czasu w historii",
-      "url": "https://www.theregister.com/offbeat/2026/07/27/cassette-simulator-rewinds-digital-audio-to-a-more-analog-time-in-hiss-tory/5279018",
-      "date": "2026-07-27T15:54:03Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Czy istnieje symulator płaczu, gdy zorientujesz się, że Twój cenny jednorazowy bootleg właśnie został przeżuty?"
-    },
-    {
       "title": "Brutalna społeczność bez przywódcy. Mroczny świat The Com",
       "url": "https://cyberdefence24.pl/armia-i-sluzby/brutalna-spolecznosc-bez-przywodcy-mroczny-swiat-the-com",
       "date": "2026-07-27T15:23:53Z",
@@ -1600,14 +1496,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Pakiet unijnych zmian dotyczących sztucznej inteligencji w poniedziałek wszedł w życie. Omnibus AI wydłuża terminy dotyczące systemów wysokiego ryzyka oraz algorytmów zawartych w produktach. Zakazane zostały również aplikacje i modele generujące treści intymne bez zezwolenia oraz przedstawiające seksualne wykorzystywanie małoletnich."
-    },
-    {
-      "title": "Sztuczna inteligencja zmieniła architekturę danych, ale pamięć nie nadążyła za zmianami",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/27/ai-has-changed-data-architecture-but-storage-hasnt-caught-up/5255880",
-      "date": "2026-07-27T15:00:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "FUNKCJA SPONSOROWANA: Głód danych sztucznej inteligencji przewyższa możliwości pamięci masowych, przez co procesory graficzne są głodne."
     },
     {
       "title": "Opublikowano publiczny exploit związany z poprawioną luką w wykonywaniu kodu vBulletin przed uwierzytelnieniem",
@@ -1642,28 +1530,12 @@
       "summary": "Nowy system sztucznej inteligencji pomoże Wojsku Polskiemu i Straży Granicznej na wschodniej granicy. Połączy dane z masy kamer i innych sensorów, odciążając żołnierzy i funkcjonariuszy, automatycznie wykrywając zagrożenia. Znamy szczegóły innowacyjnego narzędzia."
     },
     {
-      "title": "Usługa Microsoft Defender for Endpoint pozostawia po aktualizacji niektóre urządzenia z systemem Linux bezbronnymi",
-      "url": "https://www.theregister.com/patches/2026/07/27/microsoft-defender-for-endpoint-leaves-some-linux-boxes-defenseless-after-update/5278914",
-      "date": "2026-07-27T13:45:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Jeden błąd wyłączał usługę bezpieczeństwa przy ponownym uruchomieniu, inny blokował instalację na wzmocnionych systemach RHEL."
-    },
-    {
       "title": "n8n Sandbox Escape Umożliwia edytorom przepływu pracy uruchamianie poleceń systemu operacyjnego jako procesu n8n",
       "url": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
       "date": "2026-07-27T13:05:15Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "n8n załatał bardzo poważną lukę w piaskownicy wyrażeń, która umożliwia uwierzytelnionemu edytorowi przepływu pracy wykonywanie poleceń systemu operacyjnego na serwerze, na którym działa platforma automatyzacji. Security Joes znalazł błąd podczas sprawdzania lutowej poprawki n8n dla CVE-2026-27577 dotyczącej kolejnego obejścia. Dotknięte zakresy to &lt;2.31.5 i &gt;=2.32.0,&lt;2.32.1."
-    },
-    {
-      "title": "Sektor technologiczny wpompowuje 1 milion dolarów w sztuczną inteligencję i wystawia rachunek klientom",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/27/tech-sector-pours-1t-into-ai-and-sends-customers-the-bill/5278845",
-      "date": "2026-07-27T13:02:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Analityk twierdzi, że największa w historii rozbudowa infrastruktury powoduje wzrost cen sprzętu i oprogramowania."
     },
     {
       "title": "Rosyjski cyberatak na wentylację polskiego szpitala. CBZC potwierdza",
@@ -1776,14 +1648,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Sezon urlopowy to okazja dla cyberprzestępców, którzy próbują wykorzystać nasze rozproszenie i osłabioną czujność. Wyłudzenia danych, fałszywe portale rezerwacyjne, skimming czy phishing „na niedopłacony rachunek” – zagrożenia czyhają na nas nie tylko przed wyjazdem czy w trasie, ale też po powrocie. Wyjaśniamy, jak krok po kroku zadbać o swoje bezpieczeństwo."
-    },
-    {
-      "title": "Jak ugryźć NIS2 bez wydawania fortuny i bez wiecznego strachu przed karami? Tylko z sekurakiem ;-)",
-      "url": "https://sekurak.pl/jak-ugryzc-nis2-bez-wydawania-fortuny-i-bez-wiecznego-strachu-przed-karami-tylko-z-sekurakiem/",
-      "date": "2026-07-25T22:56:57Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "7 lipca wystartowaliśmy z naszą Akademią NIS2/KSC2 od sekuraka – autorskim cyklem szkoleń opracowanych specjalnie dla osób odpowiedzialnych za wdrożenie nowych regulacji w organizacjach. Do miesiąca od startu szkolenia, tj. do 7 sierpnia br."
     },
     {
       "title": "Złośliwe reklamy wysyłają złośliwe oprogramowanie w kawałkach, a następnie powodują, że przeglądarka tworzy plik wykonywalny",
@@ -1900,6 +1764,14 @@
       "summary": "Cena ropy Brent powinna wkrótce ustabilizować się w okolicach 80 USD za baryłkę (wobec ok. 87 USD obecnie) i zbliżać się do 70 USD pod koniec roku - prognozuje Adam Czorniej, zarządzający funduszami w Skarbiec TFI. Spodziewa się dalszych, mocnych spadków w 2027 r., przy rosnącej podaży surowca."
     },
     {
+      "title": "Grupa Kapitałowa Valeza sp. z o. o. - Portfel inwestora - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/inwestor/grupa-kapitalowa-valeza-sp-z-o-o.aspx",
+      "date": "2026-07-28T10:13:47Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Grupa Kapitałowa Valeza sp. z o. o."
+    },
+    {
       "title": "Apple przeskoczyło Nvidię. Mniejsze wydatki na AI podobają się na Wall Street",
       "url": "https://www.bankier.pl/wiadomosc/Apple-przeskoczylo-Nvidie-Mniejsze-wydatki-na-AI-podobaja-sie-na-Wall-Street-9174209.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-28T10:11:00Z",
@@ -1922,14 +1794,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Chińscy naukowcy uważają, że największe znane złoże pierwiastków ziem rzadkich na świecie, kopalnia Bayan Obo w chińskim regionie autonomicznym Mongolii Wewnętrznej, może mieć większy potencjał geologiczny niż wskazują oficjalne szacunki rezerw - podaje \"South China Morning Post\"."
-    },
-    {
-      "title": "Stagflacja puka do bram Europy Środkowej. Agencja S&P obniża PKB i podnosi prognozy inflacji",
-      "url": "https://www.bankier.pl/wiadomosc/Stagflacja-puka-do-bram-Europy-Srodkowej-Agencja-S-P-obniza-PKB-i-podnosi-prognozy-inflacji-9174220.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-07-28T10:02:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Agencja S&P Global Ratings obniżyła prognozę wzrostu PKB na 2026 rok dla regionu Europy Środkowo-Wschodniej (CEE) o 0,4 pp. do średnio 2 proc., a jednocześnie podwyższyła prognozę inflacji średnio o 0,6 pp. do 4,2 proc."
     },
     {
       "title": "Miały być zmiany w podatkach. Rząd się wycofuje",
@@ -1972,6 +1836,14 @@
       "summary": "ORANGEPL [OPL] stockwatch.pl."
     },
     {
+      "title": "LPP Logistics uruchamia nowe centrum dystrybucyjne w Rumunii - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149637,lpp-logistics-uruchamia-nowe-centrum-dystrybucyjne-w-rumunii",
+      "date": "2026-07-28T09:23:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "LPP Logistics uruchamia nowe centrum dystrybucyjne w Rumunii BiznesRadar."
+    },
+    {
       "title": "Węgry tanią montownią Mercedesa. Niemcy ograniczają produkcję u siebie",
       "url": "https://www.money.pl/mobility/wegry-tania-montownia-mercedesa-niemcy-ograniczaja-produkcje-u-siebie-7312292032772448a.html",
       "date": "2026-07-28T09:05:24Z",
@@ -1980,20 +1852,28 @@
       "summary": "Mercedes zwiększa moce w węgierskim Kecskemét i jednocześnie tnie zdolności produkcyjne w Niemczech. Kluczowe są koszty pracy: 15,60 euro za godzinę na Węgrzech wobec 49,50 euro w niemieckim przemyśle - donosi \"Berliner Zeitung\"."
     },
     {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/tagi/koszt-zestrzelenia-drona",
+      "date": "2026-07-28T09:04:59Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
+    },
+    {
+      "title": "All in! Games rozpoczyna przegląd opcji strategicznych - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149631,all-in-games-rozpoczyna-przeglad-opcji-strategicznych",
+      "date": "2026-07-28T08:51:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "All in! Games rozpoczyna przegląd opcji strategicznych BiznesRadar."
+    },
+    {
       "title": "Synektik z 292,3 mln zł przychodów w III kw. 2025/2026 – wzrost o 89 proc. r/r - stockwatch.pl",
       "url": "https://www.stockwatch.pl/wiadomosci/synektik-wyniki-iii-kwartal-2025-2026,akcje,377093",
       "date": "2026-07-28T08:50:18Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Synektik z 292,3 mln zł przychodów w III kw. 2025/2026 – wzrost o 89 proc. r/r stockwatch.pl."
-    },
-    {
-      "title": "Coraz więcej Czechów rezygnuje z Chorwacji. Wybierają polskie plażek - Forsal.pl",
-      "url": "https://forsal.pl/lifestyle/turystyka/artykuly/11281695,polska-staje-sie-dla-nich-druga-chorwacja-czesi-pokochali-baltyk.html",
-      "date": "2026-07-28T08:48:13Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Coraz więcej Czechów rezygnuje z Chorwacji. Wybierają polskie plażek Forsal.pl."
     },
     {
       "title": "Synektik z rekordowymi przychodami po 9 miesiącach 2025/2026 - BiznesRadar",
@@ -2020,14 +1900,6 @@
       "summary": "UNIBEP [UNI] stockwatch.pl."
     },
     {
-      "title": "Unibep przebuduje Filharmonię Pomorską za 380 mln zł brutto - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/unibep-filharmonia-pomorska-bydgoszcz-2026,akcje,377086",
-      "date": "2026-07-28T08:24:51Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Unibep przebuduje Filharmonię Pomorską za 380 mln zł brutto stockwatch.pl."
-    },
-    {
       "title": "Monnari Trade zwiększa sprzedaż w I półroczu 2026 r. - BiznesRadar",
       "url": "https://www.biznesradar.pl/a/149625,monnari-trade-zwieksza-sprzedaz-w-i-polroczu-2026-r",
       "date": "2026-07-28T08:23:00Z",
@@ -2044,6 +1916,14 @@
       "summary": "Formacje analizy technicznej ACH0729 ARCHE BiznesRadar."
     },
     {
+      "title": "Sygnały analizy technicznej ACH0729 ARCHE - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/ACH0729",
+      "date": "2026-07-28T07:47:03Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Sygnały analizy technicznej ACH0729 ARCHE BiznesRadar."
+    },
+    {
       "title": "Cały świat patrzy na Trumpa. Oto co się dzieje z cenami ropy",
       "url": "https://www.money.pl/gospodarka/ropa-tanieje-trump-prosili-mnie-nie-atakuj-7312267960142208a.html",
       "date": "2026-07-28T07:36:03Z",
@@ -2052,36 +1932,12 @@
       "summary": "Wycena Brent spadła w poniedziałek o 8,7 proc. To efekt decyzji Donalda Trumpa, który w piątek zdecydował o wstrzymaniu uderzenia na irańskie cele. - Wszyscy, którzy zajmują się Iranem, prosili mnie: nie atakuj - powiedział."
     },
     {
-      "title": "Wyższe przychody, ale ujemny EBIT Grupy Forte w I kwartale 2026/27 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149619,wyzsze-przychody-ale-ujemny-ebit-grupy-forte-w-i-kwartale-2026-27",
-      "date": "2026-07-28T07:31:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wyższe przychody, ale ujemny EBIT Grupy Forte w I kwartale 2026/27 BiznesRadar."
-    },
-    {
       "title": "Jak firmy prowadzą trudne zwolnienia pracowników. Jeden błąd może drogo kosztować - Forbes",
       "url": "https://www.forbes.pl/forbeswomen/zwolnienie-pracownika-po-ludzku-ekspertki-hr-o-dobrych-praktykach-i-bledach/b5njzc7",
       "date": "2026-07-28T07:26:27Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Jak firmy prowadzą trudne zwolnienia pracowników. Jeden błąd może drogo kosztować Forbes."
-    },
-    {
-      "title": "Jak wybrać idealną kasę fiskalną dla swojej małej firmy? - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149616,jak-wybrac-idealna-kase-fiskalna-dla-swojej-malej-firmy",
-      "date": "2026-07-28T07:07:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Jak wybrać idealną kasę fiskalną dla swojej małej firmy? BiznesRadar."
-    },
-    {
-      "title": "Przelew zagraniczny – od czego zależy jego koszt? - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149613,przelew-zagraniczny-od-czego-zalezy-jego-koszt",
-      "date": "2026-07-28T07:00:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Przelew zagraniczny – od czego zależy jego koszt? BiznesRadar."
     },
     {
       "title": "„Desperacko skalowałam firmę”. Ola Budzyńska w pierwszym wywiadzie od upadku „imperium Pani Swojego Czasu” - Forbes",
@@ -2202,6 +2058,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "AI to zmora dla absolwentów. Najgorzej mają... inżynierowie [SZOKUJĄCE DANE] Forbes."
+    },
+    {
+      "title": "Strategia GEM. 15% zysku rocznie, ale czasem po 20 latach za indeksem",
+      "url": "https://inwestomat.eu/strategia-gem/",
+      "date": "2026-07-27T05:00:00Z",
+      "source": "Inwestomat (Albert Rokicki)",
+      "confirmed_by": 1,
+      "summary": "Global Equities Momentum pod lupą. O strategii GEM, czyli Global Equities Momentum miałem napisać od dawna, więc jest mi bardzo miło przedstawić merytoryczny, ale konkretny i skoncentrowany wpis o tym zyskującym w ostatnim roku na popularności sposobie inwestowania. W Polsce GEM jako pierwszy opisał w czerwcu 2019 roku autor bloga systemtrader i portalu atlasetf Jacek Lempart [&#8230;]."
     }
   ],
   "critical_alerts": [
@@ -2232,7 +2096,7 @@
     {
       "title": "Aktualizacje na żywo: Trzęsienie ziemi o sile 6,8 w skali Richtera uderza w Japonię",
       "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
-      "date": "2026-07-28T11:04:14Z",
+      "date": "2026-07-28T11:16:44Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Według japońskiego nadawcy państwowego po trzęsieniu ziemi w południowo-zachodniej prefekturze Kumamoto zgłoszono pożary i obrażenia. Zniesiono ostrzeżenie przed tsunami."
@@ -2534,6 +2398,11 @@
       "score": 100,
       "reasons": [
         {
+          "title": "Atak Ukrainy na irański statek może przybliżyć dwie wojny",
+          "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
+          "source": "The New York Times"
+        },
+        {
           "title": "Kiedy Putin zakończy wojnę? Jeden ruch zdradził plany Moskwy",
           "url": "https://www.polsatnews.pl/wiadomosc/2026-07-28/putin-chce-walczyc-jeszcze-trzy-lata-szacuja-ile-rosjanie-zaplacili-za-wojne/",
           "source": "Polsat News"
@@ -2542,17 +2411,12 @@
           "title": "Dwóch sprawców ataku na Ukraińców ujętych. We wtorek pierwsze czynności prokuratury",
           "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32935991,dwoch-sprawcow-ataku-na-ukraincow-ujetych-we-wtorek-pierwsze.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
           "source": "Gazeta Wyborcza"
-        },
-        {
-          "title": "Zełenski podczas pobytu w Waszyngtonie będzie wywierał naciski na Trumpa w sprawie obrony powietrznej",
-          "url": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News"
         }
       ]
     },
     {
       "name": "Iran",
-      "score": 57,
+      "score": 33,
       "reasons": [
         {
           "title": "Kurorty w Azji Południowo-Wschodniej cierpią, gdy wojna w Iranie odstrasza europejskich turystów",
@@ -2568,7 +2432,7 @@
     },
     {
       "name": "Tajwan",
-      "score": 57,
+      "score": 33,
       "reasons": [
         {
           "title": "„Straciliśmy wszystko”: ekstremalne opady deszczu w Azji powodują gwałtowne powodzie i tajfuny",
@@ -2579,7 +2443,7 @@
     },
     {
       "name": "Afganistan",
-      "score": 57,
+      "score": 33,
       "reasons": [
         {
           "title": "„Straciliśmy wszystko”: ekstremalne opady deszczu w Azji powodują gwałtowne powodzie i tajfuny",
@@ -2590,7 +2454,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 43,
+      "score": 25,
       "reasons": [
         {
           "title": "Pies uratował Housseina Hamze przed bombą. Kiedy wojna wróciła, pozostał, aby opiekować się zwierzętami w Libanie",
@@ -2601,7 +2465,7 @@
     },
     {
       "name": "Liban",
-      "score": 43,
+      "score": 25,
       "reasons": [
         {
           "title": "Pies uratował Housseina Hamze przed bombą. Kiedy wojna wróciła, pozostał, aby opiekować się zwierzętami w Libanie",
@@ -2803,51 +2667,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25961.1,
+      25955.99,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27138.53,
+      27133.19,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27287.13,
+      27281.76,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27534.83,
+      27529.41,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28177.72,
+      28172.17,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28214.16,
+      28208.6,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28461.59,
+      28455.99,
       27354.94,
       27400.36,
       27412.11,
-      28867.52,
+      28861.84,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28119.87,
+      28114.33,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28301.6,
+      28296.03,
       27686.17,
       27404.78,
       27351.97,
@@ -2856,7 +2720,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28006.68,
+      28001.17,
       27930.04,
       28234.04,
       28218.36,
@@ -2865,18 +2729,18 @@
       28294.39,
       28203.83,
       28555.17,
-      28849.74,
+      28844.06,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28401.49,
+      28395.9,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28227.41,
-      28231.99
+      28221.86,
+      28226.42
     ],
     "currency": "PLN"
   }
