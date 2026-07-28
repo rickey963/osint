@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-28T20:13:54Z",
+  "last_updated": "2026-07-28T20:14:55Z",
   "poland": [
+    {
+      "title": "Zełenski w Białym Domu. „Trump lubi zwycięzców”",
+      "url": "https://www.rp.pl/polityka/art44902681-zelenski-w-bialym-domu-trump-lubi-zwyciezcow",
+      "date": "2026-07-28T20:12:29Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 2,
+      "summary": "Trzeci raz w tym roku ukraiński przywódca spotkał się z Donaldem Trumpem. Znów jako ten, który ma przewagę w wojnie z Rosją."
+    },
     {
       "title": "Niewybuch znaleziony na poddaszu kościoła. Akcja służb w Warszawie",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-07-28/niewybuch-znaleziony-na-poddaszu-kosciola-akcja-sluzb-w-warszawie/",
@@ -324,14 +332,6 @@
     {
       "title": "- Polska Agencja Prasowa SA",
       "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC005%20contains(BRAA20260728_389))",
-      "date": "2026-07-28T13:25:51Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "- Polska Agencja Prasowa SA",
-      "url": "https://fotobaza.pap.pl/fotoweb/Grid.fwx?archiveId=&search=(IPTC025%20contains(trybuna%C5%82%20konstytucyjny))",
       "date": "2026-07-28T13:25:51Z",
       "source": "PAP",
       "confirmed_by": 1,
@@ -1008,12 +1008,20 @@
   ],
   "technology": [
     {
+      "title": "Hulios: obsługiwana przez eBPF, przejrzysta brama Tor dla systemu Linux",
+      "url": "https://github.com/ghaziwali/Hulios",
+      "date": "2026-07-28T19:54:38Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://github.com/ghaziwali/Hulios Adres URL komentarzy: https://news.ycombinator.com/item?id=49089045 Punkty: 3 # Komentarze: 0."
+    },
+    {
       "title": "UV 0.12.0",
       "url": "https://github.com/astral-sh/uv/releases/tag/0.12.0",
       "date": "2026-07-28T19:41:33Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/astral-sh/uv/releases/tag/0.12.0 Adres URL komentarzy: https://news.ycombinator.com/item?id=49088887 Punkty: 18 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://github.com/astral-sh/uv/releases/tag/0.12.0 Adres URL komentarzy: https://news.ycombinator.com/item?id=49088887 Punkty: 34 # Komentarze: 12."
     },
     {
       "title": "Ponad 1100 pracowników firm zajmujących się sztuczną inteligencją, w tym John Schulman i Jakub Pachocki z OpenAI, podpisało list wzywający rząd USA do „przyspieszenia” rozwoju sztucznej inteligencji (Bloomberg)",
@@ -1037,7 +1045,7 @@
       "date": "2026-07-28T19:06:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://grapheneos.org/donate Adres URL komentarzy: https://news.ycombinator.com/item?id=49088451 Punkty: 126 # Komentarze: 16."
+      "summary": "Adres URL artykułu: https://grapheneos.org/donate Adres URL komentarzy: https://news.ycombinator.com/item?id=49088451 Punkty: 170 # Komentarze: 34."
     },
     {
       "title": "Deflock Casa Grande",
@@ -1045,7 +1053,7 @@
       "date": "2026-07-28T18:41:48Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://deflockcg.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49088148 Punkty: 182 # Komentarze: 56."
+      "summary": "Adres URL artykułu: https://deflockcg.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49088148 Punkty: 210 # Komentarze: 71."
     },
     {
       "title": "Pytania i odpowiedzi z Samem Altmanem na temat naruszenia zasad Hugging Face, wyścigu o obliczenia, destylacji, otwartego oprogramowania, koncentracji mocy, robotyki, przyszłości OpenAI i nie tylko (Inwestuj jak najlepsi w YouTube)",
@@ -1061,7 +1069,7 @@
       "date": "2026-07-28T18:35:11Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://blog.modelcontextprotocol.io/posts/2026-07-28/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49088058 Punkty: 29 # Komentarze: 11."
+      "summary": "Adres URL artykułu: https://blog.modelcontextprotocol.io/posts/2026-07-28/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49088058 Punkty: 35 # Komentarze: 14."
     },
     {
       "title": "Fundacja Agentic AI aktualizuje MCP o w pełni bezstanową architekturę, wzmocniony model uwierzytelniania, formalną 12-miesięczną politykę wycofywania i nie tylko (Michael Nuñez/VentureBeat)",
@@ -1125,7 +1133,7 @@
       "date": "2026-07-28T17:37:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "https://www.apple.com/shop/apple-upgrade Adres URL komentarzy: https://news.ycombinator.com/item?id=49087306 Punkty: 50 # Komentarze: 83."
+      "summary": "https://www.apple.com/shop/apple-upgrade Adres URL komentarzy: https://news.ycombinator.com/item?id=49087306 Punkty: 55 # Komentarze: 104."
     },
     {
       "title": "Anthropic twierdzi, że Claude Mythos Preview był w stanie złamać słabszą wersję AES i zorganizował kolejny ulepszony atak na system kryptograficzny HAWK (Dustin Volz/New York Times)",
@@ -1141,7 +1149,7 @@
       "date": "2026-07-28T17:22:16Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.anthropic.com/research/discovering-cryptographic-weaknesses Adres URL komentarzy: https://news.ycombinator.com/item?id=49087091 Punkty: 93 # Komentarze: 39."
+      "summary": "Adres URL artykułu: https://www.anthropic.com/research/discovering-cryptographic-weaknesses Adres URL komentarzy: https://news.ycombinator.com/item?id=49087091 Punkty: 97 # Komentarze: 44."
     },
     {
       "title": "Wersja Steel Bank Common Lisp 2.6.7",
@@ -1149,15 +1157,7 @@
       "date": "2026-07-28T17:11:54Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://sbcl.org/all-news.html?2.6.7 Adres URL komentarzy: https://news.ycombinator.com/item?id=49086971 Punkty: 104 # Komentarze: 35."
-    },
-    {
-      "title": "WOFF 1.0: kamień milowy w podróży W3C w zakresie czcionek internetowych",
-      "url": "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/",
-      "date": "2026-07-28T17:05:51Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49086890 Punkty: 41 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://sbcl.org/all-news.html?2.6.7 Adres URL komentarzy: https://news.ycombinator.com/item?id=49086971 Punkty: 111 # Komentarze: 36."
     },
     {
       "title": "Teraz mogę kupić iPhone'a Air. W tej cenie już mnie nie odrzuca",
@@ -1900,6 +1900,14 @@
       "summary": "Nowe dane o bezrobociu. Polska wśród liderów UE, liczba bezrobotnych wyraźnie spadła Forsal.pl."
     },
     {
+      "title": "świat - Forsal.pl",
+      "url": "https://forsal.pl/tagi/polska-w-unii;swiat,46",
+      "date": "2026-07-28T17:15:11Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "świat Forsal.pl."
+    },
+    {
       "title": "Edukacja podporządkowana arkuszom ZUS. Dlaczego uczelnie po cichu likwidują niszowe kierunki? - Forsal.pl",
       "url": "https://forsal.pl/lifestyle/edukacja/artykuly/11281508,edukacja-podporzadkowana-arkuszom-zus-dlaczego-uczelnie-po-cichu-likw.html",
       "date": "2026-07-28T17:00:00Z",
@@ -1922,14 +1930,6 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "L4 w piątek lub poniedziałek ściągnie kontrolę. Pracodawcy dostali nowe narzędzie Forsal.pl."
-    },
-    {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/tagi/denis-sztilerman",
-      "date": "2026-07-28T15:30:53Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Komunikat EBI LexBono SA (lexbono): Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej - stockwatch.pl",
@@ -2036,20 +2036,20 @@
       "summary": "Spór zbiorowy w Grupie Azoty wchodzi w nową fazę Piotr Maciążek wt., 28.07.2026 Kanał W Zielonej Strefie notowania grupa azoty protesty grupa azoty związki zawodowe grupa azoty Treść Decyzja organizacji związkowych o ogłoszeniu pogotowia strajkowego we wszystkich kluczowych zakładach chemicznych w kraju stawia przez Grupą Azoty olbrzymie wyzwanie. Tym bardziej, że groźba zatrzymania zakładów ma miejsce podczas poprawiającej się koniunktury.Nowe napięcia w zakładach Grupy AzotySzczególnie napięta atmosfera panuje w Puławach i Policach, gdzie formalne procedury sporów zbiorowych weszły na oficjalną drogę wymiany pism procesowych. Przedstawiciele załóg konsekwentnie podtrzymują swoje żądania płacowe i organizacyjne, wskazując, że dotychczasowe wdrożenia systemowe nie przełożyły się na odczuwalny wzrost wynagrodzeń dla większości pracowników."
     },
     {
+      "title": "Grupa Kapitałowa Valeza sp. z o. o. - Portfel inwestora - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/inwestor/grupa-kapitalowa-valeza-sp-z-o-o.aspx",
+      "date": "2026-07-28T10:13:47Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Grupa Kapitałowa Valeza sp. z o. o."
+    },
+    {
       "title": "Największe złoże na świecie jeszcze większe? Odkrycie Chińczyków",
       "url": "https://www.money.pl/gospodarka/najwieksze-na-swiecie-zloze-metali-ziem-rzadkich-jeszcze-wieksze-odkrycie-chinczykow-7312302356019552a.html",
       "date": "2026-07-28T10:06:52Z",
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Chińscy naukowcy uważają, że największe znane złoże zawierające pierwiastki ziem rzadkich na świecie, kopalnia Bayan Obo w chińskim regionie autonomicznym Mongolii Wewnętrznej, może mieć większy potencjał geologiczny niż wskazują oficjalne szacunki rezerw - podaje \"South China Morning Post\"."
-    },
-    {
-      "title": "Best startuje z trzecią publiczną ofertą obligacji w tym roku - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149640,best-startuje-z-trzecia-publiczna-oferta-obligacji-w-tym-roku",
-      "date": "2026-07-28T09:57:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Best startuje z trzecią publiczną ofertą obligacji w tym roku BiznesRadar."
     },
     {
       "title": "Miały być zmiany w podatkach. Rząd się wycofuje",
@@ -2074,6 +2074,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Mercedes zwiększa moce w węgierskim Kecskemét i jednocześnie tnie zdolności produkcyjne w Niemczech. Kluczowe są koszty pracy: 15,60 euro za godzinę na Węgrzech wobec 49,50 euro w niemieckim przemyśle - donosi \"Berliner Zeitung\"."
+    },
+    {
+      "title": "Defence.Hub widzi globalny potencjał w rozwoju zintegrowanych systemów antydronowych - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149634,defence-hub-widzi-globalny-potencjal-w-rozwoju-zintegrowanych-systemow-antydronowych",
+      "date": "2026-07-28T08:54:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Defence.Hub widzi globalny potencjał w rozwoju zintegrowanych systemów antydronowych BiznesRadar."
     },
     {
       "title": "All in! Games rozpoczyna przegląd opcji strategicznych - BiznesRadar",
@@ -2202,14 +2210,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Jak firmy prowadzą trudne zwolnienia pracowników. Jeden błąd może drogo kosztować Forbes."
-    },
-    {
-      "title": "Strategia GEM. 15% zysku rocznie, ale czasem po 20 latach za indeksem",
-      "url": "https://inwestomat.eu/strategia-gem/",
-      "date": "2026-07-27T05:00:00Z",
-      "source": "Inwestomat (Albert Rokicki)",
-      "confirmed_by": 1,
-      "summary": "Global Equities Momentum pod lupą. O strategii GEM, czyli Global Equities Momentum miałem napisać od dawna, więc jest mi bardzo miło przedstawić merytoryczny, ale konkretny i skoncentrowany wpis o tym zyskującym w ostatnim roku na popularności sposobie inwestowania. W Polsce GEM jako pierwszy opisał w czerwcu 2019 roku autor bloga systemtrader i portalu atlasetf Jacek Lempart [&#8230;]."
     }
   ],
   "critical_alerts": [
@@ -2729,51 +2729,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25874.87,
+      25873.51,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27048.39,
+      27046.96,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27196.49,
+      27195.06,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27443.37,
+      27441.92,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28084.12,
+      28082.64,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28120.44,
+      28118.96,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28367.05,
+      28365.56,
       27354.94,
       27400.36,
       27412.11,
-      28771.63,
+      28770.12,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28026.46,
+      28024.99,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28207.59,
+      28206.11,
       27686.17,
       27404.78,
       27351.97,
@@ -2782,7 +2782,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27913.65,
+      27912.18,
       27930.04,
       28234.04,
       28218.36,
@@ -2791,19 +2791,19 @@
       28294.39,
       28203.83,
       28555.17,
-      28753.91,
+      28752.39,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28307.15,
+      28305.66,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28133.65,
+      28132.17,
       28165.64,
-      28197.42
+      28195.93
     ],
     "currency": "PLN"
   }
