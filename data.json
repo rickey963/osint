@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T08:26:36Z",
+  "last_updated": "2026-07-28T08:27:50Z",
   "poland": [
     {
       "title": "Tyle zyskaliby Polacy dzięki proponowanym zmianom w PIT. Nawet 433 zł miesięcznie",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Historyczny chwila dla polskiej zbrojeniówki. Nasi ruszają na podbój Europy",
+      "url": "https://spidersweb.pl/2026/07/pgz-trotyl-nowa-fabryka.html",
+      "date": "2026-07-28T08:26:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Historyczny chwila dla polskiej zbrojeniówki. Nasi ruszają na podbój Europy."
+    },
+    {
       "title": "Apple wyprzedza Nvidię i staje się najcenniejszą spółką notowaną na giełdzie, dwa lata po utracie korony, osiągając w poniedziałek kapitalizację rynkową na poziomie 4,9 tys. dolarów (Kalley Huang/New York Times)",
       "url": "https://www.techmeme.com/260728/p4#a260728p4",
       "date": "2026-07-28T08:25:00Z",
@@ -1032,20 +1040,20 @@
       "summary": "Największe filmy sci-fi trafiają na małe ekrany. Teraz kolej na Blade Runner 2099!"
     },
     {
-      "title": "Planujesz kupić tablet? Zapisz tę datę w kalendarzu",
-      "url": "https://spidersweb.pl/2026/07/huawei-matepad-air-2026-papermatte-pro-max-early-bird-promocja.html",
-      "date": "2026-07-28T08:00:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Planujesz kupić tablet? Zapisz tę datę w kalendarzu."
-    },
-    {
       "title": "Polskie gry na wyprzedaży. Steam pokazuje, że to nie tylko Wiedźmin i Cyberpunk",
       "url": "https://www.instalki.pl/news/gry/steam-wyprzedaz-from-poland-with-love-2026/",
       "date": "2026-07-28T08:00:00Z",
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Na platformie Steam ruszyła promocja From Poland With Love 2026, dzięki czemu taniej kupicie gry z naszego kraju. Artykuł Polskie gry na wyprzedaży. Steam pokazuje, że to nie tylko Wiedźmin i Cyberpunk pochodzi z serwisu INSTALKI."
+    },
+    {
+      "title": "Planujesz kupić tablet? Zapisz tę datę w kalendarzu",
+      "url": "https://spidersweb.pl/2026/07/huawei-matepad-air-2026-papermatte-pro-max-early-bird-promocja.html",
+      "date": "2026-07-28T08:00:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Planujesz kupić tablet? Zapisz tę datę w kalendarzu."
     },
     {
       "title": "Tyle ma kosztować nowe Xiaomi. Wersje Pro Max mocno uderzą po kieszeni",
@@ -1296,14 +1304,6 @@
       "summary": "Monique Mulima / Bloomberg: Kilka firm zajmujących się skarbnicą aktywów cyfrowych przeszło na sztuczną inteligencję w obliczu spadku cen kryptowalut, ale ich słabe wyniki na giełdach sugerują, że strategia nie działa &mdash; Implozja niegdyś gorącego rynku akcji skarbowych kryptowalut skłania wiele firm do przejścia na sztuczną inteligencję w celu odzyskania inwestorów."
     },
     {
-      "title": "Apple udostępnia aktualizacje dla systemów iOS, macOS, iPadOS, watchOS, tvOS i VisionOS z ogromną liczbą poprawek bezpieczeństwa; Sam system macOS Tahoe 26.6 obsługuje 155 CVE (Zac Hall/9to5Mac)",
-      "url": "https://www.techmeme.com/260727/p34#a260727p34",
-      "date": "2026-07-27T23:40:05Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Zac Hall / 9to5Mac: Apple wydaje aktualizacje dla iOS, macOS, iPadOS, watchOS, tvOS i VisionOS z ogromną liczbą poprawek bezpieczeństwa; Sam system macOS Tahoe 26.6 obsługuje 155 CVE &mdash; Po wydaniu iOS 26.6, iPadOS 26.6 i powiązanych aktualizacji oprogramowania firma Apple szczegółowo opisała ogromną liczbę poprawek bezpieczeństwa zawartych w dzisiejszych nowych wersjach systemu operacyjnego."
-    },
-    {
       "title": "Microsoft przedstawia narzędzia bezpieczeństwa AI, które według niego przewyższają konkurencyjne platformy",
       "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
       "date": "2026-07-27T21:56:14Z",
@@ -1409,6 +1409,14 @@
     }
   ],
   "cybersecurity": [
+    {
+      "title": "Otwarte środowisko obronne dla AI. Czym jest Open Secure AI Alliance?",
+      "url": "https://cyberdefence24.pl/biznes-i-finanse/otwarte-srodowisko-obronne-dla-ai-czym-jest-open-secure-ai-alliance",
+      "date": "2026-07-28T08:24:44Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Największe firmy technologiczne chcą wspólnie budować otwarte zabezpieczenia dla agentów i modeli AI. Open Secure AI Alliance ma przyspieszyć wykrywanie luk i uniezależnić organizacje od zamkniętych systemów jednego dostawcy – choć inicjatywę tworzą w większości koncerny, od których rynek jest już dziś mocno zależny."
+    },
     {
       "title": "Cisco jest bliskie wypuszczenia większej liczby modeli sztucznej inteligencji, tym razem do zastosowań w głębokiej sieci",
       "url": "https://www.theregister.com/networks/2026/07/28/cisco-close-to-releasing-more-ai-models-this-time-for-deep-networking-ops/5279350",
@@ -1768,14 +1776,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Firmy zajmujące się bezpieczeństwem ThreatBook i Imperva twierdzą, że celem atakujących jest krytyczna luka w Fastjson, bibliotece JSON firmy Alibaba dla języka Java. W aplikacjach Spring Boot, których dotyczy problem, złośliwe żądanie JSON może wykonać kod bez uwierzytelnienia, z uprawnieniami procesu Java. Luka ta, oznaczona jako CVE-2026-16723, ma przypisany przez Alibaba wynik CVSS na poziomie 9,0."
-    },
-    {
-      "title": "Więzienie za fejki, presja na platformy, szybsze procesy. Francja buduje tarczę przed wyborami",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/wiezienie-za-fejki-presja-na-platformy-szybsze-procesy-francja-buduje-tarcze-przed-wyborami",
-      "date": "2026-07-25T11:18:15Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Więzienie za fake newsy, zwiększenie odpowiedzialności platform czy szybsza interwencja sądu – to elementy tarczy, jaką Francja buduje przed przyszłorocznymi wyborami prezydenckimi. Paryż przygotowuje się do nich w przekonaniu, że kolejna operacja wpływu nie będzie przypominała klasycznej propagandy."
     },
     {
       "title": "Researcher publikuje GitLab RCE PoC umożliwiający uwierzytelnionym użytkownikom uruchamianie poleceń jako Git",
@@ -2148,14 +2148,6 @@
       "summary": "Wielu freelancerów rozpoczyna projekt, zanim dostanie jakiekolwiek pieniądze albo gwarancję ich wypłaty. Według badania Freelancehunt tylko 36,4 proc. freelancerów pobiera zaliczkę przed rozpoczęciem zlecenia."
     },
     {
-      "title": "Analiza techniczna LFR (LIFTERO) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/LFR",
-      "date": "2026-07-27T15:03:45Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Analiza techniczna LFR (LIFTERO) BiznesRadar."
-    },
-    {
       "title": "Chiny wyłączają „papierowe złoto”. Sztabki nadal można kupować",
       "url": "https://300gospodarka.pl/news/chiny-wylaczaja-papierowe-zloto-sztabki-nadal-mozna-kupowac",
       "date": "2026-07-27T14:32:44Z",
@@ -2194,6 +2186,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Akcje Żabki mocno w dół. Co wycofanie się 7-Eleven z negocjacji oznacza dla polskiej spółki? Paweł Biedrzycki pon., 27.07.2026 Kanał Strefa Inwestorów 7-Eleven Seven & I Treść Akcje Żabki, po wycofaniu się 7-Eleven z rozmów o potencjalnej inwestycji, spadają o kilkanaście procent."
+    },
+    {
+      "title": "Strategia GEM. 15% zysku rocznie, ale czasem po 20 latach za indeksem",
+      "url": "https://inwestomat.eu/strategia-gem/",
+      "date": "2026-07-27T05:00:00Z",
+      "source": "Inwestomat (Albert Rokicki)",
+      "confirmed_by": 1,
+      "summary": "Global Equities Momentum pod lupą. O strategii GEM, czyli Global Equities Momentum miałem napisać od dawna, więc jest mi bardzo miło przedstawić merytoryczny, ale konkretny i skoncentrowany wpis o tym zyskującym w ostatnim roku na popularności sposobie inwestowania. W Polsce GEM jako pierwszy opisał w czerwcu 2019 roku autor bloga systemtrader i portalu atlasetf Jacek Lempart [&#8230;]."
     }
   ],
   "critical_alerts": [
@@ -2799,51 +2799,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25923.2,
+      25928.38,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27098.91,
+      27104.33,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27247.29,
+      27252.74,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27494.63,
+      27500.12,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28136.58,
+      28142.2,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28172.97,
+      28178.6,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28420.04,
+      28425.72,
       27354.94,
       27400.36,
       27412.11,
-      28825.38,
+      28831.14,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28078.81,
+      28084.43,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28260.28,
+      28265.93,
       27686.17,
       27404.78,
       27351.97,
@@ -2852,7 +2852,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27965.79,
+      27971.38,
       27930.04,
       28234.04,
       28218.36,
@@ -2861,17 +2861,17 @@
       28294.39,
       28203.83,
       28555.17,
-      28807.62,
+      28813.38,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28360.03,
+      28365.7,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28190.77
+      28196.4
     ],
     "currency": "PLN"
   }
