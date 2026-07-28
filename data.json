@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T11:37:08Z",
+  "last_updated": "2026-07-28T11:37:57Z",
   "poland": [
     {
       "title": "Mówią o „hakach” i zapowiadają „rozliczenia”. Pracownik uczelni mówi, że jest zastraszany",
@@ -516,6 +516,14 @@
       "summary": "Brytyjski poseł pozywający xAI Muska domaga się nakazu powstrzymania Groka przed generowaniem seksualizowanych obrazów Reuters."
     },
     {
+      "title": "Ropa naftowa najniżej od ponad tygodnia, ponieważ przerwa w atakach daje nadzieję na porozumienie USA i Iranu – Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-prices-fall-1-investors-weigh-pause-us-strikes-iran-2026-07-28/",
+      "date": "2026-07-28T09:47:22Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Ropa naftowa najniżej od ponad tygodnia, ponieważ przerwa w atakach daje nadzieję na porozumienie USA i Iranu Reuters."
+    },
+    {
       "title": "Kontrakty terminowe Nasdaq spadają w związku z obawami dotyczącymi chipów AI przed kluczowymi wynikami – Reuters",
       "url": "https://www.reuters.com/business/nasdaq-futures-drop-ai-chip-worries-ahead-pivotal-earnings-2026-07-28/",
       "date": "2026-07-28T09:46:11Z",
@@ -634,14 +642,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Żegluga Bab el-Mandeb rośnie w obliczu nadziei na rozwiązanie wojny amerykańsko-irańskiej Reuters."
-    },
-    {
-      "title": "Trump będzie gościł Netanjahu, Zełenskiego i Ukrainy, wojny w Iranie osiągają krytyczną fazę – Reuters",
-      "url": "https://www.reuters.com/world/us/trump-host-netanyahu-zelenskiy-ukraine-iran-wars-reach-critical-stages-2026-07-28/",
-      "date": "2026-07-28T07:08:11Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Trump będzie gościł Netanjahu, Zełenskiego na Ukrainie, wojny w Iranie osiągają etap krytyczny Reuters."
     },
     {
       "title": "„Wstrząśnij Angusem”: Taylor wymieniony jako potencjalny darczyńca na rzecz liberalnych „reformatorów” z Nowej Południowej Walii, nad którymi prowadzi dochodzenie Icac",
@@ -2544,25 +2544,25 @@
           "source": "Polsat News"
         },
         {
-          "title": "Trump będzie gościł Netanjahu, Zełenskiego i Ukrainy, wojny w Iranie osiągają krytyczną fazę – Reuters",
-          "url": "https://www.reuters.com/world/us/trump-host-netanyahu-zelenskiy-ukraine-iran-wars-reach-critical-stages-2026-07-28/",
-          "source": "Reuters"
+          "title": "Dwóch sprawców ataku na Ukraińców ujętych. Są pierwsze zarzuty",
+          "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32935991,dwoch-sprawcow-ataku-na-ukraincow-ujetych-we-wtorek-pierwsze.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+          "source": "Gazeta Wyborcza"
         }
       ]
     },
     {
       "name": "Iran",
-      "score": 47,
+      "score": 50,
       "reasons": [
-        {
-          "title": "Trump będzie gościł Netanjahu, Zełenskiego i Ukrainy, wojny w Iranie osiągają krytyczną fazę – Reuters",
-          "url": "https://www.reuters.com/world/us/trump-host-netanyahu-zelenskiy-ukraine-iran-wars-reach-critical-stages-2026-07-28/",
-          "source": "Reuters"
-        },
         {
           "title": "Kurorty w Azji Południowo-Wschodniej cierpią, gdy wojna w Iranie odstrasza europejskich turystów",
           "url": "https://www.nytimes.com/2026/07/28/world/asia/iran-war-southeast-asia-tourism.html",
           "source": "The New York Times"
+        },
+        {
+          "title": "Ropa naftowa najniżej od ponad tygodnia, ponieważ przerwa w atakach daje nadzieję na porozumienie USA i Iranu – Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-prices-fall-1-investors-weigh-pause-us-strikes-iran-2026-07-28/",
+          "source": "Reuters"
         },
         {
           "title": "Trump ostrzega przed powrotem do „zdecydowanych działań wojskowych”, jeśli irańska dyplomacja zawiedzie",
@@ -2573,7 +2573,7 @@
     },
     {
       "name": "Tajwan",
-      "score": 27,
+      "score": 33,
       "reasons": [
         {
           "title": "„Straciliśmy wszystko”: ekstremalne opady deszczu w Azji powodują gwałtowne powodzie i tajfuny",
@@ -2584,7 +2584,7 @@
     },
     {
       "name": "Afganistan",
-      "score": 27,
+      "score": 33,
       "reasons": [
         {
           "title": "„Straciliśmy wszystko”: ekstremalne opady deszczu w Azji powodują gwałtowne powodzie i tajfuny",
@@ -2595,7 +2595,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 20,
+      "score": 25,
       "reasons": [
         {
           "title": "Pies uratował Housseina Hamze przed bombą. Kiedy wojna wróciła, pozostał, aby opiekować się zwierzętami w Libanie",
@@ -2606,7 +2606,7 @@
     },
     {
       "name": "Liban",
-      "score": 20,
+      "score": 25,
       "reasons": [
         {
           "title": "Pies uratował Housseina Hamze przed bombą. Kiedy wojna wróciła, pozostał, aby opiekować się zwierzętami w Libanie",
@@ -2808,51 +2808,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25953.61,
+      25953.4,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27130.69,
+      27130.48,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27279.25,
+      27279.04,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27526.87,
+      27526.66,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28169.58,
+      28169.35,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28206.01,
+      28205.79,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28453.37,
+      28453.15,
       27354.94,
       27400.36,
       27412.11,
-      28859.18,
+      28858.96,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28111.75,
+      28111.52,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28293.43,
+      28293.2,
       27686.17,
       27404.78,
       27351.97,
@@ -2861,7 +2861,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27998.59,
+      27998.37,
       27930.04,
       28234.04,
       28218.36,
@@ -2870,18 +2870,18 @@
       28294.39,
       28203.83,
       28555.17,
-      28841.4,
+      28841.18,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28393.29,
+      28393.07,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28219.26,
-      28223.83
+      28219.04,
+      28223.61
     ],
     "currency": "PLN"
   }
