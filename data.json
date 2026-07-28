@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-28T06:26:53Z",
+  "last_updated": "2026-07-28T06:27:58Z",
   "poland": [
+    {
+      "title": "Potężna ulewa w prognozach. W tym regionie nawet 25 litrów deszczu w godzinę - Polskie Radio 24",
+      "url": "https://polskieradio24.pl/pogoda/potezna-ulewa-w-prognozach-w-tym-regionie-nawet-25-litrow-deszczu-w-godzine",
+      "date": "2026-07-28T06:23:45Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Potężna ulewa w prognozach. W tym regionie nawet 25 litrów deszczu w godzinę Polskie Radio 24."
+    },
     {
       "title": "\"Kłamanie prawdą\". Ireneusz Raś odpowiada na zarzuty",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-07-28/klamanie-prawda-ireneusz-ras-odpowiada-na-zarzuty/",
@@ -144,14 +152,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Sprawdź, jak zmienia się kurs funta brytyjskiego. Wczoraj kurs wynosił 5,0573 zł. Jeśli chcesz dowiedzieć się, ile za funta brytyjskiego trzeba zapłacić dziś, przeczytaj poniższy artykuł."
-    },
-    {
-      "title": "Kurs CZK/PLN 28 lipca 2026 r.",
-      "url": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-czeskiej-dzisiaj-po-ile-jest-korona-czeska-28-lipca-2026-r/4p0pd8b",
-      "date": "2026-07-28T05:04:25Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Czeska korona nie ma nawet 30 lat, co sprawia, że jest to jedna z najmłodszych walut europejskich. Pokazujemy bieżący kurs waluty CZK z dnia 28 lipca 2026 z godz. 7 rano."
     },
     {
       "title": "Kalendarium rynku kapitałowego GPW 2026-07-28 - PAP Biznes",
@@ -502,7 +502,7 @@
     {
       "title": "Dwa trzęsienia ziemi nawiedziły chińską prowincję Qinghai – Reuters",
       "url": "https://www.reuters.com/business/environment/two-earthquakes-strike-chinas-qinghai-province-2026-07-28/",
-      "date": "2026-07-28T03:56:43Z",
+      "date": "2026-07-28T03:56:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Dwa trzęsienia ziemi nawiedziły chińską prowincję Qinghai Reuters."
@@ -1418,6 +1418,14 @@
       "summary": "Po ataku terrorystycznym w Berlinie powróciła dyskusja o wdrożeniu przepisów dotyczących wykorzystania danych informatycznych w śledztwach w Niemczech. Projekt ustawy o przechowywaniu adresów IP oraz numerów portów pojawił się w grudniu 2025 roku; oprócz głosów popierających inicjatywę, część ekspertów wskazuje na możliwe problemy z prywatnością."
     },
     {
+      "title": "Microsoft twierdzi, że nowy model sztucznej inteligencji w zakresie cyberbezpieczeństwa pomaga MDASH osiągnąć 95,95% przy połowie kosztów",
+      "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+      "date": "2026-07-28T06:07:22Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Firma Microsoft uruchomiła swój pierwszy model dostosowany do cyberbezpieczeństwa w ramach MDASH, czyli wielomodelową wiązkę identyfikacji i usuwania luk w zabezpieczeniach. Firma twierdzi, że MDASH, korzystając z MAI-Cyber-1-Flash i GPT-5.4, uzyskał 95,95% w CyberGym. Twierdzi również, że konfiguracja kosztuje o 50% mniej niż obecnie najlepsza kombinacja MDASH GPT-5.4, GPT-5.4 mini i GPT-5.3 Codex."
+    },
+    {
       "title": "Atakujący wykorzystują lukę w wstrzykiwaniu poleceń Arista VeloCloud Orchestrator",
       "url": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
       "date": "2026-07-28T04:43:53Z",
@@ -1784,14 +1792,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Przez lata kampanie phishingowe wymierzone w instytucje finansowe działały według tego samego schematu. Ofiary zostały oszukane do wprowadzenia nazw użytkowników i haseł, osoby atakujące zbierały dane uwierzytelniające, a konta zostały naruszone później, gdy pojawiła się okazja. Ten model się zmienia."
-    },
-    {
-      "title": "Partnerzy Cl0p celują w ujawnione w Internecie PTC Windchill i FlexPLM z nieuwierzytelnionym RCE",
-      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "date": "2026-07-25T10:14:03Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Podmioty zagrażające powiązane z kampanią ransomware Cl0p (znaną również jako Chubby Scorpius, FIN11, Graceful Spider i Lace Tempest) wykorzystują luki we wdrożeniach PTC Windmill i FlexPLM ujawnionych w Internecie w ramach nowej kampanii wyłudzania danych. „Atakujący łączą ujawnienie informacji przed uwierzytelnieniem w punkcie końcowym FlexPLM WSDL z luką po stronie serwera w serwlecie logowania Windchill, umożliwiając."
     }
   ],
   "finance": [
@@ -1972,6 +1972,14 @@
       "summary": "WIBOR ma zniknąć - ale nowego wskaźnika nikt nie chce. Żeby mimo to domknąć reformę, w ruch idą kary umowne, groźby wypowiedzenia licencji i ustawa, dzięki której list o zmianie oprocentowania może dostać ponad 3 mln kredytobiorców. W drugiej części kulis pokazujemy, jak reformę przeciska się przez rynek, który się jej opiera."
     },
     {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/gaz;wojska,21?strona=18",
+      "date": "2026-07-28T02:13:18Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
       "title": "„Desperacko skalowałam firmę”. Ola Budzyńska w pierwszym wywiadzie od upadku „imperium Pani Swojego Czasu” - Forbes",
       "url": "https://www.forbes.pl/forbeswomen/upadek-imperium-pani-swojego-czasu-ola-budzynska-desperacko-skalowalam-firme/49nsyde",
       "date": "2026-07-27T22:53:00Z",
@@ -2020,28 +2028,20 @@
       "summary": "Komunikat ESPI G-Devs Spółka Akcyjna (gdevs): Zawiadomienia z art. 69 Ustawy o Ofercie Publicznej stockwatch.pl."
     },
     {
-      "title": "OKA0130 - Obligacje Okam Capital Sp. z o.o. OKAMCAP - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/obligacje/emitent-prywatny/okamcap/oka0130",
-      "date": "2026-07-27T20:44:31Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "OKA0130 - Obligacje Okam Capital Sp. z o.o. OKAMCAP stockwatch.pl."
-    },
-    {
-      "title": "RES0529 - Obligacje Resi Capital SA RESICAP - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/obligacje/emitent-prywatny/resicap/res0529",
-      "date": "2026-07-27T20:44:26Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "RES0529 - Obligacje Resi Capital SA RESICAP stockwatch.pl."
-    },
-    {
       "title": "Data na fakturze to jedno. Przewoźnicy i tak czekają na pieniądze tygodniami",
       "url": "https://300gospodarka.pl/news/przewoznicy-czekaja-na-pieniadze-od-kontrahentow-ponad-2-miesiace",
       "date": "2026-07-27T20:19:04Z",
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Polskie firmy transportowe czekały w pierwszym kwartale 2026 r. średnio 63 dni na zapłatę za wykonaną usługę – wynika z najnowszego Indeksu Płatności Malcom Finance. Przewoźnicy próbowali skrócić drogę do pieniędzy, bo średni termin płatności zmniejszył się z 53 do 43 dni."
+    },
+    {
+      "title": "Komunikat ESPI PRIME ALTERNATYWNA SPÓŁKA INWESTYCYJNA SPÓŁKA AKCYJNA (prime): Dwa zawiadomienia w trybie art. 69 Ustawy o ofercie publicznej - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/prime,dwa-zawiadomienia-w-trybie-art-69-ustawy-o-of-2026-07-27,espi,20260727_215715_0000355078",
+      "date": "2026-07-27T19:57:15Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat ESPI PRIME ALTERNATYWNA SPÓŁKA INWESTYCYJNA SPÓŁKA AKCYJNA (prime): Dwa zawiadomienia w trybie art. 69 Ustawy o ofercie publicznej stockwatch.pl."
     },
     {
       "title": "Orange podsumowuje półrocze i podnosi całoroczne prognozy - BiznesRadar",
@@ -2066,6 +2066,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "restauracja Forbes."
+    },
+    {
+      "title": "Komunikat EBI HiProMine SA (hipromine): Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/hipromine,odwolanie-lub-rezygnacja-osoby-zarzadzajacej-2026-07-27,ebi,20260727_190636_0000004451",
+      "date": "2026-07-27T17:06:36Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI HiProMine SA (hipromine): Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej stockwatch.pl."
     },
     {
       "title": "Columbus Energy może słono zapłacić. Urząd wylicza zarzuty przeciwko prawom konsumentów",
@@ -2116,20 +2124,20 @@
       "summary": "24 lipca największe chińskie banki komercyjne zakończyły obsługę detalicznych kontraktów na złoto notowanych na Szanghajskiej Giełdzie Złota (Shanghai Gold Exchange). Decyzja zapadła w chwili, gdy na kurs złota wpływają dwie siły: napięcia na Bliskim Wschodzie i obawy o wysokie stopy procentowe w Stanach Zjednoczonych, które są napędzane droższą ropą. Największe chińskie banki komercyjne zakończyły 24 lipca 2026 r."
     },
     {
-      "title": "Analiza techniczna ROBYG SA (ROB) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/ROB",
-      "date": "2026-07-27T14:22:40Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Analiza techniczna ROBYG SA (ROB) BiznesRadar."
-    },
-    {
       "title": "Wiadomości INC SA - strona: 158 - BiznesRadar",
       "url": "https://www.biznesradar.pl/wiadomosci/INC,158",
       "date": "2026-07-27T14:21:30Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Wiadomości INC SA - strona: 158 BiznesRadar."
+    },
+    {
+      "title": "Wiadomości INC SA - strona: 157 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wiadomosci/INC,157",
+      "date": "2026-07-27T14:21:30Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości INC SA - strona: 157 BiznesRadar."
     },
     {
       "title": "Obligacje skarbowe sierpień 2026. Nowa oferta MF i rekordowa sprzedaż w czerwcu",
@@ -2154,14 +2162,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Globalne fundusze prywatne dostępne dla polskich inwestorów indywidualnych. Revolut udostępnia inwestycje w gigantów private equity Seb Seb pon., 27.07.2026 Kanał Strefa Inwestorów Revolut inwestycje privatemarket Apollo Ares Hamilton Lane Partners Group rynki prywatne private equity dług prywatny infrastruktura prywatna Treść Revolut udostępnia swoim klientom w Polsce możliwość inwestowania w fundusze rynku prywatnego (Private Markets), oferujące ekspozycję na private equity, dług prywatny oraz infrastrukturę prywatną. Oferta powstała we współpracy z czterema globalnymi zarządzającymi aktywami: Apollo, Ares, Hamilton Lane i Partners Group.Nowa oferta skierowana jest do doświadczonych inwestorów długoterminowych i ma umożliwić dywersyfikację portfela poprzez fundusze zarządzane przez wymienione instytucje."
-    },
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/forsal-dla-dgp;wywiad,124",
-      "date": "2026-07-27T13:05:18Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Putin zaciska sieć wokół Rosjan. To kolejny sygnał przygotowań do mobilizacji - Forsal.pl",
@@ -2820,51 +2820,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25921.36,
+      25921.09,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27096.99,
+      27096.7,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27245.36,
+      27245.07,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27492.68,
+      27492.39,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28134.58,
+      28134.28,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28170.97,
+      28170.67,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28418.02,
+      28417.72,
       27354.94,
       27400.36,
       27412.11,
-      28823.33,
+      28823.03,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28076.82,
+      28076.52,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28258.28,
+      28257.98,
       27686.17,
       27404.78,
       27351.97,
@@ -2873,7 +2873,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27963.81,
+      27963.51,
       27930.04,
       28234.04,
       28218.36,
@@ -2882,17 +2882,17 @@
       28294.39,
       28203.83,
       28555.17,
-      28805.57,
+      28805.27,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28358.02,
+      28357.72,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28188.77
+      28188.47
     ],
     "currency": "PLN"
   }
