@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-29T09:14:54Z",
+  "last_updated": "2026-07-29T09:15:27Z",
   "poland": [
+    {
+      "title": "USA otwierają nowy front wojny z Chinami. Tym razem celem są humanoidy i centra danych AI",
+      "url": "https://cyfrowa.rp.pl/globalne-interesy/art44904151-usa-otwieraja-nowy-front-wojny-z-chinami-tym-razem-celem-sa-humanoidy-i-centra-danych-ai",
+      "date": "2026-07-29T09:10:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Administracja Donalda Trumpa zablokowała dostęp do rynku nowym chińskim robotom humanoidalnym oraz kluczowym urządzeniom dla infrastruktury AI. Chiny protestują i grożą odwetem."
+    },
     {
       "title": "W naszym regionie Europy rośnie popyt na samochody ciężarowe",
       "url": "https://logistyka.rp.pl/drogowy/art44904071-w-naszym-regionie-europy-rosnie-popyt-na-samochody-ciezarowe",
@@ -96,14 +104,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Chcę, żeby taniej było na wszystkich stacjach. Dlaczego miałbym działać na niekorzyść polskiej firmy i faworyzować inne podmioty obecne na polskim rynku? — pytał podczas konferencji prasowej premier Donald Tusk."
-    },
-    {
-      "title": "Donald Tusk: Barbara Mróz-Gorgoń zajmie się promowaniem marki Polska i turystyki",
-      "url": "https://turystyka.rp.pl/nowe-trendy/art44903791-donald-tusk-barbara-mroz-gorgon-zajmie-sie-promowaniem-marki-polska-i-turystyki",
-      "date": "2026-07-29T08:14:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Barbara Mróz-Gorgoń została pełnomocnikiem rządu do spraw promowania marki Polska - poinformował premier Donald Tusk. Jak dodał, jej celem będzie spójna promocja naszego kraju, w tym zapewnienie, że Polska stanie się jeszcze atrakcyjniejszym kierunkiem dla turystów."
     },
     {
       "title": "Białorusini z apelem do Zełenskiego. Jest odpowiedź z Ukrainy",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "AI przeszukuje 3700 opisów snów i życia na jawie, znajduje metodę w szaleństwie",
+      "url": "https://www.theregister.com/offbeat/2026/07/29/ai-digs-through-3700-accounts-of-dreams-and-waking-life-finds-method-in-the-madness/5279775",
+      "date": "2026-07-29T09:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Naukowcy odkrywają wzorce tego, jak uśpione umysły ponownie łączą wspomnienia, ludzi i miejsca."
+    },
+    {
       "title": "Wydano publiczny PoC w związku z wykorzystanym obejściem uwierzytelniania Check Point SmartConsole",
       "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
       "date": "2026-07-29T08:58:27Z",
@@ -1600,14 +1608,6 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Szczerze mówiąc nie wierzyłem, że takie rzeczy się mogą wydarzyć. Badacz, który niedawno zgłosił krytyczną podatność w WordPress Core, opracował całość z wykorzystaniem narzędzia od OpenAI. Podatność umożliwia otrzymanie dostępu na serwer przez atakującego nieposiadającego żadnego konta."
-    },
-    {
-      "title": "Pomimo szumu, błędy znalezione przez sztuczną inteligencję nie są łatwiejsze do wykorzystania",
-      "url": "https://www.theregister.com/security/2026/07/28/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype/5279637",
-      "date": "2026-07-28T15:26:41Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "VulnCheck twierdzi, że mniej niż 2% luk w zabezpieczeniach wykrytych przy pomocy sztucznej inteligencji miało charakter uzbrojony, co poddaje w wątpliwość twierdzenia, że ​​modele z pogranicza zapewniają atakującym znaczną przewagę."
     },
     {
       "title": "Botnet Tengu ponownie uruchamia zainfekowane urządzenia z systemem Linux, gdy obrońcy przerywają jego proces",
@@ -2140,20 +2140,12 @@
       "summary": "Wiadomości INC SA - strona: 159 BiznesRadar."
     },
     {
-      "title": "Formacje analizy technicznej ACH0729 ARCHE - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/ACH0729",
-      "date": "2026-07-28T14:13:17Z",
+      "title": "Analiza techniczna INTLPKN99606 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/INTLPKN99606",
+      "date": "2026-07-28T12:23:56Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Formacje analizy technicznej ACH0729 ARCHE BiznesRadar."
-    },
-    {
-      "title": "Wiadomości INTLSPC99788 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/INTLSPC99788",
-      "date": "2026-07-28T14:01:30Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości INTLSPC99788 INGBANK BiznesRadar."
+      "summary": "Analiza techniczna INTLPKN99606 INGBANK BiznesRadar."
     },
     {
       "title": "Dlaczego księgowość w branży real estate wymaga specjalistycznego podejścia?",
@@ -2162,6 +2154,14 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Rynek nieruchomości komercyjnych rządzi się własnymi zasadami – także w obszarze finansów. Dla CFO i dyrektorów finansowych zarządzających portfelem nieruchomości wyzwaniem nie jest samo prowadzenie ksiąg. Trudność pojawia się wtedy, gdy pojedynczy projekt staje się częścią wielopodmiotowej struktury, która musi raportować terminowo, spójnie i zgodnie zarówno z lokalnymi przepisami, jak i wymaganiami grupy kapitałowej."
+    },
+    {
+      "title": "LPP Logistics uruchamia nowe centrum dystrybucyjne w Rumunii - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149637,lpp-logistics-uruchamia-nowe-centrum-dystrybucyjne-w-rumunii",
+      "date": "2026-07-28T09:23:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "LPP Logistics uruchamia nowe centrum dystrybucyjne w Rumunii BiznesRadar."
     },
     {
       "title": "Zostały wspomnienia, akta sądowe i długi. Tak topniały polskie fortuny z lat 90. - Forbes",
@@ -2756,51 +2756,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25864.3,
+      25865.26,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27037.34,
+      27038.34,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27185.39,
+      27186.39,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27432.16,
+      27433.17,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28072.65,
+      28073.69,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28108.96,
+      28110.0,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28355.47,
+      28356.51,
       27354.94,
       27400.36,
       27412.11,
-      28759.89,
+      28760.95,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28015.02,
+      28016.05,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28196.07,
+      28197.11,
       27686.17,
       27404.78,
       27351.97,
@@ -2809,7 +2809,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27902.26,
+      27903.29,
       27930.04,
       28234.04,
       28218.36,
@@ -2818,19 +2818,19 @@
       28294.39,
       28203.83,
       28555.17,
-      28742.17,
+      28743.23,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28295.6,
+      28296.64,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28122.16,
+      28123.2,
       28165.64,
-      28185.91
+      28186.95
     ],
     "currency": "PLN"
   }
