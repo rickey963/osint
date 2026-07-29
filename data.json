@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T14:06:32Z",
+  "last_updated": "2026-07-29T14:07:18Z",
   "poland": [
     {
       "title": "Glen Hansard nie żyje. Laureat Oscara zginął w wypadku motocyklowym",
@@ -412,7 +412,7 @@
       "summary": "Hansard, który miał 56 lat, zdobył w 2007 roku Oscara za najlepszą piosenkę za niskobudżetowy film muzyczny „Once”."
     },
     {
-      "title": "Zespoły ratownicze stają w obliczu „wyścigu z czasem” w poszukiwaniu uwięzionych ocalałych, gdy liczba ofiar śmiertelnych w Japonii wzrasta do co najmniej 13 – aktualizacje na żywo",
+      "title": "Zespoły ratownicze stają w obliczu „wyścigu z czasem” w poszukiwaniu uwięzionych ocalałych, podczas gdy liczba ofiar śmiertelnych w Japonii wzrasta do co najmniej 13 – aktualizacje na żywo",
       "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
       "date": "2026-07-29T13:57:46Z",
       "source": "The Guardian",
@@ -468,7 +468,7 @@
       "summary": "Fauci powołuje się na Piątą Poprawkę i odmawia odpowiedzi podczas przesłuchania Randa Paula w Reuters."
     },
     {
-      "title": "EKSKLUZYWNIE: Unilever zgadza się na dwuletnią ochronę pracowników po fuzji McCormick o wartości 65 miliardów dolarów, wynika z notatki – Reuters",
+      "title": "EKSKLUZYWNIE: Unilever zgadza się na dwuletnią ochronę pracowników po fuzji McCormicka o wartości 65 miliardów dolarów, wynika z notatki – Reuters",
       "url": "https://www.reuters.com/business/world-at-work/unilever-agrees-two-year-worker-protection-after-65-billion-mccormick-merger-2026-07-29/",
       "date": "2026-07-29T13:19:13Z",
       "source": "Reuters",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Izrael uderza w meczet w Gazie",
+      "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
+      "date": "2026-07-29T14:04:49Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Izraelskie wojsko oskarżyło Hamas o wykorzystywanie meczetu do przechowywania broni. Biuro prasowe kierowanego przez Hamas rządu stwierdziło, że twierdzenia Izraela mają na celu usprawiedliwienie jego ataków na meczety."
+    },
+    {
       "title": "Aktualizacje na żywo wojny w Iranie: Naloty Stanów Zjednoczonych i Arabii Saudyjskiej wciągają więcej krajów do walki",
       "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
       "date": "2026-07-29T13:51:32Z",
@@ -892,14 +900,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "W obliczu potężnych pożarów strażacy w obu krajach korzystają z krótkiej okazji, aby opanować płomienie, zanim temperatura gwałtownie wzrośnie."
-    },
-    {
-      "title": "W pakistańskim Kaszmirze wybuchają starcia, gdy rozpoczyna się głosowanie w wyborach lokalnych",
-      "url": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html",
-      "date": "2026-07-29T05:04:49Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Urzędnicy podali, że w ostatnich tygodniach przed trwającymi tygodniami wyborami regionalnymi zginęło dziesiątki osób. Zakazana grupa praw obywatelskich stwierdziła, że ​​zwolennicy zginęli w konfliktach z policją."
     },
     {
       "title": "Francja nakazuje ewakuację kolejnych 4000 osób w związku z pożarami, które powodują wysiedlenie jednej trzeciej miliona osób w południowo-zachodniej Europie – AP News",
@@ -1229,7 +1229,7 @@
       "date": "2026-07-29T11:15:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Niko Gallogly / New York Times: Pangram, nowojorska firma zajmująca się wykrywaniem sztucznej inteligencji, zebrała 9 milionów dolarów pod przewodnictwem Menlo i wypuszcza Pangram 4.0 oraz swój pierwszy model wykrywania obrazów AI, zapewniający dokładność na poziomie 99,5% &mdash; Pangram, sztuczna inteligencja wykrywania, zapewnia niemal idealną dokładność w wykrywaniu tekstów i obrazów, które nie zostały stworzone przez człowieka."
+      "summary": "Niko Gallogly / New York Times: Pangram, nowojorska firma zajmująca się wykrywaniem sztucznej inteligencji, zebrała 9 milionów dolarów pod przewodnictwem Menlo i wypuszcza Pangram 4.0 oraz swój pierwszy model wykrywania obrazów AI, zapewniający dokładność na poziomie 99,5% &mdash; Pangram, sztuczna inteligencja wykrywania, zapewnia niemal idealną dokładność w wykrywaniu pisma i obrazów, które nie zostały stworzone przez człowieka."
     },
     {
       "title": "Mniej Rosomaków, więcej dronów. Wojsko Polskie testuje Model 44",
@@ -2517,12 +2517,17 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 12,
+      "score": 25,
       "reasons": [
         {
           "title": "„Izraelscy osadnicy oblegli nasz dom”: wnętrze palestyńskiej wioski atakowanej co tydzień",
           "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News"
+        },
+        {
+          "title": "Izrael uderza w meczet w Gazie",
+          "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
+          "source": "The New York Times"
         }
       ]
     },
@@ -2730,51 +2735,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25903.16,
+      25901.8,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27077.96,
+      27076.53,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27226.23,
+      27224.8,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27473.37,
+      27471.93,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28114.82,
+      28113.34,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28151.19,
+      28149.71,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28398.07,
+      28396.57,
       27354.94,
       27400.36,
       27412.11,
-      28803.09,
+      28801.57,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28057.11,
+      28055.63,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28238.43,
+      28236.95,
       27686.17,
       27404.78,
       27351.97,
@@ -2783,7 +2788,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27944.17,
+      27942.7,
       27930.04,
       28234.04,
       28218.36,
@@ -2792,20 +2797,20 @@
       28294.39,
       28203.83,
       28555.17,
-      28785.35,
+      28783.83,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28338.1,
+      28336.61,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28164.41,
+      28162.93,
       28165.64,
-      28228.25,
-      28128.16
+      28226.76,
+      28096.32
     ],
     "currency": "PLN"
   }
