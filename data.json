@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T09:50:35Z",
+  "last_updated": "2026-07-29T09:51:15Z",
   "poland": [
     {
       "title": "Wielbłądy przegrywają z ekstremalnymi upałami. „Ich odporność ma granice”",
@@ -1410,12 +1410,28 @@
   ],
   "cybersecurity": [
     {
+      "title": "AI przeszukuje 3700 opisów snów i życia na jawie, znajduje metodę w szaleństwie",
+      "url": "https://www.theregister.com/offbeat/2026/07/29/ai-digs-through-3700-accounts-of-dreams-and-waking-life-finds-method-in-the-madness/5279775",
+      "date": "2026-07-29T09:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Naukowcy odkrywają wzorce tego, jak uśpione umysły ponownie łączą wspomnienia, ludzi i miejsca."
+    },
+    {
       "title": "Wydano publiczny PoC w związku z wykorzystanym obejściem uwierzytelniania Check Point SmartConsole",
       "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
       "date": "2026-07-29T08:58:27Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Badacze zajmujący się cyberbezpieczeństwem udostępnili dodatkowe szczegóły techniczne dotyczące niedawno załatanej krytycznej luki w zabezpieczeniach wpływającej na serwery Check Point Security Management Server i Multi-Domain Security Management Server (MDS), która jest aktywnie wykorzystywana w środowisku naturalnym. Luka, oznaczona jako CVE-2026-16232 (wynik CVSS: 9,3), polega na obejściu uwierzytelniania w procesie logowania SmartConsole, który."
+    },
+    {
+      "title": "Klucz Burnhama w pracy powoduje, że technologia brytyjskiego rządu jest rozproszona po całym Whitehall",
+      "url": "https://www.theregister.com/public-sector/2026/07/29/burnhams-spanner-in-the-works-leaves-uk-government-tech-scattered-across-whitehall/5279437",
+      "date": "2026-07-29T08:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Podział odpowiedzialności za transformację cyfrową i zamówienia publiczne do czasu zasiadania sztucznej inteligencji w rządzie grozi niespójnością."
     },
     {
       "title": "66 kilogramów narkotyków przejęte. Akcja CBZC na Podkarpaciu",
@@ -1450,12 +1466,28 @@
       "summary": "Kod źródłowy trojana zdalnego dostępu do Androida Flying Eagle (RAT) krąży poprzez przestępcze kanały Telegramu. Hunt.io i niezależny badacz NetAskari prześledzili pasujące panele sterowania i certyfikaty do 170 serwerów internetowych. Powiązali platformę z fałszywą aplikacją usługową „公安一网通办” zajmującą się bezpieczeństwem publicznym, skierowaną do użytkowników Androida w Chinach."
     },
     {
+      "title": "Airbus utrzymuje A350 w powietrzu przez 24 godziny",
+      "url": "https://www.theregister.com/offbeat/2026/07/29/airbus-keeps-an-a350-flying-for-24-hours/5280209",
+      "date": "2026-07-29T06:34:56Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Wersja Ultra Long Range powinna umożliwić w przyszłym roku 22-godzinne loty bez przesiadek z Australii do Europy."
+    },
+    {
       "title": "Incydent w Zegrzu. Dostęp wymagał specjalistycznej wiedzy",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/wycieki-danych/incydent-w-zegrzu-dostep-wymagal-specjalistycznej-wiedzy",
       "date": "2026-07-29T06:18:00Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Dane nie zostały wyprowadzone poza środowisko resortu obrony narodowej, a dostęp do nich nie był możliwy w sposób bezpośredni – wynika z informacji dotyczących incydentu cyberbezpieczeństwa w Centrum Szkolenia Łączności i Informatyki przekazanych redakcji CyberDefence24 przez oficera prasowego jednostki. Lista działań zapobiegawczych podjętych wskutek zdarzenia obejmuje m.in. rygorystyczny monitoring przetwarzania danych."
+    },
+    {
+      "title": "Wymagające oferty Big Tech, które wyrównują ceny pamięci, mówi SK Hynix",
+      "url": "https://www.theregister.com/systems/2026/07/29/big-tech-demanding-deals-that-smooth-out-memory-prices-says-sk-hynix/5280182",
+      "date": "2026-07-29T05:18:18Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Nie martw się o upadek sztucznej inteligencji, potworne zyski i ogromne marże pozostaną."
     },
     {
       "title": "Dwa skompromitowane pakiety joyfill npm uruchamiają RAT po zaimportowaniu do Node.js",
@@ -1466,12 +1498,100 @@
       "summary": "Wersje beta dwóch pakietów npm w przestrzeni nazw @joyfill zostały naruszone w celu dostarczenia trojana zdalnego dostępu (RAT) powiązanego z rodziną złośliwego oprogramowania DEV#POPPER. Lista pakietów, których dotyczy problem, jest następująca - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4 Obydwa pakiety „zawierają implant JavaScript używany w czasie importu, który rozpoznaje zaszyfrowany kod."
     },
     {
+      "title": "Ameryka zakazuje importowanych robotów ze względu na ryzyko związane z łańcuchem dostaw i bezpieczeństwem",
+      "url": "https://www.theregister.com/security/2026/07/29/america-bans-imported-robots-due-to-supply-chain-and-security-risks/5280145",
+      "date": "2026-07-29T02:16:31Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Dokumenty wskazują na chińską jednostkę Unitree jako doskonały przykład zagrożenia ze strony zagranicznych brzęków."
+    },
+    {
+      "title": "Requiem dla Optane, zabójcy pamięci podręcznej KV firmy Intel, który mógł złagodzić kryzys cenowy pamięci RAM",
+      "url": "https://www.theregister.com/storage/2026/07/29/a-requiem-for-optane-intels-kv-cache-killer-that-could-have-eased-the-ram-price-crunch/5280063",
+      "date": "2026-07-28T23:27:59Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Dzięki mikroskopijnym opóźnieniom i nieziemskiej wytrzymałości zapisu idealnie nadawał się do współczesnych obciążeń związanych ze sztuczną inteligencją, ale zniknął, zanim się pojawił."
+    },
+    {
+      "title": "MCP przechodzi metamorfozę przedsiębiorstwa",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/29/mcp-gets-an-enterprise-makeover/5280027",
+      "date": "2026-07-28T23:08:02Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Teraz szczęśliwsza praca w konwencjonalnym środowisku K8 z „łatwiejszym w obsłudze cyklem życia”."
+    },
+    {
+      "title": "Wygląda na to, że 0-dni JFroga pozwoliły modelom OpenAI zhakować Hugging Face",
+      "url": "https://www.theregister.com/security/2026/07/28/looks-like-jfrogs-0-days-let-openais-models-hack-hugging-face/5280001",
+      "date": "2026-07-28T22:01:53Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Sprzedawca nie potwierdzi ani nie zaprzeczy."
+    },
+    {
+      "title": "Rada modelu tokenmaxxing firmy Perplexity zapewnia wiele perspektyw dla botów",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/28/perplexitys-tokenmaxxing-model-council-gives-you-multiple-bot-perspectives/5279972",
+      "date": "2026-07-28T21:26:53Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Nawet 8 modeli AI działających w chmurze uwzględnia niejednoznaczne kwestie biznesowe? Brzmi niedrogo."
+    },
+    {
+      "title": "Maszyny wojenne mogą wpaść w szał, gdy kontroluje je sztuczna inteligencja",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/28/war-machines-can-run-amok-with-ai-in-control/5279937",
+      "date": "2026-07-28T19:51:08Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Przegląd łańcucha zabijania sztucznej inteligencji przedstawia ryzyko związane z wszechobecnym nadzorem i wadliwymi algorytmami."
+    },
+    {
+      "title": "Agenci Microsoftu i Wiz wyłapują ponad 90% błędów",
+      "url": "https://www.theregister.com/security/2026/07/28/microsoft-and-wiz-mind-meld-agents-catch-more-than-90-of-bugs/5279914",
+      "date": "2026-07-28T19:21:01Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Sekret ich sukcesu: użycie odpowiedniego modelu do odpowiedniego zadania związanego z bezpieczeństwem."
+    },
+    {
       "title": "Claude AI właśnie złamał schemat testu postkwantowego i znalazł szybszy, 7-rundowy atak AES",
       "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
       "date": "2026-07-28T18:59:07Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Anthropic twierdzi, że Claude Mythos Preview pomógł w przeprowadzeniu kompleksowego ataku polegającego na odzyskiwaniu klucza na HAWK-256 i 200–800-krotnym przyspieszeniu ataku na siedmirundowy AES-128. Atak HAWK wykorzystuje nieużywaną wcześniej symetrię w siatce kryjącej się za schematem podpisu. Opublikowana implementacja Anthropic zapewnia oczekiwany, kompleksowy czas działania wynoszący około trzech godzin i 42 minut na 96-rdzeniowym serwerze."
+    },
+    {
+      "title": "Sztuczna inteligencja to największa szansa dla pamięci masowej i największe zagrożenie",
+      "url": "https://www.theregister.com/storage/2026/07/28/ai-is-storages-biggest-opportunity-and-biggest-threat/5279607",
+      "date": "2026-07-28T16:51:59Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Szybszy dostęp i bezpieczniejsze odzyskiwanie danych napędzają biznes, ale wpadki i ataki mogą zagrozić danym."
+    },
+    {
+      "title": "Profesor college'u ukrywa zachętę do łapania oszustów AI, stwierdza, że ​​natura ludzka jest prawie taka, jak myśleliśmy",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/28/college-prof-hides-prompt-to-catch-ai-cheaters-finds-human-nature-is-pretty-much-as-we-thought/5279864",
+      "date": "2026-07-28T16:20:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": ""
+    },
+    {
+      "title": "DEF CON zakazuje „zboczonych okularów” w stylu Meta",
+      "url": "https://www.theregister.com/security/2026/07/28/def-con-bans-meta-style-pervert-glasses/5279763",
+      "date": "2026-07-28T16:05:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Coraz więcej organizatorów zabrania stosowania sprzętu wyposażonego w aparat, nawet z obiektywami na receptę."
+    },
+    {
+      "title": "Wielka Brytania ma nadzieję, że 7,3 miliona funtów pomoże w startowaniu samolotów elektrycznych i wodorowych",
+      "url": "https://www.theregister.com/offbeat/2026/07/28/britain-hopes-73m-will-help-electric-and-hydrogen-aircraft-take-off/5279809",
+      "date": "2026-07-28T15:55:19Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Rząd znajduje luźną zmianę w sprawie badań nad lotami bezemisyjnymi."
     },
     {
       "title": "Gość zainfekował pytanie egzaminacyjne ukrytą instrukcją dla AI…",
@@ -2620,51 +2740,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25874.87,
+      25877.94,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27048.39,
+      27051.59,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27196.49,
+      27199.72,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27443.37,
+      27446.62,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28084.12,
+      28087.45,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28120.44,
+      28123.78,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28367.05,
+      28370.41,
       27354.94,
       27400.36,
       27412.11,
-      28771.63,
+      28775.04,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28026.46,
+      28029.79,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28207.59,
+      28210.94,
       27686.17,
       27404.78,
       27351.97,
@@ -2673,7 +2793,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27913.65,
+      27916.96,
       27930.04,
       28234.04,
       28218.36,
@@ -2682,19 +2802,19 @@
       28294.39,
       28203.83,
       28555.17,
-      28753.91,
+      28757.32,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28307.15,
+      28310.51,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28133.65,
+      28136.99,
       28165.64,
-      28197.42
+      28200.76
     ],
     "currency": "PLN"
   }
