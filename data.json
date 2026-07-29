@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-29T12:24:13Z",
+  "last_updated": "2026-07-29T12:33:47Z",
   "poland": [
+    {
+      "title": "W tej branży można zarabiać ponad 50 tys. zł. Dlaczego firmy tyle płacą?",
+      "url": "https://www.rp.pl/wynagrodzenia/art44905331-w-tej-branzy-mozna-zarabiac-ponad-50-tys-zl-dlaczego-firmy-tyle-placa",
+      "date": "2026-07-29T12:23:15Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Branża IT nie odczuwa spadku zapotrzebowania na specjalistów, co widać po oferowanych stawkach, które mogą przekraczać 50 tys. zł brutto. Rośnie popyt m.in."
+    },
     {
       "title": "Co trzeci polski generał nie zna biegle angielskiego. Dane MON zaskakują",
       "url": "https://businessinsider.com.pl/wiadomosci/nato-wymaga-bieglosci-angielskiego-a-statystyki-niepokoja-mon-ujawnil-dane/f23jcyd",
@@ -112,14 +120,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Dr Bartosz Fiałek poinformował, że kończy pracę w publicznym systemie ochrony zdrowia. Lekarz przekonuje, że po latach prób reformowania systemu stracił wiarę w możliwość jego naprawy. Jak wynika jednak z ustaleń mediów, decyzja zbiegła się z odrzuceniem jego oferty w konkursie na świadczenie usług w poradni reumatologicznej w Sopocie."
-    },
-    {
-      "title": "Badania: pizza daniem narodowym Polaków. Cena nadal decyduje o wyborze lokalu",
-      "url": "https://www.rp.pl/gastronomia/art44905041-badania-pizza-daniem-narodowym-polakow-cena-nadal-decyduje-o-wyborze-lokalu",
-      "date": "2026-07-29T11:00:07Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Pizza pozostaje najpopularniejszym wyborem Polaków w gastronomii – w lokalu, z dostawą i na wynos. Przy wyborze miejsca nadal wygrywa jednak pragmatyzm: dla 48 proc. klientów najważniejszym kryterium jest cena."
     },
     {
       "title": "\"Morawiecki ewidentnie miał swój własny plan\". Kaczyński reaguje na decyzję Morawieckiego",
@@ -404,20 +404,44 @@
   ],
   "world_security": [
     {
+      "title": "Zełenski i Netanjahu spotykają się z Trumpem w miarę przeciągania się wojen na Ukrainie i w Iranie",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-29T12:17:42Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Obaj przywódcy wydają się zachęceni po odbyciu równoległych rozmów dwustronnych w Białym Domu."
+    },
+    {
+      "title": "Pedro Sánchez mówi, że następne 12 godzin będzie „decydujących” w walce o powstrzymanie pożarów – Europa na żywo",
+      "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
+      "date": "2026-07-29T12:14:20Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Władze obawiają się, że postęp w tłumieniu pożarów w regionach Gironde i Madrytu może zostać zahamowany przez temperatury, które w Brukseli mają osiągnąć 40 stopni. Zespół ds. zarządzania kryzysowego Unii Europejskiej spodziewa się trudnych tygodni, obawiając się dalszego wybuchu pożarów we Włoszech i Grecji wraz z upływem lata. „Strażak skoncentruje się na ochronie ludzi. Skupi się na ochronie domów, przedsiębiorstw, firm, ponieważ jest to coś, co ma znaczenie dla całego naszego społeczeństwa. I rzeczywiście, czasami skupiając się na tym, nie będą w stanie ugasić ogień, [tak jak] by to zrobili, gdyby był to tylko las."
+    },
+    {
+      "title": "W Ghanie doszło do ogólnokrajowych awarii prądu w elektrowniach",
+      "url": "https://www.bbc.co.uk/news/articles/crmrkgr4z0jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-29T12:10:40Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Masowa awaria spowodowała poważne zakłócenia w domach, firmach i niektórych podstawowych usługach."
+    },
+    {
+      "title": "BMW zwolni „aż 8 000 stanowisk pracy” pod presją chińskich rywali",
+      "url": "https://www.theguardian.com/business/2026/jul/29/bmw-cut-jobs-germany-pressure-chinese-rivals",
+      "date": "2026-07-29T12:02:20Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Zwolnienia nastąpią w działach administracyjnych i rozwoju w Niemczech, a działalność produkcyjna nie będzie miała wpływu. Według doniesień BMW planuje zwolnić aż 8 000 pracowników w Niemczech, co jest najnowszym sygnałem redukcji kosztów przez największych europejskich producentów samochodów pod presją chińskich rywali. Firma z siedzibą w Monachium rozpoczęła program dobrowolnych zwolnień uzgodniony z przedstawicielami pracowników, powiedział w środę rzecznik BMW. Kontynuuj czytanie..."
+    },
+    {
       "title": "W wypadku zginął zdobywca Oscara, autor tekstów Glen Hansard",
       "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-29T12:01:44Z",
       "source": "BBC News",
       "confirmed_by": 2,
       "summary": "Hansard, który miał 56 lat, zdobył w 2007 roku Oscara za najlepszą piosenkę za niskobudżetowy film muzyczny „Once”."
-    },
-    {
-      "title": "Pedro Sánchez mówi, że następne 12 godzin będzie „decydujących” w walce o powstrzymanie pożarów – Europa na żywo",
-      "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
-      "date": "2026-07-29T11:56:09Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Władze obawiają się, że postęp w tłumieniu pożarów w regionach Gironde i Madrytu może zostać zahamowany przez temperatury, które w Brukseli mają sięgnąć 40 stopni. Zespół ds. zarządzania kryzysowego Unii Europejskiej spodziewa się trudnych tygodni, obawiając się dalszego wybuchu pożarów we Włoszech i Grecji wraz z upływem lata. „Strażak skoncentruje się na ochronie ludzi. Skupi się na ochronie domów, przedsiębiorstw, firm, ponieważ jest to coś, co ma znaczenie dla całego naszego społeczeństwa. I rzeczywiście, czasami skupiając się na tym, nie będą w stanie ugasić ogień, [tak jak] by to zrobili, gdyby był to tylko las."
     },
     {
       "title": "Francuski producent muzyczny Kavinsky, znany ze ścieżki dźwiękowej do utworu Drive Nightcall, umiera w wieku 50 lat",
@@ -449,7 +473,7 @@
       "date": "2026-07-29T11:42:09Z",
       "source": "The Guardian",
       "confirmed_by": 2,
-      "summary": "Pracownicy służb ratowniczych kontynuują poszukiwania ocalałych w południowej Japonii po wczorajszym potężnym trzęsieniu ziemi „Wyścig z czasem”: liczba ofiar trzęsienia ziemi w Japonii rośnie w miarę poszukiwania zaginionych przez ekipy ratownicze Widok z lotu ptaka zawalonego odcinka mostu w mieście Yatsushiro po trzęsieniu ziemi o sile 7,1 w skali Richtera, które nawiedziło południową prefekturę Kumamoto w Japonii: japońska gazeta Mainichi Shimbun rozmawiała z ludźmi w fabryce Nippon Paper Industries w Yatsushiro, gdzie znajduje się komin upadł na miejsce. „Nigdy nie wyobrażałem sobie, że wydarzy się coś takiego” – powiedział 33-letni mężczyzna, który pracował w fabryce. „Nigdy nie myślałem, że komin może się zawalić."
+      "summary": "Pracownicy służb ratunkowych kontynuują poszukiwania ocalałych w południowej Japonii po wczorajszym potężnym trzęsieniu ziemi „Wyścig z czasem”: liczba ofiar trzęsienia ziemi w Japonii rośnie w miarę poszukiwania zaginionych przez ekipy ratownicze Widok z lotu ptaka zawalonego odcinka mostu w mieście Yatsushiro po trzęsieniu ziemi o sile 7,1 w skali Richtera, które nawiedziło południową prefekturę Kumamoto w Japonii: japońska gazeta Mainichi Shimbun rozmawiała z ludźmi w fabryce Nippon Paper Industries w Yatsushiro, gdzie znajduje się komin upadł na miejsce. „Nigdy nie wyobrażałem sobie, że przydarzy się coś takiego” – powiedział 33-letni mężczyzna, który pracował w fabryce. „Nigdy nie myślałem, że komin może się zawalić."
     },
     {
       "title": "Tysiące mieszkańców Hiszpanii wraca do domu, ale nowa fala upałów budzi strach przed pożarami",
@@ -506,6 +530,14 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Komercyjny dron morski uchwycił materiał filmowy przedstawiający chiński okręt wojenny na wodach Filipin Reuters."
+    },
+    {
+      "title": "Po opublikowaniu pamiętnika Fauci stanie przed komisją Senatu USA Randa Paula – Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fauci-face-rand-pauls-us-senate-committee-after-diary-release-2026-07-29/",
+      "date": "2026-07-29T10:43:46Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Po opublikowaniu dziennika Fauci stanie przed komisją Senatu USA Randa Paula Reuters."
     },
     {
       "title": "EKSKLUZYWNIE: Dowódca USA ostrzega żołnierzy, że ich filmy pomagają Iranowi, podają źródła – Reuters",
@@ -588,7 +620,7 @@
       "summary": "BMW zwolni kilka tysięcy stanowisk pracy, co będzie kolejnym ciosem dla niemieckiego sektora motoryzacyjnego Reuters."
     },
     {
-      "title": "EKSKLUZYWNIE: Unilever zgadza się na dwuletnią ochronę pracowników po fuzji McCormick o wartości 65 miliardów dolarów, wynika z notatki – Reuters",
+      "title": "EKSKLUZYWNIE: Unilever zgadza się na dwuletnią ochronę pracowników po fuzji McCormicka o wartości 65 miliardów dolarów, wynika z notatki – Reuters",
       "url": "https://www.reuters.com/business/world-at-work/unilever-agrees-two-year-worker-protection-after-65-billion-mccormick-merger-2026-07-29/",
       "date": "2026-07-29T09:40:59Z",
       "source": "Reuters",
@@ -668,15 +700,7 @@
       "summary": "Pętla politycznej zagłady premier Japonii zaostrza jej walkę z rynkami Reuters."
     },
     {
-      "title": "Iran wyklucza regionalne zarządzanie Cieśniną Ormuz, tracąc nadzieję na przełom – Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-rules-out-regional-management-hormuz-strait-hitting-hopes-breakthrough-2026-07-29/",
-      "date": "2026-07-29T07:06:12Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Iran wyklucza regionalne zarządzanie Cieśniną Ormuz, tracąc nadzieję na przełom Reuters."
-    },
-    {
-      "title": "Młodzi liberalni brokerzy władzy stworzyli „główną kartkę” na ministra Nowej Południowej Walii, oskarżając go o romans pozamałżeński",
+      "title": "Młodzi liberalni brokerzy władzy stworzyli „gówno” na temat ministra Nowej Południowej Walii, oskarżając go o romans pozamałżeński",
       "url": "https://www.theguardian.com/australia-news/2026/jul/29/icac-operation-rosny-young-liberals-shit-sheet-nsw-minister-david-elliott-ntwnfb",
       "date": "2026-07-29T06:30:45Z",
       "source": "The Guardian",
@@ -689,7 +713,7 @@
       "date": "2026-07-29T05:46:19Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "W dzisiejszym biuletynie: Niedawne zmiany w rządzie ujawniły głębokie podziały w czasie wojny w rządzie Wołodymyra Zełenskiego. Dzień dobry. Kolejny tydzień, kolejny sukces dyplomatyczny Wołodymyra Zełenskiego. W poniedziałek jego pierwsze spotkanie z Andym Burnhamem jako premierem potwierdziło ciągłość niezachwianego wsparcia Wielkiej Brytanii dla Ukrainy."
+      "summary": "W dzisiejszym biuletynie: Niedawne zmiany w rządzie odsłoniły głębokie podziały w czasie wojny w rządzie Wołodymyra Zełenskiego. Dzień dobry. Kolejny tydzień, kolejny sukces dyplomatyczny Wołodymyra Zełenskiego. W poniedziałek jego pierwsze spotkanie z Andym Burnhamem jako premierem potwierdziło ciągłość niezachwianego wsparcia Wielkiej Brytanii dla Ukrainy."
     },
     {
       "title": "Tysiące osób ukrywających się w kluczowym mieście Sudanu jest ponownie zagrożone w miarę eskalacji walk",
@@ -721,7 +745,7 @@
       "date": "2026-07-29T04:43:36Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Strażacy są przygotowani na gwałtowny wzrost temperatur w środę, co może skomplikować opanowanie pożarów w Żyrondzie."
+      "summary": "Strażacy są przygotowani na gwałtowny wzrost temperatur w środę, co może skomplikować opanowanie pożarów w Gironde."
     },
     {
       "title": "„Wyścig z czasem”: liczba ofiar trzęsienia ziemi w Japonii rośnie w miarę poszukiwań zaginionych",
@@ -732,39 +756,23 @@
       "summary": "Wojsko mobilizuje tysiące personelu po trzęsieniu ziemi na południowej wyspie Kiusiu, które zarejestrowało maksymalnie 7 stopni w japońskiej skali intensywności shindo Trzęsienie ziemi skały na południowej japońskiej wyspie Kiusiu – na zdjęciach Co najmniej 13 osób zginęło w wyniku trzęsienia ziemi o sile 6,8 w skali Richtera, które we wtorek nawiedziło południową Japonię, powodując obrażenia setek osób oraz utratę prądu i wody dziesiątkom tysięcy. „Są ludzie, którzy wciąż czekają na ratunek i jest to wyścig z czasem” – premier Sanae Takaichi – powiedziała w środę. „Dołożymy wszelkich starań, aby znaleźć i uratować jak najwięcej osób”. Kontynuuj czytanie..."
     },
     {
-      "title": "Administracja Trumpa zakazuje nowych chińskich robotów humanoidalnych",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-29T02:30:50Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Stany Zjednoczone i Chiny toczą wyścig o przewodnictwo w świecie robotyki i sztucznej inteligencji."
-    },
-    {
-      "title": "Zełenski i Netanjahu spotykają się z Trumpem w miarę przeciągania się wojen na Ukrainie i w Iranie",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-29T02:24:03Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Obaj przywódcy wydają się zachęceni po odbyciu równoległych rozmów dwustronnych w Białym Domu."
-    },
-    {
       "title": "Kenia prowadzi dochodzenie w sprawie nieoczekiwanej śmierci 15 słoni w parku narodowym",
       "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
       "date": "2026-07-29T00:48:07Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "U kilku z 15 słoni znalezionych martwych w parku narodowym Amboseli w Kenii urzędnicy prowadzą dochodzenie w sprawie śmierci 15 słoni w ciągu ostatniego miesiąca w parku narodowym Amboseli w Kenii. Kenya Wildlife Service (KWS) podała, że ​​10 słoni wykazywało oznaki częściowego paraliżu, zanim zmarło w ciągu dwóch dni. Kontynuuj czytanie..."
-    },
-    {
-      "title": "USA zakazują przywozu humanoidalnych robotów z Chin, powołując się na „niedopuszczalne ryzyko”",
-      "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
-      "date": "2026-07-28T23:24:15Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Decyzja ta następuje w związku z tym, że administracja Trumpa w coraz większym stopniu stara się trzymać chińską technologię z dala od Stanów Zjednoczonych. Federalna Komisja Łączności ogłosiła we wtorek zakaz wywozu humanoidalnych robotów z Chin, twierdząc, że technologia ta stwarza „niedopuszczalne ryzyko” dla bezpieczeństwa narodowego kraju. Posunięcie to następuje w związku z coraz większymi staraniami administracji Trumpa o utrzymanie chińskiej technologii poza granicami Stanów Zjednoczonych. Komisja FCC definiuje zakazane roboty jako „zaawansowane urządzenia robotyczne”, do których zaliczają się humanoidy i czworonogi przypominające zwierzęta. Kontynuuj czytanie..."
     }
   ],
   "world_politics": [
+    {
+      "title": "Rynki w USA mieszają się w oczekiwaniu na decyzję Fed, a ceny ropy rosną w miarę wybuchu przemocy na Bliskim Wschodzie – AP News",
+      "url": "https://apnews.com/article/stocks-markets-ai-oil-trump-rates-b8bfaf782877957bbaa7196b70a4d725",
+      "date": "2026-07-29T12:10:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Rynki w USA mieszają się w oczekiwaniu na decyzję Fed, a ceny ropy rosną w obliczu wybuchu przemocy na Bliskim Wschodzie AP News."
+    },
     {
       "title": "Aktualizacje na żywo wojny w Iranie: Naloty Stanów Zjednoczonych i Arabii Saudyjskiej wciągają więcej krajów do walki",
       "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
@@ -838,20 +846,12 @@
       "summary": "Kontynent doświadcza jednych z największych pożarów i najwyższych temperatur w historii. Mieszkańcy uciekają, przywódcy z trudem reagują, a „będzie gorzej” – powiedział jeden z ekspertów ds. klimatu."
     },
     {
-      "title": "Pożary we Francji i Hiszpanii są powolne, ale mogą być jeszcze gorsze",
+      "title": "Pożary we Francji i Hiszpanii powolne, ale może być jeszcze gorzej",
       "url": "https://www.nytimes.com/2026/07/29/world/europe/wildfires-spain-france.html",
       "date": "2026-07-29T10:37:06Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Strażacy ugasili ogromne pożary w obu krajach, ale wiatr jest silny, a temperatura rośnie. Premier Hiszpanii powiedział, że następne 12 godzin będzie „decydujące”."
-    },
-    {
-      "title": "Akcje światowe są mieszane, indeks akcji Kospi w Korei Południowej spada o 6%, a ceny ropy rosną – AP News",
-      "url": "https://apnews.com/article/stocks-markets-ai-oil-trump-rates-b8bfaf782877957bbaa7196b70a4d725",
-      "date": "2026-07-29T09:32:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Akcje światowe są mieszane, indeks akcji Kospi w Korei Południowej spada o 6%, a ceny ropy gwałtownie rosną AP News."
     },
     {
       "title": "Kubańskie partie rzucające, by walczyć o zmiany polityczne",
@@ -894,7 +894,7 @@
       "summary": "Minęło sześć miesięcy, odkąd Stany Zjednoczone odcięły wyspę źródła paliwa. Nasi reporterzy pojechali tam i odkryli niezwykłe historie o odporności."
     },
     {
-      "title": "Śmierć Marokańczyka zatrzymanego przez policję odbiła się szerokim echem w całych Włoszech",
+      "title": "Śmierć Marokańczyka w rękach policji odbiła się szerokim echem w całych Włoszech",
       "url": "https://www.nytimes.com/2026/07/29/world/europe/fakir-moroccan-death-italy-police.html",
       "date": "2026-07-29T04:01:26Z",
       "source": "The New York Times",
@@ -974,7 +974,7 @@
       "summary": "Plan FIFA dotyczący wspieranej przez Kushnera operacji o wartości 20 miliardów dolarów związanej z organizacją mistrzostw świata spotyka się z wściekłością europejskiego UEFA AP News."
     },
     {
-      "title": "Wywiady Joe Bidena z autorem wspomnień-widmo ujawniają, jak omawia on poufne informacje – AP News",
+      "title": "Z wywiadów Joe Bidena z autorem pamiętników-widm wynika, że ​​omawiał on poufne informacje – AP News",
       "url": "https://apnews.com/article/joe-biden-interview-tapes-justice-department-57b53f0dd5a3cd31dbdea811a815756f",
       "date": "2026-07-28T16:30:00Z",
       "source": "Associated Press",
@@ -987,7 +987,7 @@
       "date": "2026-07-28T14:28:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Czy twarda rozmowa wystarczy? Przewodniczący Fed Warsh znajduje się pod presją walki z inflacją AP News."
+      "summary": "Czy twarda rozmowa wystarczy? Przewodniczący Fed Warsh znajduje się pod presją, aby walczyć z inflacją AP News."
     },
     {
       "title": "Miejsca pracy szukają tańszej sztucznej inteligencji, ponieważ „tokenmaxxing” zanika wraz z korporacyjną modą – AP News",
@@ -998,15 +998,31 @@
       "summary": "Miejsca pracy szukają tańszej sztucznej inteligencji, ponieważ „tokenmaxxing” zanika wraz z korporacyjną modą AP News."
     },
     {
-      "title": "Czy wyrzucasz jedzenie, gdy minął termin na etykiecie? Eksperci twierdzą, że to często marnotrawstwo – AP News",
+      "title": "Czy wyrzucasz żywność po upływie terminu na etykiecie? Eksperci twierdzą, że to często marnotrawstwo – AP News",
       "url": "https://apnews.com/article/date-labels-food-safety-bb24663c6d37c10075270658e8df6c7b",
       "date": "2026-07-28T12:03:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Czy wyrzucasz jedzenie, gdy minął termin na etykiecie? Eksperci twierdzą, że to często marnotrawstwo AP News."
+      "summary": "Czy wyrzucasz żywność po upływie terminu na etykiecie? Eksperci twierdzą, że to często marnotrawstwo AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Zniszczyli miliony książek, żeby \"nakarmić\" AI. Nastały smutne czasy",
+      "url": "https://antyweb.pl/anthropic-claude-niszczenie-ksiazek-trening",
+      "date": "2026-07-29T12:21:35Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Anthropic wydało miliony dolarów na akcję masowego skupu książek jeszcze sprzed \"ery sztucznej inteligencji\". Te następnie rozcinano, skanowano i... oddawano do utylizacji."
+    },
+    {
+      "title": "Polscy żołnierze uczą się strzelać do dronów. Z Abramsa",
+      "url": "https://spidersweb.pl/2026/07/polscy-zolnierze-ucza-sie-strzelac-do-dronow-z-abramsa.html",
+      "date": "2026-07-29T12:16:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Polscy żołnierze uczą się strzelać do dronów. Z Abramsa."
+    },
     {
       "title": "Aktualizacja Windowsa 11. KB5101681 wprowadza nowość",
       "url": "https://www.benchmark.pl/aktualizacja-windowsa-11-kb5101681-wprowadza-nowosc-7312623694678368a",
@@ -1032,7 +1048,7 @@
       "summary": "Unia Europejska rozpoczęła wdrażanie dyrektywy AI Omnibus, nakłada ona zakaz generowania nagich zdjęć przez sztuczną inteligencję. Artykuł Koniec rozbieranych zdjęć. Unia wprowadza zupełnie nowy zakaz pochodzi z serwisu INSTALKI."
     },
     {
-      "title": "Brytyjski organ CMA wszczyna dochodzenie w sprawie firmy Microsoft w związku z potencjalnymi naruszeniami prawa konsumenckiego w związku z odnawianiem subskrypcji usługi Microsoft 365 w wyniku dodania funkcji Copilot (Upmanyu Trivedi/Bloomberg)",
+      "title": "Brytyjski CMA wszczyna dochodzenie w sprawie firmy Microsoft w związku z potencjalnymi naruszeniami prawa konsumenckiego w związku z odnawianiem subskrypcji usługi Microsoft 365 w wyniku dodania funkcji Copilot (Upmanyu Trivedi/Bloomberg)",
       "url": "https://www.techmeme.com/260729/p15#a260729p15",
       "date": "2026-07-29T11:45:02Z",
       "source": "Techmeme",
@@ -1045,7 +1061,7 @@
       "date": "2026-07-29T11:44:33Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49096188 Punkty: 10 # Komentarze: 4."
+      "summary": "Adres URL artykułu: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49096188 Punkty: 35 # Komentarze: 15."
     },
     {
       "title": "Mata chłodząca dla psa i kota. Serio, jeszcze ci za nią podziękuje",
@@ -1061,7 +1077,7 @@
       "date": "2026-07-29T11:28:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://moai.studio/blog/posts/they-stole-your-attention.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49096043 Punkty: 8 # Komentarze: 4."
+      "summary": "Adres URL artykułu: https://moai.studio/blog/posts/they-stole-your-attention.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49096043 Punkty: 17 # Komentarze: 14."
     },
     {
       "title": "Panek padł, wjeżdża Bolt. Yarisy na minuty wracają do Warszawy",
@@ -1117,7 +1133,7 @@
       "date": "2026-07-29T11:05:08Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://koreader.rocks/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49095865 Punkty: 30 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://koreader.rocks/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49095865 Punkty: 67 # Komentarze: 18."
     },
     {
       "title": "Znak wodny Google SynthID jest trudny do złamania, ale nie rozwiązuje problemu dezinformacji AI",
@@ -1125,7 +1141,7 @@
       "date": "2026-07-29T11:00:39Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Podejmowanie decyzji, co jest prawdziwe w Internecie, nie będzie w przyszłości łatwe."
+      "summary": "W przyszłości podjęcie decyzji o tym, co jest prawdziwe w Internecie, nie będzie łatwe."
     },
     {
       "title": "mObywatel ratuje pieniądze Polaków. Te dane nie kłamią",
@@ -1134,22 +1150,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "mObywatel już dawno stał się jednym z najważniejszych cyfrowych narzędzi Polaków do obsługi e-usług urzędowych czy przechowywania dokumentów. Teraz okazuje się, iż od początku tego roku służy nam też do skutecznej ochrony naszych finansów."
-    },
-    {
-      "title": "Starling: pierwszy prawdziwy komputer stacjonarny napisany przez sztuczną inteligencję",
-      "url": "https://starling.build/",
-      "date": "2026-07-29T10:59:58Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://starling.build/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49095823 Punkty: 7 # Komentarze: 1."
-    },
-    {
-      "title": "Wzmocniliśmy platformę bezpieczeństwa AI przed 16 krytycznymi lukami w zabezpieczeniach",
-      "url": "https://aegis-security.higgsfield.app",
-      "date": "2026-07-29T10:56:00Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://aegis-security.higgsfield.app Adres URL komentarzy: https://news.ycombinator.com/item?id=49095787 Punkty: 6 # Komentarze: 0."
     },
     {
       "title": "BNY, największy na świecie bank zajmujący się zabezpieczaniem aktywów, planuje wykorzystać technologię blockchain w swoich systemach prowadzenia dokumentacji agencji transferowych, które obsługują aktywa o wartości 8,6 tys. dolarów (Financial Times)",
@@ -1165,7 +1165,7 @@
       "date": "2026-07-29T10:47:57Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.fcc.gov/sites/default/files/robots-nsd.pdf Adres URL komentarzy: https://news.ycombinator.com/item?id=49095714 Punkty: 35 # Komentarze: 35."
+      "summary": "Adres URL artykułu: https://www.fcc.gov/sites/default/files/robots-nsd.pdf Adres URL komentarzy: https://news.ycombinator.com/item?id=49095714 Punkty: 44 # Komentarze: 41."
     },
     {
       "title": "TOP 5 promocji na elektronikę w Biedronce. Ceny spadły nawet o połowę",
@@ -1229,7 +1229,7 @@
       "date": "2026-07-29T10:35:19Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://docs.imiron.io/v/0.5.10/en/tour.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49095628 Punkty: 25 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://docs.imiron.io/v/0.5.10/en/tour.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49095628 Punkty: 26 # Komentarze: 1."
     },
     {
       "title": "OpenAI, Google, Meta, BlackRock i inni rekrutują tysiące elektryków i stolarzy, zapewniając jedne z najwyższych wynagrodzeń w historii branży (Lydia DePillis/New York Times)",
@@ -1237,7 +1237,7 @@
       "date": "2026-07-29T10:35:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Lydia DePillis / New York Times: OpenAI, Google, Meta, BlackRock i inni rekrutują tysiące elektryków i stolarzy, zapewniając jedne z najwyższych wynagrodzeń w historii branży &mdash; Przyszłość sztucznej inteligencji zależy od znalezienia bardziej wykwalifikowanych ludzi do niektórych bardzo fizycznych prac."
+      "summary": "Lydia DePillis / New York Times: OpenAI, Google, Meta, BlackRock i inne firmy rekrutują tysiące elektryków i stolarzy, zapewniając jedne z najwyższych wynagrodzeń w historii branży &mdash; Przyszłość sztucznej inteligencji zależy od znalezienia bardziej wykwalifikowanych ludzi do niektórych bardzo fizycznych prac."
     },
     {
       "title": "Kosmiczny spektakl nad Polską. Zobacz, jak go nie przegapić",
@@ -1254,6 +1254,14 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Julie Bort / TechCrunch: Firma Spur Intelligence z siedzibą w Lake Mary na Florydzie, która pomaga rozróżniać ruch ludzki i boty w celu wyszukiwania fałszywych użytkowników i zagrożeń, zebrała 200 milionów dolarów pod przewodnictwem Insight Partners &mdash; Spur Intelligence, startup zajmujący się cyberbezpieczeństwem z siedzibą w Lake Mary na Florydzie, zebrał rundę o wartości 200 milionów dolarów pod przewodnictwem Insight Partners."
+    },
+    {
+      "title": "Archiwum grafiki Amigi",
+      "url": "https://amiga.lychesis.net/index.html",
+      "date": "2026-07-29T10:19:44Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://amiga.lychesis.net/index.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49095511 Punkty: 40 # Komentarze: 7."
     },
     {
       "title": "Firma Freehand, która tworzy agentów AI do zarządzania wydatkami i operacjami w łańcuchu dostaw dla firm z listy Fortune 500, zebrała 75 mln dolarów w ramach serii B w porównaniu z 25 mln dolarów w ramach serii A w 2024 r. (Mary Ann Azevedo/Crunchbase News)",
@@ -1312,6 +1320,14 @@
       "summary": "Najnowsza aktualizacja Samsunga z lipca powoduje problemy. Użytkownicy tych modeli skarżą się na krótki czas pracy na baterii i rozgrzaną obudowę."
     },
     {
+      "title": "Pokaż HN: Vimgolf.ai – Naucz się Vima, grając na mapie poziomów",
+      "url": "https://vimgolf.ai",
+      "date": "2026-07-29T09:26:52Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Właśnie uruchomiłem moją aplikację VimGolf.ai! W miarę jak użytkownicy przechodzą poziomy na mapie, wprowadzam coraz bardziej skomplikowane koncepcje — jest to skierowane do osób, które nigdy nie korzystały z Vima. Wszelkie opinie będą bardzo cenne!"
+    },
+    {
       "title": "W Action kupisz taniej, jak u Apple. Warto się pospieszyć",
       "url": "https://antyweb.pl/w-action-kupisz-taniej-jak-u-apple-warto-sie-pospieszyc",
       "date": "2026-07-29T09:15:05Z",
@@ -1344,28 +1360,12 @@
       "summary": "W środę 29 lipca wypada lipcowa pełnia Księżyca, znana tradycyjnie jako Burzowy Księżyc, a także \"Rogaczy\" Księżyc. Choć maksimum zjawiska przypadnie około godz. 16:35 czasu polskiego, najlepiej widoczną – niemal w pełni rozświetloną – tarczę zobaczymy dopiero po zmroku."
     },
     {
-      "title": "Dowiedziałem się, że Amerykanie wyrzucają telefony po roku. Ma ktoś adres?",
-      "url": "https://spidersweb.pl/2026/07/apple-upgrade-nowy-system.html",
-      "date": "2026-07-29T08:12:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Dowiedziałem się, że Amerykanie wyrzucają telefony po roku. Ma ktoś adres?"
-    },
-    {
       "title": "Nowy operator w Polsce. Republika chce podbić rynek telefonii komórkowej",
       "url": "https://www.benchmark.pl/nowy-operator-w-polsce-republika-chce-podbic-rynek-telefonii-komorkowej-7312622453971296a",
       "date": "2026-07-29T07:02:14Z",
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Republika kojarzy się przede wszystkim z telewizją, ale teraz chce wejść także do naszych smartfonów. Już wkrótce wystartuje Republika Mobile (Rmobile) – nowy operator, który zaoferuje rozmowy, SMS-y i internet mobilny. Ceny zaczynają się od 24 zł miesięcznie."
-    },
-    {
-      "title": "Apple znalazło sposób na drogie MacBooki i iPhone'y. Nie dla Polaków",
-      "url": "https://www.benchmark.pl/apple-znalazlo-sposob-na-drogie-macbooki-i-iphoney-nie-dla-polakow-7312610243369312a",
-      "date": "2026-07-29T06:17:49Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Apple znalazło nowy sposób, by ułatwić klientom kupowanie drogich urządzeń. Firma uruchamia Apple Upgrade, czyli program leasingowy obejmujący m.in. MacBooki, iPady, iPhone'y i Apple Watche."
     },
     {
       "title": "Audi ma nowy flagowiec zaprojektowany z myślą o USA: 2027 Q9",
@@ -1511,7 +1511,7 @@
       "date": "2026-07-29T07:47:19Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Gitea, samodzielnie hostowana platforma Git, załatała krytyczną lukę w zabezpieczeniach umożliwiającą zdalne wykonanie kodu. Użytkownik mający zwykłe uprawnienia do zapisu w repozytorium może zamienić kontrolowaną przez atakującego zawartość łatki w działający hak Git i uruchamiać polecenia powłoki z poziomu konta usługi Gitea. Śledzona jako CVE-2026-60004 (wynik CVSS: 9,8), usterka dotyczy wersji Gitea 1.17 i późniejszych przed 1.27.1 i została naprawiona w wersji 1.27.1."
+      "summary": "Gitea, samodzielnie hostowana platforma Git, załatała krytyczną lukę w zabezpieczeniach umożliwiającą zdalne wykonanie kodu. Użytkownik ze zwykłymi uprawnieniami do zapisu w repozytorium może zamienić kontrolowaną przez atakującego zawartość łatki w aktywny hak Git i uruchamiać polecenia powłoki z poziomu konta usługi Gitea. Śledzona jako CVE-2026-60004 (wynik CVSS: 9,8), usterka dotyczy wersji Gitea 1.17 i późniejszych przed 1.27.1 i została naprawiona w wersji 1.27.1."
     },
     {
       "title": "Ślady szczurów systemu Android Flying Eagle znalezione na 170 serwerach w miarę rozpowszechniania się kodu źródłowego",
@@ -1519,7 +1519,7 @@
       "date": "2026-07-29T07:07:23Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Kod źródłowy trojana zdalnego dostępu do Androida Flying Eagle (RAT) krąży poprzez przestępcze kanały Telegramu. Hunt.io i niezależny badacz NetAskari prześledzili pasujące panele sterowania i certyfikaty do 170 serwerów internetowych. Powiązali platformę z fałszywą aplikacją usługową „公安一网通办” zajmującą się bezpieczeństwem publicznym, skierowaną do użytkowników Androida w Chinach."
+      "summary": "Kod źródłowy trojana zdalnego dostępu do Androida Flying Eagle (RAT) krąży poprzez przestępcze kanały Telegramu. Hunt.io i niezależny badacz NetAskari prześledzili pasujące panele sterowania i certyfikaty do 170 serwerów internetowych. Powiązali platformę z fałszywą aplikacją usługi bezpieczeństwa publicznego „公安一网通办” skierowaną do użytkowników Androida w Chinach."
     },
     {
       "title": "Airbus utrzymuje A350 w powietrzu przez 24 godziny",
@@ -1559,7 +1559,7 @@
       "date": "2026-07-29T02:16:31Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Dokumenty wskazują na chińską jednostkę Unitree jako doskonały przykład zagrożenia ze strony zagranicznych brzęków."
+      "summary": "Dokumenty wskazują na chińską Unitree jako doskonały przykład zagrożenia ze strony zagranicznych brzęków."
     },
     {
       "title": "Requiem dla Optane, zabójcy pamięci podręcznej KV firmy Intel, który mógł złagodzić kryzys cenowy pamięci RAM",
@@ -1586,7 +1586,7 @@
       "summary": "Sprzedawca nie potwierdzi ani nie zaprzeczy."
     },
     {
-      "title": "Rada modelu tokenmaxxing firmy Perplexity zapewnia wiele perspektyw dla botów",
+      "title": "Rada modelu tokenmaxxing firmy Perplexity zapewnia wiele perspektyw bota",
       "url": "https://www.theregister.com/ai-and-ml/2026/07/28/perplexitys-tokenmaxxing-model-council-gives-you-multiple-bot-perspectives/5279972",
       "date": "2026-07-28T21:26:53Z",
       "source": "The Register",
@@ -1820,6 +1820,14 @@
       "summary": "Niemiecki koncern motoryzacyjny BMW zamierza zlikwidować na całym świecie 8 tys. miejsc pracy – poinformowała w środę agencja dpa, powołując się na źródła w tej firmie. Prawdopodobnie ponad połowa tej redukcji przypadnie na Niemcy."
     },
     {
+      "title": "Czy jest dodatek do emerytury za niepełnosprawność? - Forsal.pl",
+      "url": "https://forsal.pl/finanse/twoje-pieniadze/artykuly/11282263,czy-jest-dodatek-do-emerytury-za-niepelnosprawnosc.html",
+      "date": "2026-07-29T12:10:15Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Czy jest dodatek do emerytury za niepełnosprawność? Forsal.pl."
+    },
+    {
       "title": "Libia zamyka granice dla Sudanu i Erytrei. Władze wydaliły ponad 100 tysięcy osób",
       "url": "https://www.bankier.pl/wiadomosc/Libia-zamyka-granice-dla-Sudanu-i-Erytrei-Wladze-wydalily-ponad-100-tysiecy-osob-9174884.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-29T12:01:00Z",
@@ -1932,12 +1940,12 @@
       "summary": "Spotkanie Tuska z Zełenskim. KPRM ujawnia szczegóły Forsal.pl."
     },
     {
-      "title": "Wielka ucieczka od jednego operatora. Ponad 361 tys. Polaków zmieniło sieć w trzy miesiące - Forsal.pl",
-      "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11280463,wielka-ucieczka-od-jednego-operatora-ponad-361-tys-polakow-zmienilo-siec-w-trzy-miesiace.html",
-      "date": "2026-07-29T09:57:44Z",
-      "source": "Forsal.pl",
+      "title": "Bogdanka, Lublin i Łęczna łączą siły na rzecz rozwoju Strefy Inwestycyjnej w Łęcznej - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149664,bogdanka-lublin-i-leczna-lacza-sily-na-rzecz-rozwoju-strefy-inwestycyjnej-w-lecznej",
+      "date": "2026-07-29T09:52:00Z",
+      "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Wielka ucieczka od jednego operatora. Ponad 361 tys. Polaków zmieniło sieć w trzy miesiące Forsal.pl."
+      "summary": "Bogdanka, Lublin i Łęczna łączą siły na rzecz rozwoju Strefy Inwestycyjnej w Łęcznej BiznesRadar."
     },
     {
       "title": "APS Energia wchodzi w drony. Objęła udziały w ukraińskiej Swarm Industries - stockwatch.pl",
@@ -1972,14 +1980,6 @@
       "summary": "Zanim klikniesz „kup teraz”. Sprawdź, jak bezpiecznie kupować online Forbes."
     },
     {
-      "title": "APS Energia inwestuje w produkcję systemów dronowych - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149658,aps-energia-inwestuje-w-produkcje-systemow-dronowych",
-      "date": "2026-07-29T08:13:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "APS Energia inwestuje w produkcję systemów dronowych BiznesRadar."
-    },
-    {
       "title": "Morawiecki bije na alarm. Mówi o informacjach z Ministerstwa Finansów",
       "url": "https://www.money.pl/gospodarka/morawiecki-bije-na-alarm-mowi-o-informacjach-z-ministerstwa-finansow-7312614852141633v.html",
       "date": "2026-07-29T08:09:12Z",
@@ -2010,14 +2010,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Spektakularny debiut NWAI. Akcje rosną kilkanaście procent po przejściu na GPW Piotr Kwestarz śr., 29.07.2026 Kanał Strefa Inwestorów Treść NWAI Dom Maklerski #NWA zadebiutował na rynku głównym GPW. Kurs spółki w pierwszych minutach notowań rósł powyżej 20%, stabilizując się następnie w okolicach wzrostu +7%."
-    },
-    {
-      "title": "Wiadomości INTSNDX99549 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/INTSNDX99549",
-      "date": "2026-07-29T07:41:45Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości INTSNDX99549 INGBANK BiznesRadar."
     },
     {
       "title": "Wikana skupi do 3,06 mln akcji własnych po 10 zł. Zapisy do 14 sierpnia - stockwatch.pl",
@@ -2146,6 +2138,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Środa z Siłą Relatywną (SzSR): 29 lipca 2026 r. Piotr Kwestarz śr., 29.07.2026 Treść Zapraszam do lektury kolejnego wpisu z cyklu Środy z Siłą Relatywną (SzSR). Środa z Siłą Relatywną (SzSR): 29 lipca 2026 r."
+    },
+    {
+      "title": "Sygnały analizy technicznej RBIWP1226PEO RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/RBIWP1226PEO",
+      "date": "2026-07-29T02:08:22Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Sygnały analizy technicznej RBIWP1226PEO RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "Przemysł ma 20,5 tys. wakatów. Poszukiwani robotnicy i operatorzy maszyn",
@@ -2680,9 +2680,7 @@
       "2026-07-21",
       "2026-07-22",
       "2026-07-23",
-      "2026-07-24",
-      "2026-07-27",
-      "2026-07-28"
+      "2026-07-27"
     ],
     "prices": [
       24458.02,
@@ -2734,51 +2732,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25913.04,
+      25931.52,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27088.29,
+      27107.6,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27236.62,
+      27256.04,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27483.86,
+      27503.45,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28125.55,
+      28145.6,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28161.93,
+      28182.01,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28408.9,
+      28429.15,
       27354.94,
       27400.36,
       27412.11,
-      28814.08,
+      28834.62,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28067.81,
+      28087.82,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28249.21,
+      28269.35,
       27686.17,
       27404.78,
       27351.97,
@@ -2787,7 +2785,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27954.84,
+      27974.77,
       27930.04,
       28234.04,
       28218.36,
@@ -2796,19 +2794,17 @@
       28294.39,
       28203.83,
       28555.17,
-      28796.33,
+      28816.86,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28348.92,
+      28369.13,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28175.16,
-      28165.64,
-      28239.02
+      28165.64
     ],
     "currency": "PLN"
   }
