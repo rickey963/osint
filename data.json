@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T06:23:07Z",
+  "last_updated": "2026-07-30T06:23:55Z",
   "poland": [
     {
       "title": "\"Atakujemy cele bez przerwy\". Rosyjskie ministerstwo skomentowało nocne ataki",
@@ -8,6 +8,14 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Ministerstwo Obrony Rosji skomentowało w mediach społecznościowych zmasowany, nocny atak na Ukrainę. Uderzamy w cele bez przerwy - napisano. Największe propagandowe portale informują o uderzeniach wyłącznie w cele o charakterze wojskowych."
+    },
+    {
+      "title": "Sprzedają podróbki i oznaczają jako \"polskie\". \"To nie jest masło\"",
+      "url": "https://businessinsider.com.pl/biznes/zbadali-ser-i-maslo-z-ukrainskiego-targu-nie-sadze-by-polacy-nas-zatruwali/p6p44k9",
+      "date": "2026-07-30T06:18:30Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Sprzedawane na ukraińskim targu masło i sery, oznaczone jako produkty z Polski, nie przeszły testów jakości. Ekspert ocenił cztery na pięć zbadanych produktów jako podróbki, których spożywanie może być szkodliwe dla zdrowia — informuje agencja Unian."
     },
     {
       "title": "Premier Tusk odwołuje wizytę w Stroniu Śląskim. Powodem prawdopodobnie \"niezidentyfikowany obiekt\" na Lubelszczyźnie",
@@ -39,7 +47,7 @@
       "date": "2026-07-30T06:03:00Z",
       "source": "Polsat News",
       "confirmed_by": 1,
-      "summary": "- Wyje syrena, bo mamy alert. Wyje syrena, bo mamy do czynienia z sytuacją kryzysową, której nie da się zidentyfikować w czasie rzeczywistym - powiedział Krzysztof Gawkowski. Wicepremier został zapytany przez Marcina Fijołka, czy jest szansa, aby ludzie byli ostrzegani przed zagrożeniem w inny sposób."
+      "summary": "Nocne wydarzenia z Lubelszczyzny, gdzie nastąpił potężny huk, wyły syreny ostrzegawcze, a później w okolicy miejscowości Tarnawa-Kolonia znaleziono krater o średnicy 10 metrów przeraziły okolicznych mieszkańców. Piszą do nas na Wrzutni, że byli zdezorientowani i nie dostali żadnych alertów z informacją. Do sprawy odniósł się w Graffiti minister cyfryzacji Krzysztof Gawkowski."
     },
     {
       "title": "Wpłaty na chore dzieci mogą być opodatkowane. Nowe stanowisko fiskusa",
@@ -312,14 +320,6 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "\"Obraz całkowitego spustoszenia\". Tak wygląda Hiszpania po największym pożarze lata Polskie Radio 24."
-    },
-    {
-      "title": "Wassermann o różnorodności w PiS: Są u nas tacy, którzy są skrajnie na lewo",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32939282,wassermann-o-roznorodnosci-w-pis-sa-u-nas-tacy-ktorzy-sa-skrajnie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-07-29T18:50:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "- Prawo i Sprawiedliwość nie istnieje bez Jarosława Kaczyńskiego - powiedziała Małgorzata Wassermann na antenie TVP. Tym samym przekonywała, że prezes PiS nie stracił politycznego instynktu, decydując się na rozstanie ze środowiskiem Mateusza Morawieckiego."
     },
     {
       "title": "Ambitna walka Górnika z Fenerbahce. Remis w Zabrzu to za mało - Polskie Radio 24",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Atak amerykańsko-saudyjski na irackie bojówki grozi wciągnięciem ich w wojnę",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html",
+      "date": "2026-07-30T06:20:03Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Sprzymierzone z Iranem bojówki w Iraku znajdują się pod rosnącą presją, aby się rozbroić, ale ostatnie strajki mogą ośmielić je do głębszego zaangażowania się w wojnę."
+    },
+    {
       "title": "Aktualizacje na żywo wojny w Iranie: Stany Zjednoczone uderzają w Iran, gdy walki ponownie rozpalają się w całym regionie",
       "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
       "date": "2026-07-30T05:48:24Z",
@@ -804,14 +812,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "W miarę jak zwiększone opady deszczu umożliwiają uprawę łąk i pól kukurydzy na obszarach, które kiedyś były pustyniami, największy na świecie importer wołowiny staje się coraz bardziej samowystarczalny poprzez powiększanie stad domowych."
-    },
-    {
-      "title": "Atak amerykańsko-saudyjski na irackie bojówki grozi wciągnięciem ich w wojnę",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html",
-      "date": "2026-07-30T04:00:10Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Sprzymierzone z Iranem bojówki w Iraku znajdują się pod rosnącą presją, aby się rozbroić, ale ostatnie strajki mogą ośmielić je do głębszego zaangażowania się w wojnę."
     },
     {
       "title": "USA przeprowadzają ataki na cele irańskie dzień po udaremnieniu ataku rakietowego na siły amerykańskie – AP News",
@@ -2701,51 +2701,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25763.41,
+      25763.55,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26931.88,
+      26932.02,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27079.35,
+      27079.49,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27325.15,
+      27325.3,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27963.15,
+      27963.3,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27999.31,
+      27999.46,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28244.86,
+      28245.01,
       27354.94,
       27400.36,
       27412.11,
-      28647.7,
+      28647.85,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27905.74,
+      27905.89,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28086.09,
+      28086.24,
       27686.17,
       27404.78,
       27351.97,
@@ -2754,7 +2754,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27793.42,
+      27793.56,
       27930.04,
       28234.04,
       28218.36,
@@ -2763,20 +2763,20 @@
       28294.39,
       28203.83,
       28555.17,
-      28630.05,
+      28630.2,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28185.22,
+      28185.37,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28012.47,
+      28012.62,
       28165.64,
       28207.97,
-      27650.29
+      27650.44
     ],
     "currency": "PLN"
   }
