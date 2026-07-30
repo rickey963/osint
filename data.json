@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T18:29:49Z",
+  "last_updated": "2026-07-30T18:34:44Z",
   "poland": [
     {
       "title": "Rzecznik PiS po posiedzeniu partii: Jedni grillują, inni pracują",
@@ -263,7 +263,7 @@
       "date": "2026-07-30T15:23:13Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
-      "summary": "Niemiecki kanclerz Friedrich Merz jednoznacznie potępił naruszenie polskiej przestrzeni powietrznej, wskazując na rosnącą bezwzględność Rosji i jej gotowość do eskalacji konfliktu."
+      "summary": "Kanclerz Niemiec Friedrich Merz ocenił, że naruszenie polskiej przestrzeni powietrznej, do jakiej doszło w czwartek, świadczy o gotowości Rosji do eskalacji."
     },
     {
       "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na Catalyst obligacji na okaziciela serii 8l/2026 spółki ECHO INVESTMENT S.A. | Biznes PAP - PAP Biznes",
@@ -766,9 +766,17 @@
   ],
   "world_politics": [
     {
+      "title": "Byli urzędnicy protestują przeciwko amerykańskiemu planowi pozbawienia środków Panamerykańskiej Organizacji Zdrowia",
+      "url": "https://www.nytimes.com/2026/07/30/health/paho-us-pan-american-health-organization-withdrawal.html",
+      "date": "2026-07-30T18:25:39Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Grupa byłych urzędników ds. zdrowia i bezpieczeństwa narodowego ostrzegła, że ​​Amerykanie będą bardziej podatni na zagrożenia chorobami zakaźnymi."
+    },
+    {
       "title": "Aktualizacje na żywo wojny w Iranie: Saudyjczycy poszukują sojuszu wojskowego w celu ochrony żeglugi na Morzu Czerwonym",
       "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
-      "date": "2026-07-30T18:21:09Z",
+      "date": "2026-07-30T18:23:08Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "W miarę rozszerzania się wojny między Stanami Zjednoczonymi a Iranem Arabia Saudyjska połączyła się z kilkunastu innymi krajami, w tym z Egiptem i Turcją, tworząc nową koalicję obronną mającą na celu powstrzymanie ataków na statki na Morzu Czerwonym."
@@ -844,14 +852,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Prezydent Trump nieustannie przepowiada, że ​​Kuba upadnie po odcięciu dostaw ropy. Ale nadal stoi. Nasz reporter Jack Nicas odwiedził Kubę, aby zobaczyć, jak Kubańczycy wykorzystują energię słoneczną, aby zrekompensować niedobory energii."
-    },
-    {
-      "title": "Byli urzędnicy protestują przeciwko amerykańskiemu planowi pozbawienia środków Panamerykańskiej Organizacji Zdrowia",
-      "url": "https://www.nytimes.com/2026/07/30/health/paho-us-pan-american-health-organization-withdrawal.html",
-      "date": "2026-07-30T15:26:01Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Grupa byłych urzędników ds. zdrowia i bezpieczeństwa narodowego ostrzegła, że ​​Amerykanie będą bardziej podatni na zagrożenia chorobami zakaźnymi."
     },
     {
       "title": "Atak na egipski port pokazuje słabość Kanału Sueskiego",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Andromeda tworzy coraz mniej gwiazd. Hubble pokazuje wyraźny trend",
+      "url": "https://www.benchmark.pl/andromeda-tworzy-coraz-mniej-gwiazd-hubble-pokazuje-wyrazny-trend-7313111237687360a",
+      "date": "2026-07-30T18:30:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Z analizy danych z Kosmicznego Teleskopu Hubble’a wynika, że w Galaktyce Andromedy aktywność gwiazdotwórcza słabnie nieprzerwanie od około 500 mln lat. Naukowcy zauważyli też, że w ostatnich 40 mln latach tempo spadku stało się jeszcze bardziej widoczne."
+    },
+    {
       "title": "Polacy rzucili się na Tibię. Też pobieram, jest świetna okazja",
       "url": "https://spidersweb.pl/2026/07/tibia-polacy-powrot-promocja-7-dni-pacc-powrot.html",
       "date": "2026-07-30T18:19:00Z",
@@ -1077,7 +1085,7 @@
       "date": "2026-07-30T17:31:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Adres URL komentarzy: https://news.ycombinator.com/item?id=49113059 Punkty: 46 # Komentarze: 20."
+      "summary": "Adres URL artykułu: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Adres URL komentarzy: https://news.ycombinator.com/item?id=49113059 Punkty: 66 # Komentarze: 38."
     },
     {
       "title": "Użytkownicy GPT 5.6 nie będą zadowoleni. Wracają znienawidzone limity",
@@ -1101,7 +1109,7 @@
       "date": "2026-07-30T17:15:51Z",
       "source": "Hacker News",
       "confirmed_by": 2,
-      "summary": "Adres URL artykułu: https://openai.com/index/advancing-the-price- Performance-frontier-with-gpt-5-6/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49112867 Punkty: 165 # Komentarze: 83."
+      "summary": "Adres URL artykułu: https://openai.com/index/advancing-the-price- Performance-frontier-with-gpt-5-6/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49112867 Punkty: 194 # Komentarze: 102."
     },
     {
       "title": "Przeczytaj to, zanim kupisz ten kij do transmisji strumieniowej TV",
@@ -1109,7 +1117,7 @@
       "date": "2026-07-30T17:04:53Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49112744 Punkty: 103 # Komentarze: 35."
+      "summary": "Adres URL artykułu: https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49112744 Punkty: 119 # Komentarze: 41."
     },
     {
       "title": "Spotify odpaliło oczekiwany tryb biegacza. No i mnie wkurzyli",
@@ -1173,7 +1181,7 @@
       "date": "2026-07-30T16:36:47Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle Adres URL komentarzy: https://news.ycombinator.com/item?id=49112368 Punkty: 15 # Komentarze: 6."
+      "summary": "Adres URL artykułu: https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle Adres URL komentarzy: https://news.ycombinator.com/item?id=49112368 Punkty: 17 # Komentarze: 13."
     },
     {
       "title": "Toot.community zostaje zamknięta",
@@ -1181,7 +1189,7 @@
       "date": "2026-07-30T16:33:41Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2 Adres URL komentarzy: https://news.ycombinator.com/item?id=49112327 Punkty: 30 # Komentarze: 31."
+      "summary": "Adres URL artykułu: https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2 Adres URL komentarzy: https://news.ycombinator.com/item?id=49112327 Punkty: 31 # Komentarze: 36."
     },
     {
       "title": "British Airways BA919: dwa alarmy przeciągnięcia podczas podejścia na Heathrow",
@@ -1205,7 +1213,7 @@
       "date": "2026-07-30T16:26:16Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49112232 Punkty: 57 # Komentarze: 15."
+      "summary": "Adres URL artykułu: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49112232 Punkty: 75 # Komentarze: 18."
     },
     {
       "title": "Friend przedstawia wisiorek AI z głośnikiem do odpowiedzi głosowych za 249 USD, w porównaniu z ceną oryginalnego naszyjnika wynoszącą 129 USD, z opcjonalną miesięczną subskrypcją za 10 USD (Boone Ashworth/Wired)",
@@ -1294,14 +1302,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Logitech przygotuje specjalne wersje swoich bezprzewodowych myszy na rynek europejski. Od lutego 2027 roku użytkownicy będą mogli samodzielnie wymieniać w nich zużyte akumulatory. Zmiana poprawi naprawialność sprzętu, ale odbije się na jego masie i kosztach produkcji."
-    },
-    {
-      "title": "Awaria Xboxa nauczyła Microsoft czegoś ważnego. Pora na PlayStation",
-      "url": "https://spidersweb.pl/2026/07/xbox-plyty-offline-gry.html",
-      "date": "2026-07-30T14:41:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Awaria Xboxa nauczyła Microsoft czegoś ważnego. Pora na PlayStation."
     },
     {
       "title": "Sprawdzamy DJI Osmo Pocket 4P i iPhone’a 17 Pro. Różnice są większe, niż można się spodziewać",
@@ -2012,6 +2012,14 @@
       "summary": "XTB: ekspansja w Indonezji i nowe produkty w 2026 r. stockwatch.pl."
     },
     {
+      "title": "Opcja OW20T263925 - Analiza techniczna - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/opcja/ow20t263925,analiza-techniczna.aspx",
+      "date": "2026-07-30T12:41:45Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Opcja OW20T263925 - Analiza techniczna stockwatch.pl."
+    },
+    {
       "title": "Kolejne kontrakty drogowe dla Mirbudu - BiznesRadar",
       "url": "https://www.biznesradar.pl/a/149709,kolejne-kontrakty-drogowe-dla-mirbudu",
       "date": "2026-07-30T12:17:00Z",
@@ -2058,14 +2066,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Polskie zakłady olejarskie mogą przerabiać ponad 4,1 mln ton nasion roślin oleistych rocznie, ale krajowych zbiorów nie wystarcza do wykorzystania tych mocy. Tegoroczna produkcja rzepaku może spaść do 2,8-3,2 mln ton, a niedobór surowca dla przemysłu sięgnąć nawet 1,3 mln ton. Branża traci rentowność także przez wysokie ceny energii, presję sieci handlowych i import gotowego oleju z Ukrainy."
-    },
-    {
-      "title": "Notowania Certyfikatu RBIFL2GOLD3. - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/certyfikat/RBIFL2GOLD3,notowania.aspx",
-      "date": "2026-07-30T10:45:00Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Notowania Certyfikatu RBIFL2GOLD3. stockwatch.pl."
     },
     {
       "title": "Mirbud wygrywa przetarg na A2. Oferta 571 mln zł - stockwatch.pl",
@@ -2763,51 +2763,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25463.06,
+      25456.65,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26617.9,
+      26611.2,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26763.65,
+      26756.92,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27006.6,
+      26999.8,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27637.15,
+      27630.19,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27672.9,
+      27665.93,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27915.58,
+      27908.55,
       27354.94,
       27400.36,
       27412.11,
-      28313.72,
+      28306.6,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27580.41,
+      27573.47,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27758.66,
+      27751.67,
       27686.17,
       27404.78,
       27351.97,
@@ -2816,7 +2816,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27469.4,
+      27462.48,
       27930.04,
       28234.04,
       28218.36,
@@ -2825,21 +2825,21 @@
       28294.39,
       28203.83,
       28555.17,
-      28296.28,
+      28289.16,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27856.64,
+      27849.62,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27685.9,
+      27678.93,
       28165.64,
       28207.97,
-      27327.94,
-      27744.47
+      27321.06,
+      27739.05
     ],
     "currency": "PLN"
   }
