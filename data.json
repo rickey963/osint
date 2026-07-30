@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T02:30:17Z",
+  "last_updated": "2026-07-30T02:34:57Z",
   "poland": [
     {
       "title": "Prezes EDP: OZE obniżą ceny prądu mimo kosztownych inwestycji",
@@ -1021,7 +1021,7 @@
       "date": "2026-07-30T01:35:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49105190 Punkty: 8 # Komentarze: 2."
+      "summary": "Adres URL artykułu: https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49105190 Punkty: 17 # Komentarze: 10."
     },
     {
       "title": "Bezpieczeństwo monitora wody Flume 915 MHz jest całkiem dobre",
@@ -1029,7 +1029,7 @@
       "date": "2026-07-30T01:27:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://waveformsecurity.com/blog/flume/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49105136 Punkty: 12 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://waveformsecurity.com/blog/flume/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49105136 Punkty: 15 # Komentarze: 4."
     },
     {
       "title": "Firma Onyx Security, której platforma umożliwia przedsiębiorstwom bezpieczne wdrażanie agentów AI, zebrała 113 mln dolarów z serii B pod przewodnictwem Bessemera, zwiększając całkowite finansowanie do 153 mln dolarów (Meir Orbach/CTech)",
@@ -1085,7 +1085,7 @@
       "date": "2026-07-29T23:18:11Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://frantic.im/mirage/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49104335 Punkty: 48 # Komentarze: 17."
+      "summary": "Adres URL artykułu: https://frantic.im/mirage/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49104335 Punkty: 53 # Komentarze: 18."
     },
     {
       "title": "Człowiek i komputer Johna G. Kemeny'ego (książka z 1972 r. autorstwa współtwórcy BASIC-a)",
@@ -1093,7 +1093,7 @@
       "date": "2026-07-29T22:53:44Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://archive.org/details/mancomputerbyjoh0000john Adres URL komentarzy: https://news.ycombinator.com/item?id=49104140 Punkty: 19 # Komentarze: 9."
+      "summary": "Adres URL artykułu: https://archive.org/details/mancomputerbyjoh0000john Adres URL komentarzy: https://news.ycombinator.com/item?id=49104140 Punkty: 20 # Komentarze: 9."
     },
     {
       "title": "LLM Honeypot",
@@ -1101,7 +1101,7 @@
       "date": "2026-07-29T22:51:03Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://llm2human.pages.dev/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49104117 Punkty: 62 # Komentarze: 23."
+      "summary": "Adres URL artykułu: https://llm2human.pages.dev/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49104117 Punkty: 72 # Komentarze: 24."
     },
     {
       "title": "Źródło: Komisja Europejska planuje wyznaczyć ChatGPT i Roblox należące do OpenAI jako „bardzo duże platformy internetowe” w ramach DSA już w sierpniu (Bloomberg)",
@@ -1133,7 +1133,7 @@
       "date": "2026-07-29T21:25:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Adres URL komentarzy: https://news.ycombinator.com/item?id=49103285 Punkty: 220 # Komentarze: 124."
+      "summary": "Adres URL artykułu: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Adres URL komentarzy: https://news.ycombinator.com/item?id=49103285 Punkty: 231 # Komentarze: 129."
     },
     {
       "title": "Musk poszedł na „wojnę”, szukał więzienia za bojkot reklam X – ale sprawa kończy się skomleniem",
@@ -1458,14 +1458,6 @@
       "summary": "Ruby on Rails udostępniło poprawki krytycznej luki w Active Storage, która może pozwolić nieuwierzytelnionym atakującym na odczytanie dowolnych plików z serwerów aplikacji poprzez przesłanie spreparowanych obrazów. Ta luka, oznaczona jako CVE-2026-66066 (wynik CVSS: 9,5), może ujawnić środowisko procesu Rails i sekrety, takie jak baza_klucza_tajnego, klucz główny Rails, hasła do baz danych, dane uwierzytelniające do przechowywania w chmurze."
     },
     {
-      "title": "Tysiące projektów z poufnymi danymi jest &#8220;nieświadomie&#8221; udostępnianych przez użytkowników narzędzi AI",
-      "url": "https://niebezpiecznik.pl/post/tysiace-projektow-z-poufnymi-danymi-jest-nieswiadomie-udostepnianych-przez-uzytkownikow-narzedzi-ai/",
-      "date": "2026-07-29T16:54:33Z",
-      "source": "Niebezpiecznik",
-      "confirmed_by": 1,
-      "summary": "Choć nikt już nie korzysta z Google do wyszukiwania informacji, to ta wyszukiwarka wciąż może zwracać &#8220;przydatne&#8221; wyniki. Jeśli wpiszecie &#8220;site:claude.ai/public/artifacts&#8221; znajdziecie tysiące projektów stworzonych w narzędziach AI od Anthropic. Ale podobne zapytania ujawnią też projekty z ChatGPT od OpenAI czy Groka."
-    },
-    {
       "title": "Robak słowny wpełza do Copilota, siejąc chaos",
       "url": "https://www.theregister.com/security/2026/07/29/word-worm-crawls-into-copilot-spreads-chaos/5280588",
       "date": "2026-07-29T16:43:54Z",
@@ -1634,6 +1626,14 @@
       "summary": "Doświadczyłem prawdziwego incydentu bezpieczeństwa na moim prywatnym MacBooku (architektura Apple Silicon), używanym codziennie do pracy zawodowej. Dzielę się tą historią nie dla dramatyzmu, lecz dlatego, że atak był dobrze przygotowany, wieloetapowy i łatwo można było dać się nabrać &#8211; nawet doświadczonemu, technicznemu użytkownikowi. Etap 1: socjotechnika (social engineering) przez LinkedIn..."
     },
     {
+      "title": "Po przepisaniu SQLite w Rust, Turso skupia się na Postgres",
+      "url": "https://www.theregister.com/databases/2026/07/29/after-rewriting-sqlite-in-rust-turso-turns-its-sights-on-postgres/5279835",
+      "date": "2026-07-29T11:28:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Nowoczesna baza danych w chmurze chce, aby jeden rdzeń maszyny wirtualnej obsługiwał wiele interfejsów SQL."
+    },
+    {
       "title": "73% organizacji twierdzi, że nie jest w pełni gotowe na poważny cyberatak",
       "url": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
       "date": "2026-07-29T11:13:10Z",
@@ -1656,14 +1656,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Lipcowy atak sztucznej inteligencji nie był ograniczony wyłącznie do serwisu Hugging Face. Podczas testu który wymknął się spod kontroli, agent OpenAI wykorzystał infrastrukturę amerykańskiej firmy Modal Labs do szerszych działań przeciwko platformie z modelami AI. Ofiarą działań AI stały się także trzy inne podmioty."
-    },
-    {
-      "title": "Każdy mógł być pracownikiem stacji benzynowej MOL dzięki błędom w apce. Firma zignorowała zgłoszenie",
-      "url": "https://niebezpiecznik.pl/post/kazdy-mogl-byc-pracownikiem-stacji-benzynowej-mol-dzieki-bledom-w-apce-firma-zignorowala-zgloszenie/",
-      "date": "2026-07-29T10:01:07Z",
-      "source": "Niebezpiecznik",
-      "confirmed_by": 1,
-      "summary": "Wielokrotnie już powtarzaliśmy, że firmy muszą mieć kanał do bezpiecznego i skutecznego zgłaszania błędów w swoich produktach/usługach cyfrowych. Spółka paliwowa MOL teoretycznie taki kanał ma, ale nie zadziałał poprawnie w przypadku zgłoszenia od naszego Czytelnika. KSC2 i NIS2 tego wymagają&#8230; Żyjemy w czasach NIS2 i KSC2."
     },
     {
       "title": "Wydano publiczny PoC w związku z wykorzystanym obejściem uwierzytelniania Check Point SmartConsole",
@@ -1720,6 +1712,14 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Wersje beta dwóch pakietów npm w przestrzeni nazw @joyfill zostały naruszone w celu dostarczenia trojana zdalnego dostępu (RAT) powiązanego z rodziną złośliwego oprogramowania DEV#POPPER. Lista pakietów, których dotyczy problem, jest następująca - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4 Obydwa pakiety „zawierają implant JavaScript używany w czasie importu, który rozpoznaje zaszyfrowany kod."
+    },
+    {
+      "title": "Claude AI właśnie złamał schemat testu postkwantowego i znalazł szybszy, 7-rundowy atak AES",
+      "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "date": "2026-07-28T18:59:07Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Anthropic twierdzi, że Claude Mythos Preview pomógł w przeprowadzeniu kompleksowego ataku polegającego na odzyskiwaniu klucza na HAWK-256 i 200–800-krotnym przyspieszeniu ataku na siedmirundowy AES-128. Atak HAWK wykorzystuje nieużywaną wcześniej symetrię w siatce kryjącej się za schematem podpisu. Opublikowana implementacja Anthropic zapewnia oczekiwany, kompleksowy czas działania wynoszący około trzech godzin i 42 minut na 96-rdzeniowym serwerze."
     },
     {
       "title": "Gość zainfekował pytanie egzaminacyjne ukrytą instrukcją dla AI…",
@@ -1802,12 +1802,12 @@
       "summary": "Pakiet unijnych zmian dotyczących sztucznej inteligencji w poniedziałek wszedł w życie. Omnibus AI wydłuża terminy dotyczące systemów wysokiego ryzyka oraz algorytmów zawartych w produktach. Zakazane zostały również aplikacje i modele generujące treści intymne bez zezwolenia oraz przedstawiające seksualne wykorzystywanie małoletnich."
     },
     {
-      "title": "Został zatrzymany do kontroli i podał hasło, które skasowało zawartość smartfona zamiast go odblokować. Teraz może trafić do więzienia&#8230;",
-      "url": "https://niebezpiecznik.pl/post/zostal-zatrzymany-do-kontroli-i-podal-haslo-ktore-skasowalo-zawartosc-smartfona-zamiast-go-odblokowac-teraz-moze-trafic-do-wiezienia-problemy/",
-      "date": "2026-07-27T08:12:31Z",
-      "source": "Niebezpiecznik",
+      "title": "Administracja przenosi dokumenty do chmury. Jest nowy system",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/administracja-przenosi-dokumenty-do-chmury-jest-nowy-system",
+      "date": "2026-07-27T14:29:49Z",
+      "source": "CyberDefence24",
       "confirmed_by": 1,
-      "summary": "Ciekawa sprawa z USA. Tamtejsza prokuratura oskarżyła Samuela Tunicka o podanie funkcjonariuszom granicznym hasła, które zamiast odblokować smartfona skasowało zapisane na nim dane. To chyba pierwszy przypadek postawienia zarzutów za użycie tzw."
+      "summary": "Ma usprawnić obieg dokumentów w urzędach, ograniczyć wykorzystanie papieru i zmniejszyć obciążenie lokalnych zespołów IT. Centralny Ośrodek Informatyki uruchomił usługę EZD RP w modelu SaaS w Rządowej Chmurze Obliczeniowej. Docelowo ma z niej korzystać 300 tys."
     }
   ],
   "finance": [
@@ -1972,12 +1972,12 @@
       "summary": "Wyniki XTB przebijają oczekiwania analityków. Ponad 1 mld zł zysku w pół roku Seb Seb śr., 29.07.2026 Kanał Strefa Inwestorów XTB giełda trading wyniki finansowe zyski konsensus wyniki I półrocze inwestycje handel platforma inwestycyjna rynki finansowe Treść XTB zdecydowanie pobiło oczekiwania analityków szacunkowymi wynikami za II kwartał. Zysk netto za minione trzy miesiące otarł się niemal 0,5 mld zł."
     },
     {
-      "title": "Trump chce \"rozjechać\" Iran. Nowe dane pokazują słaby punkt amerykańskiej armii - Forsal.pl",
+      "title": "Trump chce \"rozjechać\" Iran. Nowe dane pokazują słaby punkt amerykańskiej armii - forsal.pl",
       "url": "https://forsal.pl/swiat/bezpieczenstwo/artykuly/11282435,trump-chce-rozjechac-iran-nowe-dane-pokazuja-slaby-punkt-amerykansk.html",
       "date": "2026-07-29T15:58:15Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Trump chce \"rozjechać\" Iran. Nowe dane pokazują słaby punkt amerykańskiej armii Forsal.pl."
+      "summary": "Trump chce \"rozjechać\" Iran. Nowe dane pokazują słaby punkt amerykańskiej armii forsal.pl."
     },
     {
       "title": "Aktywność fizyczna leży. Prosty program może pomóc ją podnieść",
@@ -2004,20 +2004,20 @@
       "summary": "Forbes 8/2026 - Forbes - wiadomości gospodarcze i finansowe Forbes."
     },
     {
-      "title": "Trzej giganci złamali granicę: 2600 paczek na minutę. Kto kogo goni? - Forsal.pl",
+      "title": "Trzej giganci złamali granicę: 2600 paczek na minutę. Kto kogo goni? - forsal.pl",
       "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11282472,prawdziwa-wojna-na-osiedlach-trzej-giganci-zlamali-granice-2600-paczek-na-minute.html",
       "date": "2026-07-29T15:15:00Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Trzej giganci złamali granicę: 2600 paczek na minutę. Kto kogo goni? Forsal.pl."
+      "summary": "Trzej giganci złamali granicę: 2600 paczek na minutę. Kto kogo goni? forsal.pl."
     },
     {
-      "title": "Kasztan spadł z drzewa na auto i uszkodził szybę. Odpowiedzialność finansowa właściciela nieruchomości za drzewa na działce - Forsal.pl",
+      "title": "Kasztan spadł z drzewa na auto i uszkodził szybę. Odpowiedzialność finansowa właściciela nieruchomości za drzewa na działce - forsal.pl",
       "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11282061,kasztan-spadl-z-drzewa-na-auto-i-uszkodzil-szybe-odpowiedzialnosc-finansowa-wlasciciela-nieruchomosci-za-drzewa-na-dzialce.html",
       "date": "2026-07-29T15:15:00Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Kasztan spadł z drzewa na auto i uszkodził szybę. Odpowiedzialność finansowa właściciela nieruchomości za drzewa na działce Forsal.pl."
+      "summary": "Kasztan spadł z drzewa na auto i uszkodził szybę. Odpowiedzialność finansowa właściciela nieruchomości za drzewa na działce forsal.pl."
     },
     {
       "title": "Komunikat EBI HiProMine SA (hipromine): Inne informacje - stockwatch.pl",
@@ -2060,20 +2060,20 @@
       "summary": "„Odważniej do przodu”. Dla BLIK-a ruch prezesa to bolesny test dojrzałości Forbes."
     },
     {
-      "title": "PEPCO [PCO] - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-514060_PEPCO.aspx",
-      "date": "2026-07-29T15:00:00Z",
-      "source": "StockWatch.pl",
+      "title": "Wiadomości INTSW2099531 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wiadomosci/INTSW2099531",
+      "date": "2026-07-29T14:30:15Z",
+      "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "PEPCO [PCO] stockwatch.pl."
+      "summary": "Wiadomości INTSW2099531 INGBANK BiznesRadar."
     },
     {
-      "title": "Kolejne polskie miasto na liście światowego dziedzictwa Unesco - Forsal.pl",
+      "title": "Kolejne polskie miasto na liście światowego dziedzictwa Unesco - forsal.pl",
       "url": "https://forsal.pl/nieruchomosci/aktualnosci/artykuly/11282288,wszystko-zaczelo-sie-od-morza---wyjatkowy-prezent-na-100-lecie-gdyni.html",
       "date": "2026-07-29T14:26:41Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Kolejne polskie miasto na liście światowego dziedzictwa Unesco Forsal.pl."
+      "summary": "Kolejne polskie miasto na liście światowego dziedzictwa Unesco forsal.pl."
     },
     {
       "title": "Warszawa ma najwięcej dłużników alimentacyjnych. W innym mieście dług na osobę jest wyższy",
@@ -2124,12 +2124,20 @@
       "summary": "Wszystkie coiny prezydenta. Donald Trump zarabia na kryptowalutach więcej niż na nieruchomościach Forbes."
     },
     {
-      "title": "Niemiecki gigant tnie zatrudnienie. 8 tys. osób może stracić pracę - Forsal.pl",
+      "title": "BOŚ ukarany przez KNF za nieprawidłowości w zakresie AML - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149673,bos-ukarany-przez-knf-za-nieprawidlowosci-w-zakresie-aml",
+      "date": "2026-07-29T11:50:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "BOŚ ukarany przez KNF za nieprawidłowości w zakresie AML BiznesRadar."
+    },
+    {
+      "title": "Niemiecki gigant tnie zatrudnienie. 8 tys. osób może stracić pracę - forsal.pl",
       "url": "https://forsal.pl/biznes/motoryzacja/artykuly/11282235,bmw-tnie-zatrudnienie-8-tys-osob-moze-stracic-prace.html",
       "date": "2026-07-29T11:38:32Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Niemiecki gigant tnie zatrudnienie. 8 tys. osób może stracić pracę Forsal.pl."
+      "summary": "Niemiecki gigant tnie zatrudnienie. 8 tys. osób może stracić pracę forsal.pl."
     },
     {
       "title": "TAURON pozyskał 1,12 mld zł finansowania z EBI na realizację farmy wiatrowej w Miejskiej Górce - BiznesRadar",
@@ -2140,12 +2148,12 @@
       "summary": "TAURON pozyskał 1,12 mld zł finansowania z EBI na realizację farmy wiatrowej w Miejskiej Górce BiznesRadar."
     },
     {
-      "title": "Ukraińcy bez ogródek o polskich MiG-29. Piszą o dużym ryzyku - Forsal.pl",
+      "title": "Ukraińcy bez ogródek o polskich MiG-29. Piszą o dużym ryzyku - forsal.pl",
       "url": "https://forsal.pl/kraj/bezpieczenstwo/artykuly/11282212,ukraincy-bez-ogrodek-o-polskich-mig-29-pisza-o-duzym-ryzyku.html",
       "date": "2026-07-29T10:54:26Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Ukraińcy bez ogródek o polskich MiG-29. Piszą o dużym ryzyku Forsal.pl."
+      "summary": "Ukraińcy bez ogródek o polskich MiG-29. Piszą o dużym ryzyku forsal.pl."
     },
     {
       "title": "1 060 mln zł zysku netto mBanku w drugim kwartale - BiznesRadar",
@@ -2154,6 +2162,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "1 060 mln zł zysku netto mBanku w drugim kwartale BiznesRadar."
+    },
+    {
+      "title": "Notowania historyczne INTLMCR99754 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania-historyczne/INTLMCR99754",
+      "date": "2026-07-29T09:24:09Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania historyczne INTLMCR99754 INGBANK BiznesRadar."
     },
     {
       "title": "Apple wyprzedza Nvidię. Maruder AI znowu najwyżej wycenianą spółką na swiecie",
@@ -2172,30 +2188,6 @@
       "summary": "mBank potwierdza powrót do dywidend. Pierwsza wypłata już w przyszłym roku, a następne mogą rosnąć Piotr Kwestarz śr., 29.07.2026 Kanał Strefa Inwestorów Treść mBank podtrzymuje, że wznowi wypłatę dywidendy z zysku za 2026 rok. Oznacza to, że akcjonariusze banku doczekają się pierwszej wypłaty po długiej przerwie, od 2018 roku, choć pieniądze trafią na ich rachunki dopiero w 2027 roku."
     },
     {
-      "title": "Sygnały analizy technicznej VH10629 VEHIS FINANSE - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/VH10629",
-      "date": "2026-07-29T07:47:14Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Sygnały analizy technicznej VH10629 VEHIS FINANSE BiznesRadar."
-    },
-    {
-      "title": "Wiadomości INTLDNP99473 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/INTLDNP99473",
-      "date": "2026-07-29T07:36:12Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości INTLDNP99473 INGBANK BiznesRadar."
-    },
-    {
-      "title": "Trendy VH10629 VEHIS FINANSE - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-trendy/VH10629",
-      "date": "2026-07-29T07:28:58Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Trendy VH10629 VEHIS FINANSE BiznesRadar."
-    },
-    {
       "title": "Przemysł ma 20,5 tys. wakatów. Poszukiwani robotnicy i operatorzy maszyn",
       "url": "https://300gospodarka.pl/news/przemysl-ma-205-tys-wakatow-poszukiwani-robotnicy-i-operatorzy-maszyn",
       "date": "2026-07-28T21:02:48Z",
@@ -2210,6 +2202,14 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Zmiany klimatu najpewniej obniżą poziom aktywności gospodarczej, ale ekonomiści spierają się, czy trwale osłabią również tempo wzrostu PKB. Trudno precyzyjnie określić, jak duże będą straty. Według analizy mBanku rozbieżności są ogromne: przy ociepleniu o 3°C jedne metaanalizy wskazują ok."
+    },
+    {
+      "title": "Strategia GEM. 15% zysku rocznie, ale czasem po 20 latach za indeksem",
+      "url": "https://inwestomat.eu/strategia-gem/",
+      "date": "2026-07-27T05:00:00Z",
+      "source": "Inwestomat (Albert Rokicki)",
+      "confirmed_by": 1,
+      "summary": "Global Equities Momentum pod lupą. O strategii GEM, czyli Global Equities Momentum miałem napisać od dawna, więc jest mi bardzo miło przedstawić merytoryczny, ale konkretny i skoncentrowany wpis o tym zyskującym w ostatnim roku na popularności sposobie inwestowania. W Polsce GEM jako pierwszy opisał w czerwcu 2019 roku autor bloga systemtrader i portalu atlasetf Jacek Lempart [&#8230;]."
     }
   ],
   "critical_alerts": [
@@ -2289,8 +2289,8 @@
       "lng": -98.1,
       "type": "cyber",
       "region": "Stany Zjednoczone",
-      "description": "Ciekawa sprawa z USA.",
-      "url": "https://niebezpiecznik.pl/post/zostal-zatrzymany-do-kontroli-i-podal-haslo-ktore-skasowalo-zawartosc-smartfona-zamiast-go-odblokowac-teraz-moze-trafic-do-wiezienia-problemy/"
+      "description": "Dzisiejszym bohaterem dr.",
+      "url": "https://sekurak.pl/gosc-zainfekowal-pytanie-egzaminacyjne-ukryta-instrukcja-dla-ai/"
     },
     {
       "lat": 55.5,
