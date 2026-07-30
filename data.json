@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T06:22:31Z",
+  "last_updated": "2026-07-30T06:23:07Z",
   "poland": [
     {
       "title": "\"Atakujemy cele bez przerwy\". Rosyjskie ministerstwo skomentowało nocne ataki",
@@ -72,6 +72,14 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Co najmniej siedem osób zginęło, a 30 zostało rannych w zmasowanym ataku Rosji na Ukrainę. W Krzywym Rogu w uderzeniu ataku z użyciem pocisku balistycznego Iskander-M w dom mieszkalny zginęły dziewczynki w wieku 5 i 12 lat oraz czworo dorosłych. Służby obwodów lwowskiego i kijowskiego walczą z pożarami i odgruzowują miasta - wiadomo, że pod zawalanymi budynkami są ludzie."
+    },
+    {
+      "title": "Rosyjski atak na Lwów. 20 osób rannych, pod gruzami mogą być ludzie - Polska Agencja Prasowa SA",
+      "url": "https://www.pap.pl/aktualnosci/ukraina-mer-lwowa-okolo-20-rannych-w-miescie-po-rosyjskim-ataku-rakietowym",
+      "date": "2026-07-30T05:33:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Rosyjski atak na Lwów. 20 osób rannych, pod gruzami mogą być ludzie Polska Agencja Prasowa SA."
     },
     {
       "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR - PAP Biznes",
@@ -240,14 +248,6 @@
       "source": "Polsat News",
       "confirmed_by": 2,
       "summary": "Rozpoczęło się operowanie lotnictwa wojskowego w polskiej przestrzeni powietrznej - powiadomiło Dowództwo Operacyjne Rodzajów Sił Zbrojnych. Wojsko poinformowało, że maszyny poderwano w związku ze zmasowanym atakiem Rosji na Ukrainę. Tymczasem m.in."
-    },
-    {
-      "title": "Izrael uderzył w Gazie. Meczet zrównany z ziemią (PAP/AFP), Oglądaj na PAP - serwis wideo - PAP - serwis wideo",
-      "url": "https://wideo.pap.pl/pap-media,101/izrael-uderzyl-w-gazie-meczet-zrownany-z-ziemia-papafp,93822",
-      "date": "2026-07-29T23:11:45Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Izrael uderzył w Gazie. Meczet zrównany z ziemią (PAP/AFP), Oglądaj na PAP - serwis wideo PAP - serwis wideo."
     },
     {
       "title": "Wyniki losowania Lotto na 29 lipca. Sprawdź szczęśliwe liczby",
@@ -1812,6 +1812,14 @@
   ],
   "finance": [
     {
+      "title": "Ukraińcy nie chcą polskich MiG-29. Podali trzy argumenty - Forsal.pl",
+      "url": "https://forsal.pl/kraj/bezpieczenstwo/artykuly/11282513,ukraincy-nie-chca-polskich-mig-29-podali-trzy-argumenty.html",
+      "date": "2026-07-30T06:20:20Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Ukraińcy nie chcą polskich MiG-29. Podali trzy argumenty Forsal.pl."
+    },
+    {
       "title": "Niezidentyfikowany obiekt spadł na Lubelszczyźnie. Wojsko prowadzi działania",
       "url": "https://www.bankier.pl/wiadomosc/Niezidentyfikowany-obiekt-spadl-na-Lubelszczyznie-Wojsko-prowadzi-dzialania-9175311.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-30T06:20:00Z",
@@ -2140,14 +2148,6 @@
       "summary": "Rząd wraca z preferencyjnym finansowaniem dla mieszkań. Tanie kredyty dla budownictwa TBS i SIM Wioletta Hass śr., 29.07.2026 Kanał Strefa Inwestorów rynek mieszkaniowy mieszkania społeczne TBS SIM kredyt mieszkaniowy MRiT BGK polityka mieszkaniowa najem partycypacja dostępność mieszkań Treść „Rzeczpospolita” informuje o planowanej nowelizacji ustawy o rodzinnym kredycie mieszkaniowym. MRiT wraca do koncepcji preferencyjnego finansowania.Chodzi o wsparcie wpłat ułatwiających dostęp do najmu w budownictwie społecznym."
     },
     {
-      "title": "Niemiecki gigant tnie zatrudnienie. 8 tys. osób może stracić pracę - Forsal.pl",
-      "url": "https://forsal.pl/biznes/motoryzacja/artykuly/11282235,bmw-tnie-zatrudnienie-8-tys-osob-moze-stracic-prace.html",
-      "date": "2026-07-29T11:38:32Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Niemiecki gigant tnie zatrudnienie. 8 tys. osób może stracić pracę Forsal.pl."
-    },
-    {
       "title": "TAURON pozyskał 1,12 mld zł finansowania z EBI na realizację farmy wiatrowej w Miejskiej Górce - biznesradar.pl",
       "url": "https://www.biznesradar.pl/a/149670,tauron-pozyskal-1-12-mld-zl-finansowania-z-ebi-na-realizacje-farmy-wiatrowej-w-miejskiej-gorce",
       "date": "2026-07-29T11:32:00Z",
@@ -2233,8 +2233,8 @@
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Izrael uderzył w Gazie.",
-      "url": "https://wideo.pap.pl/pap-media,101/izrael-uderzyl-w-gazie-meczet-zrownany-z-ziemia-papafp,93822"
+      "description": "Izraelskie wojsko oskarżyło Hamas o wykorzystywanie meczetu do przechowywania broni.",
+      "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html"
     },
     {
       "lat": 32.43,
@@ -2701,51 +2701,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25761.23,
+      25763.41,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26929.6,
+      26931.88,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27077.05,
+      27079.35,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27322.84,
+      27325.15,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27960.78,
+      27963.15,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27996.94,
+      27999.31,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28242.47,
+      28244.86,
       27354.94,
       27400.36,
       27412.11,
-      28645.28,
+      28647.7,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27903.38,
+      27905.74,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28083.71,
+      28086.09,
       27686.17,
       27404.78,
       27351.97,
@@ -2754,7 +2754,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27791.06,
+      27793.42,
       27930.04,
       28234.04,
       28218.36,
@@ -2763,20 +2763,20 @@
       28294.39,
       28203.83,
       28555.17,
-      28627.63,
+      28630.05,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28182.83,
+      28185.22,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28010.1,
+      28012.47,
       28165.64,
       28207.97,
-      27647.95
+      27650.29
     ],
     "currency": "PLN"
   }
