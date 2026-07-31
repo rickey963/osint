@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T00:57:13Z",
+  "last_updated": "2026-07-31T00:58:01Z",
   "poland": [
     {
       "title": "TUI Blue wchodzi do miast. Marka otworzy pierwsze hotele w Lizbonie i Sewilli",
@@ -298,12 +298,12 @@
       "summary": "\"Przekroczenie poziomu 1 mld zł zysku netto to dla całego XTB historyczny moment\" — wskazuje prezes Omar Arnaout. Na najnowsze doniesienia inwestorzy zareagowali wzmożonymi zakupami akcji."
     },
     {
-      "title": "Bolesławiec: Kalendarz imprez sierpień 2026 - samorzad.pap.pl",
+      "title": "Bolesławiec: Kalendarz imprez sierpień 2026 - | Serwis Samorządowy PAP",
       "url": "https://samorzad.pap.pl/klub-samorzadowy/boleslawiec/kategoria/aktualnosci/boleslawiec-kalendarz-imprez-sierpien-2026",
       "date": "2026-07-30T14:34:40Z",
       "source": "PAP",
       "confirmed_by": 1,
-      "summary": "Bolesławiec: Kalendarz imprez sierpień 2026 samorzad.pap.pl."
+      "summary": "Bolesławiec: Kalendarz imprez sierpień 2026 | Serwis Samorządowy PAP."
     },
     {
       "title": "Politycy spierają się o reakcję państwa na rakietę nad Polską. Tusk: byliśmy gotowi - Polskie Radio 24",
@@ -766,6 +766,22 @@
   ],
   "world_politics": [
     {
+      "title": "Prezydent Meksyku przedstawia plan walki z wodorostami, które zatykają plaże",
+      "url": "https://www.nytimes.com/2026/07/30/world/americas/mexico-sargassum-beach-cleanup.html",
+      "date": "2026-07-31T00:54:42Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Wodorosty — śmierdząca, brunatna alga znana jako sargassum — nękają Meksyk i cały region od ponad dziesięciu lat, ale tegoroczna prognoza ustanawia rekordy."
+    },
+    {
+      "title": "Atak amerykańsko-saudyjski na irackie bojówki grozi wciągnięciem ich w wojnę",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html",
+      "date": "2026-07-31T00:53:43Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Sprzymierzone z Iranem bojówki w Iraku znajdują się pod rosnącą presją, aby się rozbroić, ale ostatnie strajki mogą ośmielić je do głębszego zaangażowania się w wojnę."
+    },
+    {
       "title": "Saudyjczycy tworzą sojusz wojskowy w celu ochrony żeglugi na Morzu Czerwonym",
       "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
       "date": "2026-07-31T00:46:08Z",
@@ -902,28 +918,12 @@
       "summary": "Mieszkańcy Bordeaux w południowo-zachodniej Francji robią wszystko, co w ich mocy, aby powstrzymać pożar, który trwa od ponad tygodnia. Płomienie są zbyt rozległe, aby zawodowi strażacy mogli być wszędzie, więc na razie cywilni ochotnicy to jedyne, co stoi między pożarem a dużym francuskim miastem."
     },
     {
-      "title": "Byli urzędnicy protestują przeciwko amerykańskiemu planowi pozbawienia środków Panamerykańskiej Organizacji Zdrowia",
-      "url": "https://www.nytimes.com/2026/07/30/health/paho-us-pan-american-health-organization-withdrawal.html",
-      "date": "2026-07-30T18:25:39Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Grupa byłych urzędników ds. zdrowia i bezpieczeństwa narodowego ostrzegła, że ​​Amerykanie będą bardziej podatni na zagrożenia chorobami zakaźnymi."
-    },
-    {
       "title": "Gdy Francja oswaja pożary i pozwala 84 000 ewakuowanych wrócić do domu, w całej Europie wybuchają płomienie – AP News",
       "url": "https://apnews.com/article/france-spain-greece-wildfires-heat-climate-change-de0bfabe2249153afc0e16da2f7e02f3",
       "date": "2026-07-30T16:57:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Gdy Francja oswaja pożary i pozwala 84 000 ewakuowanych wrócić do domu, w całej Europie szaleją płomienie AP News."
-    },
-    {
-      "title": "Pożar w Suffolk w Wielkiej Brytanii wybuchł kilka mil od elektrowni jądrowej",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/suffolk-wildfire-uk.html",
-      "date": "2026-07-30T16:12:16Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Wielki pożar objął prawie 250 akrów ziemi w Suffolk, malowniczym obszarze na wybrzeżu. To było kilka mil od elektrowni jądrowej."
     },
     {
       "title": "Dochodzenie ujawniło „niszczycielskie” doniesienia o niewłaściwym zachowaniu na tle seksualnym w szkole, wspierane przez Epsteina – AP News",
@@ -2496,15 +2496,15 @@
           "source": "The Guardian"
         },
         {
-          "title": "Saudyjczycy tworzą sojusz wojskowy w celu ochrony żeglugi na Morzu Czerwonym",
-          "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
+          "title": "Atak amerykańsko-saudyjski na irackie bojówki grozi wciągnięciem ich w wojnę",
+          "url": "https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html",
           "source": "The New York Times"
         }
       ]
     },
     {
       "name": "Ukraina",
-      "score": 32,
+      "score": 28,
       "reasons": [
         {
           "title": "\"Nie chodzi tylko o współczucie i potępienie\". Zełenski o rakiecie nad Polską",
@@ -2525,7 +2525,7 @@
     },
     {
       "name": "Jemen",
-      "score": 26,
+      "score": 22,
       "reasons": [
         {
           "title": "Wojna Iranu z USA nie jest jedynym konfliktem w miarę narastania kryzysów wewnętrznych",
@@ -2546,7 +2546,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 19,
+      "score": 17,
       "reasons": [
         {
           "title": "Kryzys na Bliskim Wschodzie na żywo: Trump twierdzi, że osiągnięto przełom w rozbrojeniu w Gazie; Izrael i Hamas nie skomentowały jeszcze tej sprawy",
@@ -2745,51 +2745,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25481.88,
+      25481.2,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26637.57,
+      26636.86,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26783.43,
+      26782.71,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27026.55,
+      27025.83,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27657.57,
+      27656.83,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27693.34,
+      27692.6,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27936.21,
+      27935.46,
       27354.94,
       27400.36,
       27412.11,
-      28334.64,
+      28333.89,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27600.79,
+      27600.05,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27779.17,
+      27778.43,
       27686.17,
       27404.78,
       27351.97,
@@ -2798,7 +2798,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27489.69,
+      27488.96,
       27930.04,
       28234.04,
       28218.36,
@@ -2807,21 +2807,21 @@
       28294.39,
       28203.83,
       28555.17,
-      28317.19,
+      28316.43,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27877.22,
+      27876.47,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27706.35,
+      27705.61,
       28165.64,
       28207.97,
       27574.93,
-      27802.23
+      27801.49
     ],
     "currency": "PLN"
   }
