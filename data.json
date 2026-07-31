@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T09:52:43Z",
+  "last_updated": "2026-07-31T09:53:24Z",
   "poland": [
     {
       "title": "Kosiniak-Kamysz: Pilot F-16 był upoważniony i gotowy do zestrzelenia rakiety",
@@ -689,7 +689,7 @@
       "date": "2026-07-31T04:10:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Nowy Jork pozywa Kalshi, twierdzi, że jego rynki przewidywań to nielegalny hazard Reuters."
+      "summary": "Nowy Jork pozywa Kalshi, twierdzi, że jego rynki prognostyczne stanowią nielegalny hazard Reuters."
     },
     {
       "title": "Indonezja aresztuje malezyjskiego pilota za rzekomy przemyt 26 kilogramów MDMA – podaje urząd celny – Reuters",
@@ -766,12 +766,20 @@
   ],
   "world_politics": [
     {
-      "title": "Aktualności na żywo: Hiszpański przywódca spieszy do Ceuty po wtargnięciu tysięcy migrantów na terytorium",
-      "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
-      "date": "2026-07-31T09:46:26Z",
+      "title": "Znaleziono 4 ciała, 6 alpinistów zaginęło po zejściu lawiny na Broad Peak w Pakistanie",
+      "url": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html",
+      "date": "2026-07-31T09:51:39Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Premier Pedro Sánchez miał przybyć do Ceuty, hiszpańskiej eksklawy na północnoafrykańskim wybrzeżu, w obliczu narastającego kryzysu dla jego proimigracyjnego rządu."
+      "summary": "Jak podała organizacja alpejska, w grupie złapanej na jednym z najwyższych szczytów świata znaleźli się wpływowy alpinista brytyjsko-nepalski Nirmal Purja i amerykański alpinista."
+    },
+    {
+      "title": "Aktualności na żywo: Hiszpański przywódca spieszy do Ceuty po wtargnięciu tysięcy migrantów na terytorium",
+      "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
+      "date": "2026-07-31T09:48:44Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Premier Pedro Sánchez miał przybyć do Ceuty, hiszpańskiej eksklawy w Afryce Północnej, w obliczu narastającego kryzysu dla jego proimigracyjnego rządu."
     },
     {
       "title": "Iran twierdzi, że za pomocą dronów wziął na cel wojsko amerykańskie w Kuwejcie",
@@ -828,14 +836,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Ratownicy poszukiwali ciał zaginionych po wypadku w jednym z ośrodków górniczych w kraju, gdzie często dochodzi do wybuchów metanu i zawaleń kopalni."
-    },
-    {
-      "title": "Znaleziono 4 ciała, 6 alpinistów zaginęło po zejściu lawiny na Broad Peak w Pakistanie",
-      "url": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html",
-      "date": "2026-07-31T08:59:39Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Jak podała organizacja alpejska, w grupie złapanej na jednym z najwyższych szczytów świata znaleźli się wpływowy alpinista brytyjsko-nepalski Nirmal Purja i amerykański alpinista."
     },
     {
       "title": "Co warto wiedzieć o Ceucie",
@@ -1373,7 +1373,7 @@
       "date": "2026-07-29T22:07:06Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "HAWK przetrwał lata testów, które nie odkryły jeszcze fatalnej słabości Mythos."
+      "summary": "HAWK przetrwał lata testów, które nie odkryły jeszcze fatalnej słabości Mythosa."
     },
     {
       "title": "Musk poszedł na „wojnę”, szukał więzienia za bojkot reklam X – ale sprawa kończy się skomleniem",
@@ -2804,51 +2804,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25546.64,
+      25541.18,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26705.27,
+      26699.57,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26851.5,
+      26845.76,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27095.24,
+      27089.45,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27727.86,
+      27721.94,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27763.72,
+      27757.8,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28007.2,
+      28001.23,
       27354.94,
       27400.36,
       27412.11,
-      28406.65,
+      28400.59,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27670.94,
+      27665.03,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27849.77,
+      27843.82,
       27686.17,
       27404.78,
       27351.97,
@@ -2857,7 +2857,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27559.56,
+      27553.68,
       27930.04,
       28234.04,
       28218.36,
@@ -2866,21 +2866,21 @@
       28294.39,
       28203.83,
       28555.17,
-      28389.15,
+      28383.09,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27948.07,
+      27942.1,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27776.77,
+      27770.84,
       28165.64,
       28207.97,
       27574.93,
-      27872.89
+      27866.94
     ],
     "currency": "PLN"
   }
