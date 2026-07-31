@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T20:40:31Z",
+  "last_updated": "2026-07-31T20:45:33Z",
   "poland": [
     {
       "title": "Ziemia zatrzęsła się pod Neapolem. Są utrudnienia",
@@ -444,7 +444,7 @@
       "summary": "Stany Zjednoczone proponują głębokie cięcia wody w rzece Kolorado w Arizonie, Kalifornii i Nevadzie Reuters."
     },
     {
-      "title": "Trzęsienie ziemi o magnitudzie 4,7 w pobliżu Neapolu we Włoszech powoduje przestoje i zniszczenia – Reuters",
+      "title": "Trzęsienie ziemi o magnitudzie 4,7 w pobliżu włoskiego Neapolu, powodując awarie i zniszczenia – Reuters",
       "url": "https://www.reuters.com/business/environment/magnitude-47-quake-strikes-near-italys-naples-causing-outages-damage-2026-07-31/",
       "date": "2026-07-31T19:22:42Z",
       "source": "Reuters",
@@ -665,7 +665,7 @@
       "date": "2026-07-31T11:21:20Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Firmy muszą zapewnić, że ludzie wiedzą, kiedy wchodzą w interakcję ze sztucznie wygenerowanymi obrazami, dźwiękiem i tekstem zaprojektowanym tak, aby wyglądały realistycznie. Od pozornie spisku mającego na celu kradzież wyborów po znęcanie się nad personelem lub wykonywanie zawstydzających ruchów tanecznych – w ciągu ostatnich kilku lat pojawiło się wiele fałszywych treści na temat polityków, których celem było oczernianie swoich celów i wprowadzanie opinii publicznej w błąd. Obecnie przepisy UE mają na celu powstrzymanie zalewu tych zwodniczych treści: począwszy od niedzieli sztucznie wygenerowane obrazy, dźwięk i tekst zaprojektowane tak, aby wyglądały autentycznie, muszą być oznakowane. Kontynuuj czytanie..."
+      "summary": "Firmy muszą zapewnić, że ludzie wiedzą, kiedy wchodzą w interakcję ze sztucznie wygenerowanymi obrazami, dźwiękiem i tekstem zaprojektowanym tak, aby wyglądały jak prawdziwe. Od pozornie spisku mającego na celu kradzież wyborów po znęcanie się nad personelem lub wykonywanie zawstydzających ruchów tanecznych – w ciągu ostatnich kilku lat pojawiło się wiele fałszywych treści na temat polityków, których celem było oczernianie swoich celów i wprowadzanie opinii publicznej w błąd. Obecnie przepisy UE mają na celu powstrzymanie zalewu tych zwodniczych treści: począwszy od niedzieli sztucznie generowane obrazy, dźwięk i tekst zaprojektowane tak, aby wyglądały autentycznie, muszą być oznakowane. Kontynuuj czytanie..."
     },
     {
       "title": "Były prezydent Peru uchylił wyrok 15 lat więzienia za zarzuty korupcyjne",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Aktualizacje na żywo: po przedostaniu się dziesiątek tysięcy migrantów na terytorium Hiszpanii większość wraca do Maroka",
+      "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
+      "date": "2026-07-31T20:39:13Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Około 48 000 z około 60 000 osób, które przybyły do ​​Ceuty z Maroka, wróciło w ciągu jednego dnia. Mimo to nagły napływ spowodował kryzys dla proimigracyjnego rządu Hiszpanii. Prawie trzy tuziny zmarło."
+    },
+    {
       "title": "Migranci napływają na terytorium Hiszpanii, wywołując reakcję polityczną",
       "url": "https://www.nytimes.com/2026/07/31/world/migrants-surge-into-spanish-territory-triggering-political-backlash.html",
       "date": "2026-07-31T20:33:20Z",
@@ -780,14 +788,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Dziesiątki tysięcy migrantów dobrowolnie opuszcza miasto po przedostaniu się na terytorium Hiszpanii przez Ceutę AP News."
-    },
-    {
-      "title": "Aktualizacje na żywo: po przedostaniu się dziesiątek tysięcy migrantów na terytorium Hiszpanii większość wraca do Maroka",
-      "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
-      "date": "2026-07-31T20:09:03Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Około 48 000 z około 60 000 osób, które przybyły do ​​Ceuty z Maroka, wróciło w ciągu jednego dnia. Mimo to nagły napływ spowodował kryzys dla proimigracyjnego rządu Hiszpanii. Prawie trzy tuziny zmarło."
     },
     {
       "title": "Przywódca Hiszpanii spieszy do Ceuty po tym, jak tysiące migrantów przedarło się przez granicę",
@@ -1007,6 +1007,14 @@
     }
   ],
   "technology": [
+    {
+      "title": "Źródła: OpenAI odkryło inne przypadki, w których agenci AI uciekli z przechowalni; Uważa się, że żaden z agentów nie opuścił sieci OpenAI (Reuters)",
+      "url": "https://www.techmeme.com/260731/p36#a260731p36",
+      "date": "2026-07-31T20:40:00Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Reuters: Źródła: OpenAI odkryło inne przypadki, w których agenci AI uciekli z przechowalni; Uważa się, że żaden z agentów nie opuścił sieci OpenAI &mdash; W miarę poszerzania dochodzenia OpenAI wykryła inne przypadki, w których autonomiczni agenci uciekli z zabezpieczenia."
+    },
     {
       "title": "FBI i EPA twierdzą, że przedsiębiorstwa wodociągowe i kanalizacyjne w co najmniej siedmiu stanach zgłosiły w tym tygodniu cyberataki, z których niektóre spowodowały powodzie i inne problemy operacyjne (James Rundle/Wall Street Journal)",
       "url": "https://www.techmeme.com/260731/p35#a260731p35",
@@ -1248,14 +1256,6 @@
       "summary": "Żadne z tych urządzeń nie schłodzi ci pokoju, ale pomogą znieść upał bez nadwyrężania portfela. Które warto wybrać?"
     },
     {
-      "title": "OpenAI twierdzi, że jego modele mają obecnie ponad 1 miliard aktywnych użytkowników i są używane przez ponad 2 miliony firm (Katherine Hamilton/Wall Street Journal)",
-      "url": "https://www.techmeme.com/260731/p28#a260731p28",
-      "date": "2026-07-31T16:55:02Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Katherine Hamilton / Wall Street Journal: OpenAI twierdzi, że jego modele mają obecnie ponad 1 miliard aktywnych użytkowników i są używane przez ponad 2 miliony firm &mdash; Ogłoszenie następuje po tym, jak OpenAI ogłosiło na początku tego tygodnia, że ​​obniży cenę kilku swoich modeli &mdash; OpenAI ma ponad miliard aktywnych użytkowników i dwa miliony firm korzystających z modeli sztucznej inteligencji."
-    },
-    {
       "title": "Nietypowe \"UFO\" w LHC. Naukowcy łączą je z ciemną materią",
       "url": "https://www.benchmark.pl/nietypowe-ufo-w-lhc-naukowcy-lacza-je-z-ciemna-materia-7313424116914176a",
       "date": "2026-07-31T16:30:00Z",
@@ -1418,7 +1418,7 @@
       "summary": "Podejrzewa się, że od stycznia 2025 r. chińskojęzyczny ugrupowanie zagrażające stoi za nową falą cyberataków wymierzonych w organizacje rządowe zlokalizowane głównie w Azji Środkowej, w tym w Afganistanie, Kirgistanie, Tadżykistanie, Uzbekistanie, Kazachstanie i Syryjskiej Republice Arabskiej. Te docelowe organizacje działają w kilku sektorach, takich jak opieka zdrowotna, badania naukowe i urzędy rządowe."
     },
     {
-      "title": "HollowFrame Loader wdraża backdoora Matryoshki w ataku typu spear-phishing na firmę prawniczą",
+      "title": "Program HollowFrame Loader wykorzystuje backdoora Matryoshki w ataku typu spear-phishing na firmę prawniczą",
       "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
       "date": "2026-07-31T16:39:31Z",
       "source": "The Hacker News",
@@ -1908,6 +1908,14 @@
       "summary": "Miliony na cyberbezpieczeństwo: Rusza kluczowe wsparcie dla polskich samorządów forsal.pl."
     },
     {
+      "title": "Podatek cyfrowy w 2027 roku? Ministerstwo Cyfryzacji wysyła projekt do konsultacji",
+      "url": "https://www.bankier.pl/wiadomosc/Podatek-cyfrowy-w-2028-roku-Ministerstwo-Cyfryzacji-wysyla-projekt-do-konsultacji-9176512.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-07-31T16:22:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "MC przekazało projekt podatku rekompensującego od niektórych usług cyfrowych (podatek cyfrowy) do konsultacji międzyresortowych. Zakłada on 3-proc. daninę od przychodów największych globalnych dostawców usług cyfrowych działających w Polsce – wynika z projektu ustawy autorstwa resortu cyfryzacji."
+    },
+    {
       "title": "Lipcowa inflacja bez dużego zaskoczenia. Problem tkwi w paliwach i ryzykach surowcowych",
       "url": "https://300gospodarka.pl/news/inflacja-lipiec-2026-wstepne-dane-gus",
       "date": "2026-07-31T15:50:59Z",
@@ -1948,6 +1956,14 @@
       "summary": "BIOCELTIX [BCX] stockwatch.pl."
     },
     {
+      "title": "ZABKA [ZAB] - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-514157_ZABKA.aspx",
+      "date": "2026-07-31T15:02:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "ZABKA [ZAB] stockwatch.pl."
+    },
+    {
       "title": "PORTFEL konkursowy STOCKWATCH 2026 - Indywidualne kroniki giełdowe - Forum StockWatch.pl - stockwatch.pl",
       "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-514165_PORTFEL-konkursowy-STOCKWATCH-2026.aspx",
       "date": "2026-07-31T14:36:24Z",
@@ -1970,14 +1986,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "PKP Cargo podpisało umowy z PGE GiEK na przewozy surowców. Wartość kontraktów do 76,1 mln zł stockwatch.pl."
-    },
-    {
-      "title": "Biznes, Gospodarka, Świat - forsal.pl",
-      "url": "https://forsal.pl/tagi/najlepsze-sluzby-wywiadowcze-w-europie",
-      "date": "2026-07-31T13:32:51Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat forsal.pl."
     },
     {
       "title": "Współcześni artyści w Wersalu? Do niedawna wywoływało to skandal. Dziś to coraz silniejszy trend [OPINIA] - Forbes",
@@ -2028,6 +2036,14 @@
       "summary": "Fundusze hipoteczne miały pod koniec 2025 r. 402 aktywne umowy odwróconej hipoteki w modelu sprzedażowym. Średnia miesięczna renta wyniosła 1176 zł, a łączne wypłaty dla klientów sięgnęły w ubiegłym roku 7,3 mln zł."
     },
     {
+      "title": "Biznes, Gospodarka, Świat - forsal.pl",
+      "url": "https://forsal.pl/tagi/terminal-autonomy",
+      "date": "2026-07-31T11:24:10Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat forsal.pl."
+    },
+    {
       "title": "Trzęsienie ziemi w CPK. Odwołany prezes i członek zarządu. Co dalej? - forsal.pl",
       "url": "https://forsal.pl/transport/aktualnosci/artykuly/11283315,trzesienie-ziemi-w-cpk-odwolany-prezes-i-czlonek-zarzadu.html",
       "date": "2026-07-31T11:16:06Z",
@@ -2050,14 +2066,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Sygnałów nie pokaże żaden raport czy Excel. To dlatego najlepsi rzucają pracę Forbes."
-    },
-    {
-      "title": "PKO BP z rekordową dywidendą. Zostały ostatnie dni, by się na nią załapać",
-      "url": "https://strefainwestorow.pl/dywidendy/pko-data-dywidendy-2026",
-      "date": "2026-07-31T10:00:01Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "PKO BP z rekordową dywidendą. Zostały ostatnie dni, by się na nią załapać Piotr Kwestarz pt., 31.07.2026 Kanał Strefa Inwestorów Dywidendy dywidendy 2026 spółki dywidendowe Treść PKO Bank Polski podzieli się z akcjonariuszami rekordową dywidendą. Zarząd rekomenduje wypłatę 6,14 zł na akcję z zysku za 2025 rok, co przy obecnym kursie daje stopę dywidendy na poziomie 5,6%, wyraźnie powyżej średniej rynkowej."
     },
     {
       "title": "Polska za Estonią w rankingu służb wywiadowczych Europy. Na osłodę jest pochwała od Mossadu - forsal.pl",
@@ -2108,6 +2116,14 @@
       "summary": "Skończmy udawać, że w zarządach zawsze zasiadają najlepsi [OPINIA] Forbes."
     },
     {
+      "title": "Widok na morze i architektura z morskim charakterem. Jak jachty, światło i sztuka budują nowy adres w Helu? - Forbes",
+      "url": "https://www.forbes.pl/nieruchomosci/marina-hel-apartamenty-architektura-inspirowana-jachtami/hq9mcw3",
+      "date": "2026-07-31T08:00:00Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Widok na morze i architektura z morskim charakterem. Jak jachty, światło i sztuka budują nowy adres w Helu? Forbes."
+    },
+    {
       "title": "Burza o wiek emerytalny w rządzie. Ministra: to jest absurdalne",
       "url": "https://www.money.pl/finanse/burza-o-wiek-emerytalny-w-rzadzie-ministra-to-jest-absurdalne-7313321656525889v.html",
       "date": "2026-07-31T07:54:17Z",
@@ -2116,20 +2132,12 @@
       "summary": "- Jak publicznie członek czy członkini rządu wygłasza tak doniosły pomysł czy postulat tak istotny społecznie z takimi konsekwencjami, to musi mieć świadomość, że wywołuje nie tylko debatę, tylko wywołuje lęk i strach konkretnych osób. Mówię to jako ministra odpowiedzialna za emerytury w tej kadencji rządu - nie będzie żadnego podwyższania wieku emerytalnego koniec i kropka. - tak Agnieszka Dziemianowicz-Bąk, ministra rodziny, pracy i polityki społecznej w programie \"Tłit\" Wirtualnej Polski skomentowała słowa ministry Katarzyny Pełczyńskiej-Nałęcz, która w programie WP powiedziała, że być może kobiety, które nie decydują się na posiadanie dzieci, powinny mieć taki sam wiek emerytalny, jak mężczyźni."
     },
     {
-      "title": "Druga wypłata z Beta ETF Dywidenda Plus będzie prawie pięciokrotnie wyższa. Zasługa sezonu dywidendowego",
-      "url": "https://strefainwestorow.pl/dywidendy/beta-etf-dywidenda-plus-druga-wyplata-2026",
-      "date": "2026-07-31T07:46:46Z",
-      "source": "Strefa Inwestorów",
+      "title": "[wideo] Wstępne wyniki XTB za I półrocze 2026 roku - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149742,wideo-wstepne-wyniki-xtb-za-i-polrocze-2026-roku",
+      "date": "2026-07-31T07:43:00Z",
+      "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Druga wypłata z Beta ETF Dywidenda Plus będzie prawie pięciokrotnie wyższa. Zasługa sezonu dywidendowego Piotr Kwestarz pt., 31.07.2026 Kanał Strefa Inwestorów BETA ETF ETF Treść Beta ETF Dywidenda Plus ogłosił szczegóły drugiej w historii funduszu wypłaty dochodu. Na jeden certyfikat przypadnie 2,84 zł, czyli blisko pięć razy więcej niż przy pierwszej dystrybucji."
-    },
-    {
-      "title": "Znamy szybki szacunek inflacji za lipiec. GUS opublikował świeże dane",
-      "url": "https://strefainwestorow.pl/gospodarka/szacunkowy-odczyt-inflacja-lipiec-2026",
-      "date": "2026-07-31T07:36:57Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "Znamy szybki szacunek inflacji za lipiec. GUS opublikował świeże dane Wioletta Hass pt., 31.07.2026 Kanał Strefa Inwestorów inflacja GUS CPI czerwiec 2026 gospodarka ceny RPP Treść Główny Urząd Statystyczny (GUS) opublikował wstępny odczyt inflacji za lipiec 2026 roku. Wskaźnik CPI lekko w górę.Według danych GUS wstępny odczyt wskaźnika CPI w lipcu pokazał 3,0 proc."
+      "summary": "[wideo] Wstępne wyniki XTB za I półrocze 2026 roku BiznesRadar."
     },
     {
       "title": "Inflacja w lipcu 2026 r. rośnie do 3 proc. Dane GUS",
@@ -2156,28 +2164,12 @@
       "summary": "Sunway Network podpisała umowę na moduł do współpracy strzelnic TRIGLAV z pistoletami Glock BiznesRadar."
     },
     {
-      "title": "Asbis oczekuje, że marże pozostaną na dobrym poziomie. Spółka rozważa projekty M&A, mówi prezes Sergey Kostevitch",
-      "url": "https://strefainwestorow.pl/spolki/asbis-ai-finansowanie-akwizycje-",
-      "date": "2026-07-31T06:42:42Z",
-      "source": "Strefa Inwestorów",
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 31.07.2026",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-31-07-2026-7313302184482816a.html",
+      "date": "2026-07-31T05:02:49Z",
+      "source": "Money.pl",
       "confirmed_by": 1,
-      "summary": "Asbis oczekuje, że marże pozostaną na dobrym poziomie. Spółka rozważa projekty M&A, mówi prezes Sergey Kostevitch Seb Seb pt., 31.07.2026 Kanał Strefa Inwestorów Asbis AI finansowanie akwizycje dystrybucja IT biotech onkologia Clevetura Theramir Autonomics RoboCafe Treść Asbis czuje się bardzo komfortowo z finansowaniem obecnego, dynamicznego wzrostu sprzedaży. Jeżeli okaże się, że wzrost będzie jeszcze większy, będzie pracować nad pozyskaniem finansowania, powiedział Strefie Inwestorów prezes Sergey Kostevitch."
-    },
-    {
-      "title": "WIG bije kolejne rekordy",
-      "url": "https://strefainwestorow.pl/blog/podsumowanie-sesji/wig-bije-kolejne-rekordy-0",
-      "date": "2026-07-31T06:16:16Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "WIG bije kolejne rekordy Paweł Biedrzycki pt., 31.07.2026 WIG Wstęp do wpisu Podsumowanie sesji z 30 lipca 2026: #WIG, spółki godne uwagi WIG bije kolejne rekordy Paweł Biedrzycki."
-    },
-    {
-      "title": "Właściciel Circle K chce przejąć 100% Żabki. Cena w wezwaniu ma wynieść 32 zł za akcję",
-      "url": "https://strefainwestorow.pl/spolki/zabka-wezwanie",
-      "date": "2026-07-31T05:55:55Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "Właściciel Circle K chce przejąć 100% Żabki. Cena w wezwaniu ma wynieść 32 zł za akcję Paweł Biedrzycki pt., 31.07.2026 Kanał Strefa Inwestorów Żabka wezwanie Żabka M&A Żabka Circle K Treść Alimentation Couche-Tard, kanadyjski operator sieci convenience i stacji paliw, zamierza ogłosić wezwanie na 100% akcji Grypy Żabka po cenie 32 zł za akcję. Transakcja oznacza próbę przejęcia całej spółki przez inwestora strategicznego, który działa globalnie i rozwija sieć Circle K."
+      "summary": "Kurs dolara - 31.07.2026. W piątek za jednego dolara (USD) trzeba zapłacić 3.7426 zł."
     },
     {
       "title": "[wideo] Grodno SA - Podsumowanie FY 2025/2026 - BiznesRadar",
@@ -2210,6 +2202,14 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Z końcem lipca w życie wchodzi unijna dyrektywa Right to Repair, czyli prawo do naprawy. Nowe przepisy mają utrudnić producentom blokowanie serwisowania elektroniki i dać konsumentom dodatkowy rok ochrony, jeśli w ramach reklamacji wybiorą naprawę zamiast wymiany sprzętu. Eksperci refurbed ostrzegają jednak, że sama możliwość naprawy nie wystarczy, jeśli części zamienne będą kosztować niemal tyle, co nowe urządzenie."
+    },
+    {
+      "title": "Supergrosz z zarzutami UOKiK. Klienci mieli płacić za limit, którego nie dostali",
+      "url": "https://300gospodarka.pl/news/supergrosz-z-zarzutami-uokik-klienci-mieli-placic-za-limit-ktorego-nie-dostali",
+      "date": "2026-07-30T11:47:00Z",
+      "source": "300Gospodarka",
+      "confirmed_by": 1,
+      "summary": "Prezes UOKiK wszczął postępowanie przeciwko spółce Aiqlabs, właścicielowi serwisu Supergrosz. Zarzuty dotyczą sztucznego zawyżania opłat związanych z kartami kredytowymi oraz wprowadzania konsumentów w błąd w umowach. Jeśli zarzuty się potwierdzą, spółce grozi kara do 10 proc."
     }
   ],
   "critical_alerts": [
@@ -2230,7 +2230,7 @@
       "summary": "Eksplozja w kopalni węgla w Pakistanie. Podano informacje o ofiarach śmiertelnych Polska Agencja Prasowa SA."
     },
     {
-      "title": "Trzęsienie ziemi o magnitudzie 4,7 w pobliżu Neapolu we Włoszech powoduje przestoje i zniszczenia – Reuters",
+      "title": "Trzęsienie ziemi o magnitudzie 4,7 w pobliżu włoskiego Neapolu, powodując awarie i zniszczenia – Reuters",
       "url": "https://www.reuters.com/business/environment/magnitude-47-quake-strikes-near-italys-naples-causing-outages-damage-2026-07-31/",
       "date": "2026-07-31T19:22:42Z",
       "source": "Reuters",
@@ -2540,8 +2540,8 @@
       "lng": 12.1,
       "type": "disaster",
       "region": "Włochy",
-      "description": "W piątek w rejonie Campi Flegrei, położonym w pobliżu Neapolu na południu Włoch, doszło do trzęsienia ziemi o magnitudzie 4,7.",
-      "url": "https://www.rp.pl/kleski-zywiolowe/art44925121-ziemia-zatrzesla-sie-pod-neapolem-sa-utrudnienia"
+      "description": "Trzęsienie ziemi o magnitudzie 4,7 ma miejsce w pobliżu Neapolu we Włoszech, powodując awarie i szkody Reuters.",
+      "url": "https://www.reuters.com/business/environment/magnitude-47-quake-strikes-near-italys-naples-causing-outages-damage-2026-07-31/"
     },
     {
       "lat": 41.6,
@@ -2802,51 +2802,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25450.52,
+      25438.11,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26604.79,
+      26591.82,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26750.47,
+      26737.43,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      26993.29,
+      26980.13,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27623.54,
+      27610.07,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27659.26,
+      27645.78,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27901.83,
+      27888.23,
       27354.94,
       27400.36,
       27412.11,
-      28299.77,
+      28285.98,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27566.82,
+      27553.39,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27744.98,
+      27731.46,
       27686.17,
       27404.78,
       27351.97,
@@ -2855,7 +2855,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27455.87,
+      27442.48,
       27930.04,
       28234.04,
       28218.36,
@@ -2864,22 +2864,22 @@
       28294.39,
       28203.83,
       28555.17,
-      28282.34,
+      28268.55,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27842.91,
+      27829.34,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27672.26,
+      27658.77,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      27962.5
+      27948.87
     ],
     "currency": "PLN"
   }
