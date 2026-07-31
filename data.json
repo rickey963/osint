@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T18:34:02Z",
+  "last_updated": "2026-07-31T18:34:39Z",
   "poland": [
     {
       "title": "Tusk reaguje na kryzys migracyjny w Ceucie. \"Hiszpania musi wziąć z nas przykład\"",
@@ -958,14 +958,6 @@
       "summary": "W rosyjskich atakach na Ukrainę zginęło 10 osób, a NATO wstrzymuje odrzutowce po upadku rakiety w Polsce AP News."
     },
     {
-      "title": "Pamiątkowe paszporty z logo Trumpa będą dostępne w całych Stanach Zjednoczonych – AP News",
-      "url": "https://apnews.com/article/trump-passports-state-department-d149546cb15c8e6b67356168d248ccf4",
-      "date": "2026-07-30T19:17:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Pamiątkowe paszporty z logo Trumpa będą dostępne w amerykańskich wiadomościach AP News."
-    },
-    {
       "title": "Gdy Francja oswaja pożary i pozwala 84 000 ewakuowanych wrócić do domu, w całej Europie wybuchają płomienie – AP News",
       "url": "https://apnews.com/article/france-spain-greece-wildfires-heat-climate-change-de0bfabe2249153afc0e16da2f7e02f3",
       "date": "2026-07-30T16:57:00Z",
@@ -1004,6 +996,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Gospodarka amerykańska rośnie w drugim kwartale w powolnym tempie 1,5%, a inflacja utrzymuje się na niezmiennie wysokim poziomie AP News."
+    },
+    {
+      "title": "UE przeznacza 11,4 miliarda dolarów na 7 gigafabryk AI, chcąc dogonić USA i Chiny - AP News",
+      "url": "https://apnews.com/article/eu-ai-gigafactories-china-us-data-center-88b83cd517a4d47c115605e636d0b3e4",
+      "date": "2026-07-30T10:01:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "UE przeznacza 11,4 miliarda dolarów na 7 gigafabryk AI, chcąc dogonić AP News z USA i Chin."
     }
   ],
   "technology": [
@@ -2100,14 +2100,6 @@
       "summary": "Skończmy udawać, że w zarządach zawsze zasiadają najlepsi [OPINIA] Forbes."
     },
     {
-      "title": "Sygnity szacuje wynik netto za pierwsze półrocze na ponad 46 mln zł - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149745,sygnity-szacuje-wynik-netto-za-pierwsze-polrocze-na-ponad-46-mln-zl",
-      "date": "2026-07-31T08:05:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Sygnity szacuje wynik netto za pierwsze półrocze na ponad 46 mln zł BiznesRadar."
-    },
-    {
       "title": "Burza o wiek emerytalny w rządzie. Ministra: to jest absurdalne",
       "url": "https://www.money.pl/finanse/burza-o-wiek-emerytalny-w-rzadzie-ministra-to-jest-absurdalne-7313321656525889v.html",
       "date": "2026-07-31T07:54:17Z",
@@ -2122,14 +2114,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Druga wypłata z Beta ETF Dywidenda Plus będzie prawie pięciokrotnie wyższa. Zasługa sezonu dywidendowego Piotr Kwestarz pt., 31.07.2026 Kanał Strefa Inwestorów BETA ETF ETF Treść Beta ETF Dywidenda Plus ogłosił szczegóły drugiej w historii funduszu wypłaty dochodu. Na jeden certyfikat przypadnie 2,84 zł, czyli blisko pięć razy więcej niż przy pierwszej dystrybucji."
-    },
-    {
-      "title": "[wideo] Wstępne wyniki XTB za I półrocze 2026 roku - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149742,wideo-wstepne-wyniki-xtb-za-i-polrocze-2026-roku",
-      "date": "2026-07-31T07:43:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "[wideo] Wstępne wyniki XTB za I półrocze 2026 roku BiznesRadar."
     },
     {
       "title": "Znamy szybki szacunek inflacji za lipiec. GUS opublikował świeże dane",
@@ -2194,6 +2178,22 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "[wideo] Grodno SA - Podsumowanie FY 2025/2026 BiznesRadar."
+    },
+    {
+      "title": "Widget - widgets.biznesradar.pl",
+      "url": "https://widgets.biznesradar.pl/grid/ALR_g-TAR_t-AMB_t-EBP_t-VRG_t-ABE_t-ACT_t-ROB_t-ECH_t.skin-modern,1",
+      "date": "2026-07-30T17:21:37Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Widget widgets.biznesradar.pl."
+    },
+    {
+      "title": "[BR Premium] Co robią grube ryby: Millennium TFI (II kwartał 2026) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149724,br-premium-co-robia-grube-ryby-millennium-tfi-ii-kwartal-2026",
+      "date": "2026-07-30T15:10:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "[BR Premium] Co robią grube ryby: Millennium TFI (II kwartał 2026) BiznesRadar."
     },
     {
       "title": "Unia daje konsumentom prawo do naprawy, ale serwis nadal może się nie opłacać",
@@ -2778,51 +2778,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25473.35,
+      25474.72,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26628.66,
+      26630.09,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26774.47,
+      26775.9,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27017.51,
+      27018.96,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27648.32,
+      27649.8,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27684.08,
+      27685.56,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27926.86,
+      27928.36,
       27354.94,
       27400.36,
       27412.11,
-      28325.17,
+      28326.68,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27591.56,
+      27593.04,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27769.88,
+      27771.37,
       27686.17,
       27404.78,
       27351.97,
@@ -2831,7 +2831,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27480.5,
+      27481.97,
       27930.04,
       28234.04,
       28218.36,
@@ -2840,22 +2840,22 @@
       28294.39,
       28203.83,
       28555.17,
-      28307.72,
+      28309.23,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27867.9,
+      27869.39,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27697.09,
+      27698.57,
       28165.64,
       28207.97,
       27574.93,
-      27792.94,
-      27967.22
+      27794.42,
+      27973.13
     ],
     "currency": "PLN"
   }
