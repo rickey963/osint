@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T04:51:04Z",
+  "last_updated": "2026-07-31T04:51:56Z",
   "poland": [
     {
       "title": "Wołodymyr Zełenski ogłaszał ważne porozumienie z Donaldem Trumpem. Nie ucieszą go słowa prezydenta USA",
@@ -569,7 +569,7 @@
       "date": "2026-07-31T00:52:54Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Mówi się, że Amerykanin, obywatel Chin, Oman i pięciu Nepalczyków należą do grupy, która według obaw zaginęła w Pakistanie."
+      "summary": "Mówi się, że Amerykanin, obywatel Chin, Oman i pięciu Nepalczyków należą do grupy, która prawdopodobnie zaginęła w Pakistanie."
     },
     {
       "title": "Jen pozostaje pod presją po tym, jak BOJ pozostawił stopy procentowe na niezmienionym poziomie – Reuters",
@@ -1125,7 +1125,7 @@
       "date": "2026-07-31T02:10:00Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Wall Street Journal: Źródła: Dyrektorom Tesli polecono przygotować się na oddzielenie chińskiej jednostki przed potencjalną fuzją SpaceX; doradcy rozważali sprzedaż, wydzielenie lub zamknięcie &mdash; Amerykański producent samochodów mógłby sprzedać lub wydzielić działalność na swoim drugim co do wielkości rynku ze względu na obawy geopolityczne."
+      "summary": "Wall Street Journal: Źródła: kierownictwu Tesli powiedziano, aby przygotowali się do oddzielenia chińskiej jednostki przed potencjalną fuzją SpaceX; doradcy rozważali sprzedaż, wydzielenie lub zamknięcie &mdash; Amerykański producent samochodów mógłby sprzedać lub wydzielić działalność na swoim drugim co do wielkości rynku ze względu na obawy geopolityczne."
     },
     {
       "title": "Akcje SK Hynix i Samsung wzrosły w piątek w Seulu o ponad 20%, co oznacza gwałtowne odwrócenie się od wyprzedaży z tego tygodnia (Lee Ying Shan/CNBC)",
@@ -1160,7 +1160,7 @@
       "summary": "Adres URL artykułu: https://graybeard.ing/the-religion-of-speed/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49117284 Punkty: 50 # Komentarze: 13."
     },
     {
-      "title": "W naszych ocenach cyberbezpieczeństwa badamy trzy rzeczywiste incydenty",
+      "title": "W naszych ocenach cyberbezpieczeństwa badamy trzy incydenty w świecie rzeczywistym",
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "date": "2026-07-30T23:00:51Z",
       "source": "Hacker News",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Claude z Anthropic uciekł z testowej piaskownicy i zaatakował trzy organizacje",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/31/anthropics-claude-escaped-test-sandbox-to-attack-three-organizations/5281562",
+      "date": "2026-07-31T02:19:39Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Napisano i opublikowano złośliwe oprogramowanie podczas testów, co najwyraźniej jest w porządku, ponieważ prawdziwym problemem były nieszczelne środowiska testowe."
+    },
+    {
       "title": "Drugi kwartał Amazona był świetny, ale publikacja wyników była pełna bzdur",
       "url": "https://www.theregister.com/paas-and-iaas/2026/07/31/amazon-q2-earnings-strong-results-much-baloney-in-press-release-corey-quinn/5281486",
       "date": "2026-07-31T00:08:45Z",
@@ -1600,14 +1608,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Zaobserwowano, że chińska grupa cyberprzestępcza znana jako Silver Fox używa nowych sterowników w ramach ataków typu „przynieś własny wrażliwy sterownik” (BYOVD) wymierzonych w japońską organizację z sektora produkcji przemysłowej, aby ostatecznie dostarczyć ValleyRAT (znany również jako Winos 4.0) do trwałego dostępu zdalnego. „W tej kampanii grupa łączy nowe nadużycia bezbronnych kierowców z nowo zaobserwowanymi nadużyciami uzasadnionymi."
-    },
-    {
-      "title": "Rosyjscy szpiedzy przenoszą atak e-mailowy typu „half-click” z Zimbry do Outlooka",
-      "url": "https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033",
-      "date": "2026-07-30T10:29:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Otwarcie wiadomości zawierającej miny-pułapki powoduje uruchomienie implantu przeglądarki, który może przetrwać zmiany hasła i odbudowę urządzenia."
     },
     {
       "title": "Jeden wpis, trzy lata więzienia? 54-latek zatrzymany przez CBZC",
@@ -1828,20 +1828,20 @@
       "summary": "Alimentation Couche-Tard zamierza ogłosić wezwanie na 100 proc. akcji Zabka Group po cenie 32 zł/szt. - wynika z komunikatu Ipopema Securities, podmiotu pośredniczącego."
     },
     {
+      "title": "Opcja OW20V263700 - Analiza techniczna - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/opcja/ow20v263700,analiza-techniczna.aspx",
+      "date": "2026-07-30T21:14:55Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Opcja OW20V263700 - Analiza techniczna stockwatch.pl."
+    },
+    {
       "title": "Hulaj dusza, Fedu nie ma? Potężne odbicie w półprzewodnikach",
       "url": "https://www.bankier.pl/wiadomosc/Hulaj-dusza-Fedu-nie-ma-Potezne-odbicie-w-polprzewodnikach-9175976.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-07-30T21:08:00Z",
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Czwartkowa sesja na Wall Street przyniosła silne odbicie na Nasdaqu napędzane mocnym odreagowaniem w sektorze producentów półprzewodników. Paliwa do wzrostów dały też mocarne wyniki Microsoftu."
-    },
-    {
-      "title": "Opcja OW20T263275 - Analiza techniczna - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/ow20t263275,analiza-techniczna.aspx",
-      "date": "2026-07-30T19:13:15Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Opcja OW20T263275 - Analiza techniczna stockwatch.pl."
     },
     {
       "title": "MON potwierdza: Na Lubelszczyźnie spadła rosyjska rakieta CH-101",
@@ -2004,12 +2004,12 @@
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
-      "title": "Opcja OW20T263225 - Notowania - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/OW20T263225,notowania.aspx",
-      "date": "2026-07-30T14:25:00Z",
+      "title": "Opcja OW20T263275 - Notowania - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/opcja/ow20t263275,notowania.aspx",
+      "date": "2026-07-30T14:24:00Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Opcja OW20T263225 - Notowania stockwatch.pl."
+      "summary": "Opcja OW20T263275 - Notowania stockwatch.pl."
     },
     {
       "title": "Wiadomości AMD ADVANCED MICRO DEVICES - strona: 3 - BiznesRadar",
