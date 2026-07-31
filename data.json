@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T09:53:24Z",
+  "last_updated": "2026-07-31T09:54:20Z",
   "poland": [
     {
       "title": "Kosiniak-Kamysz: Pilot F-16 był upoważniony i gotowy do zestrzelenia rakiety",
@@ -561,7 +561,7 @@
       "date": "2026-07-31T07:03:29Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Wyższy rangą urzędnik Hamasu powiedział BBC, że zgodził się na plan Rady Pokoju. Izrael nie skomentował tej sprawy."
+      "summary": "Wyższy rangą urzędnik Hamasu powiedział BBC, że zgodził się na plan Rady Pokoju. Izrael nie skomentował tej sytuacji."
     },
     {
       "title": "„Niezwykle przerażające odkrycia” pokazują, że kryzys klimatyczny nasila europejską pogodę związaną z pożarami",
@@ -641,7 +641,7 @@
       "date": "2026-07-31T05:47:32Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Ten blog jest już zamknięty – kontynuujemy naszą relację na żywo z Bliskiego Wschodu tutaj Zbiornikowiec przewożący skroplony gaz ziemny kontrolowany przez QatarEnergy opuścił w nocy cieśninę Ormuz – jako pierwszy taki statek widoczny w danych śledzenia statków opuścił drogę wodną od 11 lipca, jak pokazały w czwartek firmy analityczne. Tankowiec Al Areesh, który załadował ładunek do katarskiego terminalu Ras Laffan około godz. Według danych Kpler i LSEG, wypłynął z cieśniny w dniach 4–6 lipca w nocy 29 lipca. Kontynuuj czytanie..."
+      "summary": "Ten blog jest już zamknięty – kontynuujemy naszą relację na żywo z Bliskiego Wschodu tutaj Zbiornikowiec przewożący skroplony gaz ziemny kontrolowany przez QatarEnergy opuścił w nocy cieśninę Ormuz – pierwszy tego typu statek widoczny w danych śledzenia statków, który opuścił drogę wodną od 11 lipca, jak pokazały w czwartek firmy analityczne. Tankowiec Al Areesh, który załadował ładunek do katarskiego terminalu Ras Laffan około godz. Według danych Kpler i LSEG, wypłynął z cieśniny w dniach 4–6 lipca w nocy 29 lipca. Kontynuuj czytanie..."
     },
     {
       "title": "Po australijskim występie brytyjska raperka Yung Filly została uznana za niewinną zgwałcenia kobiety",
@@ -689,7 +689,7 @@
       "date": "2026-07-31T04:10:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Nowy Jork pozywa Kalshi, twierdzi, że jego rynki prognostyczne stanowią nielegalny hazard Reuters."
+      "summary": "Nowy Jork pozywa Kalshi, twierdzi, że jego rynki przewidywań to nielegalny hazard Reuters."
     },
     {
       "title": "Indonezja aresztuje malezyjskiego pilota za rzekomy przemyt 26 kilogramów MDMA – podaje urząd celny – Reuters",
@@ -766,14 +766,6 @@
   ],
   "world_politics": [
     {
-      "title": "Znaleziono 4 ciała, 6 alpinistów zaginęło po zejściu lawiny na Broad Peak w Pakistanie",
-      "url": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html",
-      "date": "2026-07-31T09:51:39Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Jak podała organizacja alpejska, w grupie złapanej na jednym z najwyższych szczytów świata znaleźli się wpływowy alpinista brytyjsko-nepalski Nirmal Purja i amerykański alpinista."
-    },
-    {
       "title": "Aktualności na żywo: Hiszpański przywódca spieszy do Ceuty po wtargnięciu tysięcy migrantów na terytorium",
       "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
       "date": "2026-07-31T09:48:44Z",
@@ -836,6 +828,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Ratownicy poszukiwali ciał zaginionych po wypadku w jednym z ośrodków górniczych w kraju, gdzie często dochodzi do wybuchów metanu i zawaleń kopalni."
+    },
+    {
+      "title": "Znaleziono 4 ciała, 6 alpinistów zaginęło po zejściu lawiny na Broad Peak w Pakistanie",
+      "url": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html",
+      "date": "2026-07-31T08:59:39Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Jak podała organizacja alpejska, w grupie złapanej na jednym z najwyższych szczytów świata znaleźli się wpływowy alpinista brytyjsko-nepalski Nirmal Purja i amerykański alpinista."
     },
     {
       "title": "Co warto wiedzieć o Ceucie",
@@ -1373,7 +1373,7 @@
       "date": "2026-07-29T22:07:06Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "HAWK przetrwał lata testów, które nie odkryły jeszcze fatalnej słabości Mythosa."
+      "summary": "HAWK przetrwał lata testów, które nie odkryły jeszcze fatalnej słabości Mythos."
     },
     {
       "title": "Musk poszedł na „wojnę”, szukał więzienia za bojkot reklam X – ale sprawa kończy się skomleniem",
@@ -1410,76 +1410,12 @@
   ],
   "cybersecurity": [
     {
-      "title": "Wielka Brytania chce, aby centra danych płaciły opłatę za żądania podłączenia do sieci",
-      "url": "https://www.theregister.com/systems/2026/07/31/uk-wants-datacenters-to-pay-a-fee-for-grid-connection-requests/5281248",
-      "date": "2026-07-31T09:15:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Opłata zwrotna, mająca na celu zniechęcenie marnujących czas do składania wniosków, które nigdy nie zostaną zrealizowane."
-    },
-    {
-      "title": "Znak lotniska nie uruchamia się, funkcjonariusze są już na miejscu",
-      "url": "https://www.theregister.com/offbeat/2026/07/31/airport-sign-fails-to-boot-officers-already-on-the-scene/5281066",
-      "date": "2026-07-31T08:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Borku! Borku! To dźwięk policji."
-    },
-    {
-      "title": "Techie odszedł z emerytury, aby wspierać oprogramowanie, które tylko on pamiętał",
-      "url": "https://www.theregister.com/software/2026/07/31/techie-lured-out-of-retirement-to-support-software-only-he-remembered/5280245",
-      "date": "2026-07-31T06:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Pierwsza praca była dochodowa i szła dobrze, ale emerytura była lepsza od ciągłych projektów."
-    },
-    {
       "title": "„Akceptuję wszystkie” pod lupą. Spór o przyszłość cookies",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/prywatnosc/akceptuje-wszystkie-pod-lupa-spor-o-przyszlosc-cookies",
       "date": "2026-07-31T06:06:41Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Banery cookies mogą wkrótce zniknąć z europejskich stron internetowych. Inicjatywa „Kill the Cookie Banner” apeluje do obywateli o wywieranie nacisku na europosłów i rządy państw UE, aby zgodę na śledzenie można było ustawić raz – w przeglądarce lub systemie operacyjnym – zamiast podejmować tę decyzję przy każdej wizycie na stronie."
-    },
-    {
-      "title": "Claude z Anthropic uciekł z testowej piaskownicy i zaatakował trzy organizacje",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/31/anthropics-claude-escaped-test-sandbox-to-attack-three-organizations/5281562",
-      "date": "2026-07-31T02:19:39Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Napisano i opublikowano złośliwe oprogramowanie podczas testów, co najwyraźniej jest w porządku, ponieważ prawdziwym problemem były nieszczelne środowiska testowe."
-    },
-    {
-      "title": "Drugi kwartał Amazona był świetny, ale publikacja wyników była pełna bzdur",
-      "url": "https://www.theregister.com/paas-and-iaas/2026/07/31/amazon-q2-earnings-strong-results-much-baloney-in-press-release-corey-quinn/5281486",
-      "date": "2026-07-31T00:08:45Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "„Mów mi kłamstwa, mów mi słodkie kłamstwa”."
-    },
-    {
-      "title": "LinkedIn zdaje sobie sprawę, że jego użytkownicy kąpali się w pomyjach AI, oferuje prysznic",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/30/linkedin-realizes-its-users-have-been-bathing-in-ai-slop-offers-a-shower/5281436",
-      "date": "2026-07-30T20:26:49Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Sieć społecznościowa pełna sztucznej inteligencji dodaje przycisk umożliwiający zgłaszanie niechlujnych postów, rezygnuje z narzędzi do przepisywania AI i obiecuje więcej."
-    },
-    {
-      "title": "Oracle dodaje Google Gemini do menu agenta",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/30/oracle-adds-google-gemini-to-the-agent-menu/5281331",
-      "date": "2026-07-30T18:40:29Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Firmy LLM z fabryki czekolady dołączają do imprezy automatyzacji Fusion firmy Big Red."
-    },
-    {
-      "title": "Dzięki nowej technologii pamięci inspirowanej pamięcią masową procesory graficzne mogą eksplodować do wielu TB",
-      "url": "https://www.theregister.com/storage/2026/07/30/gpus-could-explode-to-multiple-tb-with-new-storage-inspired-memory-tech/5281363",
-      "date": "2026-07-30T18:33:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Wysokoprzepustowa pamięć flash zapewnia pojemność porównywalną z dyskami SSD przy prędkościach porównywalnych z HBM, ale to nie wszystko."
     },
     {
       "title": "Powiązane z KRLD złośliwe reklamy w systemie macOS wykorzystują fałszywe aktualizacje do dostarczania złośliwego oprogramowania kradnącego kryptowaluty",
@@ -1490,28 +1426,12 @@
       "summary": "Podmioty zagrażające powiązane z Koreą Północną przypisuje się wyrafinowanej kampanii złośliwego oprogramowania dla systemu macOS, która polega na przekierowywaniu użytkowników na fałszywe strony internetowe wyświetlające na pełnym ekranie nieistniejącą sekwencję aktualizacji w celu dostarczania złośliwego oprogramowania w ramach nowej iteracji długotrwałej kampanii Contagious Interview. Charakterystycznym aspektem ataku jest potajemne wyświetlanie fałszywego ekranu aktualizacji oprogramowania macOS."
     },
     {
-      "title": "Projekt open source oszukuje skrobaki AI zatrutą czcionką",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
-      "date": "2026-07-30T17:19:23Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "ShieldFont jest dostępny już dziś, jeśli masz kopię wymagającą ochrony."
-    },
-    {
       "title": "Przeczytaj to, zanim kupisz ten kij do transmisji strumieniowej TV",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "date": "2026-07-30T16:49:00Z",
       "source": "Krebs on Security",
       "confirmed_by": 1,
       "summary": "Eksperci ds. bezpieczeństwa od lat alarmują o ryzyku związanym z używaniem standardowych odbiorników telewizyjnych oferujących nieograniczone przesyłanie strumieniowe treści za jednorazową opłatą, ostrzegając, że potajemnie wynajmują one połączenie internetowe użytkownika nieznajomym. Jednak nowa, przełomowa analiza wykazała, że ​​urządzenia te rutynowo podszywają się pod telefony komórkowe klikające reklamy w witrynach internetowych generowanych przez sztuczną inteligencję w ramach szeroko zakrojonej operacji mającej na celu oszukanie sprzedawców internetowych i sieci reklamowych."
-    },
-    {
-      "title": "Wandal z więzienia Flock niszczy trzy kamery i powoduje tysiące szkód",
-      "url": "https://www.theregister.com/security/2026/07/30/jailed-flock-vandal-wipes-out-three-cameras-racks-up-thousands-in-damages/5281224",
-      "date": "2026-07-30T15:28:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Lekcja dla początkujących wandali: zniszcz wszystkie kamery, a nie tylko te, które lekceważą Twoje ideały."
     },
     {
       "title": "ThreatsDay: hakowanie oparte na sztucznej inteligencji, 370 usterek w Chrome, ataki SonicWall, przejmowanie DNS i 22 więcej historii",
@@ -1522,36 +1442,12 @@
       "summary": "Wiele zabezpieczeń nadal sprowadza się do zaufania niewłaściwemu ekranowi. W tym tygodniu tym ekranem może być strona logowania, instrukcja instalacji, rozmowa rekrutacyjna lub znajoma usługa zachowująca się nieco nieprawidłowo. Za tym stoją: ponownie wykorzystane dane uwierzytelniające, odsłonięte systemy, ciche programy ładujące, nadużyte zaufanie i ścieżki exploitów, które powinny być trudniejsze."
     },
     {
-      "title": "Amerykanie wydają całodniowe zakazy rozmów telefonicznych w szkołach z poparciem dla dzwonienia",
-      "url": "https://www.theregister.com/personal-tech/2026/07/30/americans-give-all-day-school-phone-bans-a-ringing-endorsement/5281186",
-      "date": "2026-07-30T14:31:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Sondaż wskazuje, że cierpliwość wobec słuchawek w klasie jest krótsza niż żywotność baterii nastolatka."
-    },
-    {
-      "title": "Od indywidualnych osiągnięć po wpływ partnera",
-      "url": "https://www.theregister.com/storage/2026/07/30/partner-content/5277414",
-      "date": "2026-07-30T14:00:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "TREŚĆ PARTNERÓW: Dane z ankiety Databricks sugerują, że certyfikowani specjaliści zwiększają zdolność partnerów do świadczenia usług, wiarygodność klientów i gotowość do sztucznej inteligencji znacznie wykraczając poza osoby, które uzyskały takie uprawnienia."
-    },
-    {
       "title": "Smartfony na oddziałach psychiatrycznych. Prezes UODO chce jasnych zasad",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/smartfony-na-oddzialach-psychiatrycznych-prezes-uodo-chce-jasnych-zasad",
       "date": "2026-07-30T13:57:15Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Czy pacjent zamkniętego oddziału psychiatrycznego powinien mieć dostęp do własnego smartfona? Prezes UODO apeluje o jasne przepisy, które pogodzą prawo do kontaktu z bliskimi z ochroną prywatności, danych o zdrowiu i bezpieczeństwa osób hospitalizowanych."
-    },
-    {
-      "title": "Samsung ostrzega, że ​​kryzys pamięci będzie trwał do 2028 r., ponieważ zyski wzrosną 19-krotnie",
-      "url": "https://www.theregister.com/systems/2026/07/30/samsung-warns-memory-crunch-will-last-through-2028-as-profit-rises-19-fold/5281142",
-      "date": "2026-07-30T13:50:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Technologiczny gigant gromadzi rekordowe ilości gotówki, a kupujący muszą mierzyć się z latami podwyższonych cen."
     },
     {
       "title": "Klucz obejmujący całą platformę z usterką Azure Cosmos DB, który może uzyskać dostęp do dowolnej bazy danych",
@@ -1568,14 +1464,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Prezydent podpisał ustawę, wprowadzającą jedną z największych zmian dotyczących cyfrowych nawyków uczniów. Nowe regulacje mają ograniczyć obecność ekranów w codziennym życiu dzieci, a placówkom dać jasne podstawy do egzekwowania zasad, które dotąd zależały głównie od decyzji dyrektorów."
-    },
-    {
-      "title": "Amazon łączy cztery zatrute paczki npm z jedną załogą z Korei Północnej",
-      "url": "https://www.theregister.com/cyber-crime/2026/07/30/amazon-links-four-poisoned-npm-packages-to-one-north-korean-crew/5281120",
-      "date": "2026-07-30T13:13:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Badacze twierdzą, że opiekunowie Sapphire Sleet poddali się inżynierii społecznej przed opublikowaniem złośliwych aktualizacji za pośrednictwem zaufanych kont."
     },
     {
       "title": "Szyfrowanie fundamentem cyberbezpieczeństwa. Kara od UODO",
@@ -1722,6 +1610,14 @@
       "summary": "Badacze zajmujący się cyberbezpieczeństwem zauważyli lukę w zabezpieczeniach Ruflo, metawiązce agentów typu open source dla Anthropic Claude Code i OpenAI Codex, o maksymalnej wadze, która może skutkować nieuwierzytelnionym zdalnym wykonaniem kodu. Luka, oznaczona jako CVE-2026-59726 (wynik CVSS: 10,0), dotyczy wszystkich wersji projektu przed wersją 3.16.3. Został nazwany kodem RufRoot przez Noma Security."
     },
     {
+      "title": "Trzy krytyczne błędy VMware umożliwiają obejście uwierzytelnienia, wykonanie kodu i ucieczkę maszyny wirtualnej",
+      "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+      "date": "2026-07-29T15:31:15Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Firma Broadcom wydała aktualizacje zabezpieczeń, które usuwają liczne luki w zabezpieczeniach oprogramowania VMware ESX, vCenter, Workstation i Fusion, z których trzy uznano za krytyczne. Pierwszą z trzech krytycznie ocenionych usterek jest CVE-2026-59309 (wynik CVSS: 9,8), który został opisany jako obejście uwierzytelniania w VMware vCenter. „Złośliwy aktor z dostępem sieciowym do vCenter."
+    },
+    {
       "title": "UKNF: sektor finansowy musi być gotowy na zaawansowaną AI",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/uknf-sektor-finansowy-musi-byc-gotowy-na-zaawansowana-ai",
       "date": "2026-07-29T15:18:40Z",
@@ -1736,6 +1632,14 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Cyberbezpieczeństwo wchodzi w etap, w którym o przewadze coraz częściej decyduje nie liczba analityków, lecz szybkość działania autonomicznych systemów. Microsoft chce odpowiedzieć na ten wyścig, przenosząc sztuczną inteligencję z roli pomocnika do centrum procesów wykrywania, oceny i neutralizowania zagrożeń."
+    },
+    {
+      "title": "Skoordynowany cyberatak atakuje ponad 30 systemów wodociągowych w Minnesocie, gdy jedna fabryka przestaje działać",
+      "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+      "date": "2026-07-29T13:48:36Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Skoordynowany cyberatak, którego celem była technologia operacyjna, odbył się w dniach 26 i 27 lipca w ponad 30 systemach wodociągowych społeczności Minnesoty, wywołując ogólnostanową reakcję w zakresie bezpieczeństwa cybernetycznego. Braham, Plymouth, South St. Paul i Maple Plain publicznie opisały awarię fabryki, awarie komunikacji lub dotknięte automatyczne systemy kontroli."
     },
     {
       "title": "Ponad 30 systemów wodociągowych w USA celami cyberataków",
@@ -1808,6 +1712,14 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Szczerze mówiąc nie wierzyłem, że takie rzeczy się mogą wydarzyć. Badacz, który niedawno zgłosił krytyczną podatność w WordPress Core, opracował całość z wykorzystaniem narzędzia od OpenAI. Podatność umożliwia otrzymanie dostępu na serwer przez atakującego nieposiadającego żadnego konta."
+    },
+    {
+      "title": "Polskie ośrodki pomocy społecznej na celowniku cyberprzestępców",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/polskie-osrodki-pomocy-spolecznej-na-celowniku-cyberprzestepcow",
+      "date": "2026-07-28T14:50:45Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Gminny ośrodek pomocy społecznej to podmiot ważny Krajowego Systemu Cyberbezpieczeństwa. OPS-y przetwarzają wiele rodzajów danych osobowych, również te zaliczane do wrażliwych informacji. Liczne incydenty w tym sektorze jasno pokazują, że konieczne jest merytoryczne wsparcie jednostek tego typu."
     }
   ],
   "finance": [
@@ -2276,8 +2188,8 @@
       "lng": 19.5,
       "type": "cyber",
       "region": "Polska",
-      "description": "Samsung Electronics Polska i Związek Ochotniczych Straży Pożarnych RP podpisały 28 lipca porozumienie, które ma połączyć kompetencje technologiczne firmy z doświadczeniem druhów w działaniach ratowniczych.",
-      "url": "https://cyberdefence24.pl/biznes-i-finanse/samsung-i-osp-lacza-sily-technologia-ma-wspierac-ratownikow"
+      "description": "Gminny ośrodek pomocy społecznej to podmiot ważny Krajowego Systemu Cyberbezpieczeństwa.",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/polskie-osrodki-pomocy-spolecznej-na-celowniku-cyberprzestepcow"
     },
     {
       "lat": 15.55,
@@ -2804,51 +2716,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25541.18,
+      25542.55,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26699.57,
+      26700.99,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26845.76,
+      26847.2,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27089.45,
+      27090.9,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27721.94,
+      27723.42,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27757.8,
+      27759.28,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28001.23,
+      28002.72,
       27354.94,
       27400.36,
       27412.11,
-      28400.59,
+      28402.11,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27665.03,
+      27666.5,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27843.82,
+      27845.31,
       27686.17,
       27404.78,
       27351.97,
@@ -2857,7 +2769,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27553.68,
+      27555.14,
       27930.04,
       28234.04,
       28218.36,
@@ -2866,21 +2778,21 @@
       28294.39,
       28203.83,
       28555.17,
-      28383.09,
+      28384.61,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27942.1,
+      27943.59,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27770.84,
+      27772.32,
       28165.64,
       28207.97,
       27574.93,
-      27866.94
+      27868.43
     ],
     "currency": "PLN"
   }
