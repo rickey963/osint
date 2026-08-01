@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T13:34:34Z",
+  "last_updated": "2026-08-01T13:35:10Z",
   "poland": [
     {
       "title": "Tomasz Mojsik: „Odyseja” to najstarszy bestseller jaki znamy",
@@ -516,12 +516,12 @@
       "summary": "Chiny prowadzą patrole morskie i powietrzne wokół spornej mielizny na Morzu Południowochińskim Reuters."
     },
     {
-      "title": "Wiele osób zostało rannych w wyniku trzęsienia ziemi w pobliżu Neapolu w roju sejsmicznym",
+      "title": "Co najmniej 21 osób zostało rannych w wyniku trzęsienia ziemi w pobliżu Neapolu",
       "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
       "date": "2026-08-01T10:26:22Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Co najmniej 21 osób zostało rannych, a ponad 250 ewakuowano w wyniku najsilniejszego trzęsienia, jakie nawiedziło region południowych Włoch od 40 lat. Co najmniej 21 osób zostało rannych po trzęsieniu ziemi o sile 4,7 w skali Richtera, które nawiedziło region w pobliżu Neapolu na południu Włoch. Trzęsienie, które miało miejsce w piątek wieczorem o 19:46, spowodowało przerwy w dostawie prądu, zakłócenia transportu publicznego oraz uszkodzone budynki i molo w Campi Flegrei, miejscu największego wulkanu w Europie krater. Kontynuuj czytanie..."
+      "summary": "Ponad 250 osób ewakuowano w wyniku najsilniejszego trzęsienia ziemi, jakie nawiedziło południowy region Włoch od 40 lat. Co najmniej 21 osób zostało rannych po trzęsieniu ziemi o sile 4,7 w skali Richtera, które nawiedziło region w pobliżu Neapolu na południu Włoch. Trzęsienie ziemi, które miało miejsce w piątek wieczorem o 19:46, spowodowało przerwy w dostawie prądu, zakłócenia w transporcie publicznym oraz uszkodzone budynki i molo w Campi Flegrei, miejscu największego krateru wulkanicznego w Europie. Kontynuuj czytanie..."
     },
     {
       "title": "Boxer zdobywa pierwszy medal Igrzysk Wspólnoty Narodów w Tuvalu, nie wygrywając walki",
@@ -1876,14 +1876,6 @@
       "summary": "Przywódcy 22 krajów Unii Europejskiej, w tym polski premier Donald Tusk, we wspólnym liście do szefów instytucji unijnych napisali, że są zdeterminowani, aby zapobiegać próbom podważania integralności granic zewnętrznych Wspólnoty, jak miało to miejsce w ostatnich dniach w Ceucie, hiszpańskiej eksklawie w Afryce Płn."
     },
     {
-      "title": "Sygnały analizy technicznej INTSTSL99887 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/INTSTSL99887",
-      "date": "2026-08-01T10:34:26Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Sygnały analizy technicznej INTSTSL99887 INGBANK BiznesRadar."
-    },
-    {
       "title": "Węgry szykują się na kryzys. Elektrownia może stanąć",
       "url": "https://www.money.pl/gospodarka/wegry-szykuja-sie-na-kryzys-elektrownia-moze-stanac-7313719608285248a.html",
       "date": "2026-08-01T09:41:14Z",
@@ -1962,6 +1954,22 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "W dyskusji o wieku emerytalnym w Polsce pada argument, że dla kobiet musi on być niższy ze względu na ich większe obłożenie nieodpłatną pracą w domu. Ale w polskim systemie emerytalnym zaszyty jest inny mechanizm, który transferuje oszczędności emerytalne od mężczyzn do kobiet. I działałby nawet przy równym wieku emerytalnym."
+    },
+    {
+      "title": "Opcja OW20I262800 - Notowania - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/opcja/ow20i262800,notowania.aspx",
+      "date": "2026-08-01T01:25:55Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Opcja OW20I262800 - Notowania stockwatch.pl."
+    },
+    {
+      "title": "Formacje analizy technicznej INTLSPC99986 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/INTLSPC99986",
+      "date": "2026-07-31T22:07:28Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Formacje analizy technicznej INTLSPC99986 INGBANK BiznesRadar."
     },
     {
       "title": "Nie tylko uposażenie. Na takie świadczenia mogą liczyć żołnierze zawodowi - Forsal.pl",
@@ -2050,14 +2058,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Wiadomości INC SA - strona: 170 BiznesRadar."
-    },
-    {
-      "title": "Opcja OW20H263850 - Notowania - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/ow20h263850,notowania.aspx",
-      "date": "2026-07-31T14:39:00Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Opcja OW20H263850 - Notowania stockwatch.pl."
     },
     {
       "title": "Notowania DVR0730 DEVELOPRES - BiznesRadar",
@@ -2214,9 +2214,12 @@
   ],
   "critical_alerts": [
     {
-      "title": "Sytuacja stabilna - brak nowych alarmów krytycznych",
-      "url": "",
-      "source": ""
+      "title": "Co najmniej 21 osób zostało rannych w wyniku trzęsienia ziemi w pobliżu Neapolu",
+      "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
+      "date": "2026-08-01T10:26:22Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Ponad 250 osób ewakuowano w wyniku najsilniejszego trzęsienia ziemi, jakie nawiedziło południowy region Włoch od 40 lat. Co najmniej 21 osób zostało rannych po trzęsieniu ziemi o sile 4,7 w skali Richtera, które nawiedziło region w pobliżu Neapolu na południu Włoch. Trzęsienie ziemi, które miało miejsce w piątek wieczorem o 19:46, spowodowało przerwy w dostawie prądu, zakłócenia w transporcie publicznym oraz uszkodzone budynki i molo w Campi Flegrei, miejscu największego krateru wulkanicznego w Europie. Kontynuuj czytanie..."
     }
   ],
   "map_features": [
@@ -2409,7 +2412,7 @@
       "lng": 12.1,
       "type": "disaster",
       "region": "Włochy",
-      "description": "Co najmniej 21 osób zostało rannych, a ponad 250 ewakuowano w wyniku najsilniejszego trzęsienia, jakie nawiedziło region południowych Włoch od 40 lat.",
+      "description": "Ponad 250 osób ewakuowano w wyniku najsilniejszego trzęsienia ziemi, jakie nawiedziło południowy region Włoch od 40 lat.",
       "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm"
     },
     {
@@ -2417,8 +2420,8 @@
       "lng": 12.9,
       "type": "critical",
       "region": "Włochy",
-      "description": "Trzęsienie ziemi o magnitudzie 4,7 nawiedziło południe Włoch - informują lokalne służby.",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-08-01/panika-po-trzesieniach-ziemi-w-neapolu-ponad-20-rannych-sa-zniszczenia/"
+      "description": "Ponad 250 osób ewakuowano w wyniku najsilniejszego trzęsienia ziemi, jakie nawiedziło południowy region Włoch od 40 lat.",
+      "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm"
     },
     {
       "lat": 30.099999999999998,
