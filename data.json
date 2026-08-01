@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T01:52:22Z",
+  "last_updated": "2026-08-01T01:53:05Z",
   "poland": [
     {
       "title": "Rainbow urósł w pół roku prawie 10 procent. Czerwiec miał wyraźnie lepszy niż rok temu",
@@ -436,6 +436,14 @@
       "summary": "Alphabet wycofuje generowanie obrazów AI w Google Earth z powodu naruszenia zasad reuters.com."
     },
     {
+      "title": "Rosja uderza w Kijów rakietami, zabijając co najmniej trzy osoby – reuters.com",
+      "url": "https://www.reuters.com/business/aerospace-defense/russia-pounds-kyiv-with-missiles-2026-07-31/",
+      "date": "2026-07-31T23:00:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Rosja uderza w Kijów rakietami, zabijając co najmniej trzy osoby reuters.com."
+    },
+    {
       "title": "EKSKLUZYWNIE: OpenAI znajduje dowody, że innym agentom AI udało się uciec z przechowania, poszerzając zakres dochodzenia w sprawie włamań – reuters.com",
       "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
       "date": "2026-07-31T22:39:05Z",
@@ -546,14 +554,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Trump twierdzi, że Iran nie ponosi winy za cyberatak w Minnesocie reuters.com."
-    },
-    {
-      "title": "Włochy przywracają kontrole graniczne w Hiszpanii po fali migrantów z Ceuty – reuters.com",
-      "url": "https://www.reuters.com/world/italy-suspends-eu-schengen-free-travel-pact-with-spain-over-ceuta-crisis-2026-07-31/",
-      "date": "2026-07-31T20:49:34Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Włochy ponownie nakładają kontrole graniczne na Hiszpanię po fali migracji w Ceucie reuters.com."
     },
     {
       "title": "Ciało amerykańskiego wspinacza wydobyto po zejściu lawiny w Pakistanie",
@@ -766,6 +766,22 @@
   ],
   "world_politics": [
     {
+      "title": "Infantino porzucił swój plan kapitałowy na mistrzostwa świata po ostrej reakcji FIFA. Oto, co warto wiedzieć - AP News",
+      "url": "https://apnews.com/article/world-cup-fifa-infantino-investors-10160e494eebf37301201b9175ec836d",
+      "date": "2026-08-01T00:21:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 2,
+      "summary": "Infantino porzucił swój plan kapitałowy na mistrzostwa świata po ostrej reakcji FIFA. Oto, co warto wiedzieć AP News."
+    },
+    {
+      "title": "Infantino porzuca plany sprzedaży zysków z mistrzostw świata funduszowi private equity po masowej reakcji – AP News",
+      "url": "https://apnews.com/article/world-cup-infantino-fifa-investors-8aba1b529f220c27d02d326e8fd9e377",
+      "date": "2026-07-31T23:55:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Infantino porzuca plany sprzedaży zysków z Pucharu Świata funduszowi private equity po masowej reakcji AP News."
+    },
+    {
       "title": "Trump wycofuje się z umowy zezwalającej Ukrainie na budowę rakiet Patriot",
       "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html",
       "date": "2026-07-31T23:31:50Z",
@@ -794,7 +810,7 @@
       "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
       "date": "2026-07-31T22:10:40Z",
       "source": "The New York Times",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Około 48 000 z około 60 000 osób, które przybyły do ​​Ceuty z Maroka, wróciło w ciągu jednego dnia. Mimo to nagły napływ spowodował kryzys dla proimigracyjnego rządu Hiszpanii. Prawie trzy tuziny zmarło."
     },
     {
@@ -814,19 +830,11 @@
       "summary": "Premier Pedro Sánchez miał przybyć do Ceuty, hiszpańskiego terytorium w Afryce, w obliczu narastającego kryzysu dla jego proimigracyjnego rządu."
     },
     {
-      "title": "Co warto wiedzieć o Ceucie",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
-      "date": "2026-07-31T20:56:35Z",
-      "source": "The New York Times",
-      "confirmed_by": 2,
-      "summary": "Półwysep na północnym wybrzeżu Maroka, którym od wieków rządzi Hiszpania, był częstym miejscem masowych przejść migrantów i napięć politycznych."
-    },
-    {
       "title": "Co spowodowało falę migrantów z Maroka do Ceuty?",
       "url": "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-morocco-ceuta-spain.html",
       "date": "2026-07-31T19:43:04Z",
       "source": "The New York Times",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Spekulacje skupiały się na niedbałości marokańskiej policji, atrakcyjnej hiszpańskiej polityce imigracyjnej i dezinformacji ze strony handlarzy ludźmi. W rzeczywistości, jak twierdzą eksperci, jest za wcześnie, aby to wiedzieć."
     },
     {
@@ -934,12 +942,12 @@
       "summary": "Węgry przygotowują się do całkowitego zamknięcia elektrowni jądrowej w Paks, gdy poziom rzeki Dunaj osiąga rekordowo niski poziom AP News."
     },
     {
-      "title": "Największe koncerny naftowe czerpią ogromne zyski, gdy walki w USA i Iranie powodują wzrost cen energii – AP News",
-      "url": "https://apnews.com/article/oil-companies-profits-exxon-chevron-9375fbf8f6f40426f7428e07d54000c7",
-      "date": "2026-07-31T15:11:00Z",
-      "source": "Associated Press",
+      "title": "Iran twierdzi, że za pomocą dronów wziął na cel wojsko amerykańskie w Kuwejcie",
+      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/iran-us-military-kuwait-drone-attack.html",
+      "date": "2026-07-31T13:46:34Z",
+      "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Największe koncerny naftowe czerpią ogromne zyski, gdy walki w USA i Iranie powodują wzrost cen energii AP News."
+      "summary": "Kuwejckie wojsko oświadczyło, że od świtu wykryło i zniszczyło wiele dronów w swojej przestrzeni powietrznej. Urzędnik Departamentu Obrony USA powiedział, że nie doszło do poważnych skutków dla baz wojskowych USA w regionie."
     },
     {
       "title": "Wyrzucona rakieta SpaceX znajduje się na kursie kolizyjnym z dużą prędkością z Księżycem – AP News",
@@ -996,14 +1004,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Pamiątkowe paszporty z logo Trumpa będą dostępne w amerykańskich wiadomościach AP News."
-    },
-    {
-      "title": "Pożary zmuszają rodzinę George'a Clooneya do ewakuacji domu w południowej Francji - AP News",
-      "url": "https://apnews.com/article/france-wildfires-clooney-family-evacuate-f64ee9444fc86248698744f186e33071",
-      "date": "2026-07-30T16:39:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Pożary zmuszają rodzinę George'a Clooneya do ewakuacji domu w południowej Francji AP News."
     }
   ],
   "technology": [
@@ -1021,7 +1021,7 @@
       "date": "2026-08-01T00:25:00Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.raptitude.com/2026/07/how-to-exist/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49129990 Punkty: 5 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://www.raptitude.com/2026/07/how-to-exist/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49129990 Punkty: 8 # Komentarze: 0."
     },
     {
       "title": "Eksperci ds. cyberbezpieczeństwa obwiniają Anthropic i OpenAI za niechlujne zabezpieczenia i nieodpowiedni nadzór ze strony człowieka po tym, jak ich modele włamały się do organizacji zewnętrznych (Bloomberg)",
@@ -1070,6 +1070,14 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "Termin „zespół barkowy Milwaukee” został ukuty w 1981 roku na podstawie przypadków czterech kobiet."
+    },
+    {
+      "title": "Pokaż HN: Pracowałem nad nową przeglądarką przez 2 lata, dziś przeszła Acid 3",
+      "url": "https://code.intellios.ai/cwbrowser/",
+      "date": "2026-07-31T21:39:52Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://code.intellios.ai/cwbrowser/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49128826 Punkty: 25 # Komentarze: 9."
     },
     {
       "title": "Google planuje zwolnić kraje objęte sankcjami z weryfikacji programistów Androida",
@@ -1149,7 +1157,7 @@
       "date": "2026-07-31T19:55:41Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "https://github.com/jwlaboratory/bite-the-bullet Adres URL komentarzy: https://news.ycombinator.com/item?id=49127874 Punkty: 25 # Komentarze: 2."
+      "summary": "https://github.com/jwlaboratory/bite-the-bullet Adres URL komentarzy: https://news.ycombinator.com/item?id=49127874 Punkty: 26 # Komentarze: 2."
     },
     {
       "title": "Netflix ma problem. Zniknął film za miliony",
@@ -1197,7 +1205,7 @@
       "date": "2026-07-31T19:03:45Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://tailscale.com/blog/hugging-face-intrusion Adres URL komentarzy: https://news.ycombinator.com/item?id=49127306 Punkty: 447 # Komentarze: 168."
+      "summary": "Adres URL artykułu: https://tailscale.com/blog/hugging-face-intrusion Adres URL komentarzy: https://news.ycombinator.com/item?id=49127306 Punkty: 460 # Komentarze: 170."
     },
     {
       "title": "Kultowe Tamagotchi powraca. Oczywiście z AI",
@@ -1214,14 +1222,6 @@
       "source": "Hacker News",
       "confirmed_by": 1,
       "summary": "Adres URL artykułu: https://github.com/golang/go/issues/80590 Adres URL komentarzy: https://news.ycombinator.com/item?id=49127031 Punkty: 121 # Komentarze: 75."
-    },
-    {
-      "title": "Wykorzystanie sieci kolejowej jako skanera płaskiego [wideo]",
-      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-      "date": "2026-07-31T18:30:44Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner Adres URL komentarzy: https://news.ycombinator.com/item?id=49126919 Punkty: 50 # Komentarze: 25."
     },
     {
       "title": "Gracze protestują, ale Sony pozostaje nieugięte. Los płyt został przesądzony",
@@ -1972,6 +1972,14 @@
       "summary": "Węgierski koncern naftowo-gazowy MOL przygotowuje się do ograniczenia zależności od rosyjskiej ropy w związku ze zmianami legislacyjnymi, które mają wejść w życie w przyszłym roku. O planach spółki mówił w piątek prezes MOL Zsolt Hernadi podczas konferencji z premierem Peterem Magyarem - wg PAP."
     },
     {
+      "title": "Jak czytać dane działalności w publicznych rejestrach? - biznesradar.pl",
+      "url": "https://www.biznesradar.pl/a/149754,jak-czytac-dane-dzialalnosci-w-publicznych-rejestrach",
+      "date": "2026-07-31T13:40:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Jak czytać dane działalności w publicznych rejestrach? biznesradar.pl."
+    },
+    {
       "title": "Biznes, Gospodarka, Świat - Forsal.pl",
       "url": "https://forsal.pl/tagi/najlepsze-sluzby-wywiadowcze-w-europie",
       "date": "2026-07-31T13:32:51Z",
@@ -2124,6 +2132,14 @@
       "summary": "Druga wypłata z Beta ETF Dywidenda Plus będzie prawie pięciokrotnie wyższa. Zasługa sezonu dywidendowego Piotr Kwestarz pt., 31.07.2026 Kanał Strefa Inwestorów BETA ETF ETF Treść Beta ETF Dywidenda Plus ogłosił szczegóły drugiej w historii funduszu wypłaty dochodu. Na jeden certyfikat przypadnie 2,84 zł, czyli blisko pięć razy więcej niż przy pierwszej dystrybucji."
     },
     {
+      "title": "[wideo] Wstępne wyniki XTB za I półrocze 2026 roku - biznesradar.pl",
+      "url": "https://www.biznesradar.pl/a/149742,wideo-wstepne-wyniki-xtb-za-i-polrocze-2026-roku",
+      "date": "2026-07-31T07:43:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "[wideo] Wstępne wyniki XTB za I półrocze 2026 roku biznesradar.pl."
+    },
+    {
       "title": "Znamy szybki szacunek inflacji za lipiec. GUS opublikował świeże dane",
       "url": "https://strefainwestorow.pl/gospodarka/szacunkowy-odczyt-inflacja-lipiec-2026",
       "date": "2026-07-31T07:36:57Z",
@@ -2178,22 +2194,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Właściciel Circle K chce przejąć 100% Żabki. Cena w wezwaniu ma wynieść 32 zł za akcję Paweł Biedrzycki pt., 31.07.2026 Kanał Strefa Inwestorów Żabka wezwanie Żabka M&A Żabka Circle K Treść Alimentation Couche-Tard, kanadyjski operator sieci convenience i stacji paliw, zamierza ogłosić wezwanie na 100% akcji Grypy Żabka po cenie 32 zł za akcję. Transakcja oznacza próbę przejęcia całej spółki przez inwestora strategicznego, który działa globalnie i rozwija sieć Circle K."
-    },
-    {
-      "title": "[wideo] Grodno SA - Podsumowanie FY 2025/2026 - biznesradar.pl",
-      "url": "https://www.biznesradar.pl/a/149730,wideo-grodno-sa-podsumowanie-fy-2025-2026",
-      "date": "2026-07-30T18:41:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "[wideo] Grodno SA - Podsumowanie FY 2025/2026 biznesradar.pl."
-    },
-    {
-      "title": "Widget - widgets.biznesradar.pl",
-      "url": "https://widgets.biznesradar.pl/grid/ALR_g-TAR_t-AMB_t-EBP_t-VRG_t-ABE_t-ACT_t-ROB_t-ECH_t.skin-modern,1",
-      "date": "2026-07-30T17:21:37Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Widget widgets.biznesradar.pl."
     },
     {
       "title": "Unia daje konsumentom prawo do naprawy, ale serwis nadal może się nie opłacać",
