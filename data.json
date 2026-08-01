@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T07:23:25Z",
+  "last_updated": "2026-08-01T07:24:08Z",
   "poland": [
     {
       "title": "Tak wygląda nowa umowa dla zwolnionych kurierów z Pyszne.pl. Szereg kontrowersji i niemal żadnej ochrony",
@@ -548,14 +548,6 @@
       "summary": "Musalem mówi FT Reuters, że sygnały wyprzedaży obligacji skarbowych muszą zwiększyć wiarygodność Fed."
     },
     {
-      "title": "Australia broni zakazu korzystania z mediów społecznościowych dla nastolatków po tym, jak badania pokazują, że większość z nich nadal jest online – Reuters",
-      "url": "https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/",
-      "date": "2026-08-01T02:06:09Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Australia broni zakazu korzystania z mediów społecznościowych przez nastolatki po tym, jak badania pokazują, że większość z nich nadal jest online Reuters."
-    },
-    {
       "title": "Lista rzeczy do zrobienia Bessent przedstawia propozycję zakupu przez USA japońskiego jena o wartości 5–10 miliardów dolarów",
       "url": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen",
       "date": "2026-08-01T00:33:29Z",
@@ -698,6 +690,14 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Exxon i Chevron ostrzegają przed utrzymującymi się wysokimi cenami paliwa podczas wojny w Iranie Reuters."
+    },
+    {
+      "title": "USA i Izrael planują zbombardować cele związane z energią w Iranie, podaje CBS – Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-israel-planning-bombard-energy-related-targets-iran-cbs-reports-2026-07-31/",
+      "date": "2026-07-31T21:23:27Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "USA i Izrael planują zbombardować cele związane z energią w Iranie, podaje CBS Reuters."
     },
     {
       "title": "Charty zmierzają do Australii po wejściu w życie zakazu wyścigów w Nowej Zelandii",
@@ -894,6 +894,14 @@
       "summary": "AP News odrzucił wniosek byłego zastępcy, który zastrzelił Sonyę Massey, o zwolnienie lekarskie z więzienia."
     },
     {
+      "title": "„Malwiny to Argentyna”: baner Pucharu Świata sprawia, że ​​Falklandy stają się kulturową obsesją – AP News",
+      "url": "https://apnews.com/article/argentina-malvinas-falklands-world-cup-banner-fifa-92d9dc1844d5ae3722823039bca91496",
+      "date": "2026-07-31T19:22:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "„Malwiny są Argentyńczykami”: baner Pucharu Świata sprawia, że ​​Falklandy stają się kulturową obsesją AP News."
+    },
+    {
       "title": "Młodzi mężczyźni masowo przybywali do Ceuty w poszukiwaniu pracy",
       "url": "https://www.nytimes.com/2026/07/31/world/europe/young-men-poured-into-ceuta-seeking-work.html",
       "date": "2026-07-31T19:18:46Z",
@@ -988,14 +996,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Narody europejskie ogłaszają bojkot Mistrzostw Świata FIFA w związku z planem private equity Infantino, gdy opozycja rozpowszechnia AP News."
-    },
-    {
-      "title": "Scouting America wycofuje inicjatywy dotyczące różnorodności po naciskach ze strony Pentagonu – AP News",
-      "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d",
-      "date": "2026-07-31T00:55:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Scouting America wycofuje inicjatywy dotyczące różnorodności z wydarzenia po naciskach ze strony Pentagonu AP News."
     },
     {
       "title": "Mandela Barnes wycofuje się z prawyborów Demokratów na gubernatora Wisconsin – AP News",
@@ -1410,12 +1410,28 @@
   ],
   "cybersecurity": [
     {
+      "title": "Błąd Adobe Campaign Classic CVSS 10.0 może uruchomić kod bez interakcji użytkownika",
+      "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
+      "date": "2026-08-01T07:12:42Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Firma Adobe udostępniła aktualizacje zabezpieczeń mające na celu usunięcie niezwykle istotnej luki w zabezpieczeniach Campaign Classic (ACC), swojej platformy automatyzacji marketingu przeznaczonej dla przedsiębiorstw, która może skutkować wykonaniem dowolnego kodu. Luka, oznaczona jako CVE-2026-48449, ma stopień ważności 10,0 w systemie punktacji CVSS. Zostało to opisane jako przypadek nieprawidłowej autoryzacji, który może skutkować."
+    },
+    {
       "title": "Absorpcja infrastruktury chmurowej dla przedsiębiorstw nie wykazuje oznak spowolnienia",
       "url": "https://www.theregister.com/off-prem/2026/08/01/enterprise-cloud-infrastructure-uptake-shows-no-sign-of-slowing/5281835",
       "date": "2026-08-01T07:00:00Z",
       "source": "The Register",
       "confirmed_by": 1,
       "summary": "Przychody z chmury przekraczają obecnie 143 miliardy dolarów kwartalnie, a wzrost przyspiesza."
+    },
+    {
+      "title": "Porwana hotelowa sieć Wi-Fi przesyła fałszywe aktualizacje w celu dostarczenia złośliwego oprogramowania monitorującego",
+      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
+      "date": "2026-08-01T06:29:05Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Jak podaje Microsoft w swoim najnowszym raporcie, fałszywa aktualizacja przeglądarki udostępniana za pośrednictwem porwanej hotelowej sieci Wi-Fi została wykorzystana do dostarczenia CornFlake, trojana zdalnego dostępu (RAT), który może przechwytywać obrazy z kamery internetowej, dźwięk z mikrofonu i naciśnięcia klawiszy. Badacze śledzą tę operację jako CaptiveCrunch i przypisują ją Storm-2945. Ocenia Storm-2945 jako operacyjną podgrupę Midnight Blizzard, znaną również jako."
     },
     {
       "title": "Weekendowa Lektura: odcinek 687 [2026-07-31]. Bierzcie i czytajcie",
@@ -1712,22 +1728,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Ukryte instrukcje w dokumencie programu Word mogą sprawić, że Microsoft 365 Copilot przepisze dane w raporcie, a następnie skopiuje te same instrukcje do gotowego pliku. Håkon Måløy ujawnił tę technikę 28 lipca, 144 dni po zgłoszeniu jej firmie Microsoft. W jego weryfikacjach koncepcji wewnętrznie wygenerowany plik wywołał to samo zachowanie, gdy został użyty w drugiej sesji kreślenia Copilot."
-    },
-    {
-      "title": "Sieć stała się płaszczyzną kontroli bezpieczeństwa sztucznej inteligencji",
-      "url": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
-      "date": "2026-07-30T11:32:46Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Zapory sieciowe są podstawą współczesnego cyberbezpieczeństwa. Można im zaufać, jeśli chodzi o ochronę sieci, blokowanie złośliwego ruchu oraz zapobieganie włamaniom i naruszeniom. Przez dziesięciolecia zespoły ds. bezpieczeństwa sieci budowały mechanizmy kontroli w oparciu o stosunkowo stabilny model: użytkownicy łączą się z aplikacjami, aplikacje wymieniają dane, a narzędzia bezpieczeństwa sprawdzają pakiety, protokoły i miejsca docelowe."
-    },
-    {
-      "title": "Hakerzy wykorzystują AnySign4PC za pośrednictwem zhakowanych koreańskich witryn, aby instalować backdoory bez monitów",
-      "url": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
-      "date": "2026-07-30T10:33:15Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Władze Korei Południowej i cztery firmy zajmujące się bezpieczeństwem ujawniły sponsorowaną przez państwo kampanię, w ramach której naruszono bezpieczeństwo zaufanych krajowych witryn internetowych. Osoby atakujące wykorzystały te witryny do wykorzystania lokalnie zainstalowanego oprogramowania zabezpieczającego finanse i infekowania wybranych gości backdoorami SIGNBT lub COPPERHEDGE. Zaatakowana strona może zainfekować system z podatną na ataki wersją AnySign4PC bez monitu lub."
     },
     {
       "title": "Jeden wpis, trzy lata więzienia? 54-latek zatrzymany przez CBZC",
