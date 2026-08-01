@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T18:55:41Z",
+  "last_updated": "2026-08-01T18:56:15Z",
   "poland": [
     {
       "title": "Eksplozja w centrum Moskwy. Są zabici i ranni",
@@ -1016,6 +1016,22 @@
       "summary": "CJ Haddad / CNBC: Debiut nowego interfejsu API płatnych danych firmy Trump Media, umożliwiającego „bezpośredni, licencjonowany dostęp w czasie rzeczywistym do najbardziej zmieniających rynek prawd platformy”; Dem. senatorowie zwrócili się do SEC o zbadanie &mdash; Nowa płatna usługa transmisji danych Trump Media and Technology Group została uruchomiona 1 sierpnia i zapewnia szybszy dostęp do postów Truth Social &hellip;."
     },
     {
+      "title": "Sekcja zwłok dotycząca błędu stabilności jądra nr 14576",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "date": "2026-08-01T18:32:20Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49137060 Punkty: 6 # Komentarze: 1."
+    },
+    {
+      "title": "Koncerny naftowe odnotowują niebotyczne zyski dzięki cenom ropy w czasie wojny",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
+      "date": "2026-08-01T18:28:06Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026 Adres URL komentarzy: https://news.ycombinator.com/item?id=49137024 Punkty: 5 # Komentarze: 0."
+    },
+    {
       "title": "Powiedz HN: Nienawidzę twojego rozmytego wyszukiwania",
       "url": "https://news.ycombinator.com/item?id=49136990",
       "date": "2026-08-01T18:25:00Z",
@@ -1045,7 +1061,7 @@
       "date": "2026-08-01T17:56:41Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://blog.netbsd.org/tnf/entry/netbsd_11_0_released Adres URL komentarzy: https://news.ycombinator.com/item?id=49136736 Punkty: 13 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://blog.netbsd.org/tnf/entry/netbsd_11_0_released Adres URL komentarzy: https://news.ycombinator.com/item?id=49136736 Punkty: 44 # Komentarze: 7."
     },
     {
       "title": "OpenAI potwierdza istnienie GPT-6 Astra. Opadła mi szczęka",
@@ -1077,7 +1093,7 @@
       "date": "2026-08-01T16:52:41Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://andrewshell.org/2026/07/i-%e2%99%a5-rss/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49136063 Punkty: 108 # Komentarze: 58."
+      "summary": "Adres URL artykułu: https://andrewshell.org/2026/07/i-%e2%99%a5-rss/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49136063 Punkty: 111 # Komentarze: 59."
     },
     {
       "title": "Kaisel – Trasy jako wartości. Natywny router Dart 3 dla Flutter",
@@ -1085,7 +1101,7 @@
       "date": "2026-08-01T16:45:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://kaisel.dev/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49135985 Punkty: 25 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://kaisel.dev/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49135985 Punkty: 27 # Komentarze: 1."
     },
     {
       "title": "Franken.domains: połączone domeny, ponieważ każda domena .com jest zajęta",
@@ -1093,7 +1109,7 @@
       "date": "2026-08-01T16:44:49Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://franken.domains/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49135975 Punkty: 8 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://franken.domains/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49135975 Punkty: 10 # Komentarze: 4."
     },
     {
       "title": "Kupił laptopa Microsoftu i szybko tego pożałował. 8 GB RAM to dziś za mało",
@@ -1104,28 +1120,12 @@
       "summary": "Microsoft stworzył Windows 11, ale wygląda na to, że nie przewidział jednego problemu. W 2026 r. nawet laptop za niemal 1000 dol."
     },
     {
-      "title": "Podejście do testowania polegające na klonowaniu szablonów Pgtestdb jest szybkie",
-      "url": "https://brandur.org/fragments/pgtestdb",
-      "date": "2026-08-01T16:01:22Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://brandur.org/fragments/pgtestdb Adres URL komentarzy: https://news.ycombinator.com/item?id=49135546 Punkty: 35 # Komentarze: 12."
-    },
-    {
       "title": "Microsoft stworzył peceta, na którym Windows 11 działa paskudnie. Obiecuje poprawę, ale mleko się wylało",
       "url": "https://antyweb.pl/windows-11-ram-oszczednosc-surface-laptop",
       "date": "2026-08-01T16:00:49Z",
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Jeżeli już zapomnieliście, to przypominam: Microsoft pokazał niedawno Surface Laptopa w wariancie 13 cali, najnowszej generacji, z opcją... 8 GB pamięci RAM. Już w momencie premiery mówiłem, że ten eksperyment jest abominacją."
-    },
-    {
-      "title": "BMW wyświetla reklamy na ekranach desek rozdzielczych swoich samochodów",
-      "url": "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/",
-      "date": "2026-08-01T15:58:10Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49135511 Punkty: 44 # Komentarze: 24."
     },
     {
       "title": "Klucz do wielokrotnego użytku. SpaceX pokazało niezwykłe nagranie z lotu Starshipa",
@@ -1924,14 +1924,6 @@
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
-      "title": "Notowania INTSTSL99895 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/INTSTSL99895",
-      "date": "2026-08-01T08:52:38Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania INTSTSL99895 INGBANK BiznesRadar."
-    },
-    {
       "title": "Od żywności przez psa po ZUS i mieszkanie. W 2027 mamy płacić więcej",
       "url": "https://www.money.pl/podatki/wiecej-za-napoj-psa-mieszkanie-tyle-w-2027-r-moga-wyniesc-podwyzki-7313688679028736a.html",
       "date": "2026-08-01T07:59:33Z",
@@ -1964,6 +1956,14 @@
       "summary": "W poszukiwaniu sygnałów - 1 sierpnia 2026 - Analiza miesięczna Ewa sob., 01.08.2026 Wstęp Indeksy GPW - analiza miesięczna, #DAX, #S&P, #Nasdaq, #Nikkei, #Shanghai, #Kospi, #Ropa, #Miedź, #Usdpln, #eurpln, Spółki wcześniej sygnalizowane, Obserwowane wykresy, Ring spekulanta W poszukiwaniu sygnałów - 1 sierpnia 2026 - Analiza miesięczna Ewa."
     },
     {
+      "title": "Notowania OW20X264300 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/OW20X264300",
+      "date": "2026-08-01T06:27:50Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania OW20X264300 BiznesRadar."
+    },
+    {
       "title": "Nowy front wojny z Iranem. Media: Trump rozważa mocne uderzenie",
       "url": "https://www.money.pl/gospodarka/nowy-front-wojny-z-iranem-media-trump-rozwaza-mocne-uderzenie-7313638772594752a.html",
       "date": "2026-08-01T03:59:55Z",
@@ -1980,44 +1980,20 @@
       "summary": "W dyskusji o wieku emerytalnym w Polsce pada argument, że dla kobiet musi on być niższy ze względu na ich większe obłożenie nieodpłatną pracą w domu. Ale w polskim systemie emerytalnym zaszyty jest inny mechanizm, który transferuje oszczędności emerytalne od mężczyzn do kobiet. I działałby nawet przy równym wieku emerytalnym."
     },
     {
-      "title": "Notowania Certyfikatu INTSW2097824. - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/certyfikat/intsw2097824,notowania.aspx",
-      "date": "2026-08-01T01:53:13Z",
+      "title": "Notowania Certyfikatu RBIWP1226W20. - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/certyfikat/rbiwp1226w20,notowania.aspx",
+      "date": "2026-08-01T01:47:49Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Notowania Certyfikatu INTSW2097824. stockwatch.pl."
+      "summary": "Notowania Certyfikatu RBIWP1226W20. stockwatch.pl."
     },
     {
-      "title": "Notowania Certyfikatu INTSGLD98681. - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/certyfikat/intsgld98681,notowania.aspx",
-      "date": "2026-08-01T01:48:16Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Notowania Certyfikatu INTSGLD98681. stockwatch.pl."
-    },
-    {
-      "title": "Notowania Certyfikatu INTSTNF53785. - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/certyfikat/intstnf53785,notowania.aspx",
-      "date": "2026-08-01T01:25:24Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Notowania Certyfikatu INTSTNF53785. stockwatch.pl."
-    },
-    {
-      "title": "Notowania Certyfikatu INTLTSL81810. - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/certyfikat/intltsl81810,notowania.aspx",
-      "date": "2026-08-01T01:24:51Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Notowania Certyfikatu INTLTSL81810. stockwatch.pl."
-    },
-    {
-      "title": "Formacje analizy technicznej INTLSPC99986 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/INTLSPC99986",
-      "date": "2026-07-31T22:07:28Z",
+      "title": "Formacje analizy technicznej INTSAPL99846 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/INTSAPL99846",
+      "date": "2026-07-31T23:35:46Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Formacje analizy technicznej INTLSPC99986 INGBANK BiznesRadar."
+      "summary": "Formacje analizy technicznej INTSAPL99846 INGBANK BiznesRadar."
     },
     {
       "title": "160 znaków to za mało. Fundacja proponuje prostą zmianę, która może ograniczyć chaos w kryzysie",
@@ -2068,6 +2044,30 @@
       "summary": "TSGAMES [TEN] stockwatch.pl."
     },
     {
+      "title": "BIOCELTIX [BCX] - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-514166_BIOCELTIX.aspx",
+      "date": "2026-07-31T15:04:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "BIOCELTIX [BCX] stockwatch.pl."
+    },
+    {
+      "title": "ZABKA [ZAB] - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-514157_ZABKA.aspx",
+      "date": "2026-07-31T15:02:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "ZABKA [ZAB] stockwatch.pl."
+    },
+    {
+      "title": "AUTOPARTN [APR] - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-514170_AUTOPARTN.aspx",
+      "date": "2026-07-31T15:00:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "AUTOPARTN [APR] stockwatch.pl."
+    },
+    {
       "title": "Wiadomości INC SA - strona: 170 - BiznesRadar",
       "url": "https://www.biznesradar.pl/wiadomosci/INC,170",
       "date": "2026-07-31T14:42:20Z",
@@ -2076,12 +2076,12 @@
       "summary": "Wiadomości INC SA - strona: 170 BiznesRadar."
     },
     {
-      "title": "Notowania DVR0730 DEVELOPRES - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/DVR0730",
-      "date": "2026-07-31T14:29:47Z",
+      "title": "Wiadomości INTLXTB99952 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wiadomosci/INTLXTB99952",
+      "date": "2026-07-31T14:32:20Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania DVR0730 DEVELOPRES BiznesRadar."
+      "summary": "Wiadomości INTLXTB99952 INGBANK BiznesRadar."
     },
     {
       "title": "Węgierski MOL chce \"ograniczyć zależność\" od rosyjskiej ropy",
