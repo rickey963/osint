@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T17:22:16Z",
+  "last_updated": "2026-08-02T17:23:01Z",
   "poland": [
     {
       "title": "W Niemczech dwie osoby zmarły po kąpieli w Bałtyku. Powodem zakażenie bakterią",
@@ -178,14 +178,6 @@
       "summary": "Unijne cła i nowe opłaty miały ograniczyć przewagę Temu, Shein czy AliExpress oraz zahamować napływ miliardów bardzo tanich przesyłek z Chin. Sprawdzamy, jak wygląda sytuacja miesiąc po zmianach — choć zakupy wyraźnie podrożały, chińskie platformy nie tylko nie straciły rynku, ale zaczęły błyskawicznie dostosowywać się do nowych realiów. Zamiast masowej ucieczki klientów doszło do czegoś innego — zaczęli kupować inaczej."
     },
     {
-      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
-      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
-      "date": "2026-08-02T14:09:01Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
-    },
-    {
       "title": "Finał Ligi Narodów. Trzeci w historii triumf reprezentacji Polski",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-08-02/final-ligi-narodow-trzeci-w-historii-triumf-reprezentacji-polski/",
       "date": "2026-08-02T13:57:00Z",
@@ -344,6 +336,14 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "„Dla dobra świata”. Trump wstrzymał atak na Iran. Podał warunki Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "W Krakowie trwają zawody IRONMAN 70.3 - PAP - serwis wideo",
+      "url": "https://wideo.pap.pl/pap-media,101/w-krakowie-trwaja-zawody-ironman-703,93972",
+      "date": "2026-08-02T02:49:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "W Krakowie trwają zawody IRONMAN 70.3 PAP - serwis wideo."
     },
     {
       "title": "\"Walka była potrzebna\". Powstaniec wspomina 1 sierpnia 1944 r. - Polskie Radio 24",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Pokaż HN: NixOS-DGX-Spark – Nix i NixOS na DGX Spark",
+      "url": "https://github.com/graham33/nixos-dgx-spark",
+      "date": "2026-08-02T17:05:54Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Wypróbuj podręczniki DGX Spark, używając Nix w systemie DGX OS lub zainstaluj NixOS na swoim DGX Spark, aby w pełni korzystać z Nix. Repozytorium udostępnia obrazy USB i moduł NixOS z ustawieniami dla systemów DGX Spark. Działa to na samym NVIDIA DGX Spark, a także na Asus Ascent GX10. Zobacz moją 5-minutową rozmowę o błyskawicach z Planet Nix, aby zapoznać się z wprowadzeniem: https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE Adres URL komentarzy: https://news.ycombinator.com/item?id=49146267 Punkty: 6 # Komentarze: 0."
+    },
+    {
       "title": "Czy to będzie najlepsze Ultimate Team od lat? Do FC 27 zmierza mnóstwo zmian",
       "url": "https://antyweb.pl/czy-to-bedzie-najlepsze-ultimate-team-od-lat-do-fc-27-zmierza-mnostwo-zmian",
       "date": "2026-08-02T17:00:44Z",
@@ -1024,12 +1032,28 @@
       "summary": "Od 2 sierpnia UE przechodzi do realnego egzekwowania pierwszych przepisów w ramach AI Act. Komisja Europejska, działając za pośrednictwem Biura ds. AI oraz wspólnie z krajowymi regulatorami, rozpoczyna weryfikację tego, jak rynek radzi sobie z informowaniem użytkowników o obecności algorytmów."
     },
     {
+      "title": "Udział w rynku komputerów stacjonarnych z systemem Linux przekracza 10% w Ameryce Północnej",
+      "url": "https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/",
+      "date": "2026-08-02T16:50:01Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49146122 Punkty: 5 # Komentarze: 1."
+    },
+    {
+      "title": "Terminal GE-97: Stary Internet",
+      "url": "https://ge97.com/",
+      "date": "2026-08-02T16:41:35Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://ge97.com/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49146051 Punkty: 4 # Komentarze: 0."
+    },
+    {
       "title": "Pokaż HN: Kakehashi – eksperymentalna przestrzeń użytkownika do uruchamiania plików binarnych macOS na Linux ARM",
       "url": "https://github.com/wie-project/kakehashi",
       "date": "2026-08-02T16:26:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/wie-project/kakehashi Adres URL komentarzy: https://news.ycombinator.com/item?id=49145937 Punkty: 11 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://github.com/wie-project/kakehashi Adres URL komentarzy: https://news.ycombinator.com/item?id=49145937 Punkty: 19 # Komentarze: 6."
     },
     {
       "title": "Rootowanie, analiza oprogramowania sprzętowego i trwałe dane uwierzytelniające TP-Link TL-841N",
@@ -1037,7 +1061,7 @@
       "date": "2026-08-02T16:19:17Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49145883 Punkty: 6 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49145883 Punkty: 11 # Komentarze: 1."
     },
     {
       "title": "Czy da się grać w GTA 5 na iPhone 17 Pro Max? Ten eksperyment wywołuje mieszane uczucia",
@@ -1053,7 +1077,7 @@
       "date": "2026-08-02T15:41:08Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://pudding.cool/2026/07/essential-words/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49145590 Punkty: 73 # Komentarze: 21."
+      "summary": "Adres URL artykułu: https://pudding.cool/2026/07/essential-words/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49145590 Punkty: 79 # Komentarze: 30."
     },
     {
       "title": "Komputer na 22-calowych felgach. BMW iX3 jest prawie idealne",
@@ -1093,7 +1117,7 @@
       "date": "2026-08-02T14:51:18Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.ursulakleguin.com/a-rant-about-technology Adres URL komentarzy: https://news.ycombinator.com/item?id=49145201 Punkty: 90 # Komentarze: 51."
+      "summary": "Adres URL artykułu: https://www.ursulakleguin.com/a-rant-about-technology Adres URL komentarzy: https://news.ycombinator.com/item?id=49145201 Punkty: 97 # Komentarze: 55."
     },
     {
       "title": "Wizz Air doleci do mety słynnego szlaku. Nowa trasa z Modlina niebawem",
@@ -1149,23 +1173,7 @@
       "date": "2026-08-02T12:36:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open Adres URL komentarzy: https://news.ycombinator.com/item?id=49143967 Punkty: 94 # Komentarze: 15."
-    },
-    {
-      "title": "F*: Język programowania ogólnego przeznaczenia zorientowany na sprawdzanie",
-      "url": "https://fstar-lang.org/",
-      "date": "2026-08-02T12:31:16Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://fstar-lang.org/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49143925 Punkty: 77 # Komentarze: 30."
-    },
-    {
-      "title": "Świetne pytanie (YC W21) Czy zatrudnić starszego menedżera ds. popytu",
-      "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
-      "date": "2026-08-02T12:01:00Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generacja-manager Adres URL komentarzy: https://news.ycombinator.com/item?id=49143683 Punkty: 0 # Komentarze: 0."
+      "summary": "Adres URL artykułu: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open Adres URL komentarzy: https://news.ycombinator.com/item?id=49143967 Punkty: 97 # Komentarze: 15."
     },
     {
       "title": "Awaria wyszukiwarki Google. Kluczowa funkcja nie działa",
@@ -1246,14 +1254,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Microsoft Word powinien działać najlepiej na komputerach z Windows 11. Tymczasem w dwóch testach MacBooki otworzyły ogromny dokument znacznie szybciej niż laptopy Della i samego Microsoftu. Różnica była gigantyczna."
-    },
-    {
-      "title": "Czy saturator się opłaca? Policzyliśmy wszystko krok po kroku",
-      "url": "https://antyweb.pl/czy-saturator-pozwala-zaoszczedzic-pieniadze",
-      "date": "2026-08-02T08:00:09Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Czy zakup saturatora naprawdę pozwala zaoszczędzić? Sprawdziliśmy aktualne ceny urządzeń, wymiany cylindrów, syropów i gotowych napojów. Policzyliśmy koszty w różnych wariantach i uwzględniliśmy system kaucyjny."
     },
     {
       "title": "Bomba nad Hiroszimą stworzyła nieznany stop. Tkwił w piasku",
@@ -1845,8 +1845,8 @@
     },
     {
       "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/finanse/waluty,100",
-      "date": "2026-08-02T12:03:19Z",
+      "url": "https://forsal.pl/finanse/gielda,57",
+      "date": "2026-08-02T12:13:11Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
@@ -1908,14 +1908,6 @@
       "summary": "Na studiach straszyli ją, że skończy, rysując karykatury. Dziś projektuje dla Madonny Forbes."
     },
     {
-      "title": "Notowania historyczne INTSJSW99861 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania-historyczne/INTSJSW99861",
-      "date": "2026-08-01T19:26:20Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania historyczne INTSJSW99861 INGBANK BiznesRadar."
-    },
-    {
       "title": "Gotówka wypływa z rosyjskich banków. Co się dzieje? Eksperci tłumaczą",
       "url": "https://www.money.pl/finanse/rosjanie-masowo-wyplacaja-z-bankow-gotowke-7313817903802368a.html",
       "date": "2026-08-01T17:46:18Z",
@@ -1940,12 +1932,36 @@
       "summary": "Zaczyna się od \"przypadkowego\" przelewu. Przestępcy mają nowy schemat działania Forbes."
     },
     {
+      "title": "Notowania historyczne OW20X264300 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania-historyczne/OW20X264300",
+      "date": "2026-08-01T11:40:58Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania historyczne OW20X264300 BiznesRadar."
+    },
+    {
       "title": "Żabka zniknie z giełdy? Czy wezwanie na akcje ogłoszone przez właściciela Circle K się powiedzie?",
       "url": "https://strefainwestorow.pl/analizy/zabka-circle-k-wezwanie",
       "date": "2026-08-01T11:04:04Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Żabka zniknie z giełdy? Czy wezwanie na akcje ogłoszone przez właściciela Circle K się powiedzie? Paweł Biedrzycki sob., 01.08.2026 Kanał Strefa Inwestorów Żabka wezwanie Żabka przejęcie Circle K Żabka Circle K Treść Czy Żabka zostanie przejęta i wycofana z giełdy?"
+    },
+    {
+      "title": "Wiadomości INTSMET99929 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wiadomosci/INTSMET99929",
+      "date": "2026-08-01T10:50:31Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości INTSMET99929 INGBANK BiznesRadar."
+    },
+    {
+      "title": "Analiza techniczna RBITLOIL34 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/RBITLOIL34",
+      "date": "2026-08-01T09:56:37Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Analiza techniczna RBITLOIL34 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "Węgry szykują się na kryzys. Elektrownia może stanąć",
@@ -1972,12 +1988,12 @@
       "summary": "Wiadomości OW20T264300 BiznesRadar."
     },
     {
-      "title": "Notowania RBIFL7SILVE11 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/RBIFL7SILVE11",
-      "date": "2026-08-01T08:17:17Z",
+      "title": "Notowania historyczne RBITLOIL34 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania-historyczne/RBITLOIL34",
+      "date": "2026-08-01T08:50:28Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania RBIFL7SILVE11 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+      "summary": "Notowania historyczne RBITLOIL34 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "Od żywności przez psa po ZUS i mieszkanie. W 2027 mamy płacić więcej",
@@ -2042,22 +2058,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Notowania Certyfikatu RBIFL7SILVE10. stockwatch.pl."
-    },
-    {
-      "title": "Formacje analizy technicznej INTSEUD99812 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/INTSEUD99812",
-      "date": "2026-07-31T22:06:09Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Formacje analizy technicznej INTSEUD99812 INGBANK BiznesRadar."
-    },
-    {
-      "title": "Notowania Brent Crude Oil Spot - Ropa Brent (BZ.FUT) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/BRENT-OIL-ROPA-BRENT",
-      "date": "2026-07-31T20:58:59Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania Brent Crude Oil Spot - Ropa Brent (BZ.FUT) BiznesRadar."
     },
     {
       "title": "160 znaków to za mało. Fundacja proponuje prostą zmianę, która może ograniczyć chaos w kryzysie",
