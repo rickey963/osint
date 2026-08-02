@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T22:25:42Z",
+  "last_updated": "2026-08-02T22:30:38Z",
   "poland": [
     {
       "title": "Tygodniowy flesz - terminy, wskaźniki, stawki 3 – 9 sierpnia 2026 r.",
@@ -1024,20 +1024,12 @@
       "summary": "Engwe E26 3.0 Pro to najnowszy chiński elektryczny rower miejski typu full suspension z silnikiem umieszczonym centralnie. Sprawdziłem, czy cena inteligentnego eSUV-a o co najmniej połowę niższa od konkurencji czyni go zakupem opłacalnym dla absolutnie każdego. Ile to kosztuje i dlaczego tak drogo tanio?"
     },
     {
-      "title": "AI Mania: od tulipanów po żetony",
-      "url": "https://seanhelvey.com/tools-and-their-tools/",
-      "date": "2026-08-02T20:48:28Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://seanhelvey.com/tools-and-their-tools/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49148159 Punkty: 39 # Komentarze: 32."
-    },
-    {
       "title": "Projekt weryfikacji wieku UE wymaga zaświadczenia powiązanego ze sprzętem",
       "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
       "date": "2026-08-02T20:44:24Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49148128 Punkty: 42 # Komentarze: 17."
+      "summary": "Adres URL artykułu: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49148128 Punkty: 57 # Komentarze: 21."
     },
     {
       "title": "Pokaż HN: Spraw, aby Twój Framework 12 brzmiał jak skrzypiące drzwi",
@@ -1045,7 +1037,7 @@
       "date": "2026-08-02T20:33:01Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Któregoś dnia przeglądałem urządzenia iio w moim Frameworku i okazało się, że Framework 12 ma całkiem dokładny czujnik kąta zawiasu! Stworzyłem więc wersję LidAngleSensor (https://github.com/samhenrigold/LidAngleSensor), ale dla Framework 12 w systemie Linux, dzięki czemu możesz sprawić, że zawias będzie brzmiał jak zardzewiały. Adres URL komentarzy: https://news.ycombinator.com/item?id=49148048 Punkty: 16 # Komentarze: 2."
+      "summary": "Któregoś dnia przeglądałem urządzenia iio w moim Frameworku i okazało się, że Framework 12 ma całkiem dokładny czujnik kąta zawiasu! Stworzyłem więc wersję LidAngleSensor (https://github.com/samhenrigold/LidAngleSensor), ale dla Framework 12 w systemie Linux, dzięki czemu możesz sprawić, że zawias będzie brzmiał jak zardzewiały. Adres URL komentarzy: https://news.ycombinator.com/item?id=49148048 Punkty: 18 # Komentarze: 2."
     },
     {
       "title": "Udostępnianie serwera X11 pomiędzy hostami za pomocą FamilyWild",
@@ -1053,7 +1045,7 @@
       "date": "2026-08-02T20:26:47Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49147978 Punkty: 14 # Komentarze: 3."
+      "summary": "Adres URL artykułu: https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49147978 Punkty: 16 # Komentarze: 3."
     },
     {
       "title": "Wpuść maszyny",
@@ -1061,7 +1053,7 @@
       "date": "2026-08-02T20:17:16Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://blog.semenzin.com/let-the-machines-in/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49147890 Punkty: 17 # Komentarze: 5."
+      "summary": "Adres URL artykułu: https://blog.semenzin.com/let-the-machines-in/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49147890 Punkty: 18 # Komentarze: 7."
     },
     {
       "title": "Dodanie odroczenia Go do kompilatora TypeScript",
@@ -1069,7 +1061,7 @@
       "date": "2026-08-02T20:12:39Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://healeycodes.com/adding-defer-to-the-typescript-compiler Adres URL komentarzy: https://news.ycombinator.com/item?id=49147853 Punkty: 10 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://healeycodes.com/adding-defer-to-the-typescript-compiler Adres URL komentarzy: https://news.ycombinator.com/item?id=49147853 Punkty: 10 # Komentarze: 2."
     },
     {
       "title": "Pokaż HN: MicroCodex Coding Agent – ​​OpenAI/kodeks ponownie zaimplementowany w formacie binarnym C++ <1MB",
@@ -1077,7 +1069,15 @@
       "date": "2026-08-02T20:11:35Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://github.com/paoloanzn/microcodex Adres URL komentarzy: https://news.ycombinator.com/item?id=49147842 Punkty: 8 # Komentarze: 2."
+      "summary": "Adres URL artykułu: https://github.com/paoloanzn/microcodex Adres URL komentarzy: https://news.ycombinator.com/item?id=49147842 Punkty: 9 # Komentarze: 2."
+    },
+    {
+      "title": "Recenzja TinyNES – super niszowa konsola NES",
+      "url": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
+      "date": "2026-08-02T20:01:37Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49147760 Punkty: 7 # Komentarze: 0."
     },
     {
       "title": "Badacze wykorzystali kod wspomagany sztuczną inteligencją do niewykrywalnego manipulowania danymi pochodzącymi ze skomputeryzowanych skanów fizycznych dowodów DNA generowanych przez powszechnie używane maszyny w laboratoriach kryminalistycznych (Mariah Timms/Wall Street Journal)",
@@ -2659,51 +2659,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25404.98,
+      25405.73,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26557.19,
+      26557.97,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26702.6,
+      26703.39,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      26944.99,
+      26945.79,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27574.11,
+      27574.93,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27609.77,
+      27610.59,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27851.9,
+      27852.73,
       27354.94,
       27400.36,
       27412.11,
-      28249.14,
+      28249.97,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27517.5,
+      27518.31,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27695.34,
+      27696.16,
       27686.17,
       27404.78,
       27351.97,
@@ -2712,7 +2712,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27406.74,
+      27407.55,
       27930.04,
       28234.04,
       28218.36,
@@ -2721,22 +2721,22 @@
       28294.39,
       28203.83,
       28555.17,
-      28231.74,
+      28232.57,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27793.09,
+      27793.92,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27622.74,
+      27623.56,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      27912.46
+      27913.29
     ],
     "currency": "PLN"
   }
