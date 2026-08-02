@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T05:35:34Z",
+  "last_updated": "2026-08-02T05:36:13Z",
   "poland": [
     {
       "title": "Dwie osoby zmarły po kąpieli w Bałtyku. Rośnie liczba zakażeń wibrionami",
@@ -1426,12 +1426,28 @@
       "summary": "Nowelizacja Ustawy o Krajowym Systemie Cyberbezpieczeństwa była potrzebna i słuszna. Z jej pełną, obiektywną oceną, zapewne trzeba jeszcze nieco poczekać, lecz obecnie skłaniam się ku pesymizmowi w przypadku mniejszych podmiotów publicznych. Obawiam się, że UoKSC będzie kolejnym „segretatorem do wypełnienia”, a nie realną poprawą stanu cyberbezpieczeństwa polskich samorządów."
     },
     {
+      "title": "Nieoczekiwany przedmiot w obszarze pakowania, ponieważ podczas odprawy pojawia się błąd aktywacji systemu Windows",
+      "url": "https://www.theregister.com/offbeat/2026/08/01/unexpected-item-in-the-bagging-area-as-windows-activation-error-pops-up-at-check-in/5281946",
+      "date": "2026-08-01T10:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Torby obciążone kluczem licencyjnym Microsoft."
+    },
+    {
       "title": "Hakerzy zatruwają skrypt reklamowy do zamiany adresów portfeli kryptowalutowych w witrynach klientów",
       "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
       "date": "2026-08-01T09:03:07Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Atakujący zmodyfikowali plik JavaScript udostępniany przez firmę Adform zajmującą się technologią reklamową, zamieniając go w narzędzie po stronie przeglądarki, które przepisuje adresy portfeli kryptowalut. Adform wykrył incydent 27 lipca 2026 r., usunął złośliwy kod, powiadomił dotkniętych klientów i zgłosił go władzom. Każdy, kto 27 lipca odwiedził witrynę zawierającą skrypt, którego dotyczy problem, i skopiował Bitcoin."
+    },
+    {
+      "title": "Głębokie zanurzenie się w procesorze Vera firmy Nvidia i rdzeniach Olympus, które go napędzają",
+      "url": "https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056",
+      "date": "2026-08-01T09:02:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "88 niestandardowych rdzeni, 176 fantastycznych wątków, 1,5 TB pamięci RAM laptopa i 1,8 TB/s łączności NVLink — to nie jest typowy układ dla centrum danych."
     },
     {
       "title": "Wybory 2027 na celowniku rosyjskiej dezinformacji. Oto jak ją zatrzymać [OPINIA]",
@@ -1450,6 +1466,14 @@
       "summary": "Firma Adobe udostępniła aktualizacje zabezpieczeń mające na celu usunięcie niezwykle istotnej luki w zabezpieczeniach Campaign Classic (ACC), swojej platformy automatyzacji marketingu przeznaczonej dla przedsiębiorstw, która może skutkować wykonaniem dowolnego kodu. Luka, oznaczona jako CVE-2026-48449, ma stopień ważności 10,0 w systemie punktacji CVSS. Zostało to opisane jako przypadek nieprawidłowej autoryzacji, który może skutkować."
     },
     {
+      "title": "Absorpcja infrastruktury chmurowej dla przedsiębiorstw nie wykazuje oznak spowolnienia",
+      "url": "https://www.theregister.com/off-prem/2026/08/01/enterprise-cloud-infrastructure-uptake-shows-no-sign-of-slowing/5281835",
+      "date": "2026-08-01T07:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Przychody z chmury przekraczają obecnie 143 miliardy dolarów kwartalnie, a wzrost przyspiesza."
+    },
+    {
       "title": "Porwana hotelowa sieć Wi-Fi przesyła fałszywe aktualizacje w celu dostarczenia złośliwego oprogramowania monitorującego",
       "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
       "date": "2026-08-01T06:29:05Z",
@@ -1464,6 +1488,14 @@
       "source": "Zaufana Trzecia Strona",
       "confirmed_by": 1,
       "summary": "Zapraszamy do nowego wydania Weekendowej Lektury. Tym razem także nie zabrakło materiału do analizy - poniżej znajdziecie kilkadziesiąt linków, które mogą zapewnić wam zajęcie na resztę weekendu. Miłego klikania!"
+    },
+    {
+      "title": "Dev, który nadał nazwę HashiCorp, powraca z szybszym multiplekserem terminala",
+      "url": "https://www.theregister.com/devops/2026/07/31/dev-who-gave-hashicorp-its-name-returns-with-a-faster-terminal-multiplexer/5281970",
+      "date": "2026-07-31T19:12:48Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Stałe sesje mogą być dopiero początkiem."
     },
     {
       "title": "Podejrzani chińskojęzyczni hakerzy atakują rządy Azji Środkowej za pomocą OctLurk i SilkLurk",
@@ -1482,6 +1514,30 @@
       "summary": "Badacze zajmujący się cyberbezpieczeństwem rzucili światło na wcześniej nieudokumentowany framework modułu ładującego oparty na Go o nazwie HollowFrame oraz rodzinę złośliwego oprogramowania opartego na Rust, śledzoną jako Matryoshka. Według Blackpoint Cyber ​​sekwencja włamań rozpoczyna się od wiadomości typu spear-phishing zawierającej łącze do zaszyfrowanego archiwum zawierającego skrót systemu Windows (LNK). Wykonanie pliku uruchamia wieloetapowy łańcuch, który."
     },
     {
+      "title": "Najsłynniejsza marka zajmująca się bezpieczeństwem fizycznym została pokonana przez ShinyHunters",
+      "url": "https://www.theregister.com/security/2026/07/31/the-most-famous-brand-in-physical-security-got-pwned-by-shinyhunters/5281924",
+      "date": "2026-07-31T16:27:27Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Mamy nadzieję, że firma lepiej zabezpiecza domy niż blokuje systemy SaaS."
+    },
+    {
+      "title": "Amerykański bank ufa ekipie ransomware, która obiecała usunąć jego dane",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/31/us-bank-places-trust-in-ransomware-crew-that-promised-to-delete-its-data/5281888",
+      "date": "2026-07-31T15:41:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Historia pokazuje, że nie było to mądre."
+    },
+    {
+      "title": "Anthropic i OpenAI rywalizują o to, czyi agenci potrafią bardziej zbuntować się",
+      "url": "https://www.theregister.com/security/2026/07/31/anthropic-and-openai-are-competing-to-see-whose-agents-can-go-rogue-harder/5281797",
+      "date": "2026-07-31T15:04:04Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Ktokolwiek wygra, my przegramy."
+    },
+    {
       "title": "Tanie telewizory z Androidem udają telefony i zamieniają łącza szerokopasmowe właścicieli w serwery proxy",
       "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
       "date": "2026-07-31T14:45:01Z",
@@ -1490,12 +1546,28 @@
       "summary": "Bitsight twierdzi, że niektóre tanie urządzenia z Androidem TV są dostarczane z aplikacjami, które przepisują ich tożsamość sprzętową, aby naśladować telefony Samsung, Huawei, Xiaomi lub Vivo, a następnie klikają reklamy w witrynach internetowych prowadzonych przez tych samych operatorów. Badacze nazwali tę operację Fuyao i przypisali ją Zhejiang Fengwo IoT Technology Co., Ltd., firmie z Chin kontynentalnych założonej w 2019 roku. Te same aplikacje mają drugie zadanie."
     },
     {
+      "title": "Zaktualizuj aplikację mobilną Teams do października lub strać kalendarz",
+      "url": "https://www.theregister.com/software/2026/07/31/update-teams-mobile-app-by-october-or-lose-your-calendar/5281773",
+      "date": "2026-07-31T14:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Miła, wakacyjna praca dla kogoś."
+    },
+    {
       "title": "Rosja uderza w Tuska i Ukrainę. Wybuch pocisku w Tarnawie-Kolonii uruchomił kremlowską machinę",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/rosja-uderza-w-tuska-i-ukraine-wybuch-pocisku-w-tarnawie-kolonii-uruchomil-kremlowska-machine",
       "date": "2026-07-31T14:00:00Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Rosyjskie media nie ograniczyły się do relacjonowania wybuchu pocisku w Tarnawie-Kolonii. Jeszcze przed zakończeniem badań szczątków zaczęły budować wielowarstwową narrację obronną: najpierw podważać ustalenia polskich władz, następnie oskarżać Donalda Tuska o polityczną manipulację, a w najbardziej radykalnej wersji sugerować, że za incydentem mogła stać Ukraina. Celem nie jest przedstawienie spójnej alternatywnej wersji wydarzeń."
+    },
+    {
+      "title": "Organizacjom charytatywnym pozostaje zablokowany dostęp do kont internetowych CAF Bank",
+      "url": "https://www.theregister.com/security/2026/07/31/charities-remain-locked-out-of-caf-bank-online-accounts/5281711",
+      "date": "2026-07-31T13:55:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Tydzień po zamknięciu 14 000 klientów nadal nie ma daty przywrócenia działalności, a niektórzy z nich mają problemy z płaceniem pracownikom."
     },
     {
       "title": "Rosyjska rakieta, dron lub inne zagrożenie. Dlaczego Polska wciąż nie posiada systemu, z którego korzysta Europa?",
@@ -1530,6 +1602,22 @@
       "summary": "W czwartek Google ogłosił, że naprawił aż 1072 błędy bezpieczeństwa w wersjach przeglądarki Chrome 149 i 150, przekraczając łączną liczbę usterek, które firma naprawiła w poprzednich 23 kluczowych etapach. Obie wersje zostały wydane w zeszłym miesiącu. W wydanej w środę najnowszej łatce dla przeglądarki Chrome 151 technologiczny gigant naprawił 370 usterek, z czego 349 zgłosiło samo Google."
     },
     {
+      "title": "Akcja ratunkowa NASA Swift przesuwa się na koniec sierpnia, gdy LINK walczy z jej obrotami",
+      "url": "https://www.theregister.com/science/2026/07/31/nasas-swift-rescue-slips-to-late-august-as-link-battles-its-spin/5281687",
+      "date": "2026-07-31T12:41:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Inżynierowie czynią postępy w stabilizacji misji, ale przesuwają datę spotkania."
+    },
+    {
+      "title": "Trzy stają się jednym, gdy Vodafone wykupuje partnera fuzyjnego",
+      "url": "https://www.theregister.com/networks/2026/07/31/three-becomes-one-as-vodafone-buys-out-merger-partner/5281722",
+      "date": "2026-07-31T12:11:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Umowa o wartości 4,3 miliarda funtów zapewnia firmie telekomunikacyjnej pełną kontrolę nad największym brytyjskim operatorem komórkowym."
+    },
+    {
       "title": "Badacze zgłaszają 84 błędy w rdzeniach 4G i 5G, w tym błąd związany z przejmowaniem sesji",
       "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
       "date": "2026-07-31T11:55:00Z",
@@ -1562,12 +1650,44 @@
       "summary": "Ministerstwo Cyfryzacji zainaugurowało konkurs na utworzenie Lokalnych Centrów Cyberbezpieczeństwa. Samorządy, łącząc siły w konsorcjach, będą mogły pozyskać środki na wspólne zespoły ekspertów, infrastrukturę i narzędzia służące ochronie urzędów oraz podległych im instytucji. Na program przeznaczono 270 mln zł, a co najmniej 30 centrów ma pomóc wyrównać poziom cyberbezpieczeństwa w różnych częściach kraju."
     },
     {
+      "title": "Szkockie uniwersyteckie centrum zamówień potwierdza, że ​​do środka włamali się cyberprzestępcy",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/31/scotlands-university-procurement-center-confirms-cybercrooks-broke-in/5281654",
+      "date": "2026-07-31T10:45:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "APUC prowadzi dochodzenie po tym, jak przestępcy twierdzą, że kradną dane historyczne."
+    },
+    {
       "title": "Link do Poradnika Bezpieczeństwa w SMS od RCB. Gawkowski: nie ma ataku",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/link-do-poradnika-bezpieczenstwa-w-sms-od-rcb-gawkowski-nie-ma-ataku",
       "date": "2026-07-31T10:27:14Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Alert RCB rozesłał do milionów Polaków SMS-a z linkiem do Poradnikiem Bezpieczeństwa. Wiele osób próbowało wejść na stronę, wskutek czego serwery w domenie gov.pl nie działały lub znacznie zwolniły. Do sprawy odniósł się wicepremier i minister cyfryzacji Krzysztof Gawkowski podczas konferencji prasowej poświęconej Lokalnym Centrom Cyberbezpieczeństwa."
+    },
+    {
+      "title": "Nabywcy technologii od pierwszego dnia cieszą się z suwerenności, mówi Forrester",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/31/tech-buyers-are-baking-in-sovereignty-from-day-one-says-forrester/5281208",
+      "date": "2026-07-31T10:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Europejskie firmy odczuwają największą presję, ponieważ amerykańscy giganci dominują w infrastrukturze chmury i sztucznej inteligencji."
+    },
+    {
+      "title": "Wielka Brytania chce, aby centra danych płaciły opłatę za żądania podłączenia do sieci",
+      "url": "https://www.theregister.com/systems/2026/07/31/uk-wants-datacenters-to-pay-a-fee-for-grid-connection-requests/5281248",
+      "date": "2026-07-31T09:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Opłata zwrotna, mająca na celu zniechęcenie marnujących czas do składania wniosków, które nigdy nie zostaną zrealizowane."
+    },
+    {
+      "title": "Znak lotniska nie uruchamia się, funkcjonariusze są już na miejscu",
+      "url": "https://www.theregister.com/offbeat/2026/07/31/airport-sign-fails-to-boot-officers-already-on-the-scene/5281066",
+      "date": "2026-07-31T08:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Borku! Borku! To dźwięk policji."
     },
     {
       "title": "Anthropic twierdzi, że Claude pomylił otwarty Internet z CTF i naruszył trzy organizacje",
