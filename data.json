@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T00:20:24Z",
+  "last_updated": "2026-08-02T00:21:06Z",
   "poland": [
     {
       "title": "Wyniki losowania Lotto na 1 sierpnia. Sprawdź szczęśliwe liczby",
@@ -628,6 +628,14 @@
       "summary": "Wśród 10 osób, które zginęły w lawinie w Pakistanie, znalazł się wspinacz Nirmal Purja – urzędnicy Reuters."
     },
     {
+      "title": "Izraelskie ataki zabijają dwie osoby w Gazie, niszczą magazyny leków – Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-two-gaza-destroy-medicine-storage-warehouses-2026-08-01/",
+      "date": "2026-08-01T15:48:44Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Izraelskie ataki zabijają dwie osoby w Gazie i niszczą magazyny leków Reuters."
+    },
+    {
       "title": "Jego firma twierdzi, że alpinista Nirmal Purja zginął w pakistańskiej lawinie",
       "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-01T15:25:30Z",
@@ -650,14 +658,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Trump grozi, że Blanche pozostanie na stanowisku pełniącego obowiązki prokuratora generalnego i ożywi fundusz „przeciwdziałający broni” – Reuters."
-    },
-    {
-      "title": "Rumunia rozszerza odstrzał niedźwiedzi, krytycy twierdzą, że nadal istnieją luki w egzekwowaniu prawa – Reuters",
-      "url": "https://www.reuters.com/business/environment/romania-expands-bear-cull-critics-say-enforcement-gaps-persist-2026-08-01/",
-      "date": "2026-08-01T13:49:43Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Rumunia rozszerza odstrzał niedźwiedzi – krytycy twierdzą, że nadal istnieją luki w egzekwowaniu prawa Reuters."
     },
     {
       "title": "Dziesiątki osób zostało rannych w wyniku trzęsienia ziemi w pobliżu Neapolu",
@@ -2549,12 +2549,17 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 40,
+      "score": 53,
       "reasons": [
         {
           "title": "Kryzys na Bliskim Wschodzie: Trump mówi, że „Izrael jest bardzo zadowolony” z planu pokojowego w Strefie Gazy, ale nie mówi, czy najważniejsze jest wycofanie się, czy rozbrojenie Hamasu – tak się stało",
           "url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
           "source": "The Guardian"
+        },
+        {
+          "title": "Izraelskie ataki zabijają dwie osoby w Gazie, niszczą magazyny leków – Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-two-gaza-destroy-medicine-storage-warehouses-2026-08-01/",
+          "source": "Reuters"
         },
         {
           "title": "Izrael bombarduje Gazę kilka dni po ogłoszeniu przez Trumpa porozumienia w sprawie przyspieszenia zawieszenia broni",
