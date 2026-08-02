@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T12:46:04Z",
+  "last_updated": "2026-08-02T12:46:50Z",
   "poland": [
     {
       "title": "Groźne zderzenie tramwaju i busa we Wrocławiu. Cztery osoby ranne, jedna w stanie ciężkim",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Obywatele UE w Wielkiej Brytanii otrzymują pisma z informacją, że prawa pobytu po brexicie zostały przyznane „przez pomyłkę”",
+      "url": "https://www.theguardian.com/politics/2026/aug/02/eu-citizens-uk-letters-post-brexit-residency-rights-given-in-error",
+      "date": "2026-08-02T12:42:40Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Po latach budowania życia w Wielkiej Brytanii potencjalnie setkom tysięcy obywateli UE mówi się, że nie mają prawa pozostać. Ministerstwo Spraw Wewnętrznych Wielkiej Brytanii rozpoczęło pozbawianie niektórych obywateli UE prawa pobytu po brexicie, co wzbudziło obawy co do przestrzegania przez Wielką Brytanię umowy o wystąpieniu z Europą. Brytyjski organ spraw wewnętrznych powiedział co najmniej 100 osobom, że przyznano im prawo pobytu „przez pomyłkę”, zakłócając ich życie tuż po zakończeniu pięcioletniego „statusu osoby osiedlonej” i przygotować się do uzyskania stałego „statusu osoby osiedlonej”. Kontynuuj czytanie..."
+    },
+    {
       "title": "Włochy twierdzą, że tymczasowo zawieszają porozumienie UE z Hiszpanią po tym, jak 60 000 migrantów dotarło do Ceuty – i tak się stało",
       "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
       "date": "2026-08-02T12:25:01Z",
@@ -722,14 +730,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "W bloku utrzymują się podziały w związku z masowym przekraczaniem migrantów na terytorium Hiszpanii w Afryce PółnocnejUnia Europejska ma we wtorek pilnie zorganizować posiedzenie ministrów spraw wewnętrznych w obliczu utrzymujących się podziałów w bloku w związku z przybyciem ponad 50 000 migrantów na hiszpańskie terytorium Ceuta w Afryce Północnej. Decyzję podjęli urzędnicy reprezentujący państwa członkowskie UE i eksperci agencji granicznej Frontex podczas sobotniego, określanego jako „trzeźwiącego” spotkania. Kontynuuj czytanie..."
-    },
-    {
-      "title": "UE zaoferowała Hiszpanii wsparcie „od pierwszej chwili” kryzysu w Ceucie, mówi von der Leyen po ataku Sáncheza – Europa na żywo",
-      "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
-      "date": "2026-08-01T14:58:54Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "„Ani jedna osoba nie dotarła do kontynentalnej Hiszpanii ani do reszty UE” – mówi przewodniczący Komisji Europejskiej po tym, jak premier Hiszpanii potępił „samolubną, polaryzującą” reakcję niektórych krajów. Powrót do Ukrainy, gdzie dziś rano w Kijowie w wyniku rosyjskiego ataku rakietowego i dronów zginęło dziewięć osób. Według ukraińskich urzędników zniszczenia zgłoszono w siedmiu dzielnicach stolicy, a prezydent Ukrainy Wołodymyr Zełenski powiedział, że w całym mieście wybuchły pożary, trafiono w budynki mieszkalne, szkołę i obiekty infrastrukturalne. Kontynuuj czytanie..."
     },
     {
       "title": "Boxer zdobywa pierwszy medal Igrzysk Wspólnoty Narodów w Tuvalu, nie wygrywając walki",
@@ -2455,27 +2455,6 @@
       ]
     },
     {
-      "name": "Ukraina",
-      "score": 33,
-      "reasons": [
-        {
-          "title": "UE zaoferowała Hiszpanii wsparcie „od pierwszej chwili” kryzysu w Ceucie, mówi von der Leyen po ataku Sáncheza – Europa na żywo",
-          "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Zaatakowała taksówkarza z Ukrainy przy dziecku. Poszło o sklep monopolowy",
-          "url": "https://wiadomosci.gazeta.pl/polska/7,198072,32945656,zaatakowala-taksowkarza-z-ukrainy-przy-dziecku-poszlo-o-sklep.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-          "source": "Gazeta Wyborcza"
-        },
-        {
-          "title": "Atak we Wrocławiu. 30-latka w stanie krytycznym, Ukrainiec ujęty",
-          "url": "https://www.polsatnews.pl/wiadomosc/2026-08-02/atak-we-wroclawiu-30-latka-w-stanie-krytycznym-ukrainiec-ujety/",
-          "source": "Polsat News"
-        }
-      ]
-    },
-    {
       "name": "Strefa Gazy / Izrael",
       "score": 29,
       "reasons": [
@@ -2493,6 +2472,22 @@
           "title": "Izrael bombarduje Gazę kilka dni po ogłoszeniu przez Trumpa porozumienia w sprawie przyspieszenia zawieszenia broni",
           "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
           "source": "The New York Times"
+        }
+      ]
+    },
+    {
+      "name": "Ukraina",
+      "score": 19,
+      "reasons": [
+        {
+          "title": "Zaatakowała taksówkarza z Ukrainy przy dziecku. Poszło o sklep monopolowy",
+          "url": "https://wiadomosci.gazeta.pl/polska/7,198072,32945656,zaatakowala-taksowkarza-z-ukrainy-przy-dziecku-poszlo-o-sklep.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+          "source": "Gazeta Wyborcza"
+        },
+        {
+          "title": "Atak we Wrocławiu. 30-latka w stanie krytycznym, Ukrainiec ujęty",
+          "url": "https://www.polsatnews.pl/wiadomosc/2026-08-02/atak-we-wroclawiu-30-latka-w-stanie-krytycznym-ukrainiec-ujety/",
+          "source": "Polsat News"
         }
       ]
     },
