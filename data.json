@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-08-03T07:51:18Z",
+  "last_updated": "2026-08-03T07:51:59Z",
   "poland": [
+    {
+      "title": "Ukraina odzyskuje terytorium, a generałowie boją się mówić prawdę Władimirowi Putinowi",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art44926161-ukraina-odzyskuje-terytorium-a-generalowie-boja-sie-mowic-prawde-wladimirowi-putinowi",
+      "date": "2026-08-03T07:51:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Władimir Putin prawdopodobnie chce zakończyć wojnę przed końcem swej obecnej kadencji prezydenckiej, czyli przed 2030 rokiem. Nie wiadomo, czy do tego czasu uda mu się pokonać Ukrainę."
+    },
+    {
+      "title": "Lofoty sięgają po opłatę turystyczną. Potrzebują pieniędzy na toalety i parkingi",
+      "url": "https://turystyka.rp.pl/zanim-wyjedziesz/art44928851-lofoty-siegaja-po-oplate-turystyczna-potrzebuja-pieniedzy-na-toalety-i-parkingi",
+      "date": "2026-08-03T07:50:50Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Norweski parlament przyjął przepisy umożliwiające gminom na Lofotach wprowadzenie podatku turystycznego. Opłata, która może wynieść do 3 procent ceny noclegu, ma pomóc w finansowaniu infrastruktury wykorzystywanej przez odwiedzających i ograniczaniu negatywnych skutków rosnącego ruchu turystycznego."
+    },
     {
       "title": "Jen umocnił się po wspólnej interwencji USA i Japonii",
       "url": "https://www.rp.pl/waluty/art44928701-jen-umocnil-sie-po-wspolnej-interwencji-usa-i-japonii",
@@ -152,22 +168,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Robert Gontarz skomentował w Graffiti zamieszanie wokół rozłamu w PiS. Poseł i członek klubu parlamentarnego Rozwój Plus przekonywał, że nie zdążył jeszcze przeczytać wiadomości wysłanych przez partię, bo podczas piątkowego grilla u Mateusza Morawieckiego dużo się działo. Jednocześnie zapowiedział, że jego środowisko chce skupić się na programie, a nie politycznym serialu."
-    },
-    {
-      "title": "Milionerzy w białych fartuchach. Co dziesiąty radny–lekarz zarobił ponad milion",
-      "url": "https://www.rp.pl/polityka/art44928601-milionerzy-w-bialych-fartuchach-co-dziesiaty-radny-lekarz-zarobil-ponad-milion",
-      "date": "2026-08-03T06:24:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Co dziesiąty lekarz pełniący funkcję radnego w Polsce zarobił w 2025 r. ponad milion złotych – wynika z analizy przeprowadzonej przez TVN24+. W całym kraju zidentyfikowano 23 takich samorządowców."
-    },
-    {
-      "title": "„Całkowite odłączenie”. Kuba pogrążyła się w ciemnościach",
-      "url": "https://www.rp.pl/spoleczenstwo/art44928521-calkowite-odlaczenie-kuba-pograzyla-sie-w-ciemnosciach",
-      "date": "2026-08-03T06:18:41Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Na Kubie doszło do kolejnej awarii sieci energetycznej, wskutek czego licząca prawie 10 mln mieszkańców wyspa w niedzielę wieczorem ponownie pogrążyła się w ciemnościach. To szósty taki przypadek od początku roku – w lipcu wystąpiły tam trzy całkowite przerwy w zasilaniu."
     },
     {
       "title": "Awaria na kolei w Warszawie. Ostrzegają przed spóźnieniami",
@@ -2188,8 +2188,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "- Prawdziwym zagrożeniem jest Moskwa, ale z Ukrainą musimy prowadzić politykę transakcyjną, tzn.",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32946664,bogucki-z-ukraina-musimy-prowadzic-polityke-transakcyjna-polska.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882"
+      "description": "Władimir Putin prawdopodobnie chce zakończyć wojnę przed końcem swej obecnej kadencji prezydenckiej, czyli przed 2030 rokiem.",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art44926161-ukraina-odzyskuje-terytorium-a-generalowie-boja-sie-mowic-prawde-wladimirowi-putinowi"
     },
     {
       "lat": 31.5,
@@ -2472,12 +2472,17 @@
     },
     {
       "name": "Ukraina",
-      "score": 28,
+      "score": 40,
       "reasons": [
         {
           "title": "Moskiewska bomba zabija co najmniej trzy osoby, a urządzenie niesione przez kobietę eksploduje",
           "url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
           "source": "The Guardian"
+        },
+        {
+          "title": "Ukraina odzyskuje terytorium, a generałowie boją się mówić prawdę Władimirowi Putinowi",
+          "url": "https://www.rp.pl/konflikty-zbrojne/art44926161-ukraina-odzyskuje-terytorium-a-generalowie-boja-sie-mowic-prawde-wladimirowi-putinowi",
+          "source": "Rzeczpospolita"
         },
         {
           "title": "Ukraina twierdzi, że doszło do uderzenia w główną rosyjską rafinerię ropy naftowej i lotnisko, a Moskwa informuje o ośmiu ofiarach śmiertelnych",
@@ -2674,7 +2679,7 @@
       "2026-07-31"
     ],
     "prices": [
-      26027.49,
+      26024.56,
       24743.49,
       24580.95,
       24274.37,
@@ -2721,51 +2726,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25432.25,
+      25429.39,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26585.69,
+      26582.7,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26731.27,
+      26728.26,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      26973.92,
+      26970.88,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27603.71,
+      27600.6,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27639.41,
+      27636.3,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27881.8,
+      27878.66,
       27354.94,
       27400.36,
       27412.11,
-      28279.46,
+      28276.28,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27547.04,
+      27543.94,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27725.07,
+      27721.95,
       27686.17,
       27404.78,
       27351.97,
@@ -2774,7 +2779,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27436.16,
+      27433.07,
       27930.04,
       28234.04,
       28218.36,
@@ -2783,22 +2788,22 @@
       28294.39,
       28203.83,
       28555.17,
-      28262.04,
+      28258.86,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27822.93,
+      27819.79,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27652.39,
+      27649.28,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      27942.42
+      27939.28
     ],
     "currency": "PLN"
   }
