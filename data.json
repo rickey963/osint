@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-03T06:14:59Z",
+  "last_updated": "2026-08-03T06:15:33Z",
   "poland": [
+    {
+      "title": "Poważna awaria na kolei w Warszawie. Ostrzegają przed spóźnieniami",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-08-03/powazna-awaria-na-kolei-w-warszawie-ostrzegaja-przed-spoznieniami/",
+      "date": "2026-08-03T06:10:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Doszło do awarii urządzeń sterowania ruchem na stacji Warszawa Centralna - informują PKP Polskie Linie Kolejowe. Jak uściślił zarządca infrastruktury, mogą wystąpić opóźnienia pociągów około 30 minut. Usterka na kluczowej stacji w kraju powoduje jednak, że pasażerowie mogą czekać na peronach dłużej i w innych województwach niż mazowieckie."
+    },
     {
       "title": "Polacy niezadowoleni z działań rządu w sprawie paliw. Jedna grupa jest wyjątkiem",
       "url": "https://businessinsider.com.pl/gospodarka/ceny-paliw-gwaltownie-wzrosly-polacy-negatywnie-ocenili-dzialania-rzadu/vq98zbe",
@@ -130,20 +138,20 @@
       "summary": "Poseł, członek stowarzyszenia Rozwój Plus Robert Gontarz będzie odpowiadał na pytania Marcina Fijołka w poniedziałkowym Graffiti. Transmisja programu na polsatnews.pl oraz w Polsacie, Polsat News i Interii od godziny 7:40."
     },
     {
-      "title": "Za walkę o wodę zapłacimy nie tylko pieniędzmi. Kryzys wodny nadciąga do Polski",
-      "url": "https://businessinsider.com.pl/gospodarka/susza-i-powodz-w-polsce-dlaczego-grozi-nam-wodny-blackout/t4p8xvn",
-      "date": "2026-08-03T04:00:00Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Polska nie stoi jeszcze przed ogólnokrajowym \"wodnym blackoutem\". Wystarczy jednak kilka tygodni upałów, brak opadów i gwałtowny wzrost poboru, by w setkach gmin pojawiły się spadki ciśnienia, zakazy podlewania, a nawet okresowe przerwy w dostawach. Jednocześnie ten sam kraj, który latem walczy z deficytem wody, musi być przygotowany na nawalne opady i katastrofalne powodzie."
-    },
-    {
       "title": "Upały kosztują Polskę miliardy złotych rocznie. Te pięć branż zapłaci najwięcej [RANKING]",
       "url": "https://businessinsider.com.pl/gospodarka/upal-uderza-w-polska-gospodarke-te-5-branz-straci-najwiecej/t7cc99k",
       "date": "2026-08-03T04:00:00Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Upał wystawia nam rachunek. Polska wciąż nie jest najgorętszym krajem Europy, ale ekonomicznie może należeć do państw najbardziej podatnych na rosnące temperatury. Te pięć branż straci najwięcej, a koszt bezczynności może sięgnąć wkrótce nawet 124 mld zł rocznie."
+    },
+    {
+      "title": "Za walkę o wodę zapłacimy nie tylko pieniędzmi. Kryzys wodny nadciąga do Polski",
+      "url": "https://businessinsider.com.pl/gospodarka/susza-i-powodz-w-polsce-dlaczego-grozi-nam-wodny-blackout/t4p8xvn",
+      "date": "2026-08-03T04:00:00Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Polska nie stoi jeszcze przed ogólnokrajowym \"wodnym blackoutem\". Wystarczy jednak kilka tygodni upałów, brak opadów i gwałtowny wzrost poboru, by w setkach gmin pojawiły się spadki ciśnienia, zakazy podlewania, a nawet okresowe przerwy w dostawach. Jednocześnie ten sam kraj, który latem walczy z deficytem wody, musi być przygotowany na nawalne opady i katastrofalne powodzie."
     },
     {
       "title": "Klimatyzacja może stać się normą w mieszkaniach Polaków. Jest jedno \"ale\"",
@@ -184,14 +192,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Prezydent USA Donald Trump zapowiedział, że w poniedziałek rozpoczną się negocjacje z Iranem. Dzień wcześniej ogłosił wstrzymanie planowanego ataku na ten kraj, tłumacząc decyzję szansą na osiągnięcie porozumienia z Teheranem."
-    },
-    {
-      "title": "Fakturę dla rolnika ryczałtowego z PESEL należy wystawić w KSeF",
-      "url": "https://pro.rp.pl/krajowy-system-e-faktur-ksef/art44919891-fakture-dla-rolnika-ryczaltowego-z-pesel-nalezy-wystawic-w-ksef",
-      "date": "2026-08-03T03:40:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Gdy rolnik ryczałtowy posługuje się identyfikatorem PESEL, można przekazać mu fakturę wystawioną przy użyciu KSeF w sposób z nim uzgodniony, tj. w KSeF lub poza KSeF (papierowo lub jako pdf)."
     },
     {
       "title": "42°C w prognozach. GFS pokazuje rekordowy upał w Polsce, padła data - Polskie Radio 24",
@@ -436,12 +436,12 @@
       "summary": "Władze wydają alert, stwierdzając, że pomieszczenia bez klimatyzacji są „niebezpieczne”, ponieważ temperatura przekracza 40°C piąty dzień z rzędu. Korea Południowa zarejestrowała najwyższą temperaturę od czasu rozpoczęcia pomiarów ponad sto lat temu, po tym jak władze ostrzegły ludzi, aby „natychmiast” zaprzestali wszelkiej aktywności na świeżym powietrzu w dotkniętych obszarach. W południowo-wschodnim mieście Yangsan temperatura w niedzielne popołudnie osiągnęła 42,5°C – podała Koreańska Administracja Meteorologiczna (KMA), co stanowi najwyższą temperaturę odnotowaną od rozpoczęcia nowoczesnych obserwacji pogody w 1904 r. czytanie..."
     },
     {
-      "title": "Indyjskie giełdy rosną po spadku cen ropy Brent, sezon wyników bez szoków – reuters.com",
+      "title": "Indyjskie giełdy rosną po spadku cen ropy Brent, sezonie wyników bez szoków – Reuters",
       "url": "https://www.reuters.com/world/india/indian-shares-likely-open-higher-oil-prices-slump-2026-08-03/",
       "date": "2026-08-03T05:01:24Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Indyjskie giełdy rosną po spadku cen ropy Brent, sezon wyników bez szoków reuters.com."
+      "summary": "Indyjskie giełdy rosną po spadku cen ropy Brent, sezon wyników bez szoków Reuters."
     },
     {
       "title": "One Nation wymienia ośmiu wiktoriańskich kandydatów w wyborach, podczas gdy Hanson zakazuje ABC i Guardianowi udziału w konferencjach prasowych",
@@ -452,12 +452,12 @@
       "summary": "Były liberał, animator filmów przeciwdziałających przebudzeniu i radny, który twierdzi, że pracował w zespole bezpieczeństwa Daniela Andrewsa wśród uczestników listopadowego sondażu stanowego. Śledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj nasze e-maile z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. One Nation ogłosiło swoich pierwszych kandydatów w nadchodzących wyborach do stanu wiktoriańskiego, po tym jak liderka partii, Pauline Hanson, obiecała zakazać ABC i Guardianowi udziału w jej konferencjach prasowych podczas wyborów do stanu Wiktoria. Guardian Australia rozumie, że reporterom z ABC i The Age odmówiono wstępu na poniedziałkową konferencję prasową Hanson, podczas której ogłosiła ona siedmiu z ośmiu kandydatów, którzy będą ubiegać się o mandaty w izbie wyższej One Nation. Kontynuuj czytanie..."
     },
     {
-      "title": "Rząd twierdzi, że Aung San Suu Kyi z Birmy spotyka się z urzędnikiem Czerwonego Krzyża – reuters.com",
+      "title": "Rząd twierdzi, że Aung San Suu Kyi z Birmy spotyka się z urzędnikiem Czerwonego Krzyża – Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/myanmars-aung-san-suu-kyi-meets-red-cross-official-government-says-2026-08-03/",
       "date": "2026-08-03T04:11:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Rząd reuters.com podaje, że Aung San Suu Kyi z Birmy spotyka się z urzędnikiem Czerwonego Krzyża."
+      "summary": "Rząd twierdzi, że Aung San Suu Kyi z Birmy spotyka się z urzędnikiem Czerwonego Krzyża."
     },
     {
       "title": "Ustawodawstwo Nowej Zelandii czyniące angielski językiem urzędowym wyśmiewane jako „żałosne”",
@@ -468,12 +468,12 @@
       "summary": "Uchwalenie ustawy nadaje językowi angielskiemu taki sam status jak język maoryski i język migowy, ale ponieważ mówi nim już 95% kraju, krytycy nazywają go „bezsensownym ćwiczeniem”. Ustawodawstwo uznające angielski za język urzędowy Nowej Zelandii zostało przyjęte przez parlament, co wywołało szyderstwa ze strony lingwistów i ekspertów prawnych, a także zyskało ogromną popularność ze strony maoryskiego parlamentarzysty, który nazwał go „żałosnym”. Ustawa o języku angielskim weszła w życie 30 lipca, nadając język angielski, którym posługują się 95% kraju, taki sam oficjalny status jak te reo Māori (język maoryski) i nowozelandzki język migowy. Kontynuuj czytanie..."
     },
     {
-      "title": "Alibaba przedstawia swój najpotężniejszy jak dotąd model sztucznej inteligencji, niewiele gorszy od Moonshota – reuters.com",
+      "title": "Alibaba przedstawia swój najpotężniejszy jak dotąd model sztucznej inteligencji, niewiele gorszy od Moonshota – Reuters",
       "url": "https://www.reuters.com/business/retail-consumer/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size-2026-08-03/",
       "date": "2026-08-03T03:58:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Alibaba przedstawia swój najpotężniejszy jak dotąd model sztucznej inteligencji, niewiele gorszy od Moonshota pod względem wielkości reuters.com."
+      "summary": "Alibaba przedstawia swój najpotężniejszy jak dotąd model sztucznej inteligencji, niewiele ustępując wielkości Moonshotowi Reuters."
     },
     {
       "title": "„Mój jedyny syn został zastrzelony, stając w obronie sprawiedliwości” – w mieście ogarniętym śmiertelnymi protestami w Kaszmirze administrowanym przez Pakistan",
@@ -484,20 +484,20 @@
       "summary": "BBC uzyskuje unikalny dostęp do Rawalakot, miejsca brutalnych starć pomiędzy siłami bezpieczeństwa a protestującymi w Kaszmirze administrowanym przez Pakistan."
     },
     {
-      "title": "Kuba pogrąża się w ciemnościach po awarii sieci energetycznej – reuters.com",
+      "title": "Kuba pogrąża się w ciemnościach po awarii sieci energetycznej – Reuters",
       "url": "https://www.reuters.com/business/energy/cubas-national-electricity-grid-collapses-sunday-2026-08-03/",
       "date": "2026-08-03T03:19:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Kuba pogrąża się w ciemnościach po awarii sieci energetycznej reuters.com."
+      "summary": "Kuba pogrąża się w ciemnościach po awarii sieci energetycznej Reuters."
     },
     {
-      "title": "Około 60 000 osób nakazano ewakuację z powodu pożarów w Spokane w stanie Waszyngton – reuters.com",
+      "title": "Około 60 000 osób nakazano ewakuację z powodu pożarów w Spokane w stanie Waszyngton – Reuters",
       "url": "https://www.reuters.com/legal/litigation/about-60000-ordered-evacuate-fires-spokane-washington-2026-08-03/",
       "date": "2026-08-03T02:46:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Około 60 000 osób nakazano ewakuację z powodu pożarów w Spokane w stanie Waszyngton reuters.com."
+      "summary": "Około 60 000 osób nakazano ewakuację z powodu pożarów w Spokane w stanie Washington Reuters."
     },
     {
       "title": "USA i Japonia podejmują działania, aby wesprzeć jena w ramach rzadkiego wspólnego ruchu",
@@ -508,20 +508,20 @@
       "summary": "Obydwa kraje oświadczyły, że nie zawahają się w przyszłości przeprowadzić wspólnych interwencji."
     },
     {
-      "title": "Australia potwierdza pierwszą masową śmierć ptaków morskich z powodu ptasiej grypy H5N1 – reuters.com",
+      "title": "Australia potwierdza pierwszą masową śmierć ptaków morskich z powodu ptasiej grypy H5N1 – Reuters",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/australia-confirms-first-mass-mortality-event-h5-bird-flu-2026-08-03/",
       "date": "2026-08-03T02:33:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Australia potwierdza pierwszą masową śmierć ptaków morskich z powodu ptasiej grypy H5N1 reuters.com."
+      "summary": "Australia potwierdza pierwszą masową śmierć ptaków morskich z powodu ptasiej grypy H5N1 Reuters."
     },
     {
-      "title": "Dwie osoby trafiły do ​​szpitala po zawaleniu się budynku w Sydney – reuters.com",
+      "title": "Dwie osoby trafiły do ​​szpitala po zawaleniu się budynku w Sydney – Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/two-people-hospitalised-after-building-collapse-sydney-emergency-services-2026-08-03/",
       "date": "2026-08-03T02:31:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Dwie osoby trafiły do ​​szpitala po zawaleniu się budynku w Sydney reuters.com."
+      "summary": "Dwie osoby trafiły do ​​szpitala po zawaleniu się budynku w Sydney Reuters."
     },
     {
       "title": "Massive Attack mówi o „surrealistycznym doświadczeniu” wyrzucenia z Singapuru z powodu flagi palestyńskiej",
@@ -564,28 +564,28 @@
       "summary": "Władze zakazują niektórych „wędrówek skompresowanych”, podczas których piesi pokonują wymagające trasy w krótkich odstępach czasu Rząd Malezji zaostrza zasady dotyczące pieszych wędrówek w całym kraju po tym, jak trend w mediach społecznościowych spowodował, że coraz większa liczba poszukiwaczy przygód wymagała ratunku, gdy zagubili się lub utknęli w odległych miejscach. W ciągu pierwszych pięciu miesięcy 2026 r. w Malezji zaginęły 52 przypadki pieszych, co stanowi wzrost o prawie 30% w porównaniu z tym samym okresem poprzedniego roku, malezyjskim pożarem i Służby ratunkowe poinformowały lokalne media. Kontynuuj czytanie..."
     },
     {
-      "title": "Ropa naftowa spada w związku z nadziejami na porozumienie z Iranem, jen umacnia się po interwencji – reuters.com",
+      "title": "Ropa naftowa spada w związku z nadziejami na porozumienie z Iranem, jen umacnia się po interwencji – Reuters",
       "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-03/",
       "date": "2026-08-03T01:03:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Ropa naftowa spada w związku z nadziejami na porozumienie z Iranem, jen umacnia się po interwencji reuters.com."
+      "summary": "Ropa naftowa spada w związku z nadziejami na porozumienie z Iranem, jen umacnia się po interwencji Reuters."
     },
     {
-      "title": "Spółki ze złota w obliczu spadku cen ropy po odpieraniu przez Trumpa ataku na Iran – reuters.com",
+      "title": "Firmy zajmujące się złotem w obliczu spadku cen ropy po powstrzymaniu się Trumpa od ataku na Iran – Reuters",
       "url": "https://www.reuters.com/world/india/gold-gains-oil-slumps-after-trump-holds-off-iran-attack-2026-08-03/",
       "date": "2026-08-03T00:41:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Spółki ze złota w obliczu spadku cen ropy po odparciu przez Trumpa ataku na Iran reuters.com."
+      "summary": "Firmy zajmujące się złotem w obliczu spadku cen ropy po tym, jak Trump powstrzymuje się od ataku na Iran Reuters."
     },
     {
-      "title": "Bessent gotowy do powtórzenia wspólnej interwencji w jenie, wzywa do większego zabezpieczenia Fed – reuters.com",
+      "title": "Bessent gotowy do powtórzenia wspólnej interwencji w jenie, wzywa do większego zabezpieczenia Fed – Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/bessent-ready-repeat-joint-yen-intervention-urges-bigger-fed-backstop-2026-08-03/",
       "date": "2026-08-03T00:40:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Bessent jest gotowy powtórzyć wspólną interwencję w jenie, wzywa do większego zabezpieczenia Fed reuters.com."
+      "summary": "Bessent jest gotowy na powtórzenie wspólnej interwencji w jenie, wzywa do zwiększenia zabezpieczenia Fed Reuters."
     },
     {
       "title": "Luke Bateman opowiada, że ​​firmy hazardowe dostarczały mu kokainę i alkohol",
@@ -596,20 +596,20 @@
       "summary": "Były zawodnik ligi rugby, który stał się wpływowym graczem TikTok, twierdzi w dochodzeniu parlamentarnym, że jego narastające uzależnienie od hazardu kosztowało go około 1 milion dolarów. Śledź nasz australijski blog z aktualnościami, aby uzyskać najnowsze aktualizacje. Otrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast. Była gwiazda ligi rugby Luke Bateman twierdzi, że promotorzy firm hazardowych dostarczali mu kokainę i alkohol, twierdząc w dochodzeniu parlamentarnym, że branża bukmacherska nie dochowała żadnych obowiązków. Bateman, który jest obecnie gwiazdą TikTok i wpływowy w branży W poniedziałek rano społeczność „BookTok” powiedziała śledczym, że uczestniczył w prywatnej imprezie w Gold Coast zorganizowanej przez firmę hazardową, podczas której starsze osobistości zażywały z klientami nielegalne narkotyki. Kontynuuj czytanie..."
     },
     {
-      "title": "Trzęsienie ziemi o magnitudzie 5,6 w skali Richtera na północ od egipskiego Suezu, nie zgłoszono żadnych szkód – reuters.com",
+      "title": "Trzęsienie ziemi o sile 5,6 w skali Richtera nawiedziło północ od egipskiego Suezu, nie zgłoszono żadnych szkód – Reuters",
       "url": "https://www.reuters.com/business/environment/earthquake-magnitude-54-strikes-egypt-gfz-says-2026-08-03/",
       "date": "2026-08-03T00:37:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Trzęsienie ziemi o sile 5,6 w skali Richtera nawiedziło północ od egipskiego Suezu, nie zgłoszono żadnych szkód reuters.com."
+      "summary": "Trzęsienie ziemi o sile 5,6 w skali Richtera nawiedziło północ od egipskiego Suezu, nie zgłoszono żadnych szkód Reuters."
     },
     {
-      "title": "Jen rośnie, a inwestorzy czekają na dalsze interwencje – reuters.com",
+      "title": "Jen rośnie, a inwestorzy oczekują dalszej interwencji – Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/dollar-suddenly-falls-against-yen-traders-alert-further-intervention-2026-08-03/",
       "date": "2026-08-03T00:37:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Jen rośnie, a inwestorzy oczekują dalszych interwencji reuters.com."
+      "summary": "Jen rośnie, a inwestorzy oczekują dalszej interwencji Reuters."
     },
     {
       "title": "Trump sugeruje rozpoczęcie nowych rozmów z Iranem w poniedziałek",
@@ -620,28 +620,28 @@
       "summary": "Teheran nie odpowiedział na sugestię, że nowe rozmowy są bliskie. Trump mówił już wcześniej, że wynegocjowane zakończenie wojny jest bliskie, a strajki zostaną wznowione."
     },
     {
-      "title": "Ropa naftowa spada, gdy Trump odwołuje atak na Iran, aby osiągnąć porozumienie nuklearne – reuters.com",
+      "title": "Ropa naftowa spada, gdy Trump odwołuje atak na Iran, aby osiągnąć porozumienie nuklearne – Reuters",
       "url": "https://www.reuters.com/business/energy/oil-tumbles-trump-cancels-attack-iran-reach-nuclear-deal-2026-08-03/",
       "date": "2026-08-03T00:11:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Ropa naftowa spada, gdy Trump odwołuje atak na Iran, aby osiągnąć porozumienie nuklearne reuters.com."
+      "summary": "Ropa naftowa spada, gdy Trump odwołuje atak na Iran, aby osiągnąć porozumienie nuklearne Reuters."
     },
     {
-      "title": "Chińska spółka Chery zainwestuje 75 mln dolarów w koreańską KG Mobility, przygląda się rynkom zagranicznym – reuters.com",
+      "title": "Chińska spółka Chery zainwestuje 75 mln dolarów w koreańską KG Mobility, przygląda się rynkom zagranicznym – Reuters",
       "url": "https://www.reuters.com/business/autos-transportation/chinas-chery-invest-75-mln-koreas-kg-mobility-eyes-overseas-markets-2026-08-03/",
       "date": "2026-08-03T00:02:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Chińska spółka Chery zainwestuje 75 mln dolarów w koreańską KG Mobility, przygląda się rynkom zagranicznym reuters.com."
+      "summary": "Chińska spółka Chery zainwestuje 75 mln dolarów w koreańską KG Mobility, przygląda się rynkom zagranicznym Reuters."
     },
     {
-      "title": "Młodzi Koreańczycy z południa szukają pracy w Japonii, bo w domu nie mogą jej znaleźć – reuters.com",
+      "title": "Młodzi Koreańczycy z południa szukają pracy w Japonii, choć w domu mają trudności ze znalezieniem pracy – Reuters",
       "url": "https://www.reuters.com/business/world-at-work/young-south-koreans-look-jobs-japan-they-struggle-find-work-home-2026-08-03/",
       "date": "2026-08-03T00:02:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Młodzi Koreańczycy z południa szukają pracy w Japonii, próbując znaleźć pracę w domu reuters.com."
+      "summary": "Młodzi Koreańczycy z południa szukają pracy w Japonii, ale w domu nie mogą jej znaleźć Reuters."
     },
     {
       "title": "„Jaka była moja wina?”: Jak wyciek dokumentów egzaminacyjnych w Indiach zakończył życie młodych ludzi",
@@ -1724,6 +1724,14 @@
   ],
   "finance": [
     {
+      "title": "Dłuższy cykl gotówki obciąża przedsiębiorstwa. Dostawcy mogą zapłacić cenę",
+      "url": "https://www.bankier.pl/wiadomosc/Dluzszy-cykl-gotowki-obciaza-przedsiebiorstwa-Dostawcy-moga-zaplacic-cene-9176977.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-08-03T06:15:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Firmy na świecie coraz dłużej odzyskują gotówkę wydaną na zakup materiałów, produkcję i towary - wynika z analizy Allianz Trade. Zdaniem ekspertów trend związany jest z zamrażaniem gotówki w magazynach jako zabezpieczenie m.in. przed przerwami w łańcuchach dostaw, ale może odbić się on na dostawcach."
+    },
+    {
       "title": "Ceuta wraca do normalności, ale mieszkańcy obawiają się powtórki",
       "url": "https://www.bankier.pl/wiadomosc/Ceuta-wraca-do-normalnosci-ale-mieszkancy-obawiaja-sie-powtorki-9176944.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-08-03T06:00:00Z",
@@ -1852,14 +1860,6 @@
       "summary": "W przypadku Polski zarówno w statystykach oczekiwanego czasu pracy jak i długości życia występuje rażąca nierówność pomiędzy kobietami i mężczyznami. Oczywiście na niekorzyść tych drugich."
     },
     {
-      "title": "Te auta wjadą za chwilę do polskich salonów. Wyczekiwane premiery mocno namieszają w cennikach",
-      "url": "https://www.bankier.pl/wiadomosc/Premiery-samochodowe-2026-Nowe-SUV-y-wjada-do-polskich-salonow-i-wywolaja-wojne-cenowa-9175015.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-08-03T05:00:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Druga połowa 2026 roku w polskich salonach samochodowych upłynie pod dyktando nowych SUV-ów i crossoverów. Pojawią się długo wyczekiwane debiuty, ale także zaostrzenie konkurencji cenowej. Zebraliśmy i przyjrzeliśmy się bliżej siedmiu najważniejszym autom, które wjadą do polskich salonów do końca 2026 r."
-    },
-    {
       "title": "Osoba z niepełnosprawnościami w urzędzie - Forsal.pl",
       "url": "https://forsal.pl/finanse/finanse-osobiste/artykuly/11283882,dostepnosc-podmiotow-publicznych-dla-osob-ze-szczegolnymi-potrzebami.html",
       "date": "2026-08-03T04:39:32Z",
@@ -1914,14 +1914,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Debata o przyjęciu euro w Polsce nabiera tempa. Jedno zdanie hamuje dyskusję Forbes."
-    },
-    {
-      "title": "Opcja OW20U263850 - Analiza techniczna - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/ow20u263850,analiza-techniczna.aspx",
-      "date": "2026-08-02T23:14:16Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Opcja OW20U263850 - Analiza techniczna stockwatch.pl."
     },
     {
       "title": "Kultura czyni nas lepszymi - Forbes",
@@ -1988,6 +1980,14 @@
       "summary": "Podsumowanie tygodnia - DAX atakuje historyczne szczyty (uzupełniamy celownik) Paweł Biedrzycki ndz., 02.08.2026 Nasdaq DAX WIG mwig40 swig80 WIG.Games USDPLN Wstęp do wpisu Podsumowanie tygodnia 27 - 31 lipca 2026: #Nasdaq, #DAX, #WIG, #sWIG80, #mWIG40, #WIGGames, #USDPLN, spółka portfelowa, nowa spółka na celowniku, spółki godne uwagi Podsumowanie tygodnia - DAX atakuje historyczne szczyty (uzupełniamy celownik) Paweł Biedrzycki."
     },
     {
+      "title": "Opcja OW20V263450 - Analiza techniczna - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/opcja/ow20v263450,analiza-techniczna.aspx",
+      "date": "2026-08-02T12:44:57Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Opcja OW20V263450 - Analiza techniczna stockwatch.pl."
+    },
+    {
       "title": "Na studiach straszyli ją, że skończy, rysując karykatury. Dziś projektuje dla Madonny - Forbes",
       "url": "https://www.forbes.pl/life/katarzyna-konieczka-tworzy-gorsety-dla-gwiazd-w-portfolio-ma-madonne-i-mansona/z802mgv",
       "date": "2026-08-02T05:00:00Z",
@@ -2020,12 +2020,12 @@
       "summary": "Komunikat ESPI CONSTANCE CARE SPÓŁKA AKCYJNA (constance): Zawarcie umowy najmu nieruchomości w Kierszku z New Portland Medical Sp. z o.o. stockwatch.pl."
     },
     {
-      "title": "Notowania Certyfikatu INTLTSL81810. - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/certyfikat/intltsl81810,notowania.aspx",
-      "date": "2026-08-01T01:24:51Z",
+      "title": "Notowania Certyfikatu INTLPGE58321. - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/certyfikat/intlpge58321,notowania.aspx",
+      "date": "2026-08-01T01:22:58Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Notowania Certyfikatu INTLTSL81810. stockwatch.pl."
+      "summary": "Notowania Certyfikatu INTLPGE58321. stockwatch.pl."
     },
     {
       "title": "Notowania GBP/PLN 1:1 - funt/złoty (GBPPLN) - biznesradar.pl",
@@ -2134,12 +2134,12 @@
       "summary": "Według nieoficjalnych informacji w moskiewskiej restauracji miało dojść do zamachu, którego celem był prawdopodobnie rosyjski generał Aleksandr Czajka. Jak podają niezależne rosyjskie media, w ataku ranna mogła zostać jego córka, 25-letnia Maria Czajka."
     },
     {
-      "title": "Trzęsienie ziemi o magnitudzie 5,6 w skali Richtera na północ od egipskiego Suezu, nie zgłoszono żadnych szkód – reuters.com",
+      "title": "Trzęsienie ziemi o sile 5,6 w skali Richtera nawiedziło północ od egipskiego Suezu, nie zgłoszono żadnych szkód – Reuters",
       "url": "https://www.reuters.com/business/environment/earthquake-magnitude-54-strikes-egypt-gfz-says-2026-08-03/",
       "date": "2026-08-03T00:37:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Trzęsienie ziemi o sile 5,6 w skali Richtera nawiedziło północ od egipskiego Suezu, nie zgłoszono żadnych szkód reuters.com."
+      "summary": "Trzęsienie ziemi o sile 5,6 w skali Richtera nawiedziło północ od egipskiego Suezu, nie zgłoszono żadnych szkód Reuters."
     },
     {
       "title": "Co najmniej 14 osób zginęło w zamachu bombowym na komisariat policji w Pakistanie",
@@ -2404,7 +2404,7 @@
       "lng": 96.1,
       "type": "conflict",
       "region": "Mjanma",
-      "description": "Rząd reuters.com podaje, że Aung San Suu Kyi z Birmy spotyka się z urzędnikiem Czerwonego Krzyża.",
+      "description": "Rząd twierdzi, że Aung San Suu Kyi z Birmy spotyka się z urzędnikiem Czerwonego Krzyża.",
       "url": "https://www.reuters.com/world/asia-pacific/myanmars-aung-san-suu-kyi-meets-red-cross-official-government-says-2026-08-03/"
     }
   ],
@@ -2628,7 +2628,7 @@
       "2026-07-31"
     ],
     "prices": [
-      26024.21,
+      26028.68,
       24743.49,
       24580.95,
       24274.37,
@@ -2675,51 +2675,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25429.04,
+      25433.41,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26582.34,
+      26586.9,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26727.9,
+      26732.48,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      26970.52,
+      26975.15,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27600.23,
+      27604.97,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27635.93,
+      27640.67,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27878.29,
+      27883.07,
       27354.94,
       27400.36,
       27412.11,
-      28275.9,
+      28280.75,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27543.57,
+      27548.29,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27721.57,
+      27726.33,
       27686.17,
       27404.78,
       27351.97,
@@ -2728,7 +2728,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27432.7,
+      27437.41,
       27930.04,
       28234.04,
       28218.36,
@@ -2737,22 +2737,22 @@
       28294.39,
       28203.83,
       28555.17,
-      28258.48,
+      28263.33,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27819.42,
+      27824.19,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27648.91,
+      27653.65,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      27938.9
+      27943.7
     ],
     "currency": "PLN"
   }
