@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T19:37:53Z",
+  "last_updated": "2026-08-05T19:38:30Z",
   "poland": [
     {
       "title": "Ceny paliw w Polsce. Andrzej Domański studzi nadzieje kierowców",
@@ -8,6 +8,14 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Rząd może wrócić do pomysłu wprowadzenia podatku od nadzwyczajnych zysków spółek paliwowych — poinformował minister finansów Andrzej Domański. Dodał, że rząd bierze pod uwagę obniżkę VAT na paliwa na końcówkę wakacji, ale tylko jeśli pogorszy się sytuacja na rynku ropy."
+    },
+    {
+      "title": "Magdalena Fręch nie zagra w trzeciej rundzie. Jessica Pegula lepsza w Toronto",
+      "url": "https://sport.rp.pl/tenis/art44948291-magdalena-frech-nie-zagra-w-trzeciej-rundzie-jessica-pegula-lepsza-w-toronto",
+      "date": "2026-08-05T19:00:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Magdalena Fręch przegrała z rozstawioną z numerem trzecim Jessicą Pegulą i odpadła z turnieju WTA 1000 w Toronto. Polce nie udało się zrewanżować Amerykance za ich niedawne spotkanie w Waszyngtonie. W środę na kanadyjskich kortach rywalizują również Magda Linette i Hubert Hurkacz."
     },
     {
       "title": "Incydent z udziałem śmigłowca Trumpa. Mogło dość do katastrofy",
@@ -102,7 +110,7 @@
       "url": "https://www.rp.pl/prawo-w-polsce/art44948701-sad-zdecydowal-w-sprawie-subwencji-dla-pis-minister-finansow-miazdzacy-wyrok",
       "date": "2026-08-05T17:43:00Z",
       "source": "Rzeczpospolita",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Naczelny Sąd Administracyjny oddalił w środę kasacje w sprawie dotacji i subwencji dla Prawa i Sprawiedliwości. Chodzi o skargę na bezczynność ministra finansów, który nie wypłacił partii Jarosława Kaczyńskiego 6,4 mln zł w ramach zwrotu kosztów kampanii przed wyborami parlamentarnymi w 2023 r."
     },
     {
@@ -248,14 +256,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Elektrownia atomowa na Węgrzech praktycznie stanęła, a w Słowenii — zmniejszyła produkcję prądu. \"Dywersyfikacja źródeł energii jest absolutnie konieczna\" — napisał Rafał Brzoska."
-    },
-    {
-      "title": "Ostrzeżenia najwyższego stopnia i pilny alert RCB. Ekstremalny upał to nie wszystko",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-08-05/czerwono-od-upalow-na-mapach-pogodowych-pilny-alert-rcb/",
-      "date": "2026-08-05T14:33:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia przed upałem dla niemal całego kraju. Na południowym wschodzie termometry wskażą nawet 40 st. C."
     },
     {
       "title": "Jedyna elektrownia atomowa w Słowenii ogranicza pracę. Pierwszy raz od 23 lat - Polska Agencja Prasowa SA",
@@ -404,12 +404,20 @@
   ],
   "world_security": [
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "USA zamkną pięć konsulatów, ponieważ krytycy obawiają się, że Chiny mogą wypełnić próżnię dyplomatyczną",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+      "date": "2026-08-05T19:20:28Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Departament stanu informuje Kongres o planowanych zamknięciach w Kanadzie, Grenadzie, Japonii, Indonezji i Kamerunie Departament stanu USA ma zamknąć pięć zagranicznych konsulatów i misji w Azji, Afryce, Ameryce Północnej i na Karaibach, spotykając się z krytyką, że pozostawia próżnię dyplomatyczną, która może zostać wypełniona przez Chiny. Kongres USA został powiadomiony o zbliżającym się zamknięciu, które jest uzasadnione kosztami i następuje po ponownej ocenie dwustronnych stosunków USA z wieloma krajami od czasu powrotu Donalda Trumpa do Białego Domu w Styczeń 2025. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Izraelskie wojsko uderza w południowy Liban po ostrzeżeniu o ewakuacji wioski – reuters.com",
       "url": "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-village-southern-lebanon-2026-08-05/",
       "date": "2026-08-05T19:17:01Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Izraelskie wojsko uderza w południowy Liban po ostrzeżeniu o ewakuacji przesłanym do wioski Reuters."
+      "summary": "Izraelskie wojsko uderza w południowy Liban po ostrzeżeniu o ewakuacji przesłanym do wioski reuters.com."
     },
     {
       "title": "Kryzys na Bliskim Wschodzie na żywo: Iran i Oman zgadzają się co do współrzędnych trasy przez cieśninę Ormuz, mówi irańskie ministerstwo spraw zagranicznych",
@@ -420,12 +428,12 @@
       "summary": "Wspólne ogłoszenie dotyczące współrzędnych geograficznych jest już finalizowane, mówi rzecznik, dodając, że nie gwarantuje to bezpieczeństwa na drogach wodnych. Współrzędne geograficzne trasy żeglugi przez cieśninę Ormuz zostały uzgodnione przez Iran i Oman, a „wspólne ogłoszenie” jest obecnie finalizowane, pod warunkiem że nie będą w to przeszkadzać strony trzecie, rzecznik irańskiego ministerstwa spraw zagranicznych Esmaeil Baghaei ‌powiedział w środę. Baghaei dodał, że jakiekolwiek takie porozumienie między Iranem a Omanem samo w sobie nie gwarantuje bezpieczeństwa na strategicznej drodze wodnej. Kontynuuj czytanie..."
     },
     {
-      "title": "Iran i Oman osiągnęły porozumienie w sprawie współrzędnych trasy przez Ormuz, twierdzi irańskie ministerstwo",
+      "title": "Iran twierdzi, że osiągnięto porozumienie w sprawie współrzędnych trasy żeglugi przez Ormuz",
       "url": "https://www.theguardian.com/world/2026/aug/05/iran-oman-reach-hormuz-route-coordinates",
       "date": "2026-08-05T19:03:54Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Wspólne oświadczenie jest obecnie finalizowane, ale Teheran twierdzi, że samo porozumienie nie zapewni bezpieczeństwa dróg wodnych na żywo. Kryzys na Bliskim Wschodzie – najnowsze aktualizacje Iran i Oman osiągnęły porozumienie w sprawie współrzędnych geograficznych szlaku żeglugowego przez cieśninę Ormuz i wspólne oświadczenie jest finalizowane, pod warunkiem że nie wtrącą się pewne strony trzecie, powiedział rzecznik irańskiego ministerstwa spraw zagranicznych Esmaeil ⁠Baghaei Środa.Baghaei dodał, że jakiekolwiek takie porozumienie między Iranem a Omanem samo w sobie nie gwarantuje bezpieczeństwa na strategicznej drodze wodnej. Kontynuuj czytanie..."
+      "summary": "Wspólne oświadczenie z Iranem jest finalizowane, ale Teheran twierdzi, że samo porozumienie nie zagwarantuje bezpieczeństwa dróg wodnych. Iran i Oman osiągnęły porozumienie w sprawie współrzędnych geograficznych szlaku żeglugowego przez cieśninę Ormuz i wspólne oświadczenie jest finalizowane, pod warunkiem że nie wtrącą się w to pewne strony trzecie, powiedział w środę rzecznik ministerstwa spraw zagranicznych Iranu Esmail ⁠Baghaei. Baghaei dodał, że jakiekolwiek takie porozumienie między Iran i Oman same w sobie nie zagwarantują bezpieczeństwa na strategicznej drodze wodnej. Kontynuuj czytanie..."
     },
     {
       "title": "Obejrzyj: „Najstraszniejsza noc”, gdy Ukrainie nie udało się przechwycić rosyjskiego ataku",
@@ -436,28 +444,28 @@
       "summary": "Wyczerpana obrona powietrzna Kijowa oznaczała, że ​​wiele rakiet nie zostało przechwyconych – jak ten, który trafił w dom Anastazji."
     },
     {
-      "title": "Kandydat na prezydenta Brazylii Bolsonaro niespodziewanie wymienia kandydata na kandydata na prezydenta – Reuters",
+      "title": "Kandydat na prezydenta Brazylii Bolsonaro niespodziewanie wymienia kandydata na kandydata na prezydenta – reuters.com",
       "url": "https://www.reuters.com/world/americas/brazils-flavio-bolsonaro-names-lawmaker-gaspar-running-mate-october-election-2026-08-05/",
       "date": "2026-08-05T18:48:38Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Kandydat na prezydenta Brazylii Bolsonaro niespodziewanie wymienia Reutersa ze swoim kandydatem na kandydata na prezydenta."
+      "summary": "Kandydat na prezydenta Brazylii Bolsonaro wymienia niespodziewanego kandydata na kandydata reuters.com."
     },
     {
-      "title": "Indie przyglądają się Wenezueli blokującej operatorstwo; odzyskuje rosyjski udział w Sachalinie-1 - Reuters",
+      "title": "Indie przyglądają się Wenezueli blokującej operatorstwo; odzyskuje udziały Rosji w Sachalin-1 – reuters.com",
       "url": "https://www.reuters.com/business/energy/india-eyes-venezuela-blocks-operatorship-regains-russias-sakhalin-1-stake-2026-08-05/",
       "date": "2026-08-05T18:30:04Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Indie przyglądają się Wenezueli blokującej operatorstwo; odzyskuje rosyjski udział w Sachalinie-1 Reuters."
+      "summary": "Indie przyglądają się Wenezueli blokującej operatorstwo; odzyskuje udziały Rosji w Sachalin-1 reuters.com."
     },
     {
-      "title": "EKSKLUZYWNIE: Pod rządami Patela FBI nawiązuje bezprecedensowe powiązania organów ścigania z Chinami i Rosją – Reuters",
+      "title": "EKSKLUZYWNIE: Pod rządami Patela FBI nawiązuje bezprecedensowe powiązania organów ścigania z Chinami i Rosją – reuters.com",
       "url": "https://www.reuters.com/world/china/under-patel-fbi-forges-unprecedented-law-enforcement-ties-with-china-russia-2026-08-05/",
       "date": "2026-08-05T18:29:58Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "EKSKLUZYWNIE: Pod rządami Patela FBI nawiązuje bezprecedensowe powiązania organów ścigania z Chinami i Rosją Reuters."
+      "summary": "EKSKLUZYWNIE: Pod rządami Patela FBI nawiązuje bezprecedensowe powiązania organów ścigania z Chinami i Rosją reuters.com."
     },
     {
       "title": "Po śmiercionośnym ataku w Kijowie Ukraina ostrzega, że ​​brak przechwytywaczy kosztuje życie",
@@ -468,44 +476,44 @@
       "summary": "Bez przechwytywaczy Patriot niebo nad Ukrainą jest szeroko otwarte, a ludzie są w pełni narażeni na ostrzał rakietowy Rosji."
     },
     {
-      "title": "Postępowy El-Sayed wygrywa prawybory w Michigan, pokonując Demokratów – Reuters",
+      "title": "Postępowy El-Sayed wygrywa prawybory w Michigan, pokonując Demokratów – reuters.com",
       "url": "https://www.reuters.com/world/us/progressive-el-sayed-wins-michigan-primary-jolt-democrats-us-media-project-2026-08-05/",
       "date": "2026-08-05T18:09:54Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Postępowy El-Sayed wygrywa prawybory w Michigan po wstrząsie wobec Demokratów Reuters."
+      "summary": "Postępowy El-Sayed wygrywa prawybory w Michigan po wstrząsie dla Demokratów reuters.com."
     },
     {
-      "title": "Hiszpańska Ceuta stara się o transfer małoletnich imigrantów bez opieki do Hiszpanii kontynentalnej w związku z pośpiechem na granicy – ​​Reuters",
+      "title": "Hiszpańska Ceuta stara się o transfer małoletnich imigrantów bez opieki do Hiszpanii kontynentalnej w związku z pośpiechem na granicy – ​​reuters.com",
       "url": "https://www.reuters.com/world/europe/spains-ceuta-seeks-transfer-unaccompanied-migrant-minors-mainland-spain-after-2026-08-05/",
       "date": "2026-08-05T17:59:53Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Hiszpańska Ceuta stara się o transfer małoletnich imigrantów bez opieki do Hiszpanii kontynentalnej po pośpiechu na granicy Reuters."
+      "summary": "Hiszpańska Ceuta stara się o transfer małoletnich imigrantów bez opieki do Hiszpanii kontynentalnej w związku z gorączką graniczną reuters.com."
     },
     {
-      "title": "Austria osiąga rekordową temperaturę, Węgry ograniczają zużycie energii, a Europa odczuwa upał – Reuters",
+      "title": "Austria osiąga rekordową temperaturę, Węgry ograniczają zużycie energii, a Europa odczuwa upał – reuters.com",
       "url": "https://www.reuters.com/business/environment/albanian-firefighters-battle-blazes-southern-eastern-europe-feels-heat-2026-08-05/",
       "date": "2026-08-05T17:57:37Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Austria osiąga rekordową temperaturę, Węgry ograniczają zużycie energii, a Europa odczuwa upał Reuters."
+      "summary": "Austria osiąga rekordową temperaturę, Węgry ograniczają zużycie energii, a Europa odczuwa upał reuters.com."
     },
     {
-      "title": "Lilly przewyższa szacunki dotyczące stabilnego popytu na leki GLP-1 do wstrzykiwań, powiększa lukę w stosunku do Novo – Reuters",
+      "title": "Lilly przewyższa szacunki dotyczące stabilnego popytu na leki GLP-1 do wstrzykiwań, powiększa lukę w stosunku do Novo – reuters.com",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-raises-annual-revenue-forecast-obesity-diabetes-drug-demand-stay-2026-08-05/",
       "date": "2026-08-05T17:51:09Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Lilly przewyższa szacunki dotyczące stabilnego popytu na leki GLP-1 do wstrzykiwań, powiększa lukę dzięki Novo Reuters."
+      "summary": "Lilly przewyższa szacunki dotyczące stabilnego popytu na leki GLP-1 do wstrzykiwań i powiększa lukę dzięki Novo reuters.com."
     },
     {
-      "title": "Nowy Meksyk pozywa rząd USA za dostęp do akt Epsteina – Reuters",
+      "title": "Nowy Meksyk pozywa rząd USA za dostęp do plików Epsteina – reuters.com",
       "url": "https://www.reuters.com/legal/government/new-mexico-sues-us-government-access-epstein-files-2026-08-05/",
       "date": "2026-08-05T17:38:48Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Nowy Meksyk pozywa rząd USA za dostęp do akt Epsteina Reuters."
+      "summary": "Nowy Meksyk pozywa rząd USA za dostęp do plików Epsteina reuters.com."
     },
     {
       "title": "Bomba dronowa w Lipsku oznacza niebezpieczną eskalację dla Europy",
@@ -524,28 +532,28 @@
       "summary": "César Gastélum kręcił zdjęcia przed fast foodem w stanie Sinaloa, kiedy został zabity przez kierowcę motocykla. Popularny meksykański influencer został zastrzelony podczas transmisji na żywo w mediach społecznościowych przed restauracją w stanie Sinaloa, gdzie rozpowszechniła się śmiertelna przemoc kartelowa. César Gastélum, który miał prawie 600 000 obserwujących na TikToku i był znany z kręcenia filmów komediowych, nagrywał z dwoma przyjaciółmi przed restauracją typu fast food w mieście Culiacán. Cała trójka była ubrana w jaskrawopomarańczowe kurtki i plecaki kierowców dostarczających żywność. Kontynuuj czytanie..."
     },
     {
-      "title": "Google wstrząsa przywództwem AI, gdy szef DeepMind zmienia rolę – Reuters",
+      "title": "Google wstrząsa przywództwem AI, gdy szef DeepMind zmienia rolę – reuters.com",
       "url": "https://www.reuters.com/business/google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05/",
       "date": "2026-08-05T16:55:03Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Google wstrząsa przywództwem AI, gdy szef DeepMind zmienia rolę Reuters."
+      "summary": "Google wstrząsa przywództwem AI, gdy szef DeepMind zmienia rolę reuters.com."
     },
     {
-      "title": "USA znoszą sankcje nałożone na Fly Bagdad, wcześniej powiązane z irańskim IRGC – Reuters",
+      "title": "USA znoszą sankcje wobec Fly Baghdad, wcześniej powiązanego z irańskim IRGC – reuters.com",
       "url": "https://www.reuters.com/world/middle-east/us-removes-sanctions-three-irgc-linked-entities-treasury-website-shows-2026-08-05/",
       "date": "2026-08-05T16:44:59Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "USA znoszą sankcje nałożone na Fly Bagdad, wcześniej powiązane z irańskim IRGC Reuters."
+      "summary": "USA znoszą sankcje wobec Fly Baghdad, wcześniej powiązanego z irańskim IRGC reuters.com."
     },
     {
-      "title": "Air India zatrudnia etiopskiego specjalistę ds. lotnictwa, aby zadecydował o zmianie sytuacji – Reuters",
+      "title": "Air India zatrudnia etiopskiego specjalistę ds. lotnictwa, aby pomóc w zmianie sytuacji – reuters.com",
       "url": "https://www.reuters.com/world/india/air-india-appoints-tewolde-gebremariam-new-ceo-2026-08-05/",
       "date": "2026-08-05T16:42:45Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Air India zatrudnia etiopskiego specjalistę ds. lotnictwa, aby pokierował przemianą Reuters."
+      "summary": "Air India zatrudnia etiopskiego specjalistę ds. lotnictwa, aby pokierował przemianą reuters.com."
     },
     {
       "title": "Zełenski wzywa do zwiększenia obrony powietrznej, ponieważ w rosyjskim ataku na Kijów zginęło co najmniej 17 osób",
@@ -564,12 +572,12 @@
       "summary": "Trafienia w dwa miasta to najkrwawsze zamachy bombowe od początku czerwcowego zawieszenia broni W izraelskim nalocie na południowy Liban zginęła jedna osoba, a 11 zostało rannych – podało libańskie ministerstwo zdrowia, co było jednym z najbardziej śmiercionośnych zamachów bombowych w Izraelu od początku czerwcowego zawieszenia broni. Izrael przeprowadził nalot w mieście Tebnine w południowym Libanie, uderzając w cmentarz – podało libańskie ministerstwo zdrowia. Stwierdzono, że miasto al-Mansouri, również w południowym Libanie, również zostało zbombardowane, co zmusiło rodziny do ucieczki. Kontynuuj czytanie..."
     },
     {
-      "title": "SpaceX przyciąga nabywców detalicznych po spadku akcji po wynikach finansowych – Reuters",
+      "title": "SpaceX przyciąga nabywców detalicznych po slajdzie dotyczącym wyników po zarobkach – reuters.com",
       "url": "https://www.reuters.com/business/media-telecom/spacex-attracts-retail-buyers-after-post-earnings-share-slide-2026-08-05/",
       "date": "2026-08-05T16:30:58Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "SpaceX przyciąga nabywców detalicznych po udostępnieniu slajdu po zarobkach Reuters."
+      "summary": "SpaceX przyciąga nabywców detalicznych po udostępnieniu slajdu po zarobkach na stronie reuters.com."
     },
     {
       "title": "Szef producenta dronów został ciężko ranny w wyniku bomby samochodowej w Rosji",
@@ -577,7 +585,7 @@
       "date": "2026-08-05T16:26:40Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Próba zabójstwa pokazuje zdolność Ukrainy do kontynuowania tajnych operacji w głębi terytorium Rosji Szef wiodącego rosyjskiego producenta dronów został ciężko ranny w wyniku wybuchu bomby w samochodzie niedaleko Jekaterynburga. Jest to prawdopodobnie ostatnia z serii prób zamachu wymierzonych w osoby powiązane z wojną toczącą się na Ukrainie. Władimir Tkaczuk, założyciel prywatnego producenta dronów Uraldronzavod, został w środę przewieziony na intensywną terapię po eksplozji bomby podłożonej pod jego mercedesem – według rosyjskich władz media państwowe, powołując się na służby ratunkowe. W eksplozji zginął jego ochroniarz. Kontynuuj czytanie..."
     },
     {
       "title": "Robot do usuwania bomb uruchomiony po tym, jak na niemieckim lotnisku znaleziono drona przewożącego materiały wybuchowe",
@@ -604,12 +612,12 @@
       "summary": "Jego zwycięstwo w Michigan oznacza, że ​​w listopadzie walka o wysoką stawkę będzie testem popularności lewicowego kandydata w okresie wahań."
     },
     {
-      "title": "EKSKLUZYWNIE: dyrektor generalny JPMorgan, Dimon, kieruje nowym międzybranżowym przedsięwzięciem mającym na celu walkę z zagrożeniami związanymi ze sztuczną inteligencją – Reuters",
+      "title": "EKSKLUZYWNIE: dyrektor generalny JPMorgan, Dimon, kieruje nowym międzybranżowym przedsięwzięciem mającym na celu walkę z zagrożeniami związanymi ze sztuczną inteligencją – reuters.com",
       "url": "https://www.reuters.com/world/jpmorgan-ceo-dimon-leads-new-cross-industry-effort-tackle-ai-risks-2026-08-05/",
       "date": "2026-08-05T15:53:56Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "EKSKLUZYWNIE: dyrektor generalny JPMorgan, Dimon, kieruje nowym międzybranżowym przedsięwzięciem mającym na celu walkę z zagrożeniami związanymi ze sztuczną inteligencją Reuters."
+      "summary": "EKSKLUZYWNIE: dyrektor generalny JPMorgan, Dimon, kieruje nowym międzybranżowym przedsięwzięciem mającym na celu walkę z zagrożeniami związanymi ze sztuczną inteligencją reuters.com."
     },
     {
       "title": "Niemcy badają drona przewożącego „urządzenie wybuchowe” w pobliżu ukraińskiego samolotu na ruchliwym lotnisku cargo – tak się stało",
@@ -620,12 +628,12 @@
       "summary": "Niemieccy prokuratorzy, w tym jednostki zajmujące się przeciwdziałaniem ekstremizmowi i zapobieganiu terroryzmowi, przejmują dochodzenie w sprawie incydentu w Lipsku Dyrektor generalny Grupy DHL Tobias Meyer powiedział, że niemiecka firma logistyczna bada nocny incydent, który obejmował również zderzenie obiektu z jednym z jej samolotów w pobliżu Lipska. „Mamy plany na wypadek takich przypadków i postaramy się upewnić, że wpływ na naszych klientów będzie jak najmniejszy” – powiedział Meyer podczas przesłuchania Wyniki kwartalne zostaną ogłoszone dziś rano, podał Reuters. Kontynuuj czytanie..."
     },
     {
-      "title": "Meta przeprasza Indie za ograniczenie stanowiska premiera Modiego – Reuters",
+      "title": "Meta przeprasza Indie za ograniczenie postu premiera Modiego – reuters.com",
       "url": "https://www.reuters.com/world/india/meta-apologises-india-restricting-pm-modis-post-2026-08-05/",
       "date": "2026-08-05T15:11:51Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Meta przeprasza Indie za ograniczenie postu premiera Modiego Reuters."
+      "summary": "Meta przeprasza Indie za ograniczenie publikacji postu premiera Modiego na stronie reuters.com."
     },
     {
       "title": "Prawie 1500 nieruchomości zakupionych w ramach pierwszego w Australii programu depozytów 5% dla nabywców domów zamieniło się w inwestycje",
@@ -649,7 +657,7 @@
       "date": "2026-08-05T14:58:41Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Jacob Zuma został sfotografowany z biznesmenem rzekomo w centrum skandalu korupcyjnego w Republice Południowej Afryki."
     },
     {
       "title": "Szef ONZ ds. praw zaniepokojony wzrostem liczby egzekucji w Iranie od marca",
@@ -697,7 +705,7 @@
       "date": "2026-08-05T11:19:42Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Każdy, kto pracuje dla zagranicznych mediów, w tym Pakistańczycy, będzie teraz potrzebował pozwolenia na relacjonowanie wydarzeń z dowolnego miejsca poza trzema głównymi miastami."
     },
     {
       "title": "Dlaczego niektórzy naukowcy są podekscytowani faktem, że rakieta SpaceX uderzyła w Księżyc",
@@ -724,7 +732,7 @@
       "summary": "Sharif Ahmadzai, lat 26, jest przetrzymywany w związku ze śmiercią Elisabeth Ross z Edynburga."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Najlepszy uniwersytet w Meksyku nakazuje 58 000 studentów ponowne przystąpienie do egzaminu wstępnego po podejrzeniu ściągania",
       "url": "https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal",
       "date": "2026-08-05T09:00:15Z",
       "source": "The Guardian",
@@ -748,15 +756,7 @@
       "summary": "Minister energii twierdzi, że australijskie gospodarstwa domowe i niezawodność energii będą chronione przez nowe ustawodawstwo federalne. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Minister energii Chris Bowen twierdzi, że rząd federalny uchyli rządy stanowe, które sprzeciwiają się nowym krajowym przepisom dotyczącym centrów danych, wprowadzając ustawodawstwo Wspólnoty zmuszające nowe centra danych AI do zasilania energią odnawialną i zakazujące tych zasilanych gazem. Bowen powiedział, że spodziewa się swoich odpowiedników w Queensland i na Terytorium Północnym, którzy protestowali przeciwko nowym przepisom federalnym podczas spotkaniu w zeszłym tygodniu – nie zgodził się z tym posunięciem, ale stwierdził, że rząd Albanii jest zaangażowany we wspomaganie rewolucji sztucznej inteligencji energią odnawialną. Kontynuuj czytanie..."
     },
     {
-      "title": "El Niño może doprowadzić do ostrego głodu 50 milionów ludzi przed końcem przyszłego roku",
-      "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
-      "date": "2026-08-05T08:00:13Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Prognozy ONZ ostrzegają przed pogorszeniem się warunków w 45 krajach, w których występuje obecnie poważny brak bezpieczeństwa żywnościowego. Według prognoz szybko rozwijający się system pogodowy El Niño przed końcem przyszłego roku około 50 milionów ludzi najprawdopodobniej dotknie dotkliwy głód. Dochodzi do tego fakt, że setki milionów ludzi już boryka się z niebezpiecznym poziomem głodu z powodu lat suszy w niektórych częściach Afryki i presji na ceny żywności wywołanej wojną w Iranie. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Policja dokonała nalotu na siedzibę Starbucks w Korei w związku z fiaskiem „Dnia czołgu”.",
       "url": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-05T07:04:45Z",
       "source": "BBC News",
@@ -822,7 +822,7 @@
       "summary": "W afrykańskich centrach technologicznych programiści wybierają tanie, swobodnie dostępne modele sztucznej inteligencji w Chinach zamiast potężniejszych modeli amerykańskich."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Rekordowa fala upałów w Korei Południowej powoduje odwołanie meczów baseballowych",
       "url": "https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html",
       "date": "2026-08-05T18:18:56Z",
       "source": "The New York Times",
@@ -894,7 +894,7 @@
       "summary": "Po obiecaniu, że wyciągnie wnioski ze swojej roli w nieudanej „Super Lidze”, która wywołała gniew fanów, bank z Wall Street uwikłał się w najnowszy krach FIFA."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Kryzys migracyjny ujawnia ogromne różnice między Ceutą a jej marokańskim sąsiadem",
       "url": "https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html",
       "date": "2026-08-05T13:09:18Z",
       "source": "The New York Times",
@@ -910,7 +910,7 @@
       "summary": "Podróż, która obejmie także Urugwaj i Argentynę, będzie dla amerykańskiego papieża swego rodzaju powrotem do domu."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Jak bycie cool sprawia, że ​​Haga jest popularnym miejscem na wakacje",
       "url": "https://www.nytimes.com/2026/08/05/world/europe/hague-heat-coolcation.html",
       "date": "2026-08-05T12:37:24Z",
       "source": "The New York Times",
@@ -931,7 +931,7 @@
       "date": "2026-08-05T08:28:33Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Organy te będą grać jeden utwór do roku 2640. To na nowo definiuje, jak wolno można odtwarzać muzykę. AP News."
     },
     {
       "title": "W strzelaninie In-N-Out w Idaho zginęły trzy osoby, w tym mężczyzna znany z pomagania innym w wytrzeźwieniu – AP News",
@@ -955,7 +955,7 @@
       "date": "2026-08-05T00:58:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Netanjahu mówi, że Izrael nie będzie się wycofywał ze Strefy Gazy, dopóki Hamas nie zostanie całkowicie rozbrojony AP News."
     },
     {
       "title": "Akcje w USA biją rekordy, w miarę jak zyski Palantira i innych spółek rosną, a ceny ropy spadają – AP News",
@@ -1016,6 +1016,14 @@
       "summary": "Bitwa o Thorgala. Sieć grzmi, bo Polska promuje czarną owcę branży gier."
     },
     {
+      "title": "Kod Muse i Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "date": "2026-08-05T19:15:52Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2 Adres URL komentarzy: https://news.ycombinator.com/item?id=49187575 Punkty: 6 # Komentarze: 1."
+    },
+    {
       "title": "Netflix w 4K w Google Chrome. Jest ważne ograniczenie",
       "url": "https://www.benchmark.pl/netflix-w-4k-w-google-chrome-jest-wazne-ograniczenie-7315162087274560a",
       "date": "2026-08-05T19:09:00Z",
@@ -1024,12 +1032,20 @@
       "summary": "Netflix uruchomił odtwarzanie Ultra HD (2160p) w Google Chrome 117, co dla wielu użytkowników oznacza możliwość oglądania 4K bez przełączania się na Microsoft Edge. Na razie nowość dotyczy tylko komputerów z systemem Windows, a do tego ma istotny \"haczyk\" związany z jakością obrazu."
     },
     {
+      "title": "Sula: Serwer protokołu Gemini napisany w Scryer Prolog",
+      "url": "https://sagredo.dev/projects/sula/",
+      "date": "2026-08-05T18:52:58Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://sagredo.dev/projects/sula/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49187259 Punkty: 4 # Komentarze: 0."
+    },
+    {
       "title": "Zeda DeltaDB",
       "url": "https://zed.dev/deltadb",
       "date": "2026-08-05T18:52:54Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://zed.dev/deltadb Adres URL komentarzy: https://news.ycombinator.com/item?id=49187256 Punkty: 30 # Komentarze: 4."
+      "summary": "Adres URL artykułu: https://zed.dev/deltadb Adres URL komentarzy: https://news.ycombinator.com/item?id=49187256 Punkty: 69 # Komentarze: 11."
     },
     {
       "title": "Born Against, czyli dlaczego społeczności programistów hobbystycznych są przeciwne używaniu LLM",
@@ -1037,7 +1053,7 @@
       "date": "2026-08-05T18:37:49Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://blog.fogus.me/llm/born-against.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49187061 Punkty: 32 # Komentarze: 18."
+      "summary": "Adres URL artykułu: https://blog.fogus.me/llm/born-against.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49187061 Punkty: 49 # Komentarze: 33."
     },
     {
       "title": "Źródło: Yunfeng Capital, firma PE, której współzałożycielem jest Jack Ma, zainwestowała ~30 mln dolarów w Corgi, start-up zajmujący się technologią AI, prowadząc rundę, w której podobno wyceniono Corgi na 4 miliardy dolarów (Business Insider)",
@@ -1048,12 +1064,20 @@
       "summary": "Business Insider: Źródło: Yunfeng Capital, firma PE, której współzałożycielem jest Jack Ma, zainwestowała ~30 mln dolarów w Corgi, start-up zajmujący się technologią AI, prowadząc rundę, w której podobno wyceniono Corgi na 4 miliardy dolarów &mdash; Jacek wrócił. &mdash; Firma private equity chińskiego miliardera Jacka Ma w tajemnicy poprowadziła ostatnią rundę finansowania Corgi &hellip;."
     },
     {
+      "title": "Pokaż HN: Hacker News ze zmniejszonym priorytetem dla treści opartych na sztucznej inteligencji",
+      "url": "https://sprinklz.io/public/nncrnx74ykir",
+      "date": "2026-08-05T18:19:10Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Adres URL artykułu: https://sprinklz.io/public/nncrnx74ykir Adres URL komentarzy: https://news.ycombinator.com/item?id=49186767 Punkty: 7 # Komentarze: 1."
+    },
+    {
       "title": "Jak wynika z ujawnień, sprzedaż sztucznej inteligencji Microsoftu pochodzi głównie z OpenAI",
       "url": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
       "date": "2026-08-05T18:19:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show Adres URL komentarzy: https://news.ycombinator.com/item?id=49186766 Punkty: 30 # Komentarze: 5."
+      "summary": "Adres URL artykułu: https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show Adres URL komentarzy: https://news.ycombinator.com/item?id=49186766 Punkty: 36 # Komentarze: 6."
     },
     {
       "title": "Pokonanie GPT-5.6 Sol przy pobieraniu 100 razy tańszymi modelami otwartymi",
@@ -1061,15 +1085,7 @@
       "date": "2026-08-05T18:18:56Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Adres URL komentarzy: https://news.ycombinator.com/item?id=49186762 Punkty: 37 # Komentarze: 5."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://arxiv.org/abs/2510.01395",
-      "date": "2026-08-05T18:17:03Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://arxiv.org/abs/2510.01395 Adres URL komentarzy: https://news.ycombinator.com/item?id=49186720 Punkty: 13 # Komentarze: 1."
+      "summary": "Adres URL artykułu: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Adres URL komentarzy: https://news.ycombinator.com/item?id=49186762 Punkty: 52 # Komentarze: 11."
     },
     {
       "title": "Tych procesorów AMD nie kupisz w sklepie. Ale to one zadecydują o twoim komforcie",
@@ -1094,22 +1110,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Zapowiadana od dłuższego czasu rewolucja w ekosystemie Google wreszcie staje się faktem."
-    },
-    {
-      "title": "Atlassian Rovo eksfiltruje dane, omijając kontrole",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "date": "2026-08-05T17:23:25Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data Adres URL komentarzy: https://news.ycombinator.com/item?id=49185983 Punkty: 48 # Komentarze: 11."
-    },
-    {
-      "title": "Phisherzy porywają legalną infrastrukturę chmurową",
-      "url": "https://securelist.com/cloud-platforms-in-phishing/120832/",
-      "date": "2026-08-05T17:20:25Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://securelist.com/cloud-platforms-in-phishing/120832/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49185931 Punkty: 21 # Komentarze: 5."
     },
     {
       "title": "Reddit rozszerza swój test Rules Hub, zestawu narzędzi korzystających z LLM, aby pomóc moderatorom zarządzać swoimi społecznościami, i planuje pełną premierę jeszcze w tym roku (Jay Peters/The Verge)",
@@ -1360,7 +1360,7 @@
       "summary": "Użytkownicy Spotify skarżą się na wyraźne spowolnienia, zacinający się interfejs i długie oczekiwanie na wykonanie podstawowych czynności. Artykuł Spotify działa coraz gorzej? Użytkownicy alarmują o poważnym problemie pochodzi z serwisu INSTALKI."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Przekraczanie granic: Olto firmy Infinite Machine to ledwie rower",
       "url": "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/",
       "date": "2026-08-05T11:00:26Z",
       "source": "Ars Technica",
@@ -1487,7 +1487,7 @@
       "date": "2026-08-05T14:27:30Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "HashiCorp, Veeam i Django Software Foundation załatały 11 luk w zabezpieczeniach serwerów Terraform MCP, konsoli Veeam Service Provider Console i Django. Trzy najpoważniejsze: nieuwierzytelniona luka w konsoli Veeam, która przekazuje dane uwierzytelniające zarządzanego agenta, ocena 9,5. Luka w serwerze MCP firmy HashiCorp obejmująca wielu dzierżawców, która umożliwia ponowne wykorzystanie tokena Terraform jednego użytkownika dla późniejszych użytkowników."
     },
     {
       "title": "Przychody SpaceX rosną błyskawicznie, a wydatki na sztuczną inteligencję spalają miliardy",
@@ -1495,7 +1495,7 @@
       "date": "2026-08-05T14:15:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Inwestorzy nie zgadzają się, gdy kwartalne nakłady inwestycyjne rosną do 18,4 miliarda dolarów."
     },
     {
       "title": "Trojanizowane pakiety npm wykorzystują taktykę NullReceiver do dekodowania adresu IP C2 z Blockchain",
@@ -1940,12 +1940,28 @@
       "summary": "Osoby, które skończyły 56 lat od 1 marca 2027 r. dostaną nawet 2063,14 zł brutto co miesiąc Forsal.pl."
     },
     {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/tagi/adopcja-psa",
+      "date": "2026-08-05T15:20:53Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
+    },
+    {
       "title": "W poszukiwaniu sygnałów - 5 sierpnia 2026 - Nowe maksima na indeksach, WIG20 atakuje maksima z 2007",
       "url": "https://strefainwestorow.pl/blog/w-poszukiwaniu-sygnalow/w-poszukiwaniu-sygnalow-5-sierpnia-2026-nowe-maksima-na-indeksach",
       "date": "2026-08-05T15:17:14Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "W poszukiwaniu sygnałów - 5 sierpnia 2026 - Nowe maksima na indeksach, WIG20 atakuje maksima z 2007 Ewa śr., 05.08.2026 Wstęp Indeksy GPW, Ring spekulanta, Spółki wcześniej sygnalizowane, Obserwowane wykresy Kącik życzeń W poszukiwaniu sygnałów - 5 sierpnia 2026 - Nowe maksima na indeksach, WIG20 atakuje maksima z 2007 Ewa."
+    },
+    {
+      "title": "Unibep z kontraktem na obwodnicę Starogardu Gdańskiego - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149853,unibep-z-kontraktem-na-obwodnice-starogardu-gdanskiego",
+      "date": "2026-08-05T14:16:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Unibep z kontraktem na obwodnicę Starogardu Gdańskiego BiznesRadar."
     },
     {
       "title": "Amerykanie przejęli wielką plażę w Polsce. Zbudują na niej elektrownię jądrową - Forsal.pl",
@@ -2034,14 +2050,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "ALIOR [ALR] stockwatch.pl."
-    },
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/forsal-dla-dgp;wywiad,136",
-      "date": "2026-08-05T11:42:48Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Rosjanie mogą tylko zgrzytać zębami. Stracili największego klienta na myśliwce Su-57 - Forsal.pl",
@@ -2156,14 +2164,6 @@
       "summary": "Aktywność na rynku akcji nie słabie BiznesRadar."
     },
     {
-      "title": "Newag dostarczy Województwu Podlaskiemu hybrydowe zespoły trakcyjne za 95,8 mln zł - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149832,newag-dostarczy-wojewodztwu-podlaskiemu-hybrydowe-zespoly-trakcyjne-za-95-8-mln-zl",
-      "date": "2026-08-05T07:19:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Newag dostarczy Województwu Podlaskiemu hybrydowe zespoły trakcyjne za 95,8 mln zł BiznesRadar."
-    },
-    {
       "title": "Green Lanes wchodzi w fazę skalowania. Głównym rynkiem Polska, ale ekspansja obejmuje całą Europę",
       "url": "https://strefainwestorow.pl/spolki/greenlanes-strumber-plany-inwestycje-gielda-meble",
       "date": "2026-08-05T07:18:18Z",
@@ -2236,6 +2236,14 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Trafienia w dwa miasta to najkrwawsze zamachy bombowe od początku czerwcowego zawieszenia broni W izraelskim nalocie na południowy Liban zginęła jedna osoba, a 11 zostało rannych – podało libańskie ministerstwo zdrowia, co było jednym z najbardziej śmiercionośnych zamachów bombowych w Izraelu od początku czerwcowego zawieszenia broni. Izrael przeprowadził nalot w mieście Tebnine w południowym Libanie, uderzając w cmentarz – podało libańskie ministerstwo zdrowia. Stwierdzono, że miasto al-Mansouri, również w południowym Libanie, również zostało zbombardowane, co zmusiło rodziny do ucieczki. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Szef producenta dronów został ciężko ranny w wyniku bomby samochodowej w Rosji",
+      "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
+      "date": "2026-08-05T16:26:40Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Próba zabójstwa pokazuje zdolność Ukrainy do kontynuowania tajnych operacji w głębi terytorium Rosji Szef wiodącego rosyjskiego producenta dronów został ciężko ranny w wyniku wybuchu bomby w samochodzie niedaleko Jekaterynburga. Jest to prawdopodobnie ostatnia z serii prób zamachu wymierzonych w osoby powiązane z wojną toczącą się na Ukrainie. Władimir Tkaczuk, założyciel prywatnego producenta dronów Uraldronzavod, został w środę przewieziony na intensywną terapię po eksplozji bomby podłożonej pod jego mercedesem – według rosyjskich władz media państwowe, powołując się na służby ratunkowe. W eksplozji zginął jego ochroniarz. Kontynuuj czytanie..."
     }
   ],
   "map_features": [
@@ -2252,7 +2260,7 @@
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Izraelskie wojsko uderza w południowy Liban po ostrzeżeniu o ewakuacji przesłanym do wioski Reuters.",
+      "description": "Izraelskie wojsko uderza w południowy Liban po ostrzeżeniu o ewakuacji przesłanym do wioski reuters.com.",
       "url": "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-village-southern-lebanon-2026-08-05/"
     },
     {
@@ -2292,7 +2300,7 @@
       "lng": -66.59,
       "type": "conflict",
       "region": "Wenezuela",
-      "description": "Indie przyglądają się Wenezueli blokującej operatorstwo; odzyskuje rosyjski udział w Sachalinie-1 Reuters.",
+      "description": "Indie przyglądają się Wenezueli blokującej operatorstwo; odzyskuje udziały Rosji w Sachalin-1 reuters.com.",
       "url": "https://www.reuters.com/business/energy/india-eyes-venezuela-blocks-operatorship-regains-russias-sakhalin-1-stake-2026-08-05/"
     },
     {
@@ -2492,8 +2500,8 @@
       "lng": 31.48,
       "type": "critical",
       "region": "Ukraina",
-      "description": "Producent rosyjskich dronów Władimir Tkaczuk został poważnie ranny w wybuchu samochodu w okolicach Jekaterynburga na Uralu - przekazały media.",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejny-tajemniczy-zamach-w-Rosji-Producent-dronow-Upyr-walczy-o-zycie-po-wybuchu-9178470.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci"
+      "description": "Próba zabójstwa pokazuje zdolność Ukrainy do kontynuowania tajnych operacji w głębi terytorium Rosji Szef wiodącego rosyjskiego producenta dronów został ciężko ranny w wyniku wybuchu bomby w samochodzie niedaleko Jekaterynburga.",
+      "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine"
     },
     {
       "lat": 61.0,
@@ -2508,7 +2516,7 @@
       "lng": 35.5,
       "type": "conflict",
       "region": "Liban",
-      "description": "Izraelskie wojsko uderza w południowy Liban po ostrzeżeniu o ewakuacji przesłanym do wioski Reuters.",
+      "description": "Izraelskie wojsko uderza w południowy Liban po ostrzeżeniu o ewakuacji przesłanym do wioski reuters.com.",
       "url": "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-village-southern-lebanon-2026-08-05/"
     },
     {
@@ -2542,6 +2550,11 @@
       "score": 100,
       "reasons": [
         {
+          "title": "Szef producenta dronów został ciężko ranny w wyniku bomby samochodowej w Rosji",
+          "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
+          "source": "The Guardian"
+        },
+        {
           "title": "Wojna, która toczy się nad Rosją i Ukrainą",
           "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
           "source": "The New York Times"
@@ -2550,38 +2563,12 @@
           "title": "Obejrzyj: „Najstraszniejsza noc”, gdy Ukrainie nie udało się przechwycić rosyjskiego ataku",
           "url": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
           "source": "BBC News"
-        },
-        {
-          "title": "Po śmiercionośnym ataku w Kijowie Ukraina ostrzega, że ​​brak przechwytywaczy kosztuje życie",
-          "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News"
-        }
-      ]
-    },
-    {
-      "name": "Iran",
-      "score": 73,
-      "reasons": [
-        {
-          "title": "El Niño może doprowadzić do ostrego głodu 50 milionów ludzi przed końcem przyszłego roku",
-          "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Houthi grożą rozszerzeniem ataków na Morzu Czerwonym i domagają się ataku na saudyjski tankowiec",
-          "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Kryzys na Bliskim Wschodzie na żywo: Iran i Oman zgadzają się co do współrzędnych trasy przez cieśninę Ormuz, mówi irańskie ministerstwo spraw zagranicznych",
-          "url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
-          "source": "The Guardian"
         }
       ]
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 45,
+      "score": 29,
       "reasons": [
         {
           "title": "Izrael uderza w południowy Liban, zabijając jedną osobę i raniąc 11",
@@ -2597,7 +2584,7 @@
     },
     {
       "name": "Liban",
-      "score": 27,
+      "score": 18,
       "reasons": [
         {
           "title": "Izrael uderza w południowy Liban, zabijając jedną osobę i raniąc 11",
@@ -2607,8 +2594,24 @@
       ]
     },
     {
-      "name": "Jemen",
+      "name": "Iran",
       "score": 18,
+      "reasons": [
+        {
+          "title": "Houthi grożą rozszerzeniem ataków na Morzu Czerwonym i domagają się ataku na saudyjski tankowiec",
+          "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Kryzys na Bliskim Wschodzie na żywo: Iran i Oman zgadzają się co do współrzędnych trasy przez cieśninę Ormuz, mówi irańskie ministerstwo spraw zagranicznych",
+          "url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Jemen",
+      "score": 12,
       "reasons": [
         {
           "title": "Houthi grożą rozszerzeniem ataków na Morzu Czerwonym i domagają się ataku na saudyjski tankowiec",
@@ -2805,51 +2808,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25385.08,
+      25384.05,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26536.38,
+      26535.31,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26681.68,
+      26680.61,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      26923.88,
+      26922.8,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27552.51,
+      27551.4,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27588.14,
+      27587.03,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27830.08,
+      27828.96,
       27354.94,
       27400.36,
       27412.11,
-      28227.01,
+      28225.87,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27495.94,
+      27494.83,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27673.64,
+      27672.53,
       27686.17,
       27404.78,
       27351.97,
@@ -2858,7 +2861,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27385.27,
+      27384.16,
       27930.04,
       28234.04,
       28218.36,
@@ -2867,25 +2870,25 @@
       28294.39,
       28203.83,
       28555.17,
-      28209.62,
+      28208.48,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27771.32,
+      27770.2,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27601.1,
+      27599.99,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      27890.59,
+      27889.47,
       28457.79,
-      28809.64,
-      28817.61
+      28808.48,
+      28816.37
     ],
     "currency": "PLN"
   }
