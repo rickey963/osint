@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-08-05T08:31:57Z",
+  "last_updated": "2026-08-05T08:32:45Z",
   "poland": [
+    {
+      "title": "Żar leje się z nieba, wysyp alertów. Możliwy nowy rekord",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-08-05/zar-z-nieba/",
+      "date": "2026-08-05T08:29:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Nawet do 40 st. C na południowym wschodzie kraju - ostrzegł w środowym w komunikacie IMGW. Instytut wydał alerty przed upałem dla niemal całego kraju."
+    },
+    {
+      "title": "Najwyższy alert przed upałem. W części Polski nawet 40 st. Celsjusza [MAPA]",
+      "url": "https://businessinsider.com.pl/wiadomosci/upaly-pogoda-temperatury-w-polsce-w-srode-5-sierpnia-zobacz-gdzie-bedzie-najcieplej/ww2ew65",
+      "date": "2026-08-05T08:28:56Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Ostrzeżenia przed upałem dla niemal całej Polski wydał Instytut Meteorologii i Gospodarki Wodnej (IMGW). Na południowym wschodzie termometry wskażą nawet 40 st. Celsjusza."
+    },
     {
       "title": "Setki milionów zł z UE na mieszkania społeczne. W Polsce powstaną tysiące lokali",
       "url": "https://businessinsider.com.pl/nieruchomosci/nowy-program-mieszkaniowy-w-polsce-wschodniej-czynsze-nizsze-od-rynkowych/lnm3qwg",
@@ -186,14 +202,6 @@
       "summary": "Zgodnie z hiszpańskim prawem dorośli migranci mogą ubiegać się o ochronę międzynarodową i jeśli jej nie otrzymają, są wydalani z kraju. Państwo ma jednak obowiązek przejąć opiekę nad małoletnimi migrantami, którzy nie mają opiekunów prawnych. A z tym jest problem."
     },
     {
-      "title": "Młodzi Amerykanie wracają do rodziców. Nie stać ich na własne mieszkania",
-      "url": "https://www.rp.pl/spoleczenstwo/art44942421-mlodzi-amerykanie-wracaja-do-rodzicow-nie-stac-ich-na-wlasne-mieszkania",
-      "date": "2026-08-05T06:41:47Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Wielu młodych Amerykanów w wieku poniżej 35 lat wprowadza się z powrotem do rodziców. Nie stać ich bowiem na własne mieszkanie, bądź chcą zaoszczędzić pieniądze w obliczu rosnących kosztów życia."
-    },
-    {
       "title": "S7 zablokowana. Karambol na obwodnicy Krakowa - Polskie Radio 24",
       "url": "https://polskieradio24.pl/polska/s7-zablokowana-karambol-na-obwodnicy-krakowa",
       "date": "2026-08-05T06:41:06Z",
@@ -280,14 +288,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Najbardziej prestiżowy indeks warszawskiej giełdy, uważnie obserwowany przez zagranicznych inwestorów, znacząco się zmienił od poprzedniego rekordu z 2007 r. Część dawnych liderów zniknęła (np. TVN)."
-    },
-    {
-      "title": "\"Jesteśmy daleko w lesie\". Odsłaniamy kulisy negocjacji w sprawie elektrowni jądrowej",
-      "url": "https://businessinsider.com.pl/gospodarka/pierwsza-polska-elektrownia-jadrowa-negocjacje-z-amerykanami-utknely/qzcp1tp",
-      "date": "2026-08-05T05:17:01Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Rośnie ryzyko fiaska rządowych planów w sprawie pierwszej elektrowni jądrowej w Polsce. — Na dziś wygląda na to, że negocjacje umowy mogą przeciągnąć się na przyszły rok — mówi Business Insider Polska źródło zbliżone do rządu. Zdaniem naszego innego rozmówcy, taki scenariusz oznaczałby \"poważne turbulencje dla projektu w założonym modelu\"."
     },
     {
       "title": "Zmasowany atak Rosjan na Kijów. Wiele ofiar i rannych",
@@ -404,9 +404,17 @@
   ],
   "world_security": [
     {
+      "title": "W rosyjskim ataku zginęło co najmniej 17 osób, jak twierdzi Zełenski, przechwytywacze mogły uratować życie",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-05T08:29:40Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Ministerstwo obrony Rosji oświadczyło, że uderzył w węzły logistyczne i centra dostaw w Kijowie i okolicach."
+    },
+    {
       "title": "Afgański bokser stanie przed sądem w związku ze śmiercią Szkotki",
       "url": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-05T08:21:53Z",
+      "date": "2026-08-05T08:28:32Z",
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Sharif Ahmadzai, lat 26, jest przetrzymywany w związku ze śmiercią Elisabeth Jane Ross z Edynburga."
@@ -425,7 +433,7 @@
       "date": "2026-08-05T08:09:25Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Minister energii twierdzi, że australijskie gospodarstwa domowe i niezawodność energii będą chronione przez nowe ustawodawstwo federalne Minister energii Chris Bowen mówi, że rząd federalny unieważni rządy stanowe, które sprzeciwiają się nowym krajowym przepisom dotyczącym centrów danych, w ramach ustawodawstwa Wspólnoty wymuszającego zasilanie nowych centrów danych AI na energię odnawialną i zakazującego tych zasilanych gazem. Bowen powiedział, że spodziewa się, że jego odpowiednicy w Queensland i Terytorium Północnym – którzy na spotkaniu w zeszłym tygodniu protestowali przeciwko nowym przepisom federalnym – będą niezadowoleni z tego posunięcia, ale stwierdził rząd Albanii zobowiązała się do zasilania rewolucji sztucznej inteligencji energią odnawialną. Kontynuuj czytanie..."
+      "summary": "Minister energii twierdzi, że australijskie gospodarstwa domowe i niezawodność energii będą chronione przez nowe ustawodawstwo federalne Minister energii Chris Bowen mówi, że rząd federalny unieważni rządy stanowe, które sprzeciwiają się nowym krajowym przepisom dotyczącym centrów danych, w ramach ustawodawstwa Wspólnoty wymuszającego zasilanie nowych centrów danych AI na energię odnawialną i zakazującego tych zasilanych gazem. Bowen powiedział, że spodziewa się, że jego odpowiednicy w Queensland i na Terytorium Północnym – którzy na spotkaniu w zeszłym tygodniu protestowali przeciwko nowym przepisom federalnym – będą niezadowoleni z tego posunięcia, ale stwierdził rząd Albanii zobowiązała się do zasilania rewolucji sztucznej inteligencji energią odnawialną. Kontynuuj czytanie..."
     },
     {
       "title": "El Niño może doprowadzić do ostrego głodu 50 milionów ludzi przed końcem przyszłego roku",
@@ -452,14 +460,6 @@
       "summary": "Sarah Henderson twierdzi, że ustawa ignoruje zachęty do hazardu, jednocząc partie i niezależnych przeciwko kontrowersyjnym przepisom. Śledź nasz blog z aktualnościami z Australii, aby uzyskać najnowsze aktualizacje. Otrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Partia Pracy będzie zmuszona wprowadzić poważne zmiany w planowanym zwalczaniu reklam hazardu online, ponieważ Koalicja, Zieloni i niezależni żądają surowszych zasad, aby firmy bukmacherskie nie oferowały hojnych zachęt oraz dalszych ograniczeń dotyczących reklam w telewizji. Po dwudniowym dochodzeniu zawierającym sensacyjne dowody, że firmy hazardowe rzekomo dostarczyły nielegalne narkotyków i dostępu do prostytutek, aby utrzymać problematycznych graczy w zakładach bukmacherskich, Koalicja potwierdziła w środę po południu, że będzie szukać „kluczowych poprawek”, zanim zgodzi się poprzeć ustawodawstwo rządowe. Kontynuuj czytanie..."
     },
     {
-      "title": "W rosyjskim ataku zginęło co najmniej 17 osób, jak twierdzi Zełenski, przechwytywacze mogły uratować życie",
-      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-05T07:48:02Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Szef administracji wojskowej Kijowa powiedział, że Rosja „po raz kolejny masowo atakuje” region wokół miasta."
-    },
-    {
       "title": "W teście na najlepszy australijski detergent do prania pierwsze miejsce zajęły Aldi i Omo",
       "url": "https://www.theguardian.com/australia-news/2026/aug/05/test-for-australias-best-laundry-detergent-sees-aldi-and-omo-tied-for-first-place",
       "date": "2026-08-05T07:46:42Z",
@@ -476,12 +476,12 @@
       "summary": "Ten blog został już zamknięty Wersja próbna Alana Jonesa: aktualizacje na żywoOtrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami Prawie każdy dom sprzedany w pierwszych sześciu miesiącach roku przyniósł zysk Zdecydowana większość właścicieli domów sprzedaje swoje nieruchomości za więcej, niż je kupiła, nawet gdy ceny domów gwałtownie spadają, jak podaje AAP. Kontynuuj czytanie..."
     },
     {
-      "title": "Jemeńscy Houthi twierdzą, że zaatakowali saudyjski tankowiec na Morzu Czerwonym – Reuters",
+      "title": "Jemeńscy Houthi twierdzą, że zaatakowali saudyjski tankowiec na Morzu Czerwonym – reuters.com",
       "url": "https://www.reuters.com/world/middle-east/yemens-houthis-say-they-attacked-saudi-oil-tanker-red-sea-2026-08-05/",
       "date": "2026-08-05T07:27:57Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Jemeńscy Houthi twierdzą, że zaatakowali saudyjski tankowiec na Morzu Czerwonym Reuters."
+      "summary": "Jemeńscy Houthi twierdzą, że zaatakowali saudyjski tankowiec na Morzu Czerwonym reuters.com."
     },
     {
       "title": "Daniel Andrews broni działań, jakie po opublikowaniu raportu Ibaca nazywają Partię Pracy „rządem gangsterskim”.",
@@ -508,20 +508,20 @@
       "summary": "Spółka przejęta w ramach transakcji z udziałem Affinity Partners, firmy prowadzonej przez zięcia Donalda Trumpa Jareda Kushnera Electronic Arts, producenta gier wideo takich jak The Sims, Madden NFL i Battlefield, została kupiona przez fundusz majątkowy Arabii Saudyjskiej i grupę inwestorów za 55 miliardów dolarów (41 miliardów funtów). Firma ogłosiła zakończenie transakcji we wtorek wieczorem, zaledwie kilka dni po zatwierdzeniu przez UE, potrzebne było ostateczne zielone światło regulacyjne. Kontynuuj czytanie..."
     },
     {
-      "title": "Uznane europejskie firmy technologiczne okazały się nieoczekiwanymi zwycięzcami w zakresie sztucznej inteligencji – Reuters",
+      "title": "Europejskie firmy technologiczne o ugruntowanej pozycji okazały się nieoczekiwanymi zwycięzcami w zakresie sztucznej inteligencji – reuters.com",
       "url": "https://www.reuters.com/business/media-telecom/europes-established-tech-firms-emerge-unexpected-ai-winners-2026-08-05/",
       "date": "2026-08-05T06:03:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Uznane europejskie firmy technologiczne okazały się nieoczekiwanymi zwycięzcami w dziedzinie sztucznej inteligencji Reuters."
+      "summary": "Europejskie firmy technologiczne o ugruntowanej pozycji okazały się nieoczekiwanymi zwycięzcami w zakresie sztucznej inteligencji reuters.com."
     },
     {
-      "title": "Nowy premier Wielkiej Brytanii Burnham w mediach społecznościowych rzuca wyzwanie dominacji partii populistycznych – Reuters",
+      "title": "Nowy premier Wielkiej Brytanii Burnham w mediach społecznościowych rzuca wyzwanie dominacji partii populistycznych – reuters.com",
       "url": "https://www.reuters.com/world/uk/new-uk-pm-burnham-takes-social-media-challenge-populist-parties-dominance-2026-08-05/",
       "date": "2026-08-05T06:03:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Nowy premier Wielkiej Brytanii Burnham w mediach społecznościowych rzuca wyzwanie dominacji partii populistycznych Reuters."
+      "summary": "Nowy premier Wielkiej Brytanii Burnham w mediach społecznościowych rzuca wyzwanie dominacji partii populistycznych reuters.com."
     },
     {
       "title": "Środowa odprawa: Jak dezinformacja i zaostrzona polityka imigracyjna zamieniły Ceutę w najnowszy punkt zapalny w Europie",
@@ -532,52 +532,52 @@
       "summary": "W dzisiejszym biuletynie: Miniony tydzień pokazuje, jak szybko obrazy, plotki i prawicowy oportunizm polityczny mogą przyćmić fakty w terenie. Dzień dobry. Szacuje się, że w zeszłym tygodniu około 72 000 migrantów zaczęło przedostawać się do małej hiszpańskiej enklawy na krańcu Maroka. W ciągu 24 godzin większość z nich wróciła do domu."
     },
     {
-      "title": "Meksykański wpływowiec Cesar Gastelum zastrzelony podczas transmisji na żywo – Reuters",
+      "title": "Meksykański wpływowiec Cesar Gastelum zastrzelony podczas transmisji na żywo – reuters.com",
       "url": "https://www.reuters.com/world/americas/mexican-influencer-cesar-gastelum-shot-death-during-livestream-2026-08-05/",
       "date": "2026-08-05T05:31:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Meksykański wpływowiec Cesar Gastelum zastrzelony podczas transmisji na żywo Reuters."
+      "summary": "Meksykański wpływowiec Cesar Gastelum zastrzelony podczas transmisji na żywo na stronie reuters.com."
     },
     {
-      "title": "Singapurski UOB sprzeda dział zarządzania aktywami jednostce Allianz za 434 mln dolarów – Reuters",
+      "title": "Singapurski UOB sprzeda dział zarządzania aktywami jednostce Allianz za 434 mln dolarów – reuters.com",
       "url": "https://www.reuters.com/legal/transactional/singapores-uob-shed-asset-management-arm-4335-million-focus-wealth-management-2026-08-05/",
       "date": "2026-08-05T05:20:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Singapurski UOB sprzeda dział zarządzania aktywami jednostce Allianz za 434 mln dolarów Reuters."
+      "summary": "Singapurski UOB sprzeda dział zarządzania aktywami jednostce Allianz za 434 mln dolarów reuters.com."
     },
     {
-      "title": "Trump twierdzi, że Stany Zjednoczone i Iran prowadzą „bardzo dobre dyskusje” – Reuters",
+      "title": "Trump mówi, że „USA i Iran prowadzą „bardzo dobre dyskusje” – reuters.com",
       "url": "https://www.reuters.com/world/middle-east/us-iran-having-very-good-discussions-trump-says-2026-08-05/",
       "date": "2026-08-05T05:11:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Trump twierdzi, że Stany Zjednoczone i Iran prowadzą „bardzo dobre dyskusje”."
+      "summary": "Trump mówi reuters.com, że Stany Zjednoczone i Iran prowadzą „bardzo dobre dyskusje”."
     },
     {
-      "title": "Stany Zjednoczone kontynuują rozmowy w sprawie rakiety Patriot na Ukrainie, pomimo wątpliwości Trumpa – podają źródła – Reuters",
+      "title": "Stany Zjednoczone kontynuują rozmowy w sprawie rakiety Patriot dla Ukrainy, pomimo wątpliwości Trumpa – podają źródła – reuters.com",
       "url": "https://www.reuters.com/business/aerospace-defense/us-presses-with-ukraine-patriot-missile-talks-sources-say-despite-trumps-doubts-2026-08-05/",
       "date": "2026-08-05T05:02:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Stany Zjednoczone kontynuują rozmowy w sprawie rakiety Patriot na Ukrainie, pomimo wątpliwości Trumpa, podają źródła Reuters."
+      "summary": "Stany Zjednoczone kontynuują rozmowy w sprawie rakiety Patriot dla Ukrainy, pomimo wątpliwości Trumpa, podają źródła reuters.com."
     },
     {
-      "title": "Indyjska spółka Manipal Health debiutuje na rynku, wyceniając sieć szpitali na 9 miliardów dolarów – Reuters",
+      "title": "Indyjska spółka Manipal Health debiutuje na rynku, wyceniając sieć szpitali na 9 miliardów dolarów – reuters.com",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/indias-manipal-health-jumps-105-trading-debut-after-960-million-ipo-2026-08-05/",
       "date": "2026-08-05T04:25:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Indyjska spółka Manipal Health debiutuje na rynku, wyceniając sieć szpitali na 9 miliardów dolarów Reuters."
+      "summary": "Indyjska spółka Manipal Health debiutuje na rynku, wyceniając sieć szpitali na 9 miliardów dolarów reuters.com."
     },
     {
-      "title": "EKSKLUZYWNIE: Północnokoreańska jednostka rakietowa rozmieszczona jest w Rosji na potrzeby wojny na Ukrainie, mówi Kijów – Reuters",
+      "title": "EKSKLUZYWNIE: Północnokoreańska jednostka rakietowa rozmieszczona w Rosji na potrzeby wojny na Ukrainie, podaje Kijów – reuters.com",
       "url": "https://www.reuters.com/business/aerospace-defense/north-korean-missile-unit-deploys-russia-ukraine-war-kyiv-says-2026-08-05/",
       "date": "2026-08-05T04:02:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "EKSKLUZYWNIE: Północnokoreańska jednostka rakietowa rozmieszczona jest w Rosji na potrzeby wojny na Ukrainie, Kijów podaje Reuters."
+      "summary": "EKSKLUZYWNIE: Północnokoreańska jednostka rakietowa rozmieszczona w Rosji na potrzeby wojny na Ukrainie, Kijów podaje reuters.com."
     },
     {
       "title": "Setki obozują w Rzymie podczas fali upałów, gdy rząd Meloniego rozprawia się ze skłotami",
@@ -604,12 +604,12 @@
       "summary": "Sekretarz stanu USA Marco Rubio i sekretarz skarbu Scott Bessent ogłosili postęp w rozmowach umożliwiających wznowienie dostaw."
     },
     {
-      "title": "Wygaśnięcie blokady będzie kolejnym testem apetytu inwestorów na akcje SpaceX – Reuters",
+      "title": "Wygaśnięcie blokady będzie kolejnym testem apetytu inwestorów na akcje SpaceX – reuters.com",
       "url": "https://www.reuters.com/legal/government/lockup-expiry-will-offer-next-test-investor-appetite-spacex-shares-2026-08-05/",
       "date": "2026-08-05T03:39:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Wygaśnięcie blokady będzie kolejnym testem apetytu inwestorów na akcje SpaceX Reuters."
+      "summary": "Wygaśnięcie blokady będzie kolejnym testem apetytu inwestorów na akcje SpaceX reuters.com."
     },
     {
       "title": "Stolica Nowej Zelandii zachwyca się rzadkimi opadami śniegu, gdy mieszkańcy południowego miasta jeżdżą na nartach po najbardziej stromej ulicy świata",
@@ -617,23 +617,23 @@
       "date": "2026-08-05T03:27:37Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "W Wellington po raz pierwszy od 15 lat spadł śnieg, podczas gdy Dunedin i Christchurch na południowej wyspie kraju pokryły śniegiem. Temperatury gwałtownie spadły w całej Nowej Zelandii, gdy nad krajem unosił się mróz z Antarktyki, zachwycając stolicę Wellington, w której wystąpił śnieg po raz pierwszy od 15 lat, dając jednocześnie mieszkańcom południowego miasta szansę na jazdę na nartach po ulicach. We wtorek nadciągnął front, a większość kraju obudziła się z powodu mrozów i mrozów, opady śniegu, gradu i przenikliwie zimny wiatr. Kontynuuj czytanie..."
+      "summary": "Po raz pierwszy od 15 lat w Wellington spadł śnieg, a Dunedin i Christchurch na południowej wyspie kraju Temperatury gwałtownie spadły w całej Nowej Zelandii, gdy nad krajem unosił się mróz z Antarktyki, zachwycając stolicę Wellington, w której wystąpił śnieg po raz pierwszy od 15 lat, dając jednocześnie mieszkańcom południowego miasta szansę na jazdę na nartach po ulicach. We wtorek nadciągnął front, a większość kraju obudziła się z powodu mrozów i mrozów, opady śniegu, gradu i przenikliwie zimny wiatr. Kontynuuj czytanie..."
     },
     {
-      "title": "Ruch żeglugowy w Zatoce Perskiej stabilny w obliczu niepewności co do rozmów pokojowych – Reuters",
+      "title": "Ruch żeglugowy w Zatoce Perskiej stabilny w obliczu niepewności co do rozmów pokojowych – reuters.com",
       "url": "https://www.reuters.com/world/middle-east/gulf-shipping-traffic-steady-amid-uncertainty-peace-talks-2026-08-05/",
       "date": "2026-08-05T03:04:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Ruch żeglugowy w Zatoce Perskiej stabilny w obliczu niepewności rozmów pokojowych Reuters."
+      "summary": "Ruch żeglugowy w Zatoce Perskiej stabilny w obliczu niepewności co do rozmów pokojowych reuters.com."
     },
     {
-      "title": "Tajwan rozpoczyna duże gry wojenne, aby przetestować elastyczność dowodzenia – Reuters",
+      "title": "Tajwan uruchamia duże gry wojenne, aby przetestować elastyczność dowodzenia – reuters.com",
       "url": "https://www.reuters.com/world/china/taiwan-launches-major-war-games-test-command-flexibility-2026-08-05/",
       "date": "2026-08-05T03:02:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Tajwan rozpoczyna duże gry wojenne, aby przetestować elastyczność dowodzenia Reuters."
+      "summary": "Tajwan uruchamia duże gry wojenne, aby przetestować elastyczność dowodzenia reuters.com."
     },
     {
       "title": "„Nasz nowy mistrz”: Filipiny ogarnęła tenisowa gorączka po historycznym zwycięstwie Alexa Eali",
@@ -644,28 +644,28 @@
       "summary": "Zwycięstwo w turnieju WTA zapewniło 21-latce przyjęcie prezydenckie na Filipinach, ponieważ zainteresowanie tenisem w jej rodzinnym kraju gwałtownie wzrosło. Filipiny ogarnęła tenisowa gorączka po tym, jak 21-letnia wschodząca gwiazda Alex Eala odniosła historyczne zwycięstwo, ciesząc się uznaniem prezydenta, który wydał przyjęcie na jej cześć. W poniedziałek Eala została pierwszą zawodniczką z Filipin, która zdobyła tytuł Tour-level Women's Tennis Association (WTA). Kontynuuj czytanie..."
     },
     {
-      "title": "Indyjskie mieszkanie Nifty, Sensex utrzymuje zyski po wstrzymaniu stóp RBI – Reuters",
+      "title": "Indyjskie mieszkanie Nifty, Sensex utrzymuje zyski po wstrzymaniu stóp RBI – reuters.com",
       "url": "https://www.reuters.com/world/india/indian-shares-likely-open-higher-ahead-rbi-rate-decision-2026-08-05/",
       "date": "2026-08-05T02:03:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Indyjskie mieszkanie Nifty, Sensex utrzymuje zyski po pauzie stóp RBI Reuters."
+      "summary": "Indyjskie mieszkanie Nifty, Sensex utrzymuje zyski po wstrzymaniu stóp procentowych RBI reuters.com."
     },
     {
-      "title": "EKSKLUZYWNIE: Samsung i SK Hynix testują chińskie narzędzia chipowe w celu zabezpieczenia się przed ryzykiem w USA – Reuters",
+      "title": "EKSKLUZYWNIE: Samsung i SK Hynix testują chińskie narzędzia chipowe w celu zabezpieczenia się przed zagrożeniami w USA – reuters.com",
       "url": "https://www.reuters.com/world/china/samsung-sk-hynix-test-chinese-chip-tools-hedge-against-us-risks-2026-08-05/",
       "date": "2026-08-05T02:02:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "EKSKLUZYWNIE: Samsung i SK Hynix testują chińskie narzędzia chipowe w celu zabezpieczenia się przed zagrożeniami ze strony USA Reuters."
+      "summary": "EKSKLUZYWNIE: Samsung i SK Hynix testują chińskie narzędzia chipowe w celu zabezpieczenia się przed zagrożeniami w USA reuters.com."
     },
     {
-      "title": "Chińscy producenci modułów optycznych załamują się po raporcie o planowanym zakazie importu do USA – Reuters",
+      "title": "Chińscy producenci modułów optycznych załamują się po raporcie o planowanym zakazie importu do USA – reuters.com",
       "url": "https://www.reuters.com/business/media-telecom/china-ai-hardware-stocks-slump-after-news-us-plans-ban-imports-chinese-2026-08-05/",
       "date": "2026-08-05T01:42:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Chińscy producenci modułów optycznych załamują się po raporcie Reuters o planowanym zakazie importu do USA."
+      "summary": "Chińscy producenci modułów optycznych załamują się po raporcie o planowanym zakazie importu do USA reuters.com."
     },
     {
       "title": "USA cofają wizę ambasadora Brazylii w związku z eskalacją sporu dyplomatycznego",
@@ -822,6 +822,14 @@
       "summary": "Komisja ds. Etyki Izby Reprezentantów wszczyna śledztwo w sprawie zarzutów dotyczących przemocy domowej postawionych przedstawicielowi Maxowi Millerowi AP News."
     },
     {
+      "title": "Netanjahu mówi, że Izrael nie będzie się wycofywał ze Strefy Gazy, dopóki Hamas nie zostanie całkowicie rozbrojony – AP News",
+      "url": "https://apnews.com/article/israel-palestinians-hamas-war-gaza-news-1215e52022856b9de9837237a0e188fa",
+      "date": "2026-08-05T00:58:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Netanjahu mówi, że Izrael nie będzie się wycofywał ze Strefy Gazy, dopóki Hamas nie zostanie całkowicie rozbrojony AP News."
+    },
+    {
       "title": "Władze twierdzą, że mężczyzna niosący amunicję monitorował bezpieczeństwo na polu golfowym Trumpa w pobliżu Los Angeles – AP News",
       "url": "https://apnews.com/article/trump-golf-course-california-armed-man-arrested-9b5617796efe673a57ad163680d8e8dd",
       "date": "2026-08-05T00:52:00Z",
@@ -891,7 +899,7 @@
       "date": "2026-08-04T17:13:44Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Samice lwów padły w odstępie pięciu dni, pomimo wysiłków opiekunów zwierząt, którzy starali się chronić je przed ostrymi letnimi temperaturami w Japonii."
+      "summary": "Samice lwów padły w odstępie pięciu dni, pomimo wysiłków opiekunów zwierząt, którzy starali się chronić je przed niezwykle wysokimi temperaturami w lecie w Japonii."
     },
     {
       "title": "Twierdzenie mężczyzny, że w Jaguarze zawiodły hamulce, było oszustwem mającym na celu uniknięcie płatności za samochód – orzekł sąd",
@@ -996,17 +1004,17 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Trump twierdzi, że Pirro „złożył się jak parasol”, próbując wycofać oskarżenia AP News za wandalizm w Reflecting Pool."
-    },
-    {
-      "title": "Rekin tygrysi złowiony u wybrzeży Massachusetts może być oznaką ocieplenia się wód – AP News",
-      "url": "https://apnews.com/article/tiger-shark-massachusetts-fishing-cape-cod-58e5d6302c4a6709896bdfaa445cdf01",
-      "date": "2026-08-03T21:23:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Rekin tygrysi złowiony u wybrzeży Massachusetts może być oznaką ocieplenia się wód AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Action rozpieszcza majsterkowiczów. Tanie narzędzia do domowego warsztatu",
+      "url": "https://antyweb.pl/action-rozpieszcza-majsterkowiczow-tanie-narzedzia-do-domowego-warsztatu",
+      "date": "2026-08-05T08:30:26Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Połowa tygodnia przynosi nowe promocje w popularnej sieci sklepów Action. Majsterkowicze mają powody do radości."
+    },
     {
       "title": "BMW, co wy robicie? Reklamy w twoim własnym samochodzie",
       "url": "https://antyweb.pl/bmw-wkurzylo-kierowcow-chodzi-o-reklamy-w-auci",
@@ -1168,14 +1176,6 @@
       "summary": "Decyzja została podjęta i nie ma już od niej odwrotu. Google wysyła do użytkowników oficjalne maile z jednoznacznym przekazem: Asystent Google znika z urządzeń mobilnych. Rola głównego przewodnika po systemie Android przypada teraz Gemini, a producent ujawnił właśnie konkretny harmonogram nadchodzących zmian.&#160; Ostateczne pożegnanie na smartfonach i zegarkach&#160; Proces usuwania dotychczasowego wsparcia rozpocznie się dokładnie [&#8230;] Artykuł Asystent Google trafił na cmentarz."
     },
     {
-      "title": "Aktualizacja z Androidem 17 dla całej linii smartfonów już dostępna. Wystarczy zapisać się do testów",
-      "url": "https://antyweb.pl/aktualizacja-z-androidem-17-dla-calej-linii-smartfonow-juz-dostepna-wystarczy-zapisac-sie-do-testow",
-      "date": "2026-08-05T06:00:20Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Motorola bardzo pozytywnie zaskakuje. Producent wrzuca piąty bieg - i w pocie czoła pracuje nad tym, żeby ich urządzenia dostały Androida 17 tak szybko, jak to tylko możliwe."
-    },
-    {
       "title": "Rust-lang/rust przyjmuje politykę LLM",
       "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
       "date": "2026-08-05T05:52:24Z",
@@ -1216,7 +1216,7 @@
       "summary": "Polska ma wojskowy bestseller. NATO uwielbia naszą \"małą rakietę\"."
     },
     {
-      "title": "Zero-Mem: Operacje pamięci zerowej dla agentów LLM",
+      "title": "Zero-Mem: operacje pamięci zerowej dla agentów LLM",
       "url": "https://arxiv.org/abs/2607.29377",
       "date": "2026-08-05T04:36:44Z",
       "source": "Hacker News",
@@ -1229,7 +1229,7 @@
       "date": "2026-08-05T04:35:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Reuters: Źródła: Samsung i SK Hynix oceniają sprzęt do produkcji chipów firmy AMEC z Chin pod kątem możliwego zastosowania w ich chińskich fabrykach w celu zabezpieczenia się przed amerykańskimi ograniczeniami &mdash; Firmy Samsung Electronics i SK Hynix oceniają sprzęt do produkcji chipów z chińskiej firmy Advanced Micro-Fabrication Equipment (AMEC) &hellip;."
+      "summary": "Reuters: Źródła: Samsung i SK Hynix oceniają sprzęt do produkcji chipów firmy AMEC z Chin pod kątem możliwego zastosowania w ich chińskich fabrykach w celu zabezpieczenia się przed amerykańskimi ograniczeniami &mdash; Firmy Samsung Electronics i SK Hynix oceniają sprzęt do produkcji chipów firmy Advanced Micro-Fabrication Equipment (AMEC) z Chin."
     },
     {
       "title": "SLM przeszkolony na 8 USD ESP32-S3",
@@ -1245,7 +1245,7 @@
       "date": "2026-08-05T03:10:00Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Jeff John Roberts / Fortune: Cloudflare przedstawia portfele Cloudflare umożliwiające użytkownikom płacenie za interfejsy API i treści za pośrednictwem monet stabilnych, z możliwością tworzenia wirtualnych portfeli do pośrednich zakupów &mdash; Dziedzina handlu agentycznego – termin opisujący wykorzystanie botów do zakupów i sprzedaży online – szybko się rozwija."
+      "summary": "Jeff John Roberts / Fortune: Cloudflare przedstawia portfele Cloudflare umożliwiające użytkownikom płacenie za interfejsy API i treści za pośrednictwem monet stabilnych, z możliwością tworzenia wirtualnych portfeli do pośrednich zakupów &mdash; Dziedzina handlu pośredniego – termin opisujący wykorzystanie botów do zakupów i sprzedaży online – szybko się rozwija."
     },
     {
       "title": "Szał sztucznej inteligencji podzielił rynek VC, ponieważ różnica między najlepszymi i najgorszymi wynikami wzrosła ponad dwukrotnie w przypadku funduszy na rok 2024 w porównaniu z funduszami z lat 2017–2021 (Bloomberg)",
@@ -1264,7 +1264,7 @@
       "summary": "Adres URL artykułu: https://arxiv.org/abs/2603.04221 Adres URL komentarzy: https://news.ycombinator.com/item?id=49176983 Punkty: 80 # Komentarze: 63."
     },
     {
-      "title": "Bugtraq powrócił",
+      "title": "Bugtraq powraca",
       "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
       "date": "2026-08-05T00:05:49Z",
       "source": "Hacker News",
@@ -1336,7 +1336,7 @@
       "summary": "Rynek pamięci RAM przeżywa niespotykany dotąd kryzys, a giganci tacy jak HP, Asus czy Acer musieli szukać ratunku w Chinach. Z powodu niesamowitego popytu na centra danych AI i podwyżek cen, w tańszych laptomach zaczęły lądować kości chińskiego producenta CXMT. Sprzęt z tymi komponentami ma omijać rynek amerykański."
     },
     {
-      "title": "Funkcja „świecenia” Pixela 11 nazywa się HiLight – oto, do czego służy",
+      "title": "Funkcja „świecenia” w Pixelu 11 nazywa się HiLight – oto, do czego służy",
       "url": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
       "date": "2026-08-04T16:11:05Z",
       "source": "Ars Technica",
@@ -1344,7 +1344,7 @@
       "summary": "Lampa błyskowa aparatu zmieni się w wielokolorową diodę LED, która zapala się, gdy telefon jest skierowany w dół."
     },
     {
-      "title": "Tom DeLay pomógł w ustaleniu limitu własności telewizorów – twierdzi, że Trump FCC nie ma uprawnień do jego uchylenia",
+      "title": "Tom DeLay pomógł ustalić limit własności telewizorów – twierdzi, że Trump FCC nie ma uprawnień, aby go uchylić",
       "url": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
       "date": "2026-08-04T15:51:00Z",
       "source": "Ars Technica",
@@ -1543,7 +1543,7 @@
       "date": "2026-08-04T14:40:49Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Do rosnącej liczby raportów o podatnościach wspomaganych maszynowo dodano szersze zasady dotyczące nagród."
+      "summary": "Do rosnącej liczby raportów o lukach w zabezpieczeniach wspomaganych maszynowo dodano szersze zasady dotyczące nagród."
     },
     {
       "title": "Jak zbudować system ostrzegania, który nie zawiedzie? Poradnik dla decydentów",
@@ -1719,7 +1719,7 @@
       "date": "2026-08-03T16:24:47Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Złośliwe oprogramowanie działające jako zwykły użytkownik na komputerze z systemem Windows może zalogować się na konta ofiary chronione hasłem bez odcisku palca, kodu PIN lub czegokolwiek innego, co pojawia się na ekranie ofiary. Jednostka 42 szczegółowo opisała trzy ścieżki ataku na chmurowy moduł uwierzytelniający Google Password Manager w przeglądarce Chrome, który nazywa Pass-ta-key, Silver Pass-ta-key i Golden Pass-ta-key; najsilniejsze cele to klucz główny."
+      "summary": "Złośliwe oprogramowanie działające jako zwykły użytkownik na komputerze z systemem Windows może zalogować się na konta ofiary chronione hasłem bez odcisku palca, kodu PIN lub czegokolwiek innego, co pojawia się na ekranie ofiary. Jednostka 42 szczegółowo opisała trzy ścieżki ataku na chmurowy uwierzytelniacz Google Password Manager w przeglądarce Chrome, który nazywa Pass-ta-key, Silver Pass-ta-key i Golden Pass-ta-key; najsilniejsze cele to klucz główny."
     },
     {
       "title": "Oprogramowanie ransomware INC staje się dominującym aktorem wykorzystującym wady SonicWall SMA 1000",
@@ -1727,7 +1727,7 @@
       "date": "2026-08-03T16:15:13Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Operacja INC Ransomware wyłoniła się jako „dominujący aktor zagrażający” wykorzystujący niedawno ujawnione luki w zabezpieczeniach urządzeń VPN z serii SonicWall Secure Mobile Access (SMA) 1000. W raporcie opublikowanym w weekend firma Resecurity podała, że ​​zaobserwowała wzrost aktywności oprogramowania ransomware INC od początku sierpnia 2026 r., umieszczając listę wielu ofiar na swojej stronie zawierającej wycieki danych. Za."
+      "summary": "Operacja INC Ransomware okazała się „dominującym aktorem zagrażającym” wykorzystującym niedawno ujawnione luki w zabezpieczeniach urządzeń VPN z serii SonicWall Secure Mobile Access (SMA) 1000. W raporcie opublikowanym w weekend firma Resecurity podała, że ​​zaobserwowała wzrost aktywności oprogramowania ransomware INC od początku sierpnia 2026 r., umieszczając listę wielu ofiar na swojej stronie zawierającej wycieki danych. Za."
     },
     {
       "title": "Atak hakerski na sieć polskich placówek zdrowotnych. Wydano komunikat",
@@ -1738,7 +1738,7 @@
       "summary": "Polski sektor ochrony zdrowia nieustannie pozostaje na celowniku cyberprzestępców. Atak na PaKK-MED (sieć placówek POZ) to kolejny incydent tego typu na przestrzeni ostatnich kilku miesięcy, gdzie ofiarą pada organizacja odpowiedzialna za zdrowie Polek i Polaków. Spółka była zmuszona do częściowego przejścia na papierowy tryb pracy."
     },
     {
-      "title": "⚡ Cotygodniowe podsumowanie: fałszywe modele sztucznej inteligencji, kradzież bitcoinów o wartości 88 mln dolarów, ataki na systemy wodne i zwisające przejęcia DNS",
+      "title": "⚡ Cotygodniowe podsumowanie: fałszywe modele sztucznej inteligencji, kradzież bitcoinów o wartości 88 mln dolarów, ataki na systemy wodne i włamania do DNS",
       "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
       "date": "2026-08-03T14:03:11Z",
       "source": "The Hacker News",
@@ -1754,7 +1754,7 @@
       "summary": "Podczas gdy dorośli próbują chronić dzieci za pomocą nieadekwatnych schematów, cyfrowa rzeczywistość daje sprawcom nowe pole do manipulacji. Skuteczną prewencję utrudnia szereg głęboko zakorzenionych barier społecznych, prawnych i psychologicznych. Problem ten porusza nowy poradnik Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15."
     },
     {
-      "title": "FOMO w SOC: gdzie faktycznie pasują platformy AI, takie jak Claude",
+      "title": "FOMO w SOC: gdzie właściwie pasują platformy AI, takie jak Claude",
       "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
       "date": "2026-08-03T11:30:00Z",
       "source": "The Hacker News",
@@ -1811,6 +1811,30 @@
     }
   ],
   "finance": [
+    {
+      "title": "WIG20 sięgnął 4 000 punktów! Stare rekordy odeszły w niepamięć",
+      "url": "https://www.bankier.pl/wiadomosc/WIG20-siegnal-4-000-punktow-Stare-rekordy-odeszly-w-niepamiec-9178082.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-08-05T08:32:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Na otwarciu środowej sesji WIG20 po raz pierwszy w historii osiągnął wartość 4 000 punktów. Dzień wcześniej świętowaliśmy okrągły poziom 150 000 punktów na WIG-u."
+    },
+    {
+      "title": "Zełenski krytykuje bezczynność Zachodu. \"17 osób zginęło przez opóźnienia partnerów\"",
+      "url": "https://www.bankier.pl/wiadomosc/Zelenski-krytykuje-bezczynnosc-Zachodu-17-osob-zginelo-przez-opoznienia-partnerow-9178077.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-08-05T08:29:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Prezydent Ukrainy Wołodymyr Zełenski poinformował, że w wyniku zmasowanych ataków Rosji w nocy z wtorku na środę zginęło 17, a ranne zostały 44 osoby i oświadczył, że do takich ofiar i zniszczeń prowadzą opóźnienia w dostawach lub niechęć partnerów do przekazywania środków obrony przeciwrakietowej."
+    },
+    {
+      "title": "Gigant finansów buduje zaplecze dla cyfrowego dolara. Adopcja kryptowalut przekracza punk zwrotny",
+      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty/visa-stablecoiny-cyfrowy-dolar",
+      "date": "2026-08-05T08:16:08Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Gigant finansów buduje zaplecze dla cyfrowego dolara. Adopcja kryptowalut przekracza punk zwrotny Szymon Machalica śr., 05.08.2026 Kanał Strefa Global Market Visa Stablecoiny Treść Visa uruchomiła platformę, która ma uprościć korzystanie ze stablecoinów przez banki, fintechy i firmy krypto. To ważny ruch, bo pokazuje, że blockchain coraz wyraźniej przestaje być historią o cenach tokenów, a staje się historią o infrastrukturze płatniczej.Nowa usługa, Visa Stablecoin Platform, ma pozwolić instytucjom emitować, przechowywać, przesyłać i wykupywać stablecoiny w jednym środowisku operacyjnym."
+    },
     {
       "title": "Globalne polowanie na podatki. Chiny biorą na celownik zagraniczne majątki najbogatszych",
       "url": "https://www.bankier.pl/wiadomosc/Globalne-polowanie-na-podatki-Chiny-biora-na-celownik-zagraniczne-majatki-najbogatszych-9178060.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -1900,6 +1924,22 @@
       "summary": "Jelcz wyraźnie zwiększa tempo produkcji dla polskiej armii. Spółka należąca do PGZ chce w 2026 r. wyprodukować tysiąc ciężarówek, niemal dwukrotnie więcej niż rok wcześniej."
     },
     {
+      "title": "Newag dostarczy Województwu Podlaskiemu hybrydowe zespoły trakcyjne za 95,8 mln zł - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149832,newag-dostarczy-wojewodztwu-podlaskiemu-hybrydowe-zespoly-trakcyjne-za-95-8-mln-zl",
+      "date": "2026-08-05T07:19:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Newag dostarczy Województwu Podlaskiemu hybrydowe zespoły trakcyjne za 95,8 mln zł BiznesRadar."
+    },
+    {
+      "title": "Green Lanes wchodzi w fazę skalowania. Głównym rynkiem Polska, ale ekspansja obejmuje całą Europę",
+      "url": "https://strefainwestorow.pl/spolki/greenlanes-strumber-plany-inwestycje-gielda-meble",
+      "date": "2026-08-05T07:18:18Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Green Lanes wchodzi w fazę skalowania. Głównym rynkiem Polska, ale ekspansja obejmuje całą Europę Seb Seb śr., 05.08.2026 Kanał Strefa Inwestorów Green Lanes Strumber plany inwestycje giełda konopia len meble Treść Green Lanes wchodzi w etap, na który inwestorzy czekali od kilku lat. Po zakończeniu inwestycji, uruchomieniu zakładu i rozpoczęciu ciągłej produkcji belek Strumber spółka koncentruje się już przede wszystkim na sprzedaży oraz zwiększaniu skali działalności."
+    },
+    {
       "title": "USA się wystrzelały. Zapasy amunicji są \"niebezpiecznie niskie\"",
       "url": "https://www.bankier.pl/wiadomosc/USA-sie-wystrzelaly-Zapasy-amunicji-sa-niebezpiecznie-niskie-9178048.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-08-05T07:17:00Z",
@@ -1908,12 +1948,12 @@
       "summary": "Armia USA wyczerpała niemal 80% swoich pocisków przechwytujących kluczowego systemu obrony przeciwrakietowej, a wysocy rangą dowódcy wojskowi USA ostrzegają, że zapasy amunicji w Pentagonie są \"niebezpiecznie niskie\" - informuje CNN."
     },
     {
-      "title": "Kolejny cios w rosyjskiego \"Amazona\". Ukraina uderzyła w centrum logistyczne Wildberries",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejny-cios-w-rosyjskiego-Amazona-Ukraina-uderzyla-w-centrum-logistyczne-Wildberries-9178046.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-08-05T07:12:00Z",
-      "source": "Bankier.pl",
+      "title": "Allegro przeprowadziło imponujące transfery przed nowym sezonem. Topowi menedżerowie w zarządzie",
+      "url": "https://strefainwestorow.pl/analizy/allegro-nowacfo-noweuslugi-fintech-strategia",
+      "date": "2026-08-05T07:01:01Z",
+      "source": "Strefa Inwestorów",
       "confirmed_by": 1,
-      "summary": "Ukraina zaatakowała kolejny obiekt największej w Rosji platformy e-commerce Wildberries, uszkadzając centrum logistyczne niedaleko Tuły - poinformowały w środę tamtejsze władze. To kolejne w ostatnich tygodniach uderzenie w infrastrukturę tej firmy."
+      "summary": "Allegro przeprowadziło imponujące transfery przed nowym sezonem. Topowi menedżerowie w zarządzie Seb Seb śr., 05.08.2026 Kanał Strefa Inwestorów Allegro zarząd CFO giełda inwestycje ecommerce Treść Katarzyna Ostap-Tomann ma wzmacniać kontrolę finansową, zarządzanie kapitałem i gotowość grupy Allegro do dalszego skalowania. Dariusz Mazurkiewicz otrzymuje natomiast zadanie rozwinięcia nowego, potencjalnie wysokomarżowego filaru biznesu platformy."
     },
     {
       "title": "Wojsko szuka ochotników. Możesz zarobić 6 tys. zł w 27 dni - Forsal.pl",
@@ -1922,14 +1962,6 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Wojsko szuka ochotników. Możesz zarobić 6 tys. zł w 27 dni Forsal.pl."
-    },
-    {
-      "title": "Alert to za mało? Eksperci ostrzegają: Polacy nie wiedzą, jak reagować na zagrożenia",
-      "url": "https://www.bankier.pl/wiadomosc/Alert-to-za-malo-Eksperci-ostrzegaja-Polacy-nie-wiedza-jak-reagowac-na-zagrozenia-9178040.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-08-05T06:55:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Nasz system powiadamiania o zagrożeniach działa, co nie znaczy, że jest skuteczny – ostrzega prof. Akademii Pożarniczej Marcin Smolarkiewicz i wymienia czynniki upośledzające jego efektywność. Zdaniem zaś prof."
     },
     {
       "title": "Przełom w konflikcie z Iranem? Trump mówi o porozumieniu jeszcze w tym tygodniu - Forsal.pl",
@@ -1964,12 +1996,20 @@
       "summary": "Pure Biologics zmienił nazwę na multiQure. Fundusz Biofund przejął prawie połowę akcji stockwatch.pl."
     },
     {
-      "title": "Zarząd musiał tonować słowa Muska. Akcje SpaceX w dół po wynikach",
-      "url": "https://www.bankier.pl/wiadomosc/Zarzad-musial-prostowac-slowa-Muska-Akcje-SpaceX-w-dol-po-wynikach-9178020.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-08-05T06:34:00Z",
-      "source": "Bankier.pl",
+      "title": "Indeks Nastrojów Deweloperów odbił w lipcu 2026. To jeszcze nie powrót sprzedażowej hossy",
+      "url": "https://strefainwestorow.pl/nieruchomosci/indeks-nastrojow-deweloperow-lipiec-2026",
+      "date": "2026-08-05T06:30:00Z",
+      "source": "Strefa Inwestorów",
       "confirmed_by": 1,
-      "summary": "Podczas pierwszej w historii giełdowej telekonferencji SpaceX Elon Musk roztaczał przed akcjonariuszami wizję opanowania większości światowego rynku internetu w mniej niż dekadę oraz lotów rakiety Starship raz dziennie już w przyszłym roku, a jego słowa musieli łagodzić natychmiast obecni na konferencji dyrektorzy. Mimo lepszych od oczekiwań wyników nad notowaniami kosmicznego potentata wisi widmo czwartkowego wygaśnięcia blokady sprzedaży akcji, a notowania traciły w handlu posesyjnym do 8%."
+      "summary": "Indeks Nastrojów Deweloperów odbił w lipcu 2026. To jeszcze nie powrót sprzedażowej hossy Wioletta Hass śr., 05.08.2026 Kanał Strefa Inwestorów rynek pierwotny deweloperzy sprzedaż mieszkań ceny mieszkań indeks nastrojów podaż mieszkań rynek nieruchomości lipiec 2026 Treść Lipcowy Indeks Nastrojów Deweloperów mocno odbił względem czerwca, przekraczając nawet odczyt z kwietnia i maja. Skąd ten optymizm pośród badanych deweloperów?"
+    },
+    {
+      "title": "Nowe rekordy WIG i nowa spółka w portfelu",
+      "url": "https://strefainwestorow.pl/blog/podsumowanie-sesji/nowe-rekordy-wig-i-nowa-spolka-w-portfelu",
+      "date": "2026-08-05T05:53:53Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Nowe rekordy WIG i nowa spółka w portfelu Paweł Biedrzycki śr., 05.08.2026 WIG Wstęp do wpisu Podsumowanie sesji z 4 sierpnia 2026: #WIG, nowa spółka portfelowa, spółki godne uwagi Nowe rekordy WIG i nowa spółka w portfelu Paweł Biedrzycki."
     },
     {
       "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 05.08.2026",
@@ -2012,28 +2052,20 @@
       "summary": "Od kradzieży towaru do porwania. Budując swój biznes przeszedł przez piekło Forbes."
     },
     {
+      "title": "Środa z Siłą Relatywną (SzSR): 5 sierpnia 2026 r.",
+      "url": "https://strefainwestorow.pl/blog/sroda-z-sila-relatywna/sroda-z-sila-relatywna-szsr-5-sierpnia-2026-r",
+      "date": "2026-08-05T05:00:00Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Środa z Siłą Relatywną (SzSR): 5 sierpnia 2026 r. Piotr Kwestarz śr., 05.08.2026 Treść Zapraszam do lektury kolejnego wpisu z cyklu Środy z Siłą Relatywną (SzSR). Środa z Siłą Relatywną (SzSR): 5 sierpnia 2026 r."
+    },
+    {
       "title": "Ogromny transport czołgów na Ukrainę. Polska zawstydziła mocarstwa - Forsal.pl",
       "url": "https://forsal.pl/kraj/bezpieczenstwo/artykuly/11284752,ogromny-transport-czolgow-na-ukraine-polska-zawstydzila-mocarstwa.html",
       "date": "2026-08-05T04:48:00Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Ogromny transport czołgów na Ukrainę. Polska zawstydziła mocarstwa Forsal.pl."
-    },
-    {
-      "title": "Wydatki na emerytury i renty. Eksperci biją na alarm",
-      "url": "https://www.money.pl/finanse/wydatki-na-emerytury-i-renty-eksperci-bija-na-alarm-7315054818494464a.html",
-      "date": "2026-08-05T04:10:30Z",
-      "source": "Money.pl",
-      "confirmed_by": 1,
-      "summary": "Wydatki na emerytury i renty są większe niż łączne nakłady na zdrowie, edukację i naukę - alarmuje FOR w raporcie. Dług rośnie tak szybko, że koszty jego obsługi są już wyższe niż programu 800+ - czytamy w \"Rzeczpospolitej\"."
-    },
-    {
-      "title": "Koniec odmowy w restauracji. Klient poprosi o wodę, a lokal poda 0,5 litra za darmo - Forsal.pl",
-      "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11273136,koniec-odmowy-w-restauracji-klient-poprosi-o-wode-a-lokal-poda-05-litra-za-darmo.html",
-      "date": "2026-08-04T22:29:42Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Koniec odmowy w restauracji. Klient poprosi o wodę, a lokal poda 0,5 litra za darmo Forsal.pl."
     },
     {
       "title": "Słynna polska marka MISBHV w dołku. Tak nowa właścicielka chce ją ratować - Forbes",
@@ -2092,12 +2124,12 @@
       "summary": "Poprawa części wskaźników gospodarczych nie zakończyła problemów finansowych gospodarstw domowych. W pierwszej połowie 2026 r. upadłość konsumencką ogłosiło 12,2 tys."
     },
     {
-      "title": "Notowania ETFPZULONGDUR PZU ETF OBLIGACJI DLUGOTERMINOWYCH PORTFELOWY - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/ETFPZULONGDUR",
-      "date": "2026-08-04T14:48:47Z",
+      "title": "Notowania ETFPZUCASH PZU ETF OBLIGACJI ZMIENNOKUPONOWYCH PORTFELOWY - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/ETFPZUCASH",
+      "date": "2026-08-04T15:02:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania ETFPZULONGDUR PZU ETF OBLIGACJI DLUGOTERMINOWYCH PORTFELOWY BiznesRadar."
+      "summary": "Notowania ETFPZUCASH PZU ETF OBLIGACJI ZMIENNOKUPONOWYCH PORTFELOWY BiznesRadar."
     },
     {
       "title": "ONDE sprzedaje projekty OZE do Grupy ORLEN - BiznesRadar",
@@ -2114,14 +2146,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Unijny pakiet Omnibus I łagodzi część obowiązków regulacyjnych, ale ESG nie jest już tylko raportem. Inwestorzy, instytucje finansujące, kontrahenci i konsumenci oczekują od firm rzeczywistych działań. ESG to skrót od trzech obszarów: środowiska, odpowiedzialności społecznej i ładu korporacyjnego."
-    },
-    {
-      "title": "Opcja OW20T264100 - Notowania - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/OW20T264100,notowania.aspx",
-      "date": "2026-08-04T14:34:00Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Opcja OW20T264100 - Notowania stockwatch.pl."
     },
     {
       "title": "Wiadomości INC SA - strona: 174 - BiznesRadar",
@@ -2148,22 +2172,6 @@
       "summary": "Trendy INGSD3E0729 INGBANK BiznesRadar."
     },
     {
-      "title": "Notowania OW20T264325 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/OW20T264325",
-      "date": "2026-08-04T13:55:18Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania OW20T264325 BiznesRadar."
-    },
-    {
-      "title": "ORLEN zwiększa skalę inwestycji w OZE - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149811,orlen-zwieksza-skale-inwestycji-w-oze",
-      "date": "2026-08-04T13:35:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "ORLEN zwiększa skalę inwestycji w OZE BiznesRadar."
-    },
-    {
       "title": "Bluza OpenAI za 250 dol.? W Dolinie Krzemowej rośnie osobliwa bańka - Forbes",
       "url": "https://www.forbes.pl/technologie/bluza-z-logo-openai-za-250-dol-w-usa-rosnie-osobliwa-banka/9bywq1g",
       "date": "2026-08-04T12:49:24Z",
@@ -2180,12 +2188,12 @@
       "summary": "W całym pierwszym półroczu br. zamknięto 108,1 tys. jednoosobowych działalności i zawieszono 191,4 tys."
     },
     {
-      "title": "\"Paula, jest 21! Ocknęłam się\". Wydostała się ze szponów pracoholizmu - Forbes",
-      "url": "https://www.forbes.pl/forbeswomen/jak-rozpoznac-ze-sukces-zaczyna-cie-kosztowac-za-duzo-wywiad/ed0dwe6",
-      "date": "2026-08-04T09:42:43Z",
-      "source": "Forbes Polska",
+      "title": "Kryzys na rynku kwasu siarkowego. Grupa Azoty z unikalną przewagą",
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl/grupa-azoty-kwas-siarkowy-notowania-inwestycje",
+      "date": "2026-08-04T08:12:22Z",
+      "source": "Strefa Inwestorów",
       "confirmed_by": 1,
-      "summary": "\"Paula, jest 21! Ocknęłam się\". Wydostała się ze szponów pracoholizmu Forbes."
+      "summary": "Kryzys na rynku kwasu siarkowego. Grupa Azoty z unikalną przewagą Piotr Maciążek wt., 04.08.2026 Kanał W Zielonej Strefie notowania grupa azoty siarkopol rynek siarki rynek kwasu siarkowego spółki Treść Zablokowanie kluczowych szlaków handlowych na Bliskim Wschodzie wstrząsnęło globalnym przemysłem chemicznym, przekształcając kwas siarkowy w surowiec strategiczny. Dla Grupy Azoty zawirowania te stanowią unikalną okazję do umocnienia pozycji rynkowej w Europie, choć inwestorzy muszą brać pod uwagę również narastające wyzwania popytowe.Wojna uderzyła w eksport siarkiTrwająca od lutego wojna z Iranem, mimo okresowych rozejmów, wyraźnie wpłynęła na globalny rynek chemiczny."
     },
     {
       "title": "Na jeden wakat przypadają 62 zgłoszenia. Wielu kandydatów nie rozpoczyna pracy",
@@ -2202,14 +2210,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Agentowa sztuczna inteligencja (agentic AI) to systemy zdolne nie tylko analizować dane, ale też wykonywać konkretne działania w procesach biznesowych. Zyskuje na znaczeniu w wielu sektorach gospodarki – także tam, gdzie stawką jest szeroko pojęte bezpieczeństwo. Prognozy mówią o wzroście wartości AI w branży farmacji z 1,9 mld dolarów w 2025 r."
-    },
-    {
-      "title": "Warszawskie nieruchomości od dewelopera nadal najdroższe, ale ze spadkiem średnich cen",
-      "url": "https://300gospodarka.pl/news/cena-za-metr-od-warszawskiego-dewelopera-poszla-w-dol-pierwszy-raz-od-miesiecy",
-      "date": "2026-08-03T12:30:19Z",
-      "source": "300Gospodarka",
-      "confirmed_by": 1,
-      "summary": "W większości polskich metropolii lipiec przyniósł stabilizację średniej ceny metra kwadratowego mieszkań z oferty deweloperów. Wzrost odnotowano tylko we Wrocławiu i Trójmieście. Natomiast w Warszawie po raz pierwszy od ośmiu miesięcy średnia cena za metr spadła."
     }
   ],
   "critical_alerts": [
@@ -2233,8 +2233,8 @@
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Film wideo grupy twierdzącej, że jest odpowiedzialny za podpalenie, stwarzał perspektywę dalszego wandalizmu lub ukierunkowanych działań i zawierał treść: „Przestańcie zbroić Izrael, bo inaczej”.",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/05/melbourne-anti-weapons-protest-terrorism-investigation-ntwnfb"
+      "description": "Netanjahu mówi, że Izrael nie będzie się wycofywał ze Strefy Gazy, dopóki Hamas nie zostanie całkowicie rozbrojony AP News.",
+      "url": "https://apnews.com/article/israel-palestinians-hamas-war-gaza-news-1215e52022856b9de9837237a0e188fa"
     },
     {
       "lat": 32.43,
@@ -2329,7 +2329,7 @@
       "lng": 121.0,
       "type": "conflict",
       "region": "Tajwan",
-      "description": "Tajwan rozpoczyna duże gry wojenne, aby przetestować elastyczność dowodzenia Reuters.",
+      "description": "Tajwan uruchamia duże gry wojenne, aby przetestować elastyczność dowodzenia reuters.com.",
       "url": "https://www.reuters.com/world/china/taiwan-launches-major-war-games-test-command-flexibility-2026-08-05/"
     },
     {
@@ -2531,7 +2531,7 @@
       "score": 100,
       "reasons": [
         {
-          "title": "EKSKLUZYWNIE: Północnokoreańska jednostka rakietowa rozmieszczona jest w Rosji na potrzeby wojny na Ukrainie, mówi Kijów – Reuters",
+          "title": "EKSKLUZYWNIE: Północnokoreańska jednostka rakietowa rozmieszczona w Rosji na potrzeby wojny na Ukrainie, podaje Kijów – reuters.com",
           "url": "https://www.reuters.com/business/aerospace-defense/north-korean-missile-unit-deploys-russia-ukraine-war-kyiv-says-2026-08-05/",
           "source": "Reuters"
         },
@@ -2745,51 +2745,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25408.25,
+      25405.53,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26560.61,
+      26557.76,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26706.05,
+      26703.18,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      26948.47,
+      26945.57,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27577.66,
+      27574.7,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27613.33,
+      27610.37,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27855.49,
+      27852.5,
       27354.94,
       27400.36,
       27412.11,
-      28252.78,
+      28249.75,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27521.05,
+      27518.09,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27698.91,
+      27695.94,
       27686.17,
       27404.78,
       27351.97,
@@ -2798,7 +2798,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27410.27,
+      27407.33,
       27930.04,
       28234.04,
       28218.36,
@@ -2807,24 +2807,24 @@
       28294.39,
       28203.83,
       28555.17,
-      28235.37,
+      28232.34,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27796.68,
+      27793.69,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27626.3,
+      27623.34,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      27916.06,
+      27913.06,
       28457.79,
-      28835.95
+      28832.85
     ],
     "currency": "PLN"
   }
