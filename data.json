@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-08-05T17:53:13Z",
+  "last_updated": "2026-08-05T17:58:20Z",
   "poland": [
+    {
+      "title": "Rosyjskie aktywa znów finansują Ukrainę. Bruksela przekazała 1,4 mld euro",
+      "url": "https://www.rp.pl/finanse/art44944631-rosyjskie-aktywa-znow-finansuja-ukraine-bruksela-przekazala-1-4-mld-euro",
+      "date": "2026-08-05T17:52:27Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Unia Europejska przekazała Ukrainie 1,4 mld euro zysków nadzwyczajnych z zamrożonych aktywów Banku Rosji. To piąta taka pomoc, a druga w tym roku. Łącznie aktywa Banku Rosji wspomogły Ukrainę kwotą 8 mld euro."
+    },
     {
       "title": "Sąd zdecydował w sprawie subwencji dla PiS. Minister finansów: miażdżący wyrok",
       "url": "https://www.rp.pl/prawo-w-polsce/art44948701-sad-zdecydowal-w-sprawie-subwencji-dla-pis-minister-finansow-miazdzacy-wyrok",
-      "date": "2026-08-05T17:43:36Z",
+      "date": "2026-08-05T17:43:00Z",
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
-      "summary": "Naczelny Sąd Administracyjny oddalił w środę kasacje w sprawie dotacji i subwencji dla Prawa i Sprawiedliwości."
+      "summary": "Naczelny Sąd Administracyjny oddalił w środę kasacje w sprawie dotacji i subwencji dla Prawa i Sprawiedliwości. Chodzi o skargę na bezczynność ministra finansów, który nie wypłacił partii Jarosława Kaczyńskiego 6,4 mln zł w ramach zwrotu kosztów kampanii przed wyborami parlamentarnymi w 2023 r."
     },
     {
       "title": "Jest wyrok ws. subwencji dla PiS. Tusk: Dla przekręciarzy pieniędzy nie ma i nie będzie",
@@ -162,14 +170,6 @@
       "summary": "Nasila się kryzys w niemieckim przemyśle motoryzacyjnym. Producentom we znaki daje się chińska konkurencja, cła w Stanach Zjednoczonych i słabnący popyt lokalny. Kolejne koncerny planują redukcję zatrudnienia."
     },
     {
-      "title": "Marek Kutarba: Ukraina może zastąpić Stanom Zjednoczonym NATO",
-      "url": "https://radar.rp.pl/przemysl-zbrojeniowy/art44937451-marek-kutarba-ukraina-moze-zastapic-stanom-zjednoczonym-nato",
-      "date": "2026-08-05T15:46:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Ukraina nigdy nie wejdzie do NATO. Nie jest to jednak porażka Kijowa, lecz zapowiedź nowego układu sił, w którym Ukraina staje się zaporą wobec Rosji, a Europie przypada rola jej militarnego zaplecza. Taki plan na europejskie bezpieczeństwo zdają się mieć Amerykanie."
-    },
-    {
       "title": "Polski atom. Teren pod budowę przekazany Amerykanom",
       "url": "https://businessinsider.com.pl/wiadomosci/elektrownia-jadrowa-w-polsce-w-gminie-choczewo-teren-przekazany-wykonawcy/jsrj679",
       "date": "2026-08-05T15:40:25Z",
@@ -306,14 +306,6 @@
       "summary": "Cena złota rośnie do najwyższego poziomu od miesiąca. Eksperci prognozują w drugiej połowie 2026 r. stopniową odbudowę popytu na kruszec ze strony inwestorów detalicznych wraz z korektą stóp procentowych oraz osłabieniem dolara."
     },
     {
-      "title": "Gawkowski: Ryzko krytycznego incydentu. Podmioty KSC powinny pilnie zaktualizować WordPress - | Serwis Samorządowy PAP",
-      "url": "https://samorzad.pap.pl/kategoria/e-urzad/gawkowski-ryzko-krytycznego-incydentu-podmioty-ksc-powinny-pilnie-zaktualizowac",
-      "date": "2026-08-05T12:02:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Gawkowski: Ryzko krytycznego incydentu. Podmioty KSC powinny pilnie zaktualizować WordPress | Serwis Samorządowy PAP."
-    },
-    {
       "title": "Alert RCB w Słupsku. \"Uwaga! Zachowaj spokój\" - Polskie Radio 24",
       "url": "https://polskieradio24.pl/polska/alert-rcb-w-slupsku-uwaga-zachowaj-spokoj",
       "date": "2026-08-05T11:13:37Z",
@@ -344,6 +336,14 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "XTB launches spot cryptocurrency trading in Chile, European markets to follow shortly PAP Biznes."
+    },
+    {
+      "title": "NBP Referential Fixing - Table nr 150/A/NBP/2026 - PAP Biznes",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/nbp-referential-fixing-table-nr-150anbp2026",
+      "date": "2026-08-05T09:49:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "NBP Referential Fixing - Table nr 150/A/NBP/2026 PAP Biznes."
     },
     {
       "title": "Tragedia na torach była blisko. Chłopak na hulajnodze igrał ze śmiercią - Polskie Radio 24",
@@ -457,7 +457,7 @@
       "date": "2026-08-05T16:44:59Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "USA znoszą sankcje wobec Fly Baghdad, wcześniej powiązanego z irańskim IRGC reuters.com."
     },
     {
       "title": "Air India zatrudnia etiopskiego specjalistę ds. lotnictwa, aby pomóc w zmianie sytuacji – reuters.com",
@@ -473,7 +473,7 @@
       "date": "2026-08-05T16:41:02Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Ukraina zestrzeliła większość dronów, ale nie użyła rakiet balistycznych w nocnym ataku, którego celem były głównie obiekty cywilne. Wołodymyr Zełenski obwinił sojuszników za niewystarczające szybkie dostarczenie obrony powietrznej po tym, jak Ukrainie nie udało się zestrzelić ani jednego rosyjskiego pocisku w śmiertelnym nocnym ataku, w którym zginęło co najmniej 17 osób, a ⁠raniło dziesiątki kolejnych. Wstępne dane ukraińskich sił powietrznych wykazały, że ich obrona zestrzeliła 98 ze 115 dronów wystrzelonych przez Rosję w ciągu nocy, ale bez balistyki. rakiety. Kontynuuj czytanie..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Izrael uderza w południowy Liban, zabijając jedną osobę i raniąc 11",
@@ -497,7 +497,7 @@
       "date": "2026-08-05T16:26:40Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Próba zabójstwa pokazuje zdolność Ukrainy do kontynuowania tajnych operacji w głębi terytorium Rosji Szef wiodącego rosyjskiego producenta dronów został ciężko ranny w wyniku wybuchu bomby w samochodzie niedaleko Jekaterynburga. Jest to prawdopodobnie ostatnia z serii prób zamachu wymierzonych w osoby powiązane z wojną toczącą się na Ukrainie. Władimir Tkaczuk, założyciel prywatnego producenta dronów Uraldronzavod, został w środę przewieziony na intensywną terapię po eksplozji bomby podłożonej pod jego mercedesem – według rosyjskich władz media państwowe, powołując się na służby ratunkowe. W eksplozji zginął jego ochroniarz. Kontynuuj czytanie..."
     },
     {
       "title": "Robot do usuwania bomb uruchomiony po tym, jak na niemieckim lotnisku znaleziono drona przewożącego materiały wybuchowe",
@@ -577,7 +577,7 @@
       "date": "2026-08-05T15:11:32Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Izraelskie wojsko uderza w południowy Liban po ostrzeżeniu o ewakuacji przesłanym do wioski reuters.com."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Prawie 1500 nieruchomości zakupionych w ramach pierwszego w Australii programu depozytów 5% dla nabywców domów zamieniło się w inwestycje",
@@ -609,7 +609,7 @@
       "date": "2026-08-05T14:15:43Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Anthropic utworzy własny zespół projektantów chipów dla Claude’a, zatrudni inżynierów reuters.com."
     },
     {
       "title": "Cztery osoby dźgnięte nożem w wyniku zdarzenia najwyraźniej związanego ze zdrowiem psychicznym w pobliżu londyńskiego Covent Garden – reuters.com",
@@ -617,7 +617,7 @@
       "date": "2026-08-05T14:06:43Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Cztery osoby zostały dźgnięte nożem w wyniku zdarzenia najwyraźniej związanego ze zdrowiem psychicznym w pobliżu londyńskiego Covent Garden reuters.com."
     },
     {
       "title": "Szef ONZ ds. praw zaniepokojony wzrostem liczby egzekucji w Iranie od marca",
@@ -625,7 +625,7 @@
       "date": "2026-08-05T14:04:09Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Volker Türk twierdzi, że 56 osób zostało straconych pod zarzutami związanymi z bezpieczeństwem narodowym, w tym 27 w sprawach związanych ze styczniowymi protestami."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Uzbrojony mężczyzna aresztowany w pobliżu pola golfowego Trumpa przed wizytą prezydenta",
@@ -652,7 +652,7 @@
       "summary": "Oświadczenie następuje w czasie, gdy siły bezpieczeństwa Nigerii starają się powstrzymać liczne zagrożenia."
     },
     {
-      "title": "Pracownicy zajmujący się odpadami pomagają zwycięzcy znaleźć wyrzucony do kosza los na loterię o wartości 1 miliona euro we Włoszech",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-05T12:33:43Z",
       "source": "BBC News",
@@ -660,7 +660,7 @@
       "summary": "Gracz zdał sobie sprawę, że wyrzucił zmieniający życie kupon do kosza, gdy rodzina poinformowała go, że wylosowano liczby, w które grał przez lata."
     },
     {
-      "title": "W rosyjskim ataku zginęło 21 osób, ponieważ Ukraina twierdzi, że potrzebuje więcej rakiet przechwytujących",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-05T12:26:26Z",
       "source": "BBC News",
@@ -684,7 +684,7 @@
       "summary": "Każdy, kto pracuje dla zagranicznych mediów, w tym Pakistańczycy, będzie teraz potrzebował pozwolenia na relacjonowanie wydarzeń z dowolnego miejsca poza trzema głównymi miastami."
     },
     {
-      "title": "Dlaczego niektórzy naukowcy są podekscytowani faktem, że rakieta SpaceX uderzyła w Księżyc",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-05T11:19:24Z",
       "source": "BBC News",
@@ -713,10 +713,10 @@
       "date": "2026-08-05T09:00:15Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Narodowy Autonomiczny Uniwersytet Meksyku twierdzi, że kandydaci muszą przystąpić do testu osobiście po porażce w Internecie Największy i najbardziej prestiżowy uniwersytet w Meksyku ogłosił, że około 58 000 studentów będzie musiało ponownie przystąpić do egzaminu wstępnego po tym, jak anormalnie wysokie wyniki testów wzbudziły podejrzenia o powszechne oszustwo. Narodowy Autonomiczny Uniwersytet Meksyku (Unam) powiedział, że egzamin odbędzie się osobiście po pierwszej próbie z całkowicie zdalną wersją online, która zakończyła się porażką i tysiącami unieważnionych wyników. Kontynuuj czytanie..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Perez Hilton wraca do zdrowia w szpitalu po doniesieniach, że samookaleczył się podczas transmisji na żywo",
       "url": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-05T08:29:30Z",
       "source": "BBC News",
@@ -732,7 +732,7 @@
       "summary": "Minister energii twierdzi, że australijskie gospodarstwa domowe i niezawodność energii będą chronione przez nowe ustawodawstwo federalne. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Minister energii Chris Bowen twierdzi, że rząd federalny uchyli rządy stanowe, które sprzeciwiają się nowym krajowym przepisom dotyczącym centrów danych, wprowadzając ustawodawstwo Wspólnoty zmuszające nowe centra danych AI do zasilania energią odnawialną i zakazujące tych zasilanych gazem. Bowen powiedział, że spodziewa się swoich odpowiedników w Queensland i na Terytorium Północnym, którzy protestowali przeciwko nowym przepisom federalnym podczas spotkaniu w zeszłym tygodniu – nie zgodził się z tym posunięciem, ale stwierdził, że rząd Albanii jest zaangażowany we wspomaganie rewolucji sztucznej inteligencji energią odnawialną. Kontynuuj czytanie..."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "El Niño może doprowadzić do ostrego głodu 50 milionów ludzi przed końcem przyszłego roku",
       "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
       "date": "2026-08-05T08:00:13Z",
       "source": "The Guardian",
@@ -756,7 +756,7 @@
       "summary": "Ludzie złożyli skargi na Starbucks za rzekome lekceważenie śmiercionośnego powstania w Gwangju."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Trump twierdzi, że Iran „bardzo mocno uderzy”, jeśli cieśnina Ormuz nie zostanie otwarta wkrótce po spadku cen ropy",
       "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-05T03:44:30Z",
       "source": "BBC News",
@@ -771,7 +771,7 @@
       "date": "2026-08-05T17:44:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Trump twierdzi, że porozumienie w sprawie ponownego otwarcia Cieśniny Ormuz może nastąpić w tym tygodniu AP News."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Wojna, która toczy się nad Rosją i Ukrainą",
@@ -787,7 +787,7 @@
       "date": "2026-08-05T17:11:22Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Nikt nie wątpił w intensywność zaangażowania Lobgi Rangzen na rzecz Tybetu wolnego od chińskiej kontroli. Ale nie byli przygotowani na to, co zrobił później."
     },
     {
       "title": "Iran twierdzi, że zbliża się do ostatecznego porozumienia z Omanem w sprawie Cieśniny Ormuz",
@@ -819,7 +819,7 @@
       "date": "2026-08-05T15:53:26Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "W tym samym czasie negocjatorzy izraelscy i libańscy prowadzili w Rzymie rozmowy mające na celu osiągnięcie długoterminowego porozumienia dyplomatycznego."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Zmiany klimatyczne nadchodzą na Ulicę Sezamkową",
@@ -859,7 +859,7 @@
       "date": "2026-08-05T14:39:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "W rosyjskim ostrzale w regionie stołecznym Ukrainy zginęło 17 osób, ponieważ obrona powietrzna nie działa AP News."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Finlandia stara się chronić dzieci przed deepfake’ami, mając na uwadze Rosję",
@@ -867,7 +867,7 @@
       "date": "2026-08-05T14:29:47Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Finlandia, wystrzegając się dezinformacji z Moskwy i spoza niej, ma przewagę nad innymi krajami w wykrywaniu fałszywych wiadomości. Ale sztuczna inteligencja to zupełnie nowe wyzwanie."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Jak chińska sztuczna inteligencja Przetacza się przez Afrykę",
@@ -963,7 +963,7 @@
       "date": "2026-08-05T00:58:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Netanjahu mówi, że Izrael nie będzie się wycofywał ze Strefy Gazy, dopóki Hamas nie zostanie całkowicie rozbrojony AP News."
     },
     {
       "title": "Akcje w USA biją rekordy, w miarę jak zyski Palantira i innych spółek rosną, a ceny ropy spadają – AP News",
@@ -987,7 +987,7 @@
       "date": "2026-08-04T08:17:39Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Wyniki na żywo prawyborów do Senatu Stanów Zjednoczonych w stanie Michigan w 2026 r. AP News."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Władze aresztują podejrzanego o podpalenie w związku z jednym z niszczycielskich pożarów w Spokane – AP News",
@@ -1037,7 +1037,7 @@
       "date": "2026-08-05T17:17:19Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Adres URL artykułu: https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49185880 Punkty: 6 # Komentarze: 0."
     },
     {
       "title": "Po podniesieniu cen Disney+ i Netflix rozważają zaoferowanie bezpłatnych alternatyw",
@@ -1045,7 +1045,7 @@
       "date": "2026-08-05T17:12:39Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Disney jest zainteresowany „wrażliwymi na cenę” klientami zajmującymi się streamingiem."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Darmowy internet w telefonie na wakacje. Bierz i się nie zastanawiaj",
@@ -1128,7 +1128,7 @@
       "summary": "Płakaliśmy ze wzruszenia, gdy zaczął mówić po polsku. Teraz Google ogłosił datę pogrzebu."
     },
     {
-      "title": "Pętla Odkryć",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.discoveryloop.com/",
       "date": "2026-08-05T16:19:44Z",
       "source": "Hacker News",
@@ -1144,7 +1144,7 @@
       "summary": "Adres URL artykułu: https://twitter.com/JeffDean/status/2085034604172603724 Adres URL komentarzy: https://news.ycombinator.com/item?id=49184879 Punkty: 57 # Komentarze: 3."
     },
     {
-      "title": "Demis Hassabis ustępuje ze stanowiska dyrektora generalnego Google DeepMind na rzecz przewodniczącego i doda stanowisko głównego naukowca Alphabet; Hassabis mówi, że AGI jest „pod ręką” (Axios)",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.techmeme.com/260805/p26#a260805p26",
       "date": "2026-08-05T16:07:02Z",
       "source": "Techmeme",
@@ -1173,7 +1173,7 @@
       "date": "2026-08-05T16:04:33Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49184746 Punkty: 225 # Komentarze: 50."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Premier apeluje, by nie oszczędzać na klimie. Jakie są twoje prawa w upalne dni?",
@@ -1237,7 +1237,7 @@
       "date": "2026-08-05T15:30:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Kirsten Korosec / TechCrunch: Amazon Zoox zacznie pobierać opłaty za przejazdy w Las Vegas od 10 sierpnia, co oznacza rozpoczęcie działalności komercyjnej po oferowaniu bezpłatnych przejazdów od 2025 r. &mdash; Prawie rok temu Zoox udostępnił publicznie usługę robotaxi w Las Vegas. Teraz można rozpocząć pobieranie opłat za te przejazdy."
     },
     {
       "title": "Najbrzydsze Audi w historii powraca. Nowy elektryk idzie w ślady przodka",
@@ -1248,7 +1248,7 @@
       "summary": "Audi szykuje wielki powrót tabliczki znamionowej, która przed laty wywoływała wiele kontrowersji. Jesienią 2026 roku na światowe salony wjedzie nowe Audi A2 e-tron, przyjmując rolę w pełni elektrycznego modelu podstawowego w klasie kompaktowej. Niemcy obiecują przy tym absolutny przełom w dziedzinie wydajności, bo ich najświeższe dziecko ma zużywać zaledwie 12,8 kWh na setkę."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Dolina webhooków",
       "url": "https://weli.dev/blog/the-valley-of-webhooks/",
       "date": "2026-08-05T15:22:06Z",
       "source": "Hacker News",
@@ -1256,7 +1256,7 @@
       "summary": "Adres URL artykułu: https://weli.dev/blog/the-valley-of-webhooks/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49184216 Punkty: 31 # Komentarze: 13."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Faye, która oferuje usługi ubezpieczeń podróżnych i wykorzystuje sztuczną inteligencję do rozwiązywania roszczeń, zebrała 50 mln dolarów w ramach serii C pod przewodnictwem Madrony, zwiększając całkowite finansowanie do 100 mln dolarów (Chris Metinko/Axios)",
       "url": "https://www.techmeme.com/260805/p23#a260805p23",
       "date": "2026-08-05T15:15:02Z",
       "source": "Techmeme",
@@ -1381,7 +1381,7 @@
       "date": "2026-08-04T21:52:31Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Eksperci ds. pożarnictwa ostrzegają, że takie rynki mogą zachęcać do podpaleń."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Udział Windowsa spada. Android coraz wyraźniej prowadzi",
@@ -1450,7 +1450,7 @@
       "summary": "Redmond chce wyników od Copilot, a nie imponujących danych dotyczących zużycia."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Operacjonalizuj sztuczną inteligencję na dużą skalę dzięki HPE i NVIDIA",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/05/sponsored-operational-ai-at-scale-with-hpe-and-nvidia/5282929",
       "date": "2026-08-05T15:00:00Z",
       "source": "The Register",
@@ -1551,7 +1551,7 @@
       "date": "2026-08-05T11:04:52Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Kopie zapasowe baz danych prawdopodobnie zostaną skradzione, co może ujawnić dane dawcy, osoby wspierającej i użytkownika usługi."
     },
     {
       "title": "Krytyczna luka w Gitea umożliwia nieuwierzytelnionym atakującym odczytanie plików serwera za pomocą znaczników w trybie organizacji",
@@ -1575,7 +1575,7 @@
       "date": "2026-08-05T10:35:29Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Badacze GitGuardian odkryli 321 instancji n8n akceptujących tokeny API ujawnione w publicznych zatwierdzeniach GitHuba i zademonstrowali cztery sposoby, w jakie osoby atakujące mogą je wykorzystać w celu uzyskania dostępu do wrażliwych danych i danych uwierzytelniających podrzędnych bez wykorzystywania luki w oprogramowaniu. Przeskanowaliśmy publiczne zatwierdzenia GitHuba pod kątem ujawnionych tokenów API n8n i zidentyfikowaliśmy 4576 unikalnych danych uwierzytelniających powiązanych z 1255 nazwami hostów. Z 896."
     },
     {
       "title": "Utrzymanie pracy wczorajszych komputerów wymaga czegoś więcej niż tylko nostalgii",
@@ -1932,20 +1932,20 @@
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
-      "title": "W poszukiwaniu sygnałów - 5 sierpnia 2026 - Nowe maksima na indeksach, WIG20 atakuje maksima z 2007",
-      "url": "https://strefainwestorow.pl/blog/w-poszukiwaniu-sygnalow/w-poszukiwaniu-sygnalow-5-sierpnia-2026-nowe-maksima-na-indeksach",
-      "date": "2026-08-05T15:17:14Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "W poszukiwaniu sygnałów - 5 sierpnia 2026 - Nowe maksima na indeksach, WIG20 atakuje maksima z 2007 Ewa śr., 05.08.2026 Wstęp Indeksy GPW, Ring spekulanta, Spółki wcześniej sygnalizowane, Obserwowane wykresy Kącik życzeń W poszukiwaniu sygnałów - 5 sierpnia 2026 - Nowe maksima na indeksach, WIG20 atakuje maksima z 2007 Ewa."
-    },
-    {
       "title": "Kolejna elektrownia jądrowa zmniejsza moc. Susza uderza w Słowenię",
       "url": "https://www.bankier.pl/wiadomosc/Kolejna-elektrownia-jadrowa-zmniejsza-moc-Susza-uderza-w-Slowenie-9178345.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-08-05T14:35:00Z",
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Elektrownia atomowa w słoweńskim Krszko poinformowała w środę, że zmniejsza produkcję prądu do 80 proc. mocy z powodu niskiego poziomu i wysokiej temperatury wody w rzece Sawie, która chłodzi siłownię. To jedyna elektrownia atomowa w Słowenii."
+    },
+    {
+      "title": "Pierwsza polska \"atomówka\" się rozpędza. Bechtel przejmuje plac budowy",
+      "url": "https://www.bankier.pl/wiadomosc/Pierwsza-polska-atomowka-sie-rozpedza-Bechtel-przejmuje-plac-budowy-9178339.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-08-05T14:18:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Polskie Elektrownie Jądrowe (PEJ) przekazały generalnemu wykonawcy, firmie Bechtel, teren pod budowę pierwszej polskiej elektrowni jądrowej - poinformowała w środę spółka."
     },
     {
       "title": "Amerykanie przejęli wielką plażę w Polsce. Zbudują na niej elektrownię jądrową - Forsal.pl",
@@ -1994,14 +1994,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "BORYSZEW [BRS] stockwatch.pl."
-    },
-    {
-      "title": "GreenX Metals buduje swoją wartość na GPW. Spółka rozszerza koncesje na Grenlandii o złoto i surowce krytyczne",
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl/greenx-metals-perspektywy-notowania-gpw",
-      "date": "2026-08-05T12:41:41Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "GreenX Metals buduje swoją wartość na GPW. Spółka rozszerza koncesje na Grenlandii o złoto i surowce krytyczne Piotr Maciążek śr., 05.08.2026 Kanał W Zielonej Strefie greenx metals notowania greenx metals Treść Powiększenie obszaru poszukiwań w strategicznym rejonie Arktyki, obiecujące postępy w projektach miedziowych w Niemczech oraz prawo do wielomilionowego odszkodowania dają spółce GreenX Metals (chodzi o dawne Prairie Mining Limited) solidne podstawy do wzrostu wyceny na GPW.Rozwój giełdowych firm z branży surowcowej wymaga mądrego inwestowania pieniędzy i budowania portfela projektów o wysokiej opłacalności. Warto w tym kontekście zwrócić uwagę na prace prowadzone przez notowaną na GPW spółkę GreenX Metals we wschodniej Grenlandii."
     },
     {
       "title": "Spółka: ModineManufacturing - stockwatch.pl",
@@ -2092,20 +2084,20 @@
       "summary": "Unibep wybuduje obwodnicę Starogardu Gdańskiego za blisko 408 mln zł stockwatch.pl."
     },
     {
+      "title": "Budimex: kontrakt drogowy w Czechach za 143,7 mln CZK - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/budimex-kontrakt-drogowy-czechy-droga-i43-blansko-rzsd,akcje,377570",
+      "date": "2026-08-05T09:04:53Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Budimex: kontrakt drogowy w Czechach za 143,7 mln CZK stockwatch.pl."
+    },
+    {
       "title": "Lobby biznesowe wygrało. Nadal nie mamy prawa do kranówki w restauracjach - Forbes",
       "url": "https://www.forbes.pl/opinie/restauracjom-oplaca-sie-podawanie-klientom-darmowej-wody-z-kranu-opinia/ndn4nxz",
       "date": "2026-08-05T08:53:24Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Lobby biznesowe wygrało. Nadal nie mamy prawa do kranówki w restauracjach Forbes."
-    },
-    {
-      "title": "Gigant finansów buduje zaplecze dla cyfrowego dolara. Adopcja kryptowalut przekracza punkt zwrotny",
-      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty/visa-stablecoiny-cyfrowy-dolar",
-      "date": "2026-08-05T08:16:08Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "Gigant finansów buduje zaplecze dla cyfrowego dolara. Adopcja kryptowalut przekracza punkt zwrotny Szymon Machalica śr., 05.08.2026 Kanał Strefa Global Market Visa Stablecoiny Treść Visa uruchomiła platformę, która ma uprościć korzystanie ze stablecoinów przez banki, fintechy i firmy krypto. To ważny ruch, bo pokazuje, że blockchain coraz wyraźniej przestaje być historią o cenach tokenów, a staje się historią o infrastrukturze płatniczej.Nowa usługa, Visa Stablecoin Platform, ma pozwolić instytucjom emitować, przechowywać, przesyłać i wykupywać stablecoiny w jednym środowisku operacyjnym."
     },
     {
       "title": "Wzrost, który inspiruje. Zakończyła się XVIII edycja Diamentów Forbesa - Forbes",
@@ -2164,28 +2156,12 @@
       "summary": "Newag dostarczy Województwu Podlaskiemu hybrydowe zespoły trakcyjne za 95,8 mln zł BiznesRadar."
     },
     {
-      "title": "Green Lanes wchodzi w fazę skalowania. Głównym rynkiem Polska, ale ekspansja obejmuje całą Europę",
-      "url": "https://strefainwestorow.pl/spolki/greenlanes-strumber-plany-inwestycje-gielda-meble",
-      "date": "2026-08-05T07:18:18Z",
-      "source": "Strefa Inwestorów",
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 05.08.2026",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-05-08-2026-7315071593449472a.html",
+      "date": "2026-08-05T05:02:33Z",
+      "source": "Money.pl",
       "confirmed_by": 1,
-      "summary": "Green Lanes wchodzi w fazę skalowania. Głównym rynkiem Polska, ale ekspansja obejmuje całą Europę Seb Seb śr., 05.08.2026 Kanał Strefa Inwestorów Green Lanes Strumber plany inwestycje giełda konopia len meble Treść Green Lanes wchodzi w etap, na który inwestorzy czekali od kilku lat. Po zakończeniu inwestycji, uruchomieniu zakładu i rozpoczęciu ciągłej produkcji belek Strumber® spółka koncentruje się już przede wszystkim na sprzedaży oraz zwiększaniu skali działalności."
-    },
-    {
-      "title": "Allegro przeprowadziło imponujące transfery przed nowym sezonem. Topowi menedżerowie w zarządzie",
-      "url": "https://strefainwestorow.pl/analizy/allegro-nowacfo-noweuslugi-fintech-strategia",
-      "date": "2026-08-05T07:01:01Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "Allegro przeprowadziło imponujące transfery przed nowym sezonem. Topowi menedżerowie w zarządzie Seb Seb śr., 05.08.2026 Kanał Strefa Inwestorów Allegro zarząd CFO giełda inwestycje ecommerce Treść Katarzyna Ostap-Tomann ma wzmacniać kontrolę finansową, zarządzanie kapitałem i gotowość grupy Allegro do dalszego skalowania. Dariusz Mazurkiewicz otrzymuje natomiast zadanie rozwinięcia nowego, potencjalnie wysokomarżowego filaru biznesu platformy."
-    },
-    {
-      "title": "Indeks Nastrojów Deweloperów odbił w lipcu 2026. To jeszcze nie powrót sprzedażowej hossy",
-      "url": "https://strefainwestorow.pl/nieruchomosci/indeks-nastrojow-deweloperow-lipiec-2026",
-      "date": "2026-08-05T06:30:00Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "Indeks Nastrojów Deweloperów odbił w lipcu 2026. To jeszcze nie powrót sprzedażowej hossy Wioletta Hass śr., 05.08.2026 Kanał Strefa Inwestorów rynek pierwotny deweloperzy sprzedaż mieszkań ceny mieszkań indeks nastrojów podaż mieszkań rynek nieruchomości lipiec 2026 Treść Lipcowy Indeks Nastrojów Deweloperów mocno odbił względem czerwca, przekraczając nawet odczyt z kwietnia i maja. Skąd ten optymizm pośród badanych deweloperów?"
+      "summary": "Kurs franka szwajcarskiego - 05.08.2026. W środę za jednego franka (CHF) trzeba zapłacić 4.6048 zł."
     },
     {
       "title": "Od kradzieży towaru do porwania. Budując swój biznes przeszedł przez piekło - Forbes",
@@ -2196,6 +2172,14 @@
       "summary": "Od kradzieży towaru do porwania. Budując swój biznes przeszedł przez piekło Forbes."
     },
     {
+      "title": "Słynna polska marka MISBHV w dołku. Tak nowa właścicielka chce ją ratować - Forbes",
+      "url": "https://www.forbes.pl/biznes/martyna-koltun-przejmuje-stery-w-misbhv-od-poczatku-czulam-ciezar-tej-decyzji/jg42s59",
+      "date": "2026-08-04T21:06:16Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Słynna polska marka MISBHV w dołku. Tak nowa właścicielka chce ją ratować Forbes."
+    },
+    {
       "title": "Co trzecią złotówkę z emerytury seniorzy przeznaczają na podstawowe zakupy",
       "url": "https://300gospodarka.pl/news/koszyk-seniora-czerwiec-2026",
       "date": "2026-08-04T21:03:57Z",
@@ -2204,12 +2188,28 @@
       "summary": "Obniżki cen w sklepach w czerwcu nie przyniosły najstarszym konsumentom ulgi przy kasie. Koszt podstawowych zakupów dla jednoosobowego gospodarstwa emeryta spadł w ciągu miesiąca zaledwie o 1,88 zł, do 529,59 zł – wynika z raportu „Indeks Miesięcznych Zakupów”. Taki koszyk nadal pochłania 29,41 proc."
     },
     {
+      "title": "Formacje analizy technicznej OW20H264325 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/OW20H264325",
+      "date": "2026-08-04T16:07:35Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Formacje analizy technicznej OW20H264325 BiznesRadar."
+    },
+    {
       "title": "Niższa inflacja przyszła za późno. Tysiące osób ogłosiły upadłość konsumencką",
       "url": "https://300gospodarka.pl/news/upadlosc-konsumencka-dane-krd-1-polrocze-2026",
       "date": "2026-08-04T15:32:54Z",
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Poprawa części wskaźników gospodarczych nie zakończyła problemów finansowych gospodarstw domowych. W pierwszej połowie 2026 r. upadłość konsumencką ogłosiło 12,2 tys."
+    },
+    {
+      "title": "Raport ESG nie wystarczy. Banki i inwestorzy patrzą na konkretne działania",
+      "url": "https://300gospodarka.pl/news/juz-nie-tylko-raport-esg-klienci-inwestorzy-i-banki-chca-dzialan",
+      "date": "2026-08-04T14:39:12Z",
+      "source": "300Gospodarka",
+      "confirmed_by": 1,
+      "summary": "Unijny pakiet Omnibus I łagodzi część obowiązków regulacyjnych, ale ESG nie jest już tylko raportem. Inwestorzy, instytucje finansujące, kontrahenci i konsumenci oczekują od firm rzeczywistych działań. ESG to skrót od trzech obszarów: środowiska, odpowiedzialności społecznej i ładu korporacyjnego."
     }
   ],
   "critical_alerts": [
@@ -2236,6 +2236,14 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Trafienia w dwa miasta to najkrwawsze zamachy bombowe od początku czerwcowego zawieszenia broni W izraelskim nalocie na południowy Liban zginęła jedna osoba, a 11 zostało rannych – podało libańskie ministerstwo zdrowia, co było jednym z najbardziej śmiercionośnych zamachów bombowych w Izraelu od początku czerwcowego zawieszenia broni. Izrael przeprowadził nalot w mieście Tebnine w południowym Libanie, uderzając w cmentarz – podało libańskie ministerstwo zdrowia. Stwierdzono, że miasto al-Mansouri, również w południowym Libanie, również zostało zbombardowane, co zmusiło rodziny do ucieczki. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Szef producenta dronów został ciężko ranny w wyniku bomby samochodowej w Rosji",
+      "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
+      "date": "2026-08-05T16:26:40Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Próba zabójstwa pokazuje zdolność Ukrainy do kontynuowania tajnych operacji w głębi terytorium Rosji Szef wiodącego rosyjskiego producenta dronów został ciężko ranny w wyniku wybuchu bomby w samochodzie niedaleko Jekaterynburga. Jest to prawdopodobnie ostatnia z serii prób zamachu wymierzonych w osoby powiązane z wojną toczącą się na Ukrainie. Władimir Tkaczuk, założyciel prywatnego producenta dronów Uraldronzavod, został w środę przewieziony na intensywną terapię po eksplozji bomby podłożonej pod jego mercedesem – według rosyjskich władz media państwowe, powołując się na służby ratunkowe. W eksplozji zginął jego ochroniarz. Kontynuuj czytanie..."
     }
   ],
   "map_features": [
@@ -2244,8 +2252,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Ukraina nigdy nie wejdzie do NATO.",
-      "url": "https://radar.rp.pl/przemysl-zbrojeniowy/art44937451-marek-kutarba-ukraina-moze-zastapic-stanom-zjednoczonym-nato"
+      "description": "Unia Europejska przekazała Ukrainie 1,4 mld euro zysków nadzwyczajnych z zamrożonych aktywów Banku Rosji.",
+      "url": "https://www.rp.pl/finanse/art44944631-rosyjskie-aktywa-znow-finansuja-ukraine-bruksela-przekazala-1-4-mld-euro"
     },
     {
       "lat": 31.5,
@@ -2526,6 +2534,11 @@
       "score": 100,
       "reasons": [
         {
+          "title": "Szef producenta dronów został ciężko ranny w wyniku bomby samochodowej w Rosji",
+          "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
+          "source": "The Guardian"
+        },
+        {
           "title": "Wojna, która toczy się nad Rosją i Ukrainą",
           "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
           "source": "The New York Times"
@@ -2534,20 +2547,15 @@
           "title": "\"Uderzenia rakiet, drżące mury, syreny\". Relacja posła KO z Kijowa",
           "url": "https://www.polsatnews.pl/wiadomosc/2026-08-05/rosjanie-zasypali-kijow-pociskami-w-stolicy-ukrainy-byl-polski-posel/",
           "source": "Polsat News"
-        },
-        {
-          "title": "Zełenski wzywa do zwiększenia obrony powietrznej, ponieważ w rosyjskim ataku na Kijów zginęło co najmniej 17 osób",
-          "url": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
-          "source": "The Guardian"
         }
       ]
     },
     {
       "name": "Iran",
-      "score": 64,
+      "score": 54,
       "reasons": [
         {
-          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "title": "El Niño może doprowadzić do ostrego głodu 50 milionów ludzi przed końcem przyszłego roku",
           "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
           "source": "The Guardian"
         },
@@ -2565,7 +2573,7 @@
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 45,
+      "score": 38,
       "reasons": [
         {
           "title": "Izrael uderza w południowy Liban, zabijając jedną osobę i raniąc 11",
@@ -2581,7 +2589,7 @@
     },
     {
       "name": "Liban",
-      "score": 27,
+      "score": 23,
       "reasons": [
         {
           "title": "Izrael uderza w południowy Liban, zabijając jedną osobę i raniąc 11",
@@ -2778,51 +2786,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25362.24,
+      25365.31,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26512.51,
+      26515.71,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26657.68,
+      26660.9,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      26899.66,
+      26902.91,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27527.72,
+      27531.05,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27563.32,
+      27566.66,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27805.05,
+      27808.41,
       27354.94,
       27400.36,
       27412.11,
-      28201.61,
+      28205.02,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27471.21,
+      27474.53,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27648.75,
+      27652.09,
       27686.17,
       27404.78,
       27351.97,
@@ -2831,7 +2839,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27360.63,
+      27363.94,
       27930.04,
       28234.04,
       28218.36,
@@ -2840,25 +2848,25 @@
       28294.39,
       28203.83,
       28555.17,
-      28184.24,
+      28187.65,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27746.34,
+      27749.69,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27576.27,
+      27579.61,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      27865.5,
+      27868.87,
       28457.79,
-      28783.72,
-      28803.48
+      28787.2,
+      28803.54
     ],
     "currency": "PLN"
   }
