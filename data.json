@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-05T03:53:32Z",
+  "last_updated": "2026-08-05T04:03:08Z",
   "poland": [
+    {
+      "title": "Urzędnik musi sam jasno ustalić, czy podatnik był polskim rezydentem",
+      "url": "https://pro.rp.pl/pit/art44935041-urzednik-musi-sam-jasno-ustalic-czy-podatnik-byl-polskim-rezydentem",
+      "date": "2026-08-05T03:50:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Obowiązki aktualizacyjne dotyczące miejsca zamieszkania osoby fizycznej w Polsce nie zwalniają organu podatkowego od konieczności ustalenia adresu podatnika dla celów jego rezydencji podatkowej."
+    },
     {
       "title": "Michał Ziemiak, rzecznik finansowy: Nie skazujmy konsumentów na sąd",
       "url": "https://www.rp.pl/opinie-prawne/art44931161-michal-ziemiak-rzecznik-finansowy-nie-skazujmy-konsumentow-na-sad",
@@ -72,14 +80,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Blik, błyskawiczne płatności, dostawa następnego dnia i bezproblemowe zwroty sprawiły, że polski e-commerce wypracował standard, z którym zagraniczne sklepy wciąż mają problem. Co drugi Polak nie kupuje za granicą, a jedną z głównych barier pozostaje brak znanych metod płatności."
-    },
-    {
-      "title": "Krzysztof Adam Kowalczyk: PIT jak stajnia Augiasza. Potrzebny Herakles",
-      "url": "https://www.rp.pl/opinie-ekonomiczne/art44936281-krzysztof-adam-kowalczyk-pit-jak-stajnia-augiasza-potrzebny-herakles",
-      "date": "2026-08-05T03:06:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Po blisko 35 latach obowiązywania i setkach poprawek podatek dochodowy od osób fizycznych przypomina nie tyle dziurawy patchwork, co stajnię Augiasza. Czy kiedyś znajdzie się Herakles, który ją wyczyści?"
     },
     {
       "title": "Ukraina zaostrza przepisy dla mężczyzn za granicą. Władze stawiają dodatkowy warunek",
@@ -338,14 +338,6 @@
       "summary": "Pacjenci stosujący lek na cholesterol powinni sprawdzić opakowania. Jest decyzja GIF Polskie Radio 24."
     },
     {
-      "title": "DZIEŃ NA RYNKACH: Futures w USA rosną, inwestorzy analizują wyniki spółek - PAP Biznes",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-rosna-inwestorzy-analizuja-wyniki-spolek",
-      "date": "2026-08-04T11:32:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "DZIEŃ NA RYNKACH: Futures w USA rosną, inwestorzy analizują wyniki spółek PAP Biznes."
-    },
-    {
       "title": "Parasol plażowy chroni przed słońcem, ale nie chłodzi - Polska Agencja Prasowa SA",
       "url": "https://www.pap.pl/aktualnosci/parasol-plazowy-chroni-przed-sloncem-ale-nie-chlodzi",
       "date": "2026-08-04T10:49:00Z",
@@ -400,35 +392,51 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Wrocław/ Areszt dla 18-latka podejrzanego o usiłowanie zabójstwa kobiety (pion) PAP - serwis wideo."
+    },
+    {
+      "title": "Fala upałów. Kurtyny wodne i darmowa woda do picia dla warszawiaków - PAP - serwis wideo",
+      "url": "https://wideo.pap.pl/pap-media,101/fala-upalow-kurtyny-wodne-i-darmowa-woda-do-picia-dla-warszawiakow-,94057",
+      "date": "2026-08-04T02:55:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Fala upałów. Kurtyny wodne i darmowa woda do picia dla warszawiaków PAP - serwis wideo."
     }
   ],
   "world_security": [
+    {
+      "title": "Wiadomości z Australii na żywo: Bowen twierdzi, że zwolennicy broni nuklearnej żyją w „świecie fantazji”; Leeser twierdzi, że finansowanie nie poprawi wyników Naplan",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
+      "date": "2026-08-05T03:44:32Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Śledź dzisiejsze wiadomości na żywo Wersja próbna Alana Jonesa: aktualizacje na żywoOtrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami Prawie każdy dom sprzedany w pierwszych sześciu miesiącach roku przyniósł zysk Zdecydowana większość właścicieli domów sprzedaje swoje nieruchomości za więcej, niż je kupiła, nawet gdy ceny domów gwałtownie spadają, jak podaje AAP. Kontynuuj czytanie..."
+    },
+    {
+      "title": "Trump twierdzi, że Iran „bardzo mocno uderzy”, jeśli cieśnina Ormuz nie zostanie otwarta wkrótce po spadku cen ropy",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-05T03:44:30Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
     {
       "title": "Urzędnicy twierdzą, że w ataku rosyjskiej rakiety balistycznej na Kijów zginęły dwie osoby, a inne zostały ranne",
       "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-05T03:37:50Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Szef administracji wojskowej Kijowa twierdzi, że Rosja „po raz kolejny masowo atakuje” i uderza w budynki mieszkalne."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Trump twierdzi, że Iran „bardzo mocno uderzy”, jeśli cieśnina Ormuz nie zostanie otwarta wkrótce po spadku cen ropy",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-05T03:37:27Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Sekretarz stanu USA Marco Rubio i sekretarz skarbu Scott Bessent ogłosili postęp w rozmowach umożliwiających wznowienie dostaw."
-    },
-    {
-      "title": "Wiadomości z Australii na żywo: Bowen twierdzi, że zwolennicy broni nuklearnej żyją w „świecie fantazji”; Leeser twierdzi, że finansowanie nie poprawi wyników Naplan",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
-      "date": "2026-08-05T03:30:07Z",
+      "title": "Wandalizm producenta sprzętu obronnego w Melbourne badany jako akt terrorystyczny przez „skrajnie lewicowych ekstremistów”",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/05/melbourne-anti-weapons-protest-terrorism-investigation-ntwnfb",
+      "date": "2026-08-05T03:32:32Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Śledź dzisiejsze wiadomości na żywo Wersja próbna Alana Jonesa: aktualizacje na żywoOtrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami Prawie każdy dom sprzedany w pierwszych sześciu miesiącach roku przyniósł zysk Zdecydowana większość właścicieli domów sprzedaje swoje nieruchomości za więcej, niż je kupiła, nawet gdy ceny domów gwałtownie spadają, jak podaje AAP. Kontynuuj czytanie..."
+      "summary": "Film wideo grupy twierdzącej, że jest odpowiedzialny za podpalenie, stwarzał perspektywę dalszego wandalizmu lub ukierunkowanych działań i zawierał treść: „Przestańcie zbroić Izrael, bo inaczej”. Śledźcie nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymujcie nasze e-maile z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Protestujący przeciwko broni, którzy rzekomo zdewastowali producenta sprzętu obronnego i podpalili pobliskie pojazdy, mogą zostać skazani na dożywocie po tym, jak policja stwierdziła, że incydent jest badany jako akt terroryzmu przez „skrajnie lewicowych ekstremistów”. Australijska policja federalna, jej wiktoriańska policja federalna. ich odpowiedniki i agencja szpiegowska Asio badają, czy incydent w Lovitt Technologies z siedzibą w Melbourne w dniu 5 lipca 2025 r. został potencjalnie popełniony przez „skrajnie lewicowych ekstremistów motywowanych ideologiami anarchistycznymi i rewolucyjnymi” – stwierdzono we wspólnym oświadczeniu. Kontynuuj czytanie..."
     },
     {
-      "title": "Stolica Nowej Zelandii zachwyca się rzadkimi opadami śniegu, gdy mieszkańcy południowego miasta jeżdżą na nartach po najbardziej stromej ulicy świata",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.theguardian.com/world/2026/aug/05/new-zealand-capital-rare-snow-wellington-dunedin-ski-down-worlds-steepest-street",
       "date": "2026-08-05T03:27:37Z",
       "source": "The Guardian",
@@ -449,7 +457,7 @@
       "date": "2026-08-05T02:33:00Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Długo oczekiwany raport organu antykorupcyjnego stwierdza „poważne i niepokojące” zachowanie starszych członków rządu w kontaktach z szefem związku. Śledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj nasze e-maile z najświeższymi wiadomościami, bezpłatną aplikację lub codzienne podcasty z wiadomościami. Starsi członkowie byłego rządu Daniela Andrewsa zaangażowani w „poważne i niepokojące” zachowanie w kontaktach z przywódcą związku zawodowego strażaków, Peterem Marshallem – wynika z długo oczekiwanego raportu organu ds. przeciwdziałania korupcji stanu Wiktoria. Znaleziono. Raport niezależnej, szeroko zakrojonej Komisji Antykorupcyjnej został złożony w parlamencie w środę, osiem lat po rozpoczęciu dochodzenia. Kontynuuj czytanie..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Partia Pracy planuje cięcia w zakresie migracji, gdy Tony Burke wycofuje się z ważnego przemówienia",
@@ -457,7 +465,7 @@
       "date": "2026-08-05T02:29:21Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "W związku z przełożeniem wystąpienia Ministra Spraw Wewnętrznych w Krajowym Klubie Prasowym zwolennicy uchodźców ubolewają, że stracono „szansę na zjednoczenie Australijczyków”. Śledź nasz australijski blog z wiadomościami, aby uzyskać najnowsze aktualizacje. Otrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Laboratorium wprowadzi nowe zasady mające na celu ograniczenie migracji netto za granicę i nakłonienie tymczasowych mieszkańców do opuszczenia Australii pomimo opóźnienia ważnego przemówienia ministra spraw wewnętrznych Tony’ego Burke’a na ten temat. Źródła rządowe poinformowały jednak Guardian Australia, że zmiany w polityce nie spowodują spadku netto migracji zagranicznych do poziomu istniejącego. cele. Kontynuuj czytanie..."
+      "summary": "W związku z przełożeniem wystąpienia Ministra Spraw Wewnętrznych w Krajowym Klubie Prasowym zwolennicy uchodźców ubolewają nad straconą „szansą na zjednoczenie Australijczyków”. Śledź nasz australijski blog z wiadomościami, aby uzyskać najnowsze aktualizacje. Otrzymuj nasze e-maile z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Laboratorium wprowadzi nowe zasady mające na celu ograniczenie migracji netto za granicę i nakłonienie tymczasowych mieszkańców do opuszczenia Australii pomimo opóźnienia ważnego przemówienia ministra spraw wewnętrznych Tony’ego Burke’a na ten temat. Źródła rządowe poinformowały jednak Guardian Australia, że zmiany w polityce nie spowodują spadku netto migracji zagranicznych do poziomu istniejącego. cele. Kontynuuj czytanie..."
     },
     {
       "title": "„Nasz nowy mistrz”: Filipiny ogarnęła tenisowa gorączka po historycznym zwycięstwie Alexa Eali",
@@ -468,12 +476,12 @@
       "summary": "Zwycięstwo w turnieju WTA zapewniło 21-latce przyjęcie prezydenckie na Filipinach, ponieważ zainteresowanie tenisem w jej rodzinnym kraju gwałtownie wzrosło. Filipiny ogarnęła tenisowa gorączka po tym, jak 21-letnia wschodząca gwiazda Alex Eala odniosła historyczne zwycięstwo, ciesząc się uznaniem prezydenta, który wydał przyjęcie na jej cześć. W poniedziałek Eala została pierwszą zawodniczką z Filipin, która zdobyła tytuł Tour-level Women's Tennis Association (WTA). Kontynuuj czytanie..."
     },
     {
-      "title": "EKSKLUZYWNIE: Samsung i SK Hynix testują chińskie narzędzia chipowe w celu zabezpieczenia się przed ryzykiem w USA – Reuters",
-      "url": "https://www.reuters.com/world/china/samsung-sk-hynix-test-chinese-chip-tools-hedge-against-us-risks-2026-08-05/",
-      "date": "2026-08-05T02:02:00Z",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.reuters.com/world/india/indian-shares-likely-open-higher-ahead-rbi-rate-decision-2026-08-05/",
+      "date": "2026-08-05T02:03:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "EKSKLUZYWNIE: Samsung i SK Hynix testują chińskie narzędzia chipowe w celu zabezpieczenia się przed zagrożeniami ze strony USA Reuters."
+      "summary": "Indyjskie akcje prawdopodobnie otworzą się wyżej przed decyzją RBI w sprawie stóp procentowych Reuters."
     },
     {
       "title": "Zapasy sprzętu AI w Chinach spadają po wiadomościach o planach USA zakazu importu chińskich komponentów – Reuters",
@@ -500,14 +508,6 @@
       "summary": "Giełdy w Azji gwałtownie rosną w związku z wahaniami nastrojów w branży technologicznej, ropa naftowa wycofuje się Reuters."
     },
     {
-      "title": "Pingwiny i delfiny wśród prawie 400 australijskich gatunków zagrożonych ptasią grypą – ujawniono „prawdziwy rozmiar katastrofy”",
-      "url": "https://www.theguardian.com/world/2026/aug/05/penguins-dolphins-nearly-400-australian-species-threat-bird-flu-true-extent-disaster",
-      "date": "2026-08-05T01:36:21Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Ocena ponad 2000 rodzimych gatunków ostrzega, że prawie co piąty jest obciążony wysokim ryzykiem śmiercionośnego wirusa H5N1, w tym papugi, foki i quolls. Śledź nasz australijski blog z aktualnościami, aby uzyskać najnowsze aktualizacje. Zarejestruj się, aby otrzymywać bezpłatny biuletyn Clear Air redaktora ds. klimatu i środowiska Adama Mortona. z najbardziej ukochanych zwierząt Australii – w tym gatunki pingwinów, fok, quolli, delfinów, ponad 300 ptaków i diabła tasmańskiego – uważa się za osoby obarczone co najmniej wysokim ryzykiem zarażenia wirusem, co oznacza, że mogą doświadczyć „poważnego zmniejszenia wielkości populacji lub żywotności” lub czegoś gorszego, jeśli wirus do nich dotrze. Kontynuuj czytanie..."
-    },
-    {
       "title": "Ropa naftowa stabilizuje się po dwudniowym spadku, gdy inwestorzy obserwują ruch na giełdzie Hormuz – Reuters",
       "url": "https://www.reuters.com/business/energy/oil-steadies-after-two-day-slump-investors-eye-hormuz-traffic-2026-08-05/",
       "date": "2026-08-05T01:26:00Z",
@@ -529,7 +529,7 @@
       "date": "2026-08-05T00:40:23Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Aaron Farinacci, lat 37, został rzekomo zauważony w pobliżu ostatniego pożaru i znaleziono przy nim zapałki i zapalniczkę."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Uzbrojony mężczyzna aresztowany w pobliżu pola golfowego Trumpa przed wizytą prezydenta",
@@ -537,7 +537,15 @@
       "date": "2026-08-05T00:19:04Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Do aresztowania doszło na krótko przed planowanym przyjęciem przez prezydenta Trumpa kolacji zbierającej fundusze na nadmorskim polu golfowym w Kalifornii."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Brazylia pogarsza stosunki dyplomatyczne z Argentyną po tym, jak Milei obraża Lulę – Reuters",
+      "url": "https://www.reuters.com/world/americas/brazil-downgrades-diplomatic-ties-with-argentina-after-milei-remarks-2026-08-05/",
+      "date": "2026-08-05T00:01:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Brazylia pogarsza stosunki dyplomatyczne z Argentyną po tym, jak Milei obraża Lulę Reuters."
     },
     {
       "title": "Prognoza przychodów AMD oparta na sztucznej inteligencji nie zachwyca inwestorów – Reuters",
@@ -577,7 +585,7 @@
       "date": "2026-08-04T23:13:01Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "W Kolumbii, gdzie niektórzy członkowie rdzennej grupy nadal praktykują okaleczanie żeńskich narządów płciowych, przyjęto przełomową ustawę zakazującą takich praktyk."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Pinterest spodziewa się wolniejszego kwartalnego wzrostu przychodów w miarę wzrostu konkurencji reklamowej – Reuters",
@@ -644,12 +652,12 @@
       "summary": "EKSKLUZYWNIE: Biały Dom zamierza przedłużyć odstępstwo od ustawy Jones Act, ponieważ Trump poluje na tańszą benzynę Reuters."
     },
     {
-      "title": "EKSKLUZYWNIE: USA ustalają cenę minimalną polikrzemu i cła, aby przeciwdziałać Chinom w zakresie energii słonecznej i chipów – Reuters",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.reuters.com/world/china/us-weighs-polysilicon-price-floor-tariffs-counter-china-solar-chips-2026-08-04/",
       "date": "2026-08-04T22:07:29Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "EKSKLUZYWNIE: USA ustalają cenę minimalną polikrzemu i cła, aby przeciwdziałać Chinom w zakresie energii słonecznej i chipów Reuters."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Rosyjskie ataki zabijają jedną osobę w stolicy Ukrainy Kijowie, powodują pożary – Reuters",
@@ -660,7 +668,7 @@
       "summary": "Rosyjskie ataki zabijają jedną osobę w stolicy Ukrainy Kijowie, powodują pożary Reuters."
     },
     {
-      "title": "UE pochwala „szybką reakcję” Hiszpanii na kryzys migracyjny w Ceucie",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-04T21:45:20Z",
       "source": "BBC News",
@@ -668,15 +676,7 @@
       "summary": "Hiszpania twierdzi, że około 70 000 z 72 000 osób, które nielegalnie przybyły do ​​Ceuty w zeszłym tygodniu, wróciło do Maroka."
     },
     {
-      "title": "Nowy Meksyk tworzy alternatywę dla egzaminów adwokackich dla prawników – Reuters",
-      "url": "https://www.reuters.com/legal/legalindustry/new-mexico-creates-bar-exam-alternative-lawyers-2026-08-04/",
-      "date": "2026-08-04T21:36:09Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Nowy Meksyk tworzy alternatywę dla egzaminów adwokackich dla prawników Reuters."
-    },
-    {
-      "title": "Pocisk zatapia statek pływający pod banderą Indii u wybrzeży Jemenu",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-04T21:24:50Z",
       "source": "BBC News",
@@ -705,7 +705,7 @@
       "date": "2026-08-04T19:25:00Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Władze egipskie twierdzą, że rzekome oszustwo dotyczyło sfabrykowanych scen w sądzie w ramach spisku mającego na celu oszukanie ludzi."
+      "summary": "Władze egipskie twierdzą, że rzekome oszustwo obejmowało sfabrykowane sceny w sądzie będące częścią spisku mającego na celu oszukanie ludzi."
     },
     {
       "title": "Ukraiński sprzedawca warzyw celem ataku dronem „ludzkiego safari”.",
@@ -716,7 +716,7 @@
       "summary": "Film przedstawia rosyjski dron ścigający sprzedawcę ulicznego w obwodzie chersońskim, po czym eksploduje."
     },
     {
-      "title": "Prezydent Iranu zaprzecza, jakoby groził rezygnacją podczas rozmów w sprawie cieśniny Ormuz",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.theguardian.com/world/2026/aug/04/irans-president-denies-threatening-to-resign-during-talks-over-strait-of-hormuz",
       "date": "2026-08-04T18:24:35Z",
       "source": "The Guardian",
@@ -740,7 +740,7 @@
       "summary": "Erupcja wulkanu Fuego wyrzuca lawę i popiół w niebo, gdy kraj ogłasza drugi najwyższy stan alarmowy. Setki ludzi mieszkających na zboczach wulkanu Fuego w Gwatemali ewakuowały swoje domy po ogromnej erupcji, która wyrzuciła lawę i pióropusze popiołu. Najbardziej aktywny wulkan w Ameryce Środkowej wybuchł w poniedziałek rano, a warunki pogorszyły się przed zapadnięciem zmroku, co skłoniło władze do wydania drugie najpoważniejsze ostrzeżenie ostrzegawcze. Kontynuuj czytanie..."
     },
     {
-      "title": "Masowy pogrzeb ofiar izraelskiego strajku w Gazie w 2023 r",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.theguardian.com/world/2026/aug/04/mass-funeral-gaza-victims-2023-israeli-strike",
       "date": "2026-08-04T17:24:41Z",
       "source": "The Guardian",
@@ -761,7 +761,7 @@
       "date": "2026-08-04T15:41:25Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Zwycięzca zadzwonił do zespołu zajmującego się gospodarką odpadami, gdy zorientował się, że kupon potwierdzający, że trafił w dziesiątkę, został wyrzucony ze śmieci we Włoszech po tym, jak szalona zwyciężczyni wezwała śmieciarzy, aby pomogli jej go odzyskać. Według firmy zajmującej się odpadami, kupon na natychmiastową wygraną „cudownie nadal był w jednym kawałku” po tym, jak śmieciarze przeczesali sterty śmieci w swojej ciężarówce, powiedział Roberto Nicola Toscano, administrator firmy SANB w południowym regionie Apulii we Włoszech. Kontynuuj czytanie..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "world_politics": [
@@ -772,14 +772,6 @@
       "source": "The New York Times",
       "confirmed_by": 2,
       "summary": "Departament Stanu unieważnił wizę ambasadora Brazylii w Waszyngtonie, pogłębiając kryzys dyplomatyczny między obydwoma krajami."
-    },
-    {
-      "title": "Mężczyzna oskarżony o wzniecenie największego pożaru w Spokane został przesłuchany w zeszłym roku w sprawie dwóch innych pożarów – AP News",
-      "url": "https://apnews.com/article/spokane-wildfires-arson-washington-old-trails-f23e7a45456dc166344f08fc09db4843",
-      "date": "2026-08-05T01:31:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Mężczyzna oskarżony o wzniecenie największego pożaru w Spokane został przesłuchany w zeszłym roku w sprawie dwóch innych pożarów."
     },
     {
       "title": "Netanjahu mówi, że Izrael nie będzie się wycofywał ze Strefy Gazy, dopóki Hamas nie zostanie całkowicie rozbrojony – AP News",
@@ -806,15 +798,7 @@
       "summary": "Do niedawna było to czymś w rodzaju science fiction."
     },
     {
-      "title": "SpaceX odnotowuje w pierwszym raporcie stratę jako spółka publiczna, ale mniej niż oczekiwano – AP News",
-      "url": "https://apnews.com/article/musk-spacex-tesla-earnings-merger-3b7b66a3e522e51d75caebc40af7e09e",
-      "date": "2026-08-04T22:35:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "SpaceX odnotowuje stratę w pierwszym raporcie jako spółka publiczna, ale mniej niż oczekiwano AP News."
-    },
-    {
-      "title": "Korea Południowa chce zwiększyć wskaźnik urodzeń, ale nie ma wystarczającej liczby lekarzy na OIOM-ach",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html",
       "date": "2026-08-04T21:00:06Z",
       "source": "The New York Times",
@@ -875,7 +859,7 @@
       "date": "2026-08-04T17:13:44Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Samice lwów padły w odstępie pięciu dni, pomimo wysiłków opiekunów zwierząt, którzy starali się chronić je przed niezwykle wysokimi temperaturami w lecie w Japonii."
+      "summary": "Samice lwów padły w odstępie pięciu dni, pomimo wysiłków opiekunów zwierząt, którzy starali się chronić je przed ostrymi letnimi temperaturami w Japonii."
     },
     {
       "title": "Twierdzenie mężczyzny, że w Jaguarze zawiodły hamulce, było oszustwem mającym na celu uniknięcie płatności za samochód – orzekł sąd",
@@ -915,7 +899,7 @@
       "date": "2026-08-04T12:06:43Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Wydaje się, że wir TikToków, podcastów i obietnic Andy’ego Burnhama przemawia do niektórych wyborców. Stoi jednak przed poważnymi decyzjami, jak za to wszystko zapłacić."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Jak plemię Mohegan straciło warte miliardy dolarów kasyno w Korei Południowej",
@@ -942,6 +926,14 @@
       "summary": "Wyniki na żywo prawyborów do Senatu Stanów Zjednoczonych w stanie Michigan w 2026 r. AP News."
     },
     {
+      "title": "Mężczyzna oskarżony o wzniecenie największego pożaru w Spokane został przesłuchany w zeszłym roku w sprawie dwóch innych pożarów – AP News",
+      "url": "https://apnews.com/article/spokane-wildfires-arson-washington-old-trails-f23e7a45456dc166344f08fc09db4843",
+      "date": "2026-08-04T05:45:37Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Mężczyzna oskarżony o wzniecenie największego pożaru w Spokane został przesłuchany w zeszłym roku w sprawie dwóch innych pożarów."
+    },
+    {
       "title": "Władze aresztują podejrzanego o podpalenie w związku z jednym z niszczycielskich pożarów w Spokane – AP News",
       "url": "https://apnews.com/article/wildfire-spokane-washington-evacuate-8e42b37783bda01e7d004d71e546458e",
       "date": "2026-08-04T04:26:00Z",
@@ -958,12 +950,20 @@
       "summary": "Dolar amerykański gwałtownie osłabia się wobec jena japońskiego po interwencjach rynkowych AP News."
     },
     {
-      "title": "Optymistyczne Trumpa rozmowy w Iranie zostaną ponownie otwarte, a na Bliskim Wschodzie będą miały miejsce inne wydarzenia – AP News",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://apnews.com/article/mideast-iran-us-israel-palestinians-gaza-3b92568b6f2eec283eb51d0327ee682a",
       "date": "2026-08-04T02:57:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Trump optymistycznie rozmowy z Iranem zostaną ponownie otwarte, a inne wydarzenia na Bliskim Wschodzie AP News."
+    },
+    {
+      "title": "Sędzia orzekł, że Nowy Jork nie może zakazać agentom federalnym noszenia zasłon twarzy – AP News",
+      "url": "https://apnews.com/article/new-york-ice-face-covering-lawsuit-d3c81d991c8d357400318291d5a8fb60",
+      "date": "2026-08-04T01:57:44Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Sędzia orzekł, że Nowy Jork nie może zakazać agentom federalnym noszenia zasłon twarzy AP News."
     },
     {
       "title": "Wykonawcom budującym mur graniczny nakazano zaprzestać wiercenia studni w dotkniętym suszą Nowym Meksyku – AP News",
@@ -982,7 +982,7 @@
       "summary": "Remont Trumpa może zniweczyć standardy przedszkola Head Start, pozostawiając stanom ustalenie zasad AP News."
     },
     {
-      "title": "Trump mówi, że Pirro „złożył się jak parasol”, próbując wycofać zarzuty wandalizmu w Reflecting Pool – AP News",
+      "title": "Trump mówi, że Pirro „złożył się jak parasol”, próbując wycofać oskarżenia o wandalizm w Reflecting Pool – AP News",
       "url": "https://apnews.com/article/trump-reflecting-pool-pirro-vandalism-criticism-c7aabcf59e87651dd7be0b322b5460b1",
       "date": "2026-08-03T22:51:00Z",
       "source": "Associated Press",
@@ -1008,12 +1008,20 @@
   ],
   "technology": [
     {
+      "title": "Takich gier w XBOX Game Pass jeszcze nie było. Sierpień będzie gorący",
+      "url": "https://antyweb.pl/takich-gier-w-xbox-game-pass-jeszcze-nie-bylo-sierpien-bedzie-goracy",
+      "date": "2026-08-05T03:45:05Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Oto rozpiska gier, jakie pojawią się w XBOX Game Pass w pierwszej połowie sierpnia. Będzie w co grać!"
+    },
+    {
       "title": "Cloudflare ogłasza Cloudflare Wallets dla użytkowników, którzy mogą płacić za interfejsy API i treści za pośrednictwem monet stabilnych, z możliwością tworzenia wirtualnych portfeli na potrzeby zakupów agencyjnych (Jeff John Roberts/Fortune)",
       "url": "https://www.techmeme.com/260804/p57#a260804p57",
       "date": "2026-08-05T03:10:00Z",
       "source": "Techmeme",
       "confirmed_by": 2,
-      "summary": "Jeff John Roberts / Fortune: Cloudflare przedstawia portfele Cloudflare umożliwiające użytkownikom płacenie za interfejsy API i treści za pośrednictwem monet stabilnych, z możliwością tworzenia wirtualnych portfeli do pośrednich zakupów &mdash; Dziedzina handlu pośredniego – termin opisujący wykorzystanie botów do zakupów i sprzedaży online – szybko się rozwija."
+      "summary": "Jeff John Roberts / Fortune: Cloudflare przedstawia portfele Cloudflare umożliwiające użytkownikom płacenie za interfejsy API i treści za pośrednictwem monet stabilnych, z możliwością tworzenia wirtualnych portfeli do pośrednich zakupów &mdash; Dziedzina handlu agentycznego – termin opisujący wykorzystanie botów do zakupów i sprzedaży online – szybko się rozwija."
     },
     {
       "title": "Szał sztucznej inteligencji podzielił rynek VC, ponieważ różnica między najlepszymi i najgorszymi wynikami wzrosła ponad dwukrotnie w przypadku funduszy na rok 2024 w porównaniu z funduszami z lat 2017–2021 (Bloomberg)",
@@ -1037,7 +1045,7 @@
       "date": "2026-08-05T01:30:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Todd Bishop / GeekWire: SpaceX raportuje przychody w drugim kwartale z usług łączności, które obejmują Starlink, wzrost o 66% rok do roku do 4,29 miliarda dolarów w porównaniu z szacunkowymi 3,83 miliardami dolarów, a liczba abonentów Starlink wzrosła o 100% do 12 milionów w porównaniu z szacunkami 12,19 miliona."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Raport panelu Izby Reprezentantów: Amerykańskie firmy telekomunikacyjne podłączyły swoje systemy do centrów danych w sposób, który naraził je na luki w zabezpieczeniach, potencjalnie umożliwiając włamania do Salt Typhoon (Kelcee Griffis/Bloomberg)",
@@ -1085,7 +1093,7 @@
       "date": "2026-08-04T23:45:00Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Wired: OpenAI twierdzi, że jeden z jego modeli wykorzystał witrynę internetową po tym, jak zewnętrzne laboratorium bezpieczeństwa AI Irregular omyłkowo przyznało mu dostęp do Internetu podczas ocen &mdash; Nieuczciwi agenci AI z OpenAI i Anthropic zostali ponownie przyłapani na próbie zakłócania działania serwerów i oprogramowania oraz pozostawiania instrukcji dotyczących złego zachowania w przyszłości."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Wycieki IP i DNS w WebKit wpływające na przeglądarki proxy i iCloud Private Relay",
@@ -1118,14 +1126,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Reuters: Prezes SpaceX, Gwynne Shotwell, twierdzi, że firma zamierza zbudować infrastrukturę naziemną, która uzupełni sieć satelitarną w celu zapewnienia „prawdziwej usługi mobilnej”. &mdash; SpaceX (SPCX.O) poinformowało we wtorek, że kwartalne przychody wzrosły prawie dwukrotnie, a straty operacyjne gwałtownie się zmniejszyły."
-    },
-    {
-      "title": "Wewnętrzny dokument TikTok pokazuje, że nie udostępniono zabezpieczonego algorytmu 10% użytkowników w USA, w tym 16-latce, której karmiono treściami przedstawiającymi samookaleczenie, i która zmarła w wyniku samobójstwa (Olivia Carville/Bloomberg)",
-      "url": "https://www.techmeme.com/260804/p50#a260804p50",
-      "date": "2026-08-04T22:25:02Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Olivia Carville / Bloomberg: Wewnętrzny dokument TikTok pokazuje, że ukrył chroniony algorytm przed 10% użytkowników w USA, w tym 16-latką, której karmiono treściami przedstawiającymi samookaleczenie, i która zmarła w wyniku samobójstwa &mdash; Z poufnego dokumentu wynika, że ​​wielu użytkownikom nie pozwalano na dostosowanie algorytmu „zgodnie z projektem”; w ramach eksperymentu mającego na celu zmierzenie zaangażowania."
     },
     {
       "title": "Senatorowie żądają rozprawienia się z „rynkami prognoz” pożarów",
@@ -1168,7 +1168,7 @@
       "summary": "Najlepsze gry Xboksa 360 trafią na komputery. Zadziałają nawet z płyty."
     },
     {
-      "title": "Chiny są dojną krową Tesli, ale jak długo jeszcze?",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
       "date": "2026-08-04T17:34:48Z",
       "source": "Ars Technica",
@@ -1240,7 +1240,7 @@
       "summary": "WhatsApp stale zaskakuje użytkowników: i to jak najbardziej pozytywnie! Komunikator przedstawia właśnie kilka nowych opcji opracowanych z myślą o grupach."
     },
     {
-      "title": "Funkcja „świecenia” w Pixelu 11 nazywa się HiLight – oto, do czego służy",
+      "title": "Funkcja „świecenia” Pixela 11 nazywa się HiLight – oto, do czego służy",
       "url": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
       "date": "2026-08-04T16:11:05Z",
       "source": "Ars Technica",
@@ -1256,7 +1256,7 @@
       "summary": "Wielu z nas spodziewałoby się pewnie, że to mogło zdarzyć się w Polsce, ale... nie tym razem. W Dunellen w stanie New Jersey policjanci z tamtejszej \"drogówki\" znaleźli osobliwy sposób na walkę z używaniem telefonu za kierownicą."
     },
     {
-      "title": "Tom DeLay pomógł ustalić limit własności telewizorów – twierdzi, że Trump FCC nie ma uprawnień, aby go uchylić",
+      "title": "Tom DeLay pomógł ustalić limit własności telewizji – twierdzi, że Trump FCC nie ma uprawnień, aby go uchylić",
       "url": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
       "date": "2026-08-04T15:51:00Z",
       "source": "Ars Technica",
@@ -1410,7 +1410,7 @@
   ],
   "cybersecurity": [
     {
-      "title": "Badacze AI spuszczali modele ze smyczy, a następnie obserwowali, jak próbowali dodać złośliwe oprogramowanie do projektu FOSS",
+      "title": "Badacze sztucznej inteligencji spuszczali modele ze smyczy, a następnie obserwowali, jak próbowali dodać złośliwe oprogramowanie do projektu FOSS",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/05/ai-researchers-let-models-off-the-leash-then-watched-as-they-tried-to-add-malware-to-a-foss-project/5283165",
       "date": "2026-08-05T01:55:54Z",
       "source": "The Register",
@@ -1455,7 +1455,7 @@
       "date": "2026-08-04T17:27:39Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Komercyjny zestaw narzędzi do phishingu jako usługi (PhaaS) znany jako Greatness stał się najnowszym rozwiązaniem dla oprogramowania przestępczego, które dodaje obsługę phishingu na podstawie kodu urządzenia – szybko rozwijającego się cyberzagrożenia, które wykorzystuje legalną autoryzację urządzenia OAuth 2.0 w celu ominięcia uwierzytelniania wieloczynnikowego (MFA) i przejęcia kontroli nad kontami użytkowników. „Wielkość wspiera certyfikat AiTM [przeciwnika w środku] i."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Omijanie barierek AI jest tak proste, że poradzi sobie z tym nawet dzieciak zajmujący się skryptami",
@@ -1471,7 +1471,7 @@
       "date": "2026-08-04T16:47:27Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Czego można się spodziewać po występie BSides, Black Hat i DEF CON w Las Vegas."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Federalni mają 3 dni na załatanie luki w trybie N-able God w ramach aktywnego exploita",
@@ -1503,7 +1503,7 @@
       "date": "2026-08-04T14:40:49Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Do rosnącej liczby raportów o lukach w zabezpieczeniach wspomaganych maszynowo dodano szersze zasady dotyczące nagród."
+      "summary": "Do rosnącej liczby raportów o podatnościach wspomaganych maszynowo dodano szersze zasady dotyczące nagród."
     },
     {
       "title": "Jak zbudować system ostrzegania, który nie zawiedzie? Poradnik dla decydentów",
@@ -1562,7 +1562,7 @@
       "summary": "Należyta ochrona danych medycznych powinna być priorytetem dla podmiotów lecznicznych. Rzecznik Praw Pacjenta Bartłomiej Chmielowiec apeluje do sektora ochrony zdrowia, wskazując uchybienia w zakresie cyberbezpieczeństwa. Wymienił również stosowne zalecenia."
     },
     {
-      "title": "Kiedy Vibe Hacking zmienia sztuczną inteligencję w młodszego hakera, którego zawsze pragnął każdy przeciwnik",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
       "date": "2026-08-04T11:30:00Z",
       "source": "The Hacker News",
@@ -1583,7 +1583,7 @@
       "date": "2026-08-04T11:16:23Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Firma Google usunęła trzy przepływy pracy agentów AI z repozytorium języka Python w pakiecie Agent Development Kit (ADK). Pillar Security wykazało, że publiczny problem z GitHubem może zmanipulować agenta selekcji w celu uruchomienia uprzywilejowanego agenta naprawiającego kod. Badacze stwierdzili, że agent publiczny może zostać natychmiastowo wstawiony do wysyłania pliku /adk-issue-fix jako adk-bot."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Nowa krytyczna luka w cPanel może pozwolić klientom hostingowym na uruchamianie SQL jako root bazy danych",
@@ -1647,7 +1647,7 @@
       "date": "2026-08-04T07:00:13Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Amerykańska Agencja ds. Cyberbezpieczeństwa i Bezpieczeństwa Infrastruktury (CISA) dodała w poniedziałek lukę w zabezpieczeniach o wysokim stopniu ważności wpływającą na N-able N-central do swojego katalogu znanych luk w zabezpieczeniach (KEV) w następstwie raportów o aktywnym wykorzystaniu luki w środowisku naturalnym. Luka oznaczona jako CVE-2026-18577 (wynik CVSS: 8,2) to przypadek niekompletnej łatki dla CVE-2026-18556 (wynik CVSS: 8,2), która umożliwia."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Koniec „samowolki”. Surowe limity i kontrola portfeli kryptoaktywów w RPA",
@@ -1695,7 +1695,7 @@
       "date": "2026-08-03T16:24:47Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Złośliwe oprogramowanie działające jako zwykły użytkownik na komputerze z systemem Windows może zalogować się na konta ofiary chronione hasłem bez odcisku palca, kodu PIN lub czegokolwiek innego, co pojawia się na ekranie ofiary. Jednostka 42 szczegółowo opisała trzy ścieżki ataku na chmurowy uwierzytelniacz Google Password Manager w przeglądarce Chrome, który nazywa Pass-ta-key, Silver Pass-ta-key i Golden Pass-ta-key; najsilniejsze cele to klucz główny."
+      "summary": "Złośliwe oprogramowanie działające jako zwykły użytkownik na komputerze z systemem Windows może zalogować się na konta ofiary chronione hasłem bez odcisku palca, kodu PIN lub czegokolwiek innego, co pojawia się na ekranie ofiary. Jednostka 42 szczegółowo opisała trzy ścieżki ataku na chmurowy moduł uwierzytelniający Google Password Manager w przeglądarce Chrome, który nazywa Pass-ta-key, Silver Pass-ta-key i Golden Pass-ta-key; najsilniejsze cele to klucz główny."
     },
     {
       "title": "Oprogramowanie ransomware INC staje się dominującym aktorem wykorzystującym wady SonicWall SMA 1000",
@@ -1714,7 +1714,7 @@
       "summary": "Polski sektor ochrony zdrowia nieustannie pozostaje na celowniku cyberprzestępców. Atak na PaKK-MED (sieć placówek POZ) to kolejny incydent tego typu na przestrzeni ostatnich kilku miesięcy, gdzie ofiarą pada organizacja odpowiedzialna za zdrowie Polek i Polaków. Spółka była zmuszona do częściowego przejścia na papierowy tryb pracy."
     },
     {
-      "title": "⚡ Cotygodniowe podsumowanie: fałszywe modele sztucznej inteligencji, kradzież bitcoinów o wartości 88 mln dolarów, ataki na systemy wodne i włamania do DNS",
+      "title": "⚡ Cotygodniowe podsumowanie: fałszywe modele sztucznej inteligencji, kradzież bitcoinów o wartości 88 mln dolarów, ataki na systemy wodne i zwisające przejęcia DNS",
       "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
       "date": "2026-08-03T14:03:11Z",
       "source": "The Hacker News",
@@ -1730,7 +1730,7 @@
       "summary": "Podczas gdy dorośli próbują chronić dzieci za pomocą nieadekwatnych schematów, cyfrowa rzeczywistość daje sprawcom nowe pole do manipulacji. Skuteczną prewencję utrudnia szereg głęboko zakorzenionych barier społecznych, prawnych i psychologicznych. Problem ten porusza nowy poradnik Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15."
     },
     {
-      "title": "FOMO w SOC: gdzie właściwie pasują platformy AI, takie jak Claude",
+      "title": "FOMO w SOC: gdzie faktycznie pasują platformy AI, takie jak Claude",
       "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
       "date": "2026-08-03T11:30:00Z",
       "source": "The Hacker News",
@@ -1746,7 +1746,7 @@
       "summary": "Wiele współczesnych naruszeń bezpieczeństwa nie wynika z pojedynczego, spektakularnego błędu (np. klasy naruszenia ochrony pamięci). Prawdziwa esencja ofensywnego rzemiosła leży w łańcuchach podatności."
     },
     {
-      "title": "Chiński podmiot zagrażający używa zestawu DarkSword, który wyciekł, do wdrożenia GHOSTBLADE na iOS",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
       "date": "2026-08-03T10:49:06Z",
       "source": "The Hacker News",
@@ -1812,12 +1812,12 @@
   ],
   "finance": [
     {
-      "title": "Koniec odmowy w restauracji. Klient poprosi o wodę, a lokal poda 0,5 litra za darmo - Forsal.pl",
+      "title": "Koniec odmowy w restauracji. Klient poprosi o wodę, a lokal poda 0,5 litra za darmo - forsal.pl",
       "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11273136,koniec-odmowy-w-restauracji-klient-poprosi-o-wode-a-lokal-poda-05-litra-za-darmo.html",
       "date": "2026-08-04T22:29:42Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Koniec odmowy w restauracji. Klient poprosi o wodę, a lokal poda 0,5 litra za darmo Forsal.pl."
+      "summary": "Koniec odmowy w restauracji. Klient poprosi o wodę, a lokal poda 0,5 litra za darmo forsal.pl."
     },
     {
       "title": "Euforia na Wall Street. S&P500 wybił przez sufit",
@@ -1924,20 +1924,20 @@
       "summary": "Gdyby wybory parlamentarne odbyły się w najbliższą niedzielę na KO zagłosowałoby 29 proc. badanych, na PiS 25 proc, a na Konfederację 13 proc. - wynika z sondażu pracowni Social Changes dla Interii."
     },
     {
-      "title": "Obowiązkowy pobór do wojska w Niemczech? Berlin ujawnia przygotowania pod nowy system - Forsal.pl",
+      "title": "Obowiązkowy pobór do wojska w Niemczech? Berlin ujawnia przygotowania pod nowy system - forsal.pl",
       "url": "https://forsal.pl/swiat/niemcy/artykuly/11284688,niemcy-przygotowania-obowiazkowa-sluzba-wojskowa-sluzba-zastepcza-pobor-2026.html",
       "date": "2026-08-04T16:30:40Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Obowiązkowy pobór do wojska w Niemczech? Berlin ujawnia przygotowania pod nowy system Forsal.pl."
+      "summary": "Obowiązkowy pobór do wojska w Niemczech? Berlin ujawnia przygotowania pod nowy system forsal.pl."
     },
     {
-      "title": "Czy wirus Ebola dotrze do Polski? GIS zaleca śledzenie komunikatów MSZ - Forsal.pl",
+      "title": "Czy wirus Ebola dotrze do Polski? GIS zaleca śledzenie komunikatów MSZ - forsal.pl",
       "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11284424,czy-wirus-ebola-dotrze-do-polski-gis-zaleca-sledzenie-komunikatow-msz.html",
       "date": "2026-08-04T15:55:00Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Czy wirus Ebola dotrze do Polski? GIS zaleca śledzenie komunikatów MSZ Forsal.pl."
+      "summary": "Czy wirus Ebola dotrze do Polski? GIS zaleca śledzenie komunikatów MSZ forsal.pl."
     },
     {
       "title": "Opcja OW20R273900 - Analiza techniczna - stockwatch.pl",
@@ -1956,28 +1956,12 @@
       "summary": "Poprawa części wskaźników gospodarczych nie zakończyła problemów finansowych gospodarstw domowych. W pierwszej połowie 2026 r. upadłość konsumencką ogłosiło 12,2 tys."
     },
     {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "title": "Biznes, Gospodarka, Świat - forsal.pl",
       "url": "https://forsal.pl/tagi/dk57",
       "date": "2026-08-04T15:21:43Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
-      "title": "Medicalgorithmics przedłuża umowę ze swoim największym klientem - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149817,medicalgorithmics-przedluza-umowe-ze-swoim-najwiekszym-klientem",
-      "date": "2026-08-04T14:41:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Medicalgorithmics przedłuża umowę ze swoim największym klientem BiznesRadar."
-    },
-    {
-      "title": "Komunikat EBI Triggo SA (triggo): Raport kwartalny za II kwartał - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/triggo,raport-kwartalny-za-ii-kwartal-2026-08-04,ebi,20260804_163947_0000004504",
-      "date": "2026-08-04T14:39:47Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat EBI Triggo SA (triggo): Raport kwartalny za II kwartał stockwatch.pl."
+      "summary": "Biznes, Gospodarka, Świat forsal.pl."
     },
     {
       "title": "Raport ESG nie wystarczy. Banki i inwestorzy patrzą na konkretne działania",
@@ -1988,12 +1972,12 @@
       "summary": "Unijny pakiet Omnibus I łagodzi część obowiązków regulacyjnych, ale ESG nie jest już tylko raportem. Inwestorzy, instytucje finansujące, kontrahenci i konsumenci oczekują od firm rzeczywistych działań. ESG to skrót od trzech obszarów: środowiska, odpowiedzialności społecznej i ładu korporacyjnego."
     },
     {
-      "title": "Opcja OW20T264000 - Notowania - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/gpw/opcja/OW20T264000,notowania.aspx",
-      "date": "2026-08-04T14:14:00Z",
-      "source": "StockWatch.pl",
+      "title": "Wiadomości INC SA - strona: 174 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wiadomosci/INC,174",
+      "date": "2026-08-04T14:24:26Z",
+      "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Opcja OW20T264000 - Notowania stockwatch.pl."
+      "summary": "Wiadomości INC SA - strona: 174 BiznesRadar."
     },
     {
       "title": "Wiadomości INGSD3E0729 INGBANK - BiznesRadar",
@@ -2036,12 +2020,12 @@
       "summary": "Analiza techniczna ETFPZULONGDUR PZU ETF OBLIGACJI DLUGOTERMINOWYCH PORTFELOWY BiznesRadar."
     },
     {
-      "title": "Formacje analizy technicznej ETFPZULONGDUR PZU ETF OBLIGACJI DLUGOTERMINOWYCH PORTFELOWY - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-formacje/ETFPZULONGDUR",
-      "date": "2026-08-04T13:49:59Z",
-      "source": "Biznesradar",
+      "title": "Notowania Certyfikatu RBIFS10OIL10. - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/gpw/certyfikat/RBIFS10OIL10,notowania.aspx",
+      "date": "2026-08-04T12:50:00Z",
+      "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Formacje analizy technicznej ETFPZULONGDUR PZU ETF OBLIGACJI DLUGOTERMINOWYCH PORTFELOWY BiznesRadar."
+      "summary": "Notowania Certyfikatu RBIFS10OIL10. stockwatch.pl."
     },
     {
       "title": "Bluza OpenAI za 250 dol.? W Dolinie Krzemowej rośnie osobliwa bańka - Forbes",
@@ -2052,6 +2036,22 @@
       "summary": "Bluza OpenAI za 250 dol.? W Dolinie Krzemowej rośnie osobliwa bańka Forbes."
     },
     {
+      "title": "Forum giełdowe StockWatch.pl: XTB - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-514222_XTB.aspx",
+      "date": "2026-08-04T12:39:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Forum giełdowe StockWatch.pl: XTB stockwatch.pl."
+    },
+    {
+      "title": "Sierpniowa dziesiątka, czyli inwestycyjne typy BNP Paribas BM - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/149808,sierpniowa-dziesiatka-czyli-inwestycyjne-typy-bnp-paribas-bm",
+      "date": "2026-08-04T12:21:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Sierpniowa dziesiątka, czyli inwestycyjne typy BNP Paribas BM BiznesRadar."
+    },
+    {
       "title": "Ponad 108 tys. zamkniętych JDG. Małe firmy coraz mocniej odczuwają koszty",
       "url": "https://300gospodarka.pl/news/najnowsze-dane-o-jdg-z-ceidg-1-polrocze-2026",
       "date": "2026-08-04T12:09:37Z",
@@ -2060,20 +2060,20 @@
       "summary": "W całym pierwszym półroczu br. zamknięto 108,1 tys. jednoosobowych działalności i zawieszono 191,4 tys."
     },
     {
-      "title": "Wybrano wykonawcę przebudowy DK57. Zmieni się dojazd do lotniska w Szymanach - Forsal.pl",
+      "title": "Wybrano wykonawcę przebudowy DK57. Zmieni się dojazd do lotniska w Szymanach - forsal.pl",
       "url": "https://forsal.pl/transport/drogi/artykuly/11284486,rusza-przebudowa-kluczowej-trasy-na-warmii-i-mazurach-wybrano-wykonawce.html",
       "date": "2026-08-04T11:21:07Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Wybrano wykonawcę przebudowy DK57. Zmieni się dojazd do lotniska w Szymanach Forsal.pl."
+      "summary": "Wybrano wykonawcę przebudowy DK57. Zmieni się dojazd do lotniska w Szymanach forsal.pl."
     },
     {
-      "title": "Kolejne fotoradary na ulicach Warszawy. Wiadomo, gdzie staną nowe urządzenia - Forsal.pl",
+      "title": "Kolejne fotoradary na ulicach Warszawy. Wiadomo, gdzie staną nowe urządzenia - forsal.pl",
       "url": "https://forsal.pl/transport/drogi/artykuly/11284446,nowe-fotoradary-w-warszawa-dwie-firmy-zglosily-sie-w-przetargu.html",
       "date": "2026-08-04T10:36:08Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Kolejne fotoradary na ulicach Warszawy. Wiadomo, gdzie staną nowe urządzenia Forsal.pl."
+      "summary": "Kolejne fotoradary na ulicach Warszawy. Wiadomo, gdzie staną nowe urządzenia forsal.pl."
     },
     {
       "title": "Chcą nowego podatku od mieszkań. Domański stawia sprawę jasno",
@@ -2084,12 +2084,12 @@
       "summary": "Andrzej Domański odcina się od propozycji Lewicy dotyczącej podatku katastralnego. Minister finansów w rozmowie na antenie RMF FM stwierdził, że projekt nie uzyskałby poparcia rządu. Szczególnie krytycznie ocenił pomysł objęcia daniną również pierwszego mieszkania."
     },
     {
-      "title": "Zamkną lotnisko w Brukseli. Aż 11 tygodni bez żadnych lotów - Forsal.pl",
+      "title": "Zamkną lotnisko w Brukseli. Aż 11 tygodni bez żadnych lotów - forsal.pl",
       "url": "https://forsal.pl/transport/lotnictwo/artykuly/11284407,zamkna-lotnisko-w-brukseli-az-11-tygodni-bez-zadnych-lotow.html",
       "date": "2026-08-04T10:13:36Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Zamkną lotnisko w Brukseli. Aż 11 tygodni bez żadnych lotów Forsal.pl."
+      "summary": "Zamkną lotnisko w Brukseli. Aż 11 tygodni bez żadnych lotów forsal.pl."
     },
     {
       "title": "Phil Konieczny: Gdy dochodziło do takiej anomalii, szybko wybuchały kryzysy - Forbes",
@@ -2244,8 +2244,8 @@
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Szczątki 112 ofiar, w tym 40 dzieci, wydobyto spod gruz ponad dwa lata po zniszczeniu bloku mieszkalnego Żałobnicy zebrali się we wtorek w środkowej Gazie na masowym pogrzebie 112 osób, w tym 40 dzieci, które zginęły w 2023 r.",
-      "url": "https://www.theguardian.com/world/2026/aug/04/mass-funeral-gaza-victims-2023-israeli-strike"
+      "description": "Film wideo grupy twierdzącej, że jest odpowiedzialny za podpalenie, stwarzał perspektywę dalszego wandalizmu lub ukierunkowanych działań i zawierał treść: „Przestańcie zbroić Izrael, bo inaczej”.",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/05/melbourne-anti-weapons-protest-terrorism-investigation-ntwnfb"
     },
     {
       "lat": 32.43,
@@ -2268,8 +2268,8 @@
       "lng": -98.1,
       "type": "cyber",
       "region": "Stany Zjednoczone",
-      "description": "Amerykańska Agencja ds.",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html"
+      "description": "Policja aresztuje początkującego polityka za rzekome zajmowanie się ekspansją Flocka na amerykański sposób.",
+      "url": "https://www.theregister.com/security/2026/08/04/us-house-candidate-allegedly-shoots-down-four-flock-cameras/5282696"
     },
     {
       "lat": 55.5,
@@ -2530,6 +2530,22 @@
   ],
   "instability": [
     {
+      "name": "Strefa Gazy / Izrael",
+      "score": 100,
+      "reasons": [
+        {
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "url": "https://www.theguardian.com/world/2026/aug/04/mass-funeral-gaza-victims-2023-israeli-strike",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Wandalizm producenta sprzętu obronnego w Melbourne badany jako akt terrorystyczny przez „skrajnie lewicowych ekstremistów”",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/05/melbourne-anti-weapons-protest-terrorism-investigation-ntwnfb",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
       "name": "Iran",
       "score": 100,
       "reasons": [
@@ -2541,17 +2557,6 @@
         {
           "title": "Rubio ma nadzieję, że USA będą mogły „bardzo szybko” osiągnąć porozumienie w sprawie Hormuz z Iranem, ponieważ urzędnicy twierdzą, że poczyniono postępy – i tak się stało",
           "url": "https://www.theguardian.com/world/live/2026/aug/04/middle-east-crisis-qatar-iran-us-israel-war-donald-trump-strait-hormuz-gaza-latest-news-updates",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Strefa Gazy / Izrael",
-      "score": 71,
-      "reasons": [
-        {
-          "title": "Masowy pogrzeb ofiar izraelskiego strajku w Gazie w 2023 r",
-          "url": "https://www.theguardian.com/world/2026/aug/04/mass-funeral-gaza-victims-2023-israeli-strike",
           "source": "The Guardian"
         }
       ]
@@ -2759,51 +2764,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25365.99,
+      25360.88,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26516.43,
+      26511.08,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26661.62,
+      26656.25,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      26903.64,
+      26898.22,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27531.79,
+      27526.24,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27567.4,
+      27561.84,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27809.16,
+      27803.55,
       27354.94,
       27400.36,
       27412.11,
-      28205.78,
+      28200.1,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27475.27,
+      27469.73,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27652.83,
+      27647.26,
       27686.17,
       27404.78,
       27351.97,
@@ -2812,7 +2817,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27364.68,
+      27359.16,
       27930.04,
       28234.04,
       28218.36,
@@ -2821,24 +2826,24 @@
       28294.39,
       28203.83,
       28555.17,
-      28188.41,
+      28182.72,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27750.44,
+      27744.84,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27580.35,
+      27574.79,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      27869.62,
+      27864.01,
       28457.79,
-      28787.98
+      28782.18
     ],
     "currency": "PLN"
   }
