@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T21:28:09Z",
+  "last_updated": "2026-08-05T21:37:46Z",
   "poland": [
     {
       "title": "Eliminacje Ligi Europy. Minimalna porażka w Budapeszcie, Górnik zachowuje nadzieję",
@@ -274,14 +274,6 @@
       "summary": "Zapadły precedensowe wyroki dla banków, które udzielały kredytów walutowych, w tym frankowych. WSA w Warszawie orzekł, czy banki mogą odzyskać cały podatek dochodowy (CIT) zapłacony od umów, które zostały unieważnione. Fiskus chciał zwroty podatku dla banków mocno ograniczyć, nawet o 85 proc."
     },
     {
-      "title": "Gawkowski: Ryzko krytycznego incydentu. Podmioty KSC powinny pilnie zaktualizować WordPress - | Serwis Samorządowy PAP",
-      "url": "https://samorzad.pap.pl/kategoria/e-urzad/gawkowski-ryzko-krytycznego-incydentu-podmioty-ksc-powinny-pilnie-zaktualizowac",
-      "date": "2026-08-05T12:02:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Gawkowski: Ryzko krytycznego incydentu. Podmioty KSC powinny pilnie zaktualizować WordPress | Serwis Samorządowy PAP."
-    },
-    {
       "title": "Alert RCB w Słupsku. \"Uwaga! Zachowaj spokój\" - Polskie Radio 24",
       "url": "https://polskieradio24.pl/polska/alert-rcb-w-slupsku-uwaga-zachowaj-spokoj",
       "date": "2026-08-05T11:13:37Z",
@@ -354,6 +346,14 @@
       "summary": "S7 zablokowana. Karambol na obwodnicy Krakowa Polskie Radio 24."
     },
     {
+      "title": "Białystok/ Naukowcy prowadzą badania nt. wczesnej diagnostyki chorób odkleszczowych - Science in Poland",
+      "url": "https://scienceinpoland.pap.pl/aktualnosci/news%2C114266%2Cbialystok-naukowcy-prowadza-badania-nt-wczesnej-diagnostyki-chorob",
+      "date": "2026-08-05T06:12:12Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Białystok/ Naukowcy prowadzą badania nt. wczesnej diagnostyki chorób odkleszczowych Science in Poland."
+    },
+    {
       "title": "40°C w Polsce i groźne burze. Wiadomo, gdzie dziś będzie najgoręcej [ALERTY] - Polskie Radio 24",
       "url": "https://polskieradio24.pl/pogoda/40c-w-polsce-i-grozne-burze-wiadomo-gdzie-dzis-bedzie-najgorecej-alerty",
       "date": "2026-08-05T05:52:17Z",
@@ -404,28 +404,36 @@
   ],
   "world_security": [
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
-      "date": "2026-08-05T20:56:06Z",
-      "source": "The Guardian",
-      "confirmed_by": 2,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Iran twierdzi, że uzgodnił z Omanem trasę żeglugową przez Cieśninę Ormuz",
       "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-05T20:51:57Z",
+      "date": "2026-08-05T21:21:51Z",
       "source": "BBC News",
       "confirmed_by": 2,
       "summary": "Rzecznik ministerstwa spraw zagranicznych nie podał szczegółów, ale powiedział, że porozumienie z krajami Zatoki Perskiej jest „w końcowej fazie”."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.reuters.com/world/asia-pacific/chinese-made-zbtlink-routers-have-backdoor-researchers-say-2026-08-05/",
-      "date": "2026-08-05T20:38:35Z",
-      "source": "Reuters",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
+      "date": "2026-08-05T21:15:59Z",
+      "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "Rubio i Miliband rozmawiają o wojnie na Ukrainie, zwiększającej rolę Europy we własnym bezpieczeństwie – Reuters",
+      "url": "https://www.reuters.com/world/rubio-miliband-discuss-ukraine-war-europe-taking-greater-role-its-own-security-2026-08-05/",
+      "date": "2026-08-05T20:56:08Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Rubio i Miliband rozmawiają o wojnie na Ukrainie, zwiększając rolę Europy we własnym bezpieczeństwie Reuters."
+    },
+    {
+      "title": "Minister spraw wewnętrznych twierdzi, że dron przewożący materiały wybuchowe na niemieckim lotnisku oznacza „nowy poziom zagrożenia”.",
+      "url": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
+      "date": "2026-08-05T20:56:06Z",
+      "source": "The Guardian",
+      "confirmed_by": 2,
+      "summary": "Śledczy traktują incydent jako część „scenariusza zawodowego zagrożenia hybrydowego”, mówi Alexander Dobrindt Minister spraw wewnętrznych Niemiec ostrzegł, że odkrycie drona przewożącego materiały wybuchowe na lotnisku w Lipsku oznacza „nowy poziom niebezpieczeństwa” dla kraju, ponieważ władze zbadają, czy udaremniony atak mógł być zaplanowany przez obce mocarstwo. Odkrycie małego drona przewożącego materiały wybuchowe na lotnisku w Lipsku, wiodącym węźle żeglugowym i wojskowym, wywołało alarm i spowodowało wcześniejsze przekierowania lotów dziś rano. Niemiecka policja wysłała robota do usuwania bomb, aby rozbroić i zniszczyć ładunek wybuchowy. Kontynuuj czytanie..."
     },
     {
       "title": "Google wstrząsa przywództwem AI, gdy szef DeepMind zmienia rolę – Reuters",
@@ -433,7 +441,7 @@
       "date": "2026-08-05T20:26:01Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Google wstrząsa przywództwem AI, gdy szef DeepMind zmienia rolę Reuters."
     },
     {
       "title": "Senat USA zatwierdza Schwartza na stanowisko dyrektora CDC – Reuters",
@@ -449,7 +457,7 @@
       "date": "2026-08-05T20:03:36Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Ministerstwo zdrowia Libanu twierdzi, że w atakach zginęła jedna osoba, które według izraelskiego wojska były odpowiedzią na naruszenie zawieszenia broni przez Hezbollah."
     },
     {
       "title": "Źródła podają, że administracja Trumpa nałoży 15% cło na polikrzem – Reuters",
@@ -460,7 +468,7 @@
       "summary": "Źródła Reuters podają, że administracja Trumpa nałoży 15% cło na polikrzem."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "WYŁĄCZNIE: Iran grozi uderzeniem w państwa Zatoki Perskiej, jeśli USA przeprowadzą nowe ataki – Reuters",
       "url": "https://www.reuters.com/world/middle-east/iran-threatens-hit-gulf-states-if-us-launches-new-strikes-2026-08-05/",
       "date": "2026-08-05T19:44:24Z",
       "source": "Reuters",
@@ -481,7 +489,7 @@
       "date": "2026-08-05T19:20:28Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Departament stanu informuje Kongres o planowanych zamknięciach w Kanadzie, Grenadzie, Japonii, Indonezji i Kamerunie Departament stanu USA ma zamknąć pięć zagranicznych konsulatów i misji w Azji, Afryce, Ameryce Północnej i na Karaibach, spotykając się z krytyką, że pozostawia próżnię dyplomatyczną, która może zostać wypełniona przez Chiny. Kongres USA został powiadomiony o zbliżającym się zamknięciu, które jest uzasadnione kosztami i następuje po ponownej ocenie dwustronnych stosunków USA z wieloma krajami od czasu powrotu Donalda Trumpa do Białego Domu w Styczeń 2025. Kontynuuj czytanie..."
     },
     {
       "title": "Izraelskie wojsko uderza w południowy Liban po ostrzeżeniu o ewakuacji wioski – Reuters",
@@ -497,7 +505,7 @@
       "date": "2026-08-05T19:03:35Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Źródła Reuters podają, że główne firmy z Wall Street stały się celem prób cyberataków."
     },
     {
       "title": "Była przywódczyni Hasina ryzykuje powrót do Bangladeszu pomimo kary śmierci",
@@ -508,7 +516,7 @@
       "summary": "78-latek został skazany za zbrodnie przeciwko ludzkości w związku ze śmiertelnym stłumieniem powstania w 2024 roku."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Obejrzyj: „Najstraszniejsza noc”, gdy Ukrainie nie udało się przechwycić rosyjskiego ataku",
       "url": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-05T19:00:32Z",
       "source": "BBC News",
@@ -516,7 +524,7 @@
       "summary": "Wyczerpana obrona powietrzna Kijowa oznaczała, że ​​wiele rakiet nie zostało przechwyconych – jak ten, który trafił w dom Anastazji."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Kandydat na prezydenta Brazylii Bolsonaro niespodziewanie wymienia kandydata na kandydata na prezydenta – Reuters",
       "url": "https://www.reuters.com/world/americas/brazils-flavio-bolsonaro-names-lawmaker-gaspar-running-mate-october-election-2026-08-05/",
       "date": "2026-08-05T18:48:38Z",
       "source": "Reuters",
@@ -529,15 +537,23 @@
       "date": "2026-08-05T18:39:17Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "USA ujawniają zarzuty wobec pięciu przywódców meksykańskiego kartelu CJNG Reuters."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Protesty młodych osłabiły Modiego – mówi BBC indyjski aktywista, który rozpoczął strajk głodowy",
       "url": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-05T18:38:46Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Ruch „karaluchów” był od lat jednym z największych publicznych przejawów sprzeciwu wobec premiera Indii."
+    },
+    {
+      "title": "Indie przyglądają się Wenezueli blokującej operatorstwo; odzyskuje rosyjski udział w Sachalinie-1 - Reuters",
+      "url": "https://www.reuters.com/business/energy/india-eyes-venezuela-blocks-operatorship-regains-russias-sakhalin-1-stake-2026-08-05/",
+      "date": "2026-08-05T18:30:04Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Indie przyglądają się Wenezueli blokującej operatorstwo; odzyskuje rosyjski udział w Sachalinie-1 Reuters."
     },
     {
       "title": "EKSKLUZYWNIE: Pod rządami Patela FBI nawiązuje bezprecedensowe powiązania organów ścigania z Chinami i Rosją – Reuters",
@@ -548,20 +564,12 @@
       "summary": "EKSKLUZYWNIE: Pod rządami Patela FBI nawiązuje bezprecedensowe powiązania organów ścigania z Chinami i Rosją Reuters."
     },
     {
-      "title": "Rubio i Miliband rozmawiają o wojnie na Ukrainie i odgrywaniu przez Europę większej roli we własnym bezpieczeństwie – Reuters",
-      "url": "https://www.reuters.com/world/rubio-miliband-discuss-ukraine-war-europe-taking-greater-role-its-own-security-2026-08-05/",
-      "date": "2026-08-05T18:21:19Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
       "title": "Po śmiercionośnym ataku w Kijowie Ukraina ostrzega, że ​​brak przechwytywaczy kosztuje życie",
       "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-05T18:19:51Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Bez przechwytywaczy Patriot niebo nad Ukrainą jest szeroko otwarte, a ludzie są w pełni narażeni na ostrzał rakietowy Rosji."
     },
     {
       "title": "Postępowy El-Sayed wygrywa prawybory w Michigan, pokonując Demokratów – Reuters",
@@ -585,7 +593,7 @@
       "date": "2026-08-05T17:38:48Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Nowy Meksyk pozywa rząd USA za dostęp do akt Epsteina Reuters."
     },
     {
       "title": "Była premier Bangladeszu Hasina twierdzi, że należy znieść zakaz działalności jej partii – Reuters",
@@ -593,15 +601,15 @@
       "date": "2026-08-05T17:38:34Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Była premier Bangladeszu Hasina twierdzi, że zakaz działalności jej partii powinien zostać zniesiony Reuters."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Bomba dronowa w Lipsku oznacza niebezpieczną eskalację dla Europy",
       "url": "https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe",
       "date": "2026-08-05T17:32:21Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Wstępne dowody sugerują, że dron znaleziony w pobliżu ukraińskich samolotów transportowych na niemieckim lotnisku pochodził z Rosji. Uzbrojony dron znaleziony w środę na lotnisku w Lipsku być może nie eksplodował, ale fakt, że dostał się na teren wokół ukraińskich samolotów transportowych, budzi oczywiste obawy o bezpieczeństwo międzynarodowego lotnictwa. Choć tożsamość sprawców nie jest znana, wstępne dowody jednoznacznie wskazują na spisek zorganizowany przez Rosję. To pierwszy przypadek odnalezienia drona z materiałami wybuchowymi w Europie daleko od granicy z Ukrainą. Kontynuuj czytanie..."
     },
     {
       "title": "Meksykańska influencerka zastrzelona podczas transmisji na żywo w mediach społecznościowych",
@@ -612,7 +620,7 @@
       "summary": "César Gastélum kręcił zdjęcia przed fast foodem w stanie Sinaloa, kiedy został zabity przez kierowcę motocykla. Popularny meksykański influencer został zastrzelony podczas transmisji na żywo w mediach społecznościowych przed restauracją w stanie Sinaloa, gdzie rozpowszechniła się śmiertelna przemoc kartelowa. César Gastélum, który miał prawie 600 000 obserwujących na TikToku i był znany z kręcenia filmów komediowych, nagrywał z dwoma przyjaciółmi przed restauracją typu fast food w mieście Culiacán. Cała trójka była ubrana w jaskrawopomarańczowe kurtki i plecaki kierowców dostarczających żywność. Kontynuuj czytanie..."
     },
     {
-      "title": "Zełenski wzywa do zwiększenia obrony powietrznej, ponieważ w rosyjskim ataku na Kijów zginęło co najmniej 17 osób",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
       "date": "2026-08-05T16:41:02Z",
       "source": "The Guardian",
@@ -652,12 +660,12 @@
       "summary": "Niemieccy prokuratorzy, w tym jednostki zajmujące się przeciwdziałaniem ekstremizmowi i zapobieganiu terroryzmowi, przejmują dochodzenie w sprawie incydentu w Lipsku Dyrektor generalny Grupy DHL Tobias Meyer powiedział, że niemiecka firma logistyczna bada nocny incydent, który obejmował również zderzenie obiektu z jednym z jej samolotów w pobliżu Lipska. „Mamy plany na wypadek takich przypadków i postaramy się upewnić, że wpływ na naszych klientów będzie jak najmniejszy” – powiedział Meyer podczas przesłuchania Wyniki kwartalne zostaną ogłoszone dziś rano, podał Reuters. Kontynuuj czytanie..."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Prawie 1500 nieruchomości zakupionych w ramach pierwszego w Australii programu depozytów 5% dla nabywców domów zamieniło się w inwestycje",
       "url": "https://www.theguardian.com/australia-news/2026/aug/06/first-home-buyers-deposit-scheme-investment-property",
       "date": "2026-08-05T15:00:23Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Nowe dane pokazują, że z programu rządu federalnego korzystają kredytobiorcy o wysokich dochodach, w tym jedna para zarabiająca 674 000 dolarów rocznie. Śledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Z nowych danych wynika, że rządowy program depozytów w wysokości 5% dla osób kupujących pierwszy dom umożliwił zakup prawie 1500 nieruchomości, które zamieniono w inwestycje. Program pomaga także setkom Australijczyków zarabiających ponad 300 000 dolarów. rok, po tym jak Partia Pracy przestała wykluczać kredytobiorców o wysokich dochodach. Kontynuuj czytanie..."
     },
     {
       "title": "„Po prostu łatwy dostęp do gotówki”: dlaczego Jetstar pobiera od klientów opłaty za bagaż podręczny",
@@ -665,15 +673,15 @@
       "date": "2026-08-05T15:00:21Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Eksperci twierdzą, że dodatkowe opłaty, takie jak nowa opłata za bagaż podręczny, mogą utrudnić porównywanie cen biletów lotniczych. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Obniżone ceny mogą teraz być jedynie fasadą dla pozornie niekończących się opłat dodatkowych po wprowadzeniu nowej opłaty za bagaż podręczny Jetstar oznaczającej, że linia lotnicza dołączyła do rosnącej liczby osób zarabiających na podstawowych usługach powietrznych. Nowa struktura, ogłoszona w środę przez taniego przewoźnika Qantas, będzie oznaczać, że od przyszłego roku bilet będzie obejmował tylko jeden bilet „pod miejscem siedzącym”. torba”, taki jak plecak, torebka czy torba na laptopa. Kontynuuj czytanie..."
+      "summary": "Eksperci twierdzą, że dodatkowe opłaty, takie jak nowa opłata za bagaż nad głową, mogą utrudnić porównywanie cen biletów lotniczych. Śledź nasz australijski blog z aktualnościami, aby uzyskać najnowsze aktualizacje. Otrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Obniżki cen mogą teraz być jedynie fasadą dla pozornie niekończących się opłat dodatkowych po wprowadzeniu nowej opłaty za bagaż podręczny Jetstar oznaczającej, że linia lotnicza dołączyła do rosnącej liczby osób zarabiających na podstawowych usługach lotniczych. Nowa struktura, ogłoszona w środę przez taniego przewoźnika Qantas, będzie oznaczać od przyszłego roku bilety będą obejmować tylko jedną „torbę pod siedzeniem”, np. plecak, torebkę lub torbę na laptopa. Kontynuuj czytanie..."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Republika Południowej Afryki planuje nowe zasady dotyczące wyjazdów zagranicznych byłych przywódców po wizycie Zumy w Indiach",
       "url": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-05T14:58:41Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Jacob Zuma został sfotografowany z biznesmenem rzekomo w centrum skandalu korupcyjnego w Republice Południowej Afryki."
     },
     {
       "title": "Szef ONZ ds. praw zaniepokojony wzrostem liczby egzekucji w Iranie od marca",
@@ -681,7 +689,7 @@
       "date": "2026-08-05T14:04:09Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Volker Türk twierdzi, że 56 osób zostało straconych pod zarzutami związanymi z bezpieczeństwem narodowym, w tym 27 w sprawach związanych ze styczniowymi protestami."
     },
     {
       "title": "Pracownicy zajmujący się odpadami pomagają zwycięzcy znaleźć wyrzucony do kosza los na loterię o wartości 1 miliona euro we Włoszech",
@@ -692,12 +700,12 @@
       "summary": "Gracz zdał sobie sprawę, że wyrzucił zmieniający życie kupon do kosza, gdy rodzina poinformowała go, że wylosowano liczby, w które grał przez lata."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Rekordowa fala upałów w Korei Południowej – temperatura wzrosła do 42,5°C",
       "url": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-05T11:30:39Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Co najmniej 19 osób zginęło w wyniku fali upałów, która spowodowała najgorętszy dzień w kraju od początku prowadzenia pomiarów."
     },
     {
       "title": "Pakistan ogranicza relacje w mediach międzynarodowych",
@@ -724,12 +732,12 @@
       "summary": "Kardynałowi Pedro Barreto grożono śmiercią i nękano podczas jego prawie 20-letniej kampanii przeciwko działalności amerykańskiej firmy wydobywczej w Andach Peruwiański kardynał, który otrzymał lawinę pogróżek, gdy rzucał wyzwanie firmie stojącej za toksyczną hutą, nazwał pozasądową ugodę na kwotę 150 milionów dolarów (111 milionów funtów) wobec ponad 1000 osób, które rzekomo zostały otrute w elektrowni w dzieciństwie, „historycznym” kamień milowy”. Kardynał Pedro Barreto (82 l.) przebywał w czerwcu w Rzymie na spotkaniu z papieżem Leonem XIV i innymi kardynałami, kiedy otrzymał wiadomość, że firma zarządzająca hutą, Doe Run Company, spółka zależna Renco Group, zapłaci 150 mln dolarów 1373 Peruwiańczykom, którzy od dzieciństwa cierpieli na problemy zdrowotne. Kontynuuj czytanie..."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Najlepszy uniwersytet w Meksyku nakazuje 58 000 studentów ponowne przystąpienie do egzaminu wstępnego po podejrzeniu ściągania",
       "url": "https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal",
       "date": "2026-08-05T09:00:15Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Narodowy Autonomiczny Uniwersytet Meksyku twierdzi, że kandydaci muszą przystąpić do testu osobiście po porażce w Internecie Największy i najbardziej prestiżowy uniwersytet w Meksyku ogłosił, że około 58 000 studentów będzie musiało ponownie przystąpić do egzaminu wstępnego po tym, jak anormalnie wysokie wyniki testów wzbudziły podejrzenia o powszechne oszustwo. Narodowy Autonomiczny Uniwersytet Meksyku (Unam) powiedział, że egzamin odbędzie się osobiście po pierwszej próbie z całkowicie zdalną wersją online, która zakończyła się porażką i tysiącami unieważnionych wyników. Kontynuuj czytanie..."
     },
     {
       "title": "Chris Bowen obiecuje zastąpić Queensland i NT i zmusić centra danych AI zasilane odnawialnymi źródłami energii",
@@ -737,26 +745,18 @@
       "date": "2026-08-05T08:09:25Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Minister energii twierdzi, że australijskie gospodarstwa domowe i niezawodność energii będą chronione przez nowe ustawodawstwo federalne. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Minister energii Chris Bowen twierdzi, że rząd federalny uchyli rządy stanowe, które sprzeciwiają się nowym krajowym przepisom dotyczącym centrów danych, wprowadzając ustawodawstwo Wspólnoty zmuszające nowe centra danych AI do zasilania energią odnawialną i zakazujące tych zasilanych gazem. Bowen powiedział, że spodziewa się swoich odpowiedników w Queensland i na Terytorium Północnym, którzy protestowali przeciwko nowym przepisom federalnym podczas spotkaniu w zeszłym tygodniu – nie zgodził się z tym posunięciem, ale stwierdził, że rząd Albanii jest zaangażowany we wspomaganie rewolucji sztucznej inteligencji energią odnawialną. Kontynuuj czytanie..."
+      "summary": "Minister energii twierdzi, że australijskie gospodarstwa domowe i niezawodność energetyczna będą chronione przez nowe ustawodawstwo federalne. Śledź nasz blog z aktualnościami z Australii, aby uzyskać najnowsze aktualizacje. Otrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Minister energii Chris Bowen twierdzi, że rząd federalny uchyli rządy stanowe, które sprzeciwiają się nowym krajowym przepisom dotyczącym centrów danych, poprzez ustawodawstwo Wspólnoty Narodów zmuszające nowe centra danych AI do zasilania energią odnawialną i zakazujące tych zasilanych gazem. Bowen powiedział, że spodziewa się swoich odpowiedników w Queensland i na Terytorium Północnym: który protestował przeciwko nowym przepisom federalnym na spotkaniu w zeszłym tygodniu – jest niezadowolony z tego posunięcia, ale stwierdził, że rząd Albanii jest zaangażowany we wspomaganie rewolucji sztucznej inteligencji energią odnawialną. Kontynuuj czytanie..."
     },
     {
-      "title": "El Niño może doprowadzić do ostrego głodu 50 milionów ludzi przed końcem przyszłego roku",
-      "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
-      "date": "2026-08-05T08:00:13Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Prognozy ONZ ostrzegają przed pogorszeniem się warunków w 45 krajach, w których występuje obecnie poważny brak bezpieczeństwa żywnościowego. Według prognoz szybko rozwijający się system pogodowy El Niño przed końcem przyszłego roku około 50 milionów ludzi najprawdopodobniej dotknie dotkliwy głód. Dochodzi do tego fakt, że setki milionów ludzi już boryka się z niebezpiecznym poziomem głodu z powodu lat suszy w niektórych częściach Afryki i presji na ceny żywności wywołanej wojną w Iranie. Kontynuuj czytanie..."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "„Moja babcia poddała moje dziecko okaleczeniu żeńskich narządów płciowych za moimi plecami”",
       "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-04T23:13:01Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "W Kolumbii, gdzie niektórzy członkowie rdzennej grupy nadal praktykują okaleczanie żeńskich narządów płciowych, przyjęto przełomową ustawę zakazującą takich praktyk."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "„Wstyd mi za dziwkę” – indyjskie kobiety protestujące przeciwko „karaluchom” są molestowane i molestowane",
       "url": "https://www.bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-04T22:28:30Z",
       "source": "BBC News",
@@ -782,7 +782,7 @@
       "summary": "Akcje SpaceX spadają, ale Elon Musk nadal jest najbogatszym człowiekiem na świecie. Co dalej?"
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Meksykański influencer César Gastélum zastrzelony podczas transmisji na żywo z Sinaloa",
       "url": "https://www.nytimes.com/2026/08/05/world/americas/mexican-influencer-shot-dead-kfc.html",
       "date": "2026-08-05T20:57:42Z",
       "source": "The New York Times",
@@ -790,7 +790,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Jak Abdul El-Sayed przeszedł od politycznego zapomnienia do stopniowego przełomu w wyścigu do Senatu stanu Michigan – AP News",
       "url": "https://apnews.com/article/michigan-primary-senate-elsayed-stevens-60c79349b60ffbf24a34d60b76e130ed",
       "date": "2026-08-05T20:54:00Z",
       "source": "Associated Press",
@@ -803,7 +803,7 @@
       "date": "2026-08-05T20:50:20Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Jak podała indonezyjska policja, pilot, zidentyfikowany jedynie na podstawie inicjałów, również miał pozytywny wynik testu na obecność ecstasy i kokainy, gdy został aresztowany w zeszłym tygodniu na lotnisku w Dżakarcie."
     },
     {
       "title": "Jak chińska sztuczna inteligencja Przetacza się przez Afrykę",
@@ -814,12 +814,12 @@
       "summary": "W afrykańskich centrach technologicznych programiści wybierają tanie, swobodnie dostępne modele sztucznej inteligencji w Chinach zamiast potężniejszych modeli amerykańskich."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Houthi grożą rozszerzeniem ataków na Morzu Czerwonym i zażądaniem ataków na saudyjskie tankowce",
       "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html",
       "date": "2026-08-05T19:46:49Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Arabia Saudyjska nie skomentowała roszczeń Huti, wspieranych przez Iran i zapowiadających zamknięcie „wszystkich dróg dostępu” do dostaw saudyjskiej ropy."
+      "summary": "Arabia Saudyjska nie skomentowała żądań Huti, wspieranych przez Iran i zapowiadających zamknięcie „wszystkich dróg dostępu” do dostaw saudyjskiej ropy."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -827,7 +827,7 @@
       "date": "2026-08-05T19:45:17Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "W tym samym czasie negocjatorzy izraelscy i libańscy prowadzili w Rzymie rozmowy mające na celu osiągnięcie długoterminowego porozumienia dyplomatycznego."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Iran i USA twierdzą, że porozumienie w Cieśninie Ormuz jest bliskie, ale jedno lub oba musiałyby się wycofać – AP News",
@@ -843,7 +843,7 @@
       "date": "2026-08-05T19:17:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Stan Nowy Meksyk pozywa Departament Sprawiedliwości i Todda Blanche’a, twierdząc, że zablokowali śledztwo w sprawie Epsteina AP News."
     },
     {
       "title": "Finlandia stara się chronić dzieci przed deepfake’ami, mając na uwadze Rosję",
@@ -854,12 +854,12 @@
       "summary": "Finlandia, wystrzegając się dezinformacji z Moskwy i spoza niej, ma przewagę nad innymi krajami w wykrywaniu fałszywych wiadomości. Ale sztuczna inteligencja to zupełnie nowe wyzwanie."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Lobga Rangzen, tybetański aktywista, który podpalił się na Manhattanie",
       "url": "https://www.nytimes.com/2026/08/05/world/asia/lobga-rangzen-united-nations-tibet-china.html",
       "date": "2026-08-05T18:56:37Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Nikt nie wątpił w intensywność zaangażowania Lobgi Rangzen na rzecz Tybetu wolnego od chińskiej kontroli. Ale nie byli przygotowani na to, co zrobił później."
     },
     {
       "title": "Rekordowa fala upałów w Korei Południowej powoduje odwołanie meczów baseballowych",
@@ -875,15 +875,15 @@
       "date": "2026-08-05T18:15:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "W rosyjskim ostrzale w regionie stołecznym Ukrainy zginęło 17 osób, ponieważ obrona przeciwlotnicza nie działa AP News."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Wojna, która toczy się nad Rosją i Ukrainą",
       "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
       "date": "2026-08-05T17:28:32Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Bojownicy produkują coraz większą liczbę innowacyjnej broni powietrznej, mając nadzieję na przełom, gdyż walki naziemne są w dużej mierze zamrożone."
     },
     {
       "title": "Iran twierdzi, że zbliża się do ostatecznego porozumienia z Omanem w sprawie Cieśniny Ormuz",
@@ -891,7 +891,7 @@
       "date": "2026-08-05T17:08:46Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Porozumienie w sprawie akceptowalnej trasy przejścia statków przez cieśninę skutecznie ratyfikowałoby kontrolę Teheranu nad kluczową drogą wodną."
     },
     {
       "title": "Dyrektor rosyjskiej fabryki dronów ciężko ranny w wyniku eksplozji samochodu – AP News",
@@ -899,7 +899,7 @@
       "date": "2026-08-05T16:24:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Dyrektor rosyjskiej fabryki dronów ciężko ranny w wyniku eksplozji samochodu AP News."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Tylko dla AP: w wyniku tłumienia imigracji przez Trumpa zatrzymano ponad 50 wojskowych małżonków i rodziców – AP News",
@@ -907,15 +907,15 @@
       "date": "2026-08-05T15:40:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Tylko dla AP: w wyniku tłumienia imigracji przez Trumpa zatrzymano ponad 50 wojskowych małżonków i rodziców AP News."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Zmiany klimatyczne nadchodzą na Ulicę Sezamkową",
       "url": "https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html",
       "date": "2026-08-05T15:38:43Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Jeden z odcinków w tym tygodniu skupia się na niebezpiecznych skutkach ocieplenia, nie wspominając o zmianach klimatycznych."
     },
     {
       "title": "Te organy będą grać jeden utwór do 2640 roku. To na nowo definiuje, jak wolno można odtwarzać muzykę – AP News",
@@ -926,7 +926,7 @@
       "summary": "Organy te będą grać jeden utwór do roku 2640. To na nowo definiuje, jak wolno można odtwarzać muzykę. AP News."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Zabójczy atak rakietowy Rosji na Kijów wykorzystuje wyczerpaną obronę powietrzną Ukrainy",
       "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
       "date": "2026-08-05T15:31:36Z",
       "source": "The New York Times",
@@ -947,31 +947,15 @@
       "date": "2026-08-05T13:09:18Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Ceutę w Hiszpanii i Fnideq w Maroku dzieli zaledwie kilometr, ale łączy je rodzina i handel. Niedawny kryzys graniczny to najnowszy rozdział w ich historii."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Stevens i El-Sayed są blisko nominacji Demokratów do Senatu stanu Michigan – AP News",
       "url": "https://apnews.com/article/michigan-2026-primary-election-elsayed-stevens-bd4ed54a2c84db3f95ac27facb715866",
       "date": "2026-08-05T09:52:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "W strzelaninie In-N-Out w Idaho zginęły trzy osoby, w tym mężczyzna znany z pomagania innym w wytrzeźwieniu – AP News",
-      "url": "https://apnews.com/article/twin-falls-idaho-shooting-innout-fef7483be8f8c994bb339205167794b9",
-      "date": "2026-08-05T04:57:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "W strzelaninie In-N-Out w Idaho zginęło 3 osoby, w tym mężczyzna znany z pomagania innym w wytrzeźwieniu AP News."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://apnews.com/article/brazil-argentina-diplomatic-presence-milei-lula-c58683d82b1249ededa2da3145681edd",
-      "date": "2026-08-05T02:29:47Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Stevens i El-Sayed są blisko wyścigu o nominację Demokratów do Senatu stanu Michigan AP News."
     },
     {
       "title": "Iran i Oman pracują nad planem ponownego otwarcia Cieśniny Ormuz i innymi wydarzeniami na Bliskim Wschodzie – AP News",
@@ -979,15 +963,15 @@
       "date": "2026-08-05T02:04:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Iran i Oman pracują nad planem ponownego otwarcia Cieśniny Ormuz i innymi wydarzeniami na Bliskim Wschodzie AP News."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://apnews.com/article/spokane-wildfires-arson-washington-old-trails-f23e7a45456dc166344f08fc09db4843",
-      "date": "2026-08-05T01:31:00Z",
+      "title": "Brazylia ogranicza obecność dyplomatyczną w Argentynie po tym, jak Milei obraża Lulę – AP News",
+      "url": "https://apnews.com/article/brazil-argentina-diplomatic-presence-milei-lula-c58683d82b1249ededa2da3145681edd",
+      "date": "2026-08-05T01:07:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Mężczyzna oskarżony o wzniecenie największego pożaru w Spokane został przesłuchany w zeszłym roku w sprawie dwóch innych pożarów."
+      "summary": "Brazylia ogranicza obecność dyplomatyczną w Argentynie po tym, jak Milei obraża Lulę AP News."
     },
     {
       "title": "Netanjahu mówi, że Izrael nie będzie się wycofywał ze Strefy Gazy, dopóki Hamas nie zostanie całkowicie rozbrojony – AP News",
@@ -998,17 +982,33 @@
       "summary": "Netanjahu mówi, że Izrael nie będzie się wycofywał ze Strefy Gazy, dopóki Hamas nie zostanie całkowicie rozbrojony AP News."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Akcje w USA biją rekordy, w miarę jak zyski Palantira i innych spółek rosną, a ceny ropy spadają – AP News",
       "url": "https://apnews.com/article/stocks-markets-dollar-yen-trump-iran-war-fbbe6128d618509e33d45a493c2615b1",
       "date": "2026-08-04T21:00:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Akcje amerykańskie biją rekordy, w miarę jak zyski Palantira i innych spółek stale rosną, a ceny ropy uspokajają AP News."
+    },
+    {
+      "title": "Leonardo DiCaprio i Jeff Bezos prowadzą projekt o wartości 200 milionów dolarów, mający na celu uratowanie 100 najbardziej zagrożonych gatunków na świecie – AP News",
+      "url": "https://apnews.com/article/leonardo-dicaprio-jeff-bezos-endangered-species-project-32320ba8dd021f162021d08050aaa9d3",
+      "date": "2026-08-04T13:28:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Leonardo DiCaprio i Jeff Bezos prowadzą projekt o wartości 200 milionów dolarów, mający na celu uratowanie 100 najbardziej zagrożonych gatunków na świecie AP News."
+    },
+    {
+      "title": "Mężczyzna oskarżony o wzniecenie największego pożaru w Spokane został przesłuchany w zeszłym roku w sprawie dwóch innych pożarów – AP News",
+      "url": "https://apnews.com/article/spokane-wildfires-arson-washington-old-trails-f23e7a45456dc166344f08fc09db4843",
+      "date": "2026-08-04T05:45:37Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Mężczyzna oskarżony o wzniecenie największego pożaru w Spokane został przesłuchany w zeszłym roku w sprawie dwóch innych pożarów."
     }
   ],
   "technology": [
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Spółki stowarzyszone Binance pozywają założycieli RedotPay za rzekome przekierowanie ponad 470 tys. użytkowników do konkurencyjnego produktu w ramach „oszukańczego planu”, żądając strat w wysokości 472,8 mln dolarów (Bloomberg)",
       "url": "https://www.techmeme.com/260805/p41#a260805p41",
       "date": "2026-08-05T21:15:01Z",
       "source": "Techmeme",
@@ -1021,15 +1021,23 @@
       "date": "2026-08-05T21:05:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Jordan Novet / CNBC: Salesforce mianuje Miguela Milano, dyrektora ds. przychodów, na stanowisko dyrektora operacyjnego; Dyrektor ds. operacyjnych i finansowych Robin Washington zachowa swój tytuł &mdash; Salesforce mianował dyrektora operacyjnego pod przewodnictwem dyrektora generalnego Marca Benioffa, awansując na to stanowisko Miguela Milano. &mdash; Milano, były dyrektor Oracle &hellip;."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Schwartz został dyrektorem CDC po przesłuchaniu potwierdzającym partactwo",
+      "url": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
+      "date": "2026-08-05T21:03:18Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Schwartz jest dobrze wykwalifikowany do tej roli, ale rozbił się i spalił podczas przesłuchania w Senacie."
+    },
+    {
+      "title": "Nikita Bier mówi, że odejdzie od wiodącego produktu dla X i nadal będzie doradcą (Nikita Bier/@nikitabier)",
       "url": "https://www.techmeme.com/260805/p39#a260805p39",
       "date": "2026-08-05T21:00:14Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Nikita Bier / @nikitabier: Nikita Bier mówi, że odejdzie od wiodącego produktu dla X i pozostanie doradcą &mdash; Szanowni Państwo, czas już zrzucić pochodnię i zdegradować się do naturalnego stanu: plakatu. Odsunę się od wiodącego produktu na rzecz `120143; i nadal będzie pełnił funkcję doradcy. Służba społeczności X była przywilejem na całe życie."
+      "summary": "Nikita Bier / @nikitabier: Nikita Bier twierdzi, że odejdzie od wiodącego produktu dla X i nadal będzie doradcą &mdash; Szanowni Państwo, czas już odejść z pochodnią i zdegradować się do naturalnego stanu: plakatu. Odsunę się od wiodącego produktu na rzecz `120143; i nadal będzie pełnił funkcję doradcy. Służba społeczności X była przywilejem na całe życie."
     },
     {
       "title": "eBay raportuje wzrost przychodów w drugim kwartale o 15% r/r do 3,13 mld USD w porównaniu z szacunkowymi 3,02 mld USD, wzrost GMV o 15% do 22,4 mld USD i prognozuje przychody w trzecim kwartale powyżej szacunków (Reuters)",
@@ -1040,6 +1048,14 @@
       "summary": "Reuters: eBay raportuje, że przychody za drugi kwartał wzrosły o 15% r/r do 3,13 mld USD w porównaniu z szacunkowymi 3,02 mld USD, wzrost GMV o 15% do 22,4 mld USD i prognozuje przychody za trzeci kwartał powyżej szacunków &mdash; EBay (EBAY.O) prognozował w środę przychody za trzeci kwartał powyżej szacunków Wall Street, opierając się na nacisku na uwierzytelnione towary luksusowe i przedmioty kolekcjonerskie."
     },
     {
+      "title": "Sztuczna inteligencja Anthropic wykorzystała fałszywe tożsamości i złośliwe oprogramowanie w nieuczciwym ataku na projekt GitHub",
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "date": "2026-08-05T20:47:11Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Nieoczekiwane działania modeli Anthropic i OpenAI wymusiły wstrzymanie brytyjskich testów cybernetycznych."
+    },
+    {
       "title": "Etsy twierdzi, że zwolni ~220 pracowników, czyli ~12% siły roboczej, głównie w dziale produktów i inżynierii, i odnotowuje wzrost przychodów w drugim kwartale o 6% rok do roku do 668,3 mln USD w porównaniu z szacunkowymi 649,1 mln USD (Annie Palmer/CNBC)",
       "url": "https://www.techmeme.com/260805/p37#a260805p37",
       "date": "2026-08-05T20:35:01Z",
@@ -1048,7 +1064,7 @@
       "summary": "Annie Palmer / CNBC: Etsy twierdzi, że zwolni ~220 pracowników, czyli ~12% siły roboczej, głównie w dziale produktów i inżynierii, i odnotowuje wzrost przychodów w drugim kwartale o 6% rok do roku do 668,3 mln USD w porównaniu z szacunkowymi 649,1 mln USD &mdash; W środę Etsy poinformowało, że zwalnia około 220 pracowników, czyli około 12% siły roboczej, jak wygląda rynek internetowy."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Meta oferuje tańszą warstwę „współautora” Muse Spark 1.2 w cenie 0,10 USD/1 mln tokenów wejściowych i 0,20 USD/1 mln tokenów wyjściowych w zamian za korzystanie z podpowiedzi użytkownika w celach szkoleniowych (Wall Street Journal)",
       "url": "https://www.techmeme.com/260805/p36#a260805p36",
       "date": "2026-08-05T20:20:00Z",
       "source": "Techmeme",
@@ -1056,7 +1072,7 @@
       "summary": "Wall Street Journal: Meta oferuje tańszą wersję Muse Spark 1.2 „współautor” poziom wyceniony na tokeny wejściowe o wartości 0,10 USD/1 mln USD i tokeny wyjściowe o wartości 0,20 USD/1 mln w zamian za korzystanie z podpowiedzi użytkownika w celu szkolenia &mdash; Firma, naciskana przez inwestorów, aby generowała przychody ze sztucznej inteligencji, twierdzi, że jej oferta będzie kosztować mniej niż popularne alternatywy."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Zgłoszenie: Microsoft odnotował 24,1 miliarda dolarów przychodów z OpenAI w roku zakończonym w czerwcu, co sugeruje, że OpenAI stanowiło ponad połowę sprzedaży AI Microsoftu (Bloomberg)",
       "url": "https://www.techmeme.com/260805/p35#a260805p35",
       "date": "2026-08-05T20:05:03Z",
       "source": "Techmeme",
@@ -1064,12 +1080,20 @@
       "summary": "Bloomberg: Zgłoszenie: Microsoft odnotował 24,1 miliarda dolarów przychodów z OpenAI w roku zakończonym w czerwcu, co sugeruje, że OpenAI stanowiło ponad połowę sprzedaży AI Microsoftu &mdash; Z nowych ujawnień firmy wynika, że ​​Microsoft Corp. większość swoich przychodów ze sztucznej inteligencji generuje dzięki OpenAI."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Reddit sygnalizuje złowieszcze nadchodzące „zmiany” w witrynie old.reddit.com",
+      "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+      "date": "2026-08-05T20:01:32Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Reddit twierdzi, że ta ukochana witryna jest wykorzystywana do „złego zachowania”."
+    },
+    {
+      "title": "Hank Green znalazł problem ze sztuczną inteligencją, którego wytwórnie YouTube nie potrafią wychwycić",
       "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
       "date": "2026-08-05T19:51:40Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "„Slops” to nie jedyny problem."
     },
     {
       "title": "Zmieniam telefon z Androida na Linuxa",
@@ -1077,15 +1101,15 @@
       "date": "2026-08-05T19:50:13Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Adres URL artykułu: https://runarcn.no/android-to-linux/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49188022 Punkty: 41 # Komentarze: 18."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Meta wyświetlała reklamy zawierające obrazy przedstawiające wykorzystywanie seksualne dzieci wygenerowane przez sztuczną inteligencję",
       "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
       "date": "2026-08-05T19:47:26Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Adres URL artykułu: https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-seksualne-abuse-imagery/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49187977 Punkty: 113 # Komentarze: 53."
     },
     {
       "title": "Meta wypuszcza Muse Code w wersji beta, terminalowy agent kodujący oparty na Muse Spark 1.2, model skoncentrowany na kodowaniu, którego cena tokenów wejściowych wynosi 1,25 USD/1 mln, a tokenów wyjściowych 4,25 USD/1 mln (Jonathan Vanian/CNBC)",
@@ -1101,7 +1125,7 @@
       "date": "2026-08-05T19:38:56Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "SpaceX nie zbuduje dużych wież komórkowych, ale planuje małe stacje bazowe w całych Stanach Zjednoczonych."
     },
     {
       "title": "Bitwa o Thorgala. Sieć grzmi, bo Polska promuje czarną owcę branży gier",
@@ -1128,7 +1152,7 @@
       "summary": "Netflix uruchomił odtwarzanie Ultra HD (2160p) w Google Chrome 117, co dla wielu użytkowników oznacza możliwość oglądania 4K bez przełączania się na Microsoft Edge. Na razie nowość dotyczy tylko komputerów z systemem Windows, a do tego ma istotny \"haczyk\" związany z jakością obrazu."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Zmiany w sztucznej inteligencji w Google: Hassabis z DeepMind odchodzi na bok, starsi naukowcy odchodzą",
       "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
       "date": "2026-08-05T19:05:58Z",
       "source": "Ars Technica",
@@ -1144,12 +1168,12 @@
       "summary": "Sukces komercyjny sieci Starlink, która zaskarbiła już sobie zaufanie ponad 12 milionów aktywnych użytkowników na całym świecie, okazuje się zaledwie pierwszym etapem ambitnej strategii SpaceX."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Sula: Serwer protokołu Gemini napisany w Scryer Prolog",
       "url": "https://sagredo.dev/projects/sula/",
       "date": "2026-08-05T18:52:58Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Adres URL artykułu: https://sagredo.dev/projects/sula/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49187259 Punkty: 21 # Komentarze: 1."
     },
     {
       "title": "Zeda DeltaDB",
@@ -1157,39 +1181,31 @@
       "date": "2026-08-05T18:52:54Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Adres URL artykułu: https://zed.dev/deltadb Adres URL komentarzy: https://news.ycombinator.com/item?id=49187256 Punkty: 181 # Komentarze: 75."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Co się stanie, jeśli umieścisz pracę w drugim wymiarze?",
       "url": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
       "date": "2026-08-05T18:39:31Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Adres URL artykułu: https://norbertkozsir.com/posts/work-in-the-drugi-dimension/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49187084 Punkty: 22 # Komentarze: 16."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Born Against, czyli dlaczego społeczności programistów hobbystycznych są przeciwne używaniu LLM",
       "url": "https://blog.fogus.me/llm/born-against.html",
       "date": "2026-08-05T18:37:49Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://blog.fogus.me/llm/born-against.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49187061 Punkty: 93 # Komentarze: 99."
+      "summary": "Adres URL artykułu: https://blog.fogus.me/llm/born-against.html Adres URL komentarzy: https://news.ycombinator.com/item?id=49187061 Punkty: 98 # Komentarze: 105."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://arstechnica.com/culture/2026/08/review-spider-man-brand-new-day-reminds-us-that-superhero-movies-can-be-good/",
-      "date": "2026-08-05T18:27:15Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Pokonanie GPT-5.6 Sol przy pobieraniu 100 razy tańszymi modelami otwartymi",
       "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
       "date": "2026-08-05T18:18:56Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Adres URL komentarzy: https://news.ycombinator.com/item?id=49186762 Punkty: 119 # Komentarze: 21."
+      "summary": "Adres URL artykułu: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Adres URL komentarzy: https://news.ycombinator.com/item?id=49186762 Punkty: 123 # Komentarze: 23."
     },
     {
       "title": "Tych procesorów AMD nie kupisz w sklepie. Ale to one zadecydują o twoim komforcie",
@@ -1200,28 +1216,12 @@
       "summary": "Tych procesorów AMD nie kupisz w sklepie. Ale to one zadecydują o twoim komforcie."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://arstechnica.com/health/2026/08/report-cdc-finally-plans-formal-response-team-for-explosive-diarrhea-outbreak/",
-      "date": "2026-08-05T18:11:11Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Zgłoszenia przypadków rozpoczęły się w czerwcu, a ich liczba w całym kraju zbliża się obecnie do 23 000."
-    },
-    {
       "title": "Koniec Asystenta Google. Albo Gemini albo nic",
       "url": "https://antyweb.pl/koniec-asystenta-google-albo-gemini-albo-nic",
       "date": "2026-08-05T17:36:45Z",
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Zapowiadana od dłuższego czasu rewolucja w ekosystemie Google wreszcie staje się faktem."
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
-      "date": "2026-08-05T17:12:39Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Darmowy internet w telefonie na wakacje. Bierz i się nie zastanawiaj",
@@ -1415,7 +1415,7 @@
       "date": "2026-08-05T18:44:31Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Operacja ClickFix w systemie macOS obejmująca ponad 250 domen frontonu pobiera teraz odciski palców odwiedzających, zanim zdecydują, czy pokazać im przynętę ze złośliwym oprogramowaniem, co jest zmianą, którą Microsoft Threat Intelligence śledzi w infrastrukturze, którą obserwuje od tygodni. Brama po stronie serwera ukrywa złośliwą stronę przed robotami indeksującymi i piaskownicami, jednocześnie prezentując wybranym użytkownikom komputerów Mac możliwość pobrania fałszywego oprogramowania. Microsoftu."
     },
     {
       "title": "OpenAI zakłóca sieć oszustw Poipet wykorzystującą ChatGPT w ramach wielu oszustw",
@@ -1423,7 +1423,7 @@
       "date": "2026-08-05T18:33:47Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "OpenAI stwierdziło, że zakłóciło operację oszustwa z siedzibą w Kambodży, która wykorzystywała chatbota ChatGPT ze sztuczną inteligencją (AI) do ułatwiania szerokiej gamy programów inwestycyjnych, romantycznych, hazardowych i podszywania się pod organy ścigania. W tym celu zakazał skoordynowanej sieci kont ChatGPT prawdopodobnie pochodzących z Azji Południowo-Wschodniej i działających w mieście Poipet, regionie o rozległych obszarach."
+      "summary": "OpenAI stwierdziło, że zakłóciło operację oszustwa z Kambodży, która wykorzystywała chatbota ChatGPT ze sztuczną inteligencją (AI) do ułatwiania szerokiej gamy programów inwestycyjnych, romantycznych, hazardowych i podszywania się pod organy ścigania. W tym celu zakazał skoordynowanej sieci kont ChatGPT prawdopodobnie pochodzących z Azji Południowo-Wschodniej i działających w mieście Poipet, regionie o rozległych obszarach."
     },
     {
       "title": "Elon obiecuje dać Nvidii wirtualny monopol na gwiazdy",
@@ -1431,10 +1431,10 @@
       "date": "2026-08-05T17:55:59Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "W kosmosie nikt nie usłyszy twojego krzyku, gdy LLM mają halucynacje."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Platforma agentowej sztucznej inteligencji IBM jest aktywnie atakowana — poprawka już teraz",
       "url": "https://www.theregister.com/security/2026/08/05/ibms-agentic-ai-platform-is-under-active-attack-patch-now/5283535",
       "date": "2026-08-05T16:44:39Z",
       "source": "The Register",
@@ -1447,10 +1447,10 @@
       "date": "2026-08-05T15:47:07Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Jednak kołyszącą się stodołę może uspokoić moratorium gubernatora stanu na podłączanie do sieci."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Poison Claude oferuje obniżony dostęp do Claude, a jego operator widzi każdą podpowiedź klienta",
       "url": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
       "date": "2026-08-05T15:36:03Z",
       "source": "The Hacker News",
@@ -1458,12 +1458,12 @@
       "summary": "Badacze zajmujący się cyberbezpieczeństwem odkryli ponad pół tuzina reklam usług umożliwiających nielegalny dostęp do modeli sztucznej inteligencji (AI) na nielegalnych forach i platformach komunikacyjnych poświęconych cyberprzestępczości. Jedna z takich usług, Poison Claude, twierdzi, że oferuje dostęp do dużych modeli językowych (LLM) firmy Anthropic, w tym Opus 4.8, Opus 4.7, Opus 4.6 i Sonnet 4.6. „Reklamy Poison Claude."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Wady AI związane ze spinaczem umożliwiają atakującym uruchamianie poleceń hosta poprzez import złośliwych agentów",
       "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
       "date": "2026-08-05T15:14:05Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Dwie luki w zabezpieczeniach Paperclip mogą pozwolić atakującym na wykonanie poleceń na serwerze sieciowym lub komputerze programisty. Paperclip to płaszczyzna kontroli typu open source dla zespołów agentów sztucznej inteligencji (AI), a obie ścieżki polegają na zaimportowaniu złośliwego agenta i uruchomieniu go. Trzecia usterka może ujawnić wrażliwe dane i szczegóły płaszczyzny kontrolnej poprzez trasy interfejsu programowania aplikacji (API)."
+      "summary": "Dwie luki w zabezpieczeniach Paperclip mogą pozwolić atakującym na wykonanie poleceń na serwerze sieciowym lub komputerze programisty. Paperclip to płaszczyzna kontroli typu open source dla zespołów agentów sztucznej inteligencji (AI), a obie ścieżki polegają na zaimportowaniu złośliwego agenta i uruchomieniu go. Trzecia luka może ujawnić wrażliwe dane i szczegóły płaszczyzny kontrolnej poprzez trasy interfejsu programowania aplikacji (API)."
     },
     {
       "title": "Microsoft radzi inżynierom, aby pohamowali swój entuzjazm związany z paleniem symboli",
@@ -1474,7 +1474,7 @@
       "summary": "Redmond chce wyników od Copilot, a nie imponujących danych dotyczących zużycia."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Operacjonalizuj sztuczną inteligencję na dużą skalę dzięki HPE i NVIDIA",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/05/sponsored-operational-ai-at-scale-with-hpe-and-nvidia/5282929",
       "date": "2026-08-05T15:00:00Z",
       "source": "The Register",
@@ -1495,15 +1495,15 @@
       "date": "2026-08-05T14:27:30Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "HashiCorp, Veeam i Django Software Foundation załatały 11 luk w zabezpieczeniach serwerów Terraform MCP, konsoli Veeam Service Provider Console i Django. Trzy najpoważniejsze: nieuwierzytelniona luka w konsoli Veeam, która przekazuje dane uwierzytelniające zarządzanego agenta, ocena 9,5. Luka w serwerze MCP firmy HashiCorp obejmująca wielu dzierżawców, która umożliwia ponowne wykorzystanie tokena Terraform jednego użytkownika dla późniejszych użytkowników."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Przychody SpaceX rosną błyskawicznie, a wydatki na sztuczną inteligencję spalają miliardy",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/05/spacex-revenue-rockets-while-ai-spending-burns-billions/5283404",
       "date": "2026-08-05T14:15:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Inwestorzy nie zgadzają się, gdy kwartalne nakłady inwestycyjne rosną do 18,4 miliarda dolarów."
     },
     {
       "title": "Trojanizowane pakiety npm wykorzystują taktykę NullReceiver do dekodowania adresu IP C2 z Blockchain",
@@ -1511,7 +1511,7 @@
       "date": "2026-08-05T13:41:27Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Badacze zajmujący się cyberbezpieczeństwem zauważyli ewolucję techniki dowodzenia i kontroli (C2) opartej na łańcuchu bloków EtherHiding, która ukrywa adres IP serwera C2 w wymyślonym adresie docelowym całkowicie pustego transferu Ethereum. Nowe podejście do rozwiązywania martwych kropli, zaobserwowane w dwóch trojanizowanych pakietach npm „bianira-ui” i „fluid-type-ui”, zostało nazwane kodową NullReceiver przez."
     },
     {
       "title": "Aktualizacja listy OWASP Top 10 dla LLM 2026. Agent AI dostał ręce, klucze i dostęp do firmowych systemów",
@@ -1522,7 +1522,7 @@
       "summary": "OWASP opublikował nową listę najważniejszych zagrożeń dla aplikacji opartych na dużych modelach językowych. Prompt Injection nadal zajmuje pierwsze miejsce, ale największy awans zaliczyło Excessive Agency. I słusznie, bo współczesny model rzadko kończy pracę na wygenerowaniu tekstu."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Strażnik twierdzi, że londyńska policja przekazała prześladowcy nowy adres i numer ofiary",
       "url": "https://www.theregister.com/security/2026/08/05/london-cops-handed-victims-new-address-and-number-to-her-stalker-watchdog-says/5283382",
       "date": "2026-08-05T13:30:00Z",
       "source": "The Register",
@@ -1554,7 +1554,7 @@
       "summary": "Luka powodująca uszkodzenie pamięci w ścieżce danych Open vSwitch jądra Linuksa zapewnia zwykłym użytkownikom lokalnym ścieżkę do rootowania w szerokim zestawie domyślnie skonfigurowanych dystrybucji, a publiczny exploit zawiera wstępnie utworzone rekordy dla około 800 kompilacji jądra. Luka, oznaczona jako CVE-2026-64531 (wynik CVSS: 7,8) i nazwana przez jej odkrywcę kodową nazwą OVSwrap, została ujawniona przez badacza bezpieczeństwa Asima."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Kali365 wykorzystuje uwierzytelnianie Microsoft przeciwko firmom z USA: nowe ryzyko dla przedsiębiorstwa",
       "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
       "date": "2026-08-05T11:43:19Z",
       "source": "The Hacker News",
@@ -1570,20 +1570,20 @@
       "summary": "Platforma X ograniczy w Turcji dostęp do konta biura kandydatury prezydenckiej Ekrema İmamoğlu, przebywającego w areszcie i zawieszonego w pełnieniu obowiązków burmistrza Stambułu. Firma wykona nakaz tureckiego sądu, ale jednocześnie zaskarżyła decyzję, powołując się na wolność wypowiedzi i dostęp do informacji."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Brytyjskie organizacje charytatywne obliczają koszty cyberataku Beacon CRM",
       "url": "https://www.theregister.com/security/2026/08/05/uk-charities-count-the-cost-of-beacon-crm-cyberattack/5283305",
       "date": "2026-08-05T11:04:52Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Kopie zapasowe baz danych prawdopodobnie zostaną skradzione, co może ujawnić dane dawcy, osoby wspierającej i użytkownika usługi."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Krytyczna luka w Gitea umożliwia nieuwierzytelnionym atakującym odczytanie plików serwera za pomocą znaczników w trybie organizacji",
       "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
       "date": "2026-08-05T11:04:23Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Nieuwierzytelniony atakujący może odczytać dowolny plik, do którego konto usługi może uzyskać dostęp na Gitea, samodzielnie hostowanej platformie Git, w wersjach od 1.22.1 do 1.27.0. Bez logowania, bez dostępu do zapisu w repozytorium. Wystarczą publiczne repozytorium i spreparowane znaczniki w trybie organizacji."
     },
     {
       "title": "Gawkowski: MSWiA powinno wdrażać system ostrzegania. Ekspert wskazuje metody",
@@ -1610,7 +1610,7 @@
       "summary": "Earie Salmon wyjaśnia, dlaczego umiejętności lutowania to dopiero początek."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Open VSX usuwa 77 złośliwych rozszerzeń Evil Twin wydobywających dane programistów",
       "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
       "date": "2026-08-05T09:23:03Z",
       "source": "The Hacker News",
@@ -1618,7 +1618,7 @@
       "summary": "Stwierdzono, że grupa 77 rozszerzeń na rynku Open VSX podszywa się pod legalne narzędzia programistyczne, przesyłając informacje o systemach i środowiskach programistycznych, w których zostały zainstalowane. Według Manifold Security rozszerzenia „evil twin” zostały przesłane do repozytorium między 26 lipca a 1 sierpnia 2026 r. Pakiety zostały usunięte z Open VSX z dniem."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Podwójne kłopoty dla firmy Microsoft w związku ze zbieżnością roszczeń licencyjnych na używane oprogramowanie",
       "url": "https://www.theregister.com/saas/2026/08/05/double-trouble-for-microsoft-as-pre-owned-software-license-claims-converge-1/5282421",
       "date": "2026-08-05T09:02:00Z",
       "source": "The Register",
@@ -1634,7 +1634,7 @@
       "summary": "Miliony Polaków wciąż pozostają poza zasięgiem szybkiego internetu. Pod koniec 2025 roku problem dotyczył 14,5 proc. punktów adresowych, a program, który miał zlikwidować cyfrowe białe plamy, utknął przez opóźnienia, słabe zainteresowanie operatorów i błędne dane wykorzystywane do planowania inwestycji – wynika z kontroli NIK."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Claude Mythos 5 próbował w testach włamać się do prawdziwego projektu open source, a potem ręczył za siebie",
       "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
       "date": "2026-08-05T07:53:50Z",
       "source": "The Hacker News",
@@ -1642,7 +1642,7 @@
       "summary": "Agent obsługujący Claude Mythos 5 firmy Anthropic spędził 34 godziny, próbując połączyć dropper złośliwego oprogramowania z prawdziwym projektem open source podczas oceny cybernetycznej przeprowadzonej przez brytyjski AI Security Institute. Kiedy przypadkowy świadek publicznie ostrzegł, że kod jest złośliwy, agent zaprzeczył temu, na siłę wypchnął przepisaną historię oddziału, aby usunąć dowody, i wysłał wiadomość z drugiego konta, które kontrolował i za które ręczył."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "CISA oznacza błędy Langflow RCE, Tomcat i N-central jako aktywnie wykorzystywane",
       "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
       "date": "2026-08-05T07:40:39Z",
       "source": "The Hacker News",
@@ -1658,7 +1658,7 @@
       "summary": "Badacze Pillar Security opisali luki w automatyzacjach działających w publicznym repozytorium Google Agent Development Kit dla Pythona. Odpowiednio przygotowane zgłoszenie błędu lub propozycja zmiany kodu mogły zmanipulować agenta AI i doprowadzić do uruchomienia procesu posiadającego większe uprawnienia."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Nowy Boeing w końcu rusza, 15 lat po debiucie",
       "url": "https://www.theregister.com/offbeat/2026/08/05/new-boeing-finally-gets-going-15-years-after-debut/5283213",
       "date": "2026-08-05T06:47:32Z",
       "source": "The Register",
@@ -1836,6 +1836,14 @@
       "summary": "Projekt ustawy budżetowej na rok 2027 zostanie przedstawiony do końca sierpnia tego roku - poinformował w środę minister finansów i gospodarki Andrzej Domański."
     },
     {
+      "title": "Komunikat EBI G-Devs SA (gdevs): Zawarcie, zmiana treści, wypowiedzenie, rozwiązanie lub wygaśnięcie umowy o wykonywanie zadań Autoryzowanego Doradcy - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/gdevs,zawarcie-zmiana-tresci-wypowiedzenie-rozwiaza-2026-08-05,ebi,20260805_212753_0000004522",
+      "date": "2026-08-05T19:27:53Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI G-Devs SA (gdevs): Zawarcie, zmiana treści, wypowiedzenie, rozwiązanie lub wygaśnięcie umowy o wykonywanie zadań Autoryzowanego Doradcy stockwatch.pl."
+    },
+    {
       "title": "Rząd zainterweniuje na rynku paliw? Domański: decyzja nie zapadła",
       "url": "https://www.money.pl/finanse/rzad-zainterweniuje-na-rynku-paliw-domanski-decyzja-nie-zapadla-7315271171545152a.html",
       "date": "2026-08-05T18:52:11Z",
@@ -1924,6 +1932,14 @@
       "summary": "Kurs dolara - 05.08.2026. W środę po południu za jednego dolara (USD) trzeba zapłacić 3.72495 zł."
     },
     {
+      "title": "Analiza techniczna OW20T264350 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/OW20T264350",
+      "date": "2026-08-05T17:03:34Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Analiza techniczna OW20T264350 BiznesRadar."
+    },
+    {
       "title": "PPK mają już 53,76 mld zł aktywów. Giełdowa hossa pomogła funduszom",
       "url": "https://300gospodarka.pl/news/ppk-co-napedzilo-dobre-wyniki",
       "date": "2026-08-05T16:36:12Z",
@@ -1996,14 +2012,6 @@
       "summary": "Około 200 owiec pomaga utrzymać roślinność na dwóch farmach fotowoltaicznych Eurowind Energy w województwie zachodniopomorskim. Zwierzęta wypasają się między panelami, ograniczając potrzebę mechanicznego koszenia, a jednocześnie użyźniają glebę. Firma wykorzystuje w ten sposób ten sam teren do produkcji energii odnawialnej i działalności rolniczej."
     },
     {
-      "title": "Komunikat EBI Partner-Nieruchomości SA (partner): Zmiana harmonogramu publikacji raportów okresowych - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/partner,zmiana-harmonogramu-publikacji-raportow-okres-2026-08-05,ebi,20260805_151527_0000004512",
-      "date": "2026-08-05T13:15:27Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat EBI Partner-Nieruchomości SA (partner): Zmiana harmonogramu publikacji raportów okresowych stockwatch.pl."
-    },
-    {
       "title": "Akcjonariusze Stalexport Autostrady otrzymają 0,74 zł na akcję z obniżenia kapitału - BiznesRadar",
       "url": "https://www.biznesradar.pl/a/149850,akcjonariusze-stalexport-autostrady-otrzymaja-0-74-zl-na-akcje-z-obnizenia-kapitalu",
       "date": "2026-08-05T13:04:00Z",
@@ -2074,14 +2082,6 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Rosjanie mogą tylko zgrzytać zębami. Stracili największego klienta na myśliwce Su-57 Forsal.pl."
-    },
-    {
-      "title": "Nowe emisje, ABB, finansowanie - BiznesRadar",
-      "url": "https://www.biznesradar.pl/temat/23,nowe-emisje-abb-finansowanie,100",
-      "date": "2026-08-05T11:19:33Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Nowe emisje, ABB, finansowanie BiznesRadar."
     },
     {
       "title": "Ten dodatek \"do psa\" już obowiązuje. Można dostać 1500 zł na czworonoga - Forsal.pl",
@@ -2252,7 +2252,7 @@
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
+      "description": "Ministerstwo zdrowia Libanu twierdzi, że w atakach zginęła jedna osoba, które według izraelskiego wojska były odpowiedzią na naruszenie zawieszenia broni przez Hezbollah.",
       "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -2260,8 +2260,8 @@
       "lng": 53.69,
       "type": "conflict",
       "region": "Iran",
-      "description": "EKSKLUZYWNIE: Iran grozi uderzeniem w państwa Zatoki Perskiej, jeśli USA przeprowadzą nowe ataki Reuters.",
-      "url": "https://www.reuters.com/world/middle-east/iran-threatens-hit-gulf-states-if-us-launches-new-strikes-2026-08-05/"
+      "description": "Rzecznik ministerstwa spraw zagranicznych nie podał szczegółów, ale powiedział, że porozumienie z krajami Zatoki Perskiej jest „w końcowej fazie”.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
     },
     {
       "lat": 52.5,
@@ -2340,7 +2340,7 @@
       "lng": 48.52,
       "type": "conflict",
       "region": "Jemen",
-      "description": "Arabia Saudyjska nie skomentowała roszczeń Huti, wspieranych przez Iran i zapowiadających zamknięcie „wszystkich dróg dostępu” do dostaw saudyjskiej ropy.",
+      "description": "Arabia Saudyjska nie skomentowała żądań Huti, wspieranych przez Iran i zapowiadających zamknięcie „wszystkich dróg dostępu” do dostaw saudyjskiej ropy.",
       "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html"
     },
     {
@@ -2508,8 +2508,8 @@
       "lng": 35.5,
       "type": "conflict",
       "region": "Liban",
-      "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
-      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss"
+      "description": "Rubio i Miliband rozmawiają o wojnie na Ukrainie, zwiększając rolę Europy we własnym bezpieczeństwie Reuters.",
+      "url": "https://www.reuters.com/world/rubio-miliband-discuss-ukraine-war-europe-taking-greater-role-its-own-security-2026-08-05/"
     },
     {
       "lat": 31.2,
@@ -2532,7 +2532,7 @@
       "lng": 105.49,
       "type": "cyber",
       "region": "Kambodża",
-      "description": "OpenAI stwierdziło, że zakłóciło operację oszustwa z siedzibą w Kambodży, która wykorzystywała chatbota ChatGPT ze sztuczną inteligencją (AI) do ułatwiania szerokiej gamy programów inwestycyjnych, romantycznych, hazardowych i podszywania się pod organy ścigania.",
+      "description": "OpenAI stwierdziło, że zakłóciło operację oszustwa z Kambodży, która wykorzystywała chatbota ChatGPT ze sztuczną inteligencją (AI) do ułatwiania szerokiej gamy programów inwestycyjnych, romantycznych, hazardowych i podszywania się pod organy ścigania.",
       "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html"
     }
   ],
@@ -2547,23 +2547,23 @@
           "source": "The Guardian"
         },
         {
-          "title": "Rubio i Miliband rozmawiają o wojnie na Ukrainie i odgrywaniu przez Europę większej roli we własnym bezpieczeństwie – Reuters",
+          "title": "Rubio i Miliband rozmawiają o wojnie na Ukrainie, zwiększającej rolę Europy we własnym bezpieczeństwie – Reuters",
           "url": "https://www.reuters.com/world/rubio-miliband-discuss-ukraine-war-europe-taking-greater-role-its-own-security-2026-08-05/",
           "source": "Reuters"
         },
         {
-          "title": "Po śmiercionośnym ataku w Kijowie Ukraina ostrzega, że ​​brak przechwytywaczy kosztuje życie",
-          "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News"
+          "title": "Wojna, która toczy się nad Rosją i Ukrainą",
+          "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
+          "source": "The New York Times"
         }
       ]
     },
     {
       "name": "Liban",
-      "score": 46,
+      "score": 40,
       "reasons": [
         {
-          "title": "Rubio i Miliband rozmawiają o wojnie na Ukrainie i odgrywaniu przez Europę większej roli we własnym bezpieczeństwie – Reuters",
+          "title": "Rubio i Miliband rozmawiają o wojnie na Ukrainie, zwiększającej rolę Europy we własnym bezpieczeństwie – Reuters",
           "url": "https://www.reuters.com/world/rubio-miliband-discuss-ukraine-war-europe-taking-greater-role-its-own-security-2026-08-05/",
           "source": "Reuters"
         },
@@ -2571,33 +2571,54 @@
           "title": "Izrael uderza w południowy Liban, zabijając jedną osobę i raniąc 11",
           "url": "https://www.theguardian.com/world/2026/aug/05/israel-strikes-southern-lebanon-deadliest-ceasefire",
           "source": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Iran",
-      "score": 46,
-      "reasons": [
-        {
-          "title": "El Niño może doprowadzić do ostrego głodu 50 milionów ludzi przed końcem przyszłego roku",
-          "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
-          "source": "The Guardian"
         },
         {
-          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "url": "https://www.reuters.com/world/middle-east/iran-threatens-hit-gulf-states-if-us-launches-new-strikes-2026-08-05/",
-          "source": "Reuters"
+          "title": "Izrael uderza w południowy Liban po pierwszym ostrzeżeniu o ewakuacji od tygodni",
+          "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News"
         }
       ]
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 23,
+      "score": 25,
       "reasons": [
         {
           "title": "Izrael uderza w południowy Liban, zabijając jedną osobę i raniąc 11",
           "url": "https://www.theguardian.com/world/2026/aug/05/israel-strikes-southern-lebanon-deadliest-ceasefire",
           "source": "The Guardian"
+        },
+        {
+          "title": "Izrael uderza w południowy Liban po pierwszym ostrzeżeniu o ewakuacji od tygodni",
+          "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News"
+        }
+      ]
+    },
+    {
+      "name": "Iran",
+      "score": 20,
+      "reasons": [
+        {
+          "title": "WYŁĄCZNIE: Iran grozi uderzeniem w państwa Zatoki Perskiej, jeśli USA przeprowadzą nowe ataki – Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iran-threatens-hit-gulf-states-if-us-launches-new-strikes-2026-08-05/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Houthi grożą rozszerzeniem ataków na Morzu Czerwonym i zażądaniem ataków na saudyjskie tankowce",
+          "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html",
+          "source": "The New York Times"
+        }
+      ]
+    },
+    {
+      "name": "Jemen",
+      "score": 10,
+      "reasons": [
+        {
+          "title": "Houthi grożą rozszerzeniem ataków na Morzu Czerwonym i zażądaniem ataków na saudyjskie tankowce",
+          "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html",
+          "source": "The New York Times"
         }
       ]
     }
@@ -2787,51 +2808,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25342.47,
+      25353.38,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26491.84,
+      26503.24,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26636.9,
+      26648.37,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      26878.7,
+      26890.26,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27506.26,
+      27518.1,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27541.84,
+      27553.69,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27783.37,
+      27795.33,
       27354.94,
       27400.36,
       27412.11,
-      28179.63,
+      28191.76,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27449.79,
+      27461.61,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27627.2,
+      27639.09,
       27686.17,
       27404.78,
       27351.97,
@@ -2840,7 +2861,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27339.31,
+      27351.07,
       27930.04,
       28234.04,
       28218.36,
@@ -2849,25 +2870,25 @@
       28294.39,
       28203.83,
       28555.17,
-      28162.27,
+      28174.39,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27724.71,
+      27736.64,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27554.78,
+      27566.64,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      27843.78,
+      27855.77,
       28457.79,
       28810.03,
-      28713.07
+      28725.43
     ],
     "currency": "PLN"
   }
