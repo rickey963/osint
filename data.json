@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T07:01:21Z",
+  "last_updated": "2026-08-06T07:06:33Z",
   "poland": [
     {
       "title": "Nikt nie chciał hodować krów dla czeskich rezerw państwowych. Przetarg bez chętnych",
@@ -234,14 +234,6 @@
       "summary": "Jak donosi The Washington Post, Donald Trump zażądał od Petea Hegsetha wyjaśnień w sprawie uszczuplonych zapasów amunicji. Zdaniem informatorów prezydent USA uważa, że został w tej kwestii wprowadzony w błąd. Był przekonany, twierdzą źródła, że problem został już rozwiązany."
     },
     {
-      "title": "Tak Karol Nawrocki realizował swoje obietnice. Bilans pierwszego roku - Polskie Radio 24",
-      "url": "https://polskieradio24.pl/polityka/tak-karol-nawrocki-realizowal-swoje-obietnice-bilans-pierwszego-roku",
-      "date": "2026-08-06T04:00:00Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Tak Karol Nawrocki realizował swoje obietnice. Bilans pierwszego roku Polskie Radio 24."
-    },
-    {
       "title": "Polacy ocenili rok prezydentury Karola Nawrockiego. Sondaże ukazały głębokie podziały",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,32952224,polacy-ocenili-rok-prezydentury-karola-nawrockiego-sondaze.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-08-06T04:00:00Z",
@@ -400,6 +392,14 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Piekielny upał nakręci potężne burze. IMGW wskazuje zagrożone regiony Polskie Radio 24."
+    },
+    {
+      "title": "Nowe zasady dot. treści AI. Co czeka użytkowników? Ekspert rozwiewa wątpliwości - Polskie Radio 24",
+      "url": "https://polskieradio24.pl/polska/nowe-zasady-dot-tresci-ai-co-czeka-uzytkownikow-ekspert-rozwiewa-watpliwosci",
+      "date": "2026-08-04T18:37:46Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Nowe zasady dot. treści AI. Co czeka użytkowników?"
     }
   ],
   "world_security": [
@@ -1570,14 +1570,6 @@
       "summary": "Badacze zajmujący się cyberbezpieczeństwem zauważyli ewolucję techniki dowodzenia i kontroli (C2) opartej na łańcuchu bloków EtherHiding, która ukrywa adres IP serwera C2 w wymyślonym adresie docelowym całkowicie pustego transferu Ethereum. Nowe podejście do rozwiązywania martwych kropli, zaobserwowane w dwóch trojanizowanych pakietach npm „bianira-ui” i „fluid-type-ui”, zostało nazwane kodową NullReceiver przez."
     },
     {
-      "title": "Aktualizacja listy OWASP Top 10 dla LLM 2026. Agent AI dostał ręce, klucze i dostęp do firmowych systemów",
-      "url": "https://sekurak.pl/aktualizacja-listy-owasp-top-10-dla-llm-2026-agent-ai-dostal-rece-klucze-i-dostep-do-firmowych-systemow/",
-      "date": "2026-08-05T13:30:27Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "OWASP opublikował nową listę najważniejszych zagrożeń dla aplikacji opartych na dużych modelach językowych. Prompt Injection nadal zajmuje pierwsze miejsce, ale największy awans zaliczyło Excessive Agency. I słusznie, bo współczesny model rzadko kończy pracę na wygenerowaniu tekstu."
-    },
-    {
       "title": "Strażnik twierdzi, że londyńska policja przekazała prześladowcy nowy adres i numer ofiary",
       "url": "https://www.theregister.com/security/2026/08/05/london-cops-handed-victims-new-address-and-number-to-her-stalker-watchdog-says/5283382",
       "date": "2026-08-05T13:30:00Z",
@@ -1624,6 +1616,14 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Platforma X ograniczy w Turcji dostęp do konta biura kandydatury prezydenckiej Ekrema İmamoğlu, przebywającego w areszcie i zawieszonego w pełnieniu obowiązków burmistrza Stambułu. Firma wykona nakaz tureckiego sądu, ale jednocześnie zaskarżyła decyzję, powołując się na wolność wypowiedzi i dostęp do informacji."
+    },
+    {
+      "title": "Brytyjskie organizacje charytatywne obliczają koszty cyberataku Beacon CRM",
+      "url": "https://www.theregister.com/security/2026/08/05/uk-charities-count-the-cost-of-beacon-crm-cyberattack/5283305",
+      "date": "2026-08-05T11:04:52Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Kopie zapasowe baz danych prawdopodobnie zostaną skradzione, co może ujawnić dane dawcy, osoby wspierającej i użytkownika usługi."
     },
     {
       "title": "Krytyczna luka w Gitea umożliwia nieuwierzytelnionym atakującym odczytanie plików serwera za pomocą znaczników w trybie organizacji",
@@ -1688,6 +1688,14 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Badacze Pillar Security opisali luki w automatyzacjach działających w publicznym repozytorium Google Agent Development Kit dla Pythona. Odpowiednio przygotowane zgłoszenie błędu lub propozycja zmiany kodu mogły zmanipulować agenta AI i doprowadzić do uruchomienia procesu posiadającego większe uprawnienia."
+    },
+    {
+      "title": "Atak na łańcuch dostaw QuickFox dostarcza backdoora FDMTP za pośrednictwem trojanizowanego instalatora Windows",
+      "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+      "date": "2026-08-05T05:47:19Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Badacze zajmujący się cyberbezpieczeństwem ujawnili coś, co zostało opisane jako „długotrwały atak na łańcuch dostaw” na QuickFox, wirtualną sieć prywatną (VPN) i narzędzie do przyspieszania sieci przeznaczone dla chińskich użytkowników z zagranicy. Według Fortinet FortiGuard Labs atak na łańcuch dostaw trwa co najmniej od sierpnia 2025 r. i obejmuje zainfekowaną wersję aplikacji dostarczającą FDMTP, a."
     },
     {
       "title": "Presja ataków i nowego prawa. Twój biznes potrzebuje prawdziwego SOC-a, a nie jego atrapy",
@@ -1762,12 +1770,12 @@
       "summary": "Szybki rozwój sztucznej inteligencji, masowe użycie dronów oraz widmo długotrwałych konfliktów – światowy wyścig zbrojeń wkracza w zupełnie nową fazę. Japonia opublikowała, liczący blisko 600 stron, raport obronny, w którym wprost wskazuje na rosnące zagrożenie ze strony Chin, Korei Północnej oraz Rosji. Tokio zapowiada historyczne zmiany w swojej armii."
     },
     {
-      "title": "Potencjalny wyciek danych z Żabki – mamy potwierdzenie!",
-      "url": "https://sekurak.pl/potencjalny-wyciek-danych-z-zabki/",
-      "date": "2026-08-03T21:27:28Z",
-      "source": "Sekurak",
+      "title": "Koniec „samowolki”. Surowe limity i kontrola portfeli kryptoaktywów w RPA",
+      "url": "https://cyberdefence24.pl/biznes-i-finanse/koniec-samowolki-surowe-limity-i-kontrola-portfeli-kryptoaktywow-w-rpa",
+      "date": "2026-08-04T05:55:34Z",
+      "source": "CyberDefence24",
       "confirmed_by": 1,
-      "summary": "Aktualizacja 04.08.2026 10:48 &#8211; Odpowiedź biura prasowego Żabka Polska Wczoraj zadaliśmy następujące pytania: Dzisiaj przed godziną 11:00 otrzymaliśmy odpowiedź biura prasowego, które publikujemy w niezmienionej formie. Firma potwierdza wystąpienie incydentu i podjęcie niezbędnych kroków: Potwierdzamy, że pod koniec ubiegłego tygodnia wykryliśmy nieautoryzowany dostęp do wybranych zasobów technicznych wspierających wymianę informacji... Artykuł Potencjalny wyciek danych z Żabki &#8211; mamy potwierdzenie!"
+      "summary": "Republika Południowej Afryki przygotowała projekt podręcznika określającego zasady zarówno przesyłania kryptoaktywów za granicę, jak i sprowadzania ich do kraju. Dokument wskazuje, kto będzie mógł obsługiwać takie operacje, kiedy transfer stanie się przepływem kapitału oraz jakie informacje trafią do banku centralnego."
     },
     {
       "title": "Żabka zhackowana. Co wyciekło?",
@@ -1776,38 +1784,6 @@
       "source": "Niebezpiecznik",
       "confirmed_by": 1,
       "summary": "Ktoś wykradł dane z serwerów Żabki i oferuje je na sprzedaż za śmiesznie niską cenę. W dodatku rozsyła e-maile &#8220;informujące o ataku&#8221; do firm, które z Żabką współpracują i do dziennikarzy. Dodatkowo, w sklepach Żabki trwa właśnie awaria powodująca błędne naliczanie rabatów."
-    },
-    {
-      "title": "Groźny atak na szyfrowany komunikator Gajim przez lukę w KDE Plasma",
-      "url": "https://sekurak.pl/grozny-atak-na-szyfrowany-komunikator-gajim-przez-luke-w-kde-plasma/",
-      "date": "2026-08-03T11:09:14Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Wiele współczesnych naruszeń bezpieczeństwa nie wynika z pojedynczego, spektakularnego błędu (np. klasy naruszenia ochrony pamięci). Prawdziwa esencja ofensywnego rzemiosła leży w łańcuchach podatności."
-    },
-    {
-      "title": "Co świadczy o odporności algorytmu Argon2 na ataki z wykorzystaniem GPU? Analiza standardu",
-      "url": "https://sekurak.pl/co-swiadczy-o-odpornosci-algorytmu-argon2-na-ataki-z-wykorzystaniem-gpu-analiza-standardu/",
-      "date": "2026-08-03T09:01:43Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Implementując mechanizm uwierzytelnienia wykorzystujący login i hasło dostępu można się spotkać z zagadnieniem bezpiecznego przechowywania poświadczeń logowania. Najczęściej loginem bywa adres email lub unikalny nick użytkownika. Z jego przechowywaniem nie ma problemu."
-    },
-    {
-      "title": "Złośliwe rozszerzenie do Chrome wykrada prompty z ChatGPT, Claude, Copilota i wielu innych serwisów AI",
-      "url": "https://sekurak.pl/zlosliwe-rozszerzenie-do-chrome-wykrada-prompty-z-chatgpt-claude-copilota-i-wielu-innych-serwisow-ai/",
-      "date": "2026-08-03T08:55:33Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Rozszerzenie do przeglądarki Chrome – Prompt Optimizer &#8211; Second Brain (nadal dostępne w oficjalnym sklepie Chrome Web Store) którego zadaniem jest wsparcie użytkownika podczas pracy z modelami AI, po cichu wykrada wpisywane prompty i generowane odpowiedzi. Oczywiście twórcy rozszerzenia deklarują, że dane użytkownika w żaden sposób nie są gromadzone. Jak..."
-    },
-    {
-      "title": "Platforma HackerOne wprowadza obowiązkową weryfikację tożsamości w programach Bug Bounty",
-      "url": "https://sekurak.pl/platforma-hackerone-wprowadza-obowiazkowa-weryfikacje-tozsamosci-w-programach-bug-bounty/",
-      "date": "2026-08-03T08:51:33Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Platformy HackerOne raczej nie trzeba przedstawiać nikomu, kto interesuje się cyberbezpieczeństwem. To właśnie za jej pośrednictwem wielu hakerów zgłasza wykryte podatności, w zamian za co, oprócz uznania, otrzymują nagrody pieniężne. TLDR: Do tej pory istniała możliwość otrzymania nagrody, bez potrzeby ujawniania tożsamości."
     }
   ],
   "finance": [
@@ -2012,6 +1988,30 @@
       "summary": "Komunikat EBI G-Devs SA (gdevs): Zawarcie, zmiana treści, wypowiedzenie, rozwiązanie lub wygaśnięcie umowy o wykonywanie zadań Autoryzowanego Doradcy stockwatch.pl."
     },
     {
+      "title": "Wiadomości RBIWC0327CDPRO1 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wiadomosci/RBIWC0327CDPRO1",
+      "date": "2026-08-05T18:07:21Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości RBIWC0327CDPRO1 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+    },
+    {
+      "title": "Notowania historyczne RBIWP1226CDPRO2 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania-historyczne/RBIWP1226CDPRO2",
+      "date": "2026-08-05T17:38:41Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania historyczne RBIWP1226CDPRO2 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+    },
+    {
+      "title": "Sygnały analizy technicznej RBIWC1226PKO2 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/RBIWC1226PKO2",
+      "date": "2026-08-05T17:11:45Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Sygnały analizy technicznej RBIWC1226PKO2 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+    },
+    {
       "title": "Sygnały analizy technicznej RBIWP0327KGH RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
       "url": "https://www.biznesradar.pl/analiza-techniczna-sygnaly/RBIWP0327KGH",
       "date": "2026-08-05T17:09:46Z",
@@ -2026,6 +2026,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Analiza techniczna OW20T264350 BiznesRadar."
+    },
+    {
+      "title": "Notowania OW20T264350 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/OW20T264350",
+      "date": "2026-08-05T16:55:08Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania OW20T264350 BiznesRadar."
     },
     {
       "title": "PPK mają już 53,76 mld zł aktywów. Giełdowa hossa pomogła funduszom",
@@ -2068,22 +2076,6 @@
       "summary": "BORYSZEW [BRS] stockwatch.pl."
     },
     {
-      "title": "Stopa zwrotu INTSKGH98392 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/stopa-zwrotu/INTSKGH98392",
-      "date": "2026-08-05T14:38:01Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Stopa zwrotu INTSKGH98392 INGBANK BiznesRadar."
-    },
-    {
-      "title": "Stopa zwrotu INTSSLV98723 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/stopa-zwrotu/INTSSLV98723",
-      "date": "2026-08-05T14:37:27Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Stopa zwrotu INTSSLV98723 INGBANK BiznesRadar."
-    },
-    {
       "title": "11 bit studios: Moonlighter 2 opuści early access 2 września - stockwatch.pl",
       "url": "https://www.stockwatch.pl/wiadomosci/11-bit-studios-moonlighter-2-endless-vault-premiera-wrzesien-2026,akcje,377640",
       "date": "2026-08-05T13:49:58Z",
@@ -2106,22 +2098,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "EUROSNACK [ECK] stockwatch.pl."
-    },
-    {
-      "title": "Akcjonariusze Stalexport Autostrady otrzymają 0,74 zł na akcję z obniżenia kapitału - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/149850,akcjonariusze-stalexport-autostrady-otrzymaja-0-74-zl-na-akcje-z-obnizenia-kapitalu",
-      "date": "2026-08-05T13:04:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 2,
-      "summary": "Akcjonariusze Stalexport Autostrady otrzymają 0,74 zł na akcję z obniżenia kapitału BiznesRadar."
-    },
-    {
-      "title": "Notowania RBIWC0327PKO RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/RBIWC0327PKO",
-      "date": "2026-08-05T12:56:07Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania RBIWC0327PKO RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "GreenX Metals buduje swoją wartość na GPW. Spółka rozszerza koncesje na Grenlandii o złoto i surowce krytyczne",
@@ -2260,8 +2236,8 @@
       "lng": 19.5,
       "type": "cyber",
       "region": "Polska",
-      "description": "Aktualizacja 04.08.2026 10:48 &#8211; Odpowiedź biura prasowego Żabka Polska Wczoraj zadaliśmy następujące pytania: Dzisiaj przed godziną 11:00 otrzymaliśmy odpowiedź biura prasowego, które publikujemy w niezmienionej formie.",
-      "url": "https://sekurak.pl/potencjalny-wyciek-danych-z-zabki/"
+      "description": "Unia Europejska wykłada miliardy euro, aby liczyć się w erze sztucznej inteligencji.",
+      "url": "https://cyberdefence24.pl/technologie/polska-walczy-o-historyczna-inwestycje-w-ai-mocni-konkurenci-w-przetargu-ue"
     },
     {
       "lat": 40.3,
@@ -2770,51 +2746,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25393.46,
+      25389.51,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26545.14,
+      26541.01,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26690.5,
+      26686.34,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      26932.78,
+      26928.58,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27561.61,
+      27557.32,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27597.26,
+      27592.96,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27839.27,
+      27834.94,
       27354.94,
       27400.36,
       27412.11,
-      28236.33,
+      28231.93,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27505.02,
+      27500.74,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27682.78,
+      27678.47,
       27686.17,
       27404.78,
       27351.97,
@@ -2823,7 +2799,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27394.31,
+      27390.05,
       27930.04,
       28234.04,
       28218.36,
@@ -2832,25 +2808,25 @@
       28294.39,
       28203.83,
       28555.17,
-      28218.93,
+      28214.54,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27780.49,
+      27776.17,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27610.22,
+      27605.92,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      27899.81,
+      27895.46,
       28457.79,
       28810.03,
-      28770.84
+      28766.36
     ],
     "currency": "PLN"
   }
