@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-06T02:49:42Z",
+  "last_updated": "2026-09-06T02:50:15Z",
   "poland": [
     {
-      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
+      "title": "Wszystkie - PAP - serwis.pap.pl",
       "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
       "date": "2026-09-05T21:46:16Z",
       "source": "PAP",
       "confirmed_by": 1,
-      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
+      "summary": "Wszystkie - PAP serwis.pap.pl."
     },
     {
       "title": "Narodowe Czytanie „Dziadów” Adama Mickiewicza w Warszawie - PAP - serwis wideo",
@@ -330,6 +330,14 @@
       "summary": "Awantura na pokładzie samolotu. Pasażer skrępowany taśmą klejącą Polskie Radio 24."
     },
     {
+      "title": "AI odkryła setki ważnych dla przemysłu substancji - Science in Poland",
+      "url": "https://scienceinpoland.pap.pl/aktualnosci/news%2C114700%2Cai-odkryla-setki-waznych-dla-przemyslu-substancji.html",
+      "date": "2026-09-05T08:21:01Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "AI odkryła setki ważnych dla przemysłu substancji Science in Poland."
+    },
+    {
       "title": "Konsultacje budżetowe w UE. Szef Rady Europejskiej przyjedzie do Warszawy - Polskie Radio 24",
       "url": "https://polskieradio24.pl/swiat/konsultacje-budzetowe-w-ue-szef-rady-europejskiej-przyjedzie-do-warszawy",
       "date": "2026-09-05T08:00:23Z",
@@ -378,14 +386,6 @@
       "summary": "Popielno najważniejszym ośrodkiem bytowania konika polskiego (pion) PAP - serwis wideo."
     },
     {
-      "title": "Popielno najważniejszym ośrodkiem bytowania konika polskiego - PAP - serwis wideo",
-      "url": "https://wideo.pap.pl/pap-media,101/popielno-najwazniejszym-osrodkiem-bytowania-konika-polskiego,95746",
-      "date": "2026-09-05T03:03:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Popielno najważniejszym ośrodkiem bytowania konika polskiego PAP - serwis wideo."
-    },
-    {
       "title": "Potężny słup ognia pod Kijowem. Rosyjski dron trafił w magazyn - Polskie Radio 24",
       "url": "https://polskieradio24.pl/swiat/potezny-slup-ognia-pod-kijowem-rosyjski-dron-trafil-w-magazyn",
       "date": "2026-09-04T19:34:08Z",
@@ -404,7 +404,7 @@
   ],
   "world_security": [
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Wiadomości z Australii na żywo: Partia Pracy twierdzi, że plan koalicji mający na celu kryminalizację palenia flagi zawiera „element desperacji, próby ścigania Jednego Narodu”",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
       "date": "2026-09-06T02:43:20Z",
       "source": "The Guardian",
@@ -412,12 +412,12 @@
       "summary": "Śledź dzisiejsze wiadomości na żywo. Pobierz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Duniam celuje w „niepoważne” twierdzenia osób ubiegających się o azyl. Opozycja jest „bardzo bliska” „posiadania pełnego pakietu migracyjnego” – mówi Duniam. Mówi, że są chętni do współpracy z rządem i że osoby przekraczające nielegalnie przedłużony pobyt muszą zostać deportowane. Wydajemy więcej na jednego studenta rocznie niż kiedykolwiek wcześniej, a poza tym ogólnie obserwujemy spadek standardów, a problem z programem nauczania polega na tym, że pozostawiliśmy w tyle podstawy. Kontynuuj czytanie..."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Wysłannicy USA udali się na rozmowy na Ukrainę po spotkaniu z Putinem w Moskwie",
       "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-06T02:24:16Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Steve Witkoff i Jared Kushner opuszczają rozmowy w Moskwie z nadzieją na „równie produktywne spotkania” na Ukrainie."
     },
     {
       "title": "Biały Dom twierdzi, że wysłannicy Trumpa i Putin omówili „kolejne kroki” mające na celu zakończenie wojny na Ukrainie",
@@ -433,7 +433,7 @@
       "date": "2026-09-06T01:54:29Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Chandika Shrestha została przetransportowana samolotem do szpitala po spędzeniu ponad 10 dni w częściowo zakopanym domu."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -444,15 +444,15 @@
       "summary": "Anika Wells spodziewała się, że w tym tygodniu opublikuje w parlamencie przepisy ustanawiające cyfrowy obowiązek zachowania ostrożności, ale Koalicja twierdzi, że jest to „próba cenzury Internetu”. Śledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Zarejestruj się, aby otrzymywać newsletter Guardian Australia. Plan Partii Pracy dotyczący rozprawienia się z algorytmami mediów społecznościowych spotyka się ze znacznym sprzeciwem w parlamencie federalnym, a przywódca opozycji Angus Taylor ostrzega przed wysiłkami rządu mającymi na celu „cenzurę” wolności słowa w Internecie. Minister komunikacji, Anika Wells, oczekuje się, że po powrocie parlamentu w tym tygodniu opublikuje projekt przepisów ustanawiających cyfrowy obowiązek opieki nad użytkownikami mediów społecznościowych w Australii. Zarejestruj się, aby otrzymywać newsletter Guardian Australia, a właściwie biuletyn tutaj Kontynuuj czytanie..."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "W wyniku obławy po rzekomym ataku siekierą w Victorii trzy osoby odniosły poważne obrażenia",
       "url": "https://www.theguardian.com/australia-news/2026/sep/06/manhunt-after-alleged-axe-attack-in-victoria-leaves-three-people-with-life-threatening-injuries-ntwnfb",
       "date": "2026-09-06T00:22:11Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Policja poszukuje domniemanego napastnika po pięćdziesiątce po incydencie w mieście Tyers w Gippsland. Śledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Trzy osoby zostały zabrane do szpitala z obrażeniami zagrażającymi życiu po rzekomym ataku siekierą w Wiktorii, a policja nadal poszukuje podejrzanego. Domniemany napastnik, znany ofiarom, przybył pod adres w mieście Tyers w Gippsland około godziny 12:30 w poniedziałek Jak poinformował rzecznik policji stanu Wiktoria, w sobotę. Kontynuuj czytanie..."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "„Był ratunkiem” – rodziny pogrążone w stratach po zwolnieniu haitańskich opiekunów w USA",
       "url": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-06T00:17:05Z",
       "source": "BBC News",
@@ -460,7 +460,7 @@
       "summary": "Imigranci z Haiti stanowią dużą część i tak już przeciążonej siły roboczej zajmującej się opieką domową."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Większość rosyjskojęzycznych miast na Ukrainie rozważa wprowadzenie zakazu używania języka w sztuce",
       "url": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-05T23:54:07Z",
       "source": "BBC News",
@@ -468,15 +468,15 @@
       "summary": "W tym tygodniu trzecie co do wielkości miasto Ukrainy, Odessa, podejmuje decyzję, czy wprowadzić zakaz rozpowszechniania rosyjskojęzycznych treści w muzyce i literaturze."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Lotnictwo musi mierzyć się z gorętszym i bardziej burzliwym niebem, a pasażerowie być może będą musieli zaakceptować większe zakłócenia",
       "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-05T23:20:00Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Czy w miarę nasilania się skutków zmiany klimatu ludzie będą musieli w coraz większym stopniu akceptować coraz więcej opóźnień i objazdów?"
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Siły amerykańskie i irańskie strzelają do statków na wodach w pobliżu Iranu – Reuters",
       "url": "https://www.reuters.com/world/middle-east/explosions-heard-near-irans-kharg-island-gulf-origin-unknown-fars-news-says-2026-09-05/",
       "date": "2026-09-05T23:09:21Z",
       "source": "Reuters",
@@ -484,12 +484,12 @@
       "summary": "Siły amerykańskie i irańskie strzelają do statków na wodach w pobliżu Iranu Reuters."
     },
     {
-      "title": "USA i Iran wymieniają ataki odwetowe na statki jako wybuchy konfliktu",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-05T22:44:07Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Stany Zjednoczone twierdzą, że uderzyły w trzy irańskie tankowce, podczas gdy Iran twierdzi, że celowały w trzy statki powiązane z USA."
     },
     {
       "title": "Ambasador USA odwiedza palestyńskie miasto w związku ze wzrostem przemocy wśród osadników na Zachodnim Brzegu – Reuters",
@@ -497,7 +497,7 @@
       "date": "2026-09-05T22:29:12Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Ambasador USA odwiedza palestyńskie miasto w związku ze wzrostem przemocy ze strony osadników na Zachodnim Brzegu Reuters."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -516,12 +516,12 @@
       "summary": "Prezydent USA sugeruje, że mógłby wesprzeć dążenie swojego argentyńskiego sojusznika do odzyskania suwerenności na spornych wyspachDonald Trump od dawna planował zemstę. „Jestem twoją zemstą” – oznajmił pełnej podziwu publiczności na Konferencji Akcji Politycznej Konserwatystów (CPAC) w 2023 r., rozpoczynając marsz powrotny do Białego Domu. Jest mało prawdopodobne, aby amerykański prezydent myślał wówczas o Argentynie i odległych pozostałościach byłego imperium brytyjskiego. Kontynuuj czytanie..."
     },
     {
-      "title": "W ataku dronów, za który obwinia się partyzantów, zginęło co najmniej trzech żołnierzy w Kolumbii",
+      "title": "Co najmniej trzech żołnierzy w Kolumbii zginęło w ataku drona, za który obwinia się partyzantów",
       "url": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
       "date": "2026-09-05T22:16:55Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Urzędnicy oskarżają Armię Wyzwolenia Narodowego o rozpoczęcie strajku, po którym nastąpiły starcia na terenie obiektu wojskowego W ataku z użyciem materiałów wybuchowych zrzuconych z dronów, po którym nastąpiło starcie na terenie obiektu wojskowego w północno-wschodniej Kolumbii, zginęło co najmniej trzech żołnierzy, a czterech zostało rannych – podała w sobotę armia kolumbijska. Władze lokalne obwiniły za atak – który miał miejsce późnym wieczorem w piątek – zbuntowaną Armię Wyzwolenia Narodowego (ELN). Kontynuuj czytanie..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Książę William będzie reprezentował króla Karola na pogrzebie króla Norwegii Haralda V",
@@ -529,15 +529,15 @@
       "date": "2026-09-05T22:11:21Z",
       "source": "The Guardian",
       "confirmed_by": 2,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Nałożony na Williama obowiązek wzięcia udziału w nabożeństwie u zmarłego monarchy wraz z księżniczką Royal, która jest matką chrzestną nowego króla Haakona VIII, stanowi precedens. Książę Walii ma w przyszłym tygodniu reprezentować swojego ojca na pogrzebie króla Norwegii Haralda V, ogłosił Pałac Buckingham. Do następcy tronu Williama dołączy jego ciotka Princess Royal, która prywatnie i osobiście występuje jako matka chrzestna nowego króla Haakona VIII. Kontynuuj czytanie..."
     },
     {
-      "title": "Wenezuelski miliarder, wobec którego Stany Zjednoczone prowadziły dochodzenie w sprawie prania pieniędzy, ma teraz umowę naftową z Pentagonem – Reuters",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.reuters.com/business/energy/venezuelan-billionaire-us-investigated-money-laundering-now-has-pentagon-oil-2026-09-05/",
       "date": "2026-09-05T22:09:42Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Wenezuelski miliarder, wobec którego Stany Zjednoczone prowadziły dochodzenie w sprawie prania pieniędzy, ma teraz umowę naftową z Pentagonem Reuters."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -545,18 +545,18 @@
       "date": "2026-09-05T21:29:38Z",
       "source": "BBC News",
       "confirmed_by": 2,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Sarah Khalifa jest najbardziej znana ze swojego programu telewizyjnego Mission Impossible, który poruszał kwestie przestępczości."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "OpenAI zdaje sobie sprawę z „incydentu na wiki” i potrzeby większej przejrzystości w związku z niezamierzonym zachowaniem sztucznej inteligencji – Reuters",
       "url": "https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/",
       "date": "2026-09-05T21:23:43Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "OpenAI zdaje sobie sprawę z „incydentu na wiki” i potrzeby większej przejrzystości w związku z niezamierzonym zachowaniem sztucznej inteligencji Reuters."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Federalny sąd apelacyjny podtrzymuje zakaz Trumpa dotyczący wykorzystywania danych o obywatelstwie do kontroli wyborców – Reuters",
       "url": "https://www.reuters.com/legal/government/federal-appeals-court-upholds-ban-trumps-bid-use-citizenship-data-voter-checks-2026-09-05/",
       "date": "2026-09-05T21:22:51Z",
       "source": "Reuters",
@@ -564,7 +564,7 @@
       "summary": "Federalny sąd apelacyjny podtrzymuje zakaz Trumpa dotyczący wykorzystywania danych o obywatelstwie do kontroli wyborców Reuters."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Oposy na dachu, koale w łóżku: badania pokazują, jak zwierzęta uciekają do australijskich domów po utracie siedlisk",
       "url": "https://www.theguardian.com/environment/2026/sep/06/possums-in-the-roof-koalas-in-bed-study-shows-how-animals-resort-to-australian-homes-after-habitat-loss",
       "date": "2026-09-05T20:00:47Z",
       "source": "The Guardian",
@@ -580,7 +580,7 @@
       "summary": "Złodziej z maczetą, „tsunami długu”… kampanie powtarzające argumenty opozycji przewyższają wydatki głównych partiiŚledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacjeOtrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami Mężczyzna ubrany w kominiarkę i wymachujący maczetą terroryzuje pracownika stacji benzynowej, po czym w drodze do wyjścia zbombarduje budynek. Kobieta rodzi na poboczu drogi i nie może dotrzeć do szpitala z powodu podjazdu ambulansu i dziury przypominające krater, które również zatrzymują wóz strażacki. Kontynuuj czytanie..."
     },
     {
-      "title": "Putin twierdzi, że kontakty amerykańsko-rosyjskie są korzystne po rozpoczęciu rozmów z Witkoffem i Kushnerem – Reuters",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.reuters.com/world/europe/putin-says-us-russia-contacts-beneficial-talks-begin-with-witkoff-kushner-2026-09-05/",
       "date": "2026-09-05T18:57:45Z",
       "source": "Reuters",
@@ -593,10 +593,10 @@
       "date": "2026-09-05T18:56:16Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Obywatel Chin uratowany z tunelu w Nepalu 10 dni po gwałtownej powodzi Reuters."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Milei jednoczy się w sprzeciwie wobec projektu naftowego na Falklandach – Reuters",
       "url": "https://www.reuters.com/business/energy/milei-finds-unity-pushback-against-falkland-islands-oil-project-2026-09-05/",
       "date": "2026-09-05T18:35:43Z",
       "source": "Reuters",
@@ -604,7 +604,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Amerykanie uderzeni rekordowymi cenami benzyny w weekend z okazji Święta Pracy – Reuters",
+      "title": "Amerykanie uderzyli rekordowo wysokimi cenami benzyny w weekend z okazji Święta Pracy – Reuters",
       "url": "https://www.reuters.com/business/energy/americans-hit-with-record-high-labor-day-weekend-gasoline-prices-2026-09-05/",
       "date": "2026-09-05T17:44:34Z",
       "source": "Reuters",
@@ -617,7 +617,7 @@
       "date": "2026-09-05T16:45:43Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Berlin rozpoczyna reakcję kryzysową po opublikowaniu przez hakerów skradzionych danych Reuters."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -628,7 +628,7 @@
       "summary": "Wchodzi w życie wynegocjowane zawieszenie broni w związku z naprawą elektrowni jądrowej w Zaporożu Reuters."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "W wyniku eksplozji cysterny z paliwem po wypadku drogowym w zachodnim Iranie zginęło 10 osób – podają państwowe media – Reuters",
       "url": "https://www.reuters.com/world/middle-east/fuel-tanker-explosion-after-traffic-accident-kills-10-western-iran-state-media-2026-09-05/",
       "date": "2026-09-05T16:19:53Z",
       "source": "Reuters",
@@ -636,7 +636,7 @@
       "summary": "Jak podają państwowe media Reuters, w wyniku eksplozji cysterny z paliwem po wypadku drogowym w zachodnim Iranie zginęło 10 osób."
     },
     {
-      "title": "Jakie różne mapy świata są dobre, a jakie błędne",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-05T16:14:24Z",
       "source": "BBC News",
@@ -649,7 +649,7 @@
       "date": "2026-09-05T15:57:11Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Źródła Reuters podają, że grecki F-4 rozbija się podczas pokazów lotniczych w pobliżu Aten, zginęło dwóch pilotów."
     },
     {
       "title": "Wojsko amerykańskie twierdzi, że uderzyło w trzy irańskie tankowce po tym, jak amerykańskie okręty wojenne znalazły się pod atakiem rakietowym",
@@ -660,7 +660,7 @@
       "summary": "Urzędnicy twierdzą, że amerykański lotniskowiec i niszczyciel uniknął ataków, zanim trzy irańskie tankowce zostały uderzone przez USA. Wojsko amerykańskie oświadczyło w sobotę, że uderzyło w trzy irańskie tankowce po tym, jak okręty wojenne amerykańskiej marynarki wojennej znalazły się pod atakiem rakietowym, co jeszcze bardziej eskaluje napięcie w regionie i ostrzega, że ​​„w razie potrzeby zniszczy ograniczoną i ujawnioną irańską flotę naftową”. Według wojska amerykański lotniskowiec i niszczyciel podczas patrolowania regionu uniknął „wielokrotnych niesprowokowanych ataków ze strony Iranu”. Żaden personel amerykański nie odniósł obrażeń. Kontynuuj czytanie..."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Co najmniej dwie osoby zginęły w wyniku wybuchu w koszarach wojskowych w Boliwii",
       "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-05T15:22:41Z",
       "source": "BBC News",
@@ -676,7 +676,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Nepal postawił prawie wszystko na energię wodną – powodzie pokazują, dlaczego jest to problem",
       "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-05T14:07:38Z",
       "source": "BBC News",
@@ -692,15 +692,15 @@
       "summary": "Ofensywa rebeliantów Houthi przeciwko siłom rządowym na zachodnim wybrzeżu prowadzi do najbardziej śmiercionośnych starć od lat W starciach między wspieranymi przez Arabię Saudyjską siłami rządowymi Jemenu a powiązanym z Iranem ruchem rebeliantów Houthi zginęło ponad 60 osób, w tym cywile, w wyniku ofensywy wojskowej na zachodnim wybrzeżu Jemenu przez Huti. Dwudziestu sześciu żołnierzy rządowych i 31 bojowników Houthi zginęło w sobotę podczas kilkugodzinnych walk na południowo-zachodnim wybrzeżu kraju – medyczna informacja medyczna a źródła wojskowe poinformowały Agence France-Presse (AFP). W ataku rakietowym zginęło także sześciu cywilów, a siedem innych osób podróżujących autobusem w mieście Taiz zostało rannych. Kontynuuj czytanie..."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Ratownicy w Nepalu odnaleźli dwie kolejne osoby żywe po katastrofie spowodowanej przez gwałtowną powódź",
       "url": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
       "date": "2026-09-05T11:26:30Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Chińczyk pracujący nad elektrownią wodną Trishuli i Nepalka w Nuwakot od 10 dni uczestniczyli w akcji ratunkowej Służby ratunkowe uratowały Chińczyka i Nepalkę w dwóch oddzielnych operacjach, podczas gdy władze kontynuowały poszukiwania tysięcy osób zaginionych 10 dni po potężnych powodziach, które nawiedziły Nepal. Nepalskie wojsko poinformowało w sobotę, że wspólny zespół składający się z personelu armii i południowokoreańskich ekspertów ds. katastrof uratował mężczyznę z 225-metrowego tunelu w Górnej Górze projektu elektrowni wodnej Trishuli-1 oraz że przechodzi ocenę stanu zdrowia. Zdjęcia pokazują, jak był ewakuowany helikopterem po wyniesieniu z tunelu. Kontynuuj czytanie..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "„Wina przez stowarzyszenie”: dlaczego w izraelskim nalocie zginęło siedmiu pracowników pomocy międzynarodowej",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
       "date": "2026-09-05T11:08:31Z",
       "source": "The Guardian",
@@ -708,12 +708,12 @@
       "summary": "Wyłącznie: dochodzenie Guardiana ujawnia, że obranie za cel konwoju World Central Kitchen wynika z szeroko stosowanej taktyki wojskowej Śmierć na drodze do Rafah: noc, w której IDF zaatakowała pracowników pomocy WCK Siedmiu pracowników organizacji humanitarnych zabitych w nalocie w Gazie zostało oznaczonych jako cele zgodnie z izraelską praktyką wojskową polegającą na ustalaniu winy przez skojarzenie, jak pokazuje dochodzenie Guardiana. Czołowy izraelski prokurator wojskowy ogłosił w zeszłym miesiącu, że nie będzie prowadził postępowania karnego w związku z incydentem z kwietnia 2024 r., w którym drony wystrzeliły rakiety w trzy wyraźnie oznaczone World Central Kitchen (WCK) wkrótce po eskortowaniu dostawy pomocy żywnościowej do Gazy. Zginęło trzech brytyjskich pracowników organizacji humanitarnych oraz Australijczyk, Palestyńczyk, Polak i obywatel USA i Kanady. Kontynuuj czytanie..."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Urzędnicy obrony twierdzą, że Europa nie byłaby w stanie utrzymać wojny na wyniszczenie z Rosją",
       "url": "https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say",
       "date": "2026-09-05T11:00:35Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Eksperci ds. bezpieczeństwa obawiają się, że Putin może wygrać wojnę hybrydową z Zachodem dzięki powstaniu prokremlowskich, skrajnie prawicowych partii Planiści obrony współpracujący z NATO obawiają się, że w przypadku wybuchu wojny z Rosją Europa nie byłaby obecnie w stanie wytrzymać długotrwałej wojny na wyniszczenie z powodu publicznego braku gotowości wojennej, jak usłyszała w tym tygodniu konferencja na temat przyszłości europejskiej koordynacji wojskowej. Pesymizm odzwierciedla obawę, że Rosja może wygrać tzw. wojnę hybrydową z Europą, osłabiając opcje dostępne dla wojny NATO planistów na wypadek konfliktu zbrojnego. Kontynuuj czytanie..."
     },
     {
       "title": "Proces Lindsay Clancy w sprawie morderstwa podzielił USA w kwestii tego, czy jest ofiarą, czy przestępcą",
@@ -721,7 +721,7 @@
       "date": "2026-09-05T10:02:29Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Niektórzy twierdzą, że sprawa rzuciła światło na problemy psychiczne matek, inni twierdzą, że nie jest to usprawiedliwienie dla morderstwa."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "„Kosztowało mnie to wiele przyjaźni”: były szef brazylijskiej armii ujawnia wewnętrzną walkę mającą na celu powstrzymanie zamachu stanu Bolsonaro",
@@ -732,7 +732,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Trump podpisuje rozporządzenie o zniesieniu ochrony zagrożonych gatunków wilków szarych",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-05T09:12:48Z",
       "source": "BBC News",
@@ -748,7 +748,7 @@
       "summary": "Matka z USA stanęła przed sądem za uduszenie trójki swoich dzieci. W innych krajach zachodnich obowiązuje specjalne prawo dotyczące matek, które zabijają swoje małe dzieci."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Bracia Tate oficjalnie oskarżeni o handel ludźmi i przestępstwa na tle seksualnym w Rumunii",
       "url": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-05T07:20:17Z",
       "source": "BBC News",
@@ -771,7 +771,7 @@
       "date": "2026-09-06T01:25:17Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "W przeciwieństwie do dziesiątek podobnych strajków, nikt nie zginął po usunięciu osób podejrzanych o przemyt narkotyków z czegoś, co wojsko amerykańskie określiło jako pływającą stację tankowania."
     },
     {
       "title": "Po miesiącach wojny krótkie pocieszenie w imprezowym miasteczku daleko od domu",
@@ -787,23 +787,23 @@
       "date": "2026-09-05T23:47:38Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Armia USA oświadczyła, że ​​wzięła odwet po tym, jak Iran wystrzelił rakiety w stronę dwóch okrętów wojennych. Do strajków doszło kilka dni po wymianie ognia między obiema stronami, która była najintensywniejsza od tygodni."
+      "summary": "Armia USA oświadczyła, że ​​wzięła odwet po tym, jak Iran wystrzelił rakiety w kierunku dwóch okrętów wojennych. Do strajków doszło kilka dni po wymianie ognia między obiema stronami, która była najintensywniejsza od tygodni."
     },
     {
-      "title": "Huckabee potępia „terrorystyczne” ataki na Palestyńczyków w ratuszu na Zachodnim Brzegu",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html",
       "date": "2026-09-05T22:40:27Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Mike Huckabee, ambasador USA w Izraelu, odbył rzadką podróż, aby spotkać się z Palestyńczykami po międzynarodowej reakcji w związku z atakami izraelskich osadników."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Kenijczycy zarabiali na życie pisząc eseje w college'u. Następnie A.I. Przybył.",
       "url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
       "date": "2026-09-05T21:11:57Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Tysiące Kenijczyków utrzymywało się z pisania esejów dla zagranicznych studentów. W przypadku sztucznej inteligencji praca została wyczerpana, co jest ostrzeżeniem przed pracą koncertową online, która była globalnym ratunkiem."
     },
     {
       "title": "Putin spotyka się z Witkoffem i Kushnerem w Moskwie, aby omówić wojnę na Ukrainie",
@@ -811,23 +811,23 @@
       "date": "2026-09-05T21:08:44Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Prezydent Władimir Putin nakazał przerwę w strajkach w stolicy Ukrainy, Kijowie, przed spotkaniem z wysłannikami prezydenta Trumpa: jego zięciem Jaredem Kushnerem i biznesmenem Stevem Witkoffem."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Timothy Carney, dyplomata, który odwiedzał miejsca, których inni unikali, umiera w wieku 82 lat",
       "url": "https://www.nytimes.com/2026/09/04/obituaries/timothy-carney-dead.html",
       "date": "2026-09-05T21:04:39Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Nalegając, aby samemu zobaczyć wszystko, nawet na wrogim terenie, Carney sprzeciwił się zamknięciu ambasady USA w Chartumie na czas osiedlenia się tam Osamy bin Ladena."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Niemieckie fale skrajnej prawicy stanowią zagrożenie dla powojennego tabu dotyczącego ekstremistów u władzy",
       "url": "https://www.nytimes.com/2026/09/05/world/europe/germany-afd-saxony-anhalt.html",
       "date": "2026-09-05T21:00:30Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Niedzielne głosowanie w kraju związkowym Saksonia-Anhalt może dać najsilniejszy wynik w historii partii Alternatywa dla Niemiec i potencjalnie skrajnie prawicowego rządu w izbie państwowej."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -846,12 +846,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Powódź w Nepalu zatopiła dom. Kobieta w środku wciąż żyła.",
       "url": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
       "date": "2026-09-05T18:15:57Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Akcja ratunkowa z w większości zasypanego domu dała nową nadzieję miastu zniszczonemu przez powodzie w Nepalu. W sobotę z tunelu wyciągnięto kolejnego ocalałego."
     },
     {
       "title": "Ratownicy w Nepalu wyciągnęli z gruzów dwie osoby żywe 10 dni po niszczycielskich powodziach – AP News",
@@ -862,12 +862,12 @@
       "summary": "Ratownicy w Nepalu wyciągnęli z gruzów dwie żywe osoby 10 dni po niszczycielskich powodziach AP News."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Rodziny decydują się na symboliczną kremację po powodzi w Nepalu",
       "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html",
       "date": "2026-09-05T15:01:31Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Tysiące osób jest zaginionych, a niektóre rodziny straciły nadzieję na odzyskanie ciał. Aby spełnić swój święty obowiązek, syn rozpala stos pogrzebowy, aby stworzyć słomianą podobiznę swojego ojca."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -878,12 +878,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Putin zaprzecza nadchodzącemu poborowi, ale niektórzy Rosjanie nie ryzykują",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html",
       "date": "2026-09-05T12:35:46Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Ponieważ strach przed możliwą mobilizacją staje się stałym elementem życia w całej Rosji, wielu mężczyzn decyduje się na ucieczkę, ukrycie się lub pozostanie bezczynnym."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -894,7 +894,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Śledzenie skradzionych samochodów z Kanady do Rosji",
       "url": "https://www.nytimes.com/2026/09/05/world/canada/stolen-cars-canada-russia-trade-war-tariffs.html",
       "date": "2026-09-05T10:00:12Z",
       "source": "The New York Times",
@@ -902,15 +902,15 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Malownicza trasa",
       "url": "https://www.nytimes.com/2026/09/05/briefing/scenic-route.html",
       "date": "2026-09-05T09:56:32Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Nowe wydawnictwa sezonu dają nam kulturowy plan działania, ale najbardziej satysfakcjonujące czytanie, słuchanie i oglądanie pochodzi z objazdów."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Upadek Jamesa Orra, człowieka zwanego mózgiem Farage’a",
       "url": "https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html",
       "date": "2026-09-05T09:29:28Z",
       "source": "The New York Times",
@@ -918,12 +918,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Sędzia federalny przedłuża blokadę zarządzenia wykonawczego Trumpa mającego na celu ograniczenie głosowania korespondencyjnego w połowie kadencji – AP News",
       "url": "https://apnews.com/article/election-2026-trump-mail-voting-postal-service-ce207ff2d0533de05cc2d299e91a0198",
       "date": "2026-09-05T00:03:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Sędzia federalny przedłuża blokadę zarządzenia wykonawczego Trumpa mającego na celu ograniczenie głosowania korespondencyjnego w połowie kadencji AP News."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -931,10 +931,10 @@
       "date": "2026-09-04T23:21:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Były Cowboys running back Emmitt Smith został pozwany przez inwestora w związku z projektem farmy wiatrowej AP News."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Na stronie Białego Domu debiutuje 5 arkadowych gier wideo w stylu retro promujących program Trumpa – AP News",
       "url": "https://apnews.com/article/trump-white-house-video-game-arcade-d540ff089ed5b1d432715a4209b16a23",
       "date": "2026-09-04T23:20:00Z",
       "source": "Associated Press",
@@ -942,7 +942,7 @@
       "summary": "Na stronie Białego Domu debiutuje 5 arkadowych gier wideo w stylu retro, które promują program Trumpa AP News."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Kluczowe momenty w sprawie Lindsay Clancy: telefon pod numer 911, opieka psychiatryczna, unieważnienie procesu – AP News",
       "url": "https://apnews.com/article/lindsay-clancy-massachusetts-trial-key-moments-3347cdc3f6c0c27c9d388d9696844771",
       "date": "2026-09-04T23:02:00Z",
       "source": "Associated Press",
@@ -950,7 +950,7 @@
       "summary": "Kluczowe momenty w sprawie Lindsay Clancy: telefon pod numer 911, opieka psychiatryczna, unieważnienie procesu AP News."
     },
     {
-      "title": "Trump nazywa konflikt w Iranie „małymi ziemniakami” i broni stanowiska Vance’a, że ​​nie jest to „wojna” – AP News",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://apnews.com/article/trump-iran-vance-war-23a45a2c45c048a9e894baeab89c7a2f",
       "date": "2026-09-04T22:52:00Z",
       "source": "Associated Press",
@@ -958,7 +958,7 @@
       "summary": "Trump nazywa konflikt w Iranie „małymi ziemniakami” i broni stanowiska Vance’a, że ​​nie jest to „wojna” AP News."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Sędziowie brazylijskiego Sądu Najwyższego kłócą się podczas wyborów i śledztwa w sprawie upadku banku – AP News",
       "url": "https://apnews.com/article/brazil-supreme-court-crisis-election-looms-6815a4e2f6f06ba3aef235c64ba15b24",
       "date": "2026-09-04T22:22:00Z",
       "source": "Associated Press",
@@ -966,12 +966,12 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Rolnicy sięgają po zboża wieloletnie jako rozwiązanie problemu ekstremalnych warunków pogodowych – AP News",
       "url": "https://apnews.com/article/climate-change-grain-wheat-perennial-kernza-8c4cef1aa6c8c682ba7144bc4e4c49bf",
       "date": "2026-09-04T20:59:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Rolnicy zwracają się w stronę zbóż wieloletnich jako jednego z rozwiązań problemu ekstremalnych warunków pogodowych AP News."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -979,15 +979,15 @@
       "date": "2026-09-04T20:33:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Meloni świętuje długowieczność swojego włoskiego rządu podczas wiecu partyjnego w Bari AP News."
     },
     {
-      "title": "Sąd Najwyższy przyznaje Republikanom pilną apelację w sprawie stawek za reklamy telewizyjne przed upływem kadencji – AP News",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://apnews.com/article/supreme-court-midterms-republicans-a7a1cfc0c208d3949467756a64857cc2",
       "date": "2026-09-04T20:14:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Sąd Najwyższy przyznaje Republikanom pilną apelację w sprawie stawek za reklamy telewizyjne przed śródokresowymi AP News."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -995,15 +995,15 @@
       "date": "2026-09-04T15:29:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Ceny oleju napędowego w USA osiągnęły rekordowy poziom, podnosząc koszty transportu długiej listy towarów AP News."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Chiny ściśle kontrolują informacje po powodziach na granicy z Nepalem – AP News",
       "url": "https://apnews.com/article/china-nepal-information-control-floods-differences-f293a712f63eb669fe447d3aaf059077",
       "date": "2026-09-04T13:26:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Chiny ściśle kontrolują informacje po powodziach na granicy z Nepalem AP News."
     }
   ],
   "technology": [
@@ -1016,7 +1016,7 @@
       "summary": "Adres URL artykułu: https://openai.robocurve.org/gpt-6-astra/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49582582 Punkty: 17 # Komentarze: 2."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Gateside przez TSA Precheck",
       "url": "https://www.tsa.gov/precheck/gateside-tsa-precheck",
       "date": "2026-09-06T01:12:43Z",
       "source": "Hacker News",
@@ -1032,7 +1032,7 @@
       "summary": "Adres URL artykułu: https://cloudinabottle.org/blog/launch-post Adres URL komentarzy: https://news.ycombinator.com/item?id=49582000 Punkty: 154 # Komentarze: 55."
     },
     {
-      "title": "Gdy badacze zaczynają stosować sztuczną inteligencję do zrozumienia komunikacji zwierząt, bioetycy ostrzegają, że może ona dać ludziom nowe sposoby manipulowania, wykorzystywania i krzywdzenia zwierząt (Morgan Meaker/Bloomberg)",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.techmeme.com/260905/p14#a260905p14",
       "date": "2026-09-06T00:00:15Z",
       "source": "Techmeme",
@@ -1040,7 +1040,7 @@
       "summary": "Morgan Meaker / Bloomberg: Gdy badacze zaczynają stosować sztuczną inteligencję do zrozumienia komunikacji zwierząt, bioetycy ostrzegają, że może ona dać ludziom nowe sposoby manipulowania, wykorzystywania i krzywdzenia zwierząt &mdash; Sztuczna inteligencja może zmienić nasze rozumienie innych gatunków. Grozi to także udostępnieniem ludziom nowych, potężnych sposobów manipulowania nimi, wykorzystywania i krzywdzenia ich."
     },
     {
-      "title": "Chrome ponownie zwalnia Google z ustawień danych witryn użytkowników",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
       "date": "2026-09-05T23:39:47Z",
       "source": "Hacker News",
@@ -1053,10 +1053,10 @@
       "date": "2026-09-05T22:15:52Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Adres URL artykułu: https://github.com/okf-memory/okf-agent-memory Adres URL komentarzy: https://news.ycombinator.com/item?id=49581240 Punkty: 40 # Komentarze: 14."
     },
     {
-      "title": "Bunt czytelnika",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
       "date": "2026-09-05T21:37:49Z",
       "source": "Hacker News",
@@ -1064,7 +1064,7 @@
       "summary": "Adres URL artykułu: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Adres URL komentarzy: https://news.ycombinator.com/item?id=49580939 Punkty: 141 # Komentarze: 51."
     },
     {
-      "title": "Kopalnie diamentów w Republice Południowej Afryki są zamykane z powodu słabej sprzedaży i kamieni hodowanych w laboratoriach",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
       "date": "2026-09-05T21:17:00Z",
       "source": "Hacker News",
@@ -1072,7 +1072,7 @@
       "summary": "Adres URL artykułu: https://www.wsj.com/business/diamond-mines-are-closing-and-suth-africans-have-few-alternatives-fa3b8cbf Adres URL komentarzy: https://news.ycombinator.com/item?id=49580778 Punkty: 111 # Komentarze: 88."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "„Seattle Times” i „Newsday” pozywają OpenAI i Microsoft, twierdząc, że firmy szkoliły sztuczną inteligencję w zakresie dziennikarstwa; Microsoft i OpenAI finansują Seattle Times (Todd Bishop/GeekWire)",
       "url": "https://www.techmeme.com/260905/p13#a260905p13",
       "date": "2026-09-05T20:50:47Z",
       "source": "Techmeme",
@@ -1080,7 +1080,7 @@
       "summary": "Todd Bishop / GeekWire: Seattle Times i Newsday pozywają OpenAI i Microsoft, twierdząc, że firmy szkoliły sztuczną inteligencję w zakresie dziennikarstwa; Microsoft i OpenAI są fundatorami Seattle Times &mdash; Microsoft został w piątek pozwany przez spółkę-matkę swojego lokalnego dziennika, The Seattle Times Co., która połączyła się z Newsday &hellip;."
     },
     {
-      "title": "Administrator Trumpa debiutuje na stronie arcade.gov z klonem Snake'a z motywem deportacji i klonem do budowania ścian przypominającym Tetris; Tetris twierdzi, że naruszenia praw własności intelektualnej traktuje „bardzo poważnie” (ABC News)",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.techmeme.com/260905/p12#a260905p12",
       "date": "2026-09-05T20:40:01Z",
       "source": "Techmeme",
@@ -1093,7 +1093,7 @@
       "date": "2026-09-05T20:31:38Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Adres URL artykułu: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace- Second-launch-norway-andoya-spaceport-spectrum-rocket Adres URL komentarzy: https://news.ycombinator.com/item?id=49580369 Punkty: 388 # Komentarze: 204."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Swiss Re: globalne składki za ubezpieczenie centrów danych prawdopodobnie osiągną 20–30 miliardów dolarów rocznie do 2030 r.; Około 40% wydajności centrów danych w USA jest zlokalizowane na obszarach narażonych na tornada (Jean Eaglesham/Wall Street Journal)",
@@ -1101,7 +1101,7 @@
       "date": "2026-09-05T19:45:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Jean Eaglesham / Wall Street Journal: Swiss Re: globalne składki za ubezpieczenie centrów danych prawdopodobnie osiągną do 2030 r. 20–30 miliardów dolarów rocznie; Około 40% wydajności centrów danych w USA jest zlokalizowane na obszarach narażonych na tornada &mdash; Hiperskalowe centra danych oparte na sztucznej inteligencji są narażone na oszałamiającą gamę potencjalnych zagrożeń podczas budowy i eksploatacji."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Berlin analizuje udostępnienie przez Rhysidę danych stanowych o pojemności 5,79 TB po odmowie zapłacenia okupu; podobno pliki obejmują plany obrony narodowej i reagowania na zagrożenia (Miranda Murray/Reuters)",
@@ -1109,7 +1109,7 @@
       "date": "2026-09-05T17:30:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Miranda Murray / Reuters: Berlin sprawdza udostępnione przez Rhysidę dane stanowe o pojemności 5,79 TB po odmowie zapłacenia okupu; podobno pliki obejmują plany obrony narodowej i reagowania na zagrożenia &mdash; Rząd Berlina oświadczył w sobotę, że z największą intensywnością sprawdza zbiór skradzionych danych opublikowanych przez grupę zajmującą się oprogramowaniem ransomware &hellip;."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Antropomorficzne przedstawianie modeli sztucznej inteligencji jako nieuczciwych agentów może przyćmić odpowiedzialność firm takich jak OpenAI za incydenty takie jak hack Hugging Face (Robert Hart/The Verge)",
@@ -1117,7 +1117,7 @@
       "date": "2026-09-05T16:45:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Robert Hart / The Verge: Antropomorficzne przedstawianie modeli sztucznej inteligencji jako nieuczciwych agentów może przyćmić odpowiedzialność firm takich jak OpenAI za incydenty takie jak hack Hugging Face &mdash; Internet walczy z antropomorfizmem wokół hacka Hugging Face. &hellip; W zależności od tego, kogo spytasz, platforma programistyczna Hugging Face &hellip;."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Jaka drukarka do domu w 2026 roku? Laser nie zawsze będzie najlepszym wyborem",
@@ -1144,12 +1144,12 @@
       "summary": "Ci od odkurzaczy mają kamerkę. Będzie lepsza od GoPro i DJI?"
     },
     {
-      "title": "Cybercab Tesli został rozmieszczony i jest już badany",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
       "date": "2026-09-05T15:17:36Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Rząd USA bada, czy Cybercab spełnia standardy bezpieczeństwa pojazdów."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Skasowałem Facebook i Instagram. To nie detoks, lecz straszna nuda",
@@ -1264,7 +1264,7 @@
       "summary": ""
     },
     {
-      "title": "Firmy w Chinach eksperymentują ze sposobami pakowania i sprzedaży tokenów AI zwykłym konsumentom, w tym jako nagrody w postaci kart kredytowych i pakietów planów telekomunikacyjnych (Kinling Lo/Reszta świata)",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.techmeme.com/260905/p8#a260905p8",
       "date": "2026-09-05T11:45:01Z",
       "source": "Techmeme",
@@ -1312,15 +1312,15 @@
       "summary": "Podczas targów IFA 2026 w Berlinie firma Anker pokazała prototyp swojego najnowszego urządzenia &#8211; kompaktowej drukarki biurkowej stworzonej specjalnie z myślą o personalizacji odzieży. Nowy sprzęt ma rozwiązać największy problem dotychczasowego modelu UV EufyMake E1, który świetnie radził sobie z drewnem, metalem czy szkłem, ale nie potrafił nadrukować grafiki na materiałach tkaninowych. Dwie technologie druku [&#8230;] Artykuł Anker wchodzi w świat tekstyliów."
     },
     {
-      "title": "Po 8 latach europejska misja BepiColombo zbliża się do Merkurego",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
       "date": "2026-09-04T22:49:17Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "„Zasadniczo chcemy poznać pochodzenie tej planety i sposób, w jaki stała się taka, jaka jest.”."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Agenci OpenAI omawiali sposoby ucieczki z piaskownicy na publicznej wiki",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
       "date": "2026-09-04T22:17:36Z",
       "source": "Ars Technica",
@@ -1360,12 +1360,12 @@
       "summary": "Microsoft udostępnił wszystkim użytkownikom Windows 11 zaktualizowaną aplikację Zdjęcia. Program ma działać wyraźnie sprawniej, a przy okazji uproszczono interfejs — zniknął m.in. przycisk współpracy z Copilotem oraz część skrótów z górnego paska."
     },
     {
-      "title": "„Prawdziwym deficytem jest zaufanie, a nie funkcje”: VMware próbuje uspokoić małe i średnie firmy",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
       "date": "2026-09-04T17:35:02Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Broadcom przyznaje, że „zbyt mocno skupił się na VCF”."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Agenci OpenAI mieli przejąć niemiecki serwis. Firma o tym wiedziała?",
@@ -1415,7 +1415,7 @@
       "date": "2026-09-06T01:06:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Kontrole Departamentu Obrony dotyczące identyfikatorów reklam mobilnych nie powstrzymały pojawiania się na sprzedaż wojskowych danych o lokalizacji."
     },
     {
       "title": "Niezałatane Magento i Adobe Commerce Zero-Day wykorzystane do backdoorów w sklepach internetowych",
@@ -1431,7 +1431,7 @@
       "date": "2026-09-05T16:52:33Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "JetBrains nalega, aby użytkownicy Cadence unieważnili i zmienili wszystkie dane uwierzytelniające w związku z incydentem związanym z bezpieczeństwem, który miał miejsce w zeszłym miesiącu, podczas którego niezidentyfikowani ugrupowania zagrażające wykorzystały niedawno ujawnioną krytyczną lukę w zabezpieczeniach TeamCity w celu naruszenia własnego środowiska. „Użytkownicy Cadence powinni natychmiast unieważnić lub zmienić wszystkie dane uwierzytelniające i sekrety, które mogły zostać użyte do uruchomienia egzekucji Cadence” – stwierdził JetBrains."
     },
     {
       "title": "Krytyczna usterka stacji roboczej VMware i Fusion umożliwia administratorom maszyn wirtualnych wykonanie kodu hosta",
@@ -1442,7 +1442,7 @@
       "summary": "Firma Broadcom wydała aktualizacje zabezpieczeń dotyczące dwóch luk w zabezpieczeniach oprogramowania VMware Workstation i Fusion, w tym jednego krytycznego błędu, który w określonych warunkach może spowodować wykonanie dowolnego kodu. Luka ta, oznaczona jako CVE-2026-59346 (wynik CVSS: 9,3), to luka polegająca na przepełnieniu liczb całkowitych, którą lokalny atakujący z podwyższonymi uprawnieniami może wykorzystać do uruchomienia dowolnego kodu. \"A."
     },
     {
-      "title": "Trezor twierdzi, że naruszenie ShipMonk ujawniło dane 67 000 klientów z USA, które według nich zostały usunięte",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
       "date": "2026-09-05T14:17:02Z",
       "source": "The Hacker News",
@@ -1474,15 +1474,15 @@
       "summary": "Wokół unijnego rozporządzenia 2024/1689, ustanawiającego zharmonizowane przepisy dotyczące sztucznej inteligencji (AI Act), narosło w ostatnich miesiącach wiele nieporozumień. Po wejściu w życie 27 lipca 2026 r. Digital Omnibus on AI część organizacji uznała, że temat zgodności z nowymi regulacjami można odłożyć na później."
     },
     {
-      "title": "Tysiące agentów OpenAI po cichu zamieniło opuszczoną wiki w swój kanał koordynacyjny",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
       "date": "2026-09-05T07:55:10Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Grupa badaczy bezpieczeństwa sztucznej inteligencji twierdzi, że flota autonomicznych agentów, którzy zidentyfikowali się jako systemy OpenAI, pozostawiła około 18 000 postów na nieaktywnej 25-letniej niemieckiej wiki w okresie od maja do lipca 2026 r., wykorzystując witrynę jako wspólną tablicę do gromadzenia odpowiedzi na określone w czasie zadania internetowe i informowania o wyjściu z piaskownicy. Działalność koncentrowała się na DSEwiki, działającej w Niemczech niemieckiej wiki dla twórców oprogramowania."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Atakujący wykorzystują luki w programie PaperCut, aby kraść dane uwierzytelniające ze szkół i uniwersytetów",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
       "date": "2026-09-05T07:31:53Z",
       "source": "The Hacker News",
@@ -1490,7 +1490,7 @@
       "summary": "Podmioty zagrażające wykorzystują nowo ujawnione wady PaperCut, aby ułatwić kradzież danych uwierzytelniających w atakach wymierzonych w sektor edukacji w USA i Europie. Zespół badawczy Arctic Wolf Adversary Research Team stwierdził, że zaobserwował atakujących wykorzystujących CVE-2026-81578 i CVE-2026-82078 – obejście uwierzytelniania i łańcuch zdalnego wykonywania kodu – do wykonywania poleceń i rozpoznania, a także."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "BepiColombo porzuca swój pojazd i rozpoczyna ostatni lot w stronę Merkurego",
       "url": "https://www.theregister.com/science/2026/09/05/bepicolombo-sheds-its-ride-and-starts-the-final-glide-to-mercury/5294601",
       "date": "2026-09-05T06:41:00Z",
       "source": "The Register",
@@ -1538,7 +1538,7 @@
       "summary": "Dwa przypadki agentów uciekających, aby rozwiązać nierozwiązywalne problemy, nasuwają niewygodne pytanie: czy cały Internet znajduje się na linii ognia eksperymentalnej agentury OpenAI?"
     },
     {
-      "title": "Kampania phishingowa wysyła miliony e-maili przy użyciu niewidocznego kodu Unicode w celu ominięcia filtrów",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
       "date": "2026-09-04T15:57:15Z",
       "source": "The Hacker News",
@@ -1546,20 +1546,20 @@
       "summary": "Firma Microsoft ostrzega o „masowej kampanii phishingowej”, która wykorzystuje niewidoczne znaki Unicode w celu obejścia filtrów poczty e-mail. „Zamiast używać tych znaków do ukrywania instrukcji przed ludźmi i narażania ich na działanie modeli sztucznej inteligencji, osoba atakująca użyła ich do podzielenia słów stanowiących przynętę finansową, takich jak „finansowanie”, aby uniemożliwić ich analizowanie przez filtry poczty e-mail” – stwierdził zespół Microsoft Security Research. The."
     },
     {
-      "title": "PostgreSQL naprawia 12-letnią lukę w dekodowaniu logicznym, umożliwiającą wykonanie kodu roli replikacji",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
       "date": "2026-09-04T15:20:19Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "PostgreSQL wydał aktualizacje mające na celu usunięcie luki w zabezpieczeniach, która umożliwia kontu z atrybutem REPLIKACJA uruchamianie dowolnego kodu jako użytkownik systemu operacyjnego uruchamiający serwer bazy danych. Usterka oznaczona jako CVE-2026-6471 (wynik CVSS: 7,2) występuje od czasu wprowadzenia dekodowania logicznego w PostgreSQL 9.4 w 2014 r. Wersje starsze niż PostgreSQL 18.6, 17.11, 16.15, 15.19 i 14.24 są dostępne."
     },
     {
-      "title": "Moje Słowo. Microsoft przygotowuje narzędzie do sprawdzania podobieństwa do wycofania",
+      "title": "Moje Słowo. Firma Microsoft przygotowuje narzędzie sprawdzania podobieństwa do wycofania",
       "url": "https://www.theregister.com/applications/2026/09/04/my-word-microsofts-prepping-similarity-checker-for-retirement/5294550",
       "date": "2026-09-04T15:19:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Wbudowana policja antyplagiatowa ma wręczyć odznakę w przyszłym miesiącu."
+      "summary": "Wbudowana policja zajmująca się plagiatem ma wręczyć odznakę w przyszłym miesiącu."
     },
     {
       "title": "Fałszywe reklamy w Google. Systemy nie stwierdzają naruszeń",
@@ -1570,20 +1570,20 @@
       "summary": "Tysiące fałszywych reklam zidentyfikowali w Google badacze z amerykańskich uniwersytetów. Od podszywania się pod komunikaty o wykryciu wirusa po rzekome powiadomienia o zapełnieniu miejsca na urządzeniu, opłacone materiały wyświetlono kilka milionów razy – w tym te zawierające malware. Gdy zgłoszono je do Google’a, firma stwierdziła, że część z nich nie narusza zasad."
     },
     {
-      "title": "Canonical zamyka niektóre ze swoich starszych kanałów czatu",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.theregister.com/os-platforms/2026/09/04/canonical-shuttering-some-of-its-legacy-chat-channels/5294524",
       "date": "2026-09-04T14:56:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Ubuntu Pastebin wydano w czerwcu, IRC zostanie zdegradowany w następnej kolejności."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Nowy backdoor Teda kryje się we własnych kompilacjach HAProxy ofiar w celu przechwytywania ruchu internetowego",
       "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
       "date": "2026-09-04T14:51:13Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Znaleziono wcześniej nieudokumentowany zestaw narzędzi dla systemu Linux wkompilowany bezpośrednio w zaatakowane przez trojana moduły równoważenia obciążenia HAProxy dwóch organizacji z Korei Południowej, gdzie przechwytywał ruch sieciowy i udostępniał zmienione strony wybranym odwiedzającym. Osoby atakujące nazwały implant w ciągach debugowania pozostawionych w pliku binarnym. Nie jest to luka w zabezpieczeniach HAProxy i jej zainstalowanie wymaga wykonania kodu na hoście i."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Francja: wyciek danych pół miliona pacjentów szpitala. Ogromna kara",
@@ -1594,7 +1594,7 @@
       "summary": "Francuski odpowiednik Urzędu Ochrony Danych Osobowych ukarał szpital z Saint-Étienne za brak należytej ochrony informacji. W placówce doszło do wycieku danych ponad 500 tysięcy pacjentów oraz 200 tysięcy innych osób. 16-letni cyberprzestępca miał uzyskać dostęp do systemu poprzez przejęcie konta jednego z lekarzy."
     },
     {
-      "title": "Microsoft będzie odsyłał pocztę z przestarzałych serwerów Exchange",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.theregister.com/on-prem/2026/09/04/microsoft-to-bounce-mail-from-outdated-exchange-servers/5294506",
       "date": "2026-09-04T13:43:00Z",
       "source": "The Register",
@@ -1618,7 +1618,7 @@
       "summary": "Nowerska Agencja Cyfryzacji padła ofiarą cyberataku – podało ukraińskie Centrum Przeciwdziałania Dezinformacji, mówiąc o trzydniowym paraliżu krajowych usług i wycieku informacji o państwowym budżecie. Sami Norwegowie twierdzą jednak inaczej; w komentarzu dla CyberDefence24 przedstawiciel Agencji wskazał, że doszło jedynie do ataku DDoS."
     },
     {
-      "title": "Instalator JavaScript pnpm przekształcony w Rust, ponieważ ECMAScript nie nadąża",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.theregister.com/devops/2026/09/04/javascript-installer-pnpm-recast-in-rust-because-ecmascript-cant-keep-up/5294394",
       "date": "2026-09-04T12:22:00Z",
       "source": "The Register",
@@ -1626,7 +1626,7 @@
       "summary": "W pełni kompatybilne wstecz uaktualnienie zapewnia przyspieszenie zerowego tarcia dla wranglerów monorepo."
     },
     {
-      "title": "Usługa poczty elektronicznej w chmurze Docmail już trzeci dzień utknęła w skrzynce nadawczej",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.theregister.com/off-prem/2026/09/04/cloud-snail-mail-service-docmail-enters-third-day-stuck-in-the-outbox/5294476",
       "date": "2026-09-04T11:37:08Z",
       "source": "The Register",
@@ -1634,7 +1634,7 @@
       "summary": "Brak czasu na przywrócenie platformy używanej przez ponad 30 000 organizacji w Wielkiej Brytanii, w tym fundusze NHS i gabinety lekarskie."
     },
     {
-      "title": "Wayve i Uber kradną marsz na Waymo, oferując płatne przejazdy po Londynie własnym samochodem",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.theregister.com/ai-and-ml/2026/09/04/wayve-and-uber-steal-a-march-on-waymo-with-paid-self-driving-london-rides/5294451",
       "date": "2026-09-04T10:45:00Z",
       "source": "The Register",
@@ -1690,7 +1690,7 @@
       "summary": "Polska i Czechy zacieśniają współpracę w dziedzinie nowych technologii. Podczas CEE AI Summit 2026 w Pradze podpisano dwa dokumenty o rozwoju sztucznej inteligencji w regionie. Wicepremier i minister cyfryzacji Krzysztof Gawkowski oraz czeski wicepremier, minister przemysłu i handlu Karel Havlíček zawarli memorandum o współpracy, natomiast wiceminister cyfryzacji Dariusz Standerski i Jan Sechter podpisali Praską Deklarację w sprawie sztucznej inteligencji."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Plex wzywa do natychmiastowych aktualizacji po załataniu wielu nieujawnionych luk w zabezpieczeniach",
       "url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
       "date": "2026-09-04T07:35:14Z",
       "source": "The Hacker News",
@@ -1751,7 +1751,7 @@
       "date": "2026-09-03T18:02:47Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Najgorsze jest to, jak normalnie wyglądają te ataki. Telefon z IT. Udostępniony plik."
     },
     {
       "title": "Awarie ChataGPT i Claude'a. Problemy z popularnymi usługami AI",
@@ -1767,7 +1767,7 @@
       "date": "2026-09-03T15:52:07Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Firma Cisco udostępniła łatki usuwające krytyczną lukę w zabezpieczeniach 10 przełączników Nexus 9000 opartych na Silicon One, która może pozwolić nieuwierzytelnionemu zdalnemu atakującemu na wykonanie kodu jako root, wraz z wersją wzmacniającą IOS XR zawierającą 7 parasolowych CVE, z których 2 mają ocenę 9,8, bez obejścia dla żadnej wersji IOS XR. Luka w Nexusie, oznaczona jako CVE-2026-20212 (wynik CVSS: 9,8), to."
     },
     {
       "title": "O wycieku z MyDr w Sejmie. „Dane nie zostały opublikowane”",
@@ -1803,14 +1803,6 @@
     }
   ],
   "finance": [
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/archiwum/2026-09-05",
-      "date": "2026-09-05T23:56:52Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
-    },
     {
       "title": "Nocleg u brytyjskiego premiera za 272 funty. Booking.com dał się nabrać",
       "url": "https://www.bankier.pl/wiadomosc/Nocleg-u-brytyjskiego-premiera-za-272-funty-Booking-com-dal-sie-nabrac-9191661.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -2092,6 +2084,14 @@
       "summary": "Komunikat EBI Consoleway SA (consolew): WZ - podjęte uchwały: emisja akcji serii D stockwatch.pl."
     },
     {
+      "title": "Forum giełdowe StockWatch.pl: 11BIT - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-515042_11BIT.aspx",
+      "date": "2026-09-04T15:04:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Forum giełdowe StockWatch.pl: 11BIT stockwatch.pl."
+    },
+    {
       "title": "Na początku miał 2,5 tys. zł, w zeszłym roku zarobili 2 mln. Na maśle orzechowym - Forbes",
       "url": "https://www.forbes.pl/biznes/na-poczatku-mial-25-tys-zl-dzis-ekogram-na-masle-orzechowym-zarabia-miliony/s6tv1l0",
       "date": "2026-09-04T13:00:00Z",
@@ -2276,7 +2276,7 @@
       "lng": -66.59,
       "type": "conflict",
       "region": "Wenezuela",
-      "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
+      "description": "Wenezuelski miliarder, wobec którego Stany Zjednoczone prowadziły dochodzenie w sprawie prania pieniędzy, ma teraz umowę naftową z Pentagonem Reuters.",
       "url": "https://www.reuters.com/business/energy/venezuelan-billionaire-us-investigated-money-laundering-now-has-pentagon-oil-2026-09-05/"
     },
     {
@@ -2316,8 +2316,8 @@
       "lng": 103.3,
       "type": "disaster",
       "region": "Chiny",
-      "description": "Obywatel Chin uratowany z tunelu w Nepalu 10 dni po gwałtownej powodzi Reuters.",
-      "url": "https://www.reuters.com/world/china/chinese-national-rescued-nepal-tunnel-day-after-2-nepalis-pulled-out-alive-2026-09-05/"
+      "description": "Chiny ściśle kontrolują informacje po powodziach na granicy z Nepalem AP News.",
+      "url": "https://apnews.com/article/china-nepal-information-control-floods-differences-f293a712f63eb669fe447d3aaf059077"
     },
     {
       "lat": 12.86,
@@ -2356,8 +2356,8 @@
       "lng": 83.62,
       "type": "disaster",
       "region": "Nepal",
-      "description": "Ratownicy w Nepalu wyciągnęli z gruzów dwie żywe osoby 10 dni po niszczycielskich powodziach AP News.",
-      "url": "https://apnews.com/article/nepal-floods-chinese-national-alive-f9a6d181a30af8366700e47e498ec3b1"
+      "description": "Tysiące osób jest zaginionych, a niektóre rodziny straciły nadzieję na odzyskanie ciał.",
+      "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html"
     },
     {
       "lat": -14.5,
@@ -2416,33 +2416,38 @@
     },
     {
       "name": "Iran",
-      "score": 53,
+      "score": 41,
       "reasons": [
         {
-          "title": "Trump nazywa konflikt w Iranie „małymi ziemniakami” i broni stanowiska Vance’a, że ​​nie jest to „wojna” – AP News",
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
           "url": "https://apnews.com/article/trump-iran-vance-war-23a45a2c45c048a9e894baeab89c7a2f",
           "source": "Associated Press"
         },
         {
-          "title": "USA i Iran wymieniają ataki odwetowe na statki jako wybuchy konfliktu",
-          "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News"
-        },
-        {
           "title": "Wojsko amerykańskie twierdzi, że uderzyło w trzy irańskie tankowce po tym, jak amerykańskie okręty wojenne znalazły się pod atakiem rakietowym",
           "url": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "url": "https://www.theguardian.com/world/2026/sep/05/yemen-ground-fighting-escalates-houthi-rebels-government-forces",
           "source": "The Guardian"
         }
       ]
     },
     {
       "name": "Strefa Gazy / Izrael",
-      "score": 12,
+      "score": 24,
       "reasons": [
         {
-          "title": "„Wina przez stowarzyszenie”: dlaczego w izraelskim nalocie zginęło siedmiu pracowników pomocy międzynarodowej",
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
           "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
           "source": "The Guardian"
+        },
+        {
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "url": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html",
+          "source": "The New York Times"
         }
       ]
     },
