@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T01:54:30Z",
+  "last_updated": "2026-09-06T01:59:27Z",
   "poland": [
     {
       "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
@@ -1522,14 +1522,6 @@
       "summary": "Phisherzy znajdują nowe zastosowanie dla niewidocznych znaków znaczników Unicode."
     },
     {
-      "title": "Jesteśmy „w związku” 😉 Z tej okazji mega rabat na szkolenie CompTIA Security+",
-      "url": "https://sekurak.pl/jestesmy-w-zwiazku-szkolenie-comptia-security/",
-      "date": "2026-09-04T16:43:22Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Stało się 🙂 Firma Securitum Szkolenia została oficjalnym CompTIA Delivery Partnerem! TLDR: Ale co to właściwie oznacza?&#160; Przede wszystkim możemy teraz połączyć nasze autorskie podejście do nauki cyberbezpieczeństwa – czyli mnóstwo praktyki, labów i możliwość nauki pod okiem trenerów, którzy na co dzień faktycznie siedzą w security – z oficjalnym... Artykuł Jesteśmy „w związku” 😉 Z tej okazji mega rabat na szkolenie CompTIA Security+ pochodzi z serwisu Sekurak."
-    },
-    {
       "title": "Nieuczciwi agenci OpenAI używali nieaktualnej niemieckiej strony internetowej do komunikacji w maju, kilka miesięcy przed incydentem z Hugging Face",
       "url": "https://www.theregister.com/ai-and-ml/2026/09/04/rogue-openai-agents-used-dead-german-web-site-to-communicate-in-may-months-before-hugging-face-incident/5294554",
       "date": "2026-09-04T16:02:08Z",
@@ -1712,22 +1704,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "CBZC rozbiło gang działający w całej Polsce. Przestępcy przejmowali profile na portalach sprzedażowych i wyłudzali kody BLIK od nieświadomych klientów."
-    },
-    {
-      "title": "Kolejny atak na łańcuch dostaw w npm. Samoreplikujący się robak powiązany z Keyv zainfekował ponad 420 pakietów",
-      "url": "https://sekurak.pl/kolejny-atak-na-lancuch-dostaw-w-npm-samoreplikujacy-sie-robak-powiazany-z-keyv-zainfekowal-ponad-420-pakietow/",
-      "date": "2026-09-04T06:54:43Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Badacze bezpieczeństwa z firmy SafeDep poinformowali o wykryciu masowego ataku na łańcuch dostaw w ekosystemie npm. Złośliwy kod został wykryty w keyv@6.0.0 przeznaczonym do zarządzania pamięcią podręczną w środowisku Node.js oraz powiązanych z nim pakietów z rodziny cacheable, flat-cache oraz cache-manager. Charakter infekcji wskazuje na samoreplikującego się robaka, zdolnego do..."
-    },
-    {
-      "title": "Bogata telemetria – rozszerzenia w Open VSX zbierały dane i wykorzystywały nazwy innych wtyczek",
-      "url": "https://sekurak.pl/bogata-telemetria-rozszerzenia-w-open-vsx-zbieraly-dane-i-wykorzystywaly-nazwy-innych-wtyczek/",
-      "date": "2026-09-04T06:50:14Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Badacze bezpieczeństwa z Manifold zidentyfikowali 77 złośliwych rozszerzeń do Visual Studio Code w Open VSX. Wykorzystują one nazwy i opisy prawdziwych wtyczek z VS Code Marketplace. Zidentyfikowane rozszerzenia zostały już usunięte z Open VSX."
     },
     {
       "title": "GPT-6 Astra zdobywa 100% punktów w ExploitBench, ponieważ OpenAI blokuje żądania wykorzystania PoC",
