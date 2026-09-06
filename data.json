@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T00:40:08Z",
+  "last_updated": "2026-09-06T00:40:42Z",
   "poland": [
     {
       "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
@@ -814,14 +814,6 @@
       "summary": "Niedzielne głosowanie w kraju związkowym Saksonia-Anhalt może dać najsilniejszy wynik w historii partii Alternatywa dla Niemiec i potencjalnie skrajnie prawicowego rządu w izbie państwowej."
     },
     {
-      "title": "USA uderzają w 3 irańskie tankowce po tym, jak stwierdziły, że w okręty wojenne wystrzelono rakiety balistyczne – AP News",
-      "url": "https://apnews.com/article/iran-us-war-oil-tankers-b3650799901c56a6deeca962cbaa4109",
-      "date": "2026-09-05T21:00:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "USA uderzają w 3 irańskie tankowce po tym, jak stwierdziły, że w okręty wojenne wystrzelono rakiety balistyczne AP News."
-    },
-    {
       "title": "Powódź w Nepalu zatopiła dom. Kobieta w środku wciąż żyła.",
       "url": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
       "date": "2026-09-05T18:15:56Z",
@@ -988,6 +980,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Ceny oleju napędowego w USA osiągnęły rekordowy poziom, podnosząc koszty transportu długiej listy towarów AP News."
+    },
+    {
+      "title": "Chiny ściśle kontrolują informacje po powodziach na granicy z Nepalem – AP News",
+      "url": "https://apnews.com/article/china-nepal-information-control-floods-differences-f293a712f63eb669fe447d3aaf059077",
+      "date": "2026-09-04T13:26:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Chiny ściśle kontrolują informacje po powodziach na granicy z Nepalem AP News."
     },
     {
       "title": "Sędzia z Luizjany wydał wyrok przeciwko NCAA, otwierając drogę byłym graczom NFL do dołączenia do składu LSU – AP News",
@@ -2316,8 +2316,8 @@
       "lng": 103.3,
       "type": "disaster",
       "region": "Chiny",
-      "description": "Obywatel Chin uratowany z tunelu w Nepalu 10 dni po gwałtownej powodzi Reuters.",
-      "url": "https://www.reuters.com/world/china/chinese-national-rescued-nepal-tunnel-day-after-2-nepalis-pulled-out-alive-2026-09-05/"
+      "description": "Chiny ściśle kontrolują informacje po powodziach na granicy z Nepalem AP News.",
+      "url": "https://apnews.com/article/china-nepal-information-control-floods-differences-f293a712f63eb669fe447d3aaf059077"
     },
     {
       "lat": 12.86,
