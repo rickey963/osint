@@ -6,16 +6,16 @@
     "region": "Ukraina",
     "description": "Zdaniem Roberta Kostro Ukraina może mieć duży problem z dołączeniem do Unii Europejskiej.",
     "url": "https://www.polsatnews.pl/wiadomosc/2026-09-07/historyk-polska-ma-racje-w-sporze-z-ukraina-brakuje-mi-jednego-argumentu/",
-    "last_seen": "2026-09-07T18:56:29Z"
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
     "lng": 34.47,
     "type": "conflict",
     "region": "Strefa Gazy / Izrael",
-    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
+    "description": "Ed Miliband ponownie potwierdzi poparcie dla praw Palestyny ​​i rozwiązania dwupaństwowego, co prawdopodobnie spotka się z ostrą krytyką ze strony USA i Izraela Ed Miliband ogłosi we wtorek coś, co określił jako szeroki reset w stosunkach Wielkiej Brytanii z Izraelem, obiecując, że rząd przyjmie bardziej aktywne podejście do wspierania sprawy palestyńskiej.",
     "url": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
-    "last_seen": "2026-09-07T18:56:29Z"
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "conflict|Iran": {
     "lat": 32.43,
@@ -24,25 +24,25 @@
     "region": "Iran",
     "description": "Ceny ropy gwałtownie rosną w związku z eskalacją konfliktu USA z Iranem i sytuacją w Cieśninie Ormuz.",
     "url": "https://businessinsider.com.pl/gospodarka/ceny-ropy-rosna-przez-konflikt-usa-z-iranem-eksperci-ostrzegaja-kierowcow/g0dkzj0",
-    "last_seen": "2026-09-07T18:56:29Z"
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "cyber|Polska": {
     "lat": 52.5,
     "lng": 19.5,
     "type": "cyber",
     "region": "Polska",
-    "description": "Chodzi o krytyczne podatności, które są aktywnie wykorzystywane przez atakujących, a szczegóły luk są wręcz&#8230; nieprawdopodobne.",
-    "url": "https://sekurak.pl/krytyczne-luki-w-mikrotiku-umozliwiajace-przejecie-urzadzenia-przez-ssh-latajcie-sie-pilnie/",
-    "last_seen": "2026-09-07T18:56:29Z"
+    "description": "Jak wynika z ostrzeżenia CERT Polska opublikowanego 5 września, atakujący wykorzystują routery MikroTik z usługą zdalnego dostępu Secure Shell (SSH), do której można uzyskać dostęp z Internetu, w celu uzyskania pełnej kontroli administracyjnej bez uwierzytelniania, zgodnie z ostrzeżeniem o ataku CERT Polska opublikowanym 5 września.",
+    "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "cyber|Stany Zjednoczone": {
     "lat": 40.3,
     "lng": -98.1,
     "type": "cyber",
     "region": "Stany Zjednoczone",
-    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
+    "description": "Producent portfeli sprzętowych Trezor ujawnił w piątek, że naruszenie bezpieczeństwa u jego dostawcy usług spedycyjnych ShipMonk miało wpływ na kolejnych 67 000 klientów z USA.",
     "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-    "last_seen": "2026-09-07T18:56:29Z"
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "cyber|Wielka Brytania": {
     "lat": 55.5,
@@ -51,16 +51,16 @@
     "region": "Wielka Brytania",
     "description": "Ministrowie twierdzą, że kary korporacyjne w wysokości 17 mln funtów i przyszłe zasady zarządzania na poziomie zarządu zapewniają wystarczającą rozliczalność.",
     "url": "https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586",
-    "last_seen": "2026-09-07T18:55:19Z"
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "conflict|Wenezuela": {
     "lat": 6.42,
     "lng": -66.59,
     "type": "conflict",
     "region": "Wenezuela",
-    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
+    "description": "Kilka miesięcy po trzęsieniu ziemi w Wenezueli rodzina nie chce zaprzestać poszukiwań zaginionego krewnego AP News.",
     "url": "https://apnews.com/article/venezuela-earthquakes-disappeared-family-search-caracas-guaira-2aa8917e2e2c2133c7769674ee84106f",
-    "last_seen": "2026-09-07T18:56:29Z"
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "cyber|Rosja": {
     "lat": 62.0,
@@ -69,7 +69,7 @@
     "region": "Rosja",
     "description": "Propaganda trafia do greckich odbiorców bez rosyjskiego logo.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/niedziela-rosja-rozwija-niebezpieczna-siatke-w-grecji-uderza-w-czule-punkty-spoleczenstwa",
-    "last_seen": "2026-09-07T18:56:29Z"
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "cyber|Niemcy": {
     "lat": 51.7,
@@ -78,7 +78,7 @@
     "region": "Niemcy",
     "description": "Grupa badaczy bezpieczeństwa sztucznej inteligencji twierdzi, że flota autonomicznych agentów, którzy zidentyfikowali się jako systemy OpenAI, pozostawiła około 18 000 postów na nieaktywnej 25-letniej niemieckiej wiki w okresie od maja do lipca 2026 r., wykorzystując witrynę jako wspólną tablicę do gromadzenia odpowiedzi na określone w czasie zadania internetowe i informowania o wyjściu z piaskownicy.",
     "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-    "last_seen": "2026-09-07T18:56:29Z"
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "cyber|Norwegia": {
     "lat": 61.0,
@@ -121,9 +121,9 @@
     "lng": 83.62,
     "type": "disaster",
     "region": "Nepal",
-    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
-    "url": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
-    "last_seen": "2026-09-07T18:56:29Z"
+    "description": "Ratownicy w Nepalu wyciągnęli z gruzów dwie żywe osoby 10 dni po niszczycielskich powodziach AP News.",
+    "url": "https://apnews.com/article/nepal-floods-chinese-national-alive-f9a6d181a30af8366700e47e498ec3b1",
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "disaster|Polska": {
     "lat": 51.5,
@@ -141,7 +141,7 @@
     "region": "Haiti",
     "description": "W ostatnich tygodniach na Haiti deportowano setki osób, a niektórzy twierdzą, że zostali bez pieniędzy, ochrony przed gangami i miejsca, do którego mogliby się udać.",
     "url": "https://www.nytimes.com/2026/09/06/world/americas/haiti-deportees.html",
-    "last_seen": "2026-09-07T18:56:29Z"
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "disaster|Indonezja": {
     "lat": -1.3,
@@ -150,7 +150,7 @@
     "region": "Indonezja",
     "description": "Anak Krakatau, położone około 150 km od stolicy Dżakarty, zaczęło w piątek późnym wieczorem wypluwać lawę i popiół wulkaniczny.",
     "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-    "last_seen": "2026-09-07T18:55:19Z"
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "critical|Indonezja": {
     "lat": -1.1,
@@ -166,18 +166,18 @@
     "lng": 35.5,
     "type": "conflict",
     "region": "Liban",
-    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
-    "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-    "last_seen": "2026-09-07T18:56:29Z"
+    "description": "Ed Miliband ponownie potwierdzi poparcie dla praw Palestyny ​​i rozwiązania dwupaństwowego, co prawdopodobnie spotka się z ostrą krytyką ze strony USA i Izraela Ed Miliband ogłosi we wtorek coś, co określił jako szeroki reset w stosunkach Wielkiej Brytanii z Izraelem, obiecując, że rząd przyjmie bardziej aktywne podejście do wspierania sprawy palestyńskiej.",
+    "url": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "disaster|Wenezuela": {
     "lat": 5.92,
     "lng": -67.09,
     "type": "disaster",
     "region": "Wenezuela",
-    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
+    "description": "Kilka miesięcy po trzęsieniu ziemi w Wenezueli rodzina nie chce zaprzestać poszukiwań zaginionego krewnego AP News.",
     "url": "https://apnews.com/article/venezuela-earthquakes-disappeared-family-search-caracas-guaira-2aa8917e2e2c2133c7769674ee84106f",
-    "last_seen": "2026-09-07T18:56:29Z"
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "disaster|Strefa Gazy / Izrael": {
     "lat": 31.0,
@@ -195,7 +195,7 @@
     "region": "Korea Północna",
     "description": "Połączenie przez rzekę Tumen to kolejny znak bliższych więzi między obydwoma krajami od początku wojny na Ukrainie Rosja i Korea Północna otworzyły pierwszy most drogowy na wspólnej granicy, co jest najnowszym sygnałem szybko pogłębiających się więzi między obydwoma krajami od początku wojny na Ukrainie.",
     "url": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
-    "last_seen": "2026-09-07T18:55:19Z"
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "disaster|Australia": {
     "lat": -25.8,
@@ -258,7 +258,7 @@
     "region": "Stany Zjednoczone",
     "description": "Ulewne deszcze powodują rozległe szkody; podczas gdy północno-zachodnią Afrykę Południową nawiedziły burze, a środkowo-południowe Stany Zjednoczone borykają się z uciążliwymi upałami Tajfun Saudel przyniósł w zeszłym tygodniu ulewne deszcze do prowincji Zhejiang, Jiangxi, Fujian i Guangdong w południowo-wschodnich Chinach.",
     "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
-    "last_seen": "2026-09-07T18:56:29Z"
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "disaster|Indie": {
     "lat": 20.5,
@@ -267,7 +267,7 @@
     "region": "Indie",
     "description": "Trzynastego dnia od katastrofy, czyli ostatniego dnia hinduskiej żałoby, flagi opadły do ​​połowy masztów.",
     "url": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
-    "last_seen": "2026-09-07T18:55:19Z"
+    "last_seen": "2026-09-07T18:57:05Z"
   },
   "critical|Serbia": {
     "lat": 43.7,
@@ -283,8 +283,8 @@
     "lng": 1.7000000000000002,
     "type": "disaster",
     "region": "Francja",
-    "description": "Saksonia-Anhalt wpisuje się w część szerszego trendu napędzanego niepowodzeniami polityki głównego nurtu i stopniową normalizacją idei skrajnie prawicowych.",
-    "url": "https://www.theguardian.com/world/2026/sep/07/afd-germany-far-right-saxony-anhalt-nationalist-wave-europe-analysis",
-    "last_seen": "2026-09-07T18:56:29Z"
+    "description": "Szacunki sugerują, że spadek produkcji w winnicach dotyczy również „zadymienia” spowodowanego pożarami, które może mieć wpływ na jakość.",
+    "url": "https://www.theguardian.com/world/2026/sep/07/french-winemakers-forecast-30-year-low-harvest-after-severe-drought-and-heat",
+    "last_seen": "2026-09-07T18:57:05Z"
   }
 }
