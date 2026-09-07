@@ -6,7 +6,7 @@
     "region": "Ukraina",
     "description": "Ponad sto osób podpisało petycję w sprawie powrotu flagi Ukrainy na budynek ratusza w Lublinie.",
     "url": "https://www.rp.pl/spoleczenstwo/art45104941-flaga-ukrainy-zniknela-z-ratusza-w-lublinie-jest-petycja-ws-jej-powrotu",
-    "last_seen": "2026-09-07T08:30:22Z"
+    "last_seen": "2026-09-07T08:30:57Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
@@ -24,16 +24,16 @@
     "region": "Iran",
     "description": "Ceny gazu w Europie rosną, w czasie, gdy USA i Iran przeprowadzają wzajemne ataki na tankowce, co na rynkach wzbudza obawy, że zakończenie wojny na Bliskim Wschodzie jest odległe.",
     "url": "https://businessinsider.com.pl/biznes/ceny-gazu-w-europie-szybuja-po-atakach-usa-i-iranu-rynki-w-niepokoju/rm9749k",
-    "last_seen": "2026-09-07T08:30:22Z"
+    "last_seen": "2026-09-07T08:30:57Z"
   },
   "cyber|Polska": {
     "lat": 52.5,
     "lng": 19.5,
     "type": "cyber",
     "region": "Polska",
-    "description": "Jak wynika z ostrzeżenia CERT Polska opublikowanego 5 września, atakujący wykorzystują routery MikroTik z usługą zdalnego dostępu Secure Shell (SSH), do której można uzyskać dostęp z Internetu, w celu uzyskania pełnej kontroli administracyjnej bez uwierzytelniania, zgodnie z ostrzeżeniem o ataku CERT Polska opublikowanym 5 września.",
-    "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-    "last_seen": "2026-09-07T08:30:22Z"
+    "description": "Chodzi o krytyczne podatności, które są aktywnie wykorzystywane przez atakujących, a szczegóły luk są wręcz&#8230; nieprawdopodobne.",
+    "url": "https://sekurak.pl/krytyczne-luki-w-mikrotiku-umozliwiajace-przejecie-urzadzenia-przez-ssh-latajcie-sie-pilnie/",
+    "last_seen": "2026-09-07T08:30:57Z"
   },
   "cyber|Stany Zjednoczone": {
     "lat": 40.3,
@@ -42,7 +42,7 @@
     "region": "Stany Zjednoczone",
     "description": "Tysiące fałszywych reklam zidentyfikowali w Google badacze z amerykańskich uniwersytetów.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/falszywe-reklamy-w-google-systemy-nie-stwierdzaja-naruszen",
-    "last_seen": "2026-09-07T08:30:22Z"
+    "last_seen": "2026-09-07T08:30:57Z"
   },
   "cyber|Wielka Brytania": {
     "lat": 55.5,
@@ -69,7 +69,7 @@
     "region": "Rosja",
     "description": "Propaganda trafia do greckich odbiorców bez rosyjskiego logo.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/niedziela-rosja-rozwija-niebezpieczna-siatke-w-grecji-uderza-w-czule-punkty-spoleczenstwa",
-    "last_seen": "2026-09-07T08:30:22Z"
+    "last_seen": "2026-09-07T08:30:57Z"
   },
   "conflict|Jemen": {
     "lat": 15.55,
@@ -96,7 +96,7 @@
     "region": "Norwegia",
     "description": "Nowerska Agencja Cyfryzacji padła ofiarą cyberataku – podało ukraińskie Centrum Przeciwdziałania Dezinformacji, mówiąc o trzydniowym paraliżu krajowych usług i wycieku informacji o państwowym budżecie.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/cyberatak-na-norweska-agencje-wyciek-budzetu-nieporozumieniem",
-    "last_seen": "2026-09-07T08:30:22Z"
+    "last_seen": "2026-09-07T08:30:57Z"
   },
   "disaster|Chiny": {
     "lat": 34.5,
@@ -123,7 +123,7 @@
     "region": "Francja",
     "description": "Francuski odpowiednik Urzędu Ochrony Danych Osobowych ukarał szpital z Saint-Étienne za brak należytej ochrony informacji.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/wycieki-danych/francja-wyciek-danych-pol-miliona-pacjentow-szpitala-ogromna-kara",
-    "last_seen": "2026-09-07T08:30:22Z"
+    "last_seen": "2026-09-07T08:30:57Z"
   },
   "cyber|Ukraina": {
     "lat": 48.88,
@@ -150,7 +150,7 @@
     "region": "Polska",
     "description": "Tybet.",
     "url": "https://www.pap.pl/aktualnosci/tybet-wzrosla-liczba-ofiar-smiertelnych-powodzi-przy-granicy-z-nepalem",
-    "last_seen": "2026-09-07T08:30:22Z"
+    "last_seen": "2026-09-07T08:30:57Z"
   },
   "conflict|Haiti": {
     "lat": 18.97,
@@ -166,9 +166,9 @@
     "lng": 113.4,
     "type": "disaster",
     "region": "Indonezja",
-    "description": "Chmura pyłu znad Anak Krakatau wpływa na setki lotów oraz niektóre szkoły i działalność rybacką.",
-    "url": "https://www.theguardian.com/world/2026/sep/06/volcanic-ash-cloud-halts-flights-at-indonesias-main-international-airport",
-    "last_seen": "2026-09-07T08:30:22Z"
+    "description": "Erupcja wulkanu Anak Krakatau doprowadziła do paraliżu ruchu lotniczego w Indonezji.",
+    "url": "https://www.rp.pl/spoleczenstwo/art45104991-erupcja-wulkanu-anak-krakatau-paralizuje-ruch-lotniczy-problemy-setek-tysiecy-pasazerow",
+    "last_seen": "2026-09-07T08:30:57Z"
   },
   "critical|Indonezja": {
     "lat": -1.1,
@@ -177,7 +177,7 @@
     "region": "Indonezja",
     "description": "Erupcja wulkanu Anak Krakatau doprowadziła do paraliżu ruchu lotniczego w Indonezji.",
     "url": "https://www.rp.pl/spoleczenstwo/art45104991-erupcja-wulkanu-anak-krakatau-paralizuje-ruch-lotniczy-problemy-setek-tysiecy-pasazerow",
-    "last_seen": "2026-09-07T08:30:22Z"
+    "last_seen": "2026-09-07T08:30:57Z"
   },
   "conflict|Liban": {
     "lat": 33.89,
@@ -258,6 +258,6 @@
     "region": "Niemcy",
     "description": "Zwycięstwo AfD w wyborach regionalnych w Saksonii-Anhalt jest politycznym trzęsieniem ziemi, którego skutków na razie nie da się przewidzieć - ocenił dla PAP prof.",
     "url": "https://www.bankier.pl/wiadomosc/Polityczne-trzesienie-ziemi-w-Niemczech-AfD-deklasuje-rywali-i-wyciaga-reke-po-wladze-w-kraju-9192948.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-    "last_seen": "2026-09-07T08:30:22Z"
+    "last_seen": "2026-09-07T08:30:57Z"
   }
 }
