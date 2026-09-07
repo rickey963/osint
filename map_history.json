@@ -6,7 +6,7 @@
     "region": "Ukraina",
     "description": "Ponad sto osób podpisało petycję w sprawie powrotu flagi Ukrainy na budynek ratusza w Lublinie.",
     "url": "https://www.rp.pl/spoleczenstwo/art45104941-flaga-ukrainy-zniknela-z-ratusza-w-lublinie-jest-petycja-ws-jej-powrotu",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
@@ -15,7 +15,7 @@
     "region": "Strefa Gazy / Izrael",
     "description": "Jedenaście osób, w tym dwoje niemowląt, zginęło w izraelskim ataku w południowym Libanie w nocy z niedzieli na poniedziałek – poinformowała oficjalna libańska agencja prasowa Ani.",
     "url": "https://www.rp.pl/konflikty-zbrojne/art45105151-dwoje-niemowlat-zginelo-w-izraelskim-ataku-na-liban-lacznie-nie-zyje-11-osob",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "conflict|Iran": {
     "lat": 32.43,
@@ -24,16 +24,16 @@
     "region": "Iran",
     "description": "Ceny gazu w Europie rosną, w czasie, gdy USA i Iran przeprowadzają wzajemne ataki na tankowce, co na rynkach wzbudza obawy, że zakończenie wojny na Bliskim Wschodzie jest odległe.",
     "url": "https://businessinsider.com.pl/biznes/ceny-gazu-w-europie-szybuja-po-atakach-usa-i-iranu-rynki-w-niepokoju/rm9749k",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "cyber|Polska": {
     "lat": 52.5,
     "lng": 19.5,
     "type": "cyber",
     "region": "Polska",
-    "description": "Jak wynika z ostrzeżenia CERT Polska opublikowanego 5 września, atakujący wykorzystują routery MikroTik z usługą zdalnego dostępu Secure Shell (SSH), do której można uzyskać dostęp z Internetu, w celu uzyskania pełnej kontroli administracyjnej bez uwierzytelniania, zgodnie z ostrzeżeniem o ataku CERT Polska opublikowanym 5 września.",
-    "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "description": "Chodzi o krytyczne podatności, które są aktywnie wykorzystywane przez atakujących, a szczegóły luk są wręcz&#8230; nieprawdopodobne.",
+    "url": "https://sekurak.pl/krytyczne-luki-w-mikrotiku-umozliwiajace-przejecie-urzadzenia-przez-ssh-latajcie-sie-pilnie/",
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "cyber|Stany Zjednoczone": {
     "lat": 40.3,
@@ -42,7 +42,7 @@
     "region": "Stany Zjednoczone",
     "description": "Tysiące fałszywych reklam zidentyfikowali w Google badacze z amerykańskich uniwersytetów.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/falszywe-reklamy-w-google-systemy-nie-stwierdzaja-naruszen",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "cyber|Wielka Brytania": {
     "lat": 55.5,
@@ -69,7 +69,7 @@
     "region": "Rosja",
     "description": "Propaganda trafia do greckich odbiorców bez rosyjskiego logo.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/niedziela-rosja-rozwija-niebezpieczna-siatke-w-grecji-uderza-w-czule-punkty-spoleczenstwa",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "conflict|Jemen": {
     "lat": 15.55,
@@ -96,7 +96,7 @@
     "region": "Norwegia",
     "description": "Nowerska Agencja Cyfryzacji padła ofiarą cyberataku – podało ukraińskie Centrum Przeciwdziałania Dezinformacji, mówiąc o trzydniowym paraliżu krajowych usług i wycieku informacji o państwowym budżecie.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/cyberatak-na-norweska-agencje-wyciek-budzetu-nieporozumieniem",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "disaster|Chiny": {
     "lat": 34.5,
@@ -114,7 +114,7 @@
     "region": "Korea Południowa",
     "description": "Znaleziono wcześniej nieudokumentowany zestaw narzędzi dla systemu Linux wkompilowany bezpośrednio w zaatakowane przez trojana moduły równoważenia obciążenia HAProxy dwóch organizacji z Korei Południowej, gdzie przechwytywał ruch sieciowy i udostępniał zmienione strony wybranym odwiedzającym.",
     "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "cyber|Francja": {
     "lat": 47.1,
@@ -123,7 +123,7 @@
     "region": "Francja",
     "description": "Francuski odpowiednik Urzędu Ochrony Danych Osobowych ukarał szpital z Saint-Étienne za brak należytej ochrony informacji.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/wycieki-danych/francja-wyciek-danych-pol-miliona-pacjentow-szpitala-ogromna-kara",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "cyber|Ukraina": {
     "lat": 48.88,
@@ -139,18 +139,18 @@
     "lng": 83.62,
     "type": "disaster",
     "region": "Nepal",
-    "description": "Ratownicy w Nepalu wyciągnęli z gruzów dwie żywe osoby 10 dni po niszczycielskich powodziach AP News.",
-    "url": "https://apnews.com/article/nepal-floods-chinese-national-alive-f9a6d181a30af8366700e47e498ec3b1",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "description": "Akcja ratunkowa z w większości zasypanego domu dała nową nadzieję miastu zniszczonemu przez powodzie w Nepalu.",
+    "url": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "disaster|Polska": {
     "lat": 51.5,
     "lng": 18.5,
     "type": "disaster",
     "region": "Polska",
-    "description": "Wyjście ze strefy euro i Schengen – co zapowiada AfD – byłoby gospodarczym trzęsieniem ziemi dla Niemiec.",
-    "url": "https://www.rp.pl/gospodarka/art45073511-afd-koniec-euro-i-wyjscie-z-schengen-gospodarcze-trzesienie-ziemi-moze-uderzyc-w-polske",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "description": "Tybet.",
+    "url": "https://www.pap.pl/aktualnosci/tybet-wzrosla-liczba-ofiar-smiertelnych-powodzi-przy-granicy-z-nepalem",
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "conflict|Haiti": {
     "lat": 18.97,
@@ -166,9 +166,9 @@
     "lng": 113.4,
     "type": "disaster",
     "region": "Indonezja",
-    "description": "Erupcja wulkanu Anak Krakatau, położonego około 150 km od stolicy Dżakarty, rozpoczęła się w piątek późnym wieczorem.",
-    "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "description": "Erupcja wulkanu Anak Krakatau doprowadziła do paraliżu ruchu lotniczego w Indonezji.",
+    "url": "https://www.rp.pl/spoleczenstwo/art45104991-erupcja-wulkanu-anak-krakatau-paralizuje-ruch-lotniczy-problemy-setek-tysiecy-pasazerow",
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "critical|Indonezja": {
     "lat": -1.1,
@@ -177,7 +177,7 @@
     "region": "Indonezja",
     "description": "Erupcja wulkanu Anak Krakatau doprowadziła do paraliżu ruchu lotniczego w Indonezji.",
     "url": "https://www.rp.pl/spoleczenstwo/art45104991-erupcja-wulkanu-anak-krakatau-paralizuje-ruch-lotniczy-problemy-setek-tysiecy-pasazerow",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "conflict|Liban": {
     "lat": 33.89,
@@ -186,7 +186,7 @@
     "region": "Liban",
     "description": "Jedenaście osób, w tym dwoje niemowląt, zginęło w izraelskim ataku w południowym Libanie w nocy z niedzieli na poniedziałek – poinformowała oficjalna libańska agencja prasowa Ani.",
     "url": "https://www.rp.pl/konflikty-zbrojne/art45105151-dwoje-niemowlat-zginelo-w-izraelskim-ataku-na-liban-lacznie-nie-zyje-11-osob",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "disaster|Wenezuela": {
     "lat": 5.92,
@@ -258,7 +258,7 @@
     "region": "Niemcy",
     "description": "Zwycięstwo AfD w wyborach regionalnych w Saksonii-Anhalt jest politycznym trzęsieniem ziemi, którego skutków na razie nie da się przewidzieć - ocenił dla PAP prof.",
     "url": "https://www.bankier.pl/wiadomosc/Polityczne-trzesienie-ziemi-w-Niemczech-AfD-deklasuje-rywali-i-wyciaga-reke-po-wladze-w-kraju-9192948.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "critical|Polska": {
     "lat": 51.7,
@@ -267,7 +267,7 @@
     "region": "Polska",
     "description": "Wyjście ze strefy euro i Schengen – co zapowiada AfD – byłoby gospodarczym trzęsieniem ziemi dla Niemiec.",
     "url": "https://www.rp.pl/gospodarka/art45073511-afd-koniec-euro-i-wyjscie-z-schengen-gospodarcze-trzesienie-ziemi-moze-uderzyc-w-polske",
-    "last_seen": "2026-09-07T08:52:16Z"
+    "last_seen": "2026-09-07T09:01:43Z"
   },
   "disaster|Stany Zjednoczone": {
     "lat": 39.3,
