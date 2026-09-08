@@ -6,34 +6,34 @@
     "region": "Ukraina",
     "description": "Wołodymyr Zełenski liczy, że uda mu się spotkać z Donaldem Trumpem.",
     "url": "https://www.polsatnews.pl/wiadomosc/2026-09-08/zelenski-ma-nadzieje-na-spotkanie-z-trumpem-daj-boze/",
-    "last_seen": "2026-09-08T13:05:26Z"
+    "last_seen": "2026-09-08T13:06:00Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
     "lng": 34.47,
     "type": "conflict",
     "region": "Strefa Gazy / Izrael",
-    "description": "Wielka Brytania, Francja i Kanada sankcjonują izraelskie osiedla na Zachodnim Brzegu, wspierając rozwiązanie dwupaństwowe Reuters.",
-    "url": "https://www.reuters.com/world/uk/uk-announce-trade-ban-israeli-west-bank-goods-2026-09-08/",
-    "last_seen": "2026-09-08T13:05:26Z"
+    "description": "Oczekiwane posunięcie zostanie ogłoszone we wtorek, poinformowali urzędnicy i podkreślili rosnącą izolację Izraela w związku z jego polityką wobec Palestyńczyków po wojnie w Gazie.",
+    "url": "https://www.nytimes.com/2026/09/07/world/middleeast/britain-sanctions-israeli-settlers.html",
+    "last_seen": "2026-09-08T13:06:00Z"
   },
   "conflict|Iran": {
     "lat": 32.43,
     "lng": 53.69,
     "type": "conflict",
     "region": "Iran",
-    "description": "Riyad twierdzi, że zemści się po nocnych atakach wspieranej przez Iran grupy jemeńskiej na obiekty naftowe, raniąc ponad 70 wspieranych przez Iran Houthi zaatakowali cztery miasta w Arabii Saudyjskiej, raniąc ponad 70 osób i podpalając instalacje naftowe, co wydawało się być znaczącym rozszerzeniem wojny na Bliskim Wschodzie.",
-    "url": "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
-    "last_seen": "2026-09-08T13:05:26Z"
+    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
+    "url": "https://www.reuters.com/business/aerospace-defense/uk-publishes-legislation-tougher-sanctions-iran-2026-09-08/",
+    "last_seen": "2026-09-08T13:06:00Z"
   },
   "cyber|Polska": {
     "lat": 52.5,
     "lng": 19.5,
     "type": "cyber",
     "region": "Polska",
-    "description": "Jak wynika z ostrzeżenia CERT Polska opublikowanego 5 września, atakujący wykorzystują routery MikroTik z usługą zdalnego dostępu Secure Shell (SSH), do której można uzyskać dostęp z Internetu, w celu uzyskania pełnej kontroli administracyjnej bez uwierzytelniania, zgodnie z ostrzeżeniem o ataku CERT Polska opublikowanym 5 września.",
-    "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-    "last_seen": "2026-09-08T13:05:26Z"
+    "description": "Chodzi o krytyczne podatności, które są aktywnie wykorzystywane przez atakujących, a szczegóły luk są wręcz&#8230; nieprawdopodobne.",
+    "url": "https://sekurak.pl/krytyczne-luki-w-mikrotiku-umozliwiajace-przejecie-urzadzenia-przez-ssh-latajcie-sie-pilnie/",
+    "last_seen": "2026-09-08T13:06:00Z"
   },
   "cyber|Stany Zjednoczone": {
     "lat": 40.3,
@@ -42,7 +42,7 @@
     "region": "Stany Zjednoczone",
     "description": "Im większa automatyzacja, tym rządy bardziej skłaniają się ku represjom – twierdzą naukowcy.",
     "url": "https://cyberdefence24.pl/technologie/sztuczna-inteligencja-zniszczy-demokracje",
-    "last_seen": "2026-09-08T13:05:26Z"
+    "last_seen": "2026-09-08T13:06:00Z"
   },
   "cyber|Wielka Brytania": {
     "lat": 55.5,
@@ -60,7 +60,7 @@
     "region": "Wenezuela",
     "description": "Źródła Reuters podają, że Stany Zjednoczone starają się uzyskać większy dostęp do bogactw mineralnych Wenezueli po wyczerpaniu się jej ropy.",
     "url": "https://www.reuters.com/world/americas/us-seeks-more-access-venezuelas-mineral-wealth-after-tapping-its-oil-sources-say-2026-09-08/",
-    "last_seen": "2026-09-08T13:05:26Z"
+    "last_seen": "2026-09-08T13:06:00Z"
   },
   "cyber|Rosja": {
     "lat": 62.0,
@@ -69,7 +69,7 @@
     "region": "Rosja",
     "description": "Propaganda trafia do greckich odbiorców bez rosyjskiego logo.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/niedziela-rosja-rozwija-niebezpieczna-siatke-w-grecji-uderza-w-czule-punkty-spoleczenstwa",
-    "last_seen": "2026-09-08T13:05:26Z"
+    "last_seen": "2026-09-08T13:06:00Z"
   },
   "cyber|Niemcy": {
     "lat": 51.7,
@@ -105,16 +105,16 @@
     "region": "Francja",
     "description": "Francja wzmacnia zdolność państwa do reagowania na cyberataki.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/francja-wzmacnia-ochrone-administracji-przed-cyberatakami",
-    "last_seen": "2026-09-08T13:05:26Z"
+    "last_seen": "2026-09-08T13:06:00Z"
   },
   "disaster|Nepal": {
     "lat": 27.89,
     "lng": 83.62,
     "type": "disaster",
     "region": "Nepal",
-    "description": "W Nepalu dzień żałoby po tym, jak powodzie zabiły co najmniej 1300 osób AP News.",
-    "url": "https://apnews.com/article/nepal-tibet-floods-mourning-f5477d09ca1c56541450828302818d73",
-    "last_seen": "2026-09-08T13:05:26Z"
+    "description": "Władze nie opublikowały oficjalnej listy osób zaginionych podczas powodzi w Tybecie, tworząc lukę informacyjną, którą ludzie próbowali wypełnić.",
+    "url": "https://www.nytimes.com/2026/09/08/world/asia/china-nepal-border-flood-tibet-victims-messages.html",
+    "last_seen": "2026-09-08T13:06:00Z"
   },
   "conflict|Haiti": {
     "lat": 18.97,
@@ -130,9 +130,9 @@
     "lng": 113.4,
     "type": "disaster",
     "region": "Indonezja",
-    "description": "Loty do i ze stolicy Indonezji zostały wznowione po erupcji wulkanu, która wymusiła dwudniowe zamknięcie.",
+    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
     "url": "https://apnews.com/article/indonesia-airports-flights-anak-krakatau-volcano-eruption-311bf9e4c81e4b5ff0c55a0406e7edd3",
-    "last_seen": "2026-09-08T13:05:26Z"
+    "last_seen": "2026-09-08T13:06:00Z"
   },
   "critical|Indonezja": {
     "lat": -1.1,
@@ -148,9 +148,9 @@
     "lng": 35.5,
     "type": "conflict",
     "region": "Liban",
-    "description": "Wyrażając najsurowsze potępienie ze strony rządu Wielkiej Brytanii, Ed Miliband ogłasza radykalne sankcje na handel z izraelskimi osadami.",
-    "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
-    "last_seen": "2026-09-08T13:05:26Z"
+    "description": "Minister spraw zagranicznych Wielkiej Brytanii Ed Miliband powiedział, że Wielka Brytania uważa, że ​​na obszarach Zachodniego Brzegu mają miejsce czystki etniczne wśród Palestyńczyków i wprowadzi zakaz towarów pochodzących z nielegalnych osiedli.",
+    "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
+    "last_seen": "2026-09-08T13:06:00Z"
   },
   "disaster|Wenezuela": {
     "lat": 5.92,
@@ -166,18 +166,18 @@
     "lng": 127.51,
     "type": "conflict",
     "region": "Korea Północna",
-    "description": "Od początku wojny na Ukrainie stosunki między sąsiadami uległy wzmocnieniu.",
-    "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-    "last_seen": "2026-09-08T13:05:26Z"
+    "description": "Korea Północna dodaje drugi niszczyciel podczas ćwiczeń wojskowych USA, Korei Południowej i Japonii AP News.",
+    "url": "https://apnews.com/article/north-korea-kim-destroyer-nuclear-trump-5c3ab31efd058e734ac645991fd22567",
+    "last_seen": "2026-09-08T13:06:00Z"
   },
   "disaster|Australia": {
     "lat": -25.8,
     "lng": 133.3,
     "type": "disaster",
     "region": "Australia",
-    "description": "Ten blog jest już zamknięty „Globalne rozliczenie dla wielkich technologii”: Australia zmusi platformy mediów społecznościowych do umożliwienia użytkownikom rezygnacji z algorytmówOtrzymuj nasz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami Polityka One Nation sprawi, że ludzie na emeryturze znajdą się w gorszej sytuacji o 25 tys.",
+    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
     "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
-    "last_seen": "2026-09-08T13:05:26Z"
+    "last_seen": "2026-09-08T13:06:00Z"
   },
   "cyber|Tajlandia": {
     "lat": 16.4,
