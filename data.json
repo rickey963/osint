@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T13:06:37Z",
+  "last_updated": "2026-09-08T13:07:09Z",
   "poland": [
     {
       "title": "Napięcia na linii Waszyngton-Rejkiawik. Ambasador wezwany do MSZ po publikacji Trumpa",
@@ -1434,6 +1434,22 @@
       "summary": "Firmy „nie chcą, aby ich własność intelektualna została ujawniona, więc są skłonne zapłacić”."
     },
     {
+      "title": "Robak WeChat Zero-Click przejął konta na iPhone'ach i Androidzie poprzez połączenia przychodzące",
+      "url": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+      "date": "2026-09-08T11:54:29Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Badacze z firmy ochroniarskiej Calif zbudowali robaka, który przejmuje konto WeChat poprzez połączenie przychodzące i wykazali, że rozprzestrzenia się pomiędzy trzema telefonami testowymi. Osoba dzwoniąca nie musi odbierać ani dotykać telefonu, aby połączenie zadziałało, ale osoba dzwoniąca musi już należeć do jej kontaktów w WeChat. Kalifornia zgłosiła usterkę firmie Tencent w lipcu i twierdzi, że firma zrobiła to od tego czasu."
+    },
+    {
+      "title": "Co było potrzebne, aby osiągnąć 1 miliard manifestów budowlanych",
+      "url": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+      "date": "2026-09-08T11:49:02Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "W ciągu ostatnich sześciu miesięcy Chainguard podwoił swoją produkcję z 500 milionów do ponad 1 miliarda manifestów budowy kontenerów. Przekroczyliśmy także liczbę 3000 unikalnych obrazów kontenerów i 675 000 wersji obrazów w naszym katalogu. To liczby z pierwszych stron gazet, ale chcę podzielić się tym, co się za nimi kryje."
+    },
+    {
       "title": "Łańcuch usterek FreeIPA umożliwia anonimowym klientom tworzenie danych uwierzytelniających administratora wielokrotnego użytku",
       "url": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
       "date": "2026-09-08T11:22:07Z",
@@ -1784,25 +1800,17 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Jak wynika z ostrzeżenia CERT Polska opublikowanego 5 września, atakujący wykorzystują routery MikroTik z usługą zdalnego dostępu Secure Shell (SSH), do której można uzyskać dostęp z Internetu, w celu uzyskania pełnej kontroli administracyjnej bez uwierzytelniania, zgodnie z ostrzeżeniem o ataku CERT Polska opublikowanym 5 września. Do udanych ataków doszło co najmniej 2 września. Przegląd ostrzeżenia opublikowany przez Hacker News z 6 września nie wykazał żadnej liczby ofiar ani."
-    },
-    {
-      "title": "Cztery moduły połączone z REVSTEALER wyłączają usługę Windows Update i Defender, aby uruchomić koparkę kryptowalut",
-      "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-      "date": "2026-09-06T08:34:20Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Laboratorium Elastic Security Labs udokumentowało cztery wcześniej niezgłoszone programy powiązane z REVSTEALER, pojawiającym się złodziejem informacji systemu Windows, które pozostają na zainfekowanej maszynie po tym, jak złodziej się usunie. Jeden z nich wyłącza usługę Windows Update i Microsoft Defender przed uruchomieniem koparki kryptowalut. Firma nazwała cztery programy ProManager, WinUpdate, SoftManager i."
-    },
-    {
-      "title": "Niezałatane Magento i Adobe Commerce Zero-Day wykorzystane w backdoorach sklepów internetowych",
-      "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-      "date": "2026-09-05T20:14:47Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Atakujący wykorzystują nową, niezałataną lukę w zabezpieczeniach Magento Open Source i Adobe Commerce, która umożliwia im uruchomienie złośliwego kodu na serwerze sklepu internetowego bez logowania się, stwierdziła holenderska firma Sansec zajmująca się bezpieczeństwem handlu elektronicznego w poradniku opublikowanym 5 września. Firma Sansec, która odkryła lukę i nazwała ją StyleSmuggler, twierdzi, że ataki rozpoczęły się 4 września. „Sansec is."
     }
   ],
   "finance": [
+    {
+      "title": "\"Ciche zaproszenie do wojny\". Ekspert alarmuje w sprawie Putina - Forsal.pl",
+      "url": "https://forsal.pl/kraj/bezpieczenstwo/artykuly/11299167,ciche-zaproszenie-do-wojny-ekspert-alarmuje-w-sprawie-putina.html",
+      "date": "2026-09-08T13:05:27Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "\"Ciche zaproszenie do wojny\". Ekspert alarmuje w sprawie Putina Forsal.pl."
+    },
     {
       "title": "Bruksela mrozi pieniądze dla Czech. Potężne problemy premiera Babisza",
       "url": "https://www.bankier.pl/wiadomosc/Bruksela-mrozi-pieniadze-dla-Czech-Potezne-problemy-premiera-Babisza-9193771.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -1924,14 +1932,6 @@
       "summary": "Rosja buduje nową śmiercionośną fabrykę. Z dala od Ukrainy Forsal.pl."
     },
     {
-      "title": "Zakaz sprzedaży aut spalinowych nie przekonuje Europejczyków. Wolą inne rozwiązanie - Forsal.pl",
-      "url": "https://forsal.pl/biznes/motoryzacja/artykuly/11299161,kierowcy-maja-dosc-unijnej-przymusowej-elektromobilnosci-wyniki-badania-moga-zaskoczyc.html",
-      "date": "2026-09-08T11:15:42Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Zakaz sprzedaży aut spalinowych nie przekonuje Europejczyków. Wolą inne rozwiązanie Forsal.pl."
-    },
-    {
       "title": "Daewoo–FSO, Otake, Curtis. Kultowe marki, o których dziś mało kto pamięta - Forbes",
       "url": "https://www.forbes.pl/biznes/daewoofso-otake-curtis-kultowe-marki-o-ktorych-dzis-malo-kto-pamieta/9xskefs",
       "date": "2026-09-08T11:08:45Z",
@@ -2020,6 +2020,14 @@
       "summary": "- Złożony został drugi prezydencki projekt ustawy o rynku kryptoaktywów - poinformował we wtorek Zbigniew Bogucki, szef Kancelarii Prezydenta. - Fundamentem dla tego projektu jest trzecia rządowa ustawa o regulacji rynku kryptoaktywów - dodał."
     },
     {
+      "title": "KGHM i BHP: list intencyjny o współpracy w sektorze miedzi - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/kghm-bhp-list-intencyjny-wspolpraca-miedz-eksploracja,akcje,380042",
+      "date": "2026-09-08T07:38:20Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "KGHM i BHP: list intencyjny o współpracy w sektorze miedzi stockwatch.pl."
+    },
+    {
       "title": "Wyniki finansowe Benefit Systems za I półrocze 2026 roku – czat inwestorski z przedstawicielką spółki",
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-benefit-systems-1h26",
       "date": "2026-09-08T07:35:09Z",
@@ -2042,6 +2050,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Bruksela odsuwa kary za metan. Ważna informacja dla Orlenu Michał Partyka wt., 08.09.2026 Kanał W Zielonej Strefie orlen pgnig rozporządzenie metanowe notowania orlen Treść Komisja Europejska łagodzi ryzyko regulacyjne związane z wejściem w życie nowych obowiązków dot. metanu dla importerów ropy, gazu i węgla."
+    },
+    {
+      "title": "Ryvu Therapeutics: 22 mln zł od PARP na platformę ADC - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/ryvu-therapeutics-parp-dofinansowanie-dualis-adc-sciezka-smart,akcje,380028",
+      "date": "2026-09-08T07:14:12Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Ryvu Therapeutics: 22 mln zł od PARP na platformę ADC stockwatch.pl."
     },
     {
       "title": "UNICREDIT SPA (63/2026) UniCredit obtains ECB authorization on Danish Compromise - BiznesRadar",
@@ -2148,14 +2164,6 @@
       "summary": "Komunikat EBI POLSKA GRUPA HUTNICZA SA (pgh): Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ stockwatch.pl."
     },
     {
-      "title": "Komunikat ESPI POLSKA GRUPA HUTNICZA SPÓŁKA AKCYJNA (pgh): Zwołanie Nadzwyczajnego Walnego Zgromadzenia na dzień 5 października 2026 roku - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/pgh,zwolanie-nadzwyczajnego-walnego-zgromadzenia-2026-09-07,espi,20260907_202742_0000357721",
-      "date": "2026-09-07T18:27:42Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat ESPI POLSKA GRUPA HUTNICZA SPÓŁKA AKCYJNA (pgh): Zwołanie Nadzwyczajnego Walnego Zgromadzenia na dzień 5 października 2026 roku stockwatch.pl."
-    },
-    {
       "title": "Nie algorytmy, lecz energia. Kto naprawdę zasili europejską infrastrukturę AI? [OPINIA] - Forbes",
       "url": "https://www.forbes.pl/opinie/nie-algorytmy-lecz-energia-kto-naprawde-zasili-europejska-infrastrukture-ai/gz96qlb",
       "date": "2026-09-07T17:48:26Z",
@@ -2170,14 +2178,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Młodzi pracownicy i osoby zatrudnione w nauce coraz wyraźniej płacą zdrowiem za presję, tempo pracy i brak skutecznej profilaktyki. Z raportu LongLife wynika, że osoby do 25. roku życia najgorzej ze wszystkich grup wiekowych oceniają swój stan zdrowia, a blisko trzy czwarte z nich w ciągu ostatniego roku skorzystało przynajmniej raz z dnia wolnego z powodu choroby."
-    },
-    {
-      "title": "Komunikat ESPI XTB SPÓŁKA AKCYJNA (xtb): Powiadomienie o transakcjach na akcjach XTB S.A. - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/xtb,zbycie-akcji-przez-xxzw-investment-group-sa-2026-09-07,espi,20260907_180009_0000357706",
-      "date": "2026-09-07T16:00:09Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 2,
-      "summary": "Komunikat ESPI XTB SPÓŁKA AKCYJNA (xtb): Powiadomienie o transakcjach na akcjach XTB S.A. stockwatch.pl."
     },
     {
       "title": "Tiry irackich rodzynek, milion telewizorów z Korei i ucieczka do Izraela. Historia Art-B - Forbes",
@@ -2708,8 +2708,8 @@
       "2026-09-04"
     ],
     "prices": [
-      25359.69,
-      25023.0,
+      25355.59,
+      25018.95,
       25338.31,
       24772.75,
       24882.7,
@@ -2733,51 +2733,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25308.39,
+      25304.3,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26456.21,
+      26451.93,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26601.08,
+      26596.78,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      26842.54,
+      26838.21,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27469.27,
+      27464.83,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27504.8,
+      27500.35,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27746.01,
+      27741.52,
       27354.94,
       27400.36,
       27412.11,
-      28141.73,
+      28137.18,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27412.87,
+      27408.44,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27590.04,
+      27585.58,
       27686.17,
       27404.78,
       27351.97,
@@ -2786,7 +2786,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27302.53,
+      27298.12,
       27930.04,
       28234.04,
       28218.36,
@@ -2795,47 +2795,47 @@
       28294.39,
       28203.83,
       28555.17,
-      28124.39,
+      28119.85,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27687.42,
+      27682.94,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27517.72,
+      27513.27,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      27806.34,
+      27801.84,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      28801.01,
+      28796.36,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      28905.41,
+      28900.74,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      28491.87,
+      28487.26,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      28630.68,
+      28626.05,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      28656.07
+      28651.44
     ],
     "currency": "PLN"
   }
