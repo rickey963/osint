@@ -6,16 +6,16 @@
     "region": "Ukraina",
     "description": "Co najmniej dwie osoby zginęły, a siedem zostało rannych w nocnym ataku Rosji na Ukrainę.",
     "url": "https://wiadomosci.gazeta.pl/swiat/7,198077,33010376,zmasowany-atak-rosji-na-ukraine-nie-zyja-dwie-osoby-polska.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-    "last_seen": "2026-09-08T05:00:15Z"
+    "last_seen": "2026-09-08T05:01:16Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
     "lng": 34.47,
     "type": "conflict",
     "region": "Strefa Gazy / Izrael",
-    "description": "Wojna amerykańsko-izraelska z Iranem i niestabilność polityczna w Somalii prowadzą do tego, że piraci obierają za cel statki towarowe u wybrzeży Rogu Afryki Plaga somalijskiego piractwa, którego celem są statki towarowe i mniejsze statki dhow u wybrzeży Rogu Afryki, powróciła do poziomu nienotowanego od dekady, na skutek zbieżności czynników, w tym zakłóceń w branży żeglugowej spowodowanych wojną amerykańsko-izraelską z Iranem oraz odrodzeniem się niestabilności politycznej w Somalii.",
-    "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-    "last_seen": "2026-09-08T05:00:15Z"
+    "description": "Minister spraw zagranicznych Ed Miliband ma dzisiaj przedstawić propozycje, co może skłonić Izrael do odwetu.",
+    "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+    "last_seen": "2026-09-08T05:01:16Z"
   },
   "conflict|Iran": {
     "lat": 32.43,
@@ -24,16 +24,16 @@
     "region": "Iran",
     "description": "Przedstawiamy przegląd najważniejszych wydarzeń mijającej nocy: Rosja zaatakowała z powietrza Ukrainę, mieszkańcy południowo-wschodniej Polski otrzymali alert RCB; Iran grozi ograniczeniem dostępu do wód Zatoki Perskiej; Flavio Bolsonaro dogonił Lulę w sondażu przed wyborami prezydenckimi w Brazylii.",
     "url": "https://www.rp.pl/przeglad-wydarzen-z-nocy/art45110161-rosja-atakuje-ukraine-alarm-w-poludniowo-wschodniej-polsce-iran-grozi-usa",
-    "last_seen": "2026-09-08T05:00:15Z"
+    "last_seen": "2026-09-08T05:01:16Z"
   },
   "cyber|Polska": {
     "lat": 52.5,
     "lng": 19.5,
     "type": "cyber",
     "region": "Polska",
-    "description": "Jak wynika z ostrzeżenia CERT Polska opublikowanego 5 września, atakujący wykorzystują routery MikroTik z usługą zdalnego dostępu Secure Shell (SSH), do której można uzyskać dostęp z Internetu, w celu uzyskania pełnej kontroli administracyjnej bez uwierzytelniania, zgodnie z ostrzeżeniem o ataku CERT Polska opublikowanym 5 września.",
-    "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-    "last_seen": "2026-09-08T05:00:15Z"
+    "description": "Chodzi o krytyczne podatności, które są aktywnie wykorzystywane przez atakujących, a szczegóły luk są wręcz&#8230; nieprawdopodobne.",
+    "url": "https://sekurak.pl/krytyczne-luki-w-mikrotiku-umozliwiajace-przejecie-urzadzenia-przez-ssh-latajcie-sie-pilnie/",
+    "last_seen": "2026-09-08T05:01:16Z"
   },
   "cyber|Stany Zjednoczone": {
     "lat": 40.3,
@@ -42,16 +42,16 @@
     "region": "Stany Zjednoczone",
     "description": "Producent portfeli sprzętowych Trezor ujawnił w piątek, że naruszenie bezpieczeństwa u jego dostawcy usług spedycyjnych ShipMonk miało wpływ na kolejnych 67 000 klientów z USA.",
     "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-    "last_seen": "2026-09-08T05:00:15Z"
+    "last_seen": "2026-09-08T05:01:16Z"
   },
   "cyber|Wielka Brytania": {
     "lat": 55.5,
     "lng": -2.5,
     "type": "cyber",
     "region": "Wielka Brytania",
-    "description": "Ministrowie twierdzą, że kary korporacyjne w wysokości 17 mln funtów i przyszłe zasady zarządzania na szczeblu zarządu zapewniają wystarczającą rozliczalność.",
+    "description": "Ministrowie twierdzą, że kary korporacyjne w wysokości 17 mln funtów i przyszłe zasady zarządzania na poziomie zarządu zapewniają wystarczającą rozliczalność.",
     "url": "https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586",
-    "last_seen": "2026-09-08T05:00:15Z"
+    "last_seen": "2026-09-08T05:01:16Z"
   },
   "conflict|Wenezuela": {
     "lat": 6.42,
@@ -69,7 +69,7 @@
     "region": "Rosja",
     "description": "Propaganda trafia do greckich odbiorców bez rosyjskiego logo.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/niedziela-rosja-rozwija-niebezpieczna-siatke-w-grecji-uderza-w-czule-punkty-spoleczenstwa",
-    "last_seen": "2026-09-08T05:00:15Z"
+    "last_seen": "2026-09-08T05:01:16Z"
   },
   "cyber|Niemcy": {
     "lat": 51.7,
@@ -141,7 +141,7 @@
     "region": "Haiti",
     "description": "W ostatnich tygodniach na Haiti deportowano setki osób, a niektórzy twierdzą, że zostali bez pieniędzy, ochrony przed gangami i miejsca, do którego mogliby się udać.",
     "url": "https://www.nytimes.com/2026/09/06/world/americas/haiti-deportees.html",
-    "last_seen": "2026-09-08T05:00:15Z"
+    "last_seen": "2026-09-08T05:01:16Z"
   },
   "disaster|Indonezja": {
     "lat": -1.3,
@@ -166,9 +166,9 @@
     "lng": 35.5,
     "type": "conflict",
     "region": "Liban",
-    "description": "Minister spraw zagranicznych Ed Miliband ma dzisiaj przedstawić zarys propozycji, co może skłonić Izrael do odwetu.",
+    "description": "Minister spraw zagranicznych Ed Miliband ma dzisiaj przedstawić propozycje, co może skłonić Izrael do odwetu.",
     "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-    "last_seen": "2026-09-08T05:00:15Z"
+    "last_seen": "2026-09-08T05:01:16Z"
   },
   "disaster|Wenezuela": {
     "lat": 5.92,
@@ -186,7 +186,7 @@
     "region": "Korea Północna",
     "description": "Rosja i Korea Północna otworzyły swój pierwszy wspólny most drogowy nad rzeką Tuman.",
     "url": "https://www.polsatnews.pl/wiadomosc/2026-09-07/nowy-symbolem-przyjazni-pierwszy-most-miedzy-rosja-i-korea-polnocna-otwarty/",
-    "last_seen": "2026-09-08T05:00:15Z"
+    "last_seen": "2026-09-08T05:01:16Z"
   },
   "disaster|Australia": {
     "lat": -25.8,
@@ -258,7 +258,7 @@
     "region": "Indie",
     "description": "Trzynastego dnia od katastrofy, czyli ostatniego dnia hinduskiej żałoby, flagi opadły do ​​połowy masztów.",
     "url": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
-    "last_seen": "2026-09-08T04:55:18Z"
+    "last_seen": "2026-09-08T05:01:16Z"
   },
   "critical|Serbia": {
     "lat": 43.7,
@@ -276,7 +276,7 @@
     "region": "Francja",
     "description": "Szacunki sugerują, że spadek produkcji w winnicach dotyczy również „zadymienia” spowodowanego pożarami, które może mieć wpływ na jakość.",
     "url": "https://www.theguardian.com/world/2026/sep/07/french-winemakers-forecast-30-year-low-harvest-after-severe-drought-and-heat",
-    "last_seen": "2026-09-08T05:00:15Z"
+    "last_seen": "2026-09-08T05:01:16Z"
   },
   "conflict|Somalia": {
     "lat": 5.15,
