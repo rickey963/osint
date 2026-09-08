@@ -6,7 +6,7 @@
     "region": "Ukraina",
     "description": "Ukraina po raz pierwszy publicznie zaprezentowała wyrzutnię systemu obrony przeciwlotniczej Koral.",
     "url": "https://www.polsatnews.pl/wiadomosc/2026-09-08/ukraina-pokazala-nowa-bron-koral-ma-zwalczac-pociski-balistyczne/",
-    "last_seen": "2026-09-08T14:21:34Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
@@ -15,25 +15,25 @@
     "region": "Strefa Gazy / Izrael",
     "description": "Wyrażając najostrzejsze jak dotąd potępienie ze strony rządu Wielkiej Brytanii, Ed Miliband ogłasza radykalne sankcje na handel z izraelskimi osadami.",
     "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
-    "last_seen": "2026-09-08T14:20:09Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "conflict|Iran": {
     "lat": 32.43,
     "lng": 53.69,
     "type": "conflict",
     "region": "Iran",
-    "description": "Riyad twierdzi, że podejmie odwet po nocnych atakach wspieranej przez Iran grupy jemeńskiej na obiekty naftowe, raniąc ponad 70 wspieranych przez Iran Houthi zaatakowali cztery miasta w Arabii Saudyjskiej, raniąc ponad 70 osób i podpalając instalacje naftowe, co wydawało się być znaczącym rozszerzeniem wojny na Bliskim Wschodzie.",
+    "description": "Riyad twierdzi, że zemści się po nocnych atakach wspieranej przez Iran grupy jemeńskiej na obiekty naftowe, raniąc ponad 70 wspieranych przez Iran Houthi zaatakowali cztery miasta w Arabii Saudyjskiej, raniąc ponad 70 osób i podpalając instalacje naftowe, co wydawało się być znaczącym rozszerzeniem wojny na Bliskim Wschodzie.",
     "url": "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
-    "last_seen": "2026-09-08T14:20:09Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "cyber|Polska": {
     "lat": 52.5,
     "lng": 19.5,
     "type": "cyber",
     "region": "Polska",
-    "description": "Chodzi o krytyczne podatności, które są aktywnie wykorzystywane przez atakujących, a szczegóły luk są wręcz&#8230; nieprawdopodobne.",
-    "url": "https://sekurak.pl/krytyczne-luki-w-mikrotiku-umozliwiajace-przejecie-urzadzenia-przez-ssh-latajcie-sie-pilnie/",
-    "last_seen": "2026-09-08T14:21:34Z"
+    "description": "Jak wynika z ostrzeżenia CERT Polska opublikowanego 5 września, atakujący wykorzystują routery MikroTik z usługą zdalnego dostępu Secure Shell (SSH), do której można uzyskać dostęp z Internetu, w celu uzyskania pełnej kontroli administracyjnej bez uwierzytelniania, zgodnie z ostrzeżeniem o ataku CERT Polska opublikowanym 5 września.",
+    "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "cyber|Stany Zjednoczone": {
     "lat": 40.3,
@@ -42,7 +42,7 @@
     "region": "Stany Zjednoczone",
     "description": "Im większa automatyzacja, tym rządy bardziej skłaniają się ku represjom – twierdzą naukowcy.",
     "url": "https://cyberdefence24.pl/technologie/sztuczna-inteligencja-zniszczy-demokracje",
-    "last_seen": "2026-09-08T14:21:34Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "cyber|Wielka Brytania": {
     "lat": 55.5,
@@ -51,7 +51,7 @@
     "region": "Wielka Brytania",
     "description": "Internetowa aplikacja randkowa Grindr zdecydowała się zapłacić 26 milionów funtów (35,1 miliona dolarów) w ramach rozstrzygnięcia pozwu toczącego się w Wielkiej Brytanii w związku z zarzutami udostępniania osobom trzecim danych osobowych użytkowników, w tym ich statusu serologicznego.",
     "url": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-    "last_seen": "2026-09-08T14:20:09Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "conflict|Wenezuela": {
     "lat": 6.42,
@@ -60,7 +60,7 @@
     "region": "Wenezuela",
     "description": "Źródła Reuters podają, że Stany Zjednoczone starają się uzyskać większy dostęp do bogactw mineralnych Wenezueli po wyczerpaniu się jej ropy.",
     "url": "https://www.reuters.com/world/americas/us-seeks-more-access-venezuelas-mineral-wealth-after-tapping-its-oil-sources-say-2026-09-08/",
-    "last_seen": "2026-09-08T14:21:34Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "cyber|Rosja": {
     "lat": 62.0,
@@ -96,7 +96,7 @@
     "region": "Francja",
     "description": "Francja wzmacnia zdolność państwa do reagowania na cyberataki.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/francja-wzmacnia-ochrone-administracji-przed-cyberatakami",
-    "last_seen": "2026-09-08T14:21:34Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "disaster|Nepal": {
     "lat": 27.89,
@@ -105,7 +105,7 @@
     "region": "Nepal",
     "description": "W Nepalu dzień żałoby po tym, jak powodzie zabiły co najmniej 1300 osób AP News.",
     "url": "https://apnews.com/article/nepal-tibet-floods-mourning-f5477d09ca1c56541450828302818d73",
-    "last_seen": "2026-09-08T14:20:09Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "conflict|Haiti": {
     "lat": 18.97,
@@ -123,7 +123,7 @@
     "region": "Indonezja",
     "description": "Indonezja zamyka kilka lotnisk, choć erupcja wulkanu łagodzi sytuację AP News.",
     "url": "https://apnews.com/article/indonesia-anak-krakatau-volcano-eruption-airports-schools-e32f06ee8ad761ab78d2d3abc38f83d4",
-    "last_seen": "2026-09-08T14:20:09Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "critical|Indonezja": {
     "lat": -1.1,
@@ -132,7 +132,7 @@
     "region": "Indonezja",
     "description": "Indonezja zamyka kilka lotnisk, choć erupcja wulkanu łagodzi sytuację AP News.",
     "url": "https://apnews.com/article/indonesia-anak-krakatau-volcano-eruption-airports-schools-e32f06ee8ad761ab78d2d3abc38f83d4",
-    "last_seen": "2026-09-08T14:20:09Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "conflict|Liban": {
     "lat": 33.89,
@@ -141,7 +141,7 @@
     "region": "Liban",
     "description": "Wyrażając najostrzejsze jak dotąd potępienie ze strony rządu Wielkiej Brytanii, Ed Miliband ogłasza radykalne sankcje na handel z izraelskimi osadami.",
     "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
-    "last_seen": "2026-09-08T14:20:09Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "disaster|Wenezuela": {
     "lat": 5.92,
@@ -159,7 +159,7 @@
     "region": "Korea Północna",
     "description": "Od początku wojny na Ukrainie stosunki między sąsiadami uległy wzmocnieniu.",
     "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-    "last_seen": "2026-09-08T14:20:09Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "disaster|Australia": {
     "lat": -25.8,
@@ -168,7 +168,7 @@
     "region": "Australia",
     "description": "Ten blog jest już zamknięty „Globalne rozliczenie dla wielkich technologii”: Australia zmusi platformy mediów społecznościowych do umożliwienia użytkownikom rezygnacji z algorytmówOtrzymuj nasz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami Polityka One Nation sprawi, że ludzie na emeryturze znajdą się w gorszej sytuacji o 25 tys.",
     "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
-    "last_seen": "2026-09-08T14:20:09Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "cyber|Tajlandia": {
     "lat": 16.4,
@@ -222,7 +222,7 @@
     "region": "Somalia",
     "description": "Wojna amerykańsko-izraelska z Iranem i niestabilność polityczna w Somalii prowadzą do tego, że piraci obierają za cel statki towarowe u wybrzeży Rogu Afryki Plaga somalijskiego piractwa, którego celem są statki towarowe i mniejsze statki dhow u wybrzeży Rogu Afryki, powróciła do poziomu nienotowanego od dekady, na skutek zbieżności czynników, w tym zakłóceń w branży żeglugowej spowodowanych wojną amerykańsko-izraelską z Iranem oraz odrodzeniem się niestabilności politycznej w Somalii.",
     "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-    "last_seen": "2026-09-08T14:20:09Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "conflict|Jemen": {
     "lat": 15.55,
@@ -247,9 +247,9 @@
     "lng": 134.3,
     "type": "cyber",
     "region": "Australia",
-    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
+    "description": "Wprowadza „cyfrowy obowiązek staranności”, który będzie oznaczać, że Australijczycy będą otrzymywać „moje kanały, po swojemu” – bez algorytmów, jeśli zostaną o to poproszeni.",
     "url": "https://www.theregister.com/legal/2026/09/08/global-reckoning-is-coming-for-big-tech-says-australian-minister/5294909",
-    "last_seen": "2026-09-08T14:21:34Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   },
   "conflict|DR Kongo": {
     "lat": -4.32,
@@ -285,6 +285,6 @@
     "region": "Włochy",
     "description": "Mężczyzna, który przybył do Turynu z Miami przez Stambuł, objęty jest dochodzeniem w sprawie przemytu, grozi mu kara grzywny lub więzienia.",
     "url": "https://www.theguardian.com/environment/2026/sep/08/crocodile-head-seized-luggage-italy-airport",
-    "last_seen": "2026-09-08T14:20:09Z"
+    "last_seen": "2026-09-08T14:22:41Z"
   }
 }
