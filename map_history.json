@@ -6,7 +6,7 @@
     "region": "Ukraina",
     "description": "Polska przygotowuje kolejny pakiet wsparcia militarnego dla Ukrainy.",
     "url": "https://businessinsider.com.pl/wiadomosci/polska-przekaze-ukrainie-srodki-obrony-powietrznej-padla-konkretna-kwota/kn27x2k",
-    "last_seen": "2026-09-09T09:04:05Z"
+    "last_seen": "2026-09-09T09:13:30Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
@@ -24,7 +24,7 @@
     "region": "Iran",
     "description": "Ropa Brent na światowych giełdach drastycznie drożeje, zbliżając się do psychologicznej bariery 100 dolarów.",
     "url": "https://energia.rp.pl/ropa/art45116271-ropa-najdrozsza-od-miesiecy-konflikt-usa-iran-znow-eskaluje",
-    "last_seen": "2026-09-09T09:04:05Z"
+    "last_seen": "2026-09-09T09:13:30Z"
   },
   "cyber|Polska": {
     "lat": 52.5,
@@ -33,7 +33,7 @@
     "region": "Polska",
     "description": "Chodzi o krytyczne podatności, które są aktywnie wykorzystywane przez atakujących, a szczegóły luk są wręcz&#8230; nieprawdopodobne.",
     "url": "https://sekurak.pl/krytyczne-luki-w-mikrotiku-umozliwiajace-przejecie-urzadzenia-przez-ssh-latajcie-sie-pilnie/",
-    "last_seen": "2026-09-09T09:04:05Z"
+    "last_seen": "2026-09-09T09:13:30Z"
   },
   "cyber|Stany Zjednoczone": {
     "lat": 40.3,
@@ -42,16 +42,16 @@
     "region": "Stany Zjednoczone",
     "description": "Im większa automatyzacja, tym rządy bardziej skłaniają się ku represjom – twierdzą naukowcy.",
     "url": "https://cyberdefence24.pl/technologie/sztuczna-inteligencja-zniszczy-demokracje",
-    "last_seen": "2026-09-09T09:04:05Z"
+    "last_seen": "2026-09-09T09:13:30Z"
   },
   "cyber|Wielka Brytania": {
     "lat": 55.5,
     "lng": -2.5,
     "type": "cyber",
     "region": "Wielka Brytania",
-    "description": "Internetowa aplikacja randkowa Grindr zdecydowała się zapłacić 26 milionów funtów (35,1 miliona dolarów) w ramach rozstrzygnięcia pozwu toczącego się w Wielkiej Brytanii w związku z zarzutami udostępniania osobom trzecim danych osobowych użytkowników, w tym ich statusu serologicznego.",
-    "url": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-    "last_seen": "2026-09-09T09:04:05Z"
+    "description": "Pracownicy coraz częściej korzystają z narzędzi AI, których ich firmy nie zatwierdziły ani nie kontrolują.",
+    "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/pracownicy-korzystaja-z-ai-poza-kontrola-firm-brytyjskie-sluzby-ostrzegaja",
+    "last_seen": "2026-09-09T09:13:30Z"
   },
   "conflict|Wenezuela": {
     "lat": 6.42,
@@ -69,16 +69,7 @@
     "region": "Rosja",
     "description": "Okupacyjna administracja w Doniecku zaprezentowała rosyjski serial „Marik”, którego głównym bohaterem jest były żołnierz wracający z frontu do pracy lekarza pediatrycznego pogotowia ratunkowego.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/rosja-promuje-propagandowy-serial-tak-probuje-wybielic-zbrodnie-w-mariupolu",
-    "last_seen": "2026-09-09T09:04:05Z"
-  },
-  "disaster|Chiny": {
-    "lat": 34.5,
-    "lng": 103.3,
-    "type": "disaster",
-    "region": "Chiny",
-    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
-    "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
-    "last_seen": "2026-09-08T09:08:34Z"
+    "last_seen": "2026-09-09T09:13:30Z"
   },
   "cyber|Francja": {
     "lat": 47.1,
@@ -87,7 +78,7 @@
     "region": "Francja",
     "description": "Francja wzmacnia zdolność państwa do reagowania na cyberataki.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/francja-wzmacnia-ochrone-administracji-przed-cyberatakami",
-    "last_seen": "2026-09-09T09:04:05Z"
+    "last_seen": "2026-09-09T09:13:30Z"
   },
   "disaster|Nepal": {
     "lat": 27.89,
@@ -130,9 +121,9 @@
     "lng": 127.51,
     "type": "conflict",
     "region": "Korea Północna",
-    "description": "Korea Północna buduje nowy zakład wzbogacania uranu w Yongbyon, podaje MAEA Reuters.",
-    "url": "https://www.reuters.com/world/asia-pacific/north-korea-builds-new-yongbyon-uranium-enrichment-facility-iaea-says-2026-09-09/",
-    "last_seen": "2026-09-09T08:54:41Z"
+    "description": "Korea Północna buduje nowy zakład nuklearny.",
+    "url": "https://polskieradio24.pl/swiat/korea-polnocna-buduje-nowy-zaklad-nuklearny-maea-ujawnia-niepokojace-szczegoly",
+    "last_seen": "2026-09-09T09:13:30Z"
   },
   "disaster|Australia": {
     "lat": -25.8,
