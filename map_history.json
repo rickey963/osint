@@ -6,7 +6,7 @@
     "region": "Ukraina",
     "description": "Polska przygotowuje kolejny pakiet wsparcia militarnego dla Ukrainy.",
     "url": "https://businessinsider.com.pl/wiadomosci/polska-przekaze-ukrainie-srodki-obrony-powietrznej-padla-konkretna-kwota/kn27x2k",
-    "last_seen": "2026-09-09T08:41:14Z"
+    "last_seen": "2026-09-09T08:41:52Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
@@ -24,7 +24,7 @@
     "region": "Iran",
     "description": "Amerykańskie wojska zniszczyły pięć irańskich tankowców w Zatoce Perskiej - przekazało Dowództwo Centralne wojsk w USA (CENTCOM).",
     "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33012817,wymiana-ognia-na-bliskim-wschodzie-iran-uderzyl-w-baze-usa.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-    "last_seen": "2026-09-09T08:41:14Z"
+    "last_seen": "2026-09-09T08:41:52Z"
   },
   "cyber|Polska": {
     "lat": 52.5,
@@ -33,7 +33,7 @@
     "region": "Polska",
     "description": "Chodzi o krytyczne podatności, które są aktywnie wykorzystywane przez atakujących, a szczegóły luk są wręcz&#8230; nieprawdopodobne.",
     "url": "https://sekurak.pl/krytyczne-luki-w-mikrotiku-umozliwiajace-przejecie-urzadzenia-przez-ssh-latajcie-sie-pilnie/",
-    "last_seen": "2026-09-09T08:41:14Z"
+    "last_seen": "2026-09-09T08:41:52Z"
   },
   "cyber|Stany Zjednoczone": {
     "lat": 40.3,
@@ -42,16 +42,16 @@
     "region": "Stany Zjednoczone",
     "description": "Im większa automatyzacja, tym rządy bardziej skłaniają się ku represjom – twierdzą naukowcy.",
     "url": "https://cyberdefence24.pl/technologie/sztuczna-inteligencja-zniszczy-demokracje",
-    "last_seen": "2026-09-09T08:41:14Z"
+    "last_seen": "2026-09-09T08:41:52Z"
   },
   "cyber|Wielka Brytania": {
     "lat": 55.5,
     "lng": -2.5,
     "type": "cyber",
     "region": "Wielka Brytania",
-    "description": "Internetowa aplikacja randkowa Grindr zdecydowała się zapłacić 26 milionów funtów (35,1 miliona dolarów) w ramach rozstrzygnięcia pozwu toczącego się w Wielkiej Brytanii w związku z zarzutami udostępniania osobom trzecim danych osobowych użytkowników, w tym ich statusu serologicznego.",
-    "url": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-    "last_seen": "2026-09-09T08:41:14Z"
+    "description": "Pracownicy coraz częściej korzystają z narzędzi AI, których ich firmy nie zatwierdziły ani nie kontrolują.",
+    "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/pracownicy-korzystaja-z-ai-poza-kontrola-firm-brytyjskie-sluzby-ostrzegaja",
+    "last_seen": "2026-09-09T08:41:52Z"
   },
   "conflict|Wenezuela": {
     "lat": 6.42,
@@ -67,9 +67,9 @@
     "lng": 105.8,
     "type": "cyber",
     "region": "Rosja",
-    "description": "Propaganda trafia do greckich odbiorców bez rosyjskiego logo.",
-    "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/niedziela-rosja-rozwija-niebezpieczna-siatke-w-grecji-uderza-w-czule-punkty-spoleczenstwa",
-    "last_seen": "2026-09-08T14:10:04Z"
+    "description": "Okupacyjna administracja w Doniecku zaprezentowała rosyjski serial „Marik”, którego głównym bohaterem jest były żołnierz wracający z frontu do pracy lekarza pediatrycznego pogotowia ratunkowego.",
+    "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/rosja-promuje-propagandowy-serial-tak-probuje-wybielic-zbrodnie-w-mariupolu",
+    "last_seen": "2026-09-09T08:41:52Z"
   },
   "disaster|Chiny": {
     "lat": 34.5,
@@ -87,7 +87,7 @@
     "region": "Francja",
     "description": "Francja wzmacnia zdolność państwa do reagowania na cyberataki.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/francja-wzmacnia-ochrone-administracji-przed-cyberatakami",
-    "last_seen": "2026-09-09T08:41:14Z"
+    "last_seen": "2026-09-09T08:41:52Z"
   },
   "disaster|Nepal": {
     "lat": 27.89,
@@ -160,15 +160,6 @@
     "description": "Agencja odegrała ważną rolę w reagowaniu na wcześniejsze katastrofy, takie jak trzęsienie ziemi w 2015 r.",
     "url": "https://www.nytimes.com/2026/09/09/world/asia/nepal-floods-usaid-trump-relief.html",
     "last_seen": "2026-09-09T08:41:14Z"
-  },
-  "disaster|Indie": {
-    "lat": 20.5,
-    "lng": 77.5,
-    "type": "disaster",
-    "region": "Indie",
-    "description": "Trzynastego dnia od katastrofy, czyli ostatniego dnia hinduskiej żałoby, flagi opadły do ​​połowy masztów.",
-    "url": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
-    "last_seen": "2026-09-08T08:41:39Z"
   },
   "conflict|Somalia": {
     "lat": 5.15,
