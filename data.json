@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-09T18:45:46Z",
+  "last_updated": "2026-09-09T18:46:26Z",
   "poland": [
+    {
+      "title": "Po F-16 w Rzeszowie powstają części do silników F-35",
+      "url": "https://www.rp.pl/mspo/art45121661-po-f-16-w-rzeszowie-powstaja-czesci-do-silnikow-f-35",
+      "date": "2026-09-09T18:45:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "2026 to jest kolejny 50 rok rozwoju w Polsce RTX, grupy, w skład której wchodzi Pratt&Whitney. W Rzeszowie produkujemy części do silników maszyn F-35, a przypomnę, że 20 lat temu zmontowaliśmy silniki do polskich F-16. Dumnie patrzyliśmy na polskie niebo, gdy pierwsze F-35 przylatywały do Polski."
+    },
     {
       "title": "Zdrowie jest fundamentem rozwoju kraju",
       "url": "https://www.rp.pl/xxxv-forum-ekonomiczne/art45121161-zdrowie-jest-fundamentem-rozwoju-kraju",
@@ -106,14 +114,6 @@
       "summary": ""
     },
     {
-      "title": "Dziennik Ustaw z 9 września 2026 r. (poz. 1188 - 1193)",
-      "url": "https://www.rp.pl/akty-prawne/art45121281-dziennik-ustaw-z-9-wrzesnia-2026-r-poz-1188-1193",
-      "date": "2026-09-09T17:31:20Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": ""
-    },
-    {
       "title": "Karol Nawrocki czy Donald Tusk? CBOS sprawdził, komu ufają Polacy",
       "url": "https://businessinsider.com.pl/wiadomosci/sondaz-cbos-nawrocki-nadal-liderem-rankingu-zaufania-za-nim-kosiniak-kamysz-i/pdme0pw",
       "date": "2026-09-09T17:21:34Z",
@@ -160,14 +160,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Na 30 lat więzienia skazał Sąd Okręgowy w Olsztynie mężczyznę, który w noc wigilijną 2024 r. zabił ze szczególnym okrucieństwem Andrzeja B. Sąd zdecydował, że o warunkowe przedterminowe zwolnienie Gabriel A."
-    },
-    {
-      "title": "Pokaz piaskowej rzeźby Dominiki Olszowy otworzył sezon w Muzeum Sztuki Nowoczesnej w Warszawie - Polska Agencja Prasowa SA",
-      "url": "https://infopakiety.pap.pl/aktualnosci/news,664620,pokaz-piaskowej-rzezby-dominiki-olszowy-otworzyl-sezon-w-muzeum-sztuki",
-      "date": "2026-09-09T16:40:50Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Pokaz piaskowej rzeźby Dominiki Olszowy otworzył sezon w Muzeum Sztuki Nowoczesnej w Warszawie Polska Agencja Prasowa SA."
     },
     {
       "title": "Włamał się do niemieckiego hotelu. W budynku mieszkali policjanci",
@@ -400,6 +392,14 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Tusk walczy o swoich, reszta mu nie wierzy. \"Kolejna afera, w której wszyscy się żrą\" Polskie Radio 24."
+    },
+    {
+      "title": "W Radzie Miasta Lublin powstaje Klub Radnych Rozwój Plus - Polska Agencja Prasowa SA",
+      "url": "https://www.pap.pl/aktualnosci/w-radzie-miasta-lublin-powstaje-klub-radnych-rozwoj-plus",
+      "date": "2026-09-09T10:05:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "W Radzie Miasta Lublin powstaje Klub Radnych Rozwój Plus Polska Agencja Prasowa SA."
     }
   ],
   "world_security": [
@@ -425,7 +425,7 @@
       "date": "2026-09-09T18:10:03Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Tankowiec z ropą uderzył na wodach Iraku, gdy statki zostały złapane w amerykańsko-irańskich atakach Reuters."
+      "summary": "Tankowiec z ropą uderzył na wodach Iraku, gdy statki zostały złapane podczas ataków amerykańsko-irańskich Reuters."
     },
     {
       "title": "Badania wykazały, że indonezyjscy zbieracze mogli ssać zmieniające umysł orzechy 25 000 lat temu",
@@ -452,7 +452,7 @@
       "summary": "Ropa Brent drożeje powyżej 100 dolarów za baryłkę w miarę zaostrzania się konfliktu na Bliskim Wschodzie Reuters."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Bracia Tate przegrywają starania o zwolnienie z amerykańskiego więzienia w oczekiwaniu na ekstradycję – Reuters",
       "url": "https://www.reuters.com/legal/government/tate-brothers-lose-bid-release-us-jail-pending-extradition-2026-09-09/",
       "date": "2026-09-09T17:38:29Z",
       "source": "Reuters",
@@ -484,12 +484,12 @@
       "summary": "Amerykański gigant technologiczny twierdzi, że projekt centrum danych o wartości 13 miliardów euro stworzy dziesiątki tysięcy miejsc pracy."
     },
     {
-      "title": "EKSKLUZYWNIE: badacze twierdzą, że nieuczciwi agenci OpenAI wykorzystali co najmniej 10 kolejnych witryn do nieautoryzowanych połączeń komunikacyjnych – Reuters",
+      "title": "WYŁĄCZNIE: nieuczciwi agenci OpenAI wykorzystali co najmniej 10 kolejnych witryn do nieautoryzowanych połączeń – twierdzą badacze – Reuters",
       "url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/",
       "date": "2026-09-09T17:05:32Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "WYŁĄCZNIE: nieuczciwi agenci OpenAI wykorzystali co najmniej 10 kolejnych witryn do nieautoryzowanych połączeń – twierdzą badacze Reuters."
+      "summary": "WYŁĄCZNIE: nieuczciwi agenci OpenAI wykorzystali co najmniej 10 kolejnych witryn do nieautoryzowanych połączeń komunikacyjnych – twierdzą badacze Reuters."
     },
     {
       "title": "Departament Skarbu USA kupi do 6 miliardów dolarów w ramach operacji wykupu przeprowadzonej 10 września – Reuters",
@@ -500,7 +500,7 @@
       "summary": "Departament Skarbu USA kupi do 6 miliardów dolarów w ramach operacji wykupu przeprowadzonej 10 września Reuters."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Republikańscy prawodawcy krytykują powiązania biznesowe Forda z Chinami – Reuters",
       "url": "https://www.reuters.com/business/autos-transportation/republican-lawmakers-criticize-ford-business-ties-china-2026-09-09/",
       "date": "2026-09-09T16:58:04Z",
       "source": "Reuters",
@@ -529,7 +529,7 @@
       "date": "2026-09-09T16:33:49Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Jej żądania informacji na temat tego, co stało się z Tasią Fortune, zostały powtórzone przez zszokowanych mieszkańców."
     },
     {
       "title": "Bombardier twierdzi, że pomimo gróźb Trumpa chce obsadzić 500 wolnych stanowisk pracy w USA – Reuters",
@@ -545,7 +545,7 @@
       "date": "2026-09-09T16:30:28Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Wśród uczestników środowego posiedzenia byli książę Walii i trzej nordyccy królowie."
+      "summary": "Wśród osób, które uczestniczyły w środowym posiedzeniu, był książę Walii i trzech królów nordyckich."
     },
     {
       "title": "Prezydent Serbii Vucic rozwiązuje parlament, ogłasza przedterminowe wybory – Reuters",
@@ -553,7 +553,7 @@
       "date": "2026-09-09T16:26:22Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Prezydent Serbii Vucic rozwiązuje parlament, ogłasza przedterminowe wybory Reuters."
     },
     {
       "title": "Sankcje izraelskie nie zaszkodzą wymianie informacji wywiadowczych między agencjami szpiegowskimi, mówi Miliband",
@@ -561,7 +561,7 @@
       "date": "2026-09-09T16:14:41Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Minister spraw zagranicznych Wielkiej Brytanii mówi, że społeczność międzynarodowa, w tym USA, podziela „frustrację” w związku z niepowodzeniami Izraela w ograniczaniu nielegalnych osadników Brytyjski wywiad otrzymał od swojego izraelskiego odpowiednika zapewnienia, że ​​wymiana informacji z Wielką Brytanią będzie kontynuowana w dotychczasowy sposób, powiedział sekretarz spraw zagranicznych Ed Miliband. Ujawnienie przeczy przewidywaniom, że jego decyzja o nałożeniu zakazu handlu z nielegalnymi osadami izraelskimi doprowadzi do zerwania współpracy między agencjami. Kontynuuj czytanie..."
+      "summary": "Minister spraw zagranicznych Wielkiej Brytanii mówi, że społeczność międzynarodowa, w tym USA, podziela „frustrację” w związku z niepowodzeniami Izraela w ograniczaniu nielegalnych osadników Brytyjski wywiad otrzymał od swojego izraelskiego odpowiednika zapewnienia, że ​​wymiana informacji z Wielką Brytanią będzie kontynuowana w dotychczasowy sposób, powiedział Ed Miliband, sekretarz spraw zagranicznych. Ujawnienie przeczy przewidywaniom, że jego decyzja o nałożeniu zakazu handlu z nielegalnymi osadami izraelskimi doprowadzi do załamania współpracy między agencjami. Kontynuuj czytanie..."
     },
     {
       "title": "Szef kontroli ruchu lotniczego ma tydzień na złożenie raportu po tym, jak chaos w lotach w Wielkiej Brytanii spowodował odwołanie 2000 lotów",
@@ -593,7 +593,7 @@
       "date": "2026-09-09T15:28:18Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Rzecznik Merza odmawia podania powodu odwołania, ale zauważa, że nie było to spowodowane harmonogramem. Niemiecka kanclerz oskarża skrajnie prawicową partię AfD o dążenie do „czystek etnicznych”. Wracając do Oslo, procesja pogrzebowa króla Haralda wkrótce się rozpoczyna, a na 1,2-kilometrowej trasie do katedry w Oslo stoi 1900 żołnierzy ze wszystkich rodzajów norweskich sił obronnych. Oczekuje się, że procesja będzie iść bardzo powoli – z prędkością około 60 kroków na minutę – i obejmie rodzinę królewską, w tym króla Haakona, a następnie królewski samochód z wdową, królową Sonią. Kontynuuj czytanie..."
     },
     {
       "title": "John Malkovich odwołuje podróż do Izraela z powodu sfabrykowanego cytatu o solidarności",
@@ -617,7 +617,7 @@
       "date": "2026-09-09T15:00:04Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Załamanie się zawieszenia broni między USA a Iranem, rosnące ceny ropy naftowej i eksplozja inwestycji w centra danych utrudniają bankowi centralnemu zadanie. Śledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Od pięciu lat Bank Rezerw próbuje sprowadzić inflację z powrotem do docelowej wartości 2,5%, ale przez lata zasadniczo mu się to nie udało. Rezultatem jest kryzys kosztów życia, który wywołał intensywne skargi społeczności. Kontynuuj czytanie..."
+      "summary": "Załamanie się zawieszenia broni między USA a Iranem, rosnące ceny ropy i eksplozja inwestycji w centra danych utrudniają bankowi centralnemu zadanie. Śledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Od pięciu lat Bank Rezerw próbuje sprowadzić inflację z powrotem do docelowej wartości 2,5%, ale przez lata zasadniczo mu się to nie udało. Rezultatem jest kryzys kosztów życia, który wywołał intensywne skargi społeczności. Kontynuuj czytanie..."
     },
     {
       "title": "„Obawiam się, że cena może być wysoka”: w państwie niemieckim, w którym wzrosła skrajna prawica",
@@ -660,7 +660,7 @@
       "summary": "Niemiecka Merz oskarża skrajnie prawicową AfD o nawoływanie do „czystek etnicznych” Reuters."
     },
     {
-      "title": "Gospodarstwo Piotra znajduje się na „kraju zalewowym”. Wraz ze wzrostem poziomu mórz w Australii bezpieczne tereny zanikają, a koszty są ogromne",
+      "title": "Gospodarstwo Piotra znajduje się na „krainie powodziowej”. Wraz ze wzrostem poziomu mórz w Australii bezpieczne tereny zanikają, a koszty są ogromne",
       "url": "https://www.theguardian.com/environment/2026/sep/10/peters-farm-is-on-flood-country-as-australias-sea-levels-rise-safe-land-is-vanishing-and-costs-are-huge",
       "date": "2026-09-09T14:01:01Z",
       "source": "The Guardian",
@@ -681,7 +681,7 @@
       "date": "2026-09-09T14:01:00Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Analitycy twierdzą, że pomimo spadków w niektórych częściach rynku ceny wykazują oznaki stabilizacji w miarę wycofywania się inwestorów i napływu nowych nabywców. Uzyskaj nasz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Wysokiej klasy domy odnotowują gwałtowne spadki cen, podczas gdy tańsze nieruchomości okazują się odporne, przez co Australijczycy doświadczają pogorszenia koniunktury na rynku na zupełnie różne sposoby, jak wynika z nowych danych. Wartość domów z górnego kwartyla na dwóch największych rynkach w kraju, w Sydney i Melbourne, spadła obecnie o ponad 10% w stosunku do wartości jak wynika z analizy Cotality. Kontynuuj czytanie..."
+      "summary": "Analitycy twierdzą, że pomimo spadków w niektórych częściach rynku ceny wykazują oznaki stabilizacji w miarę wycofywania się inwestorów i napływu nowych nabywców. Uzyskaj nasz e-mail z najświeższymi wiadomościami, bezpłatną aplikację lub codzienny podcast z wiadomościami. Wysokiej klasy domy odnotowują gwałtowne spadki cen, podczas gdy tańsze nieruchomości okazują się odporne, przez co Australijczycy doświadczają pogorszenia koniunktury na rynku na zupełnie różne sposoby, jak wynika z nowych danych. Wartość domów z górnego kwartyla na dwóch największych rynkach w kraju, w Sydney i Melbourne, spadła obecnie o ponad 10% w stosunku do wartości – wynika z analizy Cotality. Kontynuuj czytanie..."
     },
     {
       "title": "Merz oskarża AfD o politykę „czystek etnicznych” i odwołuje rozmowę z Trumpem",
@@ -740,7 +740,7 @@
       "summary": "Rodzice Celeste Rivas Hernandez twierdzą, że egzekucja „byłaby idealna”, gdyby D4vd został uznany za winnego."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Sinkhole pojawia się przed domem w Malibu, który prawdopodobnie należy do Nicolasa Cage'a",
       "url": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-09T09:49:08Z",
       "source": "BBC News",
@@ -790,12 +790,12 @@
       "summary": "Służby stwierdziły, że nie ustaliły przyczyny eksplozji. Lata walk pozostawiły Syrię zaśmieconą bronią i amunicją pozostałą po wojnie domowej."
     },
     {
-      "title": "Rada ONZ ds. nadzoru nuklearnego po raz pierwszy od 20 lat zgłasza Iran Radzie Bezpieczeństwa ONZ – apnews.com",
+      "title": "Rada ONZ ds. nadzoru nuklearnego po raz pierwszy od 20 lat zgłasza Iran Radzie Bezpieczeństwa ONZ – AP News",
       "url": "https://apnews.com/article/un-iran-atomic-watchdog-security-council-607ecdffcd8ef88ddf8f33041e86b720",
       "date": "2026-09-09T17:54:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Rada ONZ ds. nadzoru nuklearnego po raz pierwszy od 20 lat zgłasza Iran Radzie Bezpieczeństwa ONZ apnews.com."
+      "summary": "Rada ONZ ds. nadzoru nuklearnego po raz pierwszy od 20 lat zgłasza Iran Radzie Bezpieczeństwa ONZ. AP News."
     },
     {
       "title": "Policja rozszerza dochodzenie w sprawie reformy Wielkiej Brytanii po tajnym użądleniu",
@@ -822,12 +822,12 @@
       "summary": "Analitycy twierdzą, że ostry odwet rządu premiera Benjamina Netanjahu na nowe ograniczenia jest odzwierciedleniem jego trudnej walki o reelekcję."
     },
     {
-      "title": "Chiny odpowiadają na twierdzenia USA o „złośliwej” destylacji sztucznej inteligencji przed planowanymi rozmowami Trumpa-Xi – apnews.com",
+      "title": "Chiny odpowiadają na twierdzenia USA o „złośliwej” destylacji sztucznej inteligencji przed planowanymi rozmowami Trumpa-Xi – AP News",
       "url": "https://apnews.com/article/us-china-ai-models-anthropic-trump-0f6ca61301630134607551b1dab0d632",
       "date": "2026-09-09T15:19:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Chiny odpowiadają na twierdzenia USA o „złośliwej” destylacji sztucznej inteligencji przed planowanymi rozmowami Trumpa-Xi apnews.com."
+      "summary": "Chiny odpowiadają na twierdzenia USA o „złośliwej” destylacji sztucznej inteligencji przed planowanymi rozmowami Trumpa-Xi AP News."
     },
     {
       "title": "USA celują w nowy cel w kampanii Deadly Boat Strike",
@@ -838,12 +838,12 @@
       "summary": "W ciągu ostatnich dwóch tygodni wojsko USA zatopiło sześć dużych statków rybackich oskarżonych o dostarczanie paliwa szybkim łodziom przewożącym narkotyki z Ameryki Południowej."
     },
     {
-      "title": "Giełdy spadają na Wall Street, gdy ceny ropy ponownie przekraczają 100 dolarów za baryłkę po eskalacji wojny w Iranie – apnews.com",
+      "title": "Giełdy spadają na Wall Street, gdy ceny ropy ponownie przekraczają 100 dolarów za baryłkę po eskalacji wojny w Iranie – AP News",
       "url": "https://apnews.com/article/stock-markets-inflation-currencies-fed-rates-d1284eb72934a3b076c14449bc087fbd",
       "date": "2026-09-09T15:08:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Giełdy spadają na Wall Street, gdy ceny ropy ponownie przekraczają 100 dolarów za baryłkę po eskalacji wojny w Iranie apnews.com."
+      "summary": "Giełdy spadają na Wall Street, gdy ceny ropy ponownie przekraczają 100 dolarów za baryłkę po eskalacji wojny w Iranie AP News."
     },
     {
       "title": "Park tematyczny w sercu francuskiej wojny kulturowej",
@@ -886,20 +886,20 @@
       "summary": "Rodziny królewskie i głowy państw, w tym prezydent Ukrainy Wołodymyr Zełenski, wzięły udział w pogrzebie króla Haralda V w Oslo."
     },
     {
-      "title": "Po miesiącach protestów Serbski Vucic ogłasza przyspieszone wybory parlamentarne na październik – apnews.com",
+      "title": "Po miesiącach protestów Serbski Vucic wzywa do przyspieszonych wyborów parlamentarnych na październik – AP News",
       "url": "https://apnews.com/article/serbia-election-vucic-protests-students-list-feb0e1f19d86c9d0a705f043dc136ca2",
       "date": "2026-09-09T11:52:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Po miesiącach protestów Serbski Vucic ogłasza przyspieszone wybory parlamentarne na październik. apnews.com."
+      "summary": "Po miesiącach protestów Serbski Vucić wzywa do przyspieszonych wyborów parlamentarnych na październik. AP News."
     },
     {
-      "title": "Ropa naftowa wzrosła powyżej 100 dolarów za baryłkę po ostatniej fali ataków na Bliskim Wschodzie – apnews.com",
+      "title": "Ropa naftowa wzrosła powyżej 100 dolarów za baryłkę po ostatniej fali ataków na Bliskim Wschodzie – AP News",
       "url": "https://apnews.com/article/oil-prices-iran-attack-saudi-brent-crude-7538e6386a819bcdc2547d530ec3472e",
       "date": "2026-09-09T11:22:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Ropa naftowa wzrosła powyżej 100 dolarów za baryłkę po ostatniej fali ataków na Bliskim Wschodzie apnews.com."
+      "summary": "Ropa naftowa wzrosła powyżej 100 dolarów za baryłkę po ostatniej fali ataków na Bliskim Wschodzie AP News."
     },
     {
       "title": "Premier Singapuru otrzymuje dużą podwyżkę",
@@ -907,7 +907,7 @@
       "date": "2026-09-09T10:42:20Z",
       "source": "The New York Times",
       "confirmed_by": 1,
-      "summary": "Premier Singapuru Lawrence Wong dostał tę nagrodę w ramach długoterminowej polityki wypłacania wysokich wynagrodzeń urzędnikom państwowym w celu przyciągania najlepszych talentów i zapobiegania korupcji."
+      "summary": "Premier Singapuru Lawrence Wong dostał klapsa w ramach długoterminowej polityki wypłacania wysokich wynagrodzeń urzędnikom państwowym w celu przyciągania najlepszych talentów i zapobiegania korupcji."
     },
     {
       "title": "Wykonywanie trumien w epicentrum wirusa Ebola",
@@ -926,84 +926,84 @@
       "summary": "Podczas gdy brytyjscy rolnicy muszą stawić czoła intensywnym falom upałów związanym ze zmianami klimatycznymi, niektórzy z nich uprawiają nowe rośliny rzadko uprawiane w ich kraju."
     },
     {
-      "title": "Złodzieje kradną 4 Renoirów z francuskiego muzeum. Nadal brakuje 2 obrazów – apnews.com",
+      "title": "Złodzieje kradną 4 Renoirów z francuskiego muzeum. Nadal brakuje 2 obrazów – AP News",
       "url": "https://apnews.com/article/france-renoir-heist-paintings-riviera-4f5a9a3ece4f973c73721232fb917282",
       "date": "2026-09-09T08:29:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Złodzieje kradną 4 Renoirów z francuskiego muzeum. Nadal brakuje 2 obrazów apnews.com."
+      "summary": "Złodzieje kradną 4 Renoirów z francuskiego muzeum. Wciąż brakuje 2 z obrazów AP News."
     },
     {
-      "title": "Rodziny opłakują ruiny irańskiej szkoły, w której w amerykańskim strajku zginęło dziesiątki dzieci – apnews.com",
+      "title": "Rodziny opłakują ruiny irańskiej szkoły, w której w amerykańskim strajku zginęło dziesiątki dzieci – AP News",
       "url": "https://apnews.com/article/iran-minab-school-children-killed-d1edcacd8bd3fc64badaa5a4caf184c9",
       "date": "2026-09-09T07:31:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Rodziny opłakują ruiny irańskiej szkoły, w której w amerykańskim strajku zginęło dziesiątki dzieci apnews.com."
+      "summary": "Rodziny opłakują ruiny irańskiej szkoły, w której w amerykańskim strajku zginęło dziesiątki dzieci AP News."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Dane lotu wskazują, że odrzutowiec towarowy próbował przerwać niepewne lądowanie przed katastrofą w Miami, w której zginęło 5 osób – wynika z danych lotu – AP News",
       "url": "https://apnews.com/article/amazon-cargo-plane-crash-miami-airport-victims-6c23909e94ea2faedd28071749fc00e3",
       "date": "2026-09-09T03:58:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Odrzutowiec towarowy próbował przerwać niestabilne lądowanie przed katastrofą w Miami, w której zginęło 5 osób – wynika z danych lotu apnews.com."
+      "summary": "Jak wynika z danych AP News, odrzutowiec towarowy próbował przerwać niestabilne lądowanie przed katastrofą w Miami, w której zginęło 5 osób."
     },
     {
-      "title": "Przywódcy Konferencji Południowo-Wschodniej omawiają wydalenie LSU, które wycofuje się z umieszczania w składzie profesjonalnych graczy – apnews.com",
+      "title": "Przywódcy Konferencji Południowo-Wschodniej omawiają wydalenie LSU, które wstrzymuje umieszczanie w składzie profesjonalnych graczy – AP News",
       "url": "https://apnews.com/article/ncaa-lsu-lawsuit-sec-kick-out-6dcea392c8d266d456bfc23c5627cc1e",
       "date": "2026-09-09T03:57:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Przywódcy Konferencji Południowo-Wschodniej omawiają wydalenie LSU, które wycofuje się ze składu profesjonalnych graczy apnews.com."
+      "summary": "Przywódcy Konferencji Południowo-Wschodniej omawiają wydalenie LSU, które wycofuje się z umieszczania w składzie profesjonalnych graczy AP News."
     },
     {
-      "title": "Konkurencyjne orzeczenia sądowe wprowadzają zamieszanie w wyborach do Kongresu w Missouri – apnews.com",
+      "title": "Konkurencyjne orzeczenia sądowe powodują zamieszanie w wyborach do Kongresu w Missouri – AP News",
       "url": "https://apnews.com/article/redistricting-congress-trump-gerrymandering-house-aadd3c4e6cc3a2c8100756cb7b352289",
       "date": "2026-09-09T03:54:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Konkurencyjne orzeczenia sądowe wprowadzają zamieszanie w wyborach do Kongresu w Missouri apnews.com."
+      "summary": "Konkurencyjne orzeczenia sądowe dodają zamieszania podczas wyborów do Kongresu w Missouri AP News."
     },
     {
-      "title": "NCAA twierdzi, że nie może unieważnić zwycięstwa stanu Michigan nad zachodnim Michigan po wyniku apelacji MAC – apnews.com",
+      "title": "NCAA twierdzi, że nie może unieważnić zwycięstwa stanu Michigan nad zachodnim Michigan po wyniku apelacji MAC – AP News",
       "url": "https://apnews.com/article/western-michigan-hail-mary-eecc9a441a40001b99846afffa86a61a",
       "date": "2026-09-09T03:16:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "NCAA twierdzi, że nie może unieważnić zwycięstwa stanu Michigan nad zachodnim Michigan po tym, jak MAC odwołał się od wyniku apnews.com."
+      "summary": "NCAA twierdzi, że nie może unieważnić zwycięstwa stanu Michigan nad zachodnim Michigan po tym, jak MAC odwołał się od wyniku AP News."
     },
     {
-      "title": "Zawalił się podjazd nadmorskiej rezydencji Nicolasa Cage’a – apnews.com",
+      "title": "Zawalił się podjazd nadmorskiej rezydencji Nicolasa Cage’a – AP News",
       "url": "https://apnews.com/article/malibu-driveway-collapse-nic-cage-erosion-marie-2bd3a67b83f46e79d0b78b5d462fb7fa",
       "date": "2026-09-09T02:00:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Podjazd do nadmorskiej rezydencji należącej do Nicolasa Cage’a zawalił się apnews.com."
+      "summary": "Podjazd do nadmorskiej rezydencji Nicolasa Cage’a zawalił się AP News."
     },
     {
-      "title": "Wstrzymujący się z procesu Lindsay Clancy powiedział, że ma uzasadnione wątpliwości, ale nadal nie chce uniewinnić, mówi sędzia – apnews.com",
+      "title": "Wstrzymujący się z procesu Lindsay Clancy powiedział, że ma uzasadnione wątpliwości, ale nadal nie chce uniewinnić – mówi sędzia – AP News",
       "url": "https://apnews.com/article/lindsay-clancy-trial-holdout-juror-999539982691ae345cadb90321243f96",
       "date": "2026-09-09T00:49:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Wstrzymujący się z procesu Lindsay Clancy powiedział, że ma uzasadnione wątpliwości, ale nadal nie chce się uniewinnić, mówi sędzia apnews.com."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "TSA przywraca dostęp do bramek niektórym osobom bez biletów lotniczych 25 lat po 11 września – apnews.com",
+      "title": "TSA przywraca dostęp do bramek niektórym osobom bez biletów lotniczych 25 lat po 11 września – AP News",
       "url": "https://apnews.com/article/tsa-precheck-gateside-known-traveler-712d9888d3e7f00307a199c732986364",
       "date": "2026-09-08T21:54:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "TSA przywraca dostęp do bramek niektórym osobom bez biletów lotniczych 25 lat po 11 września apnews.com."
+      "summary": "TSA przywraca dostęp do bramek niektórym osobom bez biletów lotniczych 25 lat po 11 września AP News."
     },
     {
-      "title": "Ceny ropy naftowej stale rosną i wywierają wpływ na Wall Street – apnews.com",
+      "title": "Ceny ropy stale rosną i wywierają wpływ na Wall Street – AP News",
       "url": "https://apnews.com/article/stocks-markets-trump-oil-ai-rates-d3d6157a534584985987f828a940cffa",
       "date": "2026-09-08T20:43:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Ceny ropy naftowej stale rosną i wywierają wpływ na Wall Street apnews.com."
+      "summary": "Ceny ropy naftowej stale rosną i wywierają wpływ na Wall Street AP News."
     }
   ],
   "technology": [
@@ -1013,7 +1013,7 @@
       "date": "2026-09-09T18:36:53Z",
       "source": "Techmeme",
       "confirmed_by": 2,
-      "summary": "Dominic Preston / The Verge: Ceny iPhone'a Duo zaczynają się od 1999 dolarów za 256 GB, a model 2 TB kosztuje 3199 dolarów i jest dostępny w kolorach gwiazdowej bieli i nocnego nieba; przedsprzedaż rozpoczyna się 16 października, a sprzedaż rozpoczyna się 23 października &mdash; Siedem lat po pojawieniu się składanych telefonów Apple uważa, że ​​technologia jest gotowa na iPhone’a."
+      "summary": "Dominic Preston / The Verge: Ceny iPhone'a Duo zaczynają się od 1999 dolarów za 256 GB, a model 2 TB kosztuje 3199 dolarów i jest dostępny w kolorach gwiazdowej bieli i nocnego nieba; przedsprzedaż rozpoczyna się 16 października, a sprzedaż rozpoczyna się 23 października &mdash; Siedem lat po pojawieniu się składanych telefonów Apple uważa, że ​​technologia jest gotowa na iPhone'a."
     },
     {
       "title": "Nie chcę wchodzić w interakcję z papugami stochastycznymi",
@@ -1040,7 +1040,7 @@
       "summary": "Podczas swojej konferencji, Apple zaprezentowało najbardziej wyczekiwany model iPhone'a od lat."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Apple ogłasza swój pierwszy składany iPhone Duo z 5,4-calowym wyświetlaczem zewnętrznym i 7,6-calowym wyświetlaczem wewnętrznym, A20 Pro z nowym procesorem wyświetlania i Touch ID (Chance Miller/9to5Mac)",
       "url": "https://www.techmeme.com/260909/p35#a260909p35",
       "date": "2026-09-09T18:17:27Z",
       "source": "Techmeme",
@@ -1085,7 +1085,7 @@
       "date": "2026-09-09T18:08:04Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Jeremy Gray / PetaPixel: iPhone 18 Pro ma szybszy aparat główny Fusion 48 MP ze zmienną przysłoną, która przepuszcza o około 50% więcej światła w słabym świetle, a także ulepszoną kontrolę aplikacji aparatu &mdash; Apple zaprezentowało iPhone’a 18 Pro i iPhone’a 18 Pro Max, swoje najnowsze flagowe smartfony typu „płytka”."
+      "summary": "Jeremy Gray / PetaPixel: iPhone 18 Pro ma szybszy aparat główny Fusion 48 MP ze zmienną przysłoną, która przepuszcza o około 50% więcej światła w słabym świetle, a także ulepszoną kontrolę aplikacji aparatu &mdash; Apple zaprezentowało iPhone'a 18 Pro i iPhone'a 18 Pro Max, swoje najnowsze flagowe smartfony typu „płytka”."
     },
     {
       "title": "Apple AirPods 5 zawstydzają konkurencję. Likwidują hałas bez gumek w uszach",
@@ -1109,7 +1109,7 @@
       "date": "2026-09-09T17:57:55Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Cześć HN, jestem Dimitris. Jest to firmowy system operacyjny, który zbudowałem i którego używam do prowadzenia mojej firmy. Każdy może go zainstalować i samodzielnie hostować za darmo. Pomyśl o tym jak o Claude Code, Cowork i sesjach w chmurze w jednej aplikacji hostowanej na własnym serwerze. Jest to z założenia aplikacja wielodostępna, w której wiele osób może współpracować z agentami firmy w 4 różnych trybach współpracy i działa z Twoją subskrypcją Anthropic lub OpenAi, a nawet z modelami lokalnymi. Każdy agent może działać na Claude Code lub Codex CLI działającym jako trwały proces na Twoim serwerze w piaskownicy jądra (bąbelkowej) z zawsze włączoną izolacją sieci (makaron), z własnym obszarem roboczym, pamięcią, harmonogramy i narzędzia."
+      "summary": "Cześć HN, jestem Dimitris. To jest firmowy system operacyjny, który zbudowałem i którego używam do prowadzenia mojej firmy. Każdy może go zainstalować i hostować samodzielnie za darmo. Pomyśl o tym jak o Claude Code, Cowork i sesjach w chmurze w jednej aplikacji hostowanej na własnym serwerze. Jest to z założenia aplikacja wielodostępna, w której wiele osób może współpracować z agentami firmy w 4 różnych trybach współpracy i działa z Twoją subskrypcją Anthropic lub OpenAi, a nawet modelami lokalnymi. Każdy agent może działać na Claude Code lub Codex CLI działającym jako trwały proces na Twoim serwerze w piaskownicy jądra (bąbelkowej) z zawsze włączoną izolacją sieci (makaron), z własnym obszarem roboczym, pamięcią, harmonogramy i narzędzia."
     },
     {
       "title": "iPhone Duo zapowiedziany. Pierwszy składak Apple można nazwać rewolucją",
@@ -1120,12 +1120,12 @@
       "summary": "Apple nareszcie to zrobiło. Amerykański producent ogłosił pierwszy składany smartfon – czy iPhone Ultra jest rewolucyjny? Artykuł iPhone Duo zapowiedziany."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Apple przedstawia dwa modele AirPods 5 z ANC, która usuwa do 50% więcej hałasu niż AirPods 4, w cenie 129 USD lub 149 USD z etui do ładowania bezprzewodowego (Ryan Christoffel/9to5Mac)",
       "url": "https://www.techmeme.com/260909/p32#a260909p32",
       "date": "2026-09-09T17:55:04Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Ryan Christoffel / 9to5Mac: Apple ogłasza dwa modele AirPods 5 z technologią ANC, która usuwa do 50% więcej hałasu niż AirPods 4, w cenie 129 lub 149 dolarów z etui do ładowania bezprzewodowego &mdash; Dzisiaj podczas wydarzenia poświęconego iPhone'owi 18 Pro firma Apple ogłosiła następną generację słuchawek AirPods 5 z ulepszoną aktywną redukcją szumów. Oto szczegóły."
     },
     {
       "title": "iPhone 18 Pro jest wyposażony w mniejszą dynamiczną wyspę; 18 Pro zaczyna się od 1199 USD, a 18 Pro Max zaczyna się od 1299 USD, oba kosztują o 100 USD więcej niż linia 17 Pro (Devindra Hardawar/Engadget)",
@@ -1133,7 +1133,7 @@
       "date": "2026-09-09T17:50:02Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Devindra Hardawar / Engadget: iPhone 18 Pro jest wyposażony w mniejszą dynamiczną wyspę; Cena modelu 18 Pro zaczyna się od 1199 USD, a modelu 18 Pro Max od 1299 USD, a oba modele kosztują o 100 USD więcej niż modele 17 Pro &mdash; A teraz jest dostępny w kolorze bordowym. &mdash; Chociaż oczy wszystkich zwrócone są na pierwszy składany produkt Apple, firma nie zapomniała o &hellip;."
+      "summary": "Devindra Hardawar / Engadget: iPhone 18 Pro jest wyposażony w mniejszą dynamiczną wyspę; Ceny modelu 18 Pro zaczynają się od 1199 USD, a modelu 18 Pro Max od 1299 USD, przy czym oba modele kosztują o 100 USD więcej niż modele 17 Pro &mdash; A teraz jest dostępny w kolorze bordowym. &mdash; Chociaż oczy wszystkich zwrócone są na pierwszy składany produkt Apple, firma nie zapomniała o &hellip;."
     },
     {
       "title": "Oto iPhone 18 Pro i 18 Pro Max. Absurdalnie zachowawczy",
@@ -1181,10 +1181,10 @@
       "date": "2026-09-09T17:32:16Z",
       "source": "Techmeme",
       "confirmed_by": 1,
-      "summary": "Hartley Charlton / MacRumors: Apple prezentuje procesor A20 Pro wykonany w procesie technologicznym 2 nm, wyposażony w 6-rdzeniowy procesor z dwoma procesorami „klasy desktopowej”. super rdzenie, 7-rdzeniowy procesor graficzny do 40% szybszy i łącznie 32 rdzenie Neural Engine &mdash; Firma Apple zaprezentowała dziś chip A20 Pro w telefonach iPhone 18 Pro i iPhone 18 Pro Max, zbudowany w oparciu o zupełnie nową architekturę i technologię procesową 2 nm."
+      "summary": "Hartley Charlton / MacRumors: Apple przedstawia procesor A20 Pro wykonany w procesie technologicznym 2 nm, wyposażony w 6-rdzeniowy procesor z dwoma procesorami „klasy desktopowej”. super rdzenie, 7-rdzeniowy procesor graficzny do 40% szybszy i łącznie 32 rdzenie Neural Engine &mdash; Firma Apple zaprezentowała dziś chip A20 Pro w telefonach iPhone 18 Pro i iPhone 18 Pro Max, zbudowany w oparciu o zupełnie nową architekturę i technologię procesową 2 nm."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Qwen 3.8 podąża za wstępnymi wypełnieniami rozumowania GPT-5.5 Pro",
       "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
       "date": "2026-09-09T17:24:28Z",
       "source": "Hacker News",
@@ -1381,7 +1381,7 @@
       "date": "2026-09-08T21:23:13Z",
       "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "„Dodatki” związane z ochroną obejmują także modele 3D do pobrania do przeglądania na komputerze stacjonarnym."
     },
     {
       "title": "Dlaczego wydanie łatki Microsoftu w tym miesiącu jest doozy",
@@ -1471,7 +1471,7 @@
       "date": "2026-09-09T13:39:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Za skradzione fundusze kupowano rezydencje, prywatne odrzutowce i supersamochody – teraz grozi mu do 20 lat więzienia."
     },
     {
       "title": "Robak WeChat może wysłać wiadomość do znajomego, zanim ten w ogóle odbierze połączenie",
@@ -1479,7 +1479,7 @@
       "date": "2026-09-09T12:45:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Kalifornia twierdzi, że sztuczna inteligencja pomogła przekształcić błąd pamięci VoIP w wieloplatformowe RCE, zanim Tencent je zamknął."
     },
     {
       "title": "Prezydent wraca z ustawą o kryptoaktywach",
@@ -1490,7 +1490,7 @@
       "summary": "Po trzech prezydenckich wetach i ponad dwóch latach legislacyjnego impasu regulacja rynku kryptoaktywów znów wraca na stół. Nowy projekt Pałacu Prezydenckiego ma być próbą kompromisu: ogranicza część uprawnień KNF i obciążeń dla firm, zaostrza też sankcje wobec podmiotów łamiących przepisy."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Firma Microsoft zamyka książkę w programie Publisher i odłącza usługę Project Online",
       "url": "https://www.theregister.com/software/2026/09/09/microsoft-closes-the-book-on-publisher-and-unplugs-project-online/5295205",
       "date": "2026-09-09T12:03:00Z",
       "source": "The Register",
@@ -1511,7 +1511,7 @@
       "date": "2026-09-09T11:17:07Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Luka w DeepSeek Harness, otwartym narzędziu DeepSeek do uruchamiania agentów kodujących AI na komputerze programisty, pozwala agentowi działającemu w trybie piaskownicy wyłączyć własną piaskownicę za pomocą jednego polecenia. Narzędzie uruchamia polecenia agenta w piaskownicy systemu operacyjnego, dzięki czemu agent pracujący na niezaufanych plikach nie może zapisywać poza swoim obszarem roboczym. Agent może usunąć to ograniczenie, wywołując własną funkcję web narzędzia."
     },
     {
       "title": "Security Boffin twierdzi, że grupa lotniskowa pozostawiła klucze API w JavaScript po stronie klienta na cztery lata",
@@ -1546,7 +1546,7 @@
       "summary": "Dezinformacja wokół OZE, aut elektrycznych i klimatu sieje coraz większy chaos. Minister energii Miłosz Motyka wskazał na działania, jakie podejmuje resort, aby walczyć z tym zjawiskiem. Prostowanie fałszywych haseł polityków to nie wszystko."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Virgin Media przekazuje usługi e-mail zewnętrznemu dostawcy",
       "url": "https://www.theregister.com/networks/2026/09/09/virgin-media-offloads-email-services-to-third-party-provider/5295230",
       "date": "2026-09-09T10:30:07Z",
       "source": "The Register",
@@ -1583,7 +1583,7 @@
       "date": "2026-09-09T09:45:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Nadmuchiwany mankiet na nadgarstek zapewnia całodobowy odczyt ciśnienia krwi, choć konstrukcja pozostaje masywna."
+      "summary": "Nadmuchiwany mankiet na nadgarstek zapewnia całodobowe odczyty ciśnienia krwi, choć konstrukcja pozostaje masywna."
     },
     {
       "title": "Agencje amerykańskie oskarżają chińskie firmy zajmujące się sztuczną inteligencją o destylację Claude, GPT, Gemini i Grok",
@@ -1599,7 +1599,7 @@
       "date": "2026-09-09T09:11:03Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "W czwartek Google udostępniło aktualizacje łatające 230 luk w zabezpieczeniach, w tym tę, która stała się przedmiotem aktywnego wykorzystania w środowisku naturalnym. Luka o średnim poziomie ważności, z przypisanym identyfikatorem CVE CVE-2026-87491 (wynik CVSS: N/A), została opisana jako przekraczający dopuszczalne błędy w V8, JavaScript i silniku WebAssembly przeglądarki Chrome. „Zapis poza granicami w wersji V8 w przeglądarce Google Chrome przed."
+      "summary": "W czwartek Google udostępniło aktualizacje łatające 230 luk w zabezpieczeniach, w tym tę, która stała się przedmiotem aktywnego wykorzystania w środowisku naturalnym. Luka o średnim poziomie ważności, z przypisanym identyfikatorem CVE CVE-2026-87491 (wynik CVSS: N/A), została opisana jako przekraczający dopuszczalne błędy w V8, JavaScript i silniku WebAssembly przeglądarki Chrome. „Przepis poza granicami w wersji V8 w przeglądarce Google Chrome przed."
     },
     {
       "title": "Szwajcaria testuje drogę ucieczki FOSS z Microsoft 365",
@@ -1607,7 +1607,7 @@
       "date": "2026-09-09T09:01:00Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Armia szwajcarska wbija nóż w amerykańskie aplikacje chmurowe własnym pushem FOSS."
     },
     {
       "title": "Rosja promuje propagandowy serial. Tak próbuje wybielić zbrodnie w Mariupolu",
@@ -1639,7 +1639,7 @@
       "date": "2026-09-09T06:47:27Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Badacz bezpieczeństwa znany jako Chaotic Eclipse opublikował dowód koncepcji (PoC) na kolejny dzień zerowy w Microsoft Defender. Luka o kryptonimie ShieldCrash jest oceniana jako obejście łatki dla CVE-2026-69414 (wynik CVSS: 7,8), zwanej także ShieldBreak, o czym badacz poinformował w zeszłym miesiącu. „Microsoftowi nie udało się poprawnie załatać ShieldBreak CVE-2026-69414”, Chaotic."
     },
     {
       "title": "Inny zespół Microsoftu przyznaje, że ma trudności z poradzeniem sobie z zalewem kodu generowanego przez sztuczną inteligencję",
@@ -1647,7 +1647,7 @@
       "date": "2026-09-09T06:34:21Z",
       "source": "The Register",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Wzrost liczby rozszerzeń przeglądarki z kodowaniem wibracyjnym powoduje, że zespół Edge automatyzuje oceny jakości."
     },
     {
       "title": "SAP łata lukę jądra CVSS 10.0 umożliwiającą nieuwierzytelnione zdalne wykonanie kodu",
@@ -1674,15 +1674,15 @@
       "summary": "Planuje 30-krotną rozbudowę centrum danych za mniej niż miesięczna kwota, jaką duża technologia wydaje."
     },
     {
-      "title": "Łatki Microsoftu rejestrują 974 błędy, w tym dwa luki w exploitowanym systemie Windows Zero-Day",
+      "title": "Łatki Microsoftu rejestrują 974 wady, w tym dwa luki w exploitowanym systemie Windows Zero-Day",
       "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
       "date": "2026-09-09T04:41:29Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Microsoft we wtorek pobił rekordy w ramach łatki wtorkowej, usuwając wstrząsające 974 luki w zabezpieczeniach swojego oprogramowania, w tym dwie luki, które według niego były aktywnie wykorzystywane w środowisku naturalnym. Należą do nich 723 luki w Windowsie, 111 w Office i Office 2016, 62 w SQL i 22 w Narzędziach dla programistów. Spośród nich ponad 110 niedociągnięciom przypisano krytyczną ocenę ważności."
+      "summary": "Firma Microsoft we wtorek pobiła rekordy w ramach łatki wtorkowej, usuwając wstrząsające 974 luki w zabezpieczeniach swojego oprogramowania, w tym dwie luki, które według niego były aktywnie wykorzystywane w środowisku naturalnym. Należą do nich 723 luki w Windowsie, 111 w Office i Office 2016, 62 w SQL i 22 w Narzędziach dla programistów. Spośród nich ponad 110 niedociągnięciom przypisano krytyczną ocenę ważności."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "N-centralna wada RCE przed uwierzytelnieniem wykorzystywana w środowisku naturalnym",
       "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
       "date": "2026-09-09T04:27:51Z",
       "source": "The Hacker News",
@@ -1706,7 +1706,7 @@
       "summary": "Adobe również przywiozło na imprezę łatkową gadżety, które zasługują na natychmiastową uwagę."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "OpenAI GPT-6 Astra będzie prowadzić sklep detaliczny bez oszukiwania i sprzedawać więcej rzeczy niż Anthropic",
       "url": "https://www.theregister.com/ai-and-ml/2026/09/09/openai-gpt-6-astra-will-run-a-retailer-without-cheating-and-sell-more-stuff-than-anthropic/5295144",
       "date": "2026-09-08T23:14:17Z",
       "source": "The Register",
@@ -1714,7 +1714,7 @@
       "summary": "Sprzedawaj jak Altman."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Google DeepMind wznosi się ponad scrum AI dzięki atlasowi genomu",
       "url": "https://www.theregister.com/ai-and-ml/2026/09/08/google-deepmind-rises-above-the-ai-scrum-with-genome-atlas/5295137",
       "date": "2026-09-08T22:50:25Z",
       "source": "The Register",
@@ -1892,20 +1892,12 @@
       "summary": "57 proc. Polaków dostrzega gospodarcze korzyści transformacji energetycznej, a naukowcy po pierwszej Narodowej Debacie o Bezpieczeństwie Klimatycznym w Sejmie mówią wprost: polityka klimatyczna powinna stać się częścią myślenia o bezpieczeństwie państwa. Problem w tym, że za ambicjami muszą pójść ludzie, kompetencje i konkretne decyzje."
     },
     {
-      "title": "Czy inwestorzy Zondacrypto mają szanse odzyskać pieniądze? Oto ich nadzieja - Forbes",
+      "title": "Czy inwestorzy Zondacrypto mają szanse odzyskać pieniądze? Oto ich nadzieja - forbes.pl",
       "url": "https://www.forbes.pl/inwestowanie/czy-inwestorzy-zondacrypto-maja-szanse-odzyskac-pieniadze-oto-ich-nadzieja/7emkpj6",
       "date": "2026-09-09T15:44:21Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Czy inwestorzy Zondacrypto mają szanse odzyskać pieniądze? Oto ich nadzieja Forbes."
-    },
-    {
-      "title": "Komunikat EBI ENIMSO EUROPE SA (enimso): Powołanie osoby zarządzającej lub nadzorującej - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/enimso,powolanie-czlonka-zarzadu-2026-09-09,ebi,20260909_173146_0000005063",
-      "date": "2026-09-09T15:31:46Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat EBI ENIMSO EUROPE SA (enimso): Powołanie osoby zarządzającej lub nadzorującej stockwatch.pl."
+      "summary": "Czy inwestorzy Zondacrypto mają szanse odzyskać pieniądze? Oto ich nadzieja forbes.pl."
     },
     {
       "title": "TAURON PE SA Raport okresowy półroczny za PSr - BiznesRadar",
@@ -1932,14 +1924,6 @@
       "summary": "Eksperci ostrzegają przed zimą stulecia dla portfeli. Ceny energii drastycznie rosną Forsal.pl."
     },
     {
-      "title": "MEDICALG [MDG] - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-515161_MEDICALG.aspx",
-      "date": "2026-09-09T15:00:00Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "MEDICALG [MDG] stockwatch.pl."
-    },
-    {
       "title": "Powrót programu „Ceny Paliw Niżej” (CPN). Tańsze paliwa na stacjach w całej Polsce od tego momentu - Forsal.pl",
       "url": "https://forsal.pl/gospodarka/aktualnosci/artykuly/11298369,powrot-programu-ceny-paliw-nizej-cpn-tansze-paliwa-na-stacjach-paliw-w-calej-polsce-od-tego-momentu.html",
       "date": "2026-09-09T14:45:00Z",
@@ -1962,6 +1946,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "473 tys. osób pobiera świadczenia poniżej emerytury minimalnej, dwie osoby w Polsce otrzymują emeryturę w wysokości 2 groszy – ogłosił prezes ZUS Liwiusz Laska w rozmowie z PAP podczas Forum Ekonomicznego w Karpaczu. Jego zdaniem kwestia emerytur groszowych powinna zostać uporządkowana."
+    },
+    {
+      "title": "MEDICALG [MDG] - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-515158_MEDICALG.aspx",
+      "date": "2026-09-09T14:24:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "MEDICALG [MDG] stockwatch.pl."
     },
     {
       "title": "DADELO SA (37/2026) Informacja o transakcjach uzyskana w trybie art. 19 MAR - BiznesRadar",
@@ -1996,6 +1988,14 @@
       "summary": "RPP zakończyła wrześniowe posiedzenie. Wiemy, co dalej ze stopami procentowymi Wioletta Hass śr., 09.09.2026 Kanał Strefa Inwestorów stopy procentowe bank centralny polski nbp poziom stóp procentowych inflacja w Polsce decyzja RPP Rada Polityki Pieniężnej Treść Rada Polityki Pieniężnej zakończyła wrześniowe posiedzenie decyzyjne. Jej decyzja była zgodna z oczekiwaniami rynku.Rada Polityki Pieniężnej postanowiła utrzymać stopy procentowe NBP bez zmian."
     },
     {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://forsal.pl/tagi/boris-johnson;wielka-brytania,109",
+      "date": "2026-09-09T13:37:41Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
       "title": "Chorujesz i nie możesz pracować? Sprawdź, kiedy ZUS może przyznać rentę - Forsal.pl",
       "url": "https://forsal.pl/finanse/twoje-pieniadze/artykuly/10641538,renta-z-tytulu-niezdolnosci-do-pracy-w-2026-roku-kryteria-choroby.html",
       "date": "2026-09-09T13:37:37Z",
@@ -2012,12 +2012,12 @@
       "summary": "Chińskie auta w firmowych flotach? Firmy podjęły decyzję Forsal.pl."
     },
     {
-      "title": "Jak się przygotować do emerytury? Ekspert zdradza swoją kluczową zasadę - Forbes",
+      "title": "Jak się przygotować do emerytury? Ekspert zdradza swoją kluczową zasadę - forbes.pl",
       "url": "https://www.forbes.pl/praca/dawid-iwon-radzi-jak-madrze-inwestowac-na-emeryture-oto-jego-strategie/b8987w7",
       "date": "2026-09-09T13:02:45Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Jak się przygotować do emerytury? Ekspert zdradza swoją kluczową zasadę Forbes."
+      "summary": "Jak się przygotować do emerytury? Ekspert zdradza swoją kluczową zasadę forbes.pl."
     },
     {
       "title": "Tak naprawdę to nie wiem co robię więc proszę nie kopiować :) - stockwatch.pl",
@@ -2034,6 +2034,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Jest zgoda Komisji Europejskiej na przyznanie pomocy publicznej w wysokości 400 mln euro dla producenta insuliny Sanofi. Firma ma w ciągu kilku lat wybudować nowy zakład oraz produkować ponad tonę leku – podaje Rynek Zdrowia."
+    },
+    {
+      "title": "Komunikat EBI SIGMA DEFENCE SA (sigmadef): Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/sigmadef,informacje-o-walnym-zgromadzeniu-informacje-2026-09-09,ebi,20260909_144952_0000005062",
+      "date": "2026-09-09T12:49:52Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI SIGMA DEFENCE SA (sigmadef): Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały stockwatch.pl."
     },
     {
       "title": "Arlen nabył 60 proc. akcji Prabos plus - stockwatch.pl",
@@ -2060,12 +2068,12 @@
       "summary": "JSW SA (63/2026) Zmiana terminu publikacji skonsolidowanego raportu za I półrocze 2026 roku BiznesRadar."
     },
     {
-      "title": "Degrengolada na rynku pracy w Warszawie i Krakowie. \"Lekcja dla menedżerów\" - Forbes",
+      "title": "Degrengolada na rynku pracy w Warszawie i Krakowie. \"Lekcja dla menedżerów\" - forbes.pl",
       "url": "https://www.forbes.pl/praca/degrengolada-na-polskim-rynku-pracy-przyszlosc-polskich-specjalistow-zagrozona/n1me1qn",
       "date": "2026-09-09T12:20:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Degrengolada na rynku pracy w Warszawie i Krakowie. \"Lekcja dla menedżerów\" Forbes."
+      "summary": "Degrengolada na rynku pracy w Warszawie i Krakowie. \"Lekcja dla menedżerów\" forbes.pl."
     },
     {
       "title": "EKO EXPORT SA (11/2026) Zmiana terminu przekazania raportów okresowych. - BiznesRadar",
@@ -2076,20 +2084,12 @@
       "summary": "EKO EXPORT SA (11/2026) Zmiana terminu przekazania raportów okresowych. BiznesRadar."
     },
     {
-      "title": "Co dzieje się z upadłością Idea Banku? Jest kolejny rozdział w sprawie - Forbes",
+      "title": "Co dzieje się z upadłością Idea Banku? Jest kolejny rozdział w sprawie - forbes.pl",
       "url": "https://www.forbes.pl/prawo-i-podatki/co-dzieje-sie-z-upadloscia-idea-banku-trwa-kontrola-ministerstwa-sprawiedliwosci/8kl55r6",
       "date": "2026-09-09T12:02:22Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Co dzieje się z upadłością Idea Banku? Jest kolejny rozdział w sprawie Forbes."
-    },
-    {
-      "title": "Aż 100 kilometrów nowej drogi. To największy w Polsce plac budowy - Forsal.pl",
-      "url": "https://forsal.pl/transport/drogi/artykuly/11297671,az-100-kilometrow-nowej-drogi-najwiekszy-plac-budowy-w-polsce.html",
-      "date": "2026-09-09T11:55:02Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Aż 100 kilometrów nowej drogi. To największy w Polsce plac budowy Forsal.pl."
+      "summary": "Co dzieje się z upadłością Idea Banku? Jest kolejny rozdział w sprawie forbes.pl."
     },
     {
       "title": "Forum giełdowe StockWatch.pl: AGORA - stockwatch.pl",
@@ -2108,12 +2108,12 @@
       "summary": "Polska szykuje kolejny pakiet pomocy wojskowej dla Ukrainy. Jego wartość ma wynieść 50 mln euro, a wśród przekazywanego sprzętu mają znaleźć się środki obrony powietrznej. Informację podał ukraiński resort obrony po spotkaniu grupy Ramstein."
     },
     {
-      "title": "Ciągle się czegoś uczysz, zamiast działać? Tak to rozpoznasz i zmienisz - Forbes",
+      "title": "Ciągle się czegoś uczysz, zamiast działać? Tak to rozpoznasz i zmienisz - forbes.pl",
       "url": "https://www.forbes.pl/opinie/dlaczego-inteligentne-osoby-ciagle-sie-ucza-zamiast-dzialac-tak-to-zmienisz/wwtcdx8",
       "date": "2026-09-09T08:53:40Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Ciągle się czegoś uczysz, zamiast działać? Tak to rozpoznasz i zmienisz Forbes."
+      "summary": "Ciągle się czegoś uczysz, zamiast działać? Tak to rozpoznasz i zmienisz forbes.pl."
     },
     {
       "title": "W ciągu ostatniego roku postrzeganie technologii Genomtec przez rynek uległo wyraźnej poprawie mówi Miron Tokarski. To idealny moment na wejście w komercjalizację dodaje Sanjeev Choudhary",
@@ -2124,12 +2124,12 @@
       "summary": "W ciągu ostatniego roku postrzeganie technologii Genomtec przez rynek uległo wyraźnej poprawie mówi Miron Tokarski. To idealny moment na wejście w komercjalizację dodaje Sanjeev Choudhary Paweł Biedrzycki śr., 09.09.2026 Kanał Strefa Inwestorów Genomtec Genomtec akcje Genomtec ID Miron Tokarski wywiad Sanjeev Choudhary wywiad medtech Genomtec ID komercjlizacja epidemie Treść Postrzeganie technologii Genomtec w ostatnim roku znacząco się poprawiło – wskazuje CEO spółki. Wynika to z kilku czynników rynkowych oraz rosnącej liczby nagłych epidemii wybuchających na świecie."
     },
     {
-      "title": "\"Ojciec, prać?\", „łódka Bols”. Co się stało z kultowymi Frugo, Kamą i Polleną? - Forbes",
+      "title": "\"Ojciec, prać?\", „łódka Bols”. Co się stało z kultowymi Frugo, Kamą i Polleną? - forbes.pl",
       "url": "https://www.forbes.pl/biznes/frugo-kama-pollena-2000-anatomia-upadku-kultowych-marek-z-lat-90/815zqys",
       "date": "2026-09-09T07:55:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "\"Ojciec, prać?\", „łódka Bols”. Co się stało z kultowymi Frugo, Kamą i Polleną? Forbes."
+      "summary": "\"Ojciec, prać?\", „łódka Bols”. Co się stało z kultowymi Frugo, Kamą i Polleną? forbes.pl."
     },
     {
       "title": "Środa z Siłą Relatywną (SzSR): 9 września 2026 r. - rotacja portfela",
@@ -2219,7 +2219,7 @@
       "date": "2026-09-09T15:00:04Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Załamanie się zawieszenia broni między USA a Iranem, rosnące ceny ropy naftowej i eksplozja inwestycji w centra danych utrudniają bankowi centralnemu zadanie. Śledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Od pięciu lat Bank Rezerw próbuje sprowadzić inflację z powrotem do docelowej wartości 2,5%, ale przez lata zasadniczo mu się to nie udało. Rezultatem jest kryzys kosztów życia, który wywołał intensywne skargi społeczności. Kontynuuj czytanie..."
+      "summary": "Załamanie się zawieszenia broni między USA a Iranem, rosnące ceny ropy i eksplozja inwestycji w centra danych utrudniają bankowi centralnemu zadanie. Śledź nasz australijski blog z wiadomościami na żywo, aby uzyskać najnowsze aktualizacje. Otrzymuj najświeższe wiadomości e-mail, bezpłatną aplikację lub codzienny podcast z wiadomościami. Od pięciu lat Bank Rezerw próbuje sprowadzić inflację z powrotem do docelowej wartości 2,5%, ale przez lata zasadniczo mu się to nie udało. Rezultatem jest kryzys kosztów życia, który wywołał intensywne skargi społeczności. Kontynuuj czytanie..."
     },
     {
       "title": "Nepalscy pracownicy pomocy powodziowej odczuwają ból z powodu cięć Trumpa w USAD",
@@ -2412,7 +2412,7 @@
       "lng": 8.7,
       "type": "cyber",
       "region": "Szwajcaria",
-      "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
+      "description": "Armia szwajcarska wbija nóż w amerykańskie aplikacje chmurowe własnym pushem FOSS.",
       "url": "https://www.theregister.com/os-platforms/2026/09/09/switzerland-tests-a-foss-escape-route-from-microsoft-365/5294878"
     },
     {
@@ -2452,7 +2452,7 @@
       "lng": 53.989999999999995,
       "type": "critical",
       "region": "Iran",
-      "description": "Załamanie się zawieszenia broni między USA a Iranem, rosnące ceny ropy naftowej i eksplozja inwestycji w centra danych utrudniają bankowi centralnemu zadanie.",
+      "description": "Załamanie się zawieszenia broni między USA a Iranem, rosnące ceny ropy i eksplozja inwestycji w centra danych utrudniają bankowi centralnemu zadanie.",
       "url": "https://www.theguardian.com/business/2026/sep/10/the-rba-hoped-this-years-three-interest-rate-rises-would-tame-inflation"
     },
     {
@@ -2460,7 +2460,7 @@
       "lng": 33.97,
       "type": "disaster",
       "region": "Strefa Gazy / Izrael",
-      "description": "Minister spraw zagranicznych Wielkiej Brytanii mówi, że społeczność międzynarodowa, w tym USA, podziela „frustrację” w związku z niepowodzeniami Izraela w ograniczaniu nielegalnych osadników Brytyjski wywiad otrzymał od swojego izraelskiego odpowiednika zapewnienia, że ​​wymiana informacji z Wielką Brytanią będzie kontynuowana w dotychczasowy sposób, powiedział sekretarz spraw zagranicznych Ed Miliband.",
+      "description": "Minister spraw zagranicznych Wielkiej Brytanii mówi, że społeczność międzynarodowa, w tym USA, podziela „frustrację” w związku z niepowodzeniami Izraela w ograniczaniu nielegalnych osadników Brytyjski wywiad otrzymał od swojego izraelskiego odpowiednika zapewnienia, że ​​wymiana informacji z Wielką Brytanią będzie kontynuowana w dotychczasowy sposób, powiedział Ed Miliband, sekretarz spraw zagranicznych.",
       "url": "https://www.theguardian.com/politics/2026/sep/09/israel-sanctions-will-not-hurt-intelligence-sharing-between-spy-agencies-says-miliband"
     }
   ],
@@ -2475,7 +2475,7 @@
           "source": "Business Insider Polska"
         },
         {
-          "title": "Giełdy spadają na Wall Street, gdy ceny ropy ponownie przekraczają 100 dolarów za baryłkę po eskalacji wojny w Iranie – apnews.com",
+          "title": "Giełdy spadają na Wall Street, gdy ceny ropy ponownie przekraczają 100 dolarów za baryłkę po eskalacji wojny w Iranie – AP News",
           "url": "https://apnews.com/article/stock-markets-inflation-currencies-fed-rates-d1284eb72934a3b076c14449bc087fbd",
           "source": "Associated Press"
         },
@@ -2720,51 +2720,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25282.14,
+      25284.87,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26428.78,
+      26431.63,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26573.49,
+      26576.36,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      26814.71,
+      26817.6,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27440.78,
+      27443.74,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27476.27,
+      27479.24,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27717.23,
+      27720.22,
       27354.94,
       27400.36,
       27412.11,
-      28112.55,
+      28115.58,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27384.45,
+      27387.4,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27561.43,
+      27564.4,
       27686.17,
       27404.78,
       27351.97,
@@ -2773,7 +2773,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27274.22,
+      27277.16,
       27930.04,
       28234.04,
       28218.36,
@@ -2782,49 +2782,49 @@
       28294.39,
       28203.83,
       28555.17,
-      28095.23,
+      28098.26,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27658.71,
+      27661.69,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27489.18,
+      27492.15,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      27777.5,
+      27780.5,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      28771.15,
+      28774.25,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      28875.44,
+      28878.55,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      28462.32,
+      28465.39,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      28600.99,
+      28604.07,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      28626.36,
-      28459.17,
-      28357.29
+      28629.45,
+      28462.24,
+      28360.24
     ],
     "currency": "PLN"
   }
