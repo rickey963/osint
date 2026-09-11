@@ -6,7 +6,7 @@
     "region": "Ukraina",
     "description": "Minister spraw zagranicznych Radosław Sikorski przybył z niezapowiedzianą wizytą do Kijowa, jej program nie jest jeszcze znany.",
     "url": "https://www.rp.pl/dyplomacja/art45127811-radoslaw-sikorski-z-wizyta-w-kijowie-msz-wyraz-wsparcia-dla-ukrainy",
-    "last_seen": "2026-09-11T08:56:03Z"
+    "last_seen": "2026-09-11T09:05:34Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
@@ -22,9 +22,9 @@
     "lng": 53.69,
     "type": "conflict",
     "region": "Iran",
-    "description": "Wspierana przez Iran milicja rozgromiła siły rządu jemeńskiego w Mokha, zapewniając grupie silniejszą pozycję do atakowania statków na szlaku wodnym kluczowym dla światowego handlu.",
-    "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
-    "last_seen": "2026-09-11T07:47:54Z"
+    "description": "Wspierani przez Iran rebelianci Huti dotarli do miasta Zubab, położonego na brzegu cieśniny Bab al-Mandeb, naprzeciwko wyspy Perim - informuje Reuters.",
+    "url": "https://www.rp.pl/konflikty-zbrojne/art45128251-ciesnina-bab-el-mandeb-w-zasiegu-huti-rebelianci-dotarli-do-strategicznego-miasta",
+    "last_seen": "2026-09-11T09:05:34Z"
   },
   "cyber|Polska": {
     "lat": 52.5,
@@ -33,7 +33,7 @@
     "region": "Polska",
     "description": "Wzrost kompetencji cyfrowych, kilkaset tysięcy nowych urządzeń dla szkół i setki milionów złotych na cyberbezpieczeństwo – tak Ministerstwo Cyfryzacji podsumowuje 1000 dni działania.",
     "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/1000-dni-ministerstwa-cyfryzacji-kreslimy-wizje-cyfrowej-polski",
-    "last_seen": "2026-09-11T08:56:03Z"
+    "last_seen": "2026-09-11T09:05:34Z"
   },
   "cyber|Stany Zjednoczone": {
     "lat": 40.3,
@@ -42,7 +42,7 @@
     "region": "Stany Zjednoczone",
     "description": "37-letni mężczyzna z Ohio usłyszał wyrok 15 lat więzienia za m.in.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/prywatnosc/usa-15-lat-wiezienia-za-cyberstalking-i-przestepstwa-z-uzyciem-deepfakeow",
-    "last_seen": "2026-09-11T08:56:03Z"
+    "last_seen": "2026-09-11T09:05:34Z"
   },
   "cyber|Wielka Brytania": {
     "lat": 55.5,
@@ -69,16 +69,7 @@
     "region": "Francja",
     "description": "Niemiecka armia chce wykorzystywać AI do podejmowania decyzji na polu walki.",
     "url": "https://cyberdefence24.pl/technologie/bundeswehra-chce-wdrozyc-ai-nie-dla-palantira",
-    "last_seen": "2026-09-11T08:56:03Z"
-  },
-  "disaster|Nepal": {
-    "lat": 27.89,
-    "lng": 83.62,
-    "type": "disaster",
-    "region": "Nepal",
-    "description": "Error 500 (Server Error)!!1500.That’s an error.There was an error.",
-    "url": "https://www.nytimes.com/2026/09/09/world/asia/nepal-floods-usaid-trump-relief.html",
-    "last_seen": "2026-09-10T09:01:27Z"
+    "last_seen": "2026-09-11T09:05:34Z"
   },
   "conflict|Liban": {
     "lat": 33.89,
@@ -98,41 +89,14 @@
     "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33015998,kim-dzong-un-nie-ma-syna-wladze-przejmie-corka-najnowsze-doniesienia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
     "last_seen": "2026-09-10T17:20:04Z"
   },
-  "disaster|Stany Zjednoczone": {
-    "lat": 39.3,
-    "lng": -99.1,
-    "type": "disaster",
-    "region": "Stany Zjednoczone",
-    "description": "Agencja odegrała ważną rolę w reagowaniu na wcześniejsze katastrofy, takie jak trzęsienie ziemi w 2015 r.",
-    "url": "https://www.nytimes.com/2026/09/09/world/asia/nepal-floods-usaid-trump-relief.html",
-    "last_seen": "2026-09-10T09:04:39Z"
-  },
   "conflict|Jemen": {
     "lat": 15.55,
     "lng": 48.52,
     "type": "conflict",
     "region": "Jemen",
-    "description": "Saudyjski następca tronu Mohamed bin Salman dwukrotnie dzwonił w czwartek do prezydenta USA, prosząc o przeprowadzenie uderzeń na Hutich – podał Axios.",
-    "url": "https://www.rp.pl/konflikty-zbrojne/art45127471-nieoficjalnie-arabia-saudyjska-prosila-donalda-trumpa-o-atak-na-hutich-prezydent-usa-odmowil",
-    "last_seen": "2026-09-11T07:57:25Z"
-  },
-  "critical|Stany Zjednoczone": {
-    "lat": 39.5,
-    "lng": -98.3,
-    "type": "critical",
-    "region": "Stany Zjednoczone",
-    "description": "Agencja odegrała ważną rolę w reagowaniu na wcześniejsze katastrofy, takie jak trzęsienie ziemi w 2015 r.",
-    "url": "https://www.nytimes.com/2026/09/09/world/asia/nepal-floods-usaid-trump-relief.html",
-    "last_seen": "2026-09-10T09:04:39Z"
-  },
-  "conflict|Syria": {
-    "lat": 34.8,
-    "lng": 38.99,
-    "type": "conflict",
-    "region": "Syria",
-    "description": "Służby stwierdziły, że nie ustaliły przyczyny eksplozji.",
-    "url": "https://www.nytimes.com/2026/09/09/world/middleeast/syria-weapons-depot-blast.html",
-    "last_seen": "2026-09-10T09:04:39Z"
+    "description": "Wspierani przez Iran rebelianci Huti dotarli do miasta Zubab, położonego na brzegu cieśniny Bab al-Mandeb, naprzeciwko wyspy Perim - informuje Reuters.",
+    "url": "https://www.rp.pl/konflikty-zbrojne/art45128251-ciesnina-bab-el-mandeb-w-zasiegu-huti-rebelianci-dotarli-do-strategicznego-miasta",
+    "last_seen": "2026-09-11T09:05:34Z"
   },
   "cyber|Hiszpania": {
     "lat": 41.0,
@@ -141,7 +105,7 @@
     "region": "Hiszpania",
     "description": "Miliony wiadomości, tysiące e-maili i zdjęć – hiszpański wywiad potwierdził, że za pośrednictwem Pegasusa inwigilowano premiera Pedro Sancheza.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/prywatnosc/marokanczycy-inwigilowali-premiera-hiszpanii-przechwycili-miliony-plikow",
-    "last_seen": "2026-09-11T08:56:03Z"
+    "last_seen": "2026-09-11T09:05:34Z"
   },
   "cyber|Chiny": {
     "lat": 35.5,
@@ -186,7 +150,7 @@
     "region": "Australia",
     "description": "Australia po raz kolejny chce przesunąć granicę odpowiedzialności firm technologicznych za bezpieczeństwo w sieci.",
     "url": "https://cyberdefence24.pl/polityka-i-prawo/nie-tylko-dzieci-australia-szykuje-nowe-zasady-bezpieczenstwa-w-sieci",
-    "last_seen": "2026-09-11T08:56:03Z"
+    "last_seen": "2026-09-11T09:05:34Z"
   },
   "cyber|Niemcy": {
     "lat": 51.7,
