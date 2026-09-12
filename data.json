@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T12:06:27Z",
+  "last_updated": "2026-09-12T12:06:54Z",
   "poland": [
     {
       "title": "Eksperci NATO ostrzegają Europę. Były szef MSZ Ukrainy: W razie ataku rakiety skończą się po tygodniu",
@@ -420,7 +420,7 @@
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Zjednoczona Irlandia byłaby „fantastyczna” – stwierdził Trump podczas irlandzkiej wizyty",
       "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-12T11:27:44Z",
       "source": "BBC News",
@@ -441,7 +441,7 @@
       "date": "2026-09-12T11:00:34Z",
       "source": "BBC News",
       "confirmed_by": 2,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Irak usuwa dowódcę wojskowego i wszczyna dochodzenie w sprawie ataku, który nastąpił z obszaru graniczącego z Iranem."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -457,7 +457,7 @@
       "date": "2026-09-12T10:19:56Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Trump twierdzi, że Iran prawdopodobnie jest odpowiedzialny za atak na saudyjski rurociąg Reuters."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -569,7 +569,7 @@
       "date": "2026-09-12T04:00:23Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "summary": "Wielu obawia się, że kanclerz nie jest odpowiednią osobą na to stanowisko w czasie, gdy niemiecka obrona przed skrajną prawicą kruszy się. Kataklizm. Trzęsienie ziemi o magnitudzie 9,0. Pożar z pięcioma alarmami."
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -2236,6 +2236,14 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Silny wstrząs u wybrzeży Indonezji. Trzęsienie ziemi miało magnitudę 6,6 Polskie Radio 24."
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future",
+      "date": "2026-09-12T04:00:23Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Wielu obawia się, że kanclerz nie jest odpowiednią osobą na to stanowisko w czasie, gdy niemiecka obrona przed skrajną prawicą kruszy się. Kataklizm. Trzęsienie ziemi o magnitudzie 9,0. Pożar z pięcioma alarmami."
     }
   ],
   "map_features": [
@@ -2490,29 +2498,8 @@
   ],
   "instability": [
     {
-      "name": "Ukraina",
-      "score": 100,
-      "reasons": [
-        {
-          "title": "Eksperci NATO ostrzegają Europę. Były szef MSZ Ukrainy: W razie ataku rakiety skończą się po tygodniu",
-          "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33019792,eksperci-nato-ostrzegaja-europe-byly-szef-msz-ukrainy-w-razie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-          "source": "Gazeta Wyborcza"
-        },
-        {
-          "title": "Przełom na szczycie G20 w Miami? Zełenski gotów na spotkanie z Putinem",
-          "url": "https://www.rp.pl/konflikty-zbrojne/art45130851-przelom-na-szczycie-g20-w-miami-zelenski-gotow-na-spotkanie-z-putinem",
-          "source": "Rzeczpospolita"
-        },
-        {
-          "title": "Putin ostrzega europejskich przywódców: Rozmieszczenie wojsk w Ukrainie oznacza wojnę",
-          "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33019519,putin-ostrzega-europejskich-przywodcow-rozmieszczenie-wojsk.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-          "source": "Gazeta Wyborcza"
-        }
-      ]
-    },
-    {
       "name": "Iran",
-      "score": 73,
+      "score": 100,
       "reasons": [
         {
           "title": "Pekin grozi odwołaniem spotkania Xi-Trump. Powodem broń z USA dla Tajwanu",
@@ -2532,8 +2519,29 @@
       ]
     },
     {
+      "name": "Ukraina",
+      "score": 92,
+      "reasons": [
+        {
+          "title": "Eksperci NATO ostrzegają Europę. Były szef MSZ Ukrainy: W razie ataku rakiety skończą się po tygodniu",
+          "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33019792,eksperci-nato-ostrzegaja-europe-byly-szef-msz-ukrainy-w-razie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+          "source": "Gazeta Wyborcza"
+        },
+        {
+          "title": "Przełom na szczycie G20 w Miami? Zełenski gotów na spotkanie z Putinem",
+          "url": "https://www.rp.pl/konflikty-zbrojne/art45130851-przelom-na-szczycie-g20-w-miami-zelenski-gotow-na-spotkanie-z-putinem",
+          "source": "Rzeczpospolita"
+        },
+        {
+          "title": "Putin ostrzega europejskich przywódców: Rozmieszczenie wojsk w Ukrainie oznacza wojnę",
+          "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33019519,putin-ostrzega-europejskich-przywodcow-rozmieszczenie-wojsk.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+          "source": "Gazeta Wyborcza"
+        }
+      ]
+    },
+    {
       "name": "Tajwan",
-      "score": 27,
+      "score": 25,
       "reasons": [
         {
           "title": "Pekin grozi odwołaniem spotkania Xi-Trump. Powodem broń z USA dla Tajwanu",
@@ -2544,7 +2552,7 @@
     },
     {
       "name": "Jemen",
-      "score": 27,
+      "score": 25,
       "reasons": [
         {
           "title": "To coś więcej niż lokalna wojna. Trump ma właśnie nowy problem",
