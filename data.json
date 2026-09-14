@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-14T12:48:18Z",
+  "last_updated": "2026-09-14T12:48:59Z",
   "poland": [
+    {
+      "title": "Trump Jr. i rosyjski oligarcha. Ujawniono kulisy wystawnego ślubu na Bahamach",
+      "url": "https://www.rp.pl/polityka/art45137281-trump-jr-i-rosyjski-oligarcha-ujawniono-kulisy-wystawnego-slubu-na-bahamach",
+      "date": "2026-09-14T12:46:54Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Ślub Donalda Trumpa Jr. na Bahamach miał być kameralną uroczystością w gronie najbliższych. Według ustaleń ProPublica setki tysięcy dolarów wydatków pokrył jednak Umar Kremlow, rosyjski oligarcha związany z Władimirem Putinem."
+    },
     {
       "title": "\"Wypełniają zadania\". Rzecznik Kremla komentuje ataki przy polskiej granicy",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33022572,wypelniaja-zadania-rzecznik-kremla-komentuje-ataki-przy-polskiej.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -88,14 +96,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Współczesny człowiek jest już w połowie cyfrowy, w połowie analogowy. Świata cyfrowego jest w nas coraz więcej – mówi w studio „Rzeczpospolitej” Paweł Orłowski, rzeźbiarz. Temat sztucznej inteligencji i nowych technologii przebija się do sztuki, bo sztuka inspirowana jest życiem."
-    },
-    {
-      "title": "Podwyżka stóp procentowych w Polsce przestaje być tematem tabu. Nowe głosy z RPP",
-      "url": "https://www.rp.pl/dane-gospodarcze/art45136551-podwyzka-stop-procentowych-w-polsce-przestaje-byc-tematem-tabu-nowe-glosy-z-rpp",
-      "date": "2026-09-14T11:59:37Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Kolejni członkowie Rady Polityki Pieniężnej nie ukrywają: na horyzoncie zaczyna majaczyć ryzyko podwyżki stóp procentowych – choć raczej nie pilnie. Wciąż najbardziej prawdopodobny jest dłuższy okres stóp bez zmian."
     },
     {
       "title": "Zostawili psa przywiązanego do łóżka. \"Przeżył prawdziwy koszmar\". Prokuratura postawiła zarzuty",
@@ -484,6 +484,14 @@
       "summary": "Sweden's centre-left ahead as far-right stumbles in tight election Reuters."
     },
     {
+      "title": "Drone strike on train is calculated escalation by Putin, German minister says - Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/drone-strike-train-is-calculated-escalation-by-putin-german-minister-says-2026-09-14/",
+      "date": "2026-09-14T11:31:44Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Drone strike on train is calculated escalation by Putin, German minister says Reuters."
+    },
+    {
       "title": "China criticises idea it is in 'malicious competition' over AI",
       "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-14T11:31:39Z",
@@ -602,14 +610,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "AI warnings knock Nasdaq futures, pressure tech stocks Reuters."
-    },
-    {
-      "title": "Italy's Catania airport shuts again as Etna ash halts flights - Reuters",
-      "url": "https://www.reuters.com/business/environment/italys-catania-airport-shuts-again-etna-ash-halts-flights-2026-09-14/",
-      "date": "2026-09-14T09:21:43Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Italy's Catania airport shuts again as Etna ash halts flights Reuters."
     },
     {
       "title": "Queen’s secret Whitlam correspondence inspires Sydney Theatre Company play in 2027",
@@ -782,14 +782,6 @@
       "summary": "As global temperature increase shoots past 1.5 degrees Celsius, the vulnerable countries that fought for that Paris Agreement target face a brutal new reality."
     },
     {
-      "title": "New warnings about the risks of AI to humanity revive a long-running debate - AP News",
-      "url": "https://apnews.com/article/artificial-intelligence-threats-humanity-anthropic-openai-98316b0d64de17191f33c0fbf1d37858",
-      "date": "2026-09-14T12:22:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "New warnings about the risks of AI to humanity revive a long-running debate AP News."
-    },
-    {
       "title": "France Mocked U.S. for Human Rights Vote, Then Quietly Apologized",
       "url": "https://www.nytimes.com/2026/09/14/world/europe/france-ambassador-trump-tweet.html",
       "date": "2026-09-14T12:14:51Z",
@@ -942,6 +934,14 @@
       "summary": "Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia AP News."
     },
     {
+      "title": "New warnings about the risks of AI to humanity revive a long-running debate - AP News",
+      "url": "https://apnews.com/article/artificial-intelligence-threats-humanity-anthropic-openai-98316b0d64de17191f33c0fbf1d37858",
+      "date": "2026-09-14T04:17:17Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "New warnings about the risks of AI to humanity revive a long-running debate AP News."
+    },
+    {
       "title": "North Korea says its recent live-fire drill demonstrated ‘huge destructive power’ - AP News",
       "url": "https://apnews.com/article/north-korea-missiles-drill-kim-trump-eb8f47113269a034aff1463c8f487b23",
       "date": "2026-09-14T03:54:00Z",
@@ -1007,6 +1007,14 @@
     }
   ],
   "technology": [
+    {
+      "title": "Nawet Microsoft mówi dziś: zwolnijmy z AI. Panikuje, bo przegrywa?",
+      "url": "https://spidersweb.pl/2026/09/microsoft-nadella-spowolnienie-ai.html",
+      "date": "2026-09-14T12:48:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Nawet Microsoft mówi dziś: zwolnijmy z AI. Panikuje, bo przegrywa?"
+    },
     {
       "title": "President Trump expresses support for Flock \"because of law enforcement\", while acknowledging some people consider the surveillance technology \"an infringement\" (Aoife Walsh/Washington Post)",
       "url": "https://www.techmeme.com/260914/p13#a260914p13",
@@ -1254,14 +1262,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Obcy mogą być ukryci w księżycowym pyle. To nie żart."
-    },
-    {
-      "title": "Sources: Australian data center provider Firmus is seeking to raise up to $5B in an IPO at the end of October, in one of the largest-ever IPOs in Australia (Julia Fioretti/Bloomberg)",
-      "url": "https://www.techmeme.com/260914/p6#a260914p6",
-      "date": "2026-09-14T09:40:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Julia Fioretti / Bloomberg: Sources: Australian data center provider Firmus is seeking to raise up to $5B in an IPO at the end of October, in one of the largest-ever IPOs in Australia &mdash; Firmus Technologies Pty is looking to raise as much as $5 billion in an initial public offering in Australia, according to people familiar with the matter."
     },
     {
       "title": "Wojna wydawców ze sztuczną inteligencją. Polska branża mówi pas i grozi pozwami",
@@ -2084,12 +2084,12 @@
       "summary": "21% Rocznie 434 EXTRA | Podcast | Jak inwestować - MCI, Grupa BEST, WP Holding, Atende, WB Group, Unimot Paweł Biedrzycki ndz., 13.09.2026 Kanał Strefa Inwestorów Kanał Strefa Inwestorów Podcast Podcast Extra Treść Zapraszamy do wysłuchania podcastu 21% Rocznie EXTRA, odcinek 434: MCI, Grupa BEST, WP Holding, Atende, WB Group, Unimot Lista omówionych spółek w podcaście:00:50 MCI03:45 Grupa BEST08:42 WP Holding13:00 Atende16:11 WB Group19:35 Unimot Pobierz 434 odcinek podcastu w wersji mp3Konferencja Kapitał na Zdrowie (17 września, Warszawa)Już 17 września odbędzie się III edycja konferencji inwestorskiej poświęconej sektorowi life science, biotechnologii i medtech – Kapitał na Zdrowie, której Strefa Inwestorów jest patronem medialnym.Uczestnicy i prezentowane spółki: Mabion, NanoGroup, Bioton, Multiqure, Captor Therapeutics, Medinice, Medicalgorithmics, Genomtec, MedTech Solutions, Proacta, Diagnostyka, MCI Capital, GPW, Ipopema Securities, Dom Maklerski INC. Partnerzy strategiczni: Biofund Capital Management, Dom Maklerski INC, Ipopema Securities.Wydarzenie specjalne: Debata wieczoru Inside the Investor's Mind z Mariuszem Książkiem (CEO Książek Holding, inwestor m.in. w Synektik i Syn2Bio).Darmowe wejściówki dla członków Strefy InwestorówLiczba miejsc jest mocno ograniczona, ale mamy dla Was pulę 15 gwarantowanych wejściówek (kto pierwszy, ten lepszy).Wejdź na stronę: https://kapitalnazdrowie.pl/W formularzu rejestracyjnym w polu FIRMA wpisz kod: STREFA26 Zawarte w materiale dane, opracowania, informacje, analizy zostały przygotowane wyłącznie w celach informacyjnych, są tylko i wyłącznie subiektywnymi opiniami autorów i nie są rekomendacjami zawarcia transakcji w rozumieniu § 3 Rozporządzenia Ministra Finansów z dnia 19 października 2005 r."
     },
     {
-      "title": "Analiza techniczna FW20 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/FW20",
-      "date": "2026-09-11T15:04:52Z",
+      "title": "Wiadomości PEO (PEKAO) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wiadomosci/PEKAO",
+      "date": "2026-09-11T15:04:37Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna FW20 BiznesRadar."
+      "summary": "Wiadomości PEO (PEKAO) BiznesRadar."
     },
     {
       "title": "Notowania CRQ (CRQUANTUM) - BiznesRadar",
@@ -2116,20 +2116,20 @@
       "summary": "Notowania WLT (WIELTON) BiznesRadar."
     },
     {
-      "title": "Notowania MQR (MULTIQURE) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/MQR",
-      "date": "2026-09-11T15:02:57Z",
+      "title": "Wiadomości KRAKCHEMIA SA (KCH) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wiadomosci/KRAKCHEMIA",
+      "date": "2026-09-11T15:03:06Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania MQR (MULTIQURE) BiznesRadar."
+      "summary": "Wiadomości KRAKCHEMIA SA (KCH) BiznesRadar."
     },
     {
-      "title": "Rating PXM (POLIMEXMS) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/rating/POLIMEX",
-      "date": "2026-09-11T15:02:39Z",
+      "title": "Wycena KRUK SA (KRU) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/wycena/KRUK",
+      "date": "2026-09-11T15:02:59Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Rating PXM (POLIMEXMS) BiznesRadar."
+      "summary": "Wycena KRUK SA (KRU) BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2428,8 +2428,8 @@
       "2026-09-11"
     ],
     "prices": [
-      25116.08,
-      24963.89,
+      25119.41,
+      24967.21,
       24998.47,
       24879.75,
       24443.75,
@@ -2448,51 +2448,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25659.12,
+      25662.52,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26822.85,
+      26826.41,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26969.72,
+      26973.3,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27214.53,
+      27218.15,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27849.94,
+      27853.64,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27885.96,
+      27889.67,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28130.52,
+      28134.25,
       27354.94,
       27400.36,
       27412.11,
-      28531.73,
+      28535.51,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27792.77,
+      27796.46,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27972.39,
+      27976.1,
       27686.17,
       27404.78,
       27351.97,
@@ -2501,7 +2501,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27680.9,
+      27684.58,
       27930.04,
       28234.04,
       28218.36,
@@ -2510,51 +2510,51 @@
       28294.39,
       28203.83,
       28555.17,
-      28514.15,
+      28517.93,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28071.12,
+      28074.85,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27899.06,
+      27902.77,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28191.68,
+      28195.43,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29200.15,
+      29204.02,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29305.99,
+      29309.88,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      28886.71,
+      28890.55,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29027.45,
+      29031.3,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29053.2,
+      29057.06,
       28449.73,
       28313.03,
       28272.33,
-      28821.26
+      28825.08
     ],
     "currency": "PLN"
   }
