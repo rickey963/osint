@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-14T14:29:56Z",
+  "last_updated": "2026-09-14T14:30:38Z",
   "poland": [
+    {
+      "title": "Inwestor znany z \"The Big Short\" stawia teraz na wino, obawiając się skutków rozwoju AI",
+      "url": "https://businessinsider.com.pl/poradnik-finansowy/inwestowanie/inwestor-z-big-short-zdradza-nowa-strategie-luksusowe-wina-zamiast-dolara/l1pgwn4",
+      "date": "2026-09-14T14:28:59Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "We wpisie na platformie Substack Michael Burry argumentował na rzecz inwestowania w wina klasy premium. Inwestor znany z \"Big Short\" stwierdził, że stanowią one \"znakomity element dywersyfikujący\" portfel inwestycyjny. Burry wskazał, że na inwestycje w takie wina mogą korzystnie wpłynąć osłabienie dolara, ucieczka od walut fiducjarnych oraz skutki rozwoju sztucznej inteligencji."
+    },
     {
       "title": "Szef BBN: NATO powinno odpowiedzieć na ataki Rosji",
       "url": "https://www.rp.pl/polityka/art45137381-szef-bbn-nato-powinno-odpowiedziec-na-ataki-rosji",
@@ -352,14 +360,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "iPhone 18 - wszystko, co powinieneś wiedzieć o najnowszym smartfonie od Apple Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "Karpacz 26: suwerenność technologiczna Polski zaczyna się od własnych kompetencji w mikroelektronice - Polska Agencja Prasowa SA",
-      "url": "https://www.pap.pl/mediaroom/karpacz-26-suwerennosc-technologiczna-polski-zaczyna-sie-od-wlasnych-kompetencji-w",
-      "date": "2026-09-14T07:35:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Karpacz 26: suwerenność technologiczna Polski zaczyna się od własnych kompetencji w mikroelektronice Polska Agencja Prasowa SA."
     },
     {
       "title": "Polityczna zmiana po wyborach w Szwecji? Są wyniki exit poll - Polskie Radio 24",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Perfect-10 GitLab bug under attack days after patch lands",
+      "url": "https://www.theregister.com/security/2026/09/14/perfect-10-gitlab-bug-under-attack-days-after-patch-lands/5296176",
+      "date": "2026-09-14T14:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "CISA confirms active exploitation as watchTowr spots miscreants probing internet-facing servers."
+    },
+    {
       "title": "Piszesz do szkoły, mail trafia do cyberprzestępcy. Incydent w liceum",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/wycieki-danych/piszesz-do-szkoly-mail-trafia-do-cyberprzestepcy-incydent-w-liceum",
       "date": "2026-09-14T14:00:28Z",
@@ -1610,14 +1618,6 @@
       "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant, involved sending over a million scam emails between August 3 and 5, 2026, by masquerading as chief executive officers."
     },
     {
-      "title": "How to make Xfce look like almost any desktop you want",
-      "url": "https://www.theregister.com/software/2026/09/13/how-to-make-xfce-look-like-almost-any-desktop-you-want/5295775",
-      "date": "2026-09-13T09:09:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Panel Profiles handles the heavy lifting, once you've installed the plugins it expects."
-    },
-    {
       "title": "SZBI, ciągłość działania i zarządzanie kryzysowe. Dlaczego podmiot krytyczny powinien połączyć te obszary?",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/szbi-ciaglosc-dzialania-i-zarzadzanie-kryzysowe-dlaczego-podmiot-krytyczny-powinien-polaczyc-te-obszary",
       "date": "2026-09-13T08:34:06Z",
@@ -1704,14 +1704,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Czy PAP może stać się ważnym narzędziem w walce z rosyjską dezinformacją? Podczas Forum Ekonomicznego w Karpaczu padła konkretna propozycja zmian w państwowej agencji. Pomysł ekspertów nie pozostał bez odpowiedzi."
-    },
-    {
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "date": "2026-09-11T14:29:47Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company has branded Generative Threat Groups (GTGs), span state-sponsored groups, financially motivated criminals, commercial."
     }
   ],
   "finance": [
@@ -1738,14 +1730,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Gdy awansuje \"głośny\" i \"widoczny\", a nie ty. Czym jest pułapka kompetencji? Forbes."
-    },
-    {
-      "title": "KDPW: - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/rachunki-maklerskie-polska-3-miliony-rekord-kdpw-2026,akcje,380555",
-      "date": "2026-09-14T13:22:21Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "KDPW: stockwatch.pl."
     },
     {
       "title": "To badanie od 1 października zrobisz na NFZ. Trzeba spełnić dwa kryteria - Forsal.pl",
@@ -1964,6 +1948,14 @@
       "summary": "Koniec z sytuacją, w której jeden współwłaściciel odpowiada za cały podatek od wspólnej nieruchomości. Ministerstwo Finansów chce zmienić zasady i wprowadzić rozliczanie podatku od nieruchomości według udziałów. Projekt ma też uprościć formalności przy zakupie mieszkań."
     },
     {
+      "title": "ZUE podpisało kontrakt na modernizację linii kolejowej nr 8 za 960 mln zł - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/zue-umowa-modernizacja-linia-kolejowa-nr-8-pkp-plk,akcje,380470",
+      "date": "2026-09-14T08:01:03Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "ZUE podpisało kontrakt na modernizację linii kolejowej nr 8 za 960 mln zł stockwatch.pl."
+    },
+    {
       "title": "ZUS pokazał rekordzistę. Oto ile dostaje emerytury co miesiąc",
       "url": "https://www.money.pl/finanse/zus-pokazal-rekordziste-oto-ile-dostaje-emerytury-co-miesiac-7329260534876256a.html",
       "date": "2026-09-14T07:36:25Z",
@@ -2068,6 +2060,14 @@
       "summary": "Allegro, LPP, UNIMOT, PGE - kalendarium publikacji raportów półrocznych na GPW Piotr Kwestarz ndz., 13.09.2026 Kanał Strefa Inwestorów Treść W nadchodzącym tygodniu na GPW opublikowanych zostanie łącznie 46 raportów półrocznych. Tym razem mamy prawdziwy przekrój przez szereg branż, ze szczególnym naciskiem na sektor biotechnologiczno-farmaceutyczny oraz deweloperski. Wśród blue chipów uwagę przyciągną PGE, Allegro oraz LPP, natomiast z mWIG40 warto śledzić GPW, Murapol, Auto Partner i Newag.Tydzień otworzy poniedziałek, 14 września, gdy raport półroczny opublikuje GPW #GPW z mWIG40, czyli operator warszawskiej giełdy."
     },
     {
+      "title": "Analiza techniczna FW20 - BiznesRadar",
+      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/FW20",
+      "date": "2026-09-11T15:04:52Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Analiza techniczna FW20 BiznesRadar."
+    },
+    {
       "title": "Wiadomości PEO (PEKAO) - BiznesRadar",
       "url": "https://www.biznesradar.pl/wiadomosci/PEKAO",
       "date": "2026-09-11T15:04:37Z",
@@ -2106,14 +2106,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania WLT (WIELTON) BiznesRadar."
-    },
-    {
-      "title": "Wiadomości KRAKCHEMIA SA (KCH) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/KRAKCHEMIA",
-      "date": "2026-09-11T15:03:06Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości KRAKCHEMIA SA (KCH) BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2429,51 +2421,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25690.75,
+      25688.16,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26855.91,
+      26853.2,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27002.97,
+      27000.24,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27248.08,
+      27245.33,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27884.27,
+      27881.46,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27920.34,
+      27917.53,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28165.19,
+      28162.35,
       27354.94,
       27400.36,
       27412.11,
-      28566.9,
+      28564.02,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27827.03,
+      27824.22,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28006.87,
+      28004.05,
       27686.17,
       27404.78,
       27351.97,
@@ -2482,7 +2474,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27715.02,
+      27712.23,
       27930.04,
       28234.04,
       28218.36,
@@ -2491,52 +2483,52 @@
       28294.39,
       28203.83,
       28555.17,
-      28549.3,
+      28546.42,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28105.72,
+      28102.89,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27933.46,
+      27930.64,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28226.43,
+      28223.59,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29236.14,
+      29233.19,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29342.12,
+      29339.16,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      28922.32,
+      28919.41,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29063.23,
+      29060.3,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29089.01,
+      29086.08,
       28449.73,
       28313.03,
       28272.33,
-      28856.78,
-      28637.37
+      28853.87,
+      28646.28
     ],
     "currency": "PLN"
   }
