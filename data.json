@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-14T12:02:19Z",
+  "last_updated": "2026-09-14T12:03:14Z",
   "poland": [
+    {
+      "title": "Podwyżka stóp procentowych w Polsce przestaje być tematem tabu. Nowe głosy z RPP",
+      "url": "https://www.rp.pl/dane-gospodarcze/art45136551-podwyzka-stop-procentowych-w-polsce-przestaje-byc-tematem-tabu-nowe-glosy-z-rpp",
+      "date": "2026-09-14T11:59:37Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Kolejni członkowie Rady Polityki Pieniężnej nie ukrywają: na horyzoncie zaczyna majaczyć ryzyko podwyżki stóp procentowych – choć raczej nie pilnie. Wciąż najbardziej prawdopodobny jest dłuższy okres stóp bez zmian."
+    },
     {
       "title": "Resort zdrowia: dostępne są trzy szczepionki przeciw grypie",
       "url": "https://www.rp.pl/choroby/art45137161-resort-zdrowia-dostepne-sa-trzy-szczepionki-przeciw-grypie",
@@ -72,14 +80,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "30. Jubileuszowa edycja Ogólnopolskiego Otwartego Konkursu „Modernizacja Roku & Budowa XXI w.” przeszła do historii. 10 września na Zamku Królewskim w Warszawie, podczas Uroczystej Gali, ogłoszono zwycięzców konkursu, który od 1996 roku wyróżnia najlepsze inwestycje budowlane i modernizacje w Polsce."
-    },
-    {
-      "title": "Adrian Siemieniec przeprasza i pisze o hejcie. „Granica została przekroczona”",
-      "url": "https://sport.rp.pl/pilka-nozna/art45136841-adrian-siemieniec-przeprasza-i-pisze-o-hejcie-granica-zostala-przekroczona",
-      "date": "2026-09-14T11:21:52Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Adrian Siemieniec w mediach społecznościowych przeprosił za „brak rozwagi i odpowiedzialności”. Trener Jagiellonii Białystok, którego wiadomości do sędziego zostały ujawnione kilka dni temu, jednocześnie podkreśla, że nie zasługuje na „hejt i publiczny lincz”."
     },
     {
       "title": "Zostawili psa przywiązanego do łóżka. \"Przeżył prawdziwy koszmar\". Prokuratura postawiła zarzuty",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Modi Served World Leaders a Meatless Meal, and His Critics Pounced",
+      "url": "https://www.nytimes.com/2026/09/14/world/asia/india-brics-vegetarian-dinner.html",
+      "date": "2026-09-14T11:53:13Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Opposition politicians said a vegetarian dinner served at a diplomatic summit misrepresented India’s culinary heritage. A minister in Prime Minister Narendra Modi’s government rejected the criticism."
+    },
+    {
       "title": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
       "url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
       "date": "2026-09-14T11:14:20Z",
@@ -812,14 +820,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Yemen's Houthi rebels seize more key islands in southern Red Sea, tighten grip on shipping routes AP News."
-    },
-    {
-      "title": "New warnings about the risks of AI to humanity revive a long-running debate - AP News",
-      "url": "https://apnews.com/article/artificial-intelligence-threats-humanity-anthropic-openai-98316b0d64de17191f33c0fbf1d37858",
-      "date": "2026-09-14T09:39:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "New warnings about the risks of AI to humanity revive a long-running debate AP News."
     },
     {
       "title": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
@@ -894,12 +894,28 @@
       "summary": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, citing a global shortage AP News."
     },
     {
+      "title": "Swedish election ends in tight finale. Preliminary results give opposition a 3-seat majority - AP News",
+      "url": "https://apnews.com/article/sweden-election-populists-riksdag-parliament-d7108eb1da493f7646b30c6f7a3421af",
+      "date": "2026-09-14T05:58:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Swedish election ends in tight finale. Preliminary results give opposition a 3-seat majority AP News."
+    },
+    {
       "title": "Trump’s Supercharged Social Media",
       "url": "https://www.nytimes.com/2026/09/13/world/trump-ai-social-media-celine-dion.html",
       "date": "2026-09-14T04:30:01Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "The president’s A.I. post barrages, far more intense than during his first term, are redefining the presidency and driving a debate over his state of mind."
+    },
+    {
+      "title": "New warnings about the risks of AI to humanity revive a long-running debate - AP News",
+      "url": "https://apnews.com/article/artificial-intelligence-threats-humanity-anthropic-openai-98316b0d64de17191f33c0fbf1d37858",
+      "date": "2026-09-14T04:17:17Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "New warnings about the risks of AI to humanity revive a long-running debate AP News."
     },
     {
       "title": "North Korea says its recent live-fire drill demonstrated ‘huge destructive power’ - AP News",
@@ -940,14 +956,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Indonesia continues search for at least 129 missing after ferry capsizes, 6 bodies recovered AP News."
-    },
-    {
-      "title": "Why Carney Isn’t Rushing Back to the Negotiating Table",
-      "url": "https://www.nytimes.com/2026/09/12/world/canada/us-canada-trade-war-carney-trump.html",
-      "date": "2026-09-14T01:54:31Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Canadians back his tough stance on trade with the U.S. An expert says that support gives him little incentive to reopen talks soon."
     },
     {
       "title": "Okinawa Elects a Conservative Amid Fears About China and the Economy",
@@ -996,17 +1004,17 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Russian drone hits train near Ukraine-Poland border soon after visiting dignitaries passed through AP News."
-    },
-    {
-      "title": "Photos show President Trump’s visit to Ireland that combines work and pleasure - AP News",
-      "url": "https://apnews.com/photo-gallery/photos-show-president-trump-s-two-day-visit-ireland-that-combines-work-pleasure-e37210025aca4a5ab2714702b6e9ca51",
-      "date": "2026-09-13T18:07:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Photos show President Trump’s visit to Ireland that combines work and pleasure AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Szpiedzy i przestępcy używali Claude'a na potęgę. Anthropic ujawnia skalę procederu",
+      "url": "https://antyweb.pl/claude-hakerzy-szpiedzy-raport-anthropic",
+      "date": "2026-09-14T12:00:28Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Anthropic ujawnił światu dokument, w którym hakerzy i, najpewniej szpiedzy, wykorzystywali Claude do włamań, kradzieży danych, a nawet do budowania systemów militarnych. W ramach jednego z opisywanych ataków, agent oparty na sztucznej inteligencji wykonał lwią część pracy. Tak, jak wielokrotnie wspominałem: nasz najważniejszy obecnie wynalazek jest wykorzystywany również w tych jednoznacznie złych celach."
+    },
     {
       "title": "Chiny dokręcają śrubę. Pekin zakazuje posiadania dronów w mieście",
       "url": "https://antyweb.pl/chiny-dokrecaja-srube-pekin-zakazuje-posiadania-dronow-w-miescie",
@@ -1294,14 +1302,6 @@
       "source": "Hacker News",
       "confirmed_by": 1,
       "summary": "Article URL: https://github.com/rh1tech/frank-386 Comments URL: https://news.ycombinator.com/item?id=49693613 Points: 65 # Comments: 19."
-    },
-    {
-      "title": "Klon Maca mini z Windowsem. HP idzie śladami Apple",
-      "url": "https://antyweb.pl/klon-maca-mini-z-windowsem-hp-idzie-sladami-apple",
-      "date": "2026-09-14T08:12:49Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "HP ściąga od Apple? Firma pokazała swój mini komputer - ten działa z Windowsem i jest nieco tańszy od sprzętu Apple."
     },
     {
       "title": "How hyperscalers like Amazon, Microsoft, and Google are siding with consumers on data center power costs and sweetening offers for communities to gain support (Ann Davis Vaughan/The Information)",
@@ -1980,6 +1980,14 @@
       "summary": "Kurs euro - 14.09.2026. W poniedziałek za jedno euro (EUR) trzeba zapłacić 4.3247 zł."
     },
     {
+      "title": "Ranking globalnych funduszy ETF 2026",
+      "url": "https://inwestomat.eu/ranking-globalnych-funduszy-etf-2026/",
+      "date": "2026-09-14T05:00:00Z",
+      "source": "Inwestomat (Albert Rokicki)",
+      "confirmed_by": 1,
+      "summary": "Większość z odwiedzających mojego bloga inwestuje w ETF-y na akcje z całego świata. Jako że poprzedni ranking tego rodzaju opublikowałem 2 lata temu, to czas najwyższy na jego aktualizację. W tym wpisie przedstawiam dwa rankingi globalnych ETF-ów, czyli funduszy inwestujących w akcje z całego świata."
+    },
+    {
       "title": "Minister zapowiada jeszcze wyższe dywidendy od spółek Skarbu Państwa. Ile może wypłacić Orlen, PKO, PZU czy KGHM?",
       "url": "https://strefainwestorow.pl/dywidendy/dywidendy-spolek-skarbu-panstwa-szacunki-2027",
       "date": "2026-09-14T04:30:00Z",
@@ -2052,22 +2060,6 @@
       "summary": "21% Rocznie 434 EXTRA | Podcast | Jak inwestować - MCI, Grupa BEST, WP Holding, Atende, WB Group, Unimot Paweł Biedrzycki ndz., 13.09.2026 Kanał Strefa Inwestorów Kanał Strefa Inwestorów Podcast Podcast Extra Treść Zapraszamy do wysłuchania podcastu 21% Rocznie EXTRA, odcinek 434: MCI, Grupa BEST, WP Holding, Atende, WB Group, Unimot Lista omówionych spółek w podcaście:00:50 MCI03:45 Grupa BEST08:42 WP Holding13:00 Atende16:11 WB Group19:35 Unimot Pobierz 434 odcinek podcastu w wersji mp3Konferencja Kapitał na Zdrowie (17 września, Warszawa)Już 17 września odbędzie się III edycja konferencji inwestorskiej poświęconej sektorowi life science, biotechnologii i medtech – Kapitał na Zdrowie, której Strefa Inwestorów jest patronem medialnym.Uczestnicy i prezentowane spółki: Mabion, NanoGroup, Bioton, Multiqure, Captor Therapeutics, Medinice, Medicalgorithmics, Genomtec, MedTech Solutions, Proacta, Diagnostyka, MCI Capital, GPW, Ipopema Securities, Dom Maklerski INC. Partnerzy strategiczni: Biofund Capital Management, Dom Maklerski INC, Ipopema Securities.Wydarzenie specjalne: Debata wieczoru Inside the Investor's Mind z Mariuszem Książkiem (CEO Książek Holding, inwestor m.in. w Synektik i Syn2Bio).Darmowe wejściówki dla członków Strefy InwestorówLiczba miejsc jest mocno ograniczona, ale mamy dla Was pulę 15 gwarantowanych wejściówek (kto pierwszy, ten lepszy).Wejdź na stronę: https://kapitalnazdrowie.pl/W formularzu rejestracyjnym w polu FIRMA wpisz kod: STREFA26 Zawarte w materiale dane, opracowania, informacje, analizy zostały przygotowane wyłącznie w celach informacyjnych, są tylko i wyłącznie subiektywnymi opiniami autorów i nie są rekomendacjami zawarcia transakcji w rozumieniu § 3 Rozporządzenia Ministra Finansów z dnia 19 października 2005 r."
     },
     {
-      "title": "Impuls i korekta - 12 września 2026",
-      "url": "https://strefainwestorow.pl/impuls-i-korekta/impuls-i-korekta-12-wrzesnia-2026",
-      "date": "2026-09-12T17:20:25Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "Impuls i korekta - 12 września 2026 tchoman sob., 12.09.2026 Treść Nasz Wig nadal trzyma się dobrze. Indeks cofnął się tylko do pierwszego lokalnego wsparcia. Czy to tylko lokalna korekta przed kontynuacją zwyżki?, w pierwszej kolejności tak właśnie należy sądzić."
-    },
-    {
-      "title": "Wiadomości PEO (PEKAO) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/PEKAO",
-      "date": "2026-09-11T15:04:37Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości PEO (PEKAO) BiznesRadar."
-    },
-    {
       "title": "Notowania CRQ (CRQUANTUM) - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/CRQ",
       "date": "2026-09-11T15:04:20Z",
@@ -2084,14 +2076,6 @@
       "summary": "Notowania PGE PGE POLSKA GRUPA ENERGETYCZNA SA BiznesRadar."
     },
     {
-      "title": "Notowania WLT (WIELTON) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/WIELTON",
-      "date": "2026-09-11T15:04:11Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania WLT (WIELTON) BiznesRadar."
-    },
-    {
       "title": "Notowania KCH (KRAKCHEM) - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/KRAKCHEMIA",
       "date": "2026-09-11T15:03:06Z",
@@ -2100,12 +2084,28 @@
       "summary": "Notowania KCH (KRAKCHEM) BiznesRadar."
     },
     {
-      "title": "Wiadomości KRAKCHEMIA SA (KCH) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/KRAKCHEMIA",
-      "date": "2026-09-11T15:03:06Z",
+      "title": "Notowania MQR (MULTIQURE) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/MQR",
+      "date": "2026-09-11T15:02:57Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Wiadomości KRAKCHEMIA SA (KCH) BiznesRadar."
+      "summary": "Notowania MQR (MULTIQURE) BiznesRadar."
+    },
+    {
+      "title": "Rating PXM (POLIMEXMS) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/rating/POLIMEX",
+      "date": "2026-09-11T15:02:39Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Rating PXM (POLIMEXMS) BiznesRadar."
+    },
+    {
+      "title": "Notowania XTB X-TRADE BROKERS DOM MAKLERSKI SA - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/XTB",
+      "date": "2026-09-11T15:02:18Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania XTB X-TRADE BROKERS DOM MAKLERSKI SA BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2400,8 +2400,8 @@
       "2026-09-11"
     ],
     "prices": [
-      25083.71,
-      24931.73,
+      25084.25,
+      24932.26,
       24998.47,
       24879.75,
       24443.75,
@@ -2420,51 +2420,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25626.05,
+      25626.6,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26788.29,
+      26788.85,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26934.97,
+      26935.54,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27179.47,
+      27180.05,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27814.06,
+      27814.65,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27850.03,
+      27850.63,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28094.27,
+      28094.87,
       27354.94,
       27400.36,
       27412.11,
-      28494.96,
+      28495.57,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27756.96,
+      27757.55,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27936.34,
+      27936.94,
       27686.17,
       27404.78,
       27351.97,
@@ -2473,7 +2473,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27645.23,
+      27645.82,
       27930.04,
       28234.04,
       28218.36,
@@ -2482,51 +2482,51 @@
       28294.39,
       28203.83,
       28555.17,
-      28477.41,
+      28478.01,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28034.95,
+      28035.54,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27863.12,
+      27863.71,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28155.36,
+      28155.96,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29162.52,
+      29163.14,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29268.23,
+      29268.85,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      28849.49,
+      28850.11,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      28990.05,
+      28990.66,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29015.76,
+      29016.38,
       28449.73,
       28313.03,
       28272.33,
-      28784.12
+      28784.73
     ],
     "currency": "PLN"
   }
