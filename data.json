@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T04:53:30Z",
+  "last_updated": "2026-09-14T04:54:12Z",
   "poland": [
     {
       "title": "Sondaż: najem krótkoterminowy pod ostrzałem. Polacy mają jasne zdanie",
@@ -184,6 +184,14 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Partia Robotnicza-Socjaldemokraci zwyciężyła w niedzielnych wyborach parlamentarnych w Szwecji - wynika z badania exit poll. Ugrupowanie osiągnęło wynik 28,4 proc., co w połączeniu z trzema innymi partiami lewicy stanowi ponad połowę oddanych głosów."
+    },
+    {
+      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
+      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
+      "date": "2026-09-13T19:01:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
     },
     {
       "title": "Skrót wiadomości: sobota-niedziela, 12-13 września - PAP Biznes",
@@ -378,12 +386,12 @@
       "summary": "Janet Jackson świętuje 40. lecie \"Control\". Zapowiedziała film koncertowy Polska Agencja Prasowa SA."
     },
     {
-      "title": "Belgijski koncern Aerospacelab zbuduje 264 satelity do systemu IRIS2 - Science in Poland",
+      "title": "Belgijski koncern Aerospacelab zbuduje 264 satelity do systemu IRIS2 - scienceinpoland.pap.pl",
       "url": "https://scienceinpoland.pap.pl/aktualnosci/news%2C114832%2Cbelgijski-koncern-aerospacelab-zbuduje-264-satelity-do-systemu-iris2.html",
       "date": "2026-09-13T06:06:00Z",
       "source": "PAP",
       "confirmed_by": 1,
-      "summary": "Belgijski koncern Aerospacelab zbuduje 264 satelity do systemu IRIS2 Science in Poland."
+      "summary": "Belgijski koncern Aerospacelab zbuduje 264 satelity do systemu IRIS2 scienceinpoland.pap.pl."
     },
     {
       "title": "ME siatkarzy. Macedonia Północna kolejną przeszkodą na drodze Polski - Polska Agencja Prasowa SA",
@@ -392,14 +400,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "ME siatkarzy. Macedonia Północna kolejną przeszkodą na drodze Polski Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "Międzynarodowy Festiwal Miłośników Motocykla Junak [NASZE WIDEO] - Polska Agencja Prasowa SA",
-      "url": "https://www.pap.pl/aktualnosci/miedzynarodowy-festiwal-milosnikow-motocykla-junak-nasze-wideo",
-      "date": "2026-09-12T17:11:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Międzynarodowy Festiwal Miłośników Motocykla Junak [NASZE WIDEO] Polska Agencja Prasowa SA."
     }
   ],
   "world_security": [
@@ -886,6 +886,14 @@
       "summary": "Mujib Mashal, our South Asia bureau chief, travels to points along a river in Nepal that turned into a deadly torrent, killing more than 1,300 people and leaving over 5,000 more missing as entire towns, bridges and roads were swept away."
     },
     {
+      "title": "Russian drone hits train near Ukraine-Poland border soon after visiting dignitaries passed through - AP News",
+      "url": "https://apnews.com/article/ukraine-train-drone-strike-border-diplomats-43e00d1e6f069230f4f2e58520349264",
+      "date": "2026-09-13T18:16:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Russian drone hits train near Ukraine-Poland border soon after visiting dignitaries passed through AP News."
+    },
+    {
       "title": "Photos show President Trump’s visit to Ireland that combines work and pleasure - AP News",
       "url": "https://apnews.com/photo-gallery/photos-show-president-trump-s-two-day-visit-ireland-that-combines-work-pleasure-e37210025aca4a5ab2714702b6e9ca51",
       "date": "2026-09-13T18:07:00Z",
@@ -996,14 +1004,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Police say more arrests coming in death of Mississippi woman found hanging from tree AP News."
-    },
-    {
-      "title": "Fire at ammunition depot in Bulgaria raises fears of neglect or sabotage - AP News",
-      "url": "https://apnews.com/article/bulgaria-ukraine-arms-depot-explosion-fire-c13c2fdd0c2a65a484a3594ca8f16bdf",
-      "date": "2026-09-12T13:43:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Fire at ammunition depot in Bulgaria raises fears of neglect or sabotage AP News."
     }
   ],
   "technology": [
@@ -2068,14 +2068,6 @@
       "summary": "Notowania CRQ (CRQUANTUM) BiznesRadar."
     },
     {
-      "title": "Notowania WLT (WIELTON) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/WIELTON",
-      "date": "2026-09-11T15:04:11Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania WLT (WIELTON) BiznesRadar."
-    },
-    {
       "title": "Notowania KCH (KRAKCHEM) - BiznesRadar",
       "url": "https://www.biznesradar.pl/notowania/KRAKCHEMIA",
       "date": "2026-09-11T15:03:06Z",
@@ -2114,6 +2106,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania FRO (FERRO) BiznesRadar."
+    },
+    {
+      "title": "Notowania ATT (GRUPAAZOTY) - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/ATT",
+      "date": "2026-09-11T15:00:51Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania ATT (GRUPAAZOTY) BiznesRadar."
     },
     {
       "title": "„Miałem 5-letnie wakacje w areszcie, z panienką dwa razy w tygodniu”. Jak Lech Grobelny oszukał 11 tys. Polaków i uszło mu to płazem - Forbes",
@@ -2425,8 +2425,8 @@
       "2026-09-11"
     ],
     "prices": [
-      24946.39,
-      24795.24,
+      24945.26,
+      24794.11,
       24998.47,
       24879.75,
       24443.75,
@@ -2445,51 +2445,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25485.76,
+      25484.6,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26641.63,
+      26640.42,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26787.51,
+      26786.29,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27030.67,
+      27029.44,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27661.79,
+      27660.53,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27697.57,
+      27696.31,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      27940.47,
+      27939.2,
       27354.94,
       27400.36,
       27412.11,
-      28338.96,
+      28337.68,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27605.0,
+      27603.74,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27783.41,
+      27782.14,
       27686.17,
       27404.78,
       27351.97,
@@ -2498,7 +2498,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27493.89,
+      27492.64,
       27930.04,
       28234.04,
       28218.36,
@@ -2507,51 +2507,51 @@
       28294.39,
       28203.83,
       28555.17,
-      28321.51,
+      28320.22,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      27881.47,
+      27880.2,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27710.58,
+      27709.32,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28001.22,
+      27999.94,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29002.87,
+      29001.55,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29108.0,
+      29106.67,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      28691.55,
+      28690.25,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      28831.34,
+      28830.03,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      28856.91,
+      28855.6,
       28449.73,
       28313.03,
       28272.33,
-      28626.54
+      28625.24
     ],
     "currency": "PLN"
   }
