@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-15T02:01:04Z",
+  "last_updated": "2026-09-15T02:02:11Z",
   "poland": [
+    {
+      "title": "Krzysztof Adam Kowalczyk: Od Polski do USA. Fala „prezentów” wyborczych",
+      "url": "https://www.rp.pl/opinie-ekonomiczne/art45134311-krzysztof-adam-kowalczyk-od-polski-do-usa-fala-prezentow-wyborczych",
+      "date": "2026-09-15T02:01:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Co za paradoks: za postawienie wyborcom darmowego piwa grozi w Polsce grzywna, za obiecywanie korzyści majątkowych – odsiadka, ale gdy idą one w miliardy złotych – dostaje się w nagrodę władzę."
+    },
     {
       "title": "Redakcja PolskieRadio24.pl - polskieradio24.pl",
       "url": "https://polskieradio24.pl/redakcja-internetowa/redakcja-polskieradio24pl?strona=13",
@@ -104,14 +112,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Poseł PiS Dariusz Matecki skakał przez ogrodzenie Akademii Wymiaru Sprawiedliwości, ignorując ostrzeżenia policjantów. Z kolei w sprawie posłanki PiS Marii Kurowskiej skierowano wniosek do marszałka Sejmu Włodzimierza Czarzastego o pilną interwencję. To kolejna odsłona trwającego sporu o to, kto powinien kierować uczelnią po decyzji ministra sprawiedliwości Waldemara Żurka o odwołaniu rektora-komendanta Michała Sopińskiego."
-    },
-    {
-      "title": "Pacjenci oczekują dostępności lekarzy i sprawnej obsługi",
-      "url": "https://www.rp.pl/forum-ekonomiczne/art45140631-pacjenci-oczekuja-dostepnosci-lekarzy-i-sprawnej-obslugi",
-      "date": "2026-09-14T20:02:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Lekarze POZ powinni zatrzymywać pacjentów przy sobie dłużej, zamiast od razu odsyłać ich do specjalistów. Uzasadnione byłoby przekierowanie dodatkowych środków, by zwiększać ich kompetencje – uważa Paweł Walicki, prezes Centrum Medycznego CMP."
     },
     {
       "title": "Po atakach Cersanit zawiesza produkcję w Ukrainie. To firma polskiego miliardera",
@@ -266,14 +266,6 @@
       "summary": "Po ukraińskich atakach Wildberries, rosyjski gigant e-commerce, chce kupić ponad 470 tys. m kw. siatki chroniącej przed dronami."
     },
     {
-      "title": "Grupa Kęty ma warunkową umowę zakupu Fengari Holdings I B.V., właściciela spółek z grupy Metra - PAP Biznes",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-kety-ma-warunkowa-umowe-zakupu-fengari-holdings-i-bv-wlasciciela-spolek-z",
-      "date": "2026-09-14T16:42:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Grupa Kęty ma warunkową umowę zakupu Fengari Holdings I B.V., właściciela spółek z grupy Metra PAP Biznes."
-    },
-    {
       "title": "Tusk zwołał spotkanie z ministrami i dowódcami. Reakcja na ostatnie działania Rosji",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33023315,tusk-zwolal-spotkanie-z-ministrami-i-dowodcami-reakcja-na-ostatnie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-09-14T16:03:00Z",
@@ -384,6 +376,14 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "PKP Cargo ma umowy z Eneą Wytwarzanie o wartości do 126 mln zł brutto PAP Biznes."
+    },
+    {
+      "title": "RIO: samorządowe czasopismo ma informować, a nie zarabiać - | Serwis Samorządowy PAP",
+      "url": "https://samorzad.pap.pl/kategoria/aktualnosci/rio-samorzadowe-czasopismo-ma-informowac-nie-zarabiac",
+      "date": "2026-09-14T12:29:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "RIO: samorządowe czasopismo ma informować, a nie zarabiać | Serwis Samorządowy PAP."
     },
     {
       "title": "Dostałeś alert RCB i słyszysz syreny? Wiceszef MON mówi, co wtedy robić - polskieradio24.pl",
@@ -524,20 +524,20 @@
       "summary": "US imposes fresh sanctions on Russia's VTB Bank over alleged Iran ties Reuters."
     },
     {
-      "title": "Musk's X Corp and SpaceXAI resolve antitrust lawsuit against Apple - Reuters",
-      "url": "https://www.reuters.com/world/musks-x-corp-spacexai-resolve-antitrust-lawsuit-against-apple-2026-09-14/",
-      "date": "2026-09-14T21:11:09Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Musk's X Corp and SpaceXAI resolve antitrust lawsuit against Apple Reuters."
-    },
-    {
       "title": "Trump dismisses AI safety alarm, says US already has tools to police industry - Reuters",
       "url": "https://www.reuters.com/world/trump-says-there-is-sick-conspiracy-against-ai-data-centers-2026-09-14/",
       "date": "2026-09-14T21:00:20Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Trump dismisses AI safety alarm, says US already has tools to police industry Reuters."
+    },
+    {
+      "title": "US oil export ban unlikely to lower energy prices, Interior secretary says - Reuters",
+      "url": "https://www.reuters.com/legal/litigation/us-oil-export-ban-unlikely-lower-energy-prices-interior-secretary-says-2026-09-14/",
+      "date": "2026-09-14T20:47:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "US oil export ban unlikely to lower energy prices, Interior secretary says Reuters."
     },
     {
       "title": "Trump approval up from record low, but outlook sours for Republicans, Reuters/Ipsos poll finds - Reuters",
@@ -990,23 +990,31 @@
       "summary": "European leaders meet as Arctic thaw opens shipping routes and Russian buildup stokes security fears AP News."
     },
     {
+      "title": "New warnings about the risks of AI to humanity revive a long-running debate - AP News",
+      "url": "https://apnews.com/article/artificial-intelligence-threats-humanity-anthropic-openai-98316b0d64de17191f33c0fbf1d37858",
+      "date": "2026-09-14T13:59:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "New warnings about the risks of AI to humanity revive a long-running debate AP News."
+    },
+    {
       "title": "Iran denounces Austria for blocking its nuclear chief from a meeting in Vienna - AP News",
       "url": "https://apnews.com/article/iran-nuclear-iaea-travel-ban-austria-eslami-3311582df91f9da85c2f40b2e85f5516",
       "date": "2026-09-14T11:34:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Iran denounces Austria for blocking its nuclear chief from a meeting in Vienna AP News."
-    },
-    {
-      "title": "Prosecutors charge German-Ukrainian woman with aiding Russian intelligence - AP News",
-      "url": "https://apnews.com/article/germany-russia-spy-charges-espionage-0aec7624d6752cd65cfcb8e04f4649c6",
-      "date": "2026-09-14T10:13:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Prosecutors charge German-Ukrainian woman with aiding Russian intelligence AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Thoughts on AI labs' safety concerns: a coordinated slowdown may look like an antitrust conspiracy to limit output that would preserve frontier model margins (Matt Levine/Bloomberg)",
+      "url": "https://www.techmeme.com/260914/p43#a260914p43",
+      "date": "2026-09-15T02:00:02Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Matt Levine / Bloomberg: Thoughts on AI labs' safety concerns: a coordinated slowdown may look like an antitrust conspiracy to limit output that would preserve frontier model margins &mdash; AI and antitrust, lockups and indexes, annuities, Montessori and sudden wealth syndrome. &mdash; P(doom)."
+    },
     {
       "title": "Cybersecurity stocks were the top performers in the S&P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9% (Britney Nguyen/MarketWatch)",
       "url": "https://www.techmeme.com/260914/p42#a260914p42",
@@ -1110,14 +1118,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Shubhangi Goel / Business Insider: Nuance Labs, which builds low-latency AI avatars that can have face-to-face conversations, raised a $50M Series A led by Lightspeed, with Nvidia participating &mdash; A startup that's trying to make AI models better conversationalists with more emotional intelligence has just raised $50 million."
-    },
-    {
-      "title": "Sources: Trump met privately with Sam Altman backstage at the GOP midterm convention, where they discussed AI and its growing power, at Altman's request (MS NOW)",
-      "url": "https://www.techmeme.com/260914/p35#a260914p35",
-      "date": "2026-09-14T20:10:00Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "MS NOW: Sources: Trump met privately with Sam Altman backstage at the GOP midterm convention, where they discussed AI and its growing power, at Altman's request &mdash; Altman, Elon Musk and Anthropic chief Dario Amodei all urged an artificial intelligence slowdown over the weekend."
     },
     {
       "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
@@ -1852,20 +1852,20 @@
       "summary": "Dlaczego akcje biją rekordy mimo krachu na obligacjach i wojny? stockwatch.pl."
     },
     {
-      "title": "TREX SA (48/2026) Skup akcji własnych - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/153691,trex-sa-48-2026-skup-akcji-wlasnych",
-      "date": "2026-09-14T15:24:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "TREX SA (48/2026) Skup akcji własnych BiznesRadar."
-    },
-    {
       "title": "Botanika Farm rezygnuje z IPO - BiznesRadar",
       "url": "https://www.biznesradar.pl/a/153688,botanika-farm-rezygnuje-z-ipo",
       "date": "2026-09-14T15:23:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Botanika Farm rezygnuje z IPO BiznesRadar."
+    },
+    {
+      "title": "BIO PLANET SA (35/2026) Zawiadomienia o zmianie struktury i posiadania udziału w ogólnej liczbie głosów. - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/153682,bio-planet-sa-35-2026-zawiadomienia-o-zmianie-struktury-i-posiadania-udzialu-w-ogolnej-liczbie-glosow",
+      "date": "2026-09-14T15:21:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "BIO PLANET SA (35/2026) Zawiadomienia o zmianie struktury i posiadania udziału w ogólnej liczbie głosów. BiznesRadar."
     },
     {
       "title": "Rząd wraca z projektem windfall tax od nadzwyczajnych zysków firm paliwowych - stockwatch.pl",
@@ -2449,51 +2449,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25641.73,
+      25642.07,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26804.67,
+      26805.03,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26951.45,
+      26951.81,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27196.1,
+      27196.46,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27831.07,
+      27831.45,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27867.07,
+      27867.44,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28111.46,
+      28111.83,
       27354.94,
       27400.36,
       27412.11,
-      28512.4,
+      28512.77,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27773.94,
+      27774.31,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27953.44,
+      27953.81,
       27686.17,
       27404.78,
       27351.97,
@@ -2502,7 +2502,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27662.15,
+      27662.51,
       27930.04,
       28234.04,
       28218.36,
@@ -2511,52 +2511,52 @@
       28294.39,
       28203.83,
       28555.17,
-      28494.83,
+      28495.21,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28052.1,
+      28052.47,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27880.16,
+      27880.53,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28172.58,
+      28172.96,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29180.36,
+      29180.75,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29286.13,
+      29286.52,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      28867.14,
+      28867.53,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29007.78,
+      29008.17,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29033.51,
+      29033.9,
       28449.73,
       28313.03,
       28272.33,
-      28801.73,
-      28662.55
+      28802.11,
+      28662.94
     ],
     "currency": "PLN"
   }
