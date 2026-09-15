@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T10:24:30Z",
+  "last_updated": "2026-09-15T10:25:21Z",
   "poland": [
     {
       "title": "Prokuratorzy: projekt zmian w k.p.k. dotyczący ugód trzeba dopracować",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Polacy zmienili nawyki przez 3 euro. Nowa opłata zdemolowała azjatyckie platformy",
+      "url": "https://spidersweb.pl/2026/09/chiny-temu-mniej-produktow-zamowienia.html",
+      "date": "2026-09-15T10:24:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Polacy zmienili nawyki przez 3 euro. Nowa opłata zdemolowała azjatyckie platformy."
+    },
+    {
       "title": "Konto HBO Max przejęte przez hakerów. Wysyła do ludzi złośliwe oprogramowanie",
       "url": "https://antyweb.pl/konto-hbo-max-przejete-przez-hakerow-wysyla-do-ludzi-zlosliwe-oprogramowanie",
       "date": "2026-09-15T10:15:34Z",
@@ -1048,12 +1056,28 @@
       "summary": "Na następcę Steam Decka czeka wielu graczy, ale najnowsze wypowiedzi Valve jasno dają do zrozumienia, że na drugą generację popularnego urządzenia przyjdzie nam jeszcze długo poczekać."
     },
     {
+      "title": "Let's make quality the norm again",
+      "url": "https://www.forbrukerradet.no/short-life/",
+      "date": "2026-09-15T10:00:16Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.forbrukerradet.no/short-life/ Comments URL: https://news.ycombinator.com/item?id=49710109 Points: 18 # Comments: 4."
+    },
+    {
       "title": "Google DeepMind AI Safety and Alignment researcher Bilal Chughtai publicly resigns, saying \"I earnestly believe that AI has the potential to kill us all\" (Debby Wu/Bloomberg)",
       "url": "https://www.techmeme.com/260915/p8#a260915p8",
       "date": "2026-09-15T10:00:00Z",
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Debby Wu / Bloomberg: Google DeepMind AI Safety and Alignment researcher Bilal Chughtai publicly resigns, saying &ldquo;I earnestly believe that AI has the potential to kill us all&rdquo; &mdash; An AI researcher who recently resigned from Google DeepMind warned humanity is running out of time to prevent artificial intelligence &hellip;."
+    },
+    {
+      "title": "How much of F-Droid is LLM generated?",
+      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+      "date": "2026-09-15T09:47:48Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 9 # Comments: 4."
     },
     {
       "title": "Mapy Google dostaną nową funkcję. Nie trzeba nawet włączać nawigacji",
@@ -1165,7 +1189,7 @@
       "date": "2026-09-15T08:21:27Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/ Comments URL: https://news.ycombinator.com/item?id=49709381 Points: 9 # Comments: 9."
+      "summary": "Article URL: https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/ Comments URL: https://news.ycombinator.com/item?id=49709381 Points: 15 # Comments: 12."
     },
     {
       "title": "A deep dive into on-device vs. data center inference for robots, including a primer on robot models, deployments, supply chains, the \"network wall\", and more (SemiAnalysis)",
@@ -1229,7 +1253,7 @@
       "date": "2026-09-15T07:45:31Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://arxiv.org/abs/2609.15979 Comments URL: https://news.ycombinator.com/item?id=49709129 Points: 8 # Comments: 1."
+      "summary": "Article URL: https://arxiv.org/abs/2609.15979 Comments URL: https://news.ycombinator.com/item?id=49709129 Points: 11 # Comments: 5."
     },
     {
       "title": "Firefox przyspiesza. Najnowsza aktualizacja to prawdziwa bomba",
@@ -1264,14 +1288,6 @@
       "summary": "Żabka drukuje aplikację i ma to sens. Ten ruch zapowiada nieuchronną przyszłość Polski."
     },
     {
-      "title": "Ten Volkswagen zużywa mniej niż 7 kWh na 100 km. I wygląda... kontrowersyjnie",
-      "url": "https://antyweb.pl/ten-volkswagen-zuzywa-mniej-niz-7-kwh-na-100-km-i-wyglada-kontrowersyjnie",
-      "date": "2026-09-15T07:00:31Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Zasięg samochodów elektrycznych to wciąż jeden z najważniejszych tematów dla kierowców, a producenci sięgają po coraz bardziej radyklane rozwiązania aby go wydłużyć."
-    },
-    {
       "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
       "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
       "date": "2026-09-15T07:00:30Z",
@@ -1301,7 +1317,7 @@
       "date": "2026-09-15T06:16:24Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua Comments URL: https://news.ycombinator.com/item?id=49708431 Points: 187 # Comments: 54."
+      "summary": "Article URL: https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua Comments URL: https://news.ycombinator.com/item?id=49708431 Points: 207 # Comments: 60."
     },
     {
       "title": "Następca ulubionego smartfona Polaków ujawniony. Znamy cenę i parametry Galaxy A18",
@@ -1325,23 +1341,7 @@
       "date": "2026-09-15T04:15:23Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.linuxfromscratch.org/ Comments URL: https://news.ycombinator.com/item?id=49707627 Points: 186 # Comments: 61."
-    },
-    {
-      "title": "US confirms for first time it has deployed space weapons",
-      "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
-      "date": "2026-09-15T03:47:56Z",
-      "source": "Hacker News",
-      "confirmed_by": 2,
-      "summary": "Article URL: https://www.bbc.com/news/articles/ck790xg41ygro Comments URL: https://news.ycombinator.com/item?id=49707473 Points: 43 # Comments: 17."
-    },
-    {
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "url": "https://github.com/JamesRyanATX/fcbnerd",
-      "date": "2026-09-14T23:01:36Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/JamesRyanATX/fcbnerd Comments URL: https://news.ycombinator.com/item?id=49705442 Points: 74 # Comments: 18."
+      "summary": "Article URL: https://www.linuxfromscratch.org/ Comments URL: https://news.ycombinator.com/item?id=49707627 Points: 188 # Comments: 62."
     },
     {
       "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
@@ -1760,14 +1760,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Co jeśli największym zagrożeniem ze strony AI nie będzie stworzenie przez nią superpatogenu, lecz stopniowe skracanie drogi od pomysłu do eksperymentu? Najnowsze analizy pokazują, że sztuczna inteligencja może obniżać kolejne bariery związane z wiedzą, projektowaniem i analizą biologiczną. Z tego względu Zachód – na czele z USA, Wielką Brytanią i UE – zaczyna myśleć o biosecurity zupełnie inaczej."
-    },
-    {
-      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-      "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-      "date": "2026-09-12T10:24:44Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running coding agents and non-technical staff signing consumer AI tools into corporate."
     }
   ],
   "finance": [
@@ -1778,6 +1770,14 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Koniec zakazu handlu w niedzielę. Sklepy mają być czynne siedem razy w tygodniu. Tego nikt się nie spodziewał Forsal.pl."
+    },
+    {
+      "title": "Ukraiński MiG-29 przy polskiej granicy. Polacy byli gotowi otworzyć ogień - Forsal.pl",
+      "url": "https://forsal.pl/kraj/bezpieczenstwo/artykuly/11302328,ukrainski-mig-29-przy-polskiej-granicy-polacy-byli-gotowi-otworzyc-ogien.html",
+      "date": "2026-09-15T10:10:39Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Ukraiński MiG-29 przy polskiej granicy. Polacy byli gotowi otworzyć ogień Forsal.pl."
     },
     {
       "title": "Łódź traci 16 osób dziennie, Gorzów zwija się najszybciej, a Kraków ma demograficzny odlot [RANKING] - Forsal.pl",
@@ -1848,7 +1848,7 @@
       "url": "https://www.biznesradar.pl/a/153871,mabion-zmniejsza-strate-i-celuje-w-usa",
       "date": "2026-09-15T09:29:00Z",
       "source": "Biznesradar",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Mabion zmniejsza stratę i celuje w USA BiznesRadar."
     },
     {
@@ -1908,28 +1908,12 @@
       "summary": "Po 35 latach działalności właściciele niewielkiej firmy z Giżycka zdecydowali się zawiesić produkcję. Powód? Nowe unijne zasady dotyczące opakowań i dodatkowe obowiązki przy sprzedaży do innych krajów UE."
     },
     {
-      "title": "Spółka: Savicon - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/walor/savicon",
-      "date": "2026-09-15T08:39:07Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Spółka: Savicon stockwatch.pl."
-    },
-    {
       "title": "Analitycy studzą emocje wokół JSW. „Kurs urósł za szybko”",
       "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce/jsw-perspektywa-notowania-analitycy",
       "date": "2026-09-15T08:31:31Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Analitycy studzą emocje wokół JSW. „Kurs urósł za szybko” Piotr Maciążek wt., 15.09.2026 Kanał W Zielonej Strefie notowania jsw perspektywy jsw wycena jsw perspektywa jsw plan restrukturyzacji jsw Treść Po mocnym rajdzie akcji Jastrzębskiej Spółki Węglowej analitycy zaczynają patrzeć na jej notowania z większym dystansem. Paweł Puchalski z Erste Bank Polska obniżył rekomendację dla JSW do „neutralnie”, choć jednocześnie podniósł cenę docelową do 42 zł."
-    },
-    {
-      "title": "Savicon przejmuje The Dust - odwrócone przejęcie - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/kurs-akcji-the-dust-wystrzelil-o-260-proc-savicon-realizuje-odwrocone-przejecie,akcje,380626",
-      "date": "2026-09-15T08:24:50Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Savicon przejmuje The Dust - odwrócone przejęcie stockwatch.pl."
     },
     {
       "title": "Inflacja w Polsce przyspieszyła. GUS pokazał, co najmocniej podrożało - Forsal.pl",
@@ -1972,6 +1956,22 @@
       "summary": "Skalujemy produkcję dronów obronnych i rozwijamy usługę dronów do ochrony. Celujemy w debiut na giełdzie w 2027 roku, mówi Wojciech Stawiarski z Reakto Paweł Biedrzycki wt., 15.09.2026 Kanał Strefa Inwestorów Reakto drony zbrojenia Treść Reakto rozwija usługi ochrony w formule Drone as a Service oraz skaluje produkcję autorskich dronów w nowej fabryce. O planach giełdowych, modelu biznesowym oraz wpływie wojny hybrydowej na popyt ze strony przemysłu i wojska rozmawiamy z Wojciechem Stawiarskim z Reakto podczas targów MSPO w Kielcach.Z rozmowy dowiesz się:Jakie usługi ochrony z wykorzystaniem dronów oferuje Reakto i czym różnią się od tradycyjnej ochrony fizycznej,Na czym polega model biznesowy spółki i jak dzielą się jej przychody między rynek cywilny a sektor defence,Jaki jest potencjał produkcyjny nowej fabryki dronów,Kiedy spółka planuje debiut na giełdzie i co daje jej niedawno uzyskana certyfikacja LUC."
     },
     {
+      "title": "Elektrotim: niższy zysk w półroczu, rekordowy portfel zleceń - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/elektrotim-wyniki-pierwsze-polrocze-2026,akcje,380617",
+      "date": "2026-09-15T07:47:43Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Elektrotim: niższy zysk w półroczu, rekordowy portfel zleceń stockwatch.pl."
+    },
+    {
+      "title": "Murapol wypracował 48,4 mln zł zysku netto w II kw. 2026 r. - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/murapol-wyniki-ii-kwartal-pierwsze-polrocze-2026,akcje,380615",
+      "date": "2026-09-15T07:35:50Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Murapol wypracował 48,4 mln zł zysku netto w II kw. 2026 r. stockwatch.pl."
+    },
+    {
       "title": "Archicom miał 74,5 mln zł zysku netto w I poł. 2026 r. - stockwatch.pl",
       "url": "https://www.stockwatch.pl/wiadomosci/archicom-wyniki-pierwsze-polrocze-2026,akcje,380613",
       "date": "2026-09-15T07:28:39Z",
@@ -1994,14 +1994,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Unibep: kontrakt Rail Baltica za 1,06 mld zł netto stockwatch.pl."
-    },
-    {
-      "title": "Będą strefy z zakazem najmu. Ale w ustawie są luki - Forsal.pl",
-      "url": "https://forsal.pl/gospodarka/prawo/artykuly/11302175,beda-strefy-z-zakazem-najmu-ale-w-ustawie-sa-luki.html",
-      "date": "2026-09-15T07:09:36Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Będą strefy z zakazem najmu. Ale w ustawie są luki Forsal.pl."
     },
     {
       "title": "Spyrosoft wdrożył Sinsay Marketplace dla Grupy LPP - stockwatch.pl",
@@ -2525,51 +2517,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25633.55,
+      25639.69,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26796.12,
+      26802.54,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26942.85,
+      26949.3,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27187.42,
+      27193.93,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27822.2,
+      27828.86,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27858.18,
+      27864.85,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28102.49,
+      28109.22,
       27354.94,
       27400.36,
       27412.11,
-      28503.3,
+      28510.12,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27765.08,
+      27771.72,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27944.52,
+      27951.21,
       27686.17,
       27404.78,
       27351.97,
@@ -2578,7 +2570,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27653.32,
+      27659.94,
       27930.04,
       28234.04,
       28218.36,
@@ -2587,52 +2579,52 @@
       28294.39,
       28203.83,
       28555.17,
-      28485.74,
+      28492.56,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28043.15,
+      28049.86,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27871.27,
+      27877.94,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28163.59,
+      28170.34,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29171.05,
+      29178.04,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29276.79,
+      29283.8,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      28857.93,
+      28864.84,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      28998.53,
+      29005.47,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29024.25,
+      29031.2,
       28449.73,
       28313.03,
       28272.33,
-      28792.54,
-      28653.41
+      28799.43,
+      28660.27
     ],
     "currency": "PLN"
   }
