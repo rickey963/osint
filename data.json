@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-15T15:10:33Z",
+  "last_updated": "2026-09-15T15:20:05Z",
   "poland": [
+    {
+      "title": "SkyShowtime na krawędzi. Jedną z opcji jest całkowite zamknięcie serwisu",
+      "url": "https://www.rp.pl/media/art45143461-skyshowtime-na-krawedzi-jedna-z-opcji-jest-calkowite-zamkniecie-serwisu",
+      "date": "2026-09-15T15:08:18Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Comcast i Paramount Skydance, czyli potencjalny przyszły właściciel Warner Bros Discovery i TVN zastanawiają się nad przyszłością swojego joint venture - SkyShowtime. Jedną z opcji jest zamknięcie serwisu znanego widzom w Polsce."
+    },
     {
       "title": "„Rzecz w tym”: Czy Maciej Berek ma misję od premiera? „Wolę nie myśleć w tych kategoriach”",
       "url": "https://www.rp.pl/kraj/art45142291-rzecz-w-tym-czy-maciej-berek-ma-misje-od-premiera-wole-nie-myslec-w-tych-kategoriach",
@@ -112,14 +120,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Maksymilian zamierzał stworzyć w Meksyku nowoczesną, popularną monarchię, która połączyłaby tradycję z ideami demokracji. Miał to być reżim polegający nie na władzy boskiej wspieranej wyłącznie przez klasę zamożnych, lecz na całym narodzie."
-    },
-    {
-      "title": "Tragedia na stacji paliw. Nie żyje funkcjonariusz Służby Więziennej",
-      "url": "https://www.rp.pl/sluzby/art45143641-tragedia-na-stacji-paliw-nie-zyje-funkcjonariusz-sluzby-wieziennej",
-      "date": "2026-09-15T13:59:26Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Kierowca konwoju Służby Więziennej śmiertelnie postrzelił się podczas postoju. Do zdarzenia doszło na stacji paliw w Miedźnie."
     },
     {
       "title": "W ramach zemsty wysadził bombę pod domem byłej partnerki. Sąd drastycznie podwyższył karę",
@@ -242,14 +242,6 @@
       "summary": "Rząd przyjął projekt ustawy o podatku od nadzwyczajnych zysków firm paliwowych - rzecznik rządu PAP Biznes."
     },
     {
-      "title": "Wszystkie - PAP - serwis.pap.pl",
-      "url": "https://serwis.pap.pl/csi2/news/wszystkie/1",
-      "date": "2026-09-15T12:10:54Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Wszystkie - PAP serwis.pap.pl."
-    },
-    {
       "title": "Inauguracja Naukowego Think Tanku PAP [TRANSMISJA] - Polska Agencja Prasowa SA",
       "url": "https://www.pap.pl/aktualnosci/inauguracja-naukowego-think-tanku-pap-transmisja",
       "date": "2026-09-15T11:58:36Z",
@@ -354,6 +346,14 @@
       "summary": "Redakcja PolskieRadio24.pl Polskie Radio 24."
     },
     {
+      "title": "Olsztyn/ Zbiorniki retencyjne zatrzymują wody opadowe i są miejscami rekreacji - PAP - serwis wideo",
+      "url": "https://wideo.pap.pl/pap-media,101/olsztyn-zbiorniki-retencyjne-zatrzymuja-wody-opadowe-i-sa-miejscami-rekreacji,96404",
+      "date": "2026-09-15T00:09:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Olsztyn/ Zbiorniki retencyjne zatrzymują wody opadowe i są miejscami rekreacji PAP - serwis wideo."
+    },
+    {
       "title": "Matecki kłócił się z policjantami i forsował ogrodzenie. \"Odsuń się!\" - Polskie Radio 24",
       "url": "https://polskieradio24.pl/polityka/matecki-klocil-sie-z-policjantami-i-forsowal-ogrodzenie-odsun-sie",
       "date": "2026-09-14T19:29:24Z",
@@ -404,7 +404,39 @@
   ],
   "world_security": [
     {
-      "title": "Explosive device found on drone shot down in Lithuania, says minister - Europe live",
+      "title": "British woman abducted in Malawi, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-15T15:03:27Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre."
+    },
+    {
+      "title": "Pauline Hanson’s daughter Lee working for a NSW One Nation senator remotely from Tasmania without ministerial approval",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/16/pauline-hanson-daughter-lee-working-remotely-for-one-nation-without-ministerial-approval-ntwnfb",
+      "date": "2026-09-15T15:00:55Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Exclusive: Lee Hanson also appears to be regularly campaigning for party during work hours, social media showsListen to Guardian Australia’s podcast The Populist hereGet our new political email, free app or daily news podcastPauline Hanson’s daughter, Lee Hanson, has been working in Tasmania as a senior adviser to a New South Wales One Nation senator without the required ministerial approval, Guardian Australia can reveal.Under work base arrangements that apply to the staff of all MPs, a personal adviser such as Hanson can only be allowed to work in a location other than Canberra or the parliamentarian’s home base with approval from the special minister of state. Continue reading..."
+    },
+    {
+      "title": "Datacentre giant accused of using AI while lobbying for Victorian minister’s support for hyperscale factory",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/16/datacentre-giant-accused-of-using-ai-while-lobbying-for-victorian-ministers-support-for-hyperscale-factory",
+      "date": "2026-09-15T15:00:54Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Exclusive: Correspondence requests state MP Melissa Horne to lobby on NextDC’s behalf – but contains alleged AI-created errorsGet our breaking news email, free app or daily news podcastThe Victorian jobs minister has accused one of Australia’s largest datacentre companies of using artificial intelligence while requesting she lobby her colleague to approve a massive expansion of its “hyperscale AI factory”.Correspondence between Victorian cabinet minister Melissa Horne and the chief executive of ASX-listed company NextDC, Craig Scroggie, reveals increasing sensitivity to community concerns about datacentres before the state election. Continue reading..."
+    },
+    {
+      "title": "Testosterone scripts for women rise, along with denials and delays - Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/testosterone-scripts-women-rise-along-with-denials-delays-2026-09-15/",
+      "date": "2026-09-15T14:40:15Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Testosterone scripts for women rise, along with denials and delays Reuters."
+    },
+    {
+      "title": "Explosive device found on drone shot down in Lithuania, says minister - as it happened",
       "url": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
       "date": "2026-09-15T14:39:53Z",
       "source": "The Guardian",
@@ -436,6 +468,14 @@
       "summary": "Robert Garcia expresses concern over ‘any possible foreign entanglement’ between White House and Umar KremlevRobert Garcia, the top Democrat on the House oversight committee, is investigating potential ties between the White House and a Russian oligarch who paid for a portion of Donald Trump Jr’s wedding.In a letter sent to Susie Wiles, the White House chief of staff, on Monday, Garcia expressed concern about “any possible foreign entanglement” between the president’s son and the oligarch, Umar Kremlev. Garcia asked Wiles to provide documents, records and communications between the White House and Trump Jr about Kremlev, among other requests. Continue reading..."
     },
     {
+      "title": "Wall St wobbles as rising oil and Treasury yields stoke investor unease - Reuters",
+      "url": "https://www.reuters.com/business/wall-st-futures-slip-rising-oil-treasury-yields-compound-ai-anxiety-2026-09-15/",
+      "date": "2026-09-15T14:29:15Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Wall St wobbles as rising oil and Treasury yields stoke investor unease Reuters."
+    },
+    {
       "title": "What weapon could the US have put into space?",
       "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-15T14:23:14Z",
@@ -450,6 +490,22 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Experts tell BBC Verify the pipeline's closure could cut oil supplies by as much as 3.6 million barrels per day."
+    },
+    {
+      "title": "Lukashenko wins US pledge on frozen funds as Trump envoy seeks to free prisoners - Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/trump-envoy-coale-arrives-belarus-new-talks-prisoner-releases-2026-09-15/",
+      "date": "2026-09-15T13:47:59Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Lukashenko wins US pledge on frozen funds as Trump envoy seeks to free prisoners Reuters."
+    },
+    {
+      "title": "EXCLUSIVE: ADNOC Trading buys millions of barrels of Iraqi crude, sources say - Reuters",
+      "url": "https://www.reuters.com/business/energy/uaes-adnoc-buys-millions-barrels-iraqi-crude-sources-say-2026-09-15/",
+      "date": "2026-09-15T13:46:07Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "EXCLUSIVE: ADNOC Trading buys millions of barrels of Iraqi crude, sources say Reuters."
     },
     {
       "title": "More than 100,000 people in Japan are now aged 100 or older",
@@ -516,20 +572,28 @@
       "summary": "UN sees some progress in Congo Ebola fight, but too early to call peak Reuters."
     },
     {
-      "title": "Wall St set to open lower as rising oil and yields deepen market gloom - Reuters",
-      "url": "https://www.reuters.com/business/wall-st-futures-slip-rising-oil-treasury-yields-compound-ai-anxiety-2026-09-15/",
-      "date": "2026-09-15T12:49:05Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Wall St set to open lower as rising oil and yields deepen market gloom Reuters."
-    },
-    {
       "title": "Dutch roads and rail lines blocked as farmers start fires in budget protest - Reuters",
       "url": "https://www.reuters.com/world/suspected-sabotage-disrupts-dutch-trains-level-crossings-2026-09-15/",
       "date": "2026-09-15T12:43:55Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Dutch roads and rail lines blocked as farmers start fires in budget protest Reuters."
+    },
+    {
+      "title": "Poland’s Orlen rushes to find alternatives to Saudi oil supply, traders say - Reuters",
+      "url": "https://www.reuters.com/business/energy/polands-orlen-rushes-find-alternatives-saudi-oil-supply-traders-say-2026-09-15/",
+      "date": "2026-09-15T12:40:21Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Poland’s Orlen rushes to find alternatives to Saudi oil supply, traders say Reuters."
+    },
+    {
+      "title": "Norway police investigate Telenor over suspected crimes against humanity in Myanmar - Reuters",
+      "url": "https://www.reuters.com/business/norway-police-investigate-telenor-over-suspected-crimes-against-humanity-myanmar-2026-09-15/",
+      "date": "2026-09-15T12:36:57Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Norway police investigate Telenor over suspected crimes against humanity in Myanmar Reuters."
     },
     {
       "title": "Amazon's AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage - Reuters",
@@ -572,22 +636,6 @@
       "summary": "Global bond yields hit 2008 highs, raising stakes for big borrowers Reuters."
     },
     {
-      "title": "Turkish authorities detain at least 150 at protest over LGBTQ+ arrests - Reuters",
-      "url": "https://www.reuters.com/world/turkish-authorities-detain-least-150-protest-over-lgbtq-arrests-2026-09-15/",
-      "date": "2026-09-15T11:42:46Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Turkish authorities detain at least 150 at protest over LGBTQ+ arrests Reuters."
-    },
-    {
-      "title": "EXCLUSIVE: Indian consumer regulator escalates probe into Apple's software warranty terms - Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/indian-consumer-regulator-escalates-probe-into-apples-software-warranty-terms-2026-09-15/",
-      "date": "2026-09-15T11:42:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "EXCLUSIVE: Indian consumer regulator escalates probe into Apple's software warranty terms Reuters."
-    },
-    {
       "title": "Denmark says Russian warship fired flares at military helicopter",
       "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-15T11:40:00Z",
@@ -596,36 +644,12 @@
       "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
     },
     {
-      "title": "US Senate to vote on advancing landmark crypto bill - Reuters",
-      "url": "https://www.reuters.com/legal/government/us-senate-vote-advancing-landmark-crypto-bill-2026-09-15/",
-      "date": "2026-09-15T11:39:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "US Senate to vote on advancing landmark crypto bill Reuters."
-    },
-    {
       "title": "Jaguar Land Rover in talks to sell Defender to Nato countries",
       "url": "https://www.theguardian.com/business/2026/sep/15/jaguar-land-rover-sell-defender-nato-jlr",
       "date": "2026-09-15T11:35:41Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Carmaker builds on relationship with British armed forces by seeking to cash in on Europe’s rearmament drive Business live – latest updatesJaguar Land Rover is in talks with Nato countries about selling them the newly revamped Defender military vehicle, as the UK-based carmaker seeks to tap into Europe’s defence spending boom.It is also among carmakers bidding for a UK defence ministry contract worth £900m to replace an ageing fleet of Land Rovers that have been out of production since 2016, competing with General Motors and the UK’s Ineos Automotive, which builds the Grenadier 4x4 for the civilian market. Continue reading..."
-    },
-    {
-      "title": "Kremlin welcomes Trump's idea of energy truce with Ukraine, calls for sanctions removal - Reuters",
-      "url": "https://www.reuters.com/business/energy/kremlin-welcomes-trumps-idea-energy-truce-with-ukraine-calls-sanctions-removal-2026-09-15/",
-      "date": "2026-09-15T11:24:50Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Kremlin welcomes Trump's idea of energy truce with Ukraine, calls for sanctions removal Reuters."
-    },
-    {
-      "title": "Brazil's top court to decide on unprecedented probe of sitting justice - Reuters",
-      "url": "https://www.reuters.com/business/finance/brazils-top-court-decide-unprecedented-probe-sitting-justice-2026-09-15/",
-      "date": "2026-09-15T11:16:26Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Brazil's top court to decide on unprecedented probe of sitting justice Reuters."
     },
     {
       "title": "Venice best actress winner says she signed on at Danish job centre days before her victory",
@@ -676,22 +700,6 @@
       "summary": "Today’s blog is closedGet our breaking news email, free app or daily news podcastThe South Australian premier, Peter Malinauskas, says there is optimism that steel making will continue in his state, after the closure of a major blast furnace at Whyalla was announced yesterday.Speaking to ABC News Breakfast from Whyalla and donned in some hi-vis, Malinauskas says there was disappointment, heartbreak, but also a sense of inevitability when the announcement was made.[Whyalla] has the capacity to be a viable operation but it hasn’t been recapitalised. The blast furnace is over 60 years old. It was first built in 1965 and blast furnaces of this age not to be realigned on a frequent basis."
     },
     {
-      "title": "‘Mafia boys’ and ‘corrupt politicians’: fugitive developer Jean Nassif rants to Icac from Beirut bedroom",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/15/jean-nassif-icac-evidence-fugitive-developer-ntwnfb",
-      "date": "2026-09-15T07:48:57Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Nassif declares ‘I’m not corrupt’, threatens to pull out of evidence and waves handwritten notes at counsel assisting Peggy DwyerFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastFugitive property developer Jean Nassif has declared he is “not corrupt”, claimed his daughter was forced to plead guilty to fraud and threatened to take the New South Wales government to The Hague in an explosive appearance at the state’s corruption watchdog.Dialling into the NSW Independent Commission Against Corruption inquiry from his Beirut bedroom, Nassif, 58, said he would return to Australia when he clears his name. Continue reading..."
-    },
-    {
-      "title": "‘I was being polite’: prominent athlete continued texting Alan Jones after alleged assaults due to his reputation, trial hears",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/15/i-was-being-polite-prominent-athlete-continued-texting-alan-jones-after-alleged-assaults-due-to-his-reputation-trial-hears-ntwnfb",
-      "date": "2026-09-15T06:08:20Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Witness tells court he sent Jones friendly messages after two alleged assaults because he had been generous to himListen to the podcast Alan Jones on TrialGet our breaking news email, free app or daily news podcastA prominent athlete who has accused Alan Jones of twice kissing him without consent has told a Sydney court he continued to text the broadcaster after the alleged assaults because Jones was powerful and had been generous to him.The witness, who is appearing for a second day in the seventh week of a lengthy trial, agreed he had sent Jones friendly messages after the two alleged assaults. Continue reading..."
-    },
-    {
       "title": "Superstars and broken records: 2026 Emmy highlights",
       "url": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-15T05:14:24Z",
@@ -740,14 +748,6 @@
       "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony."
     },
     {
-      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-      "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-15T02:50:36Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure."
-    },
-    {
       "title": "Panama canal traffic to be cut again as drought from El Niño worsens",
       "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
       "date": "2026-09-15T02:43:18Z",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Rising Fuel Prices Set Off Anger and Protests Around the World",
+      "url": "https://www.nytimes.com/2026/09/15/world/asia/syria-fuel-price-protests-world.html",
+      "date": "2026-09-15T15:03:01Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "From Indonesia to Guatemala to Syria, shortages and price increases are leading to protests and blackouts."
+    },
+    {
       "title": "Lucy Letby Murder Inquiry Says Some Babies’ Deaths Were Avoidable",
       "url": "https://www.nytimes.com/2026/09/15/world/europe/lucy-letby-murder-inquiry.html",
       "date": "2026-09-15T14:56:50Z",
@@ -774,12 +782,12 @@
       "summary": "While significant questions remain about the evidence used to convict a British nurse of murdering seven babies, a report predicated on her guilt was released on Tuesday."
     },
     {
-      "title": "Rising Fuel Prices Set Off Anger and Protests Around the World",
-      "url": "https://www.nytimes.com/2026/09/15/world/asia/syria-fuel-price-protests-world.html",
-      "date": "2026-09-15T14:38:09Z",
-      "source": "The New York Times",
+      "title": "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter - AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-lithuania-drone-downed-nato-9671662649ebed2eca41879982f366ad",
+      "date": "2026-09-15T14:51:00Z",
+      "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "From Indonesia to Guatemala to Syria, shortages and price increases are leading to protests and blackouts."
+      "summary": "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter AP News."
     },
     {
       "title": "Ukraine and Russia Say There Is No Energy Truce, Despite Trump’s Claims",
@@ -812,14 +820,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "The Houthis are increasingly using artificial intelligence and other tools to produce advanced weaponry on their own, making them less reliant on Iran."
-    },
-    {
-      "title": "NATO jets down drone over Lithuania and Russian ship fires flares at Danish helicopter - AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-lithuania-drone-downed-nato-9671662649ebed2eca41879982f366ad",
-      "date": "2026-09-15T13:48:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "NATO jets down drone over Lithuania and Russian ship fires flares at Danish helicopter AP News."
     },
     {
       "title": "Houthis Report Deadly Saudi Airstrikes as Kingdom Issues Mass Alerts",
@@ -1024,6 +1024,22 @@
       "summary": "Meta wprowadza nową usługę abonamentową Meta One, czyli bardziej zaawansowane funkcje dla popularnych aplikacji społecznościowych i komunikatora."
     },
     {
+      "title": "India's UPI, which has been free for merchants, will impose a 0.4% merchant fee on certain payments above ₹2,000, or $21, from October 15 in a major shift (Jagmeet Singh/TechCrunch)",
+      "url": "https://www.techmeme.com/260915/p28#a260915p28",
+      "date": "2026-09-15T15:00:45Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Jagmeet Singh / TechCrunch: India's UPI, which has been free for merchants, will impose a 0.4% merchant fee on certain payments above &#8377;2,000, or $21, from October 15 in a major shift &mdash; India has finally put a price on larger transactions on its ubiquitous digital payments network, ending years of free processing &hellip;."
+    },
+    {
+      "title": "GM plans to add Apple CarPlay and Android Auto to its latest infotainment system, three years after upsetting some consumers by removing them from its EVs (David Welch/Bloomberg)",
+      "url": "https://www.techmeme.com/260915/p29#a260915p29",
+      "date": "2026-09-15T15:00:45Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "David Welch / Bloomberg: GM plans to add Apple CarPlay and Android Auto to its latest infotainment system, three years after upsetting some consumers by removing them from its EVs &mdash; General Motors Co. is integrating Apple Inc.'s CarPlay in its latest infotainment system, three years after upsetting some consumers &hellip;."
+    },
+    {
       "title": "A Cop Searched 19,000 Flock Cameras Across 1,558 Cities. His Reason: 'LMAO'",
       "url": "https://www.techtimes.co.uk/police-flock-search-licence-plate-lmao-1808683",
       "date": "2026-09-15T14:47:21Z",
@@ -1136,14 +1152,6 @@
       "summary": "Article URL: https://github.com/greentfrapp/panel Comments URL: https://news.ycombinator.com/item?id=49712621 Points: 11 # Comments: 2."
     },
     {
-      "title": "OpenAI backs a provision of the FRONTIER Act, a bipartisan House proposal, that would require AI companies to embed outside evaluators to ensure model safety (Brendan Bordelon/Politico)",
-      "url": "https://www.techmeme.com/260915/p22#a260915p22",
-      "date": "2026-09-15T13:55:00Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Brendan Bordelon / Politico: OpenAI backs a provision of the FRONTIER Act, a bipartisan House proposal, that would require AI companies to embed outside evaluators to ensure model safety &mdash; Artificial intelligence giant OpenAI is supporting a bipartisan House proposal that would require top AI companies to embed outside evaluators to ensure their models are safe."
-    },
-    {
       "title": "AI is breaking our proxies for expertise",
       "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
       "date": "2026-09-15T13:41:55Z",
@@ -1166,14 +1174,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Jeden nowy system Apple, aż 122 dziury. Wszyscy mamy przerąbane."
-    },
-    {
-      "title": "Altera, which makes chips for AI, automation, and more, files confidentially for an IPO; Intel acquired it for ~$16.7B in 2015, and Silver Lake took 51% in 2025 (David Morris/Bloomberg)",
-      "url": "https://www.techmeme.com/260915/p21#a260915p21",
-      "date": "2026-09-15T13:35:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "David Morris / Bloomberg: Altera, which makes chips for AI, automation, and more, files confidentially for an IPO; Intel acquired it for ~$16.7B in 2015, and Silver Lake took 51% in 2025 &mdash; Altera, a chipmaker backed by Silver Lake and Intel Corp., filed confidentially for an initial public offering."
     },
     {
       "title": "Posiadacze Samsung Galaxy poczują ulgę. Świetna nowa funkcja",
@@ -2537,51 +2537,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25642.14,
+      25634.92,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26805.1,
+      26797.55,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26951.88,
+      26944.28,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27196.53,
+      27188.87,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27831.52,
+      27823.68,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27867.52,
+      27859.66,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28111.91,
+      28103.98,
       27354.94,
       27400.36,
       27412.11,
-      28512.85,
+      28504.82,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27774.38,
+      27766.55,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27953.88,
+      27946.0,
       27686.17,
       27404.78,
       27351.97,
@@ -2590,7 +2590,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27662.59,
+      27654.79,
       27930.04,
       28234.04,
       28218.36,
@@ -2599,53 +2599,53 @@
       28294.39,
       28203.83,
       28555.17,
-      28495.28,
+      28487.25,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28052.55,
+      28044.64,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27880.61,
+      27872.75,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28173.03,
+      28165.09,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29180.83,
+      29172.61,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29286.6,
+      29278.35,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      28867.6,
+      28859.47,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29008.25,
+      29000.07,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29033.98,
+      29025.8,
       28449.73,
       28313.03,
       28272.33,
-      28802.19,
-      28663.01,
-      28502.54
+      28794.07,
+      28654.93,
+      28503.57
     ],
     "currency": "PLN"
   }
