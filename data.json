@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-09-15T19:26:39Z",
+  "last_updated": "2026-09-15T19:36:08Z",
   "poland": [
+    {
+      "title": "Rąk do pracy będzie coraz mniej. Czy Polska znajdzie sposób na demografię?",
+      "url": "https://www.rp.pl/forum-ekonomiczne/art45145341-rak-do-pracy-bedzie-coraz-mniej-czy-polska-znajdzie-sposob-na-demografie",
+      "date": "2026-09-15T19:23:33Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Zmiany demograficzne coraz mocniej uderzają w rynek pracy, a pracowników będzie coraz mniej. Eksperci wskazują, że odpowiedzią powinny być inwestycje w zdrowie, dłuższa aktywność zawodowa, przemyślana migracja i nowe technologie."
+    },
+    {
+      "title": "Cyfryzacja przyspiesza, ale jej koszty rosną",
+      "url": "https://www.rp.pl/forum-ekonomiczne/art45145381-cyfryzacja-przyspiesza-ale-jej-koszty-rosna",
+      "date": "2026-09-15T19:19:02Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Na rosnące koszty cyfryzacji, uzależnienie od systemów zagranicznych dostawców oraz bolączki stosowania zamówień publicznych zwracali uwagę przedstawiciele biznesu, nauki i administracji podczas spotkania z wicepremierem Krzysztofem Gawkowskim."
+    },
     {
       "title": "Warszawskie wagony trafiły do Kijowa. Przy ich transporcie zniknęło 11,6 mln zł",
       "url": "https://www.rp.pl/przestepczosc/art45145711-warszawskie-wagony-trafily-do-kijowa-przy-ich-transporcie-zniknelo-11-6-mln-zl",
@@ -128,22 +144,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Arabia Saudyjska gorączkowo próbuje ratować swój eksport ropy — a tym samym ceny paliw."
-    },
-    {
-      "title": "Polska może zostać czwartą siłą UE. Hiszpańscy analitycy wskazują warunki",
-      "url": "https://www.rp.pl/polityka/art45145591-polska-moze-zostac-czwarta-sila-ue-hiszpanscy-analitycy-wskazuja-warunki",
-      "date": "2026-09-15T17:54:38Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Polska może stać się w ciągu najbliższej dekady jedną z czterech wielkich sił Unii Europejskiej obok Niemiec, Francji i Włoch – uważa zespół analiz eksperckiego portalu Diplomat in Spain. Opublikował on artykuł w całości poświęcony Polsce."
-    },
-    {
-      "title": "Dziennik Ustaw z 15 września 2026 r. (poz. 1210-1213)",
-      "url": "https://www.rp.pl/akty-prawne/art45145601-dziennik-ustaw-z-15-wrzesnia-2026-r-poz-1210-1213",
-      "date": "2026-09-15T17:36:18Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": ""
     },
     {
       "title": "GPW: Komunikat - BANK POCZTOWY - PAP Biznes",
@@ -404,12 +404,28 @@
   ],
   "world_security": [
     {
+      "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
+      "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
+      "date": "2026-09-15T19:14:00Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Scandal explodes as country’s election campaign peaks, with polls suggesting dead heat between candidatesBrazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, as two rival judges lock horns on the eve of the presidential election with unpredictable consequences for Latin America’s largest democracy.The politically charged dispute exploded into public view on Tuesday as judges traded insults and accusations during a heated supreme court hearing that was livestreamed into millions of Brazilian homes. Continue reading..."
+    },
+    {
       "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
       "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-15T19:13:44Z",
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
+    },
+    {
+      "title": "Carney says Canada will pursue ‘unique economic alliance’ with EU amid US trade spat",
+      "url": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
+      "date": "2026-09-15T19:08:37Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Prime minister speaks of strengthening Canada’s economic and political ties to Europe at Canada Investment SummitMark Carney said Canada will pursue a “unique security and economic alliance” with Europe as he positions his country as a base to build in the “new global economic order”.Speaking to investors, company executives and government ministers at the inaugural Canada Investment Summit on Tuesday, the prime minister pitched Canada as a “safe harbour” and lucrative home for foreign capital as his government looks to reduce its reliance on trade with the United States. Continue reading..."
     },
     {
       "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
@@ -434,6 +450,14 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "US orbital weapons acknowledgment a landmark moment, US Space Command official says Reuters."
+    },
+    {
+      "title": "Trump administration plans $2.8 billion munitions sale to Israel, sources say - Reuters",
+      "url": "https://www.reuters.com/world/us/trump-administration-plans-28-billion-munitions-sale-israel-sources-say-2026-09-15/",
+      "date": "2026-09-15T18:03:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Trump administration plans $2.8 billion munitions sale to Israel, sources say Reuters."
     },
     {
       "title": "South African president vows justice as more women's bodies found near Johannesburg",
@@ -580,6 +604,14 @@
       "summary": "Britain upgrades diplomatic relations with Venezuela Reuters."
     },
     {
+      "title": "Syrian Kurds aim to preserve Kurdish schooling as Damascus reasserts authority - Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/syrian-kurds-aim-preserve-kurdish-schooling-damascus-reasserts-authority-2026-09-15/",
+      "date": "2026-09-15T16:22:09Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Syrian Kurds aim to preserve Kurdish schooling as Damascus reasserts authority Reuters."
+    },
+    {
       "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
       "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-15T16:13:41Z",
@@ -610,22 +642,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "South Korean workers challenging Trump administration over Georgia raid, CNN reports Reuters."
-    },
-    {
-      "title": "US Senate to vote on advancing sweeping cryptocurrency bill - Reuters",
-      "url": "https://www.reuters.com/legal/government/us-senate-vote-advancing-landmark-crypto-bill-2026-09-15/",
-      "date": "2026-09-15T15:41:43Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "US Senate to vote on advancing sweeping cryptocurrency bill Reuters."
-    },
-    {
-      "title": "Congo police break up protests against proposed constitutional changes - Reuters",
-      "url": "https://www.reuters.com/world/africa/congo-police-break-up-protests-against-proposed-constitutional-changes-2026-09-15/",
-      "date": "2026-09-15T15:41:43Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Congo police break up protests against proposed constitutional changes Reuters."
     },
     {
       "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
@@ -746,22 +762,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Study finds earlier numbers were underestimated, suggesting impact of diseases and massacres were much greater than previously thoughtGet our breaking news email, free app or daily news podcastThe number of Aboriginal and Torres Strait Islander people in Australia before colonisation was dramatically underestimated, according to new research that suggests many more of them were killed.Modelling by a national research group puts the population levels before the 1788 first fleet arrived at 2.2 million, compared with early estimates of 250,000 people. Continue reading..."
-    },
-    {
-      "title": "Australian fashion brands Cue and Veronika Maine face collapse after ‘difficult period’ – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/15/one-nation-pauline-hanson-immigration-coalition-andrew-hastie-angus-taylor-labor-anthony-albanese-ntwnfb",
-      "date": "2026-09-15T08:04:23Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Today’s blog is closedGet our breaking news email, free app or daily news podcastThe South Australian premier, Peter Malinauskas, says there is optimism that steel making will continue in his state, after the closure of a major blast furnace at Whyalla was announced yesterday.Speaking to ABC News Breakfast from Whyalla and donned in some hi-vis, Malinauskas says there was disappointment, heartbreak, but also a sense of inevitability when the announcement was made.[Whyalla] has the capacity to be a viable operation but it hasn’t been recapitalised. The blast furnace is over 60 years old. It was first built in 1965 and blast furnaces of this age not to be realigned on a frequent basis."
-    },
-    {
-      "title": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch",
-      "url": "https://www.theguardian.com/world/2026/sep/15/houthi-rebels-seize-red-sea-hanish-islands-saudi-oil-warning",
-      "date": "2026-09-15T04:22:16Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "The militant group in Yemen captured the islands of Greater and Lesser Hanish, near the chokepoint of the Bab al-Mandab straitYemen’s Houthi militants have seized two strategic islands in the Red Sea, reinforcing the Iran-backed group’s ability to control a key shipping route, as concerns mount that the world is facing a new oil supply crisis.The seizure of the islands of Greater and Lesser Hanish is the latest in the militant group’s swift advance across Yemen’s Red Sea coast, after the capture of the port of Mokha and Perim island in the Bab al-Mandab strait. Continue reading..."
     }
   ],
   "world_politics": [
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "The Senate fails to advance the Clarity Act, dealing a major blow to the crypto industry's push for a comprehensive market structure framework (CNBC)",
+      "url": "https://www.techmeme.com/260915/p43#a260915p43",
+      "date": "2026-09-15T19:17:34Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "CNBC: The Senate fails to advance the Clarity Act, dealing a major blow to the crypto industry's push for a comprehensive market structure framework &mdash; The Senate on Tuesday voted to block the Clarity Act from advancing, dealing a major blow to the crypto industry's push for a comprehensive market structure framework."
+    },
+    {
       "title": "CADDi, which sells AI tools to help manufacturers organize engineering and production data, raised a $114M Series D at a $1.2B valuation, up from $470M in 2025 (Jeremy Kahn/Fortune)",
       "url": "https://www.techmeme.com/260915/p42#a260915p42",
       "date": "2026-09-15T18:45:01Z",
@@ -1061,7 +1069,7 @@
       "date": "2026-09-15T18:11:24Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover Comments URL: https://news.ycombinator.com/item?id=49716476 Points: 60 # Comments: 14."
+      "summary": "Article URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover Comments URL: https://news.ycombinator.com/item?id=49716476 Points: 76 # Comments: 25."
     },
     {
       "title": "Meta One rusza w Polsce. Co daje płatny Facebook, Instagram i WhatsApp",
@@ -1085,7 +1093,7 @@
       "date": "2026-09-15T17:56:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand Comments URL: https://news.ycombinator.com/item?id=49716241 Points: 38 # Comments: 2."
+      "summary": "Article URL: https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand Comments URL: https://news.ycombinator.com/item?id=49716241 Points: 58 # Comments: 18."
     },
     {
       "title": "An Update on Wayback Machine Access",
@@ -1093,7 +1101,7 @@
       "date": "2026-09-15T17:52:18Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/ Comments URL: https://news.ycombinator.com/item?id=49716176 Points: 97 # Comments: 44."
+      "summary": "Article URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/ Comments URL: https://news.ycombinator.com/item?id=49716176 Points: 117 # Comments: 56."
     },
     {
       "title": "Some developers are using the Claude Code harness to access cheaper non-Anthropic models, such as OpenAI's GPT-5.6 Sol, via proxies and services like OpenRouter (Alix Coutures/The Information)",
@@ -1125,7 +1133,7 @@
       "date": "2026-09-15T17:12:19Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://marc.info/?l=openbsd-tech&m=178948744271633&w=2 Comments URL: https://news.ycombinator.com/item?id=49715590 Points: 51 # Comments: 19."
+      "summary": "Article URL: https://marc.info/?l=openbsd-tech&m=178948744271633&w=2 Comments URL: https://news.ycombinator.com/item?id=49715590 Points: 55 # Comments: 21."
     },
     {
       "title": "Polskie wojsko umacnia granicę z Ukrainą. Tak wyglądają fortyfikacje Hesco",
@@ -1205,7 +1213,7 @@
       "date": "2026-09-15T15:58:48Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster Comments URL: https://news.ycombinator.com/item?id=49714547 Points: 99 # Comments: 51."
+      "summary": "Article URL: https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster Comments URL: https://news.ycombinator.com/item?id=49714547 Points: 114 # Comments: 63."
     },
     {
       "title": "KB5129195 dla Windows 11: nowa łatka po Patch Tuesday",
@@ -1224,14 +1232,6 @@
       "summary": "Dreame wprowadziło do Polski trzy nowe roboty sprzątające, ale każdy z nich celuje w nieco innego użytkownika. Dreame L60 Ultra ma oferować zaawansowane funkcje w przystępniejszym wydaniu, X50s Ultra kusi smukłą konstrukcją i promocją, a X60 Pro Master można niemal całkowicie ukryć w zabudowie. Ceny zaczynają się od 3399 zł, choć tylko w ramach oferty [&#8230;] Artykuł Dreame pokazało 3 nowe roboty sprzątające."
     },
     {
-      "title": "DoorDash agrees to acquire Wonder's Grubhub Campus Dining business, formerly Tapingo, for $300M, and will add $125M to Wonder's $650M Series D announced in July (Amanda Silberling/TechCrunch)",
-      "url": "https://www.techmeme.com/260915/p35#a260915p35",
-      "date": "2026-09-15T15:40:43Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Amanda Silberling / TechCrunch: DoorDash agrees to acquire Wonder's Grubhub Campus Dining business, formerly Tapingo, for $300M, and will add $125M to Wonder's $650M Series D announced in July &mdash; The delivery platform DoorDash is investing in and partnering with Marc Lore-owned food tech company Wonder in deals worth &hellip;."
-    },
-    {
       "title": "Condor DE1809 nie zdążył do Frankfurtu. Lotnisko zamknięto sekundę wcześniej",
       "url": "https://www.benchmark.pl/condor-de1809-nie-zdazyl-do-frankfurtu-lotnisko-zamknieto-sekunde-wczesniej-7329703038564512a",
       "date": "2026-09-15T15:30:00Z",
@@ -1245,7 +1245,7 @@
       "date": "2026-09-15T15:26:45Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 59 # Comments: 55."
+      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 60 # Comments: 58."
     },
     {
       "title": "iPhone Duo to bezpieczny początek. Takie będą kolejne składaki Apple'a",
@@ -1812,6 +1812,14 @@
   ],
   "finance": [
     {
+      "title": "Wielki przekręt na pomocy dla Kijowa. Polska podarowała im wagony metra, a oni ukradli miliony",
+      "url": "https://www.bankier.pl/wiadomosc/Wielki-przekret-na-pomocy-dla-Kijowa-Polska-podarowala-im-wagony-metra-a-oni-ukradli-miliony-9197595.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-09-15T19:22:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Narodowe Biuro Antykorupcyjne Ukrainy (NABU) i Specjalna Prokuratura Antykorupcyjna (SAP) poinformowały we wtorek o wykryciu grupy przestępczej, która przywłaszczyła sobie ponad 137,5 mln hrywien (11,6 mln zł) należących do przedsiębiorstwa Kyjiwski Metropoliten (Kijowskie Metro) w związku z transportem wagonów podarowanych przez warszawskie metro."
+    },
+    {
       "title": "Sensacyjny zwrot akcji w Polsce 2050. Własna partia odrzuciła Szymona Hołownię",
       "url": "https://www.bankier.pl/wiadomosc/Sensacyjny-zwrot-akcji-w-Polsce-2050-Wlasna-partia-odrzucila-Szymona-Holownie-9197592.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-09-15T19:12:00Z",
@@ -1866,14 +1874,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Unimot rozpoczął proces przeglądu i aktualizacji opcji strategicznych dla grupy Unimot, określonych w strategii grupy na lata 2024-2028 - podał Unimot w komunikacie."
-    },
-    {
-      "title": "Uspokojenie na rynku surowców? USA prostują czarne scenariusze wokół kluczowego ropociągu",
-      "url": "https://www.bankier.pl/wiadomosc/Uspokojenie-na-rynku-surowcow-USA-prostuja-czarne-scenariusze-wokol-kluczowego-ropociagu-9197548.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-09-15T17:57:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Amerykański minister energii Chris Wright powiedział we wtorek, że uszkodzony przez proirańskie bojówki ropociąg Wschód-Zachód w Arabii Saudyjskiej wznowi działanie w ciągu kilku dni. Wcześniej agencja AP podawała, że rurociąg może być wyłączony przez kilka tygodni."
     },
     {
       "title": "Dodatkowe pieniądze co miesiąc do wypłaty. Sprawdź, czy przysługuje ci ten zasiłek - Forsal.pl",
@@ -2313,8 +2313,8 @@
       "lng": 38.99,
       "type": "conflict",
       "region": "Syria",
-      "description": "From Indonesia to Guatemala to Syria, shortages and price increases are leading to protests and blackouts.",
-      "url": "https://www.nytimes.com/2026/09/15/world/asia/syria-fuel-price-protests-world.html"
+      "description": "Syrian Kurds aim to preserve Kurdish schooling as Damascus reasserts authority Reuters.",
+      "url": "https://www.reuters.com/business/media-telecom/syrian-kurds-aim-preserve-kurdish-schooling-damascus-reasserts-authority-2026-09-15/"
     },
     {
       "lat": -24.8,
@@ -2561,51 +2561,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25638.32,
+      25643.1,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26801.11,
+      26806.1,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26947.87,
+      26952.88,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27192.48,
+      27197.54,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27827.38,
+      27832.56,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27863.37,
+      27868.55,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28107.72,
+      28112.95,
       27354.94,
       27400.36,
       27412.11,
-      28508.61,
+      28513.91,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27770.25,
+      27775.42,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27949.72,
+      27954.92,
       27686.17,
       27404.78,
       27351.97,
@@ -2614,7 +2614,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27658.47,
+      27663.62,
       27930.04,
       28234.04,
       28218.36,
@@ -2623,53 +2623,53 @@
       28294.39,
       28203.83,
       28555.17,
-      28491.04,
+      28496.34,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28048.37,
+      28053.59,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27876.46,
+      27881.64,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28168.84,
+      28174.08,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29176.48,
+      29181.91,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29282.24,
+      29287.69,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      28863.31,
+      28868.68,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29003.93,
+      29009.33,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29029.65,
+      29035.06,
       28449.73,
       28313.03,
       28272.33,
-      28797.9,
-      28658.74,
-      28518.8
+      28803.26,
+      28664.08,
+      28521.43
     ],
     "currency": "PLN"
   }
