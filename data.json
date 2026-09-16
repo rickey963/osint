@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T09:05:41Z",
+  "last_updated": "2026-09-16T09:06:29Z",
   "poland": [
     {
       "title": "Zuzanna Dąbrowska: A może PiS i Mateusz Morawiecki zdecydują się na rotacyjnego wicemarszałka",
@@ -766,6 +766,22 @@
   ],
   "world_politics": [
     {
+      "title": "The Election May Be a Snoozefest, but Russians Fear What Could Follow",
+      "url": "https://www.nytimes.com/2026/09/16/world/europe/russia-duma-election.html",
+      "date": "2026-09-16T09:03:00Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Russians are bracing for what the government might do on the military and economy after a vote that the Kremlin sees as legitimizing its policies."
+    },
+    {
+      "title": "The World Economy Is Becoming Wary of the U.S.",
+      "url": "https://www.nytimes.com/2026/09/16/business/trump-debt-sanctions-global-economy.html",
+      "date": "2026-09-16T09:02:52Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "America’s position of global economic stability is starting to look shakier as the Trump administration piles on debt and doubles down on sanctions."
+    },
+    {
       "title": "How 9/11 Helped Create Regional Clout for Iran",
       "url": "https://www.nytimes.com/2026/09/16/world/middleeast/sept-11-iran-islamic-state-iraq.html",
       "date": "2026-09-16T09:00:42Z",
@@ -776,7 +792,7 @@
     {
       "title": "Does the Stork’s Return to Britain Restore History or Rewrite It?",
       "url": "https://www.nytimes.com/2026/09/16/climate/white-storks-project-knepp-rewild-conservation-uk.html",
-      "date": "2026-09-16T09:00:31Z",
+      "date": "2026-09-16T09:00:32Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Conservationists set up a colony of white storks in southern England, touching off a debate over whether they truly belong there."
@@ -934,28 +950,12 @@
       "summary": "US strips millions in military aid from Europe and Mideast to back Trump-aligned nations in Americas AP News."
     },
     {
-      "title": "Alex Saab, Venezuelan Tied to Maduro, Pleads Guilty in Florida",
-      "url": "https://www.nytimes.com/2026/09/14/us/alex-saab-maduro-money-laundering-plea.html",
-      "date": "2026-09-15T17:43:22Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Alex Saab, a former official in Venezuela and longtime ally of its deposed leader, Nicolás Maduro, agreed to cooperate with investigators."
-    },
-    {
       "title": "Judge blocks Kennedy Center board from putting Trump's name on the building or grounds in any way - AP News",
       "url": "https://apnews.com/article/trump-kennedy-center-judge-6dc2fb38cc5c97d36f60e3aa474f19c4",
       "date": "2026-09-15T17:38:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Judge blocks Kennedy Center board from putting Trump's name on the building or grounds in any way AP News."
-    },
-    {
-      "title": "Harry and Meghan Change Children’s School After Talks With Security Team",
-      "url": "https://www.nytimes.com/2026/09/15/world/europe/prince-harry-meghan-children-schools-security.html",
-      "date": "2026-09-15T17:28:59Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "The couple’s private security team had raised concerns about the difficulty of securing the route to school in traffic, according to a family spokesman."
     },
     {
       "title": "Federal Reserve is expected to raise its benchmark rate, defying Trump’s demands - AP News",
@@ -1007,6 +1007,14 @@
     }
   ],
   "technology": [
+    {
+      "title": "European Commission President Ursula von der Leyen unveils the EU Kids Act during her SOTU address, proposing a blanket ban on social media for kids under 13 (New York Times)",
+      "url": "https://www.techmeme.com/260916/p9#a260916p9",
+      "date": "2026-09-16T09:05:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "New York Times: European Commission President Ursula von der Leyen unveils the EU Kids Act during her SOTU address, proposing a blanket ban on social media for kids under 13 &mdash; A proposed law would bar children under 13 from using social media across the 27-nation bloc. &mdash; The European Union outlined plans &hellip;."
+    },
     {
       "title": "Wciąga, zachwyca i irytuje. The Blood of Dawnwalker – recenzja",
       "url": "https://www.benchmark.pl/wciaga-zachwyca-i-irytuje-the-blood-of-dawnwalker-recenzja-7328280295868576a",
@@ -1390,14 +1398,6 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Naukowcom udało się po raz pierwszy w warunkach laboratoryjnych uzyskać egzotyczną postać lodu, która – jak od dawna podejrzewano – może występować wewnątrz Neptuna i Urana. Ta faza wody powstaje dopiero pod ekstremalnym ciśnieniem, a jej temperatura może przekraczać 2 tys. stopni Celsjusza, czyli poziom kojarzony raczej z topnieniem metali niż z lodem."
-    },
-    {
-      "title": "Hayabusa2 testuje LiDAR na Torifune. Laserowy pomiar w kosmosie",
-      "url": "https://www.benchmark.pl/hayabusa2-testuje-lidar-na-torifune-laserowy-pomiar-w-kosmosie-7329709931989088a",
-      "date": "2026-09-15T16:30:00Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Japońska agencja kosmiczna JAXA zademonstrowała nowe możliwości laserowych pomiarów w przestrzeni kosmicznej. Sonda Hayabusa2 podczas przelotu w pobliżu planetoidy Torifune sprawdziła, jak precyzyjnie da się wyznaczać dystans do szybko przemieszczającego się obiektu."
     },
     {
       "title": "Dreame pokazało 3 nowe roboty sprzątające. Jeden ma aż 42 000 Pa",
@@ -1812,6 +1812,14 @@
   ],
   "finance": [
     {
+      "title": "UE stworzy własny \"artykuł 4\" na wzór NATO. Dołączy do tego sojuszu Kanadę",
+      "url": "https://www.bankier.pl/wiadomosc/UE-stworzy-wlasny-artykul-4-na-wzor-NATO-Dolaczy-do-niego-Kanade-9197810.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-09-16T09:06:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Przewodnicząca Komisji Europejskiej Ursula von der Leyen zapowiedziała prace nad nową europejską strategią bezpieczeństwa, obejmującą mechanizm wzorowany na art. 4 traktatu NATO oraz utworzenie Europejskiej Rady Bezpieczeństwa. Jej zdaniem kraje UE powinny móc szybko koordynować odpowiedzi na zagrożenia."
+    },
+    {
       "title": "Dwa zamachy na samolot Zełenskiego w kilka tygodni. Rosyjskie drony w akcji",
       "url": "https://www.bankier.pl/wiadomosc/Zelenski-w-CBS-News-w-ostatnich-tygodniach-Rosja-dwukrotnie-probowala-zaatakowac-dronami-moj-samolot-9197801.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-09-16T08:53:00Z",
@@ -1866,14 +1874,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Szef administracji Hongkongu John Lee zaprezentował w środę pierwszy w historii regionu plan pięcioletni, dostosowujący jego rozwój do ogólnokrajowej strategii władz ChRL. Dokument zakłada budowę mieszkań, rozwój innowacji oraz głębszą integrację gospodarczą, technologiczną i infrastrukturalną z Chinami kontynentalnymi."
-    },
-    {
-      "title": "KSeF bez kar finansowych aż do końca przyszłego roku. MF wydłuża odroczenie",
-      "url": "https://www.bankier.pl/wiadomosc/KSeF-bez-kar-finansowych-az-do-konca-przyszlego-roku-MF-wydluza-odroczenie-9197777.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-09-16T08:29:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Trwają prace nad projektem ustawy, który wydłuży okres odroczenia kar za błędy związane ze stosowaniem Krajowego Systemu e-Faktur do końca przyszłego roku - poinformowało Ministerstwo Finansów. Od stycznia 2027 r. korzystanie z KSeF staje się obowiązkowe dla wszystkich przedsiębiorców."
     },
     {
       "title": "Notowania giełdowe i wykresy online - BiznesRadar.pl - BiznesRadar",
@@ -1986,6 +1986,14 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "ZUS może wypłacać wyższy dodatek pielęgnacyjny. Potrzebny jest specjalny wniosek Forsal.pl."
+    },
+    {
+      "title": "Komunikat ESPI PRAIRIE MINING LIMITED (greenx): Harmonogram publikacji raportów okresowych GreenX za rok obrotowy 2027 (2026/2027) - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/greenx,harmonogram-publikacji-raportow-okresowych-gr-2026-09-16,espi,20260916_072258_0000358300",
+      "date": "2026-09-16T05:22:58Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat ESPI PRAIRIE MINING LIMITED (greenx): Harmonogram publikacji raportów okresowych GreenX za rok obrotowy 2027 (2026/2027) stockwatch.pl."
     },
     {
       "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 16.09.2026",
@@ -2138,14 +2146,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Roboty i AI wkraczają na plac budowy. To przyciągnie talenty Forbes."
-    },
-    {
-      "title": "Creotech Instruments współtworzy Polish SatCom Alliance. Cel: satelitarny internet dla Polski - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/creotech-instruments-polish-satcom-alliance-lacznosc-satelitarna,akcje,380678",
-      "date": "2026-09-15T12:34:56Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Creotech Instruments współtworzy Polish SatCom Alliance. Cel: satelitarny internet dla Polski stockwatch.pl."
     },
     {
       "title": "Prus kontra Witkacy, czyli czy sztuka musi być użyteczna - Forbes",
@@ -2640,51 +2640,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25670.43,
+      25669.0,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26834.68,
+      26833.18,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26981.61,
+      26980.11,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27226.54,
+      27225.02,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27862.23,
+      27860.67,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27898.26,
+      27896.71,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28142.92,
+      28141.35,
       27354.94,
       27400.36,
       27412.11,
-      28544.31,
+      28542.72,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27805.03,
+      27803.47,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27984.72,
+      27983.16,
       27686.17,
       27404.78,
       27351.97,
@@ -2693,7 +2693,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27693.11,
+      27691.56,
       27930.04,
       28234.04,
       28218.36,
@@ -2702,53 +2702,53 @@
       28294.39,
       28203.83,
       28555.17,
-      28526.72,
+      28525.13,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28083.5,
+      28081.93,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27911.37,
+      27909.81,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28204.12,
+      28202.54,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29213.02,
+      29211.39,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29318.91,
+      29317.28,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      28899.45,
+      28897.84,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29040.25,
+      29038.63,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29066.01,
+      29064.39,
       28449.73,
       28313.03,
       28272.33,
-      28833.97,
+      28832.36,
       28610.74,
-      28565.66
+      28564.07
     ],
     "currency": "PLN"
   }
