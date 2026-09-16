@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-16T16:37:42Z",
+  "last_updated": "2026-09-16T16:38:26Z",
   "poland": [
+    {
+      "title": "Co dalej z krakowską SCT? Mieszkańcy wyrazili opinię",
+      "url": "https://regiony.rp.pl/transport/art45151671-co-dalej-z-krakowska-sct-mieszkancy-wyrazili-opinie",
+      "date": "2026-09-16T16:35:30Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Zdecydowana większość mieszkańców Krakowa popiera funkcjonowanie strefy czystego transportu, a kontrowersje z nią związane nie były głównym powodem odwołania w referendum Aleksandra Miszalskiego. A jak przyszłość SCT widzą kandydaci na prezydenta miasta?"
+    },
     {
       "title": "Awaria kolejowa w Katowicach. Dobrzyński: Traktujemy sprawę bardzo poważnie",
       "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33027882,awaria-kolejowa-w-katowicach-dobrzynski-traktujemy-sprawe.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -176,14 +184,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Pasażerowie irańskich linii lotniczych Sepehran Airlines przeżyli chwile grozy w przestworzach. Samolot zaraz po starcie zaczął rozpadać się w powietrzu. Ludzie na pokładzie maszyny wpadli w panikę."
-    },
-    {
-      "title": "Rok z systemem kaucyjnym w Polsce. Letni pik za nami, ale wyzwań nie brakuje",
-      "url": "https://www.rp.pl/forum-ekonomiczne/art45150561-rok-z-systemem-kaucyjnym-w-polsce-letni-pik-za-nami-ale-wyzwan-nie-brakuje",
-      "date": "2026-09-16T15:05:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Mija prawie rok od oficjalnego startu systemu kaucyjnego oraz blisko dwa lata przygotowań do jego wdrożenia. System poradził sobie z letnim szczytem, ale przed operatorami stoją wciąż poważne wyzwania organizacyjne i finansowe."
     },
     {
       "title": "Dębica udzieli Goodyear pożyczki o wartości 150 mln zł - PAP Biznes",
@@ -766,6 +766,22 @@
   ],
   "world_politics": [
     {
+      "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
+      "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
+      "date": "2026-09-16T16:32:47Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The building was previously damaged by an Israeli strike, the local rescue service said. Its fall underscored the severe risks for many people living among Gaza’s ruins."
+    },
+    {
+      "title": "Houthis and Saudis Trade Claims of Military Attacks as Conflict Escalates",
+      "url": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html",
+      "date": "2026-09-16T16:32:00Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The Houthis, an Iran-backed militia in Yemen, said they had downed a Saudi jet, while Saudi authorities accused the group of firing a drone near Mecca. The Houthis denied doing so."
+    },
+    {
       "title": "Belarus Releases 25 Political Prisoners in Exchange for U.S. Easing of Sanctions",
       "url": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
       "date": "2026-09-16T16:21:51Z",
@@ -774,28 +790,12 @@
       "summary": "The deal is part of the Trump administration’s more transactional approach to a close Russian ally that Europe has tried to isolate."
     },
     {
-      "title": "Houthis and Saudis Trade Claims of Military Attacks as Conflict Escalates",
-      "url": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html",
-      "date": "2026-09-16T16:19:52Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "The Houthis, an Iran-backed militia in Yemen, said they had downed a Saudi jet, while Saudi authorities accused the group of firing a drone near Mecca. The Houthis denied doing so."
-    },
-    {
       "title": "In the Maldives, A.I. Is Helping to Rebuild Beaches Lost to Rising Seas",
       "url": "https://www.nytimes.com/2026/09/16/climate/maldives-beach-restoration-ai.html",
       "date": "2026-09-16T15:43:48Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "An experiment with roots at M.I.T. can assess coastal erosion patterns and harness them to pile up sand instead of washing it away. More projects are planned for Boston and Miami."
-    },
-    {
-      "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-      "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-      "date": "2026-09-16T15:14:28Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "The building was previously damaged by an Israeli strike, the local rescue service said. Its fall underscored the precarious conditions for people living among Gaza’s ruins."
     },
     {
       "title": "E.U. Talks of Making Canada First ‘Associate Member’ as U.S. Ties Weaken",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "DOD CTO Emil Michael says the Trump administration shouldn't take stakes in AI companies and signals opposition to regulatory oversight of AI companies (Kevin Breuninger/CNBC)",
+      "url": "https://www.techmeme.com/260916/p38#a260916p38",
+      "date": "2026-09-16T16:35:04Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Kevin Breuninger / CNBC: DOD CTO Emil Michael says the Trump administration shouldn't take stakes in AI companies and signals opposition to regulatory oversight of AI companies &mdash; Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news."
+    },
+    {
       "title": "Mars będzie dla nas nie lada wyzwaniem. I to jeszcze zanim postawimy na nim pierwsze kroki",
       "url": "https://antyweb.pl/mars-serce-astronauci",
       "date": "2026-09-16T16:30:30Z",
@@ -1053,7 +1061,7 @@
       "date": "2026-09-16T16:13:55Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://testing.googleblog.com/2011/02/this-code-is-crap.html Comments URL: https://news.ycombinator.com/item?id=49729228 Points: 6 # Comments: 0."
+      "summary": "Article URL: https://testing.googleblog.com/2011/02/this-code-is-crap.html Comments URL: https://news.ycombinator.com/item?id=49729228 Points: 21 # Comments: 10."
     },
     {
       "title": "Przez lata smart home był udręką. Wreszcie ktoś zrozumiał, jak naprawdę żyjemy",
@@ -1077,7 +1085,7 @@
       "date": "2026-09-16T15:56:47Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/ Comments URL: https://news.ycombinator.com/item?id=49729000 Points: 20 # Comments: 5."
+      "summary": "Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/ Comments URL: https://news.ycombinator.com/item?id=49729000 Points: 42 # Comments: 11."
     },
     {
       "title": "Akcja phishingowa. CERT Polska ostrzega przed pułapką w e-mailach",
@@ -1101,7 +1109,7 @@
       "date": "2026-09-16T15:40:04Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/ Comments URL: https://news.ycombinator.com/item?id=49728733 Points: 33 # Comments: 23."
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/ Comments URL: https://news.ycombinator.com/item?id=49728733 Points: 45 # Comments: 34."
     },
     {
       "title": "Noetive, which is developing an industrial AI model for businesses in physical industries, emerges from stealth with a $41M seed led by Eclipse (Sarah Klearman/Wall Street Journal)",
@@ -1200,20 +1208,12 @@
       "summary": "Microsoft ostatecznie ubił projekt, który miał być przyszłością podstawowej edycji grafiki i tworzenia własnych obrazów, w tym trójwymiarowych."
     },
     {
-      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
-      "date": "2026-09-16T14:30:36Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/ Comments URL: https://news.ycombinator.com/item?id=49727627 Points: 231 # Comments: 150."
-    },
-    {
       "title": "Anatomy of a Texture",
       "url": "https://agentlien.github.io/texture/",
       "date": "2026-09-16T14:28:28Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://agentlien.github.io/texture/ Comments URL: https://news.ycombinator.com/item?id=49727592 Points: 15 # Comments: 4."
+      "summary": "Article URL: https://agentlien.github.io/texture/ Comments URL: https://news.ycombinator.com/item?id=49727592 Points: 18 # Comments: 4."
     },
     {
       "title": "Microsoft z kolejnym potknięciem. Wrześniowa aktualizacja popsuła Excela",
@@ -1269,7 +1269,7 @@
       "date": "2026-09-16T13:44:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://arxiv.org/abs/2609.14858 Comments URL: https://news.ycombinator.com/item?id=49726955 Points: 85 # Comments: 20."
+      "summary": "Article URL: https://arxiv.org/abs/2609.14858 Comments URL: https://news.ycombinator.com/item?id=49726955 Points: 89 # Comments: 23."
     },
     {
       "title": "Thyles Rupes na zdjęciach Mars Express. Skąd te purpurowe barwy?",
@@ -1293,15 +1293,15 @@
       "date": "2026-09-16T13:18:47Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/ Comments URL: https://news.ycombinator.com/item?id=49726586 Points: 220 # Comments: 99."
+      "summary": "Article URL: https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/ Comments URL: https://news.ycombinator.com/item?id=49726586 Points: 237 # Comments: 106."
     },
     {
-      "title": "Zestawy Parkside i Parkside Performance na obniżce. Kaufland wie co robi",
-      "url": "https://antyweb.pl/zestawy-parkside-i-parkside-performance-na-obnizce-kaufland-wie-co-robi",
-      "date": "2026-09-16T13:00:55Z",
-      "source": "Antyweb",
+      "title": "Scaling Golang CI by Replacing actions/setup-go",
+      "url": "https://www.cloudx.ai/posts/setup-go",
+      "date": "2026-09-16T13:02:14Z",
+      "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Nie tylko w Lidlu znajdziemy sprzęt Parkside. Tym razem obniżki możemy znaleźć w Kauflandzie, gdzie dotknęły zarówno podstawowej zielonej linii, jak i mocniejszych wariantów Performance."
+      "summary": "Article URL: https://www.cloudx.ai/posts/setup-go Comments URL: https://news.ycombinator.com/item?id=49726350 Points: 42 # Comments: 5."
     },
     {
       "title": "Awaria Boeinga 737 po starcie z Maszhadu. Panika na pokładzie",
@@ -1416,6 +1416,14 @@
       "source": "The Register",
       "confirmed_by": 1,
       "summary": "Hardware such as mainframes found to hold the data and business logic needed to build those AI services."
+    },
+    {
+      "title": "Narzędziownik AI 3.0 Revolutions. Zobacz, co przygotowaliśmy w nowej odsłonie kultowego szkolenia",
+      "url": "https://sekurak.pl/narzedziownik-ai-3-0-revolutions-zobacz-co-przygotowalismy-w-nowej-odslonie-kultowego-szkolenia/",
+      "date": "2026-09-16T16:10:14Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Jeżeli nadal korzystasz ze sztucznej inteligencji głównie w taki sposób, że otwierasz ChatGPT, wpisujesz pytanie i liczysz, że tym razem nie zmyśli odpowiedzi, to spokojnie – nie jesteś sam. Problem w tym, że AI coraz rzadziej jest już tylko okienkiem do rozmowy. Dzisiaj analizuje dokumenty, tworzy grafiki i wideo, pisze..."
     },
     {
       "title": "Nine-year-old runs up $118,000 bill on dad's corporate credit card advertising his Roblox YouTube channel",
@@ -1706,6 +1714,14 @@
       "summary": "Improvements in JDK garbage collection, header sizes, data security and quantum key support all should minimize developer friction."
     },
     {
+      "title": "Grupa APT28 po raz kolejny atakuje cele w Europie. Zamiast skomplikowanego malware i wyszukanych eksploitów stosują makra, przeglądarkę Edge i webhooki jako serwer C2",
+      "url": "https://sekurak.pl/grupa-apt28-po-raz-kolejny-atakuje-cele-w-europie-zamiast-skomplikowanego-malware-i-wyszukanych-eksploitow-stosuja-makra-przegladarke-edge-i-webhooki-jako-serwer-c2/",
+      "date": "2026-09-16T02:14:15Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Jak donoszą badacze z PolySwarm rosyjska grupa szpiegowska znana pod nazwą BlueDelta (APT28, Fancy Bear, Forest Blizzard) prowadzi aktywne działania wymierzone w organizacje rządowe, dyplomatyczne oraz sektor obronny. Na celowniku znajdują się państwa europejskie, ze szczególnym uwzględnieniem Rumunii, Turcji i Hiszpanii. TLDR: Cyberprzestępcy stosują zaawansowane metody socjotechniczne (spearphishing) do dystrybucji..."
+    },
+    {
       "title": "TypeSafe AI debuts model for machines that plays Doom",
       "url": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
       "date": "2026-09-16T01:35:16Z",
@@ -1754,12 +1770,20 @@
       "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The emerging malware family, codenamed BambooToken, is assessed to be active since at least February 2023 and put to use in attacks targeting organizations across Asia and South America."
     },
     {
-      "title": "„Pasywny dochód” przy wsparciu ministerstwa? To pułapka",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/pasywny-dochod-przy-wsparciu-ministerstwa-to-pulapka",
-      "date": "2026-09-15T14:09:53Z",
-      "source": "CyberDefence24",
+      "title": "Na sprzedaż trafiło ponad 170 milionów skanów dokumentów identyfikujących tożsamość. Wyciek danych IDScan, jeden z największych w historii Ameryki Północnej.",
+      "url": "https://sekurak.pl/na-sprzedaz-trafilo-ponad-170-milionow-skanow-dokumentow-identyfikujacych-tozsamosc-wyciek-danych-idscan-jeden-z-najwiekszych-w-historii-ameryki-polnocnej/",
+      "date": "2026-09-15T15:11:55Z",
+      "source": "Sekurak",
       "confirmed_by": 1,
-      "summary": "Obietnica łatwego zysku jest jednym z najskuteczniejszych sposobów stosowanych przez cyberprzestępców – zwłaszcza w krajach gdzie świadomość tego typu przestępstw jest niewielka, a obietnica jest pakowana w pozory legalności i autorytet państwa. Właśnie na takim mechanizmie opiera się jedna kampania wymierzona w mieszkańców trzech różnych krajów."
+      "summary": "Na przełomie sierpnia i września dziennikarz Brian Krebs prowadzący popularnego bloga KrebsOnSecurity otrzymał informację o nielegalnym ogłoszeniu sprzedaży danych. Poprzez rosyjskojęzyczne forum Exploit trafił na serwis Nexus oferujący sprzedaż wykradzionych danych. Weryfikując darmową próbkę, dziennikarz znalazł między innymi własne prawo jazdy oraz skan dokumentu Sekretarza Obrony USA, Pete’a Hegsetha."
+    },
+    {
+      "title": "26 i… 27 (tak, będą dwa dni!) października trzeba być z nami w Krakowie! Zobacz agendę konferencji MEGA Sekurak Hacking Party 🙂",
+      "url": "https://sekurak.pl/26-i-27-tak-beda-dwa-dni/",
+      "date": "2026-09-15T14:28:44Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Lato za nami, jesień rusza na pełnych obrotach, a my nie zwalniamy tempa, będąc na ostatniej prostej przed kolejną edycją naszej kultowej konferencji – Mega Sekurak Hacking Party (MSHP). Tym razem, po raz pierwszy w historii, zapraszamy Was na podwójną dawkę hackowania! Konferencja potrwa aż dwa dni, 26 i 27..."
     },
     {
       "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
@@ -1768,6 +1792,14 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access. In one instance highlighted by the cloud security company, the threat actor pivoted from a vulnerable Marimo notebook to an SSH."
+    },
+    {
+      "title": "Nie, nie zhakowano znowu Signala",
+      "url": "https://sekurak.pl/nie-nie-zhakowano-znowu-signala/",
+      "date": "2026-09-15T08:43:08Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Coraz więcej mówi się o zagrożeniu wobec urzędników w Brukseli. Europejscy oficjele stali się celem kampanii mającej na celu przejęcie dostępu do ich kont na popularnych komunikatorach, takich jak Signal czy WhatsApp. Serwis POLITICO twierdzi, że dotarł do prezentacji, w której jednostka ds."
     },
     {
       "title": "AI w telefonie może czytać Twój ekran. Co widzi i jak to ograniczyć?",
@@ -1996,28 +2028,20 @@
       "summary": "Tu chce się pracować! Neurodesign, dobrostan i akustyka zmieniają biura Forbes."
     },
     {
+      "title": "PGE podnosi prognozy EBITDA w trzech segmentach na 2026 rok - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/pge-perspektywy-ebitda-2026-strategia-dywidenda,akcje,380764",
+      "date": "2026-09-16T10:25:03Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "PGE podnosi prognozy EBITDA w trzech segmentach na 2026 rok stockwatch.pl."
+    },
+    {
       "title": "Setki milionów złotych z oszukańczych reklam. Gigant ma problem",
       "url": "https://www.money.pl/finanse/setki-milionow-z-reklam-oszustow-policzyli-ile-gigant-zarabia-7330003233163424a.html",
       "date": "2026-09-16T10:22:46Z",
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Meta, właściciel Facebooka i Instagrama, może czerpać znaczącą część przychodów z reklam wykorzystywanych przez oszustów – wynika z raportu Instrat. Według analityków skala problemu w Polsce może oznaczać nawet 760 mln zł rocznie wpływów związanych z kampaniami scamowymi."
-    },
-    {
-      "title": "Komunikat ESPI HiProMine Spółka Akcyjna (hipromine): Treść uchwał podjętych na Nadzwyczajnym Walnym Zgromadzeniu Spółki w dniu 15 września 2026 roku - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/hipromine,tresc-uchwal-podjetych-na-nadzwyczajnym-walny-2026-09-16,espi,20260916_115006_0000358327",
-      "date": "2026-09-16T09:50:06Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat ESPI HiProMine Spółka Akcyjna (hipromine): Treść uchwał podjętych na Nadzwyczajnym Walnym Zgromadzeniu Spółki w dniu 15 września 2026 roku stockwatch.pl."
-    },
-    {
-      "title": "Biotts chce wejść na GPW w 2027 r. W portfelu transdermalna insulina i lek na otyłość - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/biotts-chce-wejsc-na-gpw-w-2027-r-w-portfelu-transdermalna-insulina-i-lek-na-otylosc,akcje,380759",
-      "date": "2026-09-16T09:16:15Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Biotts chce wejść na GPW w 2027 r. W portfelu transdermalna insulina i lek na otyłość stockwatch.pl."
     },
     {
       "title": "Polskie miasto inwestuje w schrony z prefabrykatów. Renesans wielkiej płyty - Forbes",
@@ -2106,6 +2130,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Ceny ropy naftowej lekko spadły po gwałtownych wzrostach, ale rynek wciąż pozostaje nerwowy. Inwestorzy obserwują sytuację na Bliskim Wschodzie, gdzie zagrożone są kluczowe szlaki transportu surowca. Analitycy ostrzegają, w skrajnym scenariuszu za Brent trzeba będzie zapłaci nawet 150 dol."
+    },
+    {
+      "title": "Komunikat ESPI PRAIRIE MINING LIMITED (greenx): Harmonogram publikacji raportów okresowych GreenX za rok obrotowy 2027 (2026/2027) - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/greenx,harmonogram-publikacji-raportow-okresowych-gr-2026-09-16,espi,20260916_072258_0000358300",
+      "date": "2026-09-16T05:22:58Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat ESPI PRAIRIE MINING LIMITED (greenx): Harmonogram publikacji raportów okresowych GreenX za rok obrotowy 2027 (2026/2027) stockwatch.pl."
     },
     {
       "title": "Środa z Siłą Relatywną (SzSR): 16 września 2026 r.",
@@ -2305,8 +2337,8 @@
       "lng": 105.8,
       "type": "cyber",
       "region": "Rosja",
-      "description": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.",
-      "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html"
+      "description": "Na przełomie sierpnia i września dziennikarz Brian Krebs prowadzący popularnego bloga KrebsOnSecurity otrzymał informację o nielegalnym ogłoszeniu sprzedaży danych.",
+      "url": "https://sekurak.pl/na-sprzedaz-trafilo-ponad-170-milionow-skanow-dokumentow-identyfikujacych-tozsamosc-wyciek-danych-idscan-jeden-z-najwiekszych-w-historii-ameryki-polnocnej/"
     },
     {
       "lat": 32.93,
@@ -2560,51 +2592,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25743.3,
+      25741.94,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26910.85,
+      26909.43,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27058.21,
+      27056.78,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27303.83,
+      27302.38,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27941.32,
+      27939.84,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27977.46,
+      27975.98,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28222.81,
+      28221.32,
       27354.94,
       27400.36,
       27412.11,
-      28625.34,
+      28623.82,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27883.96,
+      27882.48,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28064.17,
+      28062.68,
       27686.17,
       27404.78,
       27351.97,
@@ -2613,7 +2645,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27771.72,
+      27770.25,
       27930.04,
       28234.04,
       28218.36,
@@ -2622,54 +2654,54 @@
       28294.39,
       28203.83,
       28555.17,
-      28607.7,
+      28606.19,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28163.22,
+      28161.73,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27990.6,
+      27989.12,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28284.18,
+      28282.68,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29295.95,
+      29294.4,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29402.14,
+      29400.59,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      28981.49,
+      28979.96,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29122.69,
+      29121.15,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29148.52,
+      29146.98,
       28449.73,
       28313.03,
       28272.33,
-      28915.82,
+      28914.29,
       28610.74,
-      28646.75,
-      28736.33
+      28645.23,
+      28735.71
     ],
     "currency": "PLN"
   }
