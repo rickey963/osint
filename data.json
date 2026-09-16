@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T00:52:34Z",
+  "last_updated": "2026-09-16T00:53:16Z",
   "poland": [
     {
       "title": "SRK daje szanse na nowe życie terenom pogórniczym",
@@ -1410,6 +1410,22 @@
   ],
   "cybersecurity": [
     {
+      "title": "The vulnpocalypse rains iBugs down on Apple with record-setting number of patches",
+      "url": "https://www.theregister.com/security/2026/09/15/the-vulnpocalypse-rains-ibugs-down-on-apple-with-record-setting-number-of-patches/5296679",
+      "date": "2026-09-15T21:38:31Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "September Patch Tuesday part 2?"
+    },
+    {
+      "title": "AI networking startups race to replace Nvidia's NVLink",
+      "url": "https://www.theregister.com/systems/2026/09/15/ai-networking-startups-race-to-replace-nvidias-nvlink/5296672",
+      "date": "2026-09-15T20:56:48Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Intel spin-off Cornelis and newcomer Delos Data pitch open alternatives for scaling AI beyond the rack."
+    },
+    {
       "title": "Your AI agents' reports and questions have a new inbox, courtesy of AWS",
       "url": "https://www.theregister.com/ai-and-ml/2026/09/15/your-ai-agents-reports-and-questions-have-a-new-inbox-courtesy-of-aws/5296661",
       "date": "2026-09-15T20:25:44Z",
@@ -1586,14 +1602,6 @@
       "summary": "Has the good bork fairy paid a visit to Redmond?"
     },
     {
-      "title": "US confirms it has weapons in spaaaaaace",
-      "url": "https://www.theregister.com/offbeat/2026/09/15/us-confirms-it-has-weapons-in-spaaaaaace/5296512",
-      "date": "2026-09-15T12:00:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Mutually Assured Kessler Syndrome, anyone?"
-    },
-    {
       "title": "Brzoska kontra Meta. KNF i sejmowa komisja angażuje się w spór",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/prywatnosc/brzoska-kontra-meta-knf-i-sejmowa-komisja-angazuje-sie-w-spor",
       "date": "2026-09-15T11:59:05Z",
@@ -1608,14 +1616,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access. In one instance highlighted by the cloud security company, the threat actor pivoted from a vulnerable Marimo notebook to an SSH."
-    },
-    {
-      "title": "Gov.uk still struggling with IT contractor tax rules",
-      "url": "https://www.theregister.com/public-sector/2026/09/15/govuk-still-struggling-with-it-contractor-tax-rules/5296531",
-      "date": "2026-09-15T11:28:28Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "IR35 rules not getting easier for government departments."
     },
     {
       "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
@@ -1884,14 +1884,6 @@
       "summary": "Parlamentarzyści Polski 2050 odrzucili we wtorek wieczorem kandydaturę wicemarszałka Sejmu i byłego lidera partii Szymona Hołowni na szefa klubu - dowiedziała się PAP w źródłach partyjnych. Hołownia ma więcej nie ubiegać się o tę funkcję."
     },
     {
-      "title": "Afera wokół kijowskiego metra. Chodzi o wagony podarowane przez Warszawę - Forsal.pl",
-      "url": "https://forsal.pl/swiat/ukraina/artykuly/11302667,warszawskie-metro-wagony-ukraina-nabu.html",
-      "date": "2026-09-15T18:56:14Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Afera wokół kijowskiego metra. Chodzi o wagony podarowane przez Warszawę Forsal.pl."
-    },
-    {
       "title": "Ponad 2 miliardy złotych zysku w trzy miesiące. PGE przedstawia oficjalne wyniki finansowe",
       "url": "https://www.bankier.pl/wiadomosc/PGE-miala-zysk-netto-j-d-w-II-kw-26-w-wys-2-02-mld-zl-zgodnie-z-szacunkami-9197569.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-09-15T18:24:00Z",
@@ -1924,20 +1916,12 @@
       "summary": "W tym roku na granicy Litwy z Białorusią wykryto 12 nielegalnie wykopanych tuneli, którymi migranci próbowali przedostać się do kraju – poinformował we wtorek litewski minister spraw wewnętrznych Martynas Katelynas."
     },
     {
-      "title": "Czy i które obligacje skarbowe warto kupić? Wrzesień 2026 r. - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/polskie-obligacje-skarbowe-wrzesien-2026-okazja-czy-pulapka-edo-coi-stalokuponowe,obligacje,380686",
-      "date": "2026-09-15T17:30:46Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Czy i które obligacje skarbowe warto kupić? Wrzesień 2026 r. stockwatch.pl."
-    },
-    {
-      "title": "MOL RT. (83/2026) MOL completed EUR 500 000 000 Eurobond pricing - BiznesRadar",
+      "title": "MOL RT. (83/2026) MOL completed EUR 500 000 000 Eurobond pricing - biznesradar.pl",
       "url": "https://www.biznesradar.pl/a/154069,mol-rt-83-2026-mol-completed-eur-500-000-000-eurobond-pricing",
       "date": "2026-09-15T16:13:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "MOL RT. (83/2026) MOL completed EUR 500 000 000 Eurobond pricing BiznesRadar."
+      "summary": "MOL RT. (83/2026) MOL completed EUR 500 000 000 Eurobond pricing biznesradar.pl."
     },
     {
       "title": "Wyniki finansowe Grupy AMBRA za rok obrotowy 2025-2026 [Wideokonferencja i czat z zarządem]",
@@ -1948,12 +1932,12 @@
       "summary": "Wyniki finansowe Grupy AMBRA za rok obrotowy 2025-2026 [Wideokonferencja i czat z zarządem] Czaty wt., 15.09.2026 Obrazek."
     },
     {
-      "title": "DIGITAL NETWORK SA Raport okresowy półroczny za PSr - BiznesRadar",
+      "title": "DIGITAL NETWORK SA Raport okresowy półroczny za PSr - biznesradar.pl",
       "url": "https://www.biznesradar.pl/a/154063,digital-network-sa-raport-okresowy-polroczny-za-psr",
       "date": "2026-09-15T15:40:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "DIGITAL NETWORK SA Raport okresowy półroczny za PSr BiznesRadar."
+      "summary": "DIGITAL NETWORK SA Raport okresowy półroczny za PSr biznesradar.pl."
     },
     {
       "title": "Powrót programu „Ceny Paliw Niżej” (CPN). Tańsze paliwa na stacjach w całej Polsce od tego momentu - Forsal.pl",
@@ -1964,20 +1948,20 @@
       "summary": "Powrót programu „Ceny Paliw Niżej” (CPN). Tańsze paliwa na stacjach w całej Polsce od tego momentu Forsal.pl."
     },
     {
-      "title": "VEE SA (11/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ - BiznesRadar",
+      "title": "VEE SA (11/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ - biznesradar.pl",
       "url": "https://www.biznesradar.pl/a/154051,vee-sa-11-2026-informacje-o-walnym-zgromadzeniu-zwolanie-wz-z-projektami-uchwal-zmiany-w-porzadku-obrad-wz",
       "date": "2026-09-15T15:18:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "VEE SA (11/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ BiznesRadar."
+      "summary": "VEE SA (11/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ biznesradar.pl."
     },
     {
-      "title": "CITY SERVICE SE (10/2026) Acquisition of 100% of shares in Daily Spaces, UAB - BiznesRadar",
+      "title": "CITY SERVICE SE (10/2026) Acquisition of 100% of shares in Daily Spaces, UAB - biznesradar.pl",
       "url": "https://www.biznesradar.pl/a/154042,city-service-se-10-2026-acquisition-of-100-of-shares-in-daily-spaces-uab",
       "date": "2026-09-15T15:11:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "CITY SERVICE SE (10/2026) Acquisition of 100% of shares in Daily Spaces, UAB BiznesRadar."
+      "summary": "CITY SERVICE SE (10/2026) Acquisition of 100% of shares in Daily Spaces, UAB biznesradar.pl."
     },
     {
       "title": "\"Przepowiedzieli\" przyszłość. To czeka gospodarkę w 2050 r.",
@@ -1988,12 +1972,12 @@
       "summary": "Światowa Organizacja Handlu (WTO) przedstawiła prognozy dla globalnej gospodarki do 2050 r. W nowym raporcie rocznym organizacja ostrzega przed stratami gospodarczymi. Głównym zagrożeniem ma być postępująca fragmentacja handlu międzynarodowego."
     },
     {
-      "title": "PHOTON ENERGY NV (26/2026) Monthly Report for August 2026 - BiznesRadar",
+      "title": "PHOTON ENERGY NV (26/2026) Monthly Report for August 2026 - biznesradar.pl",
       "url": "https://www.biznesradar.pl/a/154033,photon-energy-nv-26-2026-monthly-report-for-august-2026",
       "date": "2026-09-15T14:39:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "PHOTON ENERGY NV (26/2026) Monthly Report for August 2026 BiznesRadar."
+      "summary": "PHOTON ENERGY NV (26/2026) Monthly Report for August 2026 biznesradar.pl."
     },
     {
       "title": "Giełda w USA wkracza w decydujące miesiące roku. Prognozy analityków dla Wall Street zaczynają się rozjeżdżać",
@@ -2060,12 +2044,12 @@
       "summary": "Murapol: sprzedaż w III kwartale wyższa niż w II. Prezes celuje w 300 mieszkań miesięcznie stockwatch.pl."
     },
     {
-      "title": "Spyrosoft wdraża marketplace dla marki Sinsay. Czas na skalowanie usług e-commerce w regionie - BiznesRadar",
+      "title": "Spyrosoft wdraża marketplace dla marki Sinsay. Czas na skalowanie usług e-commerce w regionie - biznesradar.pl",
       "url": "https://www.biznesradar.pl/a/153991,spyrosoft-wdraza-marketplace-dla-marki-sinsay-czas-na-skalowanie-uslug-e-commerce-w-regionie",
       "date": "2026-09-15T12:06:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Spyrosoft wdraża marketplace dla marki Sinsay. Czas na skalowanie usług e-commerce w regionie BiznesRadar."
+      "summary": "Spyrosoft wdraża marketplace dla marki Sinsay. Czas na skalowanie usług e-commerce w regionie biznesradar.pl."
     },
     {
       "title": "\"Zapłacono za ropę, której nie było\". Ekspert odpowiada Obajtkowi",
@@ -2076,12 +2060,20 @@
       "summary": "Transakcje związane z zakupem wenezuelskiej ropy miały kosztować Orlen 1,6 mld zł – podał \"Financial Times\". Do sprawy odniósł się Daniel Obajtek, który oburza się, że jeden z wyczarterowanych przez Orlen statków wykorzystał ktoś inny. – To sprawa wtórna."
     },
     {
-      "title": "IMS SA (19/2026) Prognoza wyników finansowych na 2026 rok - BiznesRadar",
+      "title": "IMS SA (19/2026) Prognoza wyników finansowych na 2026 rok - biznesradar.pl",
       "url": "https://www.biznesradar.pl/a/153973,ims-sa-19-2026-prognoza-wynikow-finansowych-na-2026-rok",
       "date": "2026-09-15T11:53:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "IMS SA (19/2026) Prognoza wyników finansowych na 2026 rok BiznesRadar."
+      "summary": "IMS SA (19/2026) Prognoza wyników finansowych na 2026 rok biznesradar.pl."
+    },
+    {
+      "title": "Zmiany na liście leków refundowanych. Dobra informacja dla pacjentów - Forsal.pl",
+      "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11302348,nowe-terapie-na-liscie-lekow-refundowanych-od-1-pazdziernika-bedzie-obowiazywac-nowa-lista-lekow-refundowanych.html",
+      "date": "2026-09-15T11:06:40Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Zmiany na liście leków refundowanych. Dobra informacja dla pacjentów Forsal.pl."
     },
     {
       "title": "Grupa Kęty zamknie przejęcie Metra w styczniu 2027 - stockwatch.pl",
@@ -2122,6 +2114,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Ceny towarów i usług konsumpcyjnych w sierpniu skoczyły rok do roku o 3,4 proc., a w porównaniu z lipcem wzrosły o 0,3 proc. – podał Główny Urząd Statystyczny. Odczyt roczny jest zgodny z wcześniejszym, szybkim szacunkiem GUS."
+    },
+    {
+      "title": "Asbis otworzył salon Bang & Olufsen w Palo Alto - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/asbis-salon-bang-olufsen-palo-alto-usa,akcje,380641",
+      "date": "2026-09-15T08:48:33Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Asbis otworzył salon Bang & Olufsen w Palo Alto stockwatch.pl."
     },
     {
       "title": "Mała firma z Mazur po 35 latach zwija żagle. Obwinia UE. \"Czy tam ktoś nie zgłupiał?\"",
@@ -2568,51 +2568,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25649.57,
+      25650.25,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26812.87,
+      26813.58,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      26959.69,
+      26960.4,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27204.41,
+      27205.13,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      27839.58,
+      27840.32,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      27875.59,
+      27876.33,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28120.05,
+      28120.8,
       27354.94,
       27400.36,
       27412.11,
-      28521.11,
+      28521.87,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27782.43,
+      27783.17,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      27961.98,
+      27962.73,
       27686.17,
       27404.78,
       27351.97,
@@ -2621,7 +2621,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27670.6,
+      27671.34,
       27930.04,
       28234.04,
       28218.36,
@@ -2630,53 +2630,53 @@
       28294.39,
       28203.83,
       28555.17,
-      28503.54,
+      28504.3,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28060.68,
+      28061.42,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      27888.69,
+      27889.43,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28181.2,
+      28181.94,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29189.28,
+      29190.06,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29295.09,
+      29295.87,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      28875.97,
+      28876.74,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29016.65,
+      29017.42,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29042.39,
+      29043.16,
       28449.73,
       28313.03,
       28272.33,
-      28810.54,
+      28811.3,
       28610.74,
-      28542.45
+      28543.2
     ],
     "currency": "PLN"
   }
