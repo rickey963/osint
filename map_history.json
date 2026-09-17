@@ -6,7 +6,7 @@
     "region": "Ukraina",
     "description": "Rozpoczęło się operowanie lotnictwa wojskowego w polskiej przestrzeni powietrznej - podało w czwartek Dowództwo Operacyjne Rodzajów Sił Zbrojnych.",
     "url": "https://www.polsatnews.pl/wiadomosc/2026-09-17/alert-rcb-wojsko-poderwalo-mysliwce-systemy-osiagnely-stan-gotowosci/",
-    "last_seen": "2026-09-17T10:29:02Z"
+    "last_seen": "2026-09-17T10:33:57Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
@@ -24,7 +24,7 @@
     "region": "Iran",
     "description": "Impoverished by war in Iran, Afghan migrants return to Taliban rule Reuters.",
     "url": "https://www.reuters.com/world/asia-pacific/impoverished-by-war-iran-afghan-migrants-return-taliban-rule-2026-09-17/",
-    "last_seen": "2026-09-17T10:29:02Z"
+    "last_seen": "2026-09-17T10:33:57Z"
   },
   "cyber|Polska": {
     "lat": 52.5,
@@ -33,7 +33,7 @@
     "region": "Polska",
     "description": "Podatność w urządzeniach Cisco umożliwia wykonywanie dowolnych poleceń w systemie operacyjnym – ostrzega CERT Polska.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/powazna-luka-w-oprogramowaniu-cisco-konieczna-aktualizacja",
-    "last_seen": "2026-09-17T10:29:02Z"
+    "last_seen": "2026-09-17T10:33:57Z"
   },
   "cyber|Wielka Brytania": {
     "lat": 55.5,
@@ -42,16 +42,7 @@
     "region": "Wielka Brytania",
     "description": "Brytyjskie Narodowe Centrum Cyberbezpieczeństwa (NCSC), amerykańskie FBI oraz holenderski wywiad AIVD ostrzegają przed kampanią wymierzoną w dysydentów, aktywistów i dziennikarzy.",
     "url": "https://cyberdefence24.pl/armia-i-sluzby/iranscy-hakerzy-dostali-rozkaz-celem-wrogowie-rezimu",
-    "last_seen": "2026-09-17T10:29:02Z"
-  },
-  "conflict|Jemen": {
-    "lat": 15.55,
-    "lng": 48.52,
-    "type": "conflict",
-    "region": "Jemen",
-    "description": "Dowodzona przez Arabię Saudyjską koalicja wojskowa poinformowała w środę o zestrzeleniu drona jemeńskich rebeliantów Huti.",
-    "url": "https://www.polsatnews.pl/wiadomosc/2026-09-16/dron-lecial-w-kierunku-mekki-huti-odpieraja-zarzuty-wyswiechtane-klamstwo/",
-    "last_seen": "2026-09-16T10:31:01Z"
+    "last_seen": "2026-09-17T10:33:57Z"
   },
   "cyber|Chiny": {
     "lat": 35.5,
@@ -67,9 +58,9 @@
     "lng": 78.5,
     "type": "cyber",
     "region": "Indie",
-    "description": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.",
-    "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-    "last_seen": "2026-09-17T10:29:02Z"
+    "description": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access.",
+    "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+    "last_seen": "2026-09-17T10:33:57Z"
   },
   "conflict|Syria": {
     "lat": 34.8,
@@ -78,7 +69,7 @@
     "region": "Syria",
     "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
     "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-    "last_seen": "2026-09-17T10:29:02Z"
+    "last_seen": "2026-09-17T10:33:57Z"
   },
   "cyber|Belgia": {
     "lat": 51.3,
@@ -94,18 +85,18 @@
     "lng": 31.68,
     "type": "cyber",
     "region": "Ukraina",
-    "description": "Podczas Międzynarodowego Festiwalu Młodzieży 2026 w Jekaterynburgu otwarto wystawę „Katastrofa pamięci.",
-    "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/ukrainski-nazizm-na-rosyjskim-festiwalu-propagandowy-przekaz-dla-mlodziezy",
-    "last_seen": "2026-09-17T10:29:02Z"
+    "description": "Rosyjska propaganda rozpowszechnia zdjęcia rzekomych billboardów z ukraińskiego Łucka, które mają zachęcać kobiety do zostania operatorkami dronów.",
+    "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/sterowanie-dronem-to-jak-uzywanie-odkurzacza-rosyjski-fejk-uderza-w-ukrainskie-kobiety",
+    "last_seen": "2026-09-17T10:33:57Z"
   },
   "cyber|Rosja": {
     "lat": 62.0,
     "lng": 105.8,
     "type": "cyber",
     "region": "Rosja",
-    "description": "Na przełomie sierpnia i września dziennikarz Brian Krebs prowadzący popularnego bloga KrebsOnSecurity otrzymał informację o nielegalnym ogłoszeniu sprzedaży danych.",
-    "url": "https://sekurak.pl/na-sprzedaz-trafilo-ponad-170-milionow-skanow-dokumentow-identyfikujacych-tozsamosc-wyciek-danych-idscan-jeden-z-najwiekszych-w-historii-ameryki-polnocnej/",
-    "last_seen": "2026-09-17T10:29:02Z"
+    "description": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.",
+    "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+    "last_seen": "2026-09-17T10:33:57Z"
   },
   "cyber|Iran": {
     "lat": 32.93,
@@ -114,7 +105,7 @@
     "region": "Iran",
     "description": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world.",
     "url": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
-    "last_seen": "2026-09-17T10:29:02Z"
+    "last_seen": "2026-09-17T10:33:57Z"
   },
   "critical|Niemcy": {
     "lat": 50.900000000000006,
@@ -141,7 +132,7 @@
     "region": "Ukraina",
     "description": "Prezydent Ukrainy Wołodymyr Zełenski powierzył Antonowi Kowalskiemu wykonywanie obowiązków prokuratora generalnego Ukrainy.",
     "url": "https://www.bankier.pl/wiadomosc/Prokuratorskie-trzesienie-ziemi-w-Kijowie-Zelenski-wyznacza-nastepce-9198434.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-    "last_seen": "2026-09-17T10:29:02Z"
+    "last_seen": "2026-09-17T10:33:57Z"
   },
   "conflict|Sudan": {
     "lat": 12.86,
@@ -168,7 +159,7 @@
     "region": "Korea Północna",
     "description": "Żołnierze z Korei Północnej mogą zastąpić wojska rosyjskie w atakach na miasta Sumy i Charków - informuje Instytut Badań nad Wojną (ISW), powołując się na anonimowe źródło.",
     "url": "https://www.polsatnews.pl/wiadomosc/2026-09-17/zolnierze-korei-polnocnej-trafia-do-europy-najnowszy-raport-isw/",
-    "last_seen": "2026-09-17T10:29:02Z"
+    "last_seen": "2026-09-17T10:33:57Z"
   },
   "conflict|Liban": {
     "lat": 33.89,
@@ -177,7 +168,7 @@
     "region": "Liban",
     "description": "Impoverished by war in Iran, Afghan migrants return to Taliban rule Reuters.",
     "url": "https://www.reuters.com/world/asia-pacific/impoverished-by-war-iran-afghan-migrants-return-taliban-rule-2026-09-17/",
-    "last_seen": "2026-09-17T10:29:02Z"
+    "last_seen": "2026-09-17T10:33:57Z"
   },
   "conflict|Afganistan": {
     "lat": 33.94,
@@ -186,7 +177,7 @@
     "region": "Afganistan",
     "description": "Impoverished by war in Iran, Afghan migrants return to Taliban rule Reuters.",
     "url": "https://www.reuters.com/world/asia-pacific/impoverished-by-war-iran-afghan-migrants-return-taliban-rule-2026-09-17/",
-    "last_seen": "2026-09-17T10:29:02Z"
+    "last_seen": "2026-09-17T10:33:57Z"
   },
   "cyber|Monako": {
     "lat": 44.24,
@@ -195,6 +186,6 @@
     "region": "Monako",
     "description": "Clouds, the sovereign-sensitive, and the inferencing-interested are also about to get sales calls.",
     "url": "https://www.theregister.com/systems/2026/09/17/fujitsu-ready-to-sell-its-custom-monaka-arm-chip-maybe-to-rival-server-makers/5297025",
-    "last_seen": "2026-09-17T10:29:02Z"
+    "last_seen": "2026-09-17T10:33:57Z"
   }
 }
