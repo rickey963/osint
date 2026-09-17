@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T07:19:18Z",
+  "last_updated": "2026-09-17T07:24:15Z",
   "poland": [
     {
       "title": "Pracują w Rosji, tracą 90 proc. pensji. Tak Korea Północna finansuje budowę rakiet",
@@ -1434,14 +1434,6 @@
       "summary": "Startup says it’s learned from these mistakes and that they shouldn’t happen again … which is just what Zuck has said about 100 times."
     },
     {
-      "title": "VMware łata poważne błędy w Workstation i Fusion. Można wyskoczyć z maszyny wirtualnej i wykonać kod na hoście",
-      "url": "https://sekurak.pl/vmware-lata-powazne-bledy-w-workstation-i-fusion-mozna-wyskoczyc-z-maszyny-wirtualnej-i-wykonac-kod-na-hoscie/",
-      "date": "2026-09-17T01:53:14Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Broadcom poinformował o załataniu dwóch poważnych błędów w popularnych produktach VMware Workstation oraz VMware Fusion. W określonych warunkach ich wykorzystanie mogło doprowadzić do ucieczki z maszyny wirtualnej oraz wykonanie kodu bezpośrednio na hoście. TLDR: Podatności otrzymały identyfikatory CVE-2026-59346 (CVSS 9.3) oraz CVE-2026-59347 (CVSS 8.1)."
-    },
-    {
       "title": "If a Mac mini is agentic overkill, try this glowing pyramid that runs personal bots",
       "url": "https://www.theregister.com/personal-tech/2026/09/17/if-a-mac-mini-is-agentic-overkill-try-this-glowing-pyramid-that-runs-personal-bots/5296964",
       "date": "2026-09-16T23:28:59Z",
@@ -1504,14 +1496,6 @@
       "source": "The Register",
       "confirmed_by": 1,
       "summary": "Hardware such as mainframes found to hold the data and business logic needed to build those AI services."
-    },
-    {
-      "title": "Narzędziownik AI 3.0 Revolutions. Zobacz, co przygotowaliśmy w nowej odsłonie kultowego szkolenia",
-      "url": "https://sekurak.pl/narzedziownik-ai-3-0-revolutions-zobacz-co-przygotowalismy-w-nowej-odslonie-kultowego-szkolenia/",
-      "date": "2026-09-16T16:10:14Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Jeżeli nadal korzystasz ze sztucznej inteligencji głównie w taki sposób, że otwierasz ChatGPT, wpisujesz pytanie i liczysz, że tym razem nie zmyśli odpowiedzi, to spokojnie – nie jesteś sam. Problem w tym, że AI coraz rzadziej jest już tylko okienkiem do rozmowy. Dzisiaj analizuje dokumenty, tworzy grafiki i wideo, pisze..."
     },
     {
       "title": "Poważna wpadka Revoluta: przekazał dane klientów oszustom. Poszkodowani mają być też Polacy",
@@ -1682,6 +1666,14 @@
       "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of intelligence with AI-assisted exploitation to accelerate the path from exposure to breach faster than most security programs are built to react."
     },
     {
+      "title": "Logitech releases the MX Keypad to keep idle fingers busy",
+      "url": "https://www.theregister.com/personal-tech/2026/09/16/logitech-releases-the-mx-keypad-to-keep-idle-fingers-busy/5296573",
+      "date": "2026-09-16T11:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "It looks like you're trying to write some code. Perhaps a shortcut is in order?"
+    },
+    {
       "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
       "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
       "date": "2026-09-16T11:08:54Z",
@@ -1746,14 +1738,6 @@
       "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptographic signature that could result in account takeover. Hacktron Team has been credited with discovering and reporting the flaw."
     },
     {
-      "title": "Grupa APT28 po raz kolejny atakuje cele w Europie. Zamiast skomplikowanego malware i wyszukanych eksploitów stosują makra, przeglądarkę Edge i webhooki jako serwer C2",
-      "url": "https://sekurak.pl/grupa-apt28-po-raz-kolejny-atakuje-cele-w-europie-zamiast-skomplikowanego-malware-i-wyszukanych-eksploitow-stosuja-makra-przegladarke-edge-i-webhooki-jako-serwer-c2/",
-      "date": "2026-09-16T02:14:15Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Jak donoszą badacze z PolySwarm rosyjska grupa szpiegowska znana pod nazwą BlueDelta (APT28, Fancy Bear, Forest Blizzard) prowadzi aktywne działania wymierzone w organizacje rządowe, dyplomatyczne oraz sektor obronny. Na celowniku znajdują się państwa europejskie, ze szczególnym uwzględnieniem Rumunii, Turcji i Hiszpanii. TLDR: Cyberprzestępcy stosują zaawansowane metody socjotechniczne (spearphishing) do dystrybucji..."
-    },
-    {
       "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
       "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
       "date": "2026-09-15T18:54:14Z",
@@ -1778,28 +1762,28 @@
       "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world. The malware is controlled via the Telegram messaging app and can copy a target's emails and chat messages, take screenshots, and activate the microphone to record."
     },
     {
-      "title": "Na sprzedaż trafiło ponad 170 milionów skanów dokumentów identyfikujących tożsamość. Wyciek danych IDScan, jeden z największych w historii Ameryki Północnej.",
-      "url": "https://sekurak.pl/na-sprzedaz-trafilo-ponad-170-milionow-skanow-dokumentow-identyfikujacych-tozsamosc-wyciek-danych-idscan-jeden-z-najwiekszych-w-historii-ameryki-polnocnej/",
-      "date": "2026-09-15T15:11:55Z",
-      "source": "Sekurak",
+      "title": "Polska tworzy Komisję ds. AI. Wiemy, kto może nią pokierować",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/polska-tworzy-komisje-ds-ai-wiemy-kto-moze-nia-pokierowac",
+      "date": "2026-09-15T15:24:59Z",
+      "source": "CyberDefence24",
       "confirmed_by": 1,
-      "summary": "Na przełomie sierpnia i września dziennikarz Brian Krebs prowadzący popularnego bloga KrebsOnSecurity otrzymał informację o nielegalnym ogłoszeniu sprzedaży danych. Poprzez rosyjskojęzyczne forum Exploit trafił na serwis Nexus oferujący sprzedaż wykradzionych danych. Weryfikując darmową próbkę, dziennikarz znalazł między innymi własne prawo jazdy oraz skan dokumentu Sekretarza Obrony USA, Pete’a Hegsetha."
+      "summary": "Sejmowa komisja cyfryzacji pozytywnie zaopiniowała kandydaturę Pameli Krzypkowskiej na przewodniczącą Komisji Rozwoju i Bezpieczeństwa Sztucznej Inteligencji. Ekspertka z doświadczeniem w administracji i biznesie ma pokierować nowym organem odpowiedzialnym za zadania wynikające z ustawy o systemach AI. Wśród jej priorytetów są ochrona obywateli, sprawne rozpatrywanie skarg oraz wsparcie firm poprzez piaskownice regulacyjne."
     },
     {
-      "title": "26 i… 27 (tak, będą dwa dni!) października trzeba być z nami w Krakowie! Zobacz agendę konferencji MEGA Sekurak Hacking Party 🙂",
-      "url": "https://sekurak.pl/26-i-27-tak-beda-dwa-dni/",
-      "date": "2026-09-15T14:28:44Z",
-      "source": "Sekurak",
+      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+      "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+      "date": "2026-09-15T15:23:19Z",
+      "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Lato za nami, jesień rusza na pełnych obrotach, a my nie zwalniamy tempa, będąc na ostatniej prostej przed kolejną edycją naszej kultowej konferencji – Mega Sekurak Hacking Party (MSHP). Tym razem, po raz pierwszy w historii, zapraszamy Was na podwójną dawkę hackowania! Konferencja potrwa aż dwa dni, 26 i 27..."
+      "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The emerging malware family, codenamed BambooToken, is assessed to be active since at least February 2023 and put to use in attacks targeting organizations across Asia and South America."
     },
     {
-      "title": "Nie, nie zhakowano znowu Signala",
-      "url": "https://sekurak.pl/nie-nie-zhakowano-znowu-signala/",
-      "date": "2026-09-15T08:43:08Z",
-      "source": "Sekurak",
+      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+      "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+      "date": "2026-09-15T11:52:28Z",
+      "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Coraz więcej mówi się o zagrożeniu wobec urzędników w Brukseli. Europejscy oficjele stali się celem kampanii mającej na celu przejęcie dostępu do ich kont na popularnych komunikatorach, takich jak Signal czy WhatsApp. Serwis POLITICO twierdzi, że dotarł do prezentacji, w której jednostka ds."
+      "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access. In one instance highlighted by the cloud security company, the threat actor pivoted from a vulnerable Marimo notebook to an SSH."
     },
     {
       "title": "AI w telefonie może czytać Twój ekran. Co widzi i jak to ograniczyć?",
@@ -1988,6 +1972,14 @@
       "summary": "Zacznijcie gromadzić to już teraz. Ten oficjalny apel wywołuje powiew grozy Forsal.pl."
     },
     {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/gospodarka/polityka,559",
+      "date": "2026-09-16T22:51:07Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
+    },
+    {
       "title": "Impuls i korekta - 16 września 2026",
       "url": "https://strefainwestorow.pl/impuls-i-korekta/impuls-i-korekta-16-wrzesnia-2026",
       "date": "2026-09-16T19:06:35Z",
@@ -2010,14 +2002,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Fed podnosi stopy procentowe. Kevin Warsh stawia na obronę wiarygodności wbrew ostrzeżeniom analityków Szymon Machalica śr., 16.09.2026 Kanał Strefa Global Market FED Treść Amerykański bank centralny zgodnie z szerokimi oczekiwaniami podniósł główną stopę procentową o 25 punktów bazowych do przedziału 3,75-4,00%. Decyzja ta wpisuje się w rynkowy konsensus, który jeszcze przed posiedzeniem wyceniał prawdopodobieństwo takiego ruchu na ponad 90%."
-    },
-    {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/gospodarka/polityka,558",
-      "date": "2026-09-16T17:17:48Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Segmenty Bitumen i Logistyka głównymi motorami wyników UNIMOT - biznesradar.pl",
@@ -2249,8 +2233,8 @@
       "lng": 19.5,
       "type": "cyber",
       "region": "Polska",
-      "description": "Podatność w urządzeniach Cisco umożliwia wykonywanie dowolnych poleceń w systemie operacyjnym – ostrzega CERT Polska.",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/powazna-luka-w-oprogramowaniu-cisco-konieczna-aktualizacja"
+      "description": "Sejmowa komisja cyfryzacji pozytywnie zaopiniowała kandydaturę Pameli Krzypkowskiej na przewodniczącą Komisji Rozwoju i Bezpieczeństwa Sztucznej Inteligencji.",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/polska-tworzy-komisje-ds-ai-wiemy-kto-moze-nia-pokierowac"
     },
     {
       "lat": 55.5,
@@ -2281,8 +2265,8 @@
       "lng": 78.5,
       "type": "cyber",
       "region": "Indie",
-      "description": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.",
-      "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html"
+      "description": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access.",
+      "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html"
     },
     {
       "lat": 34.8,
@@ -2321,8 +2305,8 @@
       "lng": 105.8,
       "type": "cyber",
       "region": "Rosja",
-      "description": "Na przełomie sierpnia i września dziennikarz Brian Krebs prowadzący popularnego bloga KrebsOnSecurity otrzymał informację o nielegalnym ogłoszeniu sprzedaży danych.",
-      "url": "https://sekurak.pl/na-sprzedaz-trafilo-ponad-170-milionow-skanow-dokumentow-identyfikujacych-tozsamosc-wyciek-danych-idscan-jeden-z-najwiekszych-w-historii-ameryki-polnocnej/"
+      "description": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.",
+      "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html"
     },
     {
       "lat": 32.93,
@@ -2576,51 +2560,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25894.03,
+      25896.0,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27068.41,
+      27070.48,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27216.63,
+      27218.71,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27463.68,
+      27465.78,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28104.91,
+      28107.06,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28141.26,
+      28143.41,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28388.05,
+      28390.22,
       27354.94,
       27400.36,
       27412.11,
-      28792.93,
+      28795.13,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28047.21,
+      28049.35,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28228.48,
+      28230.63,
       27686.17,
       27404.78,
       27351.97,
@@ -2629,7 +2613,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27934.32,
+      27936.45,
       27930.04,
       28234.04,
       28218.36,
@@ -2638,54 +2622,54 @@
       28294.39,
       28203.83,
       28555.17,
-      28775.2,
+      28777.39,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28328.11,
+      28330.27,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28154.48,
+      28156.63,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28449.78,
+      28451.95,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29467.47,
+      29469.72,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29574.29,
+      29576.54,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      29151.17,
+      29153.4,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29293.2,
+      29295.43,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29319.18,
+      29321.42,
       28449.73,
       28313.03,
       28272.33,
-      29085.12,
+      29087.34,
       28610.74,
       28516.81,
-      28685.63
+      28687.82
     ],
     "currency": "PLN"
   }
