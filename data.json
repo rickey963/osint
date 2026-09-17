@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-17T10:27:33Z",
+  "last_updated": "2026-09-17T10:28:21Z",
   "poland": [
+    {
+      "title": "Odżywa spór filmowców z sieciami kin o tantiemy. Jest nowy pozew",
+      "url": "https://www.rp.pl/biznes/art45153201-odzywa-spor-filmowcow-z-sieciami-kin-o-tantiemy-jest-nowy-pozew",
+      "date": "2026-09-17T10:26:09Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Dwie duże sieci multipleksów zaczęły płacić mniej organizacji zbiorowego zarządzania prawami autorskimi reprezentującemu filmowców. OZZ poszedł właśnie do sądu przeciwko jednej z nich. To pokłosie głośnego wyroku w sporze z Cinema City."
+    },
     {
       "title": "Posłowie prawicy chcą Marszu Niepodległości we Lwowie. Zgorzelski: Niech jadą do Moskwy",
       "url": "https://www.rp.pl/polityka/art45154031-poslowie-prawicy-chca-marszu-niepodleglosci-we-lwowie-zgorzelski-niech-jada-do-moskwy",
@@ -82,14 +90,6 @@
       "summary": "Rozpoczęło się operowanie lotnictwa wojskowego w polskiej przestrzeni powietrznej - podało w czwartek Dowództwo Operacyjne Rodzajów Sił Zbrojnych. Powodem działań wojska są uderzenia rosyjskich odrzutowych bezzałogowych statków powietrznych na zachodzie Ukrainy. Rządowe Centrum Bezpieczeństwa wydało alert dla dwóch województw."
     },
     {
-      "title": "Architektka wybudowała dom w dżungli. Ściany z gliny i salon otwarty na ocean",
-      "url": "https://sukces.rp.pl/architektura/art45149451-architektka-wybudowala-dom-w-dzungli-sciany-z-gliny-i-salon-otwarty-na-ocean",
-      "date": "2026-09-17T09:56:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "W kostarykańskiej dżungli, nieopodal miasteczka Uvita, powstał niezwykły dom. Autorką projektu, a zarazem właścicielką willi jest Dagmar Štěpánová. Architektka zaprojektowała ją dla siebie i swojego partnera Karela Vančury."
-    },
-    {
       "title": "Prokuratura Krajowa wszczęła śledztwo ws. TK. \"Zdobycie danych zajęło nam pięć lat\"",
       "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33029235,prokuratura-krajowa-wszczela-sledztwo-ws-tk-zdobycie-danych.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-09-17T09:51:00Z",
@@ -146,7 +146,7 @@
       "summary": "Sarah Friar, dyrektorka finansowa OpenAI, powiedziała, że sztuczna inteligencja zmniejsza zapotrzebowanie na pracowników. Dotyczy to przede wszystkim osób wykonujących powtarzalne zadania."
     },
     {
-      "title": "Polska wśród liderów przyśpieszenia inflacji. Nawet w Turcji wzrost cen spowolnił",
+      "title": "Polska wśród liderów przyśpieszenia inflacji w Europie. Nawet w Turcji wzrost cen spowolnił",
       "url": "https://businessinsider.com.pl/gospodarka/inflacja-wedlug-eurostatu-wyzsza-niz-gus-polska-na-tle-innych-krajow-europy/59s0pqb",
       "date": "2026-09-17T09:19:51Z",
       "source": "Business Insider Polska",
@@ -1812,6 +1812,14 @@
   ],
   "finance": [
     {
+      "title": "Dobre wieści dla osób z tego rocznika. ZUS wypłaci nowy dodatek do emerytury - Forsal.pl",
+      "url": "https://forsal.pl/finanse/twoje-pieniadze/artykuly/11295046,te-roczniki-dostana-dodatek-do-emerytury-zus-zacznie-wyplacac-go-w-styczniu-2027-roku.html",
+      "date": "2026-09-17T10:27:01Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Dobre wieści dla osób z tego rocznika. ZUS wypłaci nowy dodatek do emerytury Forsal.pl."
+    },
+    {
       "title": "Unia Europejska stawia Chinom ultimatum. Bruksela chce zatrzymać zalew tanich hybryd",
       "url": "https://www.bankier.pl/wiadomosc/Unia-Europejska-stawia-Chinom-ultimatum-Bruksela-chce-zatrzymac-zalew-tanich-hybryd-9198494.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-09-17T10:22:00Z",
@@ -1940,14 +1948,6 @@
       "summary": "Koniec zakazu handlu w niedzielę. Sklepy mają być czynne siedem razy w tygodniu. Tego nikt się nie spodziewał Forsal.pl."
     },
     {
-      "title": "Wakacje składkowe w ZUS. Przedsiębiorcy otrzymali 4,5 mld zł wsparcia - Forsal.pl",
-      "url": "https://forsal.pl/biznes/firma/artykuly/11313936,wakacje-skladkowe-w-zus-przedsiebiorcy-otrzymali-45-mld-zl-wsparcia.html",
-      "date": "2026-09-17T07:58:06Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Wakacje składkowe w ZUS. Przedsiębiorcy otrzymali 4,5 mld zł wsparcia Forsal.pl."
-    },
-    {
       "title": "Znamy 100 najlepszych małych i średnich firm w Europie. Cztery są z Polski",
       "url": "https://www.money.pl/gospodarka/znamy-100-najlepszych-malych-i-srednich-firm-w-europie-cztery-sa-z-polski-7329982792968352a.html",
       "date": "2026-09-17T07:01:09Z",
@@ -2028,12 +2028,12 @@
       "summary": "CELON PHARMA SA Raport okresowy półroczny za PSr BiznesRadar."
     },
     {
-      "title": "Analiza techniczna INTLBCO01686 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wykres/INTLBCO01686",
-      "date": "2026-09-17T02:04:58Z",
+      "title": "Notowania INTLBCO01660 INGBANK - BiznesRadar",
+      "url": "https://www.biznesradar.pl/notowania/INTLBCO01660",
+      "date": "2026-09-16T23:58:57Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna INTLBCO01686 INGBANK BiznesRadar."
+      "summary": "Notowania INTLBCO01660 INGBANK BiznesRadar."
     },
     {
       "title": "Impuls i korekta - 16 września 2026",
@@ -2074,6 +2074,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "W poszukiwaniu sygnałów - 16 września 2026 -SWIG80 i MWIG40 docierają do wsparć Ewa śr., 16.09.2026 Wstęp Indeksy GPW, Spółki wcześniej sygnalizowane, Obserwowane wykresy W poszukiwaniu sygnałów - 16 września 2026 -SWIG80 i MWIG40 docierają do wsparć Ewa."
+    },
+    {
+      "title": "ZREMB [ZRE] - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/zremb-spojrzenie-na-wykres-10,xternal,380798",
+      "date": "2026-09-16T15:00:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "ZREMB [ZRE] stockwatch.pl."
     },
     {
       "title": "Jawność wynagrodzeń utknęła w legislacji. Polska też jest w połowie drogi",
@@ -2132,14 +2140,6 @@
       "summary": "Komunikat ESPI KOSZALIŃSKIE PRZEDSIĘBIORSTWO PRZEMYSLU DRZEWNEGO SA (kppd): WZ - projekty uchwał stockwatch.pl."
     },
     {
-      "title": "Spółka: Biotts - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/walor/biotts",
-      "date": "2026-09-16T11:11:08Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Spółka: Biotts stockwatch.pl."
-    },
-    {
       "title": "Zmiana terminu publikacji raportu półrocznego za I półrocze 2026 roku - 2026-09-16 - MAGNA POLONIA SA (06magna) - stockwatch.pl",
       "url": "https://www.stockwatch.pl/komunikaty-spolek/06magna,zmiana-terminu-publikacji-sa-psr-2026-09-16,espi,20260916_130015_0000358339",
       "date": "2026-09-16T11:00:15Z",
@@ -2156,12 +2156,12 @@
       "summary": "Biura, w których chce się pracować. Neurodesign, dobrostan i akustyka zmieniają przestrzeń pracy Forbes."
     },
     {
-      "title": "Elektrotim z rekordowym portfelem 843 mln zł - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/elektrotim-portfel-zamowien-2026-umowy-poczekalni,akcje,380768",
-      "date": "2026-09-16T10:44:44Z",
+      "title": "PGE podnosi prognozy EBITDA w trzech segmentach na 2026 rok - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/pge-perspektywy-ebitda-2026-strategia-dywidenda,akcje,380764",
+      "date": "2026-09-16T10:25:03Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Elektrotim z rekordowym portfelem 843 mln zł stockwatch.pl."
+      "summary": "PGE podnosi prognozy EBITDA w trzech segmentach na 2026 rok stockwatch.pl."
     },
     {
       "title": "Komunikat ESPI HiProMine Spółka Akcyjna (hipromine): Treść uchwał podjętych na Nadzwyczajnym Walnym Zgromadzeniu Spółki w dniu 15 września 2026 roku - stockwatch.pl",
@@ -2172,12 +2172,12 @@
       "summary": "Komunikat ESPI HiProMine Spółka Akcyjna (hipromine): Treść uchwał podjętych na Nadzwyczajnym Walnym Zgromadzeniu Spółki w dniu 15 września 2026 roku stockwatch.pl."
     },
     {
-      "title": "Biotts chce wejść na GPW w 2027 r. W portfelu transdermalna insulina i lek na otyłość - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/biotts-chce-wejsc-na-gpw-w-2027-r-w-portfelu-transdermalna-insulina-i-lek-na-otylosc,akcje,380759",
-      "date": "2026-09-16T09:16:15Z",
+      "title": "Spółka: Biotts - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/walor/biotts",
+      "date": "2026-09-16T09:22:11Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Biotts chce wejść na GPW w 2027 r. W portfelu transdermalna insulina i lek na otyłość stockwatch.pl."
+      "summary": "Spółka: Biotts stockwatch.pl."
     },
     {
       "title": "Polskie miasto inwestuje w schrony z prefabrykatów. Renesans wielkiej płyty - Forbes",
@@ -2588,51 +2588,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25899.89,
+      25899.34,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27074.54,
+      27073.97,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27222.79,
+      27222.22,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27469.9,
+      27469.32,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28111.27,
+      28110.68,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28147.63,
+      28147.04,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28394.48,
+      28393.88,
       27354.94,
       27400.36,
       27412.11,
-      28799.45,
+      28798.85,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28053.56,
+      28052.97,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28234.87,
+      28234.27,
       27686.17,
       27404.78,
       27351.97,
@@ -2641,7 +2641,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27940.64,
+      27940.05,
       27930.04,
       28234.04,
       28218.36,
@@ -2650,54 +2650,54 @@
       28294.39,
       28203.83,
       28555.17,
-      28781.71,
+      28781.1,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28334.52,
+      28333.93,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28160.85,
+      28160.26,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28456.22,
+      28455.62,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29474.15,
+      29473.52,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29580.98,
+      29580.36,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      29157.77,
+      29157.16,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29299.83,
+      29299.21,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29325.82,
+      29325.2,
       28449.73,
       28313.03,
       28272.33,
-      29091.7,
+      29091.09,
       28610.74,
       28516.81,
-      28692.12
+      28691.52
     ],
     "currency": "PLN"
   }
