@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T12:07:46Z",
+  "last_updated": "2026-09-18T12:08:39Z",
   "poland": [
     {
       "title": "Polska i Ukraina będą partnerami w ramach koalicji antybalistycznej. Zełenski deklaruje",
@@ -43,7 +43,7 @@
     },
     {
       "title": "Podział na \"stary\" i \"nowy\" przemysł. Polska gospodarka pozostaje odporna",
-      "url": "https://businessinsider.com.pl/gospodarka/produkcja-przemyslowa-rozczarowala-ostrozne-prognozy-dla-polskiej-gospodarki/f6shk8s",
+      "url": "https://businessinsider.com.pl/gospodarka/sierpniowe-dane-gus-zaskoczyly-analitykow-co-dalej-z-polskim-przemyslem/f6shk8s",
       "date": "2026-09-18T11:53:25Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
@@ -234,14 +234,6 @@
       "summary": "Agenci ABW przy współpracy z policją zatrzymali dwóch 16-latków. Byli oni częścią radykalnych internetowych społeczności osób zainteresowanych m. in."
     },
     {
-      "title": "Tu Polacy uciekają przed jesienną słotą. Niedrogo i egzotycznie. Łap ostatnie terminy",
-      "url": "https://businessinsider.com.pl/lifestyle/podroze/tu-polacy-uciekaja-przed-jesienna-slota-niedrogo-i-egzotycznie-lap-ostatnie-terminy/r1j7t52",
-      "date": "2026-09-18T10:15:11Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Coraz więcej Polaków zamiast grubych swetrów na jesień wybiera słońce, egzotykę i przygodę na drugim końcu świata. Wietnam, zachwycający malowniczymi zatokami, tętniącymi życiem miastami, aromatyczną kuchnią i tropikalnym klimatem, jest dziś jednym z najciekawszych kierunków na jesienny wyjazd. A co ważne, wycieczkę objazdową po tym fascynującym kraju można znaleźć w atrakcyjnej cenie."
-    },
-    {
       "title": "Akcja ABW, zatrzymano dwóch 16-latków. W tle ekstremistyczne materiały",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-09-18/akcja-abw-zatrzymano-dwoch-16-latkow-w-tle-ekstremistyczne-materialy/",
       "date": "2026-09-18T10:15:00Z",
@@ -256,6 +248,14 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "- W ciągu kilku tygodni alerty RCB pojawią się już nie tylko w SMS-ach, ale również w naszych aplikacjach mObywatel - zapowiedział wiceminister cyfryzacji Dariusz Standerski. Niedawno Rządowe Centrum Bezpieczeństwa zaktualizowało treści alertów dotyczących zagrożenia z powietrza."
+    },
+    {
+      "title": "Tak oszukują na wypłatach w Polsce? Raport ujawnia dziesięć mechanizmów",
+      "url": "https://businessinsider.com.pl/wiadomosci/ukraincy-w-polsce-narazeni-na-naduzycia-agencji-raport-ostrzega/j8bhqly",
+      "date": "2026-09-18T09:59:09Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "W ukraińskich mediach pojawił się raport międzynarodowej firmy Gremi Personal o zatrudnianiu Ukraińców w Polsce. W materiale wymieniono mechanizmy, które mają wykorzystywać m.in. nieznajomość polskich przepisów dotyczących zatrudnienia i ubezpieczeń."
     },
     {
       "title": "Dezinformacja i teorie spiskowe po alercie RCB. Trzy główne narracje. \"Osiągnęły milionowe zasięgi\"",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Cekura (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+      "date": "2026-09-18T12:00:10Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us Comments URL: https://news.ycombinator.com/item?id=49753131 Points: 0 # Comments: 0."
+    },
+    {
       "title": "Nowe lodówki Haier już w Polsce. Ogromna pojemność i kilka nietypowych rozwiązań",
       "url": "https://antyweb.pl/nowe-lodowki-haier-juz-w-polsce-ogromna-pojemnosc-i-kilka-nietypowych-rozwiazan",
       "date": "2026-09-18T11:45:51Z",
@@ -1069,7 +1077,7 @@
       "date": "2026-09-18T11:01:44Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html Comments URL: https://news.ycombinator.com/item?id=49752614 Points: 23 # Comments: 7."
+      "summary": "Article URL: https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html Comments URL: https://news.ycombinator.com/item?id=49752614 Points: 33 # Comments: 14."
     },
     {
       "title": "Zaczęło się. Wchodzisz do salonu operatora, a tam okulary z 5G",
@@ -1117,7 +1125,7 @@
       "date": "2026-09-18T10:35:28Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://tokenstead.ai/guides/zcode-silent-git-history-upload Comments URL: https://news.ycombinator.com/item?id=49752422 Points: 59 # Comments: 14."
+      "summary": "Article URL: https://tokenstead.ai/guides/zcode-silent-git-history-upload Comments URL: https://news.ycombinator.com/item?id=49752422 Points: 85 # Comments: 16."
     },
     {
       "title": "Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research (Reuters)",
@@ -1141,7 +1149,7 @@
       "date": "2026-09-18T10:18:20Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c Comments URL: https://news.ycombinator.com/item?id=49752279 Points: 35 # Comments: 4."
+      "summary": "Article URL: https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c Comments URL: https://news.ycombinator.com/item?id=49752279 Points: 40 # Comments: 7."
     },
     {
       "title": "Revolut CEO Nik Storonsky says the fintech is exploring a dual stock market listing in New York and London, after previously dismissing listing in the UK (Financial Times)",
@@ -1197,7 +1205,7 @@
       "date": "2026-09-18T09:45:07Z",
       "source": "Hacker News",
       "confirmed_by": 2,
-      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 214 # Comments: 142."
+      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 253 # Comments: 184."
     },
     {
       "title": "OpenJev",
@@ -1205,7 +1213,7 @@
       "date": "2026-09-18T09:42:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 158 # Comments: 87."
+      "summary": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 180 # Comments: 98."
     },
     {
       "title": "DJI jeszcze bliżej Polaków. Ogromne promocje na start nowego sklepu",
@@ -1296,14 +1304,6 @@
       "summary": "iOS 27 wprowadził szereg przydatnych rozwiązań. Mnie jednak przekonała wyłącznie jedna świetna funkcjonalność. Artykuł iOS 27 to sporo nowości, ale tylko jedna funkcja skradła moje serce pochodzi z serwisu INSTALKI."
     },
     {
-      "title": "Wielka zmiana w mObywatelu coraz bliżej. Ruszyły testy",
-      "url": "https://antyweb.pl/wielka-zmiana-w-mobywatelu-coraz-blizej-ruszyly-testy",
-      "date": "2026-09-18T08:30:47Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Europejski Portfel Tożsamości Cyfrowej zbliża się wielkimi krokami. Polska wystartowała z testami, które pozwolą przybliżyć nas do wygodnego posługiwania się mObywatelem także poza granicami kraju."
-    },
-    {
       "title": "Naukowcy zmieniają CO2 w paliwo. Plazma i prąd w jednej technologii",
       "url": "https://www.benchmark.pl/naukowcy-zmieniaja-co2-w-paliwo-plazma-i-prad-w-jednej-technologii-7330652324268288a",
       "date": "2026-09-18T08:20:00Z",
@@ -1341,7 +1341,7 @@
       "date": "2026-09-18T04:20:24Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0 Comments URL: https://news.ycombinator.com/item?id=49750152 Points: 187 # Comments: 53."
+      "summary": "Article URL: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0 Comments URL: https://news.ycombinator.com/item?id=49750152 Points: 194 # Comments: 54."
     },
     {
       "title": "The scourge of x86 emulation",
@@ -1349,7 +1349,7 @@
       "date": "2026-09-18T04:09:48Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://fex-emu.com/Scourge-of-emulation/ Comments URL: https://news.ycombinator.com/item?id=49750094 Points: 172 # Comments: 34."
+      "summary": "Article URL: https://fex-emu.com/Scourge-of-emulation/ Comments URL: https://news.ycombinator.com/item?id=49750094 Points: 177 # Comments: 35."
     },
     {
       "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
@@ -2554,51 +2554,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25952.79,
+      25950.95,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27129.84,
+      27127.91,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27278.39,
+      27276.46,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27526.01,
+      27524.05,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28168.69,
+      28166.69,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28205.12,
+      28203.12,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28452.47,
+      28450.45,
       27354.94,
       27400.36,
       27412.11,
-      28858.27,
+      28856.23,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28110.86,
+      28108.87,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28292.53,
+      28290.53,
       27686.17,
       27404.78,
       27351.97,
@@ -2607,7 +2607,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27997.71,
+      27995.72,
       27930.04,
       28234.04,
       28218.36,
@@ -2616,55 +2616,55 @@
       28294.39,
       28203.83,
       28555.17,
-      28840.5,
+      28838.45,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28392.4,
+      28390.38,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28218.37,
+      28216.37,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28514.34,
+      28512.32,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29534.35,
+      29532.25,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29641.4,
+      29639.3,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      29217.33,
+      29215.25,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29359.67,
+      29357.59,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29385.71,
+      29383.63,
       28449.73,
       28313.03,
       28272.33,
-      29151.12,
+      29149.05,
       28610.74,
       28516.81,
       28689.18,
-      29077.95
+      29075.88
     ],
     "currency": "PLN"
   }
