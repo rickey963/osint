@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-18T09:54:59Z",
+  "last_updated": "2026-09-18T09:55:48Z",
   "poland": [
+    {
+      "title": "Podatek od zysków koncernów paliwowych wraca. Sejm przyjął ustawę po raz drugi",
+      "url": "https://energia.rp.pl/energetyka-zawodowa/art45159931-podatek-od-zyskow-koncernow-paliwowych-wraca-sejm-przyjal-ustawe-po-raz-drugi",
+      "date": "2026-09-18T09:52:50Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Sejm po raz drugi uchwalił ustawę wprowadzającą podatek od nadzwyczajnych zysków koncernów paliwowych. Pieniądze z nowej daniny mają sfinansować program „Ceny Paliwa Niżej”. Poprzednią ustawę prezydent Karol Nawrocki skierował do Trybunału Konstytucyjnego."
+    },
     {
       "title": "Są kolejne miliardy z UE dla Ukrainy. Kijów kupi za nie broń",
       "url": "https://radar.rp.pl/przemysl-obronny/art45159391-sa-kolejne-miliardy-z-ue-dla-ukrainy-kijow-kupi-za-nie-bron",
@@ -23,7 +31,7 @@
       "date": "2026-09-18T09:46:12Z",
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
-      "summary": "Sejm w piątek uchwalił ustawę, która znosi sankcje za opłacenie faktury na niewłaściwy rachunek spoza tzw. białej listy podatników VAT."
+      "summary": "Sejm w piątek uchwalił ustawę, która znosi sankcje za opłacenie faktury na niewłaściwy rachunek spoza tzw. białej listy podatników VAT. Zmiany obejmą też przepisy o cenach transferowych."
     },
     {
       "title": "Donald Tusk na Ukrainie. „Czekają nas ciężkie miesiące”",
@@ -67,8 +75,8 @@
     },
     {
       "title": "Rosja powiększyła arsenał. Znalazła sposób na masowy ostrzał Ukrainy",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45159511-rosja-powiekszyla-arsenal-znalazla-sposob-na-masowy-ostrzal-ukrainy",
-      "date": "2026-09-18T09:28:55Z",
+      "url": "https://radar.rp.pl/przemysl-obronny/art45159511-rosja-powiekszyla-arsenal-znalazla-sposob-na-masowy-ostrzal-ukrainy",
+      "date": "2026-09-18T09:28:00Z",
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Rosja znalazła sposób na zwiększenie skali ataków rakietowych bez szybkiego zużywania najcenniejszych pocisków. Wykorzystuje RM48U, broń pierwotnie przeznaczoną do ćwiczeń obrony powietrznej. W tym samym czasie Ukraina niemal wyczerpała zapasy Patriotów."
@@ -96,14 +104,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Wskaźniki referencyjne - EURIBOR PAP Biznes."
-    },
-    {
-      "title": "„Lalka\" po premierze jest ósma na świecie. Wpływowy amerykański portal pisze: Obejrzeć",
-      "url": "https://www.rp.pl/platformy-streamingowe/art45159401-lalka-po-premierze-jest-osma-na-swiecie-wplywowy-amerykanski-portal-pisze-obejrzec",
-      "date": "2026-09-18T09:14:26Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Na ósmym miejscu w w światowym rankingu seriali Netflixa zadebiutowała „Lalka\" w reżyserii Pawła Maślony. W 41 krajach świata była notowana wśród dziesięciu najchętniej oglądanych seriali."
     },
     {
       "title": "Ważne informacje ws. alertów RCB. \"Pojawią się już nie tylko w SMS-ach\"",
@@ -247,7 +247,7 @@
       "date": "2026-09-18T07:17:00Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
-      "summary": "Marcin Horała, poseł formacji Mateusza Morawieckiego Rozwój Plus, został wybrany nowym wicemarszałkiem Sejmu. Sprawdziliśmy jego najnowsze oświadczenie majątkowe. Zaskakująca jest informacja dotycząca samochodu."
+      "summary": "Marcin Horała, poseł formacji Mateusza Morawieckiego Rozwój Plus, został wybrany nowym wicemarszałkiem Sejmu. Sprawdziliśmy jego najnowsze oświadczenie majątkowe. Zaskakująca jest informacja dotycząca samochodu — nie ma co prawda w oświadczeniu pojazdu na własność, za to jest umowa najmu długoterminowego Toyoty Corolli."
     },
     {
       "title": "Urzędnicy pukają do drzwi. Chcą zobaczyć paragony",
@@ -404,12 +404,12 @@
   ],
   "world_security": [
     {
-      "title": "Protests erupt in Nigeria after 37 miners die in custody of paramilitary agency - reuters.com",
+      "title": "Protests erupt in Nigeria after 37 miners die in custody of paramilitary agency - Reuters",
       "url": "https://www.reuters.com/world/africa/protests-erupt-nigeria-after-33-miners-die-custody-paramilitary-agency-2026-09-18/",
       "date": "2026-09-18T09:34:35Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Protests erupt in Nigeria after 37 miners die in custody of paramilitary agency reuters.com."
+      "summary": "Protests erupt in Nigeria after 37 miners die in custody of paramilitary agency Reuters."
     },
     {
       "title": "Three dead, eight injured in Philippines school shooting",
@@ -468,12 +468,12 @@
       "summary": "Authorities called to Sorrento Beach on Friday morning following reports of shark-related incidentFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA man has died after being bitten by a shark off Sorrento Beach in Perth’s north.Emergency services were called to the popular Sorrento Beach about 10.30am on Friday after reports of a shark-related incident. Continue reading..."
     },
     {
-      "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028 - reuters.com",
+      "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028 - Reuters",
       "url": "https://www.reuters.com/business/autos-transportation/toyota-estimates-factory-automation-could-cost-64-billion-per-year-2028-2026-09-18/",
       "date": "2026-09-18T08:03:31Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Toyota estimates factory automation could cost $6.4 billion per year from 2028 reuters.com."
+      "summary": "Toyota estimates factory automation could cost $6.4 billion per year from 2028 Reuters."
     },
     {
       "title": "Swimmer dies after shark attack at Perth beach – as it happened",
@@ -484,60 +484,60 @@
       "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastAustralia needs to slow down its artificial intelligence use and create better security laws, the companies creating the technology have told the federal government.In a submission to an ongoing inquiry, OpenAI said national leaders had a responsibility to work with other countries to stop global security threats:Many of the most consequential risks will not stop at national borders, making international co-ordination increasingly important. Continue reading..."
     },
     {
-      "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say - reuters.com",
+      "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say - Reuters",
       "url": "https://www.reuters.com/business/autos-transportation/byd-catl-xiaomi-executives-may-join-xis-us-visit-sources-say-2026-09-18/",
       "date": "2026-09-18T07:26:58Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say reuters.com."
+      "summary": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say Reuters."
     },
     {
       "title": "Japan raises interest rates to 31-year high to curb impact of rising prices",
       "url": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
       "date": "2026-09-18T07:14:13Z",
       "source": "The Guardian",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policyBusiness live – latest updatesJapan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat global inflation linked to the war in Iran.The Bank of Japan voted to raise its target interest rate from 1% to 1.25%, the highest level since 1995. Continue reading..."
     },
     {
-      "title": "BOJ Governor Ueda's comments at news conference - reuters.com",
+      "title": "BOJ Governor Ueda's comments at news conference - Reuters",
       "url": "https://www.reuters.com/business/finance/boj-governor-uedas-comments-news-conference-2026-09-18/",
       "date": "2026-09-18T06:49:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "BOJ Governor Ueda's comments at news conference reuters.com."
+      "summary": "BOJ Governor Ueda's comments at news conference Reuters."
     },
     {
-      "title": "Voting begins in Russian parliamentary election which Putin has cast as barometer of support for war - reuters.com",
+      "title": "Voting begins in Russian parliamentary election which Putin has cast as barometer of support for war - Reuters",
       "url": "https://www.reuters.com/world/europe/voting-begins-russian-parliamentary-election-which-putin-has-cast-barometer-2026-09-18/",
       "date": "2026-09-18T06:48:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Voting begins in Russian parliamentary election which Putin has cast as barometer of support for war reuters.com."
+      "summary": "Voting begins in Russian parliamentary election which Putin has cast as barometer of support for war Reuters."
     },
     {
-      "title": "Aramco to boost Gulf exports to 60 million barrels in September, October, traders say - reuters.com",
+      "title": "Aramco to boost Gulf exports to 60 million barrels in September, October, traders say - Reuters",
       "url": "https://www.reuters.com/business/energy/aramco-boost-exports-strait-hormuz-60-million-bbl-september-october-traders-say-2026-09-18/",
       "date": "2026-09-18T06:39:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Aramco to boost Gulf exports to 60 million barrels in September, October, traders say reuters.com."
+      "summary": "Aramco to boost Gulf exports to 60 million barrels in September, October, traders say Reuters."
     },
     {
-      "title": "Russia adapts a training missile to lead its ballistic onslaught of Ukraine - reuters.com",
+      "title": "Russia adapts a training missile to lead its ballistic onslaught of Ukraine - Reuters",
       "url": "https://www.reuters.com/world/ukraine-russia-war/revamped-missile-leading-russias-ballistic-onslaught-ukraine-2026-09-18/",
       "date": "2026-09-18T06:31:19Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Russia adapts a training missile to lead its ballistic onslaught of Ukraine reuters.com."
+      "summary": "Russia adapts a training missile to lead its ballistic onslaught of Ukraine Reuters."
     },
     {
-      "title": "France probes misuse of smart glasses in sexual harassment cases - reuters.com",
+      "title": "France probes misuse of smart glasses in sexual harassment cases - Reuters",
       "url": "https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/",
       "date": "2026-09-18T06:03:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "France probes misuse of smart glasses in sexual harassment cases reuters.com."
+      "summary": "France probes misuse of smart glasses in sexual harassment cases Reuters."
     },
     {
       "title": "Revealed: how Russia uses mobile ‘super-app’ Max to spy on its citizens",
@@ -548,12 +548,12 @@
       "summary": "Research shows tens of millions of people are being forced to use platform that amounts to ‘backdoor’ on their deviceOver the past 18 months, tens of millions of Russians have been forced to install a new app on their phones – a violet-blue button designed for messaging and payments, called Max.Authorities have touted it as a patriotic alternative to Telegram and WhatsApp; Russian glitterati have promoted it in rap videos and comic routines. This summer, it became the country’s most-used messaging app. Continue reading..."
     },
     {
-      "title": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say - reuters.com",
+      "title": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say - Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-us-sources-say-2026-09-18/",
       "date": "2026-09-18T05:59:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say reuters.com."
+      "summary": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say Reuters."
     },
     {
       "title": "South Korea will not send military to support US war on Iran, defying Trump pressure",
@@ -564,52 +564,52 @@
       "summary": "Seoul resolves recent speculation over sending military to strait of Hormuz, saying ‘there won’t be deployment that would involve or enter war’South Korea’s president, Lee Jae Myung, has said he will ⁠not deploy the military to the ⁠Middle East in a way ​that could draw the country into conflict, resisting calls from Donald Trump to support his war in Iran.“There won’t be deployment that would involve or enter war. I can tell you that very clearly,” Lee said at a ⁠news conference on Friday. “We won’t deploy military assets in any form to that end.” Continue reading..."
     },
     {
-      "title": "China vessel rams and damages Philippine boat on refueling mission, coast guard says - reuters.com",
+      "title": "China vessel rams and damages Philippine boat on refueling mission, coast guard says - Reuters",
       "url": "https://www.reuters.com/world/china/china-vessel-rams-damages-philippine-fishing-boat-coast-guard-says-2026-09-18/",
       "date": "2026-09-18T05:47:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "China vessel rams and damages Philippine boat on refueling mission, coast guard says reuters.com."
+      "summary": "China vessel rams and damages Philippine boat on refueling mission, coast guard says Reuters."
     },
     {
-      "title": "EXCLUSIVE: ECB's Vujcic cools oil-fuelled bets on rate hikes - reuters.com",
+      "title": "EXCLUSIVE: ECB's Vujcic cools oil-fuelled bets on rate hikes - Reuters",
       "url": "https://www.reuters.com/business/finance/ecbs-vujcic-cools-oil-fuelled-bets-rate-hikes-2026-09-18/",
       "date": "2026-09-18T05:31:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "EXCLUSIVE: ECB's Vujcic cools oil-fuelled bets on rate hikes reuters.com."
+      "summary": "EXCLUSIVE: ECB's Vujcic cools oil-fuelled bets on rate hikes Reuters."
     },
     {
-      "title": "EXCLUSIVE: China's CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC - reuters.com",
+      "title": "EXCLUSIVE: China's CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC - Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/chinas-cxmt-eyes-flash-memory-push-amid-global-shortage-firm-take-samsung-ymtc-2026-09-18/",
       "date": "2026-09-18T05:23:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "EXCLUSIVE: China's CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC reuters.com."
+      "summary": "EXCLUSIVE: China's CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC Reuters."
     },
     {
-      "title": "Nestle weighing all options after Kremlin moves to seize Russia business - reuters.com",
+      "title": "Nestle weighing all options after Kremlin moves to seize Russia business - Reuters",
       "url": "https://www.reuters.com/business/retail-consumer/nestle-responds-putins-decision-put-its-russian-business-under-external-2026-09-18/",
       "date": "2026-09-18T05:12:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Nestle weighing all options after Kremlin moves to seize Russia business reuters.com."
+      "summary": "Nestle weighing all options after Kremlin moves to seize Russia business Reuters."
     },
     {
-      "title": "Indonesia recovers three bodies as effort begins to right capsized ship - reuters.com",
-      "url": "https://www.reuters.com/world/asia-pacific/indonesia-begins-operation-right-capsized-ship-java-sea-129-remain-missing-2026-09-18/",
-      "date": "2026-09-18T05:11:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Indonesia recovers three bodies as effort begins to right capsized ship reuters.com."
-    },
-    {
-      "title": "As Iran war grinds on, Trump to face skeptical world leaders at UN - reuters.com",
+      "title": "As Iran war grinds on, Trump to face skeptical world leaders at UN - Reuters",
       "url": "https://www.reuters.com/world/middle-east/iran-war-grinds-trump-face-skeptical-world-leaders-un-2026-09-18/",
       "date": "2026-09-18T05:03:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "As Iran war grinds on, Trump to face skeptical world leaders at UN reuters.com."
+      "summary": "As Iran war grinds on, Trump to face skeptical world leaders at UN Reuters."
+    },
+    {
+      "title": "Canada, EU face limits to relationship after symbolic EU overture to Carney - Reuters",
+      "url": "https://www.reuters.com/world/canada-eu-face-limits-relationship-after-symbolic-eu-overture-carney-2026-09-18/",
+      "date": "2026-09-18T05:01:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Canada, EU face limits to relationship after symbolic EU overture to Carney Reuters."
     },
     {
       "title": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Paris prosecutors open at least one criminal probe into suspected sexual harassment involving the use of smart glasses to film women in public without consent (Reuters)",
+      "url": "https://www.techmeme.com/260918/p7#a260918p7",
+      "date": "2026-09-18T09:50:25Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Reuters: Paris prosecutors open at least one criminal probe into suspected sexual harassment involving the use of smart glasses to film women in public without consent &mdash; Paris prosecutors have opened a criminal probe into suspected sexual harassment involving smart glasses, while French data protection authorities &hellip;."
+    },
+    {
       "title": "Alerty RCB zobaczysz w kolejnym miejscu. Niedługo trafią do mObywatela",
       "url": "https://www.instalki.pl/news/internet/alerty-rcb-mobywatel-kolejne-miejsce/",
       "date": "2026-09-18T09:50:12Z",
@@ -1398,14 +1406,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Epic rozdaje dwie gry niezależne, a Amazon przygotował trzy tytuły dla abonentów Prime. Największą atrakcją drugiej oferty jest DOOM Eternal. Artykuł Epic i Amazon rozdają pięć gier &#8211; w tym DOOM Eternal."
-    },
-    {
-      "title": "Tej funkcji nie ma żaden inny smartfon. Pixel dostanie coś specjalnego",
-      "url": "https://www.instalki.pl/news/software/tlumacz-google-offline-nowa-funkcja-na-smartfonach-pixel/",
-      "date": "2026-09-17T12:46:07Z",
-      "source": "Instalki.pl",
-      "confirmed_by": 1,
-      "summary": "Pixel jest traktowany przez Google wyjątkowo, niektóre funkcje są dostępne wyłącznie tam. Grono już niedługo się powiększy. Artykuł Tej funkcji nie ma żaden inny smartfon."
     }
   ],
   "cybersecurity": [
@@ -2012,6 +2012,14 @@
       "summary": "WIG wraca do wzrostów (nowa pozycja w portfelu) Paweł Biedrzycki pt., 18.09.2026 WIG swig80 Wstęp do wpisu Podsumowanie sesji z 17 września 2026: #WIG, #sWIG80, spółka portfelowa, spółki godne uwagi WIG wraca do wzrostów (nowa pozycja w portfelu) Paweł Biedrzycki."
     },
     {
+      "title": "Czołg z reaktorem atomowym na pokładzie. Chińczycy mają plan - Forsal.pl",
+      "url": "https://forsal.pl/swiat/bezpieczenstwo/artykuly/11314704,czolg-z-reaktorem-atomowym-na-pokladzie-chinczycy-maja-plan.html",
+      "date": "2026-09-18T05:36:05Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Czołg z reaktorem atomowym na pokładzie. Chińczycy mają plan Forsal.pl."
+    },
+    {
       "title": "Odpady drzewne mogłyby dawać energię fabrykom, ale przepisy komplikują ich wykorzystanie",
       "url": "https://300gospodarka.pl/news/odpady-drzewne-moglyby-dawac-energie-fabrykom-ale-przepisy-komplikuja-ich-wykorzystanie",
       "date": "2026-09-18T05:03:48Z",
@@ -2066,14 +2074,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Rafał Brzoska i długo nic. Dlaczego nie było pospolitego ruszenia ws. scamów?"
-    },
-    {
-      "title": "MDR od 1 października 2026 r. Rewolucja w przepisach nie dla wszystkich oznacza spokój - Forsal.pl",
-      "url": "https://forsal.pl/biznes/aktualnosci/artykuly/11314183,mdr-od-1-pazdziernika-2026-r-rewolucja-w-przepisach-nie-dla-wszystkich-oznacza-spokoj.html",
-      "date": "2026-09-18T03:54:37Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "MDR od 1 października 2026 r. Rewolucja w przepisach nie dla wszystkich oznacza spokój Forsal.pl."
     },
     {
       "title": "Międzynarodowy prestiż i katalońska dusza. InterContinental Barcelona gości w zieloności wzgórza Montjuïc - Forbes",
@@ -2140,20 +2140,20 @@
       "summary": "PCF GROUP SA Raport okresowy półroczny za PSr BiznesRadar."
     },
     {
+      "title": "Phoenix Systems sięga do portfeli inwestorów. W tle: smart grid, defence i space - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/154648,phoenix-systems-siega-do-portfeli-inwestorow-w-tle-smart-grid-defence-i-space",
+      "date": "2026-09-17T15:16:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Phoenix Systems sięga do portfeli inwestorów. W tle: smart grid, defence i space BiznesRadar."
+    },
+    {
       "title": "LPP SA Raport okresowy półroczny za PSr - BiznesRadar",
       "url": "https://www.biznesradar.pl/a/154645,lpp-sa-raport-okresowy-polroczny-za-psr",
       "date": "2026-09-17T15:01:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "LPP SA Raport okresowy półroczny za PSr BiznesRadar."
-    },
-    {
-      "title": "Wiadomości ALLEGRO.EU SOCIÉTÉ ANONYME (ALE) - strona: 37 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/ALE,37",
-      "date": "2026-09-17T14:26:45Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości ALLEGRO.EU SOCIÉTÉ ANONYME (ALE) - strona: 37 BiznesRadar."
     },
     {
       "title": "Zapłacą więcej podatku niż zarobią na paliwach? Ostrzega rząd",
@@ -2568,51 +2568,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25887.14,
+      25881.48,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27061.21,
+      27055.3,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27209.39,
+      27203.44,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27456.38,
+      27450.38,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28097.44,
+      28091.3,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28133.78,
+      28127.63,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28380.5,
+      28374.3,
       27354.94,
       27400.36,
       27412.11,
-      28785.28,
+      28778.99,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28039.75,
+      28033.62,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28220.97,
+      28214.8,
       27686.17,
       27404.78,
       27351.97,
@@ -2621,7 +2621,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27926.89,
+      27920.79,
       27930.04,
       28234.04,
       28218.36,
@@ -2630,55 +2630,55 @@
       28294.39,
       28203.83,
       28555.17,
-      28767.54,
+      28761.26,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28320.58,
+      28314.39,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28146.99,
+      28140.84,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28442.21,
+      28436.0,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29459.64,
+      29453.2,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29566.42,
+      29559.96,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      29143.42,
+      29137.05,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29285.41,
+      29279.01,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29311.38,
+      29304.98,
       28449.73,
       28313.03,
       28272.33,
-      29077.38,
+      29071.03,
       28610.74,
       28516.81,
       28689.18,
-      29004.39
+      28998.05
     ],
     "currency": "PLN"
   }
