@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-18T12:51:07Z",
+  "last_updated": "2026-09-18T12:51:55Z",
   "poland": [
+    {
+      "title": "Polacy widzą w transformacji szansę dla polskiej gospodarki",
+      "url": "https://www.rp.pl/gospodarka/art45160791-polacy-widza-w-transformacji-szanse-dla-polskiej-gospodarki",
+      "date": "2026-09-18T12:50:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Większość Polaków patrzy na transformację energetyczną przez pryzmat realnych korzyści ekonomicznych. Zdaniem 57 proc. badanych dzięki niej spadną koszty dla przemysłu, powstaną nowe miejsca pracy i zwiększy się niezależność paliwowa – wynika z badania towarzyszącego kampanii Clean Tech Fundacji We Did It."
+    },
     {
       "title": "Prokuratura Europejska przedstawiła posłowi Wojciechowi Królowi zarzuty",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33032320,prokuratura-europejska-przedstawila-poslowi-wojciechowi-krolowi.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -168,14 +176,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Sierpniowe dane o produkcji przemysłowej w Polsce pokazały spowolnienie dynamiki wzrostu, ale według ekonomistów nasza gospodarka pozostaje odporna na bliskowschodni konflikt. Opinie dotyczące dynamiki polskiego PKB w III kwartale są zróżnicowane."
-    },
-    {
-      "title": "Warren Buffett odchodzi po 56 latach. Ster w Berkshire przejmie jego syn",
-      "url": "https://www.rp.pl/biznes/art45160431-warren-buffett-odchodzi-po-56-latach-ster-w-berkshire-przejmie-jego-syn",
-      "date": "2026-09-18T11:40:48Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Warren Buffett, który pod koniec ubiegłego roku zakończył trwającą przez dziesięciolecia karierę na stanowisku dyrektora generalnego Berkshire Hathaway, rezygnuje także z funkcji przewodniczącego rady dyrektorów, którą pełnił od 1970 r."
     },
     {
       "title": "Donald Tusk w Ukrainie: Czekają nas ciężkie miesiące",
@@ -644,14 +644,6 @@
       "summary": "US pharmacy chain Walgreens plans tech centre in India's Chennai, expected to create 250 jobs Reuters."
     },
     {
-      "title": "Russia adapts a training missile to lead its ballistic onslaught of Ukraine - Reuters",
-      "url": "https://www.reuters.com/world/ukraine-russia-war/revamped-missile-leading-russias-ballistic-onslaught-ukraine-2026-09-18/",
-      "date": "2026-09-18T07:52:06Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Russia adapts a training missile to lead its ballistic onslaught of Ukraine Reuters."
-    },
-    {
       "title": "Swimmer dies after shark attack at Perth beach – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb",
       "date": "2026-09-18T07:40:39Z",
@@ -674,6 +666,14 @@
       "source": "BBC News",
       "confirmed_by": 2,
       "summary": "Central banks around the world have hiked rates as high energy prices are pushing up inflation."
+    },
+    {
+      "title": "BOJ Governor Ueda's comments at news conference - Reuters",
+      "url": "https://www.reuters.com/business/finance/boj-governor-uedas-comments-news-conference-2026-09-18/",
+      "date": "2026-09-18T06:49:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "BOJ Governor Ueda's comments at news conference Reuters."
     },
     {
       "title": "Revealed: how Russia uses mobile ‘super-app’ Max to spy on its citizens",
@@ -765,6 +765,14 @@
     }
   ],
   "world_politics": [
+    {
+      "title": "Locals Call It the World’s Largest Cesspool, and Blame It for Surging Cancer",
+      "url": "https://www.nytimes.com/2026/09/17/world/americas/mexico-city-endho-dam.html",
+      "date": "2026-09-18T12:48:48Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "For decades, the Mexican authorities have sacrificed a rural valley to flush away the capital’s waste and power the economy. Now, local communities are paying for that decision — often with peoples’ lives."
+    },
     {
       "title": "German Art Institutions Prepare for a Fight as Far Right Looks to Take Power",
       "url": "https://www.nytimes.com/2026/09/18/world/europe/germany-afd-bauhaus-culture.html",
@@ -940,14 +948,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "OpenAI flags concerning new AI behavior and vows to track it more closely AP News."
-    },
-    {
-      "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
-      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
-      "date": "2026-09-17T22:44:04Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Clashes between Iranian-backed Houthi fighters and Saudi-backed government forces have been reported near oil-rich Marib Province."
     },
     {
       "title": "Poland warns Russia is planning drone or rocket strikes on NATO territory - AP News",
@@ -1868,12 +1868,12 @@
       "summary": "Progi podatkowe w PIT powinny być co roku waloryzowane o inflację - wynika ze stanowiska minister klimatu i środowiska Pauliny Hennig-Kloski do projektu zmian w podatkach dochodowych. Minister zaproponowała, by nowe wysokości progów obowiązywały automatycznie od 1 stycznia każdego roku."
     },
     {
-      "title": "Sejm uchwalił deregulację VAT. Łatwiej będzie rozliczyć eksport towarów",
-      "url": "https://www.bankier.pl/wiadomosc/Sejm-uchwalil-deregulacje-VAT-Latwiej-bedzie-rozliczyc-eksport-towarow-9199145.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-09-18T12:20:00Z",
-      "source": "Bankier.pl",
+      "title": "Ceny paliw nie odpuszczają. Tyle kierowcy mogą zapłacić w przyszłym tygodniu - Forsal.pl",
+      "url": "https://forsal.pl/transport/aktualnosci/artykuly/11315194,ceny-paliw-nie-odpuszczaja-tyle-kierowcy-moga-zaplacic-w-przyszlym-tygodniu.html",
+      "date": "2026-09-18T12:15:13Z",
+      "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Sejm uchwalił w piątek nowelizację ustawy o VAT, która przewiduje m.in. uproszczenia w dokumentowaniu eksportu towarów oraz elektroniczne rozliczanie części procedur importowych."
+      "summary": "Ceny paliw nie odpuszczają. Tyle kierowcy mogą zapłacić w przyszłym tygodniu Forsal.pl."
     },
     {
       "title": "Szef MON w Sejmie: Nie wolno zatracić racji stanu, jaką jest wspieranie walczącej Ukrainy",
@@ -1882,6 +1882,38 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Ukraińcy nie rozliczyli się z historii, ale w populistycznej pogoni za jakimkolwiek procentem poparcia, nie wolno zatracić racji stanu, jaką jest wspieranie walczącej Ukrainy - podkreślił wicepremier, szef MON Władysław Kosiniak-Kamysz w piątek w Sejmie."
+    },
+    {
+      "title": "Kiedy system kaucji obejmie małpki? Wiceminister podała ważny termin",
+      "url": "https://www.bankier.pl/wiadomosc/Kiedy-system-kaucyjny-obejmie-malpki-Wiceminister-podala-wazny-termin-9199231.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-09-18T12:10:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Resort klimatu i środowiska od dawna zapowiada włączenie do systemu kaucyjnego szklanych butelek po tzw. małpkach. Wciąż jednak nie podał konkretnej daty, kiedy może to nastąpić."
+    },
+    {
+      "title": "Koncerny paliwowe zapłacą podatek? Sejm podjął decyzję - Forsal.pl",
+      "url": "https://forsal.pl/transport/aktualnosci/artykuly/11315145,koncerny-paliwowe-zaplaca-podatek-sejm-podjal-decyzje.html",
+      "date": "2026-09-18T10:42:51Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Koncerny paliwowe zapłacą podatek? Sejm podjął decyzję Forsal.pl."
+    },
+    {
+      "title": "Budimex za 211 mln zł dokończy rozbudowę Szpitala Uniwersyteckiego w Bydgoszczy - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/budimex-szpital-uniwersytecki-bydgoszcz-kontrakt-211-mln-zl,akcje,380961",
+      "date": "2026-09-18T10:05:35Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Budimex za 211 mln zł dokończy rozbudowę Szpitala Uniwersyteckiego w Bydgoszczy stockwatch.pl."
+    },
+    {
+      "title": "Wynajem krótkoterminowy po polsku. Nadchodzą przepisy, które mogą zmienić rynek - Forsal.pl",
+      "url": "https://forsal.pl/nieruchomosci/artykuly/11314738,polska-druga-w-europie-chodzi-o-sposob-w-jaki-wynajmujemy-mieszkania-na-airbnb.html",
+      "date": "2026-09-18T09:57:37Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Wynajem krótkoterminowy po polsku. Nadchodzą przepisy, które mogą zmienić rynek Forsal.pl."
     },
     {
       "title": "NEWAG [NWG] - stockwatch.pl",
@@ -1948,14 +1980,6 @@
       "summary": "Czy Trumpowie mają na radarze Polskę? Eric Trump o rodzinnym biznesie Forbes."
     },
     {
-      "title": "35 kg złota dla zadłużonego regionu. Hojny dar od anonimowego darczyńcy - Forsal.pl",
-      "url": "https://forsal.pl/swiat/aktualnosci/artykuly/11315010,35-kg-zlota-dla-zadluzonego-regionu-hojny-dar-od-anonimowego-darczyncy.html",
-      "date": "2026-09-18T08:33:53Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "35 kg złota dla zadłużonego regionu. Hojny dar od anonimowego darczyńcy Forsal.pl."
-    },
-    {
       "title": "Phoenix Systems rozpoczyna ofertę publiczną. Polski deep tech chce pozyskać 21,5 mln zł i wejść na NewConnect",
       "url": "https://strefainwestorow.pl/debiut-ipo/oferta-publiczna-phoenix-systems",
       "date": "2026-09-18T08:31:31Z",
@@ -2010,30 +2034,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Za litr paliwa kierowcy płacą dziś średnio około 9 zł. Z tej kwoty 5,51 zł przypada na koszt rafinerii – wynika z danych BM Reflex. Resztę stanowią m.in."
-    },
-    {
-      "title": "Selvita: strata 3 mln zł w II kw. 2026 r. - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/selvita-wyniki-ii-kwartal-2026-strata-netto-ebitda-rozwoj-lekow,akcje,380917",
-      "date": "2026-09-18T07:18:41Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Selvita: strata 3 mln zł w II kw. 2026 r. stockwatch.pl."
-    },
-    {
-      "title": "Tysiącom seniorów ZUS wypłaca wysokie świadczenie. Uwaga: niektórzy muszą złożyć wniosek - Forsal.pl",
-      "url": "https://forsal.pl/finanse/twoje-pieniadze/artykuly/11314723,spore-wsparcie-finansowe-dla-seniorow-sprawdz-komu-zus-doplaca-do-standardowego-swiadczenia.html",
-      "date": "2026-09-18T07:09:50Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Tysiącom seniorów ZUS wypłaca wysokie świadczenie. Uwaga: niektórzy muszą złożyć wniosek Forsal.pl."
-    },
-    {
-      "title": "Niebieski trójkąt i zielona tabliczka. Taki znak pojawi się na tysiącach budynków - Forsal.pl",
-      "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11314838,punkty-schronienia---nowe-oznaczenia-tak-bedzie-wygladal-znak-na-budynkach.html",
-      "date": "2026-09-18T07:05:09Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Niebieski trójkąt i zielona tabliczka. Taki znak pojawi się na tysiącach budynków Forsal.pl."
     },
     {
       "title": "WIG wraca do wzrostów (nowa pozycja w portfelu)",
@@ -2124,12 +2124,20 @@
       "summary": "Polski rynek kosmetyczny bije rekordy. Awansujemy w światowych rankingach Forbes."
     },
     {
-      "title": "PHN SA (13/2026) Decyzja w sprawie emisji obligacji serii F2 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/154705,phn-sa-13-2026-decyzja-w-sprawie-emisji-obligacji-serii-f2",
-      "date": "2026-09-17T17:06:00Z",
+      "title": "NIEWIADÓW - PGM SA (69/2026) Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Niewiadów Polska Grupa Militarna S.A. na - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/154732,niewiadow-pgm-sa-69-2026-ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-zgromadzenia-niewiadow-polska-grupa-militarna-s-a-na-dzien",
+      "date": "2026-09-17T18:37:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "PHN SA (13/2026) Decyzja w sprawie emisji obligacji serii F2 BiznesRadar."
+      "summary": "NIEWIADÓW - PGM SA (69/2026) Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Niewiadów Polska Grupa Militarna S.A. na BiznesRadar."
+    },
+    {
+      "title": "LPP zyskuje 768 mln zł w II kwartale i podnosi całoroczne prognozy rentowności - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/154690,lpp-zyskuje-768-mln-zl-w-ii-kwartale-i-podnosi-caloroczne-prognozy-rentownosci",
+      "date": "2026-09-17T16:55:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "LPP zyskuje 768 mln zł w II kwartale i podnosi całoroczne prognozy rentowności BiznesRadar."
     },
     {
       "title": "Miliardy dolarów z subskrypcji AI mogą wesprzeć notowania. Meta i Google korzystają na zadyszce liderów",
@@ -2154,14 +2162,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Phoenix Systems sięga do portfeli inwestorów. W tle: smart grid, defence i space BiznesRadar."
-    },
-    {
-      "title": "Wiadomości ALLEGRO.EU SOCIÉTÉ ANONYME (ALE) - strona: 37 - BiznesRadar",
-      "url": "https://www.biznesradar.pl/wiadomosci/ALE,37",
-      "date": "2026-09-17T14:26:45Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości ALLEGRO.EU SOCIÉTÉ ANONYME (ALE) - strona: 37 BiznesRadar."
     },
     {
       "title": "Przewoźnicy potrzebują tańszego paliwa. Ostrzegają przed drożyzną na sklepowych półkach",
@@ -2558,51 +2558,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25932.81,
+      25929.4,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27108.96,
+      27105.39,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27257.4,
+      27253.81,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27504.82,
+      27501.21,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28147.01,
+      28143.31,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28183.42,
+      28179.71,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28430.57,
+      28426.84,
       27354.94,
       27400.36,
       27412.11,
-      28836.06,
+      28832.27,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28089.22,
+      28085.53,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28270.76,
+      28267.04,
       27686.17,
       27404.78,
       27351.97,
@@ -2611,7 +2611,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27976.16,
+      27972.49,
       27930.04,
       28234.04,
       28218.36,
@@ -2620,55 +2620,55 @@
       28294.39,
       28203.83,
       28555.17,
-      28818.3,
+      28814.51,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28370.54,
+      28366.82,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28196.65,
+      28192.95,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28492.39,
+      28488.65,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29511.61,
+      29507.74,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29618.59,
+      29614.69,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      29194.84,
+      29191.0,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29337.08,
+      29333.22,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29363.1,
+      29359.24,
       28449.73,
       28313.03,
       28272.33,
-      29128.68,
+      29124.85,
       28610.74,
       28516.81,
       28689.18,
-      29055.57
+      29051.75
     ],
     "currency": "PLN"
   }
