@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T02:07:32Z",
+  "last_updated": "2026-09-18T02:08:12Z",
   "poland": [
     {
       "title": "Paweł Wojciechowski: Gdy jedna reguła daje dwa wyniki",
@@ -1024,12 +1024,12 @@
       "summary": "Dwarkesh Patel / Dwarkesh Podcast: An interview with OpenAI researcher Noam Brown about multi-agent systems, AI solving the Navier-Stokes problem, the internal/external model gap, and more &mdash; &ldquo;We never want to be in a situation again where we underestimate the AI.&rdquo; &mdash; New episode with Noam Brown."
     },
     {
-      "title": "Claude Code from Source",
-      "url": "https://claude-code-from-source.com/",
-      "date": "2026-09-18T01:14:04Z",
+      "title": "Telstra outage: The night a network decided the year was 2006",
+      "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+      "date": "2026-09-18T01:05:03Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://claude-code-from-source.com/ Comments URL: https://news.ycombinator.com/item?id=49749019 Points: 12 # Comments: 1."
+      "summary": "Article URL: https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006 Comments URL: https://news.ycombinator.com/item?id=49748957 Points: 9 # Comments: 2."
     },
     {
       "title": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
@@ -1037,7 +1037,7 @@
       "date": "2026-09-18T01:04:54Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/aardappel/goose/tree/master Comments URL: https://news.ycombinator.com/item?id=49748954 Points: 18 # Comments: 5."
+      "summary": "Article URL: https://github.com/aardappel/goose/tree/master Comments URL: https://news.ycombinator.com/item?id=49748954 Points: 26 # Comments: 16."
     },
     {
       "title": "The UN says it is working with Google on the UN System Data Commons, which lets users search for statistics from across UN agencies via natural-language queries (Jagmeet Singh/TechCrunch)",
@@ -1061,7 +1061,7 @@
       "date": "2026-09-17T23:05:48Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash Comments URL: https://news.ycombinator.com/item?id=49747925 Points: 19 # Comments: 2."
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash Comments URL: https://news.ycombinator.com/item?id=49747925 Points: 25 # Comments: 4."
     },
     {
       "title": "Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code (Claude)",
@@ -1077,7 +1077,7 @@
       "date": "2026-09-17T21:14:32Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/ Comments URL: https://news.ycombinator.com/item?id=49746628 Points: 40 # Comments: 23."
+      "summary": "Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/ Comments URL: https://news.ycombinator.com/item?id=49746628 Points: 44 # Comments: 23."
     },
     {
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
@@ -1085,7 +1085,7 @@
       "date": "2026-09-17T21:13:31Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://prismml.com/news/bonsai-2-27b Comments URL: https://news.ycombinator.com/item?id=49746618 Points: 222 # Comments: 70."
+      "summary": "Article URL: https://prismml.com/news/bonsai-2-27b Comments URL: https://news.ycombinator.com/item?id=49746618 Points: 236 # Comments: 71."
     },
     {
       "title": "OpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms (OpenAI)",
@@ -1109,7 +1109,7 @@
       "date": "2026-09-17T20:52:36Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://liamnugent.me/posts/what-you-dont-build/ Comments URL: https://news.ycombinator.com/item?id=49746407 Points: 42 # Comments: 16."
+      "summary": "Article URL: https://liamnugent.me/posts/what-you-dont-build/ Comments URL: https://news.ycombinator.com/item?id=49746407 Points: 44 # Comments: 17."
     },
     {
       "title": "Computer Reset, Dallas",
@@ -1117,7 +1117,7 @@
       "date": "2026-09-17T20:50:03Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://dfarq.homeip.net/computer-reset-dallas/ Comments URL: https://news.ycombinator.com/item?id=49746371 Points: 15 # Comments: 2."
+      "summary": "Article URL: https://dfarq.homeip.net/computer-reset-dallas/ Comments URL: https://news.ycombinator.com/item?id=49746371 Points: 17 # Comments: 2."
     },
     {
       "title": "Andrew Ng says renewed AI extinction warnings are \"much more science fiction than science\" and the latest \"wave of PR\" is probably intended to shape regulation (Micah Barkley/Bloomberg)",
@@ -1964,14 +1964,6 @@
       "summary": "LPP SA Raport okresowy półroczny za PSr BiznesRadar."
     },
     {
-      "title": "Synektik wchodzi do Estonii z robotem da Vinci - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/synektik-da-vinci-estonia-tallinn-umowa-kontrakt,akcje,380886",
-      "date": "2026-09-17T14:24:00Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Synektik wchodzi do Estonii z robotem da Vinci stockwatch.pl."
-    },
-    {
       "title": "SYNEKTIK SA (44/2026) Informacja o zawarciu istotnej umowy sprzedaży - BiznesRadar",
       "url": "https://www.biznesradar.pl/a/154630,synektik-sa-44-2026-informacja-o-zawarciu-istotnej-umowy-sprzedazy",
       "date": "2026-09-17T13:53:00Z",
@@ -2114,6 +2106,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "WAWEL [WWL] stockwatch.pl."
+    },
+    {
+      "title": "MON uruchomi w październiku zieloną listę. Żołnierze sami wybiorą wyposażenie - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/zielona-lista-mon-zolnierze-wyposazenie-indywidualne,prawo-i-podatki,380811",
+      "date": "2026-09-17T07:09:43Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "MON uruchomi w październiku zieloną listę. Żołnierze sami wybiorą wyposażenie stockwatch.pl."
     },
     {
       "title": "Znamy 100 najlepszych małych i średnich firm w Europie. Cztery są z Polski",
@@ -2553,51 +2553,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25857.15,
+      25859.05,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27029.86,
+      27031.85,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27177.87,
+      27179.87,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27424.57,
+      27426.59,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28064.88,
+      28066.95,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28101.18,
+      28103.26,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28347.62,
+      28349.71,
       27354.94,
       27400.36,
       27412.11,
-      28751.93,
+      28754.05,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28007.27,
+      28009.33,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28188.27,
+      28190.35,
       27686.17,
       27404.78,
       27351.97,
@@ -2606,7 +2606,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27894.53,
+      27896.59,
       27930.04,
       28234.04,
       28218.36,
@@ -2615,55 +2615,55 @@
       28294.39,
       28203.83,
       28555.17,
-      28734.21,
+      28736.33,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28287.76,
+      28289.85,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28114.38,
+      28116.46,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28409.26,
+      28411.36,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29425.51,
+      29427.68,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29532.17,
+      29534.35,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      29109.65,
+      29111.8,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29251.48,
+      29253.64,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29277.42,
+      29279.58,
       28449.73,
       28313.03,
       28272.33,
-      29043.69,
+      29045.83,
       28610.74,
       28516.81,
       28689.18,
-      28970.79
+      28972.93
     ],
     "currency": "PLN"
   }
