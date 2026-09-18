@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T09:35:38Z",
+  "last_updated": "2026-09-18T09:36:42Z",
   "poland": [
     {
       "title": "Obrońca podejrzanych w sprawie Zondacrypto odsunięty. Przez rajdy samochodowe",
@@ -24,6 +24,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Sejm uchwalił w piątek ustawę, która zagwarantuje osobom z niepełnosprawnościami systemowy dostęp do asystencji osobistej. Według Ministerstwa Rodziny, Pracy i Polityki Społecznej z usług asystenta może skorzystać ok. 100 tys."
+    },
+    {
+      "title": "Wskaźniki referencyjne - EURIBOR - PAP Biznes",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wskazniki-referencyjne-euribor-277",
+      "date": "2026-09-18T09:15:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Wskaźniki referencyjne - EURIBOR PAP Biznes."
     },
     {
       "title": "„Lalka\" po premierze jest ósma na świecie. Wpływowy amerykański portal pisze: Obejrzeć",
@@ -56,14 +64,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "- W poniedziałki przybiegałem do pracy, robiłem trening na siłowni, brałem prysznic w akurat dostępnym pokoju lub apartamencie i zostawiałem tam torbę, gdy szedłem do pracy. Mogło się zdarzyć, że torba zostawała tam kilka dni. Nie oczekiwałem żadnego blokowania pokoju - zeznał w lipcu prezydent Karol Nawrocki."
-    },
-    {
-      "title": "Sześć sprawdzonych hoteli ze spa na jesienną regenerację. Bogate pakiety dla rodzin i par",
-      "url": "https://businessinsider.com.pl/lifestyle/podroze/szesc-sprawdzonych-hoteli-ze-spa-na-jesienna-regeneracje-bogate-pakiety-dla-rodzin-i/7brhkh9",
-      "date": "2026-09-18T09:01:41Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Jesień to najlepszy moment, by na chwilę zwolnić tempo i zadbać o regenerację. Wybraliśmy sześć sprawdzonych obiektów w różnych regionach Polski, które kuszą rozbudowaną strefą wellness, zabiegami relaksacyjnymi i atrakcyjnymi pakietami zarówno dla par szukających romantycznego odpoczynku, jak i dla rodzin chcących połączyć relaks z aktywnym wypoczynkiem. To miejsca, w których jesienna aura staje się dodatkowym atutem, a nie powodem, by zostać w domu."
     },
     {
       "title": "Łukasz Gibała i Aleksandra Owca w drugiej turze. Prawybory prezydenckie w Krakowie rozstrzygnięte",
@@ -282,20 +282,20 @@
       "summary": "Rząd chce odebrać koncernom część nadzwyczajnych zysków i za te pieniądze obniżyć ceny paliw. Prezydent chce bezpośrednio ingerować w marże firm paliwowych i jednocześnie ograniczyć niektóre podatki. Jeden z tych pomysłów w obecnej sytuacji rynkowej niesie za sobą potężne ryzyko dla kierowców i może doprowadzić do sytuacji, której jeszcze u nas nie było — problemów z kontraktowaniem paliwa."
     },
     {
+      "title": "Bank Japonii podniósł stopy. Najwyższy poziom od ponad 30 lat",
+      "url": "https://businessinsider.com.pl/gospodarka/makroekonomia/bank-japonii-podnosi-stopy-procentowe-najwyzszy-poziom-od-30-lat/y8yv0l6",
+      "date": "2026-09-18T05:38:00Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Bank Japonii (BOJ) podniósł w piątek główną stopę procentową o 25 punktów bazowych, do 1,25 proc. To najwyższy poziom od 1995 r. Decyzja jest odpowiedzią na rosnącą presję inflacyjną, związaną m.in."
+    },
+    {
       "title": "Zablokowana umowa wojskowa USA z Izraelem na sprzedaż 40 tysięcy bomb",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33030916,zablokowana-umowa-wojskowa-usa-z-izraelem-na-sprzedaz-40-tysiecy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-09-18T05:27:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Gregory Meeks, najwyższy rangą demokrata w Komisji Spraw Zagranicznych Izby Reprezentantów, wstrzymał prace nad ofertą administracji USA sprzedaży Izraelowi amunicji. Tymczasem Departament Stanu zaaprobował kontrakt zbrojny z Arabią Saudyjską opiewający na 24,3 mld dolarów."
-    },
-    {
-      "title": "DORSZ: Wojsko poderwało samoloty w związku z atakami Rosji w Ukrainie",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33030945,dorsz-wojsko-poderwalo-samoloty-w-zwiazku-z-atakami-rosji-w.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-09-18T05:26:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Rozpoczęło się operowanie lotnictwa wojskowego w polskiej przestrzeni powietrznej - przekazało Dowództwo Operacyjne Rodzajów Sił Zbrojnych. Po około dwóch godzinach działania dobiegły końca. \"Nie odnotowano naruszenia polskiej przestrzeni powietrznej\" - przekazało wojsko."
     },
     {
       "title": "Fręch nie zagra w półfinale. Polka rozbita przez 19-latkę - Polskie Radio 24",
@@ -1836,6 +1836,14 @@
       "summary": "Tylko cztery statki handlowe przepłynęły w czwartek przez cieśninę Ormuz. Dzień wcześniej było ich sześć. Średnia z dziesięciu dni wynosiła 16 - przekazała w piątek agencja Reutera powołując się na dane firm monitorujących żeglugę."
     },
     {
+      "title": "Rekrutacje w IT hamują. Firmy wskazują, których specjalistów nadal potrzebują - Forsal.pl",
+      "url": "https://forsal.pl/praca/artykuly/11314716,to-moze-zaskakiwac-gospodarka-przyspiesza-a-firmy-it-ograniczaja-rekrutacje.html",
+      "date": "2026-09-18T09:08:40Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Rekrutacje w IT hamują. Firmy wskazują, których specjalistów nadal potrzebują Forsal.pl."
+    },
+    {
       "title": "Alerty RCB trafią do mObywatela. Nowa funkcja już za kilka tygodni",
       "url": "https://www.bankier.pl/wiadomosc/Alerty-RCB-trafia-do-mObywatela-Nowa-funkcja-juz-za-kilka-tygodni-9199078.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-09-18T08:44:00Z",
@@ -1850,6 +1858,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Czy Trumpowie mają na radarze Polskę? Eric Trump o rodzinnym biznesie Forbes."
+    },
+    {
+      "title": "Tak szybko nie rosły od miesięcy. GUS pokazał nowe dane o cenach w przemyśle - Forsal.pl",
+      "url": "https://forsal.pl/gospodarka/inflacja/artykuly/11314997,ceny-w-polskim-przemysle-przyspieszyly-tego-ekonomisci-sie-nie-spodziewali.html",
+      "date": "2026-09-18T08:34:02Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Tak szybko nie rosły od miesięcy. GUS pokazał nowe dane o cenach w przemyśle Forsal.pl."
     },
     {
       "title": "35 kg złota dla zadłużonego regionu. Hojny dar od anonimowego darczyńcy - Forsal.pl",
@@ -1892,6 +1908,14 @@
       "summary": "Zakład Ubezpieczeń Społecznych wypłaca już pierwsze zasiłki opiekuńcze dla małżeństw jednopłciowych – poinformowała w piątek ministra rodziny, pracy i polityki społecznej Agnieszka Dziemianowicz-Bąk."
     },
     {
+      "title": "PGE: wyniki II kw. 2026 i 235 mld zł na transformację - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/pge-wyniki-ii-kw-2026-magazyny-energii-baltica-transformacja,akcje,380934",
+      "date": "2026-09-18T08:04:21Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "PGE: wyniki II kw. 2026 i 235 mld zł na transformację stockwatch.pl."
+    },
+    {
       "title": "Niespodziewany zwrot w USA. Znów chcą kupować F-16 - Forsal.pl",
       "url": "https://forsal.pl/swiat/bezpieczenstwo/artykuly/11314990,niespodziewany-zwrot-w-usa-znow-chca-kupowac-f-16.html",
       "date": "2026-09-18T07:51:50Z",
@@ -1900,20 +1924,20 @@
       "summary": "Niespodziewany zwrot w USA. Znów chcą kupować F-16 Forsal.pl."
     },
     {
+      "title": "P.A. Nova z dużym skokiem zysku netto w I połowie 2026 r. – sprzedaż obiektów w Nysie i Zaczerniu dała ok. 100 mln zł - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/pa-nova-wyniki-i-polrocze-2026-zysk-netto-sprzedaz-obiektow,akcje,380929",
+      "date": "2026-09-18T07:43:35Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "P.A. Nova z dużym skokiem zysku netto w I połowie 2026 r. – sprzedaż obiektów w Nysie i Zaczerniu dała ok."
+    },
+    {
       "title": "Wyniki finansowe Grupy OT Logistics w I półroczu 2026 r. – czat inwestorski z Zarządem",
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-24/wyniki-finansowe-ot-logistics-1h26",
       "date": "2026-09-18T07:35:55Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Wyniki finansowe Grupy OT Logistics w I półroczu 2026 r. – czat inwestorski z Zarządem Czaty pt., 18.09.2026 Obrazek."
-    },
-    {
-      "title": "Nowe centrum dystrybucyjne Pepco w Barniewicach koło Gdańska - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/pepco-centrum-dystrybucyjne-barniewice-gdansk,akcje,380923",
-      "date": "2026-09-18T07:29:52Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Nowe centrum dystrybucyjne Pepco w Barniewicach koło Gdańska stockwatch.pl."
     },
     {
       "title": "Deweloperzy z mocnymi wynikami za I półrocze. WIG-Nieruchomości odzwierciedla perspektywy sektora",
@@ -1954,14 +1978,6 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Niebieski trójkąt i zielona tabliczka. Taki znak pojawi się na tysiącach budynków Forsal.pl."
-    },
-    {
-      "title": "Bank Japonii podnosi stopy. Allegro z rekordami - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/fala-optymizmu-na-swiatowych-rynkach,akcje,380909",
-      "date": "2026-09-18T07:03:28Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Bank Japonii podnosi stopy. Allegro z rekordami stockwatch.pl."
     },
     {
       "title": "WIG wraca do wzrostów (nowa pozycja w portfelu)",
@@ -2036,28 +2052,12 @@
       "summary": "MDR od 1 października 2026 r. Rewolucja w przepisach nie dla wszystkich oznacza spokój Forsal.pl."
     },
     {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/transport/aktualnosci,112",
-      "date": "2026-09-17T23:36:29Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
       "title": "Międzynarodowy prestiż i katalońska dusza. InterContinental Barcelona gości w zieloności wzgórza Montjuïc - Forbes",
       "url": "https://www.forbes.pl/life/travel/miedzynarodowy-prestiz-i-katalonska-dusza-intercontinental-barcelona-gosci-w/kslsjmp",
       "date": "2026-09-17T22:00:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Międzynarodowy prestiż i katalońska dusza. InterContinental Barcelona gości w zieloności wzgórza Montjuïc Forbes."
-    },
-    {
-      "title": "Komunikat ESPI FUNDUSZ HIPOTECZNY DOM SPÓŁKA AKCYJNA (fhdom): Pozew o zapłatę - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/fhdom,pozew-o-zaplate-2026-09-17,espi,20260917_232140_0000358475",
-      "date": "2026-09-17T21:21:40Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat ESPI FUNDUSZ HIPOTECZNY DOM SPÓŁKA AKCYJNA (fhdom): Pozew o zapłatę stockwatch.pl."
     },
     {
       "title": "SELVITA SA Raport okresowy półroczny za PSr - BiznesRadar",
@@ -2132,6 +2132,14 @@
       "summary": "PCF GROUP SA Raport okresowy półroczny za PSr BiznesRadar."
     },
     {
+      "title": "Komunikat ESPI WASKO SPÓŁKA AKCYJNA (wasko): Informacja o podpisaniu umowy z kontrahentem - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/wasko,podpisanie-umowy-z-kontrahentem-2026-09-17,espi,20260917_172720_0000358449",
+      "date": "2026-09-17T15:27:20Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat ESPI WASKO SPÓŁKA AKCYJNA (wasko): Informacja o podpisaniu umowy z kontrahentem stockwatch.pl."
+    },
+    {
       "title": "LPP SA Raport okresowy półroczny za PSr - BiznesRadar",
       "url": "https://www.biznesradar.pl/a/154645,lpp-sa-raport-okresowy-polroczny-za-psr",
       "date": "2026-09-17T15:01:00Z",
@@ -2170,14 +2178,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Polacy szukają pracy coraz dłużej, ale firmy wcale nie przebierają w idealnych kandydatach. W II kwartale 2026 r. przeciętny czas poszukiwania zatrudnienia wynosił 9,2 miesiąca, podczas gdy w I kwartale 2025 r."
-    },
-    {
-      "title": "Zmiana sposobu myślenia o zakupie nieruchomości. SGI wprowadza na rynek nowe rozwiązanie - Forbes",
-      "url": "https://www.forbes.pl/nieruchomosci/zmiana-sposobu-myslenia-o-zakupie-nieruchomosci-sgi-wprowadza-na-rynek-nowe/hgnjhrp",
-      "date": "2026-09-17T11:21:00Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Zmiana sposobu myślenia o zakupie nieruchomości. SGI wprowadza na rynek nowe rozwiązanie Forbes."
     },
     {
       "title": "Tanie mieszkanie czy lokal użytkowy? Przy mikrokawalerce to zasadnicza różnica",
@@ -2568,51 +2568,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25891.64,
+      25893.96,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27065.92,
+      27068.34,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27214.12,
+      27216.56,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27461.15,
+      27463.61,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28102.32,
+      28104.84,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28138.67,
+      28141.19,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28385.44,
+      28387.98,
       27354.94,
       27400.36,
       27412.11,
-      28790.28,
+      28792.86,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28044.63,
+      28047.14,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28225.87,
+      28228.4,
       27686.17,
       27404.78,
       27351.97,
@@ -2621,7 +2621,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27931.75,
+      27934.25,
       27930.04,
       28234.04,
       28218.36,
@@ -2630,55 +2630,55 @@
       28294.39,
       28203.83,
       28555.17,
-      28772.54,
+      28775.12,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28325.5,
+      28328.04,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28151.89,
+      28154.41,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28447.16,
+      28449.7,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29464.76,
+      29467.4,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29571.56,
+      29574.21,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      29148.49,
+      29151.1,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29290.5,
+      29293.12,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29316.48,
+      29319.1,
       28449.73,
       28313.03,
       28272.33,
-      29082.44,
+      29085.04,
       28610.74,
       28516.81,
       28689.18,
-      29009.43
+      29012.03
     ],
     "currency": "PLN"
   }
