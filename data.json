@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T02:46:05Z",
+  "last_updated": "2026-09-18T02:51:05Z",
   "poland": [
     {
       "title": "Budimex zawalczy o przejęcie w Czechach? Spółka dementuje",
@@ -1578,6 +1578,14 @@
       "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly."
     },
     {
+      "title": "Test environment let anyone access live customer data",
+      "url": "https://www.theregister.com/security/2026/09/17/test-environment-let-anyone-access-live-customer-data/5296977",
+      "date": "2026-09-17T11:28:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Even a temporary staging server needs to be locked down."
+    },
+    {
       "title": "Oszukańcze reklamy pod lupą Sejmu. W tle ostry spór z Metą",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/oszukancze-reklamy-pod-lupa-sejmu-w-tle-ostry-spor-z-meta",
       "date": "2026-09-17T11:04:03Z",
@@ -1674,28 +1682,12 @@
       "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domains in question are: nightmare-stresser[.]com and nightmarestresser[.]org."
     },
     {
-      "title": "VMware łata poważne błędy w Workstation i Fusion. Można wyskoczyć z maszyny wirtualnej i wykonać kod na hoście",
-      "url": "https://sekurak.pl/vmware-lata-powazne-bledy-w-workstation-i-fusion-mozna-wyskoczyc-z-maszyny-wirtualnej-i-wykonac-kod-na-hoscie/",
-      "date": "2026-09-17T01:53:14Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Broadcom poinformował o załataniu dwóch poważnych błędów w popularnych produktach VMware Workstation oraz VMware Fusion. W określonych warunkach ich wykorzystanie mogło doprowadzić do ucieczki z maszyny wirtualnej oraz wykonanie kodu bezpośrednio na hoście. TLDR: Podatności otrzymały identyfikatory CVE-2026-59346 (CVSS 9.3) oraz CVE-2026-59347 (CVSS 8.1)."
-    },
-    {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
       "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
       "date": "2026-09-16T18:14:22Z",
       "source": "Krebs on Security",
       "confirmed_by": 1,
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs."
-    },
-    {
-      "title": "Narzędziownik AI 3.0 Revolutions. Zobacz, co przygotowaliśmy w nowej odsłonie kultowego szkolenia",
-      "url": "https://sekurak.pl/narzedziownik-ai-3-0-revolutions-zobacz-co-przygotowalismy-w-nowej-odslonie-kultowego-szkolenia/",
-      "date": "2026-09-16T16:10:14Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Jeżeli nadal korzystasz ze sztucznej inteligencji głównie w taki sposób, że otwierasz ChatGPT, wpisujesz pytanie i liczysz, że tym razem nie zmyśli odpowiedzi, to spokojnie – nie jesteś sam. Problem w tym, że AI coraz rzadziej jest już tylko okienkiem do rozmowy. Dzisiaj analizuje dokumenty, tworzy grafiki i wideo, pisze..."
     },
     {
       "title": "Poważna wpadka Revoluta: przekazał dane klientów oszustom. Poszkodowani mają być też Polacy",
@@ -1778,36 +1770,20 @@
       "summary": "Po ujawnieniu skali naruszenia danych milionów pacjentów UODO zapowiada dodatkowe kontrole w ochronie zdrowia i przegląd zabezpieczeń stosowanych przez kolejne placówki. Zmiana priorytetów oznacza też korektę tegorocznego planu kontroli sektorowych."
     },
     {
-      "title": "Grupa APT28 po raz kolejny atakuje cele w Europie. Zamiast skomplikowanego malware i wyszukanych eksploitów stosują makra, przeglądarkę Edge i webhooki jako serwer C2",
-      "url": "https://sekurak.pl/grupa-apt28-po-raz-kolejny-atakuje-cele-w-europie-zamiast-skomplikowanego-malware-i-wyszukanych-eksploitow-stosuja-makra-przegladarke-edge-i-webhooki-jako-serwer-c2/",
-      "date": "2026-09-16T02:14:15Z",
-      "source": "Sekurak",
+      "title": "Zhakowano Centralną Komisję Wyborczą Rosji. Skradziono dokumenty",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/zhakowano-centralna-komisje-wyborcza-rosji-skradziono-dokumenty",
+      "date": "2026-09-16T12:31:46Z",
+      "source": "CyberDefence24",
       "confirmed_by": 1,
-      "summary": "Jak donoszą badacze z PolySwarm rosyjska grupa szpiegowska znana pod nazwą BlueDelta (APT28, Fancy Bear, Forest Blizzard) prowadzi aktywne działania wymierzone w organizacje rządowe, dyplomatyczne oraz sektor obronny. Na celowniku znajdują się państwa europejskie, ze szczególnym uwzględnieniem Rumunii, Turcji i Hiszpanii. TLDR: Cyberprzestępcy stosują zaawansowane metody socjotechniczne (spearphishing) do dystrybucji..."
+      "summary": "Hakerzy uderzyli w kluczowy system wyborczy w Rosji. Grupa CikLeak miała włamać się do spółki odpowiedzialnej za platformę „Wybory 2.0” i wykraść m.in. wewnętrzne dokumenty, kod źródłowy oraz wiadomości pracowników."
     },
     {
-      "title": "Na sprzedaż trafiło ponad 170 milionów skanów dokumentów identyfikujących tożsamość. Wyciek danych IDScan, jeden z największych w historii Ameryki Północnej.",
-      "url": "https://sekurak.pl/na-sprzedaz-trafilo-ponad-170-milionow-skanow-dokumentow-identyfikujacych-tozsamosc-wyciek-danych-idscan-jeden-z-najwiekszych-w-historii-ameryki-polnocnej/",
-      "date": "2026-09-15T15:11:55Z",
-      "source": "Sekurak",
+      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+      "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+      "date": "2026-09-16T11:58:00Z",
+      "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Na przełomie sierpnia i września dziennikarz Brian Krebs prowadzący popularnego bloga KrebsOnSecurity otrzymał informację o nielegalnym ogłoszeniu sprzedaży danych. Poprzez rosyjskojęzyczne forum Exploit trafił na serwis Nexus oferujący sprzedaż wykradzionych danych. Weryfikując darmową próbkę, dziennikarz znalazł między innymi własne prawo jazdy oraz skan dokumentu Sekretarza Obrony USA, Pete’a Hegsetha."
-    },
-    {
-      "title": "26 i… 27 (tak, będą dwa dni!) października trzeba być z nami w Krakowie! Zobacz agendę konferencji MEGA Sekurak Hacking Party 🙂",
-      "url": "https://sekurak.pl/26-i-27-tak-beda-dwa-dni/",
-      "date": "2026-09-15T14:28:44Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Lato za nami, jesień rusza na pełnych obrotach, a my nie zwalniamy tempa, będąc na ostatniej prostej przed kolejną edycją naszej kultowej konferencji – Mega Sekurak Hacking Party (MSHP). Tym razem, po raz pierwszy w historii, zapraszamy Was na podwójną dawkę hackowania! Konferencja potrwa aż dwa dni, 26 i 27..."
-    },
-    {
-      "title": "Nie, nie zhakowano znowu Signala",
-      "url": "https://sekurak.pl/nie-nie-zhakowano-znowu-signala/",
-      "date": "2026-09-15T08:43:08Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Coraz więcej mówi się o zagrożeniu wobec urzędników w Brukseli. Europejscy oficjele stali się celem kampanii mającej na celu przejęcie dostępu do ich kont na popularnych komunikatorach, takich jak Signal czy WhatsApp. Serwis POLITICO twierdzi, że dotarł do prezentacji, w której jednostka ds."
+      "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious malware activity. From there, a single compromised identity can open the door to sensitive data, business systems, and additional cloud."
     }
   ],
   "finance": [
@@ -1964,12 +1940,20 @@
       "summary": "LPP SA Raport okresowy półroczny za PSr BiznesRadar."
     },
     {
-      "title": "Analiza techniczna INTLNAG01611 INGBANK - BiznesRadar",
-      "url": "https://www.biznesradar.pl/analiza-techniczna-wskazniki/INTLNAG01611",
-      "date": "2026-09-17T14:21:51Z",
-      "source": "Biznesradar",
+      "title": "XXXV Forum Ekonomiczne w Karpaczu – wiodąca platforma dialogu - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/xxxv-forum-ekonomiczne-w-karpaczu-wiodaca-platforma-dialogu,notatki,380889",
+      "date": "2026-09-17T14:56:43Z",
+      "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna INTLNAG01611 INGBANK BiznesRadar."
+      "summary": "XXXV Forum Ekonomiczne w Karpaczu – wiodąca platforma dialogu stockwatch.pl."
+    },
+    {
+      "title": "One More Level ujawnił cenę „Valor Mortis” – wersja podstawowa za 39,99 euro/USD - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/one-more-level-valor-mortis-cena-steam-xbox-ps5,akcje,380880",
+      "date": "2026-09-17T14:07:28Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "One More Level ujawnił cenę „Valor Mortis” – wersja podstawowa za 39,99 euro/USD stockwatch.pl."
     },
     {
       "title": "SYNEKTIK SA (44/2026) Informacja o zawarciu istotnej umowy sprzedaży - BiznesRadar",
@@ -2052,22 +2036,6 @@
       "summary": "Za potocznym określeniem „mikrokawalerki” kryje się lokal, który przypomina kawalerkę: ma miejsce do spania, łazienkę i aneks kuchenny. W tej kategorii można wyróżnić trzy typy nieruchomości: pełnoprawne mieszkanie, lokal użytkowy albo wydzielona część większego lokalu. Niska cena całkowita to niewątpliwy atut mikrokawalerek, choć ich mały metraż budzi kontrowersje."
     },
     {
-      "title": "Echo Investment widzi dobry moment na zakupy gruntów - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/echo-investment-zakupy-gruntow-towarowa22-2026,akcje,380860",
-      "date": "2026-09-17T10:09:09Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Echo Investment widzi dobry moment na zakupy gruntów stockwatch.pl."
-    },
-    {
-      "title": "Inter Cars mierzy w 10 mld euro sprzedaży – spółka walczy o pozycję lidera w Europie - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/inter-cars-cel-10-mld-euro-sprzedazy-wyniki-2026,akcje,380853",
-      "date": "2026-09-17T09:45:11Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Inter Cars mierzy w 10 mld euro sprzedaży – spółka walczy o pozycję lidera w Europie stockwatch.pl."
-    },
-    {
       "title": "Wyniki finansowe UNIMOT za I półrocze 2026 roku - czat inwestorski z zarządem grupy",
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-17/wyniki-finansowe-unimot-1h26",
       "date": "2026-09-17T09:34:10Z",
@@ -2092,12 +2060,12 @@
       "summary": "– Wszystkie znaki na niebie i ziemi wskazują ogromny kryzys paliwowy i potrzebę tarczy bezpieczeństwa dla ludzi. Trzeba wrócić do idei podatku od nadzwyczajnych zysków banków – powiedziała w Radiu ZET minister funduszy i polityki regionalnej Katarzyna Pełczyńska-Nałęcz."
     },
     {
-      "title": "Huuuge: skup akcji za 120 mln USD - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/huuuge-wyniki-pierwsze-polrocze-2026-skup-akcji,akcje,380814",
-      "date": "2026-09-17T07:15:21Z",
+      "title": "Celon Pharma: 128 mln zł zysku netto w pierwszym półroczu 2026 r. - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/celon-pharma-wyniki-pierwsze-polrocze-2026,akcje,380818",
+      "date": "2026-09-17T07:29:56Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Huuuge: skup akcji za 120 mln USD stockwatch.pl."
+      "summary": "Celon Pharma: 128 mln zł zysku netto w pierwszym półroczu 2026 r. stockwatch.pl."
     },
     {
       "title": "Zielona lista MON – żołnierze sami wybiorą wyposażenie - stockwatch.pl",
@@ -2116,20 +2084,20 @@
       "summary": "Great Place To Work® ponownie ogłosił listę 100 Najlepszych Małych i Średnich Miejsc Pracy™ w Europie. W tegorocznym zestawieniu znalazły się cztery firmy z Polski – jedna z branży farmaceutycznej i trzy technologiczne. Za najlepsze miejsce pracy na Starym Kontynencie uznano szwajcarskie przedsiębiorstwo IT – isolutions ag."
     },
     {
-      "title": "Auto Partner: 2,46 mld zł przychodów i dynamiczny wzrost rentowności w pierwszym półroczu 2026 r. - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/wiadomosci/auto-partner-wyniki-pierwsze-polrocze-2026-2,akcje,380807",
-      "date": "2026-09-17T06:50:26Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Auto Partner: 2,46 mld zł przychodów i dynamiczny wzrost rentowności w pierwszym półroczu 2026 r. stockwatch.pl."
-    },
-    {
       "title": "Fachowiec, remont i płatność „na słowo” – tak wygląda duża część rynku usług domowych",
       "url": "https://300gospodarka.pl/news/fachowiec-zrobil-klient-zaplacil-dokumentu-czesto-nie-ma",
       "date": "2026-09-17T06:41:21Z",
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Blisko co trzeci Polak korzystający z usług remontowych, wykończeniowych lub naprawczych najczęściej nie dostaje żadnego dokumentu potwierdzającego rozliczenie. Tak odpowiedziało 32,6 proc. badanych przez UCE RESEARCH i platformę Fachurra.pl."
+    },
+    {
+      "title": "Wyższa EBITDA, ale niższy zysk netto. Tarczyński odczuwa presję cenową sieci handlowych - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/154477,wyzsza-ebitda-ale-nizszy-zysk-netto-tarczynski-odczuwa-presje-cenowa-sieci-handlowych",
+      "date": "2026-09-17T06:17:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wyższa EBITDA, ale niższy zysk netto. Tarczyński odczuwa presję cenową sieci handlowych BiznesRadar."
     },
     {
       "title": "Saudowie wysłali sygnał. Jest ruch na ropie",
@@ -2186,6 +2154,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "W poszukiwaniu sygnałów - 16 września 2026 -SWIG80 i MWIG40 docierają do wsparć Ewa śr., 16.09.2026 Wstęp Indeksy GPW, Spółki wcześniej sygnalizowane, Obserwowane wykresy W poszukiwaniu sygnałów - 16 września 2026 -SWIG80 i MWIG40 docierają do wsparć Ewa."
+    },
+    {
+      "title": "ZREMB [ZRE] - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/wiadomosci/zremb-spojrzenie-na-wykres-10,xternal,380798",
+      "date": "2026-09-16T15:00:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "ZREMB [ZRE] stockwatch.pl."
     },
     {
       "title": "Jawność wynagrodzeń utknęła w legislacji. Polska też jest w połowie drogi",
@@ -2305,8 +2281,8 @@
       "lng": 105.8,
       "type": "cyber",
       "region": "Rosja",
-      "description": "Na przełomie sierpnia i września dziennikarz Brian Krebs prowadzący popularnego bloga KrebsOnSecurity otrzymał informację o nielegalnym ogłoszeniu sprzedaży danych.",
-      "url": "https://sekurak.pl/na-sprzedaz-trafilo-ponad-170-milionow-skanow-dokumentow-identyfikujacych-tozsamosc-wyciek-danych-idscan-jeden-z-najwiekszych-w-historii-ameryki-polnocnej/"
+      "description": "Hakerzy uderzyli w kluczowy system wyborczy w Rosji.",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/zhakowano-centralna-komisje-wyborcza-rosji-skradziono-dokumenty"
     },
     {
       "lat": 32.93,
@@ -2553,51 +2529,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25863.49,
+      25860.55,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27036.49,
+      27033.42,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27184.53,
+      27181.45,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27431.29,
+      27428.18,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28071.76,
+      28068.58,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28108.07,
+      28104.89,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28354.57,
+      28351.36,
       27354.94,
       27400.36,
       27412.11,
-      28758.97,
+      28755.72,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28014.13,
+      28010.96,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28195.18,
+      28191.99,
       27686.17,
       27404.78,
       27351.97,
@@ -2606,7 +2582,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27901.37,
+      27898.21,
       27930.04,
       28234.04,
       28218.36,
@@ -2615,55 +2591,55 @@
       28294.39,
       28203.83,
       28555.17,
-      28741.26,
+      28738.0,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28294.7,
+      28291.49,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28121.27,
+      28118.09,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28416.22,
+      28413.0,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29432.72,
+      29429.38,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29539.41,
+      29536.06,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      29116.79,
+      29113.49,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29258.65,
+      29255.33,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29284.6,
+      29281.28,
       28449.73,
       28313.03,
       28272.33,
-      29050.81,
+      29047.52,
       28610.74,
       28516.81,
       28689.18,
-      28977.89
+      28974.61
     ],
     "currency": "PLN"
   }
