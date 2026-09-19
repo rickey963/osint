@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T16:24:12Z",
+  "last_updated": "2026-09-19T16:29:46Z",
   "poland": [
     {
       "title": "Drugi front na Bliskim Wschodzie? Polska odradza podróże do tego kraju",
@@ -322,14 +322,6 @@
       "summary": "Wrzesień'39. Ostatnia taka szarża. Bój ułanów pod Wólką Węglową Polskie Radio 24."
     },
     {
-      "title": "Premier Donald Tusk spotkał się z prezydentem Ukrainy Wołodymyrem Zełenskim, Oglądaj na PAP - PAP - serwis wideo",
-      "url": "https://wideo.pap.pl/pap-media,101/premier-donald-tusk-spotkal-sie-z-prezydentem-ukrainy-wolodymyrem-zelenskim,96612",
-      "date": "2026-09-18T21:34:46Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Premier Donald Tusk spotkał się z prezydentem Ukrainy Wołodymyrem Zełenskim, Oglądaj na PAP PAP - serwis wideo."
-    },
-    {
       "title": "Poznań/ Uczczono 180 lat istnienia zakładów im. Hipolita Cegielskiego (pion), Oglądaj na PAP - PAP - serwis wideo",
       "url": "https://wideo.pap.pl/pap-media,101/poznan-uczczono-180-lat-istnienia-zakladow-im-hipolita-cegielskiego-pion,96636",
       "date": "2026-09-18T21:34:44Z",
@@ -386,12 +378,12 @@
       "summary": "„Jest poczucie wspólnego mianownika”. Szef MON po rozmowie z prezydentem Polska Agencja Prasowa SA."
     },
     {
-      "title": "DZIEŃ NA RYNKACH: Niewielkie zmiany futures w USA; dolar umacnia się - PAP Biznes",
+      "title": "DZIEŃ NA RYNKACH: Niewielkie zmiany futures w USA; dolar umacnia się - biznes.pap.pl",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-niewielkie-zmiany-futures-w-usa-dolar-umacnia-sie-6",
       "date": "2026-09-18T12:23:00Z",
       "source": "PAP",
       "confirmed_by": 1,
-      "summary": "DZIEŃ NA RYNKACH: Niewielkie zmiany futures w USA; dolar umacnia się PAP Biznes."
+      "summary": "DZIEŃ NA RYNKACH: Niewielkie zmiany futures w USA; dolar umacnia się biznes.pap.pl."
     },
     {
       "title": "Rutte uda się z oficjalną wizytą do USA. Padł termin - Polska Agencja Prasowa SA",
@@ -400,6 +392,14 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Rutte uda się z oficjalną wizytą do USA. Padł termin Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "Krakowscy licealiści wybierali prezydenta. Wiadomo, kto zdobył najwięcej głosów i jaka była frekwencja - Polska Agencja Prasowa SA",
+      "url": "https://www.pap.pl/aktualnosci/krakowscy-licealisci-wybierali-prezydenta-wiadomo-kto-zdobyl-najwiecej-glosow-i-jaka",
+      "date": "2026-09-18T11:08:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Krakowscy licealiści wybierali prezydenta. Wiadomo, kto zdobył najwięcej głosów i jaka była frekwencja Polska Agencja Prasowa SA."
     }
   ],
   "world_security": [
@@ -1892,12 +1892,28 @@
       "summary": "Alarm przeciwlotniczy w stolicy Arabii Saudyjskiej. Loty odwołane i opóźnione Forsal.pl."
     },
     {
+      "title": "Samochód sprzątający zderzył się z samolotem. Wypadek na lotnisku w Monachium - Forsal.pl",
+      "url": "https://forsal.pl/swiat/niemcy/artykuly/11315567,monachium-samochod-uderzyl-w-samolot.html",
+      "date": "2026-09-19T12:25:43Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Samochód sprzątający zderzył się z samolotem. Wypadek na lotnisku w Monachium Forsal.pl."
+    },
+    {
       "title": "Nowy podatek dla firm w Unii? Niemcy wywierają presję",
       "url": "https://www.money.pl/podatki/najwiekszy-szok-cenowy-od-dekad-w-europie-mobilizacja-niemcy-chca-podatku-7331063784368352a.html",
       "date": "2026-09-19T11:08:46Z",
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Rządy europejskie rozważają wprowadzenie w całej Unii podatku od nadzwyczajnych zysków dla przedsiębiorstw energetycznych. Powód: niemal rekordowe ceny paliw i gazu. Politycy desperacko starają się opanować narastające niezadowolenie społeczne – informuje \"The Guardian\"."
+    },
+    {
+      "title": "Rating Polski w dół. Co decyzja Moody’s oznacza dla gospodarki? - Forsal.pl",
+      "url": "https://forsal.pl/gospodarka/aktualnosci/artykuly/11315555,moodys-rating-polski-deficyt-dlug.html",
+      "date": "2026-09-19T09:44:50Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Rating Polski w dół. Co decyzja Moody’s oznacza dla gospodarki? Forsal.pl."
     },
     {
       "title": "Rating Polski w dół. Oto co zapewne się teraz wydarzy [OPINIA]",
@@ -1909,27 +1925,19 @@
     },
     {
       "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/biznes/energetyka,160",
-      "date": "2026-09-19T08:12:14Z",
+      "url": "https://forsal.pl/transport/aktualnosci,126?strona=13",
+      "date": "2026-09-19T08:10:22Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/lifestyle/aktualnosci,46",
-      "date": "2026-09-19T06:47:56Z",
+      "title": "Tomasz Lipczyński - Forsal.pl",
+      "url": "https://forsal.pl/autor/2449,Tomasz-Lipczynski-2449,115",
+      "date": "2026-09-19T08:01:54Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/lifestyle/zdrowie,114",
-      "date": "2026-09-19T06:41:41Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
+      "summary": "Tomasz Lipczyński Forsal.pl."
     },
     {
       "title": "W poszukiwaniu sygnałów - 19 września 2026 - Wszystkie indeksy GPW są w dziennym trendzie spadkowym",
@@ -1948,12 +1956,12 @@
       "summary": "W piątek agencja ratingowa Moody's ogłosiła decyzję o obniżeniu oceny ratingowej Polski z poziomu A2 do A3. Perspektywa ratingu została zmieniona z negatywnej na stabilną. Minister finansów Andrzej Domański uspokaja, że \"Polska gospodarka szybko rośnie, a jej fundamenty pozostają mocne\"."
     },
     {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/transport/aktualnosci,123",
-      "date": "2026-09-19T05:28:19Z",
-      "source": "Forsal.pl",
+      "title": "BEC PODCAST Business Experts Content - Forbes",
+      "url": "https://www.forbes.pl/bec-podcast-business-experts-content",
+      "date": "2026-09-19T02:03:34Z",
+      "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
+      "summary": "BEC PODCAST Business Experts Content Forbes."
     },
     {
       "title": "Nocna zmiana ratingu. Złe wieści dla polskiej gospodarki",
@@ -1962,6 +1970,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Agencja ratingowa Moody’s obniżyła rating Polski do poziomu A3. -Traktujemy tę decyzję poważnie, ale spokojnie. Polska gospodarka szybko rośnie, a jej fundamenty pozostają mocne - skomentował tę decyzję minister finansów Andrzej Domański."
+    },
+    {
+      "title": "MAGNA POLONIA SA (11/2026) Utworzenie odpisu aktualizującego wartość aktywów - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/155032,magna-polonia-sa-11-2026-utworzenie-odpisu-aktualizujacego-wartosc-aktywow",
+      "date": "2026-09-18T19:27:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "MAGNA POLONIA SA (11/2026) Utworzenie odpisu aktualizującego wartość aktywów BiznesRadar."
     },
     {
       "title": "Stacje kontroli pojazdów mają coraz większe długi. Nowe przepisy mogą pomóc i zaszkodzić",
@@ -2028,20 +2044,20 @@
       "summary": "Akwizycje napędzają wyniki Spyrosoftu. Zarząd przestrzega przed wolniejszym II półroczem BiznesRadar."
     },
     {
+      "title": "hotele - Forbes",
+      "url": "https://www.forbes.pl/omp_obsolete_hotele",
+      "date": "2026-09-18T15:38:35Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "hotele Forbes."
+    },
+    {
       "title": "NEWAG SA Raport okresowy półroczny za PSr - BiznesRadar",
       "url": "https://www.biznesradar.pl/a/154978,newag-sa-raport-okresowy-polroczny-za-psr",
       "date": "2026-09-18T15:28:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "NEWAG SA Raport okresowy półroczny za PSr BiznesRadar."
-    },
-    {
-      "title": "QUANTUM SOFTWARE SA Raport okresowy półroczny za PSr - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/154975,quantum-software-sa-raport-okresowy-polroczny-za-psr",
-      "date": "2026-09-18T15:12:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "QUANTUM SOFTWARE SA Raport okresowy półroczny za PSr BiznesRadar."
     },
     {
       "title": "SPYROSOFT SA Raport okresowy półroczny za PSr - BiznesRadar",
@@ -2130,22 +2146,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Rafał Brzoska i długo nic. Dlaczego nie było pospolitego ruszenia ws. scamów?"
-    },
-    {
-      "title": "Polska jest 20. gospodarką świata, ale biznesowa i polityczna elita z Europy nadal nie chce jej w swoich szeregach - Forbes",
-      "url": "https://www.forbes.pl/opinie/polska-pominieta-przy-tworzeniu-grupy-renu-dlaczego-elity-nas-nie-chca/9sy3y2j",
-      "date": "2026-09-18T09:35:41Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Polska jest 20. gospodarką świata, ale biznesowa i polityczna elita z Europy nadal nie chce jej w swoich szeregach Forbes."
-    },
-    {
-      "title": "Gdynia ma 100 lat i trafiła na listę UNESCO. Rynek premium patrzy na nią uważniej - Forbes",
-      "url": "https://www.forbes.pl/nieruchomosci/gdynia-na-liscie-unesco-rynek-nieruchomosci-premium-rosnie-w-sile/hgy0qvn",
-      "date": "2026-09-18T09:07:00Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Gdynia ma 100 lat i trafiła na listę UNESCO. Rynek premium patrzy na nią uważniej Forbes."
     },
     {
       "title": "Phoenix Systems rozpoczyna ofertę publiczną. Polski deep tech chce pozyskać 21,5 mln zł i wejść na NewConnect",
