@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T22:32:09Z",
+  "last_updated": "2026-09-19T22:32:49Z",
   "poland": [
     {
       "title": "W Europie tanie linie lotnicze rosną, a w USA walczą o przetrwanie. Co poszło nie tak?",
@@ -314,14 +314,6 @@
       "summary": "Lotnictwo wojskowe operuje nad Polską. Pilny komunikat dowództwa Polskie Radio 24."
     },
     {
-      "title": "ME siatkarzy - Popiwczak: Polska jest drużyną, która chce zostać mistrzem Europy, Oglądaj na PAP - PAP - serwis wideo",
-      "url": "https://wideo.pap.pl/pap-media,101/me-siatkarzy---popiwczak-polska-jest-druzyna-ktora-chce-zostac-mistrzem-europy,96680",
-      "date": "2026-09-19T07:27:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "ME siatkarzy - Popiwczak: Polska jest drużyną, która chce zostać mistrzem Europy, Oglądaj na PAP PAP - serwis wideo."
-    },
-    {
       "title": "Zapytali Trumpa o bezpieczeństwo Polski. \"Nawrocki ma to pod kontrolą\" - Polskie Radio 24",
       "url": "https://polskieradio24.pl/swiat/trump-o-zagrozeniu-dla-polski-padly-slowa-o-nawrockim-ma-to-pod-kontrola",
       "date": "2026-09-19T07:01:12Z",
@@ -400,6 +392,14 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "DZIEŃ NA RYNKACH: Niewielkie zmiany futures w USA; dolar umacnia się biznes.pap.pl."
+    },
+    {
+      "title": "Rozwój Plus traci posła. Skwarek ponownie w szeregach PiS - pap.pl",
+      "url": "https://www.pap.pl/aktualnosci/rozwoj-plus-traci-posla-skwarek-ponownie-w-szeregach-pis",
+      "date": "2026-09-18T11:51:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Rozwój Plus traci posła. Skwarek ponownie w szeregach PiS pap.pl."
     }
   ],
   "world_security": [
@@ -918,14 +918,6 @@
       "summary": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments apnews.com."
     },
     {
-      "title": "Thousands join protest outside Kennedy Center, expressing concern that Trump might tear it down - apnews.com",
-      "url": "https://apnews.com/article/trump-kennedy-center-demolish-protest-fc4538e47c6541fae7b7b51862fd96ae",
-      "date": "2026-09-19T01:58:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Thousands join protest outside Kennedy Center, expressing concern that Trump might tear it down apnews.com."
-    },
-    {
       "title": "Jehovah’s Witnesses allow blood-derived products but keep ban on whole-blood transfusions - apnews.com",
       "url": "https://apnews.com/article/jehovahs-witnesses-donated-blood-transfusions-plasma-13fbe733e0039109efa728f65c7e4fda",
       "date": "2026-09-19T01:15:33Z",
@@ -1004,6 +996,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Warren Buffett gives up chairman title at Berkshire Hathaway in the next step of his succession plan apnews.com."
+    },
+    {
+      "title": "Princess Diana’s famous ‘revenge dress’ goes on show ahead of Sotheby’s auction - apnews.com",
+      "url": "https://apnews.com/article/princess-diana-revenge-dress-sothebys-auction-ebb88e39ab31f762bae023c9c6e4f571",
+      "date": "2026-09-18T15:53:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Princess Diana’s famous ‘revenge dress’ goes on show ahead of Sotheby’s auction apnews.com."
     }
   ],
   "technology": [
@@ -1784,6 +1784,14 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "FBI oraz Straż Przybrzeżna USA (Coast Guard) weszły na pokłady dwóch tankowców płynących do Stanów Zjednoczonych. Służby podejrzewały, że statki padły ofiarami cyberataków – potwierdziło się to przynajmniej w jednym przypadku. Badany jest potencjalny udział Iranu, choć dotychczas nie ma ku temu jednoznacznych dowodów dostępnych publicznie."
+    },
+    {
+      "title": "VMware łata poważne błędy w Workstation i Fusion. Można wyskoczyć z maszyny wirtualnej i wykonać kod na hoście",
+      "url": "https://sekurak.pl/vmware-lata-powazne-bledy-w-workstation-i-fusion-mozna-wyskoczyc-z-maszyny-wirtualnej-i-wykonac-kod-na-hoscie/",
+      "date": "2026-09-17T01:53:14Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Broadcom poinformował o załataniu dwóch poważnych błędów w popularnych produktach VMware Workstation oraz VMware Fusion. W określonych warunkach ich wykorzystanie mogło doprowadzić do ucieczki z maszyny wirtualnej oraz wykonanie kodu bezpośrednio na hoście. TLDR: Podatności otrzymały identyfikatory CVE-2026-59346 (CVSS 9.3) oraz CVE-2026-59347 (CVSS 8.1)."
     }
   ],
   "finance": [
