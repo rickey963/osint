@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T05:44:17Z",
+  "last_updated": "2026-09-19T05:49:20Z",
   "poland": [
     {
       "title": "Tragiczny finał kłótni w Małopolsce. Mężczyzna nie żyje, 45-latka ranna",
@@ -624,7 +624,7 @@
       "url": "https://www.reuters.com/world/us/trump-signs-russia-sanctions-bill-into-law-2026-09-18/",
       "date": "2026-09-18T22:20:53Z",
       "source": "Reuters",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Trump signs Russia sanctions bill into law Reuters."
     },
     {
@@ -1778,12 +1778,12 @@
       "summary": "Fałszywe inwestycje, bezprawne wykorzystywanie wizerunków i pytania o skuteczność ochrony użytkowników. Sejmowa Komisja Cyfryzacji zajęła się systemami reklamowymi platform oraz promocją narzędzi do tworzenia deepfake’ów. Posiedzenie odbywa się w tle sporu Rafała Brzoski z Metą, interwencji wicepremiera Krzysztofa Gawkowskiego i nowych szacunków dotyczących przychodów z oszukańczych reklam."
     },
     {
-      "title": "VMware łata poważne błędy w Workstation i Fusion. Można wyskoczyć z maszyny wirtualnej i wykonać kod na hoście",
-      "url": "https://sekurak.pl/vmware-lata-powazne-bledy-w-workstation-i-fusion-mozna-wyskoczyc-z-maszyny-wirtualnej-i-wykonac-kod-na-hoscie/",
-      "date": "2026-09-17T01:53:14Z",
-      "source": "Sekurak",
+      "title": "Szefowa Komisji Europejskiej stanowczo o zagrożeniach i potencjale AI",
+      "url": "https://cyberdefence24.pl/technologie/szefowa-komisji-europejskiej-staowczo-o-zagrozeniach-i-potencjale-ai",
+      "date": "2026-09-17T10:09:15Z",
+      "source": "CyberDefence24",
       "confirmed_by": 1,
-      "summary": "Broadcom poinformował o załataniu dwóch poważnych błędów w popularnych produktach VMware Workstation oraz VMware Fusion. W określonych warunkach ich wykorzystanie mogło doprowadzić do ucieczki z maszyny wirtualnej oraz wykonanie kodu bezpośrednio na hoście. TLDR: Podatności otrzymały identyfikatory CVE-2026-59346 (CVSS 9.3) oraz CVE-2026-59347 (CVSS 8.1)."
+      "summary": "Sztuczna inteligencja jest jednym z punktów krytycznych naszych czasów – powiedziała Ursula von der Leyen podczas Orędzia o stanie Unii. Szefowa Komisji Europejskiej wskazała nie tylko na ograniczenie ryzyk i zwiększenie szans związanych z nową technologią. Istotnym elementem ma też być utrzymanie konkurencyjności UE oraz rozwój przemysłowej AI."
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
@@ -1792,14 +1792,6 @@
       "source": "Krebs on Security",
       "confirmed_by": 1,
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs."
-    },
-    {
-      "title": "Narzędziownik AI 3.0 Revolutions. Zobacz, co przygotowaliśmy w nowej odsłonie kultowego szkolenia",
-      "url": "https://sekurak.pl/narzedziownik-ai-3-0-revolutions-zobacz-co-przygotowalismy-w-nowej-odslonie-kultowego-szkolenia/",
-      "date": "2026-09-16T16:10:14Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Jeżeli nadal korzystasz ze sztucznej inteligencji głównie w taki sposób, że otwierasz ChatGPT, wpisujesz pytanie i liczysz, że tym razem nie zmyśli odpowiedzi, to spokojnie – nie jesteś sam. Problem w tym, że AI coraz rzadziej jest już tylko okienkiem do rozmowy. Dzisiaj analizuje dokumenty, tworzy grafiki i wideo, pisze..."
     },
     {
       "title": "Poważna wpadka Revoluta: przekazał dane klientów oszustom. Poszkodowani mają być też Polacy",
@@ -1922,14 +1914,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Polski startup Provaid chce skrócić jeden z najbardziej irytujących momentów zakupów przy kasie samoobsługowej: oczekiwanie na pracownika, który potwierdzi pełnoletność klienta. Firma stworzyła system wykorzystujący cyfrową tożsamość z aplikacji mObywatel. Technologia może znaleźć zastosowanie również w handlu internetowym, automatach paczkowych oraz przy zdalnych egzaminach."
-    },
-    {
-      "title": "Tomasz Lipczyński - Forsal.pl",
-      "url": "https://forsal.pl/autor/2449,Tomasz-Lipczynski-2449,110",
-      "date": "2026-09-18T18:02:56Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Tomasz Lipczyński Forsal.pl."
     },
     {
       "title": "Biznes, Gospodarka, Świat - Forsal.pl",
@@ -2098,6 +2082,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Polska i Ukraina będą partnerami w ramach tzw. koalicji antybalistycznej – ogłosił w piątek prezydent Ukrainy Wołodymyr Zełenski podczas wspólnej konferencji prasowej z premierem Donaldem Tuskiem. Szef polskiego rządu podkreślił, że \"teraz jest już jasne, że Polska jest częścią tej inicjatywy\"."
+    },
+    {
+      "title": "Ta inwestycja poprawi funkcjonowanie zakopianki. GDDKiA podpisała umowę - Forsal.pl",
+      "url": "https://forsal.pl/transport/drogi/artykuly/11315164,ta-inwestycja-poprawi-funkcjonowanie-zakopianki-gddkia-podpisala-umowe.html",
+      "date": "2026-09-18T11:11:47Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Ta inwestycja poprawi funkcjonowanie zakopianki. GDDKiA podpisała umowę Forsal.pl."
     },
     {
       "title": "Rafał Brzoska i długo nic. Dlaczego nie było pospolitego ruszenia ws. scamów? - Forbes",
