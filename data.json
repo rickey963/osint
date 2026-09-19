@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-19T04:02:26Z",
+  "last_updated": "2026-09-19T04:03:14Z",
   "poland": [
+    {
+      "title": "\"Nawrocki ma to pod kontrolą\". Trump zapytany o rosyjskie zagrożenie",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-09-19/nawrocki-ma-to-pod-kontrola-trump-zapytany-o-rosyjskie-zagrozenie/",
+      "date": "2026-09-19T03:31:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 2,
+      "summary": "- Nawrocki ma to pod kontrolą - stwierdził Donald Trump, odpowiadając na pytanie o możliwe rosyjski ataki hybrydowe na terenie Polski. Amerykański prezydent dodał, że Rosja atakuje sojuszników Ukrainy od pięciu lat. Trump w piątek podpisał ustawę o sankcjach na Rosję i cłach na towary z państw należących do największych importerów rosyjskiej ropy naftowej i gazu."
+    },
     {
       "title": "Niemcy wychodzące ze strefy euro? Ekspert: „To tęsknota za NRD”",
       "url": "https://www.rp.pl/gospodarka/art45159181-niemcy-wychodzace-ze-strefy-euro-ekspert-to-tesknota-za-nrd",
@@ -72,14 +80,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 2,
       "summary": "Poseł Koalicji Obywatelskiej Wojciech Król nie zostanie tymczasowo aresztowany. Sąd Rejonowy Katowice-Wschód nie uwzględnił wniosku Prokuratury Europejskiej, która domagała się zastosowania wobec parlamentarzysty tego środka zapobiegawczego."
-    },
-    {
-      "title": "Trump o obawach o rosyjskie ataki na Polskę: Nawrocki ma to pod kontrolą",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33032952,trump-o-obawach-o-rosyjskie-ataki-na-polske-nawrocki-ma-to.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-09-18T20:49:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Polska ma świetnego prezydenta Karola Nawrockiego; ma to pod kontrolą - powiedział w piątek prezydent USA Donald Trump, pytany o ostrzeżenia o możliwych atakach hybrydowych Rosji na Polskę."
     },
     {
       "title": "Chiny mogły zdobyć tajną technologię. Kokpit F-35 wysłany do Hongkongu",
@@ -298,12 +298,12 @@
       "summary": "Andrij Sadowy, mer Lwowa, znalazł w służbowym aucie urządzenie przypominające podsłuch. - Trudno je inaczej nazwać - stwierdził. Przekazał jednocześnie, że sprawa została zgłoszona organom ścigania."
     },
     {
-      "title": "Polak na Krecie się tego nie spodziewał. \"Pierwszy raz widzę coś takiego\"",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-09-18/polak-na-krecie-sie-tego-nie-spodziewal-pierwszy-raz-widze-cos-takiego/",
-      "date": "2026-09-18T17:06:00Z",
-      "source": "Polsat News",
+      "title": "Posłanka PiS zagłosowała za wicemarszałkiem od Morawieckiego. Teraz zrzuca winę na Czarzastego",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33032474,poslanka-pis-zaglosowala-za-wicemarszalkiem-od-morawieckiego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-09-18T16:55:00Z",
+      "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
-      "summary": "Wojsko, dym, helikoptery i odrzutowce – to spotkał Polak, który wybrał się na wakacje do Grecji. Turyści przebywający w piątek na Krecie mogli na własne oczy zobaczyć greckie i egipskie wojska w akcji podczas ćwiczeń wojskowych. - Nie spodziewałam się aż takiej skali - mówiła obserwatorka tego widowiska."
+      "summary": "Maria Kurowska pomyliła się podczas sejmowego głosowania na wicemarszałka i zamiast na Marcina Ociepę z PiS, zagłosowała na Marcina Horałę z Rozwoju Plus. \"Chcę podkreślić bardzo mocno, że moim kandydatem był Marcin Ociepa\" - napisała posłanka."
     },
     {
       "title": "Syndyk Zondacrypto szacuje straty klientów. Wierzyciele mają coraz mniej czasu",
@@ -2225,8 +2225,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Czeskie siły powietrzne podjęły w piątek akcję monitorowania przestrzeni powietrznej wzdłuż wschodniej granicy Polski w związku z aktywnością dronów w Ukrainie.",
-      "url": "https://businessinsider.com.pl/gospodarka/czeskie-mysliwce-jas-39-gripen-poderwane-przez-drony-nad-ukraina-polska-przejela/ryr3gzm"
+      "description": "- Nawrocki ma to pod kontrolą - stwierdził Donald Trump, odpowiadając na pytanie o możliwe rosyjski ataki hybrydowe na terenie Polski.",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-09-19/nawrocki-ma-to-pod-kontrola-trump-zapytany-o-rosyjskie-zagrozenie/"
     },
     {
       "lat": 31.5,
@@ -2373,7 +2373,19 @@
       "url": "https://polskieradio24.pl/swiat/eksplozja-na-wojskowym-poligonie-w-szwecji-sa-ranni"
     }
   ],
-  "instability": [],
+  "instability": [
+    {
+      "name": "Ukraina",
+      "score": 100,
+      "reasons": [
+        {
+          "title": "\"Nawrocki ma to pod kontrolą\". Trump zapytany o rosyjskie zagrożenie",
+          "url": "https://www.polsatnews.pl/wiadomosc/2026-09-19/nawrocki-ma-to-pod-kontrola-trump-zapytany-o-rosyjskie-zagrozenie/",
+          "source": "Polsat News"
+        }
+      ]
+    }
+  ],
   "investment_picks": [
     {
       "sector": "Sektor energetyczny/surowcowy",
