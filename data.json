@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-19T07:27:48Z",
+  "last_updated": "2026-09-19T07:28:38Z",
   "poland": [
+    {
+      "title": "Obniżka ratingu Polski. Takie będą konsekwencje niższej wiarygodności kraju [WYJAŚNIAMY]",
+      "url": "https://businessinsider.com.pl/gospodarka/moodys-obniza-rating-polski-co-to-oznacza-dla-gospodarki-i-inwestorow/jgt8tyr",
+      "date": "2026-09-19T07:23:19Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Agencja ratingowa Moody’s zdecydowała się obniżyć długoterminowy rating Polski o jeden stopień — z A2 do A3 — i jednocześnie zmieniła jego perspektywę z negatywnej na stabilną. Jako główne przyczyny analitycy wskazują utrzymujące się wysokie deficyty, wzrost długu i kosztów jego obsługi oraz osłabienie skuteczności polityki budżetowej rządu."
+    },
     {
       "title": "Kto częściej powoduje wypadki? Jedna grupa dominuje w najnowszych statystykach",
       "url": "https://www.polsatnews.pl/ciekawostki/2026-09-19/kto-czesciej-powoduje-wypadki-jedna-grupa-dominuje-w-najnowszych-statystykach/",
@@ -176,14 +184,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Przed wyborami do Dumy władze nasiliły naciski na opozycję i niezależnych obserwatorów wyborczych - informują niezależne media. Nie dopuszczono żadnej partii realnie opozycyjnej wobec Kremla, a głosowanie odbywa się także na okupowanych terenach Ukrainy. Rosjanie obawiają się również ogłoszenia mobilizacji po zakończeniu wyborów."
-    },
-    {
-      "title": "MON chce aby śmigłowce szkolno-bojowe dla wojska powstawały w Polsce",
-      "url": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art45153731-mon-chce-aby-smiglowce-szkolno-bojowe-dla-wojska-powstawaly-w-polsce",
-      "date": "2026-09-19T04:46:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "W fazę finalną wchodzą negocjacje w sprawie śmigłowców szkolno-bojowych dla Wojska Polskiego. Rywalizacja rozgrywa się między AW109 TrekkerM a H145M. MON chce, aby oferenci spełnili trzy dodatkowe warunki: produkcja w Polsce, wspólny zakup w formule SAFE i dostawy zamknięte do końca 2030 roku."
     },
     {
       "title": "Horała kością niezgody na prawicy, zarzuty dla Króla i Polska w nowej koalicji [NA POCZĄTEK DNIA]",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Firefox 156 arrives with a forest of forks in its wake",
+      "url": "https://www.theregister.com/software/2026/09/19/firefox-156-arrives-with-a-forest-of-forks-in-its-wake/5297194",
+      "date": "2026-09-19T07:28:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "From Waterfox to LibreWolf and Pale Moon, there's a browser for almost every Mozilla dissenter."
+    },
+    {
       "title": "NIS2 na uczelniach. Cyberodporność zaczyna się od zarządzania ryzykiem [OPINIA]",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/nis2-na-uczelniach-cyberodpornosc-zaczyna-sie-od-zarzadzania-ryzykiem-opinia",
       "date": "2026-09-19T06:42:41Z",
@@ -1762,14 +1770,6 @@
       "summary": "FBI oraz Straż Przybrzeżna USA (Coast Guard) weszły na pokłady dwóch tankowców płynących do Stanów Zjednoczonych. Służby podejrzewały, że statki padły ofiarami cyberataków – potwierdziło się to przynajmniej w jednym przypadku. Badany jest potencjalny udział Iranu, choć dotychczas nie ma ku temu jednoznacznych dowodów dostępnych publicznie."
     },
     {
-      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
-      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-      "date": "2026-09-17T12:30:00Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution. Unbound 1.26.1, released the same day, fixes the bug, tracked as CVE-2026-81642, along with."
-    },
-    {
       "title": "Oszukańcze reklamy pod lupą Sejmu. W tle ostry spór z Metą",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/oszukancze-reklamy-pod-lupa-sejmu-w-tle-ostry-spor-z-meta",
       "date": "2026-09-17T11:04:03Z",
@@ -1940,14 +1940,6 @@
       "summary": "Agencja ratingowa Moody’s obniżyła rating Polski do poziomu A3. -Traktujemy tę decyzję poważnie, ale spokojnie. Polska gospodarka szybko rośnie, a jej fundamenty pozostają mocne - skomentował tę decyzję minister finansów Andrzej Domański."
     },
     {
-      "title": "MAGNA POLONIA SA (11/2026) Utworzenie odpisu aktualizującego wartość aktywów - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/155032,magna-polonia-sa-11-2026-utworzenie-odpisu-aktualizujacego-wartosc-aktywow",
-      "date": "2026-09-18T19:27:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "MAGNA POLONIA SA (11/2026) Utworzenie odpisu aktualizującego wartość aktywów BiznesRadar."
-    },
-    {
       "title": "Stacje kontroli pojazdów mają coraz większe długi. Nowe przepisy mogą pomóc i zaszkodzić",
       "url": "https://300gospodarka.pl/news/stacje-kontroli-pojazdow-maja-coraz-wieksze-dlugi-nowe-przepisy-moga-pomoc-i-zaszkodzic",
       "date": "2026-09-18T19:16:26Z",
@@ -2020,12 +2012,20 @@
       "summary": "NEWAG SA Raport okresowy półroczny za PSr BiznesRadar."
     },
     {
-      "title": "QUANTUM SOFTWARE SA Raport okresowy półroczny za PSr - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/154975,quantum-software-sa-raport-okresowy-polroczny-za-psr",
-      "date": "2026-09-18T15:12:00Z",
+      "title": "GAMING FACTORY SA Raport okresowy półroczny za PSr - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/154969,gaming-factory-sa-raport-okresowy-polroczny-za-psr",
+      "date": "2026-09-18T15:08:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "QUANTUM SOFTWARE SA Raport okresowy półroczny za PSr BiznesRadar."
+      "summary": "GAMING FACTORY SA Raport okresowy półroczny za PSr BiznesRadar."
+    },
+    {
+      "title": "CREOTECH QUANTUM SA (38/2026) Podpisanie umowy w ramach projektu pn. \"Single photon detector based on superconducting nanowire ( - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/154966,creotech-quantum-sa-38-2026-podpisanie-umowy-w-ramach-projektu-pn-single-photon-detector-based-on-superconducting-nanowire-snspd",
+      "date": "2026-09-18T15:05:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "CREOTECH QUANTUM SA (38/2026) Podpisanie umowy w ramach projektu pn. \"Single photon detector based on superconducting nanowire ( BiznesRadar."
     },
     {
       "title": "Forum giełdowe StockWatch.pl: BEST - stockwatch.pl",
