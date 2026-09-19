@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T07:35:29Z",
+  "last_updated": "2026-09-19T07:36:17Z",
   "poland": [
     {
       "title": "Obniżka ratingu Polski. Takie będą konsekwencje niższej wiarygodności kraju [WYJAŚNIAMY]",
@@ -106,7 +106,7 @@
       "summary": "56 proc. badanych nie chciałoby, aby Szymon Hołownia wszedł do rządu - wynika z najnowszego sondażu SW Research dla Onetu. Za takim rozwiązaniem opowiedziało się 23,1 proc."
     },
     {
-      "title": "Alkohol poróżnił koalicję. Sprawdzamy, jak Sejm zmienił prawo [PODSUMOWANIE]",
+      "title": "Podatki, opłaty i kary pójdą w górę. Tak zdecydował Sejm [PODSUMOWANIE]",
       "url": "https://businessinsider.com.pl/prawo/podatki-oplaty-i-kary-ida-w-gore-sprawdz-jak-sejm-zmienil-prawo-podsumowanie/jseqsvp",
       "date": "2026-09-19T06:00:00Z",
       "source": "Business Insider Polska",
@@ -1474,6 +1474,14 @@
       "summary": "Running multiple Claude sessions at once means less waiting around to hit your usage limit."
     },
     {
+      "title": "Weekendowa Lektura: odcinek 694 [2026-09-18]. Bierzcie i czytajcie",
+      "url": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-694-2026-09-18-bierzcie-i-czytajcie-kopia/",
+      "date": "2026-09-18T19:06:32Z",
+      "source": "Zaufana Trzecia Strona",
+      "confirmed_by": 1,
+      "summary": "Zapraszamy do nowego wydania Weekendowej Lektury. Mamy nadzieję, że znajdziecie czas na ogarnięcie zebranych przez nas linków pokazujących, jak przebiega wyścig między nienasyconymi przestępcami a niestrudzonymi badaczami. Miłego klikania!"
+    },
+    {
       "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
       "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
       "date": "2026-09-18T18:02:24Z",
@@ -1762,14 +1770,6 @@
       "summary": "FBI oraz Straż Przybrzeżna USA (Coast Guard) weszły na pokłady dwóch tankowców płynących do Stanów Zjednoczonych. Służby podejrzewały, że statki padły ofiarami cyberataków – potwierdziło się to przynajmniej w jednym przypadku. Badany jest potencjalny udział Iranu, choć dotychczas nie ma ku temu jednoznacznych dowodów dostępnych publicznie."
     },
     {
-      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
-      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-      "date": "2026-09-17T12:30:00Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution. Unbound 1.26.1, released the same day, fixes the bug, tracked as CVE-2026-81642, along with."
-    },
-    {
       "title": "Oszukańcze reklamy pod lupą Sejmu. W tle ostry spór z Metą",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/oszukancze-reklamy-pod-lupa-sejmu-w-tle-ostry-spor-z-meta",
       "date": "2026-09-17T11:04:03Z",
@@ -1940,14 +1940,6 @@
       "summary": "Agencja ratingowa Moody’s obniżyła rating Polski do poziomu A3. -Traktujemy tę decyzję poważnie, ale spokojnie. Polska gospodarka szybko rośnie, a jej fundamenty pozostają mocne - skomentował tę decyzję minister finansów Andrzej Domański."
     },
     {
-      "title": "MAGNA POLONIA SA (11/2026) Utworzenie odpisu aktualizującego wartość aktywów - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/155032,magna-polonia-sa-11-2026-utworzenie-odpisu-aktualizujacego-wartosc-aktywow",
-      "date": "2026-09-18T19:27:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "MAGNA POLONIA SA (11/2026) Utworzenie odpisu aktualizującego wartość aktywów BiznesRadar."
-    },
-    {
       "title": "Stacje kontroli pojazdów mają coraz większe długi. Nowe przepisy mogą pomóc i zaszkodzić",
       "url": "https://300gospodarka.pl/news/stacje-kontroli-pojazdow-maja-coraz-wieksze-dlugi-nowe-przepisy-moga-pomoc-i-zaszkodzic",
       "date": "2026-09-18T19:16:26Z",
@@ -2020,12 +2012,20 @@
       "summary": "NEWAG SA Raport okresowy półroczny za PSr BiznesRadar."
     },
     {
-      "title": "QUANTUM SOFTWARE SA Raport okresowy półroczny za PSr - BiznesRadar",
-      "url": "https://www.biznesradar.pl/a/154975,quantum-software-sa-raport-okresowy-polroczny-za-psr",
-      "date": "2026-09-18T15:12:00Z",
+      "title": "GAMING FACTORY SA Raport okresowy półroczny za PSr - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/154969,gaming-factory-sa-raport-okresowy-polroczny-za-psr",
+      "date": "2026-09-18T15:08:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "QUANTUM SOFTWARE SA Raport okresowy półroczny za PSr BiznesRadar."
+      "summary": "GAMING FACTORY SA Raport okresowy półroczny za PSr BiznesRadar."
+    },
+    {
+      "title": "CREOTECH QUANTUM SA (38/2026) Podpisanie umowy w ramach projektu pn. \"Single photon detector based on superconducting nanowire ( - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/154966,creotech-quantum-sa-38-2026-podpisanie-umowy-w-ramach-projektu-pn-single-photon-detector-based-on-superconducting-nanowire-snspd",
+      "date": "2026-09-18T15:05:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "CREOTECH QUANTUM SA (38/2026) Podpisanie umowy w ramach projektu pn. \"Single photon detector based on superconducting nanowire ( BiznesRadar."
     },
     {
       "title": "Forum giełdowe StockWatch.pl: BEST - stockwatch.pl",
