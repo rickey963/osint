@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T02:52:42Z",
+  "last_updated": "2026-09-19T02:53:22Z",
   "poland": [
     {
       "title": "Agencja Moody's straciła cierpliwość. Pierwszy raz w historii obniżyła rating Polski",
@@ -330,12 +330,12 @@
       "summary": "\"Rosja już zaatakowała NATO\". Były oficer wywiadu ostrzega Polskę Polskie Radio 24."
     },
     {
-      "title": "QUANTUM SOFTWARE SA Raport okresowy półroczny za PSr - PAP Biznes",
+      "title": "QUANTUM SOFTWARE SA Raport okresowy półroczny za PSr - biznes.pap.pl",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/quantum-software-sa-raport-okresowy-polroczny-za-psr",
       "date": "2026-09-18T15:12:00Z",
       "source": "PAP",
       "confirmed_by": 1,
-      "summary": "QUANTUM SOFTWARE SA Raport okresowy półroczny za PSr PAP Biznes."
+      "summary": "QUANTUM SOFTWARE SA Raport okresowy półroczny za PSr biznes.pap.pl."
     },
     {
       "title": "Znamy polskiego kandydata do Oscara. Jednomyślna decyzja - Polskie Radio 24",
@@ -870,6 +870,14 @@
       "summary": "Macron orders protections for infrastructure, citing a growing Russian threat AP News."
     },
     {
+      "title": "Duncan Sheik, Tony- and Grammy-winning 'Spring Awakening' composer and pop star, dies at 56 - AP News",
+      "url": "https://apnews.com/article/duncan-sheik-dies-75ddd243f32ba8c7646d37c14f1c536d",
+      "date": "2026-09-18T16:44:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Duncan Sheik, Tony- and Grammy-winning 'Spring Awakening' composer and pop star, dies at 56 AP News."
+    },
+    {
       "title": "Warren Buffett gives up chairman title at Berkshire Hathaway in the next step of his succession plan - AP News",
       "url": "https://apnews.com/article/berkshire-hathaway-buffett-70f52159fdcaedae3f8926893de37023",
       "date": "2026-09-18T16:43:00Z",
@@ -996,14 +1004,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "OpenAI flags concerning new AI behavior and vows to track it more closely AP News."
-    },
-    {
-      "title": "Poland warns Russia is planning drone or rocket strikes on NATO territory - AP News",
-      "url": "https://apnews.com/article/poland-russia-ukraine-nato-baltics-drones-rockets-818fe48227ee28d60fe86d8fe6485f5c",
-      "date": "2026-09-17T22:42:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Poland warns Russia is planning drone or rocket strikes on NATO territory AP News."
     }
   ],
   "technology": [
@@ -1778,12 +1778,12 @@
       "summary": "Fałszywe inwestycje, bezprawne wykorzystywanie wizerunków i pytania o skuteczność ochrony użytkowników. Sejmowa Komisja Cyfryzacji zajęła się systemami reklamowymi platform oraz promocją narzędzi do tworzenia deepfake’ów. Posiedzenie odbywa się w tle sporu Rafała Brzoski z Metą, interwencji wicepremiera Krzysztofa Gawkowskiego i nowych szacunków dotyczących przychodów z oszukańczych reklam."
     },
     {
-      "title": "Szefowa Komisji Europejskiej stanowczo o zagrożeniach i potencjale AI",
-      "url": "https://cyberdefence24.pl/technologie/szefowa-komisji-europejskiej-staowczo-o-zagrozeniach-i-potencjale-ai",
-      "date": "2026-09-17T10:09:15Z",
-      "source": "CyberDefence24",
+      "title": "VMware łata poważne błędy w Workstation i Fusion. Można wyskoczyć z maszyny wirtualnej i wykonać kod na hoście",
+      "url": "https://sekurak.pl/vmware-lata-powazne-bledy-w-workstation-i-fusion-mozna-wyskoczyc-z-maszyny-wirtualnej-i-wykonac-kod-na-hoscie/",
+      "date": "2026-09-17T01:53:14Z",
+      "source": "Sekurak",
       "confirmed_by": 1,
-      "summary": "Sztuczna inteligencja jest jednym z punktów krytycznych naszych czasów – powiedziała Ursula von der Leyen podczas Orędzia o stanie Unii. Szefowa Komisji Europejskiej wskazała nie tylko na ograniczenie ryzyk i zwiększenie szans związanych z nową technologią. Istotnym elementem ma też być utrzymanie konkurencyjności UE oraz rozwój przemysłowej AI."
+      "summary": "Broadcom poinformował o załataniu dwóch poważnych błędów w popularnych produktach VMware Workstation oraz VMware Fusion. W określonych warunkach ich wykorzystanie mogło doprowadzić do ucieczki z maszyny wirtualnej oraz wykonanie kodu bezpośrednio na hoście. TLDR: Podatności otrzymały identyfikatory CVE-2026-59346 (CVSS 9.3) oraz CVE-2026-59347 (CVSS 8.1)."
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
@@ -1792,6 +1792,14 @@
       "source": "Krebs on Security",
       "confirmed_by": 1,
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs."
+    },
+    {
+      "title": "Narzędziownik AI 3.0 Revolutions. Zobacz, co przygotowaliśmy w nowej odsłonie kultowego szkolenia",
+      "url": "https://sekurak.pl/narzedziownik-ai-3-0-revolutions-zobacz-co-przygotowalismy-w-nowej-odslonie-kultowego-szkolenia/",
+      "date": "2026-09-16T16:10:14Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Jeżeli nadal korzystasz ze sztucznej inteligencji głównie w taki sposób, że otwierasz ChatGPT, wpisujesz pytanie i liczysz, że tym razem nie zmyśli odpowiedzi, to spokojnie – nie jesteś sam. Problem w tym, że AI coraz rzadziej jest już tylko okienkiem do rozmowy. Dzisiaj analizuje dokumenty, tworzy grafiki i wideo, pisze..."
     },
     {
       "title": "Poważna wpadka Revoluta: przekazał dane klientów oszustom. Poszkodowani mają być też Polacy",
@@ -2044,20 +2052,20 @@
       "summary": "Prokuratura wkroczyła do budynku Ministerstwa Sportu i Turystyki. W czwartek policjanci prowadzili przeszukania na Dolnym Śląsku, m.in. w nieruchomości Barbary Mróz-Gorgoń."
     },
     {
-      "title": "Rozłam polityczny USA–Gruzja. Nowy projekt Trumpa budzi w Tbilisi kontrowersje - forbes.pl",
+      "title": "Rozłam polityczny USA–Gruzja. Nowy projekt Trumpa budzi w Tbilisi kontrowersje - Forbes",
       "url": "https://www.forbes.pl/biznes/rozlam-polityczny-usagruzja-nowy-projekt-trumpa-budzi-w-tbilisi-kontrowersje/9djbmcl",
       "date": "2026-09-18T13:38:14Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Rozłam polityczny USA–Gruzja. Nowy projekt Trumpa budzi w Tbilisi kontrowersje forbes.pl."
+      "summary": "Rozłam polityczny USA–Gruzja. Nowy projekt Trumpa budzi w Tbilisi kontrowersje Forbes."
     },
     {
-      "title": "Gdy pracował w CD Projekt, zostawał po godzinach dla pizzy. Sprzedał milion gier - forbes.pl",
+      "title": "Gdy pracował w CD Projekt, zostawał po godzinach dla pizzy. Sprzedał milion gier - Forbes",
       "url": "https://www.forbes.pl/biznes/konrad-tomaszkiewicz-sprzedal-milion-egzemplarzy-gry-the-blood-of-dawnwalker/xkr5fet",
       "date": "2026-09-18T12:45:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Gdy pracował w CD Projekt, zostawał po godzinach dla pizzy. Sprzedał milion gier forbes.pl."
+      "summary": "Gdy pracował w CD Projekt, zostawał po godzinach dla pizzy. Sprzedał milion gier Forbes."
     },
     {
       "title": "Plany rozwoju Phoenix Systems i emisja akcji [webinar z Zarządem]",
@@ -2084,7 +2092,7 @@
       "summary": "Ta inwestycja poprawi funkcjonowanie zakopianki. GDDKiA podpisała umowę Forsal.pl."
     },
     {
-      "title": "Rafał Brzoska i długo nic. Dlaczego nie było pospolitego ruszenia ws. scamów? - forbes.pl",
+      "title": "Rafał Brzoska i długo nic. Dlaczego nie było pospolitego ruszenia ws. scamów? - Forbes",
       "url": "https://www.forbes.pl/finanse/rafal-brzoska-i-dlugo-nic-dlaczego-nie-bylo-pospolitego-ruszenia-ws-scamow/wplk3ez",
       "date": "2026-09-18T10:03:21Z",
       "source": "Forbes Polska",
@@ -2092,28 +2100,28 @@
       "summary": "Rafał Brzoska i długo nic. Dlaczego nie było pospolitego ruszenia ws. scamów?"
     },
     {
-      "title": "Polska jest 20. gospodarką świata, ale biznesowa i polityczna elita z Europy nadal nie chce jej w swoich szeregach - forbes.pl",
+      "title": "Polska jest 20. gospodarką świata, ale biznesowa i polityczna elita z Europy nadal nie chce jej w swoich szeregach - Forbes",
       "url": "https://www.forbes.pl/opinie/polska-pominieta-przy-tworzeniu-grupy-renu-dlaczego-elity-nas-nie-chca/9sy3y2j",
       "date": "2026-09-18T09:35:41Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Polska jest 20. gospodarką świata, ale biznesowa i polityczna elita z Europy nadal nie chce jej w swoich szeregach forbes.pl."
+      "summary": "Polska jest 20. gospodarką świata, ale biznesowa i polityczna elita z Europy nadal nie chce jej w swoich szeregach Forbes."
     },
     {
-      "title": "Gdynia ma 100 lat i trafiła na listę UNESCO. Rynek premium patrzy na nią uważniej - forbes.pl",
+      "title": "Gdynia ma 100 lat i trafiła na listę UNESCO. Rynek premium patrzy na nią uważniej - Forbes",
       "url": "https://www.forbes.pl/nieruchomosci/gdynia-na-liscie-unesco-rynek-nieruchomosci-premium-rosnie-w-sile/hgy0qvn",
       "date": "2026-09-18T09:07:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Gdynia ma 100 lat i trafiła na listę UNESCO. Rynek premium patrzy na nią uważniej forbes.pl."
+      "summary": "Gdynia ma 100 lat i trafiła na listę UNESCO. Rynek premium patrzy na nią uważniej Forbes."
     },
     {
-      "title": "Czy Trumpowie mają na radarze Polskę? Eric Trump o rodzinnym biznesie - forbes.pl",
+      "title": "Czy Trumpowie mają na radarze Polskę? Eric Trump o rodzinnym biznesie - Forbes",
       "url": "https://www.forbes.pl/biznes/eric-trump-dla-forbes-polska-o-rodzinnym-biznesie/dcychw4",
       "date": "2026-09-18T08:41:20Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Czy Trumpowie mają na radarze Polskę? Eric Trump o rodzinnym biznesie forbes.pl."
+      "summary": "Czy Trumpowie mają na radarze Polskę? Eric Trump o rodzinnym biznesie Forbes."
     },
     {
       "title": "Phoenix Systems rozpoczyna ofertę publiczną. Polski deep tech chce pozyskać 21,5 mln zł i wejść na NewConnect",
