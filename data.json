@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T05:50:07Z",
+  "last_updated": "2026-09-19T05:50:53Z",
   "poland": [
     {
       "title": "Tragiczny finał kłótni w Małopolsce. Mężczyzna nie żyje, 45-latka ranna",
@@ -1077,7 +1077,7 @@
       "date": "2026-09-19T04:44:35Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ Comments URL: https://news.ycombinator.com/item?id=49763379 Points: 6 # Comments: 0."
+      "summary": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ Comments URL: https://news.ycombinator.com/item?id=49763379 Points: 7 # Comments: 0."
     },
     {
       "title": "San Francisco Onion Futures Company",
@@ -1085,7 +1085,7 @@
       "date": "2026-09-19T04:23:30Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://onionfutures.com/ Comments URL: https://news.ycombinator.com/item?id=49763296 Points: 76 # Comments: 26."
+      "summary": "Article URL: https://onionfutures.com/ Comments URL: https://news.ycombinator.com/item?id=49763296 Points: 99 # Comments: 31."
     },
     {
       "title": "Naukowiec: jeden prosty trik znacznie skróci czas na telefonie",
@@ -1094,14 +1094,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Ciekawe wyniki badania i zaskakujące wnioski."
-    },
-    {
-      "title": "Harm Laundering in GPT Models: Gender Discrimination Transformed Rather Than",
-      "url": "https://arxiv.org/abs/2609.20779",
-      "date": "2026-09-19T04:07:08Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://arxiv.org/abs/2609.20779 Comments URL: https://news.ycombinator.com/item?id=49763234 Points: 5 # Comments: 0."
     },
     {
       "title": "PKO odcina klientów od aplikacji mobilnej. Bank wydał pilny komunikat",
@@ -1141,7 +1133,7 @@
       "date": "2026-09-19T02:32:36Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://sdcc.sourceforge.net/ Comments URL: https://news.ycombinator.com/item?id=49762744 Points: 36 # Comments: 9."
+      "summary": "Article URL: https://sdcc.sourceforge.net/ Comments URL: https://news.ycombinator.com/item?id=49762744 Points: 43 # Comments: 9."
     },
     {
       "title": "Science Is Open Software",
@@ -1149,7 +1141,7 @@
       "date": "2026-09-19T02:21:35Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://jepedersen.dk/blog/202505_research/ Comments URL: https://news.ycombinator.com/item?id=49762687 Points: 47 # Comments: 17."
+      "summary": "Article URL: https://jepedersen.dk/blog/202505_research/ Comments URL: https://news.ycombinator.com/item?id=49762687 Points: 50 # Comments: 20."
     },
     {
       "title": "Nex, which makes Nex Playground, raised a $150M Series E; Nex has sold 1M units of the motion-based gaming system targeted toward kids since its launch in 2023 (Sophie McEvoy/GamesIndustry.biz)",
@@ -1168,14 +1160,6 @@
       "summary": "Thomas Claburn / The Register: Anthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year &mdash; Devs cheer relief from compatibility headache &mdash; Anthropic on Friday surprised the developer community by supporting rival OpenAI's mechanism for passing marching orders to AI agents."
     },
     {
-      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-      "url": "https://liveworld.info/",
-      "date": "2026-09-19T00:30:34Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://liveworld.info/ Comments URL: https://news.ycombinator.com/item?id=49762099 Points: 27 # Comments: 32."
-    },
-    {
       "title": "Sources: Anthropic considers releasing a new AI model to counter OpenAI's momentum since Astra's launch, ahead of an IPO and after Amodei's call for a slowdown (Reuters)",
       "url": "https://www.techmeme.com/260918/p38#a260918p38",
       "date": "2026-09-19T00:30:03Z",
@@ -1189,7 +1173,23 @@
       "date": "2026-09-18T23:54:42Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 86 # Comments: 10."
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 91 # Comments: 10."
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "date": "2026-09-18T23:04:17Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 98 # Comments: 72."
+    },
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "date": "2026-09-18T21:00:32Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 601 # Comments: 212."
     },
     {
       "title": "NVIDIA DLSS 5 na zintegrowanej grafice Intel. Powstał nietypowy eksperyment",
