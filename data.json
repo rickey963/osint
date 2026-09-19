@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T13:15:03Z",
+  "last_updated": "2026-09-19T13:19:59Z",
   "poland": [
     {
       "title": "„Zbyt dużo ośmiu gwiazdek”. Politycy uderzają w rząd po obniżeniu ratingu Polski przez Moody's",
@@ -1698,6 +1698,14 @@
       "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, exhibits functional overlaps with two malware strains associated with the Democratic People's Republic of Korea's (DPRK) Contagious Interview campaign: BeaverTail and."
     },
     {
+      "title": "KPMG tech cuts come with a severance sum some staff call insulting",
+      "url": "https://www.theregister.com/channel/2026/09/18/kpmg-tech-cuts-come-with-a-severance-sum-some-staff-call-insulting/5296942",
+      "date": "2026-09-18T10:32:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "AI, Cyber, SAP and Testing teams caught in latest reshaping of Big Four consultancy's Advisory arm."
+    },
+    {
       "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
       "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
       "date": "2026-09-18T09:18:03Z",
@@ -1778,28 +1786,12 @@
       "summary": "FBI oraz Straż Przybrzeżna USA (Coast Guard) weszły na pokłady dwóch tankowców płynących do Stanów Zjednoczonych. Służby podejrzewały, że statki padły ofiarami cyberataków – potwierdziło się to przynajmniej w jednym przypadku. Badany jest potencjalny udział Iranu, choć dotychczas nie ma ku temu jednoznacznych dowodów dostępnych publicznie."
     },
     {
-      "title": "VMware łata poważne błędy w Workstation i Fusion. Można wyskoczyć z maszyny wirtualnej i wykonać kod na hoście",
-      "url": "https://sekurak.pl/vmware-lata-powazne-bledy-w-workstation-i-fusion-mozna-wyskoczyc-z-maszyny-wirtualnej-i-wykonac-kod-na-hoscie/",
-      "date": "2026-09-17T01:53:14Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Broadcom poinformował o załataniu dwóch poważnych błędów w popularnych produktach VMware Workstation oraz VMware Fusion. W określonych warunkach ich wykorzystanie mogło doprowadzić do ucieczki z maszyny wirtualnej oraz wykonanie kodu bezpośrednio na hoście. TLDR: Podatności otrzymały identyfikatory CVE-2026-59346 (CVSS 9.3) oraz CVE-2026-59347 (CVSS 8.1)."
-    },
-    {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
       "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
       "date": "2026-09-16T18:14:22Z",
       "source": "Krebs on Security",
       "confirmed_by": 1,
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs."
-    },
-    {
-      "title": "Narzędziownik AI 3.0 Revolutions. Zobacz, co przygotowaliśmy w nowej odsłonie kultowego szkolenia",
-      "url": "https://sekurak.pl/narzedziownik-ai-3-0-revolutions-zobacz-co-przygotowalismy-w-nowej-odslonie-kultowego-szkolenia/",
-      "date": "2026-09-16T16:10:14Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Jeżeli nadal korzystasz ze sztucznej inteligencji głównie w taki sposób, że otwierasz ChatGPT, wpisujesz pytanie i liczysz, że tym razem nie zmyśli odpowiedzi, to spokojnie – nie jesteś sam. Problem w tym, że AI coraz rzadziej jest już tylko okienkiem do rozmowy. Dzisiaj analizuje dokumenty, tworzy grafiki i wideo, pisze..."
     },
     {
       "title": "Poważna wpadka Revoluta: przekazał dane klientów oszustom. Poszkodowani mają być też Polacy",
