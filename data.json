@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T15:45:16Z",
+  "last_updated": "2026-09-20T15:46:05Z",
   "poland": [
     {
       "title": "Przez lata uważałam ruch FIRE za fanaberię. Dziś wiem, że się myliłam",
@@ -894,6 +894,14 @@
       "summary": "In 2016, Elor Azaria killed a Palestinian attacker who had been injured, fueling a public debate both at home and abroad over Israeli military actions."
     },
     {
+      "title": "Music City Miscue gives Vanderbilt a win over NC State no one saw coming - AP News",
+      "url": "https://apnews.com/article/music-city-miscue-nc-state-vanderbilt-9ac6ce0d04f1b4294891660a6d377809",
+      "date": "2026-09-20T00:28:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Music City Miscue gives Vanderbilt a win over NC State no one saw coming AP News."
+    },
+    {
       "title": "Elaine Mokhtefi, American Witness to Algeria’s Revolution, Dies at 97",
       "url": "https://www.nytimes.com/2026/09/19/world/africa/elaine-mokhtefi-dead.html",
       "date": "2026-09-19T23:36:43Z",
@@ -996,14 +1004,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Trump says his son’s wedding party being bankrolled by a Russian oligarch is ‘totally allowed’ AP News."
-    },
-    {
-      "title": "Jehovah’s Witnesses allow blood-derived products but keep ban on whole-blood transfusions - AP News",
-      "url": "https://apnews.com/article/jehovahs-witnesses-donated-blood-transfusions-plasma-13fbe733e0039109efa728f65c7e4fda",
-      "date": "2026-09-18T22:11:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Jehovah’s Witnesses allow blood-derived products but keep ban on whole-blood transfusions AP News."
     }
   ],
   "technology": [
@@ -1426,12 +1426,36 @@
       "summary": "Firma zewnętrzna może utrzymywać serwery. Może obsługiwać centrum danych. Może zarządzać systemem, od którego zależy usługa kluczowa."
     },
     {
+      "title": "How Windows turned months of inactivity into a 7-hour update hostage situation",
+      "url": "https://www.theregister.com/os-platforms/2026/09/20/how-windows-turned-months-of-inactivity-into-a-7-hour-update-hostage-situation/5297478",
+      "date": "2026-09-20T08:14:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Windows is getting more efficient. The updates, not so much."
+    },
+    {
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
       "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
       "date": "2026-09-19T18:36:53Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. This was security research,."
+    },
+    {
+      "title": "Agentic security is the billion-dollar challenge for some clever startup to solve",
+      "url": "https://www.theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546",
+      "date": "2026-09-19T14:25:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "High time to stop kicking the security can down the road, investor tells The Reg."
+    },
+    {
+      "title": "AI boom could leave an e-waste trail that wraps 6 times around Earth",
+      "url": "https://www.theregister.com/off-prem/2026/09/19/ai-boom-could-leave-an-e-waste-trail-that-wraps-6-times-around-earth/5297451",
+      "date": "2026-09-19T13:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Report says estimates focused on GPUs miss the mountains of power, cooling, and networking gear destined for scrap."
     },
     {
       "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
@@ -1482,6 +1506,14 @@
       "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal. The incidents occurred in May 2026 as part of a test run conducted by Israeli company Irregular."
     },
     {
+      "title": "Firefox 156 arrives with a forest of forks in its wake",
+      "url": "https://www.theregister.com/software/2026/09/19/firefox-156-arrives-with-a-forest-of-forks-in-its-wake/5297194",
+      "date": "2026-09-19T07:28:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "From Waterfox to LibreWolf and Pale Moon, there's a browser for almost every Mozilla dissenter."
+    },
+    {
       "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
       "url": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
       "date": "2026-09-19T07:14:54Z",
@@ -1506,6 +1538,46 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2025-39682 (CVSS score: 9.8) - An improper check for unusual or exceptional conditions vulnerability in the TLS receive path."
     },
     {
+      "title": "Anthropic decides to support OpenAI's markdown instructions spec",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588",
+      "date": "2026-09-18T21:33:16Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Devs cheer relief from compatibility headache."
+    },
+    {
+      "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+      "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+      "date": "2026-09-18T21:11:05Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "The Rust compiler remains unperturbed by the antics of the LLM."
+    },
+    {
+      "title": "Virginia governor wakes up to fact datacenters have become political cancer",
+      "url": "https://www.theregister.com/systems/2026/09/18/virginia-governor-wakes-up-to-fact-datacenters-have-become-political-cancer/5297561",
+      "date": "2026-09-18T20:16:57Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Executive order puts the kibosh on NDAs, limits permitting, and calls for stiffer environmental protections."
+    },
+    {
+      "title": "Compsci grads facing recession-like job prospects thanks to AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537",
+      "date": "2026-09-18T19:48:22Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Slinging coffee and waiting tables ain't just for liberal arts grads any more, say Census Bureau economists."
+    },
+    {
+      "title": "Claude Code revamps projects so you can work and pay in parallel",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/18/claude-code-revamps-projects-so-you-can-work-and-pay-in-parallel/5297532",
+      "date": "2026-09-18T19:15:39Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Running multiple Claude sessions at once means less waiting around to hit your usage limit."
+    },
+    {
       "title": "Weekendowa Lektura: odcinek 694 [2026-09-18]. Bierzcie i czytajcie",
       "url": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-694-2026-09-18-bierzcie-i-czytajcie-kopia/",
       "date": "2026-09-18T19:06:32Z",
@@ -1522,6 +1594,14 @@
       "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not affected. But the exploit code is now public, and any machine still running an older kernel should be updated."
     },
     {
+      "title": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
+      "url": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
+      "date": "2026-09-18T17:16:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Agentic exploits for the win (again)."
+    },
+    {
       "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
       "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
       "date": "2026-09-18T16:56:19Z",
@@ -1530,12 +1610,44 @@
       "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install. The security firm pwn.ai, whose researchers reported the flaw, calls the attack chain Click2Shell. On its own the flaw only."
     },
     {
+      "title": "North Korea's fake job interviews infected 30,000 devices",
+      "url": "https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461",
+      "date": "2026-09-18T16:53:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "WaterPlum recruiters used bogus coding tests to backdoor jobseekers and raid more than 7,000 crypto wallets."
+    },
+    {
+      "title": "FBI: Fake cop and government impersonation scams cost victims $1.6B",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499",
+      "date": "2026-09-18T16:19:27Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "AI, fake uniforms, and mock offices help crooks sell the con."
+    },
+    {
+      "title": "Admins, you've been warned: The clock is ticking on Edge's IE Mode",
+      "url": "https://www.theregister.com/software/2026/09/18/admins-youve-been-warned-the-clock-is-ticking-on-edges-ie-mode/5297408",
+      "date": "2026-09-18T15:29:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Legacy web apps have guaranteed shelter only through 2029, and Redmond warns modernization can take years."
+    },
+    {
       "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
       "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
       "date": "2026-09-18T15:24:16Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The activity has been codenamed Operation."
+    },
+    {
+      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "date": "2026-09-18T14:25:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Akademy talk imagines Plasma assembling itself around a personal model of each user."
     },
     {
       "title": "Agenci AI w operacji Interpolu. Zidentyfikowano 126 bojowników",
@@ -1568,6 +1680,14 @@
       "source": "Niebezpiecznik",
       "confirmed_by": 1,
       "summary": "Amazon właśnie przyznał, że po irańskich atakach na centra danych w Bahrajnie i Zjednoczonych Emiratach Arabskich spora część danych klientów bezpowrotnie przepadła. Sześć miesięcy wojny i trzy ataki Centra danych AWS oberwały atakiem kinetycznym kilka razy: 1 marca irańskie drony uderzają w serwerownie AWS na Bahrajnie i w ZEA; AWS wzywa klientów do migracji do [&#8230;]."
+    },
+    {
+      "title": "Microsoft fixes the fix that broke Excel paste – partly",
+      "url": "https://www.theregister.com/software/2026/09/18/microsoft-fixes-the-fix-that-broke-excel-paste-partly/5297467",
+      "date": "2026-09-18T13:22:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Hotfix covers only Excel 2016 and may still come unstuck around conditional formatting."
     },
     {
       "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
