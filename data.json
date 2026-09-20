@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T09:36:57Z",
+  "last_updated": "2026-09-20T09:37:47Z",
   "poland": [
     {
       "title": "Rektor WAM w Łodzi: Będziemy współpracować z wolontariuszami działającymi w Ukrainie",
@@ -409,7 +409,7 @@
       "date": "2026-09-20T08:41:36Z",
       "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "An oil refinery was also hit in the Russian capital and flights were suspended at two airports."
+      "summary": "A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the \"unprecedented attack\"."
     },
     {
       "title": "The gunzels’ grand final: Melbourne Tramaroos’ campaign derails at European TramDriver Championship",
@@ -612,20 +612,20 @@
       "summary": "Apple's Tim Cook sees Australia's social media curbs as 'world-leading', PM says Reuters."
     },
     {
-      "title": "US says it killed four in strike on vessel in the Caribbean - Reuters",
-      "url": "https://www.reuters.com/world/us-says-it-killed-four-people-strike-vessel-caribbean-2026-09-20/",
-      "date": "2026-09-20T01:00:03Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "US says it killed four in strike on vessel in the Caribbean Reuters."
-    },
-    {
       "title": "Thick smoke seen near Riyadh airport as Houthis claim attack on Saudi capital",
       "url": "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport",
       "date": "2026-09-20T00:21:04Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Authorities issued warnings for city in first such alerts for Riyadh since fighting with Iran-backed Houthis escalated in JulyYemen’s Houthis said they attacked “sensitive” sites in the Saudi capital with missiles and drones, hours after flames and a large plume of black smoke were seen rising above Riyadh airport on Saturday.The Saudi government sent air raid alerts to citizens by phone overnight warning of aerial attacks, marking the first time the government has issued such alerts for Riyadh since fighting with the Iran-backed Houthis escalated in July. Continue reading..."
+    },
+    {
+      "title": "US says it killed four in strike on vessel in the Caribbean - Reuters",
+      "url": "https://www.reuters.com/world/us-says-it-killed-four-people-strike-vessel-caribbean-2026-09-20/",
+      "date": "2026-09-20T00:19:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "US says it killed four in strike on vessel in the Caribbean Reuters."
     },
     {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
@@ -1876,14 +1876,6 @@
       "summary": "Kobiety i mężczyźni zarabiają inaczej. GUS pokazał dane dla zawodów Forsal.pl."
     },
     {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/tagi/car",
-      "date": "2026-09-20T07:11:32Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
       "title": "„Pranie informacji” i narracje z Chin. NASK zbadał przekazy dotyczące Polski - Forsal.pl",
       "url": "https://forsal.pl/kraj/bezpieczenstwo/artykuly/11315626,rosja-chiny-dezinformacja-polska-nask.html",
       "date": "2026-09-20T06:36:42Z",
@@ -1922,6 +1914,14 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Zwolnienie lekarskie na nowych zasadach. Wkrótce kolejne zmiany Forsal.pl."
+    },
+    {
+      "title": "Przemysław Kwiecień - Forsal.pl",
+      "url": "https://forsal.pl/autor/1279,Przemyslaw-Kwiecien-1279,72",
+      "date": "2026-09-20T04:12:28Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Przemysław Kwiecień Forsal.pl."
     },
     {
       "title": "Emerytury i pensje pod nóż. Miliony osób zapłacą za rozpędzony dług",
@@ -1994,14 +1994,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "BEC PODCAST Business Experts Content Forbes."
-    },
-    {
-      "title": "Notowania EUR/PLN 1:1 - euro/złoty (EURPLN) - BiznesRadar",
-      "url": "https://www.biznesradar.pl/notowania/EURPLN",
-      "date": "2026-09-18T20:59:31Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania EUR/PLN 1:1 - euro/złoty (EURPLN) BiznesRadar."
     },
     {
       "title": "MAGNA POLONIA SA (11/2026) Utworzenie odpisu aktualizującego wartość aktywów - BiznesRadar",
@@ -2084,6 +2076,14 @@
       "summary": "QUANTUM SOFTWARE SA Raport okresowy półroczny za PSr BiznesRadar."
     },
     {
+      "title": "SPYROSOFT SA Raport okresowy półroczny za PSr - BiznesRadar",
+      "url": "https://www.biznesradar.pl/a/154972,spyrosoft-sa-raport-okresowy-polroczny-za-psr",
+      "date": "2026-09-18T15:12:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "SPYROSOFT SA Raport okresowy półroczny za PSr BiznesRadar."
+    },
+    {
       "title": "Forum giełdowe StockWatch.pl: BEST - stockwatch.pl",
       "url": "https://www.stockwatch.pl/forum/wpis-najnowszy-515351_BEST.aspx",
       "date": "2026-09-18T15:00:00Z",
@@ -2108,12 +2108,12 @@
       "summary": "Komunikat ESPI GREMI MEDIA SPÓŁKA AKCYJNA (grmedia): Zawarcie aneksu do Umowy Wieloproduktowej. stockwatch.pl."
     },
     {
-      "title": "Komunikat ESPI BEEIN SPÓŁKA AKCYJNA (beein): WZ - zwołanie walnego, projekty uchwał - stockwatch.pl",
-      "url": "https://www.stockwatch.pl/komunikaty-spolek/beein,wz-zwolanie-walnego-projekty-uchwal-2026-09-18,espi,20260918_162636_0000358531",
+      "title": "Komunikat ESPI BEEIN SPÓŁKA AKCYJNA (beein): Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia na dzień 15 października 2026 r. wraz z projektami uchwał - stockwatch.pl",
+      "url": "https://www.stockwatch.pl/komunikaty-spolek/beein,ogloszenie-o-zwolaniu-nadzwyczajnego-walnego-2026-09-18,espi,20260918_162636_0000358531",
       "date": "2026-09-18T14:26:36Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Komunikat ESPI BEEIN SPÓŁKA AKCYJNA (beein): WZ - zwołanie walnego, projekty uchwał stockwatch.pl."
+      "summary": "Komunikat ESPI BEEIN SPÓŁKA AKCYJNA (beein): Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia na dzień 15 października 2026 r. wraz z projektami uchwał stockwatch.pl."
     },
     {
       "title": "deweloperzy - Forbes",
