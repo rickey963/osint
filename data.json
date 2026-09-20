@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T01:04:27Z",
+  "last_updated": "2026-09-20T01:09:21Z",
   "poland": [
     {
       "title": "W Europie tanie linie lotnicze rosną, a w USA walczą o przetrwanie. Co poszło nie tak?",
@@ -1784,14 +1784,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "FBI oraz Straż Przybrzeżna USA (Coast Guard) weszły na pokłady dwóch tankowców płynących do Stanów Zjednoczonych. Służby podejrzewały, że statki padły ofiarami cyberataków – potwierdziło się to przynajmniej w jednym przypadku. Badany jest potencjalny udział Iranu, choć dotychczas nie ma ku temu jednoznacznych dowodów dostępnych publicznie."
-    },
-    {
-      "title": "VMware łata poważne błędy w Workstation i Fusion. Można wyskoczyć z maszyny wirtualnej i wykonać kod na hoście",
-      "url": "https://sekurak.pl/vmware-lata-powazne-bledy-w-workstation-i-fusion-mozna-wyskoczyc-z-maszyny-wirtualnej-i-wykonac-kod-na-hoscie/",
-      "date": "2026-09-17T01:53:14Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Broadcom poinformował o załataniu dwóch poważnych błędów w popularnych produktach VMware Workstation oraz VMware Fusion. W określonych warunkach ich wykorzystanie mogło doprowadzić do ucieczki z maszyny wirtualnej oraz wykonanie kodu bezpośrednio na hoście. TLDR: Podatności otrzymały identyfikatory CVE-2026-59346 (CVSS 9.3) oraz CVE-2026-59347 (CVSS 8.1)."
     }
   ],
   "finance": [
@@ -1834,14 +1826,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Przywódcy francuskiej skrajnej prawicy: Marine Le Pen i Jordan Bardella oświadczyli w sobotę, że Rosja nie może liczyć na to, że będzie wpływała na politykę Francji przy użyciu zastraszania, groźby czy presji. Potępili działania Rosji, które uznali za wrogie."
-    },
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://forsal.pl/tagi/naklady-na-inwestycje;inwestycje,124",
-      "date": "2026-09-19T18:57:41Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Biznes, Gospodarka, Świat - Forsal.pl",
@@ -1890,6 +1874,14 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
+    },
+    {
+      "title": "Przemysław Kwiecień - Forsal.pl",
+      "url": "https://forsal.pl/autor/1279,Przemyslaw-Kwiecien-1279,64",
+      "date": "2026-09-19T15:52:35Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Przemysław Kwiecień Forsal.pl."
     },
     {
       "title": "Białoruś ćwiczyła przy granicy z Polską. Resort obrony mówi o „obronnym charakterze” - Forsal.pl",
