@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T17:27:04Z",
+  "last_updated": "2026-09-20T17:27:51Z",
   "poland": [
     {
       "title": "Dlaczego miliarderzy technologiczni zabiegają o względy Donalda Trumpa",
@@ -1024,14 +1024,6 @@
       "summary": "Owen Tucker-Smith / Wall Street Journal: Indeed: data center roles in the US offer a ~42% pay premium for hourly maintenance and installation workers compared with similar jobs at other businesses &mdash; Powering the nation's massive AI build-out requires lots of walking, checking for burning smells and monitoring for bird damage."
     },
     {
-      "title": "Autonomous strike drone uses Nvidia Jetson Orin Nano to pick and bomb targets",
-      "url": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms",
-      "date": "2026-09-20T17:07:08Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms Comments URL: https://news.ycombinator.com/item?id=49777694 Points: 3 # Comments: 0."
-    },
-    {
       "title": "Ma ponad 5 metrów długości, a pali jak kompakt. Sprawdziłem nowego Lexusa ES",
       "url": "https://antyweb.pl/ma-ponad-5-metrow-dlugosci-a-pali-jak-kompakt-sprawdzilem-nowego-lexusa-es",
       "date": "2026-09-20T17:00:29Z",
@@ -1053,7 +1045,7 @@
       "date": "2026-09-20T15:59:25Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://evaluation.club Comments URL: https://news.ycombinator.com/item?id=49777111 Points: 14 # Comments: 4."
+      "summary": "Article URL: https://evaluation.club Comments URL: https://news.ycombinator.com/item?id=49777111 Points: 22 # Comments: 8."
     },
     {
       "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
@@ -1061,7 +1053,7 @@
       "date": "2026-09-20T15:58:52Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0 Comments URL: https://news.ycombinator.com/item?id=49777106 Points: 23 # Comments: 0."
+      "summary": "Article URL: https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0 Comments URL: https://news.ycombinator.com/item?id=49777106 Points: 36 # Comments: 5."
     },
     {
       "title": "Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals (Josipa Majic Predin/Forbes)",
@@ -1077,7 +1069,7 @@
       "date": "2026-09-20T15:43:32Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://asmat.ca/blog/i-went-bananas/ Comments URL: https://news.ycombinator.com/item?id=49776960 Points: 9 # Comments: 2."
+      "summary": "Article URL: https://asmat.ca/blog/i-went-bananas/ Comments URL: https://news.ycombinator.com/item?id=49776960 Points: 10 # Comments: 2."
     },
     {
       "title": "One-Electron Universe",
@@ -1085,7 +1077,7 @@
       "date": "2026-09-20T15:28:05Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://en.wikipedia.org/wiki/One-electron_universe Comments URL: https://news.ycombinator.com/item?id=49776826 Points: 44 # Comments: 29."
+      "summary": "Article URL: https://en.wikipedia.org/wiki/One-electron_universe Comments URL: https://news.ycombinator.com/item?id=49776826 Points: 51 # Comments: 39."
     },
     {
       "title": "MeerKAT wyłapał radiowy \"ślad\" wodoru sprzed 5 mld lat",
@@ -1101,7 +1093,15 @@
       "date": "2026-09-20T15:18:44Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/ Comments URL: https://news.ycombinator.com/item?id=49776729 Points: 47 # Comments: 8."
+      "summary": "Article URL: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/ Comments URL: https://news.ycombinator.com/item?id=49776729 Points: 65 # Comments: 19."
+    },
+    {
+      "title": "Singapore Is Paying People to Put Down Their Phones and Read Books",
+      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "date": "2026-09-20T15:18:05Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books Comments URL: https://news.ycombinator.com/item?id=49776717 Points: 81 # Comments: 25."
     },
     {
       "title": "A closer look at the upcoming Siri AI-powered home hub, a key pillar of Apple's strategy for the home; sources: Apple started cutting Fitness+ staff (Mark Gurman/Bloomberg)",
@@ -1884,28 +1884,20 @@
       "summary": "Jak zbudować autorytet i zawodową sieć? Ekspertka savoir-vivre’u radzi Forbes."
     },
     {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/transport/aktualnosci,151",
+      "date": "2026-09-20T10:39:27Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
+    },
+    {
       "title": "Impuls i korekta - 20 września 2026",
       "url": "https://strefainwestorow.pl/impuls-i-korekta/impuls-i-korekta-20-wrzesnia-2026",
       "date": "2026-09-20T10:37:23Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Impuls i korekta - 20 września 2026 tchoman ndz., 20.09.2026 Treść Wig po czwartkowym odbiciu znów powrócił w okolice wsparcia. Sytuacja pozostaje wciąż niewyjaśniona. Czy nadal będą chcieli kolejny raz ustanowić maksima, czy jednak wyłamią wsparcie i czeka nas korekta."
-    },
-    {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/gospodarka/inflacja,100",
-      "date": "2026-09-20T09:49:02Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/transport/aktualnosci,149",
-      "date": "2026-09-20T09:05:01Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Biznes, Gospodarka, Świat - Forsal.pl",
@@ -1925,8 +1917,8 @@
     },
     {
       "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://forsal.pl/nieruchomosci,163",
-      "date": "2026-09-20T08:21:02Z",
+      "url": "https://forsal.pl/lifestyle/aktualnosci,67",
+      "date": "2026-09-20T08:26:17Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
@@ -1946,6 +1938,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Sylwia odeszła z korporacji. Uczy kobiety, co muszą zrobić, by porzucić etat Forbes."
+    },
+    {
+      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
+      "url": "https://forsal.pl/nieruchomosci,162",
+      "date": "2026-09-20T07:59:55Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
       "title": "Sypiają w biurach, by oszczędzić. Szokujące kulisy pracy kongresmenów w USA - Forbes",
