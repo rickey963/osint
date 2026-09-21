@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-21T15:27:00Z",
+  "last_updated": "2026-09-21T15:32:44Z",
   "poland": [
+    {
+      "title": "Uchwała NSA: wydłużanie zwrotu podatku można podważyć, gdy fiskus zrobi błąd",
+      "url": "https://pro.rp.pl/vat/art45169091-uchwala-nsa-wydluzanie-zwrotu-podatku-mozna-podwazyc-gdy-fiskus-zrobi-blad",
+      "date": "2026-09-21T15:30:47Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Jeśli fiskus wielokrotnie odkłada termin zwrotu VAT, a przy tym popełni błąd proceduralny, to podatnik może legalnie zahamować taką grę na czas."
+    },
     {
       "title": "Ropa droga, ale inwestorzy zakładają, że uda się uniknąć katastrofy",
       "url": "https://energia.rp.pl/ropa/art45169651-ropa-droga-ale-inwestorzy-zakladaja-ze-uda-sie-uniknac-katastrofy",
@@ -144,14 +152,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Paramount Skydance zawarł ugodę ze stanami USA, które sprzeciwiały się przejęciu koncernu Warner Bros. Discovery, właściciela m.in. TVN — podaje Bloomberg."
-    },
-    {
-      "title": "Opuszczone schronisko to dzieło Gaudíego. Nowa atrakcja turystyczna w Hiszpanii",
-      "url": "https://sukces.rp.pl/architektura/art43843361-nowe-odkrycie-w-hiszpanii-to-stare-schronisko-gorskie-jest-dzielem-gaudiego",
-      "date": "2026-09-21T14:16:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Przez lata przypisywano je Gaudíemu, brakowało jednak niepodważalnych dowodów. Teraz eksperci nie mają wątpliwości: ponadstuletnie schronisko Xalet del Catllaràs w Katalonii jest dziełem słynnego architekta, twórcy tak znanych obiektów jak Sagrada Familia czy Casa Batlló."
     },
     {
       "title": "Prezydent Iranu przemówi przed ONZ. Mimo wojny poleci do USA",
@@ -404,20 +404,20 @@
   ],
   "world_security": [
     {
+      "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
+      "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-21T15:28:07Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Airlines are angry about the delays, with EasyJet saying the latest incident \"once again calls into question the resilience\" of the system."
+    },
+    {
       "title": "Xhaka under investigation over Covid-19 certificate",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-21T15:24:51Z",
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate."
-    },
-    {
-      "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
-      "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-21T15:19:27Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Airlines are angry about the delays, with EasyJet saying the latest incident \"once again calls into question the resilience\" of the system."
     },
     {
       "title": "Seven Ethiopian rebel groups form new alliance",
@@ -768,7 +768,7 @@
     {
       "title": "Why the Iran-Backed Houthis in Yemen and Saudi Arabia Are Back at War",
       "url": "https://www.nytimes.com/2026/09/21/world/middleeast/yemen-houthis-saudi-war.html",
-      "date": "2026-09-21T15:21:40Z",
+      "date": "2026-09-21T15:28:27Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "The conflict has opened a second front in the Middle East after the United States and Israel attacked Iran, adding to global uncertainty and turmoil in energy markets."
@@ -780,6 +780,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "An air traffic control issue, now resolved, disrupted some flights in Scotland, England and Northern Ireland, less than two weeks after a technical problem caused cancellations."
+    },
+    {
+      "title": "CNN, MS NOW, Politico sue over denied White House access, citing First Amendment - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE9ZY3hqOG5XR0ZGUkR6cHNrV3BNRUhtTDljRUZBdzhXUDVoSk1HeHRtRHltR3hpSXFkbG1qVndtUkJmVTFPOUU4VVVOUG9hcWx5X2x4NnhKRml3aThkQllIVWFaT04xTGh6UE4yZHdFanVQTDJkQ2NwczQ1N1VYYnlQdnU2UWlZT1k0aHBzVW5PN19lNkkxcnJydw?oc=5",
+      "date": "2026-09-21T15:01:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "CNN, MS NOW, Politico sue over denied White House access, citing First Amendment AP News."
     },
     {
       "title": "At 92, the Bard of Bollywood Is Still Writing About Love",
@@ -822,12 +830,36 @@
       "summary": "The United Nations is also searching for a replacement for António Guterres, who has served two terms as the secretary general and is stepping down."
     },
     {
+      "title": "German leader faces tough time ahead after election defeats, but no sign of leadership challenge - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaURPdk9VeXV2WGUxVjZTVjdtOEZqZm9oNzJFeG04U1RsSlNzWTNEcVF1R2JmcEVlbmNJV3F4OEZrNzkzWkYwbkxTaGFPd0Zlb05zM040TzlOblQ0RW9MRlFPRXVtUmlpal94RDVfSVRwQ2VkUFg3U0VIM1lrSVNiTVZXV2xBclpOaF9NZ2JQX2dFZFZVcWVSelZMSEFfejNncUE?oc=5",
+      "date": "2026-09-21T13:28:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "German leader faces tough time ahead after election defeats, but no sign of leadership challenge AP News."
+    },
+    {
       "title": "Ex-Commander of China’s Military Accused of Corruption and Expelled From Party",
       "url": "https://www.nytimes.com/2026/09/21/world/asia/china-generals-expelled-corruption.html",
       "date": "2026-09-21T13:03:06Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Zhang Youxia, once the People’s Liberation Army’s top uniformed commander, and another general had taken “exceptionally large” bribes, investigators said."
+    },
+    {
+      "title": "Tiny wild cat newly identified as a species draws curious visitors in Bolivia - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHVWM2xHWk1uTnZ2OWhzcWxiOFVycXFKbXJHRlJBNkFadzVRUERMZWxBNGlsY1VzNUVCSkpWelFGUnY1UU00M1pISXVudjlsdUJwcjN4OVFpMDU1Wlg5MC1ZVEt1MXJNbjMtZWx0LVJ5V1lWRUZmZ05yM3M2aG9QeGgtalFuczZ0X1BjSEw1T1BVRnJtanpZTG9xOVcxeFN3NDJGTEg5OA?oc=5",
+      "date": "2026-09-21T12:59:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Tiny wild cat newly identified as a species draws curious visitors in Bolivia AP News."
+    },
+    {
+      "title": "Second technical issue in 2 weeks afflicts UK's air traffic controller, prompting more travel chaos - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnkwWDdOcUZPdjNXTjlTbWVwUUxzUTBVVklabDZtS3p3MTJ4SjhHdW45aGhCdndPSjFqRW9zVk1HYk9lZElLcGs4clBoaWlzWjhZc2FjUUdLVVhLcDhybVRaeXNFaEJKSTRCTmZqYU9JdXBhaEp5WlFHUTRWMDBlNHhIQ2RmNEo2Y2lqaVR0SjY2YllzWHVTT1BQWDQ0MUpOY0dmY3gtMnRwUkU?oc=5",
+      "date": "2026-09-21T12:57:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Second technical issue in 2 weeks afflicts UK's air traffic controller, prompting more travel chaos AP News."
     },
     {
       "title": "‘Way Too Hot’: Britain’s Hospitals Were Not Built for 96-Degree Summers",
@@ -854,12 +886,28 @@
       "summary": "World leaders are mostly silent and President Trump is pushing fossil fuels. We’ll explore the stakes at this week’s Climate Forward event."
     },
     {
+      "title": "Poisoning suspected in deaths of 10 lions in Tanzania conservation area - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNTZFNlRLNzViRjZxNlN1V28yYmlycmljVXVmLXoxQzFJMzN5X0Y5X1BubU9FYVJmd2hrWV9FdGJFZFB4enBIOThqZUNxT0NHUWI4MlAtOHd5RWE1M084ZFBzeW1zMEhWWHV5Y1E5RS02d0NLeHBlZWdQcEhYcUJsNU9LQlJHVkZPMVhFSVl3YWd1T0F2R084dkJ3cnRRa0tpUzUyYmd4NG5ieURkT0ZPUVlQUnpkWVFPYUpn?oc=5",
+      "date": "2026-09-21T09:17:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Poisoning suspected in deaths of 10 lions in Tanzania conservation area AP News."
+    },
+    {
       "title": "Chulpan Khamatova Stars in the Dark, Absurdist Play “Delirium”",
       "url": "https://www.nytimes.com/2026/09/21/theater/chulpan-khamatova-delirium-eugene-ionesco.html",
       "date": "2026-09-21T09:03:03Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "After opposing the Ukrainian war and settling in Latvia, Chulpan Khamatova now comes to New York to star in a dark comedy by Ionesco."
+    },
+    {
+      "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFhmWUhBTDJYenBSd1lHMVNabkFQVG12Q2lVQ21hNDdKUl9jRE5ZMW5GcXc3UHhobnE4cHdqblpaRjN5d3h1eDFZUktaYmkyNEREMGpkaVZtY2Y0R2lYU1dwZVJxdy1sS1UtaFZGQW0yWDVqa3VsTERsWnRsTWFqNFhhd1NIWlAyZU5qRzc0dmljcGtzLXFR?oc=5",
+      "date": "2026-09-21T08:59:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea AP News."
     },
     {
       "title": "Putin Reignited a Dispute With Japan. This Town Is Stuck in the Middle.",
@@ -884,9 +932,89 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Ukraine says it used a newly developed ballistic missile in the attacks, which also targeted other parts of Russia."
+    },
+    {
+      "title": "ICE agent shoots and wounds man in Austin, Texas, officials say - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw?oc=5",
+      "date": "2026-09-21T06:00:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "ICE agent shoots and wounds man in Austin, Texas, officials say AP News."
+    },
+    {
+      "title": "Early results show Russia's main Kremlin party dominating tightly controlled parliamentary vote - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y?oc=5",
+      "date": "2026-09-21T00:13:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Early results show Russia's main Kremlin party dominating tightly controlled parliamentary vote AP News."
+    },
+    {
+      "title": "Ukraine fires over 1,000 drones at Russia, including ‘largest ever’ attack on Moscow - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3?oc=5",
+      "date": "2026-09-20T19:00:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Ukraine fires over 1,000 drones at Russia, including ‘largest ever’ attack on Moscow AP News."
+    },
+    {
+      "title": "Eagles’ Saquon Barkley returns after suffering left arm injury against Titans - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0tLbjRubGNQSkdmcTNyQU1wOXNSdk9qNWJHdnFHY3c0RkE4NE8telA0dnJMY2NYcjlhanc2dFVrZl9Vc0ttQ1hIeWRhVGFEaTNFMThyTld6REd0LWJMOWhqSFoyT3lZcmxLWTJZLUZ1N3hJMmdLZXM2WFR3RzlOTGNQT0VCMlUwOFFLd2pETng1ZlEzeUR0NzNqSnZVMlRHRzQ0?oc=5",
+      "date": "2026-09-20T18:52:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Eagles’ Saquon Barkley returns after suffering left arm injury against Titans AP News."
+    },
+    {
+      "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen’s growing civil war - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjZSU3pzSDBwWFJaUEUwdEg1YXEzemljdXpSQXk2bVN6cEtacEJYYTVKRU9xdUw1RFhYRm13b0lrZTgteFpLMVJDTWl5TFBKaTdCRldGc05RdVFPMkd4Q244c1cyTjlsZFNDR0RNTEsyQzlFa0FWUFZBazdnbG41MVhBb3B3Szh2RzI0N3dnZ1d6dlFIVlFxSHhzc0J1SHdW?oc=5",
+      "date": "2026-09-20T18:23:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen’s growing civil war AP News."
+    },
+    {
+      "title": "Longtime AP Florida politics reporter Brendan Farrington dies at 60 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdlBDQTNLSHRNbmNCMHZIX1ItTGI0UW11a0dXUE9tZDU5dUNrWUdyUWc3UGY3bEw5U2RuZ0lnY3pQRFYtWDF6dTVIT0Ywc0QzMmh0UjFManJOWThzWGFBaEJQcjBSc0o1OEtGckhmRENNb0NaNWh6NkNiaUJlUFVsWEN4dlFfQkM4VjViZmoxeC1JZFlOWEh2ZVdpVXl5MmtrLUdsQThoUHpOUTdtSkIzbXR6XzFRV2FraHk4?oc=5",
+      "date": "2026-09-20T16:32:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Longtime AP Florida politics reporter Brendan Farrington dies at 60 AP News."
+    },
+    {
+      "title": "North Korea launches 2 ballistic missiles toward the sea and dials up pressure on the US - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVVYclhGeTgxaDh5T2dZVGJFbTRELUFsdGFvM1A1UGZFSkFIcnRkTTFxVUtvQy1lUmM1WlZxM0FEU3I3NHc3dXJaZDlaLWFqNktIRFZtcGZ5WUJxQWlsT3hQN1lwZFhoNFpGX0dVT3RXRng5TEhEVzg4OTF3cmo0R01yMVFFVGRoQmwwVA?oc=5",
+      "date": "2026-09-20T11:33:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "North Korea launches 2 ballistic missiles toward the sea and dials up pressure on the US AP News."
+    },
+    {
+      "title": "MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcUUtVjNhMUdzOUo3alRhSVRGVF9aeFVBVUJlSjg0b1RvVnBJYjNXNzh5bWlnbEFjbDg0QWlVSlZueDZWYXltMW11ampFUHphekE1VVdDdlp5MFVhV0lWUUVySmNBT21TZGJNZGh0YlF6c0ZKbmMzMVhKLWlaQWx5Q0RwTUhPZ2dudWc?oc=5",
+      "date": "2026-09-19T22:36:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban AP News."
+    },
+    {
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
+      "date": "2026-09-19T22:05:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Potwór, a nie komputer. Ale Mac Studio ma nadal wady",
+      "url": "https://antyweb.pl/potwor-a-nie-komputer-ale-mac-studio-ma-nadal-wady",
+      "date": "2026-09-21T15:30:32Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Potężne pieniądze, ale za to potężna wydajność i możliwości. Najnowszy Mac Studio z M5 Ultra kosztuje niemalże 62 tysiące złotych."
+    },
     {
       "title": "To dlatego iPhone 18 Pro Max ma tak dużą baterię. Apple sprytnie ominął przepisy",
       "url": "https://spidersweb.pl/2026/09/iphone-18-pro-max-bateria-ogrnanicznik-przepisy-sprytne.html",
@@ -1222,14 +1350,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Biedronka zdecydowała się na wprowadzenie ważnych zmian w systemie kaucyjnym. Teraz zyskacie jeszcze więcej czasu. Artykuł Biedronka wprowadziła nowe zasady."
-    },
-    {
-      "title": "Duża zmiana w systemie kaucyjnym w Biedronce. Wchodzi od dziś",
-      "url": "https://spidersweb.pl/2026/09/biedronka-wydluzona-waznosc-kupony-kaucyjne-butelki.html",
-      "date": "2026-09-21T09:16:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Duża zmiana w systemie kaucyjnym w Biedronce. Wchodzi od dziś."
     },
     {
       "title": "Zapomnisz o ładowaniu na pół roku. Nowa inteligentna waga Xiaomi szokuje niską ceną",
@@ -1636,12 +1756,28 @@
   ],
   "finance": [
     {
-      "title": "Najcieńsze laptopy mają dziś zaskakująco twarde życie - forbes.pl",
+      "title": "Koniec zakazu handlu w niedzielę? Sklepy mają być czynne siedem razy w tygodniu. Takich zmian chcą … związkowcy. Tego nikt się nie spodziewał - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQY0JlMERUcnZWSV9jWVppNGxfaFlBbUx5UFcxdExfQlNJczBiMGx6a0hXOTBDTHlDZ2xEclA0cmRWQ0NMOW5MTFI1NXVKTjdhc2Jrb1VRTC0xd3Ytbmg1a25NTDM1Q2NYbTZGMnZ1ZzdUSVZjRW5JVWFxU0dJMlY0eHFCWFB4b3hYbWF3SWo4d0N2STRNOHZZN0dXbGpGU2RtVVdvUG50ak1CUm8zb1laSnFyN1ZRaVRyMXl2TkRvZmNaMjc3VHltVk52MUNSaExJeDRjWmNhLXE4UTl4STE0SFBlNDlQMktiYlpMckZnM1lzNWNuUGFOb2FpNlVib09Zbkg1dmpoNHU2dlV1TFQwdjNn?oc=5",
+      "date": "2026-09-21T15:29:57Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Koniec zakazu handlu w niedzielę? Sklepy mają być czynne siedem razy w tygodniu. Takich zmian chcą … związkowcy."
+    },
+    {
+      "title": "Wielka fuzja Hollywood coraz bliżej. Paramount Skydance zawarł ugodę ze stanami USA",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-fuzja-Hollywood-coraz-blizej-Paramount-Skydance-zawarl-ugode-ze-stanami-USA-9200250.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-09-21T15:29:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Paramount Skydance porozumiał się w sprawie ugody z Kalifornią i innymi stanami USA, które na drodze sądowej próbowały zablokować przejęcie przez ten konglomerat koncernu Warner Bros. Discovery - poinformowała w poniedziałek agencja Bloomberga."
+    },
+    {
+      "title": "Najcieńsze laptopy mają dziś zaskakująco twarde życie - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnN6OG1OR2c1ZWMxdGhPV1F3VnllX2lJN0pmVG1GcWllLU1lM1FYUmt2NHhLODRWT0ctQTRGaDFOY3U1bi1pSjF6TmdJN3FMcVFrZDRBcm1Kbl9qTWs5RWRBb3lPUnZfOEsxLUtKMHhjZkc1RndNckFEVUZEMjRoNDY5SmF1QWdLQUtHWDZNN2pGUmF2QmctWlNNY1NnZnA4LVE?oc=5",
       "date": "2026-09-21T15:23:44Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Najcieńsze laptopy mają dziś zaskakująco twarde życie forbes.pl."
+      "summary": "Najcieńsze laptopy mają dziś zaskakująco twarde życie Forbes."
     },
     {
       "title": "Nowych JDG mniej, wznowień więcej. Polacy zmieniają sposób prowadzenia biznesu",
@@ -1676,12 +1812,12 @@
       "summary": "Nowe kanały dystrybucji dla polskich wydawców. Legimi rozbudowuje ekosystem dystrybucyjny BiznesRadar."
     },
     {
-      "title": "Firma rośnie, emisje mają spadać. Prezes Lorenz Polska o trudnej układance biznesu - forbes.pl",
+      "title": "Firma rośnie, emisje mają spadać. Prezes Lorenz Polska o trudnej układance biznesu - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOTZLb3RKUUs3S3lULVdQWDB5YlpkUFF5VEluRVIweUwtT0FmdkFFSXpBZjlpeTBSd2VBZGZmaEgxRUhvdGd1MldLTlM2cFBCcnBPUlJiQ2Qtb2JmekJPbXpnOHBMbkdabG9tN2Fjd0pMc2lwSmpLd3dXN1hYZmRTTzBMNnFQNHBwOFVGaGFqR0VoS083Qlc0dlBScndoenRXSF8zM040ajRrVVZfYjN0bjdXNk52VFRZ?oc=5",
       "date": "2026-09-21T14:06:25Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Firma rośnie, emisje mają spadać. Prezes Lorenz Polska o trudnej układance biznesu forbes.pl."
+      "summary": "Firma rośnie, emisje mają spadać. Prezes Lorenz Polska o trudnej układance biznesu Forbes."
     },
     {
       "title": "Audi pozywa AUDI o audi. Koncern straszy importera własnych aut z Chin",
@@ -1730,14 +1866,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Stalprodukt zyskuje po cłach UE na blachy transformatorowe stockwatch.pl."
-    },
-    {
-      "title": "Zryw na rynku kryptowalut. Bitcoin najwyżej od początku roku pomimo trudnego tygodnia",
-      "url": "https://www.bankier.pl/wiadomosc/Zryw-na-rynku-kryptowalut-Bitcoin-najwyzej-od-poczatku-roku-pomimo-trudnego-tygodnia-9200030.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-09-21T13:00:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Cena Bitcoina przekroczyła w poniedziałek granicę 84 000 USD, osiągając najwyższy poziom od końca stycznia 2026 roku. Rajd pierwszej kryptowaluty wywołał likwidację krótkich pozycji o wartości setek milionów dolarów."
     },
     {
       "title": "Ponad 904 mln zł kar. Hurtownie znały ceny konkurentów i nie chciały „wojny cenowej”",
@@ -1828,12 +1956,12 @@
       "summary": "Biznes, Gospodarka, Świat Forsal.pl."
     },
     {
-      "title": "Notowania OW20X263950 - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OX0kwS1E1WUV6SEdnMW0ydTNvS3hRdlNjeV9mc0pQT05lejBvU0t2YUY2NTU3VXAzRmozVFhvaVd2Q3hJckZHUGlQUHl4VFN5bHZoYTZNR3ZGMXV2?oc=5",
-      "date": "2026-09-21T11:41:42Z",
+      "title": "Notowania OW20J264475 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3UWJ5UFBPUXpNaTRXU1hmaDliU1Y2X3c5RmpaLUo4WVNLWVBkRDYwLU1JbDY5Zlg4dzVIOUdkbjd4WThTZTdSeWNXaVVld3pnZzJNUTlPamJraG5a?oc=5",
+      "date": "2026-09-21T11:42:59Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania OW20X263950 BiznesRadar."
+      "summary": "Notowania OW20J264475 BiznesRadar."
     },
     {
       "title": "Jak zacząć inwestować po latach hossy na rynkach? - stockwatch.pl",
@@ -1844,12 +1972,20 @@
       "summary": "Jak zacząć inwestować po latach hossy na rynkach? stockwatch.pl."
     },
     {
-      "title": "Wokulski dziś nie byłby jednym z najbogatszych Polaków - forbes.pl",
+      "title": "Analiza techniczna FFINM27 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sMTNlV0dZRFZ4cmowY19vTnQ2MUJKc3NjcTNyN0pWTHZUamk1V3M4UVhmdDFzLUJvQnNJUmlsZ2syaEVreTRQNDB2Q2RBaHdEMnk2ekdpZVdmcUZUd3daN2NUV2MtR0xuX21ubA?oc=5",
+      "date": "2026-09-21T10:43:47Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Analiza techniczna FFINM27 BiznesRadar."
+    },
+    {
+      "title": "Wokulski dziś nie byłby jednym z najbogatszych Polaków - Forbes",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNi12QjZuUk4tTG1vbGQ4NDhVcU9ZTGUzZEc2SWp5SzBsRjBqVWxFRV82TFBHMWgxdVZ0TTRYVU1WQXNldGJLR1lFUE9nbGlhLXo4dW44dG14WDNzRUw4d2VvQWVuVUtHeEkxT3BmYzJRdjhVLTRHT0RFSXlNbEFnQ3AyX25aT25iVHNPYWhXUnVWaHc0YXg2VWh0NjVkaURxa3pOMmhn?oc=5",
       "date": "2026-09-21T10:40:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Wokulski dziś nie byłby jednym z najbogatszych Polaków forbes.pl."
+      "summary": "Wokulski dziś nie byłby jednym z najbogatszych Polaków Forbes."
     },
     {
       "title": "Amica nie widzi ożywienia na rynku AGD – spółka stawia na koszty i czeka na odbicie w Kazachstanie - stockwatch.pl",
@@ -1876,28 +2012,20 @@
       "summary": "Analiza grupy Diagnostyka: Błędy CRC w obrazowaniu stockwatch.pl."
     },
     {
-      "title": "Ponad 900 milionów złotych kar dla hurtowni farmaceutycznych. Neuca wśród ukaranych - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSmZCQXFOR050OGVOZ2VxZXk1RkNOZmtQU1RXcWwtaWxNX1Y1MkpIZ2NNUGdqdjVLaUwwbXFIenBubmczdzNtcU9Fblcwa2NxU1JrR0NJRlJseTV5MmZjUlhLRlZNWGtoSGZzbGduMVBwQ1NQVjk3ODEzcTUxLWw5dUxDeTNCTUdmb3RDZDNIUE1LY2hZZzF4alNzZ2VjeC1NcXJKT3lXYTN3QTVkZ0NVUm16QUt1MTBLcUE?oc=5",
-      "date": "2026-09-21T09:48:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Ponad 900 milionów złotych kar dla hurtowni farmaceutycznych. Neuca wśród ukaranych BiznesRadar."
-    },
-    {
-      "title": "Słynna polska marka MISBHV w dołku. Tak nowa właścicielka chce ją ratować - forbes.pl",
+      "title": "Słynna polska marka MISBHV w dołku. Tak nowa właścicielka chce ją ratować - Forbes",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQclRWZ2R1cFhUdENoUHBwNjZ6NTJXSDkzdXFFODJmUDFlWk9peGV4SUt4b25pMTVzWWRjTEhzWWlwczNFc3JESnJJLUpxWnBOdUprRkRfc2hSSGZ5d3BIWXRneFlsRnVaaFVhclVqYjA5REt2c1RVR0dHdEZHWmVmMnlySG83X3FqLV9DMUFLSkVXQVgtc3JVaDlfWDFnUVRoVUJhLW5xbUJVbG1IdENaOC1NMWU?oc=5",
       "date": "2026-09-21T08:59:05Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Słynna polska marka MISBHV w dołku. Tak nowa właścicielka chce ją ratować forbes.pl."
+      "summary": "Słynna polska marka MISBHV w dołku. Tak nowa właścicielka chce ją ratować Forbes."
     },
     {
-      "title": "Fake newsy biegną szybciej niż prawda. Czy można jeszcze odzyskać zaufanie? - forbes.pl",
+      "title": "Fake newsy biegną szybciej niż prawda. Czy można jeszcze odzyskać zaufanie? - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3RqcVExUEF0QnY3dW1BMnpOMkJKT0sxXzI2Q05wV1FCTi1nN3RjODNBbG5XUEF6R1hGb3FSZ2NQYjk2SXpBdVVrUVY0eXg5TUtnS0JJbGJ1MHVMdTVhaU52aTJKSDVXdjhMQ3d5VmJnQkhGWXp2YnlkSVVlMEkzclVKVVotYWplQ19ZMnd6RFM2Ylk1WEd0TmhyMkNBZklEdTdlMGphQmtodFdXcDJ1MWF6NUdZMkl5cmNj?oc=5",
       "date": "2026-09-21T08:54:30Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Fake newsy biegną szybciej niż prawda. Czy można jeszcze odzyskać zaufanie? forbes.pl."
+      "summary": "Fake newsy biegną szybciej niż prawda. Czy można jeszcze odzyskać zaufanie? Forbes."
     },
     {
       "title": "Ceny gazu coraz większym problemem dla Grupy Azoty",
@@ -1914,14 +2042,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Unimot alarmuje: handel paliwami przestanie się opłacać Piotr Maciążek pon., 21.09.2026 Kanał W Zielonej Strefie unimot notowania opłaty koncesyjne handel ropą handel paliwami hub paliwowy ukraina wzrost opłat koncesyjnych Treść Prezes Grupy Unimot, Adam Sikorski podczas chatu inwestorskiego w Strefie Inwestorów apelował o takie kształtowanie regulacji rynku paliwowego, aby nie stawiały polskich podmiotów w gorszej sytuacji względem zagranicznych konkurentów. Wskazywał, że planowane od 2027 roku obciążenia mogą sprawić, iż prowadzenie części transakcji przez polskie spółki przestanie być opłacalne.Opłaty koncesyjne uderzą w polskie spółki paliwowePolska odgrywa ważną rolę jako kraj tranzytowy, m.in. w dostawach paliw kierowanych do Ukrainy."
-    },
-    {
-      "title": "Notowania FW40M27 - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kNlo2VlJOczczenMtZ0xULUlFQTFoVFZRZm5xV2FpaTlpUGNUbzkwMHhKQ253UV9mSDVGV0dzeUJRcVF6dDVHSGVudXFLSW1BWXYtZXpNWQ?oc=5",
-      "date": "2026-09-21T07:38:23Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania FW40M27 BiznesRadar."
     },
     {
       "title": "Victoria Dom prowadzi emisję obligacji. Oprocentowanie może sięgnąć nawet 7,66 proc.",
@@ -1964,12 +2084,12 @@
       "summary": "Kurs dolara - 21.09.2026. W poniedziałek za jednego dolara (USD) trzeba zapłacić 3.802 zł."
     },
     {
-      "title": "Ratuje i przenosi stare drewniane domy. Zdradza powody i ile to kosztuje - forbes.pl",
+      "title": "Ratuje i przenosi stare drewniane domy. Zdradza powody i ile to kosztuje - Forbes",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVFXRXozMFhZNXFSWHpEc3Z6clBMdmZXVm1GMlk1XzR6T3JxNndYWXltV0hjZWNIMktDc0NJSEpERnBIUTB5bmJvMW9qSWRhR3kxRG9QQmNGMWJWajVvc004X2xWbnhtbEYyQlE5UDlDVWNzSFdFZWMtTU1rY19VQjN6OVItTk9abzV0eVlZRHAxU0JGVkV5amlzcks?oc=5",
       "date": "2026-09-21T05:00:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Ratuje i przenosi stare drewniane domy. Zdradza powody i ile to kosztuje forbes.pl."
+      "summary": "Ratuje i przenosi stare drewniane domy. Zdradza powody i ile to kosztuje Forbes."
     },
     {
       "title": "Hossa AI nie umiera, ale zmienia zasady. Teraz Wall Street stawia na te 3 warunki",
@@ -2004,12 +2124,12 @@
       "summary": "Politycy Konfederacji grzmią, że Ukraińcy nie powinni otrzymywać w Polsce zasiłku pogrzebowego, mimo że ten przyznawany jest bez względu na narodowość. Polska nie jest tu wyjątkiem. Podobne świadczenia wypłacane są w innych krajach Europy."
     },
     {
-      "title": "Jak zbudować autorytet i zawodową sieć? Ekspertka savoir-vivre’u radzi - forbes.pl",
+      "title": "Jak zbudować autorytet i zawodową sieć? Ekspertka savoir-vivre’u radzi - Forbes",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdzlMa1k3aEd1UVY1TnRwcy1QejRLYkM3TU9iMElsQnAySlJsUmhvVHIzeUtsSXkzQ3p4ZlZDZWljVi1BSjM3REJlZ3Q1QXFXNzRHVV9qU3BiVzl0bkpycVByWGpFQktmX081Q3RmaEo2WjlrZGs3Tm94UTEzdUo2Z3dNQlVVN0JnbmxtUnIzbktNbG1VYXdtRm41RUdmdFZIUEtMUkJ5dlFEU1hfZmdVTDVqNFNkZw?oc=5",
       "date": "2026-09-20T13:00:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Jak zbudować autorytet i zawodową sieć? Ekspertka savoir-vivre’u radzi forbes.pl."
+      "summary": "Jak zbudować autorytet i zawodową sieć? Ekspertka savoir-vivre’u radzi Forbes."
     },
     {
       "title": "Stacje kontroli pojazdów mają coraz większe długi. Nowe przepisy mogą pomóc i zaszkodzić",
@@ -2383,51 +2503,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25830.36,
+      25840.85,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27001.85,
+      27012.83,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27149.71,
+      27160.74,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27396.15,
+      27407.29,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28035.8,
+      28047.2,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28072.07,
+      28083.47,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28318.25,
+      28329.76,
       27354.94,
       27400.36,
       27412.11,
-      28722.14,
+      28733.81,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27978.25,
+      27989.62,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28159.07,
+      28170.51,
       27686.17,
       27404.78,
       27351.97,
@@ -2436,7 +2556,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27865.63,
+      27876.96,
       27930.04,
       28234.04,
       28218.36,
@@ -2445,57 +2565,57 @@
       28294.39,
       28203.83,
       28555.17,
-      28704.44,
+      28716.11,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28258.46,
+      28269.94,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28085.25,
+      28096.67,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28379.82,
+      28391.36,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29395.02,
+      29406.96,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29501.57,
+      29513.56,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      29079.49,
+      29091.31,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29221.17,
+      29233.04,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29247.09,
+      29258.97,
       28449.73,
       28313.03,
       28272.33,
-      29013.6,
+      29025.39,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      28989.05,
-      29291.65
+      29000.83,
+      29301.73
     ],
     "currency": "PLN"
   }
