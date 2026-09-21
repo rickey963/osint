@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T13:10:28Z",
+  "last_updated": "2026-09-21T13:11:16Z",
   "poland": [
     {
       "title": "Circle K idzie na wojnę z Orlenem. Skorzystają kierowcy, będzie tańsze paliwo",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Mac mini (late 2026) review: strong M6 performance, faster storage over the M4, and small footprint, but pricey storage and memory erode its value proposition (Brandon Hill/Tom's Hardware)",
+      "url": "https://www.techmeme.com/260921/p25#a260921p25",
+      "date": "2026-09-21T13:10:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Brandon Hill / Tom's Hardware: Mac mini (late 2026) review: strong M6 performance, faster storage over the M4, and small footprint, but pricey storage and memory erode its value proposition &mdash; The Mac mini's value proposition has evaporated. &mdash; Reviews &hellip; Why you can trust Tom's Hardware Our expert reviewers spend hours testing &hellip;."
+    },
+    {
       "title": "Google unveils Googlebook hardware, with flagship devices built by Acer, ASUS, Dell, HP, and Lenovo, offering deep Android and AI integration, starting at $899 (Abner Li/9to5Google)",
       "url": "https://www.techmeme.com/260921/p24#a260921p24",
       "date": "2026-09-21T13:03:55Z",
@@ -1182,14 +1190,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Wizz Air wycina loty. Polska mocno oberwie."
-    },
-    {
-      "title": "Sources: DeepSeek CEO Liang Wenfeng says training on Huawei chips is one of DeepSeek's biggest bets and Huawei is set to deliver training chips in Q4 or Q1 2027 (The Information)",
-      "url": "https://www.techmeme.com/260921/p17#a260921p17",
-      "date": "2026-09-21T10:40:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "The Information: Sources: DeepSeek CEO Liang Wenfeng says training on Huawei chips is one of DeepSeek's biggest bets and Huawei is set to deliver training chips in Q4 or Q1 2027 &mdash; DeepSeek CEO Liang Wenfeng told investors that a major priority for his company is to use more domestic chips to train its models &hellip;."
     },
     {
       "title": "ZuckOff Know when a camera is in the room",
@@ -1418,6 +1418,14 @@
       "summary": "Rival crew demands eight figures and threatens to expose companies that paid to keep quiet."
     },
     {
+      "title": "Burza wokół Mety: Brzoska żąda zmian. Chce utworzyć fundusz dla ofiar scamu",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/meta-lamie-unijne-prawo-brzoska-zada-zmian",
+      "date": "2026-09-21T12:09:27Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Tysiące podejrzanych reklam i czołówka krajów z oszukańczymi kampaniami – tak według ScamWatch wyglądają płatne materiały wyświetlane przez Metę w Polsce. Podczas specjalnej konferencji prasowej Rafał Brzoska wskazał, że właściciel Facebooka nie tylko zarabia na fałszywych treściach, może także naruszać przepisy Aktu o usługach cyfrowych. Autorzy inicjatywy „150 proc.” przedstawili także trzy postulaty zmian prawnych, które mają pomóc w rozwiązaniu problemu."
+    },
+    {
       "title": "NASA gives SpaceX a billion reasons to keep flying Crew Dragon",
       "url": "https://www.theregister.com/offbeat/2026/09/21/nasa-gives-spacex-a-billion-reasons-to-keep-flying-crew-dragon/5297705",
       "date": "2026-09-21T12:01:00Z",
@@ -1474,12 +1482,28 @@
       "summary": "Rozmawiasz z ChatGPT o zdrowiu, finansach i sprawach osobistych, a równolegle przeglądasz internet? Od teraz OpenAI może połączyć te dwie aktywności, bo właśnie wdrożono mechanizm reklamowy opraty o ciasteczka __obi. Efekt: to, co kupujesz, czytasz i wyszukujesz poza czatem, może zostać powiązane z Twoim kontem ChatGPT."
     },
     {
+      "title": "Praca zdalna z wysoką płacą? Tak rosyjskie służby rekrutują Polaków",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/praca-zdalna-z-wysoka-placa-tak-wyglada-rekrutacja-rosyjskich-sluzb",
+      "date": "2026-09-21T08:59:25Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "„Szukam osób do pracy zdalnej” – SMS-y o takiej treści od kilku dni otrzymują Polacy. Kuszą atrakcyjną stawką godzinową oraz nagrodą za samą odpowiedź na ogłoszenie. Dalszy kontakt odbywa się jednak na Telegramie, a „oferty” okazują się rekrutacją do działań dezinformacyjnych i sabotażowych, które prowadzą Rosjanie i Białorusini."
+    },
+    {
       "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
       "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
       "date": "2026-09-21T08:39:38Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoom Workplace, and Microsoft Teams software,\" Blackpoint Adversary Pursuit Group (APG)."
+    },
+    {
+      "title": "Rośnie liczba CyberLEGIONISTÓW w wojsku. Dowództwo zacieśnia współpracę z Ministerstwem Sprawiedliwości",
+      "url": "https://cyberdefence24.pl/armia-i-sluzby/wojsko-polskie/rosnie-liczba-cyberlegionistow-w-wojsku-dowodztwo-zaciesnia-wspolprace-z-ministerstwem-sprawiedliwosci",
+      "date": "2026-09-21T08:22:12Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Kolejna grupa ekspertów z zakresu cyberbezpieczeństwa dołączyła do CyberLEGIONU. Dowództwo Komponentu Wojsk Obrony Cyberprzestrzeni zawarło też porozumienie z Ministerstwem Sprawiedliwości. W oficjalnym komunikacie wskazano, jak nowa współpraca ma wzmocnić ochronę cyfrową Polski i w jakich obszarach cywilni specjaliści pomogą armii."
     },
     {
       "title": "Your cloud survived everything except the real world",
@@ -1514,6 +1538,14 @@
       "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks. Cybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple."
     },
     {
+      "title": "Miliony Polaków korzystają z nielegalnych kasyn online. Co trzecia przegrana złotówka trafia do szarej strefy",
+      "url": "https://cyberdefence24.pl/biznes-i-finanse/miliony-polakow-korzystaja-z-nielegalnych-kasyn-online-co-trzecia-przegrana-zlotowka-trafia-do-szarej-strefy",
+      "date": "2026-09-21T05:37:53Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Choć w Polsce legalnie działa tylko jedno kasyno online, niemal połowa rynku znajduje się poza prawem. Z nielegalnego hazardu korzystają miliony Polaków, a do szarej strefy trafiają miliardy złotych. Eksperci alarmują, że obecny system nie działa, a część pieniędzy może trafiać nawet do rosyjskich podmiotów."
+    },
+    {
       "title": "Failed networking vendor Cambium set to turn off its cloudy management portal",
       "url": "https://www.theregister.com/networks/2026/09/21/failed-networking-vendor-cambium-set-to-turn-off-its-cloudy-management-portal/5297647",
       "date": "2026-09-21T05:17:02Z",
@@ -1544,6 +1576,22 @@
       "source": "Niebezpiecznik",
       "confirmed_by": 1,
       "summary": "GPT-6 Astra odczytała dwa niemieckie melduneki radiowe z 1918 roku, których przez ponad 100 lat nikomu nie udało się odszyfrować. Media już krzyczą o &#8220;złamaniu kodu&#8221; przez AI, ale prawda jest taka, że klucze szyfrowania były doskonale znane &#8212; problem z depeszami leżał zupełnie gdzie indziej&#8230; Oba odszyfrowane meldunki znajdowały się na liście &#8220;50 najważniejszych [&#8230;]."
+    },
+    {
+      "title": "Zwykły złodziej stał się „świętym”. Tak Rosjanie tworzą mit Prigożyna",
+      "url": "https://cyberdefence24.pl/armia-i-sluzby/zwykly-zlodziej-stal-sie-swietym-tak-rosjanie-tworza-mit-prigozyna",
+      "date": "2026-09-20T14:29:27Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Trzy lata po śmierci Jewgienija Prigożyna jego grób lidera Grupy Wagnera w Petersburgu wciąż przyciąga tłumy zwolenników, a na jego cześć powstają pomniki i dzieła literackie. Choć zaczynał jako pospolity przestępca skazany za rozboje, dziś w rosyjskiej pamięci zbiorowej przechodzi niezwykłą transformację. Dla Kremla stał się bohaterem niewygodnym dla państwa."
+    },
+    {
+      "title": "Outsourcing bez outsourcingu odpowiedzialności. Jak zabezpieczyć łańcuch dostaw podmiotu krytycznego? [OPINIA]",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/poradniki/outsourcing-bez-outsourcingu-odpowiedzialnosci-jak-zabezpieczyc-lancuch-dostaw-podmiotu-krytycznego-opinia",
+      "date": "2026-09-20T08:27:44Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Firma zewnętrzna może utrzymywać serwery. Może obsługiwać centrum danych. Może zarządzać systemem, od którego zależy usługa kluczowa."
     },
     {
       "title": "How Windows turned months of inactivity into a 7-hour update hostage situation",
@@ -1594,6 +1642,14 @@
       "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in."
     },
     {
+      "title": "Charakter zamiast zdjęcia. Polska aplikacja proponuje inne randkowanie",
+      "url": "https://cyberdefence24.pl/technologie/charakter-zamiast-zdjecia-polska-aplikacja-proponuje-inne-randkowanie",
+      "date": "2026-09-19T10:25:08Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Zamiast oceny wyglądu i błyskawicznego przesuwania profili – analiza psychologiczna i zakryte zdjęcia, które odsłaniają się wraz z przebiegiem rozmowy. Polska aplikacja FEEMAI próbuje zredefiniować zasady randkowania w sieci, stawiając na wartości, algorytmy dopasowania osobowości i… wsparcie cyfrowego trenera, który budzi pytania nie tylko o przejrzystość algorytmów oceniających dopasowanie ludzi, ale i bezpieczeństwo gromadzonych wrażliwych danych osobowych."
+    },
+    {
       "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
       "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
       "date": "2026-09-19T09:31:17Z",
@@ -1624,6 +1680,14 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September 18. The French security company had kept his GitHub access open. CrowdSec says his laptop was compromised in May's supply chain attack on TanStack, in which malicious versions of TanStack's npm packages stole credentials from."
+    },
+    {
+      "title": "NIS2 na uczelniach. Cyberodporność zaczyna się od zarządzania ryzykiem [OPINIA]",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/nis2-na-uczelniach-cyberodpornosc-zaczyna-sie-od-zarzadzania-ryzykiem-opinia",
+      "date": "2026-09-19T06:42:41Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Uczelnia jest dziś organizacją cyfrową. Systemy informatyczne obsługują rekrutację, przebieg studiów, rozliczenia, komunikację z dziekanatem i obieg dokumentów. Przetwarzają przy tym dane kandydatów, studentów, absolwentów oraz pracowników."
     },
     {
       "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
@@ -1664,6 +1728,30 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The activity has been codenamed Operation."
+    },
+    {
+      "title": "Agenci AI w operacji Interpolu. Zidentyfikowano 126 bojowników",
+      "url": "https://cyberdefence24.pl/armia-i-sluzby/agenci-ai-w-operacji-interpolu-zidentyfikowano-126-bojownikow",
+      "date": "2026-09-18T14:15:35Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Interpol wykorzystał sztuczną inteligencję do analizy ponad 100 tys. wizerunków osób podejrzewanych o związki z terroryzmem. Dzięki agentom AI wyselekcjonowano tysiące zdjęć do dalszej identyfikacji."
+    },
+    {
+      "title": "Ataki dronowe Iranu. Dane z chmury Amazona „wyparowały”",
+      "url": "https://cyberdefence24.pl/technologie/ataki-dronowe-iranu-dane-z-chmury-amazona-wyparowaly",
+      "date": "2026-09-18T14:15:28Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Ataki na nasze centra zniszczyły część danych, które były w nich przechowywane – przyznał w środę Amazon. Irańskie uderzenia na początku wojny ze Stanami Zjednoczonymi zakłóciły prawidłowe działanie stref dostępności firmy. Skutki były tak poważne, że przekroczyły możliwości usług korporacji."
+    },
+    {
+      "title": "Włamanie do bazy danych pacjentów sieci przychodni z Pomorza",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/wlamanie-do-bazy-danych-pacjentow-sieci-przychodni-z-pomorza",
+      "date": "2026-09-18T14:00:35Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Sieć przychodni z Gdyni poinformowała o nieuprawnionym dostępie do bazy danych pacjentów. Obecnie wiadomo, że część danych mogła zostać wykradziona, lecz szczegółowa analiza nadal trwa. Wiele czynników wskazuje na to, że jest to inny incydent od niedawnego wycieku danych prawie 19 milionów osób z MyDr."
     },
     {
       "title": "Dane klientów Amazona bezpowrotnie stracone. Winne irańskie drony.",
@@ -2116,8 +2204,8 @@
       "lng": 19.5,
       "type": "cyber",
       "region": "Polska",
-      "description": "Każdy, kto korzysta z komputera, smartfona i internetu powinien wiedzieć jak robić to bezpiecznie.",
-      "url": "https://niebezpiecznik.pl/post/jak-nie-dac-sie-zhackowac-ruszamy-w-polske-z-kolejna-edycja-naszego-kultowego-wykladu/"
+      "description": "Zamiast oceny wyglądu i błyskawicznego przesuwania profili – analiza psychologiczna i zakryte zdjęcia, które odsłaniają się wraz z przebiegiem rozmowy.",
+      "url": "https://cyberdefence24.pl/technologie/charakter-zamiast-zdjecia-polska-aplikacja-proponuje-inne-randkowanie"
     },
     {
       "lat": 21.5,
@@ -2402,8 +2490,8 @@
       "2026-09-18"
     ],
     "prices": [
-      25024.06,
-      24645.25,
+      25026.05,
+      24647.2,
       24291.33,
       24017.82,
       24218.18,
@@ -2417,51 +2505,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25821.02,
+      25823.06,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26992.09,
+      26994.23,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27139.89,
+      27142.04,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27386.25,
+      27388.42,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28025.67,
+      28027.89,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28061.92,
+      28064.14,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28308.01,
+      28310.25,
       27354.94,
       27400.36,
       27412.11,
-      28711.75,
+      28714.03,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27968.13,
+      27970.35,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28148.88,
+      28151.11,
       27686.17,
       27404.78,
       27351.97,
@@ -2470,7 +2558,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27855.56,
+      27857.76,
       27930.04,
       28234.04,
       28218.36,
@@ -2479,56 +2567,56 @@
       28294.39,
       28203.83,
       28555.17,
-      28694.06,
+      28696.34,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28248.24,
+      28250.48,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28075.1,
+      28077.32,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28369.56,
+      28371.81,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29384.39,
+      29386.72,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29490.9,
+      29493.24,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      29068.98,
+      29071.28,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29210.6,
+      29212.92,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29236.51,
+      29238.83,
       28449.73,
       28313.03,
       28272.33,
-      29003.11,
+      29005.41,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      28978.56
+      28980.86
     ],
     "currency": "PLN"
   }
