@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-22T13:41:23Z",
+  "last_updated": "2026-09-22T13:51:15Z",
   "poland": [
+    {
+      "title": "Ciepłownictwo mierzy się z trzema barierami: surowcową, technologiczną i regulacyjną",
+      "url": "https://energia.rp.pl/transformacja-energetyczna/art45174071-cieplownictwo-mierzy-sie-z-trzema-barierami-surowcowa-technologiczna-i-regulacyjna",
+      "date": "2026-09-22T13:41:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Spółki Skarbu Państwa, które są pod nadzorem ministra aktywów państwowych, już są w głębokiej transformacji. Każda z nich pokazała strategię, w której jasno i wyraźnie wskazuje swoją drogę. Jest tam mowa o dekarbonizacji, inwestycjach w odnawialne źródła energii i oczywiście w biomasę – mówi Monika Gawlik, dyrektor Departamentu Spółek Paliwowo-Energetycznych w Ministerstwie Aktywów Państwowych."
+    },
     {
       "title": "Rząd wprowadza limit zarobków lekarzy. Przyjęto kluczowe przepisy",
       "url": "https://www.rp.pl/ochrona-zdrowia/art45174781-rzad-wprowadza-limit-zarobkow-lekarzy-przyjeto-kluczowe-przepisy",
@@ -31,7 +39,7 @@
       "date": "2026-09-22T13:20:51Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
-      "summary": "Politycy KO złożą zawiadomienie do prokuratury w sprawie płatnych pakietów na wydarzenie z udziałem prezydenta Karola Nawrockiego. — Cennik spotkań z prezydentem jest to uderzenie w powagę państwa polskiego — ocenił poseł Patryk Jaskulski."
+      "summary": "Politycy KO złożą zawiadomienie do prokuratury w sprawie płatnych pakietów na wydarzenie z udziałem Karola Nawrockiego."
     },
     {
       "title": "Badanie pokazało nieznane skutki stosowania Ozempiu. 11 razy wyższe ryzyko powikłań",
@@ -87,7 +95,7 @@
       "date": "2026-09-22T12:51:31Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
-      "summary": "Rząd we wtorek zajął się projektami pięciu ustaw przygotowanych przez Ministerstwo Zdrowia. Część z nich to odpowiedź na wysokie zarobki lekarzy i pracę w kilku miejscach naraz. Skalę zjawiska ujawniła m.in."
+      "summary": "Koniec ze skrajnie wysokimi kontraktami medyków i pracą na kilka etatów naraz. Rada Ministrów przyjęła przepisy wprowadzające sztywne limity zarobków oraz stawkę maksymalną za godzinę. Zmiany mocno uderzą w branżę, a za ich złamanie grożą wysokie kary."
     },
     {
       "title": "Przełom ws. cieśniny Ormuz? Reuters: Iran potwierdził gotowość do jej otwarcia",
@@ -130,20 +138,20 @@
       "summary": "Kasztany coraz liczniej spadają z drzew. Rozpoczął się sezon ich zbiorów. Kolejne skupy kasztanów ogłaszają otwarcie, a w sieci pojawia się coraz więcej ogłoszeń w tym temacie."
     },
     {
-      "title": "Nieoficjalnie: Brak decyzji ws. wojsk w Europie może być przyczyną odwołania wizyty Władysława Kosiniaka-Kamysza w USA",
-      "url": "https://www.rp.pl/dyplomacja/art45174011-nieoficjalnie-brak-decyzji-ws-wojsk-w-europie-moze-byc-przyczyna-odwolania-wizyty-wladyslawa-kosiniaka-kamysza-w-usa",
-      "date": "2026-09-22T12:43:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Oficjalnym powodem odwołania spotkania Władysława Kosiniaka-Kamysza z sekretarzem obrony USA Petem Hegsethem jest wizyta prezydenta Chin w Waszyngtonie. Możliwe jednak, że Amerykanie przełożyli spotkanie, bo nie podjęli jeszcze decyzji, co do przyszłości swoich wojsk w Europie."
-    },
-    {
       "title": "Kijów i Moskwa wymieniają ciosy. Rosyjskie rafinerie w ogniu",
       "url": "https://wiadomosci.gazeta.pl/swiat/7,198077,33038077,kijow-i-moskwa-wymieniaja-ciosy-rosyjskie-rafinerie-w-ogniu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-09-22T12:43:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Ukraińskie drony po raz kolejny sparaliżowały pracę kluczowych rosyjskich zakładów naftowych. Z kolei Moskwa odpowiedziała potężnym ostrzałem rakietowym na ukraiński Dniepr i obiekty przemysłowe. Zginęły co najmniej trzy osoby."
+    },
+    {
+      "title": "Nieoficjalnie: Brak decyzji ws. wojsk w Europie może być przyczyną odwołania wizyty Władysława Kosiniaka-Kamysza w USA",
+      "url": "https://www.rp.pl/dyplomacja/art45174011-nieoficjalnie-brak-decyzji-ws-wojsk-w-europie-moze-byc-przyczyna-odwolania-wizyty-wladyslawa-kosiniaka-kamysza-w-usa",
+      "date": "2026-09-22T12:43:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Oficjalnym powodem odwołania spotkania Władysława Kosiniaka-Kamysza z sekretarzem obrony USA Petem Hegsethem jest wizyta prezydenta Chin w Waszyngtonie. Możliwe jednak, że Amerykanie przełożyli spotkanie, bo nie podjęli jeszcze decyzji, co do przyszłości swoich wojsk w Europie."
     },
     {
       "title": "Terminale graniczne pod ostrzałem",
@@ -208,14 +216,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Kupowanie od Białorusi potażu to pomaganie Rosji - ocenił Scott Moe, premier kanadyjskiej prowincji Saskatchewan. To reakcja na ogłoszony przez prezydenta USA plan kupowania tej substancji od Mińska zamiast od Kanady."
-    },
-    {
-      "title": "Polskie zamki wysoko w europejskim rankingu. Wyprzedziły sławne twierdze",
-      "url": "https://turystyka.rp.pl/turystyka/art45173481-polskie-zamki-wysoko-w-europejskim-rankingu-wyprzedzily-slawne-twierdze",
-      "date": "2026-09-22T12:20:09Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Zamek Królewski na Wawelu uplasował się na wysokiej pozycji w rankingu najpopularniejszych zamków i pałaców w Europie przygotowanym przez TUI Musement. Znalazł się na piątym miejscu wśród 30 słynnych konkurentów."
     },
     {
       "title": "Policja: 26-latek zaatakował ratowników medycznych. Został zatrzymany",
@@ -306,12 +306,12 @@
       "summary": "Chicago znów leci w dół Power Rankingu. Zwrócono uwagę, ile zmienił transfer Lewandowskiego Polskie Radio 24."
     },
     {
-      "title": "Przygotowywał zamach terrorystyczny. 17-latek zatrzymany przez ABW - Polska Agencja Prasowa SA",
+      "title": "Przygotowywał zamach terrorystyczny. 17-latek zatrzymany przez ABW [WIDEO] - Polska Agencja Prasowa SA",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLXd6aV9CMG05aFZLbGE1SHlOZ25rMHhXYV9reEFpWWhzTHVsemJGUFZLd0pydzFjOElvUU9aYk5NLTdRWHhLVEJ6R1ZzY2pYNjFLamFnSk1SSlg1cW4xXzA5Uk5kVThRMnlPTHJpWlFZSG10dUR2N29WcUlJOFVnMmNfclNSQUZCUF9PVmQySllmNEI1cHFnOXEtQjE?oc=5",
       "date": "2026-09-22T07:53:00Z",
       "source": "PAP",
       "confirmed_by": 1,
-      "summary": "Przygotowywał zamach terrorystyczny. 17-latek zatrzymany przez ABW Polska Agencja Prasowa SA."
+      "summary": "Przygotowywał zamach terrorystyczny. 17-latek zatrzymany przez ABW [WIDEO] Polska Agencja Prasowa SA."
     },
     {
       "title": "Niezidentyfikowany sprawca ostrzelał uczniów szkoły w Turcji. Są ranni, napastnik zbiegł - Polska Agencja Prasowa SA",
@@ -404,6 +404,22 @@
   ],
   "world_security": [
     {
+      "title": "EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates",
+      "date": "2026-09-22T13:39:55Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Without an agreement sanctions on nearly 3,000 entities accused of supporting the war on Ukraine will lapse at the end of the dayNordic correspondent Emotions among Greenlanders are a mixture of hope, scepticism and fear ahead of the signing of a new much vaunted deal on Arctic security between the US, Greenland and Denmark.“There have been many different reactions in Greenland because they are talking about a deal but no one can see the deal, we don’t know what it is all about, and what’s in it for us or what’s in it. Also, because we have been terrorised as a people for the last 1.5 years by the American president, so many people feel no trust at all.” Continue reading..."
+    },
+    {
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-22T13:39:09Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security."
+    },
+    {
       "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-22T13:30:16Z",
@@ -412,20 +428,12 @@
       "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked."
     },
     {
-      "title": "EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates",
-      "date": "2026-09-22T13:23:27Z",
+      "title": "‘The fault lines in our world are widening’, António Guterres warns as world leaders gather for UN General Assembly – live updates",
+      "url": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates",
+      "date": "2026-09-22T13:26:27Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Without an agreement sanctions on nearly 3,000 entities accused of supporting the war on Ukraine will lapse at the end of the dayNordic correspondent Emotions among Greenlanders are a mixture of hope, scepticism and fear ahead of the signing of a new much vaunted deal on Arctic security between the US, Greenland and Denmark.“There have been many different reactions in Greenland because they are talking about a deal but no one can see the deal, we don’t know what it is all about, and what’s in it for us or what’s in it. Also, because we have been terrorised as a people for the last 1.5 years by the American president, so many people feel no trust at all.” Continue reading..."
-    },
-    {
-      "title": "Middle East crisis live: Iran ready to reopen strait of Hormuz within seven days if US lifts blockade, official says",
-      "url": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates",
-      "date": "2026-09-22T13:22:45Z",
-      "source": "The Guardian",
-      "confirmed_by": 2,
-      "summary": "Traffic through the key waterway for energy supplies has dwindled to a trickleTehran appears to have relaxed its preconditions for reopening the strait of Hormuz, saying it is prepared to do so within seven days so long as the US takes reciprocal steps to ease the pressure on Iran.Previously Iran had set seven onerous pre-conditions for lifting the blockade including “an end to war on all fronts” and a commitment by the US to cease all aggressive actions against Iran including sanctions. Continue reading..."
+      "summary": "The UN secretary-general said the world must work together to solve problems in final major assembly address as secretary generalTehran appears to have relaxed its preconditions for reopening the strait of Hormuz, saying it is prepared to do so within seven days so long as the US takes reciprocal steps to ease the pressure on Iran.Previously Iran had set seven onerous pre-conditions for lifting the blockade including “an end to war on all fronts” and a commitment by the US to cease all aggressive actions against Iran including sanctions. Continue reading..."
     },
     {
       "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
@@ -434,6 +442,22 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270."
+    },
+    {
+      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-22T13:16:49Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations."
+    },
+    {
+      "title": "Trump's White House media ban faces long odds in court, legal experts say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUDdOdVpHTGQzWC1PbjNJd0xBbHpBSFBJSWdSUWowUDZMZ21GSzFTVi1HdTgxZkU3V2x6bGRsMGZsaXhIMjZjamRzVlNrOXIxOTI4S1RBNWE0QmZsSTAwTFRxN0cxT25Mc1ZmeUxKRWJaRXdqdDNtRHNyb3RlSjV5T3FMMFZKc1FqS0pCOG1rNmVnV1FEZWl4NGtvckNHZ2JKOWRYWjlCcExpVmJUTzlCSEswWVc0eW8yVnBNVlJB?oc=5",
+      "date": "2026-09-22T13:13:57Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Trump's White House media ban faces long odds in court, legal experts say Reuters."
     },
     {
       "title": "DoorDash reaches $131.5 million settlement with NYC over delivery workers' pay - Reuters",
@@ -540,14 +564,6 @@
       "summary": "As resistance mounts, Trump reaches for a familiar shield: national security Reuters."
     },
     {
-      "title": "Trump set for whirlwind UN meetings with wars in Iran, Ukraine on agenda - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5",
-      "date": "2026-09-22T11:27:07Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Trump set for whirlwind UN meetings with wars in Iran, Ukraine on agenda Reuters."
-    },
-    {
       "title": "Doctor in court to face Rwanda genocide charges in UK",
       "url": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-22T11:25:19Z",
@@ -596,6 +612,14 @@
       "summary": "Kremlin says UN Security Council should add new permanent members, keep veto power that Erdogan urged scrapping Reuters."
     },
     {
+      "title": "Iran ready to reopen Strait of Hormuz if US eases military pressure and lifts blockade - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNEdfLVlEeU1GTjFkdDRlZ2NCN19kT0tNTEdKTnJBM29mNGk4OW9EMURHRm9WTEljdFBQY3Y1OTB6VnJBMFRMclpzV2xrV0M4NVMzZld6MlFJeHB1Rnp3Y01aVDJ4STB0Vk80bVE5X2JGaHRPeXlHM1h0WExNNHRlWEhuZkhjWWF0ajJYMGxsX0l1djRWYzRJbUZnbkpTM0k2LWZiT1AtWHA1QnhuajhwOVhjOExkWmNOcjkwXzJJTWJUWWlUazVtTDhR?oc=5",
+      "date": "2026-09-22T10:29:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Iran ready to reopen Strait of Hormuz if US eases military pressure and lifts blockade Reuters."
+    },
+    {
       "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDlYaXB6UFVtWndZUGJsNy1FQzRrM203TUc1RDA0VTZ5Y0FaZ0JHVnV0dzVKMHJkSGowOUFYVUs5N1Y2QWJibzhJZEJpbk8xUmxja1o2ME9tY0hfZjRCOGFGWjVVcmVza2F2VGdvNzJjRnVlY2tzeTdIWWUxREVrNkJYRWRPazhzcG00b0NNYzJDRjlQRmhFV3JlQWNZS2lJWFZfeV9VMmdrdmJiZ0xWNlVkblM2Qk0?oc=5",
       "date": "2026-09-22T10:28:54Z",
@@ -618,14 +642,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Traders push for discounts for Venezuelan oil as shipping costs soar, sources say Reuters."
-    },
-    {
-      "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5",
-      "date": "2026-09-22T10:11:28Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds Reuters."
     },
     {
       "title": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong",
@@ -692,14 +708,6 @@
       "summary": "PM says immediate focus is on rebuilding bridges with EU as he prepares for first meeting with Ursula von der LeyenAndy Burnham has opened the door to fighting the next election on the UK rejoining the EU, but said his immediate priority was continuing to rebuild bridges with European allies.The prime minister, who will hold his first meeting with the European Commission president, Ursula von der Leyen, on Tuesday, did not rule out including reversing Brexit in Labour’s next manifesto – but suggested the country should focus on securing closer trading ties first. Continue reading..."
     },
     {
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-22T07:14:12Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security."
-    },
-    {
       "title": "Brigitte Bardot’s personal items sell for nearly €1m at auction in Paris",
       "url": "https://www.theguardian.com/film/2026/sep/22/brigitte-bardot-auction-paris-animal-welfare",
       "date": "2026-09-22T07:14:05Z",
@@ -748,14 +756,6 @@
       "summary": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT useBritish Columbia has sued OpenAI in California, saying a mass shooting at a school in the province could have been prevented if the company had warned local ⁠law enforcement that the shooter ⁠had used ChatGPT to ​plan the massacre.The lawsuit filed in San Francisco federal court on Monday names OpenAI and its CEO, Sam Altman, as defendants. It is seeking damages to fund recovery efforts in the province after the February attack, as well as an order directing changes to the way the company handles ChatGPT conversations that could lead to violence. Continue reading..."
     },
     {
-      "title": "What to expect as world leaders descend on New York - and who won't be there",
-      "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-22T04:05:58Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda."
-    },
-    {
       "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
       "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
       "date": "2026-09-21T22:33:40Z",
@@ -766,6 +766,22 @@
   ],
   "world_politics": [
     {
+      "title": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence' - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
+      "date": "2026-09-22T13:35:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence' AP News."
+    },
+    {
+      "title": "Book Review: “Swan Song: Diana, My Sister,” by Charles Spencer",
+      "url": "https://www.nytimes.com/2026/09/22/books/review/charles-spencer-swan-song.html",
+      "date": "2026-09-22T13:29:29Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "“Swan Song,” Charles Spencer’s memoir of Lady Diana, is full of love and vengeance."
+    },
+    {
       "title": "Here’s the latest.",
       "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/heres-the-latest",
       "date": "2026-09-22T13:28:43Z",
@@ -774,12 +790,12 @@
       "summary": ""
     },
     {
-      "title": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence' - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
-      "date": "2026-09-22T13:23:00Z",
+      "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of the world body itself - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
+      "date": "2026-09-22T13:18:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence' AP News."
+      "summary": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of the world body itself AP News."
     },
     {
       "title": "Iran’s President Arrives in U.S. for U.N. Meeting Against the Backdrop of War",
@@ -828,14 +844,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Japan’s prime minister will meet President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing."
-    },
-    {
-      "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of the world body itself - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
-      "date": "2026-09-22T12:14:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of the world body itself AP News."
     },
     {
       "title": "Jordan’s King Abdullah Likely to Focus on Palestinians at U.N. General Assembly",
@@ -892,14 +900,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Cherie Geng is trying to free her husband, a pastor, who was among dozens of church members detained by the Chinese police. At the same time, she must rebuild her life in exile."
-    },
-    {
-      "title": "Book Review: “Swan Song: Diana, My Sister,” by Charles Spencer",
-      "url": "https://www.nytimes.com/2026/09/22/books/review/charles-spencer-swan-song.html",
-      "date": "2026-09-22T10:50:04Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "“Swan Song,” Charles Spencer’s memoir of Lady Diana, is full of love and vengeance."
     },
     {
       "title": "Takeaways From Charles Spencer’s Memoir, “Swan Song,” About Princess Diana",
@@ -974,14 +974,6 @@
       "summary": "Appeals court favors Trump-backed Missouri congressional map, but Supreme Court will have final say AP News."
     },
     {
-      "title": "States settle lawsuit over Paramount-Warner merger, clearing key hurdle for $81 billion deal - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGVnbS1LSHBEVTFfdGxtMzJTNE9SUE0tZldtUTRCcmpZSkxIRFJYcHNKOHJQT2RybkRva1k5Yzd5Mmd3ZEotWWlKMDdLTjVTSVpkZXRVa1dKX1lLamJRN3VQME52cEoxQWFvT0IyV1VZT0FyeFpJY1p4RWtYU3BuWnBMTVUza3NLalpLWTViRi1qYjJJeEt6YWxkZHlhTnZGd0dCTU9fdWU1by1B?oc=5",
-      "date": "2026-09-21T23:40:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "States settle lawsuit over Paramount-Warner merger, clearing key hurdle for $81 billion deal AP News."
-    },
-    {
       "title": "Climate Week talks balance hope for clean energy against uncertainty over artificial intelligence - AP News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaEE1bjlaME9fOXRpcmJBNGpnUFpWZmM5R1U3SDdTQTJRSzVvaTRZLXEyU21GekYzYjdqYTRjUFJHM3gyRU5vcFpVZWFhbXZHMEZOaEc0WWd6eGJOek9MYk53TmdmaXM3cHl3bmJwQTB2bEFLUmZIbkJjcHZFZFl1NjY3bFFYb09LbkhXb3ZFZzNwVExfMmI3Vm96Z2w?oc=5",
       "date": "2026-09-21T21:54:00Z",
@@ -1004,9 +996,25 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Jury convicts Vermont man of attempted murder in shooting of 3 Palestinian students AP News."
+    },
+    {
+      "title": "States settle lawsuit over Paramount-Warner merger, clearing key hurdle for $81 billion deal - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGVnbS1LSHBEVTFfdGxtMzJTNE9SUE0tZldtUTRCcmpZSkxIRFJYcHNKOHJQT2RybkRva1k5Yzd5Mmd3ZEotWWlKMDdLTjVTSVpkZXRVa1dKX1lLamJRN3VQME52cEoxQWFvT0IyV1VZT0FyeFpJY1p4RWtYU3BuWnBMTVUza3NLalpLWTViRi1qYjJJeEt6YWxkZHlhTnZGd0dCTU9fdWU1by1B?oc=5",
+      "date": "2026-09-21T17:26:11Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "States settle lawsuit over Paramount-Warner merger, clearing key hurdle for $81 billion deal AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Sources: Xi Jinping is unlikely to bring corporate executives to his DC summit with Trump; industry officials expected them at a dinner with top US tech CEOs (Wall Street Journal)",
+      "url": "https://www.techmeme.com/260922/p28#a260922p28",
+      "date": "2026-09-22T13:35:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Wall Street Journal: Sources: Xi Jinping is unlikely to bring corporate executives to his DC summit with Trump; industry officials expected them at a dinner with top US tech CEOs &mdash; Expectations for major business deals fade, although preparations are continuing &mdash; WASHINGTON&mdash;Chinese leader Xi Jinping &hellip;."
+    },
     {
       "title": "Adobe launches its free Premiere video editing app on Android, nearly a year after its iOS launch, to replace Premiere Rush, set to lose support on September 30 (Julian Chokkattu/Wired)",
       "url": "https://www.techmeme.com/260922/p27#a260922p27",
@@ -1014,6 +1022,14 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Julian Chokkattu / Wired: Adobe launches its free Premiere video editing app on Android, nearly a year after its iOS launch, to replace Premiere Rush, set to lose support on September 30 &mdash; The Android version of Premiere has unique layouts on candy bar phones and foldable devices. It's free to use and available today."
+    },
+    {
+      "title": "AI Is Antithetical to Learning",
+      "url": "https://jola.dev/posts/ai-antithetical-learning",
+      "date": "2026-09-22T13:24:40Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://jola.dev/posts/ai-antithetical-learning Comments URL: https://news.ycombinator.com/item?id=49800917 Points: 6 # Comments: 0."
     },
     {
       "title": "Sony rozpieszcza graczy. Nowy program lojalnościowy dla posiadaczy PlayStation",
@@ -1120,20 +1136,12 @@
       "summary": "Katherine Bindley / Wall Street Journal: a16z invests $35M in Horowitz Andreessen Academy, an independent, unaccredited two-year alternative to college; Anthropic, Meta, and others will provide compute &mdash; Venture-capital firm Andreessen Horowitz spending $35 million to back two-year academy, with other Bay Area tech giants on board."
     },
     {
-      "title": "Cisco Talos releases CAIRN, an open-source framework designed to classify and analyze AI-integrated malware by tracking AI metadata and behavioral fingerprints (Lily Hay Newman/Wired)",
-      "url": "https://www.techmeme.com/260922/p20#a260922p20",
-      "date": "2026-09-22T12:25:05Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Lily Hay Newman / Wired: Cisco Talos releases CAIRN, an open-source framework designed to classify and analyze AI-integrated malware by tracking AI metadata and behavioral fingerprints &mdash; Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots&mdash;and quickly discovered something unusual."
-    },
-    {
       "title": "AI Has No Wisdom and Neither Will You",
       "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
       "date": "2026-09-22T12:11:09Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/ Comments URL: https://news.ycombinator.com/item?id=49799965 Points: 132 # Comments: 165."
+      "summary": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/ Comments URL: https://news.ycombinator.com/item?id=49799965 Points: 168 # Comments: 210."
     },
     {
       "title": "Prezent dla żony - trafione pomysły na każdą okazję",
@@ -1165,7 +1173,7 @@
       "date": "2026-09-22T11:29:47Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html Comments URL: https://news.ycombinator.com/item?id=49799577 Points: 32 # Comments: 12."
+      "summary": "Article URL: https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html Comments URL: https://news.ycombinator.com/item?id=49799577 Points: 34 # Comments: 16."
     },
     {
       "title": "Pojedziemy kolejką 28 m nad ziemią. Rozwiązanie rodem z Alp w Polsce",
@@ -1285,7 +1293,7 @@
       "date": "2026-09-22T10:36:44Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html Comments URL: https://news.ycombinator.com/item?id=49799083 Points: 112 # Comments: 134."
+      "summary": "Article URL: https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html Comments URL: https://news.ycombinator.com/item?id=49799083 Points: 119 # Comments: 145."
     },
     {
       "title": "Szczecin będzie 3 godziny od Warszawy. Oto plany potężnego przyspieszenia na torach",
@@ -1325,7 +1333,7 @@
       "date": "2026-09-22T09:36:31Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers Comments URL: https://news.ycombinator.com/item?id=49798597 Points: 51 # Comments: 17."
+      "summary": "Article URL: https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers Comments URL: https://news.ycombinator.com/item?id=49798597 Points: 57 # Comments: 21."
     },
     {
       "title": "BP Crucis pod lupą XRISM. Tak gwiazda neutronowa \"zjada\" wiatr hiperolbrzyma",
@@ -1341,7 +1349,7 @@
       "date": "2026-09-22T08:39:43Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://board.flatassembler.net/topic.php?t=24261 Comments URL: https://news.ycombinator.com/item?id=49798204 Points: 144 # Comments: 92."
+      "summary": "Article URL: https://board.flatassembler.net/topic.php?t=24261 Comments URL: https://news.ycombinator.com/item?id=49798204 Points: 146 # Comments: 97."
     },
     {
       "title": "I said no and Apple said yes",
@@ -1349,15 +1357,7 @@
       "date": "2026-09-22T08:04:55Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://dbushell.com/2026/09/22/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49797982 Points: 388 # Comments: 305."
-    },
-    {
-      "title": "Can gzip be a language model?",
-      "url": "https://nathan.rs/posts/gzip-lm/",
-      "date": "2026-09-22T06:08:39Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://nathan.rs/posts/gzip-lm/ Comments URL: https://news.ycombinator.com/item?id=49797323 Points: 235 # Comments: 83."
+      "summary": "Article URL: https://dbushell.com/2026/09/22/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49797982 Points: 418 # Comments: 326."
     },
     {
       "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
@@ -1940,14 +1940,6 @@
       "summary": "Amerykanie wyślą wojska na Grenlandię. Wrócą do jednej z baz po 70 latach Forsal.pl."
     },
     {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBONXpFVkp4aE9wWk5FUW9kQTI3QXF5TzJZVTJxeUNzY2JsSHVUNjZpR3FjS0hyRExWTWtRNG9MckxZSDlSai1ZdFpsbmcxZlZaNnMyNVFn?oc=5",
-      "date": "2026-09-22T09:44:06Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
       "title": "Kluczowa zmiana dla inwestorów dot. zielonego wodoru",
       "url": "https://strefainwestorow.pl/w-zielonej-strefie/oze/zielony-wodor-legislacja-europejska",
       "date": "2026-09-22T08:45:27Z",
@@ -1962,6 +1954,14 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Czy w Polsce zabraknie węgla w zimie? Minister zabrał głos Forsal.pl."
+    },
+    {
+      "title": "Obniżają akcyzę i wracają do limitów cen. Od października kierowcy z południa Polski mogą płacić mniej za paliwo - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQnM2dlQ1bzU0VlozakVnNmN1TmFLc2htazRMS0ItVXNWd3dabUFQbFlaczQzRkJtenl1bmwycFRVcEVqMXVBOVVZWGpjYVl6TGNuRlZJZ1VSOTZqSE9kVkljTjFuWFNlbjJQZUN6MTlJV3Z2ZFZnc0Zpd1FCWnE4a0dzcFRKbm0xeldEQ25mbFJOMG5XTWNVOWpGY3RTUkxEdXJvUEIyejQyQ2xjYnlrWi1EXzRqMVJzTmVGLWVMc3BkaVRiVmo5MkxsUU9vSWNfTUhNajE0ZDRzSjNZSVdnSFoxT3BmSGdwZk44LW9aZ3NFeFRlcW11SlZsNHAzY3dRdmZoUTRR?oc=5",
+      "date": "2026-09-22T08:24:47Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Obniżają akcyzę i wracają do limitów cen. Od października kierowcy z południa Polski mogą płacić mniej za paliwo Forsal.pl."
     },
     {
       "title": "Możliwy Pat wyborczy i jego wpływ na giełdę. - stockwatch.pl",
@@ -1994,6 +1994,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "AI wprowadza się do domu. Smart home zaczyna naprawdę myśleć Forbes."
+    },
+    {
+      "title": "EMPLOCITY [EMP] - stockwatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iVk9sNEVXbV9uNDU0QkVCSzRTYVR1MEgyU28tdzZ0Ym5LRmx2TDlPbzF0eVBhSDdFYXFnNXhpMnNzcS1UTWF6VmlkWkVmUjBvTERSTFNoNmRUbzk1eDIyR2Z6UERIeGFjdkR1QQ?oc=5",
+      "date": "2026-09-22T07:32:00Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "EMPLOCITY [EMP] stockwatch.pl."
     },
     {
       "title": "WIG bije kolejne rekordy (zmiana w portfelu)",
@@ -2060,22 +2068,6 @@
       "summary": "Szef kuchni i restaurator o fine diningu. \"Przestał być czymś odstraszającym\" Forbes."
     },
     {
-      "title": "55 proc. polskich uczniów korzysta z AI co tydzień. Wyniki pokazują ciekawy paradoks",
-      "url": "https://300gospodarka.pl/news/55-proc-polskich-uczniow-korzysta-z-ai-co-tydzien-wyniki-pokazuja-ciekawy-paradoks",
-      "date": "2026-09-21T21:42:59Z",
-      "source": "300Gospodarka",
-      "confirmed_by": 1,
-      "summary": "Zeszłoroczne badania PISA, poza pomiarem umiejętności uczniów w wieku 15 lat, przeanalizowało także używanie przez młodych ludzi sztucznej inteligencji (AI). Aż 55 proc. polskich uczniów korzysta z tego typu narzędzi przynajmniej raz w tygodniu do wspomagania się w nauce."
-    },
-    {
-      "title": "Rodzice lubią pociągi – do momentu, gdy dziecko ma wsiąść do niego samo",
-      "url": "https://300gospodarka.pl/news/rodzice-lubia-pociagi-do-momentu-gdy-dziecko-ma-wsiasc-do-niego-samo",
-      "date": "2026-09-21T21:15:19Z",
-      "source": "300Gospodarka",
-      "confirmed_by": 1,
-      "summary": "Aż 86 proc. rodziców, którzy podróżowali koleją z dzieckiem, dobrze ocenia takie doświadczenie. Gdy jednak nastolatek ma wsiąść do pociągu sam, odsetek pozytywnie nastawionych opiekunów spada do 47 proc."
-    },
-    {
       "title": "LOKATY BUDOWLANE SA (13/2026) Zmiana harmonogramu publikacji raportów okresowych - biznesradar.pl",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjdWZ3NLZGJWXzAyZTg4NV9kc2hqNFhYN0Z1bjlwOEdNU05PVDkyVC1aaUxRdmQ2aEtCRVhQSVlnRFVMRzFYUXdzTW5majg5UTNxNlgwcXZ5dm5ocjdfUnF6M1Jfbl8tOUs4YXFFX0FraF9SMGdwSmFIck96eFpmd3VYTFNsa3BWQ1BESlhRaGE3VDBMZ2FpRU1DXzRzSHFXV3hIclU3d1plZ041b3o1ellycVA?oc=5",
       "date": "2026-09-21T21:07:00Z",
@@ -2108,12 +2100,28 @@
       "summary": "Produkt Krajowy Brutto Iranu obniżył się o 10,1 proc. między końcem marca a końcem czerwca – wynika z danych Irańskiego Centrum Statystycznego, które przytoczyła AFP. Spadek PKB to oczywiście efekt wojny z USA oraz Izraelem."
     },
     {
+      "title": "Mówi o problemie bezdomności. \"Być może AI nam pomoże\"",
+      "url": "https://www.money.pl/gospodarka/mowi-o-problemie-bezdomnosci-byc-moze-ai-nam-pomoze-7331797000852545v.html",
+      "date": "2026-09-21T18:02:04Z",
+      "source": "Money.pl",
+      "confirmed_by": 1,
+      "summary": "– Powstaje klasa ludzi, którzy wypadli z tej gry ekonomiczno-rozwojowej kraju. Czyli zaczynają pojawiać się problemy bezdomności, chorób psychicznych, które są już dzisiaj w pewnym sensie epidemią. I społeczeństwo nie jest na to przygotowane – uważa gość \"Biznes Klasy\" Piotr Moncarz, polski inżynier, profesor Uniwersytetu Stanforda i współtwórca firmy Exponent wycenianej na 4 mld."
+    },
+    {
       "title": "MPAY SA (38/2026) Otrzymanie zawiadomień o znacznych pakietach akcji - biznesradar.pl",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDc0cmJWMTRnNDI4VEktNzljeVlLQ1ZFZGRfazhIT21WUjFGbGpvd3UwdndMbWM3ZmdjNFF3WHRUOUhmSzEya3dGTUNYNUlIdnJtR2FYU3d4UTIwTlVfaEFHZG9ObjlEQzg0LTBuam5INTIxNjF3THZSOWpYN01TZ0U4YXNkYUtRUW9SdTFzNWh3Z0lLZjA4dnREV2toTkxpYWNyRA?oc=5",
       "date": "2026-09-21T16:23:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "MPAY SA (38/2026) Otrzymanie zawiadomień o znacznych pakietach akcji biznesradar.pl."
+    },
+    {
+      "title": "Wiadomości OW20L262750 - biznesradar.pl",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPWE1DT21kZUt6NEdPZm5FUUJ5V3N5NzdobkdGQ3BkSTNHVXVNeHFLVzl2THo5T29ROUFSZFJFVHllcms1bTd3VkVvMk1yVFZvVW1naW1NLTF0RC1jZ1E?oc=5",
+      "date": "2026-09-21T16:18:42Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości OW20L262750 biznesradar.pl."
     },
     {
       "title": "Wiadomości OW20V263725 - biznesradar.pl",
@@ -2148,22 +2156,6 @@
       "summary": "BUMECH DEFENSE PARTNERS SA Raport okresowy półroczny za PSr biznesradar.pl."
     },
     {
-      "title": "Nowych JDG mniej, wznowień więcej. Polacy zmieniają sposób prowadzenia biznesu",
-      "url": "https://300gospodarka.pl/news/jdg-dane-ceidg-za-1h-2026-eksperci-komentuja",
-      "date": "2026-09-21T14:39:10Z",
-      "source": "300Gospodarka",
-      "confirmed_by": 1,
-      "summary": "Polacy rzadziej zakładają jednoosobowe firmy, ale coraz częściej wracają do tych, które wcześniej zawiesili. W pierwszym półroczu liczba nowych rejestracji JDG spadła o 6,5 proc., a wznowień przybyło. Eksperci wskazują, że za tymi danymi kryje się coś więcej niż słabsza chęć do prowadzenia biznesu."
-    },
-    {
-      "title": "Ponad 904 mln zł kar. Hurtownie znały ceny konkurentów i nie chciały „wojny cenowej”",
-      "url": "https://300gospodarka.pl/news/ponad-904-mln-zl-kar-hurtownie-znaly-ceny-konkurentow-i-nie-chcialy-wojny-cenowej",
-      "date": "2026-09-21T12:46:34Z",
-      "source": "300Gospodarka",
-      "confirmed_by": 1,
-      "summary": "Prezes UOKiK nałożył ponad 904 mln zł kar na cztery spółki związane z największymi hurtowniami farmaceutycznymi w Polsce. Według urzędu przedsiębiorcy przez ponad dekadę wymieniali się poufnymi informacjami o cenach leków, sprzedaży i warunkach oferowanych aptekom, dzięki czemu ograniczali wzajemną konkurencję. Skutki takiego porozumienia odczuwały apteki, a na końcu także pacjenci płacący za leki."
-    },
-    {
       "title": "Policzyliśmy majątek Wokulskiego. Dziś nie byłby miliarderem - Forbes",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNi12QjZuUk4tTG1vbGQ4NDhVcU9ZTGUzZEc2SWp5SzBsRjBqVWxFRV82TFBHMWgxdVZ0TTRYVU1WQXNldGJLR1lFUE9nbGlhLXo4dW44dG14WDNzRUw4d2VvQWVuVUtHeEkxT3BmYzJRdjhVLTRHT0RFSXlNbEFnQ3AyX25aT25iVHNPYWhXUnVWaHc0YXg2VWh0NjVkaURxa3pOMmhn?oc=5",
       "date": "2026-09-21T10:40:00Z",
@@ -2186,6 +2178,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Słynna polska marka MISBHV w dołku. Tak nowa właścicielka chce ją ratować Forbes."
+    },
+    {
+      "title": "Fake newsy biegną szybciej niż prawda. Czy można jeszcze odzyskać zaufanie? - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3RqcVExUEF0QnY3dW1BMnpOMkJKT0sxXzI2Q05wV1FCTi1nN3RjODNBbG5XUEF6R1hGb3FSZ2NQYjk2SXpBdVVrUVY0eXg5TUtnS0JJbGJ1MHVMdTVhaU52aTJKSDVXdjhMQ3d5VmJnQkhGWXp2YnlkSVVlMEkzclVKVVotYWplQ19ZMnd6RFM2Ylk1WEd0TmhyMkNBZklEdTdlMGphQmtodFdXcDJ1MWF6NUdZMkl5cmNj?oc=5",
+      "date": "2026-09-21T08:54:30Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Fake newsy biegną szybciej niż prawda. Czy można jeszcze odzyskać zaufanie? Forbes."
     },
     {
       "title": "Ceny gazu coraz większym problemem dla Grupy Azoty",
@@ -2214,12 +2214,12 @@
   ],
   "critical_alerts": [
     {
-      "title": "Przygotowywał zamach terrorystyczny. 17-latek zatrzymany przez ABW - Polska Agencja Prasowa SA",
+      "title": "Przygotowywał zamach terrorystyczny. 17-latek zatrzymany przez ABW [WIDEO] - Polska Agencja Prasowa SA",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLXd6aV9CMG05aFZLbGE1SHlOZ25rMHhXYV9reEFpWWhzTHVsemJGUFZLd0pydzFjOElvUU9aYk5NLTdRWHhLVEJ6R1ZzY2pYNjFLamFnSk1SSlg1cW4xXzA5Uk5kVThRMnlPTHJpWlFZSG10dUR2N29WcUlJOFVnMmNfclNSQUZCUF9PVmQySllmNEI1cHFnOXEtQjE?oc=5",
       "date": "2026-09-22T07:53:00Z",
       "source": "PAP",
       "confirmed_by": 1,
-      "summary": "Przygotowywał zamach terrorystyczny. 17-latek zatrzymany przez ABW Polska Agencja Prasowa SA."
+      "summary": "Przygotowywał zamach terrorystyczny. 17-latek zatrzymany przez ABW [WIDEO] Polska Agencja Prasowa SA."
     }
   ],
   "map_features": [
@@ -2590,51 +2590,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25872.14,
+      25892.25,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27045.54,
+      27066.56,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27193.63,
+      27214.77,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27440.47,
+      27461.8,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28081.16,
+      28102.99,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28117.48,
+      28139.33,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28364.06,
+      28386.11,
       27354.94,
       27400.36,
       27412.11,
-      28768.6,
+      28790.96,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28023.51,
+      28045.29,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28204.62,
+      28226.54,
       27686.17,
       27404.78,
       27351.97,
@@ -2643,7 +2643,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27910.71,
+      27932.41,
       27930.04,
       28234.04,
       28218.36,
@@ -2652,58 +2652,58 @@
       28294.39,
       28203.83,
       28555.17,
-      28750.88,
+      28773.23,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28304.17,
+      28326.17,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28130.69,
+      28152.55,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28425.74,
+      28447.83,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29442.57,
+      29465.46,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29549.29,
+      29572.26,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      29126.54,
+      29149.18,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29268.44,
+      29291.19,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29294.4,
+      29317.17,
       28449.73,
       28313.03,
       28272.33,
-      29060.54,
+      29083.12,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      29035.94,
-      29469.37,
-      29520.26
+      29058.51,
+      29492.27,
+      29532.42
     ],
     "currency": "PLN"
   }
