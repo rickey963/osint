@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T16:59:59Z",
+  "last_updated": "2026-09-22T17:01:27Z",
   "poland": [
     {
       "title": "Afera wokół Szpitala Południowego. Czy dr Emil Jędrzejewski wycofał się ze swoich słów?",
@@ -72,14 +72,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "W dorocznym wystąpieniu przed ONZ amerykański prezydent tylko zdawkowo wspomniał o największym konflikcie w Europie od drugiej wojny światowej."
-    },
-    {
-      "title": "Masz jeszcze kasety w domu? Znowu mogą ci się przydać",
-      "url": "https://businessinsider.com.pl/technologie/masz-jeszcze-kasety-w-domu-znowu-moga-ci-sie-przydac/rbyrnff",
-      "date": "2026-09-22T16:07:49Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Przez lata leżały zapomniane w szufladach, a wiele osób dawno spisało je na straty. Tymczasem kasety magnetofonowe znowu przeżywają swój moment. Co więcej, w sklepach można dziś znaleźć urządzenia, za pomocą których ponownie posłuchamy muzyki z taśm."
     },
     {
       "title": "Cios w paliwowe serce Rosji. Płonie rafineria Rosnieftu",
@@ -240,6 +232,14 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Agnieszka Gozdyra opublikowała wiadomości od internauty, który skierował pod jej adresem wulgarną obelgę. Dziennikarka ustaliła jego dane i poinformowała, że przekazuje sprawę prawnikom. Mężczyzna szybko przeprosił i zaproponował zadośćuczynienie."
+    },
+    {
+      "title": "Policja wezwała seniorkę z Niemiec po tankowaniu w Polsce. \"Pachnie oszustwem\"",
+      "url": "https://businessinsider.com.pl/lifestyle/policja-wezwala-seniorke-z-niemiec-po-tankowaniu-w-polsce/rtht5nd",
+      "date": "2026-09-22T14:21:01Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "70-latka z Niemiec chciała oszczędzić na paliwie w Polsce i została posądzona o niezapłacenie za tankowanie. Z jej relacji wynika, że rachunek opłaciła. Wizyta na policji wyglądała nietypowo."
     },
     {
       "title": "Trump z konkretnym przesłaniem do Putina. \"Zakończ wojnę\"",
@@ -406,7 +406,7 @@
     {
       "title": "US to build new military bases in Greenland as deal seeks to end tensions between Nato allies - Europe live",
       "url": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates",
-      "date": "2026-09-22T16:51:13Z",
+      "date": "2026-09-22T16:50:10Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Agreement signed at the UN general assembly in New YorkNordic correspondent Emotions among Greenlanders are a mixture of hope, scepticism and fear ahead of the signing of a new much vaunted deal on Arctic security between the US, Greenland and Denmark.“There have been many different reactions in Greenland because they are talking about a deal but no one can see the deal, we don’t know what it is all about, and what’s in it for us or what’s in it. Also, because we have been terrorised as a people for the last 1.5 years by the American president, so many people feel no trust at all.” Continue reading..."
@@ -768,10 +768,18 @@
     {
       "title": "U.N. Live Updates: Trump Says He Faces Choice to Make a Deal or ‘Annihilate’ Iran",
       "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
-      "date": "2026-09-22T16:53:22Z",
+      "date": "2026-09-22T16:57:45Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "President Trump delivered the remark before a gathering where world leaders typically present themselves as champions of global harmony. Earlier, António Guterres, the U.N. secretary general, called on leaders to end conflicts."
+    },
+    {
+      "title": "Here’s the latest.",
+      "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/heres-the-latest",
+      "date": "2026-09-22T16:57:43Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": ""
     },
     {
       "title": "UK Leader Burnham to Hold First Meeting With Trump at UN General Assembly",
@@ -780,14 +788,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Prime Minister Andy Burnham of Britain faces his most high-stakes meeting since taking office, looking to build a rapport with President Trump."
-    },
-    {
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/heres-the-latest",
-      "date": "2026-09-22T16:50:15Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": ""
     },
     {
       "title": "Trump in address to world leaders at UN defends his decision to start war against Iran - AP News",
@@ -966,14 +966,6 @@
       "summary": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks AP News."
     },
     {
-      "title": "Nicaraguan government responsible for at least 8 deaths in custody since 2018, UN report finds - AP News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPamVENUQzeVRnTWdDbWJwQVNTME16dmZBc3AzMTYyUFZZQmdOSUpydzVMN1Q0LUNQUmJyTFc2NGZjbnVTZl94OERBV1I5YnJscGo5V1d1RjY2NGdUUVdRMGtRNlI5MUpucTZMRFlISmQ0T1dMWGtic0hOZVpSWGhwaHRwZ2Nta3hybk5OYVotWVJkUklNQVdsZkhkM1ZHekw3SnFkOXF0cGZ1R29BQnltOWNDQnVHWTRrbDZLZA?oc=5",
-      "date": "2026-09-22T07:03:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Nicaraguan government responsible for at least 8 deaths in custody since 2018, UN report finds AP News."
-    },
-    {
       "title": "Flights disrupted across the US Northeast due to technical problems at a key air traffic center - AP News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFJZMDZvZHd6UVJfTXh3c3V6U1Y2cm1mRXItWlJEMU9NbVZaZFhyTHNxd21HdFRsN1BtSlgtRDNOMUNnc0ZjSUhQRVVCR0taME5qV3JoTnNxT0lpUUdlZzVCNVhEVG1ET0k4bThmSlNBdWRQbmFMOTVxYnpfMmJDVi05Vl9RRVdBMVhaMlNNWU82STk3M3JhWXU3UlgxYjVsb2c?oc=5",
       "date": "2026-09-22T04:47:00Z",
@@ -1004,9 +996,25 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "States settle lawsuit over Paramount-Warner merger, clearing key hurdle for $81 billion deal AP News."
+    },
+    {
+      "title": "AP Exclusive: ICE hides locations of thousands of detainees with final removal orders - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOU9FM2U3NGZudEdnZ0piVlA3R1BNNmRIc2ZwSnkwV3dFVDRmTWE5bHhEcFU4N2kyeUVwOFdkVVI3ZE41dFBYZU1WaVRqaXEzZ3RrQ1ZiOXYtWWtsUlUyamZBY1B0ZnBuNUV6Q0xLeUZ3bWhqTUExOWd0cDBHNk5FWHJSekVCdmRqaVBkTzdzTk1CSnVkNndBbUpNMFFxWVNFLUxscl93eTU?oc=5",
+      "date": "2026-09-21T21:41:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "AP Exclusive: ICE hides locations of thousands of detainees with final removal orders AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Aging may be a program, not a breakdown",
+      "url": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
+      "date": "2026-09-22T16:48:33Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/ Comments URL: https://news.ycombinator.com/item?id=49804266 Points: 7 # Comments: 0."
+    },
     {
       "title": "Sources: Apple is developing prototypes for a screenless health and fitness tracker similar to Whoop but hasn't decided whether to release the product (Mark Gurman/Bloomberg)",
       "url": "https://www.techmeme.com/260922/p39#a260922p39",
@@ -1048,12 +1056,28 @@
       "summary": "W Sosnowcu na trzy miesiące do aresztu trafił 20-latek podejrzewany o oszustwa internetowe przy sprzedaży telefonów i laptopów. Śledczy twierdzą, że pobierał od kupujących zaliczki, po czym nie realizował transakcji."
     },
     {
+      "title": "A WordPress vulnerability scored 9.2/10 is present in all versions since 2016",
+      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "date": "2026-09-22T16:33:45Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp Comments URL: https://news.ycombinator.com/item?id=49803959 Points: 9 # Comments: 1."
+    },
+    {
       "title": "Tak wkrótce zmieni się Windows 11. Warto zaczekać",
       "url": "https://antyweb.pl/windows-11-zmiany-design",
       "date": "2026-09-22T16:30:37Z",
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Wreszcie. Windows 11 pozbędzie się rzeczy z minionej epoki. Microsoft zapowiada stopniowe, acz srogie porządki, obejmujące także rzadko używane funkcje systemu."
+    },
+    {
+      "title": "Americans' Drinking Remains at Record Low: Gallup Poll",
+      "url": "https://news.gallup.com/poll/713534/americans-drinking-remains-record-low.aspx",
+      "date": "2026-09-22T16:29:11Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://news.gallup.com/poll/713534/americans-drinking-remains-record-low.aspx Comments URL: https://news.ycombinator.com/item?id=49803894 Points: 10 # Comments: 5."
     },
     {
       "title": "Porsche patentuje \"manuala\", ale jako \"automat\". Ma mieć 3 tryby pracy",
@@ -1085,15 +1109,15 @@
       "date": "2026-09-22T16:11:34Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://allpoetry.com/16-bit-Intel-8088-chip Comments URL: https://news.ycombinator.com/item?id=49803635 Points: 31 # Comments: 2."
+      "summary": "Article URL: https://allpoetry.com/16-bit-Intel-8088-chip Comments URL: https://news.ycombinator.com/item?id=49803635 Points: 37 # Comments: 2."
     },
     {
-      "title": "Xbox continues its \"reset\" with dramatic restructuring",
+      "title": "Xbox continues its “reset” with dramatic restructuring",
       "url": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
       "date": "2026-09-22T16:10:58Z",
       "source": "Hacker News",
       "confirmed_by": 2,
-      "summary": "Article URL: https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/ Comments URL: https://news.ycombinator.com/item?id=49803626 Points: 16 # Comments: 7."
+      "summary": "Article URL: https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/ Comments URL: https://news.ycombinator.com/item?id=49803626 Points: 24 # Comments: 12."
     },
     {
       "title": "In his UN General Assembly speech, President Trump says the US is \"officially\" renaming AI to \"super intelligence\" because \"artificial\" makes it sound fake (Richard Lawler/The Verge)",
@@ -1125,7 +1149,7 @@
       "date": "2026-09-22T15:38:24Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://minimaxir.com/2026/09/agentic-iteration/ Comments URL: https://news.ycombinator.com/item?id=49803085 Points: 26 # Comments: 8."
+      "summary": "Article URL: https://minimaxir.com/2026/09/agentic-iteration/ Comments URL: https://news.ycombinator.com/item?id=49803085 Points: 34 # Comments: 14."
     },
     {
       "title": "Chamelio, which is building AI tools designed to execute routine legal workflows and escalate only the cases that require human judgment, raised a $26M Series A (CTech)",
@@ -1149,15 +1173,7 @@
       "date": "2026-09-22T15:25:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://mouse.dev/blog/muse-runtime-export/ Comments URL: https://news.ycombinator.com/item?id=49802871 Points: 146 # Comments: 73."
-    },
-    {
-      "title": "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
-      "url": "https://github.com/General-Instinct/InstinctFlash",
-      "date": "2026-09-22T15:20:06Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Hey HN, Guanming here, cofounder of General Instinct. We just released InstinctFlash, a high-performance serving framework for robotics models. It’s licensed under AGPL-3.0.On Jetson Thor, we see speedups about 1.2x to 7.9x from runtime optimizations alone and up to 33.78x for LingBot-VA when we combine those runtime optimizations with a distilled few-step diffusion scheduler, going from the original 25 visual / 50 action steps to 2 / 4 steps."
+      "summary": "Article URL: https://mouse.dev/blog/muse-runtime-export/ Comments URL: https://news.ycombinator.com/item?id=49802871 Points: 169 # Comments: 81."
     },
     {
       "title": "Kalshi Klear, the company's internal clearing house, files for CFTC approval to add margin trading as it seeks to attract institutional liquidity (Davis Giangiulio/CNBC)",
@@ -1166,14 +1182,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Davis Giangiulio / CNBC: Kalshi Klear, the company's internal clearing house, files for CFTC approval to add margin trading as it seeks to attract institutional liquidity &mdash; Prediction market platform Kalshi filed on Tuesday with federal regulators to seek approval to offer leverage on event contracts &hellip;."
-    },
-    {
-      "title": "Vacate a Drone Restriction That Criminalized Recording Immigration Agents",
-      "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
-      "date": "2026-09-22T15:07:03Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration Comments URL: https://news.ycombinator.com/item?id=49802581 Points: 36 # Comments: 7."
     },
     {
       "title": "Nocna prohibicja działa, oto dowód. Czas na całą Polskę",
@@ -1190,14 +1198,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "To, co dla nas jest ekstremum, dla przyszłych pokoleń może stać się częścią codzienności – naukowcy policzyli, ile dodatkowych lat niebezpiecznej pogody czeka urodzonych po 2025 roku."
-    },
-    {
-      "title": "Snorkel AI, which offers an \"agentic data development platform\" with humans and AI agents to create and vet data, raised $350M at a $3.5B valuation (Krystal Hu/Reuters)",
-      "url": "https://www.techmeme.com/260922/p32#a260922p32",
-      "date": "2026-09-22T14:50:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Krystal Hu / Reuters: Snorkel AI, which offers an &ldquo;agentic data development platform&rdquo; with humans and AI agents to create and vet data, raised $350M at a $3.5B valuation &mdash; Data startup Snorkel AI has raised $350 million in fresh funding at a $3.5 billion valuation, its CEO Alex Ratner told Reuters &hellip;."
     },
     {
       "title": "Protests for Germany’s car industry as job losses loom",
@@ -1812,6 +1812,14 @@
   ],
   "finance": [
     {
+      "title": "Szef Revoluta przedstawia strategię kredytową przed IPO",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-Revoluta-przedstawia-strategie-kredytowa-przed-IPO-9200575.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-09-22T17:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Revolut zamierza utrzymać niski poziom relacji kredytów do depozytów, ponieważ fintech chce ograniczyć ekspozycję na ryzyko kredytowe, jednocześnie finansując globalną ekspansję – powiedział dyrektor generalny firmy."
+    },
+    {
       "title": "Przecena energetyki i Orlenu, ale WIG i WIG20 znów najwyżej w historii. Banki znów biją rekordy",
       "url": "https://www.bankier.pl/wiadomosc/Przecena-energetyki-i-Orlenu-ale-WIG-i-WIG20-znow-najwyzej-w-historii-Banki-znow-bija-rekordy-9200931.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-09-22T16:47:00Z",
@@ -1828,12 +1836,12 @@
       "summary": "Sprawdź, czy jesteś gotowy na pierwsze 72 godziny kryzysu. Rząd przygotowuje obywateli na najgorsze? Forsal.pl."
     },
     {
-      "title": "Revolv Space - Forbes - wiadomości gospodarcze i finansowe - Forbes",
+      "title": "Revolv Space - Forbes - wiadomości gospodarcze i finansowe - forbes.pl",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90eTdsTWVaLVEyV2J2WVRuRUhLMnRvTHJ0a2daUzBCUjQtdFBsWVdreXp1VVVSWldITzlDbUlNU2dwZjZwam5lX0ln?oc=5",
       "date": "2026-09-22T15:58:05Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Revolv Space - Forbes - wiadomości gospodarcze i finansowe Forbes."
+      "summary": "Revolv Space - Forbes - wiadomości gospodarcze i finansowe forbes.pl."
     },
     {
       "title": "Sztuczna inteligencja budzi coraz większy lęk. Amerykanie wskazali, co powinno się zmienić - Forsal.pl",
@@ -1852,12 +1860,20 @@
       "summary": "W przemyśle wytwórczym i przetwórczym 76 proc. firm planuje zwiększyć inwestycje w AI, a 91 proc. spodziewa się wzrostu sprzedaży dzięki wdrożeniom – wynika z branżowego Barometru AI przygotowanego przez EFL na II półrocze 2026 roku."
     },
     {
-      "title": "Rząd podniesie VAT na te napoje. Jest decyzja",
+      "title": "Rząd podniesie VAT. Decyzja w sprawie wina i piwa bezalkoholowego",
       "url": "https://www.money.pl/podatki/vat-na-duza-grupe-napojow-w-gore-jest-decyzja-rzadu-7332202919950560a.html",
       "date": "2026-09-22T15:25:55Z",
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Rząd przyjął we wtorek projekt nowelizacji ustawy o podatku od towarów i usług, który podnosi VAT na piwo bezalkoholowe z dodatkiem soku i wino bezalkoholowe, a także na napoje z dodatkiem soku, zawierające kofeinę czy taurynę."
+    },
+    {
+      "title": "ORZEŁ BIAŁY SA Raport okresowy półroczny za PSr - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQckF5UDhOR2dadTN2c1NVc0dsdlp6c0dobzZkTGtSWXZ1V1F1Vm9LQ3I3c2hDZERmOWdzZE9vak5rNnl3TlFRSGZEUmRWSzk0SjVCcmtVdWU2d2pHUnNYQTA3bjhRbFVGWl9UcmtYbjVTSVF2c09BOVJoSE5GdzA0a0NNUkF3RFIxaGJn?oc=5",
+      "date": "2026-09-22T15:21:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "ORZEŁ BIAŁY SA Raport okresowy półroczny za PSr BiznesRadar."
     },
     {
       "title": "„Okno słabości”, które może wykorzystać Rosja. Ekspert wymienił kilka powodów - Forsal.pl",
@@ -1892,20 +1908,20 @@
       "summary": "EXCELLENC [EXC] stockwatch.pl."
     },
     {
-      "title": "ROAD STUDIO SA (7/2026) Informacje dotyczące Road Truckers: New Beginning - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM0NuY3pMbjNtS3FWQjdwTEFyd0FqbVJqc1lMbHdQSmtuaFI0WUZCMjNvZ2lRZkRKVGk0Z3hqV2VEVmtGNGF3UVJ0LWp5eUdNNmpoN1BVd3BucmQ4b2tPMXphNUNuOW1vS0o0bkZ3TWhfbVJwVkZCbjhuRkJlQmlTNTNkTmozRVFsVE5MdzczUzdjVnF0X2ZLWlRwdk11QmpuaE9tVG9PeVVXZw?oc=5",
-      "date": "2026-09-22T13:23:00Z",
+      "title": "ZENERIS PROJEKTY SA (11/2026) Zawarcie istotnej umowy - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYXFtbGhDUnhBTXFlYXVtYnRKV0xETS12bFdValVBNEdCVGdQcmxCZjgxbkZadFlpSFdVVEpyQWV4MjUtQ3IzVm9mdTZsWFF0SXVSRUlWVnNDQ3ZKLWJPd3B6OTZBbWRySXFsSVlfQTUydS1VUXdxelRaWG1BR0lONDhlWjh4Z09CMlFxSmVQLWs?oc=5",
+      "date": "2026-09-22T13:34:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "ROAD STUDIO SA (7/2026) Informacje dotyczące Road Truckers: New Beginning BiznesRadar."
+      "summary": "ZENERIS PROJEKTY SA (11/2026) Zawarcie istotnej umowy BiznesRadar."
     },
     {
-      "title": "Czy ETF-y to Święty Graal inwestowania? \"Analitycy są drodzy i nieskuteczni\" - Forbes",
+      "title": "Czy ETF-y to Święty Graal inwestowania? \"Analitycy są drodzy i nieskuteczni\" - forbes.pl",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1ZUdWVsb3lUNlpSQXp2UjBfUmdNUEt5UHFxWWZSSDZHelpyUGxxMWxmcnBNWkcxRFhEVU9scFg4a3p0LWZSd0VoRjBBZmNpR3IySDkzbEdKeGpiNkFSSy1Hbi1fT01QQ1VURldiN3hiczZOUnVpQUdFOU1OSEpqUGFXUHZ5XzBDRDNDUXBReGVrVnJuY2stZ0w4NGJGdXBmUUlrT2dSVGRrRTJyY0p1bzBKanFpVTlhN0dBdlh6ci0?oc=5",
       "date": "2026-09-22T13:15:09Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Czy ETF-y to Święty Graal inwestowania? \"Analitycy są drodzy i nieskuteczni\" Forbes."
+      "summary": "Czy ETF-y to Święty Graal inwestowania? \"Analitycy są drodzy i nieskuteczni\" forbes.pl."
     },
     {
       "title": "PGE GiEK dostało 135 mln zł z ugody za blok w Elektrowni Turów - stockwatch.pl",
@@ -1964,14 +1980,6 @@
       "summary": "Arabia Saudyjska wznowiła działalność rurociągu Wschód-Zachód i może jeszcze we wtorek wznowić eksport ropy naftowej z portu Janbu nad Morzem Czerwonym - podał Reuters, powołując się na trzy źródła zaznajomione ze sprawą."
     },
     {
-      "title": "USA blokują wjazd rosyjskiego dyplomaty na szczyt ONZ. Kreml: To nieprzyjazny akt",
-      "url": "https://www.bankier.pl/wiadomosc/USA-blokuja-wjazd-rosyjskiego-dyplomaty-na-szczyt-ONZ-Kreml-To-nieprzyjazny-akt-9200711.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-09-22T12:13:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Rzecznik Kremla Dmitrij Pieskow powiedział, że odmowa wizy uprawniającej do wjazdu do USA dla jednego z wiceministrów spraw zagranicznych Rosji to nieprzyjazny akt – poinformowała agencja Reutera."
-    },
-    {
       "title": "GETIN HOLDING SA (7/2026) Powołanie Wiceprezes Zarządu Emitenta - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbVJBOHAwUUlxaG9NREVYTEZuc1Nzc1VFRnlFRUJmMHVNc3V1WHd2YXZhVWFrS1p2YkVJY2VaSWl1Q3JCVng3RWdxaXdFMDBYYTV1RnpWbmlSYzVpOU1IZVVFbFFCbEpUZzN6U1ByWnQ4VEwxRWpaeUduRmM5eVNmaVllZi10Qm1iRHQxN1VDb0kteUpkT240dy0wdThjZw?oc=5",
       "date": "2026-09-22T12:10:00Z",
@@ -1980,20 +1988,20 @@
       "summary": "GETIN HOLDING SA (7/2026) Powołanie Wiceprezes Zarządu Emitenta BiznesRadar."
     },
     {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IbWJxbFFmVmZTU3lDLV8xR1lTSy1sQkZTSGxuME1TS1JfTzRUeUs5ZEVlcVhBd2o1VWlEY2R3YVNxYkdvYW5YUURaNA?oc=5",
-      "date": "2026-09-22T12:03:54Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
       "title": "Polska zawstydziła Europę. Chodzi o zapasy gazu na zimę - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS090alltaGN6alItR0Q3emhWdmlDRkE3OS14NFBoQnNMWWlOQmpoN3JNLUpaOWVTMVpJRzZZSTZwTmVDZWFrRmpKSkJFbEJYQU9HR1hseWVjZEpNRTZ4Q3VnUW9Ea1lSZnBUTC1idkdKMG9XWGZyZ3BaT3V4amhkbnc0empGci1yaWF6LWJKRk1zZG9udWxfaS1mSW9rc2o3SHFHTUFXd2VjaU1KdGpvSm45ZE5YRnNkS0E?oc=5",
       "date": "2026-09-22T12:01:52Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Polska zawstydziła Europę. Chodzi o zapasy gazu na zimę Forsal.pl."
+    },
+    {
+      "title": "Rząd boi się o bezpieczeństwo wodociągów. Zaleca odcięcie systemów od internetu - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYWtvaFR3aVcwWVY0OFoxeU1qQ2FEOUNsb1o0YmJFOWo0MFBVaG9xQWhReVI2TlF1emwxSWVSWE9oRzdNeFVSMUlmZEplX2Y2amJ5RnpHOWJYTVVFNE5BOGp0VVdyc2V6a2dzNFhUSEMyOXBCMmdmU0ZUczdiYkVCTVppdjZVVUFlNVdDM1VKLW02Nmx6QU9yZUk4LXV5UGdiY3pCZjl0WVdwRWVjMFlTS3M2QWxnU0N6aGxXU1QzdHJmazFneDhnMWo3Nngxakh6Rnh6d293?oc=5",
+      "date": "2026-09-22T11:38:37Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Rząd boi się o bezpieczeństwo wodociągów. Zaleca odcięcie systemów od internetu Forsal.pl."
     },
     {
       "title": "Trump Tower Tbilisi w sercu inwestycji za 2 mld dolarów. Deweloper zaoferuje apartamenty inwestycyjne również klientom z Polski",
@@ -2060,20 +2068,20 @@
       "summary": "Kluczowa zmiana dla inwestorów dot. zielonego wodoru Michał Partyka wt., 22.09.2026 Kanał W Zielonej Strefie legislacja europejska zielony wodór wodór transformacja energetyczna Treść Unijny rynek odnawialnego wodoru rozwija się dużo wolniej niż pierwotnie zakładała Komisja Europejska. Bruksela przygotowuje więc korektę zasad dla produkcji zielonego wodoru, która ma ograniczyć ryzyko inwestycyjne i dać projektom więcej czasu na spełnienie wymogów."
     },
     {
-      "title": "Nad Rafałem Zaorskim zawisła groźba więzienia. Sprawdzamy, jak doszło do upadku „króla polskich spekulantów” - Forbes",
+      "title": "Nad Rafałem Zaorskim zawisła groźba więzienia. Sprawdzamy, jak doszło do upadku „króla polskich spekulantów” - forbes.pl",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHQyQm9QMVBUQVRtdU9yak56UzFrRnFjcGsyTTV4azQ0ZE5hdDhpNVdHWjZCaVRkbnZOcnYzY2RaaWZ0OVh2dFhiNkUyNENNZWJ4ZjVxYzl1VVhhdjJsalh2Y0QyOGZvQTNFQVp2TjVaNU12OXpnSjBDaUlOckxOdW1WM3U5UUNuRS1GOENJNUJkVHZrN0J5V2VtRmE2T1JwUVB0WU4tZjJsaGk5Wmhr?oc=5",
       "date": "2026-09-22T07:58:29Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Nad Rafałem Zaorskim zawisła groźba więzienia. Sprawdzamy, jak doszło do upadku „króla polskich spekulantów” Forbes."
+      "summary": "Nad Rafałem Zaorskim zawisła groźba więzienia. Sprawdzamy, jak doszło do upadku „króla polskich spekulantów” forbes.pl."
     },
     {
-      "title": "AI wprowadza się do domu. Smart home zaczyna naprawdę myśleć - Forbes",
+      "title": "AI wprowadza się do domu. Smart home zaczyna naprawdę myśleć - forbes.pl",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTl5ckZUbV9XM0h3LUZaU01wb3ZuNTlNMEUzdnJJcUQ0Wm5TbnVGYUp6RS1pc2pYZVVkVzhON0dMdHJ5U1V6X0VTNW9WcmtmS19TX3ZxNk80Sk8wZnlVRmdTUzNHdEQxei10c3ZmdVBTMVEtOEI0Y1k3VmlrQ1BFUFhGa0N6WmptN0VwMW9Lbjc3QzFyYXZIbnNGNks?oc=5",
       "date": "2026-09-22T07:44:39Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "AI wprowadza się do domu. Smart home zaczyna naprawdę myśleć Forbes."
+      "summary": "AI wprowadza się do domu. Smart home zaczyna naprawdę myśleć forbes.pl."
     },
     {
       "title": "WIG bije kolejne rekordy (zmiana w portfelu)",
@@ -2116,28 +2124,28 @@
       "summary": "Kurs dolara - 22.09.2026. We wtorek za jednego dolara (USD) trzeba zapłacić 3.7872 zł."
     },
     {
-      "title": "Byli menedżerami, dostali wypowiedzenie. „Najtrudniejsze jest jedno pytanie” - Forbes",
+      "title": "Byli menedżerami, dostali wypowiedzenie. „Najtrudniejsze jest jedno pytanie” - forbes.pl",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONmp1NmtPOVVMT0NEVjhac3NOVWR2SmdmcE1INTlMWnBMWWlQSlltSTFDSmtrdEVGS0sxMFdud0RoNWN5ZVdkMXRxdzNzMmNtaUhXN1JpT3Y1eG11WTFxYU9oaFRPRU9meXRpRkIxU0xOb1NtaEpGOWZtaURVSFhvel9Rdkd0US1FUUQxTTQ1cEhFbUhYcUlNSDAzZEYyX1dTcXE1NnBjRzY3SkZ5S19WN0dtcUE?oc=5",
       "date": "2026-09-22T05:00:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Byli menedżerami, dostali wypowiedzenie. „Najtrudniejsze jest jedno pytanie” Forbes."
+      "summary": "Byli menedżerami, dostali wypowiedzenie. „Najtrudniejsze jest jedno pytanie” forbes.pl."
     },
     {
-      "title": "Najcieńsze laptopy mają dziś zaskakująco twarde życie - Forbes",
+      "title": "Najcieńsze laptopy mają dziś zaskakująco twarde życie - forbes.pl",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnN6OG1OR2c1ZWMxdGhPV1F3VnllX2lJN0pmVG1GcWllLU1lM1FYUmt2NHhLODRWT0ctQTRGaDFOY3U1bi1pSjF6TmdJN3FMcVFrZDRBcm1Kbl9qTWs5RWRBb3lPUnZfOEsxLUtKMHhjZkc1RndNckFEVUZEMjRoNDY5SmF1QWdLQUtHWDZNN2pGUmF2QmctWlNNY1NnZnA4LVE?oc=5",
       "date": "2026-09-21T23:31:14Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Najcieńsze laptopy mają dziś zaskakująco twarde życie Forbes."
+      "summary": "Najcieńsze laptopy mają dziś zaskakująco twarde życie forbes.pl."
     },
     {
-      "title": "Szef kuchni i restaurator o fine diningu. \"Przestał być czymś odstraszającym\" - Forbes",
+      "title": "Szef kuchni i restaurator o fine diningu. \"Przestał być czymś odstraszającym\" - forbes.pl",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGpELVYtVGdTYzdSZklReW8yQlRuMVQ2TllkV2FLc2hLRlkxX0EzY3J3akhwSXdIUmt6UFU3ZEQ0MUk1aEJFdDRjcHRseXAwcXJoRUdJalluTzBDZVZ0b05EazJGQXNubzlQZGdFbHVKRXFQTkdKa21ScGpUWk1lQUptUlVaWWhnT2JfWkZiWF9KSmVBd3RXQzhYVjhIOHNBVHVFWHp4ZUI?oc=5",
       "date": "2026-09-21T23:11:32Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Szef kuchni i restaurator o fine diningu. \"Przestał być czymś odstraszającym\" Forbes."
+      "summary": "Szef kuchni i restaurator o fine diningu. \"Przestał być czymś odstraszającym\" forbes.pl."
     },
     {
       "title": "55 proc. polskich uczniów korzysta z AI co tydzień. Wyniki pokazują ciekawy paradoks",
@@ -2164,20 +2172,12 @@
       "summary": "LOKATY BUDOWLANE SA (13/2026) Zmiana harmonogramu publikacji raportów okresowych BiznesRadar."
     },
     {
-      "title": "MPAY SA (38/2026) Otrzymanie zawiadomień o znacznych pakietach akcji - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDc0cmJWMTRnNDI4VEktNzljeVlLQ1ZFZGRfazhIT21WUjFGbGpvd3UwdndMbWM3ZmdjNFF3WHRUOUhmSzEya3dGTUNYNUlIdnJtR2FYU3d4UTIwTlVfaEFHZG9ObjlEQzg0LTBuam5INTIxNjF3THZSOWpYN01TZ0U4YXNkYUtRUW9SdTFzNWh3Z0lLZjA4dnREV2toTkxpYWNyRA?oc=5",
-      "date": "2026-09-21T16:23:00Z",
+      "title": "VRG SA (23/2026) Zawiadomienie w sprawie znacznego pakietu akcji. - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVdfdHhfbTZ0cjV3eV9ITTFucnpuQ3BFa2t5b19uNEY2RXptZGRnNFBWb0pZc3RPbnlPRWtJTnRzNGhqZ3Z0TVZmbFMtUmpLSmp1MUJoTDVpbUV3RkJTOU1zZkUyVnBCRTRMZnRmdjdEZnNIQmxNQkpzQzhYVW1pRk9pbmZWZEIteVQzZ21aVnR4UlhNQy1vLUJNd2hLY1U?oc=5",
+      "date": "2026-09-21T18:05:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "MPAY SA (38/2026) Otrzymanie zawiadomień o znacznych pakietach akcji BiznesRadar."
-    },
-    {
-      "title": "Formacje analizy technicznej OW20J263625 - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03alhzRjNtUzVITnNVeENxWWQ3WkowTERVTlpOUE9ROHVfS3dhZ2cyRUVNX1E3R2otVjdra3dNRm83TGdjaHl0QjRLcVY3OEgxUEpnRDlxLTNzTVVIcDlrOE4xemFJWEtRYnA5MkRjWXFOLVUw?oc=5",
-      "date": "2026-09-21T15:42:26Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Formacje analizy technicznej OW20J263625 BiznesRadar."
+      "summary": "VRG SA (23/2026) Zawiadomienie w sprawie znacznego pakietu akcji. BiznesRadar."
     },
     {
       "title": "Nowych JDG mniej, wznowień więcej. Polacy zmieniają sposób prowadzenia biznesu",
@@ -2589,51 +2589,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25920.2,
+      25922.59,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27095.77,
+      27098.27,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27244.14,
+      27246.65,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27491.45,
+      27493.98,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28133.32,
+      28135.91,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28169.71,
+      28172.3,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28416.75,
+      28419.37,
       27354.94,
       27400.36,
       27412.11,
-      28822.04,
+      28824.69,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28075.57,
+      28078.15,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28257.01,
+      28259.61,
       27686.17,
       27404.78,
       27351.97,
@@ -2642,7 +2642,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27962.56,
+      27965.13,
       27930.04,
       28234.04,
       28218.36,
@@ -2651,58 +2651,58 @@
       28294.39,
       28203.83,
       28555.17,
-      28804.29,
+      28806.94,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28356.75,
+      28359.36,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28182.94,
+      28185.54,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28478.54,
+      28481.16,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29497.26,
+      29499.98,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29604.18,
+      29606.91,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      29180.64,
+      29183.33,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29322.81,
+      29325.51,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29348.82,
+      29351.52,
       28449.73,
       28313.03,
       28272.33,
-      29114.52,
+      29117.2,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      29089.88,
-      29524.11,
-      29529.47
+      29092.56,
+      29526.83,
+      29532.91
     ],
     "currency": "PLN"
   }
