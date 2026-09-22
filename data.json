@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T10:39:21Z",
+  "last_updated": "2026-09-22T10:40:29Z",
   "poland": [
     {
       "title": "Są nowe dane GUS o sprzedaży detalicznej. Dychotomia w portfelach Polaków",
@@ -39,7 +39,7 @@
       "date": "2026-09-22T10:30:00Z",
       "source": "Polsat News",
       "confirmed_by": 1,
-      "summary": "- Polacy w przygniatającej większości, także lekarze, z którymi cały czas rozmawiamy, chcą mieć system, w którym nikt nie będzie podejrzewał środowiska medycznego o nadużywanie władzy, nadużywanie pieniędzy - powiedział premier podczas posiedzenia rządu. - Ludzie oczekują szybkich zmian - powiedział Donald Tusk, apelując do prezydenta Karola Nawrockiego."
+      "summary": "- Polacy w przygniatającej większości, także lekarze (...) chcą mieć system, w którym nikt nie będzie podejrzewał środowiska medycznego o nadużywanie władzy, nadużywanie pieniędzy - powiedział premier podczas posiedzenia rządu. - Ludzie oczekują szybkich zmian - powiedział Donald Tusk i ogłosił skrócenie okresu przejściowego reformy. Premier zwrócił się także do Karola Nawrockiego."
     },
     {
       "title": "Tusk dał prztyczka Nawrockiemu. Wspomniał o \"200 tys. dolarów za spotkanie\"",
@@ -202,12 +202,12 @@
       "summary": "10-letnia dziewczynka została ranna w ataku, do jakiego doszło w jednej ze szkół podstawowych w powiecie kolneńskim na Podlasiu. Sprawcą był 11-latek, uczeń tej samej szkoły, który do napaści użył toporka. Dziewczynka została przetransportowana do szpitala - przekazała policja."
     },
     {
-      "title": "Media: Ważny generał odchodzi ze stanowiska. \"Dwa stracone lata\"",
+      "title": "Ważny generał odchodzi ze stanowiska, MON potwierdza. \"Dwa stracone lata\"",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-09-22/media-dowodca-wojsk-dronowych-odchodzi-dwa-stracone-lata/",
       "date": "2026-09-22T08:54:00Z",
       "source": "Polsat News",
       "confirmed_by": 1,
-      "summary": "Gen. Mirosław Bodnar ma z końcem września przestać kierować Inspektoratem Wojsk Bezzałogowych Systemów Uzbrojenia - ustalił Onet. Według rozmówców portalu kierownictwo MON nie jest zadowolone z tempa wdrażania dronów w polskiej armii."
+      "summary": "Gen. Mirosław Bodnar ma z końcem września przestać kierować Inspektoratem Wojsk Bezzałogowych Systemów Uzbrojenia - ustalił Onet. Wojskowy ma otrzymać nowe stanowisko w Brukseli."
     },
     {
       "title": "Zaginięcie Emilii Koprowskiej. Policjanci znaleźli jej plecak, wciąż mają problem z telefonem",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Kolejna kampania phishingowa. Tym razem głównym bohaterem jest ChatGPT, a celem kradzież poświadczeń",
+      "url": "https://sekurak.pl/kolejna-kampania-phishingowa-tym-razem-glownym-bohaterem-jest-chatgpt-a-celem-kradziez-poswiadczen/",
+      "date": "2026-09-22T10:38:59Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Podszywanie się pod popularne oprogramowanie w atakach phishingowych nie jest nowością. Cyberprzestępcy często korzystają z aktualnych trendów rynkowych oraz doniesień medialnych, aby jak najskuteczniej działać. Biorąc pod uwagę ogromne zainteresowanie narzędziami sztucznej inteligencji, nie jest niczym zaskakującym, że ChatGPT stał się głównym bohaterem ataków socjotechnicznych."
+    },
+    {
       "title": "Longtime SUSE staff asked if they'd opt for 'voluntary separation'",
       "url": "https://www.theregister.com/software/2026/09/22/longtime-suse-staff-asked-if-theyd-opt-for-voluntary-separation/5297457",
       "date": "2026-09-22T10:00:00Z",
@@ -1788,6 +1796,14 @@
   ],
   "finance": [
     {
+      "title": "Płatne pakiety za spotkanie z prezydentem? KO składa zawiadomienie do prokuratury",
+      "url": "https://www.bankier.pl/wiadomosc/Platne-pakiety-za-spotkanie-z-prezydentem-KO-sklada-zawiadomienie-do-prokuratury-9200612.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-09-22T10:39:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Politycy KO Patryk Jaskulski oraz Michał Szczerba zapowiedzieli złożenie zawiadomienia do prokuratury ws. płatnych pakietów oferowanych na Polsko-Amerykański Szczyt Gospodarczy z udziałem prezydenta Karola Nawrockiego. Politycy chcą, by prokuratura wyjaśniła, na czym polegał opisany przez media mechanizm."
+    },
+    {
       "title": "Irańske ultra-ultimatum dla USA. Cieśnina Ormuz otwarta w 7 dni, ale jest warunek",
       "url": "https://www.bankier.pl/wiadomosc/Iranske-ultra-ultimatum-dla-USA-Ciesnina-Ormuz-otwarta-w-7-dni-ale-jest-warunek-9200610.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-09-22T10:34:00Z",
@@ -1842,14 +1858,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "W ramach śledztwa w sprawie Zondacrypto zatrzymano jedną osobę; zostanie doprowadzona do prokuratury w Katowicach celem ogłoszenia zarzutów – potwierdziła we wtorek PAP rzeczniczka prasowa Prokuratora Generalnego prok. Anna Adamiak."
-    },
-    {
-      "title": "Wjechali chińskim autem do kopalni. Samochód nadal łączył się z Chinami",
-      "url": "https://www.bankier.pl/wiadomosc/Wjechali-chinskim-autem-do-kopalni-Samochod-nadal-laczyl-sie-z-Chinami-9200527.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-09-22T10:00:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Badacze wjechali elektrycznym SUV-em NIO ES8 głęboko do norweskiej podziemnej kopalni, aby odciąć samochód od zewnętrznych połączeń. Auto nadal próbowało łączyć się z serwerami, z których większość znajdowała się w Chinach."
     },
     {
       "title": "Portal Giełdowy - Twój przewodnik po świecie inwestycji - stockwatch.pl",
@@ -2068,14 +2076,6 @@
       "summary": "Aż 86 proc. rodziców, którzy podróżowali koleją z dzieckiem, dobrze ocenia takie doświadczenie. Gdy jednak nastolatek ma wsiąść do pociągu sam, odsetek pozytywnie nastawionych opiekunów spada do 47 proc."
     },
     {
-      "title": "DEKPOL SA Raport okresowy półroczny za PSr - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYVVyRHBpbDFLRkRkQzNyaFBKV0trazJiaHpUbnhtd29tUHBReURkOEJnYjFyQ1ZtLWV1LVQ4cEk5d2FFSFhYWUJMRWQ2RXZRZE9zUkNXdktKQ1J4Vnh2YTQ0NGUyTnlfY2plZEwtSkUzVXFSQ1RFdHE3N0dVRmx0UWdDMG8?oc=5",
-      "date": "2026-09-21T21:14:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "DEKPOL SA Raport okresowy półroczny za PSr BiznesRadar."
-    },
-    {
       "title": "LOKATY BUDOWLANE SA (13/2026) Zmiana harmonogramu publikacji raportów okresowych - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjdWZ3NLZGJWXzAyZTg4NV9kc2hqNFhYN0Z1bjlwOEdNU05PVDkyVC1aaUxRdmQ2aEtCRVhQSVlnRFVMRzFYUXdzTW5majg5UTNxNlgwcXZ5dm5ocjdfUnF6M1Jfbl8tOUs4YXFFX0FraF9SMGdwSmFIck96eFpmd3VYTFNsa3BWQ1BESlhRaGE3VDBMZ2FpRU1DXzRzSHFXV3hIclU3d1plZ041b3o1ellycVA?oc=5",
       "date": "2026-09-21T21:07:00Z",
@@ -2090,14 +2090,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "W poniedziałek akcje toruńskiej spółki Neuca spadły o ponad 13 proc. Tego dnia Urząd Ochrony Konkurencji i Konsumenta poinformował o nałożeniu na spółkę niemal pół miliarda złotych kary. Firma już zapowiedziała, że odwoła się od decyzji UOKiK do Sądu Ochrony Konkurencji i Konsumentów."
-    },
-    {
-      "title": "CFI HOLDING SA (8/2026) Zmiana terminu publikacji raportu okresowego. - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWVRcWFoNGJObUw3OEF5YVZGaWtDVUROUXZ5Y3NnX1ZlSTAtLWJmSkhzbmtCdWFReW9zemR3THhnazlzRFNpdndhX25NejREa3pERWdfWXVqY1lwOU9lUnpveFQ1LXBEVGw0Z2FHcW5EZ3JQS2MtMHdHSUd0OHlneE1vX29FcjJ3ZDk5WEtPRUJaMHRqcEdlUTRnNFZYNVdFUk14RA?oc=5",
-      "date": "2026-09-21T18:28:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "CFI HOLDING SA (8/2026) Zmiana terminu publikacji raportu okresowego. BiznesRadar."
     },
     {
       "title": "Efekt wojny. Obliczono, jaki cios otrzymała gospodarka Iranu",
@@ -2116,20 +2108,36 @@
       "summary": "MPAY SA (38/2026) Otrzymanie zawiadomień o znacznych pakietach akcji BiznesRadar."
     },
     {
-      "title": "Sygnały analizy technicznej OW20V264125 - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rSTYyM19IX2NxbVdTaDdTbWZDRTBPd2d0VlFOUGNBNlgtT1RHMm05RGU2X01kNEpISENvM2Qwc3AxQUtDcnktNFQwU2FKYmM4WXk0WDNHU0dpSy04QmZlWm1ycllRU21fejFqVURfbGZiZ3M?oc=5",
-      "date": "2026-09-21T16:10:29Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Sygnały analizy technicznej OW20V264125 BiznesRadar."
-    },
-    {
       "title": "Formacje analizy technicznej OW20J263625 - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03alhzRjNtUzVITnNVeENxWWQ3WkowTERVTlpOUE9ROHVfS3dhZ2cyRUVNX1E3R2otVjdra3dNRm83TGdjaHl0QjRLcVY3OEgxUEpnRDlxLTNzTVVIcDlrOE4xemFJWEtRYnA5MkRjWXFOLVUw?oc=5",
       "date": "2026-09-21T15:42:26Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Formacje analizy technicznej OW20J263625 BiznesRadar."
+    },
+    {
+      "title": "Sygnały analizy technicznej OW20V263425 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93MHNvQWtrb1hUVlpCMzVEanNYOEE0bmtkaXowSmQ3V3o4WFg2RlNfRjljb0hUNDJMTVRpNTh6QXdaQ2hPc1psaDZXYVlQWjQxSDlseG91d3ltaDF4Uzdib2tRYVlrSjNtRHZRbk9WbmE5S0k?oc=5",
+      "date": "2026-09-21T15:33:14Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Sygnały analizy technicznej OW20V263425 BiznesRadar."
+    },
+    {
+      "title": "BUMECH DEFENSE PARTNERS SA Raport okresowy półroczny za PSr - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUpIOE5kTkFjYkpwYzVGN1NrOEN3OWhnRWMwRE12Y0gwUndBcnFXRUV6NmVYMEhrSVEydlZ1Vnp3ZWdSTU5jOVkyWlJJVGE2WHh4ZmVVM2NoZ1pjR3luVmpSSEhTOXptbVB3bDVTNVlXZU01SE1LZ1VJT3libWZhUXBRejI5QmFWMzF4NGJPZ2dVVWRmZDdWcTFwaw?oc=5",
+      "date": "2026-09-21T15:32:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "BUMECH DEFENSE PARTNERS SA Raport okresowy półroczny za PSr BiznesRadar."
+    },
+    {
+      "title": "Analiza techniczna OW20X263550 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11WWoyLW9DbjhadmVGOE5SXzkzNEJKSkIzOVIwbEYwRkt2ODlTeW5ZM19GeWNzQkktdVpBS3A1VGlUbnNDaHYzakNyQTA2RG1pTjFDZ1FSNlJPR0puVzJtU1J1SVJneWs5RjlaUDRSM195Zw?oc=5",
+      "date": "2026-09-21T15:01:15Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Analiza techniczna OW20X263550 BiznesRadar."
     },
     {
       "title": "Nowych JDG mniej, wznowień więcej. Polacy zmieniają sposób prowadzenia biznesu",
@@ -2554,51 +2562,51 @@
       24120.4,
       24737.25,
       24758.98,
-      25826.47,
+      25831.58,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      26997.79,
+      27003.14,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27145.62,
+      27151.0,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27392.03,
+      27397.46,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28031.59,
+      28037.14,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28067.84,
+      28073.4,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28313.99,
+      28319.59,
       27354.94,
       27400.36,
       27412.11,
-      28717.82,
+      28723.5,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      27974.04,
+      27979.58,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28154.83,
+      28160.4,
       27686.17,
       27404.78,
       27351.97,
@@ -2607,7 +2615,7 @@
       27661.43,
       27749.69,
       27709.26,
-      27861.44,
+      27866.96,
       27930.04,
       28234.04,
       28218.36,
@@ -2616,57 +2624,57 @@
       28294.39,
       28203.83,
       28555.17,
-      28700.12,
+      28705.8,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28254.2,
+      28259.8,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28081.03,
+      28086.59,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28375.55,
+      28381.17,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29390.6,
+      29396.41,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29497.13,
+      29502.97,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      29075.12,
+      29080.87,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29216.77,
+      29222.56,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29242.69,
+      29248.48,
       28449.73,
       28313.03,
       28272.33,
-      29009.23,
+      29014.98,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      28984.68,
-      29417.34
+      28990.42,
+      29423.17
     ],
     "currency": "PLN"
   }
