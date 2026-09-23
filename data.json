@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-23T09:38:05Z",
+  "last_updated": "2026-09-23T09:38:55Z",
   "poland": [
+    {
+      "title": "Pokaz mody w ministerstwie. Resort wydał oświadczenie",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-09-23/ministerstwo-rolnictwa-wydalo-oswiadczenie-chodzi-o-pokaz-mody/",
+      "date": "2026-09-23T09:35:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Wszelkie sugestie, jakoby ministerstwo było organizatorem wydarzenia są całkowicie niezgodne z prawdą i wprowadzają opinię publiczną w błąd - przekazało ministerstwo rolnictwa w oświadczeniu. W ten sposób resort odniósł się do pokazu mody, który odbył się w budynku resortu."
+    },
     {
       "title": "Nasz Prąd zmienia standardy sprzedaży OZE",
       "url": "https://www.rp.pl/ekonomia/art45179241-nasz-prad-zmienia-standardy-sprzedazy-oze",
@@ -16,14 +24,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Staramy się budować historię kredytową dopasowaną do danego rynku. Chcemy, aby nasze spółki zagraniczne miały własną historię kredytową i mogły aplikować o finansowanie tam, gdzie działają – mówi Piotr Krzyżewski, wiceprezes zarządu KGHM Polska Miedź S.A. do spraw finansowych."
-    },
-    {
-      "title": "3000 zł rocznie ląduje w koszu. Ten gadżet kosztuje tylko 20 zł i może pomóc oszczędzić na jedzeniu",
-      "url": "https://businessinsider.com.pl/technologie/3000-zl-rocznie-laduje-w-koszu-ten-gadzet-kosztuje-tylko-20-zl-i-moze-pomoc/8743lf8",
-      "date": "2026-09-23T09:10:14Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Kupujemy jedzenie, płacimy za nie, wkładamy do lodówki, a kilka dni później część ląduje w koszu. Według danych Ministerstwa Rolnictwa przeciętna polska rodzina wyrzuca w ten sposób żywność o wartości około 3000 zł rocznie. Jest jednak prosty gadżet, który może pomóc ograniczyć takie straty."
     },
     {
       "title": "Komisja Etyki Poselskiej zajmie się sprawą posłów PiS. Mogą zostać ukarani",
@@ -130,14 +130,6 @@
       "summary": "Votum chce wypłacić 2,5 zł zaliczki na poczet dywidendy za '26 biznes.pap.pl."
     },
     {
-      "title": "Ten rejs zachwyca — na pokładzie luksusy za oknami wieloryby i lodowce. Arktyka dostępna jak nigdy",
-      "url": "https://businessinsider.com.pl/lifestyle/podroze/ten-rejs-zachwyca-na-pokladzie-luksusy-za-oknami-wieloryby-i-lodowce-arktyka-dostepna/qcws9km",
-      "date": "2026-09-23T08:29:13Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Arktyka od lat uchodzi za kierunek dla nielicznych, ale dziś jej najbardziej spektakularne krajobrazy można podziwiać w wyjątkowo komfortowych warunkach. Rejs wzdłuż zachodniego wybrzeża Grenlandii to podróż przez krainę monumentalnych lodowców, głębokich fiordów i gór lodowych dryfujących po krystalicznie czystych wodach. Na trasie nie brakuje także spotkań z wielorybami oraz wizyt w barwnych osadach Inuitów."
-    },
-    {
       "title": "Naraziła się rzeczniczce praw dziecka. Odebrano jej dzieci",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-09-23/narazila-sie-rzeczniczce-praw-dziecka-odebrano-jej-dzieci/",
       "date": "2026-09-23T08:27:00Z",
@@ -203,7 +195,7 @@
     },
     {
       "title": "Bezrobocie w górę. Coraz bliżej miliona osób bez pracy",
-      "url": "https://businessinsider.com.pl/gospodarka/gospodarka-rosnie-a-bezrobocie-w-miejscu-najnowszy-raport-gus/1wbewc8",
+      "url": "https://businessinsider.com.pl/gospodarka/bezrobocie-w-gore-coraz-blizej-miliona-bez-pracy/1wbewc8",
       "date": "2026-09-23T07:34:55Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
@@ -296,6 +288,14 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "- Nie dziwię się, że ci, którzy organizują taki pokaz wybrali to miejsce - powiedział wiceszef kancelarii premiera Jakub Stefaniak w środowym Graffiti. Polityk odniósł się w ten sposób do kwestii niedawnego pokazu mody w resorcie rolnictwa. Wydarzenie spotkało się z krytyką ze strony części posłów opozycji."
+    },
+    {
+      "title": "Wieś traci dostęp do lekarzy. Wielcy gracze wchłaniają małych",
+      "url": "https://businessinsider.com.pl/gospodarka/lekarze-znikaja-ze-wsi-nowy-problem-w-ochronie-zdrowia/hgxr2jz",
+      "date": "2026-09-23T06:17:19Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Coraz więcej placówek podstawowej opieki zdrowotnej trafia w ręce dużych sieci medycznych. Lekarze ostrzegają przed monopolizacją rynku zdrowia, która może pogorszyć dostęp do opieki medycznej dla tysięcy Polaków. Problem już dotyka mieszkańców wsi i małych miast."
     },
     {
       "title": "OT Logistics widzi potencjał w integracji polskich terminali portowych z siecią logistyczną Europy Środkowej - biznes.pap.pl",
@@ -998,12 +998,12 @@
       "summary": "The EU moves closer to free trade deal with Philippines amid global tensions AP News."
     },
     {
-      "title": "Flights disrupted across the US Northeast due to technical problems at a key air traffic center - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFJZMDZvZHd6UVJfTXh3c3V6U1Y2cm1mRXItWlJEMU9NbVZaZFhyTHNxd21HdFRsN1BtSlgtRDNOMUNnc0ZjSUhQRVVCR0taME5qV3JoTnNxT0lpUUdlZzVCNVhEVG1ET0k4bThmSlNBdWRQbmFMOTVxYnpfMmJDVi05Vl9RRVdBMVhaMlNNWU82STk3M3JhWXU3UlgxYjVsb2c?oc=5",
-      "date": "2026-09-22T04:47:00Z",
+      "title": "Iran’s Revolutionary Guard warns US over escalation, and other Mideast developments - AP News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
+      "date": "2026-09-22T04:28:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Flights disrupted across the US Northeast due to technical problems at a key air traffic center AP News."
+      "summary": "Iran’s Revolutionary Guard warns US over escalation, and other Mideast developments AP News."
     }
   ],
   "technology": [
@@ -2004,6 +2004,14 @@
       "summary": "JWW INVEST SA Raport okresowy półroczny za PSr BiznesRadar."
     },
     {
+      "title": "Już dzisiaj wieczorem premiera listy „30 przed 30” - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnhFVnROQ0M0VHNWVVY0TTlXcVU5SkFzWFo4a3MzbVYtYUxxYTNCaEpaRkNha1l3a2lRSGVhbjl5dWdNdmlnU29fSXVDS1k2QjFwUjl0eGprYWZFemo4SVpxQnJSd0VSWS1FVWxJa0g1ZHYwUmlmVllPOXVWOHBiSUlqU204dDBGOXZXTzZPTQ?oc=5",
+      "date": "2026-09-23T05:30:00Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Już dzisiaj wieczorem premiera listy „30 przed 30” Forbes."
+    },
+    {
       "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 23.09.2026",
       "url": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-23-09-2026-7332412454521056a.html",
       "date": "2026-09-23T05:02:42Z",
@@ -2012,20 +2020,20 @@
       "summary": "Kurs euro - 23.09.2026. W środę za jedno euro (EUR) trzeba zapłacić 4.3496 zł."
     },
     {
-      "title": "Kobiety częściej tracą na rozwodach, bo wierzą, że miłość i przysięga wystarczą. „Brak edukacji finansowej nie jest tu usprawiedliwieniem” - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmxVVEw4emQ1dnJFQllHOVVyT0JRbUpRZ1pNWjZueF9XRGVwOHJNRmtBV3IzMnVhM2pwUFowNGdyWnB4VDd3dHhVSmlGZWpCNmpJZjlZYS1qVXFKTWx3MkFrc2JFTlJjZGNUb19hNGxnRGM2NDVkLUwwWjg5N3pTWnN3VlQtVkhySGhDUnozLWs3MjlTZE00R3VfYUtjZjM1U1BrWWRrTk9IWGxPbXpSbC1oeE5tU2o0WHozMDY0bnlzQQ?oc=5",
-      "date": "2026-09-23T05:00:00Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Kobiety częściej tracą na rozwodach, bo wierzą, że miłość i przysięga wystarczą. „Brak edukacji finansowej nie jest tu usprawiedliwieniem” Forbes."
-    },
-    {
       "title": "Środa z Siłą Relatywną (SzSR): 23 września 2026 r.",
       "url": "https://strefainwestorow.pl/blog/sroda-z-sila-relatywna/sroda-z-sila-relatywna-szsr-23-wrzesnia-2026-r",
       "date": "2026-09-23T05:00:00Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Środa z Siłą Relatywną (SzSR): 23 września 2026 r. Piotr Kwestarz śr., 23.09.2026 Treść Zapraszam do lektury kolejnego wpisu z cyklu Środy z Siłą Relatywną (SzSR). Środa z Siłą Relatywną (SzSR): 23 września 2026 r."
+    },
+    {
+      "title": "Kobiety częściej tracą na rozwodach, bo wierzą, że miłość i przysięga wystarczą. „Brak edukacji finansowej nie jest tu usprawiedliwieniem” - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmxVVEw4emQ1dnJFQllHOVVyT0JRbUpRZ1pNWjZueF9XRGVwOHJNRmtBV3IzMnVhM2pwUFowNGdyWnB4VDd3dHhVSmlGZWpCNmpJZjlZYS1qVXFKTWx3MkFrc2JFTlJjZGNUb19hNGxnRGM2NDVkLUwwWjg5N3pTWnN3VlQtVkhySGhDUnozLWs3MjlTZE00R3VfYUtjZjM1U1BrWWRrTk9IWGxPbXpSbC1oeE5tU2o0WHozMDY0bnlzQQ?oc=5",
+      "date": "2026-09-23T05:00:00Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Kobiety częściej tracą na rozwodach, bo wierzą, że miłość i przysięga wystarczą. „Brak edukacji finansowej nie jest tu usprawiedliwieniem” Forbes."
     },
     {
       "title": "Te produkty podrożały najbardziej. Jest nowe badanie cen - Forsal.pl",
@@ -2092,14 +2100,6 @@
       "summary": "SCANWAY SA (41/2026) Zmiana terminu publikacji raportu półrocznego BiznesRadar."
     },
     {
-      "title": "Forbes 10/2026 - Forbes - wiadomości gospodarcze i finansowe - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9la0hKSkVNVjRPczFtN0xVVU9mZ2tkcGFlTW8yWmY0bVZVR2VVbjM4VjI1UFBHVldNVEc2eGF1UFhFWEpxdXhj?oc=5",
-      "date": "2026-09-22T17:09:31Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Forbes 10/2026 - Forbes - wiadomości gospodarcze i finansowe Forbes."
-    },
-    {
       "title": "- Forbes",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XTk53STM4OElabEc2Mmt0RXV1V1NHV2JHdnlYQTdwU05uX0c0SnNHR3psU0RxTkJfQXBxb3lMdW9TZzNybGRkQWhlZ0xXLUdTaUQ2cXhyRDBiZ2JST3psSjFSazI?oc=5",
       "date": "2026-09-22T16:28:21Z",
@@ -2114,6 +2114,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "NESTMEDIC SA (27/2026) Zawarcie umowy pożyczki BiznesRadar."
+    },
+    {
+      "title": "Revolv Space - Forbes - wiadomości gospodarcze i finansowe - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90eTdsTWVaLVEyV2J2WVRuRUhLMnRvTHJ0a2daUzBCUjQtdFBsWVdreXp1VVVSWldITzlDbUlNU2dwZjZwam5lX0ln?oc=5",
+      "date": "2026-09-22T15:58:05Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Revolv Space - Forbes - wiadomości gospodarcze i finansowe Forbes."
     },
     {
       "title": "Przemysł przejmuje prowadzenie w wyścigu po AI. Finanse i ICT wyraźnie hamują",
@@ -2186,14 +2194,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Nad Rafałem Zaorskim zawisła groźba więzienia. Sprawdzamy, jak doszło do upadku „króla polskich spekulantów” Forbes."
-    },
-    {
-      "title": "AI wprowadza się do domu. Smart home zaczyna naprawdę myśleć - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTl5ckZUbV9XM0h3LUZaU01wb3ZuNTlNMEUzdnJJcUQ0Wm5TbnVGYUp6RS1pc2pYZVVkVzhON0dMdHJ5U1V6X0VTNW9WcmtmS19TX3ZxNk80Sk8wZnlVRmdTUzNHdEQxei10c3ZmdVBTMVEtOEI0Y1k3VmlrQ1BFUFhGa0N6WmptN0VwMW9Lbjc3QzFyYXZIbnNGNks?oc=5",
-      "date": "2026-09-22T07:44:39Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "AI wprowadza się do domu. Smart home zaczyna naprawdę myśleć Forbes."
     },
     {
       "title": "WIG bije kolejne rekordy (zmiana w portfelu)",
@@ -2572,51 +2572,51 @@
       24120.4,
       24737.25,
       24758.98,
-      26058.24,
+      26054.84,
       24834.54,
       25018.82,
       25176.36,
       25316.92,
-      27240.08,
+      27236.51,
       25511.86,
       25477.62,
       25870.32,
       25807.76,
-      27389.23,
+      27385.65,
       25961.23,
       25874.15,
       26002.05,
       26147.44,
-      27637.86,
+      27634.24,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      28283.15,
+      28279.45,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      28319.73,
+      28316.03,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      28568.09,
+      28564.35,
       27354.94,
       27400.36,
       27412.11,
-      28975.54,
+      28971.75,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28225.08,
+      28221.39,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      28407.5,
+      28403.78,
       27686.17,
       27404.78,
       27351.97,
@@ -2625,7 +2625,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28111.48,
+      28107.8,
       27930.04,
       28234.04,
       28218.36,
@@ -2634,56 +2634,56 @@
       28294.39,
       28203.83,
       28555.17,
-      28957.69,
+      28953.9,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      28507.76,
+      28504.04,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28333.03,
+      28329.33,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      28630.2,
+      28626.46,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      29654.35,
+      29650.48,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      29761.84,
+      29757.95,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      29336.05,
+      29332.21,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      29478.97,
+      29475.12,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      29505.12,
+      29501.26,
       28449.73,
       28313.03,
       28272.33,
-      29269.57,
+      29265.74,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      29244.8,
+      29240.98,
       29405.7
     ],
     "currency": "PLN"
