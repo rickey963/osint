@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-23T11:59:40Z",
+  "last_updated": "2026-09-23T12:02:33Z",
   "poland": [
+    {
+      "title": "Janusz Reiter o sukcesie AfD i przyszłości Friedricha Merza",
+      "url": "https://www.rp.pl/swiat/art45178861-janusz-reiter-o-sukcesie-afd-i-przyszlosci-friedricha-merza",
+      "date": "2026-09-23T12:00:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Po wyborach w Meklemburgii-Pomorzu Przednim, gdzie CDU nie weszła nawet do parlamentu, Janusz Reiter ostrzega: jeśli AfD nie zostanie zatrzymana na wschodzie, fala rozleje się na zachód Niemiec. A stawką jest Europa."
+    },
     {
       "title": "Rosyjski śmigłowiec nad terytorium Polski. Nadleciał z obwodu królewieckiego",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33040518,rosyjski-smiglowiec-nad-terytorium-polski-nadlecial-z-obwodu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -288,14 +296,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 2,
       "summary": "Umieszczenie betonowych bloczków na torach mogło doprowadzić do katastrofy. Maszyniści nie odnieśli obrażeń. Uszkodzeniu uległy jednak przednie zgarniacze w obu lokomotywach."
-    },
-    {
-      "title": "Ten rejs zachwyca — na pokładzie luksusy za oknami wieloryby i lodowce. Arktyka dostępna jak nigdy",
-      "url": "https://businessinsider.com.pl/lifestyle/podroze/ten-rejs-zachwyca-na-pokladzie-luksusy-za-oknami-wieloryby-i-lodowce-arktyka-dostepna/qcws9km",
-      "date": "2026-09-23T08:29:13Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Arktyka od lat uchodzi za kierunek dla nielicznych, ale dziś jej najbardziej spektakularne krajobrazy można podziwiać w wyjątkowo komfortowych warunkach. Rejs wzdłuż zachodniego wybrzeża Grenlandii to podróż przez krainę monumentalnych lodowców, głębokich fiordów i gór lodowych dryfujących po krystalicznie czystych wodach. Na trasie nie brakuje także spotkań z wielorybami oraz wizyt w barwnych osadach Inuitów."
     },
     {
       "title": "Inwestycje wieloletnie w POLiOC. Samorządy chcą gwarancji finansowania - | Serwis Samorządowy PAP",
@@ -1056,6 +1056,14 @@
       "summary": "Myślisz o przesiadce na Windowsa 11, ale twój komputer nie spełnia wymagań? Nie musisz kupować nowego sprzętu. Ta wersja Windowsa 11 będzie śmigać nawet na ziemniaku."
     },
     {
+      "title": "Small undersea volcanoes may unleash outsized tsunamis",
+      "url": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
+      "date": "2026-09-23T11:15:30Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Post-eruption imaging of the Hunga caldera gives new details of its collapse."
+    },
+    {
       "title": "A Facebook co-founder proposes creating an \"Office of AI Supervision\" to embed teams inside frontier AI labs, with a three-year term to avoid regulatory capture (Chris Hughes/Financial Times)",
       "url": "https://www.techmeme.com/260923/p16#a260923p16",
       "date": "2026-09-23T11:10:18Z",
@@ -1102,6 +1110,14 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Samsung nie próżnuje w temacie aktualizacji swoich smartfonów. One UI 9 trafi na cały szereg smartfonów koreańskiego producenta - i to już niebawem!"
+    },
+    {
+      "title": "A new report from Europe raises serious alarms about orbital collisions",
+      "url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
+      "date": "2026-09-23T11:00:17Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "\"I think we are going to lose the ability to use certain orbits.\"."
     },
     {
       "title": "Gallup survey of 37 countries: in 34, positive AI sentiment outweighed the negative; 90%+ of people in China and 66%+ in Nigeria say AI will improve daily life (Damien Cave/New York Times)",
@@ -1390,22 +1406,6 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs."
-    },
-    {
-      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
-      "url": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
-      "date": "2026-09-22T19:08:58Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra."
-    },
-    {
-      "title": "Review: Resident Evil might just be the best gaming adaptation yet",
-      "url": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
-      "date": "2026-09-22T17:30:07Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore."
     }
   ],
   "cybersecurity": [
@@ -1812,6 +1812,30 @@
   ],
   "finance": [
     {
+      "title": "Jeszcze większa afera w Orlenie i 4,6 mld zł kar w grze. Są nowe szczegóły",
+      "url": "https://www.bankier.pl/wiadomosc/Jeszcze-wieksza-afera-w-Orlenie-i-4-6-mld-zl-kar-w-grze-Sa-nowe-szczegoly-9201400.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-09-23T12:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Nowe szczegóły w sprawie 25-letniego kontraktu Orlenu z PCC Exol potwierdzają wcześniejsze doniesienia ministra Wojciecha Balczuna o groźbie 1,2 mld dolarów kar umownych. Według ustaleń Bartka Godusławskiego z Business Insidera Polska (BIP), poprzedni zarząd Orlenu podpisał umowę ze świadomością braku możliwości jej realizacji. Jednym z punktów zawiadomienia nowych władz Orlenu do prokuratury stała się tajemnicza delegacja do Malezji, po której wycofano się z planów przejęcia aktywów na rzecz niekorzystnej umowy handlowej."
+    },
+    {
+      "title": "Marszałek Sejmu o sprawie PFN: myślę, że to początek zatrzymań osób również z Kancelarii Prezydenta",
+      "url": "https://www.bankier.pl/wiadomosc/Marszalek-Sejmu-o-sprawie-PFN-mysle-ze-to-poczatek-zatrzyman-osob-rowniez-z-Kancelarii-Prezydenta-9201399.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-09-23T12:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Myślę, że to jest początek zatrzymań również w Kancelarii Prezydenta RP - powiedział w środę marszałek Sejmu Włodzimierz Czarzasty, komentując zatrzymanie przez CBA dwóch osób w sprawie dotyczącej Polskiej Fundacji Narodowej."
+    },
+    {
+      "title": "Moment prawdy na kursie Arlenu. Co podpowiada analiza techniczna?",
+      "url": "https://www.bankier.pl/wiadomosc/Moment-prawdy-na-kursie-Arlenu-Co-podpowiada-analiza-techniczna-9201358.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-09-23T12:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "W czwartek, 24 września, po sesji Arlen opublikuje wyniki za I półrocze. To spółka, która zawiodła nie tylko mnie, a jej akcje jako jedyne z mojego portfela przyniosły mi straty. Czy jest szanse je odrobić?"
+    },
+    {
       "title": "Polska chce produkować, a nie tylko składać. Rząd ogłosił Polski Kod Mobilności",
       "url": "https://www.bankier.pl/wiadomosc/Polska-chce-produkowac-a-nie-tylko-skladac-Rzad-oglosil-Polski-Kod-Mobilnosci-9201397.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-09-23T11:53:00Z",
@@ -1868,14 +1892,6 @@
       "summary": "Superszybki pociąg dla Intercity. Pędzi nawet 360 km/h. Widzieliśmy jedną z propozycji Forsal.pl."
     },
     {
-      "title": "Ukraina chce kolejnych miliardów, UE oczekuje reform",
-      "url": "https://www.bankier.pl/wiadomosc/Ukraina-chce-kolejnych-miliardow-UE-oczekuje-reform-9201370.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-09-23T11:25:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Przedstawiciele Unii Europejskiej poinformowali władze Ukrainy, że przed uruchomieniem kolejnych środków finansowych oczekują postępów w pracach nad przepisami mającymi ograniczyć szarą strefę, zwiększyć wpływy podatkowe i dostosować ukraińskie prawo do unijnego – podała agencja Bloomberg w nocy z wtorku na środę."
-    },
-    {
       "title": "Zwolnienia białych kołnierzyków w Polsce. Co czeka menedżerów po utracie pracy - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaFM4dy1qUGI2NDd6amRYa003cmhqMWNkQ2FEbXhRdEVUaUZlX0p3NmlqU2NXd0o1YjdZeFk5aHB0RUNCeWowN0hPbjdqMUhReWRZckRaYWczY1llTnBjTFhNcUFFWnZ5dWRwSzdPcWF6OGlWcHNSajRPU2hqRElVajVfLTRjb21nWUVrMTdwaGFqODg5R0E0aURXRHYyVHU4cllBekpHbDYyT19LMkNtLTk2QjFRNHp4?oc=5",
       "date": "2026-09-23T11:24:58Z",
@@ -1906,22 +1922,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Raport Anthropic bije na alarm w sprawie AI. \"Może zabić wszystkich\" Forbes."
-    },
-    {
-      "title": "Amazon i Google mają problem? Chiński gigant wchodzi na europejski rynek",
-      "url": "https://www.bankier.pl/wiadomosc/Amazon-i-Google-maja-problem-Chinski-gigant-wchodzi-na-europejski-rynek-9201309.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-09-23T11:00:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Chiński gigant technologiczny Alibaba Group Holding Ltd. znacząco przyspiesza rozbudowę swojej infrastruktury chmurowej w Europie oraz na Bliskim Wschodzie. Dążąc do osiągnięcia globalnego potencjału na poziomie 20 gigawatów, firma wchodzi w etap intensywnego rozwoju w momencie rosnącej rywalizacji między Pekinem a Waszyngtonem o dominację na rynku sztucznej inteligencji i zaawansowanych układów - podaje \"Bloomberg\"."
-    },
-    {
-      "title": "Pociągi uszkodzone po najechaniu na betonowe bloki. Jest wstępne ustalenie prokuratury",
-      "url": "https://www.bankier.pl/wiadomosc/Pociagi-uszkodzone-po-najechaniu-na-betonowe-bloki-Jest-wstepne-ustalenie-prokuratury-9201335.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-09-23T10:49:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Premier Donald Tusk powiedział w środę, że pierwsze raporty dotyczące incydentu na torach kolejowych w Jedlance nie są szczególnie alarmujące. Zapewnił, że sprawa jest badana podobnie, jak wszelkie tego typu zdarzenia, tym bardziej, że - jak zaznaczył - mogło dojść do dramatu."
     },
     {
       "title": "5-6 października 2026 odbędzie się Festiwal Finansów Osobistych Invest Cuffs - stockwatch.pl",
@@ -2440,7 +2440,12 @@
       ]
     }
   ],
-  "investment_picks": [],
+  "investment_picks": [
+    {
+      "sector": "Sektor energetyczny/surowcowy",
+      "instrument": "np. ETF Energy Select Sector (XLE)"
+    }
+  ],
   "sp500_trend": {
     "dates": [
       "2026-03-23",
