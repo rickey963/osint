@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T00:02:48Z",
+  "last_updated": "2026-10-24T00:03:44Z",
   "poland": [
     {
       "title": "Spór o pokój w Ukrainie. Ambasador USA w Polsce uderza w europejskich liderów",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "date": "2026-10-23T23:30:17Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8 Comments URL: https://news.ycombinator.com/item?id=50216791 Points: 5 # Comments: 2."
+    },
+    {
       "title": "Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation (Rocket Drew/The Information)",
       "url": "https://www.techmeme.com/261023/p24#a261023p24",
       "date": "2026-10-23T23:10:05Z",
@@ -1029,7 +1037,7 @@
       "date": "2026-10-23T22:18:49Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: https://news.ycombinator.com/item?id=50216142 Points: 14 # Comments: 3."
+      "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: https://news.ycombinator.com/item?id=50216142 Points: 17 # Comments: 4."
     },
     {
       "title": "Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)",
@@ -1045,7 +1053,7 @@
       "date": "2026-10-23T21:21:47Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 67 # Comments: 12."
+      "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 72 # Comments: 16."
     },
     {
       "title": "Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M (Meir Orbach/CTech)",
@@ -1061,7 +1069,7 @@
       "date": "2026-10-23T20:38:06Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 23 # Comments: 15."
+      "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 26 # Comments: 15."
     },
     {
       "title": "A whirlwind tour of systemd-nspawn containers",
@@ -1069,7 +1077,7 @@
       "date": "2026-10-23T20:37:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/ Comments URL: https://news.ycombinator.com/item?id=50214983 Points: 21 # Comments: 4."
+      "summary": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/ Comments URL: https://news.ycombinator.com/item?id=50214983 Points: 25 # Comments: 6."
     },
     {
       "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
@@ -1133,7 +1141,7 @@
       "date": "2026-10-23T19:50:56Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/ Comments URL: https://news.ycombinator.com/item?id=50214416 Points: 61 # Comments: 71."
+      "summary": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/ Comments URL: https://news.ycombinator.com/item?id=50214416 Points: 63 # Comments: 74."
     },
     {
       "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
@@ -1149,7 +1157,7 @@
       "date": "2026-10-23T19:42:01Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://rune.build/blog/rune-1-3-release Comments URL: https://news.ycombinator.com/item?id=50214325 Points: 28 # Comments: 7."
+      "summary": "Article URL: https://rune.build/blog/rune-1-3-release Comments URL: https://news.ycombinator.com/item?id=50214325 Points: 30 # Comments: 7."
     },
     {
       "title": "Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro \"to reduce potential misuse risk while preserving general usefulness\" (Matthias Bastian/The Decoder)",
@@ -1182,14 +1190,6 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "If you share Spotify sub with family, you may need to scan QR code to prove it."
-    },
-    {
-      "title": "Global PC shipments fell 21% YoY in Q3 to 57M units, as memory and other costs pushed prices up; Lenovo retained its market leadership despite a 23% decline (Minsoo Kang/Counterpoint Research)",
-      "url": "https://www.techmeme.com/261023/p17#a261023p17",
-      "date": "2026-10-23T19:15:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Minsoo Kang / Counterpoint Research: Global PC shipments fell 21% YoY in Q3 to 57M units, as memory and other costs pushed prices up; Lenovo retained its market leadership despite a 23% decline &mdash; - Global PC shipments declined 21% YoY in Q3 2026 to 57 million units, as elevated memory and other component costs continued to push up PC prices and constrain demand."
     },
     {
       "title": "Trump chcę używać nowego typu broni przeciwko migrantom. Jest przerażająca",
@@ -1908,14 +1908,6 @@
       "summary": "Coroczna waloryzacja progów podatku dochodowego od osób fizycznych o wskaźnik inflacji nie rozwiąże wszystkich problemów polskiego systemu podatkowego, ale pomoże obywatelom zachować większą część realnej wartości swoich zarobków – oceniają eksperci z branży podatkowej."
     },
     {
-      "title": "Komunikat ESPI ADIUVO INVESTMENTS SPÓŁKA AKCYJNA W RESTRUKTURYZACJI (adiuvo): Sprostowanie przez Sąd restrukturyzacyjny postanowienia w przedmiocie zatwierdzenia układu. - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWjh1dU83UUd2SlVzWnItRnNITEJJM3pRZy1WNHpGUmV5ZXUyTGczRk9CQzNMR0xsTVJla3lPV1cwRVIzMVVBdDRmckpuck1nQ3Rjd1hMZVJZZ2llNV84cDhwc2R3aFhBSEIzWUtkSWJNd0dEdGVpTXZsdDdhNUJHYjBUcWR1Q0p3YjcxNWwtMVlwZ3YzTFBrbGNOTEMyYmhBVzdIYTdRQ3RPeUFmUXdhV2o1dVVhUGtyZEJha3RKN3dRU1IwcV9ESTZ2VE9KeFJjbG9qT25R?oc=5",
-      "date": "2026-10-23T17:19:26Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat ESPI ADIUVO INVESTMENTS SPÓŁKA AKCYJNA W RESTRUKTURYZACJI (adiuvo): Sprostowanie przez Sąd restrukturyzacyjny postanowienia w przedmiocie zatwierdzenia układu. StockWatch.pl."
-    },
-    {
       "title": "Ile kosztuje euro, dolar i frank? Kursy walut 23.10.2026 - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVZtaUMzLVlmS21JUHFlVGlKVE52WWJNcDdvUVpsM2thN0ltS3ZlSV9PNDV2Q1VnTkF6ZlZyQmdZNk9TbkZlZXFtTGNvOS03ZHZlODRqS1ZydWlseGpPdWNWa3FYU2xUVVlZbzRuanJWQlNYMEFwRWJ4dnNsTnJvVVhUb2ktZzFZQ3NRdmlURV9pX2Z1RUZwdmo1TFhPNmNpbk1RVzhSX2ljVkti?oc=5",
       "date": "2026-10-23T15:46:41Z",
@@ -1978,14 +1970,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "3 spółki z GPW z szansą na skokowy wzrost zysków w III kw. StockWatch.pl."
-    },
-    {
-      "title": "Kronika Sportowa - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UX0I2RUZXbVctT296REpIWFB3VGJCVDV3NkpPbFdtVG9FMW1yQ2hhYy1HMGV0NTRiSTJsQjNtNFpaaElQREU2MUMtWTJlZHNIZGF3VktodWNaNEhzSjNhRWV5VU9Ccy1pcEdWeHFXTnZ3MUdkUTRZ?oc=5",
-      "date": "2026-10-23T12:03:17Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Kronika Sportowa StockWatch.pl."
     },
     {
       "title": "\"Potraktuj korporację jak trampolinę\". Te strategie dyrektorek zapewnią awans - Forbes",
@@ -2052,6 +2036,14 @@
       "summary": "Od soboty do poniedziałku włącznie litr benzyny 95 ma kosztować nie więcej niż 6,51 zł, benzyny 98 – 7,21 zł, a diesla 7,99 – wynika z opublikowanego w piątek obwieszczenia ministra energii. Oznacza to spadek cen maksymalnych benzyny i utrzymanie ceny diesla na tym samym poziomie co w piątek."
     },
     {
+      "title": "TORPOL SA (31/2026) Powołanie osoby nadzorującej w TORPOL S.A. - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQclM5aTN6a0wtUUhwTmY1R0VtUFQ1cEtGNjNOUmZmN3ZrZWg5TjBqeWxiOUZiTnR6ZFROWGJYa2ZsU01YMmp6Sk9Pa0QyT0NFZkhtYW4wSHg5Mjh0UERpbzhVZW1ad2E4WnpIVHUyMHp1VXducW9fejdQRWRmQ0VSSFUzcnkyTlAwblhZM1Z3LTItLTB6VENualV2VQ?oc=5",
+      "date": "2026-10-23T10:25:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "TORPOL SA (31/2026) Powołanie osoby nadzorującej w TORPOL S.A. BiznesRadar."
+    },
+    {
       "title": "Saudyjczycy mogą sprzedać udziały. Co może zrobić polski rząd?",
       "url": "https://www.money.pl/biznes/saudyjczycy-moga-sprzedac-udzialy-co-moze-zrobic-polski-rzad-7343087771293728a.html",
       "date": "2026-10-23T10:13:46Z",
@@ -2114,14 +2106,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "KRKA D.D. (44/2026) Acquisition of treasury shares BiznesRadar."
-    },
-    {
-      "title": "SZAR SA (13/2026) Powołanie osoby zarządzającej lub nadzorującej - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUJOa3hQSHdya1pJR2ROQ1VWVkYxY2hzNHRnb3p5NF9hXzZ6TXMxSFgtM1BVWDZEbXNyZWFYS0kzdU16Qkd5MHBxVFdkRVVGWEozN1RFUEVRR21qNnNUakU1TjlmQWJiMnp2Z3c2c1pnckFqUUtzdmhJVVhwMGVVQWJxUklNcGtzSmlIb1hqMEJUQkdnUmN2TEM5cVVaZ0k?oc=5",
-      "date": "2026-10-23T08:20:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "SZAR SA (13/2026) Powołanie osoby zarządzającej lub nadzorującej BiznesRadar."
     },
     {
       "title": "Witucki: nawet Niemcy wiedzą, że gospodarka ich nie ochroni [WYWIAD] - Forbes",
@@ -2194,6 +2178,22 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Możliwy Pat wyborczy i jego wpływ na giełdę. StockWatch.pl."
+    },
+    {
+      "title": "Asbis: miliard USD przychodów we wrześniu, a kurs spada - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeEs2LWc2NVB3czBqLUtRM1ctMzVTVThkU1loNEU0aGtmMFNUU2F1dlBwNTZicnRkeHlETmhRbENuNnpVZnhjY1JmNDRJc0VlaXNldXl4djFtem1EekdkaDhTaGFIdUM1bHkyOGpUVGstMlpPLUZsUzRBZFdrWEJVSlJQeGdZX2FHcUNTOTYxU19hWlpkT3RSUzBDYjVCaVFfNUdDUGtqeTNKSE9ET2k3cTJ3b05NdFBwbWpiQ0lBMFdtQWtxWWc5RHByQjdjdVk?oc=5",
+      "date": "2026-10-22T16:10:48Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Asbis: miliard USD przychodów we wrześniu, a kurs spada StockWatch.pl."
+    },
+    {
+      "title": "KGHM: sprzedaż miedzi we wrześniu 2026 r. wyniosła 57,9 tys. ton, o 4 proc. mniej r/r - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeTZDWGh2T0c1dTF5X250N2thb2ZpclZsSlZnZlZWcUROTWhlWWVqcWI2N2pIM05ELUNkdkpJSDVIVnNORkpKR0JsUE9BalhwVHRNdFB0dGFpZFc1ZXRFcjR0N3dlNXdFVWY1VWZGc1RlVDFuMUdneFltN2VLLXVQYTlueGtiVDNKTF90Yw?oc=5",
+      "date": "2026-10-22T13:53:55Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "KGHM: sprzedaż miedzi we wrześniu 2026 r. wyniosła 57,9 tys. ton, o 4 proc."
     },
     {
       "title": "Szczepionka mRNA na raka przed kluczowym testem. Moderna i Merck odkrywają karty",
