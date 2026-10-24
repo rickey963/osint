@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T21:30:27Z",
+  "last_updated": "2026-10-24T21:31:12Z",
   "poland": [
     {
       "title": "RCB ostrzega przed wichurą na Dolnym Śląsku. W Tatrach nie czas na \"zwykłą wycieczkę\"",
@@ -243,7 +243,7 @@
     },
     {
       "title": "AI już nie wystarczy. Futurysta omawia siedem technologii, które zaraz odmienią świat [LISTA]",
-      "url": "https://businessinsider.com.pl/technologie/nowe-technologie/samo-ai-to-juz-za-malo-futurysta-te-siedem-trendow-wkrotce-odmieni-swiat/58f66sn",
+      "url": "https://businessinsider.com.pl/technologie/nowe-technologie/samo-ai-to-juz-za-malo-futurysta-te-7-trendow-wkrotce-odmieni-swiat/58f66sn",
       "date": "2026-10-24T13:27:55Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
@@ -275,7 +275,7 @@
     },
     {
       "title": "Ostre cięcia w Krakowie. Nowy prezydent zaczyna swoje porządki",
-      "url": "https://businessinsider.com.pl/gospodarka/wielkie-ciecia-w-krakowie-prezydent-gibala-walczy-z-katastrofa-budzetu/9ykmh9j",
+      "url": "https://businessinsider.com.pl/gospodarka/ostre-ciecia-wydatkow-w-krakowie-nowy-prezydent-zaczyna-swoje-porzadki/9ykmh9j",
       "date": "2026-10-24T12:39:07Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
@@ -1008,20 +1008,20 @@
   ],
   "technology": [
     {
+      "title": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)",
+      "url": "https://www.techmeme.com/261024/p9#a261024p9",
+      "date": "2026-10-24T21:30:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 2,
+      "summary": "Torsten Slok / Apollo Global Management: Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens &mdash; Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
+    },
+    {
       "title": "Steal My Bitcoin",
       "url": "https://stealmybitcoin.com/",
       "date": "2026-10-24T20:30:31Z",
       "source": "Hacker News",
       "confirmed_by": 1,
       "summary": "Article URL: https://stealmybitcoin.com/ Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 98 # Comments: 21."
-    },
-    {
-      "title": "No Signs of AI Payoff Outside the Tech Sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "date": "2026-10-24T19:47:19Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 272 # Comments: 232."
     },
     {
       "title": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)",
@@ -1820,28 +1820,12 @@
       "summary": "„Pellet plus” dla gospodarstw domowych już tej jesieni. Nawet 1200 zł przy wydatkach na zakup paliwa Forsal.pl."
     },
     {
-      "title": "1,4% kontra 22,2%. Najnowsze dane z polskich powiatów dosłownie zaskakują - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcFNSSldwZnkzUWJja19MdzNhd0hUUEFsWXB1WUFsZG9fenU5cm5fTWhzT1ZUazdXTk55RE5qbXNTYmJpcUhKS0wyOURhcGpfZ3B5U0tuSndHVHdnN2hzVzBsRWtnZllFODFQNnp3NmpzZktNM1ZOOUFwRFVkUmtnU09lbWFqeXFrM2VMc2pSMHlQVTZudzlxTHVsT25vYzdIQzdib2Y5OWM3QXZ5bmF3bG5HT3hqc1lFVUxWdXAwb1ZWeHljaWQtdVMzWQ?oc=5",
-      "date": "2026-10-24T20:09:51Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "1,4% kontra 22,2%. Najnowsze dane z polskich powiatów dosłownie zaskakują Forsal.pl."
-    },
-    {
       "title": "Gorzka niespodzianka dla korzystających z kominków i centralnego ogrzewania. Można zapłacić wysoką grzywnę - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcDloZTIzeGZnaEZTZU5MYUtkUGxzaGZ0OVdlZWptYkgzV3VIZ01VcE12YTNRNFJZbmRSWTBsMjdhZEhSVHZVS2hGc29jN3JoeFhsd2V1WWUtay04YmJCbzdVWkxCSWI1OEx2NUk4engyODFKcVRKdGFReWZIZTdSbm1PUGVwR0ItMlZJZzRNX25xYVFKbm5IdnMzRDR5TWlKMVRyZE1iQk1fdzhFQW96V2thdjNKRUdfd3kxVmdXRkRLcmpTZ2NwajE1WlY3am9TakI0NzNkN2pXX0pEWkRlQUMwSk5rbHVPSUpPeUxacUd0dWM?oc=5",
       "date": "2026-10-24T18:46:59Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Gorzka niespodzianka dla korzystających z kominków i centralnego ogrzewania. Można zapłacić wysoką grzywnę Forsal.pl."
-    },
-    {
-      "title": "Brzoza sypie liśćmi i pyli. Sąsiad może zmusić właściciela do wycięcia drzewa - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMkNQb0xWNnZUOFdYZ2hfbjdNdHZucFRnSkM1b3BISE43dmhlcnM4SVhQdlZ5c09mWllYSkxXQllPRHRVMU9uMC10ZmkxUXVHenVFemNHdkUxNTlTRkVEajd2YWM1bVpGUnhDeWotdmNEOVJDNFpzdW5RUGhIbkRoVFVFMjBxN0pGeVBfb0t4QnZndlBwYTE2T3p4OEZRYUxsNEZuWkRaM2dmdnJyTFBRY3ZlcjFmbTNndlNZMGZ4UEp4NEVCdWxzS3l6dDdDbmc?oc=5",
-      "date": "2026-10-24T18:19:16Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Brzoza sypie liśćmi i pyli. Sąsiad może zmusić właściciela do wycięcia drzewa Forsal.pl."
     },
     {
       "title": "Masowe protesty w Portugalii. Tysiące osób przeciwko wysokim cenom mieszkań",
@@ -1916,20 +1900,20 @@
       "summary": "To koniec fotowoltaiki na takich zasadach. Będzie zmiana przepisów. Datę już wskazali Forsal.pl."
     },
     {
-      "title": "Analiza techniczna OW20A274050 GPW - ORGANIZATOR OBROTU - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQY1Z6WlA1eS13Ri1NQ21oVHp1Um56dVRXbTd6aFQtUWxhTVViWTgtSE5wUHQ2MTdGelR0VHhFdjE5RlNnQkxJX1VBb2VQRTl1LTAzSTFSLW1EcGJKZVhtcEs2S2U2bDZiSWVyMkRnLTlBZw?oc=5",
-      "date": "2026-10-24T16:11:40Z",
+      "title": "Trendy OW20O274700 GPW - ORGANIZATOR OBROTU - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43VVFBM3VSVTRIVWdKRHQ5Y0F6Y19hZ29IM2thT0dRT3NxQTFUWV9BSnY5VUJvcm1Wb3ZIVzBDSmo3eDNRWGNvcWUyZzF0OVhfTk4wTElicEtMUzI1aTlZUUtKNVY3MzhickhxLUxOLTBTdw?oc=5",
+      "date": "2026-10-24T15:55:41Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna OW20A274050 GPW - ORGANIZATOR OBROTU BiznesRadar."
+      "summary": "Trendy OW20O274700 GPW - ORGANIZATOR OBROTU BiznesRadar."
     },
     {
-      "title": "Analiza techniczna OW20I274700 GPW - ORGANIZATOR OBROTU - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tZzl2UUNEUVIwOHBTM2pmRFBiTkZ6dGFRMnpZTjVSMXFFaVNiaFBJYWh4THVfY0RGczNpZmhTNzZrZ1FNS2VuY2w4MXJXUnh6eW5uSG1zYzdOTnN4cFBYVUs2dkVZck4yd2lCaktjalB6X3k2MHc?oc=5",
-      "date": "2026-10-24T15:40:47Z",
+      "title": "Analiza techniczna OW20A274550 GPW - ORGANIZATOR OBROTU - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYcko4WHlRTm5wOWVWZlJRV2pHTWdSU1h3dGZSWDZ4T1gxeTRoQWJySXRjRG1Oc1d5cWNlaThpa2NFcW1hM1FnbWhBeW5ZLXRuV2pJVk5FLXlMcVFIdFowR0JKOXJVc1ljN3kxcHZ2bmxVa1c2d2c?oc=5",
+      "date": "2026-10-24T14:33:52Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna OW20I274700 GPW - ORGANIZATOR OBROTU BiznesRadar."
+      "summary": "Analiza techniczna OW20A274550 GPW - ORGANIZATOR OBROTU BiznesRadar."
     },
     {
       "title": "Burza w sieci. Podatki spółki Andziaks zelektryzowały polityków. \"Nóż się otwiera\"",
@@ -1948,14 +1932,6 @@
       "summary": "Sejm przyjął zgłoszone przez Ryszarda Petru poprawki do zmian w podatkach. O ile pierwsza z nich zyskała uznanie jako \"najrozsądniejsza decyzja podatkowa Sejmu od lat\", to drugą eksperci nazywają \"kuriozalną decyzją\". Progi podatkowe PIT mają być waloryzowane co roku, ale wykreślono planowaną przez rząd podwyżkę CIT dla największych firm."
     },
     {
-      "title": "To koniec tej sieci komórkowej w Polsce. Telefony zostaną odłączone od internetu, od aplikacji i od banku. Zacznie się masowa wymiana smartfonów - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQRGlQdkhQQmJCSE5ETXFodFJ5cnUweklzWlVPMTlOZTBGVmtWSjNXdjRUTjBZeFNnNWNHdnVhQzh2VUVJYVVucEdOa2xtWENmcE9rVFhJY0hmWTUxR0JDN3FuY1RaQ2IwZXJRZ1pHNG5PYTFVM3NNVGVfc1NuRC1TdHBORllaNFdWRTJNZXRvZTRHcENJNUtOa1NCRGI2WDNCdGF4OHZsOTduY0x2QmhRUm1yaHBKVkhwbGdRajlYTHo2UVFtc05Ib1NMWGdvRk5wY1ZHLWxfTWtCM25FRF9wZDd4ZWE5THJ6bWt1YWNVQWFRUUNUc3k4OWhFcWpqTWFPYWhjdlh5SThRVWVnTkRHRy00ai13RTR2MzRWV3pzVGdIdlcybWR2WUNyblQ?oc=5",
-      "date": "2026-10-24T12:39:24Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "To koniec tej sieci komórkowej w Polsce. Telefony zostaną odłączone od internetu, od aplikacji i od banku. Zacznie się masowa wymiana smartfonów Forsal.pl."
-    },
-    {
       "title": "Waloryzacja progów PIT od 2028 r. Czy obejmie również kwotę wolną od podatku?",
       "url": "https://www.money.pl/podatki/malgorzata-samborska/waloryzacja-progow-pit-od-2028-r-czy-obejmie-rowniez-kwote-wolna-od-podatku-7343485112866912a.html",
       "date": "2026-10-24T12:25:15Z",
@@ -1970,14 +1946,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Ponad 440 mln zł dofinansowania nie wystarczyło, by polska spółka technologiczna zdecydowała się kontynuować wielką inwestycję. VIGO Photonics wycofuje się z projektu HyperPIC w dotychczasowej formule, argumentując, że ryzyko finansowe jest zbyt duże. Firma musiałaby zaangażować ponad 150 mln zł własnych środków już na etapie prac badawczych."
-    },
-    {
-      "title": "Bez kolejki i całą dobę. Rewolucja w ochronie zdrowia już od niedzieli. Wyjaśniamy, co się zmieni - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUWVLNGlBcmpTN3FWOXVzT1ZFcEJLUkdYYVdlOFNhUVB3NHFhVWgtSG9hbXhiOXRucUJHYmludTdiRFh1OXhzQWdFS3VqSWUwcUtmbGJSY3FMaWx3TTVxUzExY2NlSUdlUGQ2TGNDZTVweFJVSkg0Y01zQ1doWEJQVTRDbnVIZGxPeUEycC1CTXJKdWQyT3c4MG9QTFJIMU56N25pVWFhaXJrQ1pWWVlieGIzQnhJb1FycHhyZ1NxREpmR00wa1E?oc=5",
-      "date": "2026-10-24T10:08:20Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Bez kolejki i całą dobę. Rewolucja w ochronie zdrowia już od niedzieli. Wyjaśniamy, co się zmieni Forsal.pl."
     },
     {
       "title": "Polska nauka może zadebiutować na Nasdaq. Paweł Przewięźlikowski o tym, jak powstała NodThera, spin-off Ryvu Therapeutics",
@@ -2002,6 +1970,38 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Rezygnacja z podwyżki stawek CIT dla największych firm oznacza konieczność szukania oszczędności w budżecie na 2027 rok – powiedział wiceminister finansów Jarosław Neneman."
+    },
+    {
+      "title": "Dopłacają nawet 95 procent do remontu mieszkania. Jest tylko jeden warunek - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQWUo1OGVaZDhEZU1pSXVjVjcyX0t1NF9zSWYzN2M4WFpjdHZPbzlnQkZwcTRVcGN2NDNOOFlUelhpTkZfcWV5YlVtMnU3R1ZSN2hFVkpxUFhCMWR6Sy05THRqaDhfX29GTThHLWRCSTUxRXdWeWcxejFab2EzTjRRWlMyaVVMc3E4ZHhDclZIX0NJZjhmU2FHU3V4OG52VmZiQVN1VVBRbklSSE5vYlhIa09YRFpEeW10eC0tZlh3T0RiRkdVcFNtMjh4RUNCbnF1WjNvNHgtamc4RjRqSERucWlNWXZQRjVxUjJORTNVN1pEUDBlc1F5VGphUE5SQ1FKZ0tQWUVubnRrc1FTcXE0?oc=5",
+      "date": "2026-10-24T07:51:08Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Dopłacają nawet 95 procent do remontu mieszkania. Jest tylko jeden warunek Forsal.pl."
+    },
+    {
+      "title": "Tyle pieniędzy potrzebuje co miesiąc emeryt, by przetrwać. Padły konkretne kwoty - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZWFWTzh5Q2l2c2RkRU1sZ3B5bkQ3VGlCMXVmZ1lqWGdURVN3czl6Y0dadFc4akJFcVRULXY2Ukl4azRqVndadU5WeXJHNkotMXMyczRtUmJUcjlRcDFETmpCRkJmc1R1eTFjMUJoZW5iVWlWR0swWHpnQ0lWdGpFN3NzS3lKVWZZYnlWNGItbTJRLV9EQzYwRjR3Y1BJMmpYYUh5NVBzd1dIOGJNWnNQUkJVemRvNWhLZnRHbzdjSnZfVVNVQlIwM1pyc1ZBVzA?oc=5",
+      "date": "2026-10-24T07:15:28Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Tyle pieniędzy potrzebuje co miesiąc emeryt, by przetrwać. Padły konkretne kwoty Forsal.pl."
+    },
+    {
+      "title": "Renta wdowia: ZUS podniesie wypłaty od stycznia 2027 r. Część seniorów czeka jednak bolesne zderzenie z limitem - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOandNREtsdV95YUJPZWREaXNRd0ZEZURwZVlHOW9yOUhXblBJYmZIdlB3MXljMVgzbW81dHBrc3EzSHVLaVpJWDA5RVlzSHZzeXZ6Ukc0NjdnTUlseExEQktQSm5WQ25pZXE3RDJyTGRIOXlKdmNiRTU3RkQzR0hQVFdWc0lYSWMteWhNS3pzUENleVppbGEtSUZKQkV3TDRobFpETWNRZVMwcndJMmhfbTl6b2s1UGwzRUFSaFVDSTRTX1RPRGpBZ2NnMlFiSkFGUnpMNU00bFBXUEc2NUFoTnVRZ3NCOUYtenl6ZDhhNnVJZnBJaGk3cWxXV2dWQ2xDWXZMOTZkMA?oc=5",
+      "date": "2026-10-24T06:36:16Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Renta wdowia: ZUS podniesie wypłaty od stycznia 2027 r. Część seniorów czeka jednak bolesne zderzenie z limitem Forsal.pl."
+    },
+    {
+      "title": "Nowa pułapka na Polaków szukających mieszkań. Jak chronić się przed Housefishingiem - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU1RNZG9ER2ZZaFM1NERFcExJOURnQVFJc3pKalNfdk5FZTVPekRieGczMXJ0bDBwMUxnXzRpLThoNlJGNVZFNEo3OEU1MW5Kc1NtWUNJVVpac3VHazduSXN0RGFSZmxna1ZZWDl0LXBEaGI5YWJndDh4S2RFMmpYTVNWSjFSOVhLMWd5MGFSVTV0WVR2bldDeWZzdjJlU1JNWk1sU2MwU3cxb0ZNTHZsaUpoM1Z3WjlrdGQ0ZnFXVXFzZGdsRVBNdWdQMXQ0eXIxZkE?oc=5",
+      "date": "2026-10-24T06:00:00Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Nowa pułapka na Polaków szukających mieszkań. Jak chronić się przed Housefishingiem Forsal.pl."
     },
     {
       "title": "Złota rozgrywka. Putin sięga po rezerwy. Polska robi coś dokładnie odwrotnego",
@@ -2034,14 +2034,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Sejm przyjął poprawkę Ryszarda Petru, która zakłada automatyczną waloryzację progów podatkowych o inflację od 2028 r. Ekonomista Artur Krawczyk wskazuje na niejasności w przepisach. Wątpliwości dotyczą m.in."
-    },
-    {
-      "title": "Komunikat ESPI ADIUVO INVESTMENTS SPÓŁKA AKCYJNA W RESTRUKTURYZACJI (adiuvo): Sprostowanie przez Sąd restrukturyzacyjny postanowienia w przedmiocie zatwierdzenia układu. - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWjh1dU83UUd2SlVzWnItRnNITEJJM3pRZy1WNHpGUmV5ZXUyTGczRk9CQzNMR0xsTVJla3lPV1cwRVIzMVVBdDRmckpuck1nQ3Rjd1hMZVJZZ2llNV84cDhwc2R3aFhBSEIzWUtkSWJNd0dEdGVpTXZsdDdhNUJHYjBUcWR1Q0p3YjcxNWwtMVlwZ3YzTFBrbGNOTEMyYmhBVzdIYTdRQ3RPeUFmUXdhV2o1dVVhUGtyZEJha3RKN3dRU1IwcV9ESTZ2VE9KeFJjbG9qT25R?oc=5",
-      "date": "2026-10-23T17:19:26Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat ESPI ADIUVO INVESTMENTS SPÓŁKA AKCYJNA W RESTRUKTURYZACJI (adiuvo): Sprostowanie przez Sąd restrukturyzacyjny postanowienia w przedmiocie zatwierdzenia układu. StockWatch.pl."
     },
     {
       "title": "CARLSON INVESTMENTS SE (25/2026) Raport roczny - BiznesRadar",
@@ -2210,6 +2202,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "sWIG80 przełamuje kluczowe wsparcie Paweł Biedrzycki pt., 23.10.2026 swig80 WIG-banki Wstęp do wpisu Sesja 22 października 2026: #sWIG80, #WIGBanki, spółki godne uwagi sWIG80 przełamuje kluczowe wsparcie Paweł Biedrzycki."
+    },
+    {
+      "title": "Możliwy Pat wyborczy i jego wpływ na giełdę. - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelJybERNYkk5UGhkY2NoVlZuczNXdnRudXpuUjVJeXA2UkFKaG5jQ2pJOXc1dEdVSjZhb294RWFveV9YdGFPZkt5eFJHbTNjX282THZ4YUZ0SGZ5bVpwc18yZW51QndCbTVrVXhkdjBESzhmajRFUEF4eWRBci1JblRYVE9wdGlyOWJTYWZTdVZiZ2JJeGhncFlzZlA?oc=5",
+      "date": "2026-10-22T19:45:58Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Możliwy Pat wyborczy i jego wpływ na giełdę. StockWatch.pl."
     }
   ],
   "critical_alerts": [
