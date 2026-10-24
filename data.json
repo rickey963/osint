@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T06:25:30Z",
+  "last_updated": "2026-10-24T06:26:16Z",
   "poland": [
     {
       "title": "Alarm w ambasadach USA, Portugalia ostrzega przed zamachem. Trzęsienie ziemi na Pacyfiku",
@@ -1088,6 +1088,14 @@
       "summary": "Odebrali poświatę sprzed miliardów lat. Może zdradzić wielki sekret Wszechświata."
     },
     {
+      "title": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "date": "2026-10-24T04:49:58Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 5 # Comments: 0."
+    },
+    {
       "title": "mObywatel w 2026 roku: kompletnie nie spodziewałem się, że ma takie funkcje",
       "url": "https://antyweb.pl/mobywatel-funkcje-uslugi",
       "date": "2026-10-24T04:45:05Z",
@@ -1141,7 +1149,15 @@
       "date": "2026-10-24T03:43:54Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 35 # Comments: 2."
+      "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 46 # Comments: 4."
+    },
+    {
+      "title": "CowAgent – Open-Source Super AI Assistant",
+      "url": "https://cowagent.ai/en/",
+      "date": "2026-10-24T03:32:47Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://cowagent.ai/en/ Comments URL: https://news.ycombinator.com/item?id=50218141 Points: 3 # Comments: 0."
     },
     {
       "title": "Andy Jassy says AWS capacity for 2027 is \"largely sold out\" and a \"good chunk\" of 2028 capacity is also sold, though AWS reserves some capacity for on-demand (Catherine Perloff/The Information)",
@@ -1152,20 +1168,20 @@
       "summary": "Catherine Perloff / The Information: Andy Jassy says AWS capacity for 2027 is &ldquo;largely sold out&rdquo; and a &ldquo;good chunk&rdquo; of 2028 capacity is also sold, though AWS reserves some capacity for on-demand &mdash; Amazon Web Services capacity is mostly booked up through at least next year, Amazon CEO Andy Jassy &hellip;."
     },
     {
+      "title": "How Block Blast harvests its players for ad money",
+      "url": "https://ayoships.com/breakdowns/block-blast",
+      "date": "2026-10-24T02:43:43Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 13 # Comments: 2."
+    },
+    {
       "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
       "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
       "date": "2026-10-24T01:53:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 64 # Comments: 18."
-    },
-    {
-      "title": "Password, Please: Border Searches of Laptops, Phones Up 32% This Year",
-      "url": "https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213",
-      "date": "2026-10-24T01:37:28Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213 Comments URL: https://news.ycombinator.com/item?id=50217600 Points: 27 # Comments: 4."
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 73 # Comments: 21."
     },
     {
       "title": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)",
@@ -1181,7 +1197,7 @@
       "date": "2026-10-24T01:16:58Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 109 # Comments: 12."
+      "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 124 # Comments: 13."
     },
     {
       "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
@@ -1197,7 +1213,7 @@
       "date": "2026-10-23T23:30:17Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8 Comments URL: https://news.ycombinator.com/item?id=50216791 Points: 139 # Comments: 73."
+      "summary": "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8 Comments URL: https://news.ycombinator.com/item?id=50216791 Points: 142 # Comments: 77."
     },
     {
       "title": "Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation (Rocket Drew/The Information)",
@@ -1222,22 +1238,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Tom Warren / The Verge: Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company &mdash; Helen Chiang is leaving Microsoft after 21 years. &hellip; Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago."
-    },
-    {
-      "title": "One Man's Pan Am 747 Replica [video]",
-      "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-      "date": "2026-10-23T21:46:51Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://www.youtube.com/watch?v=vAFwHGGfPz4 Comments URL: https://news.ycombinator.com/item?id=50215828 Points: 15 # Comments: 0."
-    },
-    {
-      "title": "CVE Tracker",
-      "url": "https://cve.0xosprey.com/",
-      "date": "2026-10-23T21:21:47Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 142 # Comments: 55."
     },
     {
       "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
@@ -1900,14 +1900,6 @@
       "summary": "Na Kremlu ubywa złota, w skarbcach Narodowego Banku Polskiego go przybywa. Rosja już dziesiąty miesiąc z rzędu uszczupla swoje rezerwy. W tym czasie Polska kupuje kolejne tony."
     },
     {
-      "title": "WERTH-HOLZ SA (12/2026) Harmonogram publikacji raportów okresowych - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW1Nd2MzNGJIUXhkSmRKWklRMmRXSXB2RjZxbEhIOFozMUJodUIxdjYtd29TMkRoek8yRGFBb1c0b2VIc3RUS2lBMnJUS2dHNzNnTVpYTHVIdk5GSGZLYmpQQUU4Y0JuX3FuWGdRem5vX0xsWGNkdHM0cW50R1ZiWGhSVjMxUjB3R2F0Rk1mekhKR1g1QzNRODNUbGllOF9hNUE?oc=5",
-      "date": "2026-10-23T22:18:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "WERTH-HOLZ SA (12/2026) Harmonogram publikacji raportów okresowych BiznesRadar."
-    },
-    {
       "title": "Szlachetne Biura Rachunkowe 2026: 2,6 mln zł i nowa definicja zaufania w biznesie - Forbes",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHZwaXE0SVZyT1MtR3p2SHU0SGRqbVdUQjZ4S3pyckliYTZOR09TRnVXTWVxc2pabzQwOWFEeTlFb24xdUlBaDR3SlhFM0hENjZHOFpfTVJzb0NJRFM2MC1WZUttdnhTRGdqTkNDRFpJdGhvZk44NDhqRVRjYmtadXUyaGlDdFIwM3NadnBXY0V5N1U1UG1GSkh6eFhLTDFrcjktMnZPYUxuUUJKN1Uxdml2dG9LTDA?oc=5",
       "date": "2026-10-23T22:00:00Z",
@@ -1948,20 +1940,20 @@
       "summary": "Ile kosztuje euro, dolar i frank? Kursy walut 23.10.2026 Forsal.pl."
     },
     {
-      "title": "HERKULES SA W RESTRUKTURYZACJI (56/2026) Nabycie akcji własnych - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZWNzVUU5ZTRjM1E0OWlxS0FWNUZjbUhMeVN5Z3V1aWZlZlVWNEhlQUNRZEZhanN1ZFBicFhWQnhZS25nX2ZHUkN2STFCNl9CUkRjZENFYjFqN3pvVkhwdDBMMlNIc194aFNURFlVQnRHMHhldFdzNkljRUk2eFlyRk1mZ3Q1ZkJWckhvUWtmZVVDZjB3VHR3dFE0dTBzUQ?oc=5",
-      "date": "2026-10-23T13:30:00Z",
+      "title": "MLP GROUP SA (20/2026) Podjęcie uchwały w sprawie rozpoczęcia przeglądu opcji strategicznych - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1NJTlh5SW5tek90QlE1X0t5cm1pOWppQnE0dWd0aGJxTEpwVDBtdndTdHVKS0hJaUlZS1M2WHdfOG9WeVhBSWN2a01jNmxoTG1XVEljakNyVi13QTRNRVpXaTR3R21WZ0hrZ1BFTXV0RGNrRGl2YVJGWGZlcThRUjNvZ2hKMHFsbGFzR19hdkdYalFvYTQ2c2JNNzRDam5DdWRGVnF0S2xhUVF2ckJtemplLTR0RkdObk1kS0VoSW9qdzNY?oc=5",
+      "date": "2026-10-23T15:05:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "HERKULES SA W RESTRUKTURYZACJI (56/2026) Nabycie akcji własnych BiznesRadar."
+      "summary": "MLP GROUP SA (20/2026) Podjęcie uchwały w sprawie rozpoczęcia przeglądu opcji strategicznych BiznesRadar."
     },
     {
-      "title": "JRH ASI SA (26/2026) Skup akcji własnych - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZS3JnQmNZMHVMSHdnRno2N1prMG1pazFnZ3BMY2pQV0tKME5oZXdRbnIxLVFOWXdQOHUzaVJhRi1hYnVnMEJTamJKVktNa1UyaHdvX1ZwOUVnc2ZzSGtUbzdPT2NuQ3FFOEhncG95Z2Z1MS1nVFRLVDZZZ3VrNkU?oc=5",
-      "date": "2026-10-23T13:15:00Z",
+      "title": "Wiadomości SCANWAY (SCW) - strona: 12 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zRFFvWC1MUXdURC12SnlsZFVWYzEtVVZXMUFVM0tqUnNjSkdtT3p1OGxURU5PbXRGd0U5NGtFUE1Oa2lpeHRHMU93X2o1amtMaUl4MmhQbw?oc=5",
+      "date": "2026-10-23T14:59:43Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "JRH ASI SA (26/2026) Skup akcji własnych BiznesRadar."
+      "summary": "Wiadomości SCANWAY (SCW) - strona: 12 BiznesRadar."
     },
     {
       "title": "Jak się odbiera telefon od szefa Nvidii? Polka zdradza kulisy pracy w gigancie - Forbes",
@@ -2076,14 +2068,6 @@
       "summary": "Od soboty do poniedziałku włącznie litr benzyny 95 ma kosztować nie więcej niż 6,51 zł, benzyny 98 – 7,21 zł, a diesla 7,99 – wynika z opublikowanego w piątek obwieszczenia ministra energii. Oznacza to spadek cen maksymalnych benzyny i utrzymanie ceny diesla na tym samym poziomie co w piątek."
     },
     {
-      "title": "TORPOL SA (31/2026) Powołanie osoby nadzorującej w TORPOL S.A. - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQclM5aTN6a0wtUUhwTmY1R0VtUFQ1cEtGNjNOUmZmN3ZrZWg5TjBqeWxiOUZiTnR6ZFROWGJYa2ZsU01YMmp6Sk9Pa0QyT0NFZkhtYW4wSHg5Mjh0UERpbzhVZW1ad2E4WnpIVHUyMHp1VXducW9fejdQRWRmQ0VSSFUzcnkyTlAwblhZM1Z3LTItLTB6VENualV2VQ?oc=5",
-      "date": "2026-10-23T10:25:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "TORPOL SA (31/2026) Powołanie osoby nadzorującej w TORPOL S.A. BiznesRadar."
-    },
-    {
       "title": "Saudyjczycy mogą sprzedać udziały. Co może zrobić polski rząd?",
       "url": "https://www.money.pl/biznes/saudyjczycy-moga-sprzedac-udzialy-co-moze-zrobic-polski-rzad-7343087771293728a.html",
       "date": "2026-10-23T10:13:46Z",
@@ -2098,14 +2082,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania INTLSLV02775 INGBANK BiznesRadar."
-    },
-    {
-      "title": "GETIN HOLDING SA (12/2026) Zmiana terminu przekazania raportu okresowego - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOUhyU2RTTkpWNEt2dHRqcmQ2bnl1NHlEdXNNWXd3UldXeEh4WGJRbGRWNXV0NzhaTTZiZ0MtTVI0SjFxbkp0UjduVW1hY3hsdUFEVkdfTmM0UjVyZmM1Y25hT3N0SlNOaGRnbmExai1BeTkwSHlaa3VGbWJBanBTaDFETGM1Rm9KNzAxQmdERW52RmxTWUVvR0ZXRHJXRmIwX09vZ0hINVgyUQ?oc=5",
-      "date": "2026-10-23T09:10:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "GETIN HOLDING SA (12/2026) Zmiana terminu przekazania raportu okresowego BiznesRadar."
     },
     {
       "title": "Rynki globalne psują nastroje na GPW, gorąco na Modivo, XTB i Action - StockWatch.pl",
@@ -2130,6 +2106,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania INTLSLV02809 INGBANK BiznesRadar."
+    },
+    {
+      "title": "Co robią grube ryby: Beta ETF (III kwartał 2026) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3ZDeGR2ejE1OE9WUl84NDBHZkEteEtlSVgyVERYUTlwN2ZpMXdxX0lNZnJjeVpoV3RYWkQ4dy1zd2NOQ3Jpb0t3cG5MdlhQd0k5MUZDWXItb0FxYkdUamhGZkVrempwYkdYMnE3ZEpHS0cxMk5aYkVBOVRRajgzZ1hueEJJOFJH?oc=5",
+      "date": "2026-10-23T08:10:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Co robią grube ryby: Beta ETF (III kwartał 2026) BiznesRadar."
     },
     {
       "title": "Witucki: nawet Niemcy wiedzą, że gospodarka ich nie ochroni [WYWIAD] - Forbes",
@@ -2188,6 +2172,14 @@
       "summary": "sWIG80 przełamuje kluczowe wsparcie Paweł Biedrzycki pt., 23.10.2026 swig80 WIG-banki Wstęp do wpisu Sesja 22 października 2026: #sWIG80, #WIGBanki, spółki godne uwagi sWIG80 przełamuje kluczowe wsparcie Paweł Biedrzycki."
     },
     {
+      "title": "Notowania INTSNVD02700 INGBANK - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44ZXJLdHZJOC1sWHM0U1JJdUt1NE5XS05XNWhSaVlZeGRmekcwZEhBM1JTamVTOFFFOXhKSE1Bd3hTRGRuSVFST3NwdXFGVzdYdnVCRV81MC03YV9rd1E?oc=5",
+      "date": "2026-10-23T00:57:22Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania INTSNVD02700 INGBANK BiznesRadar."
+    },
+    {
       "title": "Możliwy Pat wyborczy i jego wpływ na giełdę. - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelJybERNYkk5UGhkY2NoVlZuczNXdnRudXpuUjVJeXA2UkFKaG5jQ2pJOXc1dEdVSjZhb294RWFveV9YdGFPZkt5eFJHbTNjX282THZ4YUZ0SGZ5bVpwc18yZW51QndCbTVrVXhkdjBESzhmajRFUEF4eWRBci1JblRYVE9wdGlyOWJTYWZTdVZiZ2JJeGhncFlzZlA?oc=5",
       "date": "2026-10-22T19:45:58Z",
@@ -2202,6 +2194,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Szczepionka mRNA na raka przed kluczowym testem. Moderna i Merck odkrywają karty Szymon Machalica czw., 22.10.2026 Kanał Strefa Global Market Moderna Treść Kiedy ostatnio pisaliśmy o Modernie, inwestorzy świętowali gwałtowny wzrost jej notowań po ogłoszeniu sukcesu badania nad terapią czerniaka. Teraz przychodzi czas na szczegóły, które pokażą, jak duża jest rzeczywista korzyść dla pacjentów.Moderna, znana przede wszystkim ze szczepionki przeciwko COVID-19, wiąże duże nadzieje z wykorzystaniem technologii mRNA w leczeniu nowotworów."
+    },
+    {
+      "title": "[BR Premium] Co robią grube ryby: Investors TFI (III kwartał 2026) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckMxSHFtY2p4aXJkd1AxNWNVWDRIN3FlQUk1U054ZzFhbkdNU0xsNlM2d2dCLWw5YkFfQjVlVXh2U2VMWlBWbEl2bUtTOTVvSTBkekhwY0lVdmFjdC03eTNUVW9CRlpNSjIyRkpiLTRhZUVzdGNQZnotWDlnX0p3ZEYtUHRLR0ZQV3RROFVwRy00OFAycy1ocEN6Mkpydw?oc=5",
+      "date": "2026-10-22T11:45:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "[BR Premium] Co robią grube ryby: Investors TFI (III kwartał 2026) BiznesRadar."
     },
     {
       "title": "Impuls i korekta - 22 października 2026",
