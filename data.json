@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-24T17:26:12Z",
+  "last_updated": "2026-10-24T17:27:01Z",
   "poland": [
+    {
+      "title": "Tusk i Macron nie skorzystali z zaproszenia Magyara. W tle opóźnienia i dyplomatyczny zgrzyt",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33097171,tusk-i-macron-nie-skorzystali-z-zaproszenia-magyara-w-tle-opoznienia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-10-24T17:25:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Prezydent Francji Emmanuel Macron i premier Polski Donald Tusk nie pojawili się w Budapeszcie na obchodach 70. rocznicy rewolucji z 1956 r. Media donoszą, że ich nieobecność związana była z napięciem dyplomatycznym oraz niedociągnięcia organizacyjne."
+    },
     {
       "title": "Seria niefortunnych zdarzeń na Srebrnym Globie. Własne porażki też bywają zabawne",
       "url": "https://www.rp.pl/plus-minus/art45390311-seria-niefortunnych-zdarzen-na-srebrnym-globie-wlasne-porazki-tez-bywaja-zabawne",
@@ -274,14 +282,6 @@
       "summary": "Francja przygotowuje się na kolejną falę masowych protestów, które mogą sparaliżować kraj w sobotę. W obawie przed powtórką brutalnych zamieszek z 17 października władze zmobilizowały 70 tysięcy funkcjonariuszy policji i żandarmerii - o 20 procent więcej niż tydzień wcześniej."
     },
     {
-      "title": "Czarnek o listach wyborczych PiS-u: Podstawowe kryteria to aktywność w terenie i mediach społecznościowych",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33096621,czarnek-o-listach-wyborczych-pis-u-podstawowe-kryteria-to-aktywnosc.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-10-24T08:53:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "- Trwają pierwsze prace nad kształtem list wyborczych - poinformował wiceprezes PiS-u Przemysław Czarnek."
-    },
-    {
       "title": "Wojsko na ulicach, drony nad miastami. Włochy szykują się na protesty - Polskie Radio 24",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNckQ4Tlltby0tN2xlbHBJZ0pxQUFxdWVDYkJHcGNmRnJXV1U5RWZZNEJyQlR0SnhyS1l1QzRqUWtqR3NoemVZamVvX1RUU0ZKRU1vdzVkckh3Tm1mSzlrUUp0VVg1ODBlMWlvSmVwSUh1ZERxZEpQNFFVRGY1aGowYl9SMUpxT1pncVJvcVlDN2FVYV9DUS1IT2tBeTZLRFRBNGtiZ3NKTDlYYW4yT0lxZTZR?oc=5",
       "date": "2026-10-24T06:05:02Z",
@@ -403,6 +403,14 @@
     }
   ],
   "world_security": [
+    {
+      "title": "Two rescued after Nairobi building collapse with five still missing",
+      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-24T17:25:46Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction."
+    },
     {
       "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
       "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
@@ -610,14 +618,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
-    },
-    {
-      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-24T09:44:01Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled."
     },
     {
       "title": "Three released without charge after fatal arson attack in Ireland",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math (Dana Goldstein/New York Times)",
+      "url": "https://www.techmeme.com/261024/p7#a261024p7",
+      "date": "2026-10-24T17:25:04Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Dana Goldstein / New York Times: A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math &mdash; Alpha School, a private network, is spreading into public education. While its students' test scores are high, some parents and educators say it doesn't live up to the hype."
+    },
+    {
       "title": "Show HN: Argus- open source security platform to protect against agentic attacks",
       "url": "https://github.com/thomasunise/argus",
       "date": "2026-10-24T17:13:57Z",
@@ -1280,14 +1288,6 @@
       "summary": "Jonr pokazał zaktualizowane portfolio obejmujące nowe urządzenia do sprzątania. Nie brakuje odkurzaczy i robotów sprzątających. Artykuł Nowe urządzenia Jonr ułatwią sprzątanie."
     },
     {
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "date": "2026-10-24T09:58:27Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 80 # Comments: 40."
-    },
-    {
       "title": "Test Sonos Ace Ultra – bardzo dobre słuchawki, lecz ich cena mocno studzi entuzjazm",
       "url": "https://www.instalki.pl/testy/hardware/test-sonos-ace-ultra-bardzo-dobre-sluchawki-lecz-cena-mocno-studzi-entuzjazm/",
       "date": "2026-10-24T09:13:38Z",
@@ -1496,6 +1496,14 @@
       "source": "The Register",
       "confirmed_by": 1,
       "summary": "We've totally got things under control."
+    },
+    {
+      "title": "Weekendowa Lektura: odcinek 699 [2026-10-23]. Bierzcie i czytajcie",
+      "url": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-699-2026-10-23-bierzcie-i-czytajcie/",
+      "date": "2026-10-23T21:43:20Z",
+      "source": "Zaufana Trzecia Strona",
+      "confirmed_by": 1,
+      "summary": "Zapraszamy do nowego wydania Weekendowej Lektury. Opisy nowych zmagań badaczy z cyberprzestępcami, szczegóły świeżo odkrytych luk, analizy nowych kampanii – każdy znajdzie coś dla siebie. Miłego klikania!"
     },
     {
       "title": "There's a third PHP2Shell bug, but it won't get an emergency fix",
@@ -1778,14 +1786,6 @@
       "summary": "W mObywatelu pojawiła się możliwość sprawdzenia, w jaki sposób należy reagować w wypadku zagrożenia z powietrza. Instrukcja informuje, co zrobić w przypadku ogłoszenia alarmu i gdzie szukać najbliższego schronienia."
     },
     {
-      "title": "Małe firmy, wielkie ambicje. Kongres MŚP połączył dolnośląski biznes",
-      "url": "https://cyberdefence24.pl/biznes-i-finanse/male-firmy-wielkie-ambicje-kongres-msp-polaczyl-dolnoslaski-biznes",
-      "date": "2026-10-22T11:32:00Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Nowe kontakty, praktyczna wiedza i rozmowy o możliwościach rozwoju przedsiębiorstw. II Kongres MŚP na Dolnym Śląsku połączył lokalny biznes z ekspertami, instytucjami finansowymi i administracją. Pod hasłem „Dolny Śląsk."
-    },
-    {
       "title": "“Hasło Password1 – nie jest dobrym hasłem” – tak ostrzega brytyjskie ICO (odpowiednik naszego Urzędu Ochrony Danych Osobowych).",
       "url": "https://sekurak.pl/haslo-password1-nie-jest-dobrym-haslem-tak-ostrzega-brytyjskie-ico-odpowiednik-naszego-urzedu-ochrony-danych-osobowych/",
       "date": "2026-10-22T09:20:40Z",
@@ -1836,12 +1836,36 @@
       "summary": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu Forsal.pl."
     },
     {
+      "title": "Negocjacje z USA zakończyły się fiaskiem. Iran da kolejną szansę?",
+      "url": "https://www.bankier.pl/wiadomosc/Negocjacje-z-USA-zakonczyly-sie-fiaskiem-Iran-da-kolejna-szanse-9217891.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-10-24T17:12:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Prezydent Iranu Masud Pezeszkian obwinił Stany Zjednoczone o niepowodzenie dotychczasowych negocjacji w sprawie umowy tymczasowej, mającej stanowić krok ku zakończeniu wojny, oraz opowiedział się za podjęciem nowej próby zawarcia porozumienia - przekazała agencja Reutera."
+    },
+    {
+      "title": "Atak tasakiem w centrum Warszawy. Podejrzany trafił do aresztu",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-tasakiem-w-centrum-Warszawy-Podejrzany-trafil-do-aresztu-9217887.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-10-24T16:57:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Sąd Rejonowy dla Warszawy-Śródmieścia przychylił się do wniosku prokuratury i zastosował trzymiesięczny areszt wobec 37-letniego obywatela Indii podejrzanego o usiłowanie zabójstwa w centrum stolicy - poinformował w sobotę PAP rzecznik Prokuratury Okręgowej w Warszawie prok. Piotr Antoni Skiba."
+    },
+    {
       "title": "To koniec fotowoltaiki na takich zasadach. Będzie zmiana przepisów. Datę już wskazali - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdFNQN0kzUTdWbDVkOFJ5Z0FaQWhNVWdBR3o1OU5zZ1VtVjlqUmUwVnl3Y1Z6Q3dHaEd0bUF6V3F6M25wZjdoQlRaaERyR3dnV0FXYXN5Vm5jN2J2LXVHclUzbWVTVHFKc0dnRWZFSXpTYmlnRXdSMEkxV1VtT0dxZjFJemNvOUtqRldQcmRiajFLaEJLdThyUTAxdE1Lbjg1QXEtWTFmZndwNjJzc3JGV20zN0pxYmlPeXJ0WVotWUxiM1ZrYVpDQ0p3RDh5eFlKb2ZTTXl1U2xqWFlOVGdmRmlQWE5abUR0VjNCMUtXNGw?oc=5",
       "date": "2026-10-24T16:23:28Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "To koniec fotowoltaiki na takich zasadach. Będzie zmiana przepisów. Datę już wskazali Forsal.pl."
+    },
+    {
+      "title": "Ekspert: Roboty przygotują bazy na Księżycu",
+      "url": "https://www.bankier.pl/wiadomosc/Ekspert-Roboty-przygotuja-bazy-na-Ksiezycu-9215094.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-10-24T14:29:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Roboty będą przygotowywać bazy na Księżycu, obsługiwać satelity i badać odległe światy. Dzięki sztucznej inteligencji staną się coraz bardziej samodzielne, choć zadania nadal będą wyznaczać im ludzie – powiedział PAP Łukasz Wilczyński, prezes Europejskiej Fundacji Kosmicznej."
     },
     {
       "title": "Wielki powrót Beatlemanii. W sercu Liverpoolu stanie mega muzeum",
@@ -1858,6 +1882,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Spółka należąca do influencerki Angeliki \"Andziaks\" Trochonowicz, choć wypracowała prawie 2,85 mln zł zysku brutto, zapłaciła 26 tys. zł podatku. W sieci zawrzało."
+    },
+    {
+      "title": "Protesty we Francji. Zatrzymano 135 osób, na ulicach tysiące policjantów",
+      "url": "https://www.bankier.pl/wiadomosc/Protesty-we-Francji-Zatrzymano-135-osob-na-ulicach-tysiace-policjantow-9217864.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-10-24T13:53:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Szef MSW Francji Laurent Nunez poinformował w sobotę, gdy w kraju odbywają się akcje protestu, że od rana do godz. 13 zatrzymano 135 osób. W Paryżu po godz."
     },
     {
       "title": "Ryszard Bartosik stracił prawo jazdy. Poseł przeprasza za swoją jazdę",
@@ -1884,44 +1916,12 @@
       "summary": "Sejm przyjął zgłoszone przez Ryszarda Petru poprawki do zmian w podatkach. O ile pierwsza z nich zyskała uznanie jako \"najrozsądniejsza decyzja podatkowa Sejmu od lat\", to drugą eksperci nazywają \"kuriozalną decyzją\". Progi podatkowe PIT mają być waloryzowane co roku, ale wykreślono planowaną przez rząd podwyżkę CIT dla największych firm."
     },
     {
-      "title": "Wyścig deweloperów o klienta i faza mocnych promocji. Rynek nieruchomości przed zmianami",
-      "url": "https://www.bankier.pl/wiadomosc/Wyscig-deweloperow-o-klienta-i-faza-mocnych-promocji-Rynek-nieruchomosci-przed-zmianami-9216067.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-10-24T13:00:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Sprzedaż mieszkań deweloperskich w IV kwartale 2026 r. może być słabsza niż w poprzednich miesiącach z powodu droższego kredytu i pogorszenia nastrojów konsumentów, a konkurencja między firmami może się nasilić - poinformowali na konferencji prasowej specjaliści portalu RynekPierwotny.pl."
-    },
-    {
-      "title": "Nowe loty z Krakowa. W zimowym rozkładzie Wenecja, Maroko i Egipt",
-      "url": "https://www.bankier.pl/wiadomosc/Nowe-loty-z-Krakowa-W-zimowym-rozkladzie-Wenecja-Maroko-i-Egipt-9215385.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-10-24T13:00:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "140 połączeń do 37 krajów, oferowanych przez 25 linii znalazło się w zimowym rozkładzie lotów lotniska Kraków Airport, który wejdzie w życie od niedzieli. Według władz portu pozwoli to lotnisku nadal odnotowywać wzrosty liczby obsłużonych pasażerów w następnych miesiącach."
-    },
-    {
-      "title": "Giełdowe starcie pokoleń. Młodzi inwestorzy szukają okazji, ale obawiają się bessy",
-      "url": "https://www.bankier.pl/wiadomosc/Gieldowe-starcie-pokolen-Mlodzi-inwestorzy-szukaja-okazji-ale-obawiaja-sie-bessy-9217854.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-10-24T12:56:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Czy amerykańska hossa ma jeszcze paliwo, a polska giełda może mieć problemy, jeśli zagraniczny kapitał zacznie odpływać? Podczas debaty „Giełdowe starcie pokoleń” przedstawiciele Studenckiego Funduszu Inwestycyjnego Hossa ProCapital i Kamil Zatoński, znany jako Inwestor Wojtek, rozmawiali o wycenach spółek, selekcji akcji i ryzyku rynkowego załamania. W jednym byli zgodni: prawdziwy sprawdzian umiejętności inwestorskich przychodzi dopiero wtedy, gdy na giełdzie zaczyna się bessa."
-    },
-    {
       "title": "To koniec tej sieci komórkowej w Polsce. Telefony zostaną odłączone od internetu, od aplikacji i od banku. Zacznie się masowa wymiana smartfonów - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQRGlQdkhQQmJCSE5ETXFodFJ5cnUweklzWlVPMTlOZTBGVmtWSjNXdjRUTjBZeFNnNWNHdnVhQzh2VUVJYVVucEdOa2xtWENmcE9rVFhJY0hmWTUxR0JDN3FuY1RaQ2IwZXJRZ1pHNG5PYTFVM3NNVGVfc1NuRC1TdHBORllaNFdWRTJNZXRvZTRHcENJNUtOa1NCRGI2WDNCdGF4OHZsOTduY0x2QmhRUm1yaHBKVkhwbGdRajlYTHo2UVFtc05Ib1NMWGdvRk5wY1ZHLWxfTWtCM25FRF9wZDd4ZWE5THJ6bWt1YWNVQWFRUUNUc3k4OWhFcWpqTWFPYWhjdlh5SThRVWVnTkRHRy00ai13RTR2MzRWV3pzVGdIdlcybWR2WUNyblQ?oc=5",
       "date": "2026-10-24T12:39:24Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "To koniec tej sieci komórkowej w Polsce. Telefony zostaną odłączone od internetu, od aplikacji i od banku. Zacznie się masowa wymiana smartfonów Forsal.pl."
-    },
-    {
-      "title": "Sztuczna inteligencja podbija Polskę. GUS ujawnił skalę zjawiska",
-      "url": "https://www.bankier.pl/wiadomosc/Sztuczna-inteligencja-podbija-Polske-GUS-ujawnil-skale-zjawiska-9216100.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-10-24T12:30:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Dostęp do internetu w 2026 r. posiada 96,6 proc. gospodarstw domowych, to o 0,4 punktu procentowego więcej niż rok wcześniej - wynika z danych GUS."
     },
     {
       "title": "Waloryzacja progów PIT od 2028 r. Czy obejmie również kwotę wolną od podatku?",
