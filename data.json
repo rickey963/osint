@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T00:17:51Z",
+  "last_updated": "2026-10-25T00:18:36Z",
   "poland": [
     {
       "title": "RCB ostrzega przed wichurą na Dolnym Śląsku. W Tatrach nie czas na \"zwykłą wycieczkę\"",
@@ -1008,12 +1008,20 @@
   ],
   "technology": [
     {
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "date": "2026-10-24T23:33:19Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 7 # Comments: 2."
+    },
+    {
       "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
       "url": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
       "date": "2026-10-24T23:14:30Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.makeuseof.com/google-nest-thermostats-unsupported/ Comments URL: https://news.ycombinator.com/item?id=50226434 Points: 9 # Comments: 0."
+      "summary": "Article URL: https://www.makeuseof.com/google-nest-thermostats-unsupported/ Comments URL: https://news.ycombinator.com/item?id=50226434 Points: 19 # Comments: 3."
     },
     {
       "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
@@ -1021,7 +1029,7 @@
       "date": "2026-10-24T23:11:54Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 20 # Comments: 11."
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 45 # Comments: 17."
     },
     {
       "title": "Argus – a free, open-source agentic security operations platform – MIT",
@@ -1029,7 +1037,7 @@
       "date": "2026-10-24T21:54:16Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://thomasunise.com/argus Comments URL: https://news.ycombinator.com/item?id=50225748 Points: 22 # Comments: 7."
+      "summary": "Article URL: https://thomasunise.com/argus Comments URL: https://news.ycombinator.com/item?id=50225748 Points: 23 # Comments: 7."
     },
     {
       "title": "We should be more ambitious with the software we build",
@@ -1037,7 +1045,7 @@
       "date": "2026-10-24T21:47:31Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 77 # Comments: 46."
+      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 101 # Comments: 60."
     },
     {
       "title": "Small Programs and Languages",
@@ -1053,7 +1061,7 @@
       "date": "2026-10-24T21:42:47Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 10 # Comments: 3."
+      "summary": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 12 # Comments: 3."
     },
     {
       "title": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)",
@@ -1069,7 +1077,7 @@
       "date": "2026-10-24T20:30:31Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 357 # Comments: 199."
+      "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 366 # Comments: 209."
     },
     {
       "title": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)",
@@ -1078,14 +1086,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "The Information: Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount &mdash; OpenAI's efforts to undercut Anthropic on price are producing some results. &mdash; For instance, in May, Anthropic models powered 57% &hellip;."
-    },
-    {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "url": "https://missileer.watch",
-      "date": "2026-10-24T19:43:27Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 99 # Comments: 63."
     },
     {
       "title": "Gen Z odkryło cyfrówki na nowo. Takie zdjęcia zrobisz też smartfonem",
@@ -1828,6 +1828,14 @@
       "summary": "To koniec tej sieci komórkowej w Polsce. Telefony zostaną odłączone od internetu, od aplikacji i od banku. Zacznie się masowa wymiana smartfonów Forsal.pl."
     },
     {
+      "title": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM01nUFpjSEIyR29BVHZqWTk0NDdtUDFoQXRCOHdnQ2FrNUVLN20tcnRMU3dGWV9vRkdheFp2d0JQREVhX1RCSXptbkNIRnRybmxqVVUtYjRHXzhmWWdhTFg4bEhFck1WUnFCTlBvQkVjLW1hbFBob3ZKS0NMVjgta2E1aW5kdDVJN0FLRngtWHlscE5RdS1xdEJTNnhXVHQ4dUsxcUlKeldjbFlYcHRRc1R3Qmw3YkV0S1cwdkhpTGotZlN4WXo0XzR5empTbTVzVmUwRE9QWEZBekw2bVFBMC16Tmk1cVcx?oc=5",
+      "date": "2026-10-24T21:51:59Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu Forsal.pl."
+    },
+    {
       "title": "Gorzka niespodzianka dla korzystających z kominków i centralnego ogrzewania. Można zapłacić wysoką grzywnę - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcDloZTIzeGZnaEZTZU5MYUtkUGxzaGZ0OVdlZWptYkgzV3VIZ01VcE12YTNRNFJZbmRSWTBsMjdhZEhSVHZVS2hGc29jN3JoeFhsd2V1WWUtay04YmJCbzdVWkxCSWI1OEx2NUk4engyODFKcVRKdGFReWZIZTdSbm1PUGVwR0ItMlZJZzRNX25xYVFKbm5IdnMzRDR5TWlKMVRyZE1iQk1fdzhFQW96V2thdjNKRUdfd3kxVmdXRkRLcmpTZ2NwajE1WlY3am9TakI0NzNkN2pXX0pEWkRlQUMwSk5rbHVPSUpPeUxacUd0dWM?oc=5",
       "date": "2026-10-24T21:47:58Z",
@@ -1884,14 +1892,6 @@
       "summary": "Na Targach Obrony Totalnej, rozpoczętych we wtorek w Sztokholmie, oprócz dronów i innych innowacji zaprezentowano m.in. uniwersalne kuchnie polowe. Szwedzkie gminy zaczynają przygotowywać się do wydawania posiłków podczas kryzysu lub wojny."
     },
     {
-      "title": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONENzYVZmZ2xnRkR6TERJWEJWMEl6ZXFoaWxORWNaUUtuQVc0Z2k1RWlKT3p0QlY3cDVsWk9GT2I2RkZpLThrTkh0eTFvaVNycEowMkNLNWlOekdUcFBUTEY0bjdOdHdqZnlDUGN4MFJTWDhCQWVZVWJpTWFIZEVuVUR4SklBN05fZDFkcWdaYlpMNkdJYTVuNnNkUUVIRjVHUnFsTy1hSWRGRTNQbjh4aE5qY3pKZXpOZnZ4UGhLVG1SWUx5cFFON0pMSFFHdXNDMjhTeXZGaFNyTGlNNGpNdEJTd00?oc=5",
-      "date": "2026-10-24T17:58:40Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu Forsal.pl."
-    },
-    {
       "title": "Negocjacje z USA zakończyły się fiaskiem. Iran da kolejną szansę?",
       "url": "https://www.bankier.pl/wiadomosc/Negocjacje-z-USA-zakonczyly-sie-fiaskiem-Iran-da-kolejna-szanse-9217891.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-10-24T17:12:00Z",
@@ -1932,12 +1932,20 @@
       "summary": "To koniec fotowoltaiki na takich zasadach. Będzie zmiana przepisów. Datę już wskazali Forsal.pl."
     },
     {
-      "title": "Trendy OW20O274700 GPW - ORGANIZATOR OBROTU - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43VVFBM3VSVTRIVWdKRHQ5Y0F6Y19hZ29IM2thT0dRT3NxQTFUWV9BSnY5VUJvcm1Wb3ZIVzBDSmo3eDNRWGNvcWUyZzF0OVhfTk4wTElicEtMUzI1aTlZUUtKNVY3MzhickhxLUxOLTBTdw?oc=5",
-      "date": "2026-10-24T15:55:41Z",
+      "title": "Analiza techniczna OW20A274050 GPW - ORGANIZATOR OBROTU - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQY1Z6WlA1eS13Ri1NQ21oVHp1Um56dVRXbTd6aFQtUWxhTVViWTgtSE5wUHQ2MTdGelR0VHhFdjE5RlNnQkxJX1VBb2VQRTl1LTAzSTFSLW1EcGJKZVhtcEs2S2U2bDZiSWVyMkRnLTlBZw?oc=5",
+      "date": "2026-10-24T16:11:40Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Trendy OW20O274700 GPW - ORGANIZATOR OBROTU BiznesRadar."
+      "summary": "Analiza techniczna OW20A274050 GPW - ORGANIZATOR OBROTU BiznesRadar."
+    },
+    {
+      "title": "Analiza techniczna OW20I274700 GPW - ORGANIZATOR OBROTU - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tZzl2UUNEUVIwOHBTM2pmRFBiTkZ6dGFRMnpZTjVSMXFFaVNiaFBJYWh4THVfY0RGczNpZmhTNzZrZ1FNS2VuY2w4MXJXUnh6eW5uSG1zYzdOTnN4cFBYVUs2dkVZck4yd2lCaktjalB6X3k2MHc?oc=5",
+      "date": "2026-10-24T15:40:47Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Analiza techniczna OW20I274700 GPW - ORGANIZATOR OBROTU BiznesRadar."
     },
     {
       "title": "Burza w sieci. Podatki spółki Andziaks zelektryzowały polityków. \"Nóż się otwiera\"",
@@ -2036,6 +2044,14 @@
       "summary": "Sejm przyjął poprawkę Ryszarda Petru, która zakłada automatyczną waloryzację progów podatkowych o inflację od 2028 r. Ekonomista Artur Krawczyk wskazuje na niejasności w przepisach. Wątpliwości dotyczą m.in."
     },
     {
+      "title": "Komunikat ESPI ADIUVO INVESTMENTS SPÓŁKA AKCYJNA W RESTRUKTURYZACJI (adiuvo): Sprostowanie przez Sąd restrukturyzacyjny postanowienia w przedmiocie zatwierdzenia układu. - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWjh1dU83UUd2SlVzWnItRnNITEJJM3pRZy1WNHpGUmV5ZXUyTGczRk9CQzNMR0xsTVJla3lPV1cwRVIzMVVBdDRmckpuck1nQ3Rjd1hMZVJZZ2llNV84cDhwc2R3aFhBSEIzWUtkSWJNd0dEdGVpTXZsdDdhNUJHYjBUcWR1Q0p3YjcxNWwtMVlwZ3YzTFBrbGNOTEMyYmhBVzdIYTdRQ3RPeUFmUXdhV2o1dVVhUGtyZEJha3RKN3dRU1IwcV9ESTZ2VE9KeFJjbG9qT25R?oc=5",
+      "date": "2026-10-23T17:19:26Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat ESPI ADIUVO INVESTMENTS SPÓŁKA AKCYJNA W RESTRUKTURYZACJI (adiuvo): Sprostowanie przez Sąd restrukturyzacyjny postanowienia w przedmiocie zatwierdzenia układu. StockWatch.pl."
+    },
+    {
       "title": "CARLSON INVESTMENTS SE (25/2026) Raport roczny - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU0ltQVZVa2RKbjVuanRqSFhUU0N4SDhaS0R2YkNzVUZnZlhwZFB1T3ZVcHpFUnZUenRPLUt5NHlXX1lnMjQ0SlZ0Qm9hZGVEa1ZTN0xuMWhUV1F0SUp2Yk5Ccnh3aTNzOGh6WGdVblFGQnYxR001NkpqZkJnSlJ3TlhwRUJjcGM?oc=5",
       "date": "2026-10-23T15:54:00Z",
@@ -2066,14 +2082,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Wiadomości PZU BiznesRadar."
-    },
-    {
-      "title": "Wiadomości SCANWAY (SCW) - strona: 12 - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zRFFvWC1MUXdURC12SnlsZFVWYzEtVVZXMUFVM0tqUnNjSkdtT3p1OGxURU5PbXRGd0U5NGtFUE1Oa2lpeHRHMU93X2o1amtMaUl4MmhQbw?oc=5",
-      "date": "2026-10-23T14:59:43Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości SCANWAY (SCW) - strona: 12 BiznesRadar."
     },
     {
       "title": "Jak się odbiera telefon od szefa Nvidii? Polka zdradza kulisy pracy w gigancie - Forbes",
@@ -2202,14 +2210,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "sWIG80 przełamuje kluczowe wsparcie Paweł Biedrzycki pt., 23.10.2026 swig80 WIG-banki Wstęp do wpisu Sesja 22 października 2026: #sWIG80, #WIGBanki, spółki godne uwagi sWIG80 przełamuje kluczowe wsparcie Paweł Biedrzycki."
-    },
-    {
-      "title": "Możliwy Pat wyborczy i jego wpływ na giełdę. - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelJybERNYkk5UGhkY2NoVlZuczNXdnRudXpuUjVJeXA2UkFKaG5jQ2pJOXc1dEdVSjZhb294RWFveV9YdGFPZkt5eFJHbTNjX282THZ4YUZ0SGZ5bVpwc18yZW51QndCbTVrVXhkdjBESzhmajRFUEF4eWRBci1JblRYVE9wdGlyOWJTYWZTdVZiZ2JJeGhncFlzZlA?oc=5",
-      "date": "2026-10-22T19:45:58Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Możliwy Pat wyborczy i jego wpływ na giełdę. StockWatch.pl."
     }
   ],
   "critical_alerts": [
