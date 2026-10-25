@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T06:52:54Z",
+  "last_updated": "2026-10-25T06:53:43Z",
   "poland": [
     {
       "title": "Czym jest „uśmiechnięta depresja”? Oto dlaczego chorzy cierpią w ukryciu",
@@ -283,7 +283,7 @@
     },
     {
       "title": "AI już nie wystarczy. Futurysta omawia siedem technologii, które zaraz odmienią świat [LISTA]",
-      "url": "https://businessinsider.com.pl/technologie/nowe-technologie/samo-ai-to-juz-za-malo-futurysta-te-7-trendow-wkrotce-odmieni-swiat/58f66sn",
+      "url": "https://businessinsider.com.pl/technologie/nowe-technologie/samo-ai-to-juz-za-malo-futurysta-te-siedem-trendow-wkrotce-odmieni-swiat/58f66sn",
       "date": "2026-10-24T13:27:55Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
@@ -1730,6 +1730,14 @@
       "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set."
     },
     {
+      "title": "Beware the claw: Do you want to win the bunny or reboot Android?",
+      "url": "https://www.theregister.com/offbeat/2026/10/23/beware-the-claw-do-you-want-to-win-the-bunny-or-reboot-android/5304172",
+      "date": "2026-10-23T08:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Classic arcade game put to shame by judgemental Bugdroid."
+    },
+    {
       "title": "Prokuratura straciła uznaną ekspertkę. Prof. Gryszczyńska zabrała głos po odwołaniu",
       "url": "https://cyberdefence24.pl/armia-i-sluzby/prokuratura-stracila-uznana-ekspertke-prof-gryszczynska-zabrala-glos-po-odwolaniu",
       "date": "2026-10-23T08:21:09Z",
@@ -1800,14 +1808,6 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Nieco więcej w notce tutaj. A w skrócie: W każdym razie ICO pisze tak: &#8220;Password1 is not an appropriate password&#8221;. ~ms Artykuł &#8220;Hasło Password1 &#8211; nie jest dobrym hasłem&#8221; &#8211; tak ostrzega brytyjskie ICO (odpowiednik naszego Urzędu Ochrony Danych Osobowych)."
-    },
-    {
-      "title": "Krytyczne podatności w urządzeniach Fortinet. Łatajcie się!",
-      "url": "https://sekurak.pl/krytyczne-podatnosci-w-urzadzeniach-fortinet-latajcie-sie/",
-      "date": "2026-10-22T06:53:05Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Producent poinformował o nadchodzących łatach dla krytycznych / poważnych podatności: FortiOS, FortiManager, FortiAnalyzer Łatki mają być dostępne dzisiaj (22 października). Dla FortiMail / FortiAuthenticator powinny być dostępne już teraz. Producent zaleca aby potraktować te łatki priorytetowo: We recommend customers treat this release as a priority change rather than a routine..."
     }
   ],
   "finance": [
