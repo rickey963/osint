@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T04:55:48Z",
+  "last_updated": "2026-10-25T05:00:52Z",
   "poland": [
     {
       "title": "Minionej nocy nie przestawili zegarków. Europejski kraj wycofał się ze zmiany czasu 60 lat temu",
@@ -1426,14 +1426,6 @@
       "summary": "Designed to carry out 100,000 steps without human approval."
     },
     {
-      "title": "Końcowe odliczanie! Mega Sekurak Hacking Party startuje już w najbliższy poniedziałek",
-      "url": "https://sekurak.pl/koncowe-odliczanie-mega-sekurak-hacking-party-startuje-juz-w-najblizszy-poniedzialek/",
-      "date": "2026-10-24T12:52:53Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Odliczanie dobiega końca. Już w najbliższy poniedziałek ruszamy z Mega Sekurak Hacking Party! W tym roku spotykamy się w krakowskim Centrum Kongresowym ICE, by przez dwa dni chłonąć wyłącznie bezkompromisową, praktyczną wiedzę o bezpieczeństwie IT."
-    },
-    {
       "title": "Raspberry Pi Desktop proves old PCs aren't past it",
       "url": "https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676",
       "date": "2026-10-24T11:30:00Z",
@@ -1586,14 +1578,6 @@
       "summary": "Interesting new project from the minds behind SparkyLinux."
     },
     {
-      "title": "Node2Shell (CVE-2026-111497): RCE przez dekompresję Brotli w Node.js",
-      "url": "https://sekurak.pl/node2shell-cve-2026-111497-rce-przez-dekompresje-brotli-w-node-js/",
-      "date": "2026-10-23T14:19:32Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Ostatnie dni były szczególnie intensywne dla naszej cyber-niszy. Najpierw zagrożenie ze strony słabych kluczy kryptograficznych pośredniego CA, potem podatność dotykająca szerokie spektrum web aplikacji opartych na PHP, podatność w BIND, GitLab. Dzieje się."
-    },
-    {
       "title": "Zamieszki we Francji. W tle Rosja, Iran, obrazy AI",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/zamieszki-we-francji-w-tle-rosja-iran-obrazy-ai",
       "date": "2026-10-23T14:16:04Z",
@@ -1730,6 +1714,14 @@
       "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set."
     },
     {
+      "title": "Beware the claw: Do you want to win the bunny or reboot Android?",
+      "url": "https://www.theregister.com/offbeat/2026/10/23/beware-the-claw-do-you-want-to-win-the-bunny-or-reboot-android/5304172",
+      "date": "2026-10-23T08:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Classic arcade game put to shame by judgemental Bugdroid."
+    },
+    {
       "title": "Prokuratura straciła uznaną ekspertkę. Prof. Gryszczyńska zabrała głos po odwołaniu",
       "url": "https://cyberdefence24.pl/armia-i-sluzby/prokuratura-stracila-uznana-ekspertke-prof-gryszczynska-zabrala-glos-po-odwolaniu",
       "date": "2026-10-23T08:21:09Z",
@@ -1738,28 +1730,20 @@
       "summary": "Profesor Agnieszka Gryszczyńska po odwołaniu z funkcji dyrektor odpowiedzialnej za walkę z cyberprzestępczością w Prokuraturze Krajowej podjęła decyzję o zrzeczeniu się stanowiska prokuratora. Sytuacja wywołała poruszenie w branży. Ekspertka zdecydowała się zabrać głos w sprawie."
     },
     {
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "date": "2026-10-23T07:40:45Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote."
+    },
+    {
       "title": "Tysiące agentów AI w Banku Pekao. Koniec eksperymentów",
       "url": "https://cyberdefence24.pl/biznes-i-finanse/tysiace-agentow-ai-w-banku-pekao-koniec-eksperymentow",
       "date": "2026-10-23T07:00:55Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Ponad 5,5 tys. agentów sztucznej inteligencji stworzonych przez pracowników, 60 proc. załogi korzystającej z AI i procedury, których wyszukanie zamiast godziny zajmuje kilkanaście sekund."
-    },
-    {
-      "title": "101 złośliwych pakietów npm wykorzystuje Baileys do pozyskiwania obserwujących na WhatsApp",
-      "url": "https://sekurak.pl/101-zlosliwych-pakietow-npm-wykorzystuje-baileys-do-pozyskiwania-obserwujacych-na-whatsapp/",
-      "date": "2026-10-23T06:56:20Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Badacze bezpieczeństwa z OX Research zidentyfikowali 101 złośliwych paczek npm będących częścią tej samej kampanii. Jej celem było… zwiększanie liczby subskrybentów kanałów na WhatsApp. Złośliwe pakiety wykorzystują otwartoźródłową bibliotekę Baileys (służącą do interakcji z API WhatsApp), aby dodawać obserwacje z kont ofiar bez ich zgody."
-    },
-    {
-      "title": "Holenderska policja zatrzymała 24-latka podejrzewanego o związki z ShinyHunters",
-      "url": "https://sekurak.pl/holenderska-policja-zatrzymala-24-latka-podejrzewanego-o-zwiazki-z-shinyhunters/",
-      "date": "2026-10-23T06:47:51Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Jak donosi portal The Hacker News, w Holandii doszło do zatrzymania 24-letniego mężczyzny z Amsterdamu w związku z działalnością grupy ShinyHunters. TLDR: Chociaż organy ścigania – poza potwierdzeniem faktu zatrzymania – nie ujawniły żadnych szczegółów, dziennikarze Dissent Doe z DataBreaches.Net oraz Brian Krebs niezależnie zidentyfikowali zatrzymanego mężczyznę jako Pepijna van... Artykuł Holenderska policja zatrzymała 24-latka podejrzewanego o związki z ShinyHunters pochodzi z serwisu Sekurak."
     },
     {
       "title": "Dezinformacja zamienia szkolne procedury bezpieczeństwa w scenariusz grozy",
@@ -1792,22 +1776,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Nowe kontakty, praktyczna wiedza i rozmowy o możliwościach rozwoju przedsiębiorstw. II Kongres MŚP na Dolnym Śląsku połączył lokalny biznes z ekspertami, instytucjami finansowymi i administracją. Pod hasłem „Dolny Śląsk."
-    },
-    {
-      "title": "“Hasło Password1 – nie jest dobrym hasłem” – tak ostrzega brytyjskie ICO (odpowiednik naszego Urzędu Ochrony Danych Osobowych).",
-      "url": "https://sekurak.pl/haslo-password1-nie-jest-dobrym-haslem-tak-ostrzega-brytyjskie-ico-odpowiednik-naszego-urzedu-ochrony-danych-osobowych/",
-      "date": "2026-10-22T09:20:40Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Nieco więcej w notce tutaj. A w skrócie: W każdym razie ICO pisze tak: &#8220;Password1 is not an appropriate password&#8221;. ~ms Artykuł &#8220;Hasło Password1 &#8211; nie jest dobrym hasłem&#8221; &#8211; tak ostrzega brytyjskie ICO (odpowiednik naszego Urzędu Ochrony Danych Osobowych)."
-    },
-    {
-      "title": "Krytyczne podatności w urządzeniach Fortinet. Łatajcie się!",
-      "url": "https://sekurak.pl/krytyczne-podatnosci-w-urzadzeniach-fortinet-latajcie-sie/",
-      "date": "2026-10-22T06:53:05Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Producent poinformował o nadchodzących łatach dla krytycznych / poważnych podatności: FortiOS, FortiManager, FortiAnalyzer Łatki mają być dostępne dzisiaj (22 października). Dla FortiMail / FortiAuthenticator powinny być dostępne już teraz. Producent zaleca aby potraktować te łatki priorytetowo: We recommend customers treat this release as a priority change rather than a routine..."
     }
   ],
   "finance": [
@@ -1826,6 +1794,14 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Niedziela handlowa 25.10.2026. Sklepy otwarte 25 października czy obowiązuje dzisiaj zakaz handlu? Forsal.pl."
+    },
+    {
+      "title": "To koniec tej sieci komórkowej w Polsce. Telefony zostaną odłączone od internetu, od aplikacji i od banku. Zacznie się masowa wymiana smartfonów - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQRGlQdkhQQmJCSE5ETXFodFJ5cnUweklzWlVPMTlOZTBGVmtWSjNXdjRUTjBZeFNnNWNHdnVhQzh2VUVJYVVucEdOa2xtWENmcE9rVFhJY0hmWTUxR0JDN3FuY1RaQ2IwZXJRZ1pHNG5PYTFVM3NNVGVfc1NuRC1TdHBORllaNFdWRTJNZXRvZTRHcENJNUtOa1NCRGI2WDNCdGF4OHZsOTduY0x2QmhRUm1yaHBKVkhwbGdRajlYTHo2UVFtc05Ib1NMWGdvRk5wY1ZHLWxfTWtCM25FRF9wZDd4ZWE5THJ6bWt1YWNVQWFRUUNUc3k4OWhFcWpqTWFPYWhjdlh5SThRVWVnTkRHRy00ai13RTR2MzRWV3pzVGdIdlcybWR2WUNyblQ?oc=5",
+      "date": "2026-10-24T22:07:51Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "To koniec tej sieci komórkowej w Polsce. Telefony zostaną odłączone od internetu, od aplikacji i od banku. Zacznie się masowa wymiana smartfonów Forsal.pl."
     },
     {
       "title": "„Pellet plus” dla gospodarstw domowych już tej jesieni. Nawet 1200 zł przy wydatkach na zakup paliwa - Forsal.pl",
@@ -1932,12 +1908,12 @@
       "summary": "Analiza techniczna OW20A274050 GPW - ORGANIZATOR OBROTU BiznesRadar."
     },
     {
-      "title": "Analiza techniczna OW20I274700 GPW - ORGANIZATOR OBROTU - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tZzl2UUNEUVIwOHBTM2pmRFBiTkZ6dGFRMnpZTjVSMXFFaVNiaFBJYWh4THVfY0RGczNpZmhTNzZrZ1FNS2VuY2w4MXJXUnh6eW5uSG1zYzdOTnN4cFBYVUs2dkVZck4yd2lCaktjalB6X3k2MHc?oc=5",
-      "date": "2026-10-24T15:40:47Z",
+      "title": "Analiza techniczna OW20M274400 GPW - ORGANIZATOR OBROTU - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8ybUV3V2g4cTZNRzloTjVzR25hRURiQ3JZRFRLUGZHMUVHOGhKd2NsUHBsWjc0eElvQ1ctUFlaNnVHR25VZVdTczlENUVDcDVHVFpKNXQ1MURhMDdwUExrNU5xRWVBTjRaWVExN3JXODdUZjg3YVE?oc=5",
+      "date": "2026-10-24T15:45:38Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna OW20I274700 GPW - ORGANIZATOR OBROTU BiznesRadar."
+      "summary": "Analiza techniczna OW20M274400 GPW - ORGANIZATOR OBROTU BiznesRadar."
     },
     {
       "title": "Burza w sieci. Podatki spółki Andziaks zelektryzowały polityków. \"Nóż się otwiera\"",
@@ -1972,6 +1948,14 @@
       "summary": "Ponad 440 mln zł dofinansowania nie wystarczyło, by polska spółka technologiczna zdecydowała się kontynuować wielką inwestycję. VIGO Photonics wycofuje się z projektu HyperPIC w dotychczasowej formule, argumentując, że ryzyko finansowe jest zbyt duże. Firma musiałaby zaangażować ponad 150 mln zł własnych środków już na etapie prac badawczych."
     },
     {
+      "title": "Bez kolejki i całą dobę. Rewolucja w ochronie zdrowia już od niedzieli. Wyjaśniamy, co się zmieni - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUWVLNGlBcmpTN3FWOXVzT1ZFcEJLUkdYYVdlOFNhUVB3NHFhVWgtSG9hbXhiOXRucUJHYmludTdiRFh1OXhzQWdFS3VqSWUwcUtmbGJSY3FMaWx3TTVxUzExY2NlSUdlUGQ2TGNDZTVweFJVSkg0Y01zQ1doWEJQVTRDbnVIZGxPeUEycC1CTXJKdWQyT3c4MG9QTFJIMU56N25pVWFhaXJrQ1pWWVlieGIzQnhJb1FycHhyZ1NxREpmR00wa1E?oc=5",
+      "date": "2026-10-24T10:08:20Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Bez kolejki i całą dobę. Rewolucja w ochronie zdrowia już od niedzieli. Wyjaśniamy, co się zmieni Forsal.pl."
+    },
+    {
       "title": "Polska nauka może zadebiutować na Nasdaq. Paweł Przewięźlikowski o tym, jak powstała NodThera, spin-off Ryvu Therapeutics",
       "url": "https://strefainwestorow.pl/wywiady/ryvu-therapeutics-pawel-przewiezlikowski-nodthera-spin-off",
       "date": "2026-10-24T09:15:15Z",
@@ -1994,22 +1978,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Rezygnacja z podwyżki stawek CIT dla największych firm oznacza konieczność szukania oszczędności w budżecie na 2027 rok – powiedział wiceminister finansów Jarosław Neneman."
-    },
-    {
-      "title": "Tyle pieniędzy potrzebuje co miesiąc emeryt, by przetrwać. Padły konkretne kwoty - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZWFWTzh5Q2l2c2RkRU1sZ3B5bkQ3VGlCMXVmZ1lqWGdURVN3czl6Y0dadFc4akJFcVRULXY2Ukl4azRqVndadU5WeXJHNkotMXMyczRtUmJUcjlRcDFETmpCRkJmc1R1eTFjMUJoZW5iVWlWR0swWHpnQ0lWdGpFN3NzS3lKVWZZYnlWNGItbTJRLV9EQzYwRjR3Y1BJMmpYYUh5NVBzd1dIOGJNWnNQUkJVemRvNWhLZnRHbzdjSnZfVVNVQlIwM1pyc1ZBVzA?oc=5",
-      "date": "2026-10-24T07:15:28Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Tyle pieniędzy potrzebuje co miesiąc emeryt, by przetrwać. Padły konkretne kwoty Forsal.pl."
-    },
-    {
-      "title": "Renta wdowia: ZUS podniesie wypłaty od stycznia 2027 r. Część seniorów czeka jednak bolesne zderzenie z limitem - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOandNREtsdV95YUJPZWREaXNRd0ZEZURwZVlHOW9yOUhXblBJYmZIdlB3MXljMVgzbW81dHBrc3EzSHVLaVpJWDA5RVlzSHZzeXZ6Ukc0NjdnTUlseExEQktQSm5WQ25pZXE3RDJyTGRIOXlKdmNiRTU3RkQzR0hQVFdWc0lYSWMteWhNS3pzUENleVppbGEtSUZKQkV3TDRobFpETWNRZVMwcndJMmhfbTl6b2s1UGwzRUFSaFVDSTRTX1RPRGpBZ2NnMlFiSkFGUnpMNU00bFBXUEc2NUFoTnVRZ3NCOUYtenl6ZDhhNnVJZnBJaGk3cWxXV2dWQ2xDWXZMOTZkMA?oc=5",
-      "date": "2026-10-24T06:36:16Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Renta wdowia: ZUS podniesie wypłaty od stycznia 2027 r. Część seniorów czeka jednak bolesne zderzenie z limitem Forsal.pl."
     },
     {
       "title": "Złota rozgrywka. Putin sięga po rezerwy. Polska robi coś dokładnie odwrotnego",
@@ -2042,14 +2010,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Sejm przyjął poprawkę Ryszarda Petru, która zakłada automatyczną waloryzację progów podatkowych o inflację od 2028 r. Ekonomista Artur Krawczyk wskazuje na niejasności w przepisach. Wątpliwości dotyczą m.in."
-    },
-    {
-      "title": "Komunikat ESPI ADIUVO INVESTMENTS SPÓŁKA AKCYJNA W RESTRUKTURYZACJI (adiuvo): Sprostowanie przez Sąd restrukturyzacyjny postanowienia w przedmiocie zatwierdzenia układu. - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWjh1dU83UUd2SlVzWnItRnNITEJJM3pRZy1WNHpGUmV5ZXUyTGczRk9CQzNMR0xsTVJla3lPV1cwRVIzMVVBdDRmckpuck1nQ3Rjd1hMZVJZZ2llNV84cDhwc2R3aFhBSEIzWUtkSWJNd0dEdGVpTXZsdDdhNUJHYjBUcWR1Q0p3YjcxNWwtMVlwZ3YzTFBrbGNOTEMyYmhBVzdIYTdRQ3RPeUFmUXdhV2o1dVVhUGtyZEJha3RKN3dRU1IwcV9ESTZ2VE9KeFJjbG9qT25R?oc=5",
-      "date": "2026-10-23T17:19:26Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat ESPI ADIUVO INVESTMENTS SPÓŁKA AKCYJNA W RESTRUKTURYZACJI (adiuvo): Sprostowanie przez Sąd restrukturyzacyjny postanowienia w przedmiocie zatwierdzenia układu. StockWatch.pl."
     },
     {
       "title": "Rentowność polskich obligacji blisko 6,5 proc. Co dalej? - StockWatch.pl",
@@ -2210,6 +2170,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "sWIG80 przełamuje kluczowe wsparcie Paweł Biedrzycki pt., 23.10.2026 swig80 WIG-banki Wstęp do wpisu Sesja 22 października 2026: #sWIG80, #WIGBanki, spółki godne uwagi sWIG80 przełamuje kluczowe wsparcie Paweł Biedrzycki."
+    },
+    {
+      "title": "Możliwy Pat wyborczy i jego wpływ na giełdę. - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelJybERNYkk5UGhkY2NoVlZuczNXdnRudXpuUjVJeXA2UkFKaG5jQ2pJOXc1dEdVSjZhb294RWFveV9YdGFPZkt5eFJHbTNjX282THZ4YUZ0SGZ5bVpwc18yZW51QndCbTVrVXhkdjBESzhmajRFUEF4eWRBci1JblRYVE9wdGlyOWJTYWZTdVZiZ2JJeGhncFlzZlA?oc=5",
+      "date": "2026-10-22T19:45:58Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Możliwy Pat wyborczy i jego wpływ na giełdę. StockWatch.pl."
     }
   ],
   "critical_alerts": [
@@ -2268,8 +2236,8 @@
       "lng": -2.5,
       "type": "cyber",
       "region": "Wielka Brytania",
-      "description": "Nieco więcej w notce tutaj.",
-      "url": "https://sekurak.pl/haslo-password1-nie-jest-dobrym-haslem-tak-ostrzega-brytyjskie-ico-odpowiednik-naszego-urzedu-ochrony-danych-osobowych/"
+      "description": "Whitehall wants tougher penalties and new powers over telecoms operators as Russian activity raises alarm.",
+      "url": "https://www.theregister.com/networks/2026/10/23/uk-threatens-subsea-cable-saboteurs-with-14-years-behind-bars/5304794"
     },
     {
       "lat": 12.86,
