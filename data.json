@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T15:52:09Z",
+  "last_updated": "2026-10-25T15:52:57Z",
   "poland": [
     {
       "title": "\"Putin próbuje tchnąć mit\". ISW ujawnia liczby",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Russia says it hit two cargo vessels and Ukrainian logistics hubs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0tvWFptSmJsT1Z6OERuX3EyU25sZDlDb1JreXFGV0dlUlNMMXJiLWZaVHJxR2w5MnA0MVRqMnZ2NS1GWmxxWVRYN1BWc2NZSWtCdWlJQlFYQkE2Vy1mM2FIRlJud0YtTmR5UGg2YkNjYUl2OGw1ODF1eDRZWF9INjhQLXpldUVCSDZCSmtodTg4M1pyTmNCSWtZdnYzUDNDLXpGUU5tcl83Wkk?oc=5",
+      "date": "2026-10-25T15:35:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Russia says it hit two cargo vessels and Ukrainian logistics hubs Reuters."
+    },
+    {
       "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
       "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-25T15:32:51Z",
@@ -588,14 +596,6 @@
       "summary": "Serbia election: Main players, voter concerns and what is at stake Reuters."
     },
     {
-      "title": "How Ukraine's strikes on Russian energy sites deepened the rift with Trump - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXpULV9fUktZbnM0SlNnU1prS1RjMmp2b1FfakpycmpYU2pwelRVOWxsZTFVY1I5bUE3Wm82S1I4WG1kZHBIcExkeWhlRlV5Yjc2OWJnMDZDbnFSNnhLV3FlNUFBUnhxaDJ5b1ZjRVgwUHE1ZUVIYWwyNWdNR3J2ajMwWGlsTGRaX0tGOGFnOVE4ZVd3VGU3cEFmTGRGQWpyaDZjQ0hySnpaN2Nlc2hOR1VUT1VJYXBJSW4w?oc=5",
-      "date": "2026-10-25T11:03:18Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "How Ukraine's strikes on Russian energy sites deepened the rift with Trump Reuters."
-    },
-    {
       "title": "Demand for UK government action 10 months after British man’s death in Grenada",
       "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
       "date": "2026-10-25T11:00:01Z",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+      "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+      "date": "2026-10-25T15:50:53Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month."
+    },
+    {
       "title": "Italy’s Young Protesters Return to the Streets",
       "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
       "date": "2026-10-25T15:41:09Z",
@@ -788,14 +796,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America."
-    },
-    {
-      "title": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
-      "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-      "date": "2026-10-25T14:05:17Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month and have threatened to strike it again."
     },
     {
       "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
@@ -2244,7 +2244,7 @@
       "lng": 53.69,
       "type": "conflict",
       "region": "Iran",
-      "description": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month and have threatened to strike it again.",
+      "description": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.",
       "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
     },
     {
