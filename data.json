@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-25T06:04:21Z",
+  "last_updated": "2026-10-25T06:05:04Z",
   "poland": [
+    {
+      "title": "Sikorski przewiduje problemy Rosji. Mówi, kiedy wyczerpią się jej zasoby",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33097432,sikorski-przewiduje-problemy-rosji-mowi-kiedy-wyczerpia-sie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-10-25T06:00:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Sytuację na froncie w Ukrainie należy obecnie ocenić jako remis, jednak w przyszłym roku zasoby Rosji zaczną się wyczerpywać, jeśli Ukraina przetrwa nadchodzącą zimę - powiedział wicepremier i minister spraw zagranicznych Radosław Sikorski."
+    },
     {
       "title": "Znów gaz, armatki wodne i kamienie - protesty w Europie. Szef MSZ Słowacji leci do Moskwy [NA POCZĄTEK DNIA]",
       "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33097415,znow-gaz-armatki-wodne-i-kamienie-protesty-w-europie-szef.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -280,14 +288,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Kopalnia Soli Kłodawa po ubiegłorocznych stratach ma zamiar wrócić na ścieżkę rentowności. Ministerstwo Aktywów Państwowych przedstawiło prognozy wskazujące na znaczącą poprawę sytuacji finansowej przedsiębiorstwa."
-    },
-    {
-      "title": "Po kolizji policjanci znaleźli zwłoki w samochodzie. Kierowca był pijany",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33096942,po-kolizji-policjanci-znalezli-zwloki-w-samochodzie-kierowca.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-10-24T13:00:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Mężczyzna, który kierował Fordem i wjechał w tył innego auta, miał we krwi 2,5 promila alkoholu. Na tylnym siedzeniu wiózł zwłoki 43-latka."
     },
     {
       "title": "Ostre cięcia w Krakowie. Nowy prezydent zaczyna swoje porządki",
@@ -1008,6 +1008,30 @@
   ],
   "technology": [
     {
+      "title": "Kosmos narysował gigantyczny znak. Co to jest?",
+      "url": "https://spidersweb.pl/2026/10/chandra-gromady-galaktyk-klucz-wiolinowy.html",
+      "date": "2026-10-25T06:01:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Kosmos narysował gigantyczny znak. Co to jest?"
+    },
+    {
+      "title": "How a Blackstone-led $2.3B private credit loan to CoreWeave in 2023 became a blueprint for chip-backed debt, which is on track to become a $1T market (Bloomberg)",
+      "url": "https://www.techmeme.com/261025/p6#a261025p6",
+      "date": "2026-10-25T06:00:52Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Bloomberg: How a Blackstone-led $2.3B private credit loan to CoreWeave in 2023 became a blueprint for chip-backed debt, which is on track to become a $1T market &mdash; &ldquo;What is a GPU?&rdquo; Blackstone Inc. executives asked CoreWeave Inc.'s leadership. Also: &ldquo;Is AI real?&rdquo; &mdash; These were entirely logical queries &hellip;."
+    },
+    {
+      "title": "Masz Samsunga? Koniecznie zmień to ustawienie szybkiego ładowania",
+      "url": "https://antyweb.pl/masz-samsunga-koniecznie-zmien-to-ustawienie-szybkiego-ladowania",
+      "date": "2026-10-25T06:00:42Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "W smartfonach Samsung Galaxy można skonfigurować sprytną funkcję, która powiadomi użytkownika, gdy bateria osiągnie wybrany poziom naładowania. To przydatne rozwiązanie dla osób, które często podłączają telefon do ładowarki na krótko przed wyjściem z domu i chcą wykorzystać ten czas jak najlepiej. Zamiast co chwilę sprawdzać ekran, można ustawić automatyczne powiadomienie, gdy poziom energii wzrośnie na przykład do 65% Całość działa dzięki funkcji Tryby i procedury, dostępnej w wielu smartfonach z rodziny Galaxy."
+    },
+    {
       "title": "Baba, which develops AI tools to help Medicare and Medicaid patients connect to care teams and handle advocacy tasks, raised a $40M Series A led by FirstMark (Cailey Gleeson/Fierce Healthcare)",
       "url": "https://www.techmeme.com/261025/p5#a261025p5",
       "date": "2026-10-25T05:40:00Z",
@@ -1118,22 +1142,6 @@
       "source": "Hacker News",
       "confirmed_by": 1,
       "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 293 # Comments: 258."
-    },
-    {
-      "title": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)",
-      "url": "https://www.techmeme.com/261024/p9#a261024p9",
-      "date": "2026-10-24T21:30:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Torsten Slok / Apollo Global Management: Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens &mdash; Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
-    },
-    {
-      "title": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)",
-      "url": "https://www.techmeme.com/261024/p8#a261024p8",
-      "date": "2026-10-24T19:45:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "The Information: Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount &mdash; OpenAI's efforts to undercut Anthropic on price are producing some results. &mdash; For instance, in May, Anthropic models powered 57% &hellip;."
     },
     {
       "title": "Gen Z odkryło cyfrówki na nowo. Takie zdjęcia zrobisz też smartfonem",
@@ -1254,14 +1262,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Głośnym tematem w Danii jest nowy projekt, który może całkowicie objąć cechy charakterystyczne człowieka ochroną praw autorskich. Czegoś takiego potrzebujemy nie tylko w Polsce, ale na całym świecie."
-    },
-    {
-      "title": "Garmin z ekranem MicroLED 3000 zł taniej. Świetna okazja na topowy model",
-      "url": "https://antyweb.pl/garmin-z-ekranem-microled-3000-zl-taniej-swietna-okazja-na-topowy-model",
-      "date": "2026-10-24T12:43:08Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Ekran MicroLED w smartwatchu to nowinka technologiczna, która trafia do zaledwie kilku topowych modeli na rynku."
     },
     {
       "title": "Robot sprzątający z funkcją monitoringu. Test Dreame L60 Ultra, który nie tylko odkurza",
@@ -1916,30 +1916,6 @@
       "summary": "Blisko 60 proc. Polaków nie ma pojęcia, gdzie znajduje się najbliższy schron lub miejsce ukrycia. Bezpieczną kryjówkę bez wahania potrafi wskazać co szósty ankietowany - wynika z sondażu United Surveys by IBRiS przeprowadzonego dla Wirtualnej Polski."
     },
     {
-      "title": "Szwecja szykuje się na wojnę. Gminy inwestują w kuchnie polowe",
-      "url": "https://www.bankier.pl/wiadomosc/Szwecja-szykuje-sie-na-wojne-Gminy-inwestuja-w-kuchnie-polowe-9215706.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-10-24T18:00:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Na Targach Obrony Totalnej, rozpoczętych we wtorek w Sztokholmie, oprócz dronów i innych innowacji zaprezentowano m.in. uniwersalne kuchnie polowe. Szwedzkie gminy zaczynają przygotowywać się do wydawania posiłków podczas kryzysu lub wojny."
-    },
-    {
-      "title": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONENzYVZmZ2xnRkR6TERJWEJWMEl6ZXFoaWxORWNaUUtuQVc0Z2k1RWlKT3p0QlY3cDVsWk9GT2I2RkZpLThrTkh0eTFvaVNycEowMkNLNWlOekdUcFBUTEY0bjdOdHdqZnlDUGN4MFJTWDhCQWVZVWJpTWFIZEVuVUR4SklBN05fZDFkcWdaYlpMNkdJYTVuNnNkUUVIRjVHUnFsTy1hSWRGRTNQbjh4aE5qY3pKZXpOZnZ4UGhLVG1SWUx5cFFON0pMSFFHdXNDMjhTeXZGaFNyTGlNNGpNdEJTd00?oc=5",
-      "date": "2026-10-24T17:58:40Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu Forsal.pl."
-    },
-    {
-      "title": "Negocjacje z USA zakończyły się fiaskiem. Iran da kolejną szansę?",
-      "url": "https://www.bankier.pl/wiadomosc/Negocjacje-z-USA-zakonczyly-sie-fiaskiem-Iran-da-kolejna-szanse-9217891.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-10-24T17:12:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Prezydent Iranu Masud Pezeszkian obwinił Stany Zjednoczone o niepowodzenie dotychczasowych negocjacji w sprawie umowy tymczasowej, mającej stanowić krok ku zakończeniu wojny, oraz opowiedział się za podjęciem nowej próby zawarcia porozumienia - przekazała agencja Reutera."
-    },
-    {
       "title": "Analiza techniczna OW20A274050 GPW - ORGANIZATOR OBROTU - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQY1Z6WlA1eS13Ri1NQ21oVHp1Um56dVRXbTd6aFQtUWxhTVViWTgtSE5wUHQ2MTdGelR0VHhFdjE5RlNnQkxJX1VBb2VQRTl1LTAzSTFSLW1EcGJKZVhtcEs2S2U2bDZiSWVyMkRnLTlBZw?oc=5",
       "date": "2026-10-24T16:11:40Z",
@@ -1996,6 +1972,14 @@
       "summary": "Bez kolejki i całą dobę. Rewolucja w ochronie zdrowia już od niedzieli. Wyjaśniamy, co się zmieni Forsal.pl."
     },
     {
+      "title": "Polska nauka może zadebiutować na Nasdaq. Paweł Przewięźlikowski o tym, jak powstała NodThera, spin-off Ryvu Therapeutics",
+      "url": "https://strefainwestorow.pl/wywiady/ryvu-therapeutics-pawel-przewiezlikowski-nodthera-spin-off",
+      "date": "2026-10-24T09:15:15Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Polska nauka może zadebiutować na Nasdaq. Paweł Przewięźlikowski o tym, jak powstała NodThera, spin-off Ryvu Therapeutics Paweł Biedrzycki sob., 24.10.2026 Kanał Strefa Inwestorów NodThera NASDAQ Treść Na Nasdaq wchodzi amerykańska spółka biotechnologiczna Rezera, wcześniej znana jako NodThera. Firma powstała na projekcie naukowym, który narodził się w krakowskim laboratorium."
+    },
+    {
       "title": "Biznes, Gospodarka, Świat - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yUkh2UGZIb2x5bm9FY1JZZTNqQVl6Z2lJMlIxazdYOFRBdjdJdzg0TXVpN2NPNlR1bklWUWFSRzV4Q0VXVVJURTlR?oc=5",
       "date": "2026-10-24T09:03:05Z",
@@ -2010,6 +1994,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Mają ciepłe posady w korpo i nie robią nic. \"Dziennie wychodzi 1-2 godz. pracy\" Forbes."
+    },
+    {
+      "title": "W poszukiwaniu sygnałów - 24 października 2026 - Indeksy GPW na wsparciach",
+      "url": "https://strefainwestorow.pl/blog/w-poszukiwaniu-sygnalow/w-poszukiwaniu-sygnalow-24-pazdziernika-2026-indeksy-gpw-na-wsparciach",
+      "date": "2026-10-24T08:21:25Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "W poszukiwaniu sygnałów - 24 października 2026 - Indeksy GPW na wsparciach Ewa sob., 24.10.2026 Wstęp Indeksy GPW, #DAX, Indeksy USA, #Nikkei, Shanghai, #CAC, #Ropa, #Miedź, #Złoto, #Srebro, #Usdpln, #Eurpln, Ring spekulanta, Obserwowane wykresy, Kącik życzeń W poszukiwaniu sygnałów - 24 października 2026 - Indeksy GPW na wsparciach Ewa."
     },
     {
       "title": "Miliardy miały trafić do budżetu. Nie trafią. Sejm odrzucił podwyżkę CIT",
@@ -2060,22 +2052,6 @@
       "summary": "Sejm przyjął poprawkę Ryszarda Petru, która zakłada automatyczną waloryzację progów podatkowych o inflację od 2028 r. Ekonomista Artur Krawczyk wskazuje na niejasności w przepisach. Wątpliwości dotyczą m.in."
     },
     {
-      "title": "\"Kończy cichą podwyżkę podatków\". Eksperci o reformie PIT",
-      "url": "https://www.money.pl/podatki/konczy-cicha-podwyzke-podatkow-eksperci-o-reformie-pit-7343214415231072a.html",
-      "date": "2026-10-23T17:43:03Z",
-      "source": "Money.pl",
-      "confirmed_by": 1,
-      "summary": "Coroczna waloryzacja progów podatku dochodowego od osób fizycznych o wskaźnik inflacji nie rozwiąże wszystkich problemów polskiego systemu podatkowego, ale pomoże obywatelom zachować większą część realnej wartości swoich zarobków – oceniają eksperci z branży podatkowej."
-    },
-    {
-      "title": "Komunikat ESPI ADIUVO INVESTMENTS SPÓŁKA AKCYJNA W RESTRUKTURYZACJI (adiuvo): Sprostowanie przez Sąd restrukturyzacyjny postanowienia w przedmiocie zatwierdzenia układu. - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWjh1dU83UUd2SlVzWnItRnNITEJJM3pRZy1WNHpGUmV5ZXUyTGczRk9CQzNMR0xsTVJla3lPV1cwRVIzMVVBdDRmckpuck1nQ3Rjd1hMZVJZZ2llNV84cDhwc2R3aFhBSEIzWUtkSWJNd0dEdGVpTXZsdDdhNUJHYjBUcWR1Q0p3YjcxNWwtMVlwZ3YzTFBrbGNOTEMyYmhBVzdIYTdRQ3RPeUFmUXdhV2o1dVVhUGtyZEJha3RKN3dRU1IwcV9ESTZ2VE9KeFJjbG9qT25R?oc=5",
-      "date": "2026-10-23T17:19:26Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat ESPI ADIUVO INVESTMENTS SPÓŁKA AKCYJNA W RESTRUKTURYZACJI (adiuvo): Sprostowanie przez Sąd restrukturyzacyjny postanowienia w przedmiocie zatwierdzenia układu. StockWatch.pl."
-    },
-    {
       "title": "Pump and dump i wash trades na GPW. KNF zawiadamia o manipulacji akcjami czterech spółek - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWlCdW1HcWlPZzZIaXFZYkllSEY0djlRejZualRNS0tqaXRGWUx4RkctQXBVMmdBSmczclV1ZEUwUDdtWldiU21kT2lobGRFS3JKUUM3b0hOeUZ4aU8xUjVFaXJLNzc0OWZCYW52cjE3S08xdDE0MEZ3YTZlSUFXbmIzVG12aGlTc3ZxLVNsT2h6ak1UeTV6elliYnFwS0tsWVpvYzY2TEk4TXZIckxCdzgtQUZnTmxsNEt0RzUxbjRrR0s0YmZhb1gtMC1BVndwRjhR?oc=5",
       "date": "2026-10-23T15:53:45Z",
@@ -2114,14 +2090,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Wiadomości SCANWAY (SCW) - strona: 12 BiznesRadar."
-    },
-    {
-      "title": "HERKULES SA W RESTRUKTURYZACJI (56/2026) Nabycie akcji własnych - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZWNzVUU5ZTRjM1E0OWlxS0FWNUZjbUhMeVN5Z3V1aWZlZlVWNEhlQUNRZEZhanN1ZFBicFhWQnhZS25nX2ZHUkN2STFCNl9CUkRjZENFYjFqN3pvVkhwdDBMMlNIc194aFNURFlVQnRHMHhldFdzNkljRUk2eFlyRk1mZ3Q1ZkJWckhvUWtmZVVDZjB3VHR3dFE0dTBzUQ?oc=5",
-      "date": "2026-10-23T13:30:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "HERKULES SA W RESTRUKTURYZACJI (56/2026) Nabycie akcji własnych BiznesRadar."
     },
     {
       "title": "Jak się odbiera telefon od szefa Nvidii? Polka zdradza kulisy pracy w gigancie - Forbes",
@@ -2172,6 +2140,14 @@
       "summary": "Bank kobiet. Bank dla kobiet. Własny kapitał daje nam wybór!"
     },
     {
+      "title": "Słabnące oczekiwania wobec AI chłodzą popyt na miedź, mówi Ole Hansen",
+      "url": "https://strefainwestorow.pl/strefa-global-market/paliwa-i-surowce/miedz-ropa-centra-danych-ai-prognozy",
+      "date": "2026-10-23T11:08:41Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Słabnące oczekiwania wobec AI chłodzą popyt na miedź, mówi Ole Hansen Szymon Machalica pt., 23.10.2026 Kanał Strefa Global Market Złoto Ropa Miedź Ole Hansen Treść Pęknięcia w technologicznym marzeniu o nieprzerwanym boomie schłodziły popyt na miedź, podczas gdy rosnące ryzyko geopolityczne wywindowało ceny ropy do wielomiesięcznych szczytów. Na rynku surowców narasta głęboki podział między krótkoterminową spekulacją a inwestorami długoterminowymi. Jak ocenia Ole Hansen, dyrektor ds."
+    },
+    {
       "title": "Rynki globalne psują nastroje na GPW, gorąco na Modivo, XTB i Action - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1dsbUc1Szg5RS1uejUwRjloaEdqaWNCa21zX0ZiZ0xjWnBocTBSYXpLdXY4U0o4OGl0RGw2RUxzczBUazlOQkpvV2tyU09rYl9NMWFIY1pELWhGUHdyWDFMb1NReWJ2ZHRaZ0pQc0ZCalFCTVNuQ2FnM2ozS0hmbHZjdjhkV2ZubFVYZ1I4VUZnMUE4NVA1cEdhWjh2Z1ZNVmV3dXBJcUxjNTRCTmU0ZlJrR096S2s?oc=5",
       "date": "2026-10-23T09:04:47Z",
@@ -2188,14 +2164,6 @@
       "summary": "Eika Asset Management pozyskuje finansowanie na rozwój parku logistycznego pod Krakowem. Obligacje z oprocentowaniem 8% dostępne na Letsinvest Forbes."
     },
     {
-      "title": "Witucki: nawet Niemcy wiedzą, że gospodarka ich nie ochroni [WYWIAD] - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVHFkLTlzTjdTRVVGTGJjNVBGNXJqb3lFQ1g2RmJvX2J2QUYtUDNBV1JhOHF5alVTM3Fkc25sUGFoTkpFOFJ4eEw4YzJraGs0VWp4c0QtR3lrTkd1bFhWY1plUzhUYm54cXdpdzRsSXdDMkxHVk1pc0w0MTZpbTRzUTNIYW5aajV0aEFDRFhBNWV2U1lXTzJTN0RFSDFDRlQ4NG5VeEttZEpmcjhZVkUtRXcwYU1vdHpM?oc=5",
-      "date": "2026-10-23T08:00:00Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Witucki: nawet Niemcy wiedzą, że gospodarka ich nie ochroni [WYWIAD] Forbes."
-    },
-    {
       "title": "Orlen z odpisami 1,6 mld zł za III kwartał 2026. Nowa Chemia znów obciąża wyniki - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMzB1MXpXX2xLenVmVXVCSURCQ1kyTmo5ZWxVYV9vcnBPaGFFUmZCZ2xLYlFOM29iVnRTYXlqenZLUFFUUjEtRkQxWDY1VVk3TEp6VlVzLXRYaklFZnBsR0syYnRtSTVNbXpKT2xSMWZqbnJkM19xaENDS1RoZ3pXNHdxNF9mZTVacTc1R3FIdlBJSzRyY24yeS1OTjdhVUtVMmh6VV80UU05M0hkTEo3NndjRDlSa2trRDFsWmVweHFMWFBqMDFJ?oc=5",
       "date": "2026-10-23T07:45:29Z",
@@ -2204,12 +2172,44 @@
       "summary": "Orlen z odpisami 1,6 mld zł za III kwartał 2026. Nowa Chemia znów obciąża wyniki StockWatch.pl."
     },
     {
+      "title": "Obecny pipeline sprzedażowy jest największy w historii Cloud Technologies, mówi CEO Piotr Prajsnar",
+      "url": "https://strefainwestorow.pl/wywiady/cloud-technologies-piotr-prajsnar-strategia-2026",
+      "date": "2026-10-23T07:43:08Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Obecny pipeline sprzedażowy jest największy w historii Cloud Technologies, mówi CEO Piotr Prajsnar Strefa Inwestorów pt., 23.10.2026 Kanał Strefa Inwestorów Treść Cloud Technologies ma za sobą rekordowe półrocze pod względem nowych kontraktów, ale, jak przyznaje zarząd, na pełny efekt finansowy trzeba będzie poczekać. W rozmowie ze StrefaInwestorow.pl Piotr Prajsnar CEO Cloud Technologies wyjaśnia, dlaczego podpisywane dziś umowy Pay-as-You-Go zaczną realnie pracować na wyniki w 2027 roku, a pełną skalę osiągną w 2028.Rozmawiamy o dźwigni operacyjnej, w której zakup danych za 100 tys. USD może przełożyć się na sprzedaż od 1 do 20 mln USD, o tym, czym jest Data Curation i czy jego blisko 20-procentowy udział w przychodach to już sufit, a także o modelu tanich, szybko zwracających się akwizycji.Czego dowiesz się z tej rozmowy:Kiedy nowe umowy zaczną realnie wpływać na przychody?Kim właściwie są klienci Cloud Technologies?Jak działa dźwignia operacyjna i dlaczego koszty rosną tylko schodkowo.Czym jest Data Curation?Jak wygląda model rozwoju przez akwizycje?Dlaczego przepływy gotówkowe są bliższe EBITDA niż zyskowi netto i co z tego wynika dla zysku w ciągu 1–2 lat.Jak wygląda polityka dywidendowa i kwestia skupu akcji własnych?Jakie są główne założenia Strategii 2026+.Jaki udział w rynku ma dzisiaj Cloud Technologies?StrefaInwestorow: Podczas ostatniego webinaru wynikowego za II kw."
+    },
+    {
+      "title": "Rekordowy rok dla pasywnego inwestowania w Polsce. Ten fundusz ETF jest absolutnym hitem",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261023/rekordowy-rok-dla-pasywnego-inwestowania-w-polsce-ten-fundusz-etf-jest",
+      "date": "2026-10-23T06:35:51Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Rekordowy rok dla pasywnego inwestowania w Polsce. Ten fundusz ETF jest absolutnym hitem Wiadomości pt., 23.10.2026 Breaking news Treść Wartość aktywów zgromadzonych przez polskich inwestorów w ETF-ach i innych produktach ETP wzrosła na koniec września 2026 r. do 23,1 mld zł z 12,8 mld zł na koniec 2025 r., co oznacza wzrost o ponad 80 proc."
+    },
+    {
       "title": "Wall Street pod presją AI: Rekordowe wyniki to za mało - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcHlGVjJCUlhWbDRwVlR6ZGJ5bTJUWHpKM2tPRm9YQ0s5azIzYmpBWjdDUmZzUE1CSmw4X0pxbzdMNDBURmVad3dJaFp3R1NpeWl6cDlONFp0YWV3dm1GaEo2SXJXYzIzRWRCRmoyR2VObGRsanA5Qmg1MHJDQU5meFRNaw?oc=5",
       "date": "2026-10-23T06:30:10Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Wall Street pod presją AI: Rekordowe wyniki to za mało StockWatch.pl."
+    },
+    {
+      "title": "Ruszyło Ogólnopolskie Badanie Inwestorów 2026. Czas na nowy portret polskiego inwestora",
+      "url": "https://strefainwestorow.pl/badania/badanie-obi-2026-portfel-inwestora",
+      "date": "2026-10-23T06:30:00Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Ruszyło Ogólnopolskie Badanie Inwestorów 2026. Czas na nowy portret polskiego inwestora Wioletta Hass pt., 23.10.2026 Kanał Strefa Inwestorów Ogólnopolskie Badanie Inwestorów OBI 2026 Stowarzyszenie Inwestorów Indywidualnych inwestorzy indywidualni inwestowanie rynek kapitałowy Treść Stowarzyszenie Inwestorów Indywidualnych rozpoczęło 24. edycję Ogólnopolskiego Badania Inwestorów 2026."
+    },
+    {
+      "title": "sWIG80 przełamuje kluczowe wsparcie",
+      "url": "https://strefainwestorow.pl/blog/podsumowanie-sesji/swig80-przelamuje-kluczowe-wsparcie",
+      "date": "2026-10-23T06:00:00Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "sWIG80 przełamuje kluczowe wsparcie Paweł Biedrzycki pt., 23.10.2026 swig80 WIG-banki Wstęp do wpisu Sesja 22 października 2026: #sWIG80, #WIGBanki, spółki godne uwagi sWIG80 przełamuje kluczowe wsparcie Paweł Biedrzycki."
     }
   ],
   "critical_alerts": [
@@ -2228,8 +2228,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Donald Trump potwierdził, że rozmawiał z Elonem Muskiem na temat przywrócenia funkcjonalności sieci Starlink i Starshield w Ukrainie.",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/trump-o-problemach-w-ukrainie-glos-zabral-tez-musk-podzegacze-wojenni/"
+      "description": "Sytuację na froncie w Ukrainie należy obecnie ocenić jako remis, jednak w przyszłym roku zasoby Rosji zaczną się wyczerpywać, jeśli Ukraina przetrwa nadchodzącą zimę - powiedział wicepremier i minister spraw zagranicznych Radosław Sikorski.",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33097432,sikorski-przewiduje-problemy-rosji-mowi-kiedy-wyczerpia-sie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882"
     },
     {
       "lat": 31.5,
@@ -2428,6 +2428,10 @@
     {
       "sector": "Sektor obronny",
       "instrument": "np. ETF iShares Global Aerospace & Defense (ITA)"
+    },
+    {
+      "sector": "Sektor energetyczny/surowcowy",
+      "instrument": "np. ETF Energy Select Sector (XLE)"
     },
     {
       "sector": "Złoto i obligacje skarbowe",
