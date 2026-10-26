@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T18:32:55Z",
+  "last_updated": "2026-10-26T18:42:38Z",
   "poland": [
     {
       "title": "Jerzy Surdykowski: Zdradzona Ukraina. Bohater spod Monte Cassino ostrzega",
@@ -83,7 +83,7 @@
     },
     {
       "title": "Połowy na Bałtyku. Jest decyzja UE",
-      "url": "https://businessinsider.com.pl/gospodarka/polowy-na-baltyku-jest-decyzja-ue/dbhp6bg",
+      "url": "https://businessinsider.com.pl/gospodarka/limity-polowow-na-baltyku-jest-decyzja-ue-co-ze-sledziem-i-dorszem/dbhp6bg",
       "date": "2026-10-26T17:07:01Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
@@ -404,12 +404,20 @@
   ],
   "world_security": [
     {
-      "title": "No10 clarifies Burnham’s stance on Brexit after he hinted at return to freedom of movement",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-26T18:26:19Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro."
+    },
+    {
+      "title": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
       "url": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
       "date": "2026-10-26T18:03:46Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "PM fuelled speculation about EU-UK relationship and indicated he could fight next election on promise to rejoin EUDowning Street has been forced to clarify Andy Burnham’s stance on whether the UK would return to having freedom of movement with the EU after the prime minister said an “honest discussion” was needed on the issue.Burnham fuelled speculation about a return to freedom of movement in an interview last weekend, prompting questions about how close the UK could become to Brussels. Continue reading..."
+      "summary": "Clarification comes after PM fuelled speculation about EU-UK relationship in series of interviews at weekendDowning Street has been forced to clarify Andy Burnham’s stance on whether the UK would return to having freedom of movement with the EU after the prime minister said an “honest discussion” was needed on the issue.Burnham fuelled speculation about a return to freedom of movement in an interview at the weekend, prompting questions about how close the UK could become to Brussels. Continue reading..."
     },
     {
       "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
@@ -500,12 +508,12 @@
       "summary": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate Reuters."
     },
     {
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-26T16:49:14Z",
-      "source": "BBC News",
+      "title": "Volkswagen considers using Chinese software for Europe, report says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVlmcnJkZWZuVFk1VUpHSnJWbG5YdXFocWVOT2RPU2J3anBNRml5OXVjcmJscE5FYVVaeTVWYVRNMVhPbG9kWWFjTTJtTHJ1eW93QW81cWRCWFFJaDVKaHhjTVJoYkFrUWk1V0sxbC1hVUhUcWhfOV9GQnZUS2Z6b0JtOTBlVzZnLXViRlBQNjBGalgtZHYzcmhqNGVMZWxLOUN0Qk4wZnZzdFhKR3dyYm95OTN0T0FzRVdyeXhZMnhxNU1QUm1F?oc=5",
+      "date": "2026-10-26T16:45:22Z",
+      "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro."
+      "summary": "Volkswagen considers using Chinese software for Europe, report says Reuters."
     },
     {
       "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – as it hapepned",
@@ -578,14 +586,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Meta eyes record $95 billion equity raise to fund AI expansion Reuters."
-    },
-    {
-      "title": "Wall St eyes best day in a month as Anthropic's IPO filing propels AI stocks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
-      "date": "2026-10-26T16:09:14Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Wall St eyes best day in a month as Anthropic's IPO filing propels AI stocks Reuters."
     },
     {
       "title": "‘Democracy always’: Lula vows no return to dictatorship in Brazil after election win",
@@ -768,10 +768,18 @@
     {
       "title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
       "url": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
-      "date": "2026-10-26T18:21:06Z",
+      "date": "2026-10-26T18:26:54Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "In much of Europe, the advance of the right has been seen as unstoppable. But in the east, nationalists are being cast aside in places where they long governed."
+    },
+    {
+      "title": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
+      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
+      "date": "2026-10-26T18:26:17Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen."
     },
     {
       "title": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
@@ -814,20 +822,20 @@
       "summary": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections."
     },
     {
+      "title": "Judge: Trump DOJ illegally fired ex-FBI director's daughter, Maurene Comey, as a federal prosecutor - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlRQeTlsV0JqcVB1Wm9YcWhFMFBmX3lOdXVwUnJyMm1LQjlrbndRMDBMZTBEeFdJNDUxUG1XS1dqaEVaRlJhUm93WWNyenYtZTNDelJnc01vaHJoeUZUUFAyRTBTdUZoZlI3TGNMMkJpR2pzUFhYdEFmRy1ZR1lqNU9rR1VXYTkwbGJrYlN2V25fbDJObkJTa1Nva0RFcTg?oc=5",
+      "date": "2026-10-26T16:26:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Judge: Trump DOJ illegally fired ex-FBI director's daughter, Maurene Comey, as a federal prosecutor AP News."
+    },
+    {
       "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
       "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
       "date": "2026-10-26T15:57:06Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration."
-    },
-    {
-      "title": "Judge rules Maurene Comey, daughter of ex-FBI director, was unlawfully fired by Trump administration - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlRQeTlsV0JqcVB1Wm9YcWhFMFBmX3lOdXVwUnJyMm1LQjlrbndRMDBMZTBEeFdJNDUxUG1XS1dqaEVaRlJhUm93WWNyenYtZTNDelJnc01vaHJoeUZUUFAyRTBTdUZoZlI3TGNMMkJpR2pzUFhYdEFmRy1ZR1lqNU9rR1VXYTkwbGJrYlN2V25fbDJObkJTa1Nva0RFcTg?oc=5",
-      "date": "2026-10-26T15:51:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Judge rules Maurene Comey, daughter of ex-FBI director, was unlawfully fired by Trump administration AP News."
     },
     {
       "title": "Whatever the outcome of Israel's election, its policies toward the Palestinians will largely endure - AP News",
@@ -860,6 +868,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Venezia FC, a historically modest club, has become a fashion sensation. But its performance has struggled to match the off-field hype."
+    },
+    {
+      "title": "Lula’s win in Brazil bucks a regional shift to the right and denies Trump a powerful ally - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLXdnZW1zQllMZHM0bV9NQXpGVW1VWEZUU3ozczVHNjZmTkZOVTRVakJrYXU5RkpId0otb2Z6T3pkTTlaUDV0YklHRTh6R1VEVnBGTG5wQlI2MXByQzhkMGVSX2w5ay1PZUtFVTV2aThFc0J5OXlMRzcwWjRTbW5laWpGcGVOMHJ4NWsyY1Q1X2E1ZVVpRDFpanpPbVNib0E3MVRqb3B3YUpGOHdDQWE0S3RwMWdZUQ?oc=5",
+      "date": "2026-10-26T14:37:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Lula’s win in Brazil bucks a regional shift to the right and denies Trump a powerful ally AP News."
     },
     {
       "title": "Serbia’s political veteran Vucic outplayed all opponents. Then came the students - AP News",
@@ -908,14 +924,6 @@
       "source": "The New York Times",
       "confirmed_by": 2,
       "summary": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents."
-    },
-    {
-      "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
-      "url": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
-      "date": "2026-10-26T10:00:51Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "The U.S. Army is training Apache pilots to shoot down drones as militaries around the world assess the efficacy of 20th-century technologies in a new era."
     },
     {
       "title": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results - AP News",
@@ -996,17 +1004,25 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Ohio State replaces BYU at No. 2 in AP Top 25; No. 1 Miami only team to hold its spot in poll AP News."
-    },
-    {
-      "title": "Thousands protest in Prague as government advances public media funding overhaul - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFp3czlHMlpkaW04Y3FJX1RkbGh6aFBpTExBZDRDT2VHeHdRTDRwdVZfcU00ZGNwcHhFeFFTTmxSYThoMm11S3VCME4taHRpdE9DSFpidWt4Mzc4b1BpWEhXZ2V6WUJ5U1FnbmYwSGlNVk1Jek9xb1dqcnpDejBVcFBjaWZTWl92aUkzWDBiZk1ZeG1iUEZwTWwxRFdsZnZ4RGhaRw?oc=5",
-      "date": "2026-10-25T17:55:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Thousands protest in Prague as government advances public media funding overhaul AP News."
     }
   ],
   "technology": [
+    {
+      "title": "AI przeraża coraz bardziej. Standardowe zabezpieczenia na nią nie działają",
+      "url": "https://antyweb.pl/openai-test-cache-procesora",
+      "date": "2026-10-26T18:30:26Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "AI lubi wyzwania i OpenAI o tym doskonale wie. Wyobraźcie sobie: maszyny odcięte od siebie praktycznie w pełni. Brak wspólnej przestrzeni i połączenia sieciowego."
+    },
+    {
+      "title": "Gigantyczna chińska platforma badawcza. Ma być gotowa w 2030 r.",
+      "url": "https://www.benchmark.pl/gigantyczna-chinska-platforma-badawcza-ma-byc-gotowa-w-2030-r-7344274029307936a",
+      "date": "2026-10-26T18:28:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Chiny planują budowę samobieżnej, pływającej platformy badawczej o masie 74 tys. ton, przeznaczonej do wielomiesięcznych misji na otwartym oceanie. Konstrukcja ma umożliwić prowadzenie badań także w skrajnie trudnych warunkach pogodowych, a jej przekazanie zaplanowano na czerwiec 2030 r."
+    },
     {
       "title": "OpenAI releases GPT-6.1 Terra, touting \"fast and capable computer use at scale\" and clearer, more natural writing, priced at $1/1M input and $5/1M output tokens (OpenAI)",
       "url": "https://www.techmeme.com/261026/p40#a261026p40",
@@ -1014,6 +1030,14 @@
       "source": "Techmeme",
       "confirmed_by": 2,
       "summary": "OpenAI: OpenAI releases GPT-6.1 Terra, touting &ldquo;fast and capable computer use at scale&rdquo; and clearer, more natural writing, priced at $1/1M input and $5/1M output tokens &mdash; Delivering fast and capable computer use at scale &mdash; , a fast, efficient model that combines detailed visual reasoning &hellip;."
+    },
+    {
+      "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "date": "2026-10-26T18:14:49Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 3 # Comments: 0."
     },
     {
       "title": "Ogarniasz AI? Zobacz, na jakie stawki można liczyć",
@@ -1037,7 +1061,15 @@
       "date": "2026-10-26T17:57:29Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.panamericandispatch.org/p/meta-employees-denounce-interference Comments URL: https://news.ycombinator.com/item?id=50248061 Points: 32 # Comments: 3."
+      "summary": "Article URL: https://www.panamericandispatch.org/p/meta-employees-denounce-interference Comments URL: https://news.ycombinator.com/item?id=50248061 Points: 112 # Comments: 16."
+    },
+    {
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "date": "2026-10-26T17:56:55Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 6 # Comments: 0."
     },
     {
       "title": "Anthropic S-1: it spent just $482M on capex in H1 2026, leasing most of its compute, and its capex is almost entirely outsourced via $782B in lease obligations (Tim Culpan/Culpium)",
@@ -1085,7 +1117,7 @@
       "date": "2026-10-26T17:32:16Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/ Comments URL: https://news.ycombinator.com/item?id=50247630 Points: 46 # Comments: 6."
+      "summary": "Article URL: https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/ Comments URL: https://news.ycombinator.com/item?id=50247630 Points: 63 # Comments: 10."
     },
     {
       "title": "Apple says it is \"aware of an issue impacting the inner display on a small number\" of iPhone Duos and affected users can contact AppleCare for a replacement (Chance Miller/9to5Mac)",
@@ -1109,7 +1141,7 @@
       "date": "2026-10-26T17:25:30Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/DilawarShafiq/nietzschian-debugger Comments URL: https://news.ycombinator.com/item?id=50247493 Points: 13 # Comments: 3."
+      "summary": "Article URL: https://github.com/DilawarShafiq/nietzschian-debugger Comments URL: https://news.ycombinator.com/item?id=50247493 Points: 20 # Comments: 9."
     },
     {
       "title": "The Git Forge for Agent-Human Collaboration",
@@ -1117,7 +1149,7 @@
       "date": "2026-10-26T17:23:11Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://entire.com/blog/the-git-forge-for-agent-human-collaboration Comments URL: https://news.ycombinator.com/item?id=50247453 Points: 34 # Comments: 13."
+      "summary": "Article URL: https://entire.com/blog/the-git-forge-for-agent-human-collaboration Comments URL: https://news.ycombinator.com/item?id=50247453 Points: 37 # Comments: 17."
     },
     {
       "title": "Recenzja Planet Zoo 2. Ogród zoologiczny z problemami",
@@ -1181,7 +1213,7 @@
       "date": "2026-10-26T16:35:44Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 71 # Comments: 23."
+      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 92 # Comments: 31."
     },
     {
       "title": "NVIDIA Ci o tym nie powie. Starsze karty z serii RTX da się mocno przyspieszyć",
@@ -1224,22 +1256,6 @@
       "summary": "Microsoft przygotowuje Windows 11 na sprzęt, którego jeszcze nie ma na rynku. Nowa funkcja poprawi wydajność, ale na jej wykorzystanie trzeba poczekać. W najnowszej eksperymentalnej kompilacji Windows 11 o numerze 29695.1001, udostępnionej 23 października uczestnikom programu Windows Insiders, pojawiło się nowe ustawienie."
     },
     {
-      "title": "Nevis, which uses AI to automate paperwork for financial advisors, raised a $70M Series B led by EQT Ventures, a source says at a $500M valuation (Camila Grigera Naón/Fortune)",
-      "url": "https://www.techmeme.com/261026/p33#a261026p33",
-      "date": "2026-10-26T15:55:00Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Camila Grigera Na&oacute;n / Fortune: Nevis, which uses AI to automate paperwork for financial advisors, raised a $70M Series B led by EQT Ventures, a source says at a $500M valuation &mdash; Americans want more financial advisors, but every day there are fewer to go around. One New York-based startup wants to help ease the squeeze &hellip;."
-    },
-    {
-      "title": "CSS-Tricks has a new owner",
-      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "date": "2026-10-26T15:51:23Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/ Comments URL: https://news.ycombinator.com/item?id=50245831 Points: 172 # Comments: 41."
-    },
-    {
       "title": "PlayStation pogrzebie konsole przenośne. Koniec z wygodnym graniem",
       "url": "https://spidersweb.pl/2026/10/playstation-konsole-mobilne-wylacznosc-rdna-5.html",
       "date": "2026-10-26T15:41:00Z",
@@ -1254,14 +1270,6 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "NASA oficjalnie zamknęła misję obserwatorium Swift, które przez blisko 19 lat dostarczało naukowcom kluczowych danych o dynamicznych zjawiskach we Wszechświecie. O zakończeniu projektu przesądziło obniżenie orbity satelity do poziomu, na którym rosnące opory atmosferyczne uniemożliwiają już skuteczne prowadzenie obserwacji."
-    },
-    {
-      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
-      "date": "2026-10-26T15:35:12Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/ Comments URL: https://news.ycombinator.com/item?id=50245524 Points: 368 # Comments: 320."
     },
     {
       "title": "Wyzwania i nagrody w aplikacji InPost Mobile – jak działa program lojalnościowy?",
@@ -1358,14 +1366,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Lidl urządza kolejne mocne obniżki na sprzęt z linii Parkside Performance. Tym razem jednak są podzielone na dwie partie i każda z nich startuje w innym dniu."
-    },
-    {
-      "title": "Apple prezentuje nowego iPada mini. Znacznie lepszy od poprzednika",
-      "url": "https://www.benchmark.pl/apple-prezentuje-nowego-ipada-mini-znacznie-lepszy-od-poprzednika-7344217427662944a",
-      "date": "2026-10-26T13:55:26Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Bez żadnego ostrzeżenia i zapowiedzi, Apple wprowadził właśnie do oferty odświeżoną wersję iPada mini. Urządzenie wyposażono w ekran OLED o przekątnej 8,5 cala, smuklejszą konstrukcję i najnowszy czip A20 Pro. Nowy model wyróżnia się także większą odpornością na wodę i pył."
     },
     {
       "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
@@ -1788,20 +1788,28 @@
   ],
   "finance": [
     {
+      "title": "Poniedziałek po Wszystkich Świętych, czyli 2 listopada 2026 r., jednak dniem wolnym od pracy – można już anulować wnioski urlopowe? Sejm podjął decyzję - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNbUZ4TEJHc1dKQnN2OVJfS1EtOGk5U2pQLTc1Z2t2b2w2R3hwazM4ZWs0MkxLZWItVTZKYU1zSms4cnVsd3ExMVhmZVF2cDZTdEdscktHNzdaYklOUDdCNGhHOWlnSGVJaEhIbTZ4aVFyc09hTEpwNXYya1pSODJDY196Y21tT29lSVpmY0NtaXVTM3pXaXgxOXM2U1lZa3ZiT1hCY25FOVB5eWpuXzJVbjFHQVV2YmZuMzZVb0t2dVIwbHl6b0tpS25WaDZzVWhxcUF2WUVrWHd5ajdnX2J5ak5tV3ZxOTZqYVFVdncycDh6YjI0eTN2OFMwTFhFUGdXYXdrYlRYa0JDNG01Z3hGRVc3UlNOR1FpZjRxcEVLbVF3czRiNm1sZVkxVkgxZklpeFlZ?oc=5",
+      "date": "2026-10-26T18:29:02Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Poniedziałek po Wszystkich Świętych, czyli 2 listopada 2026 r., jednak dniem wolnym od pracy – można już anulować wnioski urlopowe? Sejm podjął decyzję Forsal.pl."
+    },
+    {
+      "title": "Rotacja na Wall Street: dlaczego spółki AI tanieją? - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMEctWnpCLTIyZ0xLYU5DWDdHNjJiQ3VNS3M2N3pzQ01fR0xXMjZfMzg0UXN4ZlpIQmNlT0lYZWJJOC1KQzBxYWFkYTExR2Z2UlY0RTJEdnZBbEdhTFEwTlQzU3ZGWWlOR3VPUFh0Q1B5SGVVa2hBX2RCdU1xc3dfdmdHUUd1YmZyT3N0cW1UR0NHbXVLX0ZHS3ZDWmRlMFBXTGJKM1dLOTc2SHFp?oc=5",
+      "date": "2026-10-26T18:27:38Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Rotacja na Wall Street: dlaczego spółki AI tanieją? StockWatch.pl."
+    },
+    {
       "title": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOalVDVlFnWnc1eTRjZjlWWUJMWEdVQjNUY1dwZHB3MlVFRDZPSmVWMzlPY3dLdXYtOWRldW95dlM1MjItakh1SXhkcVU3eUcyNHlhVFpSWEFBVlFjSGpldDhlR29id3FEX0xSRkFrOGxDSktQX09pV2k5M1FiS2E5cVpJMnl0WW9oTmFGN1FjdE5pSlpwM0QtOUJzNkNyNEFCdnVsaVZHbUVBcF8tWWF6MjYyY0lsX1cxMUF1T0IxczJvSlA2T0ZGeWh4VnVyaW1jSG9BNjg2VkZyQ2VZdjEwT3hoYTE?oc=5",
       "date": "2026-10-26T18:08:55Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu Forsal.pl."
-    },
-    {
-      "title": "Poniedziałek po Wszystkich Świętych, czyli 2 listopada 2026 r., jednak dniem wolnym od pracy – można już anulować wnioski urlopowe? Sejm podjął decyzję - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNbUZ4TEJHc1dKQnN2OVJfS1EtOGk5U2pQLTc1Z2t2b2w2R3hwazM4ZWs0MkxLZWItVTZKYU1zSms4cnVsd3ExMVhmZVF2cDZTdEdscktHNzdaYklOUDdCNGhHOWlnSGVJaEhIbTZ4aVFyc09hTEpwNXYya1pSODJDY196Y21tT29lSVpmY0NtaXVTM3pXaXgxOXM2U1lZa3ZiT1hCY25FOVB5eWpuXzJVbjFHQVV2YmZuMzZVb0t2dVIwbHl6b0tpS25WaDZzVWhxcUF2WUVrWHd5ajdnX2J5ak5tV3ZxOTZqYVFVdncycDh6YjI0eTN2OFMwTFhFUGdXYXdrYlRYa0JDNG01Z3hGRVc3UlNOR1FpZjRxcEVLbVF3czRiNm1sZVkxVkgxZklpeFlZ?oc=5",
-      "date": "2026-10-26T18:07:58Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Poniedziałek po Wszystkich Świętych, czyli 2 listopada 2026 r., jednak dniem wolnym od pracy – można już anulować wnioski urlopowe? Sejm podjął decyzję Forsal.pl."
     },
     {
       "title": "Odeszła z korporacji, by uruchomić nieczynny młyn. Dziś ma 15 mln zł przychodu - Forbes",
@@ -1916,14 +1924,6 @@
       "summary": "Podsumowanie efektów realizacji strategii Pepco Group i dalsze plany rozwoju – czat inwestorski z prezesem spółki Czaty pon., 26.10.2026 Obrazek."
     },
     {
-      "title": "ORANGE POLSKA SA (18/2026) Wybrane dane finansowe i operacyjne dot. działalności Grupy Kapitałowej Orange Polska za 3 kwartał 20 - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNT0tmejZBYXFTR3pqaTJvYU4tTWhfVnhJMF8yTHJDNnV3eWptUDUzMF9KaHVmNWhMSUFidEtqSDMyVGtWRktDN0xEU3pyTU5nTTVhNmpEUjZWeVpCVGhVQks2MDhrMTUtb3NrU3luazl4QVdteHVaQUI3R3hLbDVXTFFuU1lITklabjZlLWZSSWkyOHNVNS1DdE1nWGYtVFZNcTdnVjhCeGo4ZUFRX0xCMzdla3UtekhQSHJ2VGd3UDBTVnZnWHF3WGZROVhTV0FlclR1Umt4OEoyOVByVWhZYlZIaDdubkRvNVJSM2drYWtGQ1FIN3NF?oc=5",
-      "date": "2026-10-26T16:13:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "ORANGE POLSKA SA (18/2026) Wybrane dane finansowe i operacyjne dot. działalności Grupy Kapitałowej Orange Polska za 3 kwartał 20 BiznesRadar."
-    },
-    {
       "title": "ORANGE POLSKA SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTU90RDJXQ2NObFhKTFF0YnpDZFpnaF9XMEtnMU5hV1ZVaFRNeXhSeGVPeXp0aVk2cTBiY1gwMnl3a3ljeVBNNktwNEZuYTNzSUdoUjVjd3Y5TGlDSHN1Nl84VU1BaG1EMnJaQlBFeXpVLXRZLWNKTGZXSVVWWWlzRE9iWkJLeUp4UV8tcXRGUGFfVEFjTTZLTnN5VFN1MVVDRFI0MnNsNA?oc=5",
       "date": "2026-10-26T16:10:00Z",
@@ -1938,6 +1938,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "UF GAMES SA (11/2026) Zmiana harmonogramu publikacji raportów okresowych BiznesRadar."
+    },
+    {
+      "title": "ZUK STĄPORKÓW SA (32/2026) Informacja o transakcjach na akcjach Spółki - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRllnMk1qWjV0aFNOb2VoN1JMTS1aVkFIX1JwbkV3bHI0aVprMm9SZkRnXy1WR1pIVGtaYjJyUVNIaFNJYmJUZmUxcklYd1R2U1o5dXd3X2ZUTGloM2k3MkU2Z1ZhaEVQdW1aWGJidksxZjNhMkJJdnBQSmh3TkgwS2JrZkJ3aXNtTmlweWFCWUlmQks1eUVEUXduNG5Tbkl3Z19na3NSUQ?oc=5",
+      "date": "2026-10-26T15:33:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "ZUK STĄPORKÓW SA (32/2026) Informacja o transakcjach na akcjach Spółki BiznesRadar."
     },
     {
       "title": "BUDIMEX SA (51/2026) \"Przebudowa autostrady A2 na odcinku węzeł Łódź Północ (bez węzła) granica województwa łódzkiego i mazowiec - BiznesRadar",
@@ -1980,14 +1988,6 @@
       "summary": "Senacka Komisja Budżetu i Finansów Publicznych opowiedziała się za przyjęciem bez poprawek ustawy likwidującej ulgę podatkową na internet. Są jednak również dobre wiadomości dla podatników."
     },
     {
-      "title": "NESTMEDIC SA (28/2026) Zmiana stanu posiadania - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2VQVXdER05DLU9VNVBRdmlfMlVxZy1sa3VzdEt4RS02NE96a0hVZUluRXJxckk5TnVGamFzd2FsaG1qZjRZVG43TzlYMTN2Z0hLOVZ5R0lKWXJzbGJqeDI5Q0s3ZEx3SGpjb2txblptRlZUc0pxdnRPTUQxTFAtaXJkTW9seE0?oc=5",
-      "date": "2026-10-26T14:30:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "NESTMEDIC SA (28/2026) Zmiana stanu posiadania BiznesRadar."
-    },
-    {
       "title": "Cyberpunk 2077 przyćmiewa Wiedźmina. Gracze wracają do gry, a akcje CD PROJEKT RED przed kluczowym testem",
       "url": "https://strefainwestorow.pl/spolki/cdprojekt-cyberpunk-sprzedaz-edgerunners2",
       "date": "2026-10-26T14:21:33Z",
@@ -1996,20 +1996,20 @@
       "summary": "Cyberpunk 2077 przyćmiewa Wiedźmina. Gracze wracają do gry, a akcje CD PROJEKT RED przed kluczowym testem Seb Seb pon., 26.10.2026 Kanał Strefa Inwestorów CDProjekt Cyberpunk Wiedźmin gamedev gaming Treść Połączenie premiery drugiego sezonu serialu Edgerunners i aktualizacji 2.5 dla gry “Cyberpunk 2077” wywołało potężny powrót graczy do uniwersum rozwijanego przez CD PROJEKT RED. Cyberpunk wręcz przyćmiewa Wiedźmina."
     },
     {
-      "title": "Sygnały analizy technicznej OW20M274500 GPW - ORGANIZATOR OBROTU - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45Zmg2Y1E4ckl5V0VITUFWcVVSM0tyN3V1dlFDUldkRWZzci1nMl9KTVNGZ1lZTGZfckNDYkpTMExhbG9VXzZlN2gxMWpjYWFiZ0dtSEZMYTcwX0tMZXhzX2lXcmxLanlsVzJiVDRlOEF2X2M?oc=5",
-      "date": "2026-10-26T14:16:47Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Sygnały analizy technicznej OW20M274500 GPW - ORGANIZATOR OBROTU BiznesRadar."
-    },
-    {
       "title": "SEVENET [SEV] - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmlSR1VwOFg1VGFQRnVKWDdjOS0zOVIxeUxYR1lqYjBnS2VUMnBzMWJFWkJKUllMTG54aUJtR2c5SHFFTXJIYk1MWEEtQlFPLVRMMXpqelFqa3pMRlRjdzFUcmhDUkdkdXhtal9tR1lkTTE0cHhmMjdlNUMzLVF2RVd1NjQtdHdmNWc?oc=5",
       "date": "2026-10-26T14:07:00Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "SEVENET [SEV] StockWatch.pl."
+    },
+    {
+      "title": "Sygnały analizy technicznej INTSEUD02379 INGBANK - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11amFwbklzUVF5eXJvY0F6Z2I3c1lrLUQ3SU52VDVUWTlzXzAxWUl1STZyVjFwZksydkJnZXFCUUtIZzVBU0NITnB0a1BadjhaSU1UTUoyVHl5d0d0cXFpSGU3NzdrY2pfMHh2ZWFvSnJFcXhY?oc=5",
+      "date": "2026-10-26T14:06:22Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Sygnały analizy technicznej INTSEUD02379 INGBANK BiznesRadar."
     },
     {
       "title": "Grupa Eurocash przekazała franczyzobiorcom 103 sklepy Delikatesów Centrum - StockWatch.pl",
@@ -2058,6 +2058,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "SIMFABRIC SA (28/2026) Premiera aplikacji Precision Log: Longrange Track w sklepie Google Play przez MobileFabric S.A. oraz podp BiznesRadar."
+    },
+    {
+      "title": "Trendy RBITSDNP34 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSVc5SS1VN0RBSmlLMWJuTmszN1FVbkEzSWdtcXZMUFcxQmFoUTBPLXctWUxvdmF3ZzNuQ2EtbVZUbFZoNzRmNjkzUFFJQzJYemxGZmlhdHdFZmpMWlpvV2VZMXdYYjN1d2ctRjJZYUk?oc=5",
+      "date": "2026-10-26T13:30:25Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Trendy RBITSDNP34 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "Przybędzie emerytów. ZUS pokazuje, co nas czeka w 2027 r.",
@@ -2122,14 +2130,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Będą \"produkowali\" psy dla wojska. Pomoże... genetyka, klonowanie i technologia Forbes."
-    },
-    {
-      "title": "Legimi z zarzutami UOKiK - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2NlT1BpTUkzMzBfWXMySGVybzI5dGM4U3FBd2FISjlVXzRubWxCbEFlN1FfQkV3YVdWLWZOSjVPOEtHb0FsYXJINWNzSERGckJfSWVncmI2UE9jRU5Qbm56QXpYSTdybkVFd1laZ1Z2WkZZMDh3RE5LVWlDckVKYlh6bUwwYVU1STBKbUZwY0N2SE56OG9zUHlpTnZIaTVl?oc=5",
-      "date": "2026-10-26T10:43:46Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Legimi z zarzutami UOKiK StockWatch.pl."
     },
     {
       "title": "Szykuje się kolejny zwrot ws. podatków. Wiemy, co zamierza rząd",
@@ -2554,36 +2554,36 @@
       25874.15,
       26002.05,
       26147.44,
-      28456.67,
+      28451.97,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      29121.08,
+      29116.27,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      29158.74,
+      29153.93,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29414.46,
+      29409.6,
       27354.94,
       27400.36,
       27412.11,
-      29833.98,
+      29829.05,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29061.29,
+      29056.49,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29249.11,
+      29244.28,
       27686.17,
       27404.78,
       27351.97,
@@ -2592,7 +2592,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28944.32,
+      28939.54,
       27930.04,
       28234.04,
       28218.36,
@@ -2601,82 +2601,82 @@
       28294.39,
       28203.83,
       28555.17,
-      29815.6,
+      29810.68,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29352.35,
+      29347.5,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29172.44,
+      29167.62,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29478.41,
+      29473.55,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30532.91,
+      30527.87,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30643.58,
+      30638.52,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30205.17,
+      30200.18,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30352.33,
+      30347.32,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30379.25,
+      30374.23,
       28449.73,
       28313.03,
       28272.33,
-      30136.72,
+      30131.75,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30111.22,
+      30106.25,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30476.9,
+      30471.87,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30395.47,
+      30390.45,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30745.05,
+      30739.97,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30146.41,
+      30141.43,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30005.66,
-      30232.21
+      30000.71,
+      30223.44
     ],
     "currency": "PLN"
   }
