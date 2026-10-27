@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-27T16:21:32Z",
+  "last_updated": "2026-10-27T16:22:16Z",
   "poland": [
+    {
+      "title": "Neutralna Szwajcaria ma miejsce w schronach dla wszystkich mieszkańców. Stawia na odporność",
+      "url": "https://www.rp.pl/spoleczenstwo/art45402831-neutralna-szwajcaria-ma-miejsce-w-schronach-dla-wszystkich-mieszkancow-stawia-na-odpornosc",
+      "date": "2026-10-27T16:17:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Poczucie wspólnoty w społeczeństwie jest jego najsilniejszą bronią w walce z dezinformacją. Szwajcarzy przywiązują do tego taką samą wagę jak do schronów, które mogą pomieścić całą populację kraju."
+    },
     {
       "title": "Saudi Aramco może wyjść z Polski. Minister Wojciech Balczun mówi o repolonizacji",
       "url": "https://www.rp.pl/biznes/art45404031-saudi-aramco-moze-wyjsc-z-polski-minister-wojciech-balczun-mowi-o-repolonizacji",
@@ -152,14 +160,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "W strefie Czarnobyla natknięto się na siedzunia sosnowego. To rzadki grzyb wpisany do ukraińskiej Czerwonej Księgi jako gatunek wymierający. Jak podkreślają eksperci, każde potwierdzone stanowisko ma znaczenie dla poznania bioróżnorodności strefy wykluczenia."
-    },
-    {
-      "title": "Michał Szułdrzyński: Donald Tusk musi zrobić to, co Jarosław Kaczyński. Cenę zapłaci PSL",
-      "url": "https://www.rp.pl/komentarze/art45403621-michal-szuldrzynski-donald-tusk-musi-zrobic-to-co-jaroslaw-kaczynski-cene-zaplaci-psl",
-      "date": "2026-10-27T15:07:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Donald Tusk stoi przed politycznym paradoksem. Aby utrzymać władzę, musi powtórzyć strategię Jarosława Kaczyńskiego z 2015 r. i zjednoczyć swój obóz."
     },
     {
       "title": "Gryfino wyrasta na jeden z kluczowych punktów polskiej energetyki. Rusza kolejna wielka inwestycja",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-27T16:20:22Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied."
+    },
+    {
       "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, the Guardian’s Latin America correspondent answers your questions",
       "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
       "date": "2026-10-27T16:15:02Z",
@@ -452,20 +460,28 @@
       "summary": "Frontline near Russian-occupied city in southern Ukraine quiet for first time in years ahead of planned evacuationEurope live – latest updatesA local ceasefire in a southern Ukrainian city under Russian occupation appeared to be holding on Tuesday, with both sides ceasing drone attacks, ahead of an apparent evacuation of about 2,000 trapped and desperate civilians.The temporary truce began at 3am in Russian-controlled Oleshky. The city sits on the Dnipro River and is about 3 miles from Kherson, a larger city on the opposite bank. Ukrainian troops recaptured Kherson in autumn 2022."
     },
     {
+      "title": "Brazil wonders: Where on earth is Flavio Bolsonaro? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUpaNGJkUU9FeDRxVTFGcVljX3VfUHhKM1p2bm82UjZ3bW5aUUprejByam9oWGpoeWllcC0wRUlNZi1yRlV2YVcwY2tYODVJWXZ0ZVZvMm85eEN4VC00NmJKTTk5enF1TTRZZmZRelpUMzhmY0NiUzNQRVVFdmc3amptbjZFWHJuUHdRSDZkZVlNakZWQks2WWRIVXhWdw?oc=5",
+      "date": "2026-10-27T15:51:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Brazil wonders: Where on earth is Flavio Bolsonaro? Reuters."
+    },
+    {
+      "title": "Flavio Bolsonaro misses deadline to turn in passports to Brazil police - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnROWC1LNTZRLVpEbGdRRUI3YWN4X3FBbEJNeW0tX1ZqVzFfZ3ZGYXVGcVV4U194V3hEU1RROVFUemxNT0pRVkdPNFllWDE5ZjNxNnhJeC1HWmJ5QVZVdEZ2TUxVQ09kc203ZGl5NzlxV2RBcVFmMFgxamZYYzFzWkk0bWZRMXVYUzBSNGJRSlhRRlFyUzVUUlhSUWVCVWFYa2lnQ2FybW1Rb05xUU8xTHFB?oc=5",
+      "date": "2026-10-27T15:35:21Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Flavio Bolsonaro misses deadline to turn in passports to Brazil police Reuters."
+    },
+    {
       "title": "Mbappe seeks to defuse China anger after 'ill-judged' Mao comments - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdUEtRWJxSk5SSk1MQUh1TXhtZlNxa0VwOHFZaWNaMEVHZlpneEJza25scXpwaE5tSFo0MkxDVWwtSzZXWVp1X05EaUpHTFFJQ1JWMXVmdjhTc29ldVF6d081emZhYlduWS1fYXVzMmdLOEdhN3RXemYzR0J6amN1MXRyRHNyZ205dWxqaXcwZXJRaG1IQlR2RkJTUGJIZjJWUEpLVkZEWVBfTWd6c21zdlFBLUJaeVZKekpkZWhMWQ?oc=5",
       "date": "2026-10-27T15:34:41Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Mbappe seeks to defuse China anger after 'ill-judged' Mao comments Reuters."
-    },
-    {
-      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-27T15:31:07Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied."
     },
     {
       "title": "Big Tech earnings to test AI boom amid market turmoil - Reuters",
@@ -482,6 +498,14 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out."
+    },
+    {
+      "title": "Artiva to discontinue cell therapy after two patient deaths, cut workforce by 94% - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWt5UTMxcXVTanBGbVVhZDZyam43Q3VVRk1mUUFtaGkzcVR3aXZzN1NJajhMcWVuNVpLZVF3YlYtVjVGUks4MXlnNmlHUXJnY3VEQXEtem81eFJ5Y2pVZ3h1OWtDS3V4MUZJQkp0RUZiQkE1SUxzUkthNmJ1OUQ1WkRJMEZaYVpFWDE2YlpmQTN2SVRId0hndlJlWHB1dWxsWUJqdWNUVzdNUWpzX2RsMVdfM25uQURWRFlIam83YnJyTVF2UEhpcTdHYw?oc=5",
+      "date": "2026-10-27T14:51:51Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Artiva to discontinue cell therapy after two patient deaths, cut workforce by 94% Reuters."
     },
     {
       "title": "Who controls powerful AI? Anthropic has a plan for long after its leaders depart - Reuters",
@@ -586,30 +610,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Protesters enter Serbian pro-Vucic TV station, call for arrest of editor Reuters."
-    },
-    {
-      "title": "Jordan says it killed more than 20 Islamic State militants in airstrikes on Syria - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNk5DZjNTRS1VT1FKalFOVFMtNlNnNzJtSHdtUE8xTVJ1WDZ6S3RYZm1lczdsMEZJSm04WUlXU3F2azVQTFN0RHRtY0hGZTN2ZFBHbFBHRVkwWk1qUnNXZFlqNkFteTBvUWhWVFBGMHBJMjNsd3ByWUx3OVF1N2VHTnMtWmpoOEVsNTVHWkF6YjdISU5QdzVvUTVidy1SVVNqWmlMSUp0cGppcnYyeThFVWlFVlNaWTg3cjdEdk1ZalVrQzhTaUxQemFYVzRkc0E?oc=5",
-      "date": "2026-10-27T13:43:47Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Jordan says it killed more than 20 Islamic State militants in airstrikes on Syria Reuters."
-    },
-    {
-      "title": "High inflation to persist globally into next year, Reuters poll shows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGlkNFRUdUxnaVVWLTVGV2pJeEdyQzVIUTBoak15M0dBVjMzcGZrV0NjMnVISDZud2U2RGdDcXc3NUZpSU5QNGtSS0xpc2F3QkR0Y05OOE00czlTSUV6ZUQ1V1Vrdk9BT2x6Qzk1a1IycThjeEJ0bk5MT3FjN0FxTEpvdFV1aEZ6MkRfTkJpbVU5eEZVdlhOVzdxVkJENXpjazlRVk0yZlROcTByLVluVXp0MA?oc=5",
-      "date": "2026-10-27T13:41:44Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "High inflation to persist globally into next year, Reuters poll shows Reuters."
-    },
-    {
-      "title": "GM moves to Nasdaq as first legacy automaker on the exchange - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZm9hYk1yQ3dNekhqMHROb3lfbGN4RDVGSFVSVFZkay05TWdfN3FTNnhTTXZIZ3lUM05kR0NCSVRmUlU4OWh4RWtidE5hZlZHaXJzSFU2dk5Wb25Dc044b0xPOWgySXpaRWRTbEhwcWdxN3RtQk1fcldpOFdNS0g4cVJ0MzZDWHJRYVVGMGFEdlIxa2dESjZnNnVCNTY1b1E?oc=5",
-      "date": "2026-10-27T13:36:23Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "GM moves to Nasdaq as first legacy automaker on the exchange Reuters."
     },
     {
       "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
@@ -1788,6 +1788,14 @@
   ],
   "finance": [
     {
+      "title": "IKE i IKZE do zmiany? W propozycjach nowe konto IKE+ i dopłaty za oszczędzanie",
+      "url": "https://strefainwestorow.pl/gospodarka/ike-ikze-zmiana-ike-plus",
+      "date": "2026-10-27T16:00:00Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "IKE i IKZE do zmiany? W propozycjach nowe konto IKE+ i dopłaty za oszczędzanie Wioletta Hass wt., 27.10.2026 Kanał Strefa Inwestorów Treść Trwają prace nad zmianami w oszczędzaniu na emeryturę. Jedno konto IKE+ zamiast IKE i IKZE, wypłaty środków od 60 roku życia, czy dopłaty państwa za długoletnie oszczędzanie.Grupa robocza w Radzie Dialogu Społecznego pracuje nad zmianami w IKE i IKZE, ale to nie jest jeszcze przyjęty projekt ustawy."
+    },
+    {
       "title": "Reforma podatkowa do odkręcenia i pod weto?",
       "url": "https://www.money.pl/podatki/reforma-podatkowa-do-odkrecenia-i-pod-weto-7344599461795936a.html",
       "date": "2026-10-27T15:58:52Z",
@@ -1900,20 +1908,12 @@
       "summary": "W wyniku awarii serwerów w Wojskowym Centrum Rekrutacji Opolu nie doszło do wycieku ani do utraty danych żołnierzy oraz rezerwistów - zapewnił rzecznik MON Janusz Sejmej."
     },
     {
-      "title": "\"Oficjalna operacja wojskowa\". Podsłuch pogrążył Ukraińca oskarżonego o wysadzenie Nord Stream?",
-      "url": "https://www.bankier.pl/wiadomosc/Oficjalna-operacja-wojskowa-Podsluch-pograzyl-Ukrainca-oskarzonego-o-wysadzenie-Nord-Stream-9219026.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-10-27T13:39:00Z",
-      "source": "Bankier.pl",
+      "title": "Bank Millennium chce wypłacić pierwszą dywidendę po 13 latach przerwy już w 2027 r.",
+      "url": "https://strefainwestorow.pl/dywidendy/millennium-dywidenda-zapowiedz-2027",
+      "date": "2026-10-27T13:32:39Z",
+      "source": "Strefa Inwestorów",
       "confirmed_by": 1,
-      "summary": "Hanzeatycki Wyższy Sąd Krajowy w Hamburgu odrzucił we wtorek, w drugim dniu procesu, wniosek obrony o umorzenie postępowania przeciwko Ukraińcowi Serhijowi K., oskarżonemu o kierowanie zespołem, który w 2022 roku wysadził gazociągi Nord Stream - podała agencja dpa."
-    },
-    {
-      "title": "Partnerzy EY zarabiają coraz więcej. Firma tnie koszty i restrukturyzuje kadry",
-      "url": "https://www.bankier.pl/wiadomosc/Partnerzy-EY-zarabiaja-coraz-wiecej-Firma-tnie-koszty-i-restrukturyzuje-kadry-9219012.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-10-27T13:10:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Partnerzy brytyjskiego oddziału firmy EY otrzymali za ostatni rok finansowy kończący się w czerwcu rekordowe wynagrodzenie w średniej wysokości 870 000 funtów. Oznacza to wzrost o niemal 11%, czyli o 83 000 funtów w stosunku do roku ubiegłego. Tak znaczny wzrost wypłat dla kadry zarządzającej nastąpił pomimo tego, że firma zmaga się z trzecim z kolei rokiem spadków przychodów w swoim kluczowym dziale doradczym."
+      "summary": "Bank Millennium chce wypłacić pierwszą dywidendę po 13 latach przerwy już w 2027 r. Piotr Kwestarz wt., 27.10.2026 Kanał Strefa Inwestorów dywidendy banków dywidendy 2027 Treść Bank Millennium zamierza wrócić do wypłacania dywidendy. Akcjonariusze mają otrzymać już część zysków za 2026 r., a decyzja zapadnie na walnym zgromadzeniu zaplanowanym na koniec marca 2027 r."
     },
     {
       "title": "Szeroka obwodnica CPK. Aż sześć pasów ruchu. Połączą ją z autostradą - Forsal.pl",
@@ -2052,6 +2052,22 @@
       "summary": "Alior Bank: dywidenda 75 proc. zysku netto i warunek KNF StockWatch.pl."
     },
     {
+      "title": "BR LAB ORBITEO ASI (ORO) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xTVRLbm9rT2hpb3B1SmlsNzdpM2V2Z19ieS1hUjd2WVpMRHNmampIRDhlSlhYMFU2THZNZnJadWlFSXQ4Z2Y2UHZtT2N1X3J1OTlrY0Y4bGg5b3c?oc=5",
+      "date": "2026-10-27T11:06:18Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "BR LAB ORBITEO ASI (ORO) BiznesRadar."
+    },
+    {
+      "title": "Podsumowanie efektów realizacji strategii Pepco Group i dalsze plany rozwoju - czat inwestorski z przedstawicielami zarządu spółki",
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-10-27/wyniki-finansowe-pepco-2026",
+      "date": "2026-10-27T10:56:35Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Podsumowanie efektów realizacji strategii Pepco Group i dalsze plany rozwoju - czat inwestorski z przedstawicielami zarządu spółki Czaty wt., 27.10.2026 Obrazek."
+    },
+    {
       "title": "Orlen otworzy biuro handlowe LNG w Singapurze w I kwartale 2027 r. - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3ZiR0hXQXR5TFZsb0NMVUk0ZHQzNW1jbU11SnlFOWxqY2xyOGRYLWRCaDBOVVhCUjJLNWo5cG5Eam5QR0JodzE5R2Z3cDZINE1wVEYzLUc5U0FHd0p5ZmFZdzdyUUZYbnpSdDh5eFFNNW9tcEVrZjktYjJ3Q3dEQXpDWnRmTlVYN3U2Q0N1ZlBwQmo2NlRIRWVnV0Uwdlk?oc=5",
       "date": "2026-10-27T10:40:30Z",
@@ -2068,44 +2084,12 @@
       "summary": "Od samotnej matki do twórczyni supermarki. Zdradza, jak tego dokonała Forbes."
     },
     {
-      "title": "\"Wzrost o 3 stopnie\". Bruksela do krajów UE: musicie się przygotować",
-      "url": "https://www.money.pl/ubezpieczenia/fale-upalow-i-powodzie-beda-coraz-grozniejsze-ue-szykuje-przepisy-7344507037272160a.html",
-      "date": "2026-10-27T10:22:32Z",
-      "source": "Money.pl",
-      "confirmed_by": 1,
-      "summary": "Unia Europejska wysyła jasny sygnał do krajów Wspólnoty – musicie przygotować się na wzrost ocieplenia globu nawet o 3 stopnie Celsjusza i skutki ekstremalnych zjawisk pogodowych. Bruksela chce, by każde państwo wskazało, kto odpowiada za ochronę przed katastrofami klimatycznymi."
-    },
-    {
       "title": "Quo vadis, Polsko? Największe wyzwania dla naszej gospodarki i biznesu - Forbes",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzBfLVJ0a2xjMjFlZEVBd3JGYTJILWJOd0xhQkIwZGhqb0hudnNyQTZXOXNtemJpb3FnOElfME1WQlhyd3pvQXpqNkhWd1NHanAxak1qeDd0RzBXY3ExaVVJeDc3Z1lvRUhOUzlNNXg2aWZ0QjFTSFJ0dEY4WVU2T3plYUZEcjNLd25oWDF5N0lpYnVZdkxYTXYzQnhhRXgyMG10d2Uxc3RWQi1hVXc?oc=5",
       "date": "2026-10-27T10:16:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Quo vadis, Polsko? Największe wyzwania dla naszej gospodarki i biznesu Forbes."
-    },
-    {
-      "title": "Wiadomości ORBITEO ASI (ORO) - strona: 2 - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BSGRNLUZRTFFDSXFybnFxcjBWRk1sSkRPZEt0YXVPWjh4a2I5cGc4TTh2SlJVMnVWYlN4UG5ZeGNqMkV1VkZZamRDRlFEZmFLN3JYY3VR?oc=5",
-      "date": "2026-10-27T10:15:32Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości ORBITEO ASI (ORO) - strona: 2 BiznesRadar."
-    },
-    {
-      "title": "Dywidendy ORBITEO ASI (ORO) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rODVGRUdfRklxVURKWlc1WUsxb05hNkVGcFRQTmtLYU5PVUc3ZVotOGMwdFJuS0lFTEpTRS1kckhjMWdFREVzMHcya0EtT0JRcmc?oc=5",
-      "date": "2026-10-27T10:15:32Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Dywidendy ORBITEO ASI (ORO) BiznesRadar."
-    },
-    {
-      "title": "Już nie własne mieszkanie ani dalekie podróże. Oto oznaka sukcesu finansowego młodych - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVWxZVUM2NWU4bklJdlEtQjJVajRVbUczQTk0emt6X0RuRUpPNXZXY19PNHZhRE82OTNFdkxvNHRzVXdQd3JhUEVaZ1N5QlNIdXM2V2VlYllpM3NIenFiT254ay1nSGN0a2pfSkdPd0duV2xQVjAyTmpGN3YxQkJ6T3BmOS1lVmRwaFBRdW1FS25PTWRlMmdxY1dfRWx6cmsxQWZRSWZVUHNCZVhVblFoblo4bkRvTXQzb0w1QUJ0SVFBb3N1bHFpc2M0YU42eUk?oc=5",
-      "date": "2026-10-27T10:09:00Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Już nie własne mieszkanie ani dalekie podróże. Oto oznaka sukcesu finansowego młodych Forsal.pl."
     },
     {
       "title": "Budimex z umową z PSE na rozbudowę stacji Ełk Bis za 195,49 mln zł - StockWatch.pl",
@@ -2116,20 +2100,20 @@
       "summary": "Budimex z umową z PSE na rozbudowę stacji Ełk Bis za 195,49 mln zł StockWatch.pl."
     },
     {
-      "title": "PiS chce odkręcić reformę Morawieckiego. Jest ostra odpowiedź",
-      "url": "https://www.money.pl/podatki/zabrac-pieniadze-emerytom-to-jest-propozycja-pis-morawiecki-nie-pisze-sie-na-to-7344479846634561v.html",
-      "date": "2026-10-27T09:33:52Z",
-      "source": "Money.pl",
+      "title": "Rośnie podaż mieszkań na wynajem, a ceny najmu hamują",
+      "url": "https://strefainwestorow.pl/nieruchomosci/rynek-najmu-otodom-wrzesien-2026",
+      "date": "2026-10-27T09:30:06Z",
+      "source": "Strefa Inwestorów",
       "confirmed_by": 1,
-      "summary": "– Zabrać pieniądze emerytom, pieniądze na ich leczenie i oddać młodym Kacprzykom – to jest propozycja PiS. Dziękuję bardzo, ale Rozwój Plus się na to nie pisze – stwierdził w programie w programie \"Tłit\" w Wirtualnej Polsce były premier w rządzie Zjednoczonej Prawicy. W ten sposób skomentował plan Prawa i Sprawiedliwości dotyczący powrotu do zryczałtowanej składki zdrowotnej."
+      "summary": "Rośnie podaż mieszkań na wynajem, a ceny najmu hamują Wioletta Hass wt., 27.10.2026 Kanał Strefa Inwestorów rynek najmu dane otodom najem mieszkań ceny najmu w Polsce III kwartał rynek najmu mieszkanie na wynajem ogłoszenia otodom Treść Podaż wróciła na rynek najmu, a krajowa oferta urosła o 12 proc. m/m. O ile jest to znany mechanizm sezonowy w tym okresie roku, to ciekawe zachowały się ceny – te przez cały trzeci kwartał się nie zmieniły lub przyniosły ujemną korektę.Wrześniowe dane z rynku najmu pokazują skok podaży – co w tym okresie jest znanym mechanizmem."
     },
     {
-      "title": "Murapol wypłaci zaliczkę na dywidendę za 2026 r. w wysokości 2,94 zł na akcję - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOUNrcHpzNmMyaWZtTFVpOTZtODlNLW5lV3ZfQTdMd2RlbFVVN1huUzBYS1VfdGFGSkdGanVxN1BwZTg4Z2ZqRmNwWUlUUXJXczJQU3czcjk5UGYxb3pIdktyOENROWRIaTBfT0ZKUU1ZNUsyUGhLV2tnYkRNa0RaRXhMQVozT3JaZHR4TW0tU1JtZk5nUFFIN2JZTUY?oc=5",
-      "date": "2026-10-27T09:23:02Z",
-      "source": "StockWatch.pl",
+      "title": "Murapol ponownie bardzo z wysoką zaliczką na poczet dywidendy. Trzeci rok z rzędu w tej samej kwocie",
+      "url": "https://strefainwestorow.pl/dywidendy/zaliczka-dywidendy-murapol-2026",
+      "date": "2026-10-27T09:09:12Z",
+      "source": "Strefa Inwestorów",
       "confirmed_by": 1,
-      "summary": "Murapol wypłaci zaliczkę na dywidendę za 2026 r. w wysokości 2,94 zł na akcję StockWatch.pl."
+      "summary": "Murapol ponownie bardzo z wysoką zaliczką na poczet dywidendy. Trzeci rok z rzędu w tej samej kwocie Piotr Kwestarz wt., 27.10.2026 Kanał Strefa Inwestorów Treść Zarząd dewelopera Murapol #MUR zdecydował o wypłacie zaliczki na poczet dywidendy z zysku za 2026 rok. To już trzecia z rzędu zaliczka w identycznej wysokości i także tym razem stopa dywidendy jest bardzo wysoka."
     },
     {
       "title": "AQUA SA (22/2026) Raport kwartalny za III kwartał - BiznesRadar",
@@ -2140,12 +2124,28 @@
       "summary": "AQUA SA (22/2026) Raport kwartalny za III kwartał BiznesRadar."
     },
     {
-      "title": "Najlepsi pracodawcy pod lupą. Liczą się głosy pracowników firm - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUm5aNjRkeVp2QjFyaFlhYUtpZ0FiZFR0QWRDU3hVekxCeERCT0U0UUk4ejBOVjJHdXhyY2tYbVM1UmI4ZERub3BDUnVmaS1pTlluX1FmYVNuTWRpVXp6OVJRUEdWYnJ5UlBHMUVYcjFnbC1EM21pYTZvU1h4WXJiX0M2T0J2X3lpc3lJZC02eFc2dktl?oc=5",
-      "date": "2026-10-27T08:35:11Z",
-      "source": "Forbes Polska",
+      "title": "UE szykuje się na kolejny kryzys energetyczny",
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce/kryzys-ke-legislacja",
+      "date": "2026-10-27T08:46:40Z",
+      "source": "Strefa Inwestorów",
       "confirmed_by": 1,
-      "summary": "Najlepsi pracodawcy pod lupą. Liczą się głosy pracowników firm Forbes."
+      "summary": "UE szykuje się na kolejny kryzys energetyczny Michał Partyka wt., 27.10.2026 Kanał W Zielonej Strefie legislacja europejska kryzys ceny gazu zużycie energii ormuz Treść Europa ponownie staje w obliczu poważnych zagrożeń dla bezpieczeństwa energetycznego. Zakłócenia dostaw ropy i gazu z Bliskiego Wschodu, niskie poziomy zapełnienia magazynów gazu oraz rosnące ceny energii skłaniają Unię Europejską do rozważenia nadzwyczajnych działań, w tym ograniczenia zużycia energii. Z tego względu 29 października ministrowie państw członkowskich omówią możliwe scenariusze reagowania na kryzys."
+    },
+    {
+      "title": "Anthropic opublikował prospekt emisyjny. Rusza najgorętsze IPO tego roku",
+      "url": "https://strefainwestorow.pl/strefa-global-market/spolki/anthropic-ipo-nasdaq",
+      "date": "2026-10-27T08:14:05Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Anthropic opublikował prospekt emisyjny. Rusza najgorętsze IPO tego roku Szymon Machalica wt., 27.10.2026 Kanał Strefa Global Market Anthropic IPO Treść Spółka Anthropic, stojąca za popularnym modelem sztucznej inteligencji Claude, złożyła liczącą ponad 300 stron dokumentację S-1 i oficjalnie przygotowuje się do wejścia na giełdę Nasdaq pod tickerem ANT. W mediach amerykańskich mówi się o możliwej wycenie w przedziale od 1,5 do 2 bilionów USD."
+    },
+    {
+      "title": "mWIG40 atakuje historyczne maksima",
+      "url": "https://strefainwestorow.pl/blog/podsumowanie-sesji/mwig40-atakuje-historyczne-maksima-0",
+      "date": "2026-10-27T07:47:07Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "mWIG40 atakuje historyczne maksima Paweł Biedrzycki wt., 27.10.2026 mwig40 Wstęp do wpisu Podsumowanie sesji z 26 października 2026: #mWIG40, spółki godne uwagi mWIG40 atakuje historyczne maksima Paweł Biedrzycki."
     },
     {
       "title": "BANK MILLENNIUM SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
@@ -2173,8 +2173,8 @@
     },
     {
       "title": "Komponenty indeksu WIG-INFO - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YTXRJNFpyYWlmbURVc2EzdnFoZ2JGam51R0tyTGMydXliT21ielk2WHBKN1JEa2ZLLUNjV3RHSUsxRFJjZ2dkUDFIV1hTeFpia3NLbnY4dWdJYXdOZlk0YmpVWGZ1R0VON1hTZHVaYk94LVJkRGlLbkNHXzh2TzA?oc=5",
-      "date": "2026-10-26T20:27:15Z",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdmNmeWZFZlBkTWt5ZWtELUdhdGI2TVBPMHFmWndHRmdSSDBpRlhRTV90UmlQc04weERUbS1UQUdBenFuZC0xdHhmVTRwVjZ5TzFMa1Fpazd2NUtOQTV4dVNtaDdsaG1Jb2lsZ3MtX2E0NnZiNFVzZVhncWt3bUM1UWF1ejc?oc=5",
+      "date": "2026-10-26T20:40:34Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Komponenty indeksu WIG-INFO BiznesRadar."
@@ -2324,8 +2324,8 @@
       "lng": 38.99,
       "type": "conflict",
       "region": "Syria",
-      "description": "Jordan says it killed more than 20 Islamic State militants in airstrikes on Syria Reuters.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNk5DZjNTRS1VT1FKalFOVFMtNlNnNzJtSHdtUE8xTVJ1WDZ6S3RYZm1lczdsMEZJSm04WUlXU3F2azVQTFN0RHRtY0hGZTN2ZFBHbFBHRVkwWk1qUnNXZFlqNkFteTBvUWhWVFBGMHBJMjNsd3ByWUx3OVF1N2VHTnMtWmpoOEVsNTVHWkF6YjdISU5QdzVvUTVidy1SVVNqWmlMSUp0cGppcnYyeThFVWlFVlNaWTg3cjdEdk1ZalVrQzhTaUxQemFYVzRkc0E?oc=5"
+      "description": "The airstrikes late Monday, which a Syrian agency said killed at least seven civilians, were in retaliation for an attack on a Jordanian church, Jordan said.",
+      "url": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html"
     },
     {
       "lat": 17.57,
@@ -2404,6 +2404,10 @@
     {
       "sector": "Sektor obronny",
       "instrument": "np. ETF iShares Global Aerospace & Defense (ITA)"
+    },
+    {
+      "sector": "Sektor energetyczny/surowcowy",
+      "instrument": "np. ETF Energy Select Sector (XLE)"
     }
   ],
   "sp500_trend": {
@@ -2542,36 +2546,36 @@
       25874.15,
       26002.05,
       26147.44,
-      28540.18,
+      28526.44,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      29206.54,
+      29192.48,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      29244.31,
+      29230.24,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29500.78,
+      29486.58,
       27354.94,
       27400.36,
       27412.11,
-      29921.53,
+      29907.13,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29146.58,
+      29132.55,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29334.95,
+      29320.82,
       27686.17,
       27404.78,
       27351.97,
@@ -2580,7 +2584,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29029.26,
+      29015.29,
       27930.04,
       28234.04,
       28218.36,
@@ -2589,83 +2593,83 @@
       28294.39,
       28203.83,
       28555.17,
-      29903.1,
+      29888.7,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29438.49,
+      29424.31,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29258.05,
+      29243.97,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29564.92,
+      29550.69,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30622.51,
+      30607.77,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30733.51,
+      30718.71,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30293.81,
+      30279.23,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30441.4,
+      30426.75,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30468.4,
+      30453.74,
       28449.73,
       28313.03,
       28272.33,
-      30225.16,
+      30210.61,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30199.58,
+      30185.05,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30566.34,
+      30551.62,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30484.67,
+      30469.99,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30835.27,
+      30820.43,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30234.87,
+      30220.32,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30093.72,
+      30079.23,
       30100.92,
-      30498.88
+      30487.27
     ],
     "currency": "PLN"
   }
