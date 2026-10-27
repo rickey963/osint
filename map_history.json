@@ -6,7 +6,7 @@
     "region": "Ukraina",
     "description": "Rada Najwyższa przedłużyła stan wojenny w Ukrainie o kolejne 90 dni.",
     "url": "https://businessinsider.com.pl/gospodarka/ukraina-przedluza-stan-wojenny-rusza-mobilizacja-na-nowych-zasadach/s0zd63q",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
@@ -15,7 +15,7 @@
     "region": "Strefa Gazy / Izrael",
     "description": "Rozpoczęły się wybory parlamentarne w Izraelu.",
     "url": "https://www.polsatnews.pl/wiadomosc/2026-10-27/ruszyly-wybory-parlamentarne-w-izraelu-sadny-dzien-dla-netanjahu/",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "conflict|Iran": {
     "lat": 32.43,
@@ -24,7 +24,7 @@
     "region": "Iran",
     "description": "Główni przeciwnicy obecnego premiera Beniamina Netanjahu, ściganego przez Międzynarodowy Trybunał Karny pod zarzutem zbrodni wojennych, nie różnią się od niego znacząco w podejściu do Iranu, Palestyny i Libanu.",
     "url": "https://www.rp.pl/polityka/art45402141-mieszkancy-izraela-ruszyli-do-lokali-wyborczych-wedlug-sondazy-netanjahu-moze-stracic-wiekszosc",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "cyber|Indie": {
     "lat": 21.5,
@@ -33,7 +33,7 @@
     "region": "Indie",
     "description": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.",
     "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "cyber|Rosja": {
     "lat": 62.0,
@@ -42,7 +42,7 @@
     "region": "Rosja",
     "description": "Fałszywi aktywiści w Stanach Zjednoczonych i portal udający niezależne medium w Mołdawii.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/rosyjski-rybar-pod-lupa-falszywi-aktywisci-wybory-i-zwiazki-z-kremlem",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "cyber|Wielka Brytania": {
     "lat": 55.5,
@@ -51,7 +51,7 @@
     "region": "Wielka Brytania",
     "description": "Wielka Brytania zapowiedziała utworzenie AI Biosecurity Lab – laboratorium, które ma wykorzystać sztuczną inteligencję do walki z zagrożeniami biologicznymi.",
     "url": "https://cyberdefence24.pl/technologie/openai-i-anthropic-pomoga-w-walce-z-zagrozeniami-biologicznymi",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "conflict|Haiti": {
     "lat": 18.97,
@@ -80,15 +80,6 @@
     "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
     "last_seen": "2026-10-26T09:28:59Z"
   },
-  "cyber|Holandia": {
-    "lat": 52.6,
-    "lng": 5.8,
-    "type": "cyber",
-    "region": "Holandia",
-    "description": "Jak donosi portal The Hacker News, w Holandii doszło do zatrzymania 24-letniego mężczyzny z Amsterdamu w związku z działalnością grupy ShinyHunters.",
-    "url": "https://sekurak.pl/holenderska-policja-zatrzymala-24-latka-podejrzewanego-o-zwiazki-z-shinyhunters/",
-    "last_seen": "2026-10-26T06:52:39Z"
-  },
   "cyber|Chiny": {
     "lat": 35.5,
     "lng": 104.3,
@@ -96,7 +87,7 @@
     "region": "Chiny",
     "description": "But there's not much evidence this is anything more than echoes of unsanitized training data.",
     "url": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "conflict|Jemen": {
     "lat": 15.55,
@@ -114,7 +105,7 @@
     "region": "Strefa Gazy / Izrael",
     "description": "Klocki LEGO nie są tu rekwizytem z pola walki, lecz językiem internetowej opowieści.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/lego-na-froncie-informacyjnym-iran-zamienil-propagande-w-wiralowa-opowiesc",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "conflict|Sudan": {
     "lat": 12.86,
@@ -123,7 +114,7 @@
     "region": "Sudan",
     "description": "US, dozens of countries warn of Sudan famine risk, urge aid Reuters.",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0NVeWxHWW90dDBFVmZjSU9IUXZDR3hZSTdpQzg4SFphaUJKWHl2RTRmaWlWQVp5U2ZjVzVZQ3lLZ2d1VTJSbFQ3a0Q3SDZPRmZzVHZkSGRIc3VXQ1pTQnpzdGQtQmpuMWFUcnl2OTM3U3dRWkdoVmNOVmVrVkNCUlVqeC04d3BRdDZxOHQxRGRXZmprdC1McUNRSGVzbUhBY2dEY0ZBUE4zQQ?oc=5",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "disaster|Serbia": {
     "lat": 43.5,
@@ -159,7 +150,7 @@
     "region": "Polska",
     "description": "Inteligentny system opracowany przez Wojsko Polskie w pierwszej kolejności zostanie wykorzystany do ochrony wschodniej granicy naszego kraju w ramach operacji „Bezpieczne Podlasie”.",
     "url": "https://cyberdefence24.pl/armia-i-sluzby/wojsko-polskie/system-z-bezpiecznego-podlasia-wzmocni-polskie-wojsko",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "conflict|Somalia": {
     "lat": 5.15,
@@ -177,7 +168,7 @@
     "region": "Stany Zjednoczone",
     "description": "Inteligentne okulary produkowane przez Even Realities gromadzą dane i przesyłają je do Chin oraz Stanów Zjednoczonych.",
     "url": "https://cyberdefence24.pl/technologie/posel-sachajko-i-jego-inteligentne-okulary-prosto-z-chin-dlaczego-stanowia-ryzyko",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "critical|Brazylia": {
     "lat": -14.5,
@@ -195,7 +186,7 @@
     "region": "Liban",
     "description": "Główni przeciwnicy obecnego premiera Beniamina Netanjahu, ściganego przez Międzynarodowy Trybunał Karny pod zarzutem zbrodni wojennych, nie różnią się od niego znacząco w podejściu do Iranu, Palestyny i Libanu.",
     "url": "https://www.rp.pl/polityka/art45402141-mieszkancy-izraela-ruszyli-do-lokali-wyborczych-wedlug-sondazy-netanjahu-moze-stracic-wiekszosc",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "conflict|Syria": {
     "lat": 34.8,
@@ -204,7 +195,7 @@
     "region": "Syria",
     "description": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
     "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "conflict|Mali / Sahel": {
     "lat": 17.57,
@@ -222,7 +213,7 @@
     "region": "Iran",
     "description": "Donald Trump w czasie przemówienia na wiecu wyborczym w Mississippi obarczył Iran odpowiedzialnością za wybuch wojny z USA.",
     "url": "https://www.rp.pl/konflikty-zbrojne/art45402151-donald-trump-to-nie-my-zaczelismy-wojne-z-iranem-to-iran-zaczal",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "cyber|Francja": {
     "lat": 47.1,
@@ -231,7 +222,7 @@
     "region": "Francja",
     "description": "W internecie pojawiły się wezwania do przeprowadzenia zamachów terrorystycznych podczas protestów w Europie.",
     "url": "https://cyberdefence24.pl/armia-i-sluzby/dzihadysci-wzywaja-do-zamachow-chca-wykorzystac-protesty-w-europie",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   },
   "critical|Francja": {
     "lat": 46.300000000000004,
@@ -240,6 +231,6 @@
     "region": "Francja",
     "description": "W internecie pojawiły się wezwania do przeprowadzenia zamachów terrorystycznych podczas protestów w Europie.",
     "url": "https://cyberdefence24.pl/armia-i-sluzby/dzihadysci-wzywaja-do-zamachow-chca-wykorzystac-protesty-w-europie",
-    "last_seen": "2026-10-27T06:52:32Z"
+    "last_seen": "2026-10-27T06:53:17Z"
   }
 }
