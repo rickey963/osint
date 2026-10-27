@@ -1,8 +1,16 @@
 {
-  "last_updated": "2026-10-27T20:15:41Z",
+  "last_updated": "2026-10-27T20:25:12Z",
   "poland": [
     {
-      "title": "Izraelczycy zagłosowali w wyborach parlamentarnych. Lokale wyborcze zostały zamknięte. Wyniki exit poll",
+      "title": "Wybory w Izraelu. Exit polls: Wygrywa opozycja, ale różnica jest niewielka",
+      "url": "https://www.rp.pl/polityka/art45405501-wybory-w-izraelu-exit-polls-wygrywa-opozycja-ale-roznica-jest-niewielka",
+      "date": "2026-10-27T20:06:12Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Izraelczycy wybierają nowy parlament w pierwszych wyborach od ataku Hamasu z 7 października 2023 roku. Beniamin Netanjahu stara się utrzymać władzę, a jego przeciwnicy - zakończyć okres jego rządów. Na kilka godzin przed zamknięciem lokali wyborczych szacowano, że frekwencja jest najwyższa od 50 lat."
+    },
+    {
+      "title": "Izraelczycy zagłosowali w wyborach parlamentarnych. Frekwencja najwyższa od 1988 roku. Wyniki exit poll",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33102266,izraelczycy-zaglosowali-w-wyborach-parlamentarnych-lokale-wyborcze.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-10-27T20:03:00Z",
       "source": "Gazeta Wyborcza",
@@ -144,14 +152,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Osoby, które pracowały w nocy z 24 na 25 października, mogły przepracować godzinę więcej z powodu zmiany czasu z letniego na zimowy. Za dodatkową pracę może im przysługiwać wynagrodzenie powiększone o odpowiednie dodatki lub czas wolny. O prawach pracowników przypomniała ministra rodziny, pracy i polityki społecznej Agnieszka Dziemianowicz-Bąk."
-    },
-    {
-      "title": "Nadchodzą ważne zmiany dla pracowników TVN. Skydance nie zaczeka na polski rząd",
-      "url": "https://www.rp.pl/media/art45406521-nadchodza-wazne-zmiany-dla-pracownikow-tvn-skydance-nie-zaczeka-na-polski-rzad",
-      "date": "2026-10-27T18:15:12Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "W ciągu kilku tygodni oczekiwane są ważne decyzje osobowe w koncernie Skydance. Tym razem mogą bezpośrednio dotyczyć polskiej stacji – wynika z naszych informacji. Na razie jej pracownicy poznali kierunki zmian w sposobie pracy."
     },
     {
       "title": "Czy wystarczy gazu do wiosny? Mamy pełne magazyny, ale należą do najmniejszych w Europie",
@@ -500,14 +500,6 @@
       "summary": "Yahaya Masussuka had posted videos in which he rejected some elements of mainstream Islam."
     },
     {
-      "title": "US agency approves Amazon Leo’s $11.5 billion acquisition of Globalstar - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2pZY3J4T2Fvd0hub09FM2RkaHJQc21pOWRWal80cHpZMXN2RS1La2M2WmpVY1hnbzlnUHNBZG5rQ3hWTFZPdmh0cmFPMHVHV0ttRlhzXzZ2SVdFOTd5ZU42YWFTblZtQnRPQUZNcENPSWJUeEF2TE5JRFFXaUdCRlZmLUFCT1JhT0wxWGpKNlZXYnowUG52dlBqc1JYS2EwcE1PS3gwVzhhYWZ4RkJURTh0LWl6SWxEOVIzT3RXbG1EZw?oc=5",
-      "date": "2026-10-27T18:30:08Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "US agency approves Amazon Leo’s $11.5 billion acquisition of Globalstar Reuters."
-    },
-    {
       "title": "Norway and Finland leaders hold rare call with Putin",
       "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-27T18:28:23Z",
@@ -634,6 +626,14 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\"."
+    },
+    {
+      "title": "US court of appeals affirms validity of Venezuela's PDVSA 2020 bonds - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdlZoSHBxdTFzWThkc01PYkF1eXpJWEUwLXljM215RllRU2V1RVdvSlVYXzhLUGFhQWtyWkJxUlVOdU1JY3hFNmFfTHptUVRYLVJpY3JYMkM1LWpnbnJpeTRTdlYtREdHelYyUzRaNklrb2dGcDRvYmdNQ1FVV2NwQldadGZoMG82cUhCQ01qSW91RklVRDVzZ09XQkRSWnQ4QnBBSC1nbDNjYmZlQXFoVngzeUQ?oc=5",
+      "date": "2026-10-27T15:57:46Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "US court of appeals affirms validity of Venezuela's PDVSA 2020 bonds Reuters."
     },
     {
       "title": "Netanyahu warns of Arab voter surge in Israel's election; Arab leaders call tactic racist - Reuters",
@@ -766,12 +766,28 @@
   ],
   "world_politics": [
     {
+      "title": "RAF Fairford Incident Was Coordinated By Man Acting for Iran, UK Prosecutors Say",
+      "url": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html",
+      "date": "2026-10-27T20:09:33Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Two British men were charged Tuesday over a suspected plot targeting a base used by the United States. Prosecutors believe they were directed by a man working for Iran."
+    },
+    {
       "title": "Live Updates: Polls Close in Israeli Election as Netanyahu Fights for Political Survival",
       "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "date": "2026-10-27T20:05:02Z",
+      "date": "2026-10-27T20:07:26Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Election officials reported record turnout as Prime Minister Benjamin Netanyahu’s far-right coalition faced an opposition bloc led by a former military chief of staff, Gadi Eisenkot. A winner might not be immediately clear."
+    },
+    {
+      "title": "Flávio Bolsonaro Flees Brazil for the. U.S. After Election Defeat",
+      "url": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
+      "date": "2026-10-27T20:07:22Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Mr. Bolsonaro was trying to get to the United States after the Brazilian police asked him to hand over his passports because of his links to an investigation."
     },
     {
       "title": "European Leaders Split Over Phone Call to Putin",
@@ -870,30 +886,6 @@
       "summary": "The deployment comes after a foreign national was beaten to death by a mob during an anti-immigrant protest last week."
     },
     {
-      "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
-      "url": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
-      "date": "2026-10-27T17:30:52Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "The move would be the latest U.S. concession to Moscow as President Trump pursues economic incentives he hopes will secure an end to war in Ukraine."
-    },
-    {
-      "title": "Egyptian Court Orders News Site Closed as Critics Warn of a Crackdown",
-      "url": "https://www.nytimes.com/2026/10/27/world/europe/egypt-press-crackdown-mada-masr-attalah.html",
-      "date": "2026-10-27T17:21:41Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Mada Masr, one of Egypt’s few independent media outlets, said a judge ordered it closed for operating without a license and detained its editor in chief."
-    },
-    {
-      "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin - AP News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
-      "date": "2026-10-27T16:28:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin AP News."
-    },
-    {
       "title": "Utah authorities are connecting serial killer Ted Bundy to another 1970s homicide - AP News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE4ybTBpY3ItMkNXQTVVZFJsMW0zYWt6aTUtdnJRVWNqVzlEMTZtLTVPTmx5REVUT2ZFWmRISV9BSFVuWjNGSDc4Y3JXbldvWnJPamdObkJqbjFTTTdaRms2YWdoX2J4YzRYUi1NUl9aeE9FNVFVcW5tcHV2NGlIU2kxd0xvTXhqSFRjQUdMWG1kdkNhRjFmV2djVQ?oc=5",
       "date": "2026-10-27T15:48:13Z",
@@ -910,6 +902,14 @@
       "summary": "Soccer star Kylian Mbappé apologizes for apparent reference to Mao as a ‘dictator’ AP News."
     },
     {
+      "title": "Congo’s Ebola outbreak tops 10,000 cases as authorities race to slow the spread in African countries - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlBHRG5jakZCMG5CbnJSZ1ZfdUZnRlRsMU9BYTRER2h4VEN3ZVJPdGxyTGRfaXQ2VTNrSmp1WmhpQnBFOTIzR0RjSXN4ejUzZ2Z3MTBwVnp3V3JZUy10ZFJkWUM4SGhaNVRWdWxXLVB1WE1UU25DY1FFMmxHN3FNUy1zWHBncDROX2k2NFBqdFlabWdkdGc5RnR4bmdDcWtQSU40?oc=5",
+      "date": "2026-10-27T09:39:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Congo’s Ebola outbreak tops 10,000 cases as authorities race to slow the spread in African countries AP News."
+    },
+    {
       "title": "Kiah Stokes' big night on both ends leads Valkyries past Dream 64-55 and within a win of WNBA title - AP News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjk2RkN3Z25VYnp2YTZreVp5SGVZNzUxczczS2RXUUFMVlU2QkY1QUVGYzRWN3ZaU08xdlhPQld3YzY2MzRIYUowZm56aHl3akZ5RHF2UFJhMnNRN25sOFFEUGEydDUyVGpuZFdjS0VoVkhTR0NCN3pqSWdmRVcxQmEzQkdOTzNqRk1qOVlxTV9QQjRTVi01NQ?oc=5",
       "date": "2026-10-27T05:51:00Z",
@@ -920,7 +920,7 @@
     {
       "title": "Brewers rout the Rays 10-1 to move within a win of their first World Series title - AP News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPblFfUWRtTXFSeEx3S09mOWF6NElOZkd3SC1fWVRCN0FuTXZtNjRpWl9sTVRaNGdSOGt6UXpTZ3lKRUlTT1pwOTlYRkpjbDQweXEtVkFCMWVfRlFITTRwYmtLZDZtX3ZaSGY3b0xrbkZzLXpSNEJxV1RSZ294cC1RODVJNUF2bUs4ZjJuTzBXRHlCREM5VWFV?oc=5",
-      "date": "2026-10-27T05:46:00Z",
+      "date": "2026-10-27T04:02:20Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Brewers rout the Rays 10-1 to move within a win of their first World Series title AP News."
@@ -942,6 +942,14 @@
       "summary": "Trump and Rubio plan to visit oil tanker carrying Venezuelan crude in Texas AP News."
     },
     {
+      "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
+      "date": "2026-10-27T01:26:06Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin AP News."
+    },
+    {
       "title": "The Anthropic IPO by the numbers, from a possible valuation in the trillions to surging revenue - AP News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDRJRVVNZ1VRRENaRXhEa082OGJYREE1ZmxlWHhLZ3FxYmpqQVQwZ3ZyNG4wNngwMjVFb1R1WTVZOFliSWU3N01ObFduZ2lCUWs0VFZiczkwVFBrR09jaml4N29ESndYUF9FeHZtRHpqeGE0QjZ5ZldVT3FuemFCVGJqSzBYQjA0c2tXblVHQ3NTaWNS?oc=5",
       "date": "2026-10-26T23:53:00Z",
@@ -956,14 +964,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "'Crash ur row only': United flight turned around after passenger allegedly said he'd 'hijack' plane AP News."
-    },
-    {
-      "title": "Lula mobilized millions to win Brazil's election, while Bolsonaro contests loss and Trump cries foul - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWDd1SUhWZmlrNUdQMU92ZFk5R19pNEJBRTI5eWJMYUpvY0x0V3dCb25TRWhIbHJYM3VQMFhkZlp2WDVzY3hmMG5Ub1IyZW5zQmVfclg1WEd0ZjVZWGcyNE1DaE40aE9mTHpKOEl3QTE1Z1NxcEVTUUx6eHkyX2hkcHAxMzBORi04OEJXWUhvMm1WeF81Tm9NZGRmT1hkR1pvZ0xSYzFOaHU5LUNzUWc0QjFCSQ?oc=5",
-      "date": "2026-10-26T21:41:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Lula mobilized millions to win Brazil's election, while Bolsonaro contests loss and Trump cries foul AP News."
     },
     {
       "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI - AP News",
@@ -1008,12 +1008,36 @@
   ],
   "technology": [
     {
+      "title": "Biały karzeł J1328−1450 ma podwójny dysk. Trop do losów Układu Słonecznego",
+      "url": "https://www.benchmark.pl/bialy-karzel-j1328-1450-ma-podwojny-dysk-trop-do-losow-ukladu-slonecznego-7344661867493472a",
+      "date": "2026-10-27T20:15:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Międzynarodowa grupa astronomów dostrzegła wokół białego karła J1328−1450 rzadko spotykaną, dwuczęściową strukturę z materii pozostałej po planetach. To pierwsza obserwacja wyraźnie rozdzielonego podwójnego dysku, która może pomóc odtworzyć, jak w dalekiej przyszłości będzie wyglądał schyłek Układu Słonecznego."
+    },
+    {
       "title": "Sources: Meta's $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares (Anthony Hughes/Bloomberg)",
       "url": "https://www.techmeme.com/261027/p28#a261027p28",
       "date": "2026-10-27T20:02:31Z",
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Anthony Hughes / Bloomberg: Sources: Meta's $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares &mdash; Meta Platforms Inc.'s upsized $25 billion share sale attracted demand for about five times the available shares &hellip;."
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "date": "2026-10-27T19:55:21Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://tailscale.com/ssh-investigation-update Comments URL: https://news.ycombinator.com/item?id=50264857 Points: 14 # Comments: 0."
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "date": "2026-10-27T19:55:06Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 5 # Comments: 0."
     },
     {
       "title": "Google's Android Registered App Stores program launches Dec. 1, applications now open",
@@ -1038,14 +1062,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Annie Palmer / CNBC: Memo: Amazon says measuring AI adoption solely by token usage or code generation is &ldquo;deeply flawed,&rdquo; as it discourages staff from tokenmaxxing &mdash; Amazon laid out its AI usage guidelines for software engineers in a memo to staffers, and discouraged employees from turning to &hellip;."
-    },
-    {
-      "title": "US President says he will ban the term 'artificial intelligence'",
-      "url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
-      "date": "2026-10-27T19:11:31Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/ Comments URL: https://news.ycombinator.com/item?id=50264228 Points: 40 # Comments: 35."
     },
     {
       "title": "Wiemy, ile GTA 6 zajmie na dysku. Bez srogich porządków się nie obejdzie",
@@ -1085,7 +1101,7 @@
       "date": "2026-10-27T18:44:17Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover Comments URL: https://news.ycombinator.com/item?id=50263854 Points: 59 # Comments: 26."
+      "summary": "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover Comments URL: https://news.ycombinator.com/item?id=50263854 Points: 72 # Comments: 42."
     },
     {
       "title": "Three TLS Bugs in GoAhead",
@@ -1093,7 +1109,7 @@
       "date": "2026-10-27T18:33:48Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead Comments URL: https://news.ycombinator.com/item?id=50263701 Points: 20 # Comments: 2."
+      "summary": "Article URL: https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead Comments URL: https://news.ycombinator.com/item?id=50263701 Points: 25 # Comments: 2."
     },
     {
       "title": "Airbus A350-900ULR i ultradługie loty. Skąd wzięło się 15,6 tys. km zasięgu?",
@@ -1181,7 +1197,7 @@
       "date": "2026-10-27T17:04:50Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 60 # Comments: 16."
+      "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 62 # Comments: 22."
     },
     {
       "title": "MacBook Pro z M6 debiutuje. Poznaliśmy ceny w Polsce",
@@ -1237,7 +1253,7 @@
       "date": "2026-10-27T16:51:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 364 # Comments: 118."
+      "summary": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 390 # Comments: 129."
     },
     {
       "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
@@ -1245,7 +1261,7 @@
       "date": "2026-10-27T16:40:15Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 257 # Comments: 186."
+      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 261 # Comments: 193."
     },
     {
       "title": "Oracle adds ChatGPT and Codex to its app stack and expands Oracle Cloud Infrastructure lineup with Google TPUs, OpenAI's Jalapeño chip, and Cerebras hardware (Seema Mody/CNBC)",
@@ -1262,14 +1278,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Seria vivo X500 Pro oficjalnie zadebiutowała na europejskim rynku i stanowi łakomy kąsek dla miłośników mobilnej fotografii. Nowa linia smartfonów, opracowana w ścisłej współpracy z marką ZEISS, składa się z dwóch modeli: bardziej kompaktowego vivo X500 Pro, który zastępuje ciepło przyjętego w Polsce X300 Pro, oraz zupełnie nowej, topowej propozycji w ofercie producenta – modelu [&#8230;] Artykuł Nowe flagowce vivo wkraczają do Europy. Seria X500 to fotograficzne bestie stworzone z ZEISS pochodzi z serwisu INSTALKI."
-    },
-    {
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "url": "https://cfsg.axiommath.ai/",
-      "date": "2026-10-27T16:29:02Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 97 # Comments: 25."
     },
     {
       "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
@@ -1358,14 +1366,6 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Apple odświeżyło swój komputer all-in-one. Nowy iMac otrzymał czip M6, szybszą łączność i większe możliwości obsługi sztucznej inteligencji. Nie zmienił się za to jego charakterystyczny wygląd, a cena w Polsce zaczyna się od 7999 zł."
-    },
-    {
-      "title": "London-based Machenta, which is building an AI model that can teach robots new physical tasks after seeing them performed just once, raised a $40M seed (Rya Jetha/Business Insider)",
-      "url": "https://www.techmeme.com/261027/p21#a261027p21",
-      "date": "2026-10-27T14:35:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Rya Jetha / Business Insider: London-based Machenta, which is building an AI model that can teach robots new physical tasks after seeing them performed just once, raised a $40M seed &mdash; A London-based robotics startup is betting it can teach robots new tricks without collecting the mountains of real-world data its much bigger rivals are chasing."
     },
     {
       "title": "Intel wraca do starszej podstawki. Nowe procesory są już w drodze",
@@ -1788,6 +1788,14 @@
   ],
   "finance": [
     {
+      "title": "Panika w obozie Netanjahu? Likud wnioskował o dodatkowy czas na głosowanie",
+      "url": "https://www.bankier.pl/wiadomosc/Panika-w-obozie-Netanjahu-Likud-wnioskowal-o-dodatkowy-czas-na-glosowanie-9219302.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-10-27T19:28:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Centralna Komisja Wyborcza Izraela odrzuciła we wtorek wniosek partii Likud premiera Benjamina Netanjahu o przedłużenie głosowania po godz. 22 (godz. 21 czasu polskiego)."
+    },
+    {
       "title": "Praca od ręki za ponad 14 tysięcy miesięcznie, do tego wolne piątki i weekend. Za mieszkanie też płacą. Nie trzeba mieć nawet matury - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOWnFrU25Wd2JocG5RMjN3WUo0MTlZRU5XejdGWVE5c3ROcEFBelpVVHlNQWRUTkZ2WG8xQkNKU2FYWnh6UzRYQURtUHFPbWlaSVJJZjFOWlRnNXVtLVFDUVJRb29tcnkwUDdDLURBVzFlTE9NdjJxcGJ0dUt1dWNqOEhQNFFYOGZ1VmtPY21abHVMeXp2Y0dSTUlpUmY1T2ZBcWs0TUVMS2JVcTlrQVBlS00yY3FCekJseGRNWi1rN3dhMEVNNjk3c1B6TzZWVDlnbVhYanlWaUpiSHNRd01TVmFLSm5fTGhRa21Oc3B2Nl9zQXN5cVdKRS15RFVYOGZMeDU1UEU5eUk2eUdBdFBJUzBoYXlBNmhqWWhtd1JKN3BncWF6dGM4SGFB?oc=5",
       "date": "2026-10-27T19:25:48Z",
@@ -1884,6 +1892,22 @@
       "summary": "Pracodawcy wymagają znajomości języka obcego. Problem w tym, że... za nią nie płacą Forsal.pl."
     },
     {
+      "title": "EUROTEL SA (24/2026) Aneks do Umowy o kredyt parasolowy - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWDZPWVRDM2p1cURMZDlnallOR3VHWFVHZWV0blg5OGNJQ1ZDYktuMlR0NnZoVTc1b2VUQ3psSGltUzRTVEVsYW9yWGFVU3pNQ0RpaFNOWHc4SG9pdGZaRnk1alJxV1J5U2FPMXNhV1ZpVmpHOUIwRmRfNTZwRmoySXJ4Y3FWbWtjV0xPeUlTWmR4YjA?oc=5",
+      "date": "2026-10-27T17:35:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "EUROTEL SA (24/2026) Aneks do Umowy o kredyt parasolowy BiznesRadar."
+    },
+    {
+      "title": "PCC EXOL SA (26/2026) Wcześniejszy wykup obligacji serii D1 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV216QUlZalIzb2lVUjlsbWlRR0V1Q3BWaFlfbE1ydTgxZ2JWdHVpUllkQlFsV2lWazhZMTNwODNxa1pwazNxVDQ5dmJTNUVlT3hMd3JmMG1oQ2Vwem12cVU2ZnZ1bll0SU1DV3hEMXV0T3ZnUW8xVmpFaHdoU0J3eTk4eVRQaVFZb1U3RVVSaTAtaHFzTUl1RA?oc=5",
+      "date": "2026-10-27T16:58:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "PCC EXOL SA (26/2026) Wcześniejszy wykup obligacji serii D1 BiznesRadar."
+    },
+    {
       "title": "Mirbud publikuje prognozę na 2027 rok. Oczekiwania zarządu przebijają prognozy analityków - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFJDcW5oRWZNRlVOTzB3SHJ6aVRsNU1wTjQ0QUZONVNIbUoxMEY4MnBGd1czRDdLWndpUGJiY0tQUjRTVWVicjAyZlhnanBBUnNkZVJuQXp1R3dBRnYtQmJQRmNBX3NqR3FNQVdEQ2k1b3p3ei15Wmw3OG5YVUNYYzV4a3NlNGNGaEt2SUx6UEx4eFV2NjZWVmdOSGxYVUctY0NfTU1HUTJ5a202RDk2SGhBeGRndjY5NVdyblF3SXpYUQ?oc=5",
       "date": "2026-10-27T16:35:00Z",
@@ -1930,6 +1954,14 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Niemcy przygotowują elitarną jednostkę Bundeswehry na wojnę z Rosją Forsal.pl."
+    },
+    {
+      "title": "ARLEN SA (53/2026) Zawiadomienie o zawarciu umowy istotnej - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUtOWDdvQzhIVWk5M09lYzEtdEpJWHNlWjR5WkNFTE9vYU1pVm15WVkxQTVTWmFaWmhCVDgwZzRJRTlLcG5FS3dmazJHcUpFVW1QYzFiNHBmVUxFOXBFWUl6cjFLUm5QN09hcnNQa3BiVnpaWU94dk93a19od3JFMkl0SVVDRVYxQ2d5ajR5cGJfZU9WMzhn?oc=5",
+      "date": "2026-10-27T15:14:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "ARLEN SA (53/2026) Zawiadomienie o zawarciu umowy istotnej BiznesRadar."
     },
     {
       "title": "30 przed 30. Relacja ze spotkania - Forbes",
@@ -1988,6 +2020,14 @@
       "summary": "Jak uzyskać zasiłek stały? Kryterium dochodowe i wysokość zasiłku w 2026 roku Forsal.pl."
     },
     {
+      "title": "ENERGOINSTAL SA (20/2026) Powołanie członków Rady Nadzorczej - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOFdaSWhCS2g2UWtSbjZCSGdBc3FkcFJGMDdaVXhMMFlaaEFSVWdqTkhTaGpvQnRCdzBqVmVMcHNfdmg5cDBJVjVCT1JKdUx3QVlNNG1uYUdXRGZCTUlJZkJ2cGRkcXZsVGlyYlc5OWJRTG1lazFWbFVpZkJqQzJOWDVIbGZVNlN1XzJmNDUyRkp6MTREMDRIOFlR?oc=5",
+      "date": "2026-10-27T13:45:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "ENERGOINSTAL SA (20/2026) Powołanie członków Rady Nadzorczej BiznesRadar."
+    },
+    {
       "title": "Bank Millennium chce wypłacić pierwszą dywidendę po 13 latach przerwy już w 2027 r.",
       "url": "https://strefainwestorow.pl/dywidendy/millennium-dywidenda-zapowiedz-2027",
       "date": "2026-10-27T13:32:39Z",
@@ -2036,14 +2076,6 @@
       "summary": "Polsat i YouTube: partnerstwo i sprzedaż reklam StockWatch.pl."
     },
     {
-      "title": "Airbus ma ofertę dla polskiej armii. W grze 14 potężnych transportowców - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVQ5U1cxT09lcU5kbk1abnQtbWMxNmRRR3NmcG1ybXZwbmdxeDh4bE45OHhHREstcVJFYnU3SnJ4dUJNLV96aWpsN1VaV3ZBU2pVb0hfRGxKWS11dngyeXM1T253T25LTHgzMWtjQnRUUnN6TFJObDVVYXZnM2V2ZTFnajhTcEhrS1FRRUNTY2JnRGowWnlhaXYzYm1mMXYxZjk3bXdKbGRQQ2RDWVlZaDBWUXc5S0FtZkhWTS04YkpTX0dudTBMSGdrOA?oc=5",
-      "date": "2026-10-27T12:26:14Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Airbus ma ofertę dla polskiej armii. W grze 14 potężnych transportowców Forsal.pl."
-    },
-    {
       "title": "5 nowych spółek na jesiennej liście top picks DM BOŚ - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSmFJMnlidlE0ZWJqaVhDbnlOTXMzRG9OUjY0blJzRWcyenJSTEdtalZyUnZDN0UwTV95ZHhpRXJjZHpSdkNScENSdl9ZdmVkeXhzMXE3YmZ0SEtYRExqTXhFSXBrMUgtQnQwdzdNaDBZaHFuRlpmSmdqeUxISThQcmRtVG1pMVJHQlJqd1pRSHIwb0VRcDF3Y1Y4NHk0eXg0ZFltY01HWDNDX3VPTmhSc1U4aFhsbUI0dDAwMmFrVFB3UQ?oc=5",
       "date": "2026-10-27T12:14:01Z",
@@ -2084,14 +2116,6 @@
       "summary": "Alior Bank: dywidenda 75 proc. zysku netto i warunek KNF StockWatch.pl."
     },
     {
-      "title": "BR LAB ORBITEO ASI (ORO) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xTVRLbm9rT2hpb3B1SmlsNzdpM2V2Z19ieS1hUjd2WVpMRHNmampIRDhlSlhYMFU2THZNZnJadWlFSXQ4Z2Y2UHZtT2N1X3J1OTlrY0Y4bGg5b3c?oc=5",
-      "date": "2026-10-27T11:06:18Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "BR LAB ORBITEO ASI (ORO) BiznesRadar."
-    },
-    {
       "title": "Podsumowanie efektów realizacji strategii Pepco Group i dalsze plany rozwoju - czat inwestorski z przedstawicielami zarządu spółki",
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-10-27/wyniki-finansowe-pepco-2026",
       "date": "2026-10-27T10:56:35Z",
@@ -2122,14 +2146,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Quo vadis, Polsko? Największe wyzwania dla naszej gospodarki i biznesu Forbes."
-    },
-    {
-      "title": "Wycena ORBITEO ASI (ORO) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQa3hDeGE4MXU1T3VpVnZMeGRUZE8zenlreHpteTh1TWVBTFJ4azRCUzBiUk1RVklDRzFTb3VkMG4xOXZTcDJjX3psSVI1dw?oc=5",
-      "date": "2026-10-27T10:15:32Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wycena ORBITEO ASI (ORO) BiznesRadar."
     },
     {
       "title": "Budimex z umową z PSE na rozbudowę stacji Ełk Bis za 195,49 mln zł - StockWatch.pl",
@@ -2164,28 +2180,12 @@
       "summary": "UE szykuje się na kolejny kryzys energetyczny Michał Partyka wt., 27.10.2026 Kanał W Zielonej Strefie legislacja europejska kryzys ceny gazu zużycie energii ormuz Treść Europa ponownie staje w obliczu poważnych zagrożeń dla bezpieczeństwa energetycznego. Zakłócenia dostaw ropy i gazu z Bliskiego Wschodu, niskie poziomy zapełnienia magazynów gazu oraz rosnące ceny energii skłaniają Unię Europejską do rozważenia nadzwyczajnych działań, w tym ograniczenia zużycia energii. Z tego względu 29 października ministrowie państw członkowskich omówią możliwe scenariusze reagowania na kryzys."
     },
     {
-      "title": "Cloud Technologies z dwucyfrowym wzrostem sprzedaży danych - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUHNtRjFCUmhmUXdOb185dmN1MnNVWThmN2E0MDAzN3pMTElFdGh3MjN6UHMzaG5HQjdCOHJIeWgzckQtUGF1MU8xMzZaNTVfdzNXMHdzQ0NNWEdvT1Z0R19WVmwzR3FCdll5bE92VU10NThsd2RkaUNvR2Iwb1Raemloc3F3WmtNRFJpN3RTZ1BFUHRxUENtdWp3?oc=5",
-      "date": "2026-10-27T08:40:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Cloud Technologies z dwucyfrowym wzrostem sprzedaży danych BiznesRadar."
-    },
-    {
       "title": "Anthropic opublikował prospekt emisyjny. Rusza najgorętsze IPO tego roku",
       "url": "https://strefainwestorow.pl/strefa-global-market/spolki/anthropic-ipo-nasdaq",
       "date": "2026-10-27T08:14:05Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Anthropic opublikował prospekt emisyjny. Rusza najgorętsze IPO tego roku Szymon Machalica wt., 27.10.2026 Kanał Strefa Global Market Anthropic IPO Treść Spółka Anthropic, stojąca za popularnym modelem sztucznej inteligencji Claude, złożyła liczącą ponad 300 stron dokumentację S-1 i oficjalnie przygotowuje się do wejścia na giełdę Nasdaq pod tickerem ANT. W mediach amerykańskich mówi się o możliwej wycenie w przedziale od 1,5 do 2 bilionów USD."
-    },
-    {
-      "title": "Komponenty indeksu GPWB-B3Y5Y - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHlqVUt5X0ZVVXRQY1N3SmwteDhwZ1gxcUw3M0pncmlpRTVMZ1pXWE1pSnJtTDBlb2NOMjkyWHN5cHJXRjR0OWpYSGZGX3VyMmdrcTFJaWpxano5TTk1WkVnN0NHei1kU2VKZWVUb0ZWdkluamRhRkZfNnZwSkFnZA?oc=5",
-      "date": "2026-10-27T05:49:55Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Komponenty indeksu GPWB-B3Y5Y BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2212,8 +2212,8 @@
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Głosowanie w Izraelu rozpoczęło się o godz.",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33102266,izraelczycy-zaglosowali-w-wyborach-parlamentarnych-lokale-wyborcze.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882"
+      "description": "Izraelczycy wybierają nowy parlament w pierwszych wyborach od ataku Hamasu z 7 października 2023 roku.",
+      "url": "https://www.rp.pl/polityka/art45405501-wybory-w-izraelu-exit-polls-wygrywa-opozycja-ale-roznica-jest-niewielka"
     },
     {
       "lat": 32.43,
@@ -2390,6 +2390,17 @@
           "source": "Polskie Radio 24"
         }
       ]
+    },
+    {
+      "name": "Strefa Gazy / Izrael",
+      "score": 40,
+      "reasons": [
+        {
+          "title": "Wybory w Izraelu. Exit polls: Wygrywa opozycja, ale różnica jest niewielka",
+          "url": "https://www.rp.pl/polityka/art45405501-wybory-w-izraelu-exit-polls-wygrywa-opozycja-ale-roznica-jest-niewielka",
+          "source": "Rzeczpospolita"
+        }
+      ]
     }
   ],
   "investment_picks": [
@@ -2540,36 +2551,36 @@
       25874.15,
       26002.05,
       26147.44,
-      28554.64,
+      28558.97,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      29221.33,
+      29225.77,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      29259.13,
+      29263.58,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29515.72,
+      29520.21,
       27354.94,
       27400.36,
       27412.11,
-      29936.69,
+      29941.24,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29161.34,
+      29165.77,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29349.81,
+      29354.27,
       27686.17,
       27404.78,
       27351.97,
@@ -2578,7 +2589,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29043.97,
+      29048.38,
       27930.04,
       28234.04,
       28218.36,
@@ -2587,83 +2598,83 @@
       28294.39,
       28203.83,
       28555.17,
-      29918.25,
+      29922.79,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29453.4,
+      29457.88,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29272.87,
+      29277.32,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29579.9,
+      29584.4,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30638.02,
+      30642.68,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30749.08,
+      30753.75,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30309.16,
+      30313.76,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30456.82,
+      30461.45,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30483.84,
+      30488.47,
       28449.73,
       28313.03,
       28272.33,
-      30240.48,
+      30245.07,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30214.88,
+      30219.48,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30581.82,
+      30586.47,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30500.11,
+      30504.75,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30850.9,
+      30855.58,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30250.19,
+      30254.79,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30108.96,
+      30113.54,
       30100.92,
-      30499.64
+      30504.27
     ],
     "currency": "PLN"
   }
