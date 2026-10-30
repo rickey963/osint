@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T19:34:27Z",
+  "last_updated": "2026-10-30T19:35:30Z",
   "poland": [
     {
       "title": "Odsunięcie prezesa TK bez podstawy prawnej? Prawnicy są podzieleni",
@@ -8,6 +8,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Teoretycznie widzę podstawy do wydania zarządzenia o przerwie w wykonywaniu czynności przez Bogdana Święczkowskiego – mówi „Rz” były prezes TK Jerzy Stępień. – Prawo nie zna konstrukcji, na którą powołuje się Anna Korwin-Piotrowska – ocenia prof. Jacek Zaleśny."
+    },
+    {
+      "title": "Departament Stanu USA podjął decyzję w sprawie Patriotów dla Ukrainy",
+      "url": "https://businessinsider.com.pl/gospodarka/departament-stanu-zatwierdzil-sprzedaz-ukrainie-rakiet-do-systemow-patriot/qj47tn1",
+      "date": "2026-10-30T19:29:48Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Departament Stanu USA wydał decyzję zatwierdzającą potencjalną sprzedaż Ukrainie 500 pocisków rakietowych PAC-3 MSE do systemu Patriot."
     },
     {
       "title": "Zamiast nagrobka – drzewo. Coraz więcej miast stawia na ekologiczne pochówki",
@@ -130,14 +138,6 @@
       "summary": "Anna Korwin-Piotrowska: w siedzibie Trybunału Konstytucyjnego jest siedmiu sędziów, licząc mnie Polska Agencja Prasowa SA."
     },
     {
-      "title": "Nie przepłacaj za opony zimowe. Dębica to polski wybór w rozsądnej cenie",
-      "url": "https://businessinsider.com.pl/technologie/nie-przeplacaj-za-opony-zimowe-debica-to-polski-wybor-w-rozsadnej-cenie/xtj2wb4",
-      "date": "2026-10-30T18:48:56Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Zakup nowego kompletu opon zimowych potrafi mocno obciążyć domowy budżet. Nie oznacza to jednak, że trzeba od razu sięgać po najdroższe marki, żeby przygotować samochód na chłodniejsze miesiące. Ciekawą alternatywą jest Dębica."
-    },
-    {
       "title": "\"Innej drogi nie ma\". Premier o Trybunale Konstytucyjnym",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-10-30/innej-drogi-nie-ma-premier-o-trybunale-konstytucyjnym/",
       "date": "2026-10-30T18:47:00Z",
@@ -250,14 +250,6 @@
       "summary": "Prezydent Karol Nawrocki przerywa wizytę w Senegalu i wraca do Polski - poinformowała dziennikarka Polsat News Katarzyna Pyssa. Decyzja ma związek z sytuacją wokół Trybunału Konstytucyjnego, gdzie w piątek doszło do interwencji policji. Ustalenia potwierdził później sam prezydent zamieszczając wpis w sieci."
     },
     {
-      "title": "Interwencja policji w TK. Wydanie specjalne w Polsat News [OGLĄDAJ]",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-30/interwencja-policji-w-tk-wydanie-specjalnie-w-polsat-news-ogladaj/",
-      "date": "2026-10-30T17:00:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "Komenda stołeczna policji poinformowała w piątek, że funkcjonariusze realizują czynności ustawowe na terenie siedziby Trybunału Konstytucyjnego, w związku z informacją przekazaną przez sędziego Trybunału Konstytucyjnego Annę Korwin-Piotrowską. Trwa wydanie specjalne w Polsat News."
-    },
-    {
       "title": "Pilna akcja policji w Trybunale Konstytucyjnym. Zagrożenie życia sędziów",
       "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33108457,pilna-akcja-policji-w-trybunale-konstytucyjnym-zgloszono-zagrozenie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-10-30T16:52:00Z",
@@ -298,6 +290,14 @@
       "summary": "Zarząd Dróg Miejskich zgodził się ponownie rozpatrzyć sprawę piekarni z Mokotowa, której właścicielka ma zapłacić ponad 40 tys. zł za szyld odstający dwa centymetry od ściany. Wysokość kary może zostać znacznie zmniejszona."
     },
     {
+      "title": "Europejska gospodarka wykazuje zaskakującą odporność na szok energetyczny",
+      "url": "https://businessinsider.com.pl/gospodarka/pkb-unii-europejskiej-rosnie-mimo-kryzysu-energetycznego-i-niepewnosci/nq94b19",
+      "date": "2026-10-30T16:01:47Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Europejska gospodarka nadal rośnie mimo droższej energii i niepewności wywołanej konfliktem na Bliskim Wschodzie. W trzecim kwartale 2026 r. PKB Unii Europejskiej zwiększył się o 0,5 proc."
+    },
+    {
       "title": "KNF wyznaczył dla Banku Millennium dodatkowy narzut kapitałowy (P2G) - PAP Biznes",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdXNQek1kVFNJOEh6Z1dzaFZOelNocl9ERmZpQ01USkpQM0h6LTMtcEJDTTQ2ZnhRQmtiT1RZRHByT0V0bUo3dTNBdGxxcmFjWUhYVHA0WEF3alZPc0YwckJNdmtqQjBOdlpfWEJ0N1NMem9HYlRlOTVIekJtc1ZjU2EzU3I2bkNtcWxhS0drOHpxVUN2bmE4NzRaMVg1bWd5QkYtb3l6RzI5YTA?oc=5",
       "date": "2026-10-30T15:51:00Z",
@@ -312,14 +312,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "BGK podpisał porozumienie z dwiema instytucjami rozwoju z Węgier PAP Biznes."
-    },
-    {
-      "title": "Pierwsza śnieżyca w sezonie? W tych regionach może zrobić się biało - Polskie Radio 24",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWEJlSDF3UVFTRHRrSldOX0R4WVEwbWNmZFllMW5TTEdJVE5XMXpFQklYLXVKRlpYSVkzekdJaDlKNGJzTVUxYkNOWHZRcjkwNzcyZHF5WkdOOWpEdG92RDh6OFlpT3VCcS13LUFpSEpial9DaHJPNGw4Q2JtVTBMRjJmdjlxOWtUdzNDQzFwVXhLWGlzMFRFSFhzc2RJT1cz?oc=5",
-      "date": "2026-10-30T13:08:17Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Pierwsza śnieżyca w sezonie? W tych regionach może zrobić się biało Polskie Radio 24."
     },
     {
       "title": "Podejrzany o szpiegostwo Rosjanin zatrzymany. Jest decyzja sądu - Polska Agencja Prasowa SA",
@@ -354,12 +346,12 @@
       "summary": "Znakomitość Roku DOZ.pl 2026 została wybrana Polska Agencja Prasowa SA."
     },
     {
-      "title": "Dwukadencyjność może zakończyć rządy większości włodarzy świętokrzyskich gmin - | Serwis Samorządowy PAP",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUDdxZENmRWVQZm8tOURXUjhlY1FCc1dfU3VoS0x4UDREZ3p2Q0FLTGpxWk1rYkI1ejVIQlRDWnBHcl9HdUExQUIzbHh3YXVGREdaYmQ1TGt0Tl9QNG12YzdxLXNrVHpoZExlQjJDRFk1QlFQVzdZdFdZY2U0N3hnVFRqZXR0ZnhUSWFGX1FCR0xHdWNjMUQ2aWlqRWJXNlRfYlBJVnBrQTliNmRTVmRMVmVEOE1wYm9UU0R4czZkMm8?oc=5",
-      "date": "2026-10-30T10:46:00Z",
+      "title": "Prywatne auto w pracy socjalnej. RIO tłumaczy zasady zwrotu kosztów, ryczałtów i dodatku terenowego - | Serwis Samorządowy PAP",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVExjc0F0LVZzaGdtbmV0NGpvU1h0QWEzTTQ3SnNvcjBCclJKU3V6czhUdTVpSEw0UVFVandORU5acDVadl9QeW5sUmxoYUhuV180YlQ3VTNZeENFZG1CcVVPSEZjWFpJV01nUmtPdGh4amtCZlZGeWJVNUxaTjN4RlY1S3BldGtORHNtZ2dNWkZvaHlpM0JWb3pHbnRvZEF1QzdGZnQtQ1FfMUpqZDhqVmtDc3A5WWNmbnFNRQ?oc=5",
+      "date": "2026-10-30T10:53:00Z",
       "source": "PAP",
       "confirmed_by": 1,
-      "summary": "Dwukadencyjność może zakończyć rządy większości włodarzy świętokrzyskich gmin | Serwis Samorządowy PAP."
+      "summary": "Prywatne auto w pracy socjalnej. RIO tłumaczy zasady zwrotu kosztów, ryczałtów i dodatku terenowego | Serwis Samorządowy PAP."
     },
     {
       "title": "Ruszyła ewakuacja z Ołeszek. Na mieszkańców czekają autobusy i karetki - Polskie Radio 24",
@@ -400,9 +392,25 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "1500 żołnierzy przyjedzie do Polski. W tle możliwa operacja na Ukrainie Polskie Radio 24."
+    },
+    {
+      "title": "Rozkaz Himmlera z 30 października 1939 r. Setki tysięcy Polaków straciły domy - Polskie Radio 24",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0xiZ3FWdUJlRDVidm1KalpqcGxDWkNqZGhZQkpCUkhUZGlYY0swUTJtSkFSdUxVU1R3LWZYRm45VHYxSXhCTG9sQVZXY2poeGQ1UU9MbHF1VllHVGhtNWR6VTM0WTNLWUlwZUk2N0RRRFczMlNPYXcxUExVRnJlVjNXdkxEMVZkRWxHWkRZS0YxaEptX05uU3BrOW9CdUpvNUh5TElrTTBRaHQwd2ctcQ?oc=5",
+      "date": "2026-10-30T07:58:00Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Rozkaz Himmlera z 30 października 1939 r. Setki tysięcy Polaków straciły domy Polskie Radio 24."
     }
   ],
   "world_security": [
+    {
+      "title": "Meta settles with teen during trial testing claims social media caused depression, eating disorders - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEsxYWRtSE5MdDd1Ujk5R3N2M1FFeVJ2T2d6bGh5NXg5dEdEV3ZmRDhOMXNVeWxOeUk3aFRwU2pnV19mVHo1RmNJNmZpU0xZWGpPSDdXOEpRcEFfSXMwdjVWeER1eGF6SDNZQWlzSGhFUGZZZFQzWmZfUE1oT3JWd1MtZ0VkYXFGbGkxVDFZNFZDTElhNVh1NDk2eVFMM3ZoREtqRUR4b1oyV0pmUDZCbnZRS1NJQQ?oc=5",
+      "date": "2026-10-30T19:03:56Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Meta settles with teen during trial testing claims social media caused depression, eating disorders Reuters."
+    },
     {
       "title": "‘Deepest possible partnership’: Canada and EU announce new alliance",
       "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
@@ -410,6 +418,14 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’Canada and Europe have announced a new alliance of like-minded nations to serve as both a “protective canopy under which our citizens can thrive” and a powerful hedge against the unpredictable nature of geopolitics, while welcoming other countries to join.Speaking to reporters on Friday from Montreal, the prime minister, Mark Carney, and the European Commission president, Ursula von der Leyen, called the new partnership the Alliance for the Future and said the “deepest possible partnership between Canada and the 27-member bloc had the potential to offer unprecedented stability and opportunity”. Continue reading..."
+    },
+    {
+      "title": "BRICS+ payments system feasible, common currency faces hurdles, report says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTIzMFliU29saHlKNTlPWlozYXFoRlNkWHdmckJ6cXhQcDNZSGp2WkxyTjVzTVdWd0FJOUpiY0hSalk4QS13X0kydWVTOUxfbExoNEUtVVlvOEhvbm83dHU0ZkY3SVlfSmhRYU1EVVd5WUxzb01scjR2U0pJWGFoOW80b196Smp2NnhqVFVSNGF1c1VJeDZjUzRFdXFPeGtBNTZyeWR5dVZRZVd2V1RWeUJSUDRUTjZKM01UV1ZR?oc=5",
+      "date": "2026-10-30T18:46:53Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "BRICS+ payments system feasible, common currency faces hurdles, report says Reuters."
     },
     {
       "title": "Trump escalates legal challenges, scrambles schedule as US midterm elections near - Reuters",
@@ -426,6 +442,22 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "EXCLUSIVE: Pakistan military 'cautiously optimistic' on Iran-US mediation Reuters."
+    },
+    {
+      "title": "US orders non-emergency staff to leave Saudi Arabia over security risks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORW01d2dWQjEzQi1rNHpxb1hPYlE4b1dBMFgtUkxRQTZDY2RrNGlkeXpXNHNhUVU1MVRjVW9xY1lvbnpuSEFzNnZBaDM4ZkdGbEQwSUJ2Z0d0cms5bHVYcGhwYm5mZ3dIcU8zOXRlWFhFajVoMmtGRnA2cHQxdG1xQjdHMHJheWxyZ3dIMC12c0JyYzhScUZOOUdEd25UV3JEZ2ZNMl90ODJ4cnF2c09XUVFISEN5X2x1X0twYklBZw?oc=5",
+      "date": "2026-10-30T18:32:55Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "US orders non-emergency staff to leave Saudi Arabia over security risks Reuters."
+    },
+    {
+      "title": "Polish president turns back from Senegal trip as top court chief suspended - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2p4TC1POGdvdHlLdGMyVVl1Nmw5dHhWdEZkS0FCZVBMazc3dzdQaElfeXBIcGRNV1NxZTRENXBKSHJRTkZnb2ZkelBMd0VlQjJHYkE3MFFCbGwtTFhfOEQwbHJYSDJlMGZSd2ttNm16ejVQTzg2SHBrOHZCZGk0ZVR4dUp5b0lZMWpkRU1NLTFzWDRHUl9RdDRLNmFyTW9tVXhLYmZOeGdBTFFlRl9UM3Q3SElzdw?oc=5",
+      "date": "2026-10-30T18:19:44Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Polish president turns back from Senegal trip as top court chief suspended Reuters."
     },
     {
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
@@ -468,12 +500,28 @@
       "summary": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta."
     },
     {
+      "title": "Pope Leo becomes first pontiff to cast ballot in US election - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXNBbkd1Q2VaanlIakk1Q29CbDEybTR1YWxnZE5BU1ZrdmJVMmRONGFBeGxvSHYtUWZTU1NWTHREWVNEaUlJTkdrZ2FJOEdkTzByN3NDRmhSSFNBTUk3WGV2aHRQMzdjamJMMzYwQWRqSU1ZenI2UEdoUV8xM25KRU80NXB2S05QY0Fmb1E1YURrSFNwWFlDZjVYaVBtMWdl?oc=5",
+      "date": "2026-10-30T17:19:14Z",
+      "source": "Reuters",
+      "confirmed_by": 2,
+      "summary": "Pope Leo becomes first pontiff to cast ballot in US election Reuters."
+    },
+    {
       "title": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
       "url": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky",
       "date": "2026-10-30T17:13:48Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Humanitarian convoy brings food and medicine to Russian-held city where people have suffered severe shortagesPeople living in the besieged Russian-held city of Oleshky in southern Ukraine were evacuated on Friday as part of a joint relief operation, the first of its kind in four years and eight months of war.The city, which lies on the Russian-occupied side of the Dnipro River, opposite Kherson, has suffered months of serious food and medical shortages, leading to warnings of starvation for the few thousand people remaining there, including about 50 children. Continue reading..."
+    },
+    {
+      "title": "Ukrainian arms maker Fire Point says its systems can complete missions without SpaceX - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXRwTDRUaUQ3RG4yekIyZm1pRFFRVVBLcGZlMHdSVkFuR1Z5TURmcEdBZXJjUEZ0WVNaVEV6WW9zdmN6Qzl4bnVtQXJ3eEVZYkpPSHd1cUtRSVFqd25fMlRiTFNIUjl6Ynh4N0pDNjNlb0paTHEyWHZJOE9hM3J5R281dUxaWi1RcVk0NXBwcEpnRGlDQ1lscGtobGVhMkd3R25yMk5nWkloUm9CUEItaklUQmdla2ZWOUFlaXdrc0haenotVko4Q1NpWmVzVHBlamR6YXNtTTI?oc=5",
+      "date": "2026-10-30T17:09:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Ukrainian arms maker Fire Point says its systems can complete missions without SpaceX Reuters."
     },
     {
       "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
@@ -492,6 +540,22 @@
       "summary": "Intel on course for worst day ever, triggers global chip rout Reuters."
     },
     {
+      "title": "Drone strikes on Ethiopia displacement camp kill at least 15, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWxFck1EbEF1MjVtOFo5RFpsbHh0TFJDa251X2pPeEtISEI4UDVRZzR2ME5qS2NyRWw2Zi0wVWlUTkFIRVZ0d3JoanhFc3MzdlMtWlJaRTh1amh6cng0S0lDOFlvY2VUWDNabFpQaUl4clVLY0pHUXM0bzJZRzhJSzB3RmhiTE81eURZQUEzQzRKRzhSUjV4UFBVcmE?oc=5",
+      "date": "2026-10-30T17:03:21Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Drone strikes on Ethiopia displacement camp kill at least 15, sources say Reuters."
+    },
+    {
+      "title": "First Algerian troops arrive in Niger where jihadists threaten stability - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUkx3eGNnaVhYd093SS1pNkx3YVNoZ3Fvei13V1ppamJnZWx1MGtoaDVRVngyMjZvdVpMbmV2clZPOWFJR2RMel9KWTZaMXM0VWY5T2VYVlVxd1ZCUjJReFNEQXNoWmdUZ0o4bTJOYzMzUk1Bdmg1aFVrTUo0QldqTXFQeEtfaWZlc2pvdUo3aEVVX29OZkdHMTRGRU9UV29MM094aEdrTVJ2aHFmMnpjRzFPYVRRQTFJVEE?oc=5",
+      "date": "2026-10-30T17:01:07Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "First Algerian troops arrive in Niger where jihadists threaten stability Reuters."
+    },
+    {
       "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
       "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-30T17:00:32Z",
@@ -500,12 +564,36 @@
       "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts."
     },
     {
-      "title": "Rubio urges G20 cooperation amid rifts over wars in Ukraine, Middle East - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3Nnem5Na1FORmx1bjdhbkkxdU9mQnFIT1ZGcU5sTDlSWERVMkNsc2VHN3VCVWJpckZJU1VkRWdwYlN1WnBjOHdINDhMdmxKc1pUczBGSTNQLTJSTmxlYkk5THNxZ29qZFBzN2w4Z0xtNmNsMTJna3UzYTlNb2ppTjB3X3lza1dxeWdSaGI3OF9fY2I2WkRJN0NiZVh2R05fNkZDTTB0aHhpdFhp?oc=5",
-      "date": "2026-10-30T16:48:27Z",
+      "title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5",
+      "date": "2026-10-30T16:54:28Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Rubio urges G20 cooperation amid rifts over wars in Ukraine, Middle East Reuters."
+      "summary": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen Reuters."
+    },
+    {
+      "title": "Mass protests sweep Italy during nationwide strike - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWF5NXN3Z25WdEU0R0kwT0NBT180OHc4TklWcWxrSUVLTlRtZHpQWmplV1NnRkJfS28wbEVLdEwzMlA0UnNvOXBIWlpZN0xCcm9WLUNBZzZ2Um5UTkdQLXMtUUxocEIwZWZ1NGU1YW9qdnFWdFc0Zy1yTEUxWlhkdUxhbm1Tdi11enhoQ25Qenk3ZTdMekNv?oc=5",
+      "date": "2026-10-30T16:50:37Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Mass protests sweep Italy during nationwide strike Reuters."
+    },
+    {
+      "title": "Binance sets aside over $6.34 billion to cover losses from attack - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVBjUl9KRVc4d0NVN1pRQ1cwOWJpdk1TTWhBbWFxUEtYeldXOTktMlp2cEk1QWZZT0ZDLXRkVmlXWUFvcVJGNk4wZUR6WWFTQzNPNDl2OTgtTDVIOXphbDJEMGtqOVpnMFg1V3VPRjNCRGhIQi1vMW5iajZFY2xqSDdWdFpGSmxqaUJkcVc2b1FUZXluREw0RjJaLWhqMGU4cVkzeGQwVTdlVzhMV2tGNw?oc=5",
+      "date": "2026-10-30T16:49:50Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Binance sets aside over $6.34 billion to cover losses from attack Reuters."
+    },
+    {
+      "title": "G20 foreign ministers skip photo-op amid objections over Russia - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOEMyX1UzZ3JRamVtOUNhdEk4M3czZzU5ZGJtMGNfMV9lM0xIWDNKdXdac1ZxZmdaNGdkRkZQUFBGTEh3NE9jQVJ6RWZEUVU0R1VOSG45cFprc3FHMElnRjZXSExBaHVfTUVSLXRvbERBbHBKWHBQc0xFZkYyNVg0YXZMS3huWUhMbkd4c3pnT2hyNWlEU2M3ZWJ0azg4eFVQRUVVZHJkekQ?oc=5",
+      "date": "2026-10-30T16:47:44Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "G20 foreign ministers skip photo-op amid objections over Russia Reuters."
     },
     {
       "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
@@ -560,7 +648,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-30T15:06:05Z",
       "source": "BBC News",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact."
     },
     {
@@ -572,36 +660,12 @@
       "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people."
     },
     {
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-30T14:48:22Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress."
-    },
-    {
       "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
       "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
       "date": "2026-10-30T14:42:46Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Activists call for people to make their anger known over poor public services including education and housingEurope live – latest updatesStreet protests sweeping Europe are expected to spread to Germany and reignite in France on Saturday, with police mobilised to stop potential looting and rioting on the fringes of what organisers hope will be peaceful rallies.Weeks of, at times violent, student demonstrations have rocked Italy, Spain, Portugal, Albania and France, where activists on Halloween have again called for people to make their anger over the cost of living and deficient public services felt across the country. Continue reading..."
-    },
-    {
-      "title": "On again: Trump restores weekend campaign rallies in Iowa, Kansas - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzJaZUFSdFk4REJyTjNxNnM0NlQ4OFhfQkNncnRhaDZmUERHT0p2d0JjcWFMVTBHN1k5ZDBTcUNIMEJrM0pSNEhlZmtLTTBrcS1yRms5X2ktWUM2TnkwdnpvajE1ZXZ0dWFKeVFEanRWM2RMVUN2cDNvTmF4OGtuZ2hQZmhIZUtvdm9mYy1keWF1eUhBT1p6a1ZBOWpzdXRzcjVxOA?oc=5",
-      "date": "2026-10-30T14:26:09Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "On again: Trump restores weekend campaign rallies in Iowa, Kansas Reuters."
-    },
-    {
-      "title": "FBI and US Secret Service working with Binance after $6.3 billion hack, source says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOGZxZ29Sdy1mUDVhdm1xVF9GTDFaM3hWZEhmVkFneUNHWDl4Qks4bGNVbnBRdGRBUjN1ckk2dkd2MWFKSWJ6SlpKNVVhNGZ4UDZpVk1SNTBPV1ZxVlo2Z09pNjVtZ1hGRUlZYXBVUll3TTlsd2VFdy13MnJMbG92N202OTI5d1Z6bDJ0bGYzOTF5MS1oNEhUVTFKMlVoTVdhRzA4MHQyT1lBMW9CU2tKYkRQQUp3ZzNNUEphVTNB?oc=5",
-      "date": "2026-10-30T14:23:16Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "FBI and US Secret Service working with Binance after $6.3 billion hack, source says Reuters."
     },
     {
       "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
@@ -644,14 +708,6 @@
       "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history."
     },
     {
-      "title": "Trump not planning to back Bolsonaro's claim to be Brazil's leader, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeUo0QTNPRWduWkx5cnZYRTliM2F1aGJEM1cyTmprd1htM2w0WWRadnNHZWdZNVgxcThncktfRjBHRGdMRjZQWmVqZ3F2SmI0MjdyU0VOMGNFMEhZZVR4SWZqdjBpTkctUTJMS3lhVmhyODZzQXZDeF85TUNNRWxvRGpSdVN6LXpOSXQ1aDVFd0R2NnhCWXlzdHZ4SkFTSl93dUY5UlNxRUdsUUxlMF84VlZJc3U1bTRBRXdTNXBn?oc=5",
-      "date": "2026-10-30T12:24:26Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Trump not planning to back Bolsonaro's claim to be Brazil's leader, sources say Reuters."
-    },
-    {
       "title": "China denies allegations of spy operation targeting Nvidia CEO",
       "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-30T12:20:04Z",
@@ -660,20 +716,12 @@
       "summary": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports."
     },
     {
-      "title": "Trump on Iran war: It's going to get wrapped up soon - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV29DcEtjV3gtcWtydlBDWXZPblY0Szg5NmZZNFZ2WGxmTHFsX096SlJoem40ZFpBRkFvcW41UGtrMVZBeEVPS2dxN205OG5rM2VNSE5CcGJfMGlLNUgxZWRTeXFENTU0ajlIaUZoWUhZblk0LTQtZzZHSlZaSG9JQy0wazJLQU1vakZXdDd5aw?oc=5",
-      "date": "2026-10-30T12:10:11Z",
-      "source": "Reuters",
+      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-30T12:04:02Z",
+      "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Trump on Iran war: It's going to get wrapped up soon Reuters."
-    },
-    {
-      "title": "VW suspends work on electric Golf as retrenchment hits HQ - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHQtN2dmRFJPcUdMRDBWWkFCdThlanZSTHFsQm9aRmJGUGZXVm1mUjBUdWtJamNaLUNPeXRSdUhvZ3ktYS1FVEVGLWVsc0xrX2VZRWx3R2dpdktNa1RHQXZBcHpwSUk4dU56dnpyYkpFY3RGOFFPZzFocGNWVXU4Yy12dTZQZDRUTGRzdGs1UUVrbjN3MnhZTHRGMW43V2EtQ1Z3NGh2eXVOQXFzUEdYWU1XamNnanJhaGhZ?oc=5",
-      "date": "2026-10-30T11:36:54Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "VW suspends work on electric Golf as retrenchment hits HQ Reuters."
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue."
     },
     {
       "title": "Beijing Queer film festival cancelled after harassment from authorities",
@@ -692,36 +740,12 @@
       "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expectedHeavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms. During a particularly intense thunderstorm in Antalya, a coastal city in the south-west of Turkey, the formation of a tornado resulted in the deaths of four construction workers on Tuesday. Authorities in Greece and Turkey have released severe rainfall and flooding warnings, as a further 100-150mm (nearly 4-6in) of rain is expected this week in central Greece and western parts of Turkey, with locally higher totals possible.Travelling eastwards towards south Asia, strong winds and heavy rainfall have swept across the Indian regions of Odisha and Andhra Pradesh as Cyclone Arnab made landfall."
     },
     {
-      "title": "Tesco extends overseas retreat with Czech and Slovak sale - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcVhDbGxmZ2psVUp1RlB0Y2kzMWViaUYtQXlhamRWWDV6bE9WZXlTSkc4eFN0NUoxWjVvQVgxLTZDUV8yS05oTWdrLTUxeVNvR2s5TDRNb2VnQTRMcldzRVI5a090OXZ6bF93NjNlTk1malljcVZLVXdrMzVMek84dmYzZzh6RjFtWGpFUlZaZHY1TzQ0ZGEtNnpRQ2xjU0g1Q0YxMEJhZFRNc2VlLW9Z?oc=5",
-      "date": "2026-10-30T09:59:08Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Tesco extends overseas retreat with Czech and Slovak sale Reuters."
-    },
-    {
       "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
       "url": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
       "date": "2026-10-30T09:00:50Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Oxygen, food and water supplies running low and massacres taking place, says Nabil ShamsanThe Houthis are trying to send the city of Taiz back to the stone age, the city’s governor said in a briefing designed to urge the international community to do more to lift the month-long siege.Nabil Shamsan said massacres were taking place in Yemen’s third city, that oxygen and water supplies were running out and that rubbish was piling up in the streets due to landfill sites being either full or inaccessible. Continue reading..."
-    },
-    {
-      "title": "French centrists' feuding increases odds of Le Pen-Melenchon runoff - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWphYWlpaktfNXNkUmRqTzg2Ml95cjdWWVBaVFdFZWgxLTI5SUttWjdNM2JPR1VmMHdsbFh0enpOc2lNazdOaVo3cjJfZi1ITXd2UEpKaGxxU2tLXzJ0WjJ1VVV6MDRkdnNQN3hfNkduMzFlSloyemdXcWFKdWtXUXc2UDM0enFfR245SDNZdFo2RHpuVDNVWlVWTFlzckZhTE9ycC01MTY3SEc2anNkbGxR?oc=5",
-      "date": "2026-10-30T07:55:49Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "French centrists' feuding increases odds of Le Pen-Melenchon runoff Reuters."
-    },
-    {
-      "title": "Qatari mediators return to Tehran to push for US-Iran deal, official says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnF1OHJuNjZ6ekdJU25nLXhCNGFUaXB0V2FHRktTVWo0bjBETVRCSTJLM0tnWm5CaXI1TGV5enRhcUxIOEc1Y0dlcXNTMmd6NWdxWVFGa3BNbi1uazdEeG9ZSmR5QWVPdW5hRzVxek12RlgySGc2MTJ2Wlo0SkVzcmc5ZmRXRnVCYjlXeW9ZUGlwalAxdWJJUUpSUDRhdDEwX0RnMlE4eGlkSlBrY21VbWs2Smw3NkE?oc=5",
-      "date": "2026-10-30T07:25:07Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Qatari mediators return to Tehran to push for US-Iran deal, official says Reuters."
     },
     {
       "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
@@ -738,30 +762,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Victorian court of appeal rules Patterson should be jailed for life with no parole over deadly beef wellington lunch that killed three peopleErin Patterson mushroom murders appeal – live updatesGet our breaking news email, free app or daily news podcastErin Patterson has lost her bid to overturn her convictions and been resentenced to life behind bars with no chance of release, as Victoria’s highest court handed down its decision on two appeals regarding her triple murder case.The court of appeal ruled on the two appeals on Friday, after justices Lesley Taylor, Stephen McLeish and Peter Kidd heard arguments from her legal team and prosecutors in August. Continue reading..."
-    },
-    {
-      "title": "EXCLUSIVE: Pentagon tells Europeans to cool their rhetoric on Russia, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEZ5UV9XWUJPdkJDanlwdEFEY1V5T3A3UExxWHoxZFBHbnY1RjFsS0JwWk92TFhqYWpLVTFmMk9VUUhiRzZDVDZsdERfTERlUUZ0cWdKNm9MeUE4Mm5MNWZuaXpNLXVOM3BVczNXVndOOGlBZk9PLXBqT3hGLXpsRGVkREl6cTk5RXNWRThVVkNrem5BQkp0SVFReWY3aEktdGItd0c5bTNQUFVsRGZwczRYSUJVUFE?oc=5",
-      "date": "2026-10-30T05:04:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "EXCLUSIVE: Pentagon tells Europeans to cool their rhetoric on Russia, sources say Reuters."
-    },
-    {
-      "title": "Blockchain analysis firm TRM says North Korea behind Binance crypto theft - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc01IcXZiYm9zemhhbHhBenBOeFE4NDlHMC1TNGxUOHNlVFJIQmY3QTF1cnpqZmRBcGlic184TnhyRVEtSEVkSTNGdzBxejNaUVlqSEkyMllicG50YkY1TURzUWtnVE5nVlhSYk1ROWwwdDdwQWg2NlZVVEgxc2NuQVZwUWxrOVBmRzNHb2dYUUJiQ2tmTFhfT3NGblYtTjhPdDNmUE5VVFJ1RnRTbnJnRXdSNm55VzRBSVBySTc2Wnc3aDJ2?oc=5",
-      "date": "2026-10-30T04:26:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Blockchain analysis firm TRM says North Korea behind Binance crypto theft Reuters."
-    },
-    {
-      "title": "Where Binance's $6.3 billion breach ranks in crypto's biggest hacks and heists - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUklCT0Zncjc4TE93UXRGOFczR29GTTg1WllYUXVhWko5YWpRZ05DcXZKb0ZSMnhWS3VnNnBBUzJtRThXSHdYUlRPdC1scGtPb1BCb3hJM0JRWFVpVE1rUGFiUFBtV2hleHVVdl8wRW03eDdLdGc3TkpvdzY4UFNiTXJ3ZkEzZmNIY0ZUVkt4WHdYQVBtQkZhcm9GU2xiRXVUaUVndXlpYmxKQnpXamZiUV83OHZpU3U3Z2tFLQ?oc=5",
-      "date": "2026-10-30T04:19:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Where Binance's $6.3 billion breach ranks in crypto's biggest hacks and heists Reuters."
     }
   ],
   "world_politics": [
@@ -1852,12 +1852,28 @@
       "summary": "Masowa ucieczka od jednego operatora. Polacy przenieśli 425 tys. numerów w trzy miesiące Forsal.pl."
     },
     {
+      "title": "POLIMEX MOSTOSTAL SA (54/2026) Rozszerzenie składu Komitetu Audytu Emitenta. - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0pHeG11Y1pHMVVpVWVhZ0F3TlI3dFBoT0dmRWFOTG9xX2dLbUNVMXV3SF9aN2JiQTZ0S2JjOXVzdmdjakd5cXNmMEF3cUFGSVRzaVUtQ2RCR3ZVUVZCN2c3OUh3Z3p5VTBqSmxfVmpwbTRsSE5FQUd6bUx6eEZtQkhESHJ6YUZLeFd1NGN2bmxXRUZSLXpBRk1xNGRXRG1yN1lfX05HYmhNdmozNXc?oc=5",
+      "date": "2026-10-30T17:00:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "POLIMEX MOSTOSTAL SA (54/2026) Rozszerzenie składu Komitetu Audytu Emitenta. BiznesRadar."
+    },
+    {
       "title": "Uderzenie prokuratury w szczyty Trybunału Konstytucyjnego. Wnioski o uchylenie immunitetu Bogdana Święczkowskiego",
       "url": "https://www.bankier.pl/wiadomosc/Policja-wkroczyla-na-teren-Trybunalu-Konstytucyjnego-Sedzia-alarmuje-o-zaklocaniu-porzadku-9221302.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-10-30T16:58:00Z",
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Bezprecedensowy kryzys w Trybunale Konstytucyjnym. Policja interweniuje na terenie TK w związku ze zgłoszeniem o zagrożeniu zdrowia sędziów, a przed budynkiem dochodzi do starć z protestującymi. Jednocześnie Prokurator Generalny skierował wnioski o uchylenie immunitetów szefostwa Trybunału, a strona internetowa TK poinformowała o \"bezprawnym przejęciu\", odrzucając decyzje o przerwie w czynnościach kierownictwa."
+    },
+    {
+      "title": "SEDIVIO SA (12/2026) Korekta raportu okresowego - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2JIRTdfN05Zb2dMNmdmZUlpTGFjQXpYMjBtOGJjeGNncWhaY25oblp6Nl9LdnlyRmNvZWRHNEcyeXI1a1MxWl84VGpocHpOWUptT0dfNGlVT3pvSWNaR0NNTm5HVEpiYmFWWDRyZVctckRBNTNlWkxSdjBJclZYbFBnZVVad29v?oc=5",
+      "date": "2026-10-30T16:47:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "SEDIVIO SA (12/2026) Korekta raportu okresowego BiznesRadar."
     },
     {
       "title": "500 zł mandatu i 12 punktów karnych za korzystanie z nawigacji. W weekend posypią się mandaty - Forsal.pl",
@@ -1996,6 +2012,14 @@
       "summary": "Od soboty do poniedziałku włącznie litr benzyny 95 ma kosztować nie więcej niż 6,48 zł, benzyny 98 – 7,32 zł, a diesla 8,15 – wynika z opublikowanego w piątek obwieszczenia ministra energii. Ceny maksymalne wszystkich tych paliw są więc niższe niż w piątek."
     },
     {
+      "title": "SYNEKTIK SA (52/2026) Informacja o zawarciu istotnej umowy sprzedaży - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWNwbDN0R2JlWkhiUlFOLU5KMkpmcVRwendTZjBIeUFTRm0weHN4Vkx2QzZ3TWVTYVFPOU1PUndfbG5HNGtEOUZtbVQ5c2pCMmtsanVNSmN0RGlUemFaMXlEaV9KQkNsQW1qQzNhQ0ZGVmN2QWRneGFkanVSdUVqa25valBWWFBKZUI3Q1VEY0VFdWtDV1RKb1l1Umxnemx6MmROQg?oc=5",
+      "date": "2026-10-30T12:08:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "SYNEKTIK SA (52/2026) Informacja o zawarciu istotnej umowy sprzedaży BiznesRadar."
+    },
+    {
       "title": "Nowe pokolenia inwestorów. Czas ważniejszy niż dobra luksusowe - Forbes",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNnlOb3l3ZUg3U2M3bXZ4RUZRRmdMdldrTDNzcHZtbTRmSlZzV0tzQUZ0NU1wRDhiYjBfeFJrMTFaX0RHakc2Z2JlUFdfYXZ4cjJTUlRxelNVb2NwZFREMkFOVkI5LWNSVnYzd2p6bDZOc0lSWXJNWHZnTXFsd2drVWh2akwzelJmTm0zT3hudG10Sk0yY2hLZnBia0IwUQ?oc=5",
       "date": "2026-10-30T12:03:43Z",
@@ -2026,14 +2050,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Inflacja CPI w październiku wyniosła 3,5 proc. rok do roku wobec oczekiwań rynku na poziomie 3,7 proc. rdr."
-    },
-    {
-      "title": "Grupa Erste Bank Polska osiąga 3,7 mld zł zysku netto po III kwartałach. Rekordowa sprzedaż kredytów hipotecznych i wysoka rentowność ROE - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbzg4SkQ2LU85cTc1ZDNLd3A0WVpOcUVWWW8zOHFhSTFXT0RCNzZTTmIzX19QYVh3R2I5eExwUWgwLXhjaEFUcXhPVjk3cTZud1hLNTBwOGt3bzVES284ck1SVV9EY1pveW55eEgta3ZlWTQ2dmtPeUtTNnJ3SjQ3M2xYeVJ1MnZac0NGUi1SREFZSjR6ZEtZU3pmNEsycFdqcHRzSFc0NWdUQktWeGpwdlV3SnR5UDA5cm5xM1ZBRl9oa0FqT0hNVW4zUjFiT3pnSjllTHhlcG9ITHhLQmlmY29LWkdBc2s3bElUbk9taEJVUG1HelpNdVdpUjQ2YU9yOFE?oc=5",
-      "date": "2026-10-30T11:06:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Grupa Erste Bank Polska osiąga 3,7 mld zł zysku netto po III kwartałach. Rekordowa sprzedaż kredytów hipotecznych i wysoka rentowność ROE BiznesRadar."
     },
     {
       "title": "Spadek inflacji w październiku. Minister finansów wskazuje przyczynę",
@@ -2124,6 +2140,14 @@
       "summary": "[BR Premium] Co robią grube ryby: ING TFI (III kwartał 2026) BiznesRadar."
     },
     {
+      "title": "STALPROFIL SA (27/2026) Zwołanie Nadzwyczajnego Walnego Zgromadzenia \"STALPROFIL\" S.A. - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclB6Z0s5dVN6a21aRVpycU4xRWRLTjdnaDk1THkxYlRJRjR2M29jWmhrQml6Z1pIMzdldWRucGxqak9vOG5GempRWGtLNHZhZlZfbWVvV1AxN0JLZTBQYWFQR0pZdVh6VUFzUFpWaHl2X3Iwc0tNOU15aWt4QVFPSHJlbUtCWW56dnE3NDNrbUgzWHMyaUozZVZkNnFJd3ZGRkx2UXd6R2FWTkVWNll5WDR2ajVyWnJl?oc=5",
+      "date": "2026-10-30T07:00:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "STALPROFIL SA (27/2026) Zwołanie Nadzwyczajnego Walnego Zgromadzenia \"STALPROFIL\" S.A. BiznesRadar."
+    },
+    {
       "title": "Małe zakupy, duża zmiana. BNPL wychowuje nowych kredytobiorców",
       "url": "https://300gospodarka.pl/news/male-zakupy-duza-zmiana-bnpl-wychowuje-nowych-kredytobiorcow",
       "date": "2026-10-29T22:36:06Z",
@@ -2156,36 +2180,12 @@
       "summary": "Aż jedna trzecia Polaków obawia się kradzieży tożsamości w mediach społecznościowych. Niewiele mniej, bo 32 proc., za jedno z najpoważniejszych zagrożeń uważa próby wyłudzenia danych lub pieniędzy. Jednocześnie 21 proc."
     },
     {
-      "title": "Wiadomości CYFROWY POLSAT (CPS) - strona: 41 - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oWWJ0emNuYkpRYzZ2a2RxYUtpR3dXUnhZSU5OUTY0bUJCajNUTVhwS0xzSW52ekJGaTN5NnhSQ1FRU3h2Rkc1bjl0Nzl4VUJxR2Z3QktTSWZpVUU1dmdKYXdsYl9SZw?oc=5",
-      "date": "2026-10-29T16:03:55Z",
+      "title": "LUKARDI SA (15/2026) Powołanie osoby zarządzającej lub nadzorującej - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU290NTBQRjg0WHJmQkJfOVdrVGRBZS0xM0szLWVJWDRrNUVoWkduZGdVRWJ3ODdEZTZuQlUzY2VRcXZiVGFHRDIyQndic05ERC0wODNRVlNkNl9ycHo5Snd6bW8ycndHLUg4VzZZQ1QyZGlUZVRjbEJ6VlhMWWJOREk1OGhMWWpfS18tMk5GUHhXUXRhX216ak93SWZkaGh4WUZF?oc=5",
+      "date": "2026-10-29T18:24:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Wiadomości CYFROWY POLSAT (CPS) - strona: 41 BiznesRadar."
-    },
-    {
-      "title": "Wiadomości INC S.A. - strona: 239 - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zUUkzZ01sSGhla05EVDMyTmswNzhSaDVMdll6RGR0MkNHeFFpc19tb0ZBaVdPYTJ4Nl9HYUV0RFM1dERIT1RPODBKbDFpTERuaDU4V1pzajg?oc=5",
-      "date": "2026-10-29T14:35:42Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości INC S.A. - strona: 239 BiznesRadar."
-    },
-    {
-      "title": "Nowa strategia Cyfrowego Polsatu do 2030+ roku. Spółka planuje wyjście z energetyki i nieruchomości - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNHJEWWpMdHJOSThsZWZlSEI3X2lESmVwU0NXdWVuTkhkY0ZGalVnR2xqSFJNanI4bWhUMmFlaVZPRWhyRFhWZnJvWENnZmRYMzhITGl5QWlkRFgtN0tIcko2NDNIcTl0RkxDbzlFMkVYdVN3WWJ0SHpwQkdiakFEaWJ6SGlITFVmWkFfNldtbUVVN0s5YVZ1Y2g5WXZGQ1lWSktOM210ZEdFUzFlVGd4NEhZZ29aMFZGcFR5S3hlM056VWFkVzdUT2JTTVkyZw?oc=5",
-      "date": "2026-10-29T12:20:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Nowa strategia Cyfrowego Polsatu do 2030+ roku. Spółka planuje wyjście z energetyki i nieruchomości BiznesRadar."
-    },
-    {
-      "title": "Notowania INTSNAG03039 INGBANK - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2SDlpY0JUNHBYUS1yd2F4RUdsMTdLWUlaLUYtUGd0LWJoekRuVWh6VG9md2JHRmlpZVY0Zkk1TGx2SVVRYk90ejA4R1ByYUcwcnBOLU9jX0ctRUNzNXc?oc=5",
-      "date": "2026-10-29T09:19:57Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania INTSNAG03039 INGBANK BiznesRadar."
+      "summary": "LUKARDI SA (15/2026) Powołanie osoby zarządzającej lub nadzorującej BiznesRadar."
     },
     {
       "title": "AI zmienia nawet zawody „manualne”. Polska ma tu konkretny problem",
@@ -2252,8 +2252,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "1500 żołnierzy przyjedzie do Polski.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZy01ZXRFbFNNdTRMcFRiOWJhSHpQVEZTUmFVS1BmMWJNOXF2VDhGc3llYlE3Nm5YMWdBZkVKTV9IdWp5RzN6bVVzNVRjNm14MjNKTUpWalNTdjN2am53d1Z0TDdRN2N6QjRmeENXNl8zMEtlTnlKcWM2ZTBVUi1sQXdKeWx0MEQwMWo1dkFWWGNhcEFTUHh6YnhuWVpKZjRjMDZ6d0ZxNWE4VHM?oc=5"
+      "description": "Departament Stanu USA wydał decyzję zatwierdzającą potencjalną sprzedaż Ukrainie 500 pocisków rakietowych PAC-3 MSE do systemu Patriot.",
+      "url": "https://businessinsider.com.pl/gospodarka/departament-stanu-zatwierdzil-sprzedaz-ukrainie-rakiet-do-systemow-patriot/qj47tn1"
     },
     {
       "lat": 31.5,
@@ -2600,36 +2600,36 @@
     ],
     "prices": [
       26147.44,
-      28523.04,
+      28523.26,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      29189.0,
+      29189.22,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      29226.75,
+      29226.98,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29483.06,
+      29483.29,
       27354.94,
       27400.36,
       27412.11,
-      29903.56,
+      29903.79,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29129.08,
+      29129.3,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29317.33,
+      29317.56,
       27686.17,
       27404.78,
       27351.97,
@@ -2638,7 +2638,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29011.83,
+      29012.05,
       27930.04,
       28234.04,
       28218.36,
@@ -2647,86 +2647,86 @@
       28294.39,
       28203.83,
       28555.17,
-      29885.14,
+      29885.37,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29420.81,
+      29421.03,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29240.48,
+      29240.71,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29547.17,
+      29547.4,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30604.12,
+      30604.36,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30715.06,
+      30715.29,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30275.62,
+      30275.85,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30423.12,
+      30423.36,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30450.11,
+      30450.34,
       28449.73,
       28313.03,
       28272.33,
-      30207.02,
+      30207.25,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30181.45,
+      30181.68,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30547.99,
+      30548.22,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30466.36,
+      30466.59,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30816.76,
+      30816.99,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30216.72,
+      30216.95,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30075.65,
+      30075.88,
       30100.92,
       30418.01,
       30609.55,
       30450.14,
-      29815.31
+      29817.71
     ],
     "currency": "PLN"
   }
