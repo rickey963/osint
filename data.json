@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-30T12:48:35Z",
+  "last_updated": "2026-10-30T12:49:44Z",
   "poland": [
+    {
+      "title": "Ekonomista Banku Pekao o zapasach gazu w Europie: Nie ma już na co czekać",
+      "url": "https://energia.rp.pl/gaz/art45416761-ekonomista-banku-pekao-o-zapasach-gazu-w-europie-nie-ma-juz-na-co-czekac",
+      "date": "2026-10-30T12:49:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Europa nie zbudowała odpowiednich zapasów gazu, bo liczyła na zakończenie wojny na Bliskim Wschodzie i niższe ceny tego surowca. To dodatkowo podbija teraz ceny, bo gazu jest mało, a zima na progu – mówi dr Karol Pogorzelski, ekonomista z Banku Pekao."
+    },
     {
       "title": "Cios w nielegalny hazard na Śląsku. Gang miał ponad 50 automatów, został rozbity",
       "url": "https://www.rp.pl/przestepczosc/art45419961-cios-w-nielegalny-hazard-na-slasku-gang-mial-ponad-50-automatow-zostal-rozbity",
@@ -152,14 +160,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Leon XIV zamierza zagłosować w wyborach połówkowych w USA - ustalił Chicago Sun-Times. Papież złożył wniosek o kartę do głosowania korespondencyjnego na początku października."
-    },
-    {
-      "title": "Niejasne przepisy mogą sparaliżować kampanie reklamowe",
-      "url": "https://pro.rp.pl/nawigator-prawny-poradnik/art45421651-niejasne-przepisy-moga-sparalizowac-kampanie-reklamowe",
-      "date": "2026-10-30T12:04:05Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Analiza projektu tzw. warszawskiej uchwały krajobrazowej prowadzi do wniosku, że wiele kluczowych pojęć zostało sformułowanych w sposób niejednoznaczny, pozostawiający pole do sporów interpretacyjnych."
     },
     {
       "title": "Lewica chce likwidacji Funduszu Kościelnego. Jest odpowiedź episkopatu",
@@ -403,6 +403,14 @@
     }
   ],
   "world_security": [
+    {
+      "title": "Academic says he has been barred from UK over event with Palestine Action founder",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-30T12:36:55Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week."
+    },
     {
       "title": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
       "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
@@ -754,17 +762,25 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all."
-    },
-    {
-      "title": "Student-backed election winners demand sweeping resignations in Serbia",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-30T00:17:28Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down."
     }
   ],
   "world_politics": [
+    {
+      "title": "Rare Evacuation Announced by Melania Trump Begins in Ukrainian City of Oleshky",
+      "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+      "date": "2026-10-30T12:48:22Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Many of the people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out."
+    },
+    {
+      "title": "Newly Freed American Describes His Years in Russian Prison",
+      "url": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
+      "date": "2026-10-30T12:48:14Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Stephen James Hubbard, the retired teacher arrested soon after Russia’s full-scale invasion of Ukraine in 2022, said he sometimes lost hope."
+    },
     {
       "title": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
       "url": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
@@ -772,14 +788,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "I experienced war’s subterranean future as drones dominate the skies. I didn’t like it."
-    },
-    {
-      "title": "Rare Evacuation Announced by Melania Trump Begins in Ukrainian City of Oleshky",
-      "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
-      "date": "2026-10-30T12:09:46Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Many of the people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out."
     },
     {
       "title": "How Ukrainian Soldiers Are Moving Underground",
@@ -902,14 +910,6 @@
       "summary": "Some groups stood by Prime Minister Benjamin Netanyahu’s party, but support fell off among others. Turnout was also a striking factor in the election."
     },
     {
-      "title": "How the Japanese Spy Drama ‘Vivant’ Became The Target of China’s Anger",
-      "url": "https://www.nytimes.com/2026/10/30/world/asia/japan-vivant-spy-show-china.html",
-      "date": "2026-10-30T06:15:29Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "“Vivant,” a Japanese thriller that features Chinese spies, has drawn intense criticism from Beijing. Its creators defend the show, saying it is “completely fictional.”."
-    },
-    {
       "title": "European Central Bank head resigns, allowing EU leaders to choose successor before French election - AP News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0t1M2lJYVRDeHhmSWRYc01ONFJxdlNybDhYZWpzNzJBdFd6OGJ0TEh2SkdwTndiRzVsM3B5eERhaG10eng3MDZzM0JpMko2dnFiQkZSc0tNVXppX0xyck5wNmxQMV9LcmJuOEQ3cFpveldnRlRkcHh2MFkwRjVOU0JYTjdIV0JQTHVBYmo0ZkNyUQ?oc=5",
       "date": "2026-10-30T03:42:00Z",
@@ -958,6 +958,14 @@
       "summary": "Elke Sommer, German-born star of ‘A Shot in the Dark’ and ‘The Prize,’ dies at 85 AP News."
     },
     {
+      "title": "Suspects in alleged school shooting plot in Georgia had floor plan, had chosen a date, warrants say - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUpPYy12UXBOVi1hYmh0OVV6azZhSjdwZUhZUEZWZUQyVnZtTU9Fd0ZLbFl0Q3p5MWE3cV9TQTBvQm5RdFhCcndSLWJOLS1vT3lUTTJxR0VIQy0tc2EzNHlBMkN3LU1WZVdtUk9IZDYwYjFXMEo4ZExKVmFWRjlOUktMMk9ldzNvTnpkMjJKOThRMW5ra3ROT09RS3o?oc=5",
+      "date": "2026-10-29T14:55:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Suspects in alleged school shooting plot in Georgia had floor plan, had chosen a date, warrants say AP News."
+    },
+    {
       "title": "What to know about the impact of Flávio Bolsonaro’s arrival in the US - AP News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX1RjSUJaWm1teFllT29tSGZwdzUzd0p2OHRMWjhJZnNCbFE3aTBsU2ZRcS14SmFPV05VWDBfS2ZDc29pcUxvOGhLRmFvUFVpMVh1aVljcjVyb2dRTXpuVjktd1dlZVo0LUZ1NlpXMUVJT1I2eGl0V3RGbDluT1dWaXZSOXpodkduc25wUkxtS19laWRyNDVQNjgwOFc?oc=5",
       "date": "2026-10-29T13:16:00Z",
@@ -996,14 +1004,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say AP News."
-    },
-    {
-      "title": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year - AP News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
-      "date": "2026-10-29T02:50:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year AP News."
     }
   ],
   "technology": [
@@ -1812,30 +1812,6 @@
   ],
   "finance": [
     {
-      "title": "Tusk uderza w Nawrockiego? \"Skłoniliśmy prezydenta do zgody na CPN, stąd szybki spadek inflacji\"",
-      "url": "https://www.bankier.pl/wiadomosc/Tusk-uderza-w-Nawrockiego-Sklonilismy-prezydenta-do-zgody-na-CPN-stad-szybki-spadek-inflacji-9221011.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-10-30T12:34:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Spadek inflacji w październiku nastąpił dzięki skłonieniu prezydenta do odblokowania wprowadzenia pakietu CPN (Ceny Paliwa Niżej) - podkreślił w piątek w Gdańsku premier Donald Tusk."
-    },
-    {
-      "title": "Rząd szykuje osłony przed wzrostem rachunków. Minister ujawnia plany",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-szykuje-oslony-przed-wzrostem-rachunkow-Minister-ujawnia-plany-9221050.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-10-30T12:27:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Rząd w pierwszej kolejności analizuje działania osłonowe dla odbiorców gazu ziemnego, ale bierze pod uwagę też działania na rynku energii elektrycznej - poinformował w piątek minister energii Miłosz Motyka."
-    },
-    {
-      "title": "Apokaliptyczny widok. Rosyjska rafineria w ogniu po ataku dronów",
-      "url": "https://www.bankier.pl/wiadomosc/Apokaliptyczny-widok-Rosyjska-rafineria-w-ogniu-po-ataku-dronow-9221046.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-10-30T12:23:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Bezzałogowce należące do ukraińskiej armii zaatakowały rafinerię w Nowokujbyszewsku w obwodzie samarskim w europejskiej części Rosji – poinformował w piątek ukraiński portal Militarnyj."
-    },
-    {
       "title": "Rosja studzi nadzieje Europy. Uszakow: samo przybycie do Abu Zabi nie oznacza udziału w rozmowach",
       "url": "https://www.bankier.pl/wiadomosc/Rosja-studzi-nadzieje-Europy-Uszakow-samo-przybycie-do-Abu-Zabi-nie-oznacza-udzialu-w-rozmowach-9221024.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-10-30T12:21:00Z",
@@ -1860,20 +1836,28 @@
       "summary": "W najbliższą sobotę, niedzielę i poniedziałek litr benzyny 95 będzie kosztował nie więcej niż 6,48 zł, benzyny 98 – 7,32 zł, a oleju napędowego - 8,15 zł – wynika z piątkowego obwieszczenia Ministra Energii. Ceny maksymalne tych paliw będą więc niższe niż w piątek."
     },
     {
-      "title": "USA miały prosić sojuszników o łagodniejszy ton wobec Rosji. Litwa odpowiada",
-      "url": "https://www.bankier.pl/wiadomosc/USA-mialy-prosic-sojusznikow-o-lagodniejszy-ton-wobec-Rosji-Litwa-odpowiada-9221040.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-10-30T12:15:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Litwa nie zamierza prowokować Rosji, ale jedynie przedstawiać fakty – oświadczył w piątek litewski minister obrony Robertas Kaunas w reakcji na doniesienia mediów, jakoby Pentagon poprosił w ostatnich tygodniach kilka europejskich państw NATO, w tym Litwę, Łotwę i Estonię, by złagodziły ton wobec Rosji."
-    },
-    {
       "title": "Będzie zmiana na stacjach. Minister podał nowe ceny paliw",
       "url": "https://www.money.pl/gospodarka/ceny-paliw-na-1-listopada-minister-podal-nowe-stawki-7345610636786112a.html",
       "date": "2026-10-30T12:10:49Z",
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Od soboty do poniedziałku włącznie litr benzyny 95 ma kosztować nie więcej niż 6,48 zł, benzyny 98 – 7,32 zł, a diesla 8,15 – wynika z opublikowanego w piątek obwieszczenia ministra energii. Ceny maksymalne wszystkich tych paliw są więc niższe niż w piątek."
+    },
+    {
+      "title": "Domański ostrzega przed polexitem. „Konsekwencje byłyby znacznie większe niż dla Wielkiej Brytanii”",
+      "url": "https://www.bankier.pl/wiadomosc/Domanski-ostrzega-przed-polexitem-Konsekwencje-bylyby-znacznie-wieksze-niz-dla-Wielkiej-Brytanii-9221030.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-10-30T12:07:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Konsekwencje wyjścia z UE były dla Wielkiej Brytanii potężne. Dla Polski, której gospodarka jest bardziej zintegrowana z unijną niż była gospodarka brytyjska w 2016 r., byłyby one znacznie większe - podkreślił w piątek minister finansów Andrzej Domański."
+    },
+    {
+      "title": "Przeszukania w fundacji Ziobry i Wiplera. W tle afera Zondacrypto",
+      "url": "https://www.bankier.pl/wiadomosc/Przeszukania-w-fundacji-Ziobry-i-Wiplera-W-tle-afera-Zondacrypto-9220999.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-10-30T12:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Rzeczniczka Prokuratura Generalnego prok. Anna Adamiak przekazała w piątek, że trwają przeszukania w fundacjach Zbigniewa Ziobry i Przemysława Wiplera w związku ze śledztwem ws. Zondacrypto."
     },
     {
       "title": "KOMPUTRON [KOM] - StockWatch.pl",
@@ -1890,6 +1874,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Pierwszy prąd z morskiej farmy wiatrowej Baltica 2 ma popłynąć w pierwszej połowie 2027 r. – zapowiedział Donald Tusk. Premier ogłosił termin podczas otwarcia terminalu T5 w Gdańsku."
+    },
+    {
+      "title": "Tragedia podczas misji UE. Rozbił się wojskowy Chinook",
+      "url": "https://www.bankier.pl/wiadomosc/Tragedia-podczas-misji-UE-Rozbil-sie-wojskowy-Chinook-9220689.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-10-30T11:25:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "W pobliżu wsi Gorice, w położonym na północy Bośni i Hercegowiny dystrykcie Brczko, doszło w czwartek do wypadku z udziałem wojskowego śmigłowca unijnej misji EUFOR. W wypadku zginęło czworo włoskich wojskowych - podało włoskie Ministerstwo Obrony."
     },
     {
       "title": "Inflacja wbrew oczekiwaniom. Tusk komentuje. Wywołał Nawrockiego",
@@ -1914,6 +1906,14 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Polacy odbierają karty mobilizacyjne z wojska. Kolor paska mówi wszystko. Kogo wzywa armia?"
+    },
+    {
+      "title": "Ryanair kasuje 62 połączenia w Europie. Trzęsienie ziemi w rozkładach lotów",
+      "url": "https://www.bankier.pl/wiadomosc/Ryanair-kasuje-62-polaczenia-w-Europie-Trzesienie-ziemi-w-rozkladach-lotow-9220908.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-10-30T11:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Ryanair usuwa z systemu rezerwacyjnego 62 połączenia, w tym 11 tras związanych z sześcioma polskimi lotniskami. Największe zmiany odczują pasażerowie z Katowic, gdzie przewoźnik rezygnuje m.in. z lotów do Budapesztu i Brukseli."
     },
     {
       "title": "Czerwony piątek na giełdach. Cyfrowy Polsat i KGHM tracą najmocniej - StockWatch.pl",
@@ -2456,6 +2456,10 @@
   "instability": [],
   "investment_picks": [
     {
+      "sector": "Sektor obronny",
+      "instrument": "np. ETF iShares Global Aerospace & Defense (ITA)"
+    },
+    {
       "sector": "Sektor energetyczny/surowcowy",
       "instrument": "np. ETF Energy Select Sector (XLE)"
     },
@@ -2596,36 +2600,36 @@
     ],
     "prices": [
       26147.44,
-      28479.51,
+      28487.4,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      29144.46,
+      29152.52,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      29182.15,
+      29190.23,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29438.07,
+      29446.22,
       27354.94,
       27400.36,
       27412.11,
-      29857.93,
+      29866.19,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29084.63,
+      29092.67,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29272.59,
+      29280.7,
       27686.17,
       27404.78,
       27351.97,
@@ -2634,7 +2638,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28967.56,
+      28975.57,
       27930.04,
       28234.04,
       28218.36,
@@ -2643,81 +2647,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29839.54,
+      29847.79,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29375.91,
+      29384.04,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29195.86,
+      29203.94,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29502.08,
+      29510.25,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30557.42,
+      30565.88,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30668.18,
+      30676.67,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30229.42,
+      30237.79,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30376.7,
+      30385.1,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30403.64,
+      30412.06,
       28449.73,
       28313.03,
       28272.33,
-      30160.92,
+      30169.27,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30135.4,
+      30143.73,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30501.37,
+      30509.81,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30419.87,
+      30428.29,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30769.73,
+      30778.25,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30170.61,
+      30178.96,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30029.75,
+      30038.06,
       30100.92,
       30418.01,
       30609.55,
