@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-31T18:59:11Z",
+  "last_updated": "2026-10-31T19:02:37Z",
   "poland": [
+    {
+      "title": "Chiny biorą morze. Pekin prowokuje, ale nie strzela",
+      "url": "https://www.rp.pl/swiat/art45415211-chiny-biora-morze-pekin-prowokuje-ale-nie-strzela",
+      "date": "2026-10-31T19:00:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Stowarzyszenie Narodów Azji Południowo-Wschodniej od lat nie potrafi zamknąć sporu o Morze Południowochińskie ani zatrzymać wojny w Mjanmie. Zarzut bezradności trafia jednak tylko częściowo. – ASEAN robi tyle, ile pozwala mu mandat."
+    },
     {
       "title": "Kosiak-Kamysz ma pomysł na TK, wtórują mu inni. \"Alternatywa to chaos\"",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-10-31/kosiak-kamysz-ma-pomysl-na-tk-wtoruja-mu-inni-alternatywa-to-chaos/",
@@ -256,14 +264,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Kierująca TK sędzia Anna Korwin-Piotrowska, komentując w sobotę nocne wydarzenia wokół TK, powiedziała, że przed wejściem do Trybunału prezydent Karol Nawrocki próbował staranować ją i innych sędziów TK wybranych przez Sejm. Jej zdaniem prezydent nie chciał rozmawiać z sędziami."
-    },
-    {
-      "title": "Święczkowski odpowiada po odsunięciu od obowiązków. Wydał zarządzenie. \"Dni wolne od pracy\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33109478,swieczkowski-odpowiada-po-odsunieciu-od-obowiazkow-wydal-zarzadzenie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-10-31T13:46:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Odsunięty ze stanowiska prezesa TK Bogdan Święczkowski wydał zarządzenie w sprawie dni wolnych od pracy. \"Pracownicy [TK] nie mają obowiązku stawiać się na nielegalne wezwania osób nieuprawnionych\" - napisał w oświadczeniu opublikowanym na X."
     },
     {
       "title": "Bogdan Święczkowski odpowiada Annie Korwin-Piotrowskiej. Wydał swoje zarządzenie",
@@ -2398,6 +2398,14 @@
       "region": "Węgry",
       "description": "Nigdy nie sądziłem, że Donald Tusk posunie się tak daleko, by przeprowadzić zamach stanu wymierzony we własny naród - napisał w mediach społecznościowych Viktor Orban.",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-10-31/zamach-stanu-wymierzony-we-wlasny-narod-orban-atakuje-tuska/"
+    },
+    {
+      "lat": 19.75,
+      "lng": 96.1,
+      "type": "conflict",
+      "region": "Mjanma",
+      "description": "Stowarzyszenie Narodów Azji Południowo-Wschodniej od lat nie potrafi zamknąć sporu o Morze Południowochińskie ani zatrzymać wojny w Mjanmie.",
+      "url": "https://www.rp.pl/swiat/art45415211-chiny-biora-morze-pekin-prowokuje-ale-nie-strzela"
     }
   ],
   "instability": [
@@ -2409,6 +2417,17 @@
           "title": "Miedwiediew skomentował spór o Trybunał. Porównał sytuację do Ukrainy",
           "url": "https://www.polsatnews.pl/wiadomosc/2026-10-31/miedwiediew-skomentowal-spol-o-trybunal-porownal-sytuacje-do-ukrainy/",
           "source": "Polsat News"
+        }
+      ]
+    },
+    {
+      "name": "Mjanma",
+      "score": 100,
+      "reasons": [
+        {
+          "title": "Chiny biorą morze. Pekin prowokuje, ale nie strzela",
+          "url": "https://www.rp.pl/swiat/art45415211-chiny-biora-morze-pekin-prowokuje-ale-nie-strzela",
+          "source": "Rzeczpospolita"
         }
       ]
     }
