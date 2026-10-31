@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T23:28:03Z",
+  "last_updated": "2026-10-31T23:29:40Z",
   "poland": [
     {
       "title": "Komisarz UE domaga się działań ws. TK. \"Ma to znaczenie dla każdego polskiego obywatela\"",
@@ -299,7 +299,7 @@
     },
     {
       "title": "Bogdan Święczkowski odpowiada Annie Korwin-Piotrowskiej. Wydał swoje zarządzenie",
-      "url": "https://businessinsider.com.pl/wiadomosci/bogdan-swieczkowski-wydaje-swoje-zarzadzenie-chodzi-o-pracownikow-tk/fm5vprd",
+      "url": "https://businessinsider.com.pl/wiadomosci/bogdan-swieczkowski-odpowiada-annie-korwin-piotrowskiej-wydal-swoje-zarzadzenie/fm5vprd",
       "date": "2026-10-31T12:18:57Z",
       "source": "Business Insider Polska",
       "confirmed_by": 2,
@@ -1008,12 +1008,28 @@
   ],
   "technology": [
     {
+      "title": "When Electric Cars Were for Women",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "date": "2026-10-31T23:08:12Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://spectrum.ieee.org/early-electric-vehicles Comments URL: https://news.ycombinator.com/item?id=50321130 Points: 5 # Comments: 0."
+    },
+    {
       "title": "An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them",
       "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
       "date": "2026-10-31T22:41:06Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 10 # Comments: 2."
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 23 # Comments: 6."
+    },
+    {
+      "title": "Spooky C++",
+      "url": "https://www.nablag.com/spooky_cpp",
+      "date": "2026-10-31T21:40:18Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.nablag.com/spooky_cpp Comments URL: https://news.ycombinator.com/item?id=50320513 Points: 6 # Comments: 1."
     },
     {
       "title": "Distributed Proofreaders",
@@ -1021,7 +1037,7 @@
       "date": "2026-10-31T20:56:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.pgdp.net/c/ Comments URL: https://news.ycombinator.com/item?id=50320137 Points: 15 # Comments: 1."
+      "summary": "Article URL: https://www.pgdp.net/c/ Comments URL: https://news.ycombinator.com/item?id=50320137 Points: 17 # Comments: 1."
     },
     {
       "title": "With 86% of the words, you might understand only 38% of an anime's lines",
@@ -1029,7 +1045,7 @@
       "date": "2026-10-31T20:46:39Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://learnfromx.com/research/anime-word-coverage-vs-lines-understood Comments URL: https://news.ycombinator.com/item?id=50320028 Points: 38 # Comments: 25."
+      "summary": "Article URL: https://learnfromx.com/research/anime-word-coverage-vs-lines-understood Comments URL: https://news.ycombinator.com/item?id=50320028 Points: 42 # Comments: 28."
     },
     {
       "title": "Surviving \"The Graduate\"",
@@ -1037,7 +1053,7 @@
       "date": "2026-10-31T20:02:06Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 33 # Comments: 8."
+      "summary": "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 36 # Comments: 9."
     },
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
@@ -1045,7 +1061,7 @@
       "date": "2026-10-31T19:56:53Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 449 # Comments: 175."
+      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 477 # Comments: 182."
     },
     {
       "title": "Anthropic blocks users for anything touching training larger models",
@@ -1053,7 +1069,7 @@
       "date": "2026-10-31T19:39:19Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 121 # Comments: 31."
+      "summary": "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 133 # Comments: 40."
     },
     {
       "title": "Oto nowa Škoda Octavia HEV. W końcu pierwsza, pełna hybryda na pokładzie",
@@ -1070,22 +1086,6 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Podczas testów w zachodniej części Oceanu Spokojnego chiński załogowy batyskaf Jiaolong zanurkował na 7 056,9 m w Basenie Filipińskim. Próby posłużyły także do sprawdzenia systemów sztucznej inteligencji, które mają wspierać obsługę pojazdu, analizę dna oraz wczesne wykrywanie usterek – potencjalnie również w przyszłych okrętach podwodnych."
-    },
-    {
-      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-      "url": "https://epoyraz.github.io/nes-contra-us/",
-      "date": "2026-10-31T19:18:48Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Based on vermiceli's annotated disassembly of Contra: https://github.com/vermiceli/nes-contra-us. Thanks for the great work.I ported it in two steps. First to C: the game logic is translated routine by routine from the 6502 assembly, and checked frame by frame against the original in the Mesen emulator."
-    },
-    {
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "date": "2026-10-31T19:16:30Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 241 # Comments: 113."
     },
     {
       "title": "1 listopada może zamienić się w koszmar. Te aplikacje pomogą uniknąć największych problemów",
@@ -1980,14 +1980,6 @@
       "summary": "Kto decyduje o składzie Rady Bezpieczeństwa Narodowego? Czym zajmuje się RBN? Forsal.pl."
     },
     {
-      "title": "Onde wchodzi w segment elektroenergetyczny dzięki przejęciu Olmex - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTWFhZDlQME9Bb0lCMGdLMVoxX05fY2JmVlRwczJvV2FhZFVYbWdsZUY1bkhDWTQxSDFaeFdnMUJVcUp5Mk1rR3RVQnFyeWE0eUtYLWN5anRvU3doR1V1V3VsSUVBZV9aaGZjOHozYmNrOF82V0gyWGFmS1dONjRDaS12RzQzS1pBTTBaSXlCTGpfN0FnS1RYT1dUVFd0dTlJeS1v?oc=5",
-      "date": "2026-10-31T07:24:58Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Onde wchodzi w segment elektroenergetyczny dzięki przejęciu Olmex BiznesRadar."
-    },
-    {
       "title": "Inflacja zaskoczyła w dół. Stopy raczej bez zmian, ale ryzyka rosną",
       "url": "https://300gospodarka.pl/news/inflacja-zaskoczyla-w-dol-stopy-raczej-bez-zmian-ale-ryzyka-rosna",
       "date": "2026-10-30T22:52:29Z",
@@ -2002,14 +1994,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Hiszpania od lat przyciąga najwięcej turystów, a sektor turystyczny odpowiada za kilkanaście procent PKB. W 2025 roku cudzoziemcy wykupili prawie 250 mln noclegów – sześć razy więcej niż w Polsce. Część turystów tak docenia ten kawałek świata, że kupują w Hiszpanii własną nieruchomość, co odpowiada za kilkanaście procent popytu w tym kraju."
-    },
-    {
-      "title": "Komunikat EBI Draw Distance SA (ddistance): Powołanie osoby zarządzającej lub nadzorującej - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON1BlZ3dDV2Zrd1lveU0tTkhvaHhYNllQdEp4Y0VjZTVrUlRjdGw3anFWTGdtTkRvX3NFcTlVeVVRRUFxalFnb2hhejVSOUE4UlNKM0JmTnJZYkxWeXZiQ3pYUWRKMFFRWDkxQWx2VjhxRE5pMUNEVzV5Vm5MYU4xQ3d5RXVtYVhGQmNuT2RRSHN6dGhFUWVmNzBtT2h6MGlzY2FqQnlHa3RpbnN2SmY5cWU3cVBzYVo2ekc2UXB4cU9uT0NicXlMUUhNdzVfVjJKSHdkV3p1ejk?oc=5",
-      "date": "2026-10-30T21:04:37Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat EBI Draw Distance SA (ddistance): Powołanie osoby zarządzającej lub nadzorującej StockWatch.pl."
     },
     {
       "title": "Darmowe nadgodziny wciąż powszechne. Najgorzej jest w średnich firmach",
@@ -2116,6 +2100,14 @@
       "summary": "Jeżeli republikanie poniosą klęskę, zaczną się poszukiwania następcy Trumpa [WYWIAD] Forbes."
     },
     {
+      "title": "Grupa Pracuj kupuje Elevato za 2,2 mln zł - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLUhvQ0lBYzR5TEpSUzZpbGt6NGpoMk1xSkttMzFuU1AxdVlvWlBFQ0hWdmlMMVFMeFZmQmVDOVB0WEdDRHJhUGZ1Tnd6X3lfcmlLQldWM2ZzZkdKMVVEcnVQVXZiX25mNkJUXzhWZklJSWJTdkpNWXJKOW5QSHdudGxRczFVZllDY0VDY2JaQ3lYZ214c3c?oc=5",
+      "date": "2026-10-30T13:03:10Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Grupa Pracuj kupuje Elevato za 2,2 mln zł StockWatch.pl."
+    },
+    {
       "title": "Nowe pokolenia inwestorów. Czas ważniejszy niż dobra luksusowe - Forbes",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNnlOb3l3ZUg3U2M3bXZ4RUZRRmdMdldrTDNzcHZtbTRmSlZzV0tzQUZ0NU1wRDhiYjBfeFJrMTFaX0RHakc2Z2JlUFdfYXZ4cjJTUlRxelNVb2NwZFREMkFOVkI5LWNSVnYzd2p6bDZOc0lSWXJNWHZnTXFsd2drVWh2akwzelJmTm0zT3hudG10Sk0yY2hLZnBia0IwUQ?oc=5",
       "date": "2026-10-30T12:03:43Z",
@@ -2162,6 +2154,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Budimex po erze autostrad. Nowa strategia spółki do 2030 roku Paweł Biedrzycki pt., 30.10.2026 Kanał Strefa Inwestorów Bunimex Strategia Budimex Strategia 2030 Treść Budimex po raz pierwszy w historii przedstawił strategię z liczbowymi deklaracjami dla inwestorów. Do 2030 r."
+    },
+    {
+      "title": "Notowania BNPPBNPI1029 BNP PARIBAS ARBITRAGE ISSUANCE - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ubVBoYzlscGlEWU9xeHFoZHdRREFDRG44SGpZcnM1RmZCRk9vVWN3dGpwdVJlQzhMTjM0cXBwY0EyWnEwOHVqWm96QktYbVZpUklycGdhSU1McWZrRFE?oc=5",
+      "date": "2026-10-30T09:24:05Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania BNPPBNPI1029 BNP PARIBAS ARBITRAGE ISSUANCE BiznesRadar."
     },
     {
       "title": "GUS podał wstępne dane o inflacji za październik 2026 r.",
