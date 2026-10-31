@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T06:59:43Z",
+  "last_updated": "2026-10-31T07:00:41Z",
   "poland": [
     {
       "title": "\"Zapanował chaos\", \"pole bitwy\". Światowe media reagują na wydarzenia w Polsce",
@@ -7,7 +7,7 @@
       "date": "2026-10-31T06:38:00Z",
       "source": "Polsat News",
       "confirmed_by": 1,
-      "summary": "Zapanował chaos, polityczne pole bitwy, kryzys instytucjonalny - światowe media reagują na wydarzenia wokół Trybunału Konstytucyjnego w Polsce. W większości przekazów podkreśla się, że konflikt o Trybunału między rządem a opozycją zaostrza się. Hiszpański El Espanol ocenił, że spór wykracza poza walkę o bieżące kompetencje."
+      "summary": "Zapanował chaos, polityczne pole bitwy, kryzys instytucjonalny - światowe media reagują na wydarzenia wokół Trybunału Konstytucyjnego w Polsce. W większości przekazów podkreśla się, że konflikt o TK między rządem a opozycją zaostrza się. Hiszpański El Espanol ocenił, że spór wykracza poza walkę o bieżące kompetencje."
     },
     {
       "title": "Waldemar Żurek: niedopuszczalne zachowanie prezydenta Karola Nawrockiego",
@@ -282,6 +282,14 @@
       "summary": "Sędziowie Trybunału Konstytucyjnego wybrani przez obecny Sejm przeszli do kontrofensywy. Kluczowa jest tu postać Anny Korwin-Piotrowskiej. Wyjaśniamy jej rolę w sprawie."
     },
     {
+      "title": "Nie przepłacaj za opony zimowe. Dębica to polski wybór w rozsądnej cenie",
+      "url": "https://businessinsider.com.pl/technologie/nie-przeplacaj-za-opony-zimowe-debica-to-polski-wybor-w-rozsadnej-cenie/xtj2wb4",
+      "date": "2026-10-30T18:48:56Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Zakup nowego kompletu opon zimowych potrafi mocno obciążyć domowy budżet. Nie oznacza to jednak, że trzeba od razu sięgać po najdroższe marki, żeby przygotować samochód na chłodniejsze miesiące. Ciekawą alternatywą jest Dębica."
+    },
+    {
       "title": "Wnioski o uchylenie immunitetów w TK. Żurek przekazał szczegóły - Polskie Radio 24",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNTM4UFZ6Zk5wZXYxdHhXQXJtVlpQOWU1QWk1dHZteXYwTzVMWkZ1azBEMlRmMFZKS0NydDFtSHZlMkxIOXRiUWtVd241R21nbFZoR2dETmRGQVNVaDF3Zk1QUDJUV3FZYzctMDMzQ1UtRFBfOU84TXYwZG9WRHJXc1R5dUlNZ3VTYWJacDdEMjFBTG5tN0t4c0JKSQ?oc=5",
       "date": "2026-10-30T18:05:00Z",
@@ -296,14 +304,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 2,
       "summary": "Kanada będzie pierwszym członkiem stowarzyszonym Unii Europejskiej. Zasady tego nowego partnerstwa zostaną określone w ciągu najbliższych miesięcy — zapowiedział premier Mark Carney."
-    },
-    {
-      "title": "Nowi sędziowie przejmują Trybunał Konstytucyjny. Powołują się na jeden przepis",
-      "url": "https://businessinsider.com.pl/prawo/prezes-i-wiceprezes-tk-odsunieci-oto-trzy-powody-decyzji/tfkm8l8",
-      "date": "2026-10-30T17:48:16Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Sędziowie Trybunału Konstytucyjnego wybrani przez obecny Sejm przeszli do kontrofensywy. Sędzia Anna Korwin-Piotrowska odsunęła prezesa TK Bogdana Święczkowskiego, oraz jego zastępcę, Bartłomieja Sochańskiego. Jak ustalił Business Insider, za jej decyzją stoi jeden przepis oraz trzy konkretne argumenty."
     },
     {
       "title": "Wskaźniki referencyjne - SARON - PAP Biznes",
@@ -1784,14 +1784,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Rosyjskie władze umieściły Apple i Microsoft w państwowym rejestrze firm zobowiązanych do przechowywania informacji o komunikacji użytkowników i udostępniania ich służbom specjalnym. Amerykańskim gigantom technologicznym grożą kary finansowe, a nawet ograniczenie dostępu do ich usług, jeśli nie zastosują się do przepisów."
-    },
-    {
-      "title": "Claude odtworzył proces generowania parametrów NIST-owych krzywych eliptycznych. Odkrycie zostało nagrodzone w ramach programu bounty.",
-      "url": "https://sekurak.pl/claude-odtworzyl-proces-generowania-parametrow-nist-owych-krzywych-eliptycznych-odkrycie-zostalo-nagrodzone-w-ramach-programu-bounty/",
-      "date": "2026-10-28T07:00:10Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Implementując algorytmy kryptograficzne często korzystamy z oficjalnych standardów (opublikowanych m.in. przez NIST, czy NSA), nie zastanawiając się przy tym, w jaki sposób wygenerowano zawarte w nich&#160; kluczowe dane. W przypadku algorytmów symetrycznych (np."
     }
   ],
   "finance": [
@@ -1882,6 +1874,14 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Z uwagi na eskalację protestów pod Trybunałem Konstytucyjnym i obawę o życie i zdrowie osób wewnątrz gmachu i wokół niego nie ma zgody na wjazd kogokolwiek na teren TK – oświadczyła w piątek PAP sędzia TK Anna Korwin-Piotrowska, która zarządziła przerwę w czynnościach prezesa i wiceprezesa TK."
+    },
+    {
+      "title": "Komunikat EBI Draw Distance SA (ddistance): Powołanie osoby zarządzającej lub nadzorującej - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON1BlZ3dDV2Zrd1lveU0tTkhvaHhYNllQdEp4Y0VjZTVrUlRjdGw3anFWTGdtTkRvX3NFcTlVeVVRRUFxalFnb2hhejVSOUE4UlNKM0JmTnJZYkxWeXZiQ3pYUWRKMFFRWDkxQWx2VjhxRE5pMUNEVzV5Vm5MYU4xQ3d5RXVtYVhGQmNuT2RRSHN6dGhFUWVmNzBtT2h6MGlzY2FqQnlHa3RpbnN2SmY5cWU3cVBzYVo2ekc2UXB4cU9uT0NicXlMUUhNdzVfVjJKSHdkV3p1ejk?oc=5",
+      "date": "2026-10-30T21:04:37Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI Draw Distance SA (ddistance): Powołanie osoby zarządzającej lub nadzorującej StockWatch.pl."
     },
     {
       "title": "Polskie ogórki na okładce \"Economist\". Brytyjski premier brutalnie wyśmiany",
@@ -2018,14 +2018,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Jeżeli republikanie poniosą klęskę, zaczną się poszukiwania następcy Trumpa [WYWIAD] Forbes."
-    },
-    {
-      "title": "Grupa Pracuj kupuje Elevato za 2,2 mln zł - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLUhvQ0lBYzR5TEpSUzZpbGt6NGpoMk1xSkttMzFuU1AxdVlvWlBFQ0hWdmlMMVFMeFZmQmVDOVB0WEdDRHJhUGZ1Tnd6X3lfcmlLQldWM2ZzZkdKMVVEcnVQVXZiX25mNkJUXzhWZklJSWJTdkpNWXJKOW5QSHdudGxRczFVZllDY0VDY2JaQ3lYZ214c3c?oc=5",
-      "date": "2026-10-30T13:03:10Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Grupa Pracuj kupuje Elevato za 2,2 mln zł StockWatch.pl."
     },
     {
       "title": "Będzie zmiana na stacjach. Minister podał nowe ceny paliw",
