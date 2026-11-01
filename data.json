@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-01T03:14:40Z",
+  "last_updated": "2026-11-01T03:24:05Z",
   "poland": [
+    {
+      "title": "2 listopada nie jest dniem wolnym, ale są wyjątki. Oto kto świętuje w Zaduszki",
+      "url": "https://www.rp.pl/kraj/art45415781-2-listopada-nie-jest-dniem-wolnym-ale-sa-wyjatki-oto-kto-swietuje-w-zaduszki",
+      "date": "2026-11-01T03:07:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Poniedziałek po Wszystkich Świętych to Dzień Zaduszny, poświęcony pamięci zmarłych. Nie jest jednak ustawowo wolny od pracy. Większość osób planujących wyjazdy na groby bliskich nie może w tym roku liczyć na długi weekend."
+    },
     {
       "title": "Komisarz UE domaga się działań ws. TK. \"Ma to znaczenie dla każdego polskiego obywatela\"",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33110105,komisarz-ue-domaga-sie-dzialan-ws-tk-ma-to-znaczenie-dla.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -154,14 +162,6 @@
       "summary": "Donald Tusk wygłosił orędzie w związku z narastającym kryzysem w Trybunale Konstytucyjnym. - Byliśmy wczoraj świadkami gorszących zdarzeń pod budynkiem TK. Bardzo chciałbym, abyśmy podobnych scen nie musieli nigdy w Polsce oglądać - powiedział na wstępie."
     },
     {
-      "title": "Orędzie Donalda Tuska. „W pewnych sprawach nie może być kompromisu”",
-      "url": "https://www.rp.pl/polityka/art45426091-oredzie-donalda-tuska-w-pewnych-sprawach-nie-moze-byc-kompromisu",
-      "date": "2026-10-31T19:01:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Państwo prawa tym różni się od prawa dżungli, że o racji nie decydują mięśnie i chamstwo –- mówił premier Donald Tusk w wystąpieniu związanym z kryzysem wokół Trybunału Konstytucyjnego."
-    },
-    {
       "title": "Spotkanie w Atlancie. Rubio: Trump uważa, że Polsce należy się miejsce w G20",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33109944,spotkanie-w-atlancie-rubio-trump-uwaza-ze-polsce-nalezy-sie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-10-31T18:48:00Z",
@@ -243,7 +243,7 @@
     },
     {
       "title": "Bogdan Święczkowski odpowiada Annie Korwin-Piotrowskiej. Wydał swoje zarządzenie",
-      "url": "https://businessinsider.com.pl/wiadomosci/bogdan-swieczkowski-odpowiada-annie-korwin-piotrowskiej-wydal-swoje-zarzadzenie/fm5vprd",
+      "url": "https://businessinsider.com.pl/wiadomosci/bogdan-swieczkowski-wydaje-swoje-zarzadzenie-chodzi-o-pracownikow-tk/fm5vprd",
       "date": "2026-10-31T12:18:57Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
@@ -782,6 +782,14 @@
       "summary": "A third weekend of protests in France as youth-led rallies sweep Europe AP News."
     },
     {
+      "title": "US plans to deport Afghans back to their home country through Pakistan, documents show - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWpSODVTb3dmenRTb2tRX25LbTJITWlLM0l4bHFEQjVBMldXUGx1NFNyb2ZibFJaTk5ndnJfbmhEOEVOOXRvd1k3cTVKSDQtak9QVVA0SHpNY1dWUmtKWVV3dGFSbjd6WWd3Mzk3dkVIXy1vbVBRSnNfSncweWxpeVpGVldsYTRaQzRrQklSeEFGVVdPakxXUlNfOUcxODNveG9hRUY2dmVmZw?oc=5",
+      "date": "2026-10-31T23:29:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "US plans to deport Afghans back to their home country through Pakistan, documents show AP News."
+    },
+    {
       "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
       "url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
       "date": "2026-10-31T23:05:42Z",
@@ -996,17 +1004,25 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Rival US and Russia resolutions on disputed Western Sahara are defeated in UN Security Council AP News."
-    },
-    {
-      "title": "An ICE officer is charged with assault for striking a man with a car in Houston - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFh4dnZmYThTd3d1QUZQRDdEOTNNU2tfYUQxM3FtVGR0UjdSTzV0ZndxWGt6MDI2NGMwTUZhcXZSN2xCbG1XdDg3aW4yUWJnWHRYeW1CTmxMRVRpR0wtX2IyLUtDdlFGMmxtNkNqRG1WQmhGRGh6VUU3dG1GLW9GdmUwWVVsYlJscnRKdnNCLTk2cnJYRXZtc0tDdw?oc=5",
-      "date": "2026-10-30T22:22:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "An ICE officer is charged with assault for striking a man with a car in Houston AP News."
     }
   ],
   "technology": [
+    {
+      "title": "The FBI attributes the $6B+ Binance hack to North Korea's TraderTraitor hacking group, which the agency also previously blamed for the Bybit hack (Kevin Whitelaw/Bloomberg)",
+      "url": "https://www.techmeme.com/261031/p13#a261031p13",
+      "date": "2026-11-01T03:10:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Kevin Whitelaw / Bloomberg: The FBI attributes the $6B+ Binance hack to North Korea's TraderTraitor hacking group, which the agency also previously blamed for the Bybit hack &mdash; The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance."
+    },
+    {
+      "title": "Hermantown approves controversial Google Data Center during late night meeting",
+      "url": "https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting",
+      "date": "2026-11-01T02:15:59Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting Comments URL: https://news.ycombinator.com/item?id=50322155 Points: 9 # Comments: 0."
+    },
     {
       "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
       "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
@@ -1037,7 +1053,7 @@
       "date": "2026-10-31T23:08:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://spectrum.ieee.org/early-electric-vehicles Comments URL: https://news.ycombinator.com/item?id=50321130 Points: 47 # Comments: 21."
+      "summary": "Article URL: https://spectrum.ieee.org/early-electric-vehicles Comments URL: https://news.ycombinator.com/item?id=50321130 Points: 47 # Comments: 22."
     },
     {
       "title": "Altoids Project",
@@ -1045,7 +1061,7 @@
       "date": "2026-10-31T22:54:55Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://uvdn7.github.io/altoids-project/ Comments URL: https://news.ycombinator.com/item?id=50321048 Points: 53 # Comments: 3."
+      "summary": "Article URL: https://uvdn7.github.io/altoids-project/ Comments URL: https://news.ycombinator.com/item?id=50321048 Points: 58 # Comments: 3."
     },
     {
       "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
@@ -1053,7 +1069,7 @@
       "date": "2026-10-31T22:46:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 99 # Comments: 49."
+      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 108 # Comments: 55."
     },
     {
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
@@ -1061,23 +1077,7 @@
       "date": "2026-10-31T22:41:06Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 188 # Comments: 54."
-    },
-    {
-      "title": "AI text watermarking and quality loss",
-      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "date": "2026-10-31T21:50:13Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 25 # Comments: 5."
-    },
-    {
-      "title": "Surviving \"The Graduate\"",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-      "date": "2026-10-31T20:02:06Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 68 # Comments: 20."
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 196 # Comments: 58."
     },
     {
       "title": "Oto nowa Škoda Octavia HEV. W końcu pierwsza, pełna hybryda na pokładzie",
@@ -2004,28 +2004,12 @@
       "summary": "APANET SA (16/2026) Zmiana harmonogramu publikacji raportów okresowych BiznesRadar."
     },
     {
-      "title": "- StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rcjFYMFFhSGRnR0R1WlV1RjgzbHgxUEpULVRQOGM1X2R5V0Z1ZTBNZXcwWGs5N0dUVklzRkl4MDVFOFY4QVpqTFFmdS1ud0VsTmVtbC1jdkhiNFlpbmhXTTM3NHJFSlJldVRHUG5BUQ?oc=5",
-      "date": "2026-10-30T21:30:59Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "StockWatch.pl."
-    },
-    {
       "title": "POLICE SA (58/2026) Przedłużenie porozumień z instytucjami finansującymi Grupę Azoty. - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHliZGUybXJPbkFaUG0zZElMeXRneE5zM05nT2Q2UWoxSlF0U1I3eWxpWjJZNFJfTkJSR2ZzU3I3aXJrT09ZZnNoNXlUaHVjWXphMXBZS3BRalU1NlVZM0dUdVlQRzRZaV80Q0hNZ0lCMW1pc2J5blMyU0FiWFNtRWx3UlZWcXlKN3RHR0hGaU1oX3pQajZvcnJpYk84Nl9RVW5xUGxqOTYtcHA4LUN2NnRnUWlQV3ppYkE?oc=5",
       "date": "2026-10-30T21:19:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "POLICE SA (58/2026) Przedłużenie porozumień z instytucjami finansującymi Grupę Azoty. BiznesRadar."
-    },
-    {
-      "title": "Komunikat EBI Draw Distance SA (ddistance): Powołanie osoby zarządzającej lub nadzorującej - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON1BlZ3dDV2Zrd1lveU0tTkhvaHhYNllQdEp4Y0VjZTVrUlRjdGw3anFWTGdtTkRvX3NFcTlVeVVRRUFxalFnb2hhejVSOUE4UlNKM0JmTnJZYkxWeXZiQ3pYUWRKMFFRWDkxQWx2VjhxRE5pMUNEVzV5Vm5MYU4xQ3d5RXVtYVhGQmNuT2RRSHN6dGhFUWVmNzBtT2h6MGlzY2FqQnlHa3RpbnN2SmY5cWU3cVBzYVo2ekc2UXB4cU9uT0NicXlMUUhNdzVfVjJKSHdkV3p1ejk?oc=5",
-      "date": "2026-10-30T21:04:37Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 2,
-      "summary": "Komunikat EBI Draw Distance SA (ddistance): Powołanie osoby zarządzającej lub nadzorującej StockWatch.pl."
     },
     {
       "title": "Darmowe nadgodziny wciąż powszechne. Najgorzej jest w średnich firmach",
@@ -2132,6 +2116,14 @@
       "summary": "Jak nie zmarnować największej szansy, przed jaką stanęliśmy? Raport Deloitte dla „Forbes Polska” Forbes."
     },
     {
+      "title": "KGHM: szyb projektu Victoria w Kanadzie głębszy niż 1,6 km - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHdjOVUwUEJjcWtVanR6WURiNTVOSkhFbWhSV1AyakxkSjE5aVFzNjRkU2NBV2hoVlZQNnpYYXpHYTRsQzVkRlkzb2VOWFJlUGkwTW01SGFQSF9SSUpkSjZNZnJnUWd3emRhRlg2MmhxYXl1RC1ONFBKRTZtZ2Q0enVyY2tRdm40NFN5TnpnWDM2MmhhLTVHdFBTUlRqb1BGN0E?oc=5",
+      "date": "2026-10-30T13:48:02Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "KGHM: szyb projektu Victoria w Kanadzie głębszy niż 1,6 km StockWatch.pl."
+    },
+    {
       "title": "Jeżeli republikanie poniosą klęskę, zaczną się poszukiwania następcy Trumpa [WYWIAD] - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjdUdXg3WjVzTUZYWTlzSkVORTVZQURmdF9oNGc0QlZCNDgtcGhGX1hzbFhvTkFsRmpIY3lwOHFjV2NkUkxvR1A3QnBTSTRZdUFXZmRNLTB1VTBkQ3ZSU1RvdkRLSFVtZjlNWjVibHBOcTRIOF94SzJWV0k2MTFzWWxISkZua1JoVzRtSkpnWmp6QXg2NEJHbGFVTEM2bnJWSlFsSnRwSjRyRjNHcWU1b1hDaVhlUUxRNHR0OWVBM3NTZmc?oc=5",
       "date": "2026-10-30T13:23:02Z",
@@ -2146,6 +2138,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Nowe pokolenia inwestorów. Czas ważniejszy niż dobra luksusowe Forbes."
+    },
+    {
+      "title": "Czerwony piątek na giełdach. Cyfrowy Polsat i KGHM tracą najmocniej - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZF9acFVFdm92WmVjbElxT2p2elV3amx3VF85MjJ3emZ1YWFvRkJXRUtEZDJDanQyOEIxZ193WlEwTC1RVHkxTjQzaFUxZzVyR1Q0UTA2ZWRjUlUtUVhBdW1pcGlVNE96YmxPVDdDcjVYRWxLYk9MRmpmdUc2M2wzeXpBc3ZFdlNEMFk0TjZpcV9iQ21vcUMzZ0Rvbw?oc=5",
+      "date": "2026-10-30T10:49:17Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Czerwony piątek na giełdach. Cyfrowy Polsat i KGHM tracą najmocniej StockWatch.pl."
     },
     {
       "title": "Ares Shield AI, z sektora obrony sateliów, prowadzi ofertę akcji i zamierza zadebiutować na NewConnect",
