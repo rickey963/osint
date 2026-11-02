@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-11-02T15:57:24Z",
+  "last_updated": "2026-11-02T16:06:54Z",
   "poland": [
+    {
+      "title": "Rosyjski okręt szpiegowski obserwował ćwiczenia NATO. Brytyjczycy wysłali śmigłowce",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45433811-rosyjski-okret-szpiegowski-obserwowal-cwiczenia-nato-brytyjczycy-wyslali-smiglowce",
+      "date": "2026-11-02T15:55:44Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Rosyjski okręt rozpoznawczy Wiktor Leonow monitorował ćwiczenia NATO Strike Warrior u wybrzeży Szkocji. Brytyjskie ministerstwo obrony poinformowało, że jednostkę obserwowały śmigłowce marynarki wojennej."
+    },
+    {
+      "title": "\"Agresywny osiłek\" vs. \"uzurpatorzy i marionetki\". Tusk kontra Nawrocki. Szykuje się ostre starcie na RBN",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,197990,33112093,agresywny-osilek-vs-uzurpatorzy-i-marionetki-tusk-kontra.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-11-02T15:50:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Wtorkowe posiedzenie Rady Bezpieczeństwa Narodowego będzie pierwszą okazją do spotkania Nawrocki-Tusk po piątkowych wydarzeniach w Trybunale Konstytucyjnym. Szef rządu ma wziąć udział w spotkaniu, podobnie jak marszałek Sejmu Włodzimierz Czarzasty. Zapowiada się na ostrą dyskusję."
+    },
     {
       "title": "Niemcy proponują podatek od AI. Środki miałyby zostać przekazane na edukację",
       "url": "https://businessinsider.com.pl/technologie/nowe-technologie/podatek-od-sztucznej-inteligencji-w-niemczech-pomysl-wzbudza-emocje/kbqwfy9",
@@ -122,20 +138,12 @@
       "summary": "W październiku lotnisko w Krakowie obsłużyło ponad 1,3 miliona pasażerów, a od początku roku do końca października – niemal 12,7 miliona."
     },
     {
-      "title": "Nie obrażaj bota. Anthropic właśnie zakazuje „znęcania się” nad Claudem",
-      "url": "https://cyfrowa.rp.pl/ai/art45432461-nie-obrazaj-bota-anthropic-wlasnie-zakazuje-znecania-sie-nad-claudem",
+      "title": "Nie obrażaj sztucznej inteligencji. Anthropic grozi blokadą konta, Musk popiera",
+      "url": "https://cyfrowa.rp.pl/ai/art45432461-nie-obrazaj-sztucznej-inteligencji-anthropic-grozi-blokada-konta-musk-popiera",
       "date": "2026-11-02T14:55:00Z",
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Twórcy chatbota Claude dopisali do regulaminu dość osobliwy punkt – chodzi o zakaz uporczywą i bezpodstawną agresję względem sztucznej inteligencji. Użytkownikom łamiącym zasadę grozi utrata dostępu do konta. Jak swoją decyzję tłumaczy Anthropic?"
-    },
-    {
-      "title": "Czarny miesiąc rosyjskiego lotnictwa wojskowego. Kreml hurtowo traci samoloty",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45431281-czarny-miesiac-rosyjskiego-lotnictwa-wojskowego-kreml-hurtowo-traci-samoloty",
-      "date": "2026-11-02T14:54:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Od początku października Kreml tracił średnio jeden samolot bojowy lub śmigłowiec co trzy dni. Natychmiast odbiło się to na sytuacji na froncie. Rosja prowadzi dziś tylko jedną operację ofensywną w Ukrainie."
     },
     {
       "title": "PiS zawiadamia prokuraturę ws. TK. \"Zamach na konstytucyjny organ\"",
@@ -256,14 +264,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "DANKS SA (34/2026) Częściowy zwrot pożyczki udzielonej przez spółkę zależną Emitenta PAP Biznes."
-    },
-    {
-      "title": "Ukraina ignoruje apele Trumpa. W ogniu jeden z największych rosyjskich kompleksów naftowych",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33111465,ukraina-ignoruje-apele-trumpa-w-ogniu-jeden-z-najwiekszych.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-11-02T12:07:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Ukraina uderzyła w jeden z największych rosyjskich kompleksów magazynowania i dystrybucji ropy naftowej. W ciągu ostatnich dni jej ataki wyłączyły około 10 proc. rosyjskich mocy przerobowych - podaje UNIAN."
     },
     {
       "title": "Trump po raz pierwszy na liście osób zagrażających wolności prasy - Polska Agencja Prasowa SA",
@@ -404,12 +404,52 @@
   ],
   "world_security": [
     {
+      "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+      "date": "2026-11-02T15:52:55Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Supermarkets across Europe have experienced temperature-control meddlingThe fake nuclear threats to Ukraine came as Russia resumed its attacks on the southern city of Kherson, just hours after the end of a ceasefire during which hundreds of people were evacuated from the nearby Kremlin-controlled town of Oleshky.Kherson’s military administration said a Russian drone hit a hospital at 7.40am. Video footage showed wrecked rooms, with windows blown out, doors broken, and debris on the street. Nobody was hurt, officials said."
+    },
+    {
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "date": "2026-11-02T15:45:05Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Chains in at least seven countries say fridge temperatures rose overnight in incident similar to hack of French storesEurope live – latest updatesSupermarket chains in at least seven European countries have said the temperatures of refrigerators and freezers in dozens of their stores soared overnight, prompting fears of a cyber-attack similar to one that caused millions of euros of losses in France.Retailers in Belgium, Estonia, Ireland, Finland, Luxembourg, the Netherlands and Sweden reported problems with their refrigeration systems on Monday, and several companies confirmed they had been victims of a cyberattack. Continue reading..."
+    },
+    {
+      "title": "China's Wang urges Middle East dialogue in meetings with Iranian, Saudi officials - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVJGdUotaWhuOVFjZ2VTVHZ5bkxnbmVXd3BUS0JEenI2QkpMYXJSVUxpUGJrNHpaMkFtZ244cE93RWhCWExKTmJFdm5FbFZEck14aVdnaW0tdU5DdHY0UUk3TkpqbW5vb1RzMW85Z1VkZHFBSnlRMkRVUTlxRDgyR2Z1N3BBSkRsdzI2Mm9WQmxjaFpiOUpqR3k5WjRZUVVZaUtGWGVscXhlS01PZjBUTWRMNHpIU28?oc=5",
+      "date": "2026-11-02T15:42:50Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "China's Wang urges Middle East dialogue in meetings with Iranian, Saudi officials Reuters."
+    },
+    {
+      "title": "New cyberattack on supermarket fridges sweeps across Europe - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObF9LUXZ2TVpjZm13eW9HNXZ0MkZFVDM5eHl5RXc0aDkzODdvc0VKYVE4YV9MSDZITjVTR01CM3l6ajdCVEFZMXlmdmx3MzBRWHN5QVkyTFU2bkR2Sm5VQm5OWUVfLVJoeHFZaXdrc0F1QTRnT0tHYXRvcVd4S0V2QUxmV3ptOEszT2EyWmFpVjYyUnRwODF1eGhXbGpGcUV2UXRwZFFLOGhPLTY1MWUxal9TY3M0Qm9MOVpSeTFHazNxMUNGSnVfdzVvOE0tUGM?oc=5",
+      "date": "2026-11-02T15:36:02Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "New cyberattack on supermarket fridges sweeps across Europe Reuters."
+    },
+    {
       "title": "Lindsay Clancy's lawyers urge Massachusetts judge to dismiss murder case - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZVRyNnpTd3RvZnVqaF9uakF2eTgwdDRaa2RBLXJJbmt4eVJhOElVS1FUUlpEMlNQN3hqMnhBYUdkdGV5dl9xRWg5MFdCZTlfbTFuRkp5dDd4QjAwaktIbHl4dURCVmFrUEx2cEVLZzFWMTNjeWpLS1NuSWo1dmQzYTdkdTA0NVA1NmpyeExaSzlQdTNRcUNoTXcwYi14WHE2VV94MDQ0M00zMmFtaGdZQ0Eya0phOU1vSDVOa28xU1RZWWI1UHBrTGFB?oc=5",
       "date": "2026-11-02T15:31:09Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Lindsay Clancy's lawyers urge Massachusetts judge to dismiss murder case Reuters."
+    },
+    {
+      "title": "Court extends actor Imran Khan's stay in India after he apologises for protesting, LiveLaw reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0NnbzRSS1kzYS1BeEo5VWpGcnRHZUpHRzBTcG12YXFnRE1JQURtM0ZXa3R3dUdRdDBCNDVIc0FpMzBnZ0NqeFRtUmtHeWtFVV9DQVdOaG9GbDZ3eEIwWlEzY0FuU0lVOUItVjB3V0NuVTRJQnE0NkNZOW42NHhJR0NIcTdrQVZRZVJhNG1xSFg3WVhHUktqckl4RWxIc1BDX0hISHE5ajh2RFQ1UE1CQkRFamdHX2tEUzNOTGpTSmFtTUtRRVEtS1pZS1g?oc=5",
+      "date": "2026-11-02T15:22:07Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Court extends actor Imran Khan's stay in India after he apologises for protesting, LiveLaw reports Reuters."
     },
     {
       "title": "Iran says contacts over ending war continue after talks finish with no breakthrough - Reuters",
@@ -428,28 +468,12 @@
       "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
     },
     {
-      "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
-      "date": "2026-11-02T15:08:59Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Supermarkets across Europe have experienced temperature-control meddlingThe fake nuclear threats to Ukraine came as Russia resumed its attacks on the southern city of Kherson, just hours after the end of a ceasefire during which hundreds of people were evacuated from the nearby Kremlin-controlled town of Oleshky.Kherson’s military administration said a Russian drone hit a hospital at 7.40am. Video footage showed wrecked rooms, with windows blown out, doors broken, and debris on the street. Nobody was hurt, officials said."
-    },
-    {
-      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-      "date": "2026-11-02T15:07:54Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Chains in Sweden, Belgium and Luxembourg say fridge temperatures rose overnight, similar to hack of French storesSupermarket chains in Sweden, Belgium and Luxembourg have said the temperatures of their refrigerators and freezers in dozens of stores rose overnight, prompting fears of a cyber-attack similar to one that caused millions of euros of food losses in France.Sweden’s Coop chain told the daily Aftonbladet on Monday that six of ​its stores ‌had been ​affected, while ICA said it was “aware that a limited ​number of stores were affected by an incident overnight which impacted their refrigeration and freezer systems”. Continue reading..."
-    },
-    {
-      "title": "Cyberattack on fridges hits supermarkets across Europe - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObF9LUXZ2TVpjZm13eW9HNXZ0MkZFVDM5eHl5RXc0aDkzODdvc0VKYVE4YV9MSDZITjVTR01CM3l6ajdCVEFZMXlmdmx3MzBRWHN5QVkyTFU2bkR2Sm5VQm5OWUVfLVJoeHFZaXdrc0F1QTRnT0tHYXRvcVd4S0V2QUxmV3ptOEszT2EyWmFpVjYyUnRwODF1eGhXbGpGcUV2UXRwZFFLOGhPLTY1MWUxal9TY3M0Qm9MOVpSeTFHazNxMUNGSnVfdzVvOE0tUGM?oc=5",
-      "date": "2026-11-02T15:07:15Z",
+      "title": "UK adventurer returns home after 28-year trek around the world - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnVVTkNTbVVjOUJBUVFXWU5CeUM5SnRxNWgwVkptbkJZUE4wMWh2UUo2WXVkaE5odEJ0emFqYndOVHhlZXdaVUxsZnhHbVdOOVAyS2FhNC12ZnlldHpIMlM2MDhzSWdxWTlDRDFtS3F4aDMxcUx1ejE5TURQRG5CeVhSMkhNWUp5Y3h6Q3gzS3M5eTd4Vk9janVYaDZLZ3kwMlJlNnc3YTVjQQ?oc=5",
+      "date": "2026-11-02T15:11:43Z",
       "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Cyberattack on fridges hits supermarkets across Europe Reuters."
+      "summary": "UK adventurer returns home after 28-year trek around the world Reuters."
     },
     {
       "title": "Oracle taps investors for $20 billion to finance AI expansion - Reuters",
@@ -578,30 +602,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Charles left without umbrella in rainstorm fit for a king Reuters."
-    },
-    {
-      "title": "Six things to watch as US voters decide control of Congress - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQmhIdWxtdzRFOUc3OGNONWhFSko0VE1veTIxZURBRXpGQ01BLXphRHdKc1ExUktTUVFpUWxLdWxkQldXTWJ0Z2JabVJ6Y011R050OHFVelhXTXZmZTZLLTdTZ0k4X0pKd2Vsc19zd3BSUmxYMVZsVXBmRzN1NWwyZkE4dmJFSk1kWHg1Y2pKM0FxLXVtVnBjelRvaw?oc=5",
-      "date": "2026-11-02T13:45:37Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Six things to watch as US voters decide control of Congress Reuters."
-    },
-    {
-      "title": "As demographic crisis bites, Italy cuts school staff - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTDJMeTFzSXhMNW83WlJ5bWt5TjNSSzRoeDl4OG54M1RSaEJ2Vmh2d0NKSm56dUlmUGFMOVN1MlVMcl85ZWZTaklUMElWbzEyY2lUWlRyR2QzV3NzYXRMa1B5SXlBV2I3akRvT1VGeTYzeVFOSUIzNFN0LWtPdHAzb0tiYk55SjM4T2NGYWNPV1hKeTRR?oc=5",
-      "date": "2026-11-02T13:38:41Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "As demographic crisis bites, Italy cuts school staff Reuters."
-    },
-    {
-      "title": "US voters in a sour economic mood heading into midterm elections - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGRVbTNjVkVkWHA5anlUV0l1YUhUUjM2Zy1DOGg0T2l2V0Zqajl2TzVpUW5Wc2s1ZkF6eTRNSmNNMWZCUEZqM0ZjUHNKQ0NkZkNGdlY3U2xHcWhBTUdzcXBnd2p2Z0VjUWFiQ3JRYkdvbTR2NUdnZUlnZHU4ZjY0OTIxa0NSbGhXWE1Yc1A5VmZHQVQ3aEJzcHhHNFVqVTNFa3RKazBydW9TbnBEUlo0aEM4THZmQQ?oc=5",
-      "date": "2026-11-02T13:08:09Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "US voters in a sour economic mood heading into midterm elections Reuters."
     },
     {
       "title": "Ryanair faces clash with unions as it mulls pay freezes amid soaring fuel costs",
@@ -966,6 +966,14 @@
       "summary": "Pinyo Pukpinyo, Thailand’s most famous snake catcher, has found the critters slithering in nooks and crannies all over Bangkok. He refuses to kill them."
     },
     {
+      "title": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
+      "date": "2026-11-01T14:48:26Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends AP News."
+    },
+    {
       "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
       "url": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
       "date": "2026-11-01T14:25:30Z",
@@ -996,17 +1004,25 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Virginia and DC sue over Trump's arch, adding to legal challenges as government wants work to begin AP News."
-    },
-    {
-      "title": "US plans to deport Afghans back to their home country through Pakistan, documents show - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWpSODVTb3dmenRTb2tRX25LbTJITWlLM0l4bHFEQjVBMldXUGx1NFNyb2ZibFJaTk5ndnJfbmhEOEVOOXRvd1k3cTVKSDQtak9QVVA0SHpNY1dWUmtKWVV3dGFSbjd6WWd3Mzk3dkVIXy1vbVBRSnNfSncweWxpeVpGVldsYTRaQzRrQklSeEFGVVdPakxXUlNfOUcxODNveG9hRUY2dmVmZw?oc=5",
-      "date": "2026-11-01T00:29:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "US plans to deport Afghans back to their home country through Pakistan, documents show AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Hakerzy obrali nowy cel w Europie. Supermarkety liczą straty",
+      "url": "https://www.benchmark.pl/hakerzy-obrali-nowy-cel-w-europie-supermarkety-licza-straty-7346709893241312a",
+      "date": "2026-11-02T15:53:28Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Supermarkety w kilku krajach Europy poinformowały o cyberataku, który podniósł temperaturę w lodówkach i zamrażarkach. Jak podaje Reuters, problemy zgłosiły sieci i sklepy m.in. w Szwecji, Belgii, Luksemburgu, Irlandii i Estonii, a część produktów trzeba było wycofać ze sprzedaży."
+    },
+    {
+      "title": "A profile of OpenAI VP of Global Creative Partnerships Charles Porch, hired from Meta, who is using his Instagram playbook to rehabilitate AI's cultural image (Charlotte Klein/New York Magazine)",
+      "url": "https://www.techmeme.com/261102/p27#a261102p27",
+      "date": "2026-11-02T15:50:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Charlotte Klein / New York Magazine: A profile of OpenAI VP of Global Creative Partnerships Charles Porch, hired from Meta, who is using his Instagram playbook to rehabilitate AI's cultural image &mdash; Charles Porch is rich, super-connected, and tasked with getting celebrities (and everyone else) to not hate AI so much."
+    },
     {
       "title": "Aktualizacja PlayStation 5 przed premierą GTA 6. Nie pobierzesz, nie zagrasz",
       "url": "https://spidersweb.pl/2026/11/playstation-5-aktualizacja-gta-6-obowiazkowa-bezpieczenstwo.html",
@@ -1200,14 +1216,6 @@
       "summary": "Jeden z internautów otrzymał nietypową wiadomość, gdzie Starlink grozi zakończeniem usługi ze względu na piractwo. Artykuł 24 lata pobierania z torrentów bez problemów. Wystarczył jeden odcinek pochodzi z serwisu INSTALKI."
     },
     {
-      "title": "Elon Musk says the cost of serving Grok Bot was \"unsustainably high relative to revenue\", in response to subscribers complaining about SpaceX's usage limits (Siladitya Ray/Forbes)",
-      "url": "https://www.techmeme.com/261102/p20#a261102p20",
-      "date": "2026-11-02T13:10:02Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Siladitya Ray / Forbes: Elon Musk says the cost of serving Grok Bot was &ldquo;unsustainably high relative to revenue&rdquo;, in response to subscribers complaining about SpaceX's usage limits &mdash; Topline &mdash; Elon Musk acknowledged on Sunday that the cost of running SpaceX's AI agent Grok Bot was &ldquo;unsustainably high&rdquo; &hellip;."
-    },
-    {
       "title": "Windows 11 na 128 MB RAM? Da się. Cena za ten wyczyn jest absurdalnie wysoka",
       "url": "https://antyweb.pl/windows-11-128-mb-ram",
       "date": "2026-11-02T13:00:32Z",
@@ -1318,14 +1326,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Euro Truck Simulator 2 już wkrótce zmieni się nie do poznania. A wszystko za sprawą nadchodzącego dodatku Coaches, który pozwoli graczom zamienić ciężarówki na autokary i rozpocząć zupełnie nową karierę."
-    },
-    {
-      "title": "Spotify pozwoli przerabiać znane piosenki. Za tę przyjemność słono dopłacisz",
-      "url": "https://spidersweb.pl/2026/11/spotify-remiksy-ai.html",
-      "date": "2026-11-02T10:26:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Spotify pozwoli przerabiać znane piosenki. Za tę przyjemność słono dopłacisz."
     },
     {
       "title": "QuickSelect 2.0 w zmywarkach Electrolux. Wybierz czas, zmywarka robi resztę",
@@ -1776,17 +1776,41 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Czy sztuczna inteligencja powinna decydować o ludzkim życiu i wolności? Papież Leon XIV ostrzega przed oddawaniem algorytmom kontroli nad kluczowymi decyzjami — zwłaszcza w wojsku. Apeluje o zakaz autonomicznej broni śmiercionośnej i przypomina, że odpowiedzialność za działania AI zawsze musi spoczywać na człowieku."
-    },
-    {
-      "title": "Aplikacja dla żołnierzy w nowej odsłonie. Jakie funkcje oferuje?",
-      "url": "https://cyberdefence24.pl/technologie/aplikacja-dla-zolnierzy-w-nowej-odslonie-jakie-funkcje-oferuje",
-      "date": "2026-10-30T15:51:54Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Żołnierze Wojska Polskiego mogą korzystać z nowej aplikacji Żołnierz RP 2.0. Umożliwia ona dostęp do dokumentów bez połączenia z siecią czy korzystanie z rozbudowanych kalkulatorów. Rozwijana przez Dowództwo Komponentu Wojsk Obrony Cyberprzestrzeni aplikacja zastąpi starą wersję, która będzie aktywna przez okres przejściowy."
     }
   ],
   "finance": [
+    {
+      "title": "Wybory połówkowe w USA mogą zmienić sytuację firm. W tle akcje na giełdzie",
+      "url": "https://www.money.pl/gielda/wybory-polowkowe-w-usa-moga-zmienic-sytuacje-firm-w-tle-akcje-na-gieldzie-7346717339671008a.html",
+      "date": "2026-11-02T15:56:20Z",
+      "source": "Money.pl",
+      "confirmed_by": 1,
+      "summary": "Wybory połówkowe w Stanach Zjednoczonych mogą wpłynąć na spółki, których działalność zależy od decyzji Waszyngtonu. Jak analizuje CNBC, demokratyczne zwycięstwo w Izbie Reprezentantów lub Senacie zwiększyłoby presję na firmy z sektorów obronnego, medycznego, finansowego i technologicznego, choć prezydent Donald Trump zachowałby prawo weta."
+    },
+    {
+      "title": "Kolejny ambasador rezygnuje. Krzysztof Szczerski kończy misję przy ONZ",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejny-ambasador-rezygnuje-Krzysztof-Szczerski-konczy-misje-przy-ONZ-9222337.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-02T15:37:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Ambasador Krzysztof Szczerski zwrócił się o skrócenie misji dyplomatycznej przy ONZ; szef MSZ Radosław Sikorski przychylił się do prośby, Szczerski zakończy misję w tym miesiącu - poinformował w poniedziałek na X rzecznik MSZ Maciej Wewiór."
+    },
+    {
+      "title": "Rosyjski okręt szpiegowski śledził ćwiczenia NATO. Brytyjczycy poderwali śmigłowce",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjski-okret-szpiegowski-sledzil-cwiczenia-NATO-Brytyjczycy-poderwali-smiglowce-9222317.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-02T15:34:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Rosyjski okręt szpiegowski monitorował ćwiczenia NATO w okolicach wybrzeży Szkocji – poinformowało w poniedziałek brytyjskie ministerstwo obrony (MOD), dodając, że na spotkanie wyleciały mu śmigłowce marynarki wojennej."
+    },
+    {
+      "title": "Bosak uderza w rząd Tuska. Żąda dymisji premiera i ministra",
+      "url": "https://www.bankier.pl/wiadomosc/Bosak-uderza-w-rzad-Tuska-Zada-dymisji-premiera-i-ministra-9222316.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-02T15:34:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Ruch Narodowy potraktuje próby podejmowania decyzji rzekomo w imieniu Trybunału Konstytucyjnego przez osoby, które nie są zaprzysiężonymi sędziami TK, jako zamach na konstytucyjny organ państwa - oświadczył jeden z liderów Konfederacji Krzysztof Bosak."
+    },
     {
       "title": "Volkswagen Bank startuje z kolejną promocją. 4,50% na koncie oszczędnościowym",
       "url": "https://www.bankier.pl/wiadomosc/4-50-na-koncie-oszczednosciowym-bez-limitu-Nowa-promocja-Volkswagen-Banku-9222239.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -1860,14 +1884,6 @@
       "summary": "Aktywa PPK przekroczyły 60 mld zł. Ilu uczestników ma program? StockWatch.pl."
     },
     {
-      "title": "Banki mocno tracą na giełdzie. Zagraniczny kapitał wycofuje się z Polski?",
-      "url": "https://www.bankier.pl/wiadomosc/Banki-mocno-traca-na-gieldzie-Zagraniczny-kapital-wycofuje-sie-z-Polski-9222269.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-02T14:20:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Kursy Pekao i Millennium zniżkują po niemal 4 proc., a Erste i PKO BP tracą po ok. 3 proc. W dół idą pozostałe duże banki giełdowe."
-    },
-    {
       "title": "WSA podtrzymał ponad 18,4 mln zł kary UODO dla ING Banku Śląskiego - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOU9PVTZWMTB3UVlxd01GY21NVlNENGlHZXp1REFpQmt3WXVRSEFubndxVnFrM2lnT194SS01TTJJdjdHT3VQOVJ3UVJCdnQwRUpEOFQ0akRTaWF3U0Z3RHNCeXFsZjBLWnJfX3J6OG5EMzI1ZVdzZ0JLd24ycHNJcnl0Mmx3eENDR2RCUTdtU1N2cDNibXhIdjRTcTJwTGM?oc=5",
       "date": "2026-11-02T14:16:29Z",
@@ -1884,28 +1900,12 @@
       "summary": "Uważajcie na to bardzo popularne mięso. Nawet niewielka porcja doszczętnie niszczy jelita Forsal.pl."
     },
     {
-      "title": "Prof. Dudek: Wojna o Trybunał to ustawka KO i PiS",
-      "url": "https://www.bankier.pl/wiadomosc/Prof-Dudek-Wojna-o-Trybunal-to-ustawka-KO-i-PiS-9222251.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-02T13:46:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Walka o Trybunał Konstytucyjny to rodzaj ustawki dwóch głównych sił politycznych - KO i PiS, które dzięki temu likwidują niezależny TK, wzmacniają korzystną dla siebie polaryzację i osłabiają konkurentów - uważa prof. Antoni Dudek z UKSW. Jego zdaniem kluczowy dzień będzie 11 listopada, bo zebrani na Marszu Niepodległości mogą ruszyć na KPRM, chcąc obalić Donalda Tuska."
-    },
-    {
       "title": "Mikrokosmos Inwestycji Edycja I - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMQmhVc2l1bHkzazM1RVhqbHJ1X0huZWI4Yml3UG04MTVsbWFVOTVvNGQ2aVYtWFU1OFY2V2UxRWZmcy14dGx3WTNMTkJacUpaOVAwdkZoY1BUcXZOSjNGQi02TQ?oc=5",
       "date": "2026-11-02T13:36:56Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Mikrokosmos Inwestycji Edycja I Forbes."
-    },
-    {
-      "title": "Trump może poświęcić szefa Pentagonu. Szuka kozła ofiarnego za fiasko wojny z Iranem",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-moze-poswiecic-szefa-Pentagonu-Szuka-kozla-ofiarnego-za-fiasko-wojny-z-Iranem-9222230.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-02T13:35:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Prezydent USA Donald Trump rozważa, kogo obarczyć winą za nieudany przebieg wojny z Iranem; kozłami ofiarnymi mogą stać się dowódcy wojskowi i szef resortu obrony Pete Hegseth - przekazał w poniedziałek magazyn „The Atlantic”."
     },
     {
       "title": "Jakie dane są potrzebne do otwarcia konta firmowego przez internet? - StockWatch.pl",
@@ -2100,14 +2100,6 @@
       "summary": "Rekordowe dywidendy w 2027 roku. 12 spółek z szansą na wyższe wypłaty – Piotr Kwestarz | Procent Składany Paweł Biedrzycki ndz., 01.11.2026 Kanał Strefa Inwestorów Kanał Strefa Inwestorów Podcast Podcast Procent Składany Spółki Dywidendowe Treść Szykuje się kolejny rekordowy sezon dywidendowy na GPW. Skarb Państwa oczekuje od swoich spółek jak najwyższych wypłat, banki wciąż korzystają z wysokich stóp procentowych, a wiele prywatnych firm po wynikach za I półrocze 2026 roku ma przestrzeń do podniesienia dywidendy."
     },
     {
-      "title": "- Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XTk53STM4OElabEc2Mmt0RXV1V1NHV2JHdnlYQTdwU05uX0c0SnNHR3psU0RxTkJfQXBxb3lMdW9TZzNybGRkQWhlZ0xXLUdTaUQ2cXhyRDBiZ2JST3psSjFSazI?oc=5",
-      "date": "2026-11-01T18:15:24Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Forbes."
-    },
-    {
       "title": "Inflacja zaskoczyła w dół. Stopy raczej bez zmian, ale ryzyka rosną",
       "url": "https://300gospodarka.pl/news/inflacja-zaskoczyla-w-dol-stopy-raczej-bez-zmian-ale-ryzyka-rosna",
       "date": "2026-10-30T22:52:29Z",
@@ -2236,8 +2228,8 @@
       "lng": 53.69,
       "type": "conflict",
       "region": "Iran",
-      "description": "Iran says contacts over ending war continue after talks finish with no breakthrough Reuters.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5"
+      "description": "China's Wang urges Middle East dialogue in meetings with Iranian, Saudi officials Reuters.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVJGdUotaWhuOVFjZ2VTVHZ5bkxnbmVXd3BUS0JEenI2QkpMYXJSVUxpUGJrNHpaMkFtZ244cE93RWhCWExKTmJFdm5FbFZEck14aVdnaW0tdU5DdHY0UUk3TkpqbW5vb1RzMW85Z1VkZHFBSnlRMkRVUTlxRDgyR2Z1N3BBSkRsdzI2Mm9WQmxjaFpiOUpqR3k5WjRZUVVZaUtGWGVscXhlS01PZjBUTWRMNHpIU28?oc=5"
     },
     {
       "lat": 35.5,
@@ -2252,8 +2244,8 @@
       "lng": 19.5,
       "type": "cyber",
       "region": "Polska",
-      "description": "Żołnierze Wojska Polskiego mogą korzystać z nowej aplikacji Żołnierz RP 2.0.",
-      "url": "https://cyberdefence24.pl/technologie/aplikacja-dla-zolnierzy-w-nowej-odslonie-jakie-funkcje-oferuje"
+      "description": "Centra danych w regionach dotkniętych konfliktami stały się celem ataków kinetycznych, pociągając za sobą dotkliwe konsekwencje.",
+      "url": "https://cyberdefence24.pl/technologie/wojna-uderza-w-centra-danych-na-wschodzie-europy-jak-budowac-odpornosc-cyfrowa-polski"
     },
     {
       "lat": 40.3,
@@ -2400,19 +2392,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT2FOdklrUGkxcDZQXzA3ckI2ZDhLb25pR0pNSlBFWGRZSDhqWF9CQ1cxYzF1ZHRZemRaUDlFNkwtcHFLUElZQXdCcmgtVWN2Z2VJQTJvbVBKSmRqLVlCVXowdlFGa1Fmb3E0YjZSbVo0N1lVSHZvRDJWYnpVSWpTVQ?oc=5"
     }
   ],
-  "instability": [
-    {
-      "name": "Ukraina",
-      "score": 100,
-      "reasons": [
-        {
-          "title": "Ukraina ignoruje apele Trumpa. W ogniu jeden z największych rosyjskich kompleksów naftowych",
-          "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33111465,ukraina-ignoruje-apele-trumpa-w-ogniu-jeden-z-najwiekszych.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-          "source": "Gazeta Wyborcza"
-        }
-      ]
-    }
-  ],
+  "instability": [],
   "investment_picks": [
     {
       "sector": "Sektor obronny",
@@ -2562,31 +2542,31 @@
       26291.3,
       26532.48,
       26453.58,
-      29190.26,
+      29193.59,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      29228.01,
+      29231.35,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29484.33,
+      29487.7,
       27354.94,
       27400.36,
       27412.11,
-      29904.85,
+      29908.26,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29130.33,
+      29133.66,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29318.6,
+      29321.94,
       27686.17,
       27404.78,
       27351.97,
@@ -2595,7 +2575,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29013.08,
+      29016.39,
       27930.04,
       28234.04,
       28218.36,
@@ -2604,87 +2584,87 @@
       28294.39,
       28203.83,
       28555.17,
-      29886.43,
+      29889.84,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29422.08,
+      29425.44,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29241.74,
+      29245.08,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29548.44,
+      29551.82,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30605.44,
+      30608.93,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30716.38,
+      30719.88,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30276.92,
+      30280.38,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30424.43,
+      30427.91,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30451.42,
+      30454.9,
       28449.73,
       28313.03,
       28272.33,
-      30208.32,
+      30211.76,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30182.75,
+      30186.2,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30549.3,
+      30552.79,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30467.68,
+      30471.15,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30818.09,
+      30821.6,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30218.02,
+      30221.47,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30076.94,
+      30080.37,
       30100.92,
       30418.01,
       30609.55,
       30450.14,
       29735.63,
-      30174.7
+      30121.88
     ],
     "currency": "PLN"
   }
