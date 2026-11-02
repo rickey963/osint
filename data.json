@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-02T03:26:46Z",
+  "last_updated": "2026-11-02T03:27:29Z",
   "poland": [
+    {
+      "title": "Sądny miesiąc w polskich finansach. NBP i rating w centrum uwagi",
+      "url": "https://www.rp.pl/gospodarka/art45427381-sadny-miesiac-w-polskich-finansach-nbp-i-rating-w-centrum-uwagi",
+      "date": "2026-11-02T03:27:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Po wydarzeniach wokół Trybunału Konstytucyjnego w tym tygodniu w centrum uwagi znajdzie się jeszcze Narodowy Bank Polski i jego prezes Adam Glapiński oraz sprawa przeglądu polskiego ratingu przez agencję S&P. Potem wróci temat Trybunału Stanu dla prezesa NBP."
+    },
     {
       "title": "T(o) K(oniec). Bez resetu Trybunału Konstytucyjnego nie da się naprawić",
       "url": "https://www.rp.pl/sady-i-trybunaly/art45426791-t-o-k-oniec-bez-resetu-trybunalu-konstytucyjnego-nie-da-sie-naprawic",
@@ -104,14 +112,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Poland's financial watchdog imposes additional capital surcharge on Alior Bank PAP Biznes."
-    },
-    {
-      "title": "Niezbędnik przedsiębiorcy: PIT i ryczałt po Senacie * brak NIP na fakturze a odliczenie VAT * jak uniknąć kary za przekroczenie terminu? * tokeny KSeF * zakaz konkurencji dla firmy * mobbing po nowemu",
-      "url": "https://pro.rp.pl/niezbednik-przedsiebiorcy/art45429001-niezbednik-przedsiebiorcy-pit-i-ryczalt-po-senacie-brak-nip-na-fakturze-a-odliczenie-vat-jak-uniknac-kary-za-przekroczenie-terminu-tokeny-ksef-zakaz-konkurencji-dla-firmy-mobbing-po-nowemu",
-      "date": "2026-11-01T21:25:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "• Progi w PIT i w ryczałcie - co poprawił Senat? • Czy brak NIP na fakturze przekreśla odliczenie VAT? • Czy można uniknąć kary od skarbówki, jeśli fiskus nic jeszcze nie zrobił?"
     },
     {
       "title": "Postępowanie dyscyplinarne w sprawie Święczkowskiego. Korwin-Piotrowska zapowiada",
@@ -354,14 +354,6 @@
       "summary": "Pogoda na Wszystkich Świętych. IMGW ostrzega przed groźnym zjawiskiem Polskie Radio 24."
     },
     {
-      "title": "Donald Tusk w orędziu o \"zdradzie\" i \"głupocie\". \"Nie może być kompromisu\" - Polskie Radio 24",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRjNVc2taT0lXUlZqby1xMUwtQWdxOWRNX25XU1FzOHd1dm9CUXBDVmVKaG91QzlsUmJwQnVESUt0THA3a3czTVhmYzlSUDFHbm9ZSk9qdG92N0FUTDBfTDl1M1JOMGh0YWhJT3RpTGJuS0N2VzVKa1pfSUVnWlFRZ0RB?oc=5",
-      "date": "2026-10-31T16:13:46Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Donald Tusk w orędziu o \"zdradzie\" i \"głupocie\". \"Nie może być kompromisu\" Polskie Radio 24."
-    },
-    {
       "title": "Myślą, że Karolina Korwin-Piotrowska przejęła TK. \"Dostaję groźby śmierci\" - Polskie Radio 24",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkdDNHdIS295aXYxZWRhWGtQZ3U2b1RielhZRnV1WnBSS2xaYmVubWxpd3hRSThWZXBtTDR6SXNKMHN2eVNHaW1xS0JadXpiUGE0ek4tQzNYUURzVGh3emNHTF9ycnExS3FqZ0VuQzd5cDMzWDRfWm9GM3BKUTZ3TDVNMkVNRl9ybnhuaDVOellVcDYycVZWN2g2eGtRTklKY3hSdU5R?oc=5",
       "date": "2026-10-31T14:09:49Z",
@@ -400,6 +392,14 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Zarządzenie Korwin-Piotrowskiej ws. TK. \"Kieruję pracami\" Polskie Radio 24."
+    },
+    {
+      "title": "Hołownia wzywa do rozmów ws. TK. \"Wydarzenia z nocy przynoszą Polsce wstyd\" - Polskie Radio 24",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGhJMlJtbldNaV9NZU14dWJPMmI4U2RrOFk3UE1NN0VpejBBU09FTS1Yc3R0OVpCcldzRm5qM3RjODBMSWpsb3paUXlfTTNQOFI3eWZ4Ym91RVZYa3cwUXF3SVdUT0k1bldCR1hQamhfMnBqV0tSQVdrN1Y3OVlJRjIzS25sSkFqVThfSTlYQ0l6WVQ4eDc4M3Q0anZPNzZRTFZJcGp5d0ZmTHE3b1oyZnlieWg?oc=5",
+      "date": "2026-10-31T09:00:34Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Hołownia wzywa do rozmów ws. TK. \"Wydarzenia z nocy przynoszą Polsce wstyd\" Polskie Radio 24."
     }
   ],
   "world_security": [
@@ -580,20 +580,20 @@
       "summary": "US judge dismisses Trump election lawsuit in Alaska Reuters."
     },
     {
-      "title": "Trump says US, Canada have 'concept' of a new trade deal - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkdVQi1MWlZSQ24xUkR6aC12d0llYjlUWlFDcmVuX1ByZk5tZ3JoQ3NTd01CM2piUFV2MGlEMWdCSnRTV1ExRDFUVGhYNjVVU2ZQT3lIS1UxbEVxSzNfZmdlY2duVXkySm8yNGNpbWRCdXpOMEF4ZFk3NXlJME5yZmRJTVVnVXUwa3VmcVBwWkNIejVkVjYtQWlYblJmdmVZbzI0eHR6YlMwTUJpWTZyR3hwZ1g?oc=5",
-      "date": "2026-11-01T21:11:43Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Trump says US, Canada have 'concept' of a new trade deal Reuters."
-    },
-    {
       "title": "EXCLUSIVE: Australian outback data centre pulls timeline after regulator stalls - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRjJGUTd3bUUyeU05ZEZISGpKOXdiUWl4OG5yaVg0dTctV0ZEaTl0R2RsTTN3dmREd2hwSUlPVm1QdEFxUGF4UVR0SVpVdGE1Mkp6R3J6cWg2OGtUNjU5dWNhektxRGR1VFlOU2h4MXB3OEdzTTBvNEg0OFBwOVlJYVVqMXNudTVZMTF5ck8tMWVZYi11d2R2d1NrTlNSNFNRMHljcTFXMGpQZ0VGZVNF?oc=5",
       "date": "2026-11-01T21:04:00Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "EXCLUSIVE: Australian outback data centre pulls timeline after regulator stalls Reuters."
+    },
+    {
+      "title": "UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUt0RmpPekdDMExKQXItLU5tRTg2MG9ZSEpxandUT0g2YVhjRUlSX2loTnBYMU5KX29NcXg3eU5Ja1hTOUpzZl9vWXVTQ3plbTRLQ25RUnY0T3Q0blgwNzhuYkdWN1p6R2xjejNjTWZFVHlFTy16SXl6eEh2d2hTRlpXY0gtdHpnbEY2UGlJbVFzUXBHNDFyaHhRWnhfRGVCcVVRZ0tvZkJqMk9jS1hQQy1iTk95eHhXcUlwUG13?oc=5",
+      "date": "2026-11-01T20:26:38Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says Reuters."
     },
     {
       "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
@@ -1908,6 +1908,14 @@
       "summary": "Mateusz Chrobok zajmuje się cyberbezpieczeństwem i systemami antyfraudowymi, które mają zatrzymywać przestępców. W “Biznes Klasie” opowiada, jak oszuści grają na samotności i strachu, działają według skryptów i wracają do tych, którzy już raz dali się nabrać. Zobacz fragment rozmowy."
     },
     {
+      "title": "- StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPODVLdWZLWjctdkJneDV3ZHdVbEhqR2t3R2lybG1qRWtrN2o0VXZSbWJPVml1Z1hUNW8zdjdwdEk2OHpEYW1JUGdfLWZBUHR6dy1CUUI0ZmRZSmFJbEhwaHZYa19iS3FSRXFFWTJaNzZnblFQbkdwVTYzRkNVNWlHdXRmb1hnVEdXcDZjV1JlZUFhZ1BzdFlVZUROdTBEVzAtWE83NG5aTmRhLVF4ZWtCUkNObW1EZUIyUjVsYksxT2t3VS14S0RGM0JwYWVzcTE2N0JnV1lKUER0TEVyMnM5b1dUdnJHckVVWVk4ME0yYkw3Z1ZFbjViMGVocDQwSmpFbW9GYmN3V2ZWOFNTVmhVSjVfRWk1dWxwNkFz?oc=5",
+      "date": "2026-11-01T12:20:04Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "StockWatch.pl."
+    },
+    {
       "title": "Miliardowy majątek oddał fundacji. \"Można się wypisać z klubu rodzina\"",
       "url": "https://www.money.pl/gospodarka/miliardowy-majatek-oddal-fundacji-mozna-sie-wypisac-z-klubu-rodzina-7344230537024065v.html",
       "date": "2026-11-01T11:41:25Z",
@@ -1980,14 +1988,6 @@
       "summary": "Sukces polskiej nauki wciąż poza zasięgiem. Młodzi badacze wolą Zachód Forbes."
     },
     {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsRndMR1Z2eU1oeDhmLV9HaWNQQTN2LS1FYTRmQWFNeE9kRWdWN1JjajZOMXJsTDlodFlTbzktMHZsdXZkcldVdXpKTFhyT3I1VzFF?oc=5",
-      "date": "2026-11-01T06:26:28Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
       "title": "Ryanair zmienia zasady. Od 10 listopada zmiany dla pasażerów - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMDB3bGJQb19lNVRYNEZ4c21OeEZHUmhGOVBUZDVoWEUwM0hsbGdpMy04ZzZJLWN2dTVlaGwzek1pbXNqWWVmN2s2QWdsTFEtZ3pDQS1SbnZSS19vOVN5NFRpUW83UHhtdzNXRGtoU0lJa3drODFpMVN3WjlJbDFaTnh5RHZxLXBfWmxGbEdfOERLOHZHM2VVVHFIRDhTZl9HdWoyb2JMUU9acFVaa3pBeEpRTlB4Mlhyc0wwSnY0SFZJRW8zS2lRdQ?oc=5",
       "date": "2026-11-01T06:00:00Z",
@@ -2010,6 +2010,14 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Nawet 1000 zł zwrotu na wyprawkę i weterynarza dla psa oraz 700 zł na kota. Jak działają te dopłaty? Forsal.pl."
+    },
+    {
+      "title": "Łódź traci mieszkańców tysiącami. Miasto zeszło poniżej progu 640 tysięcy - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMDdlX1NnTUhhZEhLWDV2dnlQR09tSWZyQ3I5ODNXSVhFclFScUpoOUlScjREaWZCY0dxRzlyY0lBN2ZEalFiSDVqX1BmcS0tXzFvbng4ek5CeHNwMEdJR1pPbDVqYVdXZTFXU0c2MGE5X3FNc2QxTFltY25IZ1A3aVdNbzJCU2tUWXA2MWVBNW9IbXpYTnJqYjg1dTdnTW5nZEQyZlRMUkUtaFcxUTZlMlNvZTlHQzNfY1FOenY2SXctSFVEZ1RfekxPVF9rLXh2bV9F?oc=5",
+      "date": "2026-11-01T02:33:03Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Łódź traci mieszkańców tysiącami. Miasto zeszło poniżej progu 640 tysięcy Forsal.pl."
     },
     {
       "title": "Wiadomości OW20M274700 GPW - ORGANIZATOR OBROTU - BiznesRadar",
@@ -2052,6 +2060,22 @@
       "summary": "Hiszpania od lat przyciąga najwięcej turystów, a sektor turystyczny odpowiada za kilkanaście procent PKB. W 2025 roku cudzoziemcy wykupili prawie 250 mln noclegów – sześć razy więcej niż w Polsce. Część turystów tak docenia ten kawałek świata, że kupują w Hiszpanii własną nieruchomość, co odpowiada za kilkanaście procent popytu w tym kraju."
     },
     {
+      "title": "- StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rcjFYMFFhSGRnR0R1WlV1RjgzbHgxUEpULVRQOGM1X2R5V0Z1ZTBNZXcwWGs5N0dUVklzRkl4MDVFOFY4QVpqTFFmdS1ud0VsTmVtbC1jdkhiNFlpbmhXTTM3NHJFSlJldVRHUG5BUQ?oc=5",
+      "date": "2026-10-30T21:30:59Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "StockWatch.pl."
+    },
+    {
+      "title": "- StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qYjN0aHV3d1Y5TnNfbnA2RUQxQ0ktN2xpUEZUUExIYkhIV1hMT1lUNm0wa3dJZEVNSTBKUzBLXzZReHZXZl9VRFhMLUZvSWNCN21aUEtBNkFuVHp5YjNDSENkZw?oc=5",
+      "date": "2026-10-30T21:20:55Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "StockWatch.pl."
+    },
+    {
       "title": "Notowania GBP/PLN 1:1 - funt/złoty (GBPPLN) - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtMmV4OXhRZjd3RnJPamlXTy13NHZZekZ1TXl4ZlFxSzNyWXZjVGNvc1hEb1Q0Q1NEcm8zbmZnLW5ncUxzdFl5MFVIaE5nNEFUa0o1NVp3?oc=5",
       "date": "2026-10-30T21:00:00Z",
@@ -2066,6 +2090,14 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "31 proc. pracowników w Polsce spędza w pracy co najmniej sześć dodatkowych godzin tygodniowo, za które nie dostaje wynagrodzenia. Co dziewiąty pracuje za darmo ponad 16 godzin tygodniowo, czyli średnio ponad dwie godziny dziennie."
+    },
+    {
+      "title": "- StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVVZzcmhScUx5MWMxSTMybkZhZkxSeDlYMWtDYVdEVl93YmhwNkJhaklUMmduUFdLbXE2OURUTkFVQmxWTmZvTjItWXVwVVVWV0FwWXdQbHk3bFE2WUx2TW4zQ2MxZFpkV1dqWWFZelI0eF9OOWliSHRTekxIX2Q1MlVJMHFTdXVFemNpTFNfWTRCZWt0Y0ZQZUNDNlotbVViVEhybmxLSElGWWN4UXNoRkxRY1k5UnpZd1lkSDRNV1dsOUFjMll0ckRVdUZjVWRjaWs3SUtSLXBtVVNlZHR2NTM1dTdfaFJoRlJKb2E2QzZyTW9EdWhtLVhuQUtQTDBfOWdiSzd6dllQaU01Q2hrTg?oc=5",
+      "date": "2026-10-30T20:36:09Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "StockWatch.pl."
     },
     {
       "title": "Rachunki rosną, ale 30 lat temu bolały jeszcze bardziej. Energetyczny paradoks Polski",
@@ -2084,12 +2116,12 @@
       "summary": "Notowania WIGENERG (WIG-ENERG) BiznesRadar."
     },
     {
-      "title": "Analiza techniczna sWIG80 - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NTU9WNUdwbjZTT00tcWVjS01ZZ1ZzNDFWczFpNGVVS0hpUENKTWw3YlB0SnV6ZmUyUUpzOUZfM1QxLXR1UF9fVURxMlZfb29pQ1FzbWowWDRWSS1rTkdHZmxLZnctd3ZSS3RhcFdFQQ?oc=5",
+      "title": "Notowania WIGBUDOW (WIG-BUDOW) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ndjcwb20wSmNkQ3Z6Tzl1NmFCNGhwYVV1T1pHaGdrM0UxZ3d5OHFHWEV2dXoyV1ctdklDdjY5WUFjUzlmOFpwZzFRRGZUbTA4bEMyZ295a3c?oc=5",
       "date": "2026-10-30T16:15:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna sWIG80 BiznesRadar."
+      "summary": "Notowania WIGBUDOW (WIG-BUDOW) BiznesRadar."
     },
     {
       "title": "Wiadomości CYFROWY POLSAT (CPS) - BiznesRadar",
@@ -2130,38 +2162,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Przecena spółek technologicznych nabiera tempa. Załamanie na akcjach Intel i mocne spadki na Amazon Szymon Machalica pt., 30.10.2026 Kanał Strefa Global Market Amazon Intel Treść Akcje spółek technologicznych spadają, a inwestorzy coraz surowiej oceniają wpływ wielkich wydatków na sztuczną inteligencję na wolne przepływy pieniężne. Amazon wykazuje 42,4 mld USD ujemnych przepływów za 12 miesięcy do końca września, a Intel nie spodziewa się dodatniego wyniku tej miary w 2027 roku."
-    },
-    {
-      "title": "Czerwony piątek na giełdach. Cyfrowy Polsat i KGHM tracą najmocniej - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZF9acFVFdm92WmVjbElxT2p2elV3amx3VF85MjJ3emZ1YWFvRkJXRUtEZDJDanQyOEIxZ193WlEwTC1RVHkxTjQzaFUxZzVyR1Q0UTA2ZWRjUlUtUVhBdW1pcGlVNE96YmxPVDdDcjVYRWxLYk9MRmpmdUc2M2wzeXpBc3ZFdlNEMFk0TjZpcV9iQ21vcUMzZ0Rvbw?oc=5",
-      "date": "2026-10-30T10:49:17Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Czerwony piątek na giełdach. Cyfrowy Polsat i KGHM tracą najmocniej StockWatch.pl."
-    },
-    {
-      "title": "Atak na Binance za 6,3 mld dolarów zaczął się od laptopa - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmc1MjZPLWFSV2FHY2MxYXJRenlEWjJnay12VjJiVUFPWTJydEllRGNWdjc1S3JvMlM3U3FrZkhnemdkMlNQRmVjM0lxb0NiZEd3bjZ4eTBnTWtSNW1mbnB4d1UtMHdLaTNkMUVaeFA5R3NXNS1HbmpmUkJJRURkR3NjYWRrYTl5MnF2Vi1YbWlYRkNlZUpSQm95ZGJrcUZEUVk0ZU5ZVWxzckItYlpicGVEV0c?oc=5",
-      "date": "2026-10-30T10:34:11Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Atak na Binance za 6,3 mld dolarów zaczął się od laptopa StockWatch.pl."
-    },
-    {
-      "title": "Inflacja w październiku niżej od prognoz. Co z CPN i RPP? - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXNrMDZzVGVWbE4xSW1CLVVFb1A3S3RhRDkzLVI3bVp0TUdjNU1sQ00tdi03a2FFWmZ1TTliQUdVT2x0YllKNkZNaFUxY2NGbjFMTzRrRmFFSnpjYnVOWVNheU54dTIzY0c4b0FTRGNReURVb00ySm5DR3Y4S215UUhfaDl2UHFBX0tkOC1iVVFMM25Nak80M01PRFdKMjVuMU1FZ1k3akZvSjZJcXotdkJhdDZNSHZTZ01CdktR?oc=5",
-      "date": "2026-10-30T09:36:30Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Inflacja w październiku niżej od prognoz. Co z CPN i RPP? StockWatch.pl."
-    },
-    {
-      "title": "Stalprofil: przychody grupy w dół o 31 proc. - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdERxTHc2a2dFNEVMUk9lWnQ0NFBMNkM3cExfVnVNMVM5R2RFX3kwN2xWZ1RRdkNHWWl3Um1ZdU9CNXI0LUJVZFlwVDk5R1ZPaTZlOGZ3UUhtVWVIMlZWRk13VFRrX2p6Y0FtNkJPbHRlSnIxaWp5bXJ3cGFuekZEby1FMURXNjJGU2J2UzFDM0p6Z0RvbTFNT0Q4M1dmVHNjQVhiSmdn?oc=5",
-      "date": "2026-10-30T08:51:26Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Stalprofil: przychody grupy w dół o 31 proc. StockWatch.pl."
     }
   ],
   "critical_alerts": [
@@ -2479,37 +2479,37 @@
       "2026-10-30"
     ],
     "prices": [
-      28487.84,
-      28571.27,
+      28486.76,
+      28570.18,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      29238.35,
+      29237.24,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      29276.17,
+      29275.06,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29532.91,
+      29531.79,
       27354.94,
       27400.36,
       27412.11,
-      29954.12,
+      29952.99,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29178.33,
+      29177.22,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29366.9,
+      29365.79,
       27686.17,
       27404.78,
       27351.97,
@@ -2518,7 +2518,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29060.88,
+      29059.78,
       27930.04,
       28234.04,
       28218.36,
@@ -2527,81 +2527,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29935.67,
+      29934.53,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29470.55,
+      29469.43,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29289.92,
+      29288.81,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29597.13,
+      29596.0,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30655.87,
+      30654.7,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30766.99,
+      30765.82,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30326.81,
+      30325.66,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30474.56,
+      30473.4,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30501.59,
+      30500.43,
       28449.73,
       28313.03,
       28272.33,
-      30258.09,
+      30256.94,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30232.48,
+      30231.33,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30599.63,
+      30598.47,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30517.87,
+      30516.72,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30868.86,
+      30867.69,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30267.81,
+      30266.66,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30126.5,
+      30125.35,
       30100.92,
       30418.01,
       30609.55,
