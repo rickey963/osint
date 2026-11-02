@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-02T05:09:15Z",
+  "last_updated": "2026-11-02T05:09:59Z",
   "poland": [
+    {
+      "title": "Drogi gaz nie zatrzymał produkcji. Co planują koncerny?",
+      "url": "https://energia.rp.pl/paliwa/art45429311-drogi-gaz-nie-zatrzymal-produkcji-co-planuja-koncerny",
+      "date": "2026-11-02T05:01:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Drożejący gaz zwiększa presję na polskie firmy, ale nie wszystkie odczuwają ją w takim samym stopniu. Azoty muszą liczyć się z wysokimi kosztami surowca, KGHM i Kęty utrzymują produkcję, a Orlen i Unimot rozwijają alternatywne źródła gazu."
+    },
+    {
+      "title": "Ostrzeżenie o ataku nuklearnym. Fałszywe alerty obiegły Ukrainę",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-02/ostrzezenie-o-ataku-nuklearnym-falszywe-alerty-obiegly-ukraine/",
+      "date": "2026-11-02T05:00:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Dowództwo ukraińskich sił powietrznych poinformowało, że system ostrzegania ludności przed atakiem powietrznym został zhakowany przez wroga i przez pewien czas wysyłał błędne ostrzeżenia. Sytuacja wróciła już do normy. O zmasowanym cyberataku na mobilną aplikację ostrzegającą ludność cywilną o atakach poinformowała również Rosja."
+    },
+    {
+      "title": "Tym Donald Trump może zaskoczyć świat po wyborach w USA. \"Atmosfera będzie napięta\" [WYWIAD]",
+      "url": "https://businessinsider.com.pl/gospodarka/wybory-do-kongresu-usa-tym-donald-trump-moze-zaskoczyc-swiat-po-glosowaniu/vhgs1ng",
+      "date": "2026-11-02T05:00:00Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Do początku stycznia, kiedy zbierze się nowy Kongres, atmosfera w USA będzie bardzo napięta. Do tego czasu funkcjonować będzie jeszcze dotychczasowa większość. Pojawia się więc pytanie, które niektórzy zadają z niepokojem: co Trump może zrobić w tym czasie?"
+    },
     {
       "title": "Julita Karaś-Gasparska: Od jutra wyższy limit zwolnienia z PCC",
       "url": "https://pro.rp.pl/vat/art45427021-julita-karas-gasparska-od-jutra-wyzszy-limit-zwolnienia-z-pcc",
@@ -8,6 +32,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Limit zwolnienia z podatku od czynności cywilnoprawnych wzrośnie od 3 listopada z 1000 zł do 3000 zł. Nie trzeba już będzie płacić PCC od drobnych zakupów np. na portalach ogłoszeniowych."
+    },
+    {
+      "title": "Ranking najlepszych polskich wsi. To najbardziej pożądane miejsca do życia [TOP 30]",
+      "url": "https://businessinsider.com.pl/gospodarka/gdzie-polacy-najchetniej-sie-przeprowadzaja-nowy-ranking-polskich-wsi/hwx3ebx",
+      "date": "2026-11-02T05:00:00Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Nie najbardziej znane kurorty ani najbardziej malownicze miejscowości wygrywają ten ranking. Najskuteczniej nowych mieszkańców przyciągają tereny wiejskie położone wokół dużych miast, a liderem okazał się obszar wiejski bezpośrednio korzystający z bliskości Białegostoku."
     },
     {
       "title": "Rosja i Ukraina celem cyberataków. Łotwa stanęła na czele RB ONZ",
@@ -82,28 +114,36 @@
       "summary": "Nabycie przez podatnika środka trwałego używanego wcześniej np. w leasingu, najmie czy dzierżawie wyklucza uznanie go za „używany przez inny podmiot”. Nabywca nie może więc zastosować dla niego indywidualnej stawki amortyzacji."
     },
     {
-      "title": "Mirosław Czekaj: BGK będzie tam, gdzie są strategiczne inwestycje",
-      "url": "https://www.rp.pl/finanse/art45422261-miroslaw-czekaj-bgk-bedzie-tam-gdzie-sa-strategiczne-inwestycje",
-      "date": "2026-11-02T04:29:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Wkrótce podpisane zostaną pierwsze umowy dotyczące inwestycji z Funduszu Obronności i Bezpieczeństwa - zapowiada Mirosław Czekaj, prezes Banku Gospodarstwa Krajowego. - W ciągu miesiąca zebraliśmy wnioski dotyczące pożyczek na 20,9 mld zł - dodaje."
-    },
-    {
-      "title": "Ucieczka z najmu na doby dopiero przed nami. Ile mieszkań zniknie z Airbnb",
-      "url": "https://www.rp.pl/nieruchomosci/art45420761-ucieczka-z-najmu-na-doby-dopiero-przed-nami-ile-mieszkan-zniknie-z-airbnb",
-      "date": "2026-11-02T04:25:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Oferta najmu mieszkań na doby może się skurczyć od kilkunastu do nawet 50 proc. Ale nie wszędzie i nie od razu. Część lokali po „turystach” trafi na sprzedaż, część do najmu długoterminowego."
-    },
-    {
       "title": "Od zamarzniętej Odry po niemal lato. Tak zaskakiwała pogoda w listopadzie - Polskie Radio 24",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd21NRTR6YlRtVkFBM1B2S1BVNDRVN2t4QVRZTmhMZ3ZnNU9SU2ZObG5Scks5YVUzSWJzeTJQWEZBOVNvSGZMcERuT0tnYWRNaklkV2JFVEpUcVdqZlM3SzVwa0JLUTdrQmdfQ2xFbV9ZT09ZM01JV0FycUJfckg4a21WRUw0WVo2c0hzcDE4WU9RZC1PVmY5eW9Eb3BPa1V3cDZsQ3drc2QwN3c?oc=5",
       "date": "2026-11-01T22:27:35Z",
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Od zamarzniętej Odry po niemal lato. Tak zaskakiwała pogoda w listopadzie Polskie Radio 24."
+    },
+    {
+      "title": "Wyniki Lotto na 1 listopada. Sprawdź szczęśliwe liczby",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-01/wyniki-lotto-na-1-listopada-sprawdz-szczesliwe-liczby/",
+      "date": "2026-11-01T22:23:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "W niedzielę, 1 listopada 2026 roku, odbyły się losowania gier liczbowych prowadzonych przez Totalizator Sportowy. Które liczby okazały się szczęśliwe? Podajemy wyniki losowania: Ekstra Pensja, Ekstra Premia, Kaskada, Lotto, Lotto Plus, Mini Lotto, Multi Multi."
+    },
+    {
+      "title": "Głos z Ukrainy w sprawie TK. \"Tusk praktycznie nie ma kontroli\"",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-01/glos-z-ukrainy-w-sprawie-trybunalu-konstytucyjnego-tusk-praktycznie-nie-ma-kontroli/",
+      "date": "2026-11-01T22:13:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Obecny pat w Polsce nie jest powodem do świętowania. Niestety, Tusk praktycznie nie ma kontroli nad sytuacją na ulicach - ocenił Wadim Denisenko, ukraiński politolog, autor książek. Ekspert przestrzegł Ukraińców przed zakładaniem, że spór wokół TK będzie korzystny dla Kijowa."
+    },
+    {
+      "title": "Katastrofa lotnicza na Florydzie. Samolot runął tuż przy drodze, zginęło dziewięć osób",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-01/katastrofa-lotnicza-na-florydzie-samolot-runal-tuz-przy-drodze-zginelo-dziewiec-osob/",
+      "date": "2026-11-01T22:06:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Samolot osobowy z dziewięcioma osobami na pokładzie runął w niedzielę w zabudowanym terenie w hrabstwie Palm Beach na Florydzie - podała CNN. W nagraniach opublikowanych w mediach społecznościowych widać, jak maszyna spada tuż w zabudowanym terenie tuż przy drodze, następnie dochodzi do potężnej eksplozji. Amerykański minister transportu Sean Duffy poinformował, że wszyscy pasażerowie zginęli."
     },
     {
       "title": "Poland's financial watchdog imposes additional capital surcharge on Alior Bank - PAP Biznes",
@@ -114,12 +154,44 @@
       "summary": "Poland's financial watchdog imposes additional capital surcharge on Alior Bank PAP Biznes."
     },
     {
+      "title": "Postępowanie dyscyplinarne w sprawie Święczkowskiego. Korwin-Piotrowska zapowiada",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-01/blacha-anna-korwin-piotrowska/",
+      "date": "2026-11-01T20:54:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "- Porządek obrad zostanie poszerzony (...) o losowanie składu sądu dyscyplinarnego, który musi z urzędu zająć się zarządzeniem o natychmiastowej przerwie - powiedziała w Polsat News Anna Korwin-Piotrowska. Sędzia opowiedziała także o okolicznościach konfrontacji z prezydentem. - Usłyszałam donośny tubalny głos, że idzie prezydent."
+    },
+    {
+      "title": "Bułgaria wybrała prezydenta. Wyraźny sygnał w stronę Moskwy",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-01/bulgaria-wybrala-prezydenta-wyrazny-sygnal-w-strone-moskwy/",
+      "date": "2026-11-01T20:43:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Iliana Jotowa wygrała drugą turę wyborów prezydenckich w Bułgarii - wynika z sondaży exit poll. Kandydatka opowiadająca się za poprawą stosunków z Rosją pokonała prozachodniego Andreja Giurowa. Jeśli wyniki zostaną potwierdzone, Jotowa zostanie pierwszą kobietą wybraną na urząd prezydenta w demokratycznej historii kraju."
+    },
+    {
       "title": "Nowa decyzja Korwin-Piotrowskiej. Będzie zarządzenie dotyczące Święczkowskiego",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33110749,nowa-decyzja-korwin-piotrowskiej-bedzie-zarzadzenie-dotyczace.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-11-01T20:10:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Kierująca TK sędzia Anna Korwin-Piotrowska przekazała, że wyda zarządzenie, które rozszerzy obrady Zgromadzenia Ogólnego Sędziów TK o punkt dot. losowania składów sędziów potrzebnych do postępowania dyscyplinarnego wobec Bogadana Święczkowskiego i Bartłomieja Sochańskiego. Zrelacjonowała też, jak z jej perspektywy wyglądało wkroczenie prezydenta Karola Nawrockiego Trybunału."
+    },
+    {
+      "title": "Mąż Danuty Holeckiej zakuty w kajdanki na cmentarzu. Policja wyjaśnia",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-01/maz-danuty-holeckiej-w-kajdankach-przed-cmentarzem-policja-wyjasnia/",
+      "date": "2026-11-01T19:43:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 2,
+      "summary": "Mąż Danuty Holeckiej został zakuty w kajdanki podczas policyjnej interwencji w pobliżu cmentarza na warszawskim Służewie. Sprawa wywołała ostrą reakcję Jarosława Kaczyńskiego, który oskarżył funkcjonariuszy o przemoc. Policja przedstawiła jednak inną wersję wydarzeń, wskazując na zachowanie mężczyzny podczas kontroli."
+    },
+    {
+      "title": "Sędzia SN zapowiada aresztowanie Święczkowskiego. \"Nielegalny akt\"",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-01/sedzia-sn-o-areszcie-dla-bogdana-swieczkowskiego-nielegalny-akt/",
+      "date": "2026-11-01T19:16:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Sędzia Sądu Najwyższego Kamil Zaradkiewicz poinformował, że w przyszłym tygodniu prokurator podległy panu Żurkowi zwróci się do sądu o zastosowanie tymczasowego aresztu wobec Prezesa TK. We wtorek w tym celu uzurpatorzy w TK planują podjąć nielegalny akt, który nazwą uchwałą o uchyleniu immunitetu sędziemu TK Bogdanowi Święczkowskiemu - przekazał Zaradkiewicz."
     },
     {
       "title": "Bułgaria będzie miała pierwszą prezydentkę w historii. Znamy wyniki exit poll",
@@ -130,20 +202,20 @@
       "summary": "Iliana Jotowa wygrała II turę wyborów prezydenckich w Bułgarii, które odbyły się w niedzielę - wynika z sondaży exit poll, przytaczanych przez agencję BTA. W kampanii zapowiadała m.in. utrzymanie europejskiego kursu Bułgarii przy jednoczesnym dążeniu do poprawy relacji z Moskwą i zniesienia sankcji na Rosję."
     },
     {
+      "title": "\"Powinni być aresztowani\". Patryk Jaki ostro o zachowaniu sędziów w TK",
+      "url": "https://www.polsatnews.pl/gosc-wydarzen/2026-11-01/powinni-byc-aresztowani-patryk-jaki-ostro-o-zachowaniu-sedziow-w-tk/",
+      "date": "2026-11-01T18:47:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "- Oni tak naprawdę w normalnym, demokratycznym państwie powinni być aresztowani - powiedział o konfrontacji sędziów i prezydenta w Trybunale Konstytucyjnym wiceprezes Prawa i Sprawiedliwości Patryk Jaki. W niedzielnym Gościu Wydarzeń eurodeputowany stwierdził, że w TK nie ma prezes Korwin-Piotrowskiej. Zgoła inne stanowisko przedstawił drugi z gości - Bartosz Arłukowicz, europoseł KO."
+    },
+    {
       "title": "Wybory w Bułgarii. Są wyniki exit poll - Polska Agencja Prasowa SA",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yWkxFaEZyODhWNVZYaGRHbTh3Y1J3c1BvMTExOW9Ua0RRSC1HQTRPbVkxeXppSU0wVTJFR1NsWnd4VnRvbE9SdzlkZFg5Sy1HZmFhN0RXLVdScUtJMDlIY29KZHJUS3hXOVhIVEVxMTJsc0hPd1Ew?oc=5",
       "date": "2026-11-01T18:46:00Z",
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Wybory w Bułgarii. Są wyniki exit poll Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "Mąż Danuty Holeckiej zatrzymany przed cmentarzem. Został zakuty w kajdanki, trzeba było wzywać karetkę",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33110631,maz-danuty-holeckiej-zatrzymany-przed-cmentarzem-zostal-zakuty.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-11-01T17:48:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Przed cmentarzem na Służewcu w Warszawie policja zatrzymała męża Danuty Holeckiej. Zdaniem TV Republika doszło do \"brutalnej interwencji\". Policja podkreśla, że mężczyzna nie wykonywał poleceń funkcjonariuszy."
     },
     {
       "title": "\"Szokujące akty przemocy\" podczas protestu we Frankfurcie. Splądrowane sklepy i starcia z policją",
@@ -182,7 +254,7 @@
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33110556,zurek-to-kwestia-tygodni-kiedy-w-tk-bedziemy-mieli-pierwsze.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-11-01T15:24:00Z",
       "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Współpracownicy prezydenta zupełnie bezkarnie zachowywali się w budynku TK. Myślę, że prokuratura musi wyciągnąć z tego tytułu konsekwencje - powiedział szef MS Waldemar Żurek. Dodał, że w najbliższym czasie Trybunał powinien jak najszybciej zająć się swoim budżetem."
     },
     {
@@ -208,14 +280,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "W miejscu, gdzie znajdowała się jeszcze niedawno siedziba jednej z najstarszych polskich fabryk mebli, koparki już przygotowują plac pod nowy projekt. \"Po legendarnych Bydgoskich Meblach została już tylko kupa gruzu\" — pisze \"Express Bydgoski\"."
-    },
-    {
-      "title": "KO odmówiła prezydentowi, czy nie dostała zaproszenia? Przydacz domagał się \"uciszenia prymitywa\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33110312,ko-odmowila-prezydentowi-czy-nie-dostala-zaproszenia-przydacz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-11-01T13:16:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Szef Biura Polityki Międzynarodowej w Kancelarii Prezydenta, Marcin Przydacz, zasugerował, że Koalicja Obywatelska nie jest otwarta na dialog dotyczący rozwiązania kryzysu konstytucyjnego. Przydacz ocenił, że z partią Donalda Tuska \"nie ma sensu rozmawiać\"."
     },
     {
       "title": "Groby Ojców Niepodległości. Gdzie można je znaleźć? - Polskie Radio 24",
@@ -250,44 +314,12 @@
       "summary": "Foxconn, czyli największy na świecie producent elektroniki, chce zerwać z dawnym wizerunkiem. Tajwański gigant chce budować fabryki AI i podbić rynek motoryzacji. W obu ma pomóc mu Polska."
     },
     {
-      "title": "Bogdan Święczkowski w niedzielę pod Trybunałem Konstytucyjnym. \"Nikt mnie nie zwolnił\"",
-      "url": "https://businessinsider.com.pl/wiadomosci/bogdan-swieczkowski-pod-trybunalem-konstytucyjnym-w-niedziele-nikt-mnie-nie-zwolnil/zhnnh9y",
-      "date": "2026-11-01T11:12:12Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Bogdan Święczkowski pojawił się w niedzielę rano pod Trybunałem Konstytucyjnym. Domagał się wpuszczenia do budynku. — Jestem prezesem Trybunału Konstytucyjnego."
-    },
-    {
-      "title": "Rodzice dokładają się do kredytu dziecka. Co z podatkiem? Jest interpretacja",
-      "url": "https://businessinsider.com.pl/prawo/podatki/kredyt-hipoteczny-z-rodzicami-a-podatek-nowa-interpretacja/4cnjs10",
-      "date": "2026-11-01T10:38:43Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Ceny nieruchomości, zwłaszcza w dużych miastach, są bardzo wysokie. Wielu młodych nie stać na mieszkanie, dlatego niektórzy decydują się skorzystać z pomocy rodziców. Mogą oni wyłożyć pieniądze na wkład własny, a także dokładać się do miesięcznej raty kredytu."
-    },
-    {
-      "title": "Gigant kryptowalut wznawia wypłaty. Łupem hakerów padło ponad 6 mld dol.",
-      "url": "https://businessinsider.com.pl/technologie/nowe-technologie/binance-wznawia-wyplaty-po-gigantycznym-cyberataku-zapowiada-opoznienia/d90t8fd",
-      "date": "2026-11-01T10:21:37Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Binance, największa na świecie giełda kryptowalut, poinformowała w niedzielę o wznowieniu wypłat dla klientów — podaje Reuters. To pierwszy ruch firmy po największym w historii branży kryptowalut ataku hakerskim."
-    },
-    {
-      "title": "\"Najlepszą maszyną oblężniczą jest osioł obciążony workami ze złotem\". Prof. Marek Węcowski o lekcjach z antyku dla współczesnego kapitalizmu",
-      "url": "https://businessinsider.com.pl/biznes/prof-marek-wecowski-czego-starozytna-grecja-uczy-nas-o-kapitalizmie-pieniadzach-i/zs5lqs1",
-      "date": "2026-11-01T09:47:15Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Współczesny świat przyjął za pewnik swoją stuprocentową komunikacyjność, wierząc w nieuchronność postępu. Prof. dr hab."
-    },
-    {
-      "title": "Warszawa/ Na Starych Powązkach trwa 52. kwesta na rzecz ratowania zabytków - PAP - serwis wideo",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRjZxZ3U0cEo4RnFac1hKTDRzaWdvcVpHM3AyUDQ0dGlfUHBhOFl6Wi1aVGlkTjFoSUhVRDhaeHp3VEZ2WjNLV05RNnZ1Y2RNNVU2RGJRZ2I2RDdsbnItNEpocDhLVGNTNHNtaUx5OW5RNlVYVVI1U0ZndVY1aU5IX1pTaktPcEJ6RGFJSHpvUzNybEVDdVlhemk3YjZtdXZXRTk1bVZoN2dRZG9ONTU5aDltQQ?oc=5",
-      "date": "2026-11-01T07:45:00Z",
+      "title": "Łukasz Simlat o nowej, mrocznej roli: Janek Holoubek pytał, czy naprawdę chcę w to wejść [WIDEO] - Polska Agencja Prasowa SA",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbnpGUVBUcWxXTEJDVEwzbnFsY0hMOUxMS1V0cG5EYmQ1ZXQ1aWFkYVZCaExobDZvc0lCUU83YzMtdmVuMDIyejVrV0Fua0hTXzg1RlhXcHQ2VnYycDNiclZUZmNldURXYUhKLUlMdHp6ZDVrZlhJTEhKMUsxUHhFZ0xWNE1HQW5mVGlVZ0pXWjhEbDNKX2hWTVVsOFNTQ0l6d290NDFYMi1UVjRhb3lYVzZnMA?oc=5",
+      "date": "2026-11-01T09:33:00Z",
       "source": "PAP",
       "confirmed_by": 1,
-      "summary": "Warszawa/ Na Starych Powązkach trwa 52. kwesta na rzecz ratowania zabytków PAP - serwis wideo."
+      "summary": "Łukasz Simlat o nowej, mrocznej roli: Janek Holoubek pytał, czy naprawdę chcę w to wejść [WIDEO] Polska Agencja Prasowa SA."
     },
     {
       "title": "Tak będzie pracować TK. Sędzia Korwin-Piotrowska podjęła nowe decyzje - Polskie Radio 24",
@@ -296,14 +328,6 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Tak będzie pracować TK. Sędzia Korwin-Piotrowska podjęła nowe decyzje Polskie Radio 24."
-    },
-    {
-      "title": "Łukasz Simlat o nowej, mrocznej roli: Janek Holoubek pytał, czy naprawdę chcę w to wejść (pion) - PAP - serwis wideo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTjFucm4wYzJ5cU8yRjUwZjhCTy1fdWdPLXo5Y1lMLUQxOUcwN1YzM3hUOXpvaUlldWlLS2pyenVDYm1LT1o3TFA2d0xXc1l0VF9sbTkyb2VTWEJ5XzA1ZlRjX05hU2NLcUliSFpmV0ZBMHpvYm8wclpEODk3OVpuLVdRbGlmSFlLTUJaZmVPblg5T1FsU1luUVhvNFVlN1RwVEkzMmRvUUpveUVQQy0zeTVDNEUyOWxlVlJkelRPM3N1bkg5QktVT3AxRQ?oc=5",
-      "date": "2026-11-01T00:33:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Łukasz Simlat o nowej, mrocznej roli: Janek Holoubek pytał, czy naprawdę chcę w to wejść (pion) PAP - serwis wideo."
     },
     {
       "title": "Szef KAS: Od 1 listopada przesyłki o niewielkiej wartości spoza UE będą objęte opłatą w wysokości 2 euro (pion) - PAP - serwis wideo",
@@ -320,6 +344,22 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Burza po orędziu Tuska. \"Prawo dżungli\" i \"zamach stanu\" Polskie Radio 24."
+    },
+    {
+      "title": "Tilda Swinton odwiedzi Warszawę w listopadzie - Polska Agencja Prasowa SA",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTVyb0xKM1YzcGdocllvblBMb1pTMmJtWEp0N05Fa2RhY3Z3ZzlHRVRWZ3VzbUlFZkNPQ3kyZFNCMnlFVEtzX1lwV3lvOWJRNXVEWmdjM1BLU1hESWlBUG5MajhMTW5LNVc0VGQ3eXl3NENnUExvdzg4X2l0ZDZJZEY2N0U?oc=5",
+      "date": "2026-10-31T19:45:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Tilda Swinton odwiedzi Warszawę w listopadzie Polska Agencja Prasowa SA."
+    },
+    {
+      "title": "Debiut w F1 w wieku 32 lat. Japończyk Hirakawa pojedzie w GP Meksyku - Polska Agencja Prasowa SA",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVVZSEZOMkZoVXMwNHQtSGlWazE2T0V6SERaRVVHTllDQ1lzUnprY08yR3lqbUJ1SUlESVdGaGIzWlJJTG1jdG5XMi1LT1BORWVfNTZvaGFpUm95RnUtWUpYNmFsbHdJOUZDXy1ZRDdyMTN1VUR3RXZ2R2lzVi1tWlhINUNvZ3JzRjB6V2x1ajZVaF9rV3ZLNDdjUEpsQ1E?oc=5",
+      "date": "2026-10-31T18:37:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Debiut w F1 w wieku 32 lat. Japończyk Hirakawa pojedzie w GP Meksyku Polska Agencja Prasowa SA."
     },
     {
       "title": "Ukraińcy szykują Rosjanom halloweenowy koszmar. \"Nie mogą spać\" - Polskie Radio 24",
@@ -346,60 +386,20 @@
       "summary": "Donald Tusk w orędziu o \"zdradzie\" i \"głupocie\". \"Nie może być kompromisu\" Polskie Radio 24."
     },
     {
+      "title": "COAL ENERGY SA (32/2026) Consolidated Report on Payments to Governments in FY2026 - PAP Biznes",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWVCQjVjaFhLRXd3aHRveWxfWFhhekFJNFJVeGdxVEs5cXNNSlUtQVBsckZYNWF6UlhwTEJGN2RHSURmaGlVMjBnZ1h3TDJQWWViY0NQeWhNcUFvM2I0UHZ4QmdRdlRYSDJaZlFFVGlMem8tOEdvak9yQ1BOREtLZDVwRTRkSVcwN3cyUG5SZFlCSlotajItaXpXd29HNjN5WGZ5R2l2dGFvOEVC?oc=5",
+      "date": "2026-10-31T14:30:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "COAL ENERGY SA (32/2026) Consolidated Report on Payments to Governments in FY2026 PAP Biznes."
+    },
+    {
       "title": "Myślą, że Karolina Korwin-Piotrowska przejęła TK. \"Dostaję groźby śmierci\" - Polskie Radio 24",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkdDNHdIS295aXYxZWRhWGtQZ3U2b1RielhZRnV1WnBSS2xaYmVubWxpd3hRSThWZXBtTDR6SXNKMHN2eVNHaW1xS0JadXpiUGE0ek4tQzNYUURzVGh3emNHTF9ycnExS3FqZ0VuQzd5cDMzWDRfWm9GM3BKUTZ3TDVNMkVNRl9ybnhuaDVOellVcDYycVZWN2g2eGtRTklKY3hSdU5R?oc=5",
       "date": "2026-10-31T14:09:49Z",
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Myślą, że Karolina Korwin-Piotrowska przejęła TK. \"Dostaję groźby śmierci\" Polskie Radio 24."
-    },
-    {
-      "title": "Koniec sezonu w Ogrodzie Botanicznym w Warszawie - PAP - serwis wideo",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVUhRVENQTm51MFBLbUw3QXl3SjZPcmQ2RmJqUmZyUnhjTUpxQjFSdTBBdGxXLWxtS2xpLTVkSV92dnd2eEtnX2duU1FFY21IbzlKUHl2SGVhMVpyTDRLQVg2N0t3REJwVldEcDVMRWdwQlUxNERsV2VaeUZMUzhVYkVITXRrUUF4SEZ5eEsyWW5fNVE?oc=5",
-      "date": "2026-10-31T13:10:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Koniec sezonu w Ogrodzie Botanicznym w Warszawie PAP - serwis wideo."
-    },
-    {
-      "title": "Zagraniczne media o sytuacji wokół TK: chaos i eskalacja konfliktu między premierem a prezydentem - Polska Agencja Prasowa SA",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV1VNNFJ4X3lxOVlHX0NBRXdFeU9MSDZyRjR1RUFicXp0c01BVEd6WnJzU2tyTkhaQ19JdkxuTzRqUk5fOUxTeXRHcDdZaWtIc0ZNVjVGMW5iOFN3X1JiSW1JejVSVHNPQTdVMEJncUVOZnFmeTNOU0ROeXhtTUJ5NS01R29IbFRqN0pEaDg5TG1rWlREMVpweVNvdVJnazcydm92QjZfRF90VVcwcy0zR29rQQ?oc=5",
-      "date": "2026-10-31T11:03:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Zagraniczne media o sytuacji wokół TK: chaos i eskalacja konfliktu między premierem a prezydentem Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "Ukraina/ Ewakuacja mieszkańców z okupowanych Ołeszek (pion) - PAP - serwis wideo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRlpHZXNuUm1fSlZaejZJSko4SGF4SzNRek1aSGdNTXBON0NrTVJFUDB5b2hONVd5V1JVNTR6NDV5U20wYXBSMVZyZTRHRzFUU2M1RF81TmdOV1lVOHlIQ01Jb2xTY19TMmRYejFhRFJQdmU1MmYwckJac0U1elZxZG9lRHRtdk9rT1RuNWNDbUZkSFQxelpSdG5GZ1QtUQ?oc=5",
-      "date": "2026-10-31T11:03:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Ukraina/ Ewakuacja mieszkańców z okupowanych Ołeszek (pion) PAP - serwis wideo."
-    },
-    {
-      "title": "Modlitwa w intencji Polski. Jest apel z Jasnej Góry - Polska Agencja Prasowa SA",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaWR4SGhoYVRqRVE4VVlwQXR1YjA1ZjdHLXVxS28zRDU1MGViWFVZeXpja2l5MGMyMzcwQ3YwUXh1YkVONzNiM3Q5a0NzMTVMbnZONXZiVkNwd1ZlbGVJMy1fMDE2dnZQX2x0bXV1V00wOVNXczFRQngxZDBFR2JLV3dWYTdkZDB5aTllakdxcXN4T2NMWE16RlNhblNJYjg?oc=5",
-      "date": "2026-10-31T10:46:23Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Modlitwa w intencji Polski. Jest apel z Jasnej Góry Polska Agencja Prasowa SA."
-    },
-    {
-      "title": "Zarządzenie Korwin-Piotrowskiej ws. TK. \"Kieruję pracami\" - Polskie Radio 24",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX1pJZ0dNZ29iV1FFYS0yNExSUEk3UU9KQjU1RDZwT0hfTGVydlh0LU84OGZXQU40RENBNHVmVzM1OE1oeDBYOV9mZDEwdlFuTkFmUFRweGU5WVByZ1N6VW1La0p2RVdZSGZCTkNMME50SmhBQ3lWeVNqcXNmenVvLWN1ZjMwaDVEbFl2a040Si1MUQ?oc=5",
-      "date": "2026-10-31T10:16:35Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Zarządzenie Korwin-Piotrowskiej ws. TK. \"Kieruję pracami\" Polskie Radio 24."
-    },
-    {
-      "title": "Hołownia wzywa do rozmów ws. TK. \"Wydarzenia z nocy przynoszą Polsce wstyd\" - Polskie Radio 24",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGhJMlJtbldNaV9NZU14dWJPMmI4U2RrOFk3UE1NN0VpejBBU09FTS1Yc3R0OVpCcldzRm5qM3RjODBMSWpsb3paUXlfTTNQOFI3eWZ4Ym91RVZYa3cwUXF3SVdUT0k1bldCR1hQamhfMnBqV0tSQVdrN1Y3OVlJRjIzS25sSkFqVThfSTlYQ0l6WVQ4eDc4M3Q0anZPNzZRTFZJcGp5d0ZmTHE3b1oyZnlieWg?oc=5",
-      "date": "2026-10-31T09:00:34Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Hołownia wzywa do rozmów ws. TK. \"Wydarzenia z nocy przynoszą Polsce wstyd\" Polskie Radio 24."
     }
   ],
   "world_security": [
@@ -418,6 +418,14 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "‘I’m just happy to catch fish,’ Matthew Maurice says after landing 80cm barramundi as part of Northern Territory competitionGet our breaking news email, free app or daily news podcastA Darwin man is $1m richer after angling an 80cm, red-tagged barramundi during a night-time fishing trip with his brother.Matthew Maurice, a 26-year-old from the Northern Territory, had finished football training and decided to take a boat out on Thursday evening with his sibling, who was visiting from overseas. Continue reading..."
+    },
+    {
+      "title": "North Korea says US-South Korea nuclear drill shows need for stronger nuclear deterrent - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWxMc2tZWEhyS1Q1TXlxdFg1OTlIcEU0aVp5c0xGWEI0RE0wbzVfTVhOdHhXQXFseElRYlZIalE0bEpGeUNRRHVVWmY4MmhoYjNDakEyeEtkd1ZPSU9EYnZUSTZBOWNzU25MNkJQaWRYXzVVR1pESzJBX0IzQ255MnpBOXhpaXpyUGhVTHBHdHVHc3hQM0syRmlHam8wVmc5V1lHNnUwWkdGbW5kbjU2a2J4QXFQOGVzUFRFUnNLMVZDVS00cVpB?oc=5",
+      "date": "2026-11-02T02:49:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "North Korea says US-South Korea nuclear drill shows need for stronger nuclear deterrent Reuters."
     },
     {
       "title": "Indian shares rise on Iran war talks, Reliance earnings beat - Reuters",
@@ -596,14 +604,6 @@
       "summary": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barbuda – and even warned that Andy Burnham would not attend the meeting if the subject was formally included, according to a leading Caribbean political figure.Ralph Gonsalves, a former prime minister of St Vincent and the Grenadines and a senior figure in the reparatory justice movement Repair Campaign, welcomed Britain’s decision to enter structured dialogue on reparations, but said the UK had come “kicking and screaming” to the conversation. Continue reading..."
     },
     {
-      "title": "Nine people dead in Learjet crash in south Florida, officials say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXAwdVdXLUJnR3JHYmUzeFlIQjFKeVB4RmR3QWVoS1F5bVFJaXpaN0JFS05hTFV2THZCUlgtY1JMS2lmWHMxdWNxMWRQRldTZThyZUdJSmJrMVhpRWQ2dTcwSFQ2by1SbXBma1JqckV3U3FtTE9ZZ0ZFN0ZzUHItXy14WTlGY3hwVEU5T0k4TEVZbXZCQ2ZaeExtWGpJV2xYRUFHZFE4cldUMVB0VDlWYU1vLXU0T0xnZzZMb1lB?oc=5",
-      "date": "2026-11-01T21:57:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Nine people dead in Learjet crash in south Florida, officials say Reuters."
-    },
-    {
       "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
       "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-01T21:55:01Z",
@@ -766,6 +766,22 @@
   ],
   "world_politics": [
     {
+      "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
+      "url": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
+      "date": "2026-11-02T05:01:07Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada."
+    },
+    {
+      "title": "China’s Message to Its Rivals: You Need What We Make",
+      "url": "https://www.nytimes.com/2026/11/02/world/asia/chinas-message-to-its-rivals-you-need-what-we-make.html",
+      "date": "2026-11-02T05:00:08Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology."
+    },
+    {
       "title": "Mass shootings over Halloween weekend leave at least 6 dead and dozens injured across US - AP News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3RKZGYwcUhNeFYteE1MaHpGTHlUTUpneGg5Q2lqdU9JMmNWeldVb1pRZ28zU0tLUFJHamJlUmRya1RrUnFic3N2bG5MbEc4aHdxd3k5dGVJQmozVmItY3k4S0ZBbGZQSEFaOUxWZjY1eTBkRU1ZX3pyVTQzaldFeUxCOURQRVkyOFd5QmRyVWw?oc=5",
       "date": "2026-11-02T00:42:00Z",
@@ -796,6 +812,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends AP News."
+    },
+    {
+      "title": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR05RVFZ2RUpiS05vS2Jhb21FQlRBclZnRU82dHplMWZvYzh6Q3M0Z2x4T1UzY0t6VHpnQnY4YVVMTjZPbUZvZjZYX2JBeDVoOXZDNURVaTRNQWVEaWs4Zm0yRVVmZEVaUVAxMWhZUTZwUzBnYVpIOGp4QkJSNnZENDdoeUk0SUUybmR2MXNJbFA4bHc4V3p0Q1lNVllwOFZuMHdzOHJiclZWeFBqQUhSN0RnMlc?oc=5",
+      "date": "2026-11-01T23:01:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims AP News."
     },
     {
       "title": "Initial results suggest Yotova wins runoff to become Bulgaria’s first elected female president - AP News",
@@ -918,14 +942,6 @@
       "summary": "The rise of Korean terms in Japanese is a striking reversal from colonial times and a sign of the global appeal of South Korean culture."
     },
     {
-      "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2dXRjY0R0EzUzFSNXBrYmRsZGJFdXEzTEtvZHFJYmFwUEVoNndYRzVGWkRyTVlOcHN6LUZFYThjRFFkVDVjZTFYdlRfekxWTE13VTZYRnF4RXlvdmJtQkMzOFViVElDWVdqdW5tXzlCZ0tCSjBZR2dReVlCbVVWZ3NxMGFaNUJydXpoYUFRZVZqRjV2QkJhZE5YeExkZ1AzYUdaUnJ3bmtJRVRmRFE?oc=5",
-      "date": "2026-11-01T02:56:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter AP News."
-    },
-    {
       "title": "Virginia and DC sue over Trump's arch, adding to legal challenges as government wants work to begin - AP News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWdIdnZjbU5ESzhYMXdsdHlpbWVNbC1GRFdmSGN1UUwxbUluTk5SQzF4VktaaV9JQ1dGN1VyY0IwWmg1QUtXNVFFSy1mRkkwWTFtODdoWWNoeHZWUU9ZLUNKT29EUFpIN3NsYjRWdFcybFlZeU9ZS0ZpeTh0U1ZFR2o4OElGVjN6LUtCQjVYbWhYUlNMX1oydVpPNkVNSi1qNFNjNlNiczJvM3BNNFZCeEpkUEVJQQ?oc=5",
       "date": "2026-11-01T02:10:00Z",
@@ -982,31 +998,55 @@
       "summary": "G20 foreign ministers end Atlanta meeting without consensus on key issues AP News."
     },
     {
-      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
-      "url": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-      "date": "2026-10-31T20:04:18Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy."
-    },
-    {
-      "title": "Here is the latest.",
-      "url": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween",
-      "date": "2026-10-31T19:46:20Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Thousands, potentially in masks and costumes, are expected on the streets on Saturday, prompting the authorities to prepare another vast security response."
-    },
-    {
-      "title": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases, AP analysis finds - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnA4dnBfVkNUZ1dxQWFVbGtlSWpSMDVfWnBXUHI2Qk5wWE9jUWlUZFpySkhzZVVuQ0pfOURlM0Q3RFlNbHNvaFh2Snk2TndhNnhQckdpQW92VjMwUXpZTVVyMUVuSEpzNkhzdEZPXzV2aVpHWVJ0WThGSHp6cE9ISm5HMngxNlgtckcwUFdqY2hRUHc?oc=5",
-      "date": "2026-10-31T19:18:00Z",
+      "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2dXRjY0R0EzUzFSNXBrYmRsZGJFdXEzTEtvZHFJYmFwUEVoNndYRzVGWkRyTVlOcHN6LUZFYThjRFFkVDVjZTFYdlRfekxWTE13VTZYRnF4RXlvdmJtQkMzOFViVElDWVdqdW5tXzlCZ0tCSjBZR2dReVlCbVVWZ3NxMGFaNUJydXpoYUFRZVZqRjV2QkJhZE5YeExkZ1AzYUdaUnJ3bmtJRVRmRFE?oc=5",
+      "date": "2026-10-31T20:03:59Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases, AP analysis finds AP News."
+      "summary": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Pierwsza sonda w historii dotarła do planetoid Jowisza. Żadna nie była tam wcześniej",
+      "url": "https://spidersweb.pl/2026/11/nasa-lucy-planetoidy-trojanskie.html",
+      "date": "2026-11-02T05:08:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Pierwsza sonda w historii dotarła do planetoid Jowisza. Żadna nie była tam wcześniej."
+    },
+    {
+      "title": "Polskie F-16 dostaną nową amunicję. \"18 tys. sztuk\"",
+      "url": "https://spidersweb.pl/2026/11/f16-amunicja-m55a2-agencja-uzbrojenia.html",
+      "date": "2026-11-02T05:06:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Polskie F-16 dostaną nową amunicję. \"18 tys. sztuk\"."
+    },
+    {
+      "title": "Apple wprowadza mądrzejszą Siri do Chin. A u nas jak w lesie",
+      "url": "https://spidersweb.pl/2026/11/apple-intelligence-chiny-qwen-alibaba.html",
+      "date": "2026-11-02T05:04:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Apple wprowadza mądrzejszą Siri do Chin. A u nas jak w lesie."
+    },
+    {
+      "title": "Reddit ma dość podbierania treści. Ucierpimy na tym",
+      "url": "https://spidersweb.pl/2026/11/reddit-obowiazkowe-logowanie-ai.html",
+      "date": "2026-11-02T05:02:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Reddit ma dość podbierania treści. Ucierpimy na tym."
+    },
+    {
+      "title": "Rakieta zamiast samolotu transportowego. Armia USA przetestowała dostawy z kosmosu",
+      "url": "https://spidersweb.pl/2026/11/armia-usa-spacex-starfall-transport-kosmiczny.html",
+      "date": "2026-11-02T05:00:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Rakieta zamiast samolotu transportowego. Armia USA przetestowała dostawy z kosmosu."
+    },
     {
       "title": "Uchwyt magnetyczny może namieszać w aparacie iPhone’a. Apple wyjaśnia na co trzeba uważać",
       "url": "https://antyweb.pl/uchwyt-magnetyczny-aparat-iphone-magnes",
@@ -1069,7 +1109,7 @@
       "date": "2026-11-02T01:59:38Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/ Comments URL: https://news.ycombinator.com/item?id=50332163 Points: 47 # Comments: 3."
+      "summary": "Article URL: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/ Comments URL: https://news.ycombinator.com/item?id=50332163 Points: 51 # Comments: 3."
     },
     {
       "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
@@ -1077,7 +1117,7 @@
       "date": "2026-11-02T01:47:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 49 # Comments: 19."
+      "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 49 # Comments: 22."
     },
     {
       "title": "Letter: the White House argues it doesn't have to share the full draft of its voluntary AI testing framework, citing national security and commercial exemptions (Leo Schwartz/The Information)",
@@ -1093,7 +1133,7 @@
       "date": "2026-11-02T01:09:16Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://trigger.dev/blog/security-incident-nov-2026 Comments URL: https://news.ycombinator.com/item?id=50331784 Points: 36 # Comments: 7."
+      "summary": "Article URL: https://trigger.dev/blog/security-incident-nov-2026 Comments URL: https://news.ycombinator.com/item?id=50331784 Points: 38 # Comments: 8."
     },
     {
       "title": "OccupySaaS",
@@ -1101,7 +1141,7 @@
       "date": "2026-11-02T00:17:27Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://occupysaas.com/ Comments URL: https://news.ycombinator.com/item?id=50331402 Points: 139 # Comments: 92."
+      "summary": "Article URL: https://occupysaas.com/ Comments URL: https://news.ycombinator.com/item?id=50331402 Points: 144 # Comments: 100."
     },
     {
       "title": "The Megadonors Who Have Poured $1.2B into the Midterms",
@@ -1109,7 +1149,7 @@
       "date": "2026-11-01T23:46:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html Comments URL: https://news.ycombinator.com/item?id=50331158 Points: 26 # Comments: 8."
+      "summary": "Article URL: https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html Comments URL: https://news.ycombinator.com/item?id=50331158 Points: 30 # Comments: 14."
     },
     {
       "title": "Myślałeś, że Twój pendrive jest bezpieczny? Czytnik linii papilarnych okazał się zwykłą atrapą",
@@ -1157,7 +1197,7 @@
       "date": "2026-11-01T18:28:42Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/ Comments URL: https://news.ycombinator.com/item?id=50328251 Points: 253 # Comments: 275."
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/ Comments URL: https://news.ycombinator.com/item?id=50328251 Points: 254 # Comments: 277."
     },
     {
       "title": "NASA zbiera chętnych na misję Dragonfly. Trafią na Tytana",
@@ -1310,46 +1350,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Nowy iPad mini 8 ma ekran OLED, mocniejszy procesor i obudowę cieńszą niż poprzednik. Apple zmniejszyło jednak również baterię, co potwierdzają opublikowane w sieci oficjalne dane. Ubytek pojemności jest niewielki, ale przy tak dużej modernizacji można było liczyć na zmianę w przeciwną stronę."
-    },
-    {
-      "title": "Castlevania wraca do korzeni. W Belmont’s Curse można przepaść na wiele godzin",
-      "url": "https://antyweb.pl/castlevania-wraca-do-korzeni-w-belmonts-curse-mozna-przepasc-na-wiele-godzin",
-      "date": "2026-11-01T11:00:56Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Castlevania: Belmont's Curse podejmuje próbę odświeżenia kultowej serii bez rezygnowania z jej mrocznego charakteru. Dynamiczna walka, efektowna oprawa i rozbudowana eksploracja potrafią zachwycić, ale problemy techniczne potrafią odebrać nieco frajdy."
-    },
-    {
-      "title": "Cytują badania, których nie ma. Skala problemu poraża",
-      "url": "https://spidersweb.pl/2026/11/falszywe-publikacje-naukowe-500-tys-prac.html",
-      "date": "2026-11-01T08:45:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Cytują badania, których nie ma. Skala problemu poraża."
-    },
-    {
-      "title": "Polski robot odkrył cztery nowe reakcje. Chemicy oddali mu stery w laboratorium",
-      "url": "https://spidersweb.pl/2026/11/icho-pan-robot-ai-autonomiczne-laboratorium.html",
-      "date": "2026-11-01T08:30:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Polski robot odkrył cztery nowe reakcje. Chemicy oddali mu stery w laboratorium."
-    },
-    {
-      "title": "Sprawdziłem, czym handlują na jarmarkach świątecznych. Stacjonarne Temu",
-      "url": "https://spidersweb.pl/2026/11/jarmark-brak-ai.html",
-      "date": "2026-11-01T08:15:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Sprawdziłem, czym handlują na jarmarkach świątecznych. Stacjonarne Temu."
-    },
-    {
-      "title": "Ponad 15 tys. procesorów odtwarzało narodziny kosmosu. Oto efekty",
-      "url": "https://spidersweb.pl/2026/11/symulacja-kosmosu-15-tys-procesorow-gpu.html",
-      "date": "2026-11-01T08:00:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Ponad 15 tys. procesorów odtwarzało narodziny kosmosu. Oto efekty."
     },
     {
       "title": "Seabirds racing home over the ocean can get jet-lagged",
@@ -1764,6 +1764,70 @@
   ],
   "finance": [
     {
+      "title": "Złoto po przecenie, półprzewodniki, „krótko” na WIG20... Oto typy na listopad",
+      "url": "https://www.bankier.pl/wiadomosc/Zloto-po-przecenie-polprzewodniki-krotko-na-WIG20-Oto-typy-na-listopad-9221893.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-02T05:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Komitet Bankiera łapie „spadające noże” na rynku złota i srebra, Marcin Materna i Michał Krajczewski stawiają na półprzewodniki, a Piotr Kuczyński otwiera krótką pozycję na WIG20. Inni uczestnicy Portfela Gwiazd pozostają przy wcześniejszych wyborach: od polskich spółek, przez amerykańskie akcje value, po kryptowaluty. Listopadowe zestawienie pokazuje wyraźne różnice w ocenie perspektyw rynku."
+    },
+    {
+      "title": "Mieszkanie pod klucz, zamiast stanu deweloperskiego. Tak deweloperzy walczą o klienta - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUDdsRTlqU2ZvNDVIQmFGb2wyWFgtTTQ4LXZnVlR5enNQZ0VmeXVFV0ljMVNla3dGMzdZS2Y3c1JtWE1tbUZCc3dBdlRFNzRBXzJ1WmFiY1FJd2o1RmtjQ0RELXJMS1Q3QWtWakM5ejc5bnEteGRVaWNVamRuNTJpbDItZEZZMl8xb2ZsX2RTaGdGcTFDN1Q0ZHJHel9JRVl5OXBKSW9pWDI0eTJBdmFXUlA3MHU3S0ZoUlV0Y2loaDFxdDhLUDV6RlVlWVN5U0FR?oc=5",
+      "date": "2026-11-02T05:00:00Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Mieszkanie pod klucz, zamiast stanu deweloperskiego. Tak deweloperzy walczą o klienta Forsal.pl."
+    },
+    {
+      "title": "Hossa dwóch prędkości. Blue chipy kontra maluchy i giełdowy plankton",
+      "url": "https://www.bankier.pl/wiadomosc/Hossa-dwoch-predkosci-Blue-chipy-kontra-maluchy-i-gieldowy-plankton-9220377.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-02T05:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Podczas gdy WIG, WIG20 i mWIG40 ustanawiają nowe rekordy wszech czasów i śrubują tegoroczne stopy zwrotu, reszta polskiego rynku pogrążona jest w marazmie."
+    },
+    {
+      "title": "Najtańsze konta osobiste. Nawet 10 zł za jeden przelew ekspresowy",
+      "url": "https://www.bankier.pl/wiadomosc/Ranking-kont-osobistych-listopad-2026-r-Szybkie-przelewy-pod-nasza-lupa-9221073.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-02T05:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "W najnowszym, listopadowym rankingu bierzemy pod lupę cenniki poszczególnych kont osobistych i sprawdzamy, ile banki każą sobie płacić nie tylko za prowadzenie konta, ale i natychmiastowe zlecenia – zarówno te klasyczne, jak i mobilne."
+    },
+    {
+      "title": "\"Zajadę się, ale spłacę w 10 lat\". Czy warto tak skracać hipotekę?",
+      "url": "https://www.bankier.pl/wiadomosc/Zajade-sie-ale-splace-w-10-lat-Czy-warto-tak-skracac-hipoteke-9220920.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-02T05:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Rozsądek mówi, że kredytu hipotecznego warto pozbyć się jak najszybciej. Ale czy to oznacza, że już w momencie podpisywania umowy trzeba ciąć terminy za wszelką cenę? Ekspert Expander Advisor podpowiada, co należy mieć na uwadze."
+    },
+    {
+      "title": "Oszczędności Polaków omijają giełdę. Problemem nie jest tylko awersja do ryzyka",
+      "url": "https://www.bankier.pl/wiadomosc/Oszczednosci-Polakow-omijaja-gielde-Problemem-nie-jest-tylko-awersja-do-ryzyka-9219434.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-02T05:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Mimo trwającej od niemal czterech lat hossy na warszawskim parkiecie, polska giełda zmaga się z głębokim niedosytem nowych debiutów, a niski poziom oszczędności i wysoka awersja do ryzyka skłaniają Polaków do wyboru lokat bankowych. W debacie „Kapitał dla gospodarki. Jak giełda i rynek finansowy mogą napędzać rozwój, bezpieczeństwo i inwestycje”, która odbyła się podczas Forum Finansów Bankier.pl Marek Dietl, Jarosław Grzywiński i Mateusz Walewski szukali odpowiedzi na pytanie, jak przełamać ten regres."
+    },
+    {
+      "title": "Czy system kaucyjny obejmie opakowania po kosmetykach i mleku? MKiŚ odpowiada",
+      "url": "https://www.bankier.pl/wiadomosc/Czy-system-kaucyjny-obejmie-opakowania-po-mleku-kosmetykach-i-chemii-gospodarczej-Ministerstwo-odpowiada-9220437.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-02T05:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Kwestia rozszerzenia systemu kaucyjnego o kolejne opakowania budzi wiele kontrowersji. Po zapowiedzi Ministerstwa Klimatu i Środowiska wiemy, że znajdą się w nim jednorazowe butelki szklane, m.in. po małpkach."
+    },
+    {
+      "title": "Wrocław 2035: AI, tania energia i globalny biznes. Miasto musi wymyślić się na nowo",
+      "url": "https://www.bankier.pl/wiadomosc/Wroclaw-2035-AI-tania-energia-i-globalny-biznes-Miasto-musi-wymyslic-sie-na-nowo-9220182.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-02T05:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Wrocław ma za sobą trzy dekady silnego wzrostu, ale silniki, które go napędzały, właśnie się zacierają. Jeśli stolica Dolnego Śląska chce utrzymać pozycję w Europie, musi wymyślić się na nowo, wykorzystując globalne zmiany. Inaczej grozi jej los miast spóźnionych na poprzednie rewolucje przemysłowe, o czym dyskutowano podczas debaty otwierającej Forum Finansów Bankier.pl \"Wrocław 2035: miasto globalnych firm\"."
+    },
+    {
       "title": "Rekordowe dywidendy w 2027 roku. 12 spółek z szansą na wyższe wypłaty – Piotr Kwestarz | Procent Składany",
       "url": "https://strefainwestorow.pl/podcast/procent-skladany/dywidendy-2027",
       "date": "2026-11-01T21:00:41Z",
@@ -1772,36 +1836,12 @@
       "summary": "Rekordowe dywidendy w 2027 roku. 12 spółek z szansą na wyższe wypłaty – Piotr Kwestarz | Procent Składany Paweł Biedrzycki ndz., 01.11.2026 Kanał Strefa Inwestorów Kanał Strefa Inwestorów Podcast Podcast Procent Składany Spółki Dywidendowe Treść Szykuje się kolejny rekordowy sezon dywidendowy na GPW. Skarb Państwa oczekuje od swoich spółek jak najwyższych wypłat, banki wciąż korzystają z wysokich stóp procentowych, a wiele prywatnych firm po wynikach za I półrocze 2026 roku ma przestrzeń do podniesienia dywidendy."
     },
     {
-      "title": "Były agent Mosadu towarzyszył Bolsonaro w potajemnym wyjeździe z kraju",
-      "url": "https://www.bankier.pl/wiadomosc/Byly-agent-Mosadu-towarzyszyl-Bolsonaro-w-potajemnym-wyjezdzie-z-kraju-9221801.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-01T20:00:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Były agent izraelskiej służby wywiadowczej Mosad, posiadający obywatelstwo USA, towarzyszył senatorowi Flaviowi Bolsonaro w potajemnym wyjeździe z Brazylii po przegranych przez niego wyborach prezydenckich – podała stacja CNN Brasil, powołując się na źródła śledcze w Brazylii."
-    },
-    {
-      "title": "Tajemniczy obiekt nad terytorium NATO. Pilny apel wojska, by nie wychodzić z domów",
-      "url": "https://www.bankier.pl/wiadomosc/Tajemniczy-obiekt-nad-terytorium-NATO-Pilny-apel-wojska-by-nie-wychodzic-z-domow-9221889.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-01T19:59:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Armia Łotwy poinformowała w niedzielę o krótkotrwałym naruszeniu przestrzeni powietrznej kraju przez niezidentyfikowany obiekt w pobliżu granicy z Rosją."
-    },
-    {
       "title": "Możliwy Pat wyborczy i jego wpływ na giełdę. - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOXRTa0Q1aVd1OVpCT04zdlZneEtjbEVLN1Atam1xWnlSZ1RkY0NZR25ORVBWU1pNaHFBTE43VW1CMWYtci1Tc0FPZjh2ZEhxWXJ5TUZTOTRsQWhiNllyZmRMN3RfUi1jZ3QtdllKc0VnZ2NtcWxHcGFsRVVteTJGbmNfR0l6TVJoNER0WlRneDJpRWxyUTZkblNfeGY?oc=5",
       "date": "2026-11-01T19:22:58Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Możliwy Pat wyborczy i jego wpływ na giełdę. StockWatch.pl."
-    },
-    {
-      "title": "Kontratak nowych władz Trybunału. Korwin-Piotrowska wprost nazywa prezydenta \"uzurpatorem\"",
-      "url": "https://www.bankier.pl/wiadomosc/Kontratak-nowych-wladz-Trybunalu-Korwin-Piotrowska-wprost-nazywa-prezydenta-uzurpatorem-9221884.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-01T19:08:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Kierująca TK sędzia Anna Korwin-Piotrowska przekazała, że w poniedziałek wyda zarządzenie, które rozszerzy obrady wtorkowego Zgromadzenia Ogólnego Sędziów TK o punkt dot. losowania składów sędziów potrzebnych do postępowania dyscyplinarnego wobec Bogadana Święczkowskiego i Bartłomieja Sochańskiego."
     },
     {
       "title": "4 zł zamiast złotówki od butelki? Rząd uderza w małe alkohole - Forsal.pl",
@@ -1820,44 +1860,12 @@
       "summary": "Forbes."
     },
     {
-      "title": "USA w kontrze do nauki? Wielka szansa dla Europy na przejęcie lukratywnego rynku",
-      "url": "https://www.bankier.pl/wiadomosc/USA-w-kontrze-do-nauki-Wielka-szansa-dla-Europy-na-przejecie-lukratywnego-rynku-9221873.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-01T17:47:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Europa ma szansę umocnić swoją pozycję światowego lidera w badaniach naukowych i rozwoju szczepionek, w szczególności wykorzystujących technologię mRNA. Sprzyjać temu mogą ograniczenia finansowania badań w Stanach Zjednoczonych oraz rosnący sceptycyzm administracji Donalda Trumpa wobec szczepień - ocenił w niedzielę portal Politico."
-    },
-    {
       "title": "AI może zmienić polski biznes szybciej niż internet. \"Możliwości są ogromne\" - Forbes",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXBCVkw0eW9OQ0tvcXAtc3k3elE5Y0VaLWlXNUdHZFVGVWJaNDZfcDVNNVI3eXFaanltN3RRZElLbmQ0a21IQ1lrRTBaeXZmajUxREVqOFdCZ2xJalZVbjlHSko0QUgtWVNxWk9rdkRtdlFRWnJUVFF2T3hUZ1FmOXhkVWJiN01PVFNWRzEyT2QzYjRPMDlZNVc1U1hRZFc0blUzUGREVVZ6azlWTm5BbDBNQnRzQzJPc2ZLVzF3b2NJZk5DN3c?oc=5",
       "date": "2026-11-01T17:30:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "AI może zmienić polski biznes szybciej niż internet. \"Możliwości są ogromne\" Forbes."
-    },
-    {
-      "title": "Mniej bankructw w Polsce? Ekspert ostrzega: To cisza przed burz",
-      "url": "https://www.bankier.pl/wiadomosc/Mniej-bankructw-w-Polsce-Ekspert-ostrzega-To-cisza-przed-burz-9221581.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-01T17:00:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Liczba niewypłacalności przedsiębiorstw na świecie zwiększy się o kolejne 1 proc. w 2027 r., po wzrostach o 5 proc. w 2026 r."
-    },
-    {
-      "title": "Brytyjczycy mają dość brexitu. Sensacyjne wyniki sondażu: Chcą z powrotem do Unii",
-      "url": "https://www.bankier.pl/wiadomosc/Brytyjczycy-maja-dosc-brexitu-Sensacyjne-wyniki-sondazu-Chca-z-powrotem-do-Unii-9221718.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-01T17:00:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "56 proc. Brytyjczyków zagłosowałoby dziś za odwróceniem brexitu, a 30 proc. chciałoby pozostać poza UE – to wyniki sondażu opublikowanego w sobotę przez dziennik „Independent”."
-    },
-    {
-      "title": "Jeden ruch Chin może wywołać zapaść w polskim rolnictwie. O tym problemie nikt głośno nie mówi",
-      "url": "https://www.bankier.pl/wiadomosc/Jeden-ruch-Chin-moze-wywolac-zapasc-w-polskim-rolnictwie-O-tym-problemie-nikt-glosno-nie-mowi-9221295.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-01T16:50:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Ostatnie lata ujawniły wiele wrażliwości polskiego systemu żywnościowego, wśród nich jest uzależnienie od dostaw z Chin kluczowych elementów potrzebnych do produkcji roślinnej i zwierzęcej - ocenia Jakub Olipra, starszy ekonomista Credit Agricole. Jego zdaniem, obecnie największym problemem dla branży jest wzrost cen nawozów i środków ochrony roślin."
     },
     {
       "title": "21% Rocznie 441 EXTRA | Podcast | Jak inwestować - XTB, Kruk, Millennium, Żabka, Eurocash, Budimex, Cyfrowy Polsat, Kęty",
@@ -1980,14 +1988,6 @@
       "summary": "Sukces polskiej nauki wciąż poza zasięgiem. Młodzi badacze wolą Zachód Forbes."
     },
     {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsRndMR1Z2eU1oeDhmLV9HaWNQQTN2LS1FYTRmQWFNeE9kRWdWN1JjajZOMXJsTDlodFlTbzktMHZsdXZkcldVdXpKTFhyT3I1VzFF?oc=5",
-      "date": "2026-11-01T06:26:28Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
       "title": "Ryanair zmienia zasady. Od 10 listopada zmiany dla pasażerów - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMDB3bGJQb19lNVRYNEZ4c21OeEZHUmhGOVBUZDVoWEUwM0hsbGdpMy04ZzZJLWN2dTVlaGwzek1pbXNqWWVmN2s2QWdsTFEtZ3pDQS1SbnZSS19vOVN5NFRpUW83UHhtdzNXRGtoU0lJa3drODFpMVN3WjlJbDFaTnh5RHZxLXBfWmxGbEdfOERLOHZHM2VVVHFIRDhTZl9HdWoyb2JMUU9acFVaa3pBeEpRTlB4Mlhyc0wwSnY0SFZJRW8zS2lRdQ?oc=5",
       "date": "2026-11-01T06:00:00Z",
@@ -2076,12 +2076,12 @@
       "summary": "Notowania WIGGORNIC (WIG-GORNIC) BiznesRadar."
     },
     {
-      "title": "Analiza techniczna sWIG80 - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NTU9WNUdwbjZTT00tcWVjS01ZZ1ZzNDFWczFpNGVVS0hpUENKTWw3YlB0SnV6ZmUyUUpzOUZfM1QxLXR1UF9fVURxMlZfb29pQ1FzbWowWDRWSS1rTkdHZmxLZnctd3ZSS3RhcFdFQQ?oc=5",
+      "title": "Notowania WIGBUDOW (WIG-BUDOW) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ndjcwb20wSmNkQ3Z6Tzl1NmFCNGhwYVV1T1pHaGdrM0UxZ3d5OHFHWEV2dXoyV1ctdklDdjY5WUFjUzlmOFpwZzFRRGZUbTA4bEMyZ295a3c?oc=5",
       "date": "2026-10-30T16:15:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna sWIG80 BiznesRadar."
+      "summary": "Notowania WIGBUDOW (WIG-BUDOW) BiznesRadar."
     },
     {
       "title": "Wiadomości CYFROWY POLSAT (CPS) - BiznesRadar",
@@ -2180,8 +2180,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Przedstawiamy przegląd najważniejszych wydarzeń mijającej nocy: Z Rosji i Ukrainy napływają informacje o cyberatakach, których celem były systemy ostrzegania ludności przed atakami z powietrza; Łotwa po raz pierwszy w historii stanęła na czele RB ONZ; sondaże wskazują, że Partia Demokratyczna prowadzi we wszystkich siedmiu stanach, które zdecydują o większości w Senacie; kongresmenka Partii Demokratycznej Haley Stevens poparła republikańskiego kandydata na senatora w Michigan.",
-      "url": "https://www.rp.pl/przeglad-wydarzen-z-nocy/art45429551-rosja-i-ukraina-celem-cyberatakow-lotwa-stanela-na-czele-rb-onz"
+      "description": "Dowództwo ukraińskich sił powietrznych poinformowało, że system ostrzegania ludności przed atakiem powietrznym został zhakowany przez wroga i przez pewien czas wysyłał błędne ostrzeżenia.",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-02/ostrzezenie-o-ataku-nuklearnym-falszywe-alerty-obiegly-ukraine/"
     },
     {
       "lat": 31.5,
@@ -2342,6 +2342,11 @@
       "score": 100,
       "reasons": [
         {
+          "title": "Ostrzeżenie o ataku nuklearnym. Fałszywe alerty obiegły Ukrainę",
+          "url": "https://www.polsatnews.pl/wiadomosc/2026-11-02/ostrzezenie-o-ataku-nuklearnym-falszywe-alerty-obiegly-ukraine/",
+          "source": "Polsat News"
+        },
+        {
           "title": "Rosja i Ukraina celem cyberataków. Łotwa stanęła na czele RB ONZ",
           "url": "https://www.rp.pl/przeglad-wydarzen-z-nocy/art45429551-rosja-i-ukraina-celem-cyberatakow-lotwa-stanela-na-czele-rb-onz",
           "source": "Rzeczpospolita"
@@ -2495,37 +2500,37 @@
       "2026-10-30"
     ],
     "prices": [
-      28467.3,
-      28550.66,
+      28454.68,
+      28538.01,
       26215.34,
       26291.3,
       26532.48,
       26453.58,
-      29217.26,
+      29204.32,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      29255.05,
+      29242.09,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29511.61,
+      29498.53,
       27354.94,
       27400.36,
       27412.11,
-      29932.52,
+      29919.25,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29157.28,
+      29144.36,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29345.72,
+      29332.72,
       27686.17,
       27404.78,
       27351.97,
@@ -2534,7 +2539,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29039.92,
+      29027.05,
       27930.04,
       28234.04,
       28218.36,
@@ -2543,81 +2548,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29914.08,
+      29900.82,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29449.3,
+      29436.25,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29268.8,
+      29255.83,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29575.78,
+      29562.67,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30633.76,
+      30620.18,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30744.8,
+      30731.17,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30304.94,
+      30291.51,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30452.58,
+      30439.09,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30479.59,
+      30466.09,
       28449.73,
       28313.03,
       28272.33,
-      30236.26,
+      30222.87,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30210.68,
+      30197.29,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30577.56,
+      30564.01,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30495.86,
+      30482.35,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30846.6,
+      30832.93,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30245.98,
+      30232.57,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30104.77,
+      30091.43,
       30100.92,
       30418.01,
       30609.55,
