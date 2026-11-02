@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T16:41:15Z",
+  "last_updated": "2026-11-02T16:42:05Z",
   "poland": [
     {
       "title": "Drogo dla klienta, mało dla producenta. Elektryczny paradoks Volkswagena",
@@ -48,6 +48,14 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Zasoby surowców strategicznych w Chinach – w tym złota, niklu i renu – znacząco wzrosły w wyniku ogólnokrajowej weryfikacji złóż – podaje agencja prasowa Xinhua."
+    },
+    {
+      "title": "Kompaktowe agregaty prądotwórcze. Mobilne źródło prądu w sam raz na zimę",
+      "url": "https://businessinsider.com.pl/technologie/kompaktowe-agregaty-pradotworcze-mobilne-zrodlo-pradu-w-sam-raz-na-zime/z59q55r",
+      "date": "2026-11-02T16:11:32Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Zimą awaria prądu potrafi szybko dać się we znaki. Nie działa ogrzewanie, pojawiają się problemy z przygotowaniem posiłków, a ładowanie telefonu czy korzystanie z podstawowych urządzeń staje się utrudnione. W takiej sytuacji przydaje się własne źródło zasilania."
     },
     {
       "title": "Ostatnia prosta w walce o Kongres. Rekordowe wydatki na reklamę",
@@ -219,7 +227,7 @@
     },
     {
       "title": "Małe sklepy nie wytrzymują konkurencji. 9,5 tys. firm zamknęło działalność",
-      "url": "https://businessinsider.com.pl/gospodarka/wielkie-sieci-przejmuja-rynek-male-znikaja-z-rynku/mf5nrl6",
+      "url": "https://businessinsider.com.pl/gospodarka/wielkie-sieci-przejmuja-rynek-95-tys-firm-zamknelo-dzialalnosc/mf5nrl6",
       "date": "2026-11-02T14:40:53Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
@@ -240,14 +248,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Komenda Główna Policji zdementowała część doniesień dotyczących interwencji w Trybunale Konstytucyjnym. Policja m.in. zaprzeczyła, że w operacji biorą udział niemieccy funkcjonariusze."
-    },
-    {
-      "title": "Ukraiński wywiad ujawnia nową wersję rosyjskiej broni. To dron, który znaleziono w Polsce",
-      "url": "https://businessinsider.com.pl/technologie/jest-nowa-wersja-rosyjskiego-drona-znalezionego-w-polsce-ukrainski-wywiad-ujawnia/vd9nds0",
-      "date": "2026-11-02T13:56:07Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Rosyjski dron z głowicą bojową, który został znaleziony w połowie września na polskim wybrzeżu Bałtyku, ma teraz nową wersję. Nowa Gerbera 2 ma duży zasięg i jest zdolna do przenoszenia głowicy o masie do 25 kg — informuje ukraiński wywiad wojskowy."
     },
     {
       "title": "Sikorski o \"ewidentnym sojuszu\" propagandystów Kremla i prawicy. \"Bezprecedensowa skala\"",
@@ -286,7 +286,7 @@
       "url": "https://www.polsatnews.pl/wiadomosc/2026-11-02/maksymalne-ceny-paliw-na-wtorek-jest-nowe-rozporzadzenie/",
       "date": "2026-11-02T13:14:00Z",
       "source": "Polsat News",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "We wtorek spadną maksymalne ceny paliw - benzyna 95 będzie kosztować do 6,45 zł/l, 98 do 7,31 zł/l, a diesel do 8,14 zł/l. Ceny obowiązują w ramach rządowego programu CPN, finansowanego z podatku od nadzwyczajnych zysków koncernów paliwowych."
     },
     {
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "date": "2026-11-02T16:39:20Z",
+      "source": "The Guardian",
+      "confirmed_by": 2,
+      "summary": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French storesSupermarket chains in at least seven European countries have said the temperatures of refrigerators and freezers in some of their shops soared overnight to as high as 50C (122F), echoing a cyber-attack last month that caused millions of euros of damage in France.Retailers in Belgium, Estonia, Ireland, Finland, Luxembourg, the Netherlands and Sweden reported problems with their refrigeration systems on Monday, and several companies confirmed they had been hacked. Continue reading..."
+    },
+    {
       "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
       "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
       "date": "2026-11-02T16:17:14Z",
@@ -426,14 +434,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Europe's short-sighted policy on gas storage to boost costs, says TotalEnergies chief Reuters."
-    },
-    {
-      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-      "date": "2026-11-02T15:45:05Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Chains in at least seven countries say fridge temperatures rose overnight in incident similar to hack of French storesEurope live – latest updatesSupermarket chains in at least seven European countries have said the temperatures of refrigerators and freezers in dozens of their stores soared overnight, prompting fears of a cyber-attack similar to one that caused millions of euros of losses in France.Retailers in Belgium, Estonia, Ireland, Finland, Luxembourg, the Netherlands and Sweden reported problems with their refrigeration systems on Monday, and several companies confirmed they had been victims of a cyberattack. Continue reading..."
     },
     {
       "title": "New cyberattack on supermarket fridges sweeps across Europe - Reuters",
@@ -498,14 +498,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Iran says contacts over ending war continue after talks finish with no breakthrough Reuters."
-    },
-    {
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T15:12:22Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
     },
     {
       "title": "UK adventurer returns home after 28-year trek around the world - Reuters",
@@ -730,6 +722,14 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Yousef Jabareen says he is ready to join forces with opposition bloc to oust Benjamin Netanyahu after winning record number of seats in KnessetThe leader of Israel’s main Palestinian coalition, which holds the balance of power after Tuesday’s elections, has said the country is facing a historic opportunity to change direction.Yousef Jabareen, the head of the Joint List, said he was ready to join forces with the “Change” bloc to oust Benjamin Netanyahu and his far-right coalition, and to wrest control of the Knesset. Continue reading..."
+    },
+    {
+      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T03:58:38Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last."
     },
     {
       "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
@@ -1426,6 +1426,14 @@
       "summary": "Don't let the LLMjackers hit you."
     },
     {
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "date": "2026-11-02T15:50:26Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to criminals. They used the boxes for ad fraud and to pass other people's internet traffic through owners' home."
+    },
+    {
       "title": "SUSE to cut one in ten employees because of... AI",
       "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
       "date": "2026-11-02T15:30:00Z",
@@ -1852,14 +1860,6 @@
       "summary": "Volkswagen Bank coraz bardziej aktywnie walczy o oszczędności klientów. W poprzednim miesiącu w jego ofercie pojawiły się promocyjne lokaty terminowe. Tym razem przyszła pora na objęcie specjalnymi warunkami oprocentowania na koncie oszczędnościowym."
     },
     {
-      "title": "Polityczna wojna może sparaliżować NBP. Inwestorzy mają powody do obaw",
-      "url": "https://www.bankier.pl/wiadomosc/Polityczna-wojna-moze-sparalizowac-NBP-Inwestorzy-maja-powody-do-obaw-9222321.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-02T15:25:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Narastający konflikt między premierem Donaldem Tuskiem, prezydentem Karolem Nawrockim i prezesem Narodowego Banku Polskiego Adamem Glapińskim może zagrozić sprawnemu funkcjonowaniu banku centralnego – ocenia Bloomberg. Zdaniem agencji polityczny impas wokół NBP budzi coraz większe obawy o niezależność instytucji i jej zdolność do reagowania na kryzysy gospodarcze."
-    },
-    {
       "title": "Sygnity miało wstępnie ok. 75,9 mln zł zysku netto w I–III kw. 2026 r. - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTNIWHJ2TFhiYjFIMG82cUw0S21Ob3pfUHhlTUZjRVRnWGJNMHdrOXFQVUFkdDQtMWM1QkZ4M3c0eko0YjJWVlVXWHItWnVfY1BCNi11QnFFZFpETHJMWklnN0l2Q01CMDUwMUc5bmM3S09lV3p3TWliMXREWFBoVzNMa3FoRDJNU053VzlGTDRvYU5nREZzeW53aDl6R2dRTVBvYQ?oc=5",
       "date": "2026-11-02T15:00:31Z",
@@ -1988,14 +1988,6 @@
       "summary": "Wyższy limit wpłat na IKZE w 2027 roku. Jest już obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej Forsal.pl."
     },
     {
-      "title": "Zmiana Konstytucji nie jest prosta. Jakie warunki trzeba spełnić? - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVo4QVRJbkJ3R0RnSG5lM25HbEZIZ0ZDU240S3BWNnU5Mjlwai1JMEx2Vlk1bXdJZURkaWZGS3pVaE1XR3V6eXU4cDNNakNEbThJSXhBV2ZtSWw2UVMxNi00WC12b2k2X21WbjU5ZGpIdHN6ajNkRXVfbzBaaTNHS0lyVl95azE0ZC10SWlRTk5leVB4bTQ2NVQxekV6SlN5aG1wNkJ3VnVzeS1DWVJnYUxLVFVLb2lVb1Z5SzBRaURxNU5xRnZZQU9rb2N4Y1A0WGc?oc=5",
-      "date": "2026-11-02T12:17:51Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Zmiana Konstytucji nie jest prosta. Jakie warunki trzeba spełnić? Forsal.pl."
-    },
-    {
       "title": "Zmiana na stacjach od wtorku. Minister ogłosił nowe ceny paliw",
       "url": "https://www.money.pl/gospodarka/zmiana-na-stacjach-od-wtorku-minister-oglosil-nowe-ceny-paliw-7346672158796256a.html",
       "date": "2026-11-02T12:07:45Z",
@@ -2004,20 +1996,20 @@
       "summary": "We wtorek 3 listopada maksymalna cena dla benzyny Pb95 wynosić będzie 6,45 zł/l, dla benzyny Pb98 7,31 zł/l, a dla oleju napędowego 8,14 zł/l - poinformował minister energii w obwieszczeniu."
     },
     {
+      "title": "Wiadomości 3R GAMES (3RG) - strona: 6 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrQm5nUmN2QkpJSWNwM1VKaERLSldQVVFPNXNqUWZUazQwWUd4NzhDWXhJUkxiTDl1LWFodjRnbmdHRUxEZUpDM01BQzFYM3ZVUkdxSkt3?oc=5",
+      "date": "2026-11-02T11:47:09Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości 3R GAMES (3RG) - strona: 6 BiznesRadar."
+    },
+    {
       "title": "Królewski: Uczelnie powinny zwolnić najgorszych naukowców. Możemy gonić USA - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXlzYXpIalJ0U0JJV2xJUWFyZVRocFFhZGxtdlpOd3pNZnNLdG50blF4S0tQWnRpZWZrbHdiRjFac3VGQms3MGhsMjFURzRKaFhNX1NHX21adEFLamlpMllzRjQ1QVpFV0VWS1R3djB3aU1XU3lKRTlCc2NVVGFmVjB4XzRpUXF4SUk3aS14eEFhVWNLSHd0VUZ0eGQzTVVnaEE3WTFWbFNGbXpEVjVsc0pPVmlxXzA0blQ4X2VQWFVMWmlpYlU3dGdn?oc=5",
       "date": "2026-11-02T11:45:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Królewski: Uczelnie powinny zwolnić najgorszych naukowców. Możemy gonić USA Forbes."
-    },
-    {
-      "title": "Stalprodukt miał wstępnie 29,99 mln zł zysku netto w III kw. 2026 r. - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1R3d3gtTEc5c1RrUXlfWlBxQnZ4NU84aDJJc3h6X3JaX21mM1NkSm5WMWdZejhYWlJBXzFEZ285ZHQ4WVl5OHhLOFFYVEczZkZiV0k0WXNOcXV6ZHZBVld4MHFBaXljZE5QRVNHRUJYY1A3WVlqYVlTMW5vZUEtdHVHMVpIVGg3X2dpaFpuRjZxem9DS3hFLVZ0bmVEZXV6emJDdzBuNA?oc=5",
-      "date": "2026-11-02T11:42:06Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Stalprodukt miał wstępnie 29,99 mln zł zysku netto w III kw. 2026 r. StockWatch.pl."
     },
     {
       "title": "\"Rozsypałam się, ale wszystko ukrywałam\". Mówi, jak straciła kultową markę - Forbes",
@@ -2068,6 +2060,14 @@
       "summary": "– Zaognienie konfliktu o Trybunał Konstytucyjny, pobocznego z punktu widzenia gospodarki w krótkim terminie, będzie miało natomiast inny, poważniejszy skutek, czyli jeszcze większą niechęć pomiędzy rządem a prezydentem – mówi money.pl Marcin Materna z Banku Millennium. Według ekspertów banku Erste spór wokół TK może budzić \"obawy inwestorów zagranicznych o stabilność instytucjonalną w Polsce\"."
     },
     {
+      "title": "Wiadomości TOYA SPOLKA AKCYJNA (TOA) - strona: 7 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZTmZsYWhKRU5tajFtZ1pnRUJHNjRLeW92TVJENmJJa2pUcVU5Z0ludnlKSDRrMmlEMEdKQlBNalhGcVNBZWd4UzktcXNrMU14UjhpWHR6NA?oc=5",
+      "date": "2026-11-02T08:44:21Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości TOYA SPOLKA AKCYJNA (TOA) - strona: 7 BiznesRadar."
+    },
+    {
       "title": "Rząd szykuje pomoc w rachunkach za gaz. Minister wskazał termin",
       "url": "https://www.money.pl/gospodarka/rzad-szykuje-pomoc-w-rachunkach-za-gaz-minister-wskazal-termin-7346606366190048a.html",
       "date": "2026-11-02T08:21:33Z",
@@ -2090,14 +2090,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Polskie firmy osiągają rekordowe wyceny w rankingu Forbesa. Jeden lider zaskakuje rozmachem Forbes."
-    },
-    {
-      "title": "Ropa mocno tanieje. Trump zmienia podejście do Iranu",
-      "url": "https://www.money.pl/gospodarka/trump-wyslal-sygnal-oto-co-sie-dzieje-z-cenami-ropy-7346596714146240a.html",
-      "date": "2026-11-02T07:09:35Z",
-      "source": "Money.pl",
-      "confirmed_by": 1,
-      "summary": "Ropa na rynkach mocno traci na początku nowego tygodnia po tym, jak pojawiły się informacje, że prezydent USA Donald Trump chce dać więcej czasu na negocjacje dyplomatyczne z Iranem przed ewentualnym wznowieniem ataków na ten kraj po wtorkowych wyborach połówkowych w USA – podają maklerzy."
     },
     {
       "title": "Jaki ETF na bitcoina kupić? Ranking ETF i ETP 2026",
@@ -2132,20 +2124,36 @@
       "summary": "Rekordowe dywidendy w 2027 roku. 12 spółek z szansą na wyższe wypłaty – Piotr Kwestarz | Procent Składany Paweł Biedrzycki ndz., 01.11.2026 Kanał Strefa Inwestorów Kanał Strefa Inwestorów Podcast Podcast Procent Składany Spółki Dywidendowe Treść Szykuje się kolejny rekordowy sezon dywidendowy na GPW. Skarb Państwa oczekuje od swoich spółek jak najwyższych wypłat, banki wciąż korzystają z wysokich stóp procentowych, a wiele prywatnych firm po wynikach za I półrocze 2026 roku ma przestrzeń do podniesienia dywidendy."
     },
     {
-      "title": "- Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XTk53STM4OElabEc2Mmt0RXV1V1NHV2JHdnlYQTdwU05uX0c0SnNHR3psU0RxTkJfQXBxb3lMdW9TZzNybGRkQWhlZ0xXLUdTaUQ2cXhyRDBiZ2JST3psSjFSazI?oc=5",
-      "date": "2026-11-01T18:15:24Z",
-      "source": "Forbes Polska",
+      "title": "Dlaczego firmy umierają [newsletter] - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41dkR1c2xqQTZNWXEtYnFrVXNmay1iT0pCUy1ieFBlbEN4eGxyaTljQ1gtWDRRQTZVN0hvNkgwY3dMT3BkTjlhRGlPWl9JZGdHWDdMVmZaU2lkd3l3amRRRGdzc2h5Zmg5VzVUMFF4MW1FYWVZY0prV0Nn?oc=5",
+      "date": "2026-11-01T07:42:00Z",
+      "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Forbes."
+      "summary": "Dlaczego firmy umierają [newsletter] BiznesRadar."
     },
     {
-      "title": "21% Rocznie 441 EXTRA | Podcast | Jak inwestować - XTB, Kruk, Millennium, Żabka, Eurocash, Budimex, Cyfrowy Polsat, Kęty",
-      "url": "https://strefainwestorow.pl/podcast/21-rocznie-extra/24-jak-inwestowac-441",
-      "date": "2026-11-01T16:41:59Z",
-      "source": "Strefa Inwestorów",
+      "title": "Analiza techniczna RBITLGOLD23 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfTm5MeS1zQTJSd0xZNFVYNHU2Sk0wRndQV3pJaFdFMVRaR0xWSFJTWkFPeWJUQkNSUUVCTW1ZU0poLW9UQjZYeG9RSm9LOHJiOGI2d0ZSclhxQkcwNUNvTmhONDhXbmRKV2xpaFliRjdJaUEwNXc?oc=5",
+      "date": "2026-11-01T07:23:11Z",
+      "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "21% Rocznie 441 EXTRA | Podcast | Jak inwestować - XTB, Kruk, Millennium, Żabka, Eurocash, Budimex, Cyfrowy Polsat, Kęty Paweł Biedrzycki ndz., 01.11.2026 Kanał Strefa Inwestorów Kanał Strefa Inwestorów Podcast Podcast Extra Treść Zapraszamy do wysłuchania podcastu 21% Rocznie EXTRA, odcinek 441: XTB, Kruk, Millennium, Żabka, Eurocash, Budimex, Cyfrowy Polsat, Kęty Lista omówionych spółek w podcaście:00:35 XTB05:02 Kruk09:43 Millennium11:33 Żabka i Eurocash16:55 Budimex22:12 Cyfrowy Polsat29:55 Kęty Pobierz 441 odcinek podcastu w wersji mp3 Zawarte w materiale dane, opracowania, informacje, analizy zostały przygotowane wyłącznie w celach informacyjnych, są tylko i wyłącznie subiektywnymi opiniami autorów i nie są rekomendacjami zawarcia transakcji w rozumieniu § 3 Rozporządzenia Ministra Finansów z dnia 19 października 2005 r. w sprawie informacji stanowiących rekomendacje dotyczące instrumentów finansowych, lub ich emitentów lub wystawców m. in."
+      "summary": "Analiza techniczna RBITLGOLD23 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+    },
+    {
+      "title": "Notowania OW20X264700 GPW - ORGANIZATOR OBROTU - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsQVViTTltVW90WWtjREJ2WHJJekF1YUhsWkZEczc0eWZMeWVGR19ncGxHbHJ0X1JSaktJcGhfdEg3dy1pMGNqbzlTcXp0VkZCcmpMdThQVEpkZjZu?oc=5",
+      "date": "2026-11-01T00:49:17Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania OW20X264700 GPW - ORGANIZATOR OBROTU BiznesRadar."
+    },
+    {
+      "title": "Wiadomości OW20M274700 GPW - ORGANIZATOR OBROTU - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NaUJGM1lYMllqS2lXSmJwTXo5ampFWXc1NWhCU0ZnMGNhaDFtWDVGZ3FHTFhMME4wWmI0WXN1OTNfd1N4UnBTdDdGZnREdkxjSnI0dG5McG9hVzFIS0E?oc=5",
+      "date": "2026-11-01T00:46:46Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości OW20M274700 GPW - ORGANIZATOR OBROTU BiznesRadar."
     },
     {
       "title": "Inflacja zaskoczyła w dół. Stopy raczej bez zmian, ale ryzyka rosną",
@@ -2534,31 +2542,31 @@
       26291.3,
       26532.48,
       26453.58,
-      29187.0,
+      29186.19,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      29224.76,
+      29223.94,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29481.05,
+      29480.22,
       27354.94,
       27400.36,
       27412.11,
-      29901.52,
+      29900.68,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29127.08,
+      29126.27,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29315.33,
+      29314.51,
       27686.17,
       27404.78,
       27351.97,
@@ -2567,7 +2575,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29009.84,
+      29009.03,
       27930.04,
       28234.04,
       28218.36,
@@ -2576,87 +2584,87 @@
       28294.39,
       28203.83,
       28555.17,
-      29883.1,
+      29882.26,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29418.8,
+      29417.98,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29238.48,
+      29237.67,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29545.15,
+      29544.32,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30602.03,
+      30601.17,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30712.95,
+      30712.1,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30273.55,
+      30272.7,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30421.04,
+      30420.19,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30448.03,
+      30447.18,
       28449.73,
       28313.03,
       28272.33,
-      30204.95,
+      30204.11,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30179.39,
+      30178.54,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30545.9,
+      30545.04,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30464.28,
+      30463.43,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30814.65,
+      30813.79,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30214.65,
+      30213.81,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30073.59,
+      30072.75,
       30100.92,
       30418.01,
       30609.55,
       30450.14,
       29735.63,
-      30070.75
+      30075.08
     ],
     "currency": "PLN"
   }
