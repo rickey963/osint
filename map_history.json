@@ -4,9 +4,9 @@
     "lng": 31.18,
     "type": "conflict",
     "region": "Ukraina",
-    "description": "Były dyrektor szkoły w okupowanych przez Rosję Ołeszkach na południu Ukrainy zginął trafiony dronem po zakończeniu rozejmu w tej miejscowości - poinformowała w czwartek szefowa ukraińskiej Tetiana Hasanenko.",
-    "url": "https://www.polsatnews.pl/wiadomosc/2026-11-05/koniec-rozejmu-w-oleszkach-tragiczna-smierc-dyrektora-szkoly/",
-    "last_seen": "2026-11-05T16:13:06Z"
+    "description": "Koncern Orlen stał się kluczowym dostawcą benzyny do Ukrainy, odpowiadając w październiku za prawie połowę importu — podają ukraińskie media.",
+    "url": "https://businessinsider.com.pl/gospodarka/orlen-zwiekszyl-dostawy-do-ukrainy-polska-kluczowym-partnerem/qh24gex",
+    "last_seen": "2026-11-05T18:55:46Z"
   },
   "conflict|Strefa Gazy / Izrael": {
     "lat": 31.5,
@@ -22,9 +22,9 @@
     "lng": 53.69,
     "type": "conflict",
     "region": "Iran",
-    "description": "Rosja wyśle Iranowi 90 wyrzutni zaawansowanych pocisków kierowanych – donosi w czwartek „Financial Times”.",
-    "url": "https://www.rp.pl/konflikty-zbrojne/art45452381-rosja-poglebia-wspolprace-wojskowa-z-iranem-nowa-dostawa-broni",
-    "last_seen": "2026-11-05T16:13:06Z"
+    "description": "Donald Trump zignorował ostrzeżenia przed wojną z Iranem.",
+    "url": "https://www.rp.pl/komentarze/art45449561-michal-szuldrzynski-trump-ukarany-za-pyche-prezydentura-na-skraju-przepasci",
+    "last_seen": "2026-11-05T18:55:46Z"
   },
   "cyber|Polska": {
     "lat": 52.5,
@@ -33,7 +33,7 @@
     "region": "Polska",
     "description": "Nagrody do 20 000 PLN, wstępny budżet 1 mln PLN i pierwsze usługi do testowania - od dzisiaj można spróbować swoich sił w znajdowaniu podatności w serwisach internetowych wybranych polskich podmiotów publicznych.",
     "url": "https://zaufanatrzeciastrona.pl/post/startuje-polska-platforma-bug-bounty-pod-opieka-cert-polska/",
-    "last_seen": "2026-11-05T16:13:06Z"
+    "last_seen": "2026-11-05T18:55:46Z"
   },
   "cyber|Rosja": {
     "lat": 62.0,
@@ -42,7 +42,7 @@
     "region": "Rosja",
     "description": "Polki i Polacy każdego dnia są poddawani rosyjskim wpływom – ostrzegają eksperci, którzy wskazują na „przemyślaną operację” Kremla.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/przemyslana-operacja-rosji-w-polsce-jest-w-naszych-telefonach",
-    "last_seen": "2026-11-05T16:13:06Z"
+    "last_seen": "2026-11-05T18:55:46Z"
   },
   "cyber|Indie": {
     "lat": 21.5,
@@ -51,7 +51,7 @@
     "region": "Indie",
     "description": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country.",
     "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-    "last_seen": "2026-11-05T16:13:06Z"
+    "last_seen": "2026-11-05T18:55:46Z"
   },
   "cyber|Ukraina": {
     "lat": 48.88,
@@ -60,7 +60,7 @@
     "region": "Ukraina",
     "description": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker.",
     "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-    "last_seen": "2026-11-05T16:13:06Z"
+    "last_seen": "2026-11-05T18:55:46Z"
   },
   "conflict|Korea Północna": {
     "lat": 40.34,
@@ -96,7 +96,7 @@
     "region": "Chiny",
     "description": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway.",
     "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-    "last_seen": "2026-11-05T16:13:06Z"
+    "last_seen": "2026-11-05T18:55:46Z"
   },
   "critical|Stany Zjednoczone": {
     "lat": 39.5,
@@ -107,15 +107,6 @@
     "url": "https://www.polsatnews.pl/gosc-wydarzen/2026-11-04/ameryka-na-rozdrozu-demokraci-maja-wiele-drog-do-zwyciestwa/",
     "last_seen": "2026-11-05T07:15:26Z"
   },
-  "critical|Rosja": {
-    "lat": 61.2,
-    "lng": 105.6,
-    "type": "critical",
-    "region": "Rosja",
-    "description": "Przejęcie przez Demokratów kontroli nad Kongresem nie oznacza pewnej zmiany kursu USA wobec Europy i Rosji.",
-    "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33115953,ostrozniej-z-tym-entuzjazmem-co-niebieskie-tsunami-oznacza.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-    "last_seen": "2026-11-04T17:14:42Z"
-  },
   "cyber|Francja": {
     "lat": 47.1,
     "lng": 2.7,
@@ -123,7 +114,7 @@
     "region": "Francja",
     "description": "Ataki na systemy chłodnicze przechowujące krew i osocza wymagają szczególnej uwagi – ostrzega CSIRT CeZ.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/ataki-na-zamrazarki-z-krwia-csirt-cez-ostrzega",
-    "last_seen": "2026-11-05T16:13:06Z"
+    "last_seen": "2026-11-05T18:55:46Z"
   },
   "conflict|Syria": {
     "lat": 34.8,
@@ -139,9 +130,9 @@
     "lng": 53.989999999999995,
     "type": "critical",
     "region": "Iran",
-    "description": "Wojna z Iranem, wysokie ceny paliw i błędne kalkulacje prezydenta Donalda Trumpa - to, zdaniem „Wall Street Journal”, przyczyny porażki Partii Republikańskiej w wyborach połówkowych.",
-    "url": "https://www.rp.pl/polityka/art45448251-trump-mowil-ze-sondaze-sa-falszywe-i-opowiadal-o-sali-balowej-koniec-ery",
-    "last_seen": "2026-11-05T04:31:12Z"
+    "description": "Marco Rubio może wkrótce zrezygnować z funkcji sekretarza stanu USA - przekazał The Independent.",
+    "url": "https://www.polsatnews.pl/wiadomosc/2026-11-05/marco-rubio-moze-zrezygnowac-z-funkcji-sekretarza-stanu-media-chce-zostac-prezydentem/",
+    "last_seen": "2026-11-05T18:55:46Z"
   },
   "conflict|Wenezuela": {
     "lat": 6.42,
@@ -168,7 +159,7 @@
     "region": "Dominikana",
     "description": "Klasztor Dominikanów na Freta w Warszawie poinformował, że w grafiku spowiedzi i celebransów Mszy Świętej, dostarczanych przez zewnętrzną aplikację, znajdował się tzw.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/prywatnosc/kod-sledzacy-w-grafiku-spowiedzi-dominikanow-dane-latami-trafialy-do-mety",
-    "last_seen": "2026-11-05T16:13:06Z"
+    "last_seen": "2026-11-05T18:55:46Z"
   },
   "cyber|Norwegia": {
     "lat": 61.0,
@@ -177,7 +168,7 @@
     "region": "Norwegia",
     "description": "Poważny incydent cyberbezpieczeństwa w Norwegii może mieć konsekwencje daleko poza granicami tego kraju.",
     "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/cyberatak-na-norweskie-msz-dane-tysiecy-osob-zagrozone",
-    "last_seen": "2026-11-05T16:13:06Z"
+    "last_seen": "2026-11-05T18:55:46Z"
   },
   "cyber|Australia": {
     "lat": -24.8,
@@ -186,7 +177,7 @@
     "region": "Australia",
     "description": "Sprawa zakazu mediów społecznościowych dla dzieci trafił przed australijski Sąd Najwyższy.",
     "url": "https://cyberdefence24.pl/polityka-i-prawo/sad-najwyzszy-zajal-sie-zakazem-social-mediow-dla-dzieci-ograniczenia-lamia-konstytucje",
-    "last_seen": "2026-11-05T16:13:06Z"
+    "last_seen": "2026-11-05T18:55:46Z"
   },
   "conflict|Afganistan": {
     "lat": 33.94,
@@ -196,5 +187,23 @@
     "description": "Władze talibów w Afganistanie kontynuują walkę z muzyką.",
     "url": "https://www.rp.pl/spoleczenstwo/art45451201-talibowie-spalili-setki-instrumentow-muzycznych-uznali-je-za-niemoralne",
     "last_seen": "2026-11-05T14:38:03Z"
+  },
+  "conflict|Sudan": {
+    "lat": 12.86,
+    "lng": 30.22,
+    "type": "conflict",
+    "region": "Sudan",
+    "description": "Lana Nusseibeh, one of the Gulf nation’s top diplomats, has led the effort to deny her country’s role in Sudan.",
+    "url": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
+    "last_seen": "2026-11-05T18:55:46Z"
+  },
+  "disaster|Iran": {
+    "lat": 31.93,
+    "lng": 53.19,
+    "type": "disaster",
+    "region": "Iran",
+    "description": "Marco Rubio może wkrótce zrezygnować z funkcji sekretarza stanu USA - przekazał The Independent.",
+    "url": "https://www.polsatnews.pl/wiadomosc/2026-11-05/marco-rubio-moze-zrezygnowac-z-funkcji-sekretarza-stanu-media-chce-zostac-prezydentem/",
+    "last_seen": "2026-11-05T18:55:46Z"
   }
 }
