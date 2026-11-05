@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T21:18:50Z",
+  "last_updated": "2026-11-05T21:19:33Z",
   "poland": [
     {
       "title": "Trzecie podejście PiS do odwołania Kierwińskiego. \"Traktuję to jako uznanie mojej ciężkiej pracy\"",
@@ -766,6 +766,22 @@
   ],
   "world_politics": [
     {
+      "title": "Alaska Governor Election Live Results 2026 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zVnF6Z256eUxiRnVxdl8zOHZZc1hya2VseWs4elFvOV9fZGVkdW1iOGVyVXh5LWxMa3NET0ZOSHNhWGhQd21sWUw0dXVNaTlhMnVaaFlWbzBYbVVMX0d6aU9ub2RoQ2Q0RlRkbEpBVzNFYjNPekE?oc=5",
+      "date": "2026-11-05T21:18:07Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Alaska Governor Election Live Results 2026 AP News."
+    },
+    {
+      "title": "Klaus-Michael Kühne Has Died. His Company Played a Dark Role in Nazi Germany.",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html",
+      "date": "2026-11-05T21:16:14Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "As Klaus-Michael Kühne’s business became a global force in container shipping, he resisted demands to document its wartime activities. He was 89."
+    },
+    {
       "title": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine",
       "url": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
       "date": "2026-11-05T21:07:31Z",
@@ -958,14 +974,6 @@
       "summary": "A TV program helped to identify the victims, a Russian woman and her young daughter, who were found dead in a Rome park."
     },
     {
-      "title": "Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike",
-      "url": "https://www.nytimes.com/2026/11/05/world/canada/canada-grizzly-bear-attack-mother-daughter-killed.html",
-      "date": "2026-11-05T15:02:06Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Wildlife officers were working to trap grizzly bears along a trail after the remains of the two hikers were found near a remote community in British Columbia this week."
-    },
-    {
       "title": "Cristiano Ronaldo announces his international retirement from Portugal - AP News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaEVWTFRWMmRwQU1YbE5ldWpVMlh6UHVZM2g4ODZYWnhlU0IybGRnNDRsYWpUQkRtWEJ6MUR5QkE0WGxTV2VabHc0UXQxRVY0OW1yNWwzX0tGMm1NWXNCamYxelY2akFCU3hnUlk2RnpmTDdxd2loZXQyM2lybTZtQ0JjdmpQdDZlQ2ZKZzU4Zk1IS3ZBYTRETkllQ1RpQQ?oc=5",
       "date": "2026-11-05T11:50:00Z",
@@ -996,14 +1004,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Analysis: Trump has defied political consequences for years. The midterms changed that AP News."
-    },
-    {
-      "title": "Stocks surge, and the Dow soars 1,500 points as oil prices tumble following the US midterm elections - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEtETVdDVnpDVFhqVmpJNTdBUURHcFg0YkhsOVdwcFo2YzNqSTl5Q18zUXVZV1Vrck8tLTFtcEYtOEFOX2hMMUo1UXJyMDRPQWp2Qld4Yk9iSWszUEtuMkc0dUo4d003eTN5V0VnRmEwVG9VUjBiMGVxVlc3SWg2TC1YdGFmb0FMMlFuVlVJOE1BalE?oc=5",
-      "date": "2026-11-04T21:51:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Stocks surge, and the Dow soars 1,500 points as oil prices tumble following the US midterm elections AP News."
     }
   ],
   "technology": [
@@ -1690,6 +1690,14 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with."
     },
     {
+      "title": "Want to Rent an Internet Address at the White House?",
+      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "date": "2026-11-05T04:36:17Z",
+      "source": "Krebs on Security",
+      "confirmed_by": 1,
+      "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016."
+    },
+    {
       "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
       "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
       "date": "2026-11-04T17:00:46Z",
@@ -1730,14 +1738,6 @@
       "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has been codenamed prompt adware by Check Point Research. Called Haiou (meaning Seagull in Chinese), the jailbreak modifies OpenAI Codex's configuration."
     },
     {
-      "title": "Polskie przychodnie informują o cyberatakach. Wyciekły dane",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/polskie-przychodnie-informuja-o-cyberatakach-wyciekly-dane",
-      "date": "2026-11-04T15:06:05Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "W ostatnich miesiącach przychodnie podstawowej opieki zdrowotnej informują o cyberatakach wymierzonych w wykorzystywane przez nie systemy. Mowa o dostawcach rozwiązań: MedicalData oraz EuroSoft (implementacja Mantis). O naruszeniach ochrony danych komunikuje również jedna z klinik oraz stacja pogotowia ratunkowego."
-    },
-    {
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
       "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
       "date": "2026-11-04T14:27:52Z",
@@ -1752,14 +1752,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2. The flaw is in Active Storage, the part of Rails that handles file uploads."
-    },
-    {
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "date": "2026-11-04T11:46:27Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project said in an advisory on November 3."
     },
     {
       "title": "Luka w popularnym ChatGPT: wystarczyło kliknąć w link do udostępnionej konwersacji, aby stracić kontrolę nad kontem",
@@ -1808,6 +1800,14 @@
       "source": "Niebezpiecznik",
       "confirmed_by": 1,
       "summary": "Rusza narodowy program bug bounty. Aktualna pula nagród to 1 milion złotych, a wysokość nagrody za pojedyncze zgłoszenie o najwyższym stopniu krytyczności może wynieść nawet 20 tys. zł."
+    },
+    {
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "date": "2026-11-03T02:24:31Z",
+      "source": "Krebs on Security",
+      "confirmed_by": 1,
+      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines."
     }
   ],
   "finance": [
@@ -1842,22 +1842,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "W czwartek Sejm po raz drugi uchwalił ustawę, która dodaje nową, 24-proc. stawkę w PIT, zmienia progi podatkowe i podnosi stawkę CIT dla największych firm do 22 proc."
-    },
-    {
-      "title": "Identyfikacja policjantów w oddziale zwartym. Co mówią przepisy? - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkRDT05BZHNjc2wtWUhnU1JfQktTM1JmdkRiNFNvYTdLeHJ1MVp4T0Z2OUtZMi1haHRhRXotQ0R3dEZtM3hicE8xOWkzYlplZWJ0a3BZLWVVeEo1dk94VU1SQUdLZG1JdGFNdmotTFVvNTI3b2V2V0h3VjIzUnl4QkMtUlYxeXhnbnA2YzM5YnhzVzFVUTNQLU1wOG9JVmRsUk9xNmZXaHlQQjJq?oc=5",
-      "date": "2026-11-05T20:22:40Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Identyfikacja policjantów w oddziale zwartym. Co mówią przepisy? Forsal.pl."
-    },
-    {
-      "title": "Wrocław ma dwa liczniki mieszkańców. Różnica przekracza 200 tys. osób - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOFdaNHdnV0xVTld1YjMtbC0wQXVUSEhJYmhPMkpVN1pheDZXLUxDRm44Q0NRSW5KdUV1bFBCU3JOOGpTcVVLN20zRDU0Tk9JajJLTWczWDdCdzZWTE9YeDloLUNIRUIzbm1NcXNzMXhGV3J5dGJFMjJKc1VxZ282aUZmM3g0MnpPUXEyekdPRk5nMjZwM3ctV1FuM3N1LWpBX29vck1jcE5GazhxN3pQVTNxVlJ3VVk4V3hLMzdYSjFkVHZZUTFQTkF3?oc=5",
-      "date": "2026-11-05T20:07:06Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Wrocław ma dwa liczniki mieszkańców. Różnica przekracza 200 tys. osób Forsal.pl."
     },
     {
       "title": "\"Nóż w plecy Trumpa\". Ruszyła walka o władzę w Białym Domu",
@@ -1988,12 +1972,12 @@
       "summary": "Mikrokosmos Inwestycji Edycja III - Forbes - wiadomości gospodarcze i finansowe Forbes."
     },
     {
-      "title": "Dają zarobić 20 000 złotych na miesiąc i brakuje im pracowników. W rozwoju jak burza - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRHpET1hieTU5Q2ZwNnZWXzh3Y0RUSWM1Ri12RUhreFV2SjJiNmdBSFZWQ0F4Z0RXdUlscGtRcXJnQ19uU1M3OVRHdXhWV0gtYUlhT2RSbmtFeU5kZlNCTUZjVHpjYWNtSUI2MHd0QnY3eG16dGY1RjhEV1lrZDdKMkMza0V1Z0lIcVpFZFFuRUNMbzRfdWtuZXIyTTNKVUNUZXk0OHRNVXV4N25hRlZJZkphXzdERGR6bVRFaEQyckxPal9ZbWRpREZIN2tyV3ktd2x1R1hzTFo3QklHVVhUYg?oc=5",
-      "date": "2026-11-05T16:41:54Z",
+      "title": "Zaczął się horror dla milionów Polaków. Przez zmianę przepisów tracą swoje oszczędności - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbXFrbnpMaWVvRXRfRlZYZFVkdVkyc09EZjNXbzd0OWhLZEx5eW94c2c1WWt4ZXJLUk5BdE5GZl9oT2JrOUkyMTVOdFNGY2ZnU0NhczVWMHhyNUt5elo4LWsyMTF3UFNtWTEtUFFyOTBENllPUzFlb1duLS1ONTFIOXJhR0UyLTdSRnFzLUJhN1p6Z2lmMmFGREJ4dk96NUU5QnJ0MlBvR3pGZGRSWVR1cU1WLWFOc0tzb2I2TVdzaUFEWlcwd3JDY1ZFUHhpeFlaeTlUYUJpWWRtZmtzOFF2ak1CaTNzUQ?oc=5",
+      "date": "2026-11-05T16:15:00Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Dają zarobić 20 000 złotych na miesiąc i brakuje im pracowników. W rozwoju jak burza Forsal.pl."
+      "summary": "Zaczął się horror dla milionów Polaków. Przez zmianę przepisów tracą swoje oszczędności Forsal.pl."
     },
     {
       "title": "Portal Giełdowy - Twój przewodnik po świecie inwestycji - StockWatch.pl",
@@ -2026,6 +2010,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Glapiński: nastawienie w RPP jest jastrzębie, Rada boi się, że trzeba będzie podwyższyć stopy StockWatch.pl."
+    },
+    {
+      "title": "Nie tylko dodatek pielęgnacyjny. Te 5 dodatków do rent i emerytur przysługuje po 75. roku życia - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMDQ3bGFTZkdkZTdUdFEzWUJkS1Z1ejJXalpDeHcxbTF0bGpFelMxcmFUNzF2d3d2cDktZHpxbC1ZVnZPV2JIaE4wbXo5dE1JZGpGNHowRlZ1Rmo3Z2pqZENvZy10NzN4aFBuN25LQXhGLTJYWVZVaEk3OUJwdnJsWk8xbjExT1l3VDJIYk5Qa19WQlhVMHlOTUxxZzJMallmaVl6bmF3R25aZ3hMdXhn?oc=5",
+      "date": "2026-11-05T14:55:03Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Nie tylko dodatek pielęgnacyjny. Te 5 dodatków do rent i emerytur przysługuje po 75. roku życia Forsal.pl."
     },
     {
       "title": "Adam Glapiński ostrzega przed powrotem wyższej inflacji. RPP jest gotowa do zdecydowanej reakcji",
@@ -2108,12 +2100,20 @@
       "summary": "Budzą się \"strażnicy rynku obligacji\". Ekspert: euro jest skazane na upadek Forbes."
     },
     {
-      "title": "Analiza techniczna INTSUSD03252 INGBANK - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBId09ZZDF0QkZ5QlRWMzdEdkdHOGpyNmlQREJ0blRtellzcVpzLWd1RWhHaDdCUlpGNUNWWGc5RUIyX25fZnhUenRDRlBzNDNhZndidnFwS1R0aEZrRWlWRzFsSEZDTVRmNVdYblZYNlF3XzNkMEpr?oc=5",
-      "date": "2026-11-05T10:48:16Z",
+      "title": "Dlaczego spółki wychodzą z giełdy w czasie hossy? Prezes zarządu mPay S.A. o skuteczności giełdy - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUVtUUIxa2tZVEwtWXh4TGZFVkhoNXFHRE5zaFFtQ09WdldhMmF6VGY3U3c0UlVTSlFTOTVreWJkNzl1WnpXLVRGZ3VFV1ZHOXlHMkNWWUwxUnJBQ0g3Yl9vbWhuV1pDRTZVb0wzNTlHR3JuZjcxQlhfSFF0c2kwMTBfUXBJaXkxbnVMcTFXc05zc1duSTNVRy16ZHUzVC1aVDBzb3RuNFp0MVlnLU1FRG9MUmNCYzZyT0FNWTVCeVI3TDM3bFo5eQ?oc=5",
+      "date": "2026-11-05T11:16:48Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Dlaczego spółki wychodzą z giełdy w czasie hossy? Prezes zarządu mPay S.A. o skuteczności giełdy Forsal.pl."
+    },
+    {
+      "title": "Analiza techniczna INTLTTF03443 INGBANK - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FZE5Sc1Y1MWRYejRFRk40cjFxMTYzZTRrbnRQeTRfU2l1U2hTd0lkSktSZFJVMTdjMnFwWFNtUGJ6akpkdVVxRGQyRk5KeTE0OUgyRldXRTlqLU1lUE5UeEZvdi1KR2F6TGM3Z1RTM3dHbVpqV25n?oc=5",
+      "date": "2026-11-05T10:48:59Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna INTSUSD03252 INGBANK BiznesRadar."
+      "summary": "Analiza techniczna INTLTTF03443 INGBANK BiznesRadar."
     },
     {
       "title": "Nowe wyższe limity wpłat na IKE i IKZE w 2027 r.",
@@ -2615,31 +2615,31 @@
     "prices": [
       26532.48,
       26453.58,
-      29020.01,
+      29018.6,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      29057.54,
+      29056.14,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29312.37,
+      29310.95,
       27354.94,
       27400.36,
       27412.11,
-      29730.44,
+      29729.0,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28960.43,
+      28959.03,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29147.6,
+      29146.19,
       27686.17,
       27404.78,
       27351.97,
@@ -2648,7 +2648,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28843.86,
+      28842.47,
       27930.04,
       28234.04,
       28218.36,
@@ -2657,81 +2657,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29712.12,
+      29710.68,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29250.48,
+      29249.06,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29071.19,
+      29069.78,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29376.11,
+      29374.68,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30426.94,
+      30425.46,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30537.23,
+      30535.75,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30100.34,
+      30098.88,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30246.99,
+      30245.52,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30273.82,
+      30272.35,
       28449.73,
       28313.03,
       28272.33,
-      30032.13,
+      30030.67,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30006.71,
+      30005.26,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30371.13,
+      30369.65,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30289.98,
+      30288.51,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30638.34,
+      30636.86,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30041.78,
+      30040.32,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      29901.52,
+      29900.07,
       30100.92,
       30418.01,
       30609.55,
@@ -2740,7 +2740,7 @@
       29803.46,
       29840.69,
       30241.96,
-      28842.73
+      28841.33
     ],
     "currency": "PLN"
   }
