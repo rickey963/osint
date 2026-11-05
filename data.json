@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T22:48:39Z",
+  "last_updated": "2026-11-05T22:49:27Z",
   "poland": [
     {
       "title": "Meksykański sędzia miał wziąć 2 mln dolarów łapówki. Zatrzymano go w Kolumbii",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "date": "2026-11-05T22:17:15Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 58 # Comments: 10."
+    },
+    {
       "title": "The Nasdaq 100 drops 6%, losing a record $2.3T in value, and the Philadelphia chip index plunges 12%, on concerns over the AI trade after Democrats won Congress (Natalia Kniazhevich/Bloomberg)",
       "url": "https://www.techmeme.com/261105/p55#a261105p55",
       "date": "2026-11-05T22:15:01Z",
@@ -1049,11 +1057,11 @@
     },
     {
       "title": "$2.5T has been wiped from US stocks",
-      "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
+      "url": "https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks",
       "date": "2026-11-05T21:39:26Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/ Comments URL: https://news.ycombinator.com/item?id=50384822 Points: 41 # Comments: 20."
+      "summary": "Article URL: https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks Comments URL: https://news.ycombinator.com/item?id=50384822 Points: 57 # Comments: 34."
     },
     {
       "title": "California State Senator Scott Wiener, an author of AI safety law SB 53, won Tuesday's election to succeed Pelosi in the US House, campaigning on AI regulation (Rocket Drew/The Information)",
@@ -1085,7 +1093,7 @@
       "date": "2026-11-05T20:43:42Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844 Comments URL: https://news.ycombinator.com/item?id=50384233 Points: 142 # Comments: 41."
+      "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844 Comments URL: https://news.ycombinator.com/item?id=50384233 Points: 158 # Comments: 45."
     },
     {
       "title": "Meta President Dina Powell McCormick says building new US data centers will be \"harder\" after midterm results, but it will be easier to expand existing projects (Meghan Bobrowsky/Wall Street Journal)",
@@ -1109,7 +1117,7 @@
       "date": "2026-11-05T20:21:43Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/ Comments URL: https://news.ycombinator.com/item?id=50383963 Points: 48 # Comments: 1."
+      "summary": "Article URL: https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/ Comments URL: https://news.ycombinator.com/item?id=50383963 Points: 53 # Comments: 1."
     },
     {
       "title": "Sources: Nvidia approached Apollo about retrofitting some of the 130+ buildings of the PE firm's struggling ISP Brightspeed into a network of small data centers (The Information)",
@@ -1125,7 +1133,7 @@
       "date": "2026-11-05T20:14:25Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://onlinegoddess.net/2026/11/the-cost-of-blogging/ Comments URL: https://news.ycombinator.com/item?id=50383877 Points: 26 # Comments: 16."
+      "summary": "Article URL: https://onlinegoddess.net/2026/11/the-cost-of-blogging/ Comments URL: https://news.ycombinator.com/item?id=50383877 Points: 28 # Comments: 21."
     },
     {
       "title": "Kagi Search for Everyone",
@@ -1133,7 +1141,7 @@
       "date": "2026-11-05T20:03:34Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://kagi.com/changelog Comments URL: https://news.ycombinator.com/item?id=50383740 Points: 260 # Comments: 132."
+      "summary": "Article URL: https://kagi.com/changelog Comments URL: https://news.ycombinator.com/item?id=50383740 Points: 288 # Comments: 152."
     },
     {
       "title": "Goodbye from Salon",
@@ -1141,7 +1149,7 @@
       "date": "2026-11-05T20:03:29Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.salon.com/2026/11/05/goodbye-from-salon/ Comments URL: https://news.ycombinator.com/item?id=50383739 Points: 269 # Comments: 97."
+      "summary": "Article URL: https://www.salon.com/2026/11/05/goodbye-from-salon/ Comments URL: https://news.ycombinator.com/item?id=50383739 Points: 284 # Comments: 101."
     },
     {
       "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
@@ -1184,20 +1192,12 @@
       "summary": "Davey Alba / Bloomberg: Google says it will spend $17B to build its first Wyoming data center, pay for all the power it uses, and form a Community Council to address growth concerns &mdash; Alphabet Inc.'s Google will spend $17 billion to build a data center in Wyoming, formally putting a price tag on the proposal &hellip;."
     },
     {
-      "title": "Meta rolls out voice mode and expressive avatars in the Muse app, starting in the US, letting users have real-time voice conversations with their Muse AI agent (Jay Peters/The Verge)",
-      "url": "https://www.techmeme.com/261105/p48#a261105p48",
-      "date": "2026-11-05T19:30:00Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Jay Peters / The Verge: Meta rolls out voice mode and expressive avatars in the Muse app, starting in the US, letting users have real-time voice conversations with their Muse AI agent &mdash; Muse AI agent now has voices and &lsquo;expressive&rsquo; avatars that animate while chatting with you."
-    },
-    {
       "title": "Introducing Pangram Image 1.0",
       "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
       "date": "2026-11-05T19:27:52Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.pangram.com/blog/introducing-pangram-image-1-0 Comments URL: https://news.ycombinator.com/item?id=50383294 Points: 21 # Comments: 1."
+      "summary": "Article URL: https://www.pangram.com/blog/introducing-pangram-image-1-0 Comments URL: https://news.ycombinator.com/item?id=50383294 Points: 27 # Comments: 2."
     },
     {
       "title": "Wyższe opłaty za BLIK. Uważaj przy bankomacie",
@@ -1844,14 +1844,6 @@
       "summary": "W czwartek Sejm po raz drugi uchwalił ustawę, która dodaje nową, 24-proc. stawkę w PIT, zmienia progi podatkowe i podnosi stawkę CIT dla największych firm do 22 proc."
     },
     {
-      "title": "Identyfikacja policjantów w oddziale zwartym. Co mówią przepisy? - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkRDT05BZHNjc2wtWUhnU1JfQktTM1JmdkRiNFNvYTdLeHJ1MVp4T0Z2OUtZMi1haHRhRXotQ0R3dEZtM3hicE8xOWkzYlplZWJ0a3BZLWVVeEo1dk94VU1SQUdLZG1JdGFNdmotTFVvNTI3b2V2V0h3VjIzUnl4QkMtUlYxeXhnbnA2YzM5YnhzVzFVUTNQLU1wOG9JVmRsUk9xNmZXaHlQQjJq?oc=5",
-      "date": "2026-11-05T20:22:40Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Identyfikacja policjantów w oddziale zwartym. Co mówią przepisy? Forsal.pl."
-    },
-    {
       "title": "\"Nóż w plecy Trumpa\". Ruszyła walka o władzę w Białym Domu",
       "url": "https://www.money.pl/gospodarka/noz-w-plecy-trumpa-ruszyla-walka-o-wladze-w-bialym-domu-7347761579522528a.html",
       "date": "2026-11-05T19:23:36Z",
@@ -1970,14 +1962,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Mikrokosmos Inwestycji Edycja III - Forbes - wiadomości gospodarcze i finansowe Forbes."
-    },
-    {
-      "title": "Dają zarobić 20 000 złotych na miesiąc i brakuje im pracowników. W rozwoju jak burza - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRHpET1hieTU5Q2ZwNnZWXzh3Y0RUSWM1Ri12RUhreFV2SjJiNmdBSFZWQ0F4Z0RXdUlscGtRcXJnQ19uU1M3OVRHdXhWV0gtYUlhT2RSbmtFeU5kZlNCTUZjVHpjYWNtSUI2MHd0QnY3eG16dGY1RjhEV1lrZDdKMkMza0V1Z0lIcVpFZFFuRUNMbzRfdWtuZXIyTTNKVUNUZXk0OHRNVXV4N25hRlZJZkphXzdERGR6bVRFaEQyckxPal9ZbWRpREZIN2tyV3ktd2x1R1hzTFo3QklHVVhUYg?oc=5",
-      "date": "2026-11-05T16:41:54Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Dają zarobić 20 000 złotych na miesiąc i brakuje im pracowników. W rozwoju jak burza Forsal.pl."
     },
     {
       "title": "Zaczął się horror dla milionów Polaków. Przez zmianę przepisów tracą swoje oszczędności - Forsal.pl",
@@ -2114,6 +2098,22 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Budzą się \"strażnicy rynku obligacji\". Ekspert: euro jest skazane na upadek Forbes."
+    },
+    {
+      "title": "Dlaczego spółki wychodzą z giełdy w czasie hossy? Prezes zarządu mPay S.A. o skuteczności giełdy - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUVtUUIxa2tZVEwtWXh4TGZFVkhoNXFHRE5zaFFtQ09WdldhMmF6VGY3U3c0UlVTSlFTOTVreWJkNzl1WnpXLVRGZ3VFV1ZHOXlHMkNWWUwxUnJBQ0g3Yl9vbWhuV1pDRTZVb0wzNTlHR3JuZjcxQlhfSFF0c2kwMTBfUXBJaXkxbnVMcTFXc05zc1duSTNVRy16ZHUzVC1aVDBzb3RuNFp0MVlnLU1FRG9MUmNCYzZyT0FNWTVCeVI3TDM3bFo5eQ?oc=5",
+      "date": "2026-11-05T11:16:48Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Dlaczego spółki wychodzą z giełdy w czasie hossy? Prezes zarządu mPay S.A. o skuteczności giełdy Forsal.pl."
+    },
+    {
+      "title": "Urząd zwleka z decyzją i jest bezczynny w sprawie? Może dostać karę, a ty otrzymasz do 45 000 zł - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd0piQXJKMXpiQXBGTlBFQlQ3bnVzSExpSG1WZk9UMXNKajVheEZqU1g1V19ieHJ6X2JQbTdPaVRqZnlEb1c2QmFvVG9Eb3Bpd3o4V2RfYkFVR2h3cmgtcldsNjQ3RVRudGlDMnBTQS01S3ZmT1NmUEZuRGFVMXVKWUlUWGtKT1ViekZKVURtRHhkS0dOMFlFQjlvNnVodnAtR053SUx5bGtPQzBBXzJubjV3cnRQVHdEY2xvaTA1aENDcXFwaHhBaDhQSzNaNWxFTHlVRndadTZDUmFIellkWHVtaXRWajU0V2RtR0xqdw?oc=5",
+      "date": "2026-11-05T11:13:17Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Urząd zwleka z decyzją i jest bezczynny w sprawie? Może dostać karę, a ty otrzymasz do 45 000 zł Forsal.pl."
     },
     {
       "title": "Analiza techniczna INTLTTF03443 INGBANK - BiznesRadar",
@@ -2597,31 +2597,31 @@
     "prices": [
       26532.48,
       26453.58,
-      28986.79,
+      28985.31,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      29024.28,
+      29022.8,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29278.81,
+      29277.32,
       27354.94,
       27400.36,
       27412.11,
-      29696.4,
+      29694.89,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28927.28,
+      28925.8,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29114.23,
+      29112.74,
       27686.17,
       27404.78,
       27351.97,
@@ -2630,7 +2630,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28810.84,
+      28809.37,
       27930.04,
       28234.04,
       28218.36,
@@ -2639,81 +2639,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29678.11,
+      29676.59,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29216.99,
+      29215.5,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29037.91,
+      29036.43,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29342.48,
+      29340.98,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30392.11,
+      30390.56,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30502.27,
+      30500.71,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30065.88,
+      30064.35,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30212.36,
+      30210.82,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30239.16,
+      30237.62,
       28449.73,
       28313.03,
       28272.33,
-      29997.75,
+      29996.22,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      29972.36,
+      29970.83,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30336.36,
+      30334.81,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30255.3,
+      30253.76,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30603.27,
+      30601.71,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30007.39,
+      30005.86,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      29867.29,
+      29865.77,
       30100.92,
       30418.01,
       30609.55,
@@ -2722,7 +2722,7 @@
       29803.46,
       29840.69,
       30241.96,
-      28809.71
+      28808.24
     ],
     "currency": "PLN"
   }
