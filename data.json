@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-07T06:21:07Z",
+  "last_updated": "2026-11-07T06:22:10Z",
   "poland": [
+    {
+      "title": "Komisarz Michael McGrath: Unia wzmocni ochronę konsumentów w internecie",
+      "url": "https://www.rp.pl/opinie-polityczno-spoleczne/art45454961-komisarz-michael-mcgrath-unia-wzmocni-ochrone-konsumentow-w-internecie",
+      "date": "2026-11-07T06:20:06Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Europa zbudowała jedną z najsilniejszych na świecie tradycji ochrony konsumentów. Teraz musimy zadbać o jej dobre funkcjonowanie w nowej rzeczywistości. Dlatego niedługo przedstawię Akt w sprawie sprawiedliwości cyfrowej."
+    },
     {
       "title": "Fala fałszywych alarmów bombowych w Europie. Maile z pogróżkami dotarły do redakcji",
       "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33121375,fala-falszywych-alarmow-bombowych-w-europie-maile-z-pogrozkami.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -104,14 +112,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Agencja ratingowa S&P obniżyła w piątek perspektywę ratingu Polski ze stabilnej do negatywnej. Były premier i lider stowarzyszenia Rozwój Plus Mateusz Morawiecki winą za to obarczył Donalda Tuska."
-    },
-    {
-      "title": "Hakerzy w Amadeusie. „Rozległy wyciek danych klientów linii lotniczych\"",
-      "url": "https://sukces.rp.pl/linie-lotnicze/art45458321-hakerzy-w-amadeusie-rozlegly-wyciek-danych-klientow-linii-lotniczych",
-      "date": "2026-11-06T22:47:44Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Cyberprzestępcy włamali się do międzynarodowego systemu rezerwacji biletów lotniczych Amadeus i uzyskali dostęp do nazwisk, tras podróży i numerów paszportów. Jest kilka poszkodowanych linii lotniczych, w tym Norwegian."
     },
     {
       "title": "Wyniki Lotto na 6 listopada. Sprawdź szczęśliwe liczby",
@@ -950,14 +950,6 @@
       "summary": "Former Malaysian leader Najib stays in prison after house arrest is put on hold AP News."
     },
     {
-      "title": "Federal judge orders 14-day delay on any work beginning on Trump’s monumental arch - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHlScU9rQWNvSC1DY3NqTjlfSmV0ZTZNNFJ6UkhodWtmQVljUDFtY1NGODBoanhvcDcyNm1RbjdVN2xrTnMzY3NtVkZpenRxM0I2RXNxTlVlWVBnMTZ1aUFQMW9YNkNYcmUwUUNZWlZESEMxZVVEVzdLTU5aTnpQZlplcEJnSlZpRFRoSENTaDkwcnVmUWh5bklwcU01UF9HNko4?oc=5",
-      "date": "2026-11-06T06:38:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Federal judge orders 14-day delay on any work beginning on Trump’s monumental arch AP News."
-    },
-    {
       "title": "Paraguay President Peña under investigation, faces removal from office over bank collapse - AP News",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam96dk1BWFZKQ0pzUHlCZ2FpdEkzUWRqbks0di1NdW9jSE16M1F2c3lwMkphbkEzT0JZNzYxTzdnTkxMcjF4b3U1T25ESkNjQXpmU0ItLVhfanZiaUVsWkpNcUl2ZUNoa3MxRFlHRGRNam9rRzVVblF5bjV5UTAtYW9NVldrSG1QcWwyOXJ1eG1KcFlpbFRjbmtOVGNSSFU0aGxpM1lrd0N1YVhGZWUyNmxXdFRXZVh5dnFVMTBVbERkNldBSWpN?oc=5",
       "date": "2026-11-06T05:16:00Z",
@@ -1004,6 +996,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Trump makes the Oval Office a national monument. But future presidents can still redecorate AP News."
+    },
+    {
+      "title": "California Gov. Newsom says he will commute all death sentences in state to life without parole - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXM0d1k2ajhHSTBsWmVGM1daSlByM2dqRmttVU9uZjZJVF9fSm1wRTh5TmRFeEhDdlVDREdVcWlpMmIyWElvUm03Tnc5UkZIV2xlUGh0YmEzTTFmb1Etal8xQzB4OW43empXWVJXQVNTRnJkejN0VFc4MGFKRUN5YXdxdlFjbVg4cFFSaHg0T3NMTy1NclB5NUVpR1QwYlJSYlllLWluZmM?oc=5",
+      "date": "2026-11-06T00:47:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "California Gov. Newsom says he will commute all death sentences in state to life without parole AP News."
     }
   ],
   "technology": [
@@ -2432,12 +2432,12 @@
       "instrument": "np. ETF iShares Global Aerospace & Defense (ITA)"
     },
     {
-      "sector": "Złoto i obligacje skarbowe",
-      "instrument": "np. ETF na złoto (GLD) lub obligacje skarbowe"
+      "sector": "Sektor energetyczny/surowcowy",
+      "instrument": "np. ETF Energy Select Sector (XLE)"
     },
     {
-      "sector": "Sektor cyberbezpieczeństwa",
-      "instrument": "np. ETF Global X Cybersecurity (BUG)"
+      "sector": "Złoto i obligacje skarbowe",
+      "instrument": "np. ETF na złoto (GLD) lub obligacje skarbowe"
     }
   ],
   "sp500_trend": {
