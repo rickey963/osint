@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T20:23:27Z",
+  "last_updated": "2026-11-07T20:24:12Z",
   "poland": [
     {
       "title": "Po tragicznym zamachu w Krakowie. Tak należy się zachować, gdy słyszysz strzały",
@@ -8,6 +8,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Słysząc strzały, należy oddalić się od zagrożenia i ostrzegać innych, a jeśli ucieczka jest niemożliwa - szukać schronienia – powiedział PAP ekspert ds. terroryzmu Andrzej Mroczek. Ocenił też, że służby w Krakowie szybko rozpoznały zagrożenie i właściwie na nie zareagowały."
+    },
+    {
+      "title": "Policja w domu sprawcy z Krakowa. Akcja służb w Ostrowcu Świętokrzyskim",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-07/policja-w-domu-sprawcy-z-krakowa-akcja-sluzb-w-ostrowcu/",
+      "date": "2026-11-07T20:19:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Policja przeszukuje miejsce zamieszkania mężczyzny, który dokonał ataku w Krakowie. - Tych służb jest tutaj naprawdę dużo. Teren jest zabezpieczony, jest odgrodzony - powiedziała reporterka Polsat News Ewa Pajuro."
     },
     {
       "title": "\"Coś się zmienia w Polsce\". Gorzka diagnoza Komorowskiego po ataku w Krakowie",
@@ -218,14 +226,6 @@
       "summary": "Sprawca zdarzenia z Rynku Głównego w Krakowie jest obywatelem Rzeczpospolitej Polskiej. Dementujemy informację o śmierci policjanta oraz o poszukiwaniu kolejnego sprawcy. Jedyny znany sprawca zdarzenia jest w rękach policji - przekazała Małopolska Policja w najnowszym komunikacie."
     },
     {
-      "title": "\"Uważam go człowieka za ćwierćinteligentnego\". Szumowski nie oszczędził lekarza",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-07/uwazam-go-czlowieka-za-cwiercinteligentnego-szumowski-nie-oszczedzil-lekarza/",
-      "date": "2026-11-07T16:17:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "- Jestem dramatycznym przeciwnikiem argumentu: wy, lekarze, zostaliście wykształceni za nasze pieniądze. A, przepraszam, chemik to nie został wykształcony za nasze pieniądze? - stwierdził Łukasz Szumowski w podcaście Jankowski Kontra na YouTube Polsat News."
-    },
-    {
       "title": "Miał 20 kilka lat i dostał kontrakt na 300 mln dol. Tak działa handel bronią",
       "url": "https://businessinsider.com.pl/wideo/handel-bronia-polityka-i-wielkie-pieniadze-historia-davida-packouza/5mq5wj9",
       "date": "2026-11-07T16:00:00Z",
@@ -406,7 +406,7 @@
     {
       "title": "What we know so far after Polish gunman opens fire in Krakow main square",
       "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07T20:08:31Z",
+      "date": "2026-11-07T20:23:17Z",
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Strzały w Krakowie, cisza w telefonach i sprzeczne informacje. Co wiemy o okolicznościach zamachu",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/strzaly-w-krakowie-cisza-w-telefonach-i-sprzeczne-informacje-co-wiemy-o-okolicznosciach-zamachu",
+      "date": "2026-11-07T20:20:49Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Sześć osób zginęło, a kilkanaście zostało rannych – to ostatni bilans zamachu w centrum Krakowa. Do mediów trafiały sprzeczne informacje o liczbie napastników, a policja musiała dementować doniesienia o śmierci funkcjonariuszarannych. Padają też pytania, dlaczego mieszkańcy nie otrzymali Alertu RCB."
+    },
+    {
       "title": "Fireworks says you’re wasting money on AI unless you’re using all the models",
       "url": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
       "date": "2026-11-07T15:00:00Z",
@@ -1624,14 +1632,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Polska Agencja Kosmiczna (POLSA) poinformowała o nieuprawnionym dostępie do wewnętrznych systemów CloudFerro (zewnętrznego podmiotu), dostawcy usługi NSIS Cloud – platformy chmurowej Narodowego Systemu Informacji Satelitarnej. Nieuprawniona osoba skopiowała dane użytkowników z rejestru kont oraz modułu rozliczeniowego usługi. Atakujący zażądał okupu."
-    },
-    {
-      "title": "Home Office cloud services contract may net AWS £1B",
-      "url": "https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106",
-      "date": "2026-11-06T12:47:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Planning notice puts renewal at nearly twice the 2023 value, just as Whitehall frets about US tech dependence."
     },
     {
       "title": "Masz mObywatela? Po 16 listopada możesz mieć problem. Ważny komunikat",
