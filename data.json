@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T21:04:59Z",
+  "last_updated": "2026-11-07T21:05:47Z",
   "poland": [
     {
       "title": "Trzy ciała w domu zamachowca z Krakowa. Trwa akcja służb",
@@ -47,7 +47,7 @@
       "date": "2026-11-07T20:42:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
-      "summary": "- Musimy się wykazać nadzwyczajną solidarnością. Dziś nie może być miejsca na żadną grę - powiedział po przyjeździe do Krakowa premier Donalda Tusk."
+      "summary": "Premier Donald Tusk podczas specjalnej odprawy w Krakowie powiedział, że w domu sprawcy zamachu w Krakowie są trzy martwe osoby. - Wiele na to wskazuje, że to członkowie najbliższej rodziny - powiedział szef rządu."
     },
     {
       "title": "Po tragicznym zamachu w Krakowie. Tak należy się zachować, gdy słyszysz strzały",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
+      "url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+      "date": "2026-11-07T21:00:19Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The crowds were smaller on Saturday than in previous weeks’ demonstrations, but the animating sense of grievance remained."
+    },
+    {
       "title": "Prosecutors Charge Paraguay’s Former President With Corruption",
       "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
       "date": "2026-11-07T20:17:15Z",
@@ -788,14 +796,6 @@
       "source": "Associated Press",
       "confirmed_by": 2,
       "summary": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu AP News."
-    },
-    {
-      "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
-      "url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
-      "date": "2026-11-07T19:21:43Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "The crowds appeared to be smaller on Saturday than they had been in previous weeks’ demonstrations, but the animating sense of grievance remained."
     },
     {
       "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
@@ -942,14 +942,6 @@
       "summary": "Meghan's estranged father arrested and charged with possessing child sexual abuse materials AP News."
     },
     {
-      "title": "Why it’s still too early to call the US Senate race in Mississippi - AP News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3o5UDVSZWVrQmI3Wk9zZS14MlJ2QnFYWkNHem1HdHlvVG5YX3JybWd3MVZRd19uclM2ZENiZ09yd3ZoNlZDcmFQam5rVm1xSGhkM1pwNUdYVExwOE1tNVI5ZTFDcGhJVmY1eG8xdW9nN19UZHRaUk9OaHF5WVdwOWozR2dsem9wa0dqSHhDVE5vckNWRUdXMEE3eUZYSG92Z2hZVC1CTmo5Q0hpUWEtblFCanY?oc=5",
-      "date": "2026-11-06T22:14:42Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Why it’s still too early to call the US Senate race in Mississippi AP News."
-    },
-    {
       "title": "How major US stock indexes fared Friday 11/6/2026 - AP News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQXzljVFVvbXlvT3R4dnZDajBFNHhiM3JDOWVZWGJzLXB3bGNEWmw5QWIzdEJOakJhUlZiTVJrMHVmVEdFR0tFUi10QTZCNm5JbVRJbGhsdUxibXU1T3hfcURvc0lnS1luMDJUTVk4OU1PY0pXWl9kYUR5R08yRzJjUVhXbGhIcTdpZFllMW9RemkzVHc?oc=5",
       "date": "2026-11-06T21:20:00Z",
@@ -1004,9 +996,25 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison AP News."
+    },
+    {
+      "title": "‘JD, habibi.’ Arabs celebrate El-Sayed’s use of a term of affection in his victory speech - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVHlhTHhrNHJwUm5aZmhnMHRzVTJUeXhXR3BPR0laLUFTTi11cjdRZmdseEFBdkhmaFVMNVlpb3o2OGdfTjFJMUpLZlNCc1NpU1MwZ0dZRXFWZ21hUngxQ2pTZ3lEQzBCbUJsSEp2TXdIaVRnbnQtckNfU2pTcklVdmlDWjJVR0N1bkE0Rngtb2pDVmhiSHhBSjBmV3VGcWxOR2ZTM29MRFkzcTA?oc=5",
+      "date": "2026-11-06T02:02:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "‘JD, habibi.’ Arabs celebrate El-Sayed’s use of a term of affection in his victory speech AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "date": "2026-11-07T20:45:32Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 10 # Comments: 0."
+    },
     {
       "title": "Utopili go i rozbili przy 100 km/h. Elektryczny XPENG G9L przetrwał",
       "url": "https://www.instalki.pl/news/motoryzacja/xpeng-g9l-testy-bezpieczenstwa-100-km-h/",
@@ -1061,7 +1069,7 @@
       "date": "2026-11-07T18:12:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 138 # Comments: 25."
+      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 154 # Comments: 28."
     },
     {
       "title": "The end of Microsoft Research's AI Frontiers group",
@@ -1069,7 +1077,7 @@
       "date": "2026-11-07T18:02:17Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "https://archive.is/AaY5Ohttps://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 205 # Comments: 106."
+      "summary": "https://archive.is/AaY5Ohttps://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 217 # Comments: 119."
     },
     {
       "title": "Binance says CFO Kaiser Ng is leaving to \"pursue a new venture\" days after a $6.3B hack, citing a six-month transition plan, and names Justin Yek as CFO (Bloomberg)",
@@ -1093,7 +1101,7 @@
       "date": "2026-11-07T17:54:56Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor Comments URL: https://news.ycombinator.com/item?id=50406502 Points: 15 # Comments: 0."
+      "summary": "Article URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor Comments URL: https://news.ycombinator.com/item?id=50406502 Points: 16 # Comments: 2."
     },
     {
       "title": "Recenzja Phantom Blade Zero. Filmowe pojedynki i \"unrealowe\" przycinki",
@@ -1109,7 +1117,7 @@
       "date": "2026-11-07T17:30:49Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 45 # Comments: 20."
+      "summary": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 48 # Comments: 23."
     },
     {
       "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
@@ -1125,7 +1133,7 @@
       "date": "2026-11-07T17:19:00Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 106 # Comments: 26."
+      "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 111 # Comments: 27."
     },
     {
       "title": "Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI's disproof \"shocking news\"; it could one day speed up chip design and break encryption (Cade Metz/New York Times)",
@@ -1141,7 +1149,7 @@
       "date": "2026-11-07T17:06:36Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 174 # Comments: 118."
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 195 # Comments: 122."
     },
     {
       "title": "Microsoft opatentował potwora. Już nigdy nie będziesz pewny istnienia \"prawdy\"",
@@ -1302,14 +1310,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Smartfony HUAWEI nadal są smartfonami bardzo niszowymi, a powody ku temu są oczywiste. Ich możliwości warto jednak znać, zwłaszcza te fotograficzne, bo w tym zakresie chiński producent naprawdę lubi się wykazywać. Nieinaczej jest w przypadku najnowszych flagowców, które w końcu, po długich miesiącach, trafiają do sprzedaży i w Polsce."
-    },
-    {
-      "title": "Szukasz ciekawych aplikacji na Androida? Oto 5 propozycji na ten tydzień",
-      "url": "https://www.instalki.pl/news/software/android-aplikacje-tygodnia-500/",
-      "date": "2026-11-07T08:54:37Z",
-      "source": "Instalki.pl",
-      "confirmed_by": 1,
-      "summary": "W tym tygodniu prezentujemy aplikację przydatną podczas podróży pociągiem, łatwe w obsłudze narzędzie do tłumaczenia, a także przemyślany tytuł do tworzenia notatek. Mobilni gracze będą mogli zmierzyć się z kolorową grą logiczną oraz zabawnym tytułem z pojedynkami 1 vs 1. Trainradar24 Cena: 0 zł / Zawiera reklamy / Android: 8.0 i nowsze Aplikacja przydatna podczas [&#8230;] Artykuł Szukasz ciekawych aplikacji na Androida?"
     },
     {
       "title": "NASA straciła teleskop Swift. Spłonął po nieudanej próbie ratowania",
@@ -2251,7 +2251,7 @@
       "date": "2026-11-07T20:42:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
-      "summary": "- Musimy się wykazać nadzwyczajną solidarnością. Dziś nie może być miejsca na żadną grę - powiedział po przyjeździe do Krakowa premier Donalda Tusk."
+      "summary": "Premier Donald Tusk podczas specjalnej odprawy w Krakowie powiedział, że w domu sprawcy zamachu w Krakowie są trzy martwe osoby. - Wiele na to wskazuje, że to członkowie najbliższej rodziny - powiedział szef rządu."
     }
   ],
   "map_features": [
