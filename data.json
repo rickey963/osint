@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T08:30:17Z",
+  "last_updated": "2026-11-07T08:31:06Z",
   "poland": [
     {
       "title": "Aresztowano prezydenta Paragwaju. Upadek banku, połowa obywateli bez możliwości wypłaty pieniędzy",
@@ -406,7 +406,7 @@
     {
       "title": "New Zealand election 2026 live results: Labour draws level with National as count continues in close race",
       "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-      "date": "2026-11-07T08:19:37Z",
+      "date": "2026-11-07T08:12:50Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast as kingmakerIn New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms?Another update here with 8% of the vote counted. National on 31.2%, Labour 28.4%, the Greens 12.9%, Act 11.2%, NZ First 9.6%, Opportunity 5.7% and Te Pāti Māori 0.4%.On these numbers, we would have a right bloc coalition back in power. Long way to go."
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Windows takes a break at UK motorway services",
+      "url": "https://www.theregister.com/offbeat/2026/11/07/windows-takes-a-break-at-uk-motorway-services/5307862",
+      "date": "2026-11-07T08:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Bad drivers behind the wheel or underneath the operating system – neither is ideal."
+    },
+    {
       "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
       "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
       "date": "2026-11-07T06:44:17Z",
@@ -1648,14 +1656,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't."
-    },
-    {
-      "title": "UK ministers seek powers to investigate when AI agents are let off the leash",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
-      "date": "2026-11-06T11:00:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Cyber Security and Resilience Bill could pave way for searches, seizures, and inspections when operators lose control of automated systems."
     },
     {
       "title": "Facebook zaglądał pacjentom w recepty? Meta przed sądem",
@@ -2276,8 +2276,8 @@
       "lng": -2.5,
       "type": "cyber",
       "region": "Wielka Brytania",
-      "description": "Cyber Security and Resilience Bill could pave way for searches, seizures, and inspections when operators lose control of automated systems.",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889"
+      "description": "Bad drivers behind the wheel or underneath the operating system – neither is ideal.",
+      "url": "https://www.theregister.com/offbeat/2026/11/07/windows-takes-a-break-at-uk-motorway-services/5307862"
     },
     {
       "lat": 35.5,
