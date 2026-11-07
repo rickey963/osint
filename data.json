@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T12:53:11Z",
+  "last_updated": "2026-11-07T12:53:52Z",
   "poland": [
     {
       "title": "Gęste mgły w Polsce. Ostrzeżenia dla 14 województw. Utrudnienia na lotnisku w Krakowie",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07T12:49:36Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
+    },
+    {
       "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
       "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
       "date": "2026-11-07T12:30:26Z",
@@ -740,14 +748,6 @@
       "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week."
     },
     {
-      "title": "New wave of bomb threats hit European airlines",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T15:25:35Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "No link has been established between the threats against the airlines and those against the media outlets."
-    },
-    {
       "title": "EU charges TikTok with failing to protect users’ mental health",
       "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
       "date": "2026-11-06T15:17:08Z",
@@ -782,14 +782,6 @@
       "summary": "At least 44 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak."
     },
     {
-      "title": "2026 U.S. House Election Results - AP News",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-      "date": "2026-11-07T11:41:03Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "2026 U.S. House Election Results AP News."
-    },
-    {
       "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony",
       "url": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html",
       "date": "2026-11-07T11:00:07Z",
@@ -812,6 +804,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "For a fourth consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots."
+    },
+    {
+      "title": "2026 U.S. House Election Results - AP News",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+      "date": "2026-11-07T10:11:30Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "2026 U.S. House Election Results AP News."
     },
     {
       "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
@@ -974,14 +974,6 @@
       "summary": "Latino voters swing left in midterm elections, lifting Democrats to big wins in Texas and nationwide AP News."
     },
     {
-      "title": "Former Malaysian leader Najib stays in prison after house arrest is put on hold - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMm5tanF0cml5SUE3cVJuUE9ZTG10Tk1YNUdSS1pSRUNGQUVWMVpQcHE0SGdWVWxkUW1mM244amhndy11blJnZ3Nzb055bmJ0Y0I2dnpqaUJDUzFmRXdkcFBLU0hOTnVKck95RWZVNzNQaHZGWHFJWlpoRjF3YjMySmlTQURzeXFYMUQ5U1dFOEY4eWRnZEZYLTdXWDJpeEFfOEE?oc=5",
-      "date": "2026-11-06T13:13:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Former Malaysian leader Najib stays in prison after house arrest is put on hold AP News."
-    },
-    {
       "title": "Paraguay President Peña under investigation, faces removal from office over bank collapse - AP News",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam96dk1BWFZKQ0pzUHlCZ2FpdEkzUWRqbks0di1NdW9jSE16M1F2c3lwMkphbkEzT0JZNzYxTzdnTkxMcjF4b3U1T25ESkNjQXpmU0ItLVhfanZiaUVsWkpNcUl2ZUNoa3MxRFlHRGRNam9rRzVVblF5bjV5UTAtYW9NVldrSG1QcWwyOXJ1eG1KcFlpbFRjbmtOVGNSSFU0aGxpM1lrd0N1YVhGZWUyNmxXdFRXZVh5dnFVMTBVbERkNldBSWpN?oc=5",
       "date": "2026-11-06T05:16:00Z",
@@ -1004,6 +996,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison AP News."
+    },
+    {
+      "title": "Trump makes the Oval Office a national monument. But future presidents can still redecorate - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHJ3cFN3VWhNTTlLTDhHT1ZGdl9EdTZ2dC1xTEU3QklLUU1zMkltS1o2WkktNWx3T2FiVlNrLTN6bTVoYnQxQms2aWtGQ0lHbS1qSmNlRFZONWpNNll0ZloyUU1ObHZkN0IxNy1pM3NWcXc4S3k1cmg2eVZTYVpTMks1ZmZVYkcwTm9SSnRRN3VRX2RyUG9rbXBhSXU5WVhzMjc2Uw?oc=5",
+      "date": "2026-11-06T01:31:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Trump makes the Oval Office a national monument. But future presidents can still redecorate AP News."
     }
   ],
   "technology": [
@@ -2084,14 +2084,6 @@
       "summary": "NBP podnosi prognozy inflacji na 2027 i obniża perspektywy wzrostu PKB Wioletta Hass pt., 06.11.2026 Kanał Strefa Inwestorów inflacja NBP projekcja inflacji PKB polska gospodarka wzrost gospodarczy ceny energii inflacja bazowa KPO ETS2 Treść Listopadowa projekcja Narodowego Banku Polskiego zakłada, że inflacja wyniesie średnio 3,1 proc. w 2026 r., wzrośnie do 4,2 proc. w 2027 r."
     },
     {
-      "title": "DATAWALK SA (24/2026) Uzyskanie patentu w USA. Patent obtaining in US. - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjB2UE92cXh3MXBQNTJEcmdtUUM0QkUzbEtIZl9iT1FZcWFaLUR6d2NSdllua0lTYzV2emZwaUhWVW5kdmcxYkdXaVQ1U0d4SVQ3eVhkSUVZYVN1cUtaTjZ2QTFTUFNRcng3NG10QTlUbThWazVNU1NQTUF1MFYyTjhiOFF0Q0tFakNNbGpvcXk2ekxSMzJ6aW9ud3I0ODk2bUlVSA?oc=5",
-      "date": "2026-11-06T15:25:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "DATAWALK SA (24/2026) Uzyskanie patentu w USA. Patent obtaining in US. BiznesRadar."
-    },
-    {
       "title": "Obligacje skarbowe z ulgą po klęsce Republikanów. Przełomu jednak brak - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0hvSTJ6aUdoS3hZeGpTX01WSUd2TlZ3UzRmWHZZUWV6MVJKa18yRFl3V25YMGFwVzlVZU1aRmE4OFd0QVZQT25mSTkxTzZaWjRac1Mzd2tpSzMxMmpKcUhSbWEwekJxMk5BNGNqbjdNbXQybmFKV2tXb2w2d25mZG1WTzJLMGY3UENZVDVsU3E2SkZWdjRZWkR2cmhNMUNsTV9LaUY0Tklxdw?oc=5",
       "date": "2026-11-06T14:57:19Z",
@@ -2210,6 +2202,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Adam Glapiński ostrzega przed powrotem wyższej inflacji. RPP jest gotowa do zdecydowanej reakcji Wioletta Hass czw., 05.11.2026 Kanał Strefa Inwestorów konferencja Adama Glapińskiego Adam Glapiński Adam Glapiński złoto poziom stóp procentowych inflacja w Polsce decyzja RPP Treść W listopadzie Rada Polityki Pieniężnej zdecydowała o pozostawieniu stóp na niezmienionym poziomie. Jak co miesiąc Adam Glapiński, prezes banku centralnego, skomentował decyzję i ocenił bieżącą sytuację gospodarczą w kraju i na świecie.Podczas listopadowego posiedzenia RPP zdecydowano o pozostawieniu stóp procentowych na niezmienionym poziomie."
+    },
+    {
+      "title": "Wiadomości INC S.A. - strona: 245 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0Y2NUV19iaVNWWEZlWVZGend3dDJRLWpFcHdfN3NVcl9vdnNUcDM1N205endRaFJQTTVjV2dmdVM3MTNGUTNTUkVmMWxmVEFnTFl5Tk9ZbTI?oc=5",
+      "date": "2026-11-05T14:06:37Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości INC S.A. - strona: 245 BiznesRadar."
     }
   ],
   "critical_alerts": [
