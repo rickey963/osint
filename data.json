@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T07:44:55Z",
+  "last_updated": "2026-11-08T07:45:43Z",
   "poland": [
     {
       "title": "\"Nikt mu nie pasował\". Sąsiad o zamachowcu z Krakowa",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Pod Bałtykiem powstaną ogromne tunele. Gigantyczne maszyny pod plażą",
+      "url": "https://spidersweb.pl/2026/11/elektrownia-jadrowa-tunele-baltyk.html",
+      "date": "2026-11-08T07:45:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Pod Bałtykiem powstaną ogromne tunele. Gigantyczne maszyny pod plażą."
+    },
+    {
       "title": "Zamiast reklam wyświetlali skandaliczne filmy. Skompromitowali cyfrowe billboardy",
       "url": "https://spidersweb.pl/2026/11/billboardy-z-filmami-dla-doroslych.html",
       "date": "2026-11-08T07:30:00Z",
@@ -1254,14 +1262,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Tak się śmiano z iPhone'a Duo z tego powodu, a w krótkim czasie już udało się deweloperom dostosować do niego 100 tys. aplikacji w AppStore. Co najciekawsze..."
-    },
-    {
-      "title": "Apple usunie przycisk z iPhone’a. Po czterech latach",
-      "url": "https://spidersweb.pl/2026/11/iphone-przycisk-czynnosci-koniec.html",
-      "date": "2026-11-07T15:50:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Apple usunie przycisk z iPhone’a. Po czterech latach."
     },
     {
       "title": "Xiaomi 18 Pro wreszcie globalnie. Polska też na liście!",
@@ -1794,20 +1794,20 @@
       "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems."
     },
     {
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "date": "2026-11-05T12:25:00Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how a change could affect the business."
+    },
+    {
       "title": "Korzystacie z OpenSSH na hostach z musl libc? Lepiej patchujcie i wyłączcie PasswordAuthentication",
       "url": "https://sekurak.pl/korzystacie-z-openssh-na-hostach-z-musl-libc-lepiej-patchujcie-i-wylaczcie-passwordauthentication/",
       "date": "2026-11-05T11:20:30Z",
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "5 listopada 2026 r. ukazała się łatka do Portable OpenSSH (dla przypominienia nie chodzi o bezinstalacyjną wersję serwera, która często wykorzystuje suffix &#8220;portable&#8221;, w przypadku OpenSSH chodzi o możliwość przenoszenia między systemami). Wydanie zawiera mitygację (workaround) na krytyczną podatność, która pozwala ominąć uwierzytelnianie hasłem na serwerach Linux z biblioteką musl..."
-    },
-    {
-      "title": "Zdalne cyberataki na chłodnie w Europie eskalują w niebezpieczną stronę. Zaatakowany bank krwi we Francji.",
-      "url": "https://sekurak.pl/zdalne-cyberataki-na-chlodnie-w-europie-eskaluja-w-niebezpieczna-strone-zaatakowany-bank-krwi-we-francji/",
-      "date": "2026-11-05T07:45:22Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Francja informuje, że w trzech bankach krwi w lodówkach zostały zwiększone temperatury do 110 stopni (z bazowej -30 stopni). Jak widać po tych temperaturach, nie są to takie zwykłe &#8220;lodówki&#8221;. Po wykryciu incydentu krew została przeniesiona do lodówek, które nie są podłączone do internetu."
     }
   ],
   "finance": [
@@ -2060,6 +2060,14 @@
       "summary": "Powtórka z 2008 r. w strefie euro? \"Wiele państw jest niewypłacalnych\" Forbes."
     },
     {
+      "title": "Wiadomości OW20A274500 GPW - ORGANIZATOR OBROTU - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPb1NEa1RISWlxbG9wMUxKNFZtU19UbnNDdmtEYlRtM1VwU3R5SmlKcXdLRl85eWFhUDFmeENtOVBsMXM0bm1vV1dJYVpGdW5kd21lWHRicEd4MnNiZnc?oc=5",
+      "date": "2026-11-06T16:19:47Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości OW20A274500 GPW - ORGANIZATOR OBROTU BiznesRadar."
+    },
+    {
       "title": "Wiadomości INC S.A. - strona: 247 - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aR256WWlJQnB6MWJ1dDg1eXBiWkEwdHRrQzZQT25pMXZmWkdzcTVLUjQ5ZDFKem1rWGRqVTJTMXhrQnNiS3NuY2xuUFdhb3MtVmg2RTIzR0o?oc=5",
       "date": "2026-11-06T15:40:58Z",
@@ -2170,14 +2178,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Wiadomości CYFROWY POLSAT (CPS) - strona: 42 BiznesRadar."
-    },
-    {
-      "title": "Akcjonariat: akcjonariusze MUZA (MZA) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uMTdxMHdhd3l1emVDbXpJRVRBcUltc2RLMGRWemMwZjh1aWxXWjlibVhCMG8yOUowREVhZF9aT0xOcTUxdVFIN3E2X1NCY3k2MTB2ZGdn?oc=5",
-      "date": "2026-11-05T15:59:38Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Akcjonariat: akcjonariusze MUZA (MZA) BiznesRadar."
     },
     {
       "title": "Wiadomości BEEIN (BEE) - strona: 4 - BiznesRadar",
@@ -2292,8 +2292,8 @@
       "lng": 78.5,
       "type": "cyber",
       "region": "Indie",
-      "description": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment.",
-      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"
+      "description": "A critical finding can move through several security tools and still leave the organization exposed.",
+      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html"
     },
     {
       "lat": 55.5,
