@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T09:20:19Z",
+  "last_updated": "2026-11-08T09:21:06Z",
   "poland": [
     {
       "title": "Radosław Ditrich: SAFE był i jest dla nas korzystny. Nie dajcie się zwieść",
@@ -1032,6 +1032,14 @@
       "summary": "AI zrobiła audyt Linuksa. Znalazła 948 dziur."
     },
     {
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "date": "2026-11-08T08:40:23Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.lorekit.io/blog/open-agent-memory-format Comments URL: https://news.ycombinator.com/item?id=50411467 Points: 3 # Comments: 0."
+    },
+    {
       "title": "RTV Euro AGD idzie w sztuczną inteligencję. Doradców w sklepach wesprze Gemini",
       "url": "https://www.instalki.pl/news/internet/rtv-euro-agd-idzie-w-sztuczna-inteligencje-doradcow-w-sklepach-wesprze-gemini/",
       "date": "2026-11-08T08:30:24Z",
@@ -1165,7 +1173,7 @@
       "date": "2026-11-08T04:14:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html Comments URL: https://news.ycombinator.com/item?id=50410359 Points: 36 # Comments: 6."
+      "summary": "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html Comments URL: https://news.ycombinator.com/item?id=50410359 Points: 36 # Comments: 7."
     },
     {
       "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
@@ -1173,7 +1181,7 @@
       "date": "2026-11-08T03:47:19Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/dmunozv04/isponsorblocktv Comments URL: https://news.ycombinator.com/item?id=50410249 Points: 30 # Comments: 4."
+      "summary": "Article URL: https://github.com/dmunozv04/isponsorblocktv Comments URL: https://news.ycombinator.com/item?id=50410249 Points: 32 # Comments: 6."
     },
     {
       "title": "Goodbye Claude, Hello Pi",
@@ -1181,7 +1189,7 @@
       "date": "2026-11-08T03:11:48Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 258 # Comments: 145."
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 268 # Comments: 151."
     },
     {
       "title": "How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms (Politico)",
@@ -1197,7 +1205,7 @@
       "date": "2026-11-08T02:02:38Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 36 # Comments: 16."
+      "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 41 # Comments: 16."
     },
     {
       "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
@@ -1213,15 +1221,7 @@
       "date": "2026-11-07T23:15:34Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 52 # Comments: 17."
-    },
-    {
-      "title": "GitHub New pull request overview page in public preview",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-      "date": "2026-11-07T23:09:40Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 134 # Comments: 86."
+      "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 53 # Comments: 17."
     },
     {
       "title": "Utopili go i rozbili przy 100 km/h. Elektryczny XPENG G9L przetrwał",
@@ -1828,14 +1828,6 @@
       "summary": "Niemal wszystkie gospodarstwa rolne w Polsce posiadają samochód osobowy, a mieszkańcy wsi są znacznie bardziej zmotoryzowani niż mieszkańcy miast. Z danych GUS przeanalizowanych przez Superauto.pl wynika też, że wyższy poziom motoryzacji notuje się we wschodniej niż zachodniej części kraju."
     },
     {
-      "title": "PSZOK odmówi przyjęcia zużytej opony. Właściciela może czekać kosztowna niespodzianka - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQUF2VDZ5ZGFYdFZiY0RiLTE4M25RaTlRRUlKU1ZrdE5uWTl5Z3hDZk0wR20xYVo4eVR1U045ZXNndDRxTjdlLXloR3M5Sk1nWGt5YjRvLWUyRUlwcFBXaU5neksySUlNVHoxLUZlb0hmUExlSXdkQzB6elZGZ1ZIVHRwUWRNNzJCMXRVVzJYNzcwQm4wSUVWZ3Ata0VldWhiMDloOU9BNk5jQkVVdzdWaHdmUndpeGhCNjY1MXNqeDdqRnZ2STJQZFczTC1IY3hFRFFlaF9hQ3NGUQ?oc=5",
-      "date": "2026-11-08T08:17:09Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "PSZOK odmówi przyjęcia zużytej opony. Właściciela może czekać kosztowna niespodzianka Forsal.pl."
-    },
-    {
       "title": "892 złote z urzędu co miesiąc. Im szybciej złożysz wniosek, tym więcej pieniędzy dostaniesz - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSUdsNl9MbmotMWhNS1NVVHpyZmlIWG8yN0x5MjJXRWVTdjgxQ3A5V2Z1bTFja190VmJHaHFlcTBySGI3d1oyVE1IU3lzTVQtbEE0Ymc2b3Z5di1aWThfVndTUkExbXVNR2ptQ3dtZWlTX1ptLWFtcEZqbUM4MkJ2Y0Q3M0h5UGJjaTdQdG5PVGpPRno5ejh3Qk82VnYwQkVyZUhXaWNXTU5JUVZZc2FvSE1LTUlqb29qNGxWeF9iT3gtNkptNjFtMHh4bmQ0WEJTcFlTM0EtUnFvQ1U?oc=5",
       "date": "2026-11-08T08:06:52Z",
@@ -1922,6 +1914,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Przez wypadek musiał porzucić pracę w kopalni. Dziś jest biznesowym potentatem Forbes."
+    },
+    {
+      "title": "11 milionów Polaków już zachorowało. Wielu jeszcze o tym nie wie. To atakuje powoli i bez objawów - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQTVfY3pjYXpoR0JJS2V0b1hnMjdIdV9HVmhuS0JTWGx2NEtqdEd2WUE3N2VJYVRrcU9OVEJWYzJITzFRdXRQVWFvYXVsdXRZUDFNejZqeVhFVHZLSlZCYkI1UXBraldyWmhnMmltak0yU0s0OGFWNUlqempYdU1FXzg4eVNXZzkzTmtyWEJfU3Z3UW04ZU5aMVlHcmNxZUZDZ1NzcEpQbld1LTBXWjdhZG1wSFd0eTZwaTFncWR0Yk9BNUdDVFdEYjRqYkxtdjJSNjFmWVpOckJ1VjAtQmRaTkJ4bHhBUGJqd1FjSGtlbUhpVnM?oc=5",
+      "date": "2026-11-08T05:50:01Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "11 milionów Polaków już zachorowało. Wielu jeszcze o tym nie wie. To atakuje powoli i bez objawów Forsal.pl."
     },
     {
       "title": "Prezydent podjął decyzję. Żałoba narodowa w całej Polsce",
@@ -2044,14 +2044,6 @@
       "summary": "9 listopada rozpocznie się COP31, czyli 31. Konferencja ONZ w sprawie zmiany klimatu. W tym roku światowe gospodarki zmagały się z katastrofalnymi falami upałów."
     },
     {
-      "title": "Notowania Mastercard Inc. Class A Common Stock (MA.US) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LczVhZEg0SkZmdm9yazlodnd5ZzVCU0xReW5BVHY3Y3k5OG1Vd252UDFkMHh0YTBXMzdFQ2FwY0xSSENEaldqMFg5a1ZoTkNXcmJLVg?oc=5",
-      "date": "2026-11-06T21:00:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania Mastercard Inc. Class A Common Stock (MA.US) BiznesRadar."
-    },
-    {
       "title": "Te sklepy wygrywają walkę o portfele Polaków. Głosowało 155 tys. klientów",
       "url": "https://300gospodarka.pl/news/te-sklepy-wygrywaja-walke-o-portfele-polakow-glosowalo-155-tys-klientow",
       "date": "2026-11-06T20:07:03Z",
@@ -2076,36 +2068,44 @@
       "summary": "Powtórka z 2008 r. w strefie euro? \"Wiele państw jest niewypłacalnych\" Forbes."
     },
     {
-      "title": "Notowania MDV (MODIVO) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81bHVudUg4LWhKcDByN2gzVTlMS3Y0a1ZQQ21zUDRWTnBLSUQzWDdMTXFlNWtOSGtidWhhbGpyY2VZZXFuRk1RWnlGMENmLU5wT2c?oc=5",
-      "date": "2026-11-06T16:04:27Z",
+      "title": "Notowania WIGGORNIC (WIG-GORNIC) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNLTFPRjJkYThKODlHeVB3bkxLU2ZYZlNYaTg2YzRpYmQ0TlgwZmJoeTViQVVWOUd0VktpOXJkREdTcTkyRmFocjNKUWVRTS0xYzluZGlWR0NDdw?oc=5",
+      "date": "2026-11-06T16:15:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania MDV (MODIVO) BiznesRadar."
+      "summary": "Notowania WIGGORNIC (WIG-GORNIC) BiznesRadar."
     },
     {
-      "title": "Transakcje XTB - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ReDlZNEpZN08tNlhJZ3REaFRpN0hqaDVLN3dOWUdOWDl6Y09jU0RST2RacXlBaWtUOTZYVGh6QnZheDJSdHZLY25kZzdDMGlMckpF?oc=5",
-      "date": "2026-11-06T16:03:32Z",
+      "title": "Notowania COG (COGNOR) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11LW9kZFZYYjRYQ0t0aXpkeWY0MjFLWlBncFRHb1NwcXN6X3hQb0k4Q3YxU29zMENHN3loeEc4S0c2a3RoUGV2OUtGMlRJTzhBUVl3elVR?oc=5",
+      "date": "2026-11-06T16:04:43Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Transakcje XTB BiznesRadar."
+      "summary": "Notowania COG (COGNOR) BiznesRadar."
     },
     {
-      "title": "Notowania RVU (RYVU) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41Uzl6emZUS0FVanZXTjMzMlFWcVdfVU9VV3ZfcE9sT0V3MEdvc1ZiUm5Td01pczhKdG5oR3RqR0U4M3MtaTBZd1NDbGxiWjFETmc?oc=5",
-      "date": "2026-11-06T15:59:54Z",
+      "title": "Notowania PEO (PEKAO) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iT1VDNDhkaEE0b1VNWGl2dWZ4UnpLLS1XOUJuMUdiZENNZmljOGZzaTMzWjBjZTI5OFRDSDkzY0NwUlE0WDFFaTZFRXdrZlNETFNNSA?oc=5",
+      "date": "2026-11-06T16:01:30Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania RVU (RYVU) BiznesRadar."
+      "summary": "Notowania PEO (PEKAO) BiznesRadar."
     },
     {
-      "title": "Notowania KPL (KINOPOL) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SY21MbHRfRUVZRFZHeUZ4bHZUTUR1NEExRlAyb2dsRHBxaXVrMGlwcXRwWFVwU1d1R2pfWlRQYnotUmlyd25DRGdLUEd2QXlMQVBKM3FidF9HZklUTDdtOA?oc=5",
-      "date": "2026-11-06T15:59:37Z",
+      "title": "Notowania TEN (TSGAMES) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54VjJyRG1KdFEwSEh3ZzhBT3dQSl8yM3gxRG9ybWM5Ul9aUHdGMzN6eThmR2xQbXVXT3RiSjkteHR2UVVTdDBXYjdIa0NPeldZNVE?oc=5",
+      "date": "2026-11-06T15:59:46Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania KPL (KINOPOL) BiznesRadar."
+      "summary": "Notowania TEN (TSGAMES) BiznesRadar."
+    },
+    {
+      "title": "Notowania META PLATFORMS, INC. - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vMy13ZFk0bmxMQVF0WWh4T1dMRjIzUGpBSnJXcUVveE9wenA2X2M3bEM1MGdGc0kxbjAwdTZJM1d0QW53NEh5bWlSandBWUtBTE9N?oc=5",
+      "date": "2026-11-06T15:49:53Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania META PLATFORMS, INC. BiznesRadar."
     },
     {
       "title": "NBP podnosi prognozy inflacji na 2027 i obniża perspektywy wzrostu PKB",
