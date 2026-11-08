@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-08T15:03:21Z",
+  "last_updated": "2026-11-08T15:04:06Z",
   "poland": [
+    {
+      "title": "Zamach w Krakowie. Pięć fałszywych narracji, które pojawiły się w internecie",
+      "url": "https://www.rp.pl/kraj/art45460481-zamach-w-krakowie-piec-falszywych-narracji-ktore-pojawily-sie-w-internecie",
+      "date": "2026-11-08T15:02:34Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Po sobotniej strzelaninie w Krakowie w mediach społecznościowych szybko zaczęły pojawiać się fałszywe informacje, niektóre inicjowane i powielane przez polityków. PAP wyróżniła pięć głównych tzw. fejkowych narracji."
+    },
     {
       "title": "Nie tylko Patrioty bronią polskiego nieba. Wojsko nie rezygnuje z poradzieckich wyrzutni Newa-SC",
       "url": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art45453671-nie-tylko-patrioty-bronia-polskiego-nieba-wojsko-nie-rezygnuje-z-poradzieckich-wyrzutni-newa-sc",
@@ -96,14 +104,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 2,
       "summary": "Mało kto wierzy, że tragedia w Krakowie zmieni bieżącą politykę. Dwa najważniejsze dziś pola konfliktu to wojna o Trybunał Konstytucyjny i Marsz Niepodległości. Marsz planowany jest na środę i zgodnie z zapowiedziami organizatorów odbędzie się."
-    },
-    {
-      "title": "Masakra w Krakowie. Michał O. zaplanował zabicie jak największej liczby ludzi",
-      "url": "https://www.rp.pl/przestepczosc/art45460331-masakra-w-krakowie-michal-o-zaplanowal-zabicie-jak-najwiekszej-liczby-ludzi",
-      "date": "2026-11-08T13:21:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "To pierwszy w Polsce przypadek tzw. active shooter (aktywnego zabójcy). Zamachowiec z Krakowa wcześniej zabił w mieszkaniu swoich rodziców i siostrę."
     },
     {
       "title": "Zbiórki dla policjantów rannych w strzelaninie w Krakowie. Darczyńcy wpłacili już miliony złotych",
@@ -2206,6 +2206,14 @@
   ],
   "critical_alerts": [
     {
+      "title": "Zamach w Krakowie. Pięć fałszywych narracji, które pojawiły się w internecie",
+      "url": "https://www.rp.pl/kraj/art45460481-zamach-w-krakowie-piec-falszywych-narracji-ktore-pojawily-sie-w-internecie",
+      "date": "2026-11-08T15:02:34Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Po sobotniej strzelaninie w Krakowie w mediach społecznościowych szybko zaczęły pojawiać się fałszywe informacje, niektóre inicjowane i powielane przez polityków. PAP wyróżniła pięć głównych tzw. fejkowych narracji."
+    },
+    {
       "title": "W Krakowie interweniowało ponad 1000 policjantów. \"Nie kalkulowali ryzyka\"",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-11-08/w-krakowie-interweniowalo-ponad-1000-policjantow-nie-kalkulowali-ryzyka/",
       "date": "2026-11-08T14:53:00Z",
@@ -2236,14 +2244,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Nie potrzebujemy samozwańczych ekspertów, którzy z kanapy oceniają pracę policjantów, tylko katalogu dobrych praktyk w sytuacjach kryzysowych, takich jak zamach w Krakowie."
-    },
-    {
-      "title": "Atak w Krakowie. Wojewoda przekazał nowe informacje o jednej z ofiar",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-08/atak-w-krakowie-najnowsze-informacje-o-rannych/",
-      "date": "2026-11-08T14:10:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 3,
-      "summary": "- Mogę potwierdzić, iż 51-letnia kobieta, która jest szóstą ofiarą tegoż zamachu to obywatelka Austrii - przekazał wojewoda małopolski Krzysztof Klęczar. Wyjaśnił, że w sześciu krakowskich szpitalach przebywa 16 rannych osób. Stan jednej - policjanta, który brał udział w zatrzymaniu sprawcy jest ciężki."
     }
   ],
   "map_features": [
