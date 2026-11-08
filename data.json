@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T04:13:48Z",
+  "last_updated": "2026-11-08T04:14:38Z",
   "poland": [
     {
       "title": "Najem krótkoterminowy wraca do Sejmu. Senatorowie w obronie praw właścicieli mieszkań",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "date": "2026-11-08T03:11:48Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 4 # Comments: 2."
+    },
+    {
       "title": "How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms (Politico)",
       "url": "https://www.techmeme.com/261107/p18#a261107p18",
       "date": "2026-11-08T02:45:02Z",
@@ -1016,12 +1024,20 @@
       "summary": "Politico: How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms &mdash; For years, the policy debate over artificial intelligence belonged to those who counted progress in decades."
     },
     {
+      "title": "Consumer brain wave headsets threaten privacy",
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "date": "2026-11-08T02:02:38Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 4 # Comments: 0."
+    },
+    {
       "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
       "url": "https://github.com/crmne/zapfast",
       "date": "2026-11-08T02:02:27Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/crmne/zapfast Comments URL: https://news.ycombinator.com/item?id=50409855 Points: 6 # Comments: 0."
+      "summary": "Article URL: https://github.com/crmne/zapfast Comments URL: https://news.ycombinator.com/item?id=50409855 Points: 9 # Comments: 0."
     },
     {
       "title": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections (Emily Birnbaum/Bloomberg)",
@@ -1037,7 +1053,7 @@
       "date": "2026-11-07T23:15:34Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 26 # Comments: 8."
+      "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 27 # Comments: 8."
     },
     {
       "title": "GitHub New pull request overview page in public preview",
@@ -1045,7 +1061,7 @@
       "date": "2026-11-07T23:09:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 87 # Comments: 61."
+      "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 92 # Comments: 63."
     },
     {
       "title": "IRA Velinsky – Commodore's Industrial Designer",
@@ -1053,7 +1069,7 @@
       "date": "2026-11-07T22:45:39Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 18 # Comments: 1."
+      "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 19 # Comments: 1."
     },
     {
       "title": "US Treasury moves to cut crypto exchange MEXC off from the US financial system, alleging $16B+ in illicit flows, including Russian and Iranian sanctions evasion (Francisco Rodrigues/CoinDesk)",
@@ -1069,15 +1085,7 @@
       "date": "2026-11-07T22:38:58Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 78 # Comments: 21."
-    },
-    {
-      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-      "url": "https://eyesrhythm.com/",
-      "date": "2026-11-07T21:47:47Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel level details to hand craft algorithms. Now the doctors says its only regular use of lubricating drops can keep your eyes safe.Now with AI and available fantastic libraries it's possible to play safe so that your body does not pay the price of your profession."
+      "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 79 # Comments: 21."
     },
     {
       "title": "Report: SEA makes up ~50% of APAC data center capacity being built, led by Malaysia and Thailand, which paused 49 and delayed approvals of 117 projects in Sept. (Arundhati Hazra/The Guardian)",
@@ -1093,7 +1101,7 @@
       "date": "2026-11-07T21:08:35Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "A little web game I made as an anniversary present for my wife.Upload vacation photos and make them into a game.WWW uses EXIF to determine where and when the photo was taken. This is then turned into a game you can send to anyone. Comments URL: https://news.ycombinator.com/item?id=50408082 Points: 33 # Comments: 11."
+      "summary": "A little web game I made as an anniversary present for my wife.Upload vacation photos and make them into a game.WWW uses EXIF to determine where and when the photo was taken. This is then turned into a game you can send to anyone. Comments URL: https://news.ycombinator.com/item?id=50408082 Points: 33 # Comments: 12."
     },
     {
       "title": "Utopili go i rozbili przy 100 km/h. Elektryczny XPENG G9L przetrwał",
@@ -1182,14 +1190,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Era postprawdy na sterydach. Jeżeli sądziliście, że fake newsy i deepfake'i są obecnie naszym największym problemem, to szykujcie się na ostrą jazdę. Microsoft stworzył prawdziwego potwora, który na dobre zabierze nam pewność nawet co do tego, czy rzecz powiedziana na żywo jest inwencją człowieka, czy maszyny: choć będziemy widzieć realne nagranie z realnym człowiekiem."
-    },
-    {
-      "title": "Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees \"shaky\" projects killed (Cecile Daurat/Bloomberg)",
-      "url": "https://www.techmeme.com/261107/p11#a261107p11",
-      "date": "2026-11-07T16:35:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Cecile Daurat / Bloomberg: Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees &ldquo;shaky&rdquo; projects killed &mdash; Guardrails against data-center expansion in states won by Democrats may help spread investment over time."
     },
     {
       "title": "Tak potrafi tylko Apple. iPhone Duo rozkręcił nową erę w AppStore",
@@ -2060,14 +2060,6 @@
       "summary": "Wiadomości OW20A274500 GPW - ORGANIZATOR OBROTU BiznesRadar."
     },
     {
-      "title": "Wiadomości INC S.A. - strona: 247 - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aR256WWlJQnB6MWJ1dDg1eXBiWkEwdHRrQzZQT25pMXZmWkdzcTVLUjQ5ZDFKem1rWGRqVTJTMXhrQnNiS3NuY2xuUFdhb3MtVmg2RTIzR0o?oc=5",
-      "date": "2026-11-06T15:40:58Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości INC S.A. - strona: 247 BiznesRadar."
-    },
-    {
       "title": "NBP podnosi prognozy inflacji na 2027 i obniża perspektywy wzrostu PKB",
       "url": "https://strefainwestorow.pl/gospodarka/projekcja-inflacji-nbp-listopad-2026",
       "date": "2026-11-06T15:31:31Z",
@@ -2132,20 +2124,20 @@
       "summary": "Elektrotim z umowami z PGE Energia Odnawialna za 331,6 mln zł netto StockWatch.pl."
     },
     {
-      "title": "Analiza techniczna INTLPGE02437 INGBANK - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQSFFMalN0R2RGQ3lJcWZEU0NwNElOSWJVaWtHbVRVeHN3QUtJLU9sX0NMS0ZmTEpGNTY1dDhIcDg1RGN0XzlSS3g4N3hSZE5YWHpNSzg5UlNTNkpMcW5nclc1VTYyMkJ3cUhPN0FjSUpvaXRNNzBN?oc=5",
-      "date": "2026-11-06T11:03:10Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Analiza techniczna INTLPGE02437 INGBANK BiznesRadar."
-    },
-    {
       "title": "Orlen zarabia miliardy na wysokich marżach. Czy wyniki są do utrzymania?",
       "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce/orlen-wyniki-rekordowe-marze-rafineryjne",
       "date": "2026-11-06T08:11:11Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Orlen zarabia miliardy na wysokich marżach. Czy wyniki są do utrzymania? Piotr Maciążek pt., 06.11.2026 Kanał W Zielonej Strefie wyniki orlen notowania orlen marże rafineryjne orlen wpływ marż na wyniki orlen Treść Zysk netto Orlenu wzrósł w trzecim kwartale 2026 roku o 158 proc."
+    },
+    {
+      "title": "Notowania INTSGOG03138 INGBANK - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YWXBCZ3lkeHprVmp2dHVEX0VzYkZKR2h5dXQtbktMdV9QSTM4M1FjczUwaFdlanlPZUNlZ3NxUjVRU0xRZzJuS2lnWS1EcVFqM21Ca3B4b1RlWDRZTkE?oc=5",
+      "date": "2026-11-06T01:10:15Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania INTSGOG03138 INGBANK BiznesRadar."
     },
     {
       "title": "Kanada zbliża się do UE. Chce mieć więcej alternatyw wobec USA i Chin",
@@ -2164,12 +2156,28 @@
       "summary": "Ponad 70 proc. polskich organizacji pozarządowych zbiera pieniądze od indywidualnych darczyńców, ale tylko 14 proc. prowadzi z nimi pełny, regularny proces komunikacji po wpłacie."
     },
     {
+      "title": "Wiadomości INTSGLD03278 INGBANK - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82b09HSDcydVZBNVBlaVFidjh2VmxjbjRSUTlEdDVVVlY2R3Jxc05NWEFDZFlKY01TWnZvU2hDRWR2LWJBYTJnT0o4a0FWOVhKTVNiNkN0SklpRzhDNVRJ?oc=5",
+      "date": "2026-11-05T18:36:08Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości INTSGLD03278 INGBANK BiznesRadar."
+    },
+    {
       "title": "Wyniki Dino Polska zgodne z oczekiwaniami analityków. Deflacja żywności obniża wzrost sprzedaży",
       "url": "https://strefainwestorow.pl/spolki/dinopolska-konsensus-wyniki-gielda",
       "date": "2026-11-05T17:55:55Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Wyniki Dino Polska zgodne z oczekiwaniami analityków. Deflacja żywności obniża wzrost sprzedaży Seb Seb czw., 05.11.2026 Kanał Strefa Inwestorów Dino Polska konsensus wyniki giełda Treść Wyniki Dino Polska za III kwartał okazały się niemal idealnie zgodne z konsensusem rynkowym. Sieć nadal jednak zmaga się z ograniczeniami wzrostu sprzedaży porównywanej LfL w postaci pogłębiającej się deflacji cen żywności w sklepach, przy utrzymującej się presji na koszty osobowe."
+    },
+    {
+      "title": "Notowania INTSKGH03120 INGBANK - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmcTlMQUh2VGZOYTMwSnYzMzc5LV9ZUEhERzhGYm96OWIyT0NuQ3lPdno3OXZLZVFLT0QzQThMa2VWUXk4eDFDYjlYS2JsYjU4c0JoVmN4b1NNV2doZ2c?oc=5",
+      "date": "2026-11-05T17:11:40Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania INTSKGH03120 INGBANK BiznesRadar."
     },
     {
       "title": "Wiadomości CYFROWY POLSAT (CPS) - strona: 42 - BiznesRadar",
@@ -2180,20 +2188,12 @@
       "summary": "Wiadomości CYFROWY POLSAT (CPS) - strona: 42 BiznesRadar."
     },
     {
-      "title": "Wiadomości BEEIN (BEE) - strona: 4 - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mTjFtY3J3VWhiT2pIcjUwOUJZczM3NXBtYXY0cU9CV3QxZktuZXBIcWk2X0t3UGUzX2lrenR4d3V4SGJBUUtKVGF6Ymt1RmV1TVNCTGx3?oc=5",
-      "date": "2026-11-05T15:59:36Z",
+      "title": "Akcjonariat: akcjonariusze MUZA (MZA) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uMTdxMHdhd3l1emVDbXpJRVRBcUltc2RLMGRWemMwZjh1aWxXWjlibVhCMG8yOUowREVhZF9aT0xOcTUxdVFIN3E2X1NCY3k2MTB2ZGdn?oc=5",
+      "date": "2026-11-05T15:59:38Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Wiadomości BEEIN (BEE) - strona: 4 BiznesRadar."
-    },
-    {
-      "title": "Transakcje INTSPAL03328 INGBANK - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZcW9oUk5jbURpZE1fNy15LTNickVsZWs2Y1hWZ2JKaVBhRk1xQ2hCZU5VUmlOcUM4Z3FnN1BwTmZUOGJhXzNvbEcxcmNQT3JELXRpdEI0aTQ5MjFGUmMw?oc=5",
-      "date": "2026-11-05T15:48:41Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Transakcje INTSPAL03328 INGBANK BiznesRadar."
+      "summary": "Akcjonariat: akcjonariusze MUZA (MZA) BiznesRadar."
     },
     {
       "title": "Akcje Trump Media tąpnęły o 24% po wynikach wyborów. Spółka Donalda Trumpa szoruje po dnie",
