@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T11:36:42Z",
+  "last_updated": "2026-11-08T11:37:21Z",
   "poland": [
     {
       "title": "Polska w żałobie. Opuszczone flagi także w Brukseli",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Person of Interest",
+      "url": "https://krthr.co/person-of-interest/",
+      "date": "2026-11-08T11:23:28Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://krthr.co/person-of-interest/ Comments URL: https://news.ycombinator.com/item?id=50412318 Points: 13 # Comments: 3."
+    },
+    {
       "title": "mObywatel do 16 listopada wymaga wersji 4.93.1. Sprawdź w 30 sekund, czy masz aktualną — inaczej aplikacja może przestać działać",
       "url": "https://antyweb.pl/mobywatel-do-16-listopada-wymaga-wersji-4-93-1-sprawdz-w-30-sekund-czy-masz-aktualna-inaczej-aplikacja-moze-przestac-dzialac",
       "date": "2026-11-08T11:00:56Z",
@@ -1029,7 +1037,15 @@
       "date": "2026-11-08T10:56:43Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://aworkinglibrary.com/writing/petered Comments URL: https://news.ycombinator.com/item?id=50412152 Points: 5 # Comments: 0."
+      "summary": "Article URL: https://aworkinglibrary.com/writing/petered Comments URL: https://news.ycombinator.com/item?id=50412152 Points: 14 # Comments: 4."
+    },
+    {
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "date": "2026-11-08T10:42:15Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://linebender.org/blog/jit-bitmap-text/ Comments URL: https://news.ycombinator.com/item?id=50412072 Points: 3 # Comments: 0."
     },
     {
       "title": "Tineco tnie ceny. Jeden z odkurzaczy potaniał aż o 1700 zł",
@@ -1040,12 +1056,20 @@
       "summary": "Szukasz odkurzacza myjącego lub pionowego? Tineco rusza z listopadową kampanią, w ramach której przecenia siedem modeli. Największy rabat wynosi aż 1700 zł, choć warto pamiętać, że obniżki naliczono względem rekomendowanych cen detalicznych, a niekoniecznie wcześniejszych cen w sklepach."
     },
     {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "date": "2026-11-08T10:22:04Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 4 # Comments: 0."
+    },
+    {
       "title": "GitHub Down Again?",
       "url": "https://github.com/torvalds/linux",
       "date": "2026-11-08T09:56:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/torvalds/linux Comments URL: https://news.ycombinator.com/item?id=50411818 Points: 88 # Comments: 79."
+      "summary": "Article URL: https://github.com/torvalds/linux Comments URL: https://news.ycombinator.com/item?id=50411818 Points: 93 # Comments: 85."
     },
     {
       "title": "Klikasz na własne ryzyko. Sztuczna inteligencja ujawnia skalę oszustw w Google Ads",
@@ -1093,7 +1117,7 @@
       "date": "2026-11-08T08:53:43Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/kobaltgit/StatCraft Comments URL: https://news.ycombinator.com/item?id=50411522 Points: 12 # Comments: 11."
+      "summary": "Article URL: https://github.com/kobaltgit/StatCraft Comments URL: https://news.ycombinator.com/item?id=50411522 Points: 13 # Comments: 13."
     },
     {
       "title": "AI zrobiła audyt Linuksa. Znalazła 948 dziur",
@@ -1109,7 +1133,7 @@
       "date": "2026-11-08T08:40:23Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.lorekit.io/blog/open-agent-memory-format Comments URL: https://news.ycombinator.com/item?id=50411467 Points: 52 # Comments: 41."
+      "summary": "Article URL: https://www.lorekit.io/blog/open-agent-memory-format Comments URL: https://news.ycombinator.com/item?id=50411467 Points: 58 # Comments: 50."
     },
     {
       "title": "RTV Euro AGD idzie w sztuczną inteligencję. Doradców w sklepach wesprze Gemini",
@@ -1189,7 +1213,7 @@
       "date": "2026-11-08T07:09:02Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/graealex/WaveDudeNext Comments URL: https://news.ycombinator.com/item?id=50411083 Points: 19 # Comments: 4."
+      "summary": "Article URL: https://github.com/graealex/WaveDudeNext Comments URL: https://news.ycombinator.com/item?id=50411083 Points: 20 # Comments: 4."
     },
     {
       "title": "Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers (Valerie Volcovici/Reuters)",
@@ -1248,22 +1272,6 @@
       "summary": "Financial Times: Filings: Apple saved $2.7B in taxes this year by routing up to $50B in profits through Singapore, exceeding the $2.6B in tax savings it achieved via Ireland &mdash; City-state overtakes Ireland as iPhone maker's biggest tax shelter according to new disclosures &mdash; Apple shaved $2.7bn off &hellip;."
     },
     {
-      "title": "Kirlian Photography: Building Your Own Equipment",
-      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
-      "date": "2026-11-08T04:14:12Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html Comments URL: https://news.ycombinator.com/item?id=50410359 Points: 52 # Comments: 10."
-    },
-    {
-      "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
-      "url": "https://github.com/dmunozv04/isponsorblocktv",
-      "date": "2026-11-08T03:47:19Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/dmunozv04/isponsorblocktv Comments URL: https://news.ycombinator.com/item?id=50410249 Points: 51 # Comments: 10."
-    },
-    {
       "title": "Utopili go i rozbili przy 100 km/h. Elektryczny XPENG G9L przetrwał",
       "url": "https://www.instalki.pl/news/motoryzacja/xpeng-g9l-testy-bezpieczenstwa-100-km-h/",
       "date": "2026-11-07T19:51:02Z",
@@ -1294,14 +1302,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "OxygenOS przez lata był jednym z najważniejszych powodów, by wybrać smartfon OnePlus. Teraz producent podał dokładne terminy przejścia kolejnych telefonów i tabletów na ColorOS 17 z Androidem 17. Pierwsi użytkownicy już mogą pobierać aktualizację, a jeszcze w listopadzie trafi ona na sześć modeli."
-    },
-    {
-      "title": "Zepsuła Ci się myszka? Użyj swoich AirPodsów. Niewiarygodne, ale to działa",
-      "url": "https://antyweb.pl/airpods-ruchy-glowy-linux-claude-code",
-      "date": "2026-11-07T18:30:05Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Niektóre słuchawki AirPods mają wbudowane czujniki rejestrujące ruchy głowy (dla dźwięku przestrzennego): w tym AirPodsy 3 używane w projekcie MousePods. I tak oto, na Linuksie, możliwe okazało się sterowanie kursorem myszy za pomocą li tylko słuchawek. Brzmi głupio?"
     },
     {
       "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
@@ -1988,6 +1988,14 @@
       "summary": "Co dziesiąte duże przedsiębiorstwo w Polsce w 2025 r. nie zapłaciło podatku CIT mimo tego, że było dochodowe. Wśród firm rodzimych było to częstsze niż wśród zagranicznych, wbrew popularnej tezie, że te drugie powszechnie uchylają się od płacenia nad Wisłą podatków."
     },
     {
+      "title": "Feminatywy wciąż wywołują burzliwe reakcje. Paulina Mikuła ostrzega przed jednym błędem - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFotV2xfUE8zSUpaOTFwRU9vMExmejB2ZXhEeXdfakNEVU9tQVNCYmFQcUt2LWJMUnRlV2IzTXBzTWpXZ3FYS3RCeWFvZzRHWUJZNzZMZVRrZ0FhSjBXa2swRUU4b0Q3LTg3OUdTMU1WaWQ5WlRGU01QOUpQT0VMQm50dXFLWm1sNVduMWxQRHhzM3VQWWNlZXZYb0ZqN3l0RHlrM1Rn?oc=5",
+      "date": "2026-11-07T20:13:07Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Feminatywy wciąż wywołują burzliwe reakcje. Paulina Mikuła ostrzega przed jednym błędem Forbes."
+    },
+    {
       "title": "Możliwy Pat wyborczy i jego wpływ na giełdę. - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2JhdmVHVmJIaWlNNEVXLWRaSlFrOWFwZjRpQ3BpN1BLcUVuNWQ3bDVTU21EdkdHcnFoNUo5Yi05SWhObEcxU3c4UlU2b2pPbFNfbklmeDVfN2MyUXJucGlvbk1jdTNiOXNNMTJjWmItZXN2ZTRWeHhYYjhYRkFNb1RJMU5HT2t4WU1VLW9pMlgySEZnQkdqMnIwM3A?oc=5",
       "date": "2026-11-07T17:46:15Z",
@@ -2026,6 +2034,22 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Hiszpania ma około 450 tys. niesprzedanych mieszkań, a jednocześnie w największych miastach nadal brakuje lokali tam, gdzie ludzie chcą żyć i pracować. Polska może z czasem mierzyć się z podobnym problemem, choć z innego powodu: młodzi będą dziedziczyć nieruchomości poza dużymi rynkami pracy, podczas gdy zakup mieszkania w Warszawie, Wrocławiu czy Poznaniu nadal będzie dla wielu poza zasięgiem."
+    },
+    {
+      "title": "Notowania SP500.FUT (USA) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00TFBMemdyb1BHNGQ5RUE0dGxDUXhQTlRiU2xmbWF3QnZUNV9DSzVoY1ppWkJpV1V5bUZOR1ZiSlprbXBhTUw0eHJuOWNkOTNRQUNuMmVGdk1aS3VkcFMwYw?oc=5",
+      "date": "2026-11-06T21:58:53Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania SP500.FUT (USA) BiznesRadar."
+    },
+    {
+      "title": "Notowania NASDAQ100.FUT (USA) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4taENkVjI2UnZpamhGbThLNmdKUVVjRkhQRFVpcWh4czhnZ2R4OE9kcnhZQ0ZRaEVlUnRhV2JwNEVuTlBpakFYc041X1NsMk55Vy01akZ3YmZ6WktkYVpXOGh3a2plQQ?oc=5",
+      "date": "2026-11-06T21:58:53Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania NASDAQ100.FUT (USA) BiznesRadar."
     },
     {
       "title": "COP31 stawia na elektryfikację. Polska ma wiele do zyskania i sporo do nadrobienia",
@@ -2076,36 +2100,20 @@
       "summary": "Notowania DIAGNOSTYKA (DIA) BiznesRadar."
     },
     {
-      "title": "Transakcje XTB - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ReDlZNEpZN08tNlhJZ3REaFRpN0hqaDVLN3dOWUdOWDl6Y09jU0RST2RacXlBaWtUOTZYVGh6QnZheDJSdHZLY25kZzdDMGlMckpF?oc=5",
-      "date": "2026-11-06T16:03:32Z",
+      "title": "Notowania TOR (TORPOL) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hNE0zUkhTNnNjeGtTblhIMWI4cTJDeGF6YUV2OU5XSkxJSWtPR09PMGlYdjlVNm1kbWJURUN2Ri1vV2ZHd3VkdEdYd0VNUTlTZGV5Q213?oc=5",
+      "date": "2026-11-06T16:04:33Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Transakcje XTB BiznesRadar."
+      "summary": "Notowania TOR (TORPOL) BiznesRadar."
     },
     {
-      "title": "Wiadomości KGHM POLSKA MIEDZ SA (KGH) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LTGkwNDBqRDZ1UlpwdFJHM0VNXzRoOFNISmNhZUZNWVkzOFBxZzFkMzNxSzN3U0oxajNrYmZzNHR6MU43YUNwbVMzRVV1MjlTQjJOQQ?oc=5",
-      "date": "2026-11-06T16:03:32Z",
+      "title": "Notowania DNP (DINOPL) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOX1VRSGNMelZhNmhTdkUydW5UbjVWek8ydGdJNHk0dVY2SVc4RlZIMG5yRkhkWk85UDU0dm9Cdkljc0V1TXdNSWo0alQ0Y3VMZ1E?oc=5",
+      "date": "2026-11-06T16:04:32Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Wiadomości KGHM POLSKA MIEDZ SA (KGH) BiznesRadar."
-    },
-    {
-      "title": "Notowania CDR (CDPROJEKT) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMcGw5N1ZZYkRqTW9tV1ExZEZGdVpQSlVQU2pjbjVjU1BHeDhuTEc5eVF5RUpwcGg1Z1pUblMzRExyMk1PaENoYWgzSUREdFFVb3l2cndPMGdfQUE?oc=5",
-      "date": "2026-11-06T16:01:50Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania CDR (CDPROJEKT) BiznesRadar."
-    },
-    {
-      "title": "Notowania PEO (PEKAO) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iT1VDNDhkaEE0b1VNWGl2dWZ4UnpLLS1XOUJuMUdiZENNZmljOGZzaTMzWjBjZTI5OFRDSDkzY0NwUlE0WDFFaTZFRXdrZlNETFNNSA?oc=5",
-      "date": "2026-11-06T16:01:30Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania PEO (PEKAO) BiznesRadar."
+      "summary": "Notowania DNP (DINOPL) BiznesRadar."
     },
     {
       "title": "NBP podnosi prognozy inflacji na 2027 i obniża perspektywy wzrostu PKB",
@@ -2130,14 +2138,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Oferta konsorcjum z Budimeksem wybrana przez Veolię na budowę Zakładu Odzysku Energii w Łodzi StockWatch.pl."
-    },
-    {
-      "title": "Samotność macierzyństwa. \"Dla wielu kobiet to szok\" - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNklnb1VRelR1aUZJZW9pN0hoY1BEMEpUNTFFdTBZMjRkY3JvbndUUTJDZkZFQ3RmanpzUXlzbTJfUjN1UVRYMHBjZ1pBOTNHQXlRZlF1dGQzalY4SktJS0l0STc5UE1NWklHalVKS3JYdXotc3lyamdyaXk4NWVLaFh3dm1IN0s5R212cGpQSzBHcUpMT0oxeGxNek83ZDh2UE1QUzU5SWhpQU1x?oc=5",
-      "date": "2026-11-06T13:30:00Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Samotność macierzyństwa. \"Dla wielu kobiet to szok\" Forbes."
     },
     {
       "title": "Analiza XTB za III kwartał 2026: Czarne złoto - StockWatch.pl",
