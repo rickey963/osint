@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T09:32:53Z",
+  "last_updated": "2026-11-08T09:33:38Z",
   "poland": [
     {
       "title": "Sprawa „Dziadów” i Głuchowskiego: Urząd Marszałkowski Małopolski zaprzecza sobie. Kiedy mówi nieprawdę?",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Internet governance about to get its quadrennial stress test at ITU meeting",
+      "url": "https://www.theregister.com/networks/2026/11/08/internet-governance-about-to-get-its-quadrennial-stress-test-at-itu-meeting/5308031",
+      "date": "2026-11-08T09:33:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "278 proposals on table, and some fear they might shift power to governments."
+    },
+    {
       "title": "Zaczyna się w internecie, kończy na ulicach. Niebezpieczny mechanizm w Europie",
       "url": "https://cyberdefence24.pl/social-media/zaczyna-sie-w-internecie-konczy-na-ulicach-niebezpieczny-mechanizm-w-europie",
       "date": "2026-11-08T09:06:03Z",
@@ -1648,14 +1656,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Polska Agencja Kosmiczna (POLSA) poinformowała o nieuprawnionym dostępie do wewnętrznych systemów CloudFerro (zewnętrznego podmiotu), dostawcy usługi NSIS Cloud – platformy chmurowej Narodowego Systemu Informacji Satelitarnej. Nieuprawniona osoba skopiowała dane użytkowników z rejestru kont oraz modułu rozliczeniowego usługi. Atakujący zażądał okupu."
-    },
-    {
-      "title": "Home Office cloud services contract may net AWS £1B",
-      "url": "https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106",
-      "date": "2026-11-06T12:47:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Planning notice puts renewal at nearly twice the 2023 value, just as Whitehall frets about US tech dependence."
     },
     {
       "title": "Masz mObywatela? Po 16 listopada możesz mieć problem. Ważny komunikat",
@@ -2028,20 +2028,20 @@
       "summary": "Hiszpania ma około 450 tys. niesprzedanych mieszkań, a jednocześnie w największych miastach nadal brakuje lokali tam, gdzie ludzie chcą żyć i pracować. Polska może z czasem mierzyć się z podobnym problemem, choć z innego powodu: młodzi będą dziedziczyć nieruchomości poza dużymi rynkami pracy, podczas gdy zakup mieszkania w Warszawie, Wrocławiu czy Poznaniu nadal będzie dla wielu poza zasięgiem."
     },
     {
-      "title": "Notowania SP500.FUT (USA) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00TFBMemdyb1BHNGQ5RUE0dGxDUXhQTlRiU2xmbWF3QnZUNV9DSzVoY1ppWkJpV1V5bUZOR1ZiSlprbXBhTUw0eHJuOWNkOTNRQUNuMmVGdk1aS3VkcFMwYw?oc=5",
-      "date": "2026-11-06T21:58:53Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania SP500.FUT (USA) BiznesRadar."
-    },
-    {
       "title": "COP31 stawia na elektryfikację. Polska ma wiele do zyskania i sporo do nadrobienia",
       "url": "https://300gospodarka.pl/300klimat/cop31-stawia-na-elektryfikacje-polska-ma-wiele-do-zyskania-i-sporo-do-nadrobienia",
       "date": "2026-11-06T21:04:35Z",
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "9 listopada rozpocznie się COP31, czyli 31. Konferencja ONZ w sprawie zmiany klimatu. W tym roku światowe gospodarki zmagały się z katastrofalnymi falami upałów."
+    },
+    {
+      "title": "Notowania Mastercard Inc. Class A Common Stock (MA.US) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LczVhZEg0SkZmdm9yazlodnd5ZzVCU0xReW5BVHY3Y3k5OG1Vd252UDFkMHh0YTBXMzdFQ2FwY0xSSENEaldqMFg5a1ZoTkNXcmJLVg?oc=5",
+      "date": "2026-11-06T21:00:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania Mastercard Inc. Class A Common Stock (MA.US) BiznesRadar."
     },
     {
       "title": "Te sklepy wygrywają walkę o portfele Polaków. Głosowało 155 tys. klientów",
@@ -2068,12 +2068,12 @@
       "summary": "Powtórka z 2008 r. w strefie euro? \"Wiele państw jest niewypłacalnych\" Forbes."
     },
     {
-      "title": "Notowania MDV (MODIVO) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81bHVudUg4LWhKcDByN2gzVTlMS3Y0a1ZQQ21zUDRWTnBLSUQzWDdMTXFlNWtOSGtidWhhbGpyY2VZZXFuRk1RWnlGMENmLU5wT2c?oc=5",
+      "title": "Analiza techniczna MDV (MODIVO) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tcWpwYzVtZV9PY2hYbFJxQ0RHLTNOeE8ydVI1b2ZuN3hXTElLRzVxMDBnQXE1NXdkNFZGb29hZ2x2ZnhVa3hiSUFGWWFQR213RXZLc3Jwc1loOEF6Si10c3MwcTBUMlMwZUlJ?oc=5",
       "date": "2026-11-06T16:04:27Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania MDV (MODIVO) BiznesRadar."
+      "summary": "Analiza techniczna MDV (MODIVO) BiznesRadar."
     },
     {
       "title": "Transakcje XTB - BiznesRadar",
@@ -2084,28 +2084,28 @@
       "summary": "Transakcje XTB BiznesRadar."
     },
     {
-      "title": "Notowania ENA (ENEA) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wUG1KQ3ZucnRpRWlsUS1Td2RLWkM4T1paS0NOMS1lRnRhR09TdlQ3WVE2WjN1UnNKaHk5WlQ1OFQ3VmVmaWtkb2tHdHkwS3g0OEE?oc=5",
-      "date": "2026-11-06T16:01:14Z",
+      "title": "Notowania BDX (BUDIMEX) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MMnJ4UVp3QTJVUFp0al84WkdLaFNtS2FXOTJzQTVYVjVoYXZONkpyOVRFOG1zdzhCUUVOeUVxM19CYVFpMVYyZi01aHcxSndQM1ZmME9vOA?oc=5",
+      "date": "2026-11-06T16:00:48Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania ENA (ENEA) BiznesRadar."
+      "summary": "Notowania BDX (BUDIMEX) BiznesRadar."
     },
     {
-      "title": "Notowania RVU (RYVU) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41Uzl6emZUS0FVanZXTjMzMlFWcVdfVU9VV3ZfcE9sT0V3MEdvc1ZiUm5Td01pczhKdG5oR3RqR0U4M3MtaTBZd1NDbGxiWjFETmc?oc=5",
-      "date": "2026-11-06T15:59:54Z",
+      "title": "Rating 1AT (ATAL) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wd0ZMYWlyZ0Ffa3AzQnF6ZjBqYW9HNXluNDRuM3BaeTFiX1JfU3RvWEt5ZjNaMWtfMmlsb2lzM3Bzc3hPWG1KSlBrd2JYRTQ?oc=5",
+      "date": "2026-11-06T15:59:53Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania RVU (RYVU) BiznesRadar."
+      "summary": "Rating 1AT (ATAL) BiznesRadar."
     },
     {
-      "title": "Notowania KPL (KINOPOL) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SY21MbHRfRUVZRFZHeUZ4bHZUTUR1NEExRlAyb2dsRHBxaXVrMGlwcXRwWFVwU1d1R2pfWlRQYnotUmlyd25DRGdLUEd2QXlMQVBKM3FidF9HZklUTDdtOA?oc=5",
-      "date": "2026-11-06T15:59:37Z",
+      "title": "Notowania TXT (TEXT) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXZkdQajBES0lqcWp0MmNHamtUbWRpWWdfNXRjZGVuV01hNDl3eFljOVhtTkc4XzVoZjQwVVdXcVUtUHNja0tnVGlLaXJsOEVxVEE?oc=5",
+      "date": "2026-11-06T15:59:53Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania KPL (KINOPOL) BiznesRadar."
+      "summary": "Notowania TXT (TEXT) BiznesRadar."
     },
     {
       "title": "NBP podnosi prognozy inflacji na 2027 i obniża perspektywy wzrostu PKB",
