@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T19:05:52Z",
+  "last_updated": "2026-11-08T19:15:19Z",
   "poland": [
     {
       "title": "Kolejne ruchy śledczych. Zabezpieczyli nośniki danych z domu zamachowca",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Poland mourns victims of Krakow shooting amid security fears - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
+      "date": "2026-11-08T18:24:36Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Poland mourns victims of Krakow shooting amid security fears Reuters."
+    },
+    {
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
       "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-08T18:22:53Z",
@@ -506,14 +514,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran Reuters."
-    },
-    {
-      "title": "Poland mourns victims of Krakow mass shooting as security fears grow - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
-      "date": "2026-11-08T15:06:12Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Poland mourns victims of Krakow mass shooting as security fears grow Reuters."
     },
     {
       "title": "Two police officers hailed as heroes for confronting Kraków gunman",
@@ -1008,12 +1008,20 @@
   ],
   "technology": [
     {
+      "title": "THORChain, which handled ~$1B of stolen Bybit funds in 2025 for $12M+ in fees, began moving the Binance loot despite FBI pleas, saying it can't stop transfers (Wall Street Journal)",
+      "url": "https://www.techmeme.com/261108/p11#a261108p11",
+      "date": "2026-11-08T19:00:33Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Wall Street Journal: THORChain, which handled ~$1B of stolen Bybit funds in 2025 for $12M+ in fees, began moving the Binance loot despite FBI pleas, saying it can't stop transfers &mdash; Some crypto developers say they can't stop North Korean hackers from laundering stolen funds through their platforms, frustrating law enforcement."
+    },
+    {
       "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
       "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
       "date": "2026-11-08T18:16:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 28 # Comments: 0."
+      "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 74 # Comments: 18."
     },
     {
       "title": "Allegro rozdaje 175 zł na zakupy. Zobacz, jak zgarnąć kupony",
@@ -1032,12 +1040,20 @@
       "summary": "Alex Eichenstein / The Information: Excluding Anthropic's IPO, AI companies sold or priced $300B+ of stock in 2026, with ~$100B more on tap, raising questions about how much the market can absorb &mdash; Volatile trading in AI-related stocks this past week has put a spotlight on investors' appetite for additional share offerings &hellip;."
     },
     {
+      "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+      "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+      "date": "2026-11-08T17:32:55Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/ Comments URL: https://news.ycombinator.com/item?id=50415281 Points: 27 # Comments: 1."
+    },
+    {
       "title": "A Little Snitch for Windows",
       "url": "https://packethound.app/",
       "date": "2026-11-08T17:16:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://packethound.app/ Comments URL: https://news.ycombinator.com/item?id=50415135 Points: 10 # Comments: 4."
+      "summary": "Article URL: https://packethound.app/ Comments URL: https://news.ycombinator.com/item?id=50415135 Points: 21 # Comments: 6."
     },
     {
       "title": "A field guide to CAPTCHA types and how they break",
@@ -1045,7 +1061,7 @@
       "date": "2026-11-08T17:09:55Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/vsmutok/FuckCaptcha Comments URL: https://news.ycombinator.com/item?id=50415078 Points: 17 # Comments: 2."
+      "summary": "Article URL: https://github.com/vsmutok/FuckCaptcha Comments URL: https://news.ycombinator.com/item?id=50415078 Points: 19 # Comments: 5."
     },
     {
       "title": "Sources: John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities (Mark Gurman/Bloomberg)",
@@ -1062,6 +1078,14 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Masz konto na Binance? Po kradzieży 6,3 mld dolarów zrób te 4 rzeczy - i uważaj na fałszywe maile o „zwrocie środków”."
+    },
+    {
+      "title": "UK House of Lords to propose mandatory CSAM detection software on smartphones",
+      "url": "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign",
+      "date": "2026-11-08T15:57:37Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign Comments URL: https://news.ycombinator.com/item?id=50414331 Points: 13 # Comments: 1."
     },
     {
       "title": "Nowy krok Polski w energetyce. Europa ma dość drogich rachunków",
@@ -1109,7 +1133,7 @@
       "date": "2026-11-08T14:42:38Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://goldstein.lol/posts/deno-security/ Comments URL: https://news.ycombinator.com/item?id=50413769 Points: 39 # Comments: 17."
+      "summary": "Article URL: https://goldstein.lol/posts/deno-security/ Comments URL: https://news.ycombinator.com/item?id=50413769 Points: 40 # Comments: 19."
     },
     {
       "title": "Stanowski zbiera dla rannych policjantów z Krakowa. Na liczniku już ponad 4 mln zł",
@@ -1141,7 +1165,7 @@
       "date": "2026-11-08T12:51:38Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.epatters.org/post/e-graphs-1/ Comments URL: https://news.ycombinator.com/item?id=50412830 Points: 26 # Comments: 3."
+      "summary": "Article URL: https://www.epatters.org/post/e-graphs-1/ Comments URL: https://news.ycombinator.com/item?id=50412830 Points: 30 # Comments: 3."
     },
     {
       "title": "AMD wyprzedzi Intela? Nadchodzi historyczny moment",
@@ -1176,14 +1200,6 @@
       "summary": "SpaceX ujawniło szczegóły piętnastego testowego lotu statku Starship, który ma szansę zapisać się w historii inżynierii kosmicznej jako moment absolutnego przełomu."
     },
     {
-      "title": "Person of Interest",
-      "url": "https://krthr.co/person-of-interest/",
-      "date": "2026-11-08T11:23:28Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://krthr.co/person-of-interest/ Comments URL: https://news.ycombinator.com/item?id=50412318 Points: 247 # Comments: 167."
-    },
-    {
       "title": "mObywatel do 16 listopada wymaga wersji 4.93.1. Sprawdź w 30 sekund, czy masz aktualną — inaczej aplikacja może przestać działać",
       "url": "https://antyweb.pl/mobywatel-do-16-listopada-wymaga-wersji-4-93-1-sprawdz-w-30-sekund-czy-masz-aktualna-inaczej-aplikacja-moze-przestac-dzialac",
       "date": "2026-11-08T11:00:56Z",
@@ -1198,22 +1214,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "SemiAnalysis: Inside Inner Mongolia, China's fastest-growing AI data center region, where construction is accelerating with low building cost and no public backlash &mdash; A wind-powered 800MW campus, 120MW built within a year, a 5MW SST-native 800V DC pilot and a cooling design without central chillers."
-    },
-    {
-      "title": "Petered",
-      "url": "https://aworkinglibrary.com/writing/petered",
-      "date": "2026-11-08T10:56:43Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://aworkinglibrary.com/writing/petered Comments URL: https://news.ycombinator.com/item?id=50412152 Points: 130 # Comments: 81."
-    },
-    {
-      "title": "JIT bitmap text rendering for microcontrollers",
-      "url": "https://linebender.org/blog/jit-bitmap-text/",
-      "date": "2026-11-08T10:42:15Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://linebender.org/blog/jit-bitmap-text/ Comments URL: https://news.ycombinator.com/item?id=50412072 Points: 76 # Comments: 11."
     },
     {
       "title": "Tineco tnie ceny. Jeden z odkurzaczy potaniał aż o 1700 zł",
