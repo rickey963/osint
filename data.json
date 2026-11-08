@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T06:21:19Z",
+  "last_updated": "2026-11-08T06:30:48Z",
   "poland": [
     {
       "title": "Strzelanina w Krakowie. Policjanci wśród rannych. Jest apel o oddawanie krwi",
@@ -404,6 +404,22 @@
   ],
   "world_security": [
     {
+      "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+      "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+      "date": "2026-11-08T06:06:46Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior ministerSix people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an “act of terror” on the people of the city.The suspect, a 25-year-old Polish citizen, opened fire with an automatic weapon in the city’s main square at about 3pm on Saturday. Continue reading..."
+    },
+    {
+      "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+      "date": "2026-11-08T06:00:33Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurenceAlex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd.The defrost light on refrigeration unit 2 was on, and the panel reading was 150C. Unit 4 was the same. Continue reading..."
+    },
+    {
       "title": "Houthis say at least 33 killed in Saudi air strike",
       "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-08T04:03:12Z",
@@ -530,14 +546,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "US military says it disabled cargo vessel in Gulf of Oman Reuters."
-    },
-    {
-      "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
-      "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-      "date": "2026-11-07T21:19:01Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior ministerSix people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an “act of terror” on the people of the city.The suspect, a 25-year-old Polish citizen, opened fire with an automatic weapon in the city’s main square at about 3pm on Saturday. Continue reading..."
     },
     {
       "title": "Justice Department joins Texas lawsuit against Planned Parenthood - Reuters",
@@ -698,14 +706,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?"
-    },
-    {
-      "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-      "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-      "date": "2026-11-07T09:15:35Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’The Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.Campaign group the3million lodged papers at the high court on Friday after several cases emerged of EU citizens who were granted pre-settled status to remain in the country after Brexit but were told recently those decisions were an “error”. Continue reading..."
     },
     {
       "title": "Texas mayor instructs police to limit co-operation with ICE",
@@ -1008,6 +1008,22 @@
   ],
   "technology": [
     {
+      "title": "Nous Research unveils Arete-27B, a post-trained Qwen3.8-27B model that reinforces Western values, saying the underlying Chinese model's bias layer is shallow (Nous Research)",
+      "url": "https://www.techmeme.com/261108/p3#a261108p3",
+      "date": "2026-11-08T06:20:00Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Nous Research: Nous Research unveils Arete-27B, a post-trained Qwen3.8-27B model that reinforces Western values, saying the underlying Chinese model's bias layer is shallow &mdash; We post-trained over Alibaba's Qwen3.8-27B to reinforce Western values on a Chinese-trained model. We call this new model Arete-27B."
+    },
+    {
+      "title": "Drugi stopień rakiety zostanie serwerownią AI. 86-metrowy gigant",
+      "url": "https://spidersweb.pl/2026/11/cowboy-space-big-iron-rakieta-ai.html",
+      "date": "2026-11-08T06:15:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Drugi stopień rakiety zostanie serwerownią AI. 86-metrowy gigant."
+    },
+    {
       "title": "Beijing-based GenRobot AI, which develops equipment and software for collecting human demonstrations that can be used to train robots, raised a $100M Series A+ (TechNode)",
       "url": "https://www.techmeme.com/261108/p2#a261108p2",
       "date": "2026-11-08T06:05:01Z",
@@ -1045,7 +1061,7 @@
       "date": "2026-11-08T04:14:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html Comments URL: https://news.ycombinator.com/item?id=50410359 Points: 11 # Comments: 2."
+      "summary": "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html Comments URL: https://news.ycombinator.com/item?id=50410359 Points: 12 # Comments: 2."
     },
     {
       "title": "Goodbye Claude, Hello Pi",
@@ -1053,7 +1069,7 @@
       "date": "2026-11-08T03:11:48Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 82 # Comments: 41."
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 99 # Comments: 52."
     },
     {
       "title": "How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms (Politico)",
@@ -1069,7 +1085,7 @@
       "date": "2026-11-08T02:02:38Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 13 # Comments: 3."
+      "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 15 # Comments: 3."
     },
     {
       "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
@@ -1077,7 +1093,7 @@
       "date": "2026-11-08T02:02:27Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/crmne/zapfast Comments URL: https://news.ycombinator.com/item?id=50409855 Points: 34 # Comments: 16."
+      "summary": "Article URL: https://github.com/crmne/zapfast Comments URL: https://news.ycombinator.com/item?id=50409855 Points: 38 # Comments: 17."
     },
     {
       "title": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections (Emily Birnbaum/Bloomberg)",
@@ -1093,7 +1109,7 @@
       "date": "2026-11-07T23:15:34Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 40 # Comments: 14."
+      "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 43 # Comments: 15."
     },
     {
       "title": "GitHub New pull request overview page in public preview",
@@ -1101,7 +1117,7 @@
       "date": "2026-11-07T23:09:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 107 # Comments: 75."
+      "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 108 # Comments: 78."
     },
     {
       "title": "IRA Velinsky – Commodore's Industrial Designer",
@@ -1109,7 +1125,7 @@
       "date": "2026-11-07T22:45:39Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 26 # Comments: 1."
+      "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 27 # Comments: 1."
     },
     {
       "title": "US Treasury moves to cut crypto exchange MEXC off from the US financial system, alleging $16B+ in illicit flows, including Russian and Iranian sanctions evasion (Francisco Rodrigues/CoinDesk)",
@@ -1174,14 +1190,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Niektóre słuchawki AirPods mają wbudowane czujniki rejestrujące ruchy głowy (dla dźwięku przestrzennego): w tym AirPodsy 3 używane w projekcie MousePods. I tak oto, na Linuksie, możliwe okazało się sterowanie kursorem myszy za pomocą li tylko słuchawek. Brzmi głupio?"
-    },
-    {
-      "title": "Binance says CFO Kaiser Ng is leaving to \"pursue a new venture\" days after a $6.3B hack, citing a six-month transition plan, and names Justin Yek as CFO (Bloomberg)",
-      "url": "https://www.techmeme.com/261107/p13#a261107p13",
-      "date": "2026-11-07T18:01:40Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Bloomberg: Binance says CFO Kaiser Ng is leaving to &ldquo;pursue a new venture&rdquo; days after a $6.3B hack, citing a six-month transition plan, and names Justin Yek as CFO &mdash; Kaiser Ng, the chief financial officer at Binance Holdings Ltd., the world's largest crypto exchange &hellip;."
     },
     {
       "title": "Microsoft ma problem. Protestujący wyszli na ulice",
@@ -1254,14 +1262,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Nowy gracz na rynku RAM. Wchodzi prosto na teren gigantów."
-    },
-    {
-      "title": "Chińczycy mają swojego peceta. Bez Intela i Windowsa",
-      "url": "https://spidersweb.pl/2026/11/huawei-qinyun-hm650.html",
-      "date": "2026-11-07T15:00:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Chińczycy mają swojego peceta. Bez Intela i Windowsa."
     },
     {
       "title": "Xiaomi 18 Pro wreszcie globalnie. Polska też na liście!",
@@ -1900,14 +1900,6 @@
       "summary": "Co dziesiąte duże przedsiębiorstwo w Polsce w 2025 r. nie zapłaciło podatku CIT mimo tego, że było dochodowe. Wśród firm rodzimych było to częstsze niż wśród zagranicznych, wbrew popularnej tezie, że te drugie powszechnie uchylają się od płacenia nad Wisłą podatków."
     },
     {
-      "title": "Feminatywy wciąż wywołują burzliwe reakcje. Paulina Mikuła ostrzega przed jednym błędem - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFotV2xfUE8zSUpaOTFwRU9vMExmejB2ZXhEeXdfakNEVU9tQVNCYmFQcUt2LWJMUnRlV2IzTXBzTWpXZ3FYS3RCeWFvZzRHWUJZNzZMZVRrZ0FhSjBXa2swRUU4b0Q3LTg3OUdTMU1WaWQ5WlRGU01QOUpQT0VMQm50dXFLWm1sNVduMWxQRHhzM3VQWWNlZXZYb0ZqN3l0RHlrM1Rn?oc=5",
-      "date": "2026-11-07T20:13:07Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Feminatywy wciąż wywołują burzliwe reakcje. Paulina Mikuła ostrzega przed jednym błędem Forbes."
-    },
-    {
       "title": "Możliwy Pat wyborczy i jego wpływ na giełdę. - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2JhdmVHVmJIaWlNNEVXLWRaSlFrOWFwZjRpQ3BpN1BLcUVuNWQ3bDVTU21EdkdHcnFoNUo5Yi05SWhObEcxU3c4UlU2b2pPbFNfbklmeDVfN2MyUXJucGlvbk1jdTNiOXNNMTJjWmItZXN2ZTRWeHhYYjhYRkFNb1RJMU5HT2t4WU1VLW9pMlgySEZnQkdqMnIwM3A?oc=5",
       "date": "2026-11-07T17:46:15Z",
@@ -2098,6 +2090,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Oferta konsorcjum z Budimeksem wybrana przez Veolię na budowę Zakładu Odzysku Energii w Łodzi StockWatch.pl."
+    },
+    {
+      "title": "Samotność macierzyństwa. \"Dla wielu kobiet to szok\" - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNklnb1VRelR1aUZJZW9pN0hoY1BEMEpUNTFFdTBZMjRkY3JvbndUUTJDZkZFQ3RmanpzUXlzbTJfUjN1UVRYMHBjZ1pBOTNHQXlRZlF1dGQzalY4SktJS0l0STc5UE1NWklHalVKS3JYdXotc3lyamdyaXk4NWVLaFh3dm1IN0s5R212cGpQSzBHcUpMT0oxeGxNek83ZDh2UE1QUzU5SWhpQU1x?oc=5",
+      "date": "2026-11-06T13:30:00Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Samotność macierzyństwa. \"Dla wielu kobiet to szok\" Forbes."
     },
     {
       "title": "Analiza XTB za III kwartał 2026: Czarne złoto - StockWatch.pl",
