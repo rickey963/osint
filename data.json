@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T20:02:30Z",
+  "last_updated": "2026-11-08T20:03:16Z",
   "poland": [
     {
       "title": "WTA Finals startuje bez Jeleny Rybakiny. Ukrainka, Rosjanka i Białorusinka w jednej grupie",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08T19:58:02Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
+    },
+    {
       "title": "Train collision in Egypt kills at least 7, injures dozens, health ministry says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5",
       "date": "2026-11-08T19:18:30Z",
@@ -466,14 +474,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s allies as he said the veteran prime minister had brought the country to a historic crisis.Eisenkot, 66, the leader of the Yashar party, who has vowed to bridge Israel’s deep polarisation under Netanyahu, formally received a mandate from the president, Isaac Herzog, who gave him 28 days to form a government despite his bloc lacking a clear majority. Continue reading..."
-    },
-    {
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-08T17:35:13Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
     },
     {
       "title": "With Stephen Miller at the helm, Trump charts a course for conflict - Reuters",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Mars nie jest “martwy”. On zwyczajnie głęboko… śpi",
+      "url": "https://antyweb.pl/mars-wulkanicznosc-alba-mons",
+      "date": "2026-11-08T20:00:20Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Chlorowodór odkryty w rejonie wulkanu Alba Mons ujawnił się w \"porze roku\" Marsa, kiedy to w atmosferze go... nie ma. Źródło tej anomalii może kryć się pod powierzchnią planety: gaz może uchodzić z wciąż gorącego układu magmowego."
+    },
+    {
       "title": "Samochody, które tracą najmniej na wartości po 3 latach użytkowania. Liderzy w 4 segmentach",
       "url": "https://www.instalki.pl/news/motoryzacja/samochody-ktore-traca-najmniej-na-wartosci-po-3-latach-uzytkowania-liderzy-w-4-segmentach/",
       "date": "2026-11-08T19:38:30Z",
@@ -1029,7 +1037,7 @@
       "date": "2026-11-08T19:20:32Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 3 # Comments: 0."
+      "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 20 # Comments: 12."
     },
     {
       "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
@@ -1037,7 +1045,7 @@
       "date": "2026-11-08T19:08:51Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 3 # Comments: 0."
+      "summary": "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 17 # Comments: 2."
     },
     {
       "title": "THORChain, which handled ~$1B of stolen Bybit funds in 2025 for $12M+ in fees, began moving the Binance loot despite FBI pleas, saying it can't stop transfers (Wall Street Journal)",
@@ -1053,7 +1061,15 @@
       "date": "2026-11-08T18:43:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 35 # Comments: 33."
+      "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 45 # Comments: 42."
+    },
+    {
+      "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+      "url": "https://kevinboone.me/cpmzork.html",
+      "date": "2026-11-08T18:33:50Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://kevinboone.me/cpmzork.html Comments URL: https://news.ycombinator.com/item?id=50415750 Points: 5 # Comments: 3."
     },
     {
       "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
@@ -1061,7 +1077,7 @@
       "date": "2026-11-08T18:16:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 187 # Comments: 117."
+      "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 217 # Comments: 137."
     },
     {
       "title": "Allegro rozdaje 175 zł na zakupy. Zobacz, jak zgarnąć kupony",
@@ -1085,23 +1101,15 @@
       "date": "2026-11-08T17:32:55Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/ Comments URL: https://news.ycombinator.com/item?id=50415281 Points: 42 # Comments: 4."
+      "summary": "Article URL: https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/ Comments URL: https://news.ycombinator.com/item?id=50415281 Points: 44 # Comments: 7."
     },
     {
-      "title": "A Little Snitch for Windows",
-      "url": "https://packethound.app/",
-      "date": "2026-11-08T17:16:07Z",
+      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+      "date": "2026-11-08T17:20:29Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://packethound.app/ Comments URL: https://news.ycombinator.com/item?id=50415135 Points: 37 # Comments: 19."
-    },
-    {
-      "title": "A field guide to CAPTCHA types and how they break",
-      "url": "https://github.com/vsmutok/FuckCaptcha",
-      "date": "2026-11-08T17:09:55Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/vsmutok/FuckCaptcha Comments URL: https://news.ycombinator.com/item?id=50415078 Points: 25 # Comments: 5."
+      "summary": "Article URL: https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/ Comments URL: https://news.ycombinator.com/item?id=50415172 Points: 25 # Comments: 8."
     },
     {
       "title": "Sources: John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities (Mark Gurman/Bloomberg)",
@@ -1310,14 +1318,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Najpierw na pięć minut zniknął pod wodą, później uderzył podwoziem w przeszkodę i dachował, a na koniec zaliczył trzy próby zderzeniowe przy deklarowanych 100 km/h. Siedmioetapowy test bezpieczeństwa XPENG G9L robi wrażenie, zwłaszcza jeśli spojrzeć na to, co po wszystkim stało się z jego akumulatorem. Test bezpieczeństwa XPENG G9L: woda, podwozie i dachowanie Samochody elektryczne [&#8230;] Artykuł Utopili go i rozbili przy 100 km/h."
-    },
-    {
-      "title": "Tekst generowany przez AI ma teraz ukryty znak wodny. Oto, jak działa",
-      "url": "https://www.instalki.pl/news/software/claude-ukryty-znak-wodny-tekst-ai/",
-      "date": "2026-11-07T19:15:20Z",
-      "source": "Instalki.pl",
-      "confirmed_by": 1,
-      "summary": "Kopiujesz odpowiedź wygenerowaną przez Claude’a, wklejasz ją do dokumentu i nie widzisz niczego podejrzanego. Mimo to tekst może zawierać maszynowo wykrywalny ślad wskazujący na udział sztucznej inteligencji. Anthropic rozszerza znakowanie na kolejne, również starsze modele, a użytkownik nie może tej funkcji wyłączyć."
     },
     {
       "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
@@ -1796,6 +1796,14 @@
       "summary": "Darmowe prowadzenie rachunku, wysoka premia, atrakcyjne oprocentowanie oszczędności i karta bez opłat? W listopadowym rankingu kont osobistych sprawdzamy, które banki proponują najwięcej korzyści w pakiecie z najniższymi kosztami."
     },
     {
+      "title": "21% Rocznie 442 EXTRA | Podcast | Jak inwestować - Modivo, LPP, ASBiS, Dino, Orlen, Unimot, PKO, BNP, Ambra",
+      "url": "https://strefainwestorow.pl/podcast/21-rocznie-extra/25-jak-inwestowac-442",
+      "date": "2026-11-08T18:03:03Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "21% Rocznie 442 EXTRA | Podcast | Jak inwestować - Modivo, LPP, ASBiS, Dino, Orlen, Unimot, PKO, BNP, Ambra Paweł Biedrzycki ndz., 08.11.2026 Kanał Strefa Inwestorów Kanał Strefa Inwestorów Podcast Podcast Extra Treść Zapraszamy do wysłuchania podcastu 21% Rocznie EXTRA, odcinek 442: Modivo, LPP, ASBiS, Dino Polska, Orlen, Unimot, PKO, BNP, Ambra Lista omówionych spółek w podcaście:00:48 Modivo13:30 LPP22:25 ASBiS26:53 Dino Polska31:15 Orlen33:00 Unimot34:30 PKO BP 36:26 BNP Paribas BP37:30 Ambra Pobierz 442 odcinek podcastu w wersji mp3 Zawarte w materiale dane, opracowania, informacje, analizy zostały przygotowane wyłącznie w celach informacyjnych, są tylko i wyłącznie subiektywnymi opiniami autorów i nie są rekomendacjami zawarcia transakcji w rozumieniu § 3 Rozporządzenia Ministra Finansów z dnia 19 października 2005 r. w sprawie informacji stanowiących rekomendacje dotyczące instrumentów finansowych, lub ich emitentów lub wystawców m. in."
+    },
+    {
       "title": "W listopadzie można palić wycięte gałęzie na własnej działce bez żadnych konsekwencji zamiast wozić je do PSZOK, czy jednak grozi za to grzywna? - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOOUtzR1B2TmEyR3lDWGNELWs2bkdESk5lOTFWZU9ES3dRdXZ0cDBnX1hpWG9ia2FjRmJQU01HRFpmNl9kQUFQc05Fb2ZFck9CNDJmQXdiNmsyaEdNRi14M0hhYXhBRjY4ME5DUE40NnZuWmNicnpLSDJZSUFwN19LMzRHamN0U052Y1owV3FRbnBTOGg3TWZncm9HT0NBZ1lobTdvMnRLSHZ5NThGb0M4aW0xd09Fc19vTDBIMVk0cWduc00wZV9CVGkzNXdjdHN3WkYwQ3lwRlp6WEpvR0I2NHF1SmRmN0xKZkw2MTJja2lCakFTeDVqelBCYnVNUHYya0x0b0t6WUVfMU94QlJXM05qcFhHY29mS2JRVUpTNTc2MzVicHMyY1VsbER3aEhp?oc=5",
       "date": "2026-11-08T17:29:03Z",
@@ -1852,6 +1860,14 @@
       "summary": "„Pełne porozumienie” w imperium Solorzów. Uratowali i biznes, i rodzinę Forbes."
     },
     {
+      "title": "Allegro, Ten Square Games i PCC Rokita – kalendarium publikacji raportów za III kwartał na GPW",
+      "url": "https://strefainwestorow.pl/wydarzenia/kalendarium-publikacji-raportow-kwartalnych-2-tydzien-listopad-2026",
+      "date": "2026-11-08T16:00:00Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Allegro, Ten Square Games i PCC Rokita – kalendarium publikacji raportów za III kwartał na GPW Piotr Kwestarz ndz., 08.11.2026 Kanał Strefa Inwestorów Treść W nadchodzącym tygodniu na Giełdzie Papierów Wartościowych w Warszawie inwestorzy zapoznają się 28 raportami okresowymi dotyczącymi wyników za III kwartał. Harmonogram zdominowany jest przez spółki z sWIG80. Tydzień więc będzie okazją do oceny kondycji mniejszych i średnich podmiotów z różnych branż – od chemii, przez przemysł metalowy, po nieruchomości magazynowe."
+    },
+    {
       "title": "Atak rakietowy Huti na Saudi Aramco. Odłamki uderzyły w wieżowiec naftowego giganta",
       "url": "https://www.bankier.pl/wiadomosc/Atak-rakietowy-Huti-na-Saudi-Aramco-Odlamki-uderzyly-w-wiezowiec-naftowego-giganta-9225694.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-11-08T16:00:00Z",
@@ -1892,14 +1908,6 @@
       "summary": "W wyniku ostatnich wyborów Ameryka zrobiła ogromny krok wstecz - ocenił w niedzielę prezydent USA Donald Trump, którego partia osiągnęła słabe rezultaty w niedawnych wyborach połówkowych do Kongresu. Trump zapowiedział, że jego siła polityczna powróci silniejsza i większa."
     },
     {
-      "title": "Skarga MKiDN na Telewizję Republikę. „Tragedia to nie paliwo do propagandy”",
-      "url": "https://www.bankier.pl/wiadomosc/Skarga-MKiDN-na-Telewizje-Republike-Tragedia-to-nie-paliwo-do-propagandy-9225759.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-08T15:23:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Ministra kultury Marta Cienkowska poinformowała, że złożyła skargę do Krajowej Rady Radiofonii i Telewizji na Telewizję Republika. Powodem jest relacja stacji z tragicznych zdarzeń, do jakich doszło w sobotę w Krakowie."
-    },
-    {
       "title": "„Europa już przegrała”? Chińskie marki coraz mocniejsze - Forbes",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1NNanJkNlNzOW9mREVEY053SlJUWTRVcUxtNDduQkFHMHM0SU1PZW80ZzZaNnRSd3FSd2x4WHBjMHNJMDNrbVExTG1KbEFzTTlVNHFQVDNWbGYtbFh3d2xWS09WeE94U2hNY1laU1pHR3VhQkxKa2duZTNVN1lGZkNnZ3RSYzg0SVVvam8xUE5UTWtYaG8taw?oc=5",
       "date": "2026-11-08T15:17:10Z",
@@ -1914,6 +1922,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Koniec „taniej” Polski. Na czym budować przez kolejne 10 lat? Forbes."
+    },
+    {
+      "title": "Podsumowanie tygodnia - KOSPI przełamuje kolejne wsparcie",
+      "url": "https://strefainwestorow.pl/blog/podsumowanie-sesji/podsumowanie-tygodnia-kospi-przelamuje-kolejne-wsparcie",
+      "date": "2026-11-08T14:37:37Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Podsumowanie tygodnia - KOSPI przełamuje kolejne wsparcie Paweł Biedrzycki ndz., 08.11.2026 Nasdaq kospi DAX WIG swig80 USDPLN Wstęp do wpisu Podsumowanie tygodnia 2 - 6 listopada 2026: #Nasdaq, #DAX, #KOSPI, #WIG, #sWIG80, #USDPLN, spółki portfelowe, spółki godne uwagi Podsumowanie tygodnia - KOSPI przełamuje kolejne wsparcie Paweł Biedrzycki."
     },
     {
       "title": "Strzały podczas marszu 11 listopada. Jak ochronić życie w tłumie? Te zasady warto znać - Forsal.pl",
@@ -1948,6 +1964,14 @@
       "summary": "Prezydent Krakowa Łukasz Gibała chce, by dwaj policjanci, którzy powstrzymali sprawcę sobotniej strzelaniny na Rynku Głównym, otrzymali honorowe obywatelstwo miasta. Wystąpił o nadanie tytułu w trybie pilnym. Funkcjonariusze zostali ciężko ranni podczas interwencji."
     },
     {
+      "title": "Impuls i korekta - 08 listopada 2026",
+      "url": "https://strefainwestorow.pl/impuls-i-korekta/impuls-i-korekta-08-listopada-2026",
+      "date": "2026-11-08T11:22:58Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Impuls i korekta - 08 listopada 2026 tchoman ndz., 08.11.2026 Treść Ostatnie sesje przyniosły dynamiczne ruchy w obie strony. Najpierw pozytywne reakcje po zwycięstwie demokratów, by kolejnego dnia podaż przypuściła atak. Znaczącym wydarzeniem jest wybicie się dołem S&P 500 z tej wyższej konsolidacji dołem i to w imponującym stylu."
+    },
+    {
       "title": "Czy Marsz Niepodległości w Warszawie się odbędzie? Jest komentarz rzeczniczki MSWiA - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPanItN2VQblFoTkc3UGdldmpybjFxTk9UZENTSFJ0YXBlWG1JTFVWMFQ0Y2hfTHlSRnotSkNhZVFBZUtuWUZWN0l4RDctUTNLOW1rZ0hscjF0R05pNHlBSmxUclgyT2lxQ25rTldxY0t4X0NWdXJmTkhaeUpjQjRWT2kyS1ZkdU1HM056UHVuY193ZmM0RFVpdEZXbDNkLWlXUnpVSWlDQ0EtV1RMdDg5N01udHRyZFRPZm5HMEd6eXBZQlhn?oc=5",
       "date": "2026-11-08T10:46:54Z",
@@ -1970,22 +1994,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Sobotnia tragedia w Krakowie może pozostawić rysę na wizerunku miasta jako bezpiecznego kierunku turystycznego, ale nie musi doprowadzić do fali anulowania rezerwacji i spadku zainteresowania zagranicznych gości – ocenił w rozmowie z PAP Karol Wagner z Tatrzańskiej Izby Gospodarczej (TIG)."
-    },
-    {
-      "title": "Dlaczego ludzie zastygają w bezruchu, gdy słyszą strzały? Taką krótką reakcję określa się jako „freezing” - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2tsYWE5ZmtRNkE3NzFicWtrMUVOalpfZU5wNHQxel9rWDVxQUZMSTJpN1FXdGhtRlBCR3RiaHNPeUVManZhN0owSE9IUlRJbGhiU0x1enNKMVdVUVNCNG1ESEhMX1Y2OVk4YVRjQmVKRlJIZEtQQm5vbmZWRTN4bVpDR3BYZnE2TEliM3hNSlF4S2ZzLWZZZ2h3c1VBYlM2ZUtPb3BPbTZmdnVDM1dhbGlQU3RkaVU?oc=5",
-      "date": "2026-11-08T09:26:00Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Dlaczego ludzie zastygają w bezruchu, gdy słyszą strzały? Taką krótką reakcję określa się jako „freezing” Forsal.pl."
-    },
-    {
-      "title": "Ile kosztuje pozwolenie na broń w 2026 roku? Same formalności to dopiero początek wydatków - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdXN1X3pMV19aRFp0dno2UW9ETUlxOEtfUE1EU2FQWkJCTjV6YTJvZldsdXlfaEZzb1NWTlRyUGNUVERodU5yTEZYcHZzTGJzZkVHZDZsVXg5eXhaV1FkWFF2RmY4Vlk0TXM4MUt3eWNzZ0ZVeENYRDJRSFlUU3pGQUoyMXVLb1BiMDJBWWJ3ajFjYkExcURBSXJPUkZxQmFzdHg0VENIMA?oc=5",
-      "date": "2026-11-08T09:14:15Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Ile kosztuje pozwolenie na broń w 2026 roku? Same formalności to dopiero początek wydatków Forsal.pl."
     },
     {
       "title": "Krakowscy kupcy po tragedii. \"Jesteśmy w szoku\"",
@@ -2012,28 +2020,20 @@
       "summary": "Wstrząsająca strzelanina na krakowskim Rynku rozegrała się w sercu miasta, którego gospodarka w dużym stopniu korzysta z turystyki. W 2025 r. odwiedzający wydali tu około 15,4 mld zł, z czego 9,5 mld zł pozostało bezpośrednio w mieście."
     },
     {
-      "title": "Przez wypadek musiał porzucić pracę w kopalni. Dziś jest biznesowym potentatem - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTkxfM3ptczRBX3hiTzZPZ2lmWERiOUxvYjR3bk0weWRudWJBMThVQTZUMHE5c0kwRndCa3RCSnNrUTRPcVBDUG5GbldXVENDeVVzMjZTTUk2TEFaTUw3TEUyQ0p0cXVYVHJoenNaS1p5ZEZvbDVVanl0WGZFckh4Q0h5V3BDZllRTXczZllSLTNPVW1rSUhNWWJlUDg?oc=5",
-      "date": "2026-11-08T06:00:00Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Przez wypadek musiał porzucić pracę w kopalni. Dziś jest biznesowym potentatem Forbes."
-    },
-    {
-      "title": "Prezydent podjął decyzję. Żałoba narodowa w całej Polsce",
-      "url": "https://www.money.pl/gospodarka/prezydent-podjal-decyzje-zaloba-narodowa-w-calej-polsce-7348689180039648a.html",
-      "date": "2026-11-08T05:14:51Z",
-      "source": "Money.pl",
-      "confirmed_by": 1,
-      "summary": "Od północy w niedzielę w całej Polsce obowiązuje dwudniowa żałoba narodowa po strzelaninie w Krakowie. Zginęło sześć osób, a 16 zostało rannych, w tym napastnik. Decyzję podjął prezydent Karol Nawrocki."
-    },
-    {
       "title": "Możliwy Pat wyborczy i jego wpływ na giełdę. - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2JhdmVHVmJIaWlNNEVXLWRaSlFrOWFwZjRpQ3BpN1BLcUVuNWQ3bDVTU21EdkdHcnFoNUo5Yi05SWhObEcxU3c4UlU2b2pPbFNfbklmeDVfN2MyUXJucGlvbk1jdTNiOXNNMTJjWmItZXN2ZTRWeHhYYjhYRkFNb1RJMU5HT2t4WU1VLW9pMlgySEZnQkdqMnIwM3A?oc=5",
       "date": "2026-11-07T17:46:15Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Możliwy Pat wyborczy i jego wpływ na giełdę. StockWatch.pl."
+    },
+    {
+      "title": "W poszukiwaniu sygnałów - 7 listopada 2026 - Duża chwiejność na indeksach GPW",
+      "url": "https://strefainwestorow.pl/blog/w-poszukiwaniu-sygnalow/w-poszukiwaniu-sygnalow-7-listopada-2026-duza-chwiejnosc-na-indeksach",
+      "date": "2026-11-07T09:20:34Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "W poszukiwaniu sygnałów - 7 listopada 2026 - Duża chwiejność na indeksach GPW Ewa sob., 07.11.2026 Wstęp Indeksy GPW, #DAX, Indeksy USA, #Nikkei, #Shanghai, #CAC, #Ropa, #Miedź, #Złoto, #Srebro, #usdpln, #Eurpln, Spółki wcześniej sygnalizowane, Obserwowane wykresy, Kącik życzeń W poszukiwaniu sygnałów - 7 listopada 2026 - Duża chwiejność na indeksach GPW Ewa."
     },
     {
       "title": "Mieszkań może być dużo, a dostępność nadal słaba. Hiszpania pokazuje dlaczego",
@@ -2124,12 +2124,12 @@
       "summary": "Notowania GPW BiznesRadar."
     },
     {
-      "title": "Notowania DAT (DATAWALK) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UbnNSUXBISmlUNmdwa1JtX3Z0cTJEeVJLQ3B4Z1lvUjRpRTVKSzY4OTdVNjNCMllza0xadlJIVTVORDZkWjdZb0FXOE1EUGtCR3c?oc=5",
-      "date": "2026-11-06T16:01:59Z",
-      "source": "Biznesradar",
+      "title": "NBP podnosi prognozy inflacji na 2027 i obniża perspektywy wzrostu PKB",
+      "url": "https://strefainwestorow.pl/gospodarka/projekcja-inflacji-nbp-listopad-2026",
+      "date": "2026-11-06T15:31:31Z",
+      "source": "Strefa Inwestorów",
       "confirmed_by": 1,
-      "summary": "Notowania DAT (DATAWALK) BiznesRadar."
+      "summary": "NBP podnosi prognozy inflacji na 2027 i obniża perspektywy wzrostu PKB Wioletta Hass pt., 06.11.2026 Kanał Strefa Inwestorów inflacja NBP projekcja inflacji PKB polska gospodarka wzrost gospodarczy ceny energii inflacja bazowa KPO ETS2 Treść Listopadowa projekcja Narodowego Banku Polskiego zakłada, że inflacja wyniesie średnio 3,1 proc. w 2026 r., wzrośnie do 4,2 proc. w 2027 r."
     },
     {
       "title": "Obligacje skarbowe z ulgą po klęsce Republikanów. Przełomu jednak brak - StockWatch.pl",
@@ -2164,12 +2164,12 @@
       "summary": "Ceny paliw: autogaz drożeje, benzyna i olej napędowy tanieją StockWatch.pl."
     },
     {
-      "title": "Modivo Platform chce obniżyć zapasy o ok. 1 mld zł do końca 2027 r. Worldbox ma wkrótce osiągnąć próg rentowności - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdG9uaVhCLTVhQ2cwMHoweGlMbWFMR3RzM2tlWEdYS3l1Zi1MbEdRVmxCVFp2RG1vaC1vWk1HWmhya0hpSU5kb1QwaWNBbTl3VmpDVGNydHBhLS0zMzhXMnhKTi1MdDhBWXpGcDRrM09WVXdSS2VWamZaS3FDQ1F0ZU0yR2h1eWdLMFZSS2NhbDRfS2laY0JjNEg4NVVWallUTmFvT2FoVHpSOGJlN1NSUUdwN29kMTRq?oc=5",
-      "date": "2026-11-06T13:12:45Z",
-      "source": "StockWatch.pl",
+      "title": "Orlen zarabia miliardy na wysokich marżach. Czy wyniki są do utrzymania?",
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce/orlen-wyniki-rekordowe-marze-rafineryjne",
+      "date": "2026-11-06T08:11:11Z",
+      "source": "Strefa Inwestorów",
       "confirmed_by": 1,
-      "summary": "Modivo Platform chce obniżyć zapasy o ok. 1 mld zł do końca 2027 r. Worldbox ma wkrótce osiągnąć próg rentowności StockWatch.pl."
+      "summary": "Orlen zarabia miliardy na wysokich marżach. Czy wyniki są do utrzymania? Piotr Maciążek pt., 06.11.2026 Kanał W Zielonej Strefie wyniki orlen notowania orlen marże rafineryjne orlen wpływ marż na wyniki orlen Treść Zysk netto Orlenu wzrósł w trzecim kwartale 2026 roku o 158 proc."
     },
     {
       "title": "Kanada zbliża się do UE. Chce mieć więcej alternatyw wobec USA i Chin",
@@ -2453,6 +2453,10 @@
     {
       "sector": "Sektor energetyczny/surowcowy",
       "instrument": "np. ETF Energy Select Sector (XLE)"
+    },
+    {
+      "sector": "Złoto i obligacje skarbowe",
+      "instrument": "np. ETF na złoto (GLD) lub obligacje skarbowe"
     }
   ],
   "sp500_trend": {
@@ -2588,31 +2592,31 @@
     ],
     "prices": [
       26453.58,
-      29155.48,
+      29150.31,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      29193.19,
+      29188.01,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29449.21,
+      29443.98,
       27354.94,
       27400.36,
       27412.11,
-      29869.23,
+      29863.92,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29095.63,
+      29090.46,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29283.67,
+      29278.47,
       27686.17,
       27404.78,
       27351.97,
@@ -2621,7 +2625,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28978.52,
+      28973.37,
       27930.04,
       28234.04,
       28218.36,
@@ -2630,81 +2634,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29850.82,
+      29845.52,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29387.03,
+      29381.81,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29206.91,
+      29201.72,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29513.24,
+      29508.0,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30568.98,
+      30563.55,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30679.79,
+      30674.34,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30240.86,
+      30235.48,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30388.19,
+      30382.79,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30415.14,
+      30409.74,
       28449.73,
       28313.03,
       28272.33,
-      30172.33,
+      30166.97,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30146.8,
+      30141.44,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30512.91,
+      30507.49,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30431.38,
+      30425.97,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30781.37,
+      30775.91,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30182.02,
+      30176.66,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30041.11,
+      30035.78,
       30100.92,
       30418.01,
       30609.55,
