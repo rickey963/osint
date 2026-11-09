@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-09T10:32:32Z",
+  "last_updated": "2026-11-09T10:33:27Z",
   "poland": [
+    {
+      "title": "Kraków. Będą odznaczenia dla bohaterów. Gibała: Takich tytułów przyznamy kilkanaście",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33123544,krakow-beda-odznaczenia-dla-bohaterow-gibala-takich-tytulow.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-11-09T10:31:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Prezydent Krakowa Łukasz Gibała zapowiedział przyznanie wyróżnień osobom, które brały udział w unieszkodliwieniu sprawcy sobotniego ataku na Rynku Głównym oraz ratowaniu zdrowia i życia poszkodowanych."
+    },
     {
       "title": "Służby uderzyły w brata Viktora Orbána. Media: Áron Orbán zatrzymany ws. przemytu ludzi",
       "url": "https://www.rp.pl/polityka/art45464391-sluzby-uderzyly-w-brata-viktora-orbana-media-aron-orban-zatrzymany-ws-przemytu-ludzi",
@@ -272,14 +280,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "- Nie wyobrażam sobie, że minister Kierwiński jedzie i coś sobie wymyśla, bo tak mu przyszło do głowy - powiedział Szymon Hołownia w poniedziałkowym Graffiti. Wicemarszałek Sejmu odniósł się do słów szefa MSWiA o możliwej fascynacji sprawcy zamachu w Krakowie ideologiami skrajnie prawicowymi. Ocenił też polityczny spór, który wybuchł po tragedii."
-    },
-    {
-      "title": "Prokuratura reaguje po śmierci sprawcy. \"Nie wstrzymuje śledztwa\"",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-09/prokuratura-reaguje-po-smierci-sprawcy-nie-wstrzymuje-sledztwa/",
-      "date": "2026-11-09T06:36:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "Śmierć sprawcy sobotniego ataku na Rynku Głównym w Krakowie nie wpływa na zaplanowane czynności prokuratury. Śledczy będą nadal badać m.in. motywy działania napastnika i jego ewentualne powiązania – poinformował prok."
     },
     {
       "title": "Nie żyje zamachowiec z Krakowa. Michał Oksiński zmarł w szpitalu",
@@ -1016,6 +1016,14 @@
       "summary": "Kierowcy korzystający ze starszych smartfonów muszą przygotować się na wymianę sprzętu, jeśli nie chcą stracić dostępu do nawigacji w swoim samochodzie. Google oficjalnie zaktualizowało wymagania techniczne Android Auto, wycofując obsługę systemów Android 9 Pie oraz Android 10. Od teraz minimalnym progiem dla połączeń kablowych jest Android 11."
     },
     {
+      "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
+      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+      "date": "2026-11-09T10:11:47Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/ Comments URL: https://news.ycombinator.com/item?id=50423569 Points: 5 # Comments: 0."
+    },
+    {
       "title": "Od inteligentnej gitary po komputer z dwoma ekranami. Technologiczne perełki Red Dot 2026",
       "url": "https://antyweb.pl/od-inteligentnej-gitary-po-komputer-z-dwoma-ekranami-technologiczne-perelki-red-dot-2026",
       "date": "2026-11-09T10:00:40Z",
@@ -1038,6 +1046,14 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Garmin nie mydli oczu swoim klientom. Producent ogłasza właśnie, że podwyżki cen zegarków są tuż za rogiem. Artykuł Garmin ma złą wiadomość."
+    },
+    {
+      "title": "Ask HN: Do you still enjoy coding in C++?",
+      "url": "https://news.ycombinator.com/item?id=50423371",
+      "date": "2026-11-09T09:50:03Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "In the recent years C++ received a lot of backlash due to its complexity and (perceived) feature creep. However, since C++11 I really enjoyed writing C++ with its strict type system (including const), range-based for loops, smart pointers, and how much you can do with templates. On the other hand, I know that it can be very tricky to write, for instance, a correct iterator, to get handling of rvalue references right, or to read error messages that involve templates.So, do you enjoy or dislike writing C++ source code and why?"
     },
     {
       "title": "US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since July 2024 (Adeel Hassan/New York Times)",
@@ -1189,7 +1205,7 @@
       "date": "2026-11-09T08:17:49Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "The agent running on a remote machine can authenticate using your local SSH credentials.That means it can push to your private repos on GitHub, for example.Proof: https://github.com/openai/codex/pull/28131#discussion_r3410013180 Comments URL: https://news.ycombinator.com/item?id=50422628 Points: 20 # Comments: 6."
+      "summary": "The agent running on a remote machine can authenticate using your local SSH credentials.That means it can push to your private repos on GitHub, for example.Proof: https://github.com/openai/codex/pull/28131#discussion_r3410013180 Comments URL: https://news.ycombinator.com/item?id=50422628 Points: 26 # Comments: 9."
     },
     {
       "title": "Floryda: awaryjne lądowanie Cessny 172. Groźne spotkanie z pickupem",
@@ -1237,7 +1253,7 @@
       "date": "2026-11-09T07:31:14Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://pixelos.net/ Comments URL: https://news.ycombinator.com/item?id=50422254 Points: 31 # Comments: 26."
+      "summary": "Article URL: https://pixelos.net/ Comments URL: https://news.ycombinator.com/item?id=50422254 Points: 40 # Comments: 35."
     },
     {
       "title": "Hit z Lidla od Parkside przeceniony. Zaoszczędzisz 100 zł",
@@ -1261,7 +1277,7 @@
       "date": "2026-11-09T07:20:37Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://arxiv.org/abs/2610.14162 Comments URL: https://news.ycombinator.com/item?id=50422168 Points: 75 # Comments: 8."
+      "summary": "Article URL: https://arxiv.org/abs/2610.14162 Comments URL: https://news.ycombinator.com/item?id=50422168 Points: 91 # Comments: 8."
     },
     {
       "title": "Planetoida 1998 KY26 przyspiesza. Naukowcy nie wiedzą, jak to możliwe",
@@ -1277,15 +1293,7 @@
       "date": "2026-11-09T07:04:25Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://twitter.com/shanemelaugh/status/2119192075505893695 Comments URL: https://news.ycombinator.com/item?id=50422069 Points: 146 # Comments: 84."
-    },
-    {
-      "title": "WindyMaps – Free offline maps, 1h/1km weather and route trip planner",
-      "url": "https://windymapy.com",
-      "date": "2026-11-09T06:40:44Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://windymapy.com Comments URL: https://news.ycombinator.com/item?id=50421899 Points: 7 # Comments: 2."
+      "summary": "Article URL: https://twitter.com/shanemelaugh/status/2119192075505893695 Comments URL: https://news.ycombinator.com/item?id=50422069 Points: 160 # Comments: 100."
     },
     {
       "title": "Google rolls out a Googlebook update that frees up 3GB to 6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more (Jay Bonggolto/Android Central)",
@@ -1325,15 +1333,7 @@
       "date": "2026-11-09T04:43:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Decision models need their own inference engine.So we developed Flide, a high-performance and exact inference engine for Jev-like decision models.Flide achieves up to a 9.5x speedup over vLLM and SGLang.It now supports 30+ popular local Jev-like decision models.Start to make your decision immediately:pip install flide Comments URL: https://news.ycombinator.com/item?id=50421155 Points: 29 # Comments: 5."
-    },
-    {
-      "title": "A Critique of GPUI",
-      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
-      "date": "2026-11-09T03:51:10Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://blog.zortax.de/posts/a-critique-of-gpui Comments URL: https://news.ycombinator.com/item?id=50420857 Points: 104 # Comments: 61."
+      "summary": "Decision models need their own inference engine.So we developed Flide, a high-performance and exact inference engine for Jev-like decision models.Flide achieves up to a 9.5x speedup over vLLM and SGLang.It now supports 30+ popular local Jev-like decision models.Start to make your decision immediately:pip install flide Comments URL: https://news.ycombinator.com/item?id=50421155 Points: 32 # Comments: 6."
     },
     {
       "title": "Vivo X500 Ultra z terminem premiery. Aparat ma pozamiatać",
@@ -1796,22 +1796,6 @@
       "summary": "Portal Giełdowy - Twój przewodnik po świecie inwestycji StockWatch.pl."
     },
     {
-      "title": "Domański o unijnej dyrektywie tytoniowej. Polska popiera zmiany, nie wpłyną one na ceny w kraju",
-      "url": "https://www.bankier.pl/wiadomosc/Domanski-o-unijnej-dyrektywie-tytoniowej-Polska-popiera-zmiany-nie-wplyna-one-na-ceny-w-kraju-9226009.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-09T10:16:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Wicepremier, minister finansów Andrzej Domański powiedział w poniedziałek w Brukseli, że Polska popiera zmiany w unijnej dyrektywie dotyczącej opodatkowania wyrobów tytoniowych. Zaznaczył, że nie wpłyną one na ceny tych produktów w Polsce."
-    },
-    {
-      "title": "Zarobki górników gonią IT, a \"średnia krajowa\" reszty oscyluje wokół 9 tys. zł",
-      "url": "https://www.bankier.pl/wiadomosc/Zarobki-gornikow-gonia-IT-a-srednia-krajowa-reszty-oscyluje-wokol-9-tys-zl-9225950.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-09T10:13:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Przeciętne miesięczne wynagrodzenie brutto w III kwartale 2026 roku wyniosło 9317,01 zł brutto. To oznacza wzrost o 6,2 proc. Analiza danych pokazuje, że tempo podwyżek wyraźnie wyhamowało w porównaniu z \"szalonymi\" poprzednimi latami."
-    },
-    {
       "title": "Nie żyje sprawca zamachu w Krakowie. 24-latek zmarł w szpitalu - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQWxGTi1oTjh4bEU1OV9xZVVVMXRkcDlQN1VFMzhkYmNsSGJqVmlXZVpJZ0R2NG9NLXY2MHpPNWVFcHZFMkZnWlVSYkNRU0pvZWh6cll0SUxpN0JqeXlSUXI3am0tSlY4U3BFNFdlSjNJMG5fT29yS2c1WlRxMlgweFI1MXJMeU9zbzZpV0NfdUFQWnFtRnZpSmpBQW5Xck9sdmhsMzFYNVI1akpoeG9LLXZncEJDbGFMdEhZ?oc=5",
       "date": "2026-11-09T10:05:06Z",
@@ -1964,12 +1948,28 @@
       "summary": "Polacy odbierają karty mobilizacyjne. Tylko 6 godzin na stawienie się w wojsku. Co to oznacza?"
     },
     {
+      "title": "Złoty odrabia straty po piątkowej panice. Tańsza ropa pomaga polskiej walucie",
+      "url": "https://www.bankier.pl/wiadomosc/Zloty-odrabia-straty-po-piatkowej-panice-Tansza-ropa-pomaga-polskiej-walucie-9225945.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-09T08:19:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Początek nowego tygodnia przynosi uspokojenie na krajowym rynku walutowym. Po piątkowej fali wyprzedaży wywołanej załamaniem na spółkach technologicznych, polska waluta odrabiała straty względem głównych konkurentów. Złotemu sprzyjał przede wszystkim spadek cen ropy naftowej oraz dyplomatyczne sygnały wskazujące na możliwą deeskalację napięć na Bliskim Wschodzie."
+    },
+    {
       "title": "Green Lanes: przedwstępna umowa z Paged Meble - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMXVLb0dsZXNNbWdjcVdyRjVaQ3lrMmlLOTAwNDlkRVQ2ZmpIQTcxb2FzTWZSY3hEa25UNzlGSXkxWXpfNTJ6UEhwNG16bm5VMEx0TkExUk9vVENuTllabU1FV0txZWNuVmhJb0cySXd6TzJ5cEpTcHJvMV9PZWtCa3o4eXUyQVNCdGVvWWNTVmlSSnp6OERPcTNLYXllTzJYOGMw?oc=5",
       "date": "2026-11-09T08:18:09Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Green Lanes: przedwstępna umowa z Paged Meble StockWatch.pl."
+    },
+    {
+      "title": "Rewolucja w odprawach Ryanaira. Koniec z nerwami tuż przed lotem",
+      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-w-odprawach-Ryanaira-Koniec-z-nerwami-tuz-przed-lotem-9225930.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-09T08:08:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Stało się. Ryanair podjął decyzję o wydłużeniu darmowej odprawy. Pasażerowie, którzy nie opłacili wyboru miejsca, już nie muszą odliczać godzin do doby przed wylotem."
     },
     {
       "title": "Medicalgorithmics poszerza obecność w USA - StockWatch.pl",
@@ -2148,6 +2148,14 @@
       "summary": "Notowania COG (COGNOR) BiznesRadar."
     },
     {
+      "title": "Notowania KGH (KGHM) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93X2pxOFBoSkVlMElfMjdhVGJqM0VlQlNaTDVoSFBrN3U1SXJHeURLRVRmV2RPbnZrdU9hcVFscUhzdUYyaUN3SHpzTDAxTURJbWtr?oc=5",
+      "date": "2026-11-06T16:03:32Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania KGH (KGHM) BiznesRadar."
+    },
+    {
       "title": "Raporty finansowe: Rachunek zysków i strat ASB (ASBIS) - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM3dDOVFadnYtLTFFM0t4bnhWYWIyT20wbnktam9qZ0hpaXoyUnB1bEk4dUxNX3RQVE5RX0tuMlU4R1Z0Z1lRa3AtbWFNbkk3Rl9scmpYX2VnWWJDU2JNc3JuSVBKLWx1eEdDU1p6NnBxWndtcjBxMjdaM0Itc2ZKRw?oc=5",
       "date": "2026-11-06T16:02:53Z",
@@ -2178,14 +2186,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania S2B (SYN2BIO) BiznesRadar."
-    },
-    {
-      "title": "Notowania BDX (BUDIMEX) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MMnJ4UVp3QTJVUFp0al84WkdLaFNtS2FXOTJzQTVYVjVoYXZONkpyOVRFOG1zdzhCUUVOeUVxM19CYVFpMVYyZi01aHcxSndQM1ZmME9vOA?oc=5",
-      "date": "2026-11-06T16:00:48Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania BDX (BUDIMEX) BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2601,32 +2601,32 @@
       "2026-11-06"
     ],
     "prices": [
-      28744.6,
-      28986.79,
+      28741.66,
+      28983.83,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      29024.28,
+      29021.32,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29278.81,
+      29275.82,
       27354.94,
       27400.36,
       27412.11,
-      29696.4,
+      29693.37,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28927.28,
+      28924.33,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29114.23,
+      29111.26,
       27686.17,
       27404.78,
       27351.97,
@@ -2635,7 +2635,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28810.84,
+      28807.9,
       27930.04,
       28234.04,
       28218.36,
@@ -2644,81 +2644,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29678.11,
+      29675.08,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29216.99,
+      29214.01,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29037.91,
+      29034.95,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29342.48,
+      29339.48,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30392.11,
+      30389.0,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30502.27,
+      30499.16,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30065.88,
+      30062.81,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30212.36,
+      30209.28,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30239.16,
+      30236.07,
       28449.73,
       28313.03,
       28272.33,
-      29997.75,
+      29994.69,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      29972.36,
+      29969.3,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30336.36,
+      30333.26,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30255.3,
+      30252.21,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30603.27,
+      30600.15,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30007.39,
+      30004.32,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      29867.29,
+      29864.24,
       30100.92,
       30418.01,
       30609.55,
