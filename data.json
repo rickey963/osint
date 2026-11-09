@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-11-09T17:30:59Z",
+  "last_updated": "2026-11-09T17:31:47Z",
   "poland": [
+    {
+      "title": "Eksplozja i pożar w hucie stali w Turcji. Nie żyje 16 osób",
+      "url": "https://www.rp.pl/swiat/art45468111-eksplozja-i-pozar-w-hucie-stali-w-turcji-nie-zyje-16-osob",
+      "date": "2026-11-09T17:30:23Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "16 osób zginęło, a 13 zostało rannych w wyniku eksplozji i pożaru w zakładzie hutniczym w mieście Aliaga na zachodzie kraju – podał prezydent Turcji Recep Tayyip Erdogan."
+    },
+    {
+      "title": "Zamach terrorystyczny i ubezpieczenia. To nie jest prosta sprawa",
+      "url": "https://pieniadze.rp.pl/polisy-i-ubezpieczenia/art45466951-zamach-terrorystyczny-i-ubezpieczenia-to-nie-jest-prosta-sprawa",
+      "date": "2026-11-09T17:30:09Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Odszkodowanie wypłacone po zamachu terrorystycznym z polisy na życie może pomóc pokryć m.in. koszty leczenia i rehabilitacji osoby poszkodowanej. Świadczenie mogą też otrzymać bliscy osoby zmarłej w wyniku zamachu."
+    },
     {
       "title": "Dyrektor szkoły, którą skończył zamachowiec z Krakowa: Większość nauki odbył zdalnie",
       "url": "https://www.rp.pl/spoleczenstwo/art45468101-dyrektor-szkoly-ktora-skonczyl-zamachowiec-z-krakowa-wiekszosc-nauki-odbyl-zdalnie",
@@ -106,14 +122,6 @@
       "summary": "Kanclerz Niemiec ostrzegł, iż zablokuje przyjęcie kolejnego siedmioletniego budżetu Unii Europejskiej, jeśli wszystkie państwa członkowskie nie zobowiążą się do finansowania Ukrainy w 2027 r. i w kolejnych latach — pisze \"Financial Times\"."
     },
     {
-      "title": "Wykładowczyni KUL odpowie za słowa o rodzinie zamachowca z Krakowa. „Nie przystoją człowiekowi“",
-      "url": "https://www.rp.pl/spoleczenstwo/art45467001-wykladowczyni-kul-odpowie-za-slowa-o-rodzinie-zamachowca-z-krakowa-nie-przystoja-czlowiekowi",
-      "date": "2026-11-09T16:17:25Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Wykładowczyni Katolickiego Uniwersytetu Lubelskiego, dr Katarzyna Pejda odpowie przed rzecznikiem dyscyplinarnym uczelni za wpis pod informacją o rodzinie sprawcy zamachu w Krakowie."
-    },
-    {
       "title": "Tusk i Nawrocki wezmą udział w Marszu Ciszy w Krakowie. \"Bądźmy wszyscy razem\"",
       "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33124267,tusk-i-nawrocki-wezma-udzial-w-marszu-ciszy-w-krakowie-badzmy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-11-09T16:14:00Z",
@@ -136,14 +144,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "Skrót wiadomości - poniedziałek, 9 listopada, 17.00 PAP Biznes."
-    },
-    {
-      "title": "Dowód osobisty przy drogich zakupach. Unia wprowadza nowe obowiązki",
-      "url": "https://cyfrowa.rp.pl/it/art45465861-dowod-osobisty-przy-drogich-zakupach-unia-wprowadza-nowe-obowiazki",
-      "date": "2026-11-09T16:06:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Od lipca 2027 r. zaczną obowiązywać nowe unijne przepisy dotyczące przeciwdziałania praniu pieniędzy. Zmienią one zasady dużych transakcji i płatności gotówkowych, nakładając na część sprzedawców obowiązek weryfikacji tożsamości klientów."
     },
     {
       "title": "Miliardowa pożyczka na ratowanie państwowej spółki. Na to pójdą pieniądze",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Błąd w sterownikach od AMD atakuje dyski SSD. Sprawdź, czy Ciebie też to dotyczy",
+      "url": "https://antyweb.pl/amd-adrenalin-blad-ssd",
+      "date": "2026-11-09T17:30:05Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Użytkownicy Radeonów: strzeżcie się. Proces zaszyty w sterowniku AMD zapisuje bezsensownie dane na dysku SSD, nawet gdy komputer pozostaje bezczynny. AMD problem już zna i zapowiada łatkę."
+    },
+    {
       "title": "Starlink tańszy niż światłowód. Internet z kosmosu wreszcie się opłaca",
       "url": "https://spidersweb.pl/2026/11/starlink-promocja-tanszy-niz-swiatlowod-50-proc.html",
       "date": "2026-11-09T17:27:00Z",
@@ -1294,14 +1302,6 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Drożejąca pamięć RAM zmusza producentów smartfonów do szukania oszczędności. Jednym z rozwiązań jest wykorzystanie układów DRAM odzyskanych ze starszych urządzeń. TrendForce przewiduje, że w 2027 r."
-    },
-    {
-      "title": "Po ataku w Krakowie algorytmy hodują naśladowców. Zamachowiec nowym idolem",
-      "url": "https://spidersweb.pl/2026/11/true-crime-community-polska-social-media-nasladowcy-zamach-krakow.html",
-      "date": "2026-11-09T14:21:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Po ataku w Krakowie algorytmy hodują naśladowców. Zamachowiec nowym idolem."
     },
     {
       "title": "Szef NVIDII przyznał się do romansu. W tle chińscy szpiedzy",
@@ -2068,20 +2068,20 @@
       "summary": "Millennium Bank wesprze inwestycje w produkty dual-use Forbes."
     },
     {
+      "title": "Edycja II - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQNHFReXRHM1FQS1kxQWlSZ2hINS1vR0JEaVEwbTNGd2hpMENtTy1PZG13SFRDWEkzR2ZaMF9RM0l1NVZZLXc?oc=5",
+      "date": "2026-11-09T07:50:01Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Edycja II Forbes."
+    },
+    {
       "title": "„Chcesz sprzedawać nam broń? Musisz inwestować w Polsce”. Sobkowiak-Czarnecka o miliardach na zbrojenia - Forbes",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORWR0eHdoVndSZDhXOUh5dGNoVUROX0l4WWFwTWlaRkJKd3lISjdXS1pNUWZjczBOazdWZzcwTkd6MFZqWURYMW50YXdjek1RdkozbmF4RHlRTUoySGRKSzQ2Q2JCVU1GNXV4MW9MQjNMckwxT0x5eGhQTlF1MjBUSWlOSDlqMUhNOThjQk9rYWRsdktQQnNPUWZJQ09CZG1LX3JMWlNzeUNtb0ZDd2k4QXJYVUlKVlk?oc=5",
       "date": "2026-11-09T07:00:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "„Chcesz sprzedawać nam broń? Musisz inwestować w Polsce”. Sobkowiak-Czarnecka o miliardach na zbrojenia Forbes."
-    },
-    {
-      "title": "Dlaczego nie wystarczy być ekspertem na swoim rynku? Sukces wymaga czegoś więcej - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3dLRXk3V0w2Z3NyZFAydDl6cW9zUFRxWGNLSTFZMDlHQzF2Q0M1UTBpQWpEcWVFaUhfLXhuTEIwWjdKV20zQW01QmxEcmVla2lhOVZ0N1ZuN19wSFJ0dWVhNWg2amI4Q2E5QkpWMHhfcktZSE5hdVM2WFBHQ3laNEI2NG9rd0huZDVHTUZ1VVY4SUt0LWtmVFdzV3VmTGFWXzRyb19KNmdRT3Zx?oc=5",
-      "date": "2026-11-09T06:00:00Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Dlaczego nie wystarczy być ekspertem na swoim rynku? Sukces wymaga czegoś więcej Forbes."
     },
     {
       "title": "Prognozy dla dolara na przełom 2026 i 2027 r. Wyborczy klincz w USA nie wystarczył, by wzmocnić euro",
@@ -2116,6 +2116,14 @@
       "summary": "Notowania WTI Light Crude Oil Spot - Ropa naftowa (CL.FUT) BiznesRadar."
     },
     {
+      "title": "Analiza techniczna High Grade Copper Futures - Miedź (HG.FUT) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fRFhaeUdraFJnU2Q1THhzM2RhMkxjRHI4Sl9qc0o3cnFaUkFZanlFcXpaaWZzM2hGM0NWaXFLS3hEbFhSeV91dnprZVR5ei01MG9TOTVxNXplaG1pVzllRDRCVmhwRlIwMHVaYVBNLWlfRjJLX2tn?oc=5",
+      "date": "2026-11-06T21:59:48Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Analiza techniczna High Grade Copper Futures - Miedź (HG.FUT) BiznesRadar."
+    },
+    {
       "title": "COP31 stawia na elektryfikację. Polska ma wiele do zyskania i sporo do nadrobienia",
       "url": "https://300gospodarka.pl/300klimat/cop31-stawia-na-elektryfikacje-polska-ma-wiele-do-zyskania-i-sporo-do-nadrobienia",
       "date": "2026-11-06T21:04:35Z",
@@ -2140,14 +2148,6 @@
       "summary": "Notowania International Business Machines Corporation (IBM.US) BiznesRadar."
     },
     {
-      "title": "Notowania Amazon.com Inc. (AMZN.US) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zekFJSnh5VVc5ZHpoQ0g4RERkV2ZCOEFfbUpkai1kbjljdDl4a3FHdG1uNjJlcXBBbG9sdWVtNy1tQ1d4RFo5OWNaN1VMX3ZUZDVrZTd3dw?oc=5",
-      "date": "2026-11-06T21:00:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania Amazon.com Inc. (AMZN.US) BiznesRadar."
-    },
-    {
       "title": "Te sklepy wygrywają walkę o portfele Polaków. Głosowało 155 tys. klientów",
       "url": "https://300gospodarka.pl/news/te-sklepy-wygrywaja-walke-o-portfele-polakow-glosowalo-155-tys-klientow",
       "date": "2026-11-06T20:07:03Z",
@@ -2165,6 +2165,22 @@
     }
   ],
   "critical_alerts": [
+    {
+      "title": "Eksplozja i pożar w hucie stali w Turcji. Nie żyje 16 osób",
+      "url": "https://www.rp.pl/swiat/art45468111-eksplozja-i-pozar-w-hucie-stali-w-turcji-nie-zyje-16-osob",
+      "date": "2026-11-09T17:30:23Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "16 osób zginęło, a 13 zostało rannych w wyniku eksplozji i pożaru w zakładzie hutniczym w mieście Aliaga na zachodzie kraju – podał prezydent Turcji Recep Tayyip Erdogan."
+    },
+    {
+      "title": "Zamach terrorystyczny i ubezpieczenia. To nie jest prosta sprawa",
+      "url": "https://pieniadze.rp.pl/polisy-i-ubezpieczenia/art45466951-zamach-terrorystyczny-i-ubezpieczenia-to-nie-jest-prosta-sprawa",
+      "date": "2026-11-09T17:30:09Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Odszkodowanie wypłacone po zamachu terrorystycznym z polisy na życie może pomóc pokryć m.in. koszty leczenia i rehabilitacji osoby poszkodowanej. Świadczenie mogą też otrzymać bliscy osoby zmarłej w wyniku zamachu."
+    },
     {
       "title": "Dyrektor szkoły, którą skończył zamachowiec z Krakowa: Większość nauki odbył zdalnie",
       "url": "https://www.rp.pl/spoleczenstwo/art45468101-dyrektor-szkoly-ktora-skonczyl-zamachowiec-z-krakowa-wiekszosc-nauki-odbyl-zdalnie",
@@ -2188,22 +2204,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Prezydent RP Karol Nawrocki i premier Donald Tusk na zaproszenie prezydenta Krakowa Łukasza Gibały wezmą udział w poniedziałkowym Marszu Ciszy o godz. 20:00 - poinformował tamtejszy magistrat. Jego uczestnicy uczczą pamięć ofiar zamachu dokonanego w sobotę przez 24-letniego Michała Oksińskiego."
-    },
-    {
-      "title": "Prokuratura: Flaga Gadsdena w mieszkaniu zamachowca z Krakowa. Co oznacza?",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33124291,prokuratura-flaga-gadsdena-w-mieszkaniu-zamachowca-z-krakowa.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-11-09T16:50:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "- Jest za wcześnie, aby mówić o motywach, inspiracji czy jakiejś ideologii zamachowca z Krakowa - poinformował rzecznik Prokuratury Krajowej prok. Przemysław Nowak."
-    },
-    {
-      "title": "Wykładowczyni KUL odpowie za słowa o rodzinie zamachowca z Krakowa. „Nie przystoją człowiekowi“",
-      "url": "https://www.rp.pl/spoleczenstwo/art45467001-wykladowczyni-kul-odpowie-za-slowa-o-rodzinie-zamachowca-z-krakowa-nie-przystoja-czlowiekowi",
-      "date": "2026-11-09T16:17:25Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Wykładowczyni Katolickiego Uniwersytetu Lubelskiego, dr Katarzyna Pejda odpowie przed rzecznikiem dyscyplinarnym uczelni za wpis pod informacją o rodzinie sprawcy zamachu w Krakowie."
     }
   ],
   "map_features": [
@@ -2406,6 +2406,14 @@
       "region": "Francja",
       "description": "Francuskie służby śledzą co dziesiątego spośród około 30 tysięcy potencjalnych zamachowców.",
       "url": "https://www.rp.pl/polityka/art45464601-we-francji-istnieje-lista-s-10-proc-potencjalnych-zamachowcow-jest-monitorowanych"
+    },
+    {
+      "lat": 38.6,
+      "lng": 35.5,
+      "type": "critical",
+      "region": "Turcja",
+      "description": "16 osób zginęło, a 13 zostało rannych w wyniku eksplozji i pożaru w zakładzie hutniczym w mieście Aliaga na zachodzie kraju – podał prezydent Turcji Recep Tayyip Erdogan.",
+      "url": "https://www.rp.pl/swiat/art45468111-eksplozja-i-pozar-w-hucie-stali-w-turcji-nie-zyje-16-osob"
     }
   ],
   "instability": [
@@ -2570,26 +2578,26 @@
       26805.91,
       26964.04,
       27260.71,
-      28990.57,
+      28992.05,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29244.81,
+      29246.31,
       27354.94,
       27400.36,
       27412.11,
-      29661.91,
+      29663.43,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28893.68,
+      28895.16,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29080.42,
+      29081.9,
       27686.17,
       27404.78,
       27351.97,
@@ -2598,7 +2606,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28777.38,
+      28778.86,
       27930.04,
       28234.04,
       28218.36,
@@ -2607,81 +2615,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29643.64,
+      29645.15,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29183.06,
+      29184.55,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29004.19,
+      29005.67,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29308.4,
+      29309.9,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30356.81,
+      30358.36,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30466.85,
+      30468.4,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30030.96,
+      30032.5,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30177.27,
+      30178.82,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30204.04,
+      30205.58,
       28449.73,
       28313.03,
       28272.33,
-      29962.91,
+      29964.44,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      29937.55,
+      29939.08,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30301.13,
+      30302.67,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30220.16,
+      30221.71,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30567.73,
+      30569.29,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      29972.54,
+      29974.07,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      29832.6,
+      29834.13,
       30100.92,
       30418.01,
       30609.55,
@@ -2692,7 +2700,7 @@
       30241.96,
       28691.31,
       28904.09,
-      29534.38
+      29538.47
     ],
     "currency": "PLN"
   }
