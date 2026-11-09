@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T09:45:53Z",
+  "last_updated": "2026-11-09T09:46:43Z",
   "poland": [
     {
       "title": "Koreański film dedykowany Kieślowskiemu. Reżyser: „Możliwa miłość” to nie remake „Dekalogu”",
@@ -8,6 +8,14 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Film „Możliwa miłość” spodobałby się Krzysztofowi Kieślowskiemu – jest niejednoznaczny i nieoczywisty, zmusza do myślenia i odczuwania. Jednocześnie reżyser zastrzega, że jego dzieło nie zostało zainspirowane „Dekalogiem” i stanowi niezależny film fabularny. – Opowiadam zupełnie inną historię Kieślowskiego – mówi Lee Chang-dong."
+    },
+    {
+      "title": "Rating Polski z gorszymi perspektywami. Tak reagują waluty i giełda",
+      "url": "https://businessinsider.com.pl/gielda/wiadomosci/rating-polski-pod-obserwacja-sandp-tak-reaguja-kursy-walut-i-gielda/y4sh860",
+      "date": "2026-11-09T09:42:35Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Pogorszenie perspektywy ratingu, które potencjalnie umożliwia w przyszłości cięcie oceny wiarygodności Polski, jest poważnym ostrzeżeniem dla rządu. Jednak poniedziałkowe wzrosty na giełdzie i spokój na rynku walutowym pokazują, że inwestorzy są na razie spokojni."
     },
     {
       "title": "Rekordowa sprzedaż nowych mieszkań. Kupujący mogą liczyć na obniżki cen",
@@ -34,7 +42,7 @@
       "summary": "Patrick Wilson zamieścił na Instagramie emocjonalny wpis po tragicznych wydarzeniach w Krakowie. Aktor znany z takich produkcji jak „Obecność”, „Naznaczony” czy „Aquaman” pokazał rodzinne zdjęcie z Polski i podkreślił, jak ważne miejsce zajmuje ona w jego życiu."
     },
     {
-      "title": "Rosja nie korzystała z tego portu 30 lat. Ukraina właśnie ją do tego zmusiła",
+      "title": "Rosja nie robiła tego od 30 lat. Ukraina właśnie ją zmusiła",
       "url": "https://businessinsider.com.pl/gospodarka/rosja-przywraca-port-w-murmansku-tego-nie-bylo-od-30-lat/0305g15",
       "date": "2026-11-09T09:29:59Z",
       "source": "Business Insider Polska",
@@ -240,14 +248,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Śmierć sprawcy sobotniego ataku na Rynku Głównym w Krakowie nie wpływa na zaplanowane czynności prokuratury. Śledczy będą nadal badać m.in. motywy działania napastnika i jego ewentualne powiązania – poinformował prok."
-    },
-    {
-      "title": "Rosja ukrywa straty w Ukrainie. Poufne dane ujawniają skalę",
-      "url": "https://businessinsider.com.pl/wiadomosci/rosja-ukrywa-straty-w-ukrainie-wyciekly-poufne-dane-o-zgonach/n735wml",
-      "date": "2026-11-09T06:28:40Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Od początku pełnoskalowej inwazji na Ukrainę — czyli w ciągu niemal pięciu lat — Rosja odnotowała śmierć około 400 tys. swoich obywateli biorących udział w działaniach wojennych — wynika z poufnych danych rosyjskiego urzędu statystycznego (Rosstat)."
     },
     {
       "title": "Szymon Hołownia w \"Graffiti\". Oglądaj od 7:40",
@@ -1410,12 +1410,28 @@
   ],
   "cybersecurity": [
     {
+      "title": "Memory crunch makes refurbished kit look a lot less secondhand",
+      "url": "https://www.theregister.com/on-prem/2026/11/09/memory-crunch-makes-refurbished-kit-look-a-lot-less-secondhand/5307758",
+      "date": "2026-11-09T09:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Soaring component costs and warranties of up to three years give buyers more reason to consider pre-loved hardware."
+    },
+    {
       "title": "Za dużo narzędzi, a za mało ludzi. Ekspert o błędach w cyberbezpieczeństwie",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/za-duzo-narzedzi-a-za-malo-ludzi-ekspert-o-bledach-w-cyberbezpieczenstwie",
       "date": "2026-11-09T08:00:11Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Cyberbezpieczeństwo nie kończy się na zakupie firewalla, a zgodności z NIS2 nie można kupić w pudełku. Firmy coraz lepiej rozumieją zagrożenia, ale wciąż popełniają podstawowe błędy – nie kontrolują dostępu dostawców, nie testują kopii zapasowych i wdrażają narzędzia, z których później nie korzystają."
+    },
+    {
+      "title": "Dev error bricked 600 PCs, caused $1M CD-ROM write-off",
+      "url": "https://www.theregister.com/software/2026/11/09/dev-error-bricked-600-pcs-caused-1m-cd-rom-write-off/5308039",
+      "date": "2026-11-09T07:36:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "One lucky engineer scored a free dinner during the frantic fix, the rest got to explain their mistake."
     },
     {
       "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
@@ -1450,6 +1466,30 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement."
     },
     {
+      "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
+      "url": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
+      "date": "2026-11-09T04:53:08Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Fixes are arriving faster than new bug reports for one major Linux project."
+    },
+    {
+      "title": "Huawei says it’s made a 100 percent Chinese PC",
+      "url": "https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335",
+      "date": "2026-11-09T02:14:17Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "PLUS: Japan declares infosec emergency; Apple’s makes biggest school Mac sale, ever, anywhere, in the Philippines; And more!"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang starring in possible remake of The Spy Who Shagged Me",
+      "url": "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-starring-in-possible-remake-of-the-spy-who-shagged-me/5308327",
+      "date": "2026-11-09T00:04:47Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Admits to affair after company board opens probe into alleged contact with possible Chinese asset who bought GPUs in bulk."
+    },
+    {
       "title": "Weekendowa Lektura: odcinek 701 [2026-11-08]. Bierzcie i czytajcie",
       "url": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-701-2026-11-08-bierzcie-i-czytajcie/",
       "date": "2026-11-08T21:41:29Z",
@@ -1458,12 +1498,28 @@
       "summary": "Zapraszamy do nowego wydania Weekendowej Lektury. Jak Wam minął tydzień? Nam, jak zwykle, intensywnie – niby nie było większych afer, ale linków nagromadziło się całkiem sporo."
     },
     {
+      "title": "Doom delivers five minutes of terminal violence on an IBM mainframe",
+      "url": "https://www.theregister.com/offbeat/2026/11/08/doom-delivers-five-minutes-of-terminal-violence-on-an-ibm-mainframe/5308092",
+      "date": "2026-11-08T11:19:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Browser demo renders the classic shooter in ASCII, with no login required and considerable squinting encouraged."
+    },
+    {
       "title": "Fałszywe zdjęcia, nagrania i narracje. Rząd tropi fake newsy, służby cyfrowe ślady sprawcy",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/falszywe-zdjecia-nagrania-i-narracje-rzad-tropi-fake-newsy-sluzby-cyfrowe-slady-sprawcy",
       "date": "2026-11-08T10:27:58Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Czy przed zamachem w Krakowie były sygnały ostrzegawcze, które można było wychwycić w internecie? To jedno z pytań, na które odpowiedzi szukają teraz policyjni śledczy z CBZC. Jednocześnie rząd uruchomił kryzysowy monitoring dezinformacji po tragedii."
+    },
+    {
+      "title": "Internet governance about to get its quadrennial stress test at ITU meeting",
+      "url": "https://www.theregister.com/networks/2026/11/08/internet-governance-about-to-get-its-quadrennial-stress-test-at-itu-meeting/5308031",
+      "date": "2026-11-08T09:33:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "278 proposals on table, and some fear they might shift power to governments."
     },
     {
       "title": "Zaczyna się w internecie, kończy na ulicach. Niebezpieczny mechanizm w Europie",
@@ -1490,6 +1546,14 @@
       "summary": "Sześć osób zginęło, a szesnaście zostało rannych – to bilans ataku terrorystycznego w centrum Krakowa. W domu sprawcy znaleziono ciała dwóch kobiet i mężczyzny. W związku ze strzelaniną do mediów trafiały sprzeczne informacje o liczbie napastników, a policja musiała dementować doniesienia o śmierci funkcjonariusza."
     },
     {
+      "title": "Fireworks says you’re wasting money on AI unless you’re using all the models",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
+      "date": "2026-11-07T15:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "The case for managed inference, or automatically routing queries to the right model for the right job."
+    },
+    {
       "title": "Rosja werbuje przed wyborami. Cyberataki za kryptowaluty i propaganda z Wietnamu",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/rosja-werbuje-przed-wyborami-cyberataki-za-kryptowaluty-i-propaganda-z-wietnamu",
       "date": "2026-11-07T14:12:03Z",
@@ -1506,12 +1570,28 @@
       "summary": "Fałszywe rozmowy o pracę, zainfekowane zadanie programistyczne i wykorzystanie wewnętrznego narzędzia AI. Binance ujawniło, jak cyberprzestępcy zdobyli dostęp do systemów giełdy, aby ostatecznie ukraść kryptowaluty warte ponad 6 mld dolarów. Nowy raport pozwala odtworzyć kolejne etapy operacji."
     },
     {
+      "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
+      "url": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
+      "date": "2026-11-07T10:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Team given a day's notice faced distressed callers, safeguarding decisions during project that stretched from 2 weeks to 11."
+    },
+    {
       "title": "Bańka AI zaczyna pękać? Giełdowe trzęsienie w Chinach i problemy Alphabetu",
       "url": "https://cyberdefence24.pl/biznes-i-finanse/banka-ai-zaczyna-pekac-gieldowe-trzesienie-w-chinach-i-problemy-alphabetu",
       "date": "2026-11-07T09:14:57Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Chińskie spółki technologiczne straciły prawie 480 mld dolarów wartości giełdowej, a Alphabet zanotował największą jednodniową przecenę w swojej historii. Rosnące koszty infrastruktury i pytania o rentowność usług AI podważają optymizm inwestorów. Czy rynki zaczynają weryfikować finansowe obietnice związane ze sztuczną inteligencją?"
+    },
+    {
+      "title": "Windows takes a break at UK motorway services",
+      "url": "https://www.theregister.com/offbeat/2026/11/07/windows-takes-a-break-at-uk-motorway-services/5307862",
+      "date": "2026-11-07T08:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Bad drivers behind the wheel or underneath the operating system – neither is ideal."
     },
     {
       "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
@@ -1522,12 +1602,52 @@
       "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said yesterday that 1,122 public."
     },
     {
+      "title": "Agents reveal secrets when offered to team up with each other",
+      "url": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
+      "date": "2026-11-06T21:39:23Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "If you wouldn't put it on GitHub, don't give models access to it."
+    },
+    {
       "title": "Nadchodzący model OpenAI – GPT 6 Cyber starł na miazgę jądro Linux, a dokładniej…",
       "url": "https://sekurak.pl/nadchodzacy-model-openai-gpt-6-cyber-starl-na-miazge-jadro-linux-a-dokladniej/",
       "date": "2026-11-06T20:38:51Z",
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "&#8230;dokładniej to zapuszczony na Linuksa model zlokalizował w 2300 potencjalnych luk bezpieczeństwa. Z tego wstępnie potwierdził 1200 podatności klasy LPE (Local Privilege Escalation &#8211; z poziomu zwykłego użytkownika dostajemy full uprawnienie roota (admina)). Ale co nam z takich cały czas &#8220;potencjalnych podatności&#8221;?"
+    },
+    {
+      "title": "PyTorch 2.15 tackles the 'one bad GPU' problem",
+      "url": "https://www.theregister.com/devops/2026/11/06/pytorch-215-tackles-the-one-bad-gpu-problem/5308227",
+      "date": "2026-11-06T18:36:42Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Technical debt shoveled aside to make large-scale AI training more resilient."
+    },
+    {
+      "title": "US air traffic control enters the 21st century, starts to abandon floppy disks",
+      "url": "https://www.theregister.com/public-sector/2026/11/06/us-air-traffic-control-enters-the-21st-century-starts-to-abandon-floppy-disks/5308210",
+      "date": "2026-11-06T18:06:26Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "The FAA will need to come up with more money to finish the wider overhaul, though."
+    },
+    {
+      "title": "Mac lookalikes multiply as Linux raids Apple's wardrobe",
+      "url": "https://www.theregister.com/os-platforms/2026/11/06/mac-lookalikes-multiply-as-linux-raids-apples-wardrobe/5308070",
+      "date": "2026-11-06T17:02:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "New and revived desktops promise Cupertino polish, but our quick tests found a few seams showing."
+    },
+    {
+      "title": "Oak Ridge labs gets hybrid quantum-HPC system to test qubit error correction",
+      "url": "https://www.theregister.com/hpc/2026/11/06/oak-ridge-labs-gets-hybrid-quantum-hpc-system-to-test-qubit-error-correction/5308187",
+      "date": "2026-11-06T17:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Co-design platform for quantum error correction melds IBM quantum kit with AMD CPUs and GPUs."
     },
     {
       "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
@@ -1651,6 +1771,14 @@
     }
   ],
   "finance": [
+    {
+      "title": "Akcje Nvidia spadają przez aferę szpiegowską. Skandal obyczajowy i chiński wywiad uderzają w serce rewolucji AI",
+      "url": "https://strefainwestorow.pl/strefa-global-market/spolki/jensen-huang-ceo-nvidia-romans-skandal",
+      "date": "2026-11-09T09:45:14Z",
+      "source": "Strefa Inwestorów",
+      "confirmed_by": 1,
+      "summary": "Akcje Nvidia spadają przez aferę szpiegowską. Skandal obyczajowy i chiński wywiad uderzają w serce rewolucji AI Szymon Machalica pon., 09.11.2026 Kanał Strefa Global Market Nvidia Jensen Huang Treść Rada dyrektorów Nvidii wszczęła niezależne postępowanie po doniesieniach, że Jensen Huang mógł być celem operacji chińskiego wywiadu. Szef spółki przyznał się do niewierności, a według „The New York Times” łączyła go intymna relacja z Alice Huang, byłą menedżerką Megaspeed."
+    },
     {
       "title": "Afera w firmie Nvidia. Kochanka prezesa podejrzana o szpiegostwo dla Chin - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWo1T3R3Nm9teERHemluME1nMlV3Q2JUWGpVT3VTRHJLN0JXR25VYzVubjVDdU5xOUJtS0VmV3lMYnlsc3VSTzB2MW4wS1hmZkFYOXg1cTJqbjN0dTRuRGtmZnA2R2xwQXJTQjJOMUNGdHNHUXFES2t4TmFxdjlvYm8zTWZHTlo1Q29zZXYwUERLT1VCYkI3blM1eGpudE53U2g0bUx5eEM4M0ltZEd2V3JRdzZnajdSekE?oc=5",
@@ -1954,14 +2082,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Podsumowanie tygodnia - KOSPI przełamuje kolejne wsparcie Paweł Biedrzycki ndz., 08.11.2026 Nasdaq kospi DAX WIG swig80 USDPLN Wstęp do wpisu Podsumowanie tygodnia 2 - 6 listopada 2026: #Nasdaq, #DAX, #KOSPI, #WIG, #sWIG80, #USDPLN, spółki portfelowe, spółki godne uwagi Podsumowanie tygodnia - KOSPI przełamuje kolejne wsparcie Paweł Biedrzycki."
-    },
-    {
-      "title": "Impuls i korekta - 08 listopada 2026",
-      "url": "https://strefainwestorow.pl/impuls-i-korekta/impuls-i-korekta-08-listopada-2026",
-      "date": "2026-11-08T11:22:58Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "Impuls i korekta - 08 listopada 2026 tchoman ndz., 08.11.2026 Treść Ostatnie sesje przyniosły dynamiczne ruchy w obie strony. Najpierw pozytywne reakcje po zwycięstwie demokratów, by kolejnego dnia podaż przypuściła atak. Znaczącym wydarzeniem jest wybicie się dołem S&P 500 z tej wyższej konsolidacji dołem i to w imponującym stylu."
     },
     {
       "title": "- StockWatch.pl",
@@ -2473,32 +2593,32 @@
       "2026-11-06"
     ],
     "prices": [
-      28772.62,
-      29015.05,
+      28771.01,
+      29013.42,
       26656.2,
       26805.91,
       26964.04,
       27260.71,
-      29052.58,
+      29050.95,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29307.36,
+      29305.72,
       27354.94,
       27400.36,
       27412.11,
-      29725.36,
+      29723.69,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28955.48,
+      28953.86,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29142.62,
+      29140.98,
       27686.17,
       27404.78,
       27351.97,
@@ -2507,7 +2627,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28838.94,
+      28837.32,
       27930.04,
       28234.04,
       28218.36,
@@ -2516,81 +2636,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29707.04,
+      29705.38,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29245.48,
+      29243.84,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29066.23,
+      29064.6,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29371.09,
+      29369.44,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30421.74,
+      30420.03,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30532.01,
+      30530.3,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30095.2,
+      30093.51,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30241.82,
+      30240.12,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30268.64,
+      30266.95,
       28449.73,
       28313.03,
       28272.33,
-      30027.0,
+      30025.32,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30001.59,
+      29999.91,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30365.94,
+      30364.23,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30284.8,
+      30283.1,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30633.11,
+      30631.39,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30036.65,
+      30034.96,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      29896.41,
+      29894.74,
       30100.92,
       30418.01,
       30609.55,
