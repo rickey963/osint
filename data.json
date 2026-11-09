@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T15:53:15Z",
+  "last_updated": "2026-11-09T15:54:02Z",
   "poland": [
     {
       "title": "Sieć RTV Euro AGD wstrzymuje emisję reklam w TV Republika. Powodem relacja o zamachu w Krakowie",
@@ -1045,7 +1045,7 @@
       "date": "2026-11-09T15:23:57Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/ Comments URL: https://news.ycombinator.com/item?id=50426899 Points: 4 # Comments: 0."
+      "summary": "Article URL: https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/ Comments URL: https://news.ycombinator.com/item?id=50426899 Points: 16 # Comments: 9."
     },
     {
       "title": "Sony odświeża PlayStation Portal. Jedna zmiana budzi pytania",
@@ -1096,6 +1096,14 @@
       "summary": "Pobieranie GTA 6 zaraz wystartuje. Zwalniaj miejsce i szykuj konsolę."
     },
     {
+      "title": "I Saw Your HN Comment",
+      "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+      "date": "2026-11-09T15:01:03Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/ Comments URL: https://news.ycombinator.com/item?id=50426582 Points: 6 # Comments: 0."
+    },
+    {
       "title": "iPhone wcale nie jest drogi. Mam na to niezbite dowody",
       "url": "https://antyweb.pl/iphone-wcale-nie-jest-drogi-mam-na-to-niezbite-dowody",
       "date": "2026-11-09T15:00:29Z",
@@ -1125,7 +1133,7 @@
       "date": "2026-11-09T14:34:00Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/ikey4u/zebkit Comments URL: https://news.ycombinator.com/item?id=50426207 Points: 35 # Comments: 18."
+      "summary": "Article URL: https://github.com/ikey4u/zebkit Comments URL: https://news.ycombinator.com/item?id=50426207 Points: 40 # Comments: 21."
     },
     {
       "title": "Producenci smartfonów kombinują, jak obniżyć koszty. W ruch idzie używana pamięć RAM",
@@ -1269,7 +1277,7 @@
       "date": "2026-11-09T12:30:20Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia Comments URL: https://news.ycombinator.com/item?id=50424704 Points: 311 # Comments: 245."
+      "summary": "Article URL: https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia Comments URL: https://news.ycombinator.com/item?id=50424704 Points: 331 # Comments: 260."
     },
     {
       "title": "Dlaczego warto postawić na eSIM? Sprawdzamy, co daje cyfrowa karta w Vectrze",
@@ -1285,7 +1293,7 @@
       "date": "2026-11-09T12:19:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 320 # Comments: 64."
+      "summary": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 353 # Comments: 67."
     },
     {
       "title": "Windows otrzyma kolejny cios. Epic Games i GOG zmierzają na SteamOS",
@@ -1317,7 +1325,7 @@
       "date": "2026-11-09T11:31:05Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://benmandrew.com/articles/what-is-malloc-doing-anyway Comments URL: https://news.ycombinator.com/item?id=50424157 Points: 85 # Comments: 18."
+      "summary": "Article URL: https://benmandrew.com/articles/what-is-malloc-doing-anyway Comments URL: https://news.ycombinator.com/item?id=50424157 Points: 94 # Comments: 18."
     },
     {
       "title": "Ukraina buduje podziemne roboty bojowe. Koniec omijania lini frontu",
@@ -1341,7 +1349,7 @@
       "date": "2026-11-09T10:11:47Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/ Comments URL: https://news.ycombinator.com/item?id=50423569 Points: 75 # Comments: 10."
+      "summary": "Article URL: https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/ Comments URL: https://news.ycombinator.com/item?id=50423569 Points: 75 # Comments: 12."
     },
     {
       "title": "HAMMER CONSTRUCTION 3 THERMAL 5G, czyli smartfon do zadań specjalnych",
@@ -1350,14 +1358,6 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "HAMMER CONSTRUCTION 3 THERMAL 5G nie jest smartfonem dla każdego, ale dla określonej grupy odbiorców, dla profesjonalistów potrzebujących urządzeń odpornych, niezawodnych i narzędziowo zorientowanych, to urządzenie topowe, flagowiec z krwi i kości. Telefon technologicznie wypchany po brzegi, z termowizją, noktowizją, laserowym dalmierzem i detektorem kabli. Jaki inny smartfon może pochwalić się takim wyposażeniem?"
-    },
-    {
-      "title": "Borrowing a Microsoft-signed shim to abuse Secure Boot on corporate hardware",
-      "url": "https://leosmith.wtf/blog/not-so-secure-boot.html",
-      "date": "2026-11-09T09:22:30Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://leosmith.wtf/blog/not-so-secure-boot.html Comments URL: https://news.ycombinator.com/item?id=50423151 Points: 26 # Comments: 6."
     },
     {
       "title": "Physicists listened to electrical noise to crack a superconductor mystery",
@@ -2060,6 +2060,14 @@
       "summary": "Millennium Bank wesprze inwestycje w produkty dual-use Forbes."
     },
     {
+      "title": "Edycja II - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQNHFReXRHM1FQS1kxQWlSZ2hINS1vR0JEaVEwbTNGd2hpMENtTy1PZG13SFRDWEkzR2ZaMF9RM0l1NVZZLXc?oc=5",
+      "date": "2026-11-09T07:50:01Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Edycja II Forbes."
+    },
+    {
       "title": "Nowa afera korupcyjna w Ukrainie. W tle służby i narkotyki",
       "url": "https://www.money.pl/gospodarka/nowa-afera-korupcyjna-w-ukrainie-w-tle-sluzby-i-narkotyki-7349071022434784a.html",
       "date": "2026-11-09T07:16:48Z",
@@ -2090,14 +2098,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Prognozy dla dolara na przełom 2026 i 2027 r. Wyborczy klincz w USA nie wystarczył, by wzmocnić euro Szymon Machalica pon., 09.11.2026 Kanał Strefa Global Market Dolar Euro Treść Kiedy zamykały się lokale wyborcze za oceanem, amerykańska waluta zaczęła tracić, a rynek zaczął wyceniać polityczny pat w Waszyngtonie. Wystarczył jednak mocniejszy od oczekiwań raport z rynku pracy i uporczywa inflacja w Europie, by przypomnieć o głębokich różnicach w fundamentach obu gospodarek."
-    },
-    {
-      "title": "Gigant branży AI odpowiada na europejską chęć niezależności. \"To nie hegemonia\" - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM0hUSXhmVmNhSkJMT1NpajItblVDeVVHMDU0Wks5am1IQlpEa1pXdWVZYi1TbjBwNFQxODBvQU1sMXFnUk9CdGdYa0lOVk9kVHJOT2FmU0swbmhaZEV4VGpEUEtBM0VxOEF2X0NuVmpoeXg4STl5ckdGUUtFZldTNWtLWWF0QTJseURzUjViRk8zd3dKVG9ObTN4ZjZ3Q1g2bjlwTTE3dlBBVXFCNlRqT2FfYVJDdTl1ZFE?oc=5",
-      "date": "2026-11-08T20:15:44Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Gigant branży AI odpowiada na europejską chęć niezależności. \"To nie hegemonia\" Forbes."
     },
     {
       "title": "21% Rocznie 442 EXTRA | Podcast | Jak inwestować - Modivo, LPP, ASBiS, Dino, Orlen, Unimot, PKO, BNP, Ambra",
@@ -2567,26 +2567,26 @@
       26805.91,
       26964.04,
       27260.71,
-      29035.39,
+      29027.24,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29290.02,
+      29281.8,
       27354.94,
       27400.36,
       27412.11,
-      29707.77,
+      29699.43,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28938.35,
+      28930.23,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29125.38,
+      29117.2,
       27686.17,
       27404.78,
       27351.97,
@@ -2595,7 +2595,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28821.87,
+      28813.79,
       27930.04,
       28234.04,
       28218.36,
@@ -2604,81 +2604,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29689.47,
+      29681.14,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29228.18,
+      29219.98,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29049.03,
+      29040.88,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29353.71,
+      29345.47,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30403.74,
+      30395.21,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30513.95,
+      30505.39,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30077.39,
+      30068.95,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30223.93,
+      30215.45,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30250.74,
+      30242.25,
       28449.73,
       28313.03,
       28272.33,
-      30009.24,
+      30000.81,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      29983.84,
+      29975.42,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30347.97,
+      30339.46,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30266.88,
+      30258.39,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30614.99,
+      30606.4,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30018.88,
+      30010.45,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      29878.73,
+      29870.34,
       30100.92,
       30418.01,
       30609.55,
@@ -2689,7 +2689,7 @@
       30241.96,
       28691.31,
       28904.09,
-      29523.73
+      29518.03
     ],
     "currency": "PLN"
   }
