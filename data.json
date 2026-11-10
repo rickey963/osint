@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T20:27:32Z",
+  "last_updated": "2026-11-10T20:28:25Z",
   "poland": [
     {
       "title": "Tyle zebrano w sieci po ataku w Krakowie. Rekordowe wpłaty Polaków",
@@ -1056,6 +1056,14 @@
       "summary": "New York Times: Sources: despite Trump's denial, he was told at least twice in seven months about Huang's affair with an alleged spy, including by Rubio en route to China &mdash; Before Jensen Huang boarded Air Force One en route to Beijing, the president was reminded of intelligence showing that he was in a relationship &hellip;."
     },
     {
+      "title": "Google Fi adds support for a second 5G network, won't say which one",
+      "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+      "date": "2026-11-10T19:35:59Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Fi has always supported T-Mobile, but the new one? Google won't say."
+    },
+    {
       "title": "Google Fi launches \"super network\" for automatic carrier switching and Wi-Fi Auto-Connect+ to improve indoor connectivity in places like malls and airports (Sam Rutherford/Engadget)",
       "url": "https://www.techmeme.com/261110/p44#a261110p44",
       "date": "2026-11-10T19:35:02Z",
@@ -1104,6 +1112,14 @@
       "summary": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 15 # Comments: 0."
     },
     {
+      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+      "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+      "date": "2026-11-10T19:00:26Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets."
+    },
+    {
       "title": "Airbus A350-1000ULR ustanowił rekord Guinnessa. Ponad 23 tys. km bez lądowania",
       "url": "https://www.benchmark.pl/airbus-a350-1000ulr-ustanowil-rekord-guinnessa-ponad-23-tys-km-bez-ladowania-7349565110303200a",
       "date": "2026-11-10T19:00:00Z",
@@ -1126,6 +1142,14 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Windows ma rywala. Nowy system operacyjny od speców Androida."
+    },
+    {
+      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+      "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+      "date": "2026-11-10T18:39:16Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi."
     },
     {
       "title": "Będzie baza USA w Polsce. Pentagon dał „zielone światło”",
@@ -1374,30 +1398,6 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Narodowa Rada Bezpieczeństwa Transportu (NTSB) zakończyła prace w terenie po katastrofie Learjeta 60, do której doszło 1 listopada na Florydzie. Kluczowe dla śledztwa urządzenie – rejestrator rozmów z kokpitu – zostało zabezpieczone i trafiło już do laboratorium, gdzie specjaliści odczytają nagrania."
-    },
-    {
-      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
-      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
-      "date": "2026-11-10T14:53:05Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor."
-    },
-    {
-      "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
-      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
-      "date": "2026-11-10T14:43:49Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "The risk appears small and data is mixed, but FDA wants patients to be aware."
-    },
-    {
-      "title": "Polestar has a new look with its Formula 2030 concept",
-      "url": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
-      "date": "2026-11-10T14:22:02Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2."
     },
     {
       "title": "Reklamy będą nie tylko wkurzać, ale i pachnieć. Sony ma na to patent",
@@ -2744,7 +2744,7 @@
       28691.31,
       28904.09,
       29742.99,
-      29589.73
+      29594.02
     ],
     "currency": "PLN"
   }
