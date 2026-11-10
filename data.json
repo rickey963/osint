@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T20:04:14Z",
+  "last_updated": "2026-11-10T20:13:44Z",
   "poland": [
     {
       "title": "Ewa Szadkowska: SN o TK, czyli co ma piernik do wiatraka",
@@ -62,7 +62,7 @@
       "url": "https://www.rp.pl/sady-i-trybunaly/art45473551-sedzia-korwin-piotrowska-decyzja-sn-ws-swieczkowskiego-i-sochanskiego-bez-wplywu-na-tk",
       "date": "2026-11-10T18:36:30Z",
       "source": "Rzeczpospolita",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "Informuję o braku jakiegokolwiek wpływu ewentualnych orzeczeń Sądu Najwyższego na dalszą skuteczność zarządzeń o natychmiastowej przerwie – napisała kierująca pracami Trybunału Konstytucyjnego sędzia Korwin-Piotrowska."
     },
     {
@@ -88,14 +88,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Sąd Najwyższy podjął ważne decyzje. Uchylił decyzje odsuwające od pracy prezesa TK Bogdana Święczkowskiego i wiceprezesa Bartłomieja Sochańskiego. Kierująca TK sędzia Anna Korwin-Piotrowska wydała oświadczenie w tej sprawie."
-    },
-    {
-      "title": "Sąd Najwyższy zdecydował ws. TK. Uchylił zarządzenia dotyczące Święczkowskiego i Sochańskiego",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33126552,sad-najwyzszy-zdecydowal-ws-tk-uchylil-zarzadzenia-dotyczace.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-11-10T18:09:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Sąd Najwyższy rozpoznał zażalenia wniesione przez obrońcę Bogdana Święczkowskiego i Bartłomieja Sochańskiego."
     },
     {
       "title": "Amerykański dziennik pisze o słabości Polski. \"Gra poniżej swojego potencjału\"",
@@ -274,6 +266,14 @@
       "summary": "Prokuratura przedstawiła wiceministrowi spraw zagranicznych Władysławowi Teofilowi Bartoszewskiemu zarzuty dotyczące między innymi przywłaszczenia powierzonych środków. W sprawie chodzi o 1 mln funtów brytyjskich, 405 tys. euro oraz ponad 6,6 mln złotych."
     },
     {
+      "title": "Zakończyła się pierwsza runda rozmów Ukrainy, Rosji i USA. Media: Jest porozumienie ws. wymiany jeńców",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33125995,zakonczyla-sie-pierwsza-runda-rozmow-ukrainy-rosji-i-usa-media.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-11-10T14:12:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "\"Kluczowe stanowisko strony ukraińskiej jest takie, że najpierw musi nastąpić zakończenie wojny. Dopiero potem możliwe będzie przejście do kształtowania nowej architektury bezpieczeństwa w Europie\"- przekazał informator agencji Interfax-Ukraina."
+    },
+    {
       "title": "W Krakowie obchody 11 Listopada będą ograniczone. Powodem żałoba w mieście - Polska Agencja Prasowa SA",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSGdzS0paemtJZ0lYM3o5NW1ITTlGUERkQXZhSUZBbW5IWHB1MEd1Uk5MYlNmLXJzM1hpUW53NU1DZ3UzcDZkLXVjdGVHUjdUd242QW03MkZiSG9HVzRrNkFKZUpFRFlZSEJCZVZVRFg0a1J4dUtyNHNQaDQzTHlBRDduWWp0YVh6RlVFWFp4V25LMWl4d2JMemlIaFc?oc=5",
       "date": "2026-11-10T12:19:00Z",
@@ -403,14 +403,6 @@
     }
   ],
   "world_security": [
-    {
-      "title": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
-      "date": "2026-11-10T19:35:28Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor Reuters."
-    },
     {
       "title": "Defiant Hegseth blasts impeachment 'farce' ahead of US House vote - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVFtR2hnZ2luVDdXU010VVB4UVpubVBIbUtJc0ZkQVkzLUkzaWxMRDJKaVVoTVNUbzRyRGQ4ZFh1dUZIUFhRVDRTVVNyZ3FWQkRIMm5UTVJOY2J0MDJ4bEFZNkh2MjdUZzRnRkVYbXBKSktfNElhWU42SEVRMktOd0JHYTQyU2N4ZUF2eWZicDRpVHBCTHRYUWFYOVRMT3lrVWNuQldMQkV0MVVGYXc?oc=5",
@@ -612,6 +604,14 @@
       "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire."
     },
     {
+      "title": "Iran's top security official says no talks underway with US - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcXVfMkI3S19RUFdwVWNlT3EyYkFfVUpBOW5ldjdoaUNXREN6OW8yaEVMb2Fwbkhhcm1seVYzR0FjMFQxTGt2NFZ6enpxaXFBSE0wQThJT2dRQ0E0aFhyamc5Y1g5djFKaE52OUJ6cTZOOFVYMGFEMWpuRHZVMGVCS18tYmo0NVFBT0tFRHlVNExEVnluNndNSnJkRk5IN0lyWlJ4VFduZTFhRzZIX0EtU2VB?oc=5",
+      "date": "2026-11-10T16:59:41Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Iran's top security official says no talks underway with US Reuters."
+    },
+    {
       "title": "US officials seek ‘final end’ to Russia-Ukraine war, as Abu Dhabi talks set to continue",
       "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
       "date": "2026-11-10T16:59:04Z",
@@ -766,6 +766,22 @@
   ],
   "world_politics": [
     {
+      "title": "Israeli Opposition Pushes for Oct. 7 Inquiry at First Session of New Parliament",
+      "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
+      "date": "2026-11-10T19:56:08Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Dozens of first-time lawmakers were sworn into the Knesset, where the opposition, led by Gadi Eisenkot, now has a majority."
+    },
+    {
+      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+      "url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+      "date": "2026-11-10T19:52:40Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I. and U.S. military intelligence."
+    },
+    {
       "title": "Rubio Says ‘Major Combat Operations’ in Iran War Are No Longer Needed",
       "url": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
       "date": "2026-11-10T19:33:48Z",
@@ -780,14 +796,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Francis never returned to his home country after becoming pope, but the new pontiff will still be confronted with the overwhelming presence of his predecessor."
-    },
-    {
-      "title": "Israeli Opposition Pushes for Oct. 7 Inquiry at First Session of New Parliament",
-      "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
-      "date": "2026-11-10T19:25:23Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Dozens of first-time lawmakers were sworn into the Knesset, where the opposition, led by Gadi Eisenkot, now has a majority."
     },
     {
       "title": "Gaza Floods Kill 4",
@@ -820,6 +828,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi AP News."
+    },
+    {
+      "title": "What we know — and what we don't — as Nvidia investigates an alleged spy plot involving its CEO - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlpxelBXZlVqS3JrUFY1YlZKTzdYRXhmSmZBWU0xcFBIaUpob1FGM0FTOTd5RDVEaV9MZkkxT0F3R1oyLVczcjBvYjJWSTRjQnVfbnlBZXJHNS1ITGpkTXdxRHN6NVEwLVB1UURJZHl5OGtoeTlHZG9BM3BUcGNlbmVmTlgwN3pHS1RuWTBscS1vbW5qcHl1elZJeWVyNzlWeFJTd2Z6ODI?oc=5",
+      "date": "2026-11-10T18:23:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "What we know — and what we don't — as Nvidia investigates an alleged spy plot involving its CEO AP News."
     },
     {
       "title": "David Walliams, UK Celebrity, Is Accused of Sexual Misconduct",
@@ -918,14 +934,6 @@
       "summary": "Najib Razak, who was brought down in the multibillion-dollar 1MDB scandal, was released from prison to serve the rest of his sentence in his mansion."
     },
     {
-      "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
-      "url": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
-      "date": "2026-11-10T14:15:54Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "President Claudia Sheinbaum drew a firm line barring U.S. forces from operating on Mexican soil. But in a northern border state, one local partner quietly helped the agency build a foothold."
-    },
-    {
       "title": "At least 12 people killed and dozens hurt in crashes on a foggy Bulgarian motorway, minister says - AP News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnRWdDhDckJnaVVHY0JXRkl6cnNEZkE4NjV3SGtGX3ZMWEItN2J1ZW5NVHc4YVZVWDdob0M0ckJaTW0tNTBKOXg0MmlVYUppeEpzUzlWN0NjYUtZYndhNHozblVVd1JYSU1DYWpVVVlXYW41RDF4RERoUVFLZ3d1dnp5c3NwN3J5a2lPMVRFY1ItelFoMlZZdjNzM1dXVk5ycW9Dcw?oc=5",
       "date": "2026-11-10T13:45:00Z",
@@ -996,17 +1004,33 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "How major US stock indexes fared Monday 11/9/2026 AP News."
-    },
-    {
-      "title": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5",
-      "date": "2026-11-09T20:53:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine AP News."
     }
   ],
   "technology": [
+    {
+      "title": "SpaceX announces Starlink Mini 2 with a swappable battery that it says can operate for over four hours without an external power source, reportedly for $999 (Andrew Liszewski/The Verge)",
+      "url": "https://www.techmeme.com/261110/p47#a261110p47",
+      "date": "2026-11-10T20:02:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 2,
+      "summary": "Andrew Liszewski / The Verge: SpaceX announces Starlink Mini 2 with a swappable battery that it says can operate for over four hours without an external power source, reportedly for $999 &mdash; The all-in-one satellite dish can now operate for over four hours without an external power source.&#65279;."
+    },
+    {
+      "title": "Kometa 2P/Encke pod lupą Teleskopu Subaru. Jądro ma 7 km i ponad 55°C",
+      "url": "https://www.benchmark.pl/kometa-2p-encke-pod-lupa-teleskopu-subaru-jadro-ma-7-km-i-ponad-55-c-7349568104647104a",
+      "date": "2026-11-10T20:00:00Z",
+      "source": "Benchmark.pl",
+      "confirmed_by": 1,
+      "summary": "Obserwacje w średniej podczerwieni wykonane Teleskopem Subaru pozwoliły naukowcom określić kształt i temperaturę jądra komety 2P/Encke. Analizy wykazały, że obiekt jest wyraźnie wydłużony, a jego powierzchnia w chwili pomiaru rozgrzała się do ponad 55°C, co dostarcza ważnych wskazówek o zachowaniu i ewolucji komet."
+    },
+    {
+      "title": "Clara, which sells corporate spend management tools in Latin America, raised $105M, including a $65M Series C and $40M in renewed growth financing (Maria Clara Cobo/Bloomberg)",
+      "url": "https://www.techmeme.com/261110/p46#a261110p46",
+      "date": "2026-11-10T19:55:03Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Maria Clara Cobo / Bloomberg: Clara, which sells corporate spend management tools in Latin America, raised $105M, including a $65M Series C and $40M in renewed growth financing &mdash; Clara, a S&atilde;o Paulo-based corporate spending management startup, raised $105 million to expand its sales and engineering teams &hellip;."
+    },
     {
       "title": "Sources: despite Trump's denial, he was told at least twice in seven months about Huang's affair with an alleged spy, including by Rubio en route to China (New York Times)",
       "url": "https://www.techmeme.com/261110/p45#a261110p45",
@@ -1024,6 +1048,14 @@
       "summary": "Sam Rutherford / Engadget: Google Fi launches &ldquo;super network&rdquo; for automatic carrier switching and Wi-Fi Auto-Connect+ to improve indoor connectivity in places like malls and airports &mdash; It's rolling out first on Pixel phones before wider availability arrives in 2027. &mdash; Getting the fastest mobile data speeds &hellip;."
     },
     {
+      "title": "What objective is reasoning solving?",
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "date": "2026-11-10T19:25:14Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 11 # Comments: 1."
+    },
+    {
       "title": "Nvidia hires law firm Wachtell Lipton to investigate Jensen Huang's affair with an alleged Chinese spy, to be led by former acting US attorney Joon H. Kim (New York Times)",
       "url": "https://www.techmeme.com/261110/p43#a261110p43",
       "date": "2026-11-10T19:25:00Z",
@@ -1038,6 +1070,14 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Aaron Holmes / The Information: Updated S-1: Anthropic commits ~$10B more to Microsoft and Google cloud by 2033; it can cancel a $34.9B Lambda deal over a delay but doesn't currently plan to &mdash; Anthropic in the past month inked new commitments with Microsoft and Google to spend roughly $10 billion more to rent cloud servers between &hellip;."
+    },
+    {
+      "title": "A comprehensive study of how fingerprintable users are",
+      "url": "https://fingerprinting.study/",
+      "date": "2026-11-10T19:03:54Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 8 # Comments: 0."
     },
     {
       "title": "Airbus A350-1000ULR ustanowił rekord Guinnessa. Ponad 23 tys. km bez lądowania",
@@ -1096,22 +1136,6 @@
       "summary": "Kyle Baird / The Block: Alta, which is building blockchain infrastructure for banks and payment companies, raised a $47.5M Series A, bringing its total funding to $80M &mdash; Index Ventures led the round, bringing Alta's total funding to $80 million as it builds a blockchain for financial firms. &mdash; Make us preferred."
     },
     {
-      "title": "OpenAI launches Businesses in ChatGPT in beta, including Business Agents for companies to interact with users and a hub where companies can claim their profiles (Jay Peters/The Verge)",
-      "url": "https://www.techmeme.com/261110/p39#a261110p39",
-      "date": "2026-11-10T18:25:00Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Jay Peters / The Verge: OpenAI launches Businesses in ChatGPT in beta, including Business Agents for companies to interact with users and a hub where companies can claim their profiles &mdash; ChatGPT's new AI agents represent companies and can help with things like comparison shopping."
-    },
-    {
-      "title": "Starlink Mini 2",
-      "url": "https://starlink.com/mini-2",
-      "date": "2026-11-10T18:22:32Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 96 # Comments: 71."
-    },
-    {
       "title": "GTA 6 na PC i smartfonie przez Xbox Cloud Gaming. Wiemy, czy to możliwe",
       "url": "https://spidersweb.pl/2026/11/gta-vi-streaming-xbox.html",
       "date": "2026-11-10T18:17:00Z",
@@ -1128,28 +1152,12 @@
       "summary": "Astronomowie wyłowili obiekt 2026 ED138 krążący dalej niż Pluton, który może trafić do krótkiej listy planet karłowatych uznawanych przez Międzynarodową Unię Astronomiczną. Wykrycie było możliwe dzięki połączeniu nowych obserwacji z sięgającą ponad dekadę analizą archiwalnych zdjęć nieba."
     },
     {
-      "title": "Work at the Frontier: AI's effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "date": "2026-11-10T18:02:54Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://openai.com/index/ai-effect-on-freelance-work Comments URL: https://news.ycombinator.com/item?id=50443838 Points: 20 # Comments: 10."
-    },
-    {
-      "title": "The AI Futures Project updates its AI timelines after METR's report on Anthropic R&D, saying it now expects a Superhuman AI Researcher to arrive in 2027 (AI Futures Project)",
-      "url": "https://www.techmeme.com/261110/p38#a261110p38",
-      "date": "2026-11-10T18:02:13Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "AI Futures Project: The AI Futures Project updates its AI timelines after METR's report on Anthropic R&D, saying it now expects a Superhuman AI Researcher to arrive in 2027 &mdash; We want to get this post out quickly given the urgency of the topic. It's possible that there are some errors in the modeling &hellip;."
-    },
-    {
       "title": "Synaptics patent claims stop work on DisplayLink drivers",
       "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
       "date": "2026-11-10T18:02:02Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 96 # Comments: 44."
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 115 # Comments: 51."
     },
     {
       "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
@@ -1165,7 +1173,7 @@
       "date": "2026-11-10T17:55:07Z",
       "source": "Hacker News",
       "confirmed_by": 2,
-      "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 25 # Comments: 11."
+      "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 42 # Comments: 19."
     },
     {
       "title": "An Open Field Guide to Inference Engineering",
@@ -1173,7 +1181,7 @@
       "date": "2026-11-10T17:55:07Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://docs.modelplane.ai/guides/inference-guide Comments URL: https://news.ycombinator.com/item?id=50443714 Points: 14 # Comments: 1."
+      "summary": "Article URL: https://docs.modelplane.ai/guides/inference-guide Comments URL: https://news.ycombinator.com/item?id=50443714 Points: 20 # Comments: 1."
     },
     {
       "title": "Val Town is winding down",
@@ -1181,7 +1189,7 @@
       "date": "2026-11-10T17:31:14Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 137 # Comments: 35."
+      "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 149 # Comments: 40."
     },
     {
       "title": "Microsoft potwierdza: GTA VI odpalisz na 13-letniej konsoli, ale nie na PC",
@@ -1398,14 +1406,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Jedziesz sobie samochodem, mijasz sobie knajpę z burgerami i nagle, w Twojej kabinie, rozlega się zapach świeżo przyrządzonych był nadzianych dorodnym kawałem mięcha. Mieliśmy już reklamy wizualnie irytujące. Mamy też te, w których panie sobie śpiewają, że włącza się niskie ceny, albo że masz taniej: niemal do regurgitacji."
-    },
-    {
-      "title": "United Airlines: pasażer próbował dostać się do kokpitu i straszył bombą",
-      "url": "https://www.benchmark.pl/united-airlines-pasazer-probowal-dostac-sie-do-kokpitu-i-straszyl-bomba-7349510501980608a",
-      "date": "2026-11-10T13:00:00Z",
-      "source": "Benchmark.pl",
-      "confirmed_by": 1,
-      "summary": "Na pokładzie samolotu United Airlines lecącego w poniedziałek wieczorem z Newark do Nowego Orleanu doszło do groźnego zdarzenia. Jeden z pasażerów miał próbować sforsować drzwi do kokpitu, twierdząc, że w plecaku posiada bombę. Maszyna ostatecznie bezpiecznie wylądowała."
     }
   ],
   "cybersecurity": [
@@ -1796,6 +1796,14 @@
   ],
   "finance": [
     {
+      "title": "Orlen wypowiada kontrakt na katarski gaz. Wartość kontraktu szacowana na 570 mln euro",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-wypowiedzial-jedna-z-dwoch-umow-dlugoterminowych-na-dostawy-skroplonego-gazu-ziemnego-zawartych-z-QatarEnergy-9227166.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-10T19:50:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Orlen wypowiedział jedną z dwóch umów długoterminowych na dostawy skroplonego gazu ziemnego zawartych z Qatar Liquefied Gas Company Limited (obecnie QatarEnergy LNG) z uwagi na utrzymującą się siłę wyższą skutkującą brakiem dostaw - poinformowała spółka w komunikacie."
+    },
+    {
       "title": "Do reaktora prowadzi droga przez certyfikaty. Polskie firmy walczą o atomowe zlecenia",
       "url": "https://300gospodarka.pl/news/do-reaktora-prowadzi-droga-przez-certyfikaty-polskie-firmy-walcza-o-atomowe-zlecenia",
       "date": "2026-11-10T19:07:55Z",
@@ -1820,6 +1828,14 @@
       "summary": "Polacy odbierają karty mobilizacyjne. Czerwony pasek na piśmie to rozkaz. Wojsko każe stawić się w ciągu 6 godzin Forsal.pl."
     },
     {
+      "title": "Tomahawki i stała obecność US Army w Polsce. Kosiniak-Kamysz w Pentagonie",
+      "url": "https://www.bankier.pl/wiadomosc/Tomahawki-i-stala-obecnosc-US-Army-w-Polsce-Kosiniak-Kamysz-w-Pentagonie-9227143.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-10T18:53:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Ze strony Pentagonu jest zielone światło dla stałej obecności wojsk USA w Polsce – oświadczył we wtorek wicepremier, szef MON Władysław Kosiniak-Kamysz po spotkaniu z ministrem wojny USA Pete'em Hegsethem w Waszyngtonie. Przekazał, że rozmawiał z nim m.in. o zakupie i wykorzystaniu przez Polskę pocisków Tomahawk."
+    },
+    {
       "title": "Pilny komunikat dla właścicieli pieców na pellet. Tego nikt się spodziewał? - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYU5aMlZ4X3U1MVZEeFlacnJzeUcxbW1CZHMxcW1ZZHdmZzNDS2R0UW8yRVJMMDhCZ3c4M09NR0NfdE5pUWQ1UXI0NEVNOEhGbHBGWFVGbThuOFJoZUxOUTNQWW4xdE0yTkVrd0JoSTh4ZFI5MDBlYl9IWmlLSEZrRjU0MDNzSFRYdDFNWG42Ym1fTDBiSWtQZ255SlVnUEF0V1lYNDktY2Voa292VEpKTHp5MUV0b1hvZVo1NjdEd3dlenROLXBjY0gtSXA?oc=5",
       "date": "2026-11-10T18:16:37Z",
@@ -1834,6 +1850,14 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "11 milionów Polaków już zachorowało. Wielu jeszcze o tym nie wie. To atakuje powoli i bez objawów Forsal.pl."
+    },
+    {
+      "title": "Dziesiąte przedłużenie strefy buforowej z Białorusią. Presja migracyjna nie ustaje",
+      "url": "https://www.bankier.pl/wiadomosc/Dziesiate-przedluzenie-strefy-buforowej-z-Bialorusia-Presja-migracyjna-nie-ustaje-9227120.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-10T18:01:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "MSWiA chce przedłużenia obowiązywania tzw. strefy buforowej przy granicy z Białorusią o kolejne 90 dni – wynika z projektu rozporządzenia opublikowanego na stronie RCL. Zgodnie z propozycją czasowy zakaz przebywania w strefie obowiązywałby od 30 listopada."
     },
     {
       "title": "Cognor SPO 2026: kolejna emisja akcji po 2025 r. - StockWatch.pl",
@@ -1892,36 +1916,12 @@
       "summary": "W czatach dla emigrantów na Telegramie oferowano 500 dolarów za naniesienie prowokacyjnego hasła na pomnikach w Polsce – podał we wtorek niezależny białoruski portal MOST Media z siedzibą w Białymstoku, opisując mechanizm werbunku do dywersji."
     },
     {
-      "title": "Przecena Orlenu zatrzymana. Uderzenie popytu w ostatnich minutach sesji",
-      "url": "https://www.bankier.pl/wiadomosc/Przecena-Orlenu-zatrzymana-Uderzenie-popytu-w-ostatnich-minutach-sesji-9227046.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-10T16:24:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Podczas gdy Wall Street uginała się pod ciężarem jastrzębich obaw o politykę Rezerwy Federalnej, na GPW i pozostałych rynkach Europy dominowały wzrosty, co tłumaczono gwałtownym spadkiem cen surowców energetycznych. Na krajowym parkiecie znów brylowała branża odzieżowa, wspomagana przez banki i CD Projekt, ale wartym odnotowania jest zatrzymanie przeceny Orlenu mi najniższych od września cen ropy."
-    },
-    {
-      "title": "Zełenski o negocjacjach w Abu Zabi: Trudno o dobre wieści, gdy w grę wchodzą Rosjanie",
-      "url": "https://www.bankier.pl/wiadomosc/Dania-Zelenski-o-negocjacjach-w-Abu-Zabi-trudno-o-dobre-wiesci-9227042.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-10T16:22:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Prezydent Ukrainy Wołodymyr Zełenski pytany w Kopenhadze o wtorkowe trójstronne negocjacje w Abu Zabi odparł, że trudno o dobre wieści, gdy w grę wchodzą Rosjanie."
-    },
-    {
       "title": "Pieniędzy jest mnóstwo. Dlaczego więc polska branża technologiczna wciąż ma problem? - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVzM0YlF4Wm9SOE1YZ05NUlp1U29ETzVHY1I3MXhLQlVrRXJNcFJjV05HS2dlMXV2dEROeXVZa1NUN2dfeVo0bnk1elBmamhxSjdPQkZMSE9weXQtV2xpdmUtbUdFRFBmcDg4V1dLeFhpejdSS2NZYno3M2hHSnNSVVhBN2h1RFc2Q3pfSmdrbFg3VnhmZXZBUkFrYmpYNTdoS013X3Y2cGxHZkxIODRlbzlmV25lcjRNemxkSVRGR01Sdw?oc=5",
       "date": "2026-11-10T16:18:17Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Pieniędzy jest mnóstwo. Dlaczego więc polska branża technologiczna wciąż ma problem? Forbes."
-    },
-    {
-      "title": "Zwrot w Trybunale Konstytucyjnym. Uchwała sędziów ogranicza uprawnienia jednoosobowe prezesa",
-      "url": "https://www.bankier.pl/wiadomosc/Zwrot-w-Trybunale-Konstytucyjnym-Uchwala-sedziow-ogranicza-uprawnienia-jednoosobowe-prezesa-9227024.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-10T16:07:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Na zwołanym na wtorek przez sędzię Annę Korwin-Piotrowską Zgromadzaniu Ogólnym Sędziów Trybunału Konstytucyjnego uchwalono zmiany w Regulaminie TK. Zmiany te - jak wskazano - „wzmacniają rolę sędziów we współzarządzaniu sprawami istotnymi dla Trybunału”."
     },
     {
       "title": "EU Inc. i European Business Wallet zrewolucjonizują biznes w UE. Nowe przepisy już w drodze - Forbes",
@@ -2148,14 +2148,6 @@
       "summary": "Rząd chce zwiększyć udział leków produkowanych w Polsce i zmniejszyć zależność od zagranicznych dostaw. 27 października Rada Ministrów przyjęła projekt nowelizacji ustawy refundacyjnej obejmujący blisko 200 zmian. Jednym z jego celów jest wzmocnienie bezpieczeństwa lekowego, bo obecnie w kraju powstaje tylko 24 proc."
     },
     {
-      "title": "Transakcje OW20K264325 GPW - ORGANIZATOR OBROTU - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xbk1xM3Q1Rjd6S3I5eUdkaVNpdmFFVnQwaGdRZlJuZ0JwaHlublMwT0N2NjAyZV9jQXR1UTBEakxUcE9kNEIyVTBMTTFBczAzbXJBTDdOd1M5endRRHc?oc=5",
-      "date": "2026-11-09T14:49:55Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Transakcje OW20K264325 GPW - ORGANIZATOR OBROTU BiznesRadar."
-    },
-    {
       "title": "Rating CEN (CENTORO) - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yMmVhNk1TamFUOTd2cWZpUzctbVAxWTlkc3VhRkx2c0w5TVBPa0JjTmYyVFhxVjg2WkRzU0RQOWg0LUs0ZjQyenV6QWxYUQ?oc=5",
       "date": "2026-11-09T14:30:31Z",
@@ -2186,6 +2178,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Rating WEN (WISEENERG) BiznesRadar."
+    },
+    {
+      "title": "Transakcje INTSGLD02973 INGBANK - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83U3o4bTlad3Z2OHR0UG1vYkotWTFRT1NVakhvRVptMDgzUmpEN0IyUzllS2xST2VKaEtLakNjR0ZaVHl6d2FldENzWFNSNFJmS3lBZFhCOVJiWDExZ2FF?oc=5",
+      "date": "2026-11-09T09:23:29Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Transakcje INTSGLD02973 INGBANK BiznesRadar."
     },
     {
       "title": "Wiadomości INTSSPX02577 INGBANK - BiznesRadar",
@@ -2459,13 +2459,13 @@
           "source": "Business Insider Polska"
         },
         {
-          "title": "Wywiad ujawnia nowy plan Rosjan. Chcą uderzyć w czuły punkt Ukrainy",
-          "url": "https://businessinsider.com.pl/gospodarka/wywiad-ujawnia-nowy-plan-rosjan-maja-uderzyc-w-kluczowa-branze/gsn3hd5",
-          "source": "Business Insider Polska"
+          "title": "Zakończyła się pierwsza runda rozmów Ukrainy, Rosji i USA. Media: Jest porozumienie ws. wymiany jeńców",
+          "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33125995,zakonczyla-sie-pierwsza-runda-rozmow-ukrainy-rosji-i-usa-media.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+          "source": "Gazeta Wyborcza"
         },
         {
-          "title": "Fatalna sytuacja rafinerii w Rosji. Spadki nawet o 200 tys. ton dziennie",
-          "url": "https://businessinsider.com.pl/gospodarka/ukrainskie-drony-uderzaja-w-rafinerie-rosji-dziewiec-zakladow-dotknietych/xy9nwtz",
+          "title": "Wywiad ujawnia nowy plan Rosjan. Chcą uderzyć w czuły punkt Ukrainy",
+          "url": "https://businessinsider.com.pl/gospodarka/wywiad-ujawnia-nowy-plan-rosjan-maja-uderzyc-w-kluczowa-branze/gsn3hd5",
           "source": "Business Insider Polska"
         }
       ]
@@ -2621,26 +2621,26 @@
       26805.91,
       26964.04,
       27260.71,
-      29160.97,
+      29167.26,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29416.7,
+      29423.05,
       27354.94,
       27400.36,
       27412.11,
-      29836.25,
+      29842.7,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29063.51,
+      29069.79,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29251.34,
+      29257.66,
       27686.17,
       27404.78,
       27351.97,
@@ -2649,7 +2649,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28946.53,
+      28952.78,
       27930.04,
       28234.04,
       28218.36,
@@ -2658,81 +2658,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29817.87,
+      29824.31,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29354.59,
+      29360.93,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29174.67,
+      29180.97,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29480.66,
+      29487.03,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30535.24,
+      30541.83,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30645.92,
+      30652.54,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30207.47,
+      30214.0,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30354.64,
+      30361.2,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30381.57,
+      30388.13,
       28449.73,
       28313.03,
       28272.33,
-      30139.02,
+      30145.53,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30113.52,
+      30120.02,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30479.22,
+      30485.81,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30397.79,
+      30404.35,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30747.39,
+      30754.03,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30148.71,
+      30155.22,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30007.95,
+      30014.43,
       30100.92,
       30418.01,
       30609.55,
@@ -2744,7 +2744,7 @@
       28691.31,
       28904.09,
       29742.99,
-      29563.79
+      29538.13
     ],
     "currency": "PLN"
   }
