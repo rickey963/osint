@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T19:14:04Z",
+  "last_updated": "2026-11-10T19:14:57Z",
   "poland": [
     {
       "title": "\"Należą mu się podziękowania\". Rzecznik rządu broni Kierwińskiego",
@@ -78,7 +78,7 @@
       "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33126552,sad-najwyzszy-zdecydowal-ws-tk-uchylil-zarzadzenia-dotyczace.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-11-10T18:09:00Z",
       "source": "Gazeta Wyborcza",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Sąd Najwyższy rozpoznał zażalenia wniesione przez obrońcę Bogdana Święczkowskiego i Bartłomieja Sochańskiego."
     },
     {
@@ -128,6 +128,14 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Policjant, który został ranny w sobotniej strzelaninie w Krakowie, został przewieziony do 5. Wojskowego Szpitala Klinicznego z Polikliniką w Krakowie. Informację tę przekazał Bartłomiej Guzik, dyrektor placówki."
+    },
+    {
+      "title": "SN uchylił zarządzenia zawieszające Święczkowskiego i Sochańskiego. „Rz” poznała uzasadnienie",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45473391-sn-uchylil-zarzadzenia-zawieszajace-swieczkowskiego-i-sochanskiego-rz-poznala-uzasadnienie",
+      "date": "2026-11-10T17:46:34Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Sąd Najwyższy uchylił zarządzenia o natychmiastowej przerwie w czynnościach dwóch sędziów Trybunału Konstytucyjnego - czytamy w komunikacie SN. „Rzeczpospolita” dotarła do uzasadnienia tego postanowienia."
     },
     {
       "title": "Pomoc dla Ukrainy. Tyle kosztuje to każdego obywatela Polski od początku wojny",
@@ -192,14 +200,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Nie wykluczone, że floty samochodowe otrzymają podobne do kolejowych cyfrowe narzędzia do prewencyjnego utrzymania pojazdów."
-    },
-    {
-      "title": "Święto Niepodległości w cieniu tragedii. Dodatkowe zapory i więcej służb",
-      "url": "https://regiony.rp.pl/z-regionow/art45472891-swieto-niepodleglosci-w-cieniu-tragedii-dodatkowe-zapory-i-wiecej-sluzb",
-      "date": "2026-11-10T17:04:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Największe imprezy zaplanowane na Narodowe Święto Niepodległości odbędą się w większości zgodnie z planem, ale nad bezpieczeństwem uczestników będzie czuwać znacznie więcej służb. Miejsca uroczystości i trasy przemarszów zostaną dokładnie sprawdzone, w wielu miastach pojawiają się dodatkowe bariery."
     },
     {
       "title": "Mężczyzna w kapturze stał na dachu kościoła w Krakowie. Policja: Ciekawość bierze górę nad rozsądkiem",
@@ -1077,7 +1077,7 @@
       "date": "2026-11-10T18:22:32Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 6 # Comments: 0."
+      "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 32 # Comments: 12."
     },
     {
       "title": "GTA 6 na PC i smartfonie przez Xbox Cloud Gaming. Wiemy, czy to możliwe",
@@ -1096,14 +1096,6 @@
       "summary": "Astronomowie wyłowili obiekt 2026 ED138 krążący dalej niż Pluton, który może trafić do krótkiej listy planet karłowatych uznawanych przez Międzynarodową Unię Astronomiczną. Wykrycie było możliwe dzięki połączeniu nowych obserwacji z sięgającą ponad dekadę analizą archiwalnych zdjęć nieba."
     },
     {
-      "title": "Work at the Frontier: AI's effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "date": "2026-11-10T18:02:54Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://openai.com/index/ai-effect-on-freelance-work Comments URL: https://news.ycombinator.com/item?id=50443838 Points: 14 # Comments: 6."
-    },
-    {
       "title": "The AI Futures Project updates its AI timelines after METR's report on Anthropic R&D, saying it now expects a Superhuman AI Researcher to arrive in 2027 (AI Futures Project)",
       "url": "https://www.techmeme.com/261110/p38#a261110p38",
       "date": "2026-11-10T18:02:13Z",
@@ -1117,7 +1109,7 @@
       "date": "2026-11-10T18:02:02Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 45 # Comments: 14."
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 62 # Comments: 26."
     },
     {
       "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
@@ -1126,6 +1118,14 @@
       "source": "Hacker News",
       "confirmed_by": 1,
       "summary": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, `` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0])Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent +JS based pattern. We started an effort in Chrome to supplement coding agents with this key domain knowledge and we're shipping our 1.0 today, in collaboration with Firefox, MDN, and Edge.200+ guides (~1.7MB) of curated, hand-crafted implementation best-practices from web experts, updated as the web evolves."
+    },
+    {
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "date": "2026-11-10T17:55:07Z",
+      "source": "Hacker News",
+      "confirmed_by": 2,
+      "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 8 # Comments: 1."
     },
     {
       "title": "Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B (Mark Gurman/Bloomberg)",
@@ -1144,20 +1144,12 @@
       "summary": "Financial Times: How Alice Huang built her career with romantic partner and Hexi Capital founder Kang Wei, who faced stock market probes; sources believe she is back in China &mdash; Executive alleged to be Chinese spy who had affair with Nvidia chief had already built career alongside a man with a history of crossing regulators."
     },
     {
-      "title": "Anthropic unveils office tools, including a video call assistant, a data dashboard, and spreadsheet service Claude Sheets, in a bid to compete with Microsoft (Shirin Ghaffary/Bloomberg)",
-      "url": "https://www.techmeme.com/261110/p35#a261110p35",
-      "date": "2026-11-10T17:35:00Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Shirin Ghaffary / Bloomberg: Anthropic unveils office tools, including a video call assistant, a data dashboard, and spreadsheet service Claude Sheets, in a bid to compete with Microsoft &mdash; Anthropic PBC is releasing a suite of tools that weave the company's artificial intelligence capabilities into more everyday office work &hellip;."
-    },
-    {
       "title": "Val Town is winding down",
       "url": "https://blog.val.town/winding-down",
       "date": "2026-11-10T17:31:14Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 88 # Comments: 21."
+      "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 108 # Comments: 25."
     },
     {
       "title": "Microsoft potwierdza: GTA VI odpalisz na 13-letniej konsoli, ale nie na PC",
@@ -1174,6 +1166,14 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "Benchmark tools for generic gaming rigs could be coming soon."
+    },
+    {
+      "title": "New York Governor Kathy Hochul launches the US' first effort to independently test AI systems and train a new generation of AI safety experts via a new center (Calder McHugh/Politico)",
+      "url": "https://www.techmeme.com/261110/p34#a261110p34",
+      "date": "2026-11-10T17:20:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Calder McHugh / Politico: New York Governor Kathy Hochul launches the US' first effort to independently test AI systems and train a new generation of AI safety experts via a new center &mdash; New York Gov. Kathy Hochul is launching a first-in-nation effort to have the state independently test AI systems and train &hellip;."
     },
     {
       "title": "AMD pokazało Zen 6. Gracze dostaną więcej, niż myśleli",
@@ -1213,7 +1213,7 @@
       "date": "2026-11-10T17:02:32Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 67 # Comments: 24."
+      "summary": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 72 # Comments: 28."
     },
     {
       "title": "Miami: Boeing 747-8 Lufthansy zatrzymał się w ostatniej chwili",
@@ -1253,7 +1253,7 @@
       "date": "2026-11-10T16:37:44Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/ Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 334 # Comments: 58."
+      "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/ Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 348 # Comments: 62."
     },
     {
       "title": "EZVIZ TP5 otworzy furtkę na 5 sposobów. Kosztuje 799 zł",
@@ -2172,12 +2172,12 @@
       "summary": "Creotech Quantum coraz bliżej debiutu na GPW BiznesRadar."
     },
     {
-      "title": "Transakcje WISE ENERGY (WEN) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZV2hXMzNheVRDUmQxbE1RN3lua0pEckF6OVM2MjZlNGt2cWROM3pNdHFDM3JESnlVaUxpSHBTSDNEdmZsUHBKSWE4NzIyNjVaeVRn?oc=5",
+      "title": "Rating WEN (WISEENERG) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHd1Fyb1AtWWVVZFlYN3hyS3lwQUdXRW1pQlVFSWZtajJfTWMtdEM3N2ZIVjNHRTFkZ3NxZXc3NGMxVkJORDlCUno0X1Q3dw?oc=5",
       "date": "2026-11-09T09:26:32Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Transakcje WISE ENERGY (WEN) BiznesRadar."
+      "summary": "Rating WEN (WISEENERG) BiznesRadar."
     },
     {
       "title": "Transakcje INTSGLD02973 INGBANK - BiznesRadar",
@@ -2624,26 +2624,26 @@
       26805.91,
       26964.04,
       27260.71,
-      29165.78,
+      29164.67,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29421.56,
+      29420.44,
       27354.94,
       27400.36,
       27412.11,
-      29841.18,
+      29840.04,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29068.31,
+      29067.2,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29256.17,
+      29255.06,
       27686.17,
       27404.78,
       27351.97,
@@ -2652,7 +2652,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28951.31,
+      28950.2,
       27930.04,
       28234.04,
       28218.36,
@@ -2661,81 +2661,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29822.8,
+      29821.66,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29359.43,
+      29358.32,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29179.48,
+      29178.37,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29485.53,
+      29484.41,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30540.28,
+      30539.11,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30650.98,
+      30649.81,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30212.46,
+      30211.31,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30359.66,
+      30358.5,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30386.58,
+      30385.43,
       28449.73,
       28313.03,
       28272.33,
-      30144.0,
+      30142.85,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30118.49,
+      30117.34,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30484.26,
+      30483.1,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30402.8,
+      30401.65,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30752.47,
+      30751.3,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30153.68,
+      30152.53,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30012.9,
+      30011.76,
       30100.92,
       30418.01,
       30609.55,
@@ -2747,7 +2747,7 @@
       28691.31,
       28904.09,
       29742.99,
-      29537.5
+      29530.15
     ],
     "currency": "PLN"
   }
