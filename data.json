@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T23:51:23Z",
+  "last_updated": "2026-11-10T23:52:13Z",
   "poland": [
     {
       "title": "Jim Jordan nowym liderem republikanów w Izbie Reprezentantów. Zastąpi Mike'a Johnsona",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "US House votes to derail impeachment of Defense Secretary Hegseth - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMk9rMEFNODI4aU13aTBQX0ZscVhJZEs5RW1OYUpnTzMtNmNjTjhMNnJveVhmWmhUdFYwVDlSbXVIdEZKcDBTcF9Sa1EzemRRamJ2Vl9lbW52VWN6QkZVVDNPR1Q4NlNpZ0ZTYkVGT1R5U1NHYnBkYUUxbVA1Y1dCTW1jdXItZ0RUeEc0dUk2M3dzLXg2c1IwWndIMzJjZVN6c1RLVXJ5bw?oc=5",
+      "date": "2026-11-10T23:14:09Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "US House votes to derail impeachment of Defense Secretary Hegseth Reuters."
+    },
+    {
       "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T22:52:15Z",
@@ -602,14 +610,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION."
-    },
-    {
-      "title": "Ukraine urges US to speed up interceptor deliveries as Russia targets power grid - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGdwSTdVbDNKcWFuM2ZVdk0zSmFHNkh2UFFLR1JQZnUzeXB3aFBWS1NDcTJWWWV3R1lxR2VseHRYdkpQX0xjRGFFekdiRUdQSVhYWktBTVV3TV90RHVhRUJGWHZ5XzllTTRQckZ6WG12MWxNZ2NTclBua3VHaWs4aHRnX2NZLXF0bjB6MF9kUzBRcVlBZzFPaTAwaFJXeXRqOUxDcm1YZHFpZEVFRm9rTDc1S3kyVDlxdGpDbUlOYw?oc=5",
-      "date": "2026-11-10T18:40:10Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Ukraine urges US to speed up interceptor deliveries as Russia targets power grid Reuters."
     },
     {
       "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
@@ -1804,12 +1804,28 @@
   ],
   "finance": [
     {
+      "title": "Impeachment Pete'a Hegsetha odroczony. Tylko jeden zagłosował przeciwko własnej partii",
+      "url": "https://www.bankier.pl/wiadomosc/Impeachment-Pete-a-Hegsetha-odroczony-Tylko-jeden-zaglosowal-przeciwko-wlasnej-partii-9227202.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-10T23:16:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Izba Reprezentantów zagłosowała w środę za skierowaniem wniosku o impeachment szefa Pentagonu Pete'a Hegsetha do komisji sądownictwa. Oznacza to w praktyce, że przynajmniej na razie Izba nie zagłosuje nad postawieniem Hegsetha w stan oskarżenia."
+    },
+    {
       "title": "Trump machnął ręką na chińska agentkę. I zabrał szefa Nvidii do Pekinu",
       "url": "https://www.bankier.pl/wiadomosc/Trump-machnal-reka-na-chinska-agentke-I-zabral-szefa-Nvidii-do-Pekinu-9227201.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-11-10T23:10:00Z",
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Wbrew zaprzeczeniom prezydenta Donalda Trumpa, sekretarz stanu Marco Rubio poinformował go o romansie szefa Nvidii Jensena Huanga z Alice Huang, uważaną za agentkę chińskiego wywiadu - pisze „New York Times”. Do ostrzeżenia - nie pierwszego - miało dojść w drodze do Pekinu, gdzie Huang był członkiem delegacji."
+    },
+    {
+      "title": "Brat Viktora Orbana z wnioskiem o areszt. Prokuratura zarzuca mu udział w przemycie ludzi",
+      "url": "https://www.bankier.pl/wiadomosc/Brat-Viktora-Orbana-z-wnioskiem-o-areszt-Prokuratura-zarzuca-mu-udzial-w-przemycie-ludzi-9227200.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-10T22:49:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Węgierska prokuratura wystąpiła we wtorek o tymczasowy areszt dla Arona Orbana, młodszego brata byłego premiera Węgier Viktora Orbana. Zatrzymany w poniedziałek brat byłego szefa węgierskiego rządu jest podejrzanym w sprawie dotyczącej przemytu ludzi."
     },
     {
       "title": "\"To zdrada wszystkich obywateli\". Premier Kanady wściekły na giganta motoryzacji",
@@ -1836,14 +1852,6 @@
       "summary": "Grupa Azoty i Grupa Azoty Zakłady Chemiczne „Police” podpisały we wtorek list intencyjny dotyczący dokapitalizowania przez Azoty spółki zależnej w Policach. Możliwa transakcja obejmowałaby do 170 mln zł w środkach pieniężnych oraz uregulowanie części zobowiązań spółki zależnej wobec grupy."
     },
     {
-      "title": "Dodano \"Skłodowska\". Polska dyplomacja naprawiła historyczne przeoczenie Nowego Jorku",
-      "url": "https://www.bankier.pl/wiadomosc/Dodano-Sklodowska-Polska-dyplomacja-naprawila-historyczne-przeoczenie-Nowego-Jorku-9227190.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-10T21:22:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Jeden z narożników skrzyżowania York Avenue i 66. Ulicy na Manhattanie, nieopodal Uniwersytetu Rockefellera, nosi od wtorku imię Marii Skłodowskiej-Curie. Z inicjatywy Konsulatu Generalnego RP władze Nowego Jorku uhonorowały w ten sposób polską dwukrotną noblistkę w przeddzień Narodowego Święta Niepodległości."
-    },
-    {
       "title": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWjh5RG9Xc0tzeFNmUkRKRkVMU0l3SUNjRzlDYzhPRTkyTWtPV3Q5bzd6bWxTQkhiVTQ4a3ZCQnRob0Z4TktWQkdHb1Y4QnNhWjZSalA5eXc1S2xfMHJiem5mWllEb2puN1Ywbm5BTzAxdWxNMnZJTjVxaVdmYnV6ZWp5YlQxVk9BNENsejd5NW9ENGZjUnI4amlmVHE2YVhwdGpKU0s2ck96TmhpQ211WlAwbXh1MGYxYkU2UFhCdDhQYkNNeTU0bTN2b2JsajBXQVNTV21keGM5RXd2TkFxQTQzQm1SVXZGaklhRnhPbi1VWVh3Z28yenpmVFJIbUJk?oc=5",
       "date": "2026-11-10T20:56:43Z",
@@ -1866,14 +1874,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Obecna władza nie chce służyć Polsce – ocenił we wtorek prezes PiS Jarosław Kaczyński. Jak podkreślił, przez działania rządzących niepodległość III RP może okazać się jedynie historycznym „incydentem”."
-    },
-    {
-      "title": "Cyberatak na państwowy system ePUAP. ABW natychmiast wkracza do akcji",
-      "url": "https://www.bankier.pl/wiadomosc/Cyberatak-na-panstwowy-system-ePUAP-ABW-natychmiast-wkracza-do-akcji-9227177.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-10T20:32:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Wykryto i zatrzymano cyberatak na państwowy system ePUAP - poinformował we wtorek wicepremier, minister cyfryzacji Krzysztof Gawkowski. Dodał, że trwają prace techniczne nad przywróceniem pełnej funkcjonalności systemu, a infrastruktura Centralnego Ośrodka Informatyki jest bezpieczna."
     },
     {
       "title": "Zaczyna się od niewinnego pytania. Potem AI poznaje nasze finanse, zdrowie i problemy w pracy",
