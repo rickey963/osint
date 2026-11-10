@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-10T14:19:00Z",
+  "last_updated": "2026-11-10T14:20:37Z",
   "poland": [
     {
-      "title": "Rywal KFC planuje podbój polskiego miasta. Dwa otwarcia jednocześnie",
-      "url": "https://www.rp.pl/ekonomia/art45455161-rywal-kfc-planuje-podboj-polskiego-miasta-dwa-otwarcia-jednoczesnie",
-      "date": "2026-11-10T14:15:00Z",
+      "title": "Twórca Claude'a wart 1,4 bln dol. Anthropic ujawnia szczegóły gigantycznego IPO",
+      "url": "https://cyfrowa.rp.pl/ai/art45472031-tworca-claude-a-wart-1-4-bln-dol-anthropic-ujawnia-szczegoly-gigantycznego-ipo",
+      "date": "2026-11-10T14:18:00Z",
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
-      "summary": "Fani Popeyes z Pomorza nie będą już musieli jeździć do Warszawy, by skosztować specjałów tej sieci. Marka, która wcześniej organizowała dla nich specjalny autobus do stolicy, planuje teraz otworzyć dwa lokale w Gdańsku. Restauracje pojawią się w Galerii Metropolia i Galerii Bałtyckiej."
+      "summary": "Anthropic, twórca modeli AI Claude i główny rywal OpenAI, szykuje jeden z największych debiutów giełdowych w historii. Oferta akcji może sięgnąć 64,35 mld dol., a wycena spółki nawet 1,4 bln dol. Wśród inwestorów są Nvidia, Google i Microsoft."
     },
     {
       "title": "Trzy mieszkania, udziały w spółce i darowizny. Zarzuty dla wiceszefa MSZ Władysława Bartoszewskiego",
@@ -18,6 +18,14 @@
       "summary": "Prokuratura przedstawiła wiceministrowi spraw zagranicznych Władysławowi Teofilowi Bartoszewskiemu zarzuty dotyczące między innymi przywłaszczenia powierzonych środków. W sprawie chodzi o 1 mln funtów brytyjskich, 405 tys. euro oraz ponad 6,6 mln złotych."
     },
     {
+      "title": "Rywal KFC planuje podbój polskiego miasta. Dwa otwarcia jednocześnie",
+      "url": "https://www.rp.pl/ekonomia/art45455161-rywal-kfc-planuje-podboj-polskiego-miasta-dwa-otwarcia-jednoczesnie",
+      "date": "2026-11-10T14:15:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Fani Popeyes z Pomorza nie będą już musieli jeździć do Warszawy, by skosztować specjałów tej sieci. Marka, która wcześniej organizowała dla nich specjalny autobus do stolicy, planuje teraz otworzyć dwa lokale w Gdańsku. Restauracje pojawią się w Galerii Metropolia i Galerii Bałtyckiej."
+    },
+    {
       "title": "Zakupy 11 listopada. Niektóre sklepy zmieniły grafik przed świętem",
       "url": "https://businessinsider.com.pl/finanse/sklepy-11-listopada-2026-biedronka-lidl-dino-godziny-otwarcia-we-wtorek-10-listopada/94jkmyd",
       "date": "2026-11-10T14:12:29Z",
@@ -26,20 +34,20 @@
       "summary": "W środę, 11 listopada, obchodzimy Narodowe Święto Niepodległości. Sprzedaż w placówkach handlowych podlega tego dnia świątecznym ograniczeniom."
     },
     {
-      "title": "Biznes Sławomira Mentzena hamuje. Wyniki wyraźnie gorsze, wycena akcji spada",
-      "url": "https://www.rp.pl/gielda/art45470691-biznes-slawomira-mentzena-hamuje-wyniki-wyraznie-gorsze-wycena-akcji-spada",
-      "date": "2026-11-10T14:12:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Spółka zarządzana przez polityka Konfederacji Sławomira Mentzena podała wyniki za III kwartał. Przychody spadły, a strata się pogłębiła. Prognoz zarząd nie podaje."
-    },
-    {
       "title": "Zakończyła się pierwsza runda rozmów Ukrainy, Rosji i USA. Media: Jest porozumienie ws. wymiany jeńców",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33125995,zakonczyla-sie-pierwsza-runda-rozmow-ukrainy-rosji-i-usa-media.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-11-10T14:12:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "\"Kluczowe stanowisko strony ukraińskiej jest takie, że najpierw musi nastąpić zakończenie wojny. Dopiero potem możliwe będzie przejście do kształtowania nowej architektury bezpieczeństwa w Europie\"- przekazał informator agencji Interfax-Ukraina."
+    },
+    {
+      "title": "Biznes Sławomira Mentzena hamuje. Wyniki wyraźnie gorsze, wycena akcji spada",
+      "url": "https://www.rp.pl/gielda/art45470691-biznes-slawomira-mentzena-hamuje-wyniki-wyraznie-gorsze-wycena-akcji-spada",
+      "date": "2026-11-10T14:12:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Spółka zarządzana przez polityka Konfederacji Sławomira Mentzena podała wyniki za III kwartał. Przychody spadły, a strata się pogłębiła. Prognoz zarząd nie podaje."
     },
     {
       "title": "\"Bardzo znaczne\" obrażenia u ofiar zamachowca. Żurek zwraca uwagę na amunicję",
@@ -136,14 +144,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Premier Donald Tusk poinformował we wtorek przed posiedzeniem rządu, że podejmuje decyzję o publikacji uchwały Zgromadzenia Ogólnego Sędziów Trybunału Konstytucyjnego w sprawie zmiany regulaminu TK. — Chyba mogę ogłosić początek nowej ery — dodał."
-    },
-    {
-      "title": "Policyjni związkowcy chcą kary dla Telewizji Republika",
-      "url": "https://www.rp.pl/polityka/art45471511-policyjni-zwiazkowcy-chca-kary-dla-telewizji-republika",
-      "date": "2026-11-10T13:27:57Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Związek zawodowy Policyjna Solidarność skierował do Krajowej Rady Radiofonii i Telewizji skargę na Telewizję Republika. Chodzi o relację Tomasza Sakiewicza z zamachu w Krakowie."
     },
     {
       "title": "Nawrocki mianuje nowych generałów. Jeden z oficerów otrzymał trzeci stopień generalski",
@@ -766,20 +766,28 @@
   ],
   "world_politics": [
     {
+      "title": "Najib Razak, Ex-Prime Minister of Malaysia, Is Released to House Arrest",
+      "url": "https://www.nytimes.com/2026/11/10/world/asia/malaysia-najib-razak-1mdb-house-arrest.html",
+      "date": "2026-11-10T14:19:55Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Najib Razak, who was brought down in the multibillion-dollar 1MDB scandal, was released from prison to serve the rest of his sentence in his mansion."
+    },
+    {
+      "title": "Israel’s New Parliament Gathers With No Government in Sight",
+      "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
+      "date": "2026-11-10T14:16:38Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Dozens of first-time lawmakers are heading to the Knesset, where the opposition, led by Gadi Eisenkot, has a majority and is expected to begin pulling some levers of power."
+    },
+    {
       "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
       "url": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
       "date": "2026-11-10T14:15:54Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "President Claudia Sheinbaum drew a firm line barring U.S. forces from operating on Mexican soil. But in a northern border state, one local partner quietly helped the agency build a foothold."
-    },
-    {
-      "title": "Najib Razak, Ex-Prime Minister of Malaysia, Is Released to House Arrest",
-      "url": "https://www.nytimes.com/2026/11/10/world/asia/malaysia-najib-razak-1mdb-house-arrest.html",
-      "date": "2026-11-10T14:08:51Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Najib Razak, a former prime minister of Malaysia who was brought down in the multibillion-dollar 1MDB scandal, was released from prison to serve the rest of his sentence in his mansion."
     },
     {
       "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
@@ -836,14 +844,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "The Guardian and ITV News published allegations from multiple women against the comedian and writer, who had fought a weekslong court battle to keep the claims private. He denies the accusations."
-    },
-    {
-      "title": "Israel’s New Parliament Gathers With No Government in Sight",
-      "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
-      "date": "2026-11-10T12:38:39Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Dozens of first-time lawmakers are heading to the Knesset, where the opposition, led by Gadi Eisenkot, has a majority and is expected to begin pulling some levers of power."
     },
     {
       "title": "At least 12 people killed and dozens hurt in crashes on a foggy Bulgarian motorway, minister says - AP News",
@@ -908,6 +908,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Hegseth is set for his first Pentagon news briefing since May as he faces possible impeachment AP News."
+    },
+    {
+      "title": "California voters reject measure to tax the wealth of billionaires - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY0JESW1QSUhockUwNGUtM21rdmJrcXNrVnE3WUI2ZWZNYno0ZXBDMmprN1k3WC1nYlAxRVJHbXJ1SW05R29XVUItZ1EzQWR3cWVxOXY3SDlhVzVaS0RGR3JYZ1A0MElEUGJ1OFlxZmNESW9yR3ZGS2k0QU1yZEswcVU3YUx0LXBNUGFXNktmUQ?oc=5",
+      "date": "2026-11-10T04:04:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "California voters reject measure to tax the wealth of billionaires AP News."
     },
     {
       "title": "Senate advances sweeping energy legislation in first major action since midterm elections - AP News",
@@ -996,14 +1004,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "In another shake-up at DC Studios, Gunn and Safran are out as Skydance appoints Marvel vet Latcham AP News."
-    },
-    {
-      "title": "Explosion at steel plant in western Turkey leaves 16 dead and 13 injured - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSFJ6cWlWT1R0aFp0dy1UbkxJS2RXTllwTEowcFU2VGxkVl8wQ3BBTVI0dXh3blExMmRoQnpvTDNnYlU2ZkpQUlJOWm1CWVl0ejI3dmlTaDlidmJjRGxaZjN2RVRlZWJfdEJuSjh2MUtxcTdzVV9yT2w5ZDVnWEtnQW1YUWNGNnpFRUttVWltdlBhTmQ2ZTVXOWF6RjdOaGF4XzFZ?oc=5",
-      "date": "2026-11-09T18:18:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Explosion at steel plant in western Turkey leaves 16 dead and 13 injured AP News."
     }
   ],
   "technology": [
@@ -2116,12 +2116,12 @@
       "summary": "Akcjonariat: akcjonariusze EUROPEAN DEFENCE GROUP (EGO) BiznesRadar."
     },
     {
-      "title": "Wiadomości FEURF27 GPW - ORGANIZATOR OBROTU - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPZHJhVGxxT2JJN1UtQ0F6dzlWckZ6MnY3YVJZanRJM0ZaZlQ2aHFsZ1c1V0RhVWFoNjk1c1h4QnB4RTJUb1J3OFcyTE5lekdBOEp1a19fOU0?oc=5",
-      "date": "2026-11-09T15:59:48Z",
+      "title": "Transakcje INTLPGE02437 INGBANK - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iY2pobXAxcG1DMGdQUG8tTmQtR19sU2NqdkJNQThWTXkyczdvcWtFOEVidGY5Qnc3LWF1c1cxY2xRNWFUMTNaMF9oNXNFekhNWlBmdmlva3MzbU1iQXIw?oc=5",
+      "date": "2026-11-09T15:48:39Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Wiadomości FEURF27 GPW - ORGANIZATOR OBROTU BiznesRadar."
+      "summary": "Transakcje INTLPGE02437 INGBANK BiznesRadar."
     },
     {
       "title": "Fundacja rodzinna, czyli ład na pokolenia - Forbes",
@@ -2172,20 +2172,20 @@
       "summary": "City break kosztuje więcej niż myślisz. Bilet to tylko ułamek rachunku Forbes."
     },
     {
+      "title": "Creotech Quantum coraz bliżej debiutu na GPW - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQellvT01jeF83MENyMXNGdHFXSF93M0hZMHJGQkx2d1BHaTRzMVZ4RDdzYWltQnNYSGpOWGRlc2FzOXhwTjBEMzlaOGMwLVhnb3k3aTE0Y2JteU1wY1UtVDZCdUxaR2RkNk16cE83RTFyTWRnM21fR2hVWDRLYUJJcUw4dEk1Qk0?oc=5",
+      "date": "2026-11-09T11:45:11Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Creotech Quantum coraz bliżej debiutu na GPW BiznesRadar."
+    },
+    {
       "title": "Rating WEN (WISEENERG) - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHd1Fyb1AtWWVVZFlYN3hyS3lwQUdXRW1pQlVFSWZtajJfTWMtdEM3N2ZIVjNHRTFkZ3NxZXc3NGMxVkJORDlCUno0X1Q3dw?oc=5",
       "date": "2026-11-09T09:26:32Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Rating WEN (WISEENERG) BiznesRadar."
-    },
-    {
-      "title": "Transakcje INTSGLD02973 INGBANK - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83U3o4bTlad3Z2OHR0UG1vYkotWTFRT1NVakhvRVptMDgzUmpEN0IyUzllS2xST2VKaEtLakNjR0ZaVHl6d2FldENzWFNSNFJmS3lBZFhCOVJiWDExZ2FF?oc=5",
-      "date": "2026-11-09T09:23:29Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Transakcje INTSGLD02973 INGBANK BiznesRadar."
     },
     {
       "title": "Wiadomości INTSSPX02577 INGBANK - BiznesRadar",
@@ -2222,20 +2222,20 @@
       "summary": "Pilny przegląd przepisów ws. broni, pomoc państwa dla ofiar zamachu w Krakowie i przygotowanie rozporządzenia ws. pieniędzy z SAFE dla służb mundurowych - zapowiedział we wtorek premier Donald Tusk."
     },
     {
-      "title": "Policyjni związkowcy chcą kary dla Telewizji Republika",
-      "url": "https://www.rp.pl/polityka/art45471511-policyjni-zwiazkowcy-chca-kary-dla-telewizji-republika",
-      "date": "2026-11-10T13:27:57Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Związek zawodowy Policyjna Solidarność skierował do Krajowej Rady Radiofonii i Telewizji skargę na Telewizję Republika. Chodzi o relację Tomasza Sakiewicza z zamachu w Krakowie."
-    },
-    {
       "title": "Wyniki sekcji ofiar zamachu i napastnika. \"Dodatkowy materiał biologiczny\"",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/wyniki-sekcji-ofiar-zamachu-i-napastnika-dodatkowy-material-biologiczny/",
       "date": "2026-11-10T12:42:00Z",
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "- Wszystkie ofiary zginęły w wyniku ran postrzałowych, które spowodowały rozległe obrażenia narządów wewnętrznych - przekazał Interii prok. Eryk Stasielak po zakończeniu sekcji ofiar ataku w Krakowie. Rzecznik poinformował także o rezultatach sekcji napastnika."
+    },
+    {
+      "title": "Ranni policjanci po zamachu w Krakowie rozmawiali ze sobą. Wojewoda ujawnił szczegóły",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33125285,ranni-policjanci-po-zamachu-w-krakowie-rozmawiali-ze-soba-wojewoda.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-11-10T10:28:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "- Na prośbę funkcjonariusza, który pierwszy doszedł do zdrowia, zostało zorganizowane połączenie wideo, aby panowie się zobaczyli. Wiem, że ta rozmowa była szczera i życzliwa. Dała im wewnętrzną siłę - powiedział wojewoda małopolski Krzysztof Klęczar."
     }
   ],
   "map_features": [
@@ -2612,26 +2612,26 @@
       26805.91,
       26964.04,
       27260.71,
-      29056.14,
+      29053.54,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29310.95,
+      29308.33,
       27354.94,
       27400.36,
       27412.11,
-      29729.0,
+      29726.34,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28959.03,
+      28956.44,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29146.19,
+      29143.58,
       27686.17,
       27404.78,
       27351.97,
@@ -2640,7 +2640,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28842.47,
+      28839.89,
       27930.04,
       28234.04,
       28218.36,
@@ -2649,81 +2649,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29710.68,
+      29708.03,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29249.06,
+      29246.45,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29069.78,
+      29067.19,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29374.68,
+      29372.06,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30425.46,
+      30422.75,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30535.75,
+      30533.02,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30098.88,
+      30096.19,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30245.52,
+      30242.82,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30272.35,
+      30269.65,
       28449.73,
       28313.03,
       28272.33,
-      30030.67,
+      30028.0,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30005.26,
+      30002.58,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30369.65,
+      30366.94,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30288.51,
+      30285.81,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30636.86,
+      30634.13,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30040.32,
+      30037.64,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      29900.07,
+      29897.4,
       30100.92,
       30418.01,
       30609.55,
