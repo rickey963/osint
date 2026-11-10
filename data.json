@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-10T21:40:30Z",
+  "last_updated": "2026-11-10T21:50:03Z",
   "poland": [
+    {
+      "title": "Cyberatak na państwowy system ePUAP. Gawkowski: Zespoły podjęły natychmiastowe działania",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33126651,cyberatak-na-panstwowy-system-epuap-gawkowski-zespoly-podjely.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-11-10T21:40:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 2,
+      "summary": "\"Infrastruktura Centralnego Ośrodka Informatyki jest bezpieczna, a w sprawę pełnego wyjaśnienia incydentu zgodnie z procedurami włączona została Agencja Bezpieczeństwa Wewnętrznego\" - przekazał minister cyfryzacji Krzysztof Gawkowski."
+    },
     {
       "title": "Mężczyzna ranny po zamachu w Krakowie wrócił do domu. W szpitalach przebywa wciąż 12 osób",
       "url": "https://www.rp.pl/spoleczenstwo/art45473971-mezczyzna-ranny-po-zamachu-w-krakowie-wrocil-do-domu-w-szpitalach-przebywa-wciaz-12-osob",
@@ -14,16 +22,8 @@
       "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33126631,zolnierz-usa-w-brytyjskim-areszcie-sluzby-podejrzewaja-go-o.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-11-10T21:19:00Z",
       "source": "Gazeta Wyborcza",
-      "confirmed_by": 3,
+      "confirmed_by": 2,
       "summary": "Zatrzymanie żołnierza jest efektem wspólnego śledztwa londyńskiej policji z siłami zbrojnymi USA oraz FBI. - Wiąże się z zarzutami szpiegostwa, co budzi ogromne zaniepokojenie Stanów Zjednoczonych i naszych sojuszników - powiedział dyrektor FBI Kash Patel."
-    },
-    {
-      "title": "Gibała zażenowany krytyką policji w kontekście zamachu. \"Bardzo przykro\"",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/gibala-zazenowany-krytyka-policji-w-kontekscie-zamachu-bardzo-przykro/",
-      "date": "2026-11-10T21:11:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "- Było mi przykro bardzo i byłem też mocno zażenowany, słysząc te słowa krytyki (wobec policji red.) - powiedział Łukasz Gibała we wtorkowej Debacie Gozdyry, komentując akcję służb wobec zamachowca. Prezydent Krakowa słyszał różne nieprawdziwe historie o tym, że policja zadziałała późno. Jak nadmienił, Marsz Milczenia pokazał, że Krakowianie nie dali się zastraszyć."
     },
     {
       "title": "Kaczyński ostrzega przed \"przelewem\" krwi w Polsce. \"Druga strona jest do wszystkiego zdolna\"",
@@ -50,14 +50,6 @@
       "summary": "Ostatni tankowiec przewożący rosyjski olej napędowy do USA zawrócił i zmienił kurs. Wcześniej zrobiły to trzy inne. Ani jedna amerykańska firma nie zamówiła rosyjskiego diesla."
     },
     {
-      "title": "Gawkowski: Wykryto i zatrzymano cyberatak na system ePUAP",
-      "url": "https://www.rp.pl/przestepczosc/art45473901-gawkowski-wykryto-i-zatrzymano-cyberatak-na-system-epuap",
-      "date": "2026-11-10T20:21:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Wykryto i zatrzymano cyberatak na państwowy system ePUAP - poinformował we wtorek wicepremier, minister cyfryzacji Krzysztof Gawkowski. Dodał, że trwają prace techniczne nad przywróceniem pełnej funkcjonalności systemu, a infrastruktura Centralnego Ośrodka Informatyki jest bezpieczna."
-    },
-    {
       "title": "Tyle zebrano w sieci po ataku w Krakowie. Rekordowe wpłaty Polaków",
       "url": "https://businessinsider.com.pl/finanse/prawie-10-mln-zl-w-ciagu-kilku-dni-tyle-zebrano-w-sieci-po-ataku-w-krakowie/bndrkjl",
       "date": "2026-11-10T20:17:05Z",
@@ -74,28 +66,12 @@
       "summary": "Donald Trump przez lata ostro krytykował Joe Bidena i kwestionował jego zwycięstwo w wyborach prezydenckich w 2020 roku. Tymczasem w prywatnym liście pozostawionym mu w Białym Domu jako swojemu następcy zwrócił się do niego w wyjątkowo serdeczny sposób. Treść dokumentu, przez pięć lat nieujawniana publicznie, znalazła się w nowej książce Bidena."
     },
     {
-      "title": "Cyberatak na system ePUAP. Do akcji wkraczają służby specjalne",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/cyberatak-na-system-epuap-do-akcji-wkraczaja-sluzby-specjalne/",
-      "date": "2026-11-10T20:13:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "Wykryty i zatrzymany został cyberatak na państwowy system ePUAP - przekazał minister cyfryzacji Krzysztof Gawkowski. Jak dodał, zespoły odpowiadające za bezpieczeństwo sytemu podjęły natychmiastowe działania pozwalające zachować stabilność systemu. Trwają prace techniczne związane z przywróceniem pełnej funkcjonalności - nadmienił."
-    },
-    {
       "title": "Cyberataki na lodówki w Europie. ENISA: następne mogą być routery i domowe AGD",
       "url": "https://www.rp.pl/przestepczosc/art45473741-cyberataki-na-lodowki-w-europie-enisa-nastepne-moga-byc-routery-i-domowe-agd",
       "date": "2026-11-10T20:13:00Z",
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Cyberbezpieczeństwo nie jest tanie – stwierdził Juhan Lepassaar, szef Agencji UE ds. Cyberbezpieczeństwa (ENISA). Jego zdaniem po atakach na lodówki i infrastruktury chłodnicze w całej Europie, następnym celem hakerów mogą być m.in."
-    },
-    {
-      "title": "\"Nawrocki dużo poważniejszym politykiem\". Szpila z rządu w stronę prezesa PiS",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/nawrocki-duzo-powazniejszym-politykiem-szpila-z-rzadu-w-strone-prezesa-pis/",
-      "date": "2026-11-10T20:03:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "- Karol Nawrocki jest dzisiaj dużo poważniejszym politykiem niż Jarosław Kaczyński - powiedział w Gościu Wydarzeń rzecznik rządu. Adam Szłapka zarzucił prezesowi PiS, że jest także bardzo słabym politykiem. - Nawet nie był w stanie utrzymać spoistości swojego klubu."
     },
     {
       "title": "Miał szpiegować na rzecz Rosji. Żołnierz USA aresztowany w Wielkiej Brytanii - Polska Agencja Prasowa SA",
@@ -154,14 +130,6 @@
       "summary": "Wniosek o o wszczęcie procedury impeachmentu szefa Pentagonu Pete’a Hegsetha ponownie zwrócił uwagę na procedurę odwoływania wysokich rangą urzędników w Stanach Zjednoczonych. Kto może zostać objęty impeachmentem, jak przebiega cały proces i jakie warunki muszą zostać spełnione, aby doszło do usunięcia ze stanowiska? Wyjaśniamy."
     },
     {
-      "title": "\"Należą mu się podziękowania\". Rzecznik rządu broni Kierwińskiego",
-      "url": "https://www.polsatnews.pl/gosc-wydarzen/2026-11-10/naleza-mu-sie-podziekowania-rzecznik-rzadu-broni-kierwinskiego/",
-      "date": "2026-11-10T19:00:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "- Miał już pierwsze pewne poszlaki, postawił hipotezę - powiedział w Gościu Wydarzeń Adam Szłapka, komentując wypowiedź ministra Marcina Kierwińskiego o rzekomych prawicowych poglądach zamachowca z Krakowa. Rzecznik rządu podkreślił również, że szefowi MSWiA należą się podziękowania, bo szybko zareagował."
-    },
-    {
       "title": "Sędzia Laskowski krytykuje decyzję w sprawie Święczkowskiego: SN nie ma do tego prawa",
       "url": "https://www.rp.pl/sady-i-trybunaly/art45473541-sedzia-laskowski-krytykuje-decyzje-w-sprawie-swieczkowskiego-sn-nie-ma-do-tego-prawa",
       "date": "2026-11-10T18:56:17Z",
@@ -170,20 +138,12 @@
       "summary": "Sąd Najwyższy nie może zajmować się zażaleniami na przerwę w czynnościach sędziów Trybunału Konstytucyjnego – ocenia w rozmowie z „Rz” sędzia SN Michał Laskowski. Jego zdaniem wtorkowe orzeczenie w sprawie szefów TK jest bezprawne i nieskuteczne."
     },
     {
-      "title": "\"Niepokojące treści\" po zamachu w Krakowie. Kolejne zatrzymania",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/niepokojace-tresci-po-zamachu-w-krakowie-kolejne-zatrzymania/",
-      "date": "2026-11-10T18:54:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "Dziewięć osób zostało zatrzymanych przez policję w związku z publikowaniem w sieci niepokojących treści po tragedii w Krakowie - poinformowała we wtorek rzeczniczka MSWiA Karolina Gałecka. To kolejne tego typu działania. Dzień wcześniej mundurowi informowali o sześciu zatrzymaniach, natomiast prokuratura - o zarzutach dla internauty z Warszawy."
-    },
-    {
-      "title": "500 dolarów za prowokację w Polsce. Tajemnicze ogłoszenie obiegło sieć",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/500-dolarow-za-prowokacje-w-polsce-tajemnicze-ogloszenie-obieglo-siec/",
-      "date": "2026-11-10T18:48:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "W czatach dla emigrantów na Telegramie oferowano 500 dolarów za naniesienie prowokacyjnego hasła na pomnikach w Polsce - podał we wtorek niezależny, białoruski portal MOST Media, opisując mechanizm werbunku do dywersji. Ogłoszeniodawca oferował elastyczne formy rozliczenia oraz przekonywał, że przy zasłonięciu twarzy i działaniu po zmroku sprawców nie uda się wykryć."
+      "title": "Sędzia Korwin-Piotrowska: decyzja SN ws. Święczkowskiego i Sochańskiego bez wpływu na TK",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45473551-sedzia-korwin-piotrowska-decyzja-sn-ws-swieczkowskiego-i-sochanskiego-bez-wplywu-na-tk",
+      "date": "2026-11-10T18:36:30Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 2,
+      "summary": "Informuję o braku jakiegokolwiek wpływu ewentualnych orzeczeń Sądu Najwyższego na dalszą skuteczność zarządzeń o natychmiastowej przerwie – napisała kierująca pracami Trybunału Konstytucyjnego sędzia Korwin-Piotrowska."
     },
     {
       "title": "Po tragedii w Krakowie zapowiedź m.in. ponadstandardowej pomocy państwa dla poszkodowanych [SYNTEZA] - Polska Agencja Prasowa SA",
@@ -194,20 +154,12 @@
       "summary": "Po tragedii w Krakowie zapowiedź m.in. ponadstandardowej pomocy państwa dla poszkodowanych [SYNTEZA] Polska Agencja Prasowa SA."
     },
     {
-      "title": "Barbara Mróz-Gorgoń przerwała milczenie. \"Nie postawiono mi zarzutów\"",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/barbara-mroz-gorgon-przerwala-milczenie-nie-postawiono-mi-zarzutow/",
-      "date": "2026-11-10T18:19:00Z",
-      "source": "Polsat News",
+      "title": "Rosyjskie złoto wlewa się do Chin. Jedna trzecia eksportu to rezerwy Banku Rosji",
+      "url": "https://www.rp.pl/finanse/art45470911-rosyjskie-zloto-wlewa-sie-do-chin-jedna-trzecia-eksportu-to-rezerwy-banku-rosji",
+      "date": "2026-11-10T18:17:00Z",
+      "source": "Rzeczpospolita",
       "confirmed_by": 1,
-      "summary": "Była pełnomocniczka rządu ds. promocji marki Polska, dr hab. Barbara Mróz-Gorgoń, przerwała milczenie."
-    },
-    {
-      "title": "Zmiana reguł gry w sporze o TK? W Sądzie Najwyższym zapadła decyzja",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/chaos-w-trybunale-konstytucyjnym-nowe-postanowienie-sadu-najwyzszego/",
-      "date": "2026-11-10T18:16:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "Zarządzenia o natychmiastowej przerwie w czynnościach Bogdana Święczkowskiego i Bartłomieja Sochańskiego zostają uchylone - poinformował we wtorek Sąd Najwyższy. Tego samego dnia uchylił własne postanowienia uznające SN za niewłaściwy do rozpoznania tej sprawy. Czekam, aż pani Szczepaniec orzeknie, że Ziemia jest płaska - skwitował szef resortu sprawiedliwości."
+      "summary": "Od rosyjskiej agresji na Ukrainę Chiny stały się dla Kremla głównym rynkiem eksportu złota. Importują co najmniej 165 ton w trzy kwartały. Państwo Środka korzysta na sankcjach Zachodu nałożonych na rosyjski kruszec."
     },
     {
       "title": "Spór między TK a Sądem Najwyższym. Chodzi o sprawę prezesa i wiceprezesa",
@@ -256,6 +208,14 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Pod względem kwoty wsparcia udzielonego Ukrainie od początku wojny, w przeliczeniu na jednego mieszkańca, Polska plasuje się w dolnej części wykresu — według raportu Instytutu Gospodarki Światowej w Kilonii. Zdecydowanym liderem jest Norwegia — informuje \"Berliner Zeitung\"."
+    },
+    {
+      "title": "Kosiniak-Kamysz: Jest zielone światło dla stałej bazy wojsk USA w Polsce. Ostateczna decyzja w grudniu",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33126369,kosiniak-kamysz-jest-zielone-swiatlo-dla-stalej-bazy-wojsk.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-11-10T17:32:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "- Polska stała się strategicznym partnerem Stanów Zjednoczonych - powiedział Władysław Kosiniak-Kamysz po spotkaniu z szefem Pentagonu."
     },
     {
       "title": "Wywiad ujawnia nowy plan Rosjan. Chcą uderzyć w czuły punkt Ukrainy",
@@ -322,20 +282,28 @@
       "summary": "11 listopada mróz skuje całą Polskę. Meteorolodzy IMGW pokazali animację Polskie Radio 24."
     },
     {
+      "title": "Rozmowy pokojowe w sprawie Ukrainy. Wysłannik Trumpa podsumował pierwszy dzień",
+      "url": "https://businessinsider.com.pl/wiadomosci/negocjacje-w-sprawie-ukrainy-jared-kushner-pojawily-sie-dobre-pomysly/ey080v0",
+      "date": "2026-11-10T15:05:01Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Pierwszy dzień negocjacji w Abu Zabi dobiegł końca po czterech godzinach intensywnych dyskusji. Przedstawiciele USA, Jared Kushner i Steve Witkoff, stwierdzili, że pojawiły się \"dobre pomysły na to, jak zniwelować\" różnice między oczekiwaniami Moskwy a Kijowa wobec porozumienia pokojowego."
+    },
+    {
+      "title": "Giganci naciskają na Donalda Trumpa. Grożą porażką w wyścigu z Chinami",
+      "url": "https://businessinsider.com.pl/technologie/nowe-technologie/zakaz-importu-z-chin-uderza-w-gigantow-ai-naciskaja-na-donalda-trumpa/ybkcv5t",
+      "date": "2026-11-10T15:03:05Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Giganci technologiczni mają coraz mocniej naciskać na Donalda Trumpa i jego administrację, by wstrzymał plany zakazu importu kluczowego komponentu używanego w centrach danych AI — podaje Reuters. Firmy grożą utratą przewagi USA nad Chinami."
+    },
+    {
       "title": "Grozili zamachami na Marszu Niepodległości. Policja zatrzymała osiem osób",
       "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33126086,grozili-zamachami-na-marszu-niepodleglosci-policja-zatrzymala.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-11-10T14:47:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Policjanci zatrzymali osoby, które publikowały w internecie \"informacje mające budować atmosferę zagrożenia i obniżać poczucie bezpieczeństwa zarówno wśród osób planujących udział w wydarzeniach, jak i mieszkańców stolicy\"."
-    },
-    {
-      "title": "Sekcje zwłok zamachowca i ofiar strzelaniny w Krakowie. Amunicja pod lupą śledczych",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33126027,nowe-ustalenia-po-ataku-w-krakowie-zurek-sledczy-badaja-amunicje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-11-10T14:28:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Minister sprawiedliwości zwrócił uwagę, że ofiary odniosły \"znaczne\" obrażenia wewnętrzne. Śledczy mają przebadać amunicję, której używał 24-letni zamachowiec."
     },
     {
       "title": "W Krakowie obchody 11 Listopada będą ograniczone. Powodem żałoba w mieście - Polska Agencja Prasowa SA",
@@ -378,6 +346,22 @@
       "summary": "51-latek zginął w zamachu w Krakowie. \"Zabrakło kilku sekund i mógł się uratować\" Polskie Radio 24."
     },
     {
+      "title": "Kongres Bankowości Korporacyjnej i Inwestycyjnej: przedsiębiorcy oczekują wsparcia banków także w bardziej ryzykownych projektach (MediaRoom) | Biznes PAP - PAP Biznes",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVkRESjBfWWJxX2pyT1FSOHN4TXlhY3Etb0JkRUk3ckxvbHdqNmM0N1FrQm1ybDUwczdqbU5VRjQzR0E5VGlnVFVLQk9mV3BRU2gwTUgzdlNfa1JydVdSZVJJREw2Q3hISXYyUHJBU1U5aDRPMUVIM2pwUEpBOXA5dEg4dTUwc1FwcmEyTGtpZERRZ0FEbklwSlE3V0Z5YUpNMFR1MzhNVWM1aTQ2NFFZYWZPcw?oc=5",
+      "date": "2026-11-10T11:00:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Kongres Bankowości Korporacyjnej i Inwestycyjnej: przedsiębiorcy oczekują wsparcia banków także w bardziej ryzykownych projektach (MediaRoom) | Biznes PAP PAP Biznes."
+    },
+    {
+      "title": "Latarnia z parasolem w mieście Krzysztofa Klenczona [WIDEO] - Polska Agencja Prasowa SA",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRGtWNE0zeDZrQkd3NHcyUWNNc3dKZnRBLW1ONWtyaklVZmw3M3puMkQzUFZPd0RpQTFOcnpSTXJqTlIzNUZWbEF2SDBpdjRkT2FTbjBRaUo2SnhZVW1EOUlyeV9JUHF3WUh6RWFTY0RZUWgyMmRyMThSTnJzY3lHNDJ5eERRWG9RNkItb1AyRWxmdw?oc=5",
+      "date": "2026-11-10T10:36:55Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Latarnia z parasolem w mieście Krzysztofa Klenczona [WIDEO] Polska Agencja Prasowa SA."
+    },
+    {
       "title": "Ewakuacja samolotów USA z Wielkiej Brytanii. Media: maszyny przeniesione do Niemiec - Polskie Radio 24",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1lxbUpJMlFQbDBTQlFZbHZqREpwYTBVblQ0X2NfS0RWRTIxQnVfR0NIX09ySjRuaVppZDFVNzEtTE9PYUYwQXpJeDlJdDZKeXVJQTFyb2NoaXVseWV4VXppSVZ2alZaejhDTFVWZFpqU0xadnJMYWVGQmZRYTJKWjRQX1lsLTZxcFhZLXI0NERBZWI0aU1kYVhSQ0E3OHRuSFpRcl9fV2JveEdT?oc=5",
       "date": "2026-11-10T08:45:52Z",
@@ -400,6 +384,22 @@
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "\"Sound of Silence\" rozbrzmiało w Krakowie. Wzruszające zakończenie Marszu Ciszy Polskie Radio 24."
+    },
+    {
+      "title": "Po zamachu w Krakowie, pisał o \"akcji w Warszawie\". Jest ruch prokuratury - Polskie Radio 24",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGZLSDFuam1WdEIzOGNKTVRQeklSTHZlTVd3UnE0T2daSWZlMlpYZVhnNUNFMll3R1NpR29ZU1VPanc0UW0takcyNk1zUmRqUE5tMzJMaVoyTnc4Y1ZOYlZPeXp6U0VUbEl5bGFMVzJ5M2pyR2haRWFFdHdJWGh1MmtqcmFnbnlCVG53dmZCTmVhWVdyWkxlcmVqWW5TazZfMjlMZw?oc=5",
+      "date": "2026-11-09T20:27:28Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Po zamachu w Krakowie, pisał o \"akcji w Warszawie\". Jest ruch prokuratury Polskie Radio 24."
+    },
+    {
+      "title": "Marsz Ciszy w Krakowie. Tusk i Nawrocki razem w tłumie - Polskie Radio 24",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVNWWDVNZlVjeVk4NGVqMFZiSTlsYTYwRzA5U3pkNDg1WUZuVXhhNURJYVItOEpsWlA4ck40bjhmbnRSLWhxRG9LZGNqU04yLVIxWXA1cXpLVzFVQ2tyRVRETzJtZVNtbUcwUVlibWxHM25sSG8tOGwwNmVER21TNy1UMGZseWttUmlHcDdn?oc=5",
+      "date": "2026-11-09T19:13:43Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "Marsz Ciszy w Krakowie. Tusk i Nawrocki razem w tłumie Polskie Radio 24."
     }
   ],
   "world_security": [
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "CoreWeave reports Q3 revenue up 168% YoY to $3.66B, vs. $3.55B est., a net loss of $709M, and a $132.5B revenue backlog, up from $104B as of June (Jordan Novet/CNBC)",
+      "url": "https://www.techmeme.com/261110/p53#a261110p53",
+      "date": "2026-11-10T21:40:01Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Jordan Novet / CNBC: CoreWeave reports Q3 revenue up 168% YoY to $3.66B, vs. $3.55B est., a net loss of $709M, and a $132.5B revenue backlog, up from $104B as of June &mdash; CoreWeave reported better-than-expected quarterly revenue and lifted its 2026 guidance on Tuesday, showing that demand for artificial intelligence &hellip;."
+    },
+    {
       "title": "Sources: the US Commerce Dept. delayed new Entity List additions for two months, leaving off Megaspeed despite four other US agencies pushing for its inclusion (Financial Times)",
       "url": "https://www.techmeme.com/261110/p52#a261110p52",
       "date": "2026-11-10T21:35:07Z",
@@ -1094,14 +1102,6 @@
       "source": "Hacker News",
       "confirmed_by": 1,
       "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 43 # Comments: 16."
-    },
-    {
-      "title": "Sources: despite Trump's denial, he was told at least twice in seven months about Huang's affair with an alleged spy, including by Rubio en route to China (New York Times)",
-      "url": "https://www.techmeme.com/261110/p45#a261110p45",
-      "date": "2026-11-10T19:50:00Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "New York Times: Sources: despite Trump's denial, he was told at least twice in seven months about Huang's affair with an alleged spy, including by Rubio en route to China &mdash; Before Jensen Huang boarded Air Force One en route to Beijing, the president was reminded of intelligence showing that he was in a relationship &hellip;."
     },
     {
       "title": "Google Fi adds support for a second 5G network, won't say which one",
@@ -1924,14 +1924,6 @@
       "summary": "Pieniędzy jest mnóstwo. Dlaczego więc polska branża technologiczna wciąż ma problem? Forbes."
     },
     {
-      "title": "Kto nie złoży oświadczenia, będzie płacił abonament RTV. Ważne zasady w 2026 roku - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPUU1OU01ubU4teTBhWlB3T1JKQVMxWm9LMDZIdThrNnk0ZXVqWFRkMzlGTzdTMzZiSzZvbWF0d3pETy1tSkFMaUVDR0JuQXJSOVdCWkQxeUxiaUVVVlBad2FnMjZTNkxIbnZCWGdCUU9KRzNVTlhFNEhzdUt4YjJoZWsxd3NndWNORFByUS1qd0dxc2hzTXROY1cyT2VZcUJjR1MtSU1ONURhZ0hwUm9tT0h1bVUyTjBPb3A3NF85X2ZUVkNCRkJrMjIweXdraVN6M3pYLVl3M0U5a0hqN2ltSmpoMkVaU2lfaWphdFJsRWdOdmlFUWE1OVQyX24tNGVCS2xQWmtvdjU5Rzc0c3c3ckkxNXRQQnhSYjdzd1BaNXlZdng0ZXZFU3VSSlhCODZVNGFhdmxXNW1Lb3JCWHR4Z0VlMXptYWtZeEtwcEs5VVFqS1B2Nmx3OWxsZlR0UE0?oc=5",
-      "date": "2026-11-10T16:15:00Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Kto nie złoży oświadczenia, będzie płacił abonament RTV. Ważne zasady w 2026 roku Forsal.pl."
-    },
-    {
       "title": "Jest dużo tańszy od pelletu i daje dużo więcej ciepła. Ten opał stał się prawdziwym przebojem w polskich domach? - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYl9OeXpvODAyZGRaX0U2Si11azljcXo0VzM0TzFlUHhtVFhucTdoRlhHVVkycEpsR2wzaGJ5OWs4OVZGWGs5d2RFOTRnLUQzV3BxRE5ickxadURaakNzSmhVZ05lTnFwSWdrVzBRRU1tdDdyS2dmUFBia0N0X3liVXlVcmVqeUVvT1h4UVFERHlvYlpmTmwxeXVsaVZaT3dINnpPcHM5aUVkdk42QW1uQTBXME0zSHJPanFBWDBpUlBsb0FyVmQ4VlBBRVhzUjZqN3lJcWhjV2plMlZKbHhJOHgxMEJWb1hBaExYQ3BGdFJHOHA5OHkyY0Vmdw?oc=5",
       "date": "2026-11-10T16:15:00Z",
@@ -1954,14 +1946,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Webinar: Krzysztof Bajołek, prezes zarządu i Jacek Dziaduś, wiceprezesa zarządu ds. finansowych Answear.com - start 18 listopada 12:00 StockWatch.pl."
-    },
-    {
-      "title": "Akcjonariat: akcjonariusze CEN (CENTORO) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYbXJ5Q3NsMWtiaU1Qbm94OVB0RTlJUFZ3NmN6bjFybVp3b1N2NkpUNEc3Nl9teE4zV0tmMTJyNFlLREN6cEdSN3pqNTVvengwSkFUbA?oc=5",
-      "date": "2026-11-10T14:19:02Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Akcjonariat: akcjonariusze CEN (CENTORO) BiznesRadar."
     },
     {
       "title": "Państwo to nie polisa. \"Ubezpieczeniowca coś bardzo boli\" [OPINIA]",
@@ -1994,6 +1978,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Ukraińskie ataki dronowe na rosyjskie rafinerie, nasilone od końca października, zmniejszyły moce przerobowe rosyjskiego sektora rafineryjnego o około 30 proc. – poinformowała we wtorek agencja Reutera, powołując się na własne źródła."
+    },
+    {
+      "title": "Ceny maksymalne paliw 11-12.11.2026. Kiedy najlepiej zatankować? - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSjJFeVoyT29FOVNCaHZzTkV3Z0FMTE85MFh0Vzh3dm5aVEFxblBGSF9qd3RaMTN5QVJ3aW1MYjFJZmdJT1VhcUppbTBkekpSVFNTS1JfSG9zdTZJN216OGE2aTJ4cF9jMEtIYmNtLWlsblhOWDVFT3dfeE9VYTdaNDFWeV85ZnctQ3laUEV0Mks3S1VET3lsaEwxUVJlUDA4ejBIeTg1VF9KMnlEMGxzYmZR?oc=5",
+      "date": "2026-11-10T13:11:25Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Ceny maksymalne paliw 11-12.11.2026. Kiedy najlepiej zatankować? Forsal.pl."
     },
     {
       "title": "Sejm szykuje decyzję ws. Glapińskiego. NBP stanowczo odpowiada",
@@ -2164,6 +2156,22 @@
       "summary": "Rząd chce zwiększyć udział leków produkowanych w Polsce i zmniejszyć zależność od zagranicznych dostaw. 27 października Rada Ministrów przyjęła projekt nowelizacji ustawy refundacyjnej obejmujący blisko 200 zmian. Jednym z jego celów jest wzmocnienie bezpieczeństwa lekowego, bo obecnie w kraju powstaje tylko 24 proc."
     },
     {
+      "title": "Rating CEN (CENTORO) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yMmVhNk1TamFUOTd2cWZpUzctbVAxWTlkc3VhRkx2c0w5TVBPa0JjTmYyVFhxVjg2WkRzU0RQOWg0LUs0ZjQyenV6QWxYUQ?oc=5",
+      "date": "2026-11-09T14:30:31Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Rating CEN (CENTORO) BiznesRadar."
+    },
+    {
+      "title": "Wiadomości INTLNFL02932 INGBANK - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UeXUzbV9GLU9sWmgxdDJYYU9nZGZ2LUVxYUNOUExZbl8xZUNuSkxyME1ON1B0Q3U4TmwyZnI2YVA4THJVbXA2eGpKY0E5RTI3dG5ldWgtaTJMWGtTRzZR?oc=5",
+      "date": "2026-11-09T13:18:33Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości INTLNFL02932 INGBANK BiznesRadar."
+    },
+    {
       "title": "Creotech Quantum coraz bliżej debiutu na GPW - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQellvT01jeF83MENyMXNGdHFXSF93M0hZMHJGQkx2d1BHaTRzMVZ4RDdzYWltQnNYSGpOWGRlc2FzOXhwTjBEMzlaOGMwLVhnb3k3aTE0Y2JteU1wY1UtVDZCdUxaR2RkNk16cE83RTFyTWRnM21fR2hVWDRLYUJJcUw4dEk1Qk0?oc=5",
       "date": "2026-11-09T11:45:11Z",
@@ -2186,14 +2194,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Transakcje INTSGLD02973 INGBANK BiznesRadar."
-    },
-    {
-      "title": "Wiadomości INTSSPX02577 INGBANK - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYk1MWTlROWtKSjVwbnROVUg1UVJtaVBMMmVWdzEtQ0FEZFRMNmhxaDc0Q244VHl0TThyVURKcHZ1MWdmNWx3M0s3NVVyZmI0YmkxYklMaFNka2swcjYw?oc=5",
-      "date": "2026-11-09T06:55:51Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości INTSSPX02577 INGBANK BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2206,14 +2206,6 @@
       "summary": "Kolejna z 16 osób ranionych podczas zamachu terrorystycznego w Krakowie wróciła do domu. W szpitalach wciąż przebywa kilkunastu rannych, a także dwóch bohaterskich policjantów, którzy zatrzymali."
     },
     {
-      "title": "Gibała zażenowany krytyką policji w kontekście zamachu. \"Bardzo przykro\"",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/gibala-zazenowany-krytyka-policji-w-kontekscie-zamachu-bardzo-przykro/",
-      "date": "2026-11-10T21:11:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "- Było mi przykro bardzo i byłem też mocno zażenowany, słysząc te słowa krytyki (wobec policji red.) - powiedział Łukasz Gibała we wtorkowej Debacie Gozdyry, komentując akcję służb wobec zamachowca. Prezydent Krakowa słyszał różne nieprawdziwe historie o tym, że policja zadziałała późno. Jak nadmienił, Marsz Milczenia pokazał, że Krakowianie nie dali się zastraszyć."
-    },
-    {
       "title": "Zamachowiec uderzył w auto strażaka. Tomasz uratował żonę, ale sam odniósł obrażenia",
       "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33126582,zamachowiec-uderzyl-w-auto-strazaka-tomasz-uratowal-zone-ale.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-11-10T19:35:00Z",
@@ -2222,20 +2214,28 @@
       "summary": "Młody strażak jechał z żoną do remizy na zbiórkę z dziećmi, gdy na skrzyżowaniu ulic Dietla i Stradomskiej uderzył w ich auto 24-letni zamachowiec. Chwilę później policja zatrzymała napastnika, a pan Tomasz został zabrany do szpitala, gdzie przeszedł siedmiogodzinną operację."
     },
     {
-      "title": "\"Należą mu się podziękowania\". Rzecznik rządu broni Kierwińskiego",
-      "url": "https://www.polsatnews.pl/gosc-wydarzen/2026-11-10/naleza-mu-sie-podziekowania-rzecznik-rzadu-broni-kierwinskiego/",
-      "date": "2026-11-10T19:00:00Z",
-      "source": "Polsat News",
+      "title": "Grozili zamachami na Marszu Niepodległości. Policja zatrzymała osiem osób",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33126086,grozili-zamachami-na-marszu-niepodleglosci-policja-zatrzymala.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-11-10T14:47:00Z",
+      "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
-      "summary": "- Miał już pierwsze pewne poszlaki, postawił hipotezę - powiedział w Gościu Wydarzeń Adam Szłapka, komentując wypowiedź ministra Marcina Kierwińskiego o rzekomych prawicowych poglądach zamachowca z Krakowa. Rzecznik rządu podkreślił również, że szefowi MSWiA należą się podziękowania, bo szybko zareagował."
+      "summary": "Policjanci zatrzymali osoby, które publikowały w internecie \"informacje mające budować atmosferę zagrożenia i obniżać poczucie bezpieczeństwa zarówno wśród osób planujących udział w wydarzeniach, jak i mieszkańców stolicy\"."
     },
     {
-      "title": "\"Niepokojące treści\" po zamachu w Krakowie. Kolejne zatrzymania",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/niepokojace-tresci-po-zamachu-w-krakowie-kolejne-zatrzymania/",
-      "date": "2026-11-10T18:54:00Z",
-      "source": "Polsat News",
+      "title": "Zapowiedź Tuska ws. pomocy dla poszkodowanych w zamachu. \"Ponadstandardowa\" - Polskie Radio 24",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS2NOcDI2ak02bXdqMHluVHhySFk1eGlXQVlKck1MakxFMk9vZnEtd01XWmhISXE4bHZGanNKLVEtbEd4a1BZeE9pbkR6OXhDcklKY2pNVU8zTmtEdS1HRHAybWIyaWhuV2VFTVdjaE1KZXZ5YzFSM0tkcGtMaXRYVnc0cXFQS3ZKLVNmRFR2WWhMaW5yZk0wOVdicnNzWEh4WjI3YnRNWQ?oc=5",
+      "date": "2026-11-10T11:39:21Z",
+      "source": "Polskie Radio 24",
       "confirmed_by": 1,
-      "summary": "Dziewięć osób zostało zatrzymanych przez policję w związku z publikowaniem w sieci niepokojących treści po tragedii w Krakowie - poinformowała we wtorek rzeczniczka MSWiA Karolina Gałecka. To kolejne tego typu działania. Dzień wcześniej mundurowi informowali o sześciu zatrzymaniach, natomiast prokuratura - o zarzutach dla internauty z Warszawy."
+      "summary": "Zapowiedź Tuska ws. pomocy dla poszkodowanych w zamachu. \"Ponadstandardowa\" Polskie Radio 24."
+    },
+    {
+      "title": "ABW odczytała napis na szafce zamachowca z Krakowa. Wskazuje na sprawcę masakry w USA - Polskie Radio 24",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTGMtNE5WdklXbnFZRG5Zd3NDTFZFdk11dGRFMlQteXIxUFNWS2cxb1NwU20tTmhpVVRpdzVrRUpUc284REF4dk8zQmt4QnlLaW1rNl9CRWU0VUQxM3N6bWdhX3U1ZDh6OGpORkhJQ3NzbGdrTjhSX2IxSC00Q3ZpRWhOOG5wVTZTd1NsdmJCaHhxMS1vWDFBSGFNeTZPVndUUE9qVF9ZSm1YMkc1?oc=5",
+      "date": "2026-11-10T11:07:18Z",
+      "source": "Polskie Radio 24",
+      "confirmed_by": 1,
+      "summary": "ABW odczytała napis na szafce zamachowca z Krakowa. Wskazuje na sprawcę masakry w USA Polskie Radio 24."
     }
   ],
   "map_features": [
@@ -2244,8 +2244,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Pod względem kwoty wsparcia udzielonego Ukrainie od początku wojny, w przeliczeniu na jednego mieszkańca, Polska plasuje się w dolnej części wykresu — według raportu Instytutu Gospodarki Światowej w Kilonii.",
-      "url": "https://businessinsider.com.pl/gospodarka/pomoc-dla-ukrainy-tyle-kosztuje-to-kazdego-obywatela-polski-od-poczatku-wojny/v0vh1s9"
+      "description": "Od rosyjskiej agresji na Ukrainę Chiny stały się dla Kremla głównym rynkiem eksportu złota.",
+      "url": "https://www.rp.pl/finanse/art45470911-rosyjskie-zloto-wlewa-sie-do-chin-jedna-trzecia-eksportu-to-rezerwy-banku-rosji"
     },
     {
       "lat": 32.43,
@@ -2621,26 +2621,26 @@
       26805.91,
       26964.04,
       27260.71,
-      29163.56,
+      29165.78,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29419.32,
+      29421.56,
       27354.94,
       27400.36,
       27412.11,
-      29838.91,
+      29841.18,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29066.09,
+      29068.31,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29253.94,
+      29256.17,
       27686.17,
       27404.78,
       27351.97,
@@ -2649,7 +2649,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28949.1,
+      28951.31,
       27930.04,
       28234.04,
       28218.36,
@@ -2658,81 +2658,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29820.52,
+      29822.8,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29357.2,
+      29359.43,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29177.26,
+      29179.48,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29483.28,
+      29485.53,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30537.95,
+      30540.28,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30648.64,
+      30650.98,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30210.16,
+      30212.46,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30357.34,
+      30359.66,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30384.27,
+      30386.58,
       28449.73,
       28313.03,
       28272.33,
-      30141.7,
+      30144.0,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30116.19,
+      30118.49,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30481.93,
+      30484.26,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30400.49,
+      30402.8,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30750.13,
+      30752.47,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30151.39,
+      30153.68,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30010.62,
+      30012.9,
       30100.92,
       30418.01,
       30609.55,
@@ -2744,7 +2744,7 @@
       28691.31,
       28904.09,
       29742.99,
-      29606.14
+      29608.4
     ],
     "currency": "PLN"
   }
