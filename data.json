@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T19:32:19Z",
+  "last_updated": "2026-11-10T19:33:05Z",
   "poland": [
     {
       "title": "Rząd na atom wyda mniej, żeby później wydać więcej",
@@ -766,14 +766,6 @@
   ],
   "world_politics": [
     {
-      "title": "In Argentina, Pope Leo Walks in the Giant Shadow of Francis",
-      "url": "https://www.nytimes.com/2026/11/10/world/americas/pope-leo-argentina-visit-francis.html",
-      "date": "2026-11-10T19:28:42Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Francis never returned to his home country after becoming pope, but the new pontiff will still be confronted with the overwhelming presence of his predecessor."
-    },
-    {
       "title": "Israeli Opposition Pushes for Oct. 7 Inquiry at First Session of New Parliament",
       "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
       "date": "2026-11-10T19:25:23Z",
@@ -924,6 +916,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "A U.S. Army unit in Germany is not sure what’s next as the Pentagon considers a major drawdown of forces in Europe."
+    },
+    {
+      "title": "Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia",
+      "url": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
+      "date": "2026-11-10T12:57:00Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The kingdom’s promised reforms don’t always match the realities of its justice system. Unmarried women, particularly foreign workers, face unique perils."
     },
     {
       "title": "FBI is looking at Nvidia CEO Jensen Huang's affair with an alleged Chinese agent, Trump says - AP News",
@@ -1410,6 +1410,22 @@
   ],
   "cybersecurity": [
     {
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "date": "2026-11-10T19:23:10Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1. The flaw, tracked as CVE-2026-111760, is an integer truncation in how Git handles its index."
+    },
+    {
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "date": "2026-11-10T19:19:39Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this week. That mode processes requests inside a trusted execution environment (TEE."
+    },
+    {
       "title": "14-year-old creates tool for AI agents to band together like a team",
       "url": "https://www.theregister.com/ai-and-ml/2026/11/10/14-year-old-creates-tool-for-ai-agents-to-band-together-like-a-team/5308841",
       "date": "2026-11-10T18:31:53Z",
@@ -1424,6 +1440,22 @@
       "source": "The Register",
       "confirmed_by": 1,
       "summary": "Some waitlist members get a first look at Thundermail, a paid alternative to Gmail."
+    },
+    {
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+      "date": "2026-11-10T18:12:21Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062. \"REST cookie parsing turns authenticationToken=j:%7B%7D into {},\" Vates VMS said in an alert."
+    },
+    {
+      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+      "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+      "date": "2026-11-10T17:43:23Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the past year. Check Point Research is tracking the clusters under the names SilentDelivery,."
     },
     {
       "title": "AMD winds up Zen 6 cores for faster clock speeds",
@@ -1487,7 +1519,7 @@
       "date": "2026-11-10T16:00:55Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
-      "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authentication and execute arbitrary commands on affected systems. Patches for the two."
+      "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authentication and execute arbitrary commands on affected systems. Patches for the two."
     },
     {
       "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
@@ -1498,7 +1530,7 @@
       "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat. \"The campaign uses Portuguese and Spanish lures that resemble court notifications, fiscalía notices, tutela proceedings, and."
     },
     {
-      "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
       "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
       "date": "2026-11-10T15:33:59Z",
       "source": "The Hacker News",
@@ -1706,44 +1738,12 @@
       "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component. Use-after-free bugs typically occur when a program attempts to access a memory location after."
     },
     {
-      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
-      "url": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
-      "date": "2026-11-10T06:44:36Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell. \"As a precautionary measure, we are temporarily taking our Hosted N-central environment offline while we take the necessary actions to secure the."
-    },
-    {
-      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-      "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-      "date": "2026-11-10T06:31:42Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-123218 (CVSS score: 9.8) - An incorrect authorization vulnerability."
-    },
-    {
       "title": "Chińskie okulary w Sejmie. Nikt nie kontroluje sprzętu posłów",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/chinskie-okulary-w-sejmie-nikt-nie-kontroluje-sprzetu-poslow",
       "date": "2026-11-10T06:21:20Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Korzystanie z chińskich inteligentnych okularów przez posła Sachajkę w Sejmie wywołało falę pytań dotyczących bezpieczeństwa wywiadowczego. Dane gromadzone podczas używania sprzętu mogą trafiać do Państwa Środka. Okazuje się, że Straż Marszałkowska nie ma obowiązku kontroli urządzeń wnoszonych przez polityków do parlamentu."
-    },
-    {
-      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-      "date": "2026-11-09T17:51:21Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attacker got those credentials has not been disclosed."
-    },
-    {
-      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-      "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-      "date": "2026-11-09T17:36:28Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it. The code is also built to install a backdoor."
     },
     {
       "title": "Ilu rosyjskich żołnierzy zginęło na Ukrainie? Hakerzy ujawnili tajne dane",
@@ -2438,6 +2438,14 @@
       "region": "Rosja",
       "description": "Za każdym razem, gdy w Rosji dochodziło do zamachu, obywatelom dodawano kolejne zakazy i nakazy, zaostrzając restrykcje.",
       "url": "https://www.rp.pl/przestepczosc/art45466701-zamachy-regularnie-wstrzasaja-rosja-nie-pomagaja-ani-kontrole-bezpieczenstwa-ani-cenzura"
+    },
+    {
+      "lat": 35.5,
+      "lng": 104.3,
+      "type": "cyber",
+      "region": "Chiny",
+      "description": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the past year.",
+      "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html"
     }
   ],
   "instability": [
@@ -2736,7 +2744,7 @@
       28691.31,
       28904.09,
       29742.99,
-      29554.49
+      29561.97
     ],
     "currency": "PLN"
   }
