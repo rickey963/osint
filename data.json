@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T12:51:42Z",
+  "last_updated": "2026-11-10T12:52:30Z",
   "poland": [
     {
       "title": "Dostawa armatohaubic K9 do Polski. Dotychczas takiej nie było",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Anthropic to raise $64bn in major stock market listing",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10T12:47:18Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78."
+    },
+    {
       "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
       "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
       "date": "2026-11-10T12:28:11Z",
@@ -580,6 +588,14 @@
       "summary": "Police say they have detained a 47-year-old suspect and no one was injured in the incident."
     },
     {
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10T09:23:55Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses."
+    },
+    {
       "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
       "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T09:07:00Z",
@@ -722,22 +738,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money."
-    },
-    {
-      "title": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
-      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T00:14:03Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home."
-    },
-    {
-      "title": "The superpower battle over energy – and what it means for your bills",
-      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T00:08:28Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?"
     },
     {
       "title": "Witnesses recount struggle to save people buried in ‘horrifying’ Gaza landslide",
@@ -1053,7 +1053,7 @@
       "date": "2026-11-10T12:11:12Z",
       "source": "Hacker News",
       "confirmed_by": 2,
-      "summary": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 35 # Comments: 13."
+      "summary": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 75 # Comments: 26."
     },
     {
       "title": "Amazon postawił na Polskę. Chipy do satelitów będą projektowane w Krakowie",
@@ -1102,6 +1102,14 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Wojna wszystkich ze wszystkimi. Politycy i algorytmy ulepili z nas wściekłe plemiona."
+    },
+    {
+      "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+      "url": "https://github.com/HolyArrs/HolyArrs",
+      "date": "2026-11-10T11:51:19Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://github.com/HolyArrs/HolyArrs Comments URL: https://news.ycombinator.com/item?id=50439000 Points: 9 # Comments: 2."
     },
     {
       "title": "Wybierasz się do Warszawy na 11 listopada? Uważaj na taksówki i sprawdź ograniczenia w ruchu",
@@ -1189,7 +1197,7 @@
       "date": "2026-11-10T10:47:18Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/ Comments URL: https://news.ycombinator.com/item?id=50438480 Points: 32 # Comments: 17."
+      "summary": "Article URL: https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/ Comments URL: https://news.ycombinator.com/item?id=50438480 Points: 35 # Comments: 22."
     },
     {
       "title": "'C:\\> FORMAT C:' – relax, it's just a screen saver",
@@ -1197,7 +1205,7 @@
       "date": "2026-11-10T10:32:36Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://fakedos.com/ Comments URL: https://news.ycombinator.com/item?id=50438377 Points: 13 # Comments: 4."
+      "summary": "Article URL: https://fakedos.com/ Comments URL: https://news.ycombinator.com/item?id=50438377 Points: 15 # Comments: 4."
     },
     {
       "title": "Zwykłe wysyłanie zdjęć wreszcie przestanie irytować. Wiadomości Google szykują zmianę",
@@ -1222,14 +1230,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Potężne wzmocnienie polskiej armii. Nowa broń dotarła do Polski i trafi w kluczowe miejsce."
-    },
-    {
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "date": "2026-11-10T10:25:58Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 89 # Comments: 98."
     },
     {
       "title": "Koniec kupowania kota w worku. Steam pokaże, jak naprawdę działają gry",
@@ -1285,7 +1285,7 @@
       "date": "2026-11-10T09:04:39Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://connect.queenslibrary.org/ Comments URL: https://news.ycombinator.com/item?id=50437790 Points: 64 # Comments: 51."
+      "summary": "Article URL: https://connect.queenslibrary.org/ Comments URL: https://news.ycombinator.com/item?id=50437790 Points: 66 # Comments: 52."
     },
     {
       "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
@@ -1293,7 +1293,7 @@
       "date": "2026-11-10T08:59:41Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/ Comments URL: https://news.ycombinator.com/item?id=50437752 Points: 46 # Comments: 37."
+      "summary": "Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/ Comments URL: https://news.ycombinator.com/item?id=50437752 Points: 51 # Comments: 48."
     },
     {
       "title": "Zmiany w aparatach Samsunga. Wyciekły plany dla całej serii Galaxy S27",
@@ -1317,7 +1317,7 @@
       "date": "2026-11-10T07:19:38Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 76 # Comments: 21."
+      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 79 # Comments: 22."
     },
     {
       "title": "Instagram sam rozpozna nastolatka. Nawet gdy poda, że jest dorosły",
@@ -1796,6 +1796,14 @@
   ],
   "finance": [
     {
+      "title": "Polacy odbierają karty mobilizacyjne. Czerwony pasek na piśmie to rozkaz. Wojsko każe stawić się w ciągu 6 godzin - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZnVNWHV4Z2trbnJYa1hSTEQ4TWlYWjFreTUwRG9PU21WWEkxWVptYVN1blRwRkVvZVZOVno3Qy1mVlJnQTdjZVNyZUFfX0Q2eUpQUXNQQW1vT1ZyRDF5U1RoV29ELS1WTjViY3c4amtTNDh6SWR0QlFJdVllY2RuVm9WQ0d2RHk4UHF4d1huellRNlItcTNvQzdDRW8xWGhLNFVKN0VzTXltQjJIVl94MllZTHI4M01vbFVEVngyOEd6OFhjcUdUQXNGNDl5NDRtOXl1YU9tZ0ZkMG10MWJVVjVKM3laRWEzWnVIbVQ1aFF4eExOOEZTUnhQX21UNzByUFdqaXFNaHl2N0U?oc=5",
+      "date": "2026-11-10T12:51:23Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Polacy odbierają karty mobilizacyjne. Czerwony pasek na piśmie to rozkaz. Wojsko każe stawić się w ciągu 6 godzin Forsal.pl."
+    },
+    {
       "title": "Sejm szykuje decyzję ws. Glapińskiego. NBP stanowczo odpowiada",
       "url": "https://www.money.pl/gospodarka/sejm-szykuje-decyzje-ws-glapinskiego-nbp-stanowczo-odpowiada-7349507762375136a.html",
       "date": "2026-11-10T12:38:27Z",
@@ -1898,14 +1906,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Były prezes PKOl Radosław Piesiewicz usłyszał zarzut wyrządzenia Polskiej Lidze Koszykówki szkody na ponad 1 mln zł przez opłacanie ze środków spółki prywatnych hoteli, restauracji i zagranicznych lotów."
-    },
-    {
-      "title": "Zełenski może stracić władzę? Sondaż pokazuje przewagę Załużnego",
-      "url": "https://www.bankier.pl/wiadomosc/Zelenski-moze-stracic-wladze-Sondaz-pokazuje-przewage-Zaluznego-9226756.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-10T11:44:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "36,4 proc. Ukraińców zagłosowałoby w hipotetycznej drugiej turze wyborów prezydenckich na byłego naczelnego dowódcę Sił Zbrojnych Ukrainy Wałerija Załużnego, a 25,3 proc. – na obecnego prezydenta Wołodymyra Zełenskiego – wynika z sondażu ośrodka Active Group."
     },
     {
       "title": "Ktoś zajął prywatne miejsce parkingowe, ale grzywnę zapłaci właściciel miejsca. Absurd, który słono kosztuje - Forsal.pl",
@@ -2092,14 +2092,6 @@
       "summary": "Polska przestała być tylko rynkiem. Dla Grupy VELUX staje się miejscem kompetencji Forbes."
     },
     {
-      "title": "Wiadomości RBIFL2PZU2 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KM2hGX2FWU05fbmlvaVNpdXhNbFZLamphckZMT053OTVkM29qTnFhNmJDcE5jU0lVcjhWbEc4V3N3UGh1T2s1M1hpRHNDVENDSnI3ZWUxM0xVMlot?oc=5",
-      "date": "2026-11-09T21:48:45Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości RBIFL2PZU2 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
-    },
-    {
       "title": "Rynek się uspokaja, ale Polacy nie. Kredyt hipoteczny nadal budzi strach",
       "url": "https://300gospodarka.pl/news/rynek-sie-uspokaja-ale-polacy-nie-kredyt-hipoteczny-nadal-budzi-strach",
       "date": "2026-11-09T19:52:28Z",
@@ -2116,20 +2108,20 @@
       "summary": "Pompy ciepła wykorzystujące propan, oznaczany jako R290, zyskują na znaczeniu wraz z zaostrzaniem unijnych przepisów dotyczących budynków i fluorowanych gazów cieplarnianych. Od 2027 r. zaczną obowiązywać kolejne ograniczenia dla części urządzeń wykorzystujących czynniki o wysokim wpływie na klimat, a od 2030 r."
     },
     {
+      "title": "Wiadomości RBIFL5KGH2 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOeVU5SDBQS1V4Qy10eGRkVGxLek4xcG10azhoUDdCd1VhdUN2bUtyanJTVHFxVFBRcEFJX1BHSUNPTHlQcThRWlpDSGhNcDExZ2FLaUEyTXBXUDlK?oc=5",
+      "date": "2026-11-09T17:51:21Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości RBIFL5KGH2 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+    },
+    {
       "title": "Akcjonariat: akcjonariusze EUROPEAN DEFENCE GROUP (EGO) - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yYnRHZjRxcjM4Z2VmQ2xMaURmRzFpam16MEgxSUZRLVFJLTdWTHJrZnBFb2tfMk9nc2l5MVpxcC1SVkJiUUlzM3V3VU5JR1dqZG1zUw?oc=5",
       "date": "2026-11-09T15:59:51Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Akcjonariat: akcjonariusze EUROPEAN DEFENCE GROUP (EGO) BiznesRadar."
-    },
-    {
-      "title": "Wiadomości FEURF27 GPW - ORGANIZATOR OBROTU - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPZHJhVGxxT2JJN1UtQ0F6dzlWckZ6MnY3YVJZanRJM0ZaZlQ2aHFsZ1c1V0RhVWFoNjk1c1h4QnB4RTJUb1J3OFcyTE5lekdBOEp1a19fOU0?oc=5",
-      "date": "2026-11-09T15:59:48Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości FEURF27 GPW - ORGANIZATOR OBROTU BiznesRadar."
     },
     {
       "title": "Fundacja rodzinna, czyli ład na pokolenia - Forbes",
@@ -2194,6 +2186,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Creotech Quantum coraz bliżej debiutu na GPW BiznesRadar."
+    },
+    {
+      "title": "Transakcje WISE ENERGY (WEN) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZV2hXMzNheVRDUmQxbE1RN3lua0pEckF6OVM2MjZlNGt2cWROM3pNdHFDM3JESnlVaUxpSHBTSDNEdmZsUHBKSWE4NzIyNjVaeVRn?oc=5",
+      "date": "2026-11-09T09:26:32Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Transakcje WISE ENERGY (WEN) BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2588,26 +2588,26 @@
       26805.91,
       26964.04,
       27260.71,
-      28979.09,
+      28980.05,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29233.23,
+      29234.2,
       27354.94,
       27400.36,
       27412.11,
-      29650.16,
+      29651.15,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      28882.24,
+      28883.2,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29068.9,
+      29069.87,
       27686.17,
       27404.78,
       27351.97,
@@ -2616,7 +2616,7 @@
       27661.43,
       27749.69,
       27709.26,
-      28765.99,
+      28766.94,
       27930.04,
       28234.04,
       28218.36,
@@ -2625,81 +2625,81 @@
       28294.39,
       28203.83,
       28555.17,
-      29631.9,
+      29632.88,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29171.5,
+      29172.47,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      28992.7,
+      28993.66,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29296.79,
+      29297.76,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30344.79,
+      30345.79,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30454.78,
+      30455.79,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30019.07,
+      30020.06,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30165.32,
+      30166.32,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30192.08,
+      30193.08,
       28449.73,
       28313.03,
       28272.33,
-      29951.04,
+      29952.04,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      29925.7,
+      29926.69,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30289.12,
+      30290.13,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30208.19,
+      30209.2,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      30555.62,
+      30556.64,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      29960.67,
+      29961.66,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      29820.79,
+      29821.78,
       30100.92,
       30418.01,
       30609.55,
