@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T16:53:31Z",
+  "last_updated": "2026-11-11T16:54:18Z",
   "poland": [
     {
       "title": "Szwajcaria nie ma prezydenta i premiera i radzi sobie z propagandą. „Niska polaryzacja”",
@@ -1008,12 +1008,28 @@
   ],
   "technology": [
     {
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "date": "2026-11-11T16:38:44Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 9 # Comments: 0."
+    },
+    {
       "title": "Leaked memo: Meta's head of infrastructure and co-head of engineering Santosh Janardhan plans to leave in early 2027; he will be succeeded by Dave Brown (Riley Griffin/Bloomberg)",
       "url": "https://www.techmeme.com/261111/p35#a261111p35",
       "date": "2026-11-11T16:35:05Z",
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Riley Griffin / Bloomberg: Leaked memo: Meta's head of infrastructure and co-head of engineering Santosh Janardhan plans to leave in early 2027; he will be succeeded by Dave Brown &mdash; Meta Platforms Inc.'s longtime infrastructure chief will leave the company in early 2027, a major leadership change as it continues &hellip;."
+    },
+    {
+      "title": "Why aren't we shipping faster now?",
+      "url": "https://cabird.com/talks/shipping-faster/",
+      "date": "2026-11-11T16:33:28Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://cabird.com/talks/shipping-faster/ Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 17 # Comments: 10."
     },
     {
       "title": "Imprint, which helps companies offer co-branded credit cards and manage loyalty programs, raised $130M led by Khosla Ventures at a ~$1.9B valuation (Alex Konrad/Upstarts Media)",
@@ -1030,6 +1046,30 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Portfel Google pozwala skanować papierowe paragony i zapisywać je wraz ze szczegółami zakupu. To pomocna funkcja, gdy monitorujemy budżet za pomocą tej aplikacji. Artykuł Portfel Google skanuje paragony."
+    },
+    {
+      "title": "The hardest notes to find on the guitar fretboard",
+      "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
+      "date": "2026-11-11T16:05:18Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard Comments URL: https://news.ycombinator.com/item?id=50454995 Points: 6 # Comments: 2."
+    },
+    {
+      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "url": "https://github.com/klad-app/klad",
+      "date": "2026-11-11T16:00:50Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "I've been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI model and roll the dice every time you want to make an edit, or have your agent draw with something like vectors.I was looking for an application that would allow me to ask an agent to make a first draft of whatever art I needed with actual brushes, and then be able to go in myself and edit every last stroke or layer that it created.Klad is that application."
+    },
+    {
+      "title": "The Computer Graphics Book of Knowledge",
+      "url": "https://www.cs.cmu.edu/~ph/nyit/masson/history.htm",
+      "date": "2026-11-11T15:50:02Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.cs.cmu.edu/~ph/nyit/masson/history.htm Comments URL: https://news.ycombinator.com/item?id=50454823 Points: 5 # Comments: 0."
     },
     {
       "title": "Galaxy Watch dostał wielką aktualizację. Samsung nadrobił zaległości",
@@ -1149,7 +1189,7 @@
       "date": "2026-11-11T14:21:27Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://massimo-nocentini.github.io/pharo-vm/world.html Comments URL: https://news.ycombinator.com/item?id=50453763 Points: 69 # Comments: 16."
+      "summary": "Article URL: https://massimo-nocentini.github.io/pharo-vm/world.html Comments URL: https://news.ycombinator.com/item?id=50453763 Points: 76 # Comments: 16."
     },
     {
       "title": "After the US midterms, Palantir CEO Alex Karp pivots toward Democrats, describing his philosophy as \"progressive\" and praising Trump for saying ICE went too far (Politico)",
@@ -1165,7 +1205,7 @@
       "date": "2026-11-11T14:10:46Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://blog.atuin.sh/threads-agent-sessions/ Comments URL: https://news.ycombinator.com/item?id=50453637 Points: 67 # Comments: 29."
+      "summary": "Article URL: https://blog.atuin.sh/threads-agent-sessions/ Comments URL: https://news.ycombinator.com/item?id=50453637 Points: 79 # Comments: 32."
     },
     {
       "title": "Google DeepMind just mathematically verified key parts of Signal",
@@ -1181,7 +1221,7 @@
       "date": "2026-11-11T14:02:11Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down Comments URL: https://news.ycombinator.com/item?id=50453555 Points: 125 # Comments: 69."
+      "summary": "Article URL: https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down Comments URL: https://news.ycombinator.com/item?id=50453555 Points: 140 # Comments: 79."
     },
     {
       "title": "Wielki wyciek z Grok Build. Dane Tesli i tysięcy innych firm leżały na wierzchu",
@@ -1192,14 +1232,6 @@
       "summary": "Ponad 35 tysięcy aplikacji stworzonych w nowym narzędziu od Elona Muska wisiało otwartych w sieci. Bez haseł, bez logowania, dostępne dla każdego. Sprawa jest poważna, bo wśród ujawnionych danych znalazły się nie tylko prywatne zapiski, ale też plany wojskowe, poufne dokumenty medyczne i wewnętrzne dane samych firm Muska."
     },
     {
-      "title": "An analysis of 42 interviews since 2022: after US chip restrictions, Jensen Huang's public rhetoric became more admiring of China and critical of export rules (J.D. Capelouto/Semafor)",
-      "url": "https://www.techmeme.com/261111/p28#a261111p28",
-      "date": "2026-11-11T14:01:03Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "J.D. Capelouto / Semafor: An analysis of 42 interviews since 2022: after US chip restrictions, Jensen Huang's public rhetoric became more admiring of China and critical of export rules &mdash; Jensen Huang's public rhetoric on China became more admiring, and his stance on export controls more critical &hellip;."
-    },
-    {
       "title": "GTA VI może rozczarować nawet na PS5 Pro. Gracze liczyli na więcej",
       "url": "https://antyweb.pl/gta-vi-moze-rozczarowac-nawet-na-ps5-pro-gracze-liczyli-na-wiecej",
       "date": "2026-11-11T14:00:05Z",
@@ -1208,44 +1240,12 @@
       "summary": "Rockstar Games na kilka dni przed premierą ujawniła szczegóły techniczne GTA VI, potwierdzając zarówno ograniczenia wydajności na konsolach, jak i rozwiązania przygotowane specjalnie dla PlayStation 5 Pro."
     },
     {
-      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-      "date": "2026-11-11T13:56:05Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions Comments URL: https://news.ycombinator.com/item?id=50453474 Points: 178 # Comments: 89."
-    },
-    {
       "title": "W sieci zawrzało o grafiki z Wiedźmina. Autor pokazał dowody",
       "url": "https://www.benchmark.pl/w-sieci-zawrzalo-o-grafiki-z-wiedzmina-autor-pokazal-dowody-7349875465062880a",
       "date": "2026-11-11T13:39:37Z",
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Nowa kolekcja Medicine przygotowana z CD PROJEKT RED, inspirowana nadchodzącym dodatkiem do \"Wiedźmina 3: Dziki Gon\" - \"Pieśni przeszłości\", wywołała w sieci spór o to, czy grafiki na ubraniach powstały z użyciem generatywnej AI. Jeden z autorów ilustracji, Alek Morawski, stanowczo temu zaprzeczył i upublicznił szkice oraz ilustracje z procesu twórczego."
-    },
-    {
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "url": "https://av.github.io/safe-sand/",
-      "date": "2026-11-11T13:39:29Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://av.github.io/safe-sand/ Comments URL: https://news.ycombinator.com/item?id=50453288 Points: 80 # Comments: 16."
-    },
-    {
-      "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
-      "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
-      "date": "2026-11-11T13:34:24Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "No internet connection needed. Uses a locally-installed compiler for assembly generation. Comments URL: https://news.ycombinator.com/item?id=50453229 Points: 34 # Comments: 4."
-    },
-    {
-      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-      "url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
-      "date": "2026-11-11T13:29:46Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://machinelearning.apple.com/research/attention-mamba-distillation Comments URL: https://news.ycombinator.com/item?id=50453171 Points: 11 # Comments: 1."
     },
     {
       "title": "Nintendo pozamiatało. Nowa Zelda ogromnym hitem",
@@ -1812,12 +1812,36 @@
       "summary": "W poszukiwaniu sygnałów - 11 listopada 2026 - Duże indeksy blisko wejścia w dzienny trend wzrostowy Ewa śr., 11.11.2026 Wstęp Indeksy GPW, Ring spekulanta, Spółki wcześniej sygnalizowane, Obserwowane wykresy, Kącik życzeń W poszukiwaniu sygnałów - 11 listopada 2026 - Duże indeksy blisko wejścia w dzienny trend wzrostowy Ewa."
     },
     {
+      "title": "Artur Miękina - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZSTdUN1VtSzMzZV9xVXp1YkZYYm9veDFXOVBJS3A2aEVILUVCbEs0SXEyOHJYUHd4XzlacnJRNV9vMENlNmlNVWlQblpOR29TQlRkbE1R?oc=5",
+      "date": "2026-11-11T15:15:58Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Artur Miękina Forbes."
+    },
+    {
+      "title": "Ziemia pod budowę domu za pół ceny? To miasto ma świetną ofertę dla młodych",
+      "url": "https://www.bankier.pl/wiadomosc/Ziemia-pod-budowe-domu-za-pol-ceny-To-miasto-ma-swietna-oferte-dla-mlodych-9225144.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-11T15:00:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Miasto Suwałki (Podlaskie) poinformowało w piątek, że przygotowało do sprzedaży kolejnych 31 działek budowlanych z 50-proc. bonifikatą dla osób do 40. roku życia."
+    },
+    {
       "title": "Dziś policja będzie wystawiać mandaty za jazdę we mgle na światłach przeciwmgielnych. Przepisy są bezwzględne - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTDFMalBTVHhVVjFEYy1ET0REVDBqY0ZmOVphNHFRM0lTTEpDWXowWHQ0RDFmVjNGbWRhSHJVdi1TbUFXbEhud2hZdXhOSG1XZm1BZmZXcHRVX0ZTUzZYcXBicl9DUjNTM3ZVRTZSWUJVbjhFWUl4NlBBN3NUalRKZ1VZblJjZlVwR2w5MU5ZSVVwdkJ3XzJwS0pEQ2FpX1l4cmJ2ZnRrX0k5dFhHMHR4aTNMTUdwZXh5cm1pR003dTdZclBZSlF4MU5HdXdCZFozZnhCZ0VUY19qcWVkSk04aGlLMGpWcmRnNFU1VkVYbHlrQVRib1NOdXFn?oc=5",
       "date": "2026-11-11T14:54:49Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Dziś policja będzie wystawiać mandaty za jazdę we mgle na światłach przeciwmgielnych. Przepisy są bezwzględne Forsal.pl."
+    },
+    {
+      "title": "Najtrudniejsza runda rozmów i twarde wytyczne Moskwy. Kulisy negocjacji w Abu Zabi",
+      "url": "https://www.bankier.pl/wiadomosc/Najtrudniejsza-runda-rozmow-i-twarde-wytyczne-Moskwy-Kulisy-negocjacji-w-Abu-Zabi-9227392.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-11T14:23:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Porozumienie o szerokiej wymianie jeńców, spór o powojenne gwarancje bezpieczeństwa i twardy opór ze strony Moskwy — tak wyglądał bilans pierwszych od lutego rozmów delegacji Ukrainy, Stanów Zjednoczonych i Rosji w Abu Zabi. Wołodymyr Zełenski zaznacza, że kluczem do godnego pokoju pozostaje twarda postawa USA i włączenie do stołu Europy, podczas gdy negocjatorzy z Kijowa mówią o „jednej z najtrudniejszych rund w historii."
     },
     {
       "title": "Komunikat ESPI BANCO SANTANDER S.A. (santander): Registration of the share capital reduction - StockWatch.pl",
@@ -1836,6 +1860,14 @@
       "summary": "Komunikat ESPI EUROHOLD BULGARIA AD (eurohold): Notification under Art. 19 (3) of Regulation (EU) 596/2014 of the European Parliament and of the Council of 16 April 2014 StockWatch.pl."
     },
     {
+      "title": "Polityczne szpile zamiast jedności. Prezydent pogłębia podziały w narodowe święto",
+      "url": "https://www.bankier.pl/wiadomosc/Polityczne-szpile-zamiast-jednosci-Prezydent-poglebia-podzialy-w-narodowe-swieto-9227373.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-11T13:15:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Potrzebujemy silnego i sprawnego państwa, aby czuć się bezpiecznie i móc żyć w dobrobycie, wolności i suwerenności, a nie po to, aby naszą wolność ograniczano - powiedział prezydent Karol Nawrocki podczas obchodów Święta Niepodległości. - Musimy pamiętać o błędach, które doprowadziły do upadku Rzeczpospolita - wskazał."
+    },
+    {
       "title": "Start-up szuka pracowników do wyprowadzania psów-robotów",
       "url": "https://www.bankier.pl/wiadomosc/Start-up-szuka-pracownikow-do-wyprowadzania-psow-robotow-9220283.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-11-11T13:00:00Z",
@@ -1852,44 +1884,28 @@
       "summary": "Komunikat ESPI P.A. NOVA SPÓŁKA AKCYJNA (panova): Otrzymanie zawiadomienia o zmianie stanu posiadania akcji StockWatch.pl."
     },
     {
+      "title": "Biało-czerwona na maszcie nowego promu. Zaskakujący gest Tuska w Szczecinie.",
+      "url": "https://www.bankier.pl/wiadomosc/Bialo-czerwona-na-maszcie-nowego-promu-Zaskakujacy-gest-Tuska-w-Szczecinie-9227354.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-11T12:22:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Na maszcie promu M/F Bursztyn Unity wzniesiono polską banderę. Jednostka została w środę uroczyście ochrzczona przy Wałach Chrobrego w Szczecinie. Banderę kapitanowi promu przekazał premier Donald Tusk."
+    },
+    {
+      "title": "Strach przed chińskim szpiegostwem. Bundeswehra uziemia drony DJI",
+      "url": "https://www.bankier.pl/wiadomosc/Strach-przed-chinskim-szpiegostwem-Bundeswehra-uziemia-drony-DJI-9227346.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-11T12:08:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Aby wzmocnić swoją samowystarczalność i suwerenność technologiczną, Bundeswehra nie będzie już używać dronów chińskiej produkcji - przekazał w środę rzecznik ministerstwa obrony Niemiec w oświadczeniu przesłanym agencji Reutera."
+    },
+    {
       "title": "Czy w parku można zawiesić karmnik dla ptaków? Przepisy mogą dziwić - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPalREZEMwWjMzalVNYllVTUJIQnEtOTJmbTF6QXQ4cWhIdFlUZlk4aXRsb2d2UU9fUmZpaElacjZfT3Jwd3VndkZweFc3enpPdTVILVg0dm5GZmNUQS1MTXZnU1dBWXNBV21nRjE3enR6NDdGNVNhMjJYNVpvZjR3MnBvaVhRQ1RabUNFV09TcExvYXRib2ltMjJublVnM25YRWtoZkswZWs4RGltMHc?oc=5",
       "date": "2026-11-11T12:02:00Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Czy w parku można zawiesić karmnik dla ptaków? Przepisy mogą dziwić Forsal.pl."
-    },
-    {
-      "title": "Mieszkania pod klucz zamiast stanu deweloperskiego. Nadchodzi zmiana na rynku",
-      "url": "https://www.bankier.pl/wiadomosc/Mieszkania-pod-klucz-zamiast-stanu-deweloperskiego-Nadchodzi-zmiana-na-rynku-9223242.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-11T11:00:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Polacy najczęściej kupują nowe mieszkania w stanie deweloperskim i wykańczają je we własnym zakresie, choć oznacza to zwykle dodatkowe koszty, czas i konieczność organizacji prac. Eksperci przewidują, że w przyszłości - tak jak ma to miejsce w Europie - coraz więcej mieszkań będzie trafiać do nabywców w stanie gotowym do zamieszkania."
-    },
-    {
-      "title": "Płonące elektryki i panele na dachach. NIK sprawdził, czy polscy strażacy są na takie pożary gotowi",
-      "url": "https://www.bankier.pl/wiadomosc/Plonace-elektryki-i-panele-na-dachach-NIK-sprawdzil-czy-polscy-strazacy-sa-na-takie-pozary-gotowi-9223411.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-11T11:00:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Najwyższa Izba Kontroli pozytywnie oceniła przygotowanie Państwowej Straży Pożarnej do akcji ratowniczo-gaśniczych dotyczących zdarzeń z udziałem pojazdów elektrycznych i instalacji fotowoltaicznych - poinformowała Izba."
-    },
-    {
-      "title": "Zapaść nadeszła 15 lat wcześniej, niż zakładano. Japoński rynek pracy się dusi",
-      "url": "https://www.bankier.pl/wiadomosc/Zapasc-nadeszla-15-lat-wczesniej-niz-zakladano-Japonski-rynek-pracy-sie-dusi-9223315.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-11T11:00:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "W pierwszym półroczu 2026 roku liczba urodzonych dzieci z japońskim obywatelstwem wzrosła o 0,4 proc. rok do roku, osiągając 320 458 – podało w środę ministerstwo zdrowia. To pierwszy wzrost w analogicznym okresie od 2015 roku."
-    },
-    {
-      "title": "Polska gra poniżej swojego potencjału. \"Silna gospodarka i potężna armia to za mało\"",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-gra-ponizej-swojego-potencjalu-Silna-gospodarka-i-potezna-armia-to-za-malo-9226914.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-11T11:00:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Polityczne podziały w Polsce powodują, że Warszawa gra poniżej swojego potencjału na arenie międzynarodowej - napisał dziennik „Wall Street Journal”. Silna gospodarka i wysokie wydatki na wojsko nie przełożyły się na wpływ Polski m.in. w sprawie Ukrainy - oceniła gazeta."
     },
     {
       "title": "Śląskie traci 79 osób dziennie. Świętokrzyskie kurczy się najszybciej, Małopolskie z plusem - Forsal.pl",
@@ -1916,36 +1932,20 @@
       "summary": "Tańsze zakupy dla seniorów, którzy ukończyli 60 lat. Zniżki w piekarniach, cukierniach, sklepach spożywczych. Wystarczy okazać tę kartę Forsal.pl."
     },
     {
+      "title": "Nie każdy pójdzie do wojska, gdy przyjdzie najgorsze. Te choroby wykluczają powołanie do armii. Oto lista - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdEVNdzBIbFQtaFFqVWRGZ1NHcDZuYkZsblJmMjdFcFBxbUZFakpqTWdWM1VKXzQxWlRkUU1UMGpYNnVlRllad3llVkFRMmhtS1N3dVRnYk5BczdXa1BHMHdzekdOU29VYkIzQ1RWbWxzQkJWZ0t1RzlqMF9oNkVkSkpBLTh2aDBWYlpKc29CMHhDdnJrdnpmSWFwRDltZ3NtZXRFRDJBVDlYdjExX1pLaldDYTNOakxYNUwzRl9WaE1vNWxKQWhTUmtBMVN3QjVSc1l4M3dzODV6bTJ0MWVENFNOQnd4bkJQRTlPVFM5ZHd5MWh1WkE?oc=5",
+      "date": "2026-11-11T10:03:26Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Nie każdy pójdzie do wojska, gdy przyjdzie najgorsze. Te choroby wykluczają powołanie do armii. Oto lista Forsal.pl."
+    },
+    {
       "title": "Ten sklep ma pomysł jak pozwolić ominąć zakaz handlu w niedzielę. Dostarczą zakupy do domu nawet w święta - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdzB0eE5oVU1mYVl0Tk91SkpaYXNEVFpnTzl3eE9NX2YwampjR0RzV2t5SmFVZW9aRXNSN2dwZ1p1eEltc0YwVlJNYmp0aW9xYnN1S2ZUdDRzQW5sQ0xmdkh6b2tta2IteFZVQWlvamtob25qT3NDMG9QMG90UDhlbFNKNExjMTVuTm5hZFFGcVhaOExQcHZjWmtkU3ducDB3WnBneGFVanRkbUtzb1NYLS16cFczWFBERkY5WW5rVFdYU01tYnc?oc=5",
       "date": "2026-11-11T10:00:00Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Ten sklep ma pomysł jak pozwolić ominąć zakaz handlu w niedzielę. Dostarczą zakupy do domu nawet w święta Forsal.pl."
-    },
-    {
-      "title": "800 plus dla rodziców dorosłych już dzieci.Takiej zmiany w przepisach jeszcze nie było. Zapadła decyzja w sprawie nowego świadczenia - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTGwzRUxwejNPUURWczFjR2ZnX0JDRzl2N0RBOVdVQ0MzV21qblV0UmRSQmN3SWhvUWJjRXNSOXd5VWNIQzR4Q1U4eE5CQUFpdE5nR0NZUmIxMTMxTVR5VVJMaXZ3cGlWMmY5dkdBbHlkd2xfM1hLU3B2cFhHMGVfNUhuZkltcVB0aWVhQThNRF9iWDVSTmRBU01NbURwekdVNEJna0NEejJjc3NhRWkxZXBON0VnYU9tUXdRZzA1ZWtYTnFPbF9FTVBidUJMaGVMdGlHbFpxUzk0RUEzMjB5ZkZfMEhnREhfU2xqVXFycWsydnY2NVhFV1pCai04NVBSSGEweVQ5SUxDblAtRkUxOUJzbTBicGgxc18xUF9Md05LVmpPUEJxbnBTRnczUGszcERSRjkxZHhoeVNZOEo4aGxRY1R0LUx0NFJVRm9SN2NtdzZkSGY5akt0Vm90TVF3UjV0VzRZZFg4WGM?oc=5",
-      "date": "2026-11-11T09:44:05Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "800 plus dla rodziców dorosłych już dzieci.Takiej zmiany w przepisach jeszcze nie było. Zapadła decyzja w sprawie nowego świadczenia Forsal.pl."
-    },
-    {
-      "title": "Kara za brak opon zimowych w samochodzie. W tym roku kierowcy w Polsce muszą obowiązkowo wymienić opony, czy mogą jeździć na letnich? - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNU3pnSU9FOTlFMTJtcElMb2dCMkRIXzlhX0d0Z25hQW5SVHJfQjMteEtzOUhtNlhXY1JTUlh5UU92VGlaZVdxOHZoVFoxX1k1UXQyMG9IZkNQWGFncDNiYlZKdHJBaVVhTGFfZlNISVJTZFIxdFo2N2ZWYmgxRUpwWFVNbUhHR09PTzRDRjRKMVFVM0lVSTZTT2paM0JNYVdZMVZJS3Bua3hLLUpjNzVkMmhHV0xONFY5WnphTjFsQXB3R28xa2FUT21jMFNBSHNucmtxZGNmYUhzZTRrTlFkclloT2pSY0o0RHBwTXpFblhVamNWTk1iUVVXWkJacTBZTEFtWW9mRk0zOWg0NWdRUTExSTRHUkU?oc=5",
-      "date": "2026-11-11T09:34:47Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Kara za brak opon zimowych w samochodzie. W tym roku kierowcy w Polsce muszą obowiązkowo wymienić opony, czy mogą jeździć na letnich? Forsal.pl."
-    },
-    {
-      "title": "Domański ucina spekulacje wokół PPK: Środki Polaków w żaden sposób nie są zagrożone",
-      "url": "https://www.bankier.pl/wiadomosc/Domanski-ucina-spekulacje-wokol-PPK-To-bzdura-i-manipulacja-9227297.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-11T09:30:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Domański został w środę zapytany o doniesienia ws. rozważanych zmian dotyczących inwestowania środków z Pracowniczych Planów Kapitałowych, które w ostatnich dniach skomentował lider Rozwoju Plus Mateusz Morawiecki."
     },
     {
       "title": "Zaczynał od 20 tys. marek. Dziś ma firmę wartą miliardy",
@@ -2172,14 +2172,6 @@
       "summary": "Rekordowe wyniki Cloud Technologies. Dynamiczny wzrost sprzedaży danych w USA BiznesRadar."
     },
     {
-      "title": "Onde wchodzi w segment elektroenergetyczny dzięki przejęciu Olmex - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTWFhZDlQME9Bb0lCMGdLMVoxX05fY2JmVlRwczJvV2FhZFVYbWdsZUY1bkhDWTQxSDFaeFdnMUJVcUp5Mk1rR3RVQnFyeWE0eUtYLWN5anRvU3doR1V1V3VsSUVBZV9aaGZjOHozYmNrOF82V0gyWGFmS1dONjRDaS12RzQzS1pBTTBaSXlCTGpfN0FnS1RYT1dUVFd0dTlJeS1v?oc=5",
-      "date": "2026-11-09T23:04:19Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Onde wchodzi w segment elektroenergetyczny dzięki przejęciu Olmex BiznesRadar."
-    },
-    {
       "title": "Rynek się uspokaja, ale Polacy nie. Kredyt hipoteczny nadal budzi strach",
       "url": "https://300gospodarka.pl/news/rynek-sie-uspokaja-ale-polacy-nie-kredyt-hipoteczny-nadal-budzi-strach",
       "date": "2026-11-09T19:52:28Z",
@@ -2202,6 +2194,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Akcjonariat: akcjonariusze EUROPEAN DEFENCE GROUP (EGO) BiznesRadar."
+    },
+    {
+      "title": "Notowania ASML HOLDING N.V. - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qSm1QS2NESHozUDdyNXBIRjJXa3JzUTFsX1dyNlFpUjZ3QjVVYzc2Vkp4ckVndEZ5ZEJDRng3VEwyNWwtc1hydVlTZnZjVDFqZEVB?oc=5",
+      "date": "2026-11-09T15:44:32Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania ASML HOLDING N.V. BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2601,26 +2601,26 @@
       26805.91,
       26964.04,
       27260.71,
-      29473.61,
+      29473.83,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29732.08,
+      29732.3,
       27354.94,
       27400.36,
       27412.11,
-      30156.13,
+      30156.36,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29375.1,
+      29375.32,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29564.95,
+      29565.17,
       27686.17,
       27404.78,
       27351.97,
@@ -2629,7 +2629,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29256.86,
+      29257.09,
       27930.04,
       28234.04,
       28218.36,
@@ -2638,81 +2638,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30137.55,
+      30137.78,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29669.3,
+      29669.52,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29487.45,
+      29487.67,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29796.73,
+      29796.95,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30862.61,
+      30862.84,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30974.48,
+      30974.71,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30531.33,
+      30531.56,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30680.08,
+      30680.31,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30707.29,
+      30707.52,
       28449.73,
       28313.03,
       28272.33,
-      30462.15,
+      30462.38,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30436.37,
+      30436.6,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30806.0,
+      30806.23,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30723.68,
+      30723.92,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31077.04,
+      31077.27,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30471.93,
+      30472.16,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30329.67,
+      30329.9,
       30100.92,
       30418.01,
       30609.55,
@@ -2725,7 +2725,7 @@
       28904.09,
       29742.99,
       29382.77,
-      30309.14
+      30315.14
     ],
     "currency": "PLN"
   }
