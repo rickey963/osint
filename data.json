@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T19:11:24Z",
+  "last_updated": "2026-11-12T19:12:21Z",
   "poland": [
     {
       "title": "Prezydent zwleka z nominacjami. Wszystko przez Andrzeja Domańskiego",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Ukraine says SpaceX Starshield is restricted again; SpaceX claims it isn’t",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+      "date": "2026-11-12T19:09:57Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks."
+    },
+    {
       "title": "Jeszcze niedawno InPost pozywał Allegro. Teraz firmy podpisały umowę za 8 mld złotych",
       "url": "https://www.instalki.pl/news/internet/inpost-w-koncu-dogadal-sie-z-allegro-to-sie-zmieni-dla-klientow/",
       "date": "2026-11-12T18:59:36Z",
@@ -1016,7 +1024,7 @@
       "summary": "Jeszcze kilka miesięcy temu Allegro i InPost nie potrafiły porozumieć się nawet w sprawie sposobu prezentowania dostaw. Dziś ogłaszają wieloletnią współpracę wartą co najmniej 8 mld zł. Podpisana umowa kończy spór między gigantami i zabezpiecza ich współpracę do końca 2031 roku."
     },
     {
-      "title": "Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks",
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
       "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
       "date": "2026-11-12T18:57:45Z",
       "source": "Ars Technica",
@@ -1028,7 +1036,7 @@
       "url": "https://www.techmeme.com/261112/p47#a261112p47",
       "date": "2026-11-12T18:55:45Z",
       "source": "Techmeme",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Abner Li / 9to5Google: Google says Gemini 4 Hydrogen is available across AI Studio, the Gemini API, Search, paid AI Pro and Ultra tiers in Antigravity, and more &mdash; After this week's Carbon availability, Google today unveiled Gemini 4 Hydrogen instead of keeping the &ldquo;Flash&rdquo; branding. &mdash; Gemini app."
     },
     {
@@ -1077,7 +1085,15 @@
       "date": "2026-11-12T18:24:06Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/rust-lang/rust/releases/tag/1.100.0 Comments URL: https://news.ycombinator.com/item?id=50471793 Points: 109 # Comments: 15."
+      "summary": "Article URL: https://github.com/rust-lang/rust/releases/tag/1.100.0 Comments URL: https://news.ycombinator.com/item?id=50471793 Points: 140 # Comments: 27."
+    },
+    {
+      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "date": "2026-11-12T18:22:22Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/ Comments URL: https://news.ycombinator.com/item?id=50471761 Points: 7 # Comments: 0."
     },
     {
       "title": "Outlook is down, and so is Microsoft's status page",
@@ -1085,7 +1101,7 @@
       "date": "2026-11-12T18:20:48Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 79 # Comments: 18."
+      "summary": "Article URL: https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 109 # Comments: 29."
     },
     {
       "title": "Stacja zasilania na blackout i nie tylko. Oto możliwości Bluetti Elite 200 V2",
@@ -1133,7 +1149,7 @@
       "date": "2026-11-12T18:14:18Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html Comments URL: https://news.ycombinator.com/item?id=50471621 Points: 19 # Comments: 0."
+      "summary": "Article URL: https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html Comments URL: https://news.ycombinator.com/item?id=50471621 Points: 32 # Comments: 2."
     },
     {
       "title": "Zagrasz w GTA 6 na Xbox One. 13-letnia konsola daje radę",
@@ -1198,14 +1214,6 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Zbierasz InCoiny w aplikacji InPost? Możesz wymienić je na GTA VI."
-    },
-    {
-      "title": "Paths in Pieces",
-      "url": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
-      "date": "2026-11-12T17:19:39Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://stoppels.ch/2026/11/12/paths-in-pieces.html Comments URL: https://news.ycombinator.com/item?id=50470762 Points: 13 # Comments: 0."
     },
     {
       "title": "The amazing disappearing exoplanet",
@@ -1302,14 +1310,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 2,
       "summary": "Przez ponad trzy dekady był twarzą NVIDII i jednym z najważniejszych ludzi w branży technologicznej. Teraz jego kariera w firmie kończy się nagle, a okoliczności odejścia budzą poważne kontrowersje. Amerykański gigant oficjalnie potwierdził, że Jensen Huang zrezygnował ze stanowiska prezesa, dyrektora generalnego oraz członka rady dyrektorów ze skutkiem natychmiastowym."
-    },
-    {
-      "title": "Producenci marihuany przekształcają się w… centra AI",
-      "url": "https://www.instalki.pl/news/internet/producenci-marihuany-przeksztalcaja-sie-w-centra-ai/",
-      "date": "2026-11-12T15:45:10Z",
-      "source": "Instalki.pl",
-      "confirmed_by": 1,
-      "summary": "Amerykańscy producenci konopi mierzą się ze spadającymi cenami i rosnącymi kosztami działalności. Ratunku szukają w branży, która ma zupełnie inne potrzeby, ale korzysta z podobnej infrastruktury. W Stanach Zjednoczonych coraz więcej przedsiębiorców rozważa przekształcenie dotychczasowych plantacji marihuany w niewielkie centra danych obsługujące sztuczną inteligencję."
     },
     {
       "title": "Prezes Nvidii rezygnuje ze stanowiska. Firma pominęła powód",
@@ -2092,14 +2092,6 @@
       "summary": "Status ważniejszy niż pieniądze dla klasy średniej. \"Bardzo łatwo go stracić” Forbes."
     },
     {
-      "title": "Powrót po dniu przerwy - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwQ05HdlVYSU90UDdYUktZQkJCcWxEd3ppVkVXNjh2d3dyT2NUSzllZ0ExdWhpemFvVXVOQnFqd0o0R1hKU0Q0MWZrSVlvYW5IOFY5Ul9YX0V6a0NXQ3M4QUNsaHBoRXVDVGdEaV81S0pGWEU1QVdETmpKdFBOWVU?oc=5",
-      "date": "2026-11-12T06:16:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Powrót po dniu przerwy BiznesRadar."
-    },
-    {
       "title": "Najszybszy wzrost GMV Allegro od 2022 roku. Ekspansja zagraniczna i inwestycje w AI napędzają wyniki - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFItZ0Z2Q3d0dE52UHFjZ3VjRGVZNE5mMXlLYldhTVU1NnBrR2tBakVYY2Qxd01uX2IyRUZoaUN2T3pwUVB2bEhURVdXbDQ2dC1vbW0yZzdUWnhkbldnYkpJaUhjZ2lmSTVRM0htc3JJNG9IYlBac00tYmxiQWxXdnJzZ3FKZzltN1hsSzhqMkJWRk40Ui1QQlRoaTc1SklybExGRDdSWTBBdExRMXNOVU5yREw3TW9nSDJEdVBJb08yM0ZxWjRxejFRRjROeTNS?oc=5",
       "date": "2026-11-12T06:12:00Z",
@@ -2162,6 +2154,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Notowania OML (ONEMORE) BiznesRadar."
+    },
+    {
+      "title": "Wiadomości PRIME ASI (PRA) - strona: 11 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qTDJzdnVWUkltbzl3bjQ3UFR3YnJQLXFObFZjZE1JZk9yNld6X0VWdDJjT1p4N0RFV2RyWTBaWUs2dGRqWkFjNERqc3I2Wlp0blc3eEVHSQ?oc=5",
+      "date": "2026-11-10T16:00:10Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości PRIME ASI (PRA) - strona: 11 BiznesRadar."
     },
     {
       "title": "JDG coraz częściej znikają z CEIDG. Eksperci wskazują na rosnące obciążenia",
@@ -2584,26 +2584,26 @@
       26805.91,
       26964.04,
       27260.71,
-      29532.87,
+      29530.65,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29791.87,
+      29789.63,
       27354.94,
       27400.36,
       27412.11,
-      30216.77,
+      30214.5,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29434.17,
+      29431.96,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29624.4,
+      29622.17,
       27686.17,
       27404.78,
       27351.97,
@@ -2612,7 +2612,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29315.7,
+      29313.49,
       27930.04,
       28234.04,
       28218.36,
@@ -2621,81 +2621,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30198.16,
+      30195.88,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29728.96,
+      29726.72,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29546.75,
+      29544.52,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29856.65,
+      29854.4,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30924.67,
+      30922.34,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31036.76,
+      31034.43,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30592.73,
+      30590.42,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30741.77,
+      30739.46,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30769.04,
+      30766.73,
       28449.73,
       28313.03,
       28272.33,
-      30523.4,
+      30521.1,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30497.57,
+      30495.27,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30867.94,
+      30865.62,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30785.47,
+      30783.15,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31139.53,
+      31137.19,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30533.21,
+      30530.91,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30390.66,
+      30388.37,
       30100.92,
       30418.01,
       30609.55,
@@ -2709,7 +2709,7 @@
       29742.99,
       29382.77,
       29960.16,
-      30348.32
+      30350.98
     ],
     "currency": "PLN"
   }
