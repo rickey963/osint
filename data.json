@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T11:30:45Z",
+  "last_updated": "2026-11-12T11:32:30Z",
   "poland": [
     {
       "title": "Ceny maksymalne paliw na stacjach. Diesel mocno w dół",
@@ -35,8 +35,8 @@
     },
     {
       "title": "Niemcy rzucają wyzwanie amerykańskiemu Palantirowi. Nowa platforma AI dla wojska",
-      "url": "https://www.rp.pl/polityka/art45478591-niemcy-rzucaja-wyzwanie-amerykanskiemu-palantirowi-nowa-platforma-ai-dla-wojska",
-      "date": "2026-11-12T11:07:42Z",
+      "url": "https://radar.rp.pl/przemysl-zbrojeniowy/art45478591-niemcy-rzucaja-wyzwanie-amerykanskiemu-palantirowi-nowa-platforma-ai-dla-wojska",
+      "date": "2026-11-12T11:07:00Z",
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Niemiecki koncern zbrojeniowy Helsing zaprezentował platformę sztucznej inteligencji Clarity, która ma analizować zagrożenia militarne i wspierać planowanie operacji wojskowych. System ma być europejską alternatywą dla technologii amerykańskiej firmy Palantir, której wykorzystywanie przez niemieckie służby budzi kontrowersje."
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "European tech buyers add digital sovereignty to cyber shopping list",
+      "url": "https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216",
+      "date": "2026-11-12T11:31:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Sales from EU HQ'd vendor rocket in two years. The Trump affect? Yes but NIS2 and DORA are factors too."
+    },
+    {
       "title": "Nowe zasady dla producentów oprogramowania szpiegowskiego. Polska popiera inicjatywę",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/nowe-zasady-dla-producentow-oprogramowania-szpiegowskiego-polska-popiera-inicjatywe",
       "date": "2026-11-12T11:02:15Z",
@@ -1632,14 +1640,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers within a narrow window of just over three minutes. The activity has been found to share some."
-    },
-    {
-      "title": "2013 breach at Russian cybercrime forum resurfaces with millions of victims' credentials",
-      "url": "https://www.theregister.com/cyber-crime/2026/11/11/2013-breach-at-russian-cybercrime-forum-resurfaces-with-millions-of-victims-credentials/5309065",
-      "date": "2026-11-11T13:28:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "YouHack thought protecting members' passwords with mostly unsalted MD5 hashes would do."
     },
     {
       "title": "Od słów ministra po ataku w Krakowie do rosyjskiej narracji. Jak buduje się obraz „nacjonalistycznej Polski”? [OPINIA]",
