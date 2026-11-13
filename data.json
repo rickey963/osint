@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-11-13T04:55:24Z",
+  "last_updated": "2026-11-13T05:04:48Z",
   "poland": [
+    {
+      "title": "Kradzieży w sklepach jest mniej. Ale tylko na papierze",
+      "url": "https://www.rp.pl/handel/art45471291-kradziezy-w-sklepach-jest-mniej-ale-tylko-na-papierze",
+      "date": "2026-11-13T04:55:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Problem kradzieży w sklepach wcale nie znika, choć oficjalnie jest coraz mniejszy. W praktyce większość takich przypadków nie jest zgłaszana, a ze sklepów znikają coraz droższe towary."
+    },
+    {
+      "title": "Obowiązki informacyjne przedsiębiorców – jakie dane trzeba ujawniać?",
+      "url": "https://pro.rp.pl/biznes/art45479221-obowiazki-informacyjne-przedsiebiorcow-jakie-dane-trzeba-ujawniac",
+      "date": "2026-11-13T04:50:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Dane w stopce e-maila, na papierze firmowym i stronie internetowej to nie formalność. Przepisy wskazują, jakie informacje musi ujawniać przedsiębiorca i jakie ryzyka wiążą się z ich pominięciem."
+    },
     {
       "title": "Święczkowski wraca przed TK, policja w TV Republika [NA POCZĄTEK DNIA]",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,197990,33130083,swieczkowski-wraca-przed-tk-policja-w-tv-republika-na-poczatek.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -80,22 +96,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Toyota Motor Europe po raz kolejny zaapelowała do unijnych ustawodawców, by w nowych przepisach wspierających europejski przemysł auta z Wielkiej Brytanii, Turcji i Japonii były traktowane na równi z samochodami z UE. Koncern chce też więcej czasu na osiągnięcie celów redukcji emisji CO₂ na lata 2030 i 2035, zarówno w Unii, jak i w Wielkiej Brytanii."
-    },
-    {
-      "title": "Mikropodróże: Nowy trend zdobywa popularność. Urlop krótki, ale intensywny",
-      "url": "https://sukces.rp.pl/w-podrozy/art45417641-mikropodroze-nowy-trend-zdobywa-popularnosc-urlop-krotki-ale-intensywny",
-      "date": "2026-11-13T04:00:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Eksperci prezentują pierwsze Z sieci Hilton wynika, że 2027 r. minie nam pod znakiem częstych, ale za to krótkich i intensywnych wakacji. Coraz więcej urlopowiczów preferuje właśnie taką formę wypoczynku."
-    },
-    {
-      "title": "Jak sfinansować automatyzację magazynu i logistyki?",
-      "url": "https://pro.rp.pl/biznes/art45479341-jak-sfinansowac-automatyzacje-magazynu-i-logistyki",
-      "date": "2026-11-13T04:00:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Leasing, pożyczka czy własny kapitał? Przy automatyzacji magazynów o wyborze finansowania decydują nie tylko koszty, ale również podatki i dotacje."
     },
     {
       "title": "Gwałtowny upadek Jensena Huanga. Jeszcze kilka dni temu był niezastąpiony",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "‘Looks like we’ll have to talk to people’: Australia sent back to time before email with major Microsoft outage",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
+      "date": "2026-11-13T04:40:14Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Government services and schools impacted by Outlook and Teams issue as company says fix not ‘taking as expected’Microsoft struggles to fix huge outage affecting Outlook and TeamsAustralian schools, courts and government services have been hurled back in time to how business used to be done after a global Microsoft outage caused emails and online meetings to go dark.Australians began reporting issues with Microsoft 365 – which includes Outlook and Teams – just before 5am AEST on Friday, according to Down Detector. The problem appeared to peak at 9.22am with more than 5,500 reports of problems, including trouble opening and sending emails, before reports began to dip. Continue reading..."
+    },
+    {
       "title": "Microsoft struggles to fix huge outage affecting Outlook and Teams",
       "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
       "date": "2026-11-13T04:24:26Z",
@@ -482,14 +490,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Chris Van Hollen announces run for US Senate majority leader, challenging Schumer Reuters."
-    },
-    {
-      "title": "Pat Cummins addresses ball-tampering claims in marathon press conference – as it happened",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
-      "date": "2026-11-13T02:08:37Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "This blog is now closed ‘Complete and utter nonsense’: Australia captain Pat Cummins hits back at Khawaja ‘sandpapergate’ claimsCummins says there’s a ‘proper way to do things’Cummins says he believes there was a proper way to handle the sandpaper incident, pointing to the Cricket Australia investigation shortly afterwards.There’s a very proper way to do things and improve. I think that investigation was a proper way to do it.Everyone was asked in the circumstances about a game very quickly after. So that’s for CA."
     },
     {
       "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO - Reuters",
@@ -580,14 +580,6 @@
       "summary": "Russian president says he would target any foreign troops sent to Ukraine and refuses to soften territorial demandsVladimir Putin warned US negotiators that Russia would target any foreign troops deployed to Ukraine, in a series of hardline remarks that came as the Ukrainian military faced renewed disruptions to Elon Musk’s Starlink satellite service.During the talks at the Kremlin with the US envoys Jared Kushner and Steve Witkoff on Thursday, the Russian president refused to soften his territorial demands, insisting on full control over four Ukrainian regions that Moscow claims to have annexed. Continue reading..."
     },
     {
-      "title": "New York City building collapse kills 8, mayor expands probe - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDNXZXZfWXd6WXFDRWFCVThnWWRkVldNaFZ4a25wTF9HaW9JV2xNX1oyUzVSaF9JZ2gyM0J1MFhGd0p2UWNYcjdtc1RqaUFwRmxxZXF4ZEhFQmRxV0VQOTg4WFZGR0RydEVJVFNGeV8xUllsdmlSU0V4aDNLNXlVR3Vyb1NvdG1wVzJleFdrSURqOEpFVWdLYzJJZjFRMERKTzhB?oc=5",
-      "date": "2026-11-12T22:13:15Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "New York City building collapse kills 8, mayor expands probe Reuters."
-    },
-    {
       "title": "‘Win-win’ deal with EU could be done, Andy Burnham says",
       "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
       "date": "2026-11-12T22:01:39Z",
@@ -634,6 +626,14 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "SpaceX, Tesla merger talks progress, Bloomberg News reports Reuters."
+    },
+    {
+      "title": "New York City building collapse kills 8, mayor expands probe - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDNXZXZfWXd6WXFDRWFCVThnWWRkVldNaFZ4a25wTF9HaW9JV2xNX1oyUzVSaF9JZ2gyM0J1MFhGd0p2UWNYcjdtc1RqaUFwRmxxZXF4ZEhFQmRxV0VQOTg4WFZGR0RydEVJVFNGeV8xUllsdmlSU0V4aDNLNXlVR3Vyb1NvdG1wVzJleFdrSURqOEpFVWdLYzJJZjFRMERKTzhB?oc=5",
+      "date": "2026-11-12T21:13:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "New York City building collapse kills 8, mayor expands probe Reuters."
     },
     {
       "title": "Alberta landowners' group tells farmers, ranchers to resist oil development - Reuters",
@@ -982,14 +982,6 @@
       "summary": "Caine Prize clears Zimbabwean author of AI writing allegations and adds new rules AP News."
     },
     {
-      "title": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVhWcG5USS14S1FTbUdWOGtpYjRXSWdoUlJ4Ym95VXFGdnQtdVgyY3pMcjFScHpQc0c3a202TWJVcHp6YjFobDFfRl9Ga01PSGdaTEhZREZXRmtKUFBQY1JWQ0NmTHM2aVZnUVdNS3lPZG5RbDVVdHZFZnBkNmlwNU1Sc21GV1RvY0dwVHlyekd0UFg5aUZlNU1nYkJQZE1Y?oc=5",
-      "date": "2026-11-12T05:25:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction AP News."
-    },
-    {
       "title": "Pope Leo returns to a national celebration in his second homeland of Peru - AP News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZEpjX3pYM1J2VkZWTVlwYk5ya2o5TkNUX3RXMHU0bjVFNlV5UWgwT0kzcS1vZjkyWGIxcEk0RUIwbjBMWjdZQktETEVuaVJ2eWNJLV85SlJOUFBtUjhrT3hrMWxQTFhoSXZoSTVIdmwtdVdIZE1SNk8yTDlVc0M4dV8wSUNFWVowMWJ2RGZhQmFDVTcyQmd5NzlyUjc?oc=5",
       "date": "2026-11-12T03:35:00Z",
@@ -1004,9 +996,33 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Firefighters dig through rubble after NYC building collapse kills 5 and traps people in wreckage AP News."
+    },
+    {
+      "title": "Hegseth and staff reprimanded by guard at Tomb of the Unknown Soldier - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDBHZUtCS0xoTUhLYTBCMmpFRHNjcHhReERJZDY3cTZQWmlDTi1tcF91UkE5QXJWNGQ1alQ3aHlqSmpreU8tbXZoLTZMQzJLNWFFdjJaVWd4SHZzX1NEaU5wWjJFWmExZWpyVk4tSVpGQ3VINDdvamFCSVB4TEV0a3hWemxraGJHQU1SS3VMMUJHNXpuM0poNE82ZVRvSzN4eUl4SjhzVEdYUms?oc=5",
+      "date": "2026-11-12T01:28:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Hegseth and staff reprimanded by guard at Tomb of the Unknown Soldier AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Chińskie roboty potężne dzięki technologii z Europy. A ty nadal marudzisz o słomkach",
+      "url": "https://spidersweb.pl/2026/11/agibot-elmos-chip-robot-humanoidalny.html",
+      "date": "2026-11-13T04:55:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "Chińskie roboty potężne dzięki technologii z Europy. A ty nadal marudzisz o słomkach."
+    },
+    {
+      "title": "Gemini 4 Hydrogen oficjalnie zaprezentowany. Google zapowiada skok wydajności",
+      "url": "https://antyweb.pl/gemini-4-hydrogen-oficjalnie-zaprezentowany-google-zapowiada-skok-wydajnosci",
+      "date": "2026-11-13T04:45:16Z",
+      "source": "Antyweb",
+      "confirmed_by": 3,
+      "summary": "Nowy model będzie domyślnym silnikiem trybu AI w Google i codziennym pomocnikiem w aplikacji Gemini."
+    },
     {
       "title": "Mirendil, founded by former Anthropic researchers to build self-improving AI, raised a $1B Series A led by Kleiner Perkins and Clearlake Capital (Sarah Klearman/Wall Street Journal)",
       "url": "https://www.techmeme.com/261112/p74#a261112p74",
@@ -1024,12 +1040,20 @@
       "summary": "Olivia Carville / Bloomberg: Sources: social media companies' payouts in teen addiction suits mostly ranged from $2M-$2.5M; Meta agreed to pay two teens a combined $7M in the past two weeks &mdash; Seven confidential deals with young plaintiffs ranged from $2 million to $2.5 million. And the remaining personal injury lawsuits &hellip;."
     },
     {
-      "title": "Google sprawdza, czy AI naprawdę rozumie dokumenty. Zbudował test 200 zadań",
+      "title": "Piszą wiersze, a nie radzą sobie z planem budynku. Wielki test pokazuje, gdzie AI wymięka",
       "url": "https://spidersweb.pl/2026/11/google-mka-benchmark-ai-dokumenty.html",
       "date": "2026-11-13T04:06:00Z",
       "source": "Spider's Web",
       "confirmed_by": 1,
-      "summary": "Google sprawdza, czy AI naprawdę rozumie dokumenty. Zbudował test 200 zadań."
+      "summary": "Piszą wiersze, a nie radzą sobie z planem budynku. Wielki test pokazuje, gdzie AI wymięka."
+    },
+    {
+      "title": "Show HN: I built a Rick and Morty explainer video generator",
+      "url": "https://usediorama.com/rick-and-morty",
+      "date": "2026-11-13T03:47:15Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "> paste any site or article or a script > we turn it into a Rick and Morty sketch with dialogues, scenes, action and Rick and Morty of course > click generate to turn the script into a storyboard you can review > click generate to get a final video (this part is paid as it uses AI video under the hood) Comments URL: https://news.ycombinator.com/item?id=50477993 Points: 5 # Comments: 4."
     },
     {
       "title": "Sources: US officials disagree on whether Alice Huang spied on Jensen Huang for China; some at ODNI and CIA say intelligence collected so far doesn't prove it (CNN)",
@@ -1053,7 +1077,15 @@
       "date": "2026-11-13T03:14:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://folklore.org/Switcher.html Comments URL: https://news.ycombinator.com/item?id=50477714 Points: 35 # Comments: 4."
+      "summary": "Article URL: https://folklore.org/Switcher.html Comments URL: https://news.ycombinator.com/item?id=50477714 Points: 43 # Comments: 4."
+    },
+    {
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "date": "2026-11-13T03:08:08Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://brave.com/blog/search-api-agentic-payments/ Comments URL: https://news.ycombinator.com/item?id=50477649 Points: 4 # Comments: 1."
     },
     {
       "title": "Senate Banking Chair Tim Scott asks Jensen Huang and Howard Lutnick to testify at separate hearings in December over the Nvidia saga; Lutnick agrees to appear (Jasper Goodman/Politico)",
@@ -1069,7 +1101,7 @@
       "date": "2026-11-13T02:16:24Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ Comments URL: https://news.ycombinator.com/item?id=50477231 Points: 222 # Comments: 183."
+      "summary": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ Comments URL: https://news.ycombinator.com/item?id=50477231 Points: 240 # Comments: 202."
     },
     {
       "title": "Sources: Nvidia faced pressure to boost its 25% residual value support backstop on a planned $500B AI financing vehicle with asset managers before Huang's exit (Bloomberg)",
@@ -1088,20 +1120,12 @@
       "summary": "Bloomberg: Sources close to Jensen Huang say he has taken a penitent turn, castigated himself as a &ldquo;piece of shit&rdquo;, and claims to not care what happens to himself &mdash; At the end, Jensen Huang looked broken and shattered, his legendary energy depleted. After weeks spent denying the allegations &hellip;."
     },
     {
-      "title": "Sources: President Trump's and Howard Lutnick's close relationship with Jensen Huang made officials wary of taking aggressive steps to rein in Nvidia chip sales (New York Times)",
-      "url": "https://www.techmeme.com/261112/p67#a261112p67",
-      "date": "2026-11-13T01:35:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "New York Times: Sources: President Trump's and Howard Lutnick's close relationship with Jensen Huang made officials wary of taking aggressive steps to rein in Nvidia chip sales &mdash; Howard Lutnick has frequently clashed with top officials over how to regulate sales of advanced technology to Asia &hellip;."
-    },
-    {
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "date": "2026-11-12T23:06:17Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 126 # Comments: 26."
+      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 135 # Comments: 27."
     },
     {
       "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
@@ -1133,15 +1157,7 @@
       "date": "2026-11-12T21:13:26Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 162 # Comments: 22."
-    },
-    {
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "date": "2026-11-12T21:09:49Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 134 # Comments: 119."
+      "summary": "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 163 # Comments: 22."
     },
     {
       "title": "Dostaną wolne na granie. GTA VI wygrało z korporacją",
@@ -1150,14 +1166,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Dostaną wolne na granie. GTA VI wygrało z korporacją."
-    },
-    {
-      "title": "Announcement: Conductor Is Back",
-      "url": "https://twitter.com/charlieholtz/status/2120973052024598620",
-      "date": "2026-11-12T20:37:55Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://twitter.com/charlieholtz/status/2120973052024598620 Comments URL: https://news.ycombinator.com/item?id=50473888 Points: 24 # Comments: 15."
     },
     {
       "title": "InPost rozdaje GTA 6 za punkty. Sprawdź, ile ich potrzebujesz",
@@ -1358,14 +1366,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 2,
       "summary": "Przez ponad trzy dekady był twarzą NVIDII i jednym z najważniejszych ludzi w branży technologicznej. Teraz jego kariera w firmie kończy się nagle, a okoliczności odejścia budzą poważne kontrowersje. Amerykański gigant oficjalnie potwierdził, że Jensen Huang zrezygnował ze stanowiska prezesa, dyrektora generalnego oraz członka rady dyrektorów ze skutkiem natychmiastowym."
-    },
-    {
-      "title": "Świetna okazja na kartę. 70 GB za 10 zł",
-      "url": "https://antyweb.pl/swietna-okazja-na-karte-70-gb-za-10-zl",
-      "date": "2026-11-12T15:00:36Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "70 GB za 10 zł i internet bez limitu. Lyca Mobile mocno tnie ceny na start."
     },
     {
       "title": "Chciał oszukać pizzerię. Wpadł przez monitoring",
@@ -1948,6 +1948,14 @@
       "summary": "\"Zamykaliśmy Warszawę\". Producent \"Lalki\" zdradza kulisy powstawania filmu Forbes."
     },
     {
+      "title": "Allegro podwyższa prognozy na 2026 r. i chce mieć 12,5 tys. automatów One Box - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYUVHTGFnOGkxQlNLcExCMkowc1ZoVjRwNzExTXV2M20xYTFiMzU5YTRKaW02QzUyRU55V0RUck4wSWpQbGkxTVFuRkRqbGtWbXJlSTAyanNPZXoyMFRQLTAya1g5LWkyZGktWHJya0pxOVgwZk50dGFud21QeldITTlxNU80QUhKaFltSlR5bEczdWdBZGpUSVJQVlVJT0xkT3AtSmtvQjVGSDlRbXQ4?oc=5",
+      "date": "2026-11-12T13:39:20Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Allegro podwyższa prognozy na 2026 r. i chce mieć 12,5 tys. automatów One Box StockWatch.pl."
+    },
+    {
       "title": "Nowe gry napędzają przychody Ten Square Games. 2027 rokiem odbudowy rentowności, zapowiada zarząd",
       "url": "https://strefainwestorow.pl/spolki/tensquaregames-gry-mobile-wyniki-plany-2027",
       "date": "2026-11-12T13:22:22Z",
@@ -2042,14 +2050,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat ESPI Sygnis Spółka Akcyjna (sygnis): Zawarcie porozumienia o współpracy w zakresie cyberbezpieczeństwa oraz innowacyjnych rozwiązań i technologii informacyjnych StockWatch.pl."
-    },
-    {
-      "title": "Komunikat EBI Aztec International SA (aztec): Skonsolidowany raport kwartalny za III kwartał - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeHE4Q0JpSl9FWlE3WWVvSzlCTWRSWTByUXBCSTVsX0VTZXNpN3NHZ0N4M3h6blJhYzl3NmZja1NYZUt1NWRhbTV5cXRRakVMQ0Q1cE01UjNSTWVvVks4aThwY1QzVFZPMkxHNmdET2pzTVBPX2NZUDJ0dktRMGhULWFZX3NLVTdrT0t3TVB4QVBkSWVyWThhWmFmMno0LS1Ka2Vmek5tQ2daSDdIVWU0LUNfdVk0UmdfNjhoSUZRbVFRZ2tLSElFZ1lZUkJ6dEJad2JB?oc=5",
-      "date": "2026-11-12T10:51:34Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat EBI Aztec International SA (aztec): Skonsolidowany raport kwartalny za III kwartał StockWatch.pl."
     },
     {
       "title": "Polska w dziesiątce krajów najczęściej atakowanych przez rosyjskie grupy. Rząd łączy siły z Microsoft - Forsal.pl",
@@ -2517,26 +2517,26 @@
     "prices": [
       26964.04,
       27260.71,
-      29496.94,
+      29496.57,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29755.62,
+      29755.25,
       27354.94,
       27400.36,
       27412.11,
-      30180.01,
+      30179.63,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29398.36,
+      29397.99,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29588.36,
+      29587.99,
       27686.17,
       27404.78,
       27351.97,
@@ -2545,7 +2545,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29280.03,
+      29279.66,
       27930.04,
       28234.04,
       28218.36,
@@ -2554,81 +2554,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30161.42,
+      30161.04,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29692.79,
+      29692.42,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29510.8,
+      29510.43,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29820.32,
+      29819.95,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30887.04,
+      30886.66,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      30999.0,
+      30998.61,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30555.5,
+      30555.12,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30704.37,
+      30703.99,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30731.61,
+      30731.22,
       28449.73,
       28313.03,
       28272.33,
-      30486.27,
+      30485.88,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30460.47,
+      30460.08,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30830.39,
+      30830.0,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30748.01,
+      30747.63,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31101.65,
+      31101.26,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30496.06,
+      30495.68,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30353.68,
+      30353.3,
       30100.92,
       30418.01,
       30609.55,
