@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-13T13:39:54Z",
+  "last_updated": "2026-11-13T13:49:22Z",
   "poland": [
+    {
+      "title": "Będzie odwrót od Microsoftu? Rząd chce tzw. otwartego oprogramowania",
+      "url": "https://cyfrowa.rp.pl/oprogramowanie/art45485221-bedzie-odwrot-od-microsoftu-rzad-chce-tzw-otwartego-oprogramowania",
+      "date": "2026-11-13T13:36:23Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Po awarii usług giganta, dostarczającego pocztę mailową Outlook, czy pakiet biurowy z Wordem i Excelem, wraca temat suwerenności cyfrowej i uniezależnienia się od produktów jednego dostawcy. Ale czy to jest możliwe?"
+    },
     {
       "title": "Naukowcy wydrukowali żabę robota w 3D. Porusza się przy pomocy sztucznych mięśni",
       "url": "https://www.rp.pl/nauka/art45483401-naukowcy-wydrukowali-zabe-robota-w-3d-porusza-sie-przy-pomocy-sztucznych-miesni",
@@ -104,14 +112,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Sąd Okręgowy w Warszawie uwzględnił w piątek powództwo lektora Jarosława Łukomskiego przeciwko JFC Polska. Uznał, że doszło do naruszenia jego dóbr osobistych przez wykorzystanie w reklamie głosu wygenerowanego przy użyciu sztucznej inteligencji."
-    },
-    {
-      "title": "Zamieszki we Francji. Demonstrujący szykują „piąty akt”, władze mobilizują służby",
-      "url": "https://www.rp.pl/spoleczenstwo/art45485071-zamieszki-we-francji-demonstrujacy-szykuja-piaty-akt-wladze-mobilizuja-sluzby",
-      "date": "2026-11-13T12:22:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "W wyniku zamieszek po dotychczasowych demonstracjach we Francji obrabowane zostały dziesiątki sklepów, a spłonął m.in. zabytkowy ratusz w Limoges. Teraz protestujący zapowiadają „piąty akt” swoich działań, a francuskie władze mobilizują 70 tys."
     },
     {
       "title": "\"Idziemy sami\". Mateusz Morawiecki deklaruje",
@@ -404,20 +404,28 @@
   ],
   "world_security": [
     {
+      "title": "What we know about the global Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-13T13:34:53Z",
+      "source": "BBC News",
+      "confirmed_by": 2,
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
+    },
+    {
+      "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+      "date": "2026-11-13T13:15:33Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Kaja Kallas warns against agreeing to Russia’s proposed sequence of events on talks on UkraineHungary’s Péter Magyar is also here, looking very elegant as always…… but it looks like he took a slight detour on the way back to hotel last night to try and pour a perfect pint of Guinness. Continue reading..."
+    },
+    {
       "title": "Moscow car bomb wounds former aide to pro-Russian Ukrainian politician - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcVI2bjBWdjllV2NjNmRKS3dFemNKemhlSnFXWEJGQjU4dkhJcHJlWEZKMVdPVE1PWGw0R3JjNXdLenR5OEZ5ODZMZkN6am5UNVdtdHM5LUhUdldZMVAtUVQzOVQ4X0p3Yk1odW5wc250MENjNUZfeXM1TXJTaUV1M01keXM2RmNzeE5TUmJKNGJsNmdiRjhyN3owWS1pWWlTcWoxN2gzQ3d6LWtfSmRvREphZklMNG9V?oc=5",
       "date": "2026-11-13T13:11:52Z",
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Moscow car bomb wounds former aide to pro-Russian Ukrainian politician Reuters."
-    },
-    {
-      "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-      "date": "2026-11-13T13:00:03Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Kaja Kallas warns against agreeing to Russia’s proposed sequence of events on talks on UkraineHungary’s Péter Magyar is also here, looking very elegant as always…… but it looks like he took a slight detour on the way back to hotel last night to try and pour a perfect pint of Guinness. Continue reading..."
     },
     {
       "title": "China's $3 billion-plus pipeline of Nvidia-powered AI data centres - Reuters",
@@ -436,12 +444,12 @@
       "summary": "IAEA increasingly concerned about Iranian enrichment plant, its report says Reuters."
     },
     {
-      "title": "What we know about the global Microsoft outage",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-13T12:31:49Z",
-      "source": "BBC News",
-      "confirmed_by": 2,
-      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
+      "title": "Six people dead near Kenya's capital after building collapses, police say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOGR3Mk1maEdYRWpJY3l4dHFmZzdRYUJENl85bk9NblJYaW50bW0tUkt2b20yR0tzVTRBZ0VPY1R6bTl6UTRQcFduek1KTUtoZ2ZZOXItU2ZzWXlDNWlxRTBxTjBjelRCNGpfZ1pwWFUwc09UV19CZXdyZk4zd1Q3bkFOSEQzUHloZ2hUM2FMa2EyQzlDdnVEaXpzNkpYak1pdG91RTFrLTRmdi1BWjZES2ZQNDI0YXpKRktHVg?oc=5",
+      "date": "2026-11-13T12:41:54Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Six people dead near Kenya's capital after building collapses, police say Reuters."
     },
     {
       "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
@@ -524,14 +532,6 @@
       "summary": "Volodymyr Zelenskyy says speed restrictions on Starshield system made it harder for Ukraine to shoot down dronesEurope live – latest updatesRussia has attacked a hospital in the centre of Kyiv, close to several western embassies, after Volodymyr Zelenskyy said speed restrictions on SpaceX’s Starshield system had made it harder for Ukraine to shoot down enemy drones.Three people were injured when a drone smashed into the National Institute of Traumatology and Orthopedics at 3am, hitting the second floor of the hospital and an adjoining 19th-century building. Continue reading..."
     },
     {
-      "title": "Six people dead near Kenya's capital after building collapses - Citizen TV - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOGR3Mk1maEdYRWpJY3l4dHFmZzdRYUJENl85bk9NblJYaW50bW0tUkt2b20yR0tzVTRBZ0VPY1R6bTl6UTRQcFduek1KTUtoZ2ZZOXItU2ZzWXlDNWlxRTBxTjBjelRCNGpfZ1pwWFUwc09UV19CZXdyZk4zd1Q3bkFOSEQzUHloZ2hUM2FMa2EyQzlDdnVEaXpzNkpYak1pdG91RTFrLTRmdi1BWjZES2ZQNDI0YXpKRktHVg?oc=5",
-      "date": "2026-11-13T11:24:09Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Six people dead near Kenya's capital after building collapses - Citizen TV Reuters."
-    },
-    {
       "title": "SpaceX to attempt first Starship spacecraft recovery on land in 15th flight - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDE0b0ZmNTF1ZVVBMS03RlA4TDhPZVNVbUEyTG5Gb1ZFRHdnc0QtdmM1X2ZjZFQwSVBBVVRWamRTVzh0NUp1N2lKOTJDbDE3U2xob3JtLTZkb211NHR2QkZ5RnczcERVQV8zcmtVbWttdS1sMGViMmYwZnBmWDlCMkkyRVdmQVlSVmZQWTVuWGlPSTNZNFU5SExWUW1LRkNIUFhYSi1iZzRTa1BjbFQw?oc=5",
       "date": "2026-11-13T11:14:59Z",
@@ -564,6 +564,22 @@
       "summary": "Six-year-old Gaza burn victim caught in Israeli dispute over aid Reuters."
     },
     {
+      "title": "France criticises 'demagogic' move by Israel to ban hard-left leader Melenchon - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFg4aE1zaHpQMlFWSU5vY3RWblpNZTF0cG9kNENyd3ZQZ3oySXFZWGJsakJOakxORVFVM3plVUN0X0pPUk54UVh2bVNjZEJzV1NlMzBIbzFBNkEzM3NNSzlNSS11WDVtSy1Ca196eW9Pdml0WXI5aUVXZXJhdG5XMWlFWkd0YzhtQzFWUXFqcGhILWgzMjZub1g1bTNEV1daRl83YkFxbUhzMEtrRWtZVGt2alFSZw?oc=5",
+      "date": "2026-11-13T10:14:24Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "France criticises 'demagogic' move by Israel to ban hard-left leader Melenchon Reuters."
+    },
+    {
+      "title": "India's October trade deficit hits one-year high of $39.88 billion as gold imports jump - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVC1qbUMzMG9XdFpsRGZQQzNVa3d1R2hfem5KQUplcU1DZWd4amxfa0Z0cTQ0QkU2SkkybmlacTlaNFlNSlB0UkJ6OWJZTUxzZ19lbDlZcmt2RHFMeUF3UjhvRHpFWnVwYzU0RkN1WF9MWFFuOThuMHJUaTdPdDh4VWtQMm9pVEZDZFdjcmVicDZzVDlhSzdHUTBsNWF4VkV2Y1FtRlAyT0tYZmhCdWFyUERaQy1JNDJuVU0tSw?oc=5",
+      "date": "2026-11-13T09:55:12Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "India's October trade deficit hits one-year high of $39.88 billion as gold imports jump Reuters."
+    },
+    {
       "title": "Quantum Systems says grounded German military drones flying again after cyberattack - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc2Vkc3h1WU5hemtpajdWWFN4ZU1Eb3NMVS1aaUliem1Ja2lvem5ERDZMU0gtUU9adjUzRUxaZXJtNVlkTEpRcFQwamp2am9xRVc2UzFxQVNpWFdVY2c0RFZUX3diQTJ0c3E5X1FhZm5KYjUyVk8teFQxaU44LW5yVl9VUXl6YkRWd283RXd1N1huM3YxR3d0UkQ2ZzF1aWZWeEZJYTBwT0dmVWdKMGJaN2lOVU0wcDRDWFQ3ajNzZUx4RWZNalFYdWJBUS1SWkE?oc=5",
       "date": "2026-11-13T09:41:44Z",
@@ -578,6 +594,14 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklistAnalysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?One of Donald Trump’s top lieutenants reportedly could soon be fired, as criticism mounts over commerce secretary Howard Lutnick’s apparent lack of action over the Nvidia spying scandal.Jensen Huang resigned from Nvidia on Thursday, and was replaced on an interim basis by chief financial officer, Colette Kress, after reports emerged of his multiple affairs, most importantly with Alice Huang (no relation), who is suspected of being a Chinese spy. Continue reading..."
+    },
+    {
+      "title": "Brazil's Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bid - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZWlOY0VHcXJMM0JmZ2hmN1YtWmh5bkRrZFRweG04bDNhRDFvWTZybmwxQU56R1hpY0lta2o4bUI2MGx6LTIxaWt4TVlHd0pfTFlndEFQQmlrWTVyNms2Skl6M2lwWklYeGl4ek5PdC1jb1RFT1ZLWFVPeThLR1V0ZTNtU2tNN1czSW5TUkptOEFYcU5WR3NhWXZJRFB2a1JDbjQ3WGNKTXVlSkpDR1UtM3ZSbHU2REo0dC1HQW55S2F0YmZSQU9MbVZB?oc=5",
+      "date": "2026-11-13T09:13:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Brazil's Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bid Reuters."
     },
     {
       "title": "Huang's exit, Anthropic's entrance - Reuters",
@@ -612,14 +636,6 @@
       "summary": "No miracle solution on frozen Russian assets, Euroclear CEO tells Le Soir Reuters."
     },
     {
-      "title": "Britain eyes welfare cuts to tackle surge in youth unemployment - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSjlYZDdzQlJPZUZOUENiNXBUQ2VaUk1CY09ubzVsWWVNd29QMjY1Qnoya3JlOGkwMHB6YjgtMVVJVVluQ3J5YkxkU1JJN0FFODBUbG0wdkk1eEhZeFNpZTZCaXY1TUVxX0ZDd1lYX1Vid3AxWkMzbUNtbUd6Tk9tUU5OZFdEbFBtZFN6VEhqWmd1aXZvM1J0V2doOXhMVTFNU05TSHhUWE9DblI3?oc=5",
-      "date": "2026-11-13T07:09:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Britain eyes welfare cuts to tackle surge in youth unemployment Reuters."
-    },
-    {
       "title": "A baffling trail from Australia to Singapore: what is Megaspeed, the company implicated in downfall of Nvidia’s Jensen Huang?",
       "url": "https://www.theguardian.com/technology/2026/nov/13/a-baffling-trail-from-australia-to-singapore-what-is-megaspeed-the-company-implicated-in-downfall-of-nvidias-jensen-huang",
       "date": "2026-11-13T07:07:41Z",
@@ -634,22 +650,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles."
-    },
-    {
-      "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
-      "date": "2026-11-13T07:00:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz Reuters."
-    },
-    {
-      "title": "Dutch government set for talks to stave off collapse after wealth tax row - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkFYa1l2Q1d3RnhPSTU0VnZ4NnA3TmwwdlB0YzRxM0x2aWRNYVVheUZzeEozbTgwMHBXM3U3RkYyZ2o4NnpDaTRCVkpBSWprMHZmT0Vsczdoa2ZPN2w1ZjBYT3R0UzVPaEE0cWw3SnpqS1BnelBqTEdKb1VQS05HSzdOZ2lZVlVWVk5oWkl5XzdWSVMydzFwclFySThIME1LWW53dTl1T25tRGpI?oc=5",
-      "date": "2026-11-13T06:18:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Dutch government set for talks to stave off collapse after wealth tax row Reuters."
     },
     {
       "title": "Victoria election 2026: Labor and Greens trade accusations of ‘dodgy deals’ as preference fight puts key seats at risk",
@@ -946,7 +946,7 @@
       "url": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
       "date": "2026-11-13T01:21:32Z",
       "source": "The New York Times",
-      "confirmed_by": 1,
+      "confirmed_by": 2,
       "summary": "The ruling, which could affect similar laws in other British Commonwealth countries, has spotlighted a legal system still intertwined with a former colonial power."
     },
     {
@@ -958,14 +958,6 @@
       "summary": "After years in elite police units, he drew scrutiny from human rights groups for selling arms and providing other services to unsavory governments. He was 80."
     },
     {
-      "title": "Senators probe RFK Jr.'s Samoa trip testimony after AP and Guardian showed documents that refute it - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1lEekgxMHlib0FkWW1YaWRoV0hKd1dQTzFuQ002eUNjZi1yWHc1a0U1MFd5VkFScUg1VDh3YmRqVXoxSGFHUlF6NWYtZXgydzFqOUktTjJELUJCS2J4azljdVZRZ3ZUUWdpMjdub1JGWmNHT3hVc28wTFJFMVpnUmt2aHpOb3dvVV9VcVV3OERjeEU4SUVRVncwNzBPNnRJREZpMWJMeXBHTlBveUIw?oc=5",
-      "date": "2026-11-12T22:13:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Senators probe RFK Jr.'s Samoa trip testimony after AP and Guardian showed documents that refute it AP News."
-    },
-    {
       "title": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses - AP News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFFiZmRWVmxZNDlVRnR1NHVQNkprRUhWMnNLMHFLWC1qdGljTm9ON2Z3U2FuXzNUcjRwRmNqMFZVemE4TVA1RVhRdl9paUtyMXJoYWhHbVl5d1FfNWZIZTVVU0IwcDQ0eHlnWGxxWEFhZjdkVko1a1hwY25XWE9uc3Q0MkIyaHpCWkNuZk05SGs1ck5DTFV4ZktQNWo?oc=5",
       "date": "2026-11-12T22:03:00Z",
@@ -974,12 +966,20 @@
       "summary": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses AP News."
     },
     {
-      "title": "US home sales slumped in October to slowest pace in more than 16 years as mortgage rates surged - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS09PUFNBenprT295anI3ajZuQVFRMDlNZVFsN3JGLWE4akFsZTJvWExXeHdIZ1ZYbDVEdHNaQTJ0WVhnZ25PZ2NNSzJnTlU5MXBHOGZ5NmYtbGJHdVBfOHd6SkJYM0dXRWRaNVlsTUV4elhjTVFEYTk1aEJrSU9xSjVrdGJZYl9IVk51MVlVcTdfZC0wQ216a2ZZX2daamNIRml5dGZBa1EzVnUxVGVuekNqV09WWFZWU1E?oc=5",
-      "date": "2026-11-12T18:46:06Z",
+      "title": "Longtime NBC Sports announcer Dan Hicks dies at 64 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOei01RDZ1ZHBmNk9zdGFRenRwaHFSdU1ZMDNfblItUUR6dGxsbEJVQmZYYkNNZzI0b09nWXNjS1VWZ1dQN1BjZlFjMnU2VE1ONF9BaTVIc0tXNW9zMXBPT0ZQak9jQ2ROcW1QZ3Z3ZjNoM0NIVzF3aGNnYkE2MllVQW5JVUE?oc=5",
+      "date": "2026-11-12T20:39:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "US home sales slumped in October to slowest pace in more than 16 years as mortgage rates surged AP News."
+      "summary": "Longtime NBC Sports announcer Dan Hicks dies at 64 AP News."
+    },
+    {
+      "title": "Hegseth awards soldier who scolded him and his aides at Tomb of the Unknown Soldier - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3JEOXVsV1JxdWZmM3o1c3RrN2ZaOU5fRmtRekFSRVFWb0ZGdXpYb2ZKQUFNaTNwcy1zOUgzUHF4QmtOY1pudFBhQnF1R3I2dTZmUlpwVTU4cEVGVm9SR1JGMUY1TXRvbnIxQ0NvdnluOXYwU1pvZ1hUSlk5dDRWS1A0UF82aUJaV3doX1Y2NXFJX2pLVUo0b1Z6X0pVRHdpM01rVXNqV0dDeVk?oc=5",
+      "date": "2026-11-12T19:47:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Hegseth awards soldier who scolded him and his aides at Tomb of the Unknown Soldier AP News."
     },
     {
       "title": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says - AP News",
@@ -990,20 +990,20 @@
       "summary": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says AP News."
     },
     {
+      "title": "US home sales slumped in October to slowest pace in more than 16 years as mortgage rates surged - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS09PUFNBenprT295anI3ajZuQVFRMDlNZVFsN3JGLWE4akFsZTJvWExXeHdIZ1ZYbDVEdHNaQTJ0WVhnZ25PZ2NNSzJnTlU5MXBHOGZ5NmYtbGJHdVBfOHd6SkJYM0dXRWRaNVlsTUV4elhjTVFEYTk1aEJrSU9xSjVrdGJZYl9IVk51MVlVcTdfZC0wQ216a2ZZX2daamNIRml5dGZBa1EzVnUxVGVuekNqV09WWFZWU1E?oc=5",
+      "date": "2026-11-12T16:33:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "US home sales slumped in October to slowest pace in more than 16 years as mortgage rates surged AP News."
+    },
+    {
       "title": "Advocacy groups sue AI giants to freeze new models, warning of ‘catastrophic’ risks - AP News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3o4X0NMQVZxQ3g1Z216LW05QnZDQ2ZLZEc5cUhtU3NJSTJkWVoxTWsxUWUtNW05Ti04UHdCNEVKcnVZVEhnNXZoUks0N3BodVpGMjdYMEtUaFRHQnRwNUViNzdxUnEyWXVXMlgyeWQzaTg0N0NuRFFCbEFpM3pMaHViWFlvV1RVNEdfXzdEQWdwdFNSbkRIQU0yX3Q4aW1WTFhiNDNEWTFWcTlJYVJsMDVBaWNhV2g0Si1jcEdJRkRnQQ?oc=5",
       "date": "2026-11-12T15:03:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Advocacy groups sue AI giants to freeze new models, warning of ‘catastrophic’ risks AP News."
-    },
-    {
-      "title": "US jobless claims tick up to 200,000 but remain low by historic standards - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYjhkOTAyUnZZeEE3VlluOVZEc3JweDNfNnZpeGZ5OHBBYTZ1b3FzeWZDSkNQaGhZSmZLWVFERlBLUFNZQ293bjZQeHJYbEpMWGd6R1dPa0lYOW50a0d1V1U5SzJfUjZIUUNQWElKVjVhVU0wSU9IY3NUYUVVY1FIb25Cbk1ZLUNjcXF6WjZ1Y21LVUxVSXFMTA?oc=5",
-      "date": "2026-11-12T13:39:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "US jobless claims tick up to 200,000 but remain low by historic standards AP News."
     }
   ],
   "technology": [
@@ -1796,6 +1796,14 @@
   ],
   "finance": [
     {
+      "title": "\"Ryzykowałem całym majątkiem\". Dziś ma firmę wartą miliony",
+      "url": "https://www.money.pl/pieniadze/ryzykowalem-calym-majatkiem-dzis-ma-firme-warta-miliony-7350585584658432v.html",
+      "date": "2026-11-13T13:34:01Z",
+      "source": "Money.pl",
+      "confirmed_by": 1,
+      "summary": "Na początku lat 90. Artur Kazienko gwarantował zwrot kredytów całym swoim majątkiem, łącznie z domem. Tak powstał Kazar - polska marka obuwia, toreb i akcesoriów, która od 35 lat sprzedaje Polakom miliony par butów."
+    },
+    {
       "title": "hypesa - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5TklPemN3dDdFWDhQUEJ5WktNUTdqYjhQOEFFUFItVkdsMkk0dndkZWdPbDhhaThjT0VQYVVEektNV2hqWWRReE0zcFFTdGxRYUZYMnJRQXpHbWo4cEE?oc=5",
       "date": "2026-11-13T13:15:32Z",
@@ -1972,12 +1980,12 @@
       "summary": "Polska pozostaje jedną z szybciej rozwijających się gospodarek Europy, ale rosnące zadłużenie i wysokie deficyty rodzą pytania o trwałość tego wzrostu. Już poprzednia edycja Indeksu Wiarygodności Ekonomicznej Polski wskazywała na poważne problemy finansów publicznych. Prof."
     },
     {
-      "title": "Notowania INTSBCO03591 INGBANK - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrUmdKbjhwTjc4QzZyTlZfbnFMTGllaXFtMXByWjVneERIaWlBcVUxVHVsMERzcDlZb0hQNlRWUlZXQ2lSS2pTOGFfWE5xbzg2Q1pJOWJKQzFmNnJycVE?oc=5",
+      "title": "Notowania INTSPKN03674 INGBANK - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84QTl0OVJXMTFTNFVaUUp6VHVvYlBULVE0SkdfOThEUjhnbF9WSS10Vm4yYVdxWF9zSmJVaW1QWkpHcWhnMFFjZ3BwOHpZT3dLRTJ1Qm9yN3BZbFBrSnc?oc=5",
       "date": "2026-11-13T09:37:01Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Notowania INTSBCO03591 INGBANK BiznesRadar."
+      "summary": "Notowania INTSPKN03674 INGBANK BiznesRadar."
     },
     {
       "title": "Potężny problem giganta z Niemiec. Inwestycje wstrzymane",
@@ -2154,14 +2162,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "VIII Our Future Forum: o rynku pracy w dobie AI Forbes."
-    },
-    {
-      "title": "Kapitalizm - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03RFgxeGlhTlRPaEg3TEZZemoxWW1YalJWSlpmcTdPMlZoNmpEMmJldGF1XzNkQjBsOHRvYmcyeHFMb0dnZk03X0ZGNzJpQ3oycHZ3TUFLaC1aczAz?oc=5",
-      "date": "2026-11-12T10:24:15Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Kapitalizm Forbes."
     },
     {
       "title": "Wiadomości PZU - BiznesRadar",
@@ -2549,26 +2549,26 @@
     "prices": [
       26964.04,
       27260.71,
-      29504.43,
+      29495.46,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29763.17,
+      29754.13,
       27354.94,
       27400.36,
       27412.11,
-      30187.67,
+      30178.49,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29405.82,
+      29396.89,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29595.86,
+      29586.87,
       27686.17,
       27404.78,
       27351.97,
@@ -2577,7 +2577,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29287.46,
+      29278.56,
       27930.04,
       28234.04,
       28218.36,
@@ -2586,81 +2586,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30169.07,
+      30159.9,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29700.33,
+      29691.3,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29518.29,
+      29509.32,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29827.89,
+      29818.82,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30894.88,
+      30885.49,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31006.87,
+      30997.45,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30563.26,
+      30553.97,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30712.16,
+      30702.83,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30739.4,
+      30730.06,
       28449.73,
       28313.03,
       28272.33,
-      30494.0,
+      30484.74,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30468.19,
+      30458.94,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30838.21,
+      30828.84,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30755.81,
+      30746.47,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31109.54,
+      31100.09,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30503.8,
+      30494.53,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30361.38,
+      30352.16,
       30100.92,
       30418.01,
       30609.55,
