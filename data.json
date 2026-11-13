@@ -1,6 +1,38 @@
 {
-  "last_updated": "2026-11-13T10:10:16Z",
+  "last_updated": "2026-11-13T10:11:03Z",
   "poland": [
+    {
+      "title": "Wielka awaria Microsoftu. Polski rząd reaguje",
+      "url": "https://businessinsider.com.pl/gospodarka/wielka-awaria-microsoftu-polski-rzad-mowi-o-uzaleznieniu/9qr8teq",
+      "date": "2026-11-13T10:07:56Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Awaria usług Microsoftu, która zakłóca pracę instytucji w ponad 70 krajach, pokazuje ryzyko uzależnienia od globalnych dostawców technologii – ocenia wicepremier o minister cyfryzacji Krzysztof Gawkowski."
+    },
+    {
+      "title": "Niestosowne komentarze, upokarzanie i przemoc seksualna. To dzieje się w niemieckiej armii",
+      "url": "https://www.rp.pl/polityka/art45484111-niestosowne-komentarze-upokarzanie-i-przemoc-seksualna-to-dzieje-sie-w-niemieckiej-armii",
+      "date": "2026-11-13T10:03:33Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Ponad 60 proc. kobiet służących w niemieckiej Bundeswehrze zadeklarowało, że doświadczyło molestowania seksualnego lub innych nadużyć o charakterze seksualnym podczas służby. Z najnowszego badania wynika, że problem dotyczy również mężczyzn, a wielu poszkodowanych nie zgłasza takich przypadków z powodu braku zaufania do przełożonych."
+    },
+    {
+      "title": "Cyberatak w Niemczech. Przez producenta dronów hakerzy trafili do niemieckiej armii",
+      "url": "https://radar.rp.pl/przemysl-obronny/art45484091-cyberatak-w-niemczech-przez-producenta-dronow-hakerzy-trafili-do-niemieckiej-armii",
+      "date": "2026-11-13T10:00:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Na serwerze z aktualizacjami oprogramowania monachijskiego producenta dronów Quantum Systems, który dostarcza drony zarówno niemieckiej, jak i ukraińskiej armii, pojawiło się szkodliwe oprogramowanie. W efekcie niemiecka armia uziemiła całą flotę dronów dostarczonych jej przez zaatakowaną firmę. O sprawie pisze „Der Spiegel”."
+    },
+    {
+      "title": "Kobieta w Legnicy miała zaatakować dzieci z Ukrainy. Prokuratura: kazała im mówić po polsku",
+      "url": "https://www.rp.pl/przestepczosc/art45484141-kobieta-w-legnicy-miala-zaatakowac-dzieci-z-ukrainy-prokuratura-kazala-im-mowic-po-polsku",
+      "date": "2026-11-13T09:52:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Kobieta w Legnicy miała uderzać po twarzach trójkę dzieci - chłopca i dwie dziewczynki - pochodzących z Ukrainy, za to, że nie rozmawiały między sobą po polsku. Prokuratura zbadała monitoring i oskarżyła ją o znieważenie i napaść."
+    },
     {
       "title": "Polska potrzebuje \"AI i taniej energii\". Adam Glapiński wskazuje",
       "url": "https://businessinsider.com.pl/gospodarka/polska-ma-piec-wyzwan-szef-nbp-mowi-wprost/yn35kvs",
@@ -16,6 +48,14 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Zachód w dużej mierze wykluczył rosyjskie złoto z rynku. Zamiast jednak doprowadzić do zatrzymania jego przepływu, sankcje zmieniły kierunki handlu. Dane pokazują, dokąd trafiają miliardy dolarów — i w którym miejscu ślad po nich się urywa."
+    },
+    {
+      "title": "Karambol na ekspresówce. Zderzyło się pięć aut, kilka osób w szpitalu",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-13/karambol-na-ekspresowce-zderzylo-sie-piec-aut-kilka-osob-w-szpitalu/",
+      "date": "2026-11-13T09:33:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Droga ekspresowa S6 w kierunku Gdańska jest zablokowana między węzłami Wrześnica i Sycewice. Doszło tam w piątek rano do zderzenia pięciu samochodów. Policja kieruje na objazdy."
     },
     {
       "title": "Globalna awaria Microsoftu. Jest komunikat mBanku dla klientów",
@@ -66,6 +106,14 @@
       "summary": "Niemcy chwilowo mogą wrócić do węgla, jak cztery lata temu. Podobnie jak wówczas, tak i teraz ma to być rozwiązanie na czas wojny (tym razem w Zatoce Perskiej), która winduje ceny gazu."
     },
     {
+      "title": "Eksplozja auta w Moskwie. Na pokładzie postać z otoczenia byłego premiera Ukrainy",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-13/eksplozja-auta-w-moskwie-na-pokladzie-postac-z-otoczenia-bylego-premiera-ukrainy/",
+      "date": "2026-11-13T09:10:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Były rzecznik prasowy dawnego premiera Ukrainy Mykoły Azarowa ucierpiał w wyniku wybuchu samochodu w Moskwie - podają rosyjskie media. Mężczyzna przetransportowany został do szpitala. To już druga eksplozja auta w Rosji w ciągu dwóch dni."
+    },
+    {
       "title": "Atak dronów trwał, a mieszkańcy Wołgogradu zaczęli szturmować stacje benzynowe",
       "url": "https://www.rp.pl/konflikty-zbrojne/art45483631-atak-dronow-trwal-a-mieszkancy-wolgogradu-zaczeli-szturmowac-stacje-benzynowe",
       "date": "2026-11-13T09:09:36Z",
@@ -90,14 +138,6 @@
       "summary": "30-letni mieszkaniec warszawskiej Pragi-Północ wyrzucił z okna karabinek pneumatyczny, który uderzył w przechodnia. Później, będąc pod wpływem alkoholu, odjechał BMW i spowodował kolizję. Komenda Stołeczna Policji poinformowała o postawionych zarzutach."
     },
     {
-      "title": "Twierdził, że zamach w Krakowie był potrzebny. Doszło do incydentu wśród żałobników",
-      "url": "https://www.rp.pl/przestepczosc/art45483891-twierdzil-ze-zamach-w-krakowie-byl-potrzebny-doszlo-do-incydentu-wsrod-zalobnikow",
-      "date": "2026-11-13T09:01:02Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Policja zatrzymała dwóch mężczyzn w wieku 33 i 50 lat, którzy mieli publicznie pochwalać sobotni zamach terrorystyczny w Krakowie. Jeden z nich zapowiadał zakup broni, drugi wyrażał zaś aprobatę dla ataku w miejscu, w którym mieszkańcy oddawali hołd ofiarom tragedii."
-    },
-    {
       "title": "Wiceszef MSZ z zarzutami. Wniosek o dymisję Bartoszewskiego na biurku Tuska",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33130495,wiceszef-msz-z-zarzutami-wniosek-o-dymisje-bartoszewskiego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-11-13T09:01:00Z",
@@ -106,28 +146,12 @@
       "summary": "Według prokuratury wiceszef MSZ Władysław Teofil Bartoszewski miał przywłaszczyć równowartość kilkunastu milionów złotych. Teraz o jego losie w rządzie zadecyduje Donald Tusk."
     },
     {
-      "title": "Mate Rimac bez żalu żegna Neverę. Ma nową zabawkę. Znacznie lepszą",
-      "url": "https://moto.rp.pl/tu-i-teraz/art45479921-mate-rimac-bez-zalu-zegna-nevere-ma-nowa-zabawke-znacznie-lepsza",
-      "date": "2026-11-13T09:00:00Z",
-      "source": "Rzeczpospolita",
+      "title": "Wielka awaria systemów Microsoftu. Wykluczono jedną z przyczyn",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-13/wielka-awaria-systemow-microsoftu-wykluczono-jedna-z-przyczyn/",
+      "date": "2026-11-13T08:46:00Z",
+      "source": "Polsat News",
       "confirmed_by": 1,
-      "summary": "Chorwacki hipersamochód powstał w krótszej serii, niż planowano, ale dla Mate Rimaca okazał się przepustką do motoryzacyjnej elity. Dziś Chorwat kieruje Bugatti i buduje auto z wolnossącym V16."
-    },
-    {
-      "title": "Prezydent zaprasza do rozmowy o sytuacji w Trybunale Konstytucyjnym. Spotkanie w poniedziałek",
-      "url": "https://www.rp.pl/sady-i-trybunaly/art45483901-prezydent-zaprasza-do-rozmowy-o-sytuacji-w-trybunale-konstytucyjnym-spotkanie-w-poniedzialek",
-      "date": "2026-11-13T09:00:00Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "W poniedziałek w Belwederze spotkają się przedstawiciele środowisk politycznych, by porozmawiać o sytuacji w Trybunale Konstytucyjnym. Na spotkaniu, jak przekazał Zbigniew Bogucki, nie będzie prezydenta Karola Nawrockiego."
-    },
-    {
-      "title": "Polska piekarnia jedną z trzech najlepszych na świecie. „Ktoś dostrzegł to na drugim końcu świata”",
-      "url": "https://www.rp.pl/biznes/art45483461-polska-piekarnia-jedna-z-trzech-najlepszych-na-swiecie-ktos-dostrzegl-to-na-drugim-koncu-swiata",
-      "date": "2026-11-13T08:54:33Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Polska piekarnia znalazła się w czołówce prestiżowego światowego rankingu przygotowanego przez przewodnik „Worth a Journey”. Piekarnia Tradycyjna Klementowski z Konstantynowa Łódzkiego zajęła 3. miejsce w zestawieniu „The World’s 100 Best Bakeries 2026”."
+      "summary": "Przyczyną globalnej awarii systemu Microsoft prawdopodobnie nie były działania o charakterze złośliwym lub cybernetycznym - poinformował wiceprezes wykonawczy jednego z działów firmy. Wciąż trwają prace nad przywróceniem prawidłowego funkcjonowania systemu."
     },
     {
       "title": "Szpital powiatowy w Krasnymstawie zwrócił się do gmin o pomoc. Chodzi o żywność dla pacjentów - | Serwis Samorządowy PAP",
@@ -178,6 +202,14 @@
       "summary": "Redakcja wPolsce24 przekazała, że podobnie jak TV Republika otrzymała od policji oficjalne pisma z żądaniem wydania nagrań wideo z październikowej manifestacji przed Trybunałem Konstytucyjnym."
     },
     {
+      "title": "Czarny dzień w historii PiS, takiego wyniku dawno nie widzieli. Zacięta walka w nowym sondażu",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-13/czarny-dzien-w-historii-pis-takiego-wyniku-nie-widzieli-zacieta-walka-w-nowym-sondazu/",
+      "date": "2026-11-13T08:06:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "15,5 proc. respondentów zadeklarowało poparcie dla PiS w sondażu United Surveys by IBRiS przeprowadzonego na zlecenie Wirtualnej Polski. Ugrupowanie Jarosława Kaczyńskiego notuje tym samym najniższy wynik od długiego czasu w historii tej partii."
+    },
+    {
       "title": "Kolejna odsłona skandalu w Nvidii. Tam miały trafić czipy",
       "url": "https://businessinsider.com.pl/gospodarka/kolejna-odslona-skandalu-w-nvidii-tam-mialy-trafic-czipy/ntjrlzc",
       "date": "2026-11-13T07:54:10Z",
@@ -194,28 +226,28 @@
       "summary": "Awaria Microsoft Outlook i Teams. Nowy komunikat i ostrzeżenie przed oszustami Polskie Radio 24."
     },
     {
-      "title": "Stary Jensen, czarna kurtka, Ojciec Chrzestny AI. Studium upadku imigranta z Tajwanu",
-      "url": "https://businessinsider.com.pl/biznes/nvidia-bez-jensena-huanga-czy-firma-przetrwa-bez-ojca-chrzestnego-ai/2dgej18",
-      "date": "2026-11-13T07:43:30Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Budowie firmy, która stała się nieodzowna dla rewolucji AI, Jensen Huang poświęcił 33 lata. Teraz koncern musi nauczyć się funkcjonować bez niego."
-    },
-    {
-      "title": "Wielka awaria Teamsów i Outlooka. Jest komunikat Microsoftu",
-      "url": "https://businessinsider.com.pl/gospodarka/microsoft-komentuje-globalna-awarie/xp23mzv",
-      "date": "2026-11-13T07:32:44Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Na razie mogę potwierdzić, że nic nie wskazuje na to, że awaria systemu Microsoft jest skutkiem działań o charakterze złośliwym lub cybernetycznym — zapewnia Charles Lamanna z Microsoftu."
-    },
-    {
       "title": "Tykająca bomba ekologiczna na Mazowszu. Szef BBN zażąda działań od rządu",
       "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33130406,tykajaca-bomba-ekologiczna-na-mazowszu-szef-bbn-zazada-dzialan.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-11-13T07:29:00Z",
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "Szef Biura Bezpieczeństwa Narodowego ma wezwać rząd do natychmiastowego opracowania planu likwidacji toksycznego wysypiska, które zagraża 23. Bazie Lotnictwa Taktycznego."
+    },
+    {
+      "title": "Były szef NVIDII wezwany do Kongresu. \"Obawy dotyczące bezpieczeństwa narodowego\"",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-13/szef-nvidii-wezwany-do-kongresu-obawy-dotyczace-bezpieczenstwa-narodowego/",
+      "date": "2026-11-13T07:24:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Były już prezes korporacji NVIDIA Jensen Huang został wezwany do złożenia zeznań przed Senacką Komisją Bankową. Najnowsze doniesienia budzą poważne obawy dotyczące naszego bezpieczeństwa narodowego i ochrony wrażliwej technologii USA - napisał jej przewodniczący, senator Tim Scott. Tymczasem w mediach pojawiły się informacje o kolejnym romansie biznesmena."
+    },
+    {
+      "title": "\"Kolejny akt wrogi wobec Konfederacji\". Wipler oburzony pomysłem Kaczyńskiego",
+      "url": "https://www.polsatnews.pl/graffiti/2026-11-13/kolejny-akt-wrogi-wobec-konfederacji-wipler-oburzony-pomyslem-kaczynskiego/",
+      "date": "2026-11-13T07:17:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "- To akt wrogi wobec Konfederacji - tak poseł Konfederacji Przemysław Wipler ocenił w piątkowym Graffiti niedawne słowa Jarosława Kaczyńskiego, które padły na Marszu Niepodległości w Warszawie. Prezes PiS zaproponował wówczas wspólną listę prawicy w nadchodzących wyborach. - Jesteśmy coraz bliżej potencjalnej mijanki w sondażach - wyjaśnił Wipler sens propozycji Kaczyńskiego."
     },
     {
       "title": "Wyjątkowo czarna noc dla lotnictwa Rosji. Trzy maszyny i załogi stracone",
@@ -242,6 +274,22 @@
       "summary": "Prezydent USA Donald Trump powiedział w czwartek, że chce \"załatwić\" sprawę Kuby przed odejściem z urzędu i nie wykluczył, że użyje do tego siły. Określił Kubę jako państwo upadłe."
     },
     {
+      "title": "Przemysław Wipler w programie \"Graffiti\". Oglądaj od 7:40",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-13/przemyslaw-wipler-w-programie-graffiti-ogladaj-od-740-2/",
+      "date": "2026-11-13T06:19:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Poseł Konfederacji Przemysław Wipler będzie gościem Marcina Fijołka w piątkowym wydaniu Graffiti. Transmisja programu w Polsacie, Polsat News, Interii i polsatnews.pl od 7:40."
+    },
+    {
+      "title": "Polska pokonała Rosję w ONZ. Po 60 latach przeważył jeden głos",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-13/polska-pokonala-rosje-w-onz-po-60-latach-przewazyl-jeden-glos/",
+      "date": "2026-11-13T05:56:00Z",
+      "source": "Polsat News",
+      "confirmed_by": 1,
+      "summary": "Polska została wybrana do Wspólnej Jednostki Kontrolnej Organizacji Narodów Zjednoczonych, pokonując w głosowaniu Rosję, która zasiadała w tej instytucji od 60 lat. Wygraliśmy jednym głosem - przekazał stały przedstawiciel RP przy ONZ Krzysztof Szczerski. Polskim ekspertem w kadencji 2028–2032 będzie Jakub Chmielewski."
+    },
+    {
       "title": "Ruszyła giełda nazwisk przed wyborami w USA. To oni mogą być następcami Trumpa",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33130249,ruszyla-gielda-nazwisk-przed-wyborami-w-usa-to-oni-moga-byc.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "date": "2026-11-13T05:10:00Z",
@@ -266,28 +314,12 @@
       "summary": "Kadłub słynnego niegdyś transatlantyckiego liniowca United States zatonął u wybrzeży Florydy. Statek od dekad niszczał w porcie, ale nie chciano go pociąć na złom ze względu na jego historię. Ostatecznie został zatopiony jako sztuczna rafa u wybrzeży Florydy."
     },
     {
-      "title": "Święczkowski wraca przed TK, policja w TV Republika [NA POCZĄTEK DNIA]",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,197990,33130083,swieczkowski-wraca-przed-tk-policja-w-tv-republika-na-poczatek.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-11-13T04:45:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Przygotowaliśmy skrót najważniejszych informacji dla tych, którzy nie mieli czasu śledzić wiadomości w czwartek (12 listopada)."
-    },
-    {
       "title": "Wir polarny zderzy się z El Niño. Zima 2026/2027 będzie zupełnie inna - Polskie Radio 24",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT21qNS04YUpZdXdCUlU4RDR4WDB6N0JJWk5CSlU1UmtQMlFmZ1ZkQUp6djI1ZVBhZ0RUV3FFd0pBRVVvbmd5RFBnaDZLNGNwZjN4cFNzdEEwM2ZySm8yU1N1NFFrOXZ3UzRNWk82MHcyZ3A4MUNlelZIZzZSdHJOVFRJYXptbHBER1BERjhLcjgtVS1jekdIclVZWXlqQmtLd0E?oc=5",
       "date": "2026-11-13T04:08:49Z",
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Wir polarny zderzy się z El Niño. Zima 2026/2027 będzie zupełnie inna Polskie Radio 24."
-    },
-    {
-      "title": "Czarzasty zwraca się do Nawrockiego ws. TK. \"Pan nie jest Święczkowskim\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33130267,czarzasty-uderza-w-nawrockiego-ws-tk-pan-nie-jest-swieczkowskim.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-11-12T21:09:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "- Skończyły się czasy jakiegokolwiek dyrygowania Trybunałem Konstytucyjnym, a o jego sprawach decydują teraz sami sędziowie - oświadczył Włodzimierz Czarzasty. Polityk, który przebywa obecnie w Bratysławie zaapelował także do prezydenta Karola Nawrockiego, aby przyjął do wiadomości, że nie ma już wpływu na tę instytucję."
     },
     {
       "title": "Awaria Microsoft rozlała się na cały świat. Wszystko padło, co się dzieje? - Polskie Radio 24",
@@ -362,44 +394,12 @@
       "summary": "Firmy ostrożne w zwiększaniu zatrudnienia, nie widać mocnego wzrostu bezrobocia - PIE PAP Biznes."
     },
     {
-      "title": "NBP Referential Fixing - Table nr 220/A/NBP/2026 - PAP Biznes",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbk9EMFF0NlNwTlQ4M2pzVmdCUGJNZ1l2ODlrR2pLc0tkZXYzTWJfeFFJelhfVWxldDlFT28za0ZTZ1NKRVhRb3JHUDhwb3daczY5YS05Z29FanNtclhXOTVELU5uX2pfd2dvZlM4YjRXQ09sQTFiSUMzSWFrS1VEWWZFSDlQc3YteXIxVFB6OGE?oc=5",
-      "date": "2026-11-12T10:50:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "NBP Referential Fixing - Table nr 220/A/NBP/2026 PAP Biznes."
-    },
-    {
-      "title": "Jakie minimalne stawki wynagrodzenia zasadniczego nauczycieli? Jest tekst jednolity rozporządzenia - | Serwis Samorządowy PAP",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNME1UZnJXdFBqTE50ZWdsRXF6Nzl0Q3dLUDZlNV83dTk1X2NCcXgwQmd3Z0xDNVBXSDFLTFYyOHV2ZEFzMmVaYTJhUlE4Z3U4ZmNfYTFJUU5SdlNYVW9MUnhKNkN6NVNCd1RjbklSbXhBeW5oVTVzWENsRU5mZmRIVXpYdDQyUzNZRFEtNDJFWjg3c0tKTmpjb0ZMZzhnZ19TcUptbDAwS2J6TlJCbUlhZ21iQTg1dw?oc=5",
-      "date": "2026-11-12T10:31:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Jakie minimalne stawki wynagrodzenia zasadniczego nauczycieli? Jest tekst jednolity rozporządzenia | Serwis Samorządowy PAP."
-    },
-    {
       "title": "Wybuch i inne akty dywersji na kolei. Akt oskarżenia trafił do sądu - Polskie Radio 24",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTBBdDVzSVhjT0xOckgxdzJaSmJQcjhsWkJEaEtCYkxRM0pmZjFwQmZyNHFIY0RmQXlaZFJUZ3RPZENyQ3lKRWk1NTJWT2ZWLUpGTnVOT0tfRDZmekpqSGZlTDE2U2tUYTNob0pXTkw1am1HUldnb1pNMVBxd1hBa3czZnotTjVlUHhJbnRfOUNHNXMxOTZiaVlDdjlzUml2ZHNGZnNDOA?oc=5",
       "date": "2026-11-12T09:46:52Z",
       "source": "Polskie Radio 24",
       "confirmed_by": 1,
       "summary": "Wybuch i inne akty dywersji na kolei. Akt oskarżenia trafił do sądu Polskie Radio 24."
-    },
-    {
-      "title": "Politycy udostępniają zdjęcie z Marszu Niepodległości. Nie jest prawdziwe - Polskie Radio 24",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQi11cDhOdFA4ZHNXRU9QTW1rOE9UM2Q4OHNKS09MSTlDblZJWF9hVkZ2NlVnN2pCZ044Q1dqcEpwdy1heXRmeEQwelhBbHJIUUlwWExwOXNXYlVFS0hFZEJoc25fVjJHaXBjazhISGxZcW1tUWRGblRBU0NNNnRROE5nMGg5ZHllN2NWTjNkdENzdlFrdlJyblJ6REZ1M042cG95bGNJWm8?oc=5",
-      "date": "2026-11-12T09:37:35Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Politycy udostępniają zdjęcie z Marszu Niepodległości. Nie jest prawdziwe Polskie Radio 24."
-    },
-    {
-      "title": "Utrudnienia w metrze M1 w Warszawie. Nowe informacje dla Polskiego Radia - Polskie Radio 24",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHJubUU1SzBqWXlINFdva25COGxSdzM1YXdwdC02cElVR2NTS3RaSUNMRjBwYVZQYzFYVzBTTFNsVmFKOHU4MVo5STg5NER2d2ppdEFzTzZ5d1VNUnFjSkJpeVBvd0V4cE9NLThNTE9ZRlFoRjZ6a2U2S0JqMGc4Y1hoeVdwa2ljVHNfNGF4aUQwdEVUSEZOM0gwVmk?oc=5",
-      "date": "2026-11-12T08:49:49Z",
-      "source": "Polskie Radio 24",
-      "confirmed_by": 1,
-      "summary": "Utrudnienia w metrze M1 w Warszawie. Nowe informacje dla Polskiego Radia Polskie Radio 24."
     }
   ],
   "world_security": [
@@ -412,28 +412,28 @@
       "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
     },
     {
+      "title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
+      "date": "2026-11-13T09:57:30Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia Reuters."
+    },
+    {
+      "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+      "date": "2026-11-13T09:53:32Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesIt’s a pretty chilly morning in Dublin, but the European Council president, António Costa, is keen to signal to his hosts that he’s ready to do business, showing off a cute Irish green scarf to Ireland’s Micheál Martin.Today’s host, Ireland’s Micheál Martin, said discussions will focus on what Europe needs to consider any future Ukraine settlement a just and sustainable peace.“The substance of any peace agreement is as important as who represents Europe. Europe needs to be very clear in terms of what would constitute a sustainable peace for the continent, well into the future. Security guarantees are a significant part of that, and also the reconstruction of Ukraine.” Continue reading..."
+    },
+    {
       "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
       "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
       "date": "2026-11-13T09:41:22Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding MegaSpeed to trade blacklistAnalysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?One of Donald Trump’s top lieutenants reportedly could soon be fired, as criticism mounts over commerce secretary Howard Lutnick’s apparent lack of action over the Nvidia spying scandal.Jensen Huang resigned from Nvidia on Thursday, and was replaced on an interim basis by chief financial officer Colette Kress after reports emerged of multiple affairs, mist importantly with Alice Huang, who is no relation but is suspected to be a Chinese spy. Continue reading..."
-    },
-    {
-      "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-      "date": "2026-11-13T09:39:57Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesToday’s host, Ireland’s Micheál Martin, said discussions will focus on what Europe needs to consider any future Ukraine settlement a just and sustainable peace.“The substance of any peace agreement is as important as who represents Europe. Europe needs to be very clear in terms of what would constitute a sustainable peace for the continent, well into the future. Security guarantees are a significant part of that, and also the reconstruction of Ukraine.” Continue reading..."
-    },
-    {
-      "title": "EXCLUSIVE Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
-      "date": "2026-11-13T09:20:06Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "EXCLUSIVE Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia Reuters."
     },
     {
       "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
@@ -612,6 +612,14 @@
       "summary": "Gold rises on bargain hunting but heads for weekly decline Reuters."
     },
     {
+      "title": "Malaysia probing whether chips linked to Megaspeed unit were re-exported - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTWl1ZFBGQWpRdHFQQUFMTU1QYjZkemNWYXhaUlV4Zm41X0ZScTdfVDVKdTRHYUJzYTNzalppOFhtREJJbmxtOXNGN0E4NGJxSEJlbEFxMWRrdDROTk9Tenp3MjhHdk5ubVpDbjFXX2w3QVltYjNRQ1VrenNON0Izb2lkSzEyQ3VMVnVyOTBoaG96eFA2MVpZa25CcFNzRmtzTFZRSkhxaVdpeHVuazRlLTBzd3RLNmdFT0g5UzZ0Q0JXTGw2eUcw?oc=5",
+      "date": "2026-11-13T03:23:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Malaysia probing whether chips linked to Megaspeed unit were re-exported Reuters."
+    },
+    {
       "title": "South Korea says Google has removed Korean coordinates from maps under export permit - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUpMbFNmT29BbW5JbGN1ZUxPZFV6ZmNTUnJJeHF3RE5YRHZzbFZoYzdWM2pjdFU2Q1VacjNTN214cURoN3FsTUFkdUhVcm9aTkdRcHRjdEdqTTd0cm55MDNDaUwxeS1QUEx5akdmanpEZGZudGRlbGQtNktuNWlfZThFd29ENDJMVnE1VENTQXlFb3lnMEZSN2xVUXRMcER0bHFVZHE5TVJiVXNnbWV5M2lTZnJYcUVObUEtZ0lR?oc=5",
       "date": "2026-11-13T03:18:00Z",
@@ -658,14 +666,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Pro-democracy activist Nathan Law and journalist Danny Vincent on the sentencing of the iconic Hong Kong campaigner Joshua Wong to another 10 years in prison. Send your comments and questions to tif.questions@theguardian.comHe has been leading protests since he was 14. Joshua Wong has been on the cover of Time magazine, the focus of a Netflix documentary and an icon for Hong Kong’s pro-democracy movement.Wong has been leading the fight against a Chinese squeeze on freedoms in Hong Kong for the last 15 years."
-    },
-    {
-      "title": "Trump's AI task force met Thursday, discussed AI-powered cyberattacks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTMxZ0ZpeTBfbVZEb3dFbFRpM0xYcU9ta3ZRVnRzc040LUlmWU9IN05La0xrSnBKYzlVVUF3amZuaTJHZGZYa05ObFpJcERkajJiajhVV2RBVzJDVzc0Uzk4NVVfeGhWOG5SSnUtQlRTV1M3MnNON29WZzZZYVlnbGVCVE1LTkpUcm8zOHlmOTdaWGo0dGZJT2Eyb2NqNlB2VWk1bmRCcXdIS3JjRDQ0aTRn?oc=5",
-      "date": "2026-11-13T02:54:00Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Trump's AI task force met Thursday, discussed AI-powered cyberattacks Reuters."
     },
     {
       "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
@@ -765,6 +765,46 @@
     }
   ],
   "world_politics": [
+    {
+      "title": "Why Aid Isn’t Reaching Ebola’s Epicenter",
+      "url": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html",
+      "date": "2026-11-13T10:02:19Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The Ebola outbreak in the eastern Democratic Republic of the Congo has a new epicenter, one largely isolated from aid by an armed group that has killed and kidnapped aid workers. Declan Walsh, our chief Africa correspondent, reports from a town where health workers are struggling to contain the outbreak."
+    },
+    {
+      "title": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
+      "url": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
+      "date": "2026-11-13T10:02:17Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The rise of Zhang Shengmin suggests that China’s top brass remains embroiled in investigations, potentially complicating preparations for war over Taiwan."
+    },
+    {
+      "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
+      "url": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
+      "date": "2026-11-13T10:02:05Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to help it."
+    },
+    {
+      "title": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
+      "url": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
+      "date": "2026-11-13T10:01:42Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "From India to France, the implicit meritocratic bargain that underwrote stable societies by providing advancement to new generations is breaking down."
+    },
+    {
+      "title": "MEXICO CITY",
+      "url": "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html",
+      "date": "2026-11-13T10:00:19Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Mexico has cooperated to significantly slow the flow of migrants. The new White House chief of staff insists it is not enough."
+    },
     {
       "title": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
       "url": "https://www.nytimes.com/2026/11/13/world/middleeast/the-us-israel-relationship-is-broken-heres-how-eisenkot-could-fix-it.html",
@@ -910,14 +950,6 @@
       "summary": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop."
     },
     {
-      "title": "Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran",
-      "url": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
-      "date": "2026-11-12T22:16:40Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "The officer, who served at a NATO base in Britain, is expected to be charged in the coming days, two officials said."
-    },
-    {
       "title": "Senators probe RFK Jr.'s Samoa trip testimony after AP and Guardian showed documents that refute it - AP News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1lEekgxMHlib0FkWW1YaWRoV0hKd1dQTzFuQ002eUNjZi1yWHc1a0U1MFd5VkFScUg1VDh3YmRqVXoxSGFHUlF6NWYtZXgydzFqOUktTjJELUJCS2J4azljdVZRZ3ZUUWdpMjdub1JGWmNHT3hVc28wTFJFMVpnUmt2aHpOb3dvVV9VcVV3OERjeEU4SUVRVncwNzBPNnRJREZpMWJMeXBHTlBveUIw?oc=5",
       "date": "2026-11-12T22:13:00Z",
@@ -934,36 +966,12 @@
       "summary": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses AP News."
     },
     {
-      "title": "Mexican Prosecutor Who Helped C.I.A. Secretly Operate in His State Flees to the U.S.",
-      "url": "https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html",
-      "date": "2026-11-12T22:00:29Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "The prosecutor, who faces arrest in Mexico after allowing C.I.A. officers into Chihuahua state, is under the protection of the U.S. government, according to U.S."
-    },
-    {
-      "title": "A Key Paris Agreement Goal Is Dead. What Now?",
-      "url": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
-      "date": "2026-11-12T20:15:04Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Leaders at COP31 are confronting a new reality as global warming enters the “unsafe zone.”."
-    },
-    {
       "title": "Hegseth awards soldier who scolded him and his aides at Tomb of the Unknown Soldier - AP News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3JEOXVsV1JxdWZmM3o1c3RrN2ZaOU5fRmtRekFSRVFWb0ZGdXpYb2ZKQUFNaTNwcy1zOUgzUHF4QmtOY1pudFBhQnF1R3I2dTZmUlpwVTU4cEVGVm9SR1JGMUY1TXRvbnIxQ0NvdnluOXYwU1pvZ1hUSlk5dDRWS1A0UF82aUJaV3doX1Y2NXFJX2pLVUo0b1Z6X0pVRHdpM01rVXNqV0dDeVk?oc=5",
       "date": "2026-11-12T19:47:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Hegseth awards soldier who scolded him and his aides at Tomb of the Unknown Soldier AP News."
-    },
-    {
-      "title": "US home sales slumped in October to slowest pace in more than 16 years as mortgage rates surged - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS09PUFNBenprT295anI3ajZuQVFRMDlNZVFsN3JGLWE4akFsZTJvWExXeHdIZ1ZYbDVEdHNaQTJ0WVhnZ25PZ2NNSzJnTlU5MXBHOGZ5NmYtbGJHdVBfOHd6SkJYM0dXRWRaNVlsTUV4elhjTVFEYTk1aEJrSU9xSjVrdGJZYl9IVk51MVlVcTdfZC0wQ216a2ZZX2daamNIRml5dGZBa1EzVnUxVGVuekNqV09WWFZWU1E?oc=5",
-      "date": "2026-11-12T18:46:06Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "US home sales slumped in October to slowest pace in more than 16 years as mortgage rates surged AP News."
     },
     {
       "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine - AP News",
@@ -982,31 +990,31 @@
       "summary": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says AP News."
     },
     {
+      "title": "US home sales slumped in October to slowest pace in more than 16 years as mortgage rates surged - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS09PUFNBenprT295anI3ajZuQVFRMDlNZVFsN3JGLWE4akFsZTJvWExXeHdIZ1ZYbDVEdHNaQTJ0WVhnZ25PZ2NNSzJnTlU5MXBHOGZ5NmYtbGJHdVBfOHd6SkJYM0dXRWRaNVlsTUV4elhjTVFEYTk1aEJrSU9xSjVrdGJZYl9IVk51MVlVcTdfZC0wQ216a2ZZX2daamNIRml5dGZBa1EzVnUxVGVuekNqV09WWFZWU1E?oc=5",
+      "date": "2026-11-12T16:33:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "US home sales slumped in October to slowest pace in more than 16 years as mortgage rates surged AP News."
+    },
+    {
       "title": "Advocacy groups sue AI giants to freeze new models, warning of ‘catastrophic’ risks - AP News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3o4X0NMQVZxQ3g1Z216LW05QnZDQ2ZLZEc5cUhtU3NJSTJkWVoxTWsxUWUtNW05Ti04UHdCNEVKcnVZVEhnNXZoUks0N3BodVpGMjdYMEtUaFRHQnRwNUViNzdxUnEyWXVXMlgyeWQzaTg0N0NuRFFCbEFpM3pMaHViWFlvV1RVNEdfXzdEQWdwdFNSbkRIQU0yX3Q4aW1WTFhiNDNEWTFWcTlJYVJsMDVBaWNhV2g0Si1jcEdJRkRnQQ?oc=5",
       "date": "2026-11-12T15:03:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Advocacy groups sue AI giants to freeze new models, warning of ‘catastrophic’ risks AP News."
-    },
-    {
-      "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
-      "url": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
-      "date": "2026-11-12T14:43:08Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority."
-    },
-    {
-      "title": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
-      "url": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
-      "date": "2026-11-12T10:00:57Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad."
     }
   ],
   "technology": [
+    {
+      "title": "InPost rozdaje kody na GTA 6 w wersji PlayStation 5. Jak je uzyskać?",
+      "url": "https://spidersweb.pl/2026/11/inpost-gta-6-kody-incoiny-aplikacja-jak-zdobyc-jak-wymienic.html",
+      "date": "2026-11-13T10:07:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "InPost rozdaje kody na GTA 6 w wersji PlayStation 5. Jak je uzyskać?"
+    },
     {
       "title": "Microsoft chce zmienić sposób tworzenia gier. Graczom może się to nie spodobać",
       "url": "https://antyweb.pl/microsoft-chce-zmienic-sposob-tworzenia-gier-graczom-moze-sie-to-nie-spodobac",
@@ -1069,7 +1077,7 @@
       "date": "2026-11-13T09:08:18Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 11 # Comments: 10."
+      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 16 # Comments: 18."
     },
     {
       "title": "LibreOffice 26.8.3 naprawia 45 błędów i zachęca do porzucenia płatnej konkurencji",
@@ -1149,7 +1157,7 @@
       "date": "2026-11-13T07:39:55Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm Comments URL: https://news.ycombinator.com/item?id=50479721 Points: 31 # Comments: 5."
+      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm Comments URL: https://news.ycombinator.com/item?id=50479721 Points: 37 # Comments: 6."
     },
     {
       "title": "Lidl rozbija bank. Czarny Parkside dostępny za grosze",
@@ -1221,7 +1229,7 @@
       "date": "2026-11-13T06:18:23Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk Comments URL: https://news.ycombinator.com/item?id=50479098 Points: 81 # Comments: 28."
+      "summary": "Article URL: https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk Comments URL: https://news.ycombinator.com/item?id=50479098 Points: 90 # Comments: 28."
     },
     {
       "title": "Microsoft says attempts to fix global outage not going 'as expected'",
@@ -1229,7 +1237,7 @@
       "date": "2026-11-13T06:12:02Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.bbc.com/news/live/cq5y10ge3dp3t Comments URL: https://news.ycombinator.com/item?id=50479045 Points: 41 # Comments: 20."
+      "summary": "Article URL: https://www.bbc.com/news/live/cq5y10ge3dp3t Comments URL: https://news.ycombinator.com/item?id=50479045 Points: 46 # Comments: 24."
     },
     {
       "title": "Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO (Financial Times)",
@@ -1261,7 +1269,7 @@
       "date": "2026-11-13T05:08:23Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://twitter.com/MSFT365Status/status/2121079061774491735 Comments URL: https://news.ycombinator.com/item?id=50478609 Points: 246 # Comments: 145."
+      "summary": "Article URL: https://twitter.com/MSFT365Status/status/2121079061774491735 Comments URL: https://news.ycombinator.com/item?id=50478609 Points: 269 # Comments: 172."
     },
     {
       "title": "Meta launches an outbound calling feature for Muse, such as to businesses, available for paid US subscribers; Gemini and startup Instinct offer a similar option (Sarah Perez/TechCrunch)",
@@ -1277,15 +1285,7 @@
       "date": "2026-11-13T04:54:53Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://ice-wm.org/ Comments URL: https://news.ycombinator.com/item?id=50478515 Points: 162 # Comments: 86."
-    },
-    {
-      "title": "Gemini 4 Hydrogen oficjalnie zaprezentowany. Google zapowiada skok wydajności",
-      "url": "https://antyweb.pl/gemini-4-hydrogen-oficjalnie-zaprezentowany-google-zapowiada-skok-wydajnosci",
-      "date": "2026-11-13T04:45:16Z",
-      "source": "Antyweb",
-      "confirmed_by": 3,
-      "summary": "Nowy model będzie domyślnym silnikiem trybu AI w Google i codziennym pomocnikiem w aplikacji Gemini."
+      "summary": "Article URL: https://ice-wm.org/ Comments URL: https://news.ycombinator.com/item?id=50478515 Points: 173 # Comments: 88."
     },
     {
       "title": "Mirendil, founded by former Anthropic researchers to build tools for frontier AI R&D, raised a $1B Series A led by Kleiner Perkins and Clearlake Capital (Sarah Klearman/Wall Street Journal)",
@@ -1301,7 +1301,7 @@
       "date": "2026-11-13T03:14:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://folklore.org/Switcher.html Comments URL: https://news.ycombinator.com/item?id=50477714 Points: 94 # Comments: 26."
+      "summary": "Article URL: https://folklore.org/Switcher.html Comments URL: https://news.ycombinator.com/item?id=50477714 Points: 97 # Comments: 26."
     },
     {
       "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
@@ -1409,6 +1409,14 @@
     }
   ],
   "cybersecurity": [
+    {
+      "title": "Cyberatak na niemieckiego producenta. Bundeswehra uziemiła drony",
+      "url": "https://cyberdefence24.pl/armia-i-sluzby/cyberatak-na-niemieckiego-producenta-bundeswehra-uziemila-drony",
+      "date": "2026-11-13T10:06:35Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Cyberatak na niemieckiego producenta dronów Quantum Systems, dostarczającego bezzałogowce Bundeswehrze i Ukrainie. Nieznani sprawcy umieścili złośliwe oprogramowanie na serwerze aktualizacji firmy."
+    },
     {
       "title": "354 zatrzymanych, 5,7 tony narkotyków i 210 mln euro. Służby uderzyły w przestępców z darknetu",
       "url": "https://cyberdefence24.pl/armia-i-sluzby/354-zatrzymanych-57-tony-narkotykow-i-210-mln-euro-sluzby-uderzyly-w-przestepcow-z-darknetu",
@@ -1770,14 +1778,6 @@
       "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including responses intended for other connections. Fixed versions were released for all three supported lines: 22.23.5, 24.22.3, and 26.13.1."
     },
     {
-      "title": "Reuters nazwał Marsz Niepodległości „marszem skrajnej prawicy”. AI znów tworzy fałszywą rzeczywistość",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/reuters-nazwal-marsz-niepodleglosci-marszem-skrajnej-prawicy-ai-znow-tworzy-falszywa-rzeczywistosc",
-      "date": "2026-11-12T08:15:04Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Agencja Reutera nazwała Marsz Niepodległości „marszem skrajnej prawicy”, co wywołało silną reakcję ze strony polskich odbiorców, w tym osób z pierwszych stron gazet. Wydarzenia ze stolicy pokazały też, że nie uczymy się na błędach, zwłaszcza politycy."
-    },
-    {
       "title": "Who Runs the Ransomware Group Qilin?",
       "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
       "date": "2026-11-11T18:06:01Z",
@@ -1826,6 +1826,14 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Zgromadzenie Ogólne Europejskiego Stowarzyszenia Agencji Prasowych (EANA) wykluczyło w piątek ze swego grona rosyjską agencję TASS, której członkostwo było zawieszone od marca 2022 r. Przyjęto też do stowarzyszenia litewską agencję ELTA."
+    },
+    {
+      "title": "Cyberatak na producenta dronów. Niemcy uziemiają flotę \"Sokołów\"",
+      "url": "https://www.bankier.pl/wiadomosc/Cyberatak-na-producenta-dronow-Niemcy-uziemiaja-flote-Sokolow-9228335.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-13T09:28:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Nieznani sprawcy umieścili szkodliwe oprogramowanie na serwerze aktualizacji monachijskiego producenta dronów Quantum Systems, dostawcy Bundeswehry i Ukrainy. Niemiecka armia czasowo uziemiła całą flotę jego systemów, zagrożenie zostało opanowane – podał w piątek portal tygodnika „Der Spiegel”."
     },
     {
       "title": "Stopy w grudniu bez zmian? Janczyk, RPP: Kluczowe będą decyzje rządu ws. cen energii i paliw",
@@ -1906,14 +1914,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Sanok miał w trzech kwartałach 2026 r. 23,5 mln zł zysku netto StockWatch.pl."
-    },
-    {
-      "title": "Hamowanie polskiej gospodarki w trzecim kwartale. Tempo jednak wciąż wysokie",
-      "url": "https://www.bankier.pl/wiadomosc/Hamowanie-polskiej-gospodarki-w-trzecim-kwartale-Tempo-jednak-wciaz-wysokie-9228300.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-13T08:40:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka w Polsce zwalnia - tak wynika z najnowszych danych Głównego Urzędu Statystycznego, choć ciągle ma się dobrze i jest na dobrej drodze do spełnienia całorocznych prognoz wzrostu na poziomie co najmniej 3,5 proc. Dane mają charakter wstępny i jeszcze mogą ulec rewizji."
     },
     {
       "title": "7Levels miał 184 tys. zł zysku netto w III kwartale 2026 r. - StockWatch.pl",
@@ -2198,12 +2198,12 @@
   ],
   "critical_alerts": [
     {
-      "title": "Twierdził, że zamach w Krakowie był potrzebny. Doszło do incydentu wśród żałobników",
-      "url": "https://www.rp.pl/przestepczosc/art45483891-twierdzil-ze-zamach-w-krakowie-byl-potrzebny-doszlo-do-incydentu-wsrod-zalobnikow",
-      "date": "2026-11-13T09:01:02Z",
-      "source": "Rzeczpospolita",
+      "title": "Eksplozja auta w Moskwie. Na pokładzie postać z otoczenia byłego premiera Ukrainy",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-13/eksplozja-auta-w-moskwie-na-pokladzie-postac-z-otoczenia-bylego-premiera-ukrainy/",
+      "date": "2026-11-13T09:10:00Z",
+      "source": "Polsat News",
       "confirmed_by": 1,
-      "summary": "Policja zatrzymała dwóch mężczyzn w wieku 33 i 50 lat, którzy mieli publicznie pochwalać sobotni zamach terrorystyczny w Krakowie. Jeden z nich zapowiadał zakup broni, drugi wyrażał zaś aprobatę dla ataku w miejscu, w którym mieszkańcy oddawali hołd ofiarom tragedii."
+      "summary": "Były rzecznik prasowy dawnego premiera Ukrainy Mykoły Azarowa ucierpiał w wyniku wybuchu samochodu w Moskwie - podają rosyjskie media. Mężczyzna przetransportowany został do szpitala. To już druga eksplozja auta w Rosji w ciągu dwóch dni."
     },
     {
       "title": "Komitet Regionów wyraził solidarność po zamachu w Krakowie. Tüttő: siła narodu to zdolność do zjednoczenia się - | Serwis Samorządowy PAP",
@@ -2220,8 +2220,8 @@
       "lng": 31.18,
       "type": "conflict",
       "region": "Ukraina",
-      "description": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesToday’s host, Ireland’s Micheál Martin, said discussions will focus on what Europe needs to consider any future Ukraine settlement a just and sustainable peace.“The substance of any peace agreement is as important as who represents Europe.",
-      "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
+      "description": "Kobieta w Legnicy miała uderzać po twarzach trójkę dzieci - chłopca i dwie dziewczynki - pochodzących z Ukrainy, za to, że nie rozmawiały między sobą po polsku.",
+      "url": "https://www.rp.pl/przestepczosc/art45484141-kobieta-w-legnicy-miala-zaatakowac-dzieci-z-ukrainy-prokuratura-kazala-im-mowic-po-polsku"
     },
     {
       "lat": 32.43,
@@ -2236,8 +2236,8 @@
       "lng": 19.5,
       "type": "cyber",
       "region": "Polska",
-      "description": "Agencja Reutera nazwała Marsz Niepodległości „marszem skrajnej prawicy”, co wywołało silną reakcję ze strony polskich odbiorców, w tym osób z pierwszych stron gazet.",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/reuters-nazwal-marsz-niepodleglosci-marszem-skrajnej-prawicy-ai-znow-tworzy-falszywa-rzeczywistosc"
+      "description": "Cyberatak wymierzony w system ePUAP miał sparaliżować pracę polskich urzędów w grudniu – wynika z informacji przekazanych przez Krzysztofa Gawkowskiego na antenie TVP Info.",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/atak-na-epuap-mial-sparalizowac-polska-administracje-gawkowski-przyszedl-z-zagranicy"
     },
     {
       "lat": 55.5,
@@ -2292,8 +2292,8 @@
       "lng": 31.68,
       "type": "cyber",
       "region": "Ukraina",
-      "description": "Rosyjska operacja dezinformacyjna Matrioszka wykorzystuje tragiczne wydarzenia w Krakowie do rozpowszechniania antyukraińskich narracji.",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/rosyjska-matrioszka-wykorzystuje-zamach-w-krakowie-uderza-w-sasiada-polski"
+      "description": "Cyberatak na niemieckiego producenta dronów Quantum Systems, dostarczającego bezzałogowce Bundeswehrze i Ukrainie.",
+      "url": "https://cyberdefence24.pl/armia-i-sluzby/cyberatak-na-niemieckiego-producenta-bundeswehra-uziemila-drony"
     },
     {
       "lat": 40.3,
@@ -2400,7 +2400,19 @@
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/hakerzy-korei-polnocnej-wykradli-kryptowaluty-o-wartosci-ponad-400-mln-dolarow-fbi-ostrzega-posiadaczy"
     }
   ],
-  "instability": [],
+  "instability": [
+    {
+      "name": "Ukraina",
+      "score": 100,
+      "reasons": [
+        {
+          "title": "Kobieta w Legnicy miała zaatakować dzieci z Ukrainy. Prokuratura: kazała im mówić po polsku",
+          "url": "https://www.rp.pl/przestepczosc/art45484141-kobieta-w-legnicy-miala-zaatakowac-dzieci-z-ukrainy-prokuratura-kazala-im-mowic-po-polsku",
+          "source": "Rzeczpospolita"
+        }
+      ]
+    }
+  ],
   "investment_picks": [
     {
       "sector": "Sektor obronny",
@@ -2549,26 +2561,26 @@
     "prices": [
       26964.04,
       27260.71,
-      29520.65,
+      29527.61,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29779.54,
+      29786.56,
       27354.94,
       27400.36,
       27412.11,
-      30204.27,
+      30211.39,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29421.99,
+      29428.93,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29612.14,
+      29619.12,
       27686.17,
       27404.78,
       27351.97,
@@ -2577,7 +2589,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29303.56,
+      29310.48,
       27930.04,
       28234.04,
       28218.36,
@@ -2586,81 +2598,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30185.66,
+      30192.78,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29716.66,
+      29723.67,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29534.52,
+      29541.48,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29844.29,
+      29851.33,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30911.87,
+      30919.16,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31023.92,
+      31031.24,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30580.06,
+      30587.28,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30729.05,
+      30736.3,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30756.31,
+      30763.56,
       28449.73,
       28313.03,
       28272.33,
-      30510.77,
+      30517.97,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30484.95,
+      30492.14,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30855.17,
+      30862.45,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30772.72,
+      30779.98,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31126.64,
+      31133.99,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30520.57,
+      30527.77,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30378.08,
+      30385.25,
       30100.92,
       30418.01,
       30609.55,
