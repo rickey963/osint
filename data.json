@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-13T17:39:15Z",
+  "last_updated": "2026-11-13T17:48:46Z",
   "poland": [
+    {
+      "title": "Nawrocki podpisał sześć ustaw. Wśród nich zniesienie całkowitego zakazu reklamy aptek",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131546,nawrocki-podpisal-szesc-ustaw-wsrod-nich-m-in-zniesienie-calkowitego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-11-13T17:35:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Prezydent Karol Nawrocki zdecydował o podpisaniu sześciu ustaw. Dotyczą m.in. wychowania patriotycznego w szkołach, zniesienia całkowitego zakazu reklamy aptek czy działań antyterrorystycznych."
+    },
     {
       "title": "Rosja uderzyła w blok mieszkalny w Zaporożu. 50 osób rannych, w tym ośmioro dzieci",
       "url": "https://www.rp.pl/konflikty-zbrojne/art45487301-rosja-uderzyla-w-blok-mieszkalny-w-zaporozu-50-osob-rannych-w-tym-osmioro-dzieci",
@@ -10,12 +18,12 @@
       "summary": "Do 50 wzrosła liczba rannych w rosyjskim ataku na Zaporoże. Wśród poszkodowanych jest ośmioro dzieci. Pocisk trafił w czteropiętrowy budynek mieszkalny, uszkodzeniu uległy mieszkania na trzech piętrach."
     },
     {
-      "title": "Awaria Microsoftu w 74 krajach. Sparaliżowane szpitale i banki",
+      "title": "Awaria Microsoftu w 74 krajach. Naprawa udała się na razie tylko w części świata",
       "url": "https://businessinsider.com.pl/gospodarka/banki-sady-szpitale-sparalizowane-microsoft-zalicza-historyczna-wpadke/ys70n61",
       "date": "2026-11-13T17:19:11Z",
       "source": "Business Insider Polska",
       "confirmed_by": 1,
-      "summary": "Miliony użytkowników na całym świecie straciły dostęp do swoich narzędzi pracy z powodu globalnej awarii Microsoftu. Problemy trwały od czwartkowego wieczoru do piątku i dotknęły potencjalnie ponad 430 mln osób. Zakłócenia odnotowano w 74 krajach, paraliżując działanie banków, sądów i instytucji rządowych."
+      "summary": "W piątek po południu Microsoft informuje, że całkowicie zakończył działania naprawcze w regionie Azji i Pacyfiku. Koncern przekazuje również, że odnotowuje znaczną poprawę działania usług w Europie i Ameryce Północnej."
     },
     {
       "title": "Nawrocki zablokował przepisy o nielegalnych treściach w sieci. Ekspert wskazuje konsekwencje",
@@ -234,14 +242,6 @@
       "summary": "- Prezes zwraca uwagę na to, że system d'Hondta premiuje duże listy, jest premia za zwycięstwo, więc jeśli chcemy skutecznie zmienić rząd, to należy skorzystać z tego systemu - mówił w rozmowie z TVN24 Mariusz Błaszczak."
     },
     {
-      "title": "Nowe ustalenia śledczych po zamachu w Krakowie. Prokuratura odtworzyła trasę przejazdu sprawcy",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33131147,nowe-ustalenia-sledczych-po-zamachu-w-krakowie-prokuratura.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-11-13T13:53:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Śledczy prowadzący postępowanie w sprawie tragicznego ataku na krakowskim Rynku Głównym zdołali odtworzyć trasę przejazdu 24-letniego Michała Oksińskiego. Prokuratura Krajowa wciąż analizuje nagrania z monitoringu."
-    },
-    {
       "title": "Tak jak Hania nie dożywają pomocy państwa. Resort zaskakuje i szykuje \"szybką ścieżkę\" dla najbardziej chorych",
       "url": "https://businessinsider.com.pl/prawo/koniec-wielomiesiecznych-kolejek-chorzy-doczekali-sie-ustawa-hani-wchodzi-w-zycie/th79yz8",
       "date": "2026-11-13T13:52:18Z",
@@ -404,6 +404,22 @@
   ],
   "world_security": [
     {
+      "title": "Wall St slides as Nvidia overhang weighs on tech - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5",
+      "date": "2026-11-13T17:36:32Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Wall St slides as Nvidia overhang weighs on tech Reuters."
+    },
+    {
+      "title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
+      "date": "2026-11-13T17:19:01Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia Reuters."
+    },
+    {
       "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
       "url": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany",
       "date": "2026-11-13T17:14:56Z",
@@ -476,12 +492,12 @@
       "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
     },
     {
-      "title": "Wall St reverses early gains as Nvidia fallout rattles tech stocks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5",
-      "date": "2026-11-13T15:43:14Z",
-      "source": "Reuters",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-13T15:42:52Z",
+      "source": "BBC News",
       "confirmed_by": 1,
-      "summary": "Wall St reverses early gains as Nvidia fallout rattles tech stocks Reuters."
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
     },
     {
       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
@@ -578,14 +594,6 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents Reuters."
-    },
-    {
-      "title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
-      "date": "2026-11-13T14:12:25Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia Reuters."
     },
     {
       "title": "BYD launches luxury brand Denza in India, taking on Mercedes, Toyota - Reuters",
@@ -754,14 +762,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Pro-democracy activist Nathan Law and journalist Danny Vincent on the sentencing of the iconic Hong Kong campaigner Joshua Wong to another 10 years in prison. Send your comments and questions to tif.questions@theguardian.comHe has been leading protests since he was 14. Joshua Wong has been on the cover of Time magazine, the focus of a Netflix documentary and an icon for Hong Kong’s pro-democracy movement.Wong has been leading the fight against a Chinese squeeze on freedoms in Hong Kong for the last 15 years."
-    },
-    {
-      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-13T02:48:29Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
     }
   ],
   "world_politics": [
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Wall Street fears Jensen Huang's ouster will slow Nvidia's AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit (New York Times)",
+      "url": "https://www.techmeme.com/261113/p20#a261113p20",
+      "date": "2026-11-13T17:30:02Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "New York Times: Wall Street fears Jensen Huang's ouster will slow Nvidia's AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit &mdash; The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out."
+    },
+    {
       "title": "AI is \"the most likely reason\" you'll die, OpenAI board member warns",
       "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
       "date": "2026-11-13T17:25:45Z",
@@ -1037,7 +1045,7 @@
       "date": "2026-11-13T17:10:33Z",
       "source": "Hacker News",
       "confirmed_by": 2,
-      "summary": "Article URL: https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926 Comments URL: https://news.ycombinator.com/item?id=50486489 Points: 6 # Comments: 2."
+      "summary": "Article URL: https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926 Comments URL: https://news.ycombinator.com/item?id=50486489 Points: 13 # Comments: 5."
     },
     {
       "title": "Sources: Anthropic's IPO, like SpaceX's, is closed to institutional investors in mainland China and Hong Kong, partly due to US arms export rules (Bloomberg)",
@@ -1061,7 +1069,7 @@
       "date": "2026-11-13T17:09:58Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268 Comments URL: https://news.ycombinator.com/item?id=50486482 Points: 13 # Comments: 0."
+      "summary": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268 Comments URL: https://news.ycombinator.com/item?id=50486482 Points: 112 # Comments: 30."
     },
     {
       "title": "\"GTA to tylko przemoc!\". To nieprawda: ta gra również ratuje ludziom życie",
@@ -1070,6 +1078,14 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Może nie bezpośrednio, ale jednak warto jej to zaliczyć w ten sposób. Tym bardziej, że jedno z naszych \"Słońc Narodu\" ostatnio wypowiedziało się krytycznie o grach w kontekście budzenia przemocy. I choć GTA V grą o dobroci wobec świata zdecydowanie nie jest, to jednak dostarcza nauce symulacyjnych sytuacji, których lepiej nie odtwarzać z żywymi ludźmi na prawdziwych drogach."
+    },
+    {
+      "title": "Apify Was Hacked",
+      "url": "https://status.apify.com/incidents/sxd1dj5j6749",
+      "date": "2026-11-13T16:55:59Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://status.apify.com/incidents/sxd1dj5j6749 Comments URL: https://news.ycombinator.com/item?id=50486258 Points: 7 # Comments: 0."
     },
     {
       "title": "999 gramów i Ryzen 7. Ten laptop ma właściwe priorytety",
@@ -1085,7 +1101,7 @@
       "date": "2026-11-13T16:50:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.bbc.com/news/articles/cqdj1ellpd70o Comments URL: https://news.ycombinator.com/item?id=50486178 Points: 9 # Comments: 0."
+      "summary": "Article URL: https://www.bbc.com/news/articles/cqdj1ellpd70o Comments URL: https://news.ycombinator.com/item?id=50486178 Points: 14 # Comments: 0."
     },
     {
       "title": "Philips Ovi Ultra Megabasket seria 5000 - jeszcze lepszy airfryer",
@@ -1149,7 +1165,7 @@
       "date": "2026-11-13T15:52:04Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e Comments URL: https://news.ycombinator.com/item?id=50485295 Points: 102 # Comments: 26."
+      "summary": "Article URL: https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e Comments URL: https://news.ycombinator.com/item?id=50485295 Points: 108 # Comments: 29."
     },
     {
       "title": "Wypadek Airbusa A300 na Heathrow. Po roku wiadomo, co się wydarzyło",
@@ -1173,7 +1189,7 @@
       "date": "2026-11-13T15:29:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 60 # Comments: 41."
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 75 # Comments: 55."
     },
     {
       "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
@@ -1221,15 +1237,7 @@
       "date": "2026-11-13T15:08:44Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 82 # Comments: 36."
-    },
-    {
-      "title": "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
-      "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
-      "date": "2026-11-13T15:08:07Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord Comments URL: https://news.ycombinator.com/item?id=50484650 Points: 31 # Comments: 26."
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 94 # Comments: 42."
     },
     {
       "title": "Okropna decyzja Microsoftu. Będziesz mieć problem ze starszymi dokumentami",
@@ -1376,14 +1384,6 @@
       "summary": "\"You can simplify it as a big tank feeding engines.\"."
     },
     {
-      "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
-      "url": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/",
-      "date": "2026-11-13T11:50:38Z",
-      "source": "Ars Technica",
-      "confirmed_by": 1,
-      "summary": "Specialized’s second-fastest bike may be the smart buy."
-    },
-    {
       "title": "Koniec z nudnymi zasilaczami? Corsair pokazał przezroczysty model Shift Crystal",
       "url": "https://www.benchmark.pl/koniec-z-nudnymi-zasilaczami-corsair-pokazal-przezroczysty-model-shift-crystal-7350557337737248a",
       "date": "2026-11-13T11:49:10Z",
@@ -1424,6 +1424,14 @@
       "source": "The Register",
       "confirmed_by": 1,
       "summary": "If you have one of these AI-generated homepages, you'd better download and save it quick."
+    },
+    {
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "date": "2026-11-13T16:53:08Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server."
     },
     {
       "title": "Email addresses used in European school bomb hoaxes spotted in old infostealer logs",
@@ -1754,14 +1762,6 @@
       "summary": "Fałszywe komunikaty o kończących się produktach, pułapki subskrypcyjne czy mechanizmy skłaniające użytkowników do nadmiernych wydatków. Komisja Europejska zaproponowała nowe przepisy, które mają ograniczyć nieuczciwe praktyki w internecie. Bruksela chce również uzyskać prawo do samodzielnego prowadzenia postępowań i nakładania kar sięgających 6 proc."
     },
     {
-      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-      "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-      "date": "2026-11-12T13:08:28Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. Blackpoint Cyber's Adversary Pursuit Group (APG), which shared the details with The Hacker News, said the recovered attacker toolkit exploits CVE-2026-84869 (CVSS score: 9.9), an."
-    },
-    {
       "title": "„Miliony dzieciaków są prześladowane w sieci”. Gawkowski apeluje do prezydenta ws. głośnej ustawy",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/miliony-dzieciakow-sa-przesladowane-w-sieci-gawkowski-apeluje-do-prezydenta-ws-glosnej-ustawy",
       "date": "2026-11-12T13:06:44Z",
@@ -1810,6 +1810,14 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Od kilku dni w sieci krążą fałszywe informacje o tym, że pieniądze w PPK mają być inwestowane w państwowe projekty infrastrukturalne. Nic takiego nie ma miejsca, ale politycy prawicy – z Mateuszem Morawieckim na czele – nawet po dementi ze strony Polskiego Funduszu Rozwoju rozsiewali dezinformację dalej. Jest to wyjątkowo szkodliwe zachowanie wobec systemu emerytalnego."
+    },
+    {
+      "title": "11 milionów Polaków już zachorowało. Wielu jeszcze o tym nie wie. To atakuje powoli i bez objawów - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeDNIcWp2NWh5VXhsWHhJYXdZMkFPQmdha0FBaDYxd01WM3NiUWpCMGV4Z2tYa2FuQ2YtbzFDVlFsUW1nWi1BWktnYUlGUWlRZWxPYjVMcUdaY0tOdXBtNHJwMnV1cXF1Zy1xZnk4LWV0TjVYeG1XWHlQSUNFb25GZ21sLU01RmtrTUxCWmhyUDVRVVRQR0NiMGpEVjJHc21yS1VtLXNuelpfcW0tUURPQmpQb1RMN1FqbVBFQU50emlhQ1NYTzdqRWtSWGVIVlQ3TkM5VDFpanV5dEg1Y292cmdDekNycl84bTRUazc4ME9ucF9MeGQ3MVpRVQ?oc=5",
+      "date": "2026-11-13T17:16:53Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "11 milionów Polaków już zachorowało. Wielu jeszcze o tym nie wie. To atakuje powoli i bez objawów Forsal.pl."
     },
     {
       "title": "Polska ma surowce na paliwo lotnicze przyszłości, a fabryk nie stawia",
@@ -1916,20 +1924,12 @@
       "summary": "Prezydent Karol Nawrocki zawetował w piątek rządową nowelę wdrażającą Akt o usługach cyfrowych (DSA). Ustawa miała umożliwić blokowanie nielegalnych treści w internecie - w tym zawierających mowę nienawiści."
     },
     {
-      "title": "Komunikat EBI Forbuild SA (forbuild): Skonsolidowany raport kwartalny za III kwartał - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1UtYm55NG5NT1dYV1JWbEJNYjdiamRqRFFDbU1mWmdMOGtKWjAwUl80dVVkUlRLV2VWQWo0SENteThWNHlITVRkaWU2MG9Oc3E3ZzM4d1RBU1ZLSlIwQklZaHBZVGpSUVJ6eTZFUEhJVVhDYUpfSFBWZWt5OU43eWxwdmtCZ2tkcnF1eEpDZ0o3M29adGNiMnNqZWE4cWtFcDFXMTNtbFFLOGJhTnpDZUZXNjNQNXc2UmJPMXVuTzEyclY0ZF9LX3JRSjNNYUM0aktScDl5OA?oc=5",
-      "date": "2026-11-13T15:15:21Z",
-      "source": "StockWatch.pl",
+      "title": "Koniec taniej jazdy - coraz mniej aut z LPG. W warsztacie na montaż instalacji czekasz prawie miesiąc - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN0RWc0lDVGlScVp3SzJnUDJuVGNmTzFxM0U0QnlRUTd2bEo0OTZDOWlfd0w2QzBJS0kwX3d5UDM2Q0lvNXAwMkx4RERGVnVoSFVFdHVBdkJiTXZETm5yd05TSnpPcXZpQ3pDMDRIR1piY0JPbU95OVhBdHAzOVY0dUdueTVyaS1lYUZhQ0MxcGtobGdmckE4aHE3Um9WSjdaVjItUmRKWjBPSlpiVmVmSnc1cnI2TU02SjZGZmJoRXFxcnpUd3hSblY4eDV1STZBZFZQNDUxQ0l4bHNTODFraHR1aE8?oc=5",
+      "date": "2026-11-13T14:47:00Z",
+      "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Komunikat EBI Forbuild SA (forbuild): Skonsolidowany raport kwartalny za III kwartał StockWatch.pl."
-    },
-    {
-      "title": "Ujawniono rosyjskie warunki. Wśród żądań cały Donbas, neutralność Ukrainy i federalizacja Mołdawii",
-      "url": "https://www.bankier.pl/wiadomosc/W-Abu-Zabi-Rosja-zadala-wyjscia-Finlandii-z-NATO-9228540.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-13T14:55:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Podczas prowadzonych w Abu Zabi rozmów o zakończeniu wojny Rosji przeciwko Ukrainie Moskwa domagała się wystąpienia Finlandii z NATO oraz wycofania się sił Sojuszu z terytorium krajów bałtyckich - podał dziennik „Bild” na rosyjskojęzycznym kanale w Telegramie."
+      "summary": "Koniec taniej jazdy - coraz mniej aut z LPG. W warsztacie na montaż instalacji czekasz prawie miesiąc Forsal.pl."
     },
     {
       "title": "Dywidendowe podsumowanie 45. i 46. tygodnia 2026 r. - BiznesRadar",
@@ -1962,6 +1962,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Kim jest dziś intentional traveller? Nie wystarczy już piękny hotel i długa lista atrakcji Forbes."
+    },
+    {
+      "title": "Zmiany w mObywatelu dla milionów Polaków. Ci, którzy nie zrobią tego do 16 listopada będą mieć poważne problemy - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPRDJRQ2syMUxpcFo4d1JEdEdnNEJNbjJGSnEtLUlZdGVxaWFuc0ZxTlBoVmgxbDBYVm9JWlNOVTFEX0l2RElRZ2hhZXdiWXBFWnk5WHYxNWJWemc4d3RHNWNYY0JfZ0k1Qm0wcmNGdXV3QThnQk16WDNiR3AteFdrT2pvZFhxV0lfMjlobG1YS2R4NWVscmx6d01nWlppMmdhWWdiMFNLdmdTQmY4X3FteTNnTndBeHV2RXFIUHF5MHNmZG54YmNQN3NXelltTHJTNDNCNGpKTGFVU2Npa0twVTZjRG9hQlhjbDY0Um8ydlVRaUlNTU1JREtYRHRmREF6elA1S1Y1WnZMcWNhU3VZeFk4WjJFVlVaRkE?oc=5",
+      "date": "2026-11-13T12:18:01Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Zmiany w mObywatelu dla milionów Polaków. Ci, którzy nie zrobią tego do 16 listopada będą mieć poważne problemy Forsal.pl."
     },
     {
       "title": "Wyniki finansowe PCC Exol za III kwartał 2026 r. i plany rozwoju - czat inwestorski z wiceprezesem zarządu",
@@ -2012,20 +2020,20 @@
       "summary": "Notowania INTSNDX03872 INGBANK BiznesRadar."
     },
     {
-      "title": "Notowania INTSPKN03666 INGBANK - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CQUhRR2V0d0xPdjdyUWdpM0steUx0ZXdmVlVTWDRHakd2UUZaSUM3U3FxeHdmN09wcEphTkFPRmFPR1NqY254eG9MSU1TTE9qX3ZvX0N4WDlPcFBmcWc?oc=5",
-      "date": "2026-11-13T09:37:01Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania INTSPKN03666 INGBANK BiznesRadar."
-    },
-    {
       "title": "Potężny problem giganta z Niemiec. Inwestycje wstrzymane",
       "url": "https://www.money.pl/mobility/gigant-z-niemiec-wstrzymuje-inwestycje-mercedes-zamknie-dwie-fabryki-7350511199270912a.html",
       "date": "2026-11-13T09:15:01Z",
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Mercedes-Benz zamroził nowe inwestycje w niemieckich zakładach i analizuje ich przyszłą rentowność. Koncern nie wyklucza zamknięcia dwóch fabryk, ponieważ koszty produkcji w Niemczech pozostają znacznie wyższe niż w Europie Wschodniej – podaje euronews.com."
+    },
+    {
+      "title": "Jest zakaz palenia na balkonach. Jedni się cieszą, drudzy mówią o prześladowaniu. Ale czy to zgodne z prawem? - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbkg0NHlIVlNJSzhDZHp5d29IVmtodC1BU0MwZFVtbWxmcldKRWlScER6ZUdDejUtckpRTml3dFNCcXZxZTJRekZvMFBvS2ZYcE5HbkRFNHc1cVNFZzYwdUVkMjR0YnRoNHc5RGpXc3lkUXhMR0lUNmlqRkxaVUxscTYyVTJyQUJwMFZMYTV0alNERmEtUmVxNFpYUy1WTlBUZGdQUndMTW5QM3RONkt6Q1lWSXJKaTR6aGFvWkhwYTJqZlREdUlhckV0aGIxYmJIc0Ryb1AzajB1ejhNblowSDhYM282ZW03ZWIwaUFJeXFZWGpFblE?oc=5",
+      "date": "2026-11-13T09:11:05Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Jest zakaz palenia na balkonach. Jedni się cieszą, drudzy mówią o prześladowaniu. Ale czy to zgodne z prawem?"
     },
     {
       "title": "MLP Group zwiększa przychody z najmu o 34% i wynajmuje ponad 170 tys. mkw. Zarząd liczy na rekordowy IV kwartał - BiznesRadar",
@@ -2084,6 +2092,14 @@
       "summary": "WIG atakuje historyczne maksima Paweł Biedrzycki pt., 13.11.2026 WIG swig80 WIG.Games Wstęp do wpisu Podsumowanie sesji z 12 listopada 2026: #WIG, #sWIG80, #WIGGames, spółki godne uwagi WIG atakuje historyczne maksima Paweł Biedrzycki."
     },
     {
+      "title": "Płacą 26 tysięcy złotych pensji na rękę. Do tej pracy od zaraz ani matura, ani studia nie są potrzebne - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYnAtY3JYUnJtZGRpdkpRR3hwem5GdDJMMk9vRUFEQ1BtQ2FwSEhVMmR4QV85OHpxeDZ1cEVVWW1OTjZRZVJNQ19vR3pUOXBCYzg3TWhUTlhKa3kxZ21TS2dLQk1TNzlxSXNuV3RKM1NjbEF3bmRCNHBnb1p2aVNqeTBpc3ZCVU43d2RDbkRjckRTVklZcDE3UUQ3NXJjamJEWUFlZ1ZPMFRrSkt6N0NkV3BlRmJYVlV4RGhYb0dpMm1NVGNjSkxMbEc0WVpGUHF4SVBsbGdLS1pPb1o1Wkh2OVFTNXZHRWFIUGlwU2w4ZTloblVyWmcyVlpnN0tZSTRnaElkSnJXUQ?oc=5",
+      "date": "2026-11-13T06:09:32Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Płacą 26 tysięcy złotych pensji na rękę. Do tej pracy od zaraz ani matura, ani studia nie są potrzebne Forsal.pl."
+    },
+    {
       "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 13.11.2026",
       "url": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-13-11-2026-7350476023773184a.html",
       "date": "2026-11-13T06:03:33Z",
@@ -2108,20 +2124,28 @@
       "summary": "Kurs funta szterlinga - 13.11.2026. W piątek za jednego funta brytyjskiego (GBP) trzeba zapłacić 5.2684 zł."
     },
     {
-      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 13.11.2026",
-      "url": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-13-11-2026-7350475856644096a.html",
-      "date": "2026-11-13T06:02:52Z",
-      "source": "Money.pl",
-      "confirmed_by": 1,
-      "summary": "Kurs euro - 13.11.2026. W piątek za jedno euro (EUR) trzeba zapłacić 4.4046 zł."
-    },
-    {
       "title": "Jaka będzie zawodowa przyszłość białych kołnierzyków i juniorów? Ekspert mówi - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1R0dl8wWUEzcDhKSXFOd1d5dTc1S2ZtZWo5VnRDT2FVTGFwQlNabk5MbTA1dEM1cy00U3d4NGZqRXhNbzhtMl82eFVyaldmc1ktQWRBN3doRGEwV2MyREJjbW8wTVgzd2dlM3FhTVNXUEJhQ0JyU2FPcXVzMWxKQ05zUjlCYXRnajd3OWZlV1VaZVJ6d3poRGYzS2VlMlVLNHZjbE5BN00?oc=5",
       "date": "2026-11-13T06:00:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Jaka będzie zawodowa przyszłość białych kołnierzyków i juniorów? Ekspert mówi Forbes."
+    },
+    {
+      "title": "Rewolucyjna zmiana w segregacji odpadów. To już koniec z jeżdżeniem do PSZOK-ów - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWk2MGlTWDBmVzFYeVc4enpXUm1FVkZHaHRYMjFrMGFqX2NQT0ZLYmlsNUFSaUFWSF9mZVhaeTZEbXVyc1NydEFKaDlKaHFfdE1sMnNqSGRQWmQ2MmVlc0dUMXZoeTVGNmNza203Zy1Hay1iekZjdkRHSnlEdDI4WGhvdHNuVVJGTkN2WHN5R2tZazAzVktzZ1gxWHVpT0hCMEIxNWhHU0RscjJuekZUbWhrQmQ5QU5ESjFJQVVHaWw2Q2w2aExZ?oc=5",
+      "date": "2026-11-13T05:24:51Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Rewolucyjna zmiana w segregacji odpadów. To już koniec z jeżdżeniem do PSZOK-ów Forsal.pl."
+    },
+    {
+      "title": "Ogromna zmiana dla seniorów z własnym mieszkaniem. Rząd chce przenieść ich do innych lokali - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1lRcy05ZjNsdklKUHV0eC10V2N3QWctQXdhU3k1ZmRSMmUtTFVEX0llNVp4WUgtODEzRmVzMTdKRW9oU1Z2U1EzWmQxd2g1eGg4dTZ0TTl3aGFvTHRia2pabGhJdXFwVUFpSjFWTS1GY0ZvS3FVRFhvUk9oTG5KYXg2MW1YbWxPRWZRZnZzV3hTdHFIUWRubDhIWWNjdDYyT25FbXJFVFRGUjkwSnRkUDhqaGxWaHRQYVNPa0pHeGVYekJ6QUp1NHJabEZQT3NkYUE?oc=5",
+      "date": "2026-11-13T05:00:00Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Ogromna zmiana dla seniorów z własnym mieszkaniem. Rząd chce przenieść ich do innych lokali Forsal.pl."
     },
     {
       "title": "Notowania RBIFL5TEN2 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
@@ -2164,14 +2188,6 @@
       "summary": "Polacy biorą więcej L4 niż kilkanaście lat temu,. Wraz z tym zmieniły się powody, dla których nie pojawiają się w pracy. Liczba dni absencji związanej z zaburzeniami psychicznymi wzrosła od 2012 roku niemal trzykrotnie."
     },
     {
-      "title": "Jensen Huang ustępuje. Rynek wraca do raportu Culper Research, firmy grającej na spadek akcji Nvidii",
-      "url": "https://strefainwestorow.pl/strefa-global-market/spolki/kolejne-romanse-nvidia-culper-research",
-      "date": "2026-11-12T14:25:55Z",
-      "source": "Strefa Inwestorów",
-      "confirmed_by": 1,
-      "summary": "Jensen Huang ustępuje. Rynek wraca do raportu Culper Research, firmy grającej na spadek akcji Nvidii Szymon Machalica czw., 12.11.2026 Kanał Strefa Global Market Nvidia Treść Jensen Huang ustępuje ze stanowiska prezesa Nvidii ze skutkiem natychmiastowym. Tymczasowo zastąpi go dyrektorka finansowa Colette Kress, zachowując dotychczasowe obowiązki, a spółka rozpoczyna poszukiwania stałego następcy."
-    },
-    {
       "title": "\"Zamykaliśmy Warszawę\". Producent \"Lalki\" zdradza kulisy powstawania filmu - Forbes",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ1c0SkRDdVRkWVk5SklVNVF4UHVLdlQ5N0FBU2tuN2lnQXQ5d2h1czJSRlcwR2NuY2lhXzdXUlVfS2l5d01XY3ZkeVRUNDRMU0hQVnpJN2VOMTZGZWdxMEpBQjdRRlBhLXFXV3M1bVJsMUxNU2w3Ujg2WTRnc2M5NUdVaFZXSVVCeW9KdTdka25Qc2hXQWV5TjQzaEFjbjgwbTVmS0hqLXNtc3IwdHAwOXZR?oc=5",
       "date": "2026-11-12T13:50:00Z",
@@ -2180,28 +2196,12 @@
       "summary": "\"Zamykaliśmy Warszawę\". Producent \"Lalki\" zdradza kulisy powstawania filmu Forbes."
     },
     {
-      "title": "VIII Our Future Forum: o rynku pracy w dobie AI - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUjVqd2IyNlJnZ2dRTzRYQlIwaDA5OV92SXB1c3pHSkpJeTl6MTR3bVFoXzExNVN3SUtaSDlFS20tS0JXUklDY2tPSHRxR1VORXBsR0Zja1pfS1psbTBwZGduNXlHblVGSXBQQWtKVnIzN09zVGFaUGlULXQ3WGVYMXptMWo0bzVzdUE?oc=5",
-      "date": "2026-11-12T13:18:39Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "VIII Our Future Forum: o rynku pracy w dobie AI Forbes."
-    },
-    {
       "title": "Gotówka z obowiązkowym kursem. UOKiK podejrzewa obchodzenie prawa",
       "url": "https://300gospodarka.pl/news/gotowka-z-obowiazkowym-kursem-uokik-podejrzewa-obchodzenie-prawa",
       "date": "2026-11-10T20:44:05Z",
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Prezes UOKiK wszczął postępowania przeciwko D&D Group oraz czterem spółkom z grupy MediQurs. Urząd podejrzewa, że firmy udzielały konsumentom pożyczek pod nazwą „limit gotówkowy”, a warunkiem otrzymania pieniędzy był zakup dodatkowego kursu językowego albo pakietu medycznego. Według UOKiK opłata za tę usługę była w rzeczywistości kosztem kredytu i mogła nawet siedmiokrotnie przekraczać ustawowy limit kosztów pozaodsetkowych."
-    },
-    {
-      "title": "Zaczyna się od niewinnego pytania. Potem AI poznaje nasze finanse, zdrowie i problemy w pracy",
-      "url": "https://300gospodarka.pl/news/zaczyna-sie-od-niewinnego-pytania-potem-ai-poznaje-nasze-finanse-zdrowie-i-problemy-w-pracy",
-      "date": "2026-11-10T20:25:47Z",
-      "source": "300Gospodarka",
-      "confirmed_by": 1,
-      "summary": "Niemal 40 proc. operacji przekazywania danych do narzędzi AI w firmach obejmuje informacje wrażliwe – wynika z analizy Cyberhaven. W badaniu ponad 100 tys."
     }
   ],
   "critical_alerts": [
@@ -2212,14 +2212,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Zamach w Krakowie może stać się punktem zwrotnym dla sposobu, w jaki polskie samorządy projektują i zarządzają przestrzenią publiczną."
-    },
-    {
-      "title": "Nowe ustalenia śledczych po zamachu w Krakowie. Prokuratura odtworzyła trasę przejazdu sprawcy",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33131147,nowe-ustalenia-sledczych-po-zamachu-w-krakowie-prokuratura.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-11-13T13:53:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Śledczy prowadzący postępowanie w sprawie tragicznego ataku na krakowskim Rynku Głównym zdołali odtworzyć trasę przejazdu 24-letniego Michała Oksińskiego. Prokuratura Krajowa wciąż analizuje nagrania z monitoringu."
     }
   ],
   "map_features": [
@@ -2423,10 +2415,6 @@
   ],
   "investment_picks": [
     {
-      "sector": "Sektor obronny",
-      "instrument": "np. ETF iShares Global Aerospace & Defense (ITA)"
-    },
-    {
       "sector": "Złoto i obligacje skarbowe",
       "instrument": "np. ETF na złoto (GLD) lub obligacje skarbowe"
     },
@@ -2570,26 +2558,26 @@
     "prices": [
       26964.04,
       27260.71,
-      29584.73,
+      29585.1,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29844.18,
+      29844.56,
       27354.94,
       27400.36,
       27412.11,
-      30269.83,
+      30270.21,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29485.86,
+      29486.23,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29676.42,
+      29676.79,
       27686.17,
       27404.78,
       27351.97,
@@ -2598,7 +2586,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29367.18,
+      29367.54,
       27930.04,
       28234.04,
       28218.36,
@@ -2607,81 +2595,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30251.18,
+      30251.56,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29781.17,
+      29781.54,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29598.63,
+      29599.0,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29909.07,
+      29909.45,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30978.97,
+      30979.36,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31091.26,
+      31091.65,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30646.45,
+      30646.83,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30795.76,
+      30796.14,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30823.07,
+      30823.46,
       28449.73,
       28313.03,
       28272.33,
-      30577.0,
+      30577.38,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30551.12,
+      30551.51,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30922.15,
+      30922.53,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30839.52,
+      30839.91,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31194.21,
+      31194.6,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30586.82,
+      30587.21,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30444.02,
+      30444.41,
       30100.92,
       30418.01,
       30609.55,
@@ -2696,7 +2684,7 @@
       29382.77,
       29960.16,
       30153.98,
-      30089.65
+      30094.66
     ],
     "currency": "PLN"
   }
