@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T10:21:04Z",
+  "last_updated": "2026-11-14T10:21:43Z",
   "poland": [
     {
       "title": "Włodzimierz Czarzasty zawiesił polityka Lewicy. Piotr Kusznieruk może zostać wyrzucony z partii",
@@ -1237,7 +1237,7 @@
       "date": "2026-11-14T04:23:30Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 102 # Comments: 17."
+      "summary": "Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 112 # Comments: 20."
     },
     {
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -1245,7 +1245,7 @@
       "date": "2026-11-14T02:52:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 563 # Comments: 330."
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 578 # Comments: 335."
     },
     {
       "title": "Ggml v1.0.0",
@@ -1253,7 +1253,7 @@
       "date": "2026-11-14T02:28:29Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 262 # Comments: 42."
+      "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 265 # Comments: 43."
     },
     {
       "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
@@ -1261,7 +1261,7 @@
       "date": "2026-11-14T02:15:41Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/ Comments URL: https://news.ycombinator.com/item?id=50492950 Points: 100 # Comments: 11."
+      "summary": "Article URL: https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/ Comments URL: https://news.ycombinator.com/item?id=50492950 Points: 101 # Comments: 11."
     },
     {
       "title": "Elephants found to be increasingly isolated leading to fractured social networks",
@@ -1269,7 +1269,7 @@
       "date": "2026-11-14T02:02:42Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=50492860 Points: 134 # Comments: 27."
+      "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=50492860 Points: 135 # Comments: 28."
     },
     {
       "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
@@ -1277,7 +1277,7 @@
       "date": "2026-11-14T00:52:29Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 165 # Comments: 59."
+      "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 168 # Comments: 60."
     },
     {
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
@@ -1474,6 +1474,14 @@
       "summary": "Prezydent może zawetować ustawę, ale nie może zawetować problemu – stwierdził w piątek wicepremier Krzysztof Gawkowski. Po odmówieniu podpisania nowelizacji ustawy o świadczeniu usług drogą elektroniczną przez głowę państwa, podczas konferencji prasowej szef resortu cyfryzacji skrytykował Karola Nawrockiego za podjętą decyzję. Zapowiedział również przygotowanie kolejnej ustawy i prace „aż do skutku”."
     },
     {
+      "title": "Autopay zhackowane. Możliwy wyciek danych finansowych. [Aktualizacja]",
+      "url": "https://sekurak.pl/autopay-zhackowane-mozliwy-wyciek-danych-finansowych/",
+      "date": "2026-11-13T17:23:19Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Autopay poinformowało dzisiaj o cyberataku. Jak czytamy: Autopay S.A. stało się celem cyberataku."
+    },
+    {
       "title": "Mozilla leaves Solo website owners to go it alone as hosting shuts down",
       "url": "https://www.theregister.com/software/2026/11/13/mozilla-leaves-solo-website-owners-to-go-it-alone-as-hosting-shuts-down/5309632",
       "date": "2026-11-13T16:59:00Z",
@@ -1664,6 +1672,14 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30, 2026, and targeted Israeli organizations, with a broader follow-up."
+    },
+    {
+      "title": "Trwa globalna awaria Outlooka / Microsoftu 365",
+      "url": "https://sekurak.pl/trwa-globalna-awaria-outlooka-microsoftu-365/",
+      "date": "2026-11-13T07:51:30Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Wygląda to na niekontrolowaną zmianę konfiguracji serwerów (lub infrastruktury sieciowej). W każdym razie część serwerów przestała odpowiadać, a te które zostały nie były w stanie obsłużyć ruchu. Na początek poprawili problemy na pojedynczych serwerach, ale po próbie globalnego rozwiązania problemu &#8211; znowu awaria."
     },
     {
       "title": "Cyberatak na system wynajmu noclegów w Polsce. Uważaj na wyłudzenia",
