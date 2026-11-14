@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T00:50:33Z",
+  "last_updated": "2026-11-14T01:02:47Z",
   "poland": [
     {
       "title": "Wszystkie starty samolotów w Stanach Zjednoczonych wstrzymane. Awaria systemu łączności",
@@ -1008,12 +1008,12 @@
   ],
   "technology": [
     {
-      "title": "First Strike",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html",
-      "date": "2026-11-14T00:00:59Z",
-      "source": "Hacker News",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "date": "2026-11-14T00:49:13Z",
+      "source": "Ars Technica",
       "confirmed_by": 1,
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html Comments URL: https://news.ycombinator.com/item?id=50491944 Points: 29 # Comments: 10."
+      "summary": "One way or another, the company will get some more data on Saturday."
     },
     {
       "title": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (CBS News)",
@@ -1029,7 +1029,7 @@
       "date": "2026-11-13T23:48:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://dfarq.homeip.net/what-happened-to-3com/ Comments URL: https://news.ycombinator.com/item?id=50491830 Points: 9 # Comments: 2."
+      "summary": "Article URL: https://dfarq.homeip.net/what-happened-to-3com/ Comments URL: https://news.ycombinator.com/item?id=50491830 Points: 15 # Comments: 3."
     },
     {
       "title": "Doc-foundry – AI writes Security detection rules, then proves they work",
@@ -1037,7 +1037,7 @@
       "date": "2026-11-13T23:40:12Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/mjha-arya/DOC-foundry Comments URL: https://news.ycombinator.com/item?id=50491753 Points: 3 # Comments: 0."
+      "summary": "Article URL: https://github.com/mjha-arya/DOC-foundry Comments URL: https://news.ycombinator.com/item?id=50491753 Points: 5 # Comments: 0."
     },
     {
       "title": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
@@ -1046,6 +1046,14 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Asi / @airspaceintel: ASI, developer of AI tool SMART, says the FAA outage &ldquo;is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC&rdquo; &mdash; The current ground stop is not based on or a result of the SMART system, any product of ASI or our integration with FAA and ATC."
+    },
+    {
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "url": "https://grounds.top/",
+      "date": "2026-11-13T23:17:39Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://grounds.top/ Comments URL: https://news.ycombinator.com/item?id=50491545 Points: 6 # Comments: 0."
     },
     {
       "title": "FAA orders third nationwide ground stop in its history",
@@ -1061,7 +1069,7 @@
       "date": "2026-11-13T23:06:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 29 # Comments: 13."
+      "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 39 # Comments: 19."
     },
     {
       "title": "How Not to Build a Music Player",
@@ -1069,7 +1077,7 @@
       "date": "2026-11-13T23:04:30Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://alichraghi.github.io/blog/how-not-to-build-a-music-player/ Comments URL: https://news.ycombinator.com/item?id=50491400 Points: 8 # Comments: 0."
+      "summary": "Article URL: https://alichraghi.github.io/blog/how-not-to-build-a-music-player/ Comments URL: https://news.ycombinator.com/item?id=50491400 Points: 13 # Comments: 0."
     },
     {
       "title": "Lying to Zed to get its remote server running on FreeBSD",
@@ -1077,15 +1085,7 @@
       "date": "2026-11-13T22:54:47Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://hayzam.com/blog/03-lying-to-zeds-remote-editor/ Comments URL: https://news.ycombinator.com/item?id=50491295 Points: 3 # Comments: 0."
-    },
-    {
-      "title": "US National Weather Service reports nationwide internet, communications issues",
-      "url": "https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/",
-      "date": "2026-11-13T22:46:53Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/ Comments URL: https://news.ycombinator.com/item?id=50491209 Points: 27 # Comments: 10."
+      "summary": "Article URL: https://hayzam.com/blog/03-lying-to-zeds-remote-editor/ Comments URL: https://news.ycombinator.com/item?id=50491295 Points: 7 # Comments: 0."
     },
     {
       "title": "Source: the FBI is probing whether the FAA outage was caused by a software update, and doesn't believe it was due to a cyberattack or criminality (Myles Miller/Bloomberg)",
@@ -1109,7 +1109,7 @@
       "date": "2026-11-13T22:04:24Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 144 # Comments: 37."
+      "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 162 # Comments: 40."
     },
     {
       "title": "Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO (Wall Street Journal)",
@@ -1892,14 +1892,6 @@
       "summary": "Komunikat EBI Outdoorzy SA (outdoorzy): Raport kwartalny za III kwartał StockWatch.pl."
     },
     {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TTVVYTFF5eWp2MkxFRWxrTWQ0NUY4M3ZqV1FnZDc2OGZPU2RZQ2FyUjdiZjJ5UllTblpRZXBRZGRnWlhib291OHdPZDBSQmNqOWc?oc=5",
-      "date": "2026-11-13T20:18:46Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
       "title": "Odsetki znamy, z inwestowaniem gorzej. PIE sprawdził wiedzę finansową Polaków",
       "url": "https://300gospodarka.pl/news/odsetki-znamy-z-inwestowaniem-gorzej-pie-sprawdzil-wiedze-finansowa-polakow",
       "date": "2026-11-13T19:37:20Z",
@@ -1956,14 +1948,6 @@
       "summary": "Zwolnienie z podatku od spadków i darowizn środków przekazanych ofiarom ataku w Krakowie i ich rodzinom, a także rodzinie zabitych w Ostrowcu Świętokrzyskim - przewiduje projekt rozporządzenia MF opublikowany w piątek. Resort chce także wydłużyć okres składania zeznania o darowiznach."
     },
     {
-      "title": "Dopłacają nawet 95 procent do remontu mieszkania. Jest tylko jeden warunek - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNaWtwMWt2ZUlEVjZ4VTVxSW1HQ19fT3UtUG1WQjVCeDA1Tk1HUHdzMUhlZXNCUTZVZGd6cEVOZWRObnRQVDF5Szd5cllRMTZtOVJrOEVncHl2b3NvOWRFVlJnTWJ0X0w5aEZoVF9sVTFTZWNMYlB0blIwQ0daQzcxZGF1MmxwT2NCSXFZVDV2OEVDdlpCN05mcWpGNWV3NTltMHJUZW5tcjNjRXBrQjViMldaRWZqbUl4T1RoN1NJMnR2Y1c4R2MxQzlOT3lKZXlCdFJ1WDV4bTVkM0JQZVZVWUo2VU51SXhQQjI1eHZlZEVuNmxFR2VsN1o2eU5idGNvSmRuVEFhU0tWdmdhandDNmc5dk1fektSNERYZ2dkcjc3a2I5UkNzN2RINmxJR21Vc05ZMnVfR2FxQQ?oc=5",
-      "date": "2026-11-13T17:46:17Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Dopłacają nawet 95 procent do remontu mieszkania. Jest tylko jeden warunek Forsal.pl."
-    },
-    {
       "title": "Notowania INTSMCR03831 INGBANK - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LQnMtT2VGWHJGdnBhM0V3MXBzdUVLSzBPLTBWWkl2Q0FzNTFmLWFkT2U5MUlWTEpMZW4zRDM1azlRUENuY3B4bTdJcG1pci1rWExaZHg4WG9UUU5JRHc?oc=5",
       "date": "2026-11-13T17:35:57Z",
@@ -1986,14 +1970,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Polska nie produkuje jeszcze zrównoważonych paliw lotniczych SAF i całość sprowadza z zagranicy, choć dysponuje dużymi zasobami surowców potrzebnych do ich wytwarzania. Tymczasem unijne wymagania szybko rosną: od 2025 r. SAF musi stanowić co najmniej 2 proc."
-    },
-    {
-      "title": "Ostatnie godziny Jensena Huanga jako CEO Nvidii. Mówił że “nie obchodzi go jego dalszy los” - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmZaSWtWU1VBaXNNYUtuRDJBNDRHOG9WMkhoVDV5clYxUUtDRlBzczlMRV9RUW1ELXdwX0xnb3Z4YXljRFFXUUpLVEtGOElVbzA4SkllQVFzZ1RWQ00wTkJRdTkySDNCamRJU0NDX1owX0RfTE0wbXFxemJZempFYlRlTlZWYXBkVG1RWDZmcEVLNmo0OHlYMFh3WmQ2V2M0bmNOdHN4b1cyZlY0RTNzV1hKOEJIc0wxMGlz?oc=5",
-      "date": "2026-11-13T17:00:00Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Ostatnie godziny Jensena Huanga jako CEO Nvidii. Mówił że “nie obchodzi go jego dalszy los” Forsal.pl."
     },
     {
       "title": "Ile kosztują euro, dolar i frank? Kursy walut 13.11.2026 - Forsal.pl",
@@ -2060,6 +2036,14 @@
       "summary": "IFIRMA S.A. wypłaci kolejną zaliczkę na poczet dywidendy za 2026 rok BiznesRadar."
     },
     {
+      "title": "Długie weekendy 2027. Jak zaplanować urlop w przyszłym roku kalendarzowym? - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTlp6azlKZmJRMDdkVWxiNHBTS091WGhtZVlKMG41UmFRVHdQLVEzRVE4OUctTW1KY0VQMmsyOUdKWUd1OW52SW00cTBtcVlRTERMN0JvZDZFS3BvWXVRalg2d1BVS2NCT1lhTGRWcXp1YjE4c0p2cmp1OXhUdGd3M0pEazhJV3h3VXVfX2dWZzFnQUctOHhyRS1STGdoaldTSGJQdXh3b0gwOTMzVFJQbnBGNEFFcHY4eEVB?oc=5",
+      "date": "2026-11-13T11:25:15Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Długie weekendy 2027. Jak zaplanować urlop w przyszłym roku kalendarzowym? Forsal.pl."
+    },
+    {
       "title": "Technologia działa, teraz czas na sprzedaż, mówi zarząd Green Lanes",
       "url": "https://strefainwestorow.pl/wywiady/green-lanes-jacek-kramarz-komercjalizacja-strumber",
       "date": "2026-11-13T11:24:24Z",
@@ -2074,6 +2058,22 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Wyniki finansowe Grupy NEUCA za III kwartał 2026 r. – czat inwestorski z przedstawicielami spółki Czaty pt., 13.11.2026 Obrazek."
+    },
+    {
+      "title": "Jak bardzo wzrosły ceny? Są nowe dane o inflacji - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSVJ6OG8zR3hqcjlhMWxHNnp5aE1fT1RPSU03OWNxT2RvZmd1SlYxQVhZS2x6MWQyR1NrWllaRGRpelVIUDhmODV3bnNjTEVTbDVXeHJ1N05QeDcxeGNvU3lwUVVPNElWeVItMG1JS05ZbFdfRlNWQktZSmlVWWFnQy1GZFF0dmd5ajZZcHN5MWhsdlZRYVplUDVoVWNKODl1cW50VkI1b3BVYnRU?oc=5",
+      "date": "2026-11-13T10:07:36Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Jak bardzo wzrosły ceny? Są nowe dane o inflacji Forsal.pl."
+    },
+    {
+      "title": "Są nowe dane o PKB Polski. Ekonomiści: Gospodarka zwolniła, ale nie straciła pędu - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaDA1cC1sZmZybk8xZFhIUE1kTlBXT0hBNlhOeHNxR3AycnN2QVQ0ejBzZ0h2cnBNOWxsa3lpZkFaNDBWSXI3cEQ3bUJJbUg0Q09ONGM3T09mckVHMFFFWEtVc0ZPbV9yb2Nwbkt3RVJrVnl4T0tySTFnREZBSWY5XzYxSW5TTk04dlEybHFVWVR1VGdhV1FEeWlqMmh2YUJlcTMwOW1pN1RoaGp5ZWVyM1RlcWgtWXYxdERKNXhFU1JlVDlwMVJseTlKdjlPQW8?oc=5",
+      "date": "2026-11-13T09:58:35Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Są nowe dane o PKB Polski. Ekonomiści: Gospodarka zwolniła, ale nie straciła pędu Forsal.pl."
     },
     {
       "title": "Polska może zapłacić wysoką cenę za odkładanie reform finansów publicznych",
