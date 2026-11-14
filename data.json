@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T06:42:21Z",
+  "last_updated": "2026-11-14T06:43:04Z",
   "poland": [
     {
       "title": "Republika Sotoa kontra Federacja Centra Usea. Kolejna odsłona podniebnej ofensywy",
@@ -404,11 +404,19 @@
   ],
   "world_security": [
     {
+      "title": "Microsoft says services fully restored after for day-long global outage",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-14T06:42:27Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+    },
+    {
       "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
       "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
       "date": "2026-11-14T06:19:04Z",
       "source": "The Guardian",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Experts say disruption exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restoredGet our breaking news email, free app or daily news podcastThe Microsoft outage could be a disaster for the Australian economy that forces some small businesses to close, with costs expected to run into the billions of dollars, experts have warned.The US software company has said it is “deeply sorry” for a widespread outage that caused disruption to millions of users, organisations and businesses across the globe – and that it has “addressed the underlying issue”. Continue reading..."
     },
     {
@@ -418,6 +426,14 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
+    },
+    {
+      "title": "Microsoft says consumer products services recovered; still monitoring enterprise services - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkxxbE1VclJTQkp3R3ZZR3M4b0UtTUNMMmIzb09GSzlZQU1kUDQzN3ZKRXhleXhXV1BUd1lEMXVSMnZBUDN3WEwwdUM0QVhydk5mZWwxZnRndlJHd2FEQUpWUnRaeG5raGFMY2Z2M1RHRlZYLThiVktPTVVsYVFFS0dkMHlyNmtPNWRlQ3NsYjNRY0dxZVdQaFhRUlRpMTNjdlZqbDBZcVg3Q0tRV3ZFWlQ1bTJIZHl3WXFDV2FJbFVocm8w?oc=5",
+      "date": "2026-11-14T05:40:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Microsoft says consumer products services recovered; still monitoring enterprise services Reuters."
     },
     {
       "title": "Trump, other Quad leaders to meet in Manila on Tuesday, sources say - Reuters",
@@ -612,14 +628,6 @@
       "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire."
     },
     {
-      "title": "Republican Lauren Boebert, a colorful conservative, loses reelection bid in Colorado, according to US media - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM0lkZE5xVG04SW9xZjBEZ1NndWRVZEhtVVU0TThJeDhMZ19fajZOVkFCS1dmYm8xNUZzcFdmS1U1Umt5VkZqaTFwLXk1MGh1MjBIcVR0MkZaa1hpTGp4UHl3TE1JeUNpOU5wMi02SjRubHdDVFRFdjhhM2p4RXFNZmpBUEF4WElEd1RSRlNhSklkbzZQWGhxeXViaHNkOE1xZm9BU19FOElUalZqQlNIT0lNRHlNTWlsaWlVQ1VfOWxJUk1CWjdlbnV3?oc=5",
-      "date": "2026-11-13T23:09:59Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Republican Lauren Boebert, a colorful conservative, loses reelection bid in Colorado, according to US media Reuters."
-    },
-    {
       "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
       "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-13T23:00:31Z",
@@ -722,14 +730,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
-    },
-    {
-      "title": "At least 24 killed after bus collides with truck in north-east India",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-13T15:16:50Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified."
     },
     {
       "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
@@ -1101,7 +1101,7 @@
       "date": "2026-11-14T02:52:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 301 # Comments: 151."
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 322 # Comments: 163."
     },
     {
       "title": "Ggml v1.0.0",
@@ -1109,7 +1109,7 @@
       "date": "2026-11-14T02:28:29Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 145 # Comments: 28."
+      "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 157 # Comments: 28."
     },
     {
       "title": "Tesla says \"select customers\" can now place orders for its Cybercab \"for personal use\", for $30K plus a required $299/month Autonomy Subscription to operate (Kara Carlson/Bloomberg)",
@@ -1125,7 +1125,7 @@
       "date": "2026-11-14T02:21:36Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 158 # Comments: 34."
+      "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 165 # Comments: 34."
     },
     {
       "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
@@ -1133,7 +1133,7 @@
       "date": "2026-11-14T02:15:41Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/ Comments URL: https://news.ycombinator.com/item?id=50492950 Points: 57 # Comments: 2."
+      "summary": "Article URL: https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/ Comments URL: https://news.ycombinator.com/item?id=50492950 Points: 62 # Comments: 2."
     },
     {
       "title": "Elephants found to be increasingly isolated leading to fractured social networks",
@@ -1141,7 +1141,7 @@
       "date": "2026-11-14T02:02:42Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=50492860 Points: 102 # Comments: 20."
+      "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=50492860 Points: 109 # Comments: 20."
     },
     {
       "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
@@ -1149,7 +1149,7 @@
       "date": "2026-11-14T00:52:29Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 153 # Comments: 47."
+      "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 154 # Comments: 47."
     },
     {
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
