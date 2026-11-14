@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-14T08:41:24Z",
+  "last_updated": "2026-11-14T08:42:04Z",
   "poland": [
+    {
+      "title": "Szykuje się spotkanie przywódców trzech mocarstw. Biały Dom potwierdza",
+      "url": "https://businessinsider.com.pl/gospodarka/donald-trump-spotka-sie-z-wladimirem-putinem-i-xi-jinpingiem-kluczowe-rozmowy-w/pbrf1xf",
+      "date": "2026-11-14T08:41:09Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Donald Trump spotka się m.in. z prezydentem Rosji Władimirem Putinem. Do rozmów przywódców trzech mocarstw ma dojść 19 listopada, przy okazji szczytu Współpracy Gospodarczej Azji i Pacyfiku w Shenzhen — informuje Bloomberg."
+    },
     {
       "title": "Wszyscy pasażerowie uratowani po kolizji statków na Missisipi. Burmistrzyni miasta mówi o \"cudzie\"",
       "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33131806,wszyscy-pasazerowie-uratowani-po-kolizji-statkow-na-missisipi.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -152,14 +160,6 @@
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Kto żyw, broni stolicy przed myśliwcami wroga!"
-    },
-    {
-      "title": "„Fascynacja skrajnie prawicowymi ideologiami”. Sondaż: Polacy źle oceniają słowa Marcina Kierwińskiego",
-      "url": "https://www.rp.pl/spoleczenstwo/art45487891-fascynacja-skrajnie-prawicowymi-ideologiami-sondaz-polacy-zle-oceniaja-slowa-marcina-kierwinskiego",
-      "date": "2026-11-14T06:13:42Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Ponad połowa Polaków negatywnie ocenia wypowiedź szefa MSWiA Marcina Kierwińskiego, który w dniu zamachu, do którego doszło 7 listopada w Krakowie, wskazał, że sprawca mógł fascynować się „ideologiami prawicowymi”."
     },
     {
       "title": "Nowa sala balowa przytłacza Biały Dom. Zdjęcie pokazało skalę projektu Trumpa",
@@ -1796,6 +1796,14 @@
   ],
   "finance": [
     {
+      "title": "Demokrata wygrał wybory na gubernatora Alaski. Pierwsze takie zwycięstwo od 1998 roku",
+      "url": "https://www.bankier.pl/wiadomosc/Zmiana-wladzy-na-Alasce-po-osmiu-latach-rzadow-Republikanow-9228907.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-14T08:39:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Kandydat Partii Demokratycznej Jonathan Kreiss-Tomkins zwyciężył w wyborach na gubernatora na Alasce po raz pierwszy od 1998 roku - wynika z opublikowanych w sobotę prognoz AP i NBC News. Jeśli prognozy się potwierdzą, Alaska stanie się 30. stanem USA, w którym Demokraci będą mieć gubernatora."
+    },
+    {
       "title": "ZUS ma nowy plan. Wiemy już, co z emeryturami i rentami w 2027 r. Wielu seniorów na pewno się zdziwi - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFlDNG4ya25QNjZIdUNod1BmM3hBaUQ1NDVSOEhuOFFDS3VaTjRTRHBVMUhZY0dJTG9sVVhhQmt3Y1k1UGZ4SGZvbGxMRmt0ZG1CUV9FVy16a2ctMXJYWGNlVnhkU2RYWjNXdGRxSllsMUNZYUUxbG1VaXNIcnVJdU1oZlJKRmhyUHJBTVVTV3Z0Q2E0d0tLU3hYc1ItVUdoZU56LWU0MWZwaDktOHB6VU1vZklxMmU1cXBNd25NQzhIUXVnLWc?oc=5",
       "date": "2026-11-14T08:27:11Z",
@@ -1860,14 +1868,6 @@
       "summary": "Wielka awaria Microsoft. Firma potwierdziła pełne przywrócenie działania Forsal.pl."
     },
     {
-      "title": "Żurek informuje o zarzucie dla pracownika TV Republika. Zastosowano dozór policji",
-      "url": "https://www.bankier.pl/wiadomosc/Zurek-informuje-o-zarzucie-dla-pracownika-TV-Republika-Zastosowano-dozor-policji-9228840.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-14T07:56:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Pracownik TV Republika Jarosław O. usłyszał zarzut naruszenia miru domowego w związku z wydarzeniami z 20 maja br., gdy pracownicy stacji wdarli się do budynku Prokuratury Krajowej podczas przesłuchania Tomasza Sakiewicza - poinformował w piątek prokurator generalny Waldemar Żurek."
-    },
-    {
       "title": "Połowa ofert pracy tylko z 5 pięciu regionów kraju. W całym kraju brakuje pracowników - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVHIwQTV2WXE4QUtyY1NDTGtvSVpBLXlvbXEtX1dEZWZWWGZTdmxwS1R5Y242RUh5OXJDWjdvYjNwVmphS1pWQlRjLWE4RFl2cW90dUlaZUk1Q2M2UXU1R3Z2S3BDY0lNVUZFclVFcHRGQWtzcWotam1mLVQ1dXZlYzJHeFE3S2xFUGVKQ0hVXzVPQ1pBbEZRTV9HeHVOR1VNaUZ4NmFCOVBjbXB4RHlXWkpDSGxhelVxZ3NTSlBrLWRCaFBWVWc?oc=5",
       "date": "2026-11-14T07:46:02Z",
@@ -1876,12 +1876,28 @@
       "summary": "Połowa ofert pracy tylko z 5 pięciu regionów kraju. W całym kraju brakuje pracowników Forsal.pl."
     },
     {
+      "title": "Wiadomości INTLGLD03542 INGBANK - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OWmNnWHBUd0x4d1pwWFdvRnRHLWFtMjJXR083QWlhcFVteVAyV1V3ZXhxXy0tUlBRM2J1RlRQSjFyaGVQYi1BbWhBV0xkY2ZELUhaT3NDaVlrWWlMbF9N?oc=5",
+      "date": "2026-11-14T07:30:41Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości INTLGLD03542 INGBANK BiznesRadar."
+    },
+    {
       "title": "Nowe ceny paliw na weekend. 75 zł różnicy przy dystrybutorze. Benzyna dwa grosze od 6 zł - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVWFzUTlWeFF5eTJYTGdSd2NaVWZOX29pdEpYM2J1MjY1MTlyN3FHeWxxT1RXdU9GVXpOcDkxb2RKcUlPUXpKOWFwcUNRZWZHYV9wa0R1WS1lYmJiWWtoNWJyOFUtc1NhTkxORHlMVDU5R3ZiUExQaVMxQjQxTWJaZE9KeGJXZW01WHIzS3UwazNRb1hVbWs5ZFVZcXg4VnZhQ0RiTmtjN0t6WWhUOEZWZWZKYTFBb3BKYkl4VExlVE9YQmxxY1F4WGtsblNzTmpLLVlqQWdUWVZSM2tD?oc=5",
       "date": "2026-11-14T07:25:07Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Nowe ceny paliw na weekend. 75 zł różnicy przy dystrybutorze. Benzyna dwa grosze od 6 zł Forsal.pl."
+    },
+    {
+      "title": "Analiza techniczna INTSMCR03831 INGBANK - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0eGI3d3g4VjFfUXNicTV1U1AybmcyZDNfd2tGZDg4akRNeWhuX0RyQV9fc2xIYXlIZHQ2UEs0cnBmdjU3TlN0VHh3UlZWUEFvYlptSVBvVW1TTXJmNWtaOGNpa3RTWldUT1l4SWVfLWFIcFpzUGRv?oc=5",
+      "date": "2026-11-14T07:04:34Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Analiza techniczna INTSMCR03831 INGBANK BiznesRadar."
     },
     {
       "title": "Wiadomości INTLCPS03781 INGBANK - BiznesRadar",
@@ -1908,36 +1924,20 @@
       "summary": "PSZOK odmówi przyjęcia zużytej opony. Właściciela może czekać kosztowna niespodzianka Forsal.pl."
     },
     {
-      "title": "Sygnały analizy technicznej INTLMCR03807 INGBANK - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMG1RbUNRMHFBSGpHaHZrcDk3VmtkenpyTmU2SDJSbjdPdFMxSW4tLWZldlFSM19hNXR3U2h6N2lsTmtzX20tV1J0VTFZRnJlX01lTU91dWtIUE5MdUFJWHZ0U0ZETk9qb2hWd0RRX1VMUmNp?oc=5",
-      "date": "2026-11-14T06:18:46Z",
+      "title": "Wiadomości RBIFS4ACP4 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIUFZyOW9HTXZtQk1fcmVBVDl2a28wNTN5RzM0dm51aXFHNUVoQUpRZC1oUFdFNUFVcVBnRGpZeHNfYzF3Wm9JMGhpU2dNRjE0SklIQkdDZUhqZkRr?oc=5",
+      "date": "2026-11-14T06:20:54Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Sygnały analizy technicznej INTLMCR03807 INGBANK BiznesRadar."
+      "summary": "Wiadomości RBIFS4ACP4 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
-      "title": "Analiza techniczna INTSPKN03666 INGBANK - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MQ003dVIySGdZM1RKWFdrSVlnbm9ENmhXdE9iOTQ1bnNsM21kUUo0WThNYTQwT2FUV2NCZHJUWGFrVlJBM0dnbVVDNHU3dGtkUE1yR2xkRC1rZUJINExnTldPYVUwYkJVYTNFVlRhOGE5N1U?oc=5",
-      "date": "2026-11-14T06:18:43Z",
+      "title": "Trendy RBIFS4EBP RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZQkN0VVNETDkwRjRCMEcxcmtEMGdpQjhUbDkyQXQ5V0dTOF9VUWNwMDdWbVZpaVpCd293T21NWnptOVUxSS0tNnM0T2lfVVc3SGhQcXlZQmlNcjN1NV8wZ2VEVU8yUXlTY1RBS2VXbw?oc=5",
+      "date": "2026-11-14T06:18:47Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Analiza techniczna INTSPKN03666 INGBANK BiznesRadar."
-    },
-    {
-      "title": "Analiza techniczna INTLGLD03559 INGBANK - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11V2U3WHM5X2JvT3luVUJlTzVfeTQwQzN3cXpPQlRLd3FkY2tlVzZhUlZiLWpGX2hLZ0Y3cjNmeF9QNUw4Y1ZDMHpvQks5WnZRQWZiMGhWUEVMcTdvYzFZTTdTeGtmRm9jeENyajVkSFJXWWVtV0Jv?oc=5",
-      "date": "2026-11-14T06:18:42Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Analiza techniczna INTLGLD03559 INGBANK BiznesRadar."
-    },
-    {
-      "title": "Trendy RBIFL5BHW1 RAIFFEISEN BANK INTERNATIONAL - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaZldjOU5rNDNtSURMQ2NsSVVWYjRhMjU3OVQwejc3ZGJTU25uY3V5bWx1RzhSVE9haldXNENuS2FwR3A5cGFmMDI5YUJ3ZlFpNmNnVlFaVndEUUNUY1ZqMUNRZ0VSams4N3ozbWk1a2s?oc=5",
-      "date": "2026-11-14T06:18:41Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Trendy RBIFL5BHW1 RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
+      "summary": "Trendy RBIFS4EBP RAIFFEISEN BANK INTERNATIONAL BiznesRadar."
     },
     {
       "title": "Obrońcy konsumentów czy handlarze spokojem? Ujawniamy, jak roszczenia klientów stały się kartą przetargową Helpfind",
@@ -2012,14 +2012,6 @@
       "summary": "Raport kwartalny za III kwartał - komunikat spółki Ovid Works SA (ovidworks) - komunikat EBI StockWatch.pl."
     },
     {
-      "title": "Biznes, Gospodarka, Świat - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TTVVYTFF5eWp2MkxFRWxrTWQ0NUY4M3ZqV1FnZDc2OGZPU2RZQ2FyUjdiZjJ5UllTblpRZXBRZGRnWlhib291OHdPZDBSQmNqOWc?oc=5",
-      "date": "2026-11-13T20:18:46Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Biznes, Gospodarka, Świat Forsal.pl."
-    },
-    {
       "title": "Odsetki znamy, z inwestowaniem gorzej. PIE sprawdził wiedzę finansową Polaków",
       "url": "https://300gospodarka.pl/news/odsetki-znamy-z-inwestowaniem-gorzej-pie-sprawdzil-wiedze-finansowa-polakow",
       "date": "2026-11-13T19:37:20Z",
@@ -2042,6 +2034,14 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Polska nie produkuje jeszcze zrównoważonych paliw lotniczych SAF i całość sprowadza z zagranicy, choć dysponuje dużymi zasobami surowców potrzebnych do ich wytwarzania. Tymczasem unijne wymagania szybko rosną: od 2025 r. SAF musi stanowić co najmniej 2 proc."
+    },
+    {
+      "title": "Ile kosztują euro, dolar i frank? Kursy walut 13.11.2026 - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXk2MW9TQ2w1M2R2eDlJQ0xTblFkNGl6cmM3aUktOFh1ZTBQU2x2Ty1HQWctLU1YZmc5TEs1TU92bGdzNE9lcXhMT1VBWEhYZjZPV25IeFM2QU5WbnZQQUZScHdYaTJXS2RlalJvcmg5R2dEN2ZLQUVTb3JSam9WUmhseTVKQ0xUX2VvX2RQejQ3YTJYbllsYmgweVFfVkRQYTBoUkw0bG9KMFQy?oc=5",
+      "date": "2026-11-13T16:37:11Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Ile kosztują euro, dolar i frank? Kursy walut 13.11.2026 Forsal.pl."
     },
     {
       "title": "Płacą 26 tysięcy miesięcznie... na rękę i zatrudniają na pniu. Matura, ani studia nie są potrzebne - Forsal.pl",
@@ -2198,12 +2198,9 @@
   ],
   "critical_alerts": [
     {
-      "title": "„Fascynacja skrajnie prawicowymi ideologiami”. Sondaż: Polacy źle oceniają słowa Marcina Kierwińskiego",
-      "url": "https://www.rp.pl/spoleczenstwo/art45487891-fascynacja-skrajnie-prawicowymi-ideologiami-sondaz-polacy-zle-oceniaja-slowa-marcina-kierwinskiego",
-      "date": "2026-11-14T06:13:42Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Ponad połowa Polaków negatywnie ocenia wypowiedź szefa MSWiA Marcina Kierwińskiego, który w dniu zamachu, do którego doszło 7 listopada w Krakowie, wskazał, że sprawca mógł fascynować się „ideologiami prawicowymi”."
+      "title": "Sytuacja stabilna - brak nowych alarmów krytycznych",
+      "url": "",
+      "source": ""
     }
   ],
   "map_features": [
