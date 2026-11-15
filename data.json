@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T09:15:13Z",
+  "last_updated": "2026-11-15T09:15:55Z",
   "poland": [
     {
       "title": "Biolog wydał miliony na walkę o długowieczność. \"Nadal uważam, że cztery proste nawyki są najważniejsze\"",
@@ -1418,6 +1418,14 @@
       "summary": "Cambridge museum celebrates the world's first business computer with films, family activities, and a little Python."
     },
     {
+      "title": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
+      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "date": "2026-11-15T08:22:04Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update. \"The key was exposed by Fireworks, and the attacker used it to copy data from a read-only."
+    },
+    {
       "title": "AI może zastawić pułapkę na służby. Jeden błąd zmienia obraz przeciwnika",
       "url": "https://cyberdefence24.pl/technologie/ai-moze-zastawic-pulapke-na-sluzby-jeden-blad-zmienia-obraz-przeciwnika",
       "date": "2026-11-15T07:12:52Z",
@@ -1800,14 +1808,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Międzynarodowa operacja Europolu doprowadziła do zablokowania setek serwerów i domen wykorzystywanych do przeprowadzania cyberataków. Służby zabezpieczyły 6,4 mln zestawów danych ofiar złośliwego oprogramowania. W działaniach uczestniczyli także polscy funkcjonariusze."
-    },
-    {
-      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
-      "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-      "date": "2026-11-12T15:38:49Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass. The critical vulnerabilities that impact NetScaler ADC and NetScaler Gateway are listed below - CVE-2026-120868 (CVSS score: 9.3) - A memory overflow vulnerability in Packet."
     }
   ],
   "finance": [
@@ -1892,6 +1892,14 @@
       "summary": "Jeden z wysokich rangą dowódców Hamasu, który pomagał w planowaniu i kierowaniu atakiem na Izrael z 7 października 2023 r., zginął w izraelskim nalocie - poinformowała w niedzielę ta palestyńska organizacja. Śmierć bojownika potwierdziły też izraelskie siły zbrojne Izraela."
     },
     {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxb2lhQW5fd3pxckxQYzZiS1p4OHhuYzNuVWl3YnpNbHpWR3BNNVRaRWRTTHduZWlIR2I3cW05YnVHeE5jM1JibUhSZ3kxV2Z3clh4ZW1HenNVdlE?oc=5",
+      "date": "2026-11-15T06:00:24Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
       "title": "Boisko opuszczał zalany łzami. Miał 19 lat. Dziś jego firma zarabia miliony - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaHlFcUFEZWVjSTJmWmNaM19VNXRqQW1RNldEOEN5TGF4T1RzSWhkSmFjVV9Ka1hQNkxPQVFfcnk2XzlCZk0yeFJpXzVZQmJ2WGx5VjZNU3loUWlhUU51Z0NlOWFtMkRwZ3pMaVk2eFBvb1Z1TUtJLWtkQXh6N0xib1BMcEV1dFVJUjJJdndKN0Z1cFJpLXkwU25LUHFfTzQ5V0RwSnNRdkdTb3c?oc=5",
       "date": "2026-11-15T06:00:00Z",
@@ -1916,28 +1924,12 @@
       "summary": "Niedziela handlowa 15.11.2026: sklepy otwarte 15 listopada czy obowiązuje zakaz handlu. Czy dzisiaj jest niedziela handlowa? Forsal.pl."
     },
     {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4WW1UVU9XZUtvSllodXhwdU0tb2V1WVV4UExZX2VYYjlrUG1ObXhOdko4bFFETmVsWi00RnI0ZV9fOXJKSHNLc2d6MjdNUFRzVTg5dzBR?oc=5",
-      "date": "2026-11-14T21:47:22Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
-    },
-    {
       "title": "Wyrok TK: Można z sądu wyjść z 300 000 zł za słupy, wodociągi, gazociągi na działkach. Choć częściej będzie 3000 - 30000 zł - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOemlqZ25EaFp1dEpGdHhjOXlkckVqSnhSRXFDVjQ5SlRGOUZJYnl2ZTQ4bDY1bVN3SzF4UE43eG5TZjF5YWpJRTVKMG9udVYxaXJFZUdhUHFyS3ZuNlExV3VjMm1OS2VTZ0NBS0xzODRHcncyN3NSdjZkOXM0ZVJFNmRlaGpGeFkzS2lPazdLWWtLbk84LUhKbm45VmVJcXhCMmdUbFlKVXc2WWJYSnVqcmJoRkJPc3c4ckZHX0lnWXY3cWxDeVdmbEE4WERfM212N3I2dWtDdmI3NFh5WTViUFYtWE9iZGZ5UDgtYnVnRFJpU1E4S0JWUlpDYjR5NnA2cWh1ak41M2FzV3BNRVE0UVR3?oc=5",
       "date": "2026-11-14T20:05:16Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Wyrok TK: Można z sądu wyjść z 300 000 zł za słupy, wodociągi, gazociągi na działkach. Choć częściej będzie 3000 - 30000 zł Forsal.pl."
-    },
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50M1N0YUpZS3pad0pjc1J2dE5JMktDaVVhVU5vQ3NtU2dkVVREX3JTQVpHVmkyTnV0OEhSazdQNjhjcGdoODZuX2o5NlJkMzl1QTVkenB6S1JreGJnUlJ5TVN0Ui1XTFgxdWc?oc=5",
-      "date": "2026-11-14T19:36:03Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Komunikat EBI Madkom SA (madkom): Inne informacje - StockWatch.pl",
@@ -1970,6 +1962,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Impuls i korekta - 14 listopada 2026 tchoman sob., 14.11.2026 Treść To o czym ostatnio pisałem i zwracałem uwagę odnośnie S&P 500 właśnie dzieje się. Kurs dotarł do poprzednio wyłamanego wsparcia i się odbił. Aby myśleć o dalszych wzrostach włącznie z nowymi maksimami najpierw muszą uporać się właśnie z tym oporem, a tak to można interpretować jako powrót przed kontynuacją spadków."
+    },
+    {
+      "title": "PFRON: Punkty preferencyjne i nieodpłatny sprzęt dla osób niepełnosprawnych - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVEgzWWV6YkpXT3hkY0xLb2dkbkZ1QU9tSW00WTllaVBxSVdVcmJ2bW9hejJPdEFQemtEMlE4RUF0NFpRaFdLVmpqSThNWUFtU3lfYXQtN0tOb1lPQUZjbzF1Ymc5TVpjMW9rbXFPVnYzeU1hdDlQYXFMdGkyeUpvaElyY3B5YmRMRjVuNFF6cFdSNUQ5TEc4N0tlRlY0QnJWaHp0SURzRTI1NzEzdi1BekZuRFVsaGZ1NjgyenpR?oc=5",
+      "date": "2026-11-14T14:55:31Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "PFRON: Punkty preferencyjne i nieodpłatny sprzęt dla osób niepełnosprawnych Forsal.pl."
     },
     {
       "title": "Banalny upadek wielkiego prezesa. Co tak naprawdę pogrążyło Jensena Huanga? [ANALIZA] - Forbes",
@@ -2012,14 +2012,6 @@
       "summary": "Dla klientów to szansa na szybką gotówkę, dla pożyczkodawcy – groźba lawiny przegranych procesów. Money.pl ujawnia kulisy negocjacji dwóch firm stojących po przeciwnych stronach sporów o pieniądze konsumentów. Pokazujemy, jak setki roszczeń Polaków posłużyły za argument w próbie dobicia sześcioletniego targu."
     },
     {
-      "title": "Notowania Bitcoin BTC/USD 1:1 (BTCUSD.BST) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVTlZVQU54NTl0UHFjWG5MNi1DdEI1dlFKV1l2ejE1ZEpQRDhPOGZqdDNYbE50VkxVTmVJTFgxakMzVXNBZHBPYldmZjZnWUpXb0pSTllkdEV0bDQ?oc=5",
-      "date": "2026-11-13T22:59:45Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania Bitcoin BTC/USD 1:1 (BTCUSD.BST) BiznesRadar."
-    },
-    {
       "title": "Tani prąd na papierze, droższy rachunek później. Gdzie kryją się koszty?",
       "url": "https://300gospodarka.pl/news/tani-prad-na-papierze-drozszy-rachunek-pozniej-gdzie-kryja-sie-koszty",
       "date": "2026-11-13T22:14:03Z",
@@ -2042,6 +2034,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat ESPI Lumina Metals Corp. (lmcu): formularz skonsolidowanego raportu kwartalnego StockWatch.pl."
+    },
+    {
+      "title": "Onde wchodzi w segment elektroenergetyczny dzięki przejęciu Olmex - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTWFhZDlQME9Bb0lCMGdLMVoxX05fY2JmVlRwczJvV2FhZFVYbWdsZUY1bkhDWTQxSDFaeFdnMUJVcUp5Mk1rR3RVQnFyeWE0eUtYLWN5anRvU3doR1V1V3VsSUVBZV9aaGZjOHozYmNrOF82V0gyWGFmS1dONjRDaS12RzQzS1pBTTBaSXlCTGpfN0FnS1RYT1dUVFd0dTlJeS1v?oc=5",
+      "date": "2026-11-13T20:53:08Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Onde wchodzi w segment elektroenergetyczny dzięki przejęciu Olmex BiznesRadar."
     },
     {
       "title": "Komunikat ESPI CREOTECH INSTRUMENTS SPÓŁKA AKCYJNA (creotech): Zawiadomienie o zmianie udziału w ogólnej liczbie głosów na Walnym Zgromadzeniu Emitenta - StockWatch.pl",
@@ -2092,20 +2092,20 @@
       "summary": "Wiadomości ALLEGRO.EU (ALE) BiznesRadar."
     },
     {
-      "title": "Notowania PGH POLSKA GRUPA HUTNICZA - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05U194cDFwMVcwSmVXWnByRm1nRk12cDFNZ3BWbjk2YjhsYVFoQ0xTbnh1bll6NktZRUtUT2xpcUZUWmliRFZmQlJEQzg0a2EwcEE?oc=5",
-      "date": "2026-11-13T15:59:58Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania PGH POLSKA GRUPA HUTNICZA BiznesRadar."
-    },
-    {
       "title": "Wiadomości AGO (AGORA) - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LdTJTZmU3VzZ2MlJCaEJUM0FDSUw4SmJNdFlTYkFaWi01LXhjNmptQjloalJPZmJfbXM3bXBQa25MX2RPQ05BNmRRdHVSODFScU5xOElR?oc=5",
       "date": "2026-11-13T15:59:50Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Wiadomości AGO (AGORA) BiznesRadar."
+    },
+    {
+      "title": "Notowania LPP - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rYkY1eVB6dU95UUtZTmd1bmpTcG42M21EMlQ1M0hNZjdNdERqQXVoSTFKaFFFYWVwOUF5YWRJUkZUcGFqbmtwVW14V3lFUzRnaFE?oc=5",
+      "date": "2026-11-13T15:59:36Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania LPP BiznesRadar."
     },
     {
       "title": "Wiadomości WIRTUALNA POLSKA HOLDING (WPL) - BiznesRadar",
