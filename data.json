@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-15T04:43:02Z",
+  "last_updated": "2026-11-15T04:43:48Z",
   "poland": [
+    {
+      "title": "Jak długo samochód może stać z włączonym silnikiem? Kierowcom grożą mandaty",
+      "url": "https://www.rp.pl/prawo-dla-ciebie/art45483221-jak-dlugo-samochod-moze-stac-z-wlaczonym-silnikiem-kierowcom-groza-mandaty",
+      "date": "2026-11-15T04:43:00Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "Pozostawienie włączonego silnika podczas postoju w obszarze zabudowanym może być uciążliwe dla mieszkańców i jest szkodliwe dla środowiska. Policja przypomina, że przekroczenie dozwolonego limitu czasu grozi mandatem karnym."
+    },
     {
       "title": "Dentyści ostrzegają przed „ozempicowymi zębami”. Wymieniają objawy",
       "url": "https://www.rp.pl/zdrowie/art45485801-dentysci-ostrzegaja-przed-ozempicowymi-zebami-wymieniaja-objawy",
@@ -144,14 +152,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Polska 2050 wybrała termin wyborów nowego przewodniczącego partii. Głosowanie odbędzie się 2 grudnia, a kandydaci będą musieli zebrać około 70 podpisów poparcia. Gotowość do ubiegania się o stanowisko zadeklarował Paweł Śliz, natomiast pełniąca obowiązki szefowej ugrupowania Ewa Schädler nie podjęła jeszcze decyzji o starcie."
-    },
-    {
-      "title": "„Odległość już nie chroni”. Ukraina uderzyła w kluczowy węzeł naftowy",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45488951-odleglosc-juz-nie-chroni-ukraina-uderzyla-w-kluczowy-wezel-naftowy",
-      "date": "2026-11-14T19:05:48Z",
-      "source": "Rzeczpospolita",
-      "confirmed_by": 1,
-      "summary": "Ukraińskie drony dalekiego zasięgu zaatakowały węzeł naftowy Samara w środkowej Rosji w pobliżu miejscowości Proswiet w obwodzie samarskim - poinformowała w sobotę Służba Bezpieczeństwa Ukrainy (SBU). Wstępne doniesienia potwierdzają trafienie w zbiorniki magazynowe ropy naftowej."
     },
     {
       "title": "Ukrywał straty, aż sięgnęły 1,2 mld dol. Tak upadł 233-letni bank",
@@ -2328,19 +2328,7 @@
       "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html"
     }
   ],
-  "instability": [
-    {
-      "name": "Ukraina",
-      "score": 100,
-      "reasons": [
-        {
-          "title": "„Odległość już nie chroni”. Ukraina uderzyła w kluczowy węzeł naftowy",
-          "url": "https://www.rp.pl/konflikty-zbrojne/art45488951-odleglosc-juz-nie-chroni-ukraina-uderzyla-w-kluczowy-wezel-naftowy",
-          "source": "Rzeczpospolita"
-        }
-      ]
-    }
-  ],
+  "instability": [],
   "investment_picks": [
     {
       "sector": "Sektor energetyczny/surowcowy",
