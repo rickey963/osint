@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-15T21:26:49Z",
+  "last_updated": "2026-11-15T21:27:34Z",
   "poland": [
+    {
+      "title": "Zmiany w NATO. Sojusz rezygnuje ze szczytu w Albanii w 2027 roku",
+      "url": "https://www.rp.pl/polityka/art45491641-zmiany-w-nato-sojusz-rezygnuje-ze-szczytu-w-albanii-w-2027-roku",
+      "date": "2026-11-15T21:22:08Z",
+      "source": "Rzeczpospolita",
+      "confirmed_by": 1,
+      "summary": "NATO nie zorganizuje w Albanii szczytu przywódców w 2027 roku – informuje Associated Press. Agencja wskazuje na spory o wydatki obronne, napięcia polityczne i rosnące koszty organizacji spotkań."
+    },
     {
       "title": "Pogrzeb zamachowca z Krakowa. Rodzina wydała oświadczenie",
       "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33133248,pogrzeb-zamachowca-z-krakowa-rodzina-wydala-oswiadczenie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -208,14 +216,6 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Doniesienia Mossadu o irańskich planach zamachu na prezydenta USA Donalda Trumpa i najwyższych urzędników jego administracji zostały potwierdzone przez inną zachodnią agencję wywiadowczą - ustalił dziennik Israel Hayom, powołując się na wysokich rangą izraelskich i amerykańskich urzędników."
-    },
-    {
-      "title": "Przelewał paliwo, nagle pojawił się ogień. 69-latek ciężko poparzony",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-15/przelewal-paliwo-nagle-pojawil-sie-ogien-69-latek-ciezko-poparzony/",
-      "date": "2026-11-15T16:15:00Z",
-      "source": "Polsat News",
-      "confirmed_by": 1,
-      "summary": "69-letni mężczyzna doznał poważnych poparzeń podczas przelewania paliwa z jednego zbiornika do drugiego. W pewnym momencie doszło do zapłonu, a ogień objął jego ubranie. Na miejsce wezwano służby ratunkowe, w tym śmigłowiec Lotniczego Pogotowia Ratunkowego, który przetransportował poszkodowanego do szpitala w Krakowie."
     },
     {
       "title": "19-latka śmiertelnie potrącona przez pijanego 25-latka bez prawa jazdy. Media: Byli rodzeństwem",
@@ -766,20 +766,28 @@
   ],
   "world_politics": [
     {
+      "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+      "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+      "date": "2026-11-15T21:26:18Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis."
+    },
+    {
+      "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+      "url": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+      "date": "2026-11-15T21:25:04Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The Jordanian military said that the men, who were arrested after a shooting at a Greek Orthodox church last month, had been convicted of terrorism charges."
+    },
+    {
       "title": "Too Many Chips in One Basket?",
       "url": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
       "date": "2026-11-15T20:48:30Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "The U.S. economy hitched its wagon to Nvidia and Jensen Huang. Now that he has stepped down, the company faces deep uncertainty."
-    },
-    {
-      "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
-      "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
-      "date": "2026-11-15T20:37:52Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis."
     },
     {
       "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
@@ -828,6 +836,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled."
+    },
+    {
+      "title": "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1NqQ012SUxkSlBybGhjS290cUFLdzVaU0NabWlVbkN3Y3IzbzRqTGsteHlBOFMwUFF6M21sa0lhVGZsaUM2MkZwaHBCN3ZqRGVKSk5DWFdOVGhVR2JHcXo2OXFtQTNrUm9jSWxqWVZ0cndRMHB0UnRtWm1rc29heE9xLXdtRnhhZ0tCdW1yZHlhVEJTN0E?oc=5",
+      "date": "2026-11-15T14:22:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home AP News."
     },
     {
       "title": "Is Italy the Model for Europe’s Future?",
@@ -950,14 +966,6 @@
       "summary": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011."
     },
     {
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
-      "date": "2026-11-14T16:20:20Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": ""
-    },
-    {
       "title": "FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend - AP News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVUkzUkUtOXFKRWc1dS14cHgwQzhLclZFZjNzZFJkb3R2X0JDSlJaYnR5bE1QbHhtZjhtWDZVN3VaNkNISUtqdkFtUktDMHJ3RHdEajZFLUF4RFdfTm5MaXZzRjJFRXR6UTBYcXVndGtwOGlVbHlLYXd5eFc0THc2d0ZWSUhSaGVjekE?oc=5",
       "date": "2026-11-14T16:10:00Z",
@@ -996,17 +1004,17 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "The Nvidia scandal is heightening America’s AI rivalry with China ahead of Trump’s visit AP News."
-    },
-    {
-      "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5",
-      "date": "2026-11-14T04:57:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "date": "2026-11-15T20:37:28Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 14 # Comments: 0."
+    },
     {
       "title": "Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a \"legitimate and lawful business\" as it opens an internal probe (Associated Press)",
       "url": "https://www.techmeme.com/261115/p15#a261115p15",
@@ -1021,23 +1029,7 @@
       "date": "2026-11-15T19:46:02Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://arkanumdata.com/research/house-trades Comments URL: https://news.ycombinator.com/item?id=50510005 Points: 43 # Comments: 18."
-    },
-    {
-      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-      "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
-      "date": "2026-11-15T19:39:46Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 45 # Comments: 36."
-    },
-    {
-      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-      "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
-      "date": "2026-11-15T19:31:11Z",
-      "source": "Hacker News",
-      "confirmed_by": 2,
-      "summary": "Article URL: https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1 Comments URL: https://news.ycombinator.com/item?id=50509883 Points: 64 # Comments: 40."
+      "summary": "Article URL: https://arkanumdata.com/research/house-trades Comments URL: https://news.ycombinator.com/item?id=50510005 Points: 60 # Comments: 36."
     },
     {
       "title": "\"Promocja\" na Black Weeks może być pułapką. Jak w 30 sekund sprawdzić najniższą cenę z 30 dni?",
@@ -1053,7 +1045,15 @@
       "date": "2026-11-15T19:26:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 4 # Comments: 0."
+      "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 14 # Comments: 2."
+    },
+    {
+      "title": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)",
+      "url": "https://www.techmeme.com/261115/p14#a261115p14",
+      "date": "2026-11-15T19:20:00Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "Financial Times: Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a &ldquo;war room&rdquo; to lobby for his return and seek White House support &mdash; Tech supporters lobby chipmaker's board to reinstate former CEO after he resigned following affair with alleged Chinese spy."
     },
     {
       "title": "Sources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved (Mackenzie Hawkins/Bloomberg)",
@@ -1077,7 +1077,7 @@
       "date": "2026-11-15T18:36:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 31 # Comments: 10."
+      "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 36 # Comments: 11."
     },
     {
       "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
@@ -1085,7 +1085,7 @@
       "date": "2026-11-15T18:36:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 170 # Comments: 79."
+      "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 189 # Comments: 85."
     },
     {
       "title": "O tej pułapce w Windows 11 Microsoft nie mówi. A powinien, bo jest idiotyczna",
@@ -1101,7 +1101,7 @@
       "date": "2026-11-15T18:23:21Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 97 # Comments: 16."
+      "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 100 # Comments: 19."
     },
     {
       "title": "Apple iMac z M6. Na tym komputerze po prostu chce się pracować",
@@ -1110,6 +1110,14 @@
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Nowy iMac pozostaje eleganckim i wszechstronnym komputerem all-in-one, choć niezmieniony od lat ekran, grube ramki i akcesoria przypominają, że konstrukcja prosi się o odświeżenie."
+    },
+    {
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "date": "2026-11-15T17:53:31Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 88 # Comments: 53."
     },
     {
       "title": "Nowe BMW i3 pobiło rekord z 2017 roku. Tysiące kilometrów elektrykiem przez całą Europę",
@@ -1126,6 +1134,14 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Windows Update pilnuje regularnych aktualizacji systemu, a Microsoft Store uaktualnień pobieranych stamtąd aplikacji. Reszta programów nadal żyje swoim życiem: jeden aktualizuje się po uruchomieniu, drugi przypomina o nowej wersji raz na miesiąc, a trzeci zupełnie milczy. Darmowy program UniGetUI pomaga uporządkować cały ten bałagan z poziomu jednego okna, pozwalając zainstalować zaległe aktualizacje hurtem."
+    },
+    {
+      "title": "Clice v1.0 Released: Welcome to Modern C++",
+      "url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "date": "2026-11-15T17:22:32Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://ykiko.me/en/articles/2105384023094834022/ Comments URL: https://news.ycombinator.com/item?id=50508715 Points: 44 # Comments: 24."
     },
     {
       "title": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs (Ashley Gold/Semafor)",
@@ -1182,14 +1198,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "New York Times: Investigation: Howard Lutnick pushed to narrow chip curbs affecting a client of his former firm Cantor Fitzgerald whose Malaysia data center may serve Tencent &mdash; The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm."
-    },
-    {
-      "title": "Scott Bessent urges Nvidia to hire an outside CEO and wants answers within 10 days on whether it pushed \"seemingly illicit\" chip sales to China to boost revenue (Tony Czuczka/Bloomberg)",
-      "url": "https://www.techmeme.com/261115/p8#a261115p8",
-      "date": "2026-11-15T15:50:01Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Tony Czuczka / Bloomberg: Scott Bessent urges Nvidia to hire an outside CEO and wants answers within 10 days on whether it pushed &ldquo;seemingly illicit&rdquo; chip sales to China to boost revenue &mdash; Nvidia Corp. is facing intense pressure as it embarks on a search for a new chief executive after ousting Jensen Huang &hellip;."
     },
     {
       "title": "Motorola Edge 70 Fusion – recenzja. Nie chce się rozładować",
@@ -1262,14 +1270,6 @@
       "source": "Ars Technica",
       "confirmed_by": 2,
       "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent."
-    },
-    {
-      "title": "Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues (Corbin Bolies/Variety)",
-      "url": "https://www.techmeme.com/261115/p7#a261115p7",
-      "date": "2026-11-15T12:02:16Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Corbin Bolies / Variety: Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues &mdash; I knew things were a little off when the first thing I heard on my walk to the AI Music Awards was &ldquo;the winner...&rdquo; followed by the sweet voice of Kelly Clarkson."
     },
     {
       "title": "Ranczo: Zemsta Wiedźm. Jest pierwszy zwiastun kultowego serialu",
@@ -1844,14 +1844,6 @@
       "summary": "Podsumowanie tygodnia - Nasdaq broni ważnego wsparcia Paweł Biedrzycki ndz., 15.11.2026 Nasdaq DAX kospi WIG WIG-banki swig80 USDPLN Wstęp do wpisu Podsumowanie tygodnia 9 - 13 listopada 2026: #Nasdaq, #DAX, #Kospi, #WIG, #WIGBanki, #sWIG80, #USDPLN, spółki portfelowe, spółki godne uwagi Podsumowanie tygodnia - Nasdaq broni ważnego wsparcia Paweł Biedrzycki."
     },
     {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yUXl6LW9zdjdlTndZdVBIeHNBZWdBRVJLd2FuUG5EX1lhQ29lZFlfejlOMEVKVzFyUlBKYktLMmZ0bW9pOTBoSWZKSnFjelA3WlE?oc=5",
-      "date": "2026-11-15T17:47:50Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
-    },
-    {
       "title": "Premiera GTA 6 i AI – Jak zmienią gaming? - Mateusz Adamkiewicz | Procent Składany",
       "url": "https://strefainwestorow.pl/podcast/procent-skladany/mateusz-adamkiewicz-gaing-factory",
       "date": "2026-11-15T17:32:32Z",
@@ -1962,6 +1954,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Możliwy Pat wyborczy i jego wpływ na giełdę. StockWatch.pl."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGVFA2UlNDcHQzN1MtSlJ0UEJnaGdiTHNoU3hEMUpyR0RwZTBLSlNqbFZ2UTJwQzlQQzlGcjVOc3Y0WjlxRlVBWTNjTEl2LTlUSl9TV2J2Sk5UOFU?oc=5",
+      "date": "2026-11-15T11:32:14Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Komunikat ESPI TENDERHUT SPÓŁKA AKCYJNA (tenderhut): Informacja o szacunkowych skonsolidowanych przychodach ze sprzedaży w październiku 2026 roku oraz szacunkowych skonsolidowanych przychodach ze sprzedaży w okresie styczeń paździe - StockWatch.pl",
@@ -2560,26 +2560,26 @@
     ],
     "prices": [
       27260.71,
-      29567.32,
+      29560.66,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29826.62,
+      29819.89,
       27354.94,
       27400.36,
       27412.11,
-      30252.02,
+      30245.2,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29468.51,
+      29461.86,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29658.96,
+      29652.27,
       27686.17,
       27404.78,
       27351.97,
@@ -2588,7 +2588,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29349.89,
+      29343.27,
       27930.04,
       28234.04,
       28218.36,
@@ -2597,81 +2597,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30233.38,
+      30226.56,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29763.64,
+      29756.93,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29581.21,
+      29574.54,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29891.47,
+      29884.73,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30960.74,
+      30953.76,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31072.97,
+      31065.96,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30628.41,
+      30621.5,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30777.63,
+      30770.69,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30804.93,
+      30797.99,
       28449.73,
       28313.03,
       28272.33,
-      30559.01,
+      30552.12,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30533.15,
+      30526.26,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30903.95,
+      30896.98,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30821.38,
+      30814.43,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31175.86,
+      31168.83,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30568.82,
+      30561.93,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30426.11,
+      30419.25,
       30100.92,
       30418.01,
       30609.55,
