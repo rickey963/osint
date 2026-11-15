@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T21:47:16Z",
+  "last_updated": "2026-11-15T21:56:43Z",
   "poland": [
     {
       "title": "Zmiany w NATO. Sojusz rezygnuje ze szczytu w Albanii w 2027 roku",
@@ -766,20 +766,20 @@
   ],
   "world_politics": [
     {
+      "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+      "url": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+      "date": "2026-11-15T21:33:59Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The Jordanian military said that the men, who were arrested after a shooting at a Greek Orthodox church last month, had been convicted of terrorism charges."
+    },
+    {
       "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
       "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
       "date": "2026-11-15T21:26:18Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis."
-    },
-    {
-      "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
-      "url": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
-      "date": "2026-11-15T21:25:04Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "The Jordanian military said that the men, who were arrested after a shooting at a Greek Orthodox church last month, had been convicted of terrorism charges."
     },
     {
       "title": "Too Many Chips in One Basket?",
@@ -1008,12 +1008,28 @@
   ],
   "technology": [
     {
+      "title": "Your Agent Will Pick the Hackable One",
+      "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+      "date": "2026-11-15T21:10:39Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/ Comments URL: https://news.ycombinator.com/item?id=50510799 Points: 6 # Comments: 0."
+    },
+    {
       "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
       "date": "2026-11-15T20:37:28Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 14 # Comments: 0."
+      "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 30 # Comments: 3."
+    },
+    {
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "date": "2026-11-15T20:20:05Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 5 # Comments: 0."
     },
     {
       "title": "Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a \"legitimate and lawful business\" as it opens an internal probe (Associated Press)",
@@ -1029,7 +1045,15 @@
       "date": "2026-11-15T19:46:02Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://arkanumdata.com/research/house-trades Comments URL: https://news.ycombinator.com/item?id=50510005 Points: 60 # Comments: 36."
+      "summary": "Article URL: https://arkanumdata.com/research/house-trades Comments URL: https://news.ycombinator.com/item?id=50510005 Points: 75 # Comments: 54."
+    },
+    {
+      "title": "Handwriting, as a Font",
+      "url": "https://ductus.sorenblank.com",
+      "date": "2026-11-15T19:42:13Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 4 # Comments: 0."
     },
     {
       "title": "\"Promocja\" na Black Weeks może być pułapką. Jak w 30 sekund sprawdzić najniższą cenę z 30 dni?",
@@ -1045,7 +1069,7 @@
       "date": "2026-11-15T19:26:22Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 14 # Comments: 2."
+      "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 22 # Comments: 6."
     },
     {
       "title": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)",
@@ -1077,7 +1101,7 @@
       "date": "2026-11-15T18:36:40Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 36 # Comments: 11."
+      "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 40 # Comments: 12."
     },
     {
       "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
@@ -1085,7 +1109,7 @@
       "date": "2026-11-15T18:36:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 189 # Comments: 85."
+      "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 208 # Comments: 95."
     },
     {
       "title": "O tej pułapce w Windows 11 Microsoft nie mówi. A powinien, bo jest idiotyczna",
@@ -1096,28 +1120,12 @@
       "summary": "(Oficjalnie) Windows 11 bez dostępu do Sieci nie zainstalujesz. I ten zgłasza jego utratę, choć chwilę wcześniej pokazuje, że wszystko działa. Niejaki Bob Pony zaobserwował taki problem w trakcie pierwszej konfiguracji maszyny: co istotne, jednak tej, która korzysta tylko z IPv6."
     },
     {
-      "title": "A short explainer on how El Niño works [video]",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "date": "2026-11-15T18:23:21Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 100 # Comments: 19."
-    },
-    {
       "title": "Apple iMac z M6. Na tym komputerze po prostu chce się pracować",
       "url": "https://antyweb.pl/apple-imac-z-m6-na-tym-komputerze-po-prostu-chce-sie-pracowac",
       "date": "2026-11-15T18:00:19Z",
       "source": "Antyweb",
       "confirmed_by": 1,
       "summary": "Nowy iMac pozostaje eleganckim i wszechstronnym komputerem all-in-one, choć niezmieniony od lat ekran, grube ramki i akcesoria przypominają, że konstrukcja prosi się o odświeżenie."
-    },
-    {
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "date": "2026-11-15T17:53:31Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 88 # Comments: 53."
     },
     {
       "title": "Nowe BMW i3 pobiło rekord z 2017 roku. Tysiące kilometrów elektrykiem przez całą Europę",
@@ -1134,14 +1142,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Windows Update pilnuje regularnych aktualizacji systemu, a Microsoft Store uaktualnień pobieranych stamtąd aplikacji. Reszta programów nadal żyje swoim życiem: jeden aktualizuje się po uruchomieniu, drugi przypomina o nowej wersji raz na miesiąc, a trzeci zupełnie milczy. Darmowy program UniGetUI pomaga uporządkować cały ten bałagan z poziomu jednego okna, pozwalając zainstalować zaległe aktualizacje hurtem."
-    },
-    {
-      "title": "Clice v1.0 Released: Welcome to Modern C++",
-      "url": "https://ykiko.me/en/articles/2105384023094834022/",
-      "date": "2026-11-15T17:22:32Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://ykiko.me/en/articles/2105384023094834022/ Comments URL: https://news.ycombinator.com/item?id=50508715 Points: 44 # Comments: 24."
     },
     {
       "title": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs (Ashley Gold/Semafor)",
@@ -1268,7 +1268,7 @@
       "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
       "date": "2026-11-15T12:07:34Z",
       "source": "Ars Technica",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent."
     },
     {
@@ -1796,6 +1796,14 @@
       "summary": "21% Rocznie 442 EXTRA | Podcast | Jak inwestować - Allegro, Eurocash, Ten Square Games, PCC Rokita, CD PROJEKT Paweł Biedrzycki ndz., 15.11.2026 Kanał Strefa Inwestorów Kanał Strefa Inwestorów Podcast Podcast Extra Treść Zapraszamy do wysłuchania podcastu 21% Rocznie EXTRA, odcinek 443: Allegro, Eurocash, Ten Square Games, PCC Rokita, CD PROJEKT Lista omówionych spółek w podcaście:00:36 Allegro08:50 Eurocash13:53 Ten Square Games23:50 PCC Rokita27:53 CD PROJEKT Pobierz 443 odcinek podcastu w wersji mp3 Zawarte w materiale dane, opracowania, informacje, analizy zostały przygotowane wyłącznie w celach informacyjnych, są tylko i wyłącznie subiektywnymi opiniami autorów i nie są rekomendacjami zawarcia transakcji w rozumieniu § 3 Rozporządzenia Ministra Finansów z dnia 19 października 2005 r. w sprawie informacji stanowiących rekomendacje dotyczące instrumentów finansowych, lub ich emitentów lub wystawców m. in."
     },
     {
+      "title": "Około 20 mln osób. Polska poza Polską. Miliony ludzi i gmina, w której polski jest urzędowy - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPak9ncTFQRVB2UDMtSFltTEdISjVVZURLeTRIdlVBeVNpY25JeFFTZEkyYkg5a3lrSFBzUjh6V2RPWFd1Yl9OSjZIV1h2T3d4VDJkXzdhSmZobnlYLXRfRUZvRnNuclk5SUdyallMWGJhWjJnd3RWRC1qVGktcldqZC11R3pfVjdvRklUU0F3MzFKc1lQMURaSUVEY3VuQ19PQUxhUnc2RUJvWkRROHgzSXpsUmwwdUs5SHAzVTRkVGlvOGdPTlhJUmpPQW02c3NHZ212dmlNM2duVDVybDMtRElITUZCQQ?oc=5",
+      "date": "2026-11-15T19:24:24Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Około 20 mln osób. Polska poza Polską. Miliony ludzi i gmina, w której polski jest urzędowy Forsal.pl."
+    },
+    {
       "title": "Cyberatak na Autopay. Spółka ostrzega klientów i wysyła bezpośrednie powiadomienia",
       "url": "https://www.bankier.pl/wiadomosc/Cyberatak-na-Autopay-Spolka-ostrzega-klientow-i-wysyla-bezposrednie-powiadomienia-9229072.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-11-15T19:00:00Z",
@@ -1916,14 +1924,6 @@
       "summary": "Przetwarzanie danych w dokumentacji medycznej będzie powiązane z wymogiem certyfikacji realizowanej w ramach krajowego systemu certyfikacji cyberbezpieczeństwa – przewidują założenia projektu ustawy przygotowywanej przez Ministerstwo Cyfryzacji."
     },
     {
-      "title": "W MOPS opóźniona ratalność zasiłku. Tego najpopularniejszego [projekt nowelizacji] - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcGZEWUFFQkFUR0I0N0dsTW1tcFg1LWRFeVNURmk3UFdXWUs1bmVBN19TWUdlcnVQQmNxdTFlVmJtUzVHRkFzV3kwVS1zZVhWblVBaHZhWHZPZ2ZlZ19fektGUmJDSkhZVGp4Qm4tNElUa0NnLWZHNWV4RG8xclRNNlJMX3ZqN1hnSTkya3lWYTNscDMtb1JfdENJZFRKTHlOUWZRWFowQm5SSXA2WjZydy16TmgyY2t1dXVjN25CUzFYN19JbWk0?oc=5",
-      "date": "2026-11-15T14:14:35Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "W MOPS opóźniona ratalność zasiłku. Tego najpopularniejszego [projekt nowelizacji] Forsal.pl."
-    },
-    {
       "title": "\"Oszczędzamy na rachunkach\". Polska firma mówi o przejściu na OZE",
       "url": "https://www.money.pl/gospodarka/aleksandra-majda/oszczedzamy-na-rachunkach-polska-firma-mowi-o-przejsciu-na-oze-7351235448072192a.html",
       "date": "2026-11-15T13:03:32Z",
@@ -1956,12 +1956,12 @@
       "summary": "Możliwy Pat wyborczy i jego wpływ na giełdę. StockWatch.pl."
     },
     {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGVFA2UlNDcHQzN1MtSlJ0UEJnaGdiTHNoU3hEMUpyR0RwZTBLSlNqbFZ2UTJwQzlQQzlGcjVOc3Y0WjlxRlVBWTNjTEl2LTlUSl9TV2J2Sk5UOFU?oc=5",
-      "date": "2026-11-15T11:32:14Z",
+      "title": "\"Miały doprowadzić do katastrofy w ruchu lądowym\". Jest raport po aktach dywersji na kolei - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ19Ba1FWdlpxOV83TEt1MjV6c3k2dDZLdzlDeldyVUVPbHQ0RDJtdFhqRVZLeU9zME1UWjg3emZaa014MjduRV8yNm5nZE5LYkQzalNCY1FrZXhCZkVnZGNyUV9iQk1qNVQ1UlZlTG9Xc3BjbzAySGlORm9YMFVUUC10WEl1OFktMTkzb2t4d05yZjVpbTVhOWx2VnlNYjg0enZzZEJVaElKTDNIMjZrbXV2cFEtek9oQlFtX1dhMi1nSG91cU5ueERSaG0tSEllU1VGMXdlbFNMTWZvemFzMFpn?oc=5",
+      "date": "2026-11-15T10:52:00Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
+      "summary": "\"Miały doprowadzić do katastrofy w ruchu lądowym\". Jest raport po aktach dywersji na kolei Forsal.pl."
     },
     {
       "title": "Komunikat ESPI TENDERHUT SPÓŁKA AKCYJNA (tenderhut): Informacja o szacunkowych skonsolidowanych przychodach ze sprzedaży w październiku 2026 roku oraz szacunkowych skonsolidowanych przychodach ze sprzedaży w okresie styczeń paździe - StockWatch.pl",
@@ -1970,6 +1970,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat ESPI TENDERHUT SPÓŁKA AKCYJNA (tenderhut): Informacja o szacunkowych skonsolidowanych przychodach ze sprzedaży w październiku 2026 roku oraz szacunkowych skonsolidowanych przychodach ze sprzedaży w okresie styczeń paździe StockWatch.pl."
+    },
+    {
+      "title": "1,6 mln rosyjskich żołnierzy zginęło lub zostało rannych. Ukraina ujawnia nowe dane - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPak1jcjR3M2F1Rzk5VklVTUZHbWowRjF0cU9IbF9zeVJpOXZ2QVJwVnRVZlNxZERDTWZRMHd5ektCeTIybUdiUGp5anlPQ2JGVDM3S2hMdVhuMGNhemJpN3ZMdGxXWVVaNExJVDVLLTNGM20ydk9VWTlkSFlBVzhPakNmWnh5Tk5KZGdDRm03eWxGMzZSRzZJNWRSVmNQcHo1S28weDhLTlRJODlyOEVEM2x3c21nQ2hYTDZTd1VFcmVTeFRoN1Z2ckI1T3pTaUgxRGZSMGZ5V3IxZUVzMnROcGJYQjVYRDl6Mllz?oc=5",
+      "date": "2026-11-15T08:41:49Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "1,6 mln rosyjskich żołnierzy zginęło lub zostało rannych. Ukraina ujawnia nowe dane Forsal.pl."
     },
     {
       "title": "Staliśmy się jednym ze światowych liderów. Dobre życie w Polsce [OPINIA]",
@@ -2116,6 +2124,14 @@
       "summary": "Notowania WIG20 BiznesRadar."
     },
     {
+      "title": "Wycena KGHM POLSKA MIEDZ SA (KGH) - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IR0hmcElIVFVQZ0FuZlFDVWhIU0hra2JBRURFWXdKOThFei1UczFjT05RZnl5ajU5bURiQjJhdVZUNXpueEFLTWgxSTJLRnc?oc=5",
+      "date": "2026-11-13T16:04:50Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wycena KGHM POLSKA MIEDZ SA (KGH) BiznesRadar."
+    },
+    {
       "title": "Notowania BRS (BORYSZEW) - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DZUQ2WTZ5VllQbG5XSzQwdmViX3dEblc3UW83azY1eW5vMXpXTFM1YlpGTUp6ZEVhem9DTVRkOS1JZXg3emlaVkl0UmU1d3BWM0xqdzdNOHQ?oc=5",
       "date": "2026-11-13T16:04:19Z",
@@ -2148,14 +2164,6 @@
       "summary": "Notowania CDR (CDPROJEKT) BiznesRadar."
     },
     {
-      "title": "Notowania CYFROWY POLSAT (CPS) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhMFZpckRqOVl4LXhNVC1PLUZJR2Y5R1lFLWFSTi1laS0wSVY2eEN2X0c4QnVNXy1BdlpyaWd0S19ELXdHdFVuRmV6Q0NaSC1MRVJzUWtzWHd2UlpuNUpfWA?oc=5",
-      "date": "2026-11-13T16:03:04Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania CYFROWY POLSAT (CPS) BiznesRadar."
-    },
-    {
       "title": "Łączy profesjonalny sport z biznesem. \"W weekendy mogę spać do siódmej\" - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSUQ5WkVsOHIxRE41d2h4Um5xYmlHUzF0ZjlrSFpNdjU0QXM5WjB5SlhLdTQzc3NhTVdObHkyOENwT1UyTndFMFhSMmlURng1UGVsVGpoUVk0Z2tjU2dGdG9ocE0zUV81emNZQ2JsNXEwMnlYMUt3ZEdudnpPU1JESjBaN3RKUllRUmJwQWU2M1U0YzI1SUQ2MzkyS3lVdnBlR3E5b2ZWX1NRQQ?oc=5",
       "date": "2026-11-13T14:00:00Z",
@@ -2178,14 +2186,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Aż 73 proc. ze 100 tys. najpopularniejszych produktów analizowanych przez Ceneo miało podczas ubiegłorocznego Black Week wyższą cenę niż we wcześniejszych tygodniach."
-    },
-    {
-      "title": "FixNip ma ponad 100 implantacji, Smartmedics szykuje certyfikację. Adiuvo wybiera priorytety",
-      "url": "https://300gospodarka.pl/news/747795",
-      "date": "2026-11-12T21:38:41Z",
-      "source": "300Gospodarka",
-      "confirmed_by": 1,
-      "summary": "Notowane na GPW Adiuvo Investments przebudowuje swój portfel i koncentruje kapitał oraz uwagę zarządu na dwóch spółkach medtech: FixNip i Smartmedics. FixNip rozwija implant do rekonstrukcji brodawki sutkowej i przygotowuje się do wejścia na rynek USA, natomiast Smartmedics pracuje nad certyfikacją przenośnego systemu EKG i komercjalizacją technologii za granicą. Przy realizacji obecnych założeń obie spółki mogą jeszcze w 2026 r."
     }
   ],
   "critical_alerts": [
@@ -2547,26 +2547,26 @@
     ],
     "prices": [
       27260.71,
-      29568.06,
+      29576.21,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29827.37,
+      29835.59,
       27354.94,
       27400.36,
       27412.11,
-      30252.78,
+      30261.11,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29469.25,
+      29477.37,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29659.7,
+      29667.87,
       27686.17,
       27404.78,
       27351.97,
@@ -2575,7 +2575,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29350.63,
+      29358.72,
       27930.04,
       28234.04,
       28218.36,
@@ -2584,81 +2584,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30234.14,
+      30242.47,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29764.39,
+      29772.59,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29581.95,
+      29590.11,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29892.22,
+      29900.46,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30961.52,
+      30970.05,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31073.75,
+      31082.31,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30629.18,
+      30637.62,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30778.4,
+      30786.89,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30805.71,
+      30814.19,
       28449.73,
       28313.03,
       28272.33,
-      30559.77,
+      30568.19,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30533.91,
+      30542.33,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30904.72,
+      30913.24,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30822.15,
+      30830.64,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31176.64,
+      31185.23,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30569.59,
+      30578.02,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30426.87,
+      30435.26,
       30100.92,
       30418.01,
       30609.55,
