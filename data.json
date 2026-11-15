@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T07:42:49Z",
+  "last_updated": "2026-11-15T07:43:36Z",
   "poland": [
     {
       "title": "Redukcja wojsk USA w Europie. Zmiana planów administracji Trumpa, wschodnia flanka ma być wzmocniona",
@@ -1104,12 +1104,20 @@
       "summary": "Wall Street Journal: How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions &mdash; Massive data centers in Southeast Asia exploited a gap in U.S. sanctions, providing crucial computing power for Chinese companies and a cover for alleged chip smuggling."
     },
     {
+      "title": "Disk encryption on NetBSD – achieving secrecy",
+      "url": "https://netbsd.org/~nia/disk-encrypt/",
+      "date": "2026-11-15T05:29:54Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://netbsd.org/~nia/disk-encrypt/ Comments URL: https://news.ycombinator.com/item?id=50504277 Points: 3 # Comments: 0."
+    },
+    {
       "title": "Show HN: Gawain – Require type hints on all Python variables",
       "url": "https://github.com/matheuzgomes/gawain",
       "date": "2026-11-15T04:39:25Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Yes, i really hate \"dict[str, ANY]\" Comments URL: https://news.ycombinator.com/item?id=50504072 Points: 32 # Comments: 11."
+      "summary": "Yes, i really hate \"dict[str, ANY]\" Comments URL: https://news.ycombinator.com/item?id=50504072 Points: 34 # Comments: 12."
     },
     {
       "title": "The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms (Washington Post)",
@@ -1125,7 +1133,7 @@
       "date": "2026-11-15T04:09:11Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp Comments URL: https://news.ycombinator.com/item?id=50503930 Points: 24 # Comments: 3."
+      "summary": "Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp Comments URL: https://news.ycombinator.com/item?id=50503930 Points: 26 # Comments: 4."
     },
     {
       "title": "My favourite modern NES games",
@@ -1133,7 +1141,7 @@
       "date": "2026-11-15T02:41:25Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/ Comments URL: https://news.ycombinator.com/item?id=50503465 Points: 34 # Comments: 3."
+      "summary": "Article URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/ Comments URL: https://news.ycombinator.com/item?id=50503465 Points: 38 # Comments: 3."
     },
     {
       "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
@@ -1141,7 +1149,7 @@
       "date": "2026-11-15T02:00:54Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 193 # Comments: 53."
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 198 # Comments: 53."
     },
     {
       "title": "Court denies motion to dismiss DRAM price fixing case",
@@ -1149,7 +1157,7 @@
       "date": "2026-11-15T01:18:36Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 65 # Comments: 13."
+      "summary": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 71 # Comments: 16."
     },
     {
       "title": "Show HN: A custom font based on the Jamaican flag alphabet",
@@ -1157,7 +1165,7 @@
       "date": "2026-11-15T00:56:45Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://bobbiec.github.io/jamaican-font.html Comments URL: https://news.ycombinator.com/item?id=50502839 Points: 27 # Comments: 5."
+      "summary": "Article URL: https://bobbiec.github.io/jamaican-font.html Comments URL: https://news.ycombinator.com/item?id=50502839 Points: 29 # Comments: 5."
     },
     {
       "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
@@ -1182,14 +1190,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Nowy smartwatch HUAWEI WATCH Air ma zainteresować osoby, którym duże zegarki przeszkadzają pod mankietem albo podczas snu. Najnowszy przeciek ujawnia szczegóły wykonania najnowszego modelu, a jego nazwę można już znaleźć także w polskiej dokumentacji producenta. Na pełną prezentację trzeba jednak poczekać."
-    },
-    {
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-      "date": "2026-11-14T22:22:49Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 186 # Comments: 83."
     },
     {
       "title": "Starship wraca na Ziemię i wylądował w ramionach wieży!",
