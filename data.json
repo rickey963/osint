@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T03:03:07Z",
+  "last_updated": "2026-11-16T03:12:32Z",
   "poland": [
     {
       "title": "Jak będzie rola AI w rezerwowaniu biletów lotniczych? Cztery scenariusze dla linii lotniczych",
@@ -409,7 +409,7 @@
       "date": "2026-11-16T02:26:24Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanked Australians for donations Independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was allegedly attacked by a man outside her electorate office in regional Victoria resulting in the double amputation of her legs.In a statement, Haines said she has moved to the rehabilitation stage of her recovery, which would continue in Melbourne. Haines was being treated at the city’s Alfred Hospital which confirmed her discharge on Monday. Continue reading..."
+      "summary": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanked Australians for donations The independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was allegedly attacked by a man outside her electorate office in Victoria resulting in the double amputation of her legs.In a statement, Haines said she has moved to the rehabilitation stage of her recovery, which would continue in Melbourne, and that she was full of gratitude. Continue reading..."
     },
     {
       "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
@@ -468,12 +468,12 @@
       "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month."
     },
     {
-      "title": "Coles investigating ‘cybersecurity incident’ and apologises to customers",
+      "title": "Coles investigates cyber-attack and apologises to customers",
       "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
       "date": "2026-11-16T00:25:13Z",
       "source": "The Guardian",
       "confirmed_by": 1,
-      "summary": "Supermarket giant says no customer, team or supplier data breached in cyber-attack but recommends customers update passwordsGet our breaking news email, free app or daily news podcastAustralia’s second-largest retailer has been targeted in a cyber-attack, though it is still too early to tell whether any of its data has been stolen or compromised.Coles revealed the threat on Monday morning, saying it was investigating the incident with support from the Australian Cyber Security Centre and global security experts. Continue reading..."
+      "summary": "Supermarket giant says no customer, team or supplier data compromised but recommends customers update passwordsGet our breaking news email, free app or daily news podcastAustralia’s second-largest retailer has been targeted in a cyber-attack, though it is still too early to tell whether any of its data has been stolen or compromised.Coles revealed the threat on Monday morning, saying it was investigating with support from the Australian Cyber Security Centre and global security experts. Continue reading..."
     },
     {
       "title": "Russia's mega-rich are already imagining a future after Putin",
@@ -966,14 +966,6 @@
       "summary": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first AP News."
     },
     {
-      "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkpYTERHb0JjNU1SY2JyaXFOREZsSzkxdTZVa1lXVW1xVjV3ZTdqZmhFLXl3eExxZmdPY1B2dURNSmRwQVczSG81emlfOEh0NTNhcW44cVBFcU03Y2hadEFmVlRPVHR3bDRPX0p0ZF9JR3B3QkZQUnVxVUZfMXNsSzJDclQ1elJ6ZVBHZGZpRXVUM09KcmgxWmdHajA?oc=5",
-      "date": "2026-11-14T23:46:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River AP News."
-    },
-    {
       "title": "Police lift evacuation after bomb found near ethanol plant in central Illinois - AP News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQREM5bzlpMHFTVDBhTU14TWxjU0xRcEd6bWNGSzlRd1VJVWdKV3p3NEdyWTRHZ2QxaDhkb0NtTlNmSXZCRU9VSDhtR3V4QWVXVms4NFFzaWpxRmhrbVI1RC1nNjJzbG82Ykx6by1ZbHBac2FoTGdQQ0xDd3ByNjFLLV9TYV9iZEpOcHo2bFlBUlE?oc=5",
       "date": "2026-11-14T22:34:00Z",
@@ -988,6 +980,14 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Hundreds of men lead protest to urge other men to help reduce violence against women AP News."
+    },
+    {
+      "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkpYTERHb0JjNU1SY2JyaXFOREZsSzkxdTZVa1lXVW1xVjV3ZTdqZmhFLXl3eExxZmdPY1B2dURNSmRwQVczSG81emlfOEh0NTNhcW44cVBFcU03Y2hadEFmVlRPVHR3bDRPX0p0ZF9JR3B3QkZQUnVxVUZfMXNsSzJDclQ1elJ6ZVBHZGZpRXVUM09KcmgxWmdHajA?oc=5",
+      "date": "2026-11-14T19:43:26Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River AP News."
     },
     {
       "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
@@ -1024,12 +1024,20 @@
       "summary": "Yoolim Lee / Bloomberg: SK Hynix and the Korean government plan to partner on building Trinity Fab, a new $654M chip testing facility letting suppliers test products on 12-inch wafers &mdash; SK Hynix Inc. plans to open a semiconductor testing facility next year in partnership with the Korean government &hellip;."
     },
     {
+      "title": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "date": "2026-11-16T02:14:44Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 33 # Comments: 4."
+    },
+    {
       "title": "Universal XSS in uBlock Origin from website-driven element picker",
       "url": "https://iter.ca/post/ubo-uxss/",
       "date": "2026-11-16T02:04:48Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 25 # Comments: 2."
+      "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 54 # Comments: 6."
     },
     {
       "title": "SK Hynix says it plans to spend ~$1.05B over five years to support domestic suppliers of chip materials, parts, and equipment, strengthening its supply chain (Heekyong Yang/Reuters)",
@@ -1045,7 +1053,7 @@
       "date": "2026-11-16T01:31:30Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 50 # Comments: 20."
+      "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 63 # Comments: 31."
     },
     {
       "title": "Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)",
@@ -1061,7 +1069,7 @@
       "date": "2026-11-16T01:14:35Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 42 # Comments: 19."
+      "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 52 # Comments: 24."
     },
     {
       "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
@@ -1069,15 +1077,7 @@
       "date": "2026-11-16T00:21:54Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 38 # Comments: 6."
-    },
-    {
-      "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
-      "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
-      "date": "2026-11-16T00:03:12Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone Comments URL: https://news.ycombinator.com/item?id=50512296 Points: 4 # Comments: 0."
+      "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 47 # Comments: 6."
     },
     {
       "title": "What's Next for Nvidia?",
@@ -1085,7 +1085,7 @@
       "date": "2026-11-15T23:55:55Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 80 # Comments: 82."
+      "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 87 # Comments: 92."
     },
     {
       "title": "Mini.nvim Is Now on Tangled",
@@ -1093,7 +1093,7 @@
       "date": "2026-11-15T23:55:41Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 37 # Comments: 10."
+      "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 38 # Comments: 10."
     },
     {
       "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
@@ -1828,14 +1828,6 @@
       "summary": "Komunikat EBI IBC Polska F&P SA (ibcpolska): Raport kwartalny za III kwartał StockWatch.pl."
     },
     {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TcHZOUU5HRjNGYmJoeXRBcHZyM2RtZlVTT0NGYVJaVFVUVmF4QWRTa05ISnN1REU1UTktMHVJNTlQTE5RdHdidmNPb0NYOGNhZ0E4dkQ1LThaMnA4QkFF?oc=5",
-      "date": "2026-11-15T20:04:51Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
-    },
-    {
       "title": "21% Rocznie 442 EXTRA | Podcast | Jak inwestować - Allegro, Eurocash, Ten Square Games, PCC Rokita, CD PROJEKT",
       "url": "https://strefainwestorow.pl/podcast/21-rocznie-extra/26-jak-inwestowac-443",
       "date": "2026-11-15T19:29:29Z",
@@ -1898,6 +1890,14 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "W obronie mediów publicznych w niedzielę w Pradze manifestowało, zdaniem organizatorów, od 350 tys. do 450 tys. osób - mogło być to największe zgromadzenie w historii Republiki Czeskiej."
+    },
+    {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HNF9wU0R5VERTM2ZCc0JjdlVKd2xXOHJhR05fd084UWJHeE9qbFZkWUtrb3RtNkF3d2pQUEN0VUpKSzJMZGFyaEc2OVdjWTZjUW01OWVBVGQ?oc=5",
+      "date": "2026-11-15T16:53:20Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Estonia zamknie od 1 grudnia wszystkie przejścia graniczne z Rosją. Reakcja na próbę podpalenia fabryki",
@@ -2583,27 +2583,27 @@
       "2026-11-13"
     ],
     "prices": [
-      29977.96,
-      29607.33,
+      29978.71,
+      29608.07,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29866.98,
+      29867.72,
       27354.94,
       27400.36,
       27412.11,
-      30292.95,
+      30293.71,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29508.38,
+      29509.12,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29699.09,
+      29699.83,
       27686.17,
       27404.78,
       27351.97,
@@ -2612,7 +2612,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29389.61,
+      29390.34,
       27930.04,
       28234.04,
       28218.36,
@@ -2621,81 +2621,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30274.29,
+      30275.05,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29803.91,
+      29804.66,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29621.24,
+      29621.98,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29931.92,
+      29932.67,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31002.63,
+      31003.41,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31115.01,
+      31115.79,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30669.85,
+      30670.62,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30819.28,
+      30820.05,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30846.61,
+      30847.39,
       28449.73,
       28313.03,
       28272.33,
-      30600.36,
+      30601.12,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30574.46,
+      30575.22,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30945.77,
+      30946.54,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30863.08,
+      30863.85,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31218.04,
+      31218.82,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30610.19,
+      30610.95,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30467.28,
+      30468.04,
       30100.92,
       30418.01,
       30609.55,
