@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T05:56:00Z",
+  "last_updated": "2026-11-16T05:56:52Z",
   "poland": [
     {
       "title": "600 dronów leciało w stronę obwodu moskiewskiego. Niemal 200 na podejściach do Moskwy",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "InPost odpali kody do GTA 6 na PS5. Wiadomo kiedy",
+      "url": "https://spidersweb.pl/2026/11/kiedy-inpost-rozda-kody-na-gta-6-na-ps5-znamy-date-zasady.html",
+      "date": "2026-11-16T05:55:00Z",
+      "source": "Spider's Web",
+      "confirmed_by": 1,
+      "summary": "InPost odpali kody do GTA 6 na PS5. Wiadomo kiedy."
+    },
+    {
       "title": "Alibaba says it filtered Qwen4-Max's training data to remove offensive cyber capabilities and mitigate chemical, biological, radiological, and nuclear risks (Ann Cao/South China Morning Post)",
       "url": "https://www.techmeme.com/261116/p1#a261116p1",
       "date": "2026-11-16T05:15:01Z",
@@ -1118,14 +1126,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Qwen: Alibaba releases Qwen4-Max, its new flagship 2.4T-parameter MoE model with a 1M-token context window, saying it beats Qwen3.8-Max with up to ~50% fewer tokens &mdash; Today, we are introducing Qwen4-Max, your new AI teammate for work, creativity, and discovery."
-    },
-    {
-      "title": "Sources: Jensen Huang had planned to pull back Nvidia's aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further (Wall Street Journal)",
-      "url": "https://www.techmeme.com/261115/p24#a261115p24",
-      "date": "2026-11-16T03:30:00Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Wall Street Journal: Sources: Jensen Huang had planned to pull back Nvidia's aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further &mdash; Interim CEO Colette Kress is expected to rein in deals after a stretch in which Nvidia aggressively financed computing deals and startup investments."
     },
     {
       "title": "Tell HN: HN is being scraped for emails to scam",
@@ -1482,12 +1482,28 @@
       "summary": "Co to za zaskakujące (i przykre) połączenie dwóch odległych faktów? W telegraficznym skrócie, taką historię relacjonuje niemiecka prasa: Całość to pokłosie ostatniej, niemal 24-godzinnej awarii usług Microsoftu. ~ms Artykuł Awaria Outlooka."
     },
     {
+      "title": "Rola czynnika cyber na współczesnym polu bitwy",
+      "url": "https://cyberdefence24.pl/armia-i-sluzby/rola-czynnika-cyber-na-wspolczesnym-polu-bitwy",
+      "date": "2026-11-15T12:00:04Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Wciśnięcie klawisza enter powstrzymuje szarżę czołgów, jedno włamanie na serwer paraliżuje cały system wojskowy, a nawet państwowy – takie apokaliptyczne scenariusze pojawiały się i pojawiać się będą w dyskusjach na temat roli cyberprzestrzeni na polu bitwy. Współczesne operacje militarne oraz trwające wojny pokazują jednak, że wykorzystanie cyberprzestrzeni na polu walki ma niewiele wspólnego z powyższymi scenariuszami."
+    },
+    {
       "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
       "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
       "date": "2026-11-15T11:27:31Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent. The company has 60 days to."
+    },
+    {
+      "title": "W Hiszpanii wrze wokół TikToka. Tysiące szkodliwych treści z małymi dziećmi",
+      "url": "https://cyberdefence24.pl/social-media/w-hiszpanii-wrze-wokol-tiktoka-tysiace-szkodliwych-tresci-z-malymi-dziecmi",
+      "date": "2026-11-15T10:06:12Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Hiszpański urząd ochrony danych osobowych wszczął postępowanie w sprawie materiałów przedstawiających wykorzystywanie seksualne małoletnich na TikToku. Sprawa nabrała tempa po ustaleniach krajowych portali internetowych. Władze zażądały zawieszenia działania platformy na terenie Hiszpanii do czasu wyeliminowania problemu."
     },
     {
       "title": "LEO gets a birthday bash, 75 years after clocking in",
@@ -1504,6 +1520,14 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update. \"The key was exposed by Fireworks, and the attacker used it to copy data from a read-only."
+    },
+    {
+      "title": "AI może zastawić pułapkę na służby. Jeden błąd zmienia obraz przeciwnika",
+      "url": "https://cyberdefence24.pl/technologie/ai-moze-zastawic-pulapke-na-sluzby-jeden-blad-zmienia-obraz-przeciwnika",
+      "date": "2026-11-15T07:12:52Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Tłumaczenie wykonane przez narzędzie sztucznej inteligencji może brzmieć precyzyjnie, a jednocześnie zmieniać znaczenie źródła. Model potrafi usunąć warunek, dopowiedzieć sprawcę, przedstawić zamiar jako wykonane działanie lub dodać treść nieobecną w oryginale. W analizie wywiadowczej taki przekład może stać się podstawą oceny przeciwnika."
     },
     {
       "title": "Wygraj wejściówkę na Oh My H@ck i sprawdź, co warto zobaczyć",
@@ -1546,12 +1570,28 @@
       "summary": "Collabora and Nextcloud pitch alternatives as education customers weigh the cost of losing free services."
     },
     {
+      "title": "Rozproszone systemy uczelni a ryzyko cyberincydentów",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/rozproszone-systemy-uczelni-a-ryzyko-cyberincydentow",
+      "date": "2026-11-14T08:23:02Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Ręczne eksportowanie arkuszy, przesyłanie plików mailem i poprawianie danych w kilku miejscach naraz to na uczelniach codzienność, która generuje ukryte koszty. Ten cyfrowy chaos ma jednak znacznie poważniejszą cenę – otwiera luki niebezpieczne luki. Zobacz, gdzie naprawdę ginie kontrola nad informacją o ponad milionie studentów."
+    },
+    {
       "title": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum",
       "url": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302",
       "date": "2026-11-14T08:18:00Z",
       "source": "The Register",
       "confirmed_by": 1,
       "summary": "Accessing banned content is as easy as whipping out a thesaurus, Parliament's Communications and Digital Committee hears."
+    },
+    {
+      "title": "Handel danymi, także żołnierzy. Obce służby mogą je tanio kupić",
+      "url": "https://cyberdefence24.pl/armia-i-sluzby/handel-danymi-takze-zolnierzy-obce-sluzby-moga-je-tanio-kupic",
+      "date": "2026-11-14T06:03:05Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Obce służby nie muszą wykradać wszystkiego, czego potrzebują do rozpoznawania społeczeństwa przeciwnika. Część informacji mogą kupić od pośredników, pobrać z publicznych rejestrów albo pozyskać za pośrednictwem rynku reklamowego. Dane zbierane do sprzedaży produktów mogą następnie pomagać w wyborze celów werbunkowych, rozpoznawaniu personelu wojskowego i przygotowywaniu operacji wpływu."
     },
     {
       "title": "FAA blames ground stop on faulty copper wiring",
@@ -1584,6 +1624,14 @@
       "source": "The Register",
       "confirmed_by": 1,
       "summary": "What, you didn't actually want to fact-check it yourself, did you?"
+    },
+    {
+      "title": "Gawkowski grzmi po wecie Prezydenta ws. DSA. „Będziemy pracować do skutku”",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/gawkowski-grzmi-po-wecie-prezydenta-ws-dsa-bedziemy-pracowac-do-skutku",
+      "date": "2026-11-13T17:51:23Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Prezydent może zawetować ustawę, ale nie może zawetować problemu – stwierdził w piątek wicepremier Krzysztof Gawkowski. Po odmówieniu podpisania nowelizacji ustawy o świadczeniu usług drogą elektroniczną przez głowę państwa, podczas konferencji prasowej szef resortu cyfryzacji skrytykował Karola Nawrockiego za podjętą decyzję. Zapowiedział również przygotowanie kolejnej ustawy i prace „aż do skutku”."
     },
     {
       "title": "Autopay zhackowane. Możliwy wyciek danych finansowych. [Aktualizacja]",
@@ -1634,6 +1682,14 @@
       "summary": "Rivals offer sympathy for stranded admins – and a reminder that putting all your eggs in one basket has consequences."
     },
     {
+      "title": "Jest decyzja Prezydenta ws. ustawy o blokowaniu treści w sieci",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/jest-decyzja-prezydenta-ws-ustawy-o-blokowaniu-tresci-w-sieci",
+      "date": "2026-11-13T15:44:46Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Prezydent Karol Nawrocki zawetował ustawę dotyczącą blokowania nielegalnych treści w internecie. Dokument był drugim z procedowanych w tym roku projektów, który miał wdrożyć unijny Akt o usługach cyfrowych. Wcześniej o podpisanie ustawy apelował wicepremier Krzysztof Gawkowski wspólnie z wiceministrem cyfryzacji Dariuszem Standerskim."
+    },
+    {
       "title": "Another Linux kernel developer steps back from some duties due to overload",
       "url": "https://www.theregister.com/ai-and-ml/2026/11/13/another-linux-kernel-developer-steps-back-from-some-duties-due-to-overload/5309628",
       "date": "2026-11-13T15:28:00Z",
@@ -1650,14 +1706,6 @@
       "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's hypervisor, and Mior also needs control of the server's BIOS."
     },
     {
-      "title": "Most affairs don't matter except to the people involved. Ex-Nvidia CEO Jensen's blunder will rock the world",
-      "url": "https://www.theregister.com/columnists/2026/11/13/most-affairs-dont-matter-except-to-the-people-involved-ex-nvidia-ceo-jensens-blunder-will-rock-the-world/5309649",
-      "date": "2026-11-13T14:45:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "In the aftermath of Jensen Huang's resignation, not only may the AI bubble pop, but the world economy is in some peril."
-    },
-    {
       "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
       "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
       "date": "2026-11-13T14:28:58Z",
@@ -1672,6 +1720,14 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile network to a server controlled by the attackers. The company examined one of the wallets in its lab, identified the other."
+    },
+    {
+      "title": "Francja otworzy centrum wojskowej AI. A co z Polską?",
+      "url": "https://cyberdefence24.pl/armia-i-sluzby/francja-otworzy-centrum-wojskowej-ai-a-co-z-polska",
+      "date": "2026-11-13T13:20:04Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Francja otworzy międzynarodowe centrum poświęcone sztucznej inteligencji w wojsku. Placówka ma zajmować się testowaniem systemów AI, oceną ich niezawodności i rozwijaniem współpracy między państwami sojuszniczymi. Podobne plany miała również Polska, jednak to francuski projekt jest obecnie na bardziej zaawansowanym etapie realizacji, a Warszawa pozostaje w tyle."
     },
     {
       "title": "When an AI Agent Goes Wrong, Can You Stop It?",
@@ -1698,6 +1754,38 @@
       "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging to more than 40,000 victims, according to Germany's Federal Criminal Police Office (BKA)."
     },
     {
+      "title": "Producent dronów dla Niemiec i Ukrainy ofiarą cyberataku. Bundeswehra uziemiła bezzałogowce",
+      "url": "https://cyberdefence24.pl/armia-i-sluzby/cyberatak-na-niemieckiego-producenta-bundeswehra-uziemila-drony",
+      "date": "2026-11-13T10:06:35Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Cyberatak na niemieckiego producenta dronów Quantum Systems, dostarczającego bezzałogowce Bundeswehrze i Ukrainie. Nieznani sprawcy umieścili złośliwe oprogramowanie na serwerze aktualizacji firmy."
+    },
+    {
+      "title": "354 zatrzymanych, 5,7 tony narkotyków i 210 mln euro. Służby uderzyły w przestępców z darknetu",
+      "url": "https://cyberdefence24.pl/armia-i-sluzby/354-zatrzymanych-57-tony-narkotykow-i-210-mln-euro-sluzby-uderzyly-w-przestepcow-z-darknetu",
+      "date": "2026-11-13T09:46:55Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "354 osoby zatrzymane, ponad 5,7 tony narkotyków oraz przeszło 210 mln euro w gotówce i kryptowalutach — to bilans operacji TorNado, koordynowanej przez Europol. Służby z 14 państw ścigały sprzedawców i nabywców nielegalnych towarów, wykorzystując m.in. ustalenia związane z likwidacją dużych darknetowych platform handlowych."
+    },
+    {
+      "title": "Hakerzy Korei Północnej wykradli kryptowaluty o wartości ponad 400 mln dolarów. FBI ostrzega posiadaczy",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/hakerzy-korei-polnocnej-wykradli-kryptowaluty-o-wartosci-ponad-400-mln-dolarow-fbi-ostrzega-posiadaczy",
+      "date": "2026-11-13T09:00:23Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Hakerzy powiązani z reżimem Korei Północnej wykradli kryptowaluty o wartości ponad 400 mln dol. w ciągu ostatnich 18 miesięcy – wskazuje FBI. Śledczy podkreślają, że sprawcy wykorzystali nagrania z kamer internetowych."
+    },
+    {
+      "title": "Problemy z Teamsami, Outlookiem, Copilotem i innymi usługami Microsoftu. Co się dzieje?",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/problemy-z-teamsami-outlookiem-copilotem-i-innymi-uslugami-microsoftu-co-sie-dzieje",
+      "date": "2026-11-13T08:13:20Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Microsoft od wielu godzin walczy z globalną awarią swoich usług. Problemy dotyczą popularnych narzędzi, w tym np. Teamsów, Outlooka czy Copilota."
+    },
+    {
       "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
       "date": "2026-11-13T08:05:49Z",
@@ -1712,6 +1800,14 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Wygląda to na niekontrolowaną zmianę konfiguracji serwerów (lub infrastruktury sieciowej). W każdym razie część serwerów przestała odpowiadać, a te które zostały nie były w stanie obsłużyć ruchu. Na początek poprawili problemy na pojedynczych serwerach, ale po próbie globalnego rozwiązania problemu &#8211; znowu awaria."
+    },
+    {
+      "title": "Cyberatak na system wynajmu noclegów w Polsce. Uważaj na wyłudzenia",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/cyberatak-na-system-wynajmu-noclegow-w-polsce-uwazaj-na-wyludzenia",
+      "date": "2026-11-13T07:39:17Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Dwie polskie organizacje zajmujące się krótkoterminowym wynajmem apartamentów poinformowały o cyberataku na system IdoBooking, służący do zarządzania rezerwacjami noclegów. Osoba nieuprawniona przez ok. 1,5 dnia otrzymywała kopie powiadomień dotyczących rezerwacji, wraz z danymi osobowymi gości."
     }
   ],
   "finance": [
@@ -1804,6 +1900,14 @@
       "summary": "Komunikat EBI IBC Polska F&P SA (ibcpolska): Raport kwartalny za III kwartał StockWatch.pl."
     },
     {
+      "title": "Gospodarka - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hTzdWQS0wa2NIeFhlc3hJVnBFM20xZVROZm56Wlh2eUxHd3g2VEp0X2tFb21neVRwT3E1S0FfQ0lBeEJHME1LZ0dEenZYMHFVNmgtSXFLcDZMbm8?oc=5",
+      "date": "2026-11-15T20:13:32Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gospodarka Forsal.pl."
+    },
+    {
       "title": "21% Rocznie 442 EXTRA | Podcast | Jak inwestować - Allegro, Eurocash, Ten Square Games, PCC Rokita, CD PROJEKT",
       "url": "https://strefainwestorow.pl/podcast/21-rocznie-extra/26-jak-inwestowac-443",
       "date": "2026-11-15T19:29:29Z",
@@ -1842,14 +1946,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Podsumowanie tygodnia - Nasdaq broni ważnego wsparcia Paweł Biedrzycki ndz., 15.11.2026 Nasdaq DAX kospi WIG WIG-banki swig80 USDPLN Wstęp do wpisu Podsumowanie tygodnia 9 - 13 listopada 2026: #Nasdaq, #DAX, #Kospi, #WIG, #WIGBanki, #sWIG80, #USDPLN, spółki portfelowe, spółki godne uwagi Podsumowanie tygodnia - Nasdaq broni ważnego wsparcia Paweł Biedrzycki."
-    },
-    {
-      "title": "Gospodarka - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yUXl6LW9zdjdlTndZdVBIeHNBZWdBRVJLd2FuUG5EX1lhQ29lZFlfejlOMEVKVzFyUlBKYktLMmZ0bW9pOTBoSWZKSnFjelA3WlE?oc=5",
-      "date": "2026-11-15T17:47:50Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Gospodarka Forsal.pl."
     },
     {
       "title": "Premiera GTA 6 i AI – Jak zmienią gaming? - Mateusz Adamkiewicz | Procent Składany",
@@ -2487,27 +2583,27 @@
       "2026-11-13"
     ],
     "prices": [
-      29985.83,
-      29615.11,
+      29982.46,
+      29611.77,
       26920.6,
       26908.48,
       27136.73,
       27155.66,
-      29874.82,
+      29871.46,
       27354.94,
       27400.36,
       27412.11,
-      30300.91,
+      30297.5,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29516.13,
+      29512.81,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29706.89,
+      29703.55,
       27686.17,
       27404.78,
       27351.97,
@@ -2516,7 +2612,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29397.33,
+      29394.02,
       27930.04,
       28234.04,
       28218.36,
@@ -2525,81 +2621,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30282.24,
+      30278.83,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29811.74,
+      29808.39,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29629.02,
+      29625.68,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29939.78,
+      29936.41,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31010.78,
+      31007.29,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31123.19,
+      31119.68,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30677.91,
+      30674.46,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30827.37,
+      30823.9,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30854.72,
+      30851.24,
       28449.73,
       28313.03,
       28272.33,
-      30608.4,
+      30604.95,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30582.49,
+      30579.05,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30953.9,
+      30950.41,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30871.19,
+      30867.71,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31226.24,
+      31222.73,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30618.23,
+      30614.78,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30475.28,
+      30471.85,
       30100.92,
       30418.01,
       30609.55,
