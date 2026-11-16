@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T17:27:24Z",
+  "last_updated": "2026-11-16T17:28:27Z",
   "poland": [
     {
       "title": "Po śmierci matki ojciec nie mógł wykorzystać bonu turystycznego na dzieci",
@@ -456,7 +456,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-16T16:27:24Z",
       "source": "BBC News",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers."
     },
     {
@@ -540,14 +540,6 @@
       "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts."
     },
     {
-      "title": "Renault to add 1,650 roles for EV production, cut white-collar jobs, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdW5wd3RMMjZWUF9Da1I5M2x5RWJyS2RLUkpNaWhIdHprSUFvV1VHOEJHR0FSaE5obU9VMDcxVy1EUEVuYkNoakZac0YwOHdkd1hRX0ZKMXQtV1FIYU9ibC1yUXFwU2NEY0p0aXVRUnBXSXFiUHR1OTQwQUZBaWZKemlVRXRaZTBvTmZXYTdmT0hwdGRUVVM4QkNKR3BmdUZPUVhKSGFIMDNhYm5fX1ZQb0N1RnVXWG9tc296azhYV1UxNGY4UURnaG5HQmNIVVF3RnZ3V3Rn?oc=5",
-      "date": "2026-11-16T14:52:30Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Renault to add 1,650 roles for EV production, cut white-collar jobs, sources say Reuters."
-    },
-    {
       "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
       "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-16T14:48:55Z",
@@ -578,6 +570,14 @@
       "source": "Reuters",
       "confirmed_by": 1,
       "summary": "Pakistan ex-PM Imran Khan appeals for urgent medical help, says he 'may not return alive' Reuters."
+    },
+    {
+      "title": "Scores of Bahraini Shi'ite clerics get life in jail, accused of plotting with Iran - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanludnBDamtkVEE2Z001ZE5MczVVaTJMell5ZHZvSEJtcHJCaW9qMWNQS3hzRDVQVHBmWXFxUnB6MHFpN0pIRVJqV3dobWhEQ2R6QlRDdmw1R2tLZ1ROUUZGaEsxR2JfUFlhcFQ1MUJrR0JzM2luNy1SOEFzSGw1VkVRSDNtNWc0cldSR3RnTXYzRjd6RGZZaTd3UEdQOWZHeThLeGpZaURNUmc?oc=5",
+      "date": "2026-11-16T14:11:59Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Scores of Bahraini Shi'ite clerics get life in jail, accused of plotting with Iran Reuters."
     },
     {
       "title": "Proposed NSW laws to allow coalmine to increase production pose ‘serious corruption risk’",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
+      "url": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
+      "date": "2026-11-16T17:24:04Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes."
+    },
+    {
       "title": "Too Many Chips in One Basket?",
       "url": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
       "date": "2026-11-16T16:56:44Z",
@@ -796,14 +804,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Judge sets March retrial for Massachusetts mother accused of killing her 3 children AP News."
-    },
-    {
-      "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-      "url": "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html",
-      "date": "2026-11-16T15:39:09Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes."
     },
     {
       "title": "Robert Pattinson is named the 7th James Bond, taking over the role from Daniel Craig - AP News",
@@ -1410,6 +1410,22 @@
   ],
   "cybersecurity": [
     {
+      "title": "Microsoft fixes Windows activation as admins pick through Exchange outage wreckage",
+      "url": "https://www.theregister.com/software/2026/11/16/microsoft-fixes-windows-activation-as-admins-pick-through-exchange-outage-wreckage/5310102",
+      "date": "2026-11-16T17:27:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Another unscheduled patch for IT teams already having quite enough fun with Redmond."
+    },
+    {
+      "title": "Crook turns free trials into phishing factory, as LearnWorlds sends 13,000 fake YouTube copyright notices",
+      "url": "https://www.theregister.com/security/2026/11/16/crook-turns-free-trials-into-phishing-factory-as-learnworlds-sends-13000-fake-youtube-copyright-notices/5310122",
+      "date": "2026-11-16T17:03:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "570 bogus accounts, one rewritten welcome email, and a fake YouTube page, but CEO says no breach."
+    },
+    {
       "title": "AI rozbiera dzieci, instytucje zawodzą. Alarmujące wnioski raportu",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/ai-rozbiera-dzieci-instytucje-zawodza-alarmujace-wnioski-raportu",
       "date": "2026-11-16T16:30:01Z",
@@ -1618,14 +1634,6 @@
       "summary": "Meta została ukarana przez włoskiego regulatora ochrony danych grzywną w wysokości 805 mln euro. Sprawa dotyczy dostępu Facebooka do zdjęć i nagrań przechowywanych na smartfonach z Androidem bez odpowiednio przejrzystej zgody użytkowników. Nieprawidłowości mogły dotyczyć nawet 20 mln osób."
     },
     {
-      "title": "Omaxian takes the Omarchy look down a different Linux backstreet",
-      "url": "https://www.theregister.com/os-platforms/2026/11/16/omaxian-takes-the-omarchy-look-down-a-different-linux-backstreet/5309750",
-      "date": "2026-11-16T10:15:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Devuan-based distro swaps Wayland for XLibre and i3, with Xfce waiting if the tiling gets tiresome."
-    },
-    {
       "title": "Awaria Microsoftu doprowadziła do podtruć chlorem. 15 osób poszkodowanych w parku rozrywki",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/awaria-microsoftu-doprowadzila-do-podtruc-chlorem-15-osob-poszkodowanych-w-parku-rozrywki",
       "date": "2026-11-16T09:52:42Z",
@@ -1800,14 +1808,6 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Jak czytamy: Analiza wykorzystanych w atakach instancji pokazuje, że atakujący najchętniej używają chińskich modeli (głównie DeepSeek Flash). Wynika to z ich balansu możliwości, niskich kosztów oraz braku zauważalnych zabezpieczeń w sytuacji, gdy się odpowiednio zbuduje prompt. Do ARTEX można podpinać zewnętrzne modele LLM (OpenAI, Anthropic, DeepSeek)."
-    },
-    {
-      "title": "Rozproszone systemy uczelni a ryzyko cyberincydentów",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/rozproszone-systemy-uczelni-a-ryzyko-cyberincydentow",
-      "date": "2026-11-14T08:23:02Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Ręczne eksportowanie arkuszy, przesyłanie plików mailem i poprawianie danych w kilku miejscach naraz to na uczelniach codzienność, która generuje ukryte koszty. Ten cyfrowy chaos ma jednak znacznie poważniejszą cenę – otwiera luki niebezpieczne luki. Zobacz, gdzie naprawdę ginie kontrola nad informacją o ponad milionie studentów."
     }
   ],
   "finance": [
@@ -2156,12 +2156,12 @@
       "summary": "Świat rozmawia o zwiększeniu udziału energii elektrycznej w globalnym zużyciu. Biznes, w tym polski, coraz wyraźniej dostrzega w elektryfikacji szansę na niższe koszty i większe bezpieczeństwo. Nasz kraj ma tu jednak sporo do nadrobienia."
     },
     {
-      "title": "Wiadomości PGF1128 POLSKA GRUPA FARMACEUTYCZNA - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Za1NzNXVvdVkxb0hueVBmZzk5aGtRek5aZ3U5T09jSkIwX3htNS1rZkMzLUdkV3VrMXlOQVVYVjVPWlhxOW40M0R0UURqaEs5UXo1bmNKekU?oc=5",
-      "date": "2026-11-14T13:37:25Z",
+      "title": "Wiadomości INTLGLD03542 INGBANK - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OWmNnWHBUd0x4d1pwWFdvRnRHLWFtMjJXR083QWlhcFVteVAyV1V3ZXhxXy0tUlBRM2J1RlRQSjFyaGVQYi1BbWhBV0xkY2ZELUhaT3NDaVlrWWlMbF9N?oc=5",
+      "date": "2026-11-14T07:30:41Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Wiadomości PGF1128 POLSKA GRUPA FARMACEUTYCZNA BiznesRadar."
+      "summary": "Wiadomości INTLGLD03542 INGBANK BiznesRadar."
     },
     {
       "title": "Wiadomości Bitcoin BTC/USD 1:1 (BTCUSD.BST) - BiznesRadar",
@@ -2260,8 +2260,8 @@
       "lng": 53.69,
       "type": "conflict",
       "region": "Iran",
-      "description": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China efforts to dominateGet our daily political email, free app or daily news podcastAnthony Albanese will attempt to walk a tightrope in his relationship with Donald Trump when the pair meets on Tuesday, arguing for a speedy resolution to the wars in Iran and Ukraine while urging the US to engage in the Indo-Pacific.The Quad leaders’ summit in the Philippines’ capital of Manila will be Trump’s first, in either of his presidencies.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars"
+      "description": "Scores of Bahraini Shi'ite clerics get life in jail, accused of plotting with Iran Reuters.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanludnBDamtkVEE2Z001ZE5MczVVaTJMell5ZHZvSEJtcHJCaW9qMWNQS3hzRDVQVHBmWXFxUnB6MHFpN0pIRVJqV3dobWhEQ2R6QlRDdmw1R2tLZ1ROUUZGaEsxR2JfUFlhcFQ1MUJrR0JzM2luNy1SOEFzSGw1VkVRSDNtNWc0cldSR3RnTXYzRjd6RGZZaTd3UEdQOWZHeThLeGpZaURNUmc?oc=5"
     },
     {
       "lat": 52.5,
@@ -2610,21 +2610,21 @@
       26908.48,
       27136.73,
       27155.66,
-      29874.45,
+      29876.47,
       27354.94,
       27400.36,
       27412.11,
-      30300.53,
+      30302.58,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29515.76,
+      29517.76,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29706.52,
+      29708.52,
       27686.17,
       27404.78,
       27351.97,
@@ -2633,7 +2633,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29396.96,
+      29398.94,
       27930.04,
       28234.04,
       28218.36,
@@ -2642,81 +2642,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30281.86,
+      30283.91,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29811.37,
+      29813.38,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29628.65,
+      29630.65,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29939.41,
+      29941.43,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31010.39,
+      31012.48,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31122.8,
+      31124.9,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30677.53,
+      30679.6,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30826.99,
+      30829.07,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30854.33,
+      30856.42,
       28449.73,
       28313.03,
       28272.33,
-      30608.01,
+      30610.08,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30582.11,
+      30584.17,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30953.51,
+      30955.6,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30870.8,
+      30872.89,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31225.85,
+      31227.96,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30617.85,
+      30619.91,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30474.9,
+      30476.96,
       30100.92,
       30418.01,
       30609.55,
@@ -2732,7 +2732,7 @@
       29960.16,
       30153.98,
       30123.8,
-      29784.19
+      29803.67
     ],
     "currency": "PLN"
   }
