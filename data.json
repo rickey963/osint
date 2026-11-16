@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T15:27:19Z",
+  "last_updated": "2026-11-16T15:28:05Z",
   "poland": [
     {
       "title": "Paweł Reszka w programie \"Najważniejsze pytania\"",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
+      "url": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
+      "date": "2026-11-16T15:25:21Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution."
+    },
+    {
       "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
       "url": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
       "date": "2026-11-16T14:56:41Z",
@@ -788,14 +796,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Delegates met in Geneva to discuss guardrails for such systems even as their development grows. Russia and the United States have resisted the efforts."
-    },
-    {
-      "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
-      "url": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-      "date": "2026-11-16T14:31:14Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution."
     },
     {
       "title": "International Students Are Turning Away From U.S. Universities",
@@ -1786,6 +1786,14 @@
       "summary": "Obce służby nie muszą wykradać wszystkiego, czego potrzebują do rozpoznawania społeczeństwa przeciwnika. Część informacji mogą kupić od pośredników, pobrać z publicznych rejestrów albo pozyskać za pośrednictwem rynku reklamowego. Dane zbierane do sprzedaży produktów mogą następnie pomagać w wyborze celów werbunkowych, rozpoznawaniu personelu wojskowego i przygotowywaniu operacji wpływu."
     },
     {
+      "title": "Gawkowski grzmi po wecie Prezydenta ws. DSA. „Będziemy pracować do skutku”",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/gawkowski-grzmi-po-wecie-prezydenta-ws-dsa-bedziemy-pracowac-do-skutku",
+      "date": "2026-11-13T17:51:23Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Prezydent może zawetować ustawę, ale nie może zawetować problemu – stwierdził w piątek wicepremier Krzysztof Gawkowski. Po odmówieniu podpisania nowelizacji ustawy o świadczeniu usług drogą elektroniczną przez głowę państwa, podczas konferencji prasowej szef resortu cyfryzacji skrytykował Karola Nawrockiego za podjętą decyzję. Zapowiedział również przygotowanie kolejnej ustawy i prace „aż do skutku”."
+    },
+    {
       "title": "Autopay zhackowane. Możliwy wyciek danych finansowych. [Aktualizacja]",
       "url": "https://sekurak.pl/autopay-zhackowane-mozliwy-wyciek-danych-finansowych/",
       "date": "2026-11-13T17:23:19Z",
@@ -1800,14 +1808,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server."
-    },
-    {
-      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-      "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-      "date": "2026-11-13T15:27:05Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's hypervisor, and Mior also needs control of the server's BIOS."
     }
   ],
   "finance": [
@@ -1850,14 +1850,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat EBI BeLeaf SA (beleaf): Raport kwartalny za III kwartał StockWatch.pl."
-    },
-    {
-      "title": "\"Bałam się nawet chodzić ulicą\". Pracownicy zajeżdzają się dla firm - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHRONDF0ZFk4VjFLaGFLMDRlYnZPV0VxanAzRWpjQ3llR2NHN2JwV0VlMnc3ZkpSREdnVnI0elo5TnpGaVl1czhCamtHSE9HeEEtXzhOa094bG54ZlgtQ2owTDEzTXpCaWNzc016MzczMG9hdlZHZmg3MzlaMWR4dUFyRWRNVklFMWlPak5oaGNVcHZXZ2tUOWxIR3VKZ2sxN3ZiYTg2T1VHRUpwZERF?oc=5",
-      "date": "2026-11-16T14:38:39Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "\"Bałam się nawet chodzić ulicą\". Pracownicy zajeżdzają się dla firm Forbes."
     },
     {
       "title": "Bruksela uderza w stal z Azji. Cła sięgają nawet 27,9 proc.",
@@ -1970,6 +1962,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Wyniki finansowe Grupy KGHM za III kwartał 2026 roku – czat z Piotrem Krzyżewskim, Wiceprezesem Zarządu ds. Finansowych Czaty pon., 16.11.2026 Obrazek."
+    },
+    {
+      "title": "\"Bałam się nawet chodzić ulicą\". Pracownicy zajeżdzają się dla firm - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHRONDF0ZFk4VjFLaGFLMDRlYnZPV0VxanAzRWpjQ3llR2NHN2JwV0VlMnc3ZkpSREdnVnI0elo5TnpGaVl1czhCamtHSE9HeEEtXzhOa094bG54ZlgtQ2owTDEzTXpCaWNzc016MzczMG9hdlZHZmg3MzlaMWR4dUFyRWRNVklFMWlPak5oaGNVcHZXZ2tUOWxIR3VKZ2sxN3ZiYTg2T1VHRUpwZERF?oc=5",
+      "date": "2026-11-16T13:31:35Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "\"Bałam się nawet chodzić ulicą\". Pracownicy zajeżdzają się dla firm Forbes."
     },
     {
       "title": "W co zainwestować 50, 100 i 500 tys. zł? \"Podział na trzy części\" - Forbes",
@@ -2180,6 +2180,14 @@
       "summary": "Polska nie produkuje jeszcze zrównoważonych paliw lotniczych SAF i całość sprowadza z zagranicy, choć dysponuje dużymi zasobami surowców potrzebnych do ich wytwarzania. Tymczasem unijne wymagania szybko rosną: od 2025 r. SAF musi stanowić co najmniej 2 proc."
     },
     {
+      "title": "Notowania WIG20 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51c0ExTTh0TGdadS1ib2RjNnVSU1N0STRueV9lcmZfTTM0MnhsZGJscl93MXkwaG5aa3JnUy1MWVdiSnY5cUN0ZGFyRjNNenZIS2dZdw?oc=5",
+      "date": "2026-11-13T16:15:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania WIG20 BiznesRadar."
+    },
+    {
       "title": "Wycena KGHM POLSKA MIEDZ SA (KGH) - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IR0hmcElIVFVQZ0FuZlFDVWhIU0hra2JBRURFWXdKOThFei1UczFjT05RZnl5ajU5bURiQjJhdVZUNXpueEFLTWgxSTJLRnc?oc=5",
       "date": "2026-11-13T16:04:50Z",
@@ -2202,14 +2210,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Wycena KRU (KRUK) BiznesRadar."
-    },
-    {
-      "title": "Rating CRI (CREOTECH) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lSGpBcUJ5UWlZUFlFWEJyOG93eUVoYkJ1MVpaVXFmVFZWc3M5TzV5bEtZNmR6TEN1cVhudklJdzJzdDAxa28tNXk2R0ZXZw?oc=5",
-      "date": "2026-11-13T16:02:49Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Rating CRI (CREOTECH) BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2578,21 +2578,21 @@
       26908.48,
       27136.73,
       27155.66,
-      29862.49,
+      29863.61,
       27354.94,
       27400.36,
       27412.11,
-      30288.4,
+      30289.54,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29503.95,
+      29505.06,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29694.63,
+      29695.74,
       27686.17,
       27404.78,
       27351.97,
@@ -2601,7 +2601,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29385.19,
+      29386.3,
       27930.04,
       28234.04,
       28218.36,
@@ -2610,81 +2610,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30269.74,
+      30270.88,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29799.44,
+      29800.56,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29616.79,
+      29617.9,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29927.42,
+      29928.55,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30997.98,
+      30999.14,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31110.34,
+      31111.51,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30665.25,
+      30666.4,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30814.65,
+      30815.81,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30841.98,
+      30843.14,
       28449.73,
       28313.03,
       28272.33,
-      30595.76,
+      30596.91,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30569.87,
+      30571.02,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30941.12,
+      30942.28,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30858.45,
+      30859.6,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31213.35,
+      31214.52,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30605.59,
+      30606.74,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30462.7,
+      30463.84,
       30100.92,
       30418.01,
       30609.55,
@@ -2700,7 +2700,7 @@
       29960.16,
       30153.98,
       30123.8,
-      29794.64
+      29806.63
     ],
     "currency": "PLN"
   }
