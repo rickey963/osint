@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T09:42:00Z",
+  "last_updated": "2026-11-16T09:42:45Z",
   "poland": [
     {
       "title": "Unia Europejska rozszerza sankcje wobec Rosji. Na czarnej liście banki i flota cieni",
@@ -1221,7 +1221,7 @@
       "date": "2026-11-16T05:50:37Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://pub.cba.mit.edu/863.26/site/ Comments URL: https://news.ycombinator.com/item?id=50514470 Points: 241 # Comments: 42."
+      "summary": "Article URL: https://pub.cba.mit.edu/863.26/site/ Comments URL: https://news.ycombinator.com/item?id=50514470 Points: 252 # Comments: 43."
     },
     {
       "title": "Did the Apollo Guidance Computer use 60% of the ICs in 1963?",
@@ -1229,7 +1229,7 @@
       "date": "2026-11-16T05:05:54Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963 Comments URL: https://news.ycombinator.com/item?id=50514257 Points: 10 # Comments: 1."
+      "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963 Comments URL: https://news.ycombinator.com/item?id=50514257 Points: 11 # Comments: 1."
     },
     {
       "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
@@ -1237,7 +1237,7 @@
       "date": "2026-11-16T04:53:06Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101 Comments URL: https://news.ycombinator.com/item?id=50514180 Points: 84 # Comments: 22."
+      "summary": "Article URL: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101 Comments URL: https://news.ycombinator.com/item?id=50514180 Points: 85 # Comments: 25."
     },
     {
       "title": "Stop Filming in Log",
@@ -1245,7 +1245,7 @@
       "date": "2026-11-16T04:37:03Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/ Comments URL: https://news.ycombinator.com/item?id=50514093 Points: 49 # Comments: 33."
+      "summary": "Article URL: https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/ Comments URL: https://news.ycombinator.com/item?id=50514093 Points: 51 # Comments: 35."
     },
     {
       "title": "Universal XSS in uBlock Origin from website-driven element picker",
@@ -1253,15 +1253,7 @@
       "date": "2026-11-16T02:04:48Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 344 # Comments: 94."
-    },
-    {
-      "title": "Coles hit by a cybersecurity incident",
-      "url": "https://www.colesgroup.com.au/updates/",
-      "date": "2026-11-16T01:14:35Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 103 # Comments: 78."
+      "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 347 # Comments: 95."
     },
     {
       "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
@@ -1269,7 +1261,15 @@
       "date": "2026-11-16T00:21:54Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 143 # Comments: 42."
+      "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 145 # Comments: 44."
+    },
+    {
+      "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+      "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "date": "2026-11-16T00:03:12Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone Comments URL: https://news.ycombinator.com/item?id=50512296 Points: 41 # Comments: 3."
     },
     {
       "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
@@ -1812,6 +1812,14 @@
   ],
   "finance": [
     {
+      "title": "Energooszczędny dom lub mieszkanie? Bank Millennium ma teraz ciekawą propozycję",
+      "url": "https://www.bankier.pl/wiadomosc/Zlap-promocyjny-kredyt-na-nieruchomosc-energooszczedna-w-Banku-Millennium-RRSO-6-75-9228333.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-16T09:30:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Dom lub mieszkanie z niskim zapotrzebowaniem na energię pierwotną to nie tylko ulga w rachunkach. Teraz taką nieruchomość można sfinansować w Banku Millennium na specjalnych, promocyjnych warunkach."
+    },
+    {
       "title": "Fundusz VALUE i kluczowi akcjonariusze obejmą nowe akcje Synthaverse - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSVd2ejJPZHVjRGRic05HX3FkLXBnaDdvZ3pSMDlBQzVYOGEwa0piMGo0MlhYQ3F3QUQ0TWl5cjZwX0xDbks1YXktS0JNenM5blBISVBsc3FZaDg2b0RRRExDR253OE8xVFM3QktUZTcxbFUySEZkQTNoV1F5d1YxVGs5RENKeFp4b3cyNFQ2QkRKaUpUNDZTUVVfN01XVGlpS1hEcGFoWQ?oc=5",
       "date": "2026-11-16T09:22:00Z",
@@ -1946,14 +1954,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Od początku funkcjonowania systemu zwrócono 5,6 mld butelek i puszek objętych kaucją – poinformowało w poniedziałek Ministerstwo Klimatu i Środowiska. Resort podał też, że w całej Polsce działa ponad 64 tys. punktów zwrotu, w tym 24 tys."
-    },
-    {
-      "title": "Rosyjski sabotaż w estońskiej fabryce dronów. „To terroryzm sponsorowany przez państwo”",
-      "url": "https://www.bankier.pl/wiadomosc/Rosyjski-sabotaz-w-estonskiej-fabryce-dronow-To-terroryzm-sponsorowany-przez-panstwo-9229243.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-16T08:46:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Szef litewskiej dyplomacji Kestutis Budrys powiadomił, że za próbą podpalenia zakładów estońskiej firmy Threod Systems, produkującej drony, stał rosyjski wywiad wojskowy GRU. Minister wezwał państwa europejskie do rozważenia uznania GRU za organizację terrorystyczną."
     },
     {
       "title": "Złóż wniosek do końca listopada. Inaczej 300 zł przepadnie - Forsal.pl",
