@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T15:43:12Z",
+  "last_updated": "2026-11-17T15:43:55Z",
   "poland": [
     {
       "title": "Aston Martin jedzie na Rajd Dakar. James Bond pękłby z zazdrości",
@@ -20,7 +20,7 @@
     {
       "title": "Marine Le Pen obiecuje Francuzom niższy wiek emerytalny",
       "url": "https://www.rp.pl/polityka/art45502131-marine-le-pen-obiecuje-francuzom-nizszy-wiek-emerytalny",
-      "date": "2026-11-17T15:35:19Z",
+      "date": "2026-11-17T15:35:00Z",
       "source": "Rzeczpospolita",
       "confirmed_by": 1,
       "summary": "Liderka francuskiej skrajnej prawicy Marine Le Pen przedstawiła we wtorek plany reformy krajowego systemu emerytalnego, obiecując utrzymanie niskiego wieku przejścia na emeryturę (od 60 lat). Zapowiedziała utworzenie powszechnego filaru kapitałowego, który sfinansowałby przyszłe emerytury."
@@ -1410,12 +1410,36 @@
   ],
   "cybersecurity": [
     {
+      "title": "Windows 11 previews remote padlock only IT can open",
+      "url": "https://www.theregister.com/os-platforms/2026/11/17/windows-11-previews-remote-padlock-only-it-can-open/5310402",
+      "date": "2026-11-17T15:29:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Intune feature blocks normal sign-ins without wiping data, while another test build drops Offline Maps settings."
+    },
+    {
       "title": "Kolejne usługi w Rządowej Chmurze Obliczeniowej. Podpisano porozumienie",
       "url": "https://cyberdefence24.pl/technologie/kolejne-uslugi-w-rzadowej-chmurze-obliczeniowej-podpisano-porozumienie",
       "date": "2026-11-17T15:01:13Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Rządowa Chmura Obliczeniowa powiększy się o kolejne usługi. Centrum Projektów Polska Cyfrowa podpisało porozumienie z Ministerstwem Cyfryzacji na rozbudowę katalogu usług chmurowych w RCO. Projekt ma także wzmocnić bezpieczeństwo systemów IT i zapewnić ciągłość ich działania."
+    },
+    {
+      "title": "Nvidia places chip exports under boardroom supervision after Huang's exit",
+      "url": "https://www.theregister.com/systems/2026/11/17/nvidia-places-chip-exports-under-boardroom-supervision-after-huangs-exit/5310429",
+      "date": "2026-11-17T15:01:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Standing committee will oversee export compliance following allegations its GPUs were diverted to China."
+    },
+    {
+      "title": "Website owners thumb their noses at EU privacy rules, researcher finds",
+      "url": "https://www.theregister.com/legal/2026/11/17/website-owners-thumb-their-noses-at-eu-privacy-rules-researcher-finds/5310265",
+      "date": "2026-11-17T14:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "They take your privacy, seriously."
     },
     {
       "title": "1,5 mld zł z budżetu obronnego na polskie chipy? MON mówi „nie”",
@@ -1426,12 +1450,44 @@
       "summary": "W Sejmie trwają prace nad ustawą dotyczącą transferu 1,5 mld zł z budżetu obronnego na Fundusz Polskiej Nauki. Pieniądze miałyby zostać przeznaczone na rozwój zdolności do produkcji półprzewodników, w tym m.in. niezbędnej infrastruktury."
     },
     {
+      "title": "Optimizely hack turns world's biggest websites into malware dispensers",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/17/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers/5310448",
+      "date": "2026-11-17T14:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "BBC, Zoom, HSBC, and GitLab among those caught up in supply chain attack targeting visitors' crypto wallets, credit cards, and iPhones."
+    },
+    {
+      "title": "'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour",
+      "url": "https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197",
+      "date": "2026-11-17T13:32:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Even strict authentication mode has a hole, we're told, while basic exploit defenses are missing from the firmware."
+    },
+    {
       "title": "Rząd przyjął ustawę o Europejskim Portfelu Tożsamości Cyfrowej",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/rzad-przyjal-ustawe-o-europejskim-portfelu-tozsamosci-cyfrowej",
       "date": "2026-11-17T13:16:30Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Rząd przyjął projekt ustawy umożliwiający powstanie Europejskiego Portfela Tożsamości Cyfrowej. Zaproponowane przepisy mają przygotować polskie prawo do wprowadzenia unijnego wymogu, który wszedł w życie ponad 2 lata temu. Każdy obywatel ma mieć możliwość aktywowania takiego dokumentu."
+    },
+    {
+      "title": "AI toys are on the naughty list again this year",
+      "url": "https://www.theregister.com/offbeat/2026/11/17/ai-toys-are-on-the-naughty-list-again-this-year/5310261",
+      "date": "2026-11-17T13:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Last year's offenders mostly cleaned up their acts, but a new batch is just as ready to talk sex, drugs, and where to find the knives with your kids."
+    },
+    {
+      "title": "REIT move? Blackstone joint venture buys AWS campuses to lease back to the cloud giant",
+      "url": "https://www.theregister.com/on-prem/2026/11/17/reit-move-blackstone-joint-venture-buys-aws-campuses-to-lease-back-to-the-cloud-giant/5310355",
+      "date": "2026-11-17T12:31:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Amazon shunts some real estate off its books, a move Omdia analyst says may be about economics, as AI buildout weighs on hyperscaler finances."
     },
     {
       "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
@@ -1450,12 +1506,28 @@
       "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw report that it was used in attacks."
     },
     {
+      "title": "Opinion pollster Ipsos 'fesses up to 'cybersecurity incident'",
+      "url": "https://www.theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405",
+      "date": "2026-11-17T11:44:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Market research company brings in external specialists to grok cause and scope."
+    },
+    {
       "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
       "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
       "date": "2026-11-17T11:20:18Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed Operation ShadowCloud by Kaspersky. The Russian cybersecurity company said it identified the campaign in early 2026."
+    },
+    {
+      "title": "Up to 99% of UK civil servants rely on Microsoft for comms, minister admits",
+      "url": "https://www.theregister.com/software/2026/11/17/up-to-99-of-uk-civil-servants-rely-on-microsoft-for-comms-minister-admits/5310385",
+      "date": "2026-11-17T11:09:31Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Whitehall talks up supplier diversification after Redmond's 18-hour outage."
     },
     {
       "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
@@ -1474,12 +1546,36 @@
       "summary": "Ściśle tajne informacje dotyczące planu wojennego w zamian za nagie zdjęcia – jeden z dowódców indyjskich sił powietrznych właśnie w ten sposób złamał zasady bezpieczeństwa. Mężczyzna przesyłał WhatsAppem dane o np. jednostce dronowej podejrzanej osobie."
     },
     {
+      "title": "MPs ask what the break clause was for as Palantir wins two more years in the NHS",
+      "url": "https://www.theregister.com/public-sector/2026/11/17/mps-ask-what-the-break-clause-was-for-as-palantir-wins-two-more-years-in-the-nhs/5310348",
+      "date": "2026-11-17T10:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Ministers promise fresh procurement, but critics warn extension gives US supplier more time to dig in."
+    },
+    {
       "title": "Najmłodsi na celowniku cyberoszustów. Bank Pekao pomaga budować odporność od podstaw",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/najmlodsi-na-celowniku-cyberoszustow-bank-pekao-pomaga-budowac-odpornosc-od-podstaw",
       "date": "2026-11-17T09:56:40Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Fałszywe SMS-y, podejrzane linki, próby wyłudzania danych i coraz bardziej przekonujące oszustwa internetowe. Z takimi zagrożeniami dzieci mogą zetknąć się na długo przed założeniem pierwszego konta bankowego. Dlatego edukacja cyfrowa staje się równie ważna jak nauka zarządzania pieniędzmi."
+    },
+    {
+      "title": "PostgreSQL patches 52 security holes, sends version 14 into retirement",
+      "url": "https://www.theregister.com/databases/2026/11/17/postgresql-patches-52-security-holes-sends-version-14-into-retirement/5310108",
+      "date": "2026-11-17T09:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Some fixes need more than installation, while the next major release is due November 19."
+    },
+    {
+      "title": "The future of datacenters depends on behind-the-meter energy generation",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/17/partner-content-the-future-of-datacenters-depends-on-behind-the-meter-energy-generation/5307526",
+      "date": "2026-11-17T09:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "PARTNER CONTENT: Hyperscalers and colos have distinct power strategies, but for both, securing flexible, fast power relies on self-generated solutions."
     },
     {
       "title": "Spór prezydenta z rządem o blokowanie treści. Gawkowski: „Państwo jest bezsilne”",
@@ -1520,6 +1616,14 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Powiatowy Urząd Pracy w Zgorzelcu (woj. dolnośląśkie) poinformował o „zewnętrznym ataku” na infrastrukturę informatyczną. Incydent spowodował utrudnienia w działaniu części systemów."
+    },
+    {
+      "title": "Japan's Fugaku supercomputer has decidedly un-super security",
+      "url": "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333",
+      "date": "2026-11-17T05:27:04Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Attackers try logging in to Earth’s ninth most powerful machine after status page hack exposed credentials."
     },
     {
       "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
@@ -1618,22 +1722,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a temporary directory and ran it through rundll32.exe,\" Kaspersky said in an analysis published today. \"The '7z.dll' file was a patched version of the."
     },
     {
-      "title": "„Nie da się iść dalej, nie wybijając zębów ustawie”. Wicemarszałek Senatu o wecie ws. DSA",
-      "url": "https://cyberdefence24.pl/polityka-i-prawo/nie-da-sie-isc-dalej-nie-wybijajac-zebow-ustawie-wicemarszalek-senatu-o-wecie-ws-dsa",
-      "date": "2026-11-16T12:33:18Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Rząd zapowiada kolejną próbę uchwalenia przepisów dotyczących blokowania nielegalnych treści w internecie. Wicepremier Krzysztof Gawkowski chce rozmawiać z Pałacem Prezydenckim, jednak wicemarszałek Senatu Magdalena Biejat nie widzi miejsca na dalsze ustępstwa. „Kompromis jest złym słowem w tej sytuacji” – mówi w odpowiedzi na pytania CyberDefence24.pl."
-    },
-    {
-      "title": "Cyberatak z użyciem AI na Autopay. Ryzyko wycieku danych kart płatniczych",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/cyberatak-z-uzyciem-ai-na-autopay-ryzyko-wycieku-danych-kart-platniczych",
-      "date": "2026-11-16T11:16:24Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Znana platforma płatności online została zhakowana. Autopay potwierdza incydent. Istnieje ryzyko wycieku danych kart płatniczych."
-    },
-    {
       "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
       "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
       "date": "2026-11-16T09:32:57Z",
@@ -1648,14 +1736,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen keys being used to run the AI models that powered the search for more keys. The team said this."
-    },
-    {
-      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-      "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-      "date": "2026-11-16T06:53:34Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer in June 2025, has been attributed to a threat actor named BO Team (aka Black Owl, Hoody Hyena,."
     },
     {
       "title": "Hashcat 8.0 jest już dostępny. Wsparcie dla FPGA, nowe metody ataku i własne receptury hashy – to tylko niektóre ze zmian wdrożonych w narzędziu",
@@ -1712,14 +1792,6 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Co to za zaskakujące (i przykre) połączenie dwóch odległych faktów? W telegraficznym skrócie, taką historię relacjonuje niemiecka prasa: Całość to pokłosie ostatniej, niemal 24-godzinnej awarii usług Microsoftu. ~ms Artykuł Awaria Outlooka."
-    },
-    {
-      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-      "date": "2026-11-15T11:27:31Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent. The company has 60 days to."
     },
     {
       "title": "Wygraj wejściówkę na Oh My H@ck i sprawdź, co warto zobaczyć",
@@ -1868,14 +1940,6 @@
       "summary": "Sztab Generalny Sił Zbrojnych Ukrainy poinformował we wtorek o uderzeniu w jeden z największych kompleksów petrochemicznych w Rosji, położony w Baszkirii, w odległości 1,5 tys. km od granic Ukrainy."
     },
     {
-      "title": "Mirbud: umowa za 88,22 mln zł brutto na budowę w Elblągu - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQlRjdm1fYnVBM0tZYThkNHNLVEh0NzQyRzBpM3o1eWFvVzdsN3dRNUxLT2pfQzZycnE2dHN0UUVEX2l2YjdWYjhyUVZPbThRczVuQXRBQkc2TU1jZjBGcjZiSFlpaHBrQjNkT3M3ZTFsMkVqajBtSXJ0NEdHTGxqZWR0eGUwSGFEMDZjYVJtZFhZVzFWbGZJY0YzSU9ZdVNXb1pqdnk1eFVsSHc?oc=5",
-      "date": "2026-11-17T12:56:42Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Mirbud: umowa za 88,22 mln zł brutto na budowę w Elblągu StockWatch.pl."
-    },
-    {
       "title": "Westinghouse, twórcy polskiego atomu, szykują się do IPO na Wall Street. Ile Ameryki zostanie w „amerykańskiej spółce”?",
       "url": "https://strefainwestorow.pl/energetyka/westinghouse-atom-elektrownia-jadrowa-polska",
       "date": "2026-11-17T12:43:43Z",
@@ -2020,6 +2084,14 @@
       "summary": "Komunikat EBI Brainscan SA (brainscan): Raport kwartalny za III kwartał StockWatch.pl."
     },
     {
+      "title": "Rekord WIG20 w cieniu wyprzedaży półprzewodników - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTlVSNVJTTURBYTRRS1g0azRmUTBZN3Q3dXBpNTE2RnNvM2Y0UWJ4SWNaVFdXQXNXRHIxUWUwb2pTcS1KaFgwZ3R6ZkZsTEJRMzhWOEU4M21wczlHSzB5V2tsNUNVTXdHQUhSSWh6b1dkanl6Sl9zZVVSUVkxeHFzUnFuNm9WWXpPVnFwLXgwa0ZCT0E1anRXT3Rtc1Q2ejhiSVE?oc=5",
+      "date": "2026-11-17T08:14:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Rekord WIG20 w cieniu wyprzedaży półprzewodników BiznesRadar."
+    },
+    {
       "title": "Strategia DM BOŚ dla GPW na 2027 rok - w co i jak inwestować?",
       "url": "https://strefainwestorow.pl/analizy/dmbos-strategia-inwestycje-gielda-gpw-2027",
       "date": "2026-11-17T08:04:04Z",
@@ -2076,12 +2148,20 @@
       "summary": "\"Etatowcy wypadną z klasy średniej\". Ekspert o podatkowej reformie [WYWIAD] Forbes."
     },
     {
-      "title": "Komunikat EBI R.POWER S.A./R.Power Spółka Akcyjna (rpower-sarpower-spolka-akcyjna): Powołanie osoby zarządzającej lub nadzorującej - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQThwTGxXMW13WkNtOHFVSHd4MGFkN201Sm1Hb0lqMUE3VWFtcnRXOVFYMWFwQnYwdWlHakZ5b25RMnFXUWZNUWlGYlZyMk8tMHNGcEEtVkVsSENNVEdDcGR4OW95M3F4RFR4MTc3b2VrWTlfRXNQcFlUaF9JdVpQV1FrNHRzbG5kNDhya3pKbU9NZTV2QTUwZUVXWDZkX2ZJbTBjcnVPUWtFX2NOdHN3bWg0TS1XNHdTaWI3NTMxVnNxaDZpQzZRU2lqbjhCdnI3SXE3aGtLNHRqUGdWemNFVDFITWFPa1didGZZTDlyVHpJVTlL?oc=5",
-      "date": "2026-11-17T00:00:22Z",
+      "title": "Komunikat EBI R.POWER S.A./R.Power Spółka Akcyjna (rpower-sarpower-spolka-akcyjna): Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNXFzUWRjdFEydFQ5aG4zRVBab0RUcWx3ejJVX1ZJRDA5NnVwaDdheGZKU0NLZXRnZ0R0UmxJelZPbVhLYWU5ZEgwSldiQ25XQjJSSHRkbHQtR3lwTmtHU0ozWEdTMHJ0VjRtNWI5akJLZkxaRUFtSWlCRTVkcjY5NEhNMENMN1JmWU1UaWtaWGJ4alV0UldGVXRsSnhwdGQtbThPMk80ZVVwZE5kWEUxZG1PMEFvOGFfQVJqUy1RVkN3RHN1N0hkeDFVaUREUEEwMXBzRzZtZDV4OF9DVUFvWkg3V01feGo3QWQxTUtYN3JMYlU?oc=5",
+      "date": "2026-11-16T23:57:35Z",
       "source": "StockWatch.pl",
       "confirmed_by": 1,
-      "summary": "Komunikat EBI R.POWER S.A./R.Power Spółka Akcyjna (rpower-sarpower-spolka-akcyjna): Powołanie osoby zarządzającej lub nadzorującej StockWatch.pl."
+      "summary": "Komunikat EBI R.POWER S.A./R.Power Spółka Akcyjna (rpower-sarpower-spolka-akcyjna): Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej StockWatch.pl."
+    },
+    {
+      "title": "Komunikat EBI Medicofarma Biotech SA (medicobio): Raport kwartalny za III kwartał - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQTFiUFFwTmY1VFY0cm9mSzk0Tmpqb1AxN29zTUUxZTlybDRfSUhsamZQSGJZVnBxVkgyaDFWNlEwZUp4d3U2ckVRNlo4REloWll5TTYzVXZ3YjZfaUNSTzVsNWtqTUFaYmNBQnZwdTRrOG5BZ21UcVVablNYM1pvMnFfNlduOVRTN3o0bm5lcXVRVHlfcTR6WDZfNEJ0OTF5U1VsQVJxN3dmY1lnQTRBdXkyRUhWSnFhcEQ0V0c1OEZPV3V5UkE?oc=5",
+      "date": "2026-11-16T22:56:47Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI Medicofarma Biotech SA (medicobio): Raport kwartalny za III kwartał StockWatch.pl."
     },
     {
       "title": "Ciepła woda trafia do Wisły. Naukowcy pokazali, jak zmienia rzeczny ekosystem",
@@ -2098,14 +2178,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Instytut Prognoz i Analiz Gospodarczych (IPAG) przedstawił najnowsze prognozy na najbliższe kwartały. W tym roku wzrost PKB wyniesie 3,6 proc., czyli o 0,2 pkt proc. mniej niż rok wcześniej."
-    },
-    {
-      "title": "SZAR SA (16/2026) Powołanie osoby zarządzającej lub nadzorującej - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmRTejBCVGZMUkt2cE5kZTYzR3J6aG9uU2tVckpTRDRSQldoek81N2FaNVVYQXhpM204N1JuRUk5UWFxQ1BVUDE5akhvdmtlZ20xRWNKdFdndUFKWTBOVHgwRUpHUjdvWl9kNzI4QTNRbkNKSV96WmNuNHpqT1B5WGQ4R2RGcnRsWFNxMkI5cF9XRFc4ZEdSYnRyUkpGems?oc=5",
-      "date": "2026-11-16T18:26:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "SZAR SA (16/2026) Powołanie osoby zarządzającej lub nadzorującej BiznesRadar."
     },
     {
       "title": "Prawie 72 proc. Polaków rezygnuje z przyjemności. Wszystko przez finanse",
@@ -2508,21 +2580,21 @@
       26908.48,
       27136.73,
       27155.66,
-      29864.36,
+      29868.25,
       27354.94,
       27400.36,
       27412.11,
-      30290.3,
+      30294.24,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29505.79,
+      29509.64,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29696.48,
+      29700.35,
       27686.17,
       27404.78,
       27351.97,
@@ -2531,7 +2603,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29387.03,
+      29390.86,
       27930.04,
       28234.04,
       28218.36,
@@ -2540,81 +2612,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30271.64,
+      30275.58,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29801.3,
+      29805.18,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29618.64,
+      29622.5,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      29929.3,
+      29933.19,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      30999.92,
+      31003.95,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31112.28,
+      31116.33,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30667.17,
+      30671.16,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30816.58,
+      30820.59,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30843.91,
+      30847.93,
       28449.73,
       28313.03,
       28272.33,
-      30597.67,
+      30601.66,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30571.78,
+      30575.76,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      30943.05,
+      30947.08,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      30860.38,
+      30864.39,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31215.3,
+      31219.37,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30607.5,
+      30611.49,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30464.61,
+      30468.57,
       30100.92,
       30418.01,
       30609.55,
@@ -2631,7 +2703,7 @@
       30153.98,
       30123.8,
       29625.2,
-      29286.37
+      29275.28
     ],
     "currency": "PLN"
   }
