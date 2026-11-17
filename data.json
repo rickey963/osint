@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T18:13:45Z",
+  "last_updated": "2026-11-17T18:14:36Z",
   "poland": [
     {
       "title": "Przewoźnicy domagają się ustawowo określonych terminów płatności",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "California sues OpenAI to stop \"public nuisance\" of out-of-control AI agents",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "date": "2026-11-17T18:13:34Z",
+      "source": "Ars Technica",
+      "confirmed_by": 1,
+      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it."
+    },
+    {
       "title": "Samsung szykuje telefon z ekranem idealnym. Chce uprzedzić ruch Apple'a",
       "url": "https://spidersweb.pl/2026/11/telefon-samsung-zmiany-ekran.html",
       "date": "2026-11-17T18:11:00Z",
@@ -1032,7 +1040,7 @@
       "summary": "OpenAI: OpenAI launches GPT-6.2 Astra, its new frontier model for &ldquo;complex professional work&rdquo;, and GPT-6.2 Sol, its new &ldquo;go-to model for everyday work&rdquo; &mdash; , our new frontier model for your hardest projects, and &mdash; , our efficient, versatile model for everyday work."
     },
     {
-      "title": "Sources: Vulcan launch anomaly investigation is complex",
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
       "url": "https://arstechnica.com/space/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
       "date": "2026-11-17T18:00:51Z",
       "source": "Ars Technica",
@@ -1374,14 +1382,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Ukraina porzuca Starlinka na froncie. Wielka szansa na uniezależnienie się od kaprysów Muska."
-    },
-    {
-      "title": "Xiaomi 18 Pro z dwoma ekranami. Ten drugi daje coś więcej niż lepsze selfie",
-      "url": "https://spidersweb.pl/2026/11/xiaomi-18-pro-max-specyfikacja-polska-cena.html",
-      "date": "2026-11-17T14:10:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Xiaomi 18 Pro z dwoma ekranami. Ten drugi daje coś więcej niż lepsze selfie."
     },
     {
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
@@ -2112,7 +2112,7 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTM0bkFfUjN5RmY3Z1hZYi0tZ2duNzZ3MmxYYkRZeEFhWk1qZmQwUnV3aUVqLU1mSlNZbXdsNVlUV1RMWmEyek9aR2ZEMTdXRVBseWQ4US13bjZoQjlPekhqakZPejBTN2xJWUw4NWJDeC1ZSFMzZmVwbTQ4eHBiWmozTzRTVWNaQVFnbzcwU0ZSSU5kQ1dYMnp5SkdBVGN2ay13N0hmMUh4bU02RVpwbjhSdXYxb0oxWjJfOUVqNVlIZ1ZER2c?oc=5",
       "date": "2026-11-17T08:29:31Z",
       "source": "StockWatch.pl",
-      "confirmed_by": 13,
+      "confirmed_by": 12,
       "summary": "Komunikat EBI Brainscan SA (brainscan): Raport kwartalny za III kwartał StockWatch.pl."
     },
     {
@@ -2715,7 +2715,7 @@
       30153.98,
       30123.8,
       29625.2,
-      29283.53
+      29271.9
     ],
     "currency": "PLN"
   }
