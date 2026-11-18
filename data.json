@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-18T17:10:51Z",
+  "last_updated": "2026-11-18T17:20:24Z",
   "poland": [
+    {
+      "title": "Weto prezydenta Nawrockiego w sprawie VAT. W grę wchodzą napoje",
+      "url": "https://businessinsider.com.pl/prawo/podatki/weto-prezydenta-nawrockiego-w-sprawie-vat-w-gre-wchodza-napoje/38wben9",
+      "date": "2026-11-18T16:58:13Z",
+      "source": "Business Insider Polska",
+      "confirmed_by": 1,
+      "summary": "Prezydent Karol Nawrocki zawetował ustawę o podwyżce VAT na napoje energetyczne i bezalkoholowe zamienniki alkoholu. Jako powody wskazał negatywne skutki dla polskich rolników i sadowników oraz wątpliwości dotyczące celu podwyżki."
+    },
     {
       "title": "Tak Orban podróżował na koszt podatników. Ujawniono rachunki z ostatnich 10 lat. Najdroższy był mundial",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33139357,tak-orban-podrozowal-na-koszt-podatnikow-ujawniono-rachunki.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -192,14 +200,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Jean-Pierre Gérard od miesięcy mieszka na nabrzeżu w Tournai. Nie pomaga, że ma stały dochód i chce wrócić do normalnego mieszkania. Jego sprawa pokazuje barierę, która może odciąć od wynajmu nawet osobę z regularną emeryturą."
-    },
-    {
-      "title": "Generacja Z awansuje w pracy. Na stanowiskach menedżerskich zaraz prześcigną boomerów",
-      "url": "https://businessinsider.com.pl/praca/pokolenie-z-awansuje-w-firmach-chca-mentorow-i-pracy-w-biurze/p7yzzgs",
-      "date": "2026-11-18T14:19:00Z",
-      "source": "Business Insider Polska",
-      "confirmed_by": 1,
-      "summary": "Przedstawiciele pokolenia Z mogą wyprzedzić baby boomersów w roli menedżerów już w przyszłym roku. Wraz z przechodzeniem boomersów na emeryturę osoby z pokolenia Z awansują w swoich karierach i pozytywnie oceniają miejsce pracy. Wniosą też własny styl przywództwa, w tym potrzebę mentoringu i pracy stacjonarnej."
     },
     {
       "title": "\"Świetlne punkty\" nad Warszawą. Wojsko przeprowadzi w środę test pocisków oświetlających",
@@ -404,20 +404,44 @@
   ],
   "world_security": [
     {
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T17:09:02Z",
+      "source": "BBC News",
+      "confirmed_by": 2,
+      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January."
+    },
+    {
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T17:00:40Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces who have taken the battle below ground and out of sight of Russian drones."
+    },
+    {
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T17:00:04Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region."
+    },
+    {
+      "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "date": "2026-11-18T16:58:02Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and PutinShenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summitWhat is Apec? Explained in 30 secondsYalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday.It is a truism in diplomacy that if you are not around the table, the risk is that you, or your values, are on the menu and about to be carved up."
+    },
+    {
       "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
       "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-18T16:44:23Z",
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize."
-    },
-    {
-      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T16:37:49Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January."
     },
     {
       "title": "Julio Iglesias facing court investigation over alleged sexual offences",
@@ -484,12 +508,12 @@
       "summary": "Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump Reuters."
     },
     {
-      "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-      "date": "2026-11-18T15:40:40Z",
-      "source": "The Guardian",
+      "title": "Israeli spy chief lobbied for joint Iran strikes on US visit, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkJqT2oyYk82bDFiWGJYTVlhX2hxNWs5NzFWY01GTUZVLV8zbWgycFhsTjhuOEcxUTF4Y1BiTWNxUWp4THZhdjBYVnMxd1lCY0d0YlpIWlltUV9JckxaMG5zSURFaW5VV1hGVnBzcm04TENiQWpjWFVwU211MW9qYTdwbERzX19CQkY4UVNseVFMSERmemJPTGY5bmRScXRmaUNEOGhhbm4yOHVGRmtZLXgyN1VBRnJvVngw?oc=5",
+      "date": "2026-11-18T15:46:19Z",
+      "source": "Reuters",
       "confirmed_by": 1,
-      "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and PutinShenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summitWhat is Apec? Explained in 30 secondsYalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday.It is a truism in diplomacy that if you are not around the table, the risk is that you, or your values, are on the menu and about to be carved up."
+      "summary": "Israeli spy chief lobbied for joint Iran strikes on US visit, sources say Reuters."
     },
     {
       "title": "Who speaks for Europe abroad? Not its top diplomat",
@@ -506,6 +530,14 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018."
+    },
+    {
+      "title": "Nasdaq gains in choppy trade after Nvidia outlook; Anthropic pricing awaited - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
+      "date": "2026-11-18T15:33:29Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Nasdaq gains in choppy trade after Nvidia outlook; Anthropic pricing awaited Reuters."
     },
     {
       "title": "Burnham should fight next election on promise to rejoin EU, says Peter Kyle",
@@ -588,14 +620,6 @@
       "summary": "Von der Leyen says she wants to give Kyiv ‘strong hand’ in talks and is confident all 27 member states will back ideaThe EU executive has proposed a €45bn (£37.5bn) loan for Ukraine to help with a looming cash crisis and reinforce its defences, as Russia’s relentless bombardment continues.Announcing the plan to lend Kyiv the money in 2027, the European Commission president, Ursula von der Leyen, said: “We think this is the best way to give Ukraine a strong hand at the negotiating table. And Ukraine only needs to repay once Russia pays for the damage it has caused in Ukraine.” Continue reading..."
     },
     {
-      "title": "Nvidia gains, lifts battered AI stocks as forecast eases post-Huang uncertainty - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5",
-      "date": "2026-11-18T14:25:47Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "Nvidia gains, lifts battered AI stocks as forecast eases post-Huang uncertainty Reuters."
-    },
-    {
       "title": "Commemoration in Italian parliament of neo-fascist leader causes uproar - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWnQ4M3ZsSXU4ZEN1ZWU0emRabGo2eG13dWlrM0ZFaTQ3amlMOFJtRkVXVjQ5blZMNzlWSEdTLWNDbTZ4RmJWbWlWR2JmWUkyV18wWTRzRVQzWTFjV3FJMmFxSVlhOWZ2WlV1UExOdVFOR09qVXJxcVVCblQ3U0g1XzBKdmdEeTcxVnJkcFl3dmlOM09BZ3ZpeGs3SzFxRHRhN3hqTmlVbXJSQQ?oc=5",
       "date": "2026-11-18T14:09:17Z",
@@ -620,14 +644,6 @@
       "summary": "Research by InfluenceMap raises questions about association’s policies and representation, particularly around advocacy for new gas suppliesGet our breaking news email, free app or daily news podcastThe Business Council of Australia is lobbying for gas expansion policies that clash with the climate concerns of the majority of its own members, according to new research that raises questions about the sway of a handful of major companies.The business association also does not publicly disclose who is on its energy and climate committee, prompting transparency concerns among researchers over how its policies are shaped and whose interests they represent. Continue reading..."
     },
     {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T13:55:14Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
-    },
-    {
       "title": "Putin says EU's Russian energy ban caused a 'humiliating' fall in EU living standards - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPckNCbEpERmpHdVJoY0h6eVo0X3JPRmlwaUFtYWFkbG41eVpCMEo1M1RwVTJheXlvSHJKY295bFkyOXVOdktyNFJTaG5XcUt0eUsxTFAtM3F2U25ncndzSV9icGdHb3hESlRIVkR5bHRDQnI4OXQweWZzRUJTV0N2NlFHeFlLS281bmVkRUNPZ0pIbzNTcE5zNTVtLTZQQ3NrSkxzUEo1UjdNVE9nZ0hMR29DRkVwR2IyZ0dPVDZ0RmZLMWZ5c2RVVw?oc=5",
       "date": "2026-11-18T13:50:10Z",
@@ -636,28 +652,12 @@
       "summary": "Putin says EU's Russian energy ban caused a 'humiliating' fall in EU living standards Reuters."
     },
     {
-      "title": "IAEA says North Korea is expanding uranium-enrichment plant at Yongbyon - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0Q4Sk1xb2tRUUdUMHdVNm91OGZEeDMwTkV5dlFfTTI3QXB4RUFuUERvSmpIQXAxRVpiVENsUGt4eWE3My1EU3Jxa0hOY1pwVDlSVHJFVDFJZ0N5WEFZbnZfeDg3WUwzSUVnUkdoSE02SUZ2N2t0R3I2emNZampxMlJiaDFsZkpGc2FqcE1Tcll6TzFVZlVwRkpfNnM4Z2VuX1NESTBBSVpCSGVUT1pMbnN6YjViYzA?oc=5",
-      "date": "2026-11-18T13:38:52Z",
-      "source": "Reuters",
-      "confirmed_by": 1,
-      "summary": "IAEA says North Korea is expanding uranium-enrichment plant at Yongbyon Reuters."
-    },
-    {
       "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
       "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-18T13:04:48Z",
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday."
-    },
-    {
-      "title": "Who to watch in Spain's election race",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T11:44:25Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule."
     },
     {
       "title": "Bancroft sandpaper claims heap pressure on Cummins",
@@ -768,7 +768,7 @@
     {
       "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
       "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israeli-tanks-advance-across-gaza-cease-fire-line-in-rare-incursion.html",
-      "date": "2026-11-18T16:57:00Z",
+      "date": "2026-11-18T17:03:53Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce."
@@ -780,6 +780,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia."
+    },
+    {
+      "title": "2026 U.S. Senate Election Results - AP News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+      "date": "2026-11-18T16:35:15Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "2026 U.S. Senate Election Results AP News."
     },
     {
       "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
@@ -854,6 +862,14 @@
       "summary": "Xi Jinping, China’s leader, greeted Sanae Takaichi, Japan’s prime minister, in Shenzhen a year after China began punishing Japan over her comments on Taiwan."
     },
     {
+      "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+      "date": "2026-11-18T13:40:14Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News."
+    },
+    {
       "title": "Trump and Marcos Share a Moment Over Jollibee Fried Chicken",
       "url": "https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html",
       "date": "2026-11-18T13:29:27Z",
@@ -868,14 +884,6 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "President Ferdinand R. Marcos Jr. of the Philippines flattered President Trump during his brief visit to Manila."
-    },
-    {
-      "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-      "date": "2026-11-18T13:03:11Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News."
     },
     {
       "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
@@ -920,7 +928,7 @@
     {
       "title": "Democrats flipped 9 US Senate seats — the most in almost 70 years - AP News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTkVLZlFfMk1SeWVQNGxXcHhCZjJ5M3pKUm4tQWxkbHQyaHJRbGZ3dlpyNkZYRnIxczFMdm85LW01UWQtckpmeUs4NTl5OXcybnlvUVZYUmY2VDZYcVZEM2xVUUphMFlyRXlhSlRrYjNmRFc5TXkyaElqczBQLVRkZFJaMm5mOFoyT3N4RTEwUjA?oc=5",
-      "date": "2026-11-18T03:39:21Z",
+      "date": "2026-11-18T04:09:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Democrats flipped 9 US Senate seats — the most in almost 70 years AP News."
@@ -932,14 +940,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Classified communications network at the National Security Agency goes down, defense official says AP News."
-    },
-    {
-      "title": "NCAA College Basketball Rankings: AP Top 25 Basketball Poll - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiclRXTGdGRmhNSVBZOEhVMjdaWTFWdXIwOFA4UTd6T0plQTJ0UmZlSUE2WEMwQmYzQ0NJam1KcWhVLVZXY1cwYWNKTU9GRjY4MXJacTlKX3BUdnlCYW1TdnVVX3pHcTQ?oc=5",
-      "date": "2026-11-17T23:07:26Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "NCAA College Basketball Rankings: AP Top 25 Basketball Poll AP News."
     },
     {
       "title": "Apple joins a parade of technology hiccups in recent days - AP News",
@@ -998,12 +998,12 @@
       "summary": "2026 U.S. House Election Results AP News."
     },
     {
-      "title": "2026 U.S. Senate Election Results - AP News",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-      "date": "2026-11-17T08:00:00Z",
+      "title": "Trump administration moves to block China from indirect access to American AI technology - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGJmTGhQa3FRRDZtX3BqVk9SNlc1aHZ1QXZiUXdHMmlmZmdyUjFKS0hrREM1OFRrVDVjUGpSWnZfVTEtdlozVHVDc0h5Rld1cGVKQTFGYzVZOGJMdDNheWdEcFRhakxCVW1xcnQ3VHBzS2lRdWNPTGdtUkNxNVRnT1JUVzVKNzRXUlNuLUtBOVk2REZnZjMySER5NmhfNTliRjZsZ3B5TElrN0JU?oc=5",
+      "date": "2026-11-17T07:49:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
-      "summary": "2026 U.S. Senate Election Results AP News."
+      "summary": "Trump administration moves to block China from indirect access to American AI technology AP News."
     }
   ],
   "technology": [
@@ -1040,12 +1040,28 @@
       "summary": "Financial Times: Ukraine is using a network of drones as airborne communication relays after repeated Starlink disruptions, including during a strike on Russia's Kerch Bridge &mdash; Kyiv starts using its own communication system for drone strikes after repeated disruptions in the use of Starlink."
     },
     {
+      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+      "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+      "date": "2026-11-18T16:41:22Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 9 # Comments: 2."
+    },
+    {
       "title": "GTA 6 ledwo w 30 FPS. Rockstar brutalnie pokazuje możliwości obecnych konsol",
       "url": "https://spidersweb.pl/2026/11/gta-6-ledwo-30-fps-nie-bedzie-trybu-60-fps.html",
       "date": "2026-11-18T16:40:00Z",
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "GTA 6 ledwo w 30 FPS. Rockstar brutalnie pokazuje możliwości obecnych konsol."
+    },
+    {
+      "title": "Software Factory builds 30 complex open source libraries in a month",
+      "url": "https://recursiveai.org/blog/what-my-software-factory-built/",
+      "date": "2026-11-18T16:26:42Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://recursiveai.org/blog/what-my-software-factory-built/ Comments URL: https://news.ycombinator.com/item?id=50548281 Points: 4 # Comments: 0."
     },
     {
       "title": "AMD szykuje coś dużego. Tajemnicza zapowiedź na CES 2027",
@@ -1085,7 +1101,7 @@
       "date": "2026-11-18T16:18:51Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Voyager 1 reached one light-day from Earth today.On the site you can:- see where both Voyagers are right now- open a nuclear battery to its 24 plutonium spheres- go into the data computer, down to a single memory chip- see how the Golden Record's cover explains how to play it- watch how Voyager 1 was fixed by radio- see which dish on Earth is listening to them, liveI also made a 4-minute film from it: https://www.youtube.com/watch?v=kpzsRo-c1_A Comments URL: https://news.ycombinator.com/item?id=50548161 Points: 8 # Comments: 0."
+      "summary": "Voyager 1 reached one light-day from Earth today.On the site you can:- see where both Voyagers are right now- open a nuclear battery to its 24 plutonium spheres- go into the data computer, down to a single memory chip- see how the Golden Record's cover explains how to play it- watch how Voyager 1 was fixed by radio- see which dish on Earth is listening to them, liveI also made a 4-minute film from it: https://www.youtube.com/watch?v=kpzsRo-c1_A Comments URL: https://news.ycombinator.com/item?id=50548161 Points: 17 # Comments: 1."
     },
     {
       "title": "Samsung uruchamia betę One UI 9.5. Galaxy S26 dostaje potężny pakiet nowości",
@@ -1109,7 +1125,7 @@
       "date": "2026-11-18T16:09:50Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.lkuffo.com/superemeans/ Comments URL: https://news.ycombinator.com/item?id=50548038 Points: 3 # Comments: 0."
+      "summary": "Article URL: https://www.lkuffo.com/superemeans/ Comments URL: https://news.ycombinator.com/item?id=50548038 Points: 6 # Comments: 0."
     },
     {
       "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
@@ -1117,7 +1133,7 @@
       "date": "2026-11-18T16:08:24Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 31 # Comments: 15."
+      "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 64 # Comments: 33."
     },
     {
       "title": "CVE-2026-99312: KVM Guest-to-Host Escape",
@@ -1125,7 +1141,7 @@
       "date": "2026-11-18T16:06:21Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.terra.security/blog/kvm-guest-to-host-escape Comments URL: https://news.ycombinator.com/item?id=50548004 Points: 14 # Comments: 1."
+      "summary": "Article URL: https://www.terra.security/blog/kvm-guest-to-host-escape Comments URL: https://news.ycombinator.com/item?id=50548004 Points: 36 # Comments: 16."
     },
     {
       "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
@@ -1133,7 +1149,7 @@
       "date": "2026-11-18T16:04:43Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://exitpath-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50547980 Points: 10 # Comments: 0."
+      "summary": "Article URL: https://exitpath-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50547980 Points: 18 # Comments: 1."
     },
     {
       "title": "Ahead of Anthropic's IPO, CAIS and others sign the MisAnthropic Statement, challenging the company's \"safety\" branding and its \"reckless attempt\" to build RSI (Center for AI Safety)",
@@ -1150,22 +1166,6 @@
       "source": "Spider's Web",
       "confirmed_by": 1,
       "summary": "Samsung udostępnia One UI 9.5. Polacy pobiorą jako pierwsi."
-    },
-    {
-      "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "date": "2026-11-18T15:49:34Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 5 # Comments: 0."
-    },
-    {
-      "title": "Deutsche Bank",
-      "url": "https://www.inside-db.com/",
-      "date": "2026-11-18T15:38:33Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 148 # Comments: 46."
     },
     {
       "title": "An interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is \"just ridiculous\" (Steven Levy/Wired)",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "MongoDB snaps up Firebolt to bring transactions and analytics under one roof",
+      "url": "https://www.theregister.com/databases/2026/11/18/mongodb-snaps-up-firebolt-to-bring-transactions-and-analytics-under-one-roof/5310809",
+      "date": "2026-11-18T17:02:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Many have tried to marry analytics with transactions. The document DB posterchild takes another crack at it."
+    },
+    {
       "title": "The wrong setting for AI cache can cost you a lot of cash",
       "url": "https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831",
       "date": "2026-11-18T16:17:00Z",
@@ -1634,14 +1642,6 @@
       "summary": "Jak czytamy w raporcie &#8211; ARTEX, CAIRN, CyberStrikeAI czy PentAGI, exploit_agent &#8211; to frameworki, wymagające niewielkiej wiedzy technicznej, a umożliwiające szybkie hackowanie niemal dowolnego celu. Rekonesans, znalezienie podatności, wykorzystanie podatności, dalsza eksploracja sieci. Niektóre elementy potrafią być realizowane w ultrakrótkim czasie (w jednym z opisywanych przypadków od przejęcia jednego z..."
     },
     {
-      "title": "Time for frustrated M365 customers to stage a 'distributed denial of satisfaction' action",
-      "url": "https://www.theregister.com/off-prem/2026/11/18/time-for-frustrated-m365-customers-to-stage-a-distributed-denial-of-satisfaction-action/5310343",
-      "date": "2026-11-18T08:45:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Microsoft is asking customers to apply for reimbursement. They should protest."
-    },
-    {
       "title": "Oszuści polują na fanów GTA VI. Na co uważać?",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/oszusci-poluja-na-fanow-gta-vi-na-co-uwazac",
       "date": "2026-11-18T08:25:25Z",
@@ -1812,12 +1812,20 @@
   ],
   "finance": [
     {
-      "title": "Rozmowy o resecie konstytucyjnym nabierają tempa. Wspólny projekt ws. TK na stole",
-      "url": "https://www.bankier.pl/wiadomosc/Rozmowy-o-resecie-konstytucyjnym-nabieraja-tempa-Wspolny-projekt-ws-TK-na-stole-9231111.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-18T16:38:00Z",
+      "title": "Do biura, na autostradę i po godzinach. Ten samochód nie chce być zwykłą służbówką - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMVZBZllSeUlDVlE0Vms2UWg1OXRZRmR5NzZvZ0g0MFlySmd6Q0d2SHltSThpQUh6dkxqSEoyZE93alFETDA4aFExcDJZcXMyWFJzcVdrTnNXX0dSYjZSTkF1ZmhnSXk2X0FTdFhKQnF6eTg0b1VkVTUtQm1ia0lTV1J6TWVOeFpIYW03VUpvSEMzazZCSElqOElrcHB2WEp5N1pXdmtlQlpuVkVOTW9z?oc=5",
+      "date": "2026-11-18T17:03:35Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Do biura, na autostradę i po godzinach. Ten samochód nie chce być zwykłą służbówką Forbes."
+    },
+    {
+      "title": "Prokuratura może stawiać zarzuty. Święczkowski i Sochański bez immunitetów",
+      "url": "https://www.bankier.pl/wiadomosc/TK-Prokuratura-moze-stawiac-zarzuty-Swieczkowski-i-Sochanski-bez-immunitetow-9231131.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-18T16:57:00Z",
       "source": "Bankier.pl",
       "confirmed_by": 1,
-      "summary": "W środę ok. godz. 17 do siedziby Kancelarii Prezydenta przy ul."
+      "summary": "Zgromadzenie sędziów w Trybunale Konstytucyjnym zwołane przez sędzię Annę Korwin-Piotrowską uchyliło immunitet Bogdana Święczkowskiego w odniesieniu do 4 spraw; nie wyraziło zgody na jego zatrzymanie i tymczasowy areszt - poinformowano w środowym komunikacie."
     },
     {
       "title": "Mocne wyniki finansowe i wyższa produkcja metali w KGHM. Dyscyplina kosztowa wspiera realizację długoterminowej strategii - BiznesRadar",
@@ -1826,6 +1834,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Mocne wyniki finansowe i wyższa produkcja metali w KGHM. Dyscyplina kosztowa wspiera realizację długoterminowej strategii BiznesRadar."
+    },
+    {
+      "title": "Rozmowy o resecie konstytucyjnym nabierają tempa. Wspólny projekt ws. TK na stole",
+      "url": "https://www.bankier.pl/wiadomosc/Rozmowy-o-resecie-konstytucyjnym-nabieraja-tempa-Wspolny-projekt-ws-TK-na-stole-9231111.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-18T16:38:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "W środę ok. godz. 17 do siedziby Kancelarii Prezydenta przy ul."
     },
     {
       "title": "CD Projekt RED wystrzelił przed premierą GTA VI. Akcje KGHM i XTB znów mocno w dół",
@@ -1876,22 +1892,6 @@
       "summary": "Prezydent zawetował ustawę, która miała podnieść stawkę VAT m.in. na zawierające sok bezalkoholowe odpowiedniki napojów alkoholowych oraz napoje energetyczne. Od 2027 do 2036 r."
     },
     {
-      "title": "Zerowy VAT na transport pasażerski w zawieszeniu. MF czeka na przestrzeń w budżecie",
-      "url": "https://www.bankier.pl/wiadomosc/Zerowy-VAT-na-transport-pasazerski-w-zawieszeniu-MF-czeka-na-przestrzen-w-budzecie-9231055.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-18T15:50:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Ewentualne działania w zakresie obniżenia stawki VAT na transport pasażerski mogłyby zostać rozważone, gdy znajdzie się przestrzeń w budżecie do ich sfinansowania - podał resort finansów w odpowiedzi na interpelację poselską."
-    },
-    {
-      "title": "Akcyza na alkohol mocno w górę. Ustawa z podpisem prezydenta",
-      "url": "https://www.bankier.pl/wiadomosc/Akcyza-na-alkohol-mocno-w-gore-Ustawa-z-podpisem-prezydenta-9231054.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-18T15:49:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Prezydent Karol Nawrocki poinformował w środę, że podpisał ustawę, która zwiększy skalę podwyżek akcyzy na napoje alkoholowe w 2027 r. Dodatkowe wpływy z tego tytułu mają trafić do Narodowego Funduszu Zdrowia."
-    },
-    {
       "title": "Komunikat EBI Universe SA (universe): Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV1VESkhhOEduMGVfek53MGZrdHNtUTIyNlh3SEZRVmN5ZEdmRlM1OFFqRVVUY1dFRUlLTGZLTHpvOC1VSDQ3Z183MGRIb2xGS1hWRXc5dm1JeW5DVTdaVTZGZmlzQnRGc25STlhWeFNaZmc1WWpQa2E2TUJEM01pVUlTbGlQek5BZ0VuQktxUWVzeUJ3a25jQ003WXAwM3BkeGlNWFZkOHhzRDNwandfeEM0ckxkRVNic1BDQzBjSlFGdkRZMm02TlR3eC1wd3JCSXNRdVI4VQ?oc=5",
       "date": "2026-11-18T15:40:48Z",
@@ -1924,12 +1924,28 @@
       "summary": "Jak firmy będą wybierać biura w 2027 roku? Forsal.pl."
     },
     {
+      "title": "Komunikat ESPI FARMY FOTOWOLTAIKI POLSKA SPÓŁKA AKCYJNA (farmyfo): Informacja o wpisie spółki zależnej Emitenta do rejestru wytwórców energii - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeGpwOEhkS2Z0VzYyaWR0SnZidXUwdnNmak02T1ZURXFPdDNiMTFzU1ZxQ0lHWXRDNjhsenhhY2NwYXY1YXhTeFhQWHltaGp2UzF3UmNhS1pFYktEZkxsVGtVVnU5NjhzYTR0VzdZMHJTcm5TNEJSYWR1eGw2eWZydGkyRXZtZ0xROWhDMTZXWUduV01NV2dNZk9fYnhSU3doVk9HSU9kYkFhSEhtc1g5UVladV8ydjVLdjVVWjNacl9FMllvaTh0Q3VVS3FqQXBNUU9PUU5R?oc=5",
+      "date": "2026-11-18T14:59:38Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat ESPI FARMY FOTOWOLTAIKI POLSKA SPÓŁKA AKCYJNA (farmyfo): Informacja o wpisie spółki zależnej Emitenta do rejestru wytwórców energii StockWatch.pl."
+    },
+    {
       "title": "USA przerzuciły wojsko pod granicę z Białorusią. Dwa bataliony w strategicznym miejscu - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVEZiWnkycllqdlZweFNLWDJ6TjZsSVlUdWJxQ1Nnc0FHMmFtSWFEanczYVVfalJ2ZVVQS0dIYkZkSWFYbU9yOUM4d0g0Vkk0TTNzS21JeWdqUGs5Rkw1MFZBVGxtdkY2bW00ZzhDWDFTSXlBNTJEQk9OTG1jRmtYS19Da292SkRuZTRyUG5YYm8zd190VHJueUpZY1l0UFpObzRMSWkzMTJMcGFPVFVqT283SDB6X3JWMmFHb2NYa3ZSWF9BeldyeDk4NWxDSUszWGljOU1nSmZzXzRQM0FSTg?oc=5",
       "date": "2026-11-18T14:58:41Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "USA przerzuciły wojsko pod granicę z Białorusią. Dwa bataliony w strategicznym miejscu Forsal.pl."
+    },
+    {
+      "title": "Komunikat ESPI DI VOLIO SPÓŁKA AKCYJNA (divolio): Rozpoczęcie działalności operacyjnej przez spółkę zależną di volio Česko s.r.o. poprzez uruchomienie dedykowanego sklepu internetowego - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOGw3cTUwRThxZTNiam83QkZESXVrZFJsVk1MaER6X2NzeW1YOFlPaFZ2Qkl2WEJHdzl0VDFiYmxwVU9yYVV2WUVqZTV3MkU3dU1yS0ZzbTloNzJWLTlOcFF1VmF1Rmc2OTBWQTdOVWI5ejY2S0VGSHgwZE5BNUJaa3pUUGhFTmlKTFBzOUFmY3F0dDNiSHJVdVcwSUpCZVE0ak1RNy1fYm5OZGdSc3BWZ01vV2FBdzBZMDY5MFl5eHNPUHhmRC1NMlRxRUpKTklmY2o4S2xpbw?oc=5",
+      "date": "2026-11-18T14:55:05Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat ESPI DI VOLIO SPÓŁKA AKCYJNA (divolio): Rozpoczęcie działalności operacyjnej przez spółkę zależną di volio Česko s.r.o. poprzez uruchomienie dedykowanego sklepu internetowego StockWatch.pl."
     },
     {
       "title": "Answear: wyniki za III kwartał 2026 i cel 90 mln zł EBITDA - StockWatch.pl",
@@ -1972,22 +1988,6 @@
       "summary": "Komunikat ESPI ALLEGRO.EU SOCIETE ANONYME (allegro): Zmiana warunków Fazy II Programu Skupu Akcji implementacja uchwały ZWZ i podwyższenie maksymalnej ceny nabycia do 65 zł StockWatch.pl."
     },
     {
-      "title": "Komunikat EBI Intermarum SA (intm): Nałożenie na emitenta kary pieniężnej lub innego środka dyscyplinującego przez Organizatora Alternatywnego Systemu lub nałożeniu sankcji administracyjnej - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVmZhX3FNdDRUXzRIRFJhQUIwR3RHT1FvRG9xNnh4VVpaQmVNZ0ZoVmlBTzRmcjA0UnJrVWpJZGwxa011RGVmU29DMWtwYS1RLUNiSTFEUEJKWkVwMUlFYlQ1Z2UyLUpyV1d1VU84YzBlV0g1LXRhZDJnNjVVckpwSTFUdFhzSkxoSXVwSmJVR1VFbnBJZlNuWGFTX1RFc2lXNW9QYVZDOGxFdExxNl9XYzloVngxd1RLWXJlSE5DWHRFaDA0TUo5R1VkcXN4UDRQSmc?oc=5",
-      "date": "2026-11-18T14:07:35Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat EBI Intermarum SA (intm): Nałożenie na emitenta kary pieniężnej lub innego środka dyscyplinującego przez Organizatora Alternatywnego Systemu lub nałożeniu sankcji administracyjnej StockWatch.pl."
-    },
-    {
-      "title": "Diagnostyka ma kupić 47,14 proc. akcji Genomedu po 33 zł za sztukę - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFdnRmdyTE04S3pCSTBiSDMwU2xrT05CaHJUV2JlMW42QlBJemhUQkg1clYtYWFMLTdrVVlNR2ZVcVZCdTl5N3pJVWx4UGpVOWNOaHNoclBnTE5EdElRVzJDN1lBc2xlMUlBZno1aWZRUDhHclJhanJRLUtqZlF4LU5rNlVQUklyTEEyU1pFcmtISHlqMUE?oc=5",
-      "date": "2026-11-18T13:58:59Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Diagnostyka ma kupić 47,14 proc. akcji Genomedu po 33 zł za sztukę StockWatch.pl."
-    },
-    {
       "title": "Zamieszanie wokół XTB. Jest odpowiedź KNF",
       "url": "https://www.money.pl/gielda/zamieszanie-wokol-xtb-jest-odpowiedz-knf-7352351556773920a.html",
       "date": "2026-11-18T13:46:06Z",
@@ -2018,14 +2018,6 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Jensen Huang chce wrócić do kierowania Nvidią. Zarząd mówi “nie” pomimo rekordowych zysków Forsal.pl."
-    },
-    {
-      "title": "Do biura, na autostradę i po godzinach. Ten samochód nie chce być zwykłą służbówką - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMVZBZllSeUlDVlE0Vms2UWg1OXRZRmR5NzZvZ0g0MFlySmd6Q0d2SHltSThpQUh6dkxqSEoyZE93alFETDA4aFExcDJZcXMyWFJzcVdrTnNXX0dSYjZSTkF1ZmhnSXk2X0FTdFhKQnF6eTg0b1VkVTUtQm1ia0lTV1J6TWVOeFpIYW03VUpvSEMzazZCSElqOElrcHB2WEp5N1pXdmtlQlpuVkVOTW9z?oc=5",
-      "date": "2026-11-18T13:20:56Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Do biura, na autostradę i po godzinach. Ten samochód nie chce być zwykłą służbówką Forbes."
     },
     {
       "title": "Oto najlepsze kraje do życia dla silversów. Jak wypadła Polska? - Forbes",
@@ -2090,6 +2082,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Wyniki finansowe PCC Exol za III kwartał 2026 r. i plany rozwoju - czat inwestorski z wiceprezesem zarządu Czaty śr., 18.11.2026 Obrazek."
+    },
+    {
+      "title": "Visa testuje w Polsce zakupy z AI. Ruszył pilotaż z bankami - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1ROMHE4bm1kLWtDQTNJdmN3cExzY0FtcWNCRnltX1JvQVh1TnRnNlkzd2RuU1FLQkREdjNmNTZNcVhIWnNDVVAwREdoeWFSTGZPRDJSMnBJTVN6eWdlNHVNcVdsYTg4VUF5U1oxR0ZnR1lzR2J4VUplaFZmTmdlWW82NUdBTkZMTVJCdTNPbXhvVXp3WVBOM0ZpMDNIVGE0T1VuaXc2Qml6emhS?oc=5",
+      "date": "2026-11-18T10:51:00Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Visa testuje w Polsce zakupy z AI. Ruszył pilotaż z bankami Forbes."
     },
     {
       "title": "Średnia emerytura w Polsce. ZUS pokazuje najnowsze dane",
@@ -2172,20 +2172,20 @@
       "summary": "W ciągu najbliższych dwóch lat wartość projektów realizowanych z udziałem KUKE na rynkach afrykańskich może sięgnąć 10 mld dolarów. Polska agencja ubezpiecza i finansowo zabezpiecza inwestycje m.in. w transporcie, energetyce, ochronie zdrowia i edukacji, otwierając polskim przedsiębiorstwom drogę do kontraktów na kontynencie."
     },
     {
-      "title": "DADELO SA Raport okresowy kwartalny 3/2026 Q - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObjdnbU9KamlfNUlqQ3BUeDdDMWc3QVU5b3NSdXhwTTJiejR5eHNFTEJmbVJtNnItZGZYeVBKclFhV2JaTnhzZGhfeGdXZ0NldGxaVTVreDllRkItMDFhSVYzTVdxaFBXbUo5ekgyWjltUm5zSDV4ck1XeHV4QmhGQVd1Zmc4WFk?oc=5",
-      "date": "2026-11-17T16:05:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "DADELO SA Raport okresowy kwartalny 3/2026 Q BiznesRadar."
-    },
-    {
       "title": "Wiadomości PZU - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aMDRaVGVzNVVVeXhZM1liNjl4SHlqc2k5aENVeExCUHhOajh1blBpb2NtVzFiTmxMNVJIa0t2bmYtWmxPcUNPc1lOenhTLTFJU0R2LXJCbw?oc=5",
       "date": "2026-11-17T16:00:47Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Wiadomości PZU BiznesRadar."
+    },
+    {
+      "title": "Wiadomości INC S.A. - strona: 255 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LeXhaeENsRXA5OTRkSjMyaThFaHZieFd4OXMzU3hzU1U3clIxbm1WdzdXLVJ1RkV6UDZWQ0FsakExbHNkVWV1ZXdqS04taHZPV2EwYXBLYnE?oc=5",
+      "date": "2026-11-17T14:23:09Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości INC S.A. - strona: 255 BiznesRadar."
     },
     {
       "title": "Ciepła woda trafia do Wisły. Naukowcy pokazali, jak zmienia rzeczny ekosystem",
@@ -2604,21 +2604,21 @@
       26908.48,
       27136.73,
       27155.66,
-      30062.03,
+      30065.02,
       27354.94,
       27400.36,
       27412.11,
-      30490.79,
+      30493.82,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29701.1,
+      29704.05,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29893.05,
+      29896.02,
       27686.17,
       27404.78,
       27351.97,
@@ -2627,7 +2627,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29581.55,
+      29584.49,
       27930.04,
       28234.04,
       28218.36,
@@ -2636,81 +2636,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30472.01,
+      30475.04,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29998.56,
+      30001.54,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29814.69,
+      29817.66,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      30127.4,
+      30130.4,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31205.11,
+      31208.21,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31318.22,
+      31321.33,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30870.15,
+      30873.22,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      31020.55,
+      31023.64,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      31048.07,
+      31051.16,
       28449.73,
       28313.03,
       28272.33,
-      30800.2,
+      30803.27,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30774.14,
+      30777.2,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      31147.87,
+      31150.97,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      31064.64,
+      31067.73,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31421.92,
+      31425.05,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30810.1,
+      30813.16,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30666.25,
+      30669.3,
       30100.92,
       30418.01,
       30609.55,
@@ -2728,7 +2728,7 @@
       30123.8,
       29625.2,
       29369.09,
-      29426.64
+      29449.32
     ],
     "currency": "PLN"
   }
