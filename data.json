@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T07:58:58Z",
+  "last_updated": "2026-11-18T07:59:49Z",
   "poland": [
     {
       "title": "Donald Trump ogłosił \"bardzo dużą\" umowę z azjatyckim krajem. Nie było jej w planie",
@@ -1434,6 +1434,22 @@
       "summary": "Temu naruszyło zapisy Aktu o usługach cyfrowych – stwierdziła wstępnie we wtorek Komisja Europejska. Chińska platforma miała naruszyć obowiązek, który nakazywał wprowadzenie środków ograniczających sprzedaż nielegalnych produktów. Zastosowane systemy sankcji, moderacji oraz kontrole nie zostały ocenione jako wystarczające i skuteczne."
     },
     {
+      "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
+      "date": "2026-11-18T06:32:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Pre-digital tech can't be transformed and automated."
+    },
+    {
+      "title": "Temu's compliance regime is low-quality, fits badly, and full of holes, says Europe",
+      "url": "https://www.theregister.com/legal/2026/11/18/temus-compliance-regime-is-low-quality-fits-badly-and-full-of-holes-says-europe/5310684",
+      "date": "2026-11-18T06:16:12Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Prepares to unleash full wrath of Digital Services Act over Chinese e-tailer's alleged sales of illegal products."
+    },
+    {
       "title": "Claude Code zapisywał sekrety i wrzucał je na GitHuba. Oczywiście za “zgodą” użytkownika. Wyciekło ponad 1300 haseł i kluczy",
       "url": "https://sekurak.pl/claude-code-zapisywal-sekrety-i-wrzucal-je-na-githuba-oczywiscie-za-zgoda-uzytkownika-wycieklo-ponad-1300-hasel-i-kluczy/",
       "date": "2026-11-18T05:59:37Z",
@@ -1466,6 +1482,14 @@
       "summary": "Po spektakularnym ataku na pracownika Binance i pradzieży ponad 6 mld USD Departament Sprawiedliwości Stanów Zjednoczonych ogłosił skoordynowane działania przeciwko planom rządu Koreańskiej Republiki Ludowo-Demokratycznej. Mowa o kampanii socjotechnicznej FaceStealer w ramach której grupy APT intensywnie infekują kolejne urządzenia przejmując konta społecznościowe i wyciągając dane portfeli kryptowalutowych. TLDR: Grupy APT..."
     },
     {
+      "title": "Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps",
+      "url": "https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661",
+      "date": "2026-11-18T04:33:05Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Attackers can crash the JVM or achieve unauthenticated RCE."
+    },
+    {
       "title": "Critical Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
       "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
       "date": "2026-11-18T04:27:41Z",
@@ -1482,6 +1506,38 @@
       "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC, CNN, Equifax, Ledger and Zoom, was exacerbated by the reality that few popular websites enforce strict rules on the sources of third-party content."
     },
     {
+      "title": "Daily disruptive outages that ground planes and halt work – welcome to the new normal",
+      "url": "https://www.theregister.com/security/2026/11/17/daily-disruptive-outages-that-ground-planes-and-halt-work-welcome-to-the-new-normal/5310634",
+      "date": "2026-11-17T23:41:31Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "NSA, Apple add to a week of high-profile network outages, largely attributed to 'routine maintenance'."
+    },
+    {
+      "title": "GPU giants throw HPC users some tasty crumbs",
+      "url": "https://www.theregister.com/hpc/2026/11/17/gpu-giants-throw-hpc-users-some-tasty-crumbs/5310611",
+      "date": "2026-11-17T22:37:46Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Nvidia unveils an HPC-optimized Rubin GPU to challenge AMD's 288 teraFLOPS MI430X."
+    },
+    {
+      "title": "Satya sorry for SaaS-y SNAFU - look over there, more AI!",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/17/satya-sorry-for-saas-y-snafu-look-over-there-more-ai/5310594",
+      "date": "2026-11-17T21:44:58Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "At Ignite, the Windows-Azure giant is all about Copilot."
+    },
+    {
+      "title": "Jensen Huang thrilled to be spending time with family, but will retake leadership burden if Nvidia asks",
+      "url": "https://www.theregister.com/systems/2026/11/17/jensen-huang-thrilled-to-be-spending-time-with-family-but-will-retake-leadership-burden-if-nvidia-asks/5310585",
+      "date": "2026-11-17T21:15:42Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "But the new chairman shot that idea down on the company's earnings call."
+    },
+    {
       "title": "IKEA hakująca iPhone? Nie do końca. Duże marki ofiarami ataku na Optimizely.",
       "url": "https://sekurak.pl/ikea-hakujaca-iphone-nie-do-konca-duze-marki-ofiarami-ataku-na-optimizely/",
       "date": "2026-11-17T20:35:48Z",
@@ -1490,12 +1546,60 @@
       "summary": "O ile podejrzenie wzbudzać mogą małe internetowe witryny, swoim wyglądem przywodzące na myśl lata boomu dotcom, o tyle użytkownicy Internetu raczej nie zakładają złośliwych działań przeprowadzanych przez znane i duże witryny internetowe, za którymi stoją poważne organizacje takie jak GitLab, Salesforce czy HSBC. W poniedziałek 16.11 pojawiła się informacja, że... Artykuł IKEA hakująca iPhone?"
     },
     {
+      "title": "Python parallel debugging comes to HPC thanks to TotalView upgrade",
+      "url": "https://www.theregister.com/devops/2026/11/17/python-parallel-debugging-comes-to-hpc-thanks-to-totalview-upgrade/5310564",
+      "date": "2026-11-17T20:14:31Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "TotalView has supported C/C++ and Fortran. With the latest quarterly release, it supports Python as well."
+    },
+    {
+      "title": "Gemini test proves once again that amoral AI agents will do almost anything if told ‘NEVER give up’",
+      "url": "https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574",
+      "date": "2026-11-17T19:52:57Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "If you design a test to find misalignment, you will find misalignment."
+    },
+    {
       "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
       "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
       "date": "2026-11-17T19:34:20Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researchers ran their demonstration on a Telegram test server, because only approved bots can send."
+    },
+    {
+      "title": "America's hyperscale bit barns draw as much power as entire states",
+      "url": "https://www.theregister.com/off-prem/2026/11/17/americas-hyperscale-bit-barns-draw-as-much-power-as-entire-states/5310471",
+      "date": "2026-11-17T18:29:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Harvard study claims emissions attributable to datacenters are two to three times higher than in 2018."
+    },
+    {
+      "title": "Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs",
+      "url": "https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424",
+      "date": "2026-11-17T17:45:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Cheap tiny e-readers and the perils of LLM-generated drive-by pull requests – plus much more."
+    },
+    {
+      "title": "SAP's cloud migration chief is migrating to Ionos as CEO",
+      "url": "https://www.theregister.com/software/2026/11/17/saps-cloud-migration-chief-is-migrating-to-ionos-as-ceo/5310530",
+      "date": "2026-11-17T17:13:28Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "After more than two decades in Walldorf, Thomas Saueressig takes reins at hosting provider in April."
+    },
+    {
+      "title": "Opting out of Gemini tracking? Google will still hold your data 20x longer",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/17/opting-out-of-gemini-tracking-google-will-still-hold-your-data-20x-longer/5310517",
+      "date": "2026-11-17T17:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "From 72 hours to 2 months in a single quiet announcement. Careful what you ask Google's AI, because it's storing it even if you ask it not to."
     },
     {
       "title": "Gospodarka potrzebuje konkretów, nie ceremoniału. Poznań centrum rozmowy o rozwoju i cyfrowej przyszłości Europy",
@@ -1682,30 +1786,6 @@
       "summary": "Microsoft opublikował wstępny raport po ostatnim incydencie. Nieco uszczypliwie można by napisać: to Teamsy zepsuły Outlooka ;-) Ale po kolei: W lipcu 2026 Microsoft wprowadził pewną poprawkę do swoich serwerów gateway (chodzi o serwery &#8211; bramki, do których łączą się użytkownicy chcący skorzystać z usług Microsoftu). Poprawka była wdrażana na..."
     },
     {
-      "title": "Polska wśród państw decydujących o przyszłości telekomunikacji",
-      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska-wsrod-panstw-decydujacych-o-przyszlosci-telekomunikacji",
-      "date": "2026-11-16T14:56:14Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Polska utrzyma swoją reprezentację w Radzie Międzynarodowego Związku Telekomunikacyjnego na kolejne cztery lata. Podczas konferencji w Dosze wyłoniono państwa, które będą uczestniczyć w zarządzaniu organizacją odpowiedzialną m.in. za międzynarodowe standardy łączności i rozwój infrastruktury telekomunikacyjnej."
-    },
-    {
-      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-      "date": "2026-11-16T14:00:00Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. In tandem, threat actors are leveraging the power and capabilities of large language models (LLMs)."
-    },
-    {
-      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-      "date": "2026-11-16T13:27:20Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in."
-    },
-    {
       "title": "Hashcat 8.0 jest już dostępny. Wsparcie dla FPGA, nowe metody ataku i własne receptury hashy – to tylko niektóre ze zmian wdrożonych w narzędziu",
       "url": "https://sekurak.pl/hashcat-8-0-jest-juz-dostepny-wsparcie-dla-fpga-nowe-metody-ataku-i-wlasne-receptury-hashy-to-tylko-niektore-ze-zmian-wdrozonych-w-narzedziu/",
       "date": "2026-11-16T00:01:10Z",
@@ -1731,6 +1811,14 @@
     }
   ],
   "finance": [
+    {
+      "title": "Akcjonariusze pozywają Intela. Zarzucają zatajenie kryzysu i domagają się odszkodowań",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-pozywaja-Intela-Zarzucaja-zatajenie-kryzysu-i-domagaja-sie-odszkodowan-9230666.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-18T07:50:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Akcjonariusze Intela złożyli w kalifornijskim sądzie federalnym pozew zbiorowy przeciwko koncernowi, oskarżając zarząd o celowe zatajenie skali zapaści na rynku komputerów osobistych oraz nadmiernych zapasów magazynowych. Gdy spółka wreszcie ujawniła problemy, jej giełdowa kapitalizacja skurczyła się w ciągu jednego dnia o blisko 140 mld dolarów."
+    },
     {
       "title": "ARL - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UaFRvVjdDREd1VC12aHoySlV0WEZHOTNjMzFzWGhPR2ZTZmxIWDU0bVV1UTEyRXJyb3gtN1AwTnZOWF9pMUJkQ1FpeER4X3BGeXpMOGVaTUJpdw?oc=5",
@@ -1772,14 +1860,6 @@
       "summary": "Prezydent USA Donald Trump oświadczył w środę podczas wizyty na Filipinach, że Waszyngton i Manila zawarły „bardzo dużą” umowę handlową. Amerykański przywódca nie podał jednak żadnych szczegółów, a strona filipińska do tej pory nie poinformowała oficjalnie o podpisaniu dokumentu."
     },
     {
-      "title": "PSZOK odmówi przyjęcia odpadów zielonych. Właściciela może czekać kosztowna niespodzianka - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPajY0RWxnZ2V1TkRrZFdDbEI1R25jUDk5a3Iwd1diMEx5d0l2bzBTNWRyaHdkV1Etbi1GUGNxNng1Y19Ed2dsYktKRHVLaW9maVh1Y0JEYjV4RlZ3UHZHQWJZdGdRUGszeHAyWDdtWk53YlRxUDZrR1FiOE8yRmNpYXFHX0hKUjVhXzliVk9KSmREcFdWQ3MtRnRnekliNlpJaVZCQXVaY1BFejFGaHE5dmptQjlYWlkyOUtsSXoxVFMzR3FLNERFa0lwZ0RKUlZEODJXMkZBbVpVbWh6TklF?oc=5",
-      "date": "2026-11-18T07:15:18Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "PSZOK odmówi przyjęcia odpadów zielonych. Właściciela może czekać kosztowna niespodzianka Forsal.pl."
-    },
-    {
       "title": "Zarzecki: W pierwszym kwartale '27 RPP może być zmuszona podnieść stopy",
       "url": "https://www.bankier.pl/wiadomosc/Zarzecki-W-pierwszym-kwartale-27-RPP-moze-byc-zmuszona-podniesc-stopy-9230658.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-11-18T07:14:00Z",
@@ -1810,14 +1890,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "K. Bajołek, Answear.com: Globalne marki premium wybierają nas na partnera, a to nie dzieje się przypadkiem BiznesRadar."
-    },
-    {
-      "title": "Ukraina potrzebuje tej broni jak tlenu. Największy wróg Rosji przyśpiesza dostawy - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUWJyY0xtMUk0UDUwTW8ydkJXMzV0VjZlTWUxT05ta1lGcUp2MzRTVGYzU00zWFJtbzd3aVFqeEFuOWxyR0J5Z3pPRnRNQjF6by0wUXdoWVZaTEx6YnN1dmpKeTM5aks2c1F2WXFwMGEweXBtMWs0VlZXN3lvOWd6VFJCRkYzVDNUTTlJS3lGVXRUcUFlb1Z4aUpqa1QwQ2FiNXFHQ2pXS293MUZON0dIN2otQmhrbm5rLXBPZkFDOTdQWHFpR2d5ZllLMFVKcUl3QnE1aXl2WEtuQQ?oc=5",
-      "date": "2026-11-18T06:56:21Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Ukraina potrzebuje tej broni jak tlenu. Największy wróg Rosji przyśpiesza dostawy Forsal.pl."
     },
     {
       "title": "sWIG80 znowu pod presją",
@@ -1890,6 +1962,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Środa z Siłą Relatywną (SzSR): 18 listopada 2026 r. Piotr Kwestarz śr., 18.11.2026 Treść Zapraszam do lektury kolejnego wpisu z cyklu Środy z Siłą Relatywną (SzSR). Środa z Siłą Relatywną (SzSR): 18 listopada 2026 r."
+    },
+    {
+      "title": "To już koniec pieców na gaz. Nie ma odwrotu. Wskazali datę obowiązkowej likwidacji kotłów. Niedługo wchodzą pierwsze zakazy - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOb3NsNl9LVFZXZWNaNHlnTVdXVHhHZ2dlLVdlaVlrRjRRRUVsUllTM2x3TUtPb2hvRUVKcnBRYzJJRmgtcDR2TzJsLWZoUXNDQl9JYnJlNDFzWHVGU0xFZHpuYndMUm9YSTQ0QkJlY1NqSzdpZmlTOUNqeGdGZlAwT19XWTlMdGVKb1lnVVVqeEIxVUZ4YndaeS1YbUJXd1Iya2E3Y3I4YkxGRExIdElxX2FUY0F0Zkt6UG52QU0tZEFOTWZqdmxYLXlxWmkxQWpPX2xLSVlpRXhOLWoxeVd5TlRpeVdiaURwYmdtWllSbl92LWRtVW9lbDZnWlRjNXgtcnBVVkZMM2h0NUtUT3JBUFB5bnJiaXJfdDRQTHhRVjU?oc=5",
+      "date": "2026-11-18T05:20:23Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "To już koniec pieców na gaz. Nie ma odwrotu. Wskazali datę obowiązkowej likwidacji kotłów."
     },
     {
       "title": "Wynajem przestaje się opłacać. Czynsze rosną, a na chętnych czeka się dwa razy dłużej - Forsal.pl",
@@ -2012,22 +2092,6 @@
       "summary": "EUROCASH [EUR] StockWatch.pl."
     },
     {
-      "title": "TORPOL [TOR] - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSEFnQlNJN2dIM2cxZ25OdkhDbkVqOGEtUmhtaDJDVGJEVHFEdldCWF9wRGJYZVJNNU9reGVTVHl0bXFYX1UtcjlzQ3lkdkdSVVAwOFc1cGRLR0FTSVg5RFlkZkw5cHJ4cHFRdllXS0ljX0Y3YkZZY29fTVJsakNRVVhQby1Fbmlz?oc=5",
-      "date": "2026-11-17T15:59:00Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "TORPOL [TOR] StockWatch.pl."
-    },
-    {
-      "title": "Zmiany w rządzie. Rzecznik prezydenta wskazał termin - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0ctYnhuXzdJZ2E4Z0d0d1dTTWZOS2dtemdrMDdTRUl5S0k4Q1hfamRfUUo2TjFUTm1XcWFYdlE0eEFPZkg0OS1nR3BNeUp3blNGazJxRXl2TUxQbUgxa1J5ZnNtOHg0dW45VXRkZ0poRURjeEc0MnU2MFd0Slh3S1ViNkowV21YNnBZcHNVaGpiUXFJZzlVbkhmLUd1Zw?oc=5",
-      "date": "2026-11-17T15:10:35Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Zmiany w rządzie. Rzecznik prezydenta wskazał termin Forsal.pl."
-    },
-    {
       "title": "Wiadomości INC S.A. - strona: 255 - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LeXhaeENsRXA5OTRkSjMyaThFaHZieFd4OXMzU3hzU1U3clIxbm1WdzdXLVJ1RkV6UDZWQ0FsakExbHNkVWV1ZXdqS04taHZPV2EwYXBLYnE?oc=5",
       "date": "2026-11-17T14:23:09Z",
@@ -2068,6 +2132,14 @@
       "summary": "Ceny maksymalne paliw 18.11. 2026. Benzyna poniżej 6 zł Forsal.pl."
     },
     {
+      "title": "Koniec najchętniej oglądanego kanału informacyjnego w Polsce: NSA zdecyduje o jego przyszłości - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ1JRNWNaNHFtOEtCOEJvcC1UNkZYaDIwNlN1d2p5MTZPRWJ3QXdmeDRtU2owTmZyUGdjVlMxNXVINEgxZGpkcW5rMENvMVYtQ0FwdC1adi1qQjI4bmJ5cmlpZnFTeEFPbFFpclFfQ0R1bkRKcW85OWNweEM5THVvOU9XM2hVQjVYRU1TZVdwOVlmVFV6RmZONnpRQXJOYW9nUTRSWmFZYjlLVVM3RVFnNzJjeXJlMHdlVjgwcXNzYWFMR1R1a09vbHFzaFRmSENzX0RfY2pHVkd5RWgyTjBRaUdCQ2ZqQQ?oc=5",
+      "date": "2026-11-17T11:40:46Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Koniec najchętniej oglądanego kanału informacyjnego w Polsce: NSA zdecyduje o jego przyszłości Forsal.pl."
+    },
+    {
       "title": "Pierwsze wyniki Nvidii bez Jensena Huanga. W tle śledztwo i brak zgody na powrót prezesa",
       "url": "https://strefainwestorow.pl/strefa-global-market/spolki/nvidia-bez-jensen-huang-wyniki-po-sesji",
       "date": "2026-11-17T11:21:09Z",
@@ -2082,6 +2154,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Komu i kiedy opłaca się OKI? Symulacja dla portfela o wartości 1 mln zł Forbes."
+    },
+    {
+      "title": "Europejskie mocarstwo wysłało żołnierzy na Ukrainę. Polska w tle tajnej operacji - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZDR0b3VYazFSVzdORjE3aGRlMXp4bkpHU1Q0ZnZ0Mm9iWk5CcjlfNVVsd0FHSjRVOGZHYm9iZFllRUgyamxRclJnS2s1MVRQMzFjc1ZJTGowSmtzemhxak1hWW1TdzI2SmRrZ2ppcUpXTVJKVlpjZm0zOGU5dHZRazZySEpMU3E4elhweWhCZGh1dDM0a0RFYlpFcENtOGhaNGgwWkFKNWVod3pxcWFBdEYzS2RMOHoyUmN6VjU3TWlscjQyYW9YNUpYU0J0QTVST2FuYTlrQ1Q?oc=5",
+      "date": "2026-11-17T10:31:35Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Europejskie mocarstwo wysłało żołnierzy na Ukrainę. Polska w tle tajnej operacji Forsal.pl."
     },
     {
       "title": "„Jeden post wygenerował 50 tys. zł”. W Polsce trwa boom na nietypowe kursy online. I wcale nie jest to świat 20-letnich celebrytów - Forbes",
@@ -2164,8 +2244,8 @@
       "lng": 19.5,
       "type": "cyber",
       "region": "Polska",
-      "description": "Polska utrzyma swoją reprezentację w Radzie Międzynarodowego Związku Telekomunikacyjnego na kolejne cztery lata.",
-      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska-wsrod-panstw-decydujacych-o-przyszlosci-telekomunikacji"
+      "description": "Polska ma świetnych informatyków i pomysły na przełomowe technologie.",
+      "url": "https://cyberdefence24.pl/technologie/wiem-jak-bardzo-ai-nie-dziala-ekspert-studzi-emocje-wokol-technologii"
     },
     {
       "lat": 51.7,
@@ -2480,21 +2560,21 @@
       26908.48,
       27136.73,
       27155.66,
-      30004.94,
+      30003.74,
       27354.94,
       27400.36,
       27412.11,
-      30432.88,
+      30431.67,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29644.68,
+      29643.5,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      29836.27,
+      29835.08,
       27686.17,
       27404.78,
       27351.97,
@@ -2503,7 +2583,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29525.36,
+      29524.18,
       27930.04,
       28234.04,
       28218.36,
@@ -2512,81 +2592,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30414.13,
+      30412.92,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      29941.58,
+      29940.39,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29758.06,
+      29756.88,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      30070.18,
+      30068.98,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31145.84,
+      31144.6,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31258.74,
+      31257.49,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30811.52,
+      30810.29,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      30961.64,
+      30960.4,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      30989.1,
+      30987.86,
       28449.73,
       28313.03,
       28272.33,
-      30741.7,
+      30740.48,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30715.69,
+      30714.46,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      31088.71,
+      31087.47,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      31005.64,
+      31004.4,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31362.24,
+      31360.99,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30751.58,
+      30750.35,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30608.01,
+      30606.79,
       30100.92,
       30418.01,
       30609.55,
