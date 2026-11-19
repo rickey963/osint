@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T12:50:09Z",
+  "last_updated": "2026-11-19T12:50:51Z",
   "poland": [
     {
       "title": "Bank ukrył 800 mln euro strat. Wyszły na jaw dopiero po dziesięciu latach",
@@ -766,20 +766,20 @@
   ],
   "world_politics": [
     {
+      "title": "Live Updates: Trump Departs China After First-Ever Summit With Xi and Putin",
+      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+      "date": "2026-11-19T12:50:09Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "President Trump said before the meeting that he wanted to discuss nuclear weapons and the wars in Ukraine and Iran. But the three leaders appeared to refer to the topics only in vague terms."
+    },
+    {
       "title": "Live Updates: U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
       "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
       "date": "2026-11-19T12:47:34Z",
       "source": "The New York Times",
       "confirmed_by": 2,
       "summary": "Myanmar became the first state held accountable for violating the 1948 Genocide Convention. The ruling by the International Court of Justice could have broad implications."
-    },
-    {
-      "title": "Live Updates: Trump Departs China After First-Ever Summit With Xi and Putin",
-      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-      "date": "2026-11-19T12:44:20Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "President Trump said before the meeting that he wanted to discuss nuclear weapons and the wars in Ukraine and Iran. But the three leaders appeared to refer to the topics only in vague terms."
     },
     {
       "title": "Here’s the latest.",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Sejm zdecydował ws. ustawy o sprawiedliwym dostępie do danych",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/sejm-zdecydowal-ws-ustawy-o-sprawiedliwym-dostepie-do-danych",
+      "date": "2026-11-19T12:46:23Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Sejm przyjął ustawę o sprawiedliwym dostępie do danych i ich wykorzystaniu. Przepisy wdrażają do polskiego prawa unijny Akt w sprawie danych. Obejmują one wymianę danych między przedsiębiorstwami, administracją oraz konsumentami."
+    },
+    {
       "title": "Microsoft To Do will soon become Microsoft Done",
       "url": "https://www.theregister.com/personal-tech/2026/11/19/microsoft-to-do-will-soon-become-microsoft-done/5310973",
       "date": "2026-11-19T12:26:00Z",
@@ -1776,14 +1784,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Bielik uplasował się w czołówce benchmarku EuroEval. Opublikowany w listopadzie model v3.1 11B osiągnął średni wynik testów 1,97. Osiągnięcie wyższego poziomu jest możliwe tylko przy użyciu znacznie większych modeli."
-    },
-    {
-      "title": "Awaria tajnej sieci NSA. Problemy z komunikacją amerykańskiego wywiadu",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/awaria-tajnej-sieci-nsa-problemy-z-komunikacja-amerykanskiego-wywiadu",
-      "date": "2026-11-18T10:12:25Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Amerykańska Agencja Bezpieczeństwa Narodowego (NSA) doświadczyła zakłóceń w działaniu wewnętrznej sieci łączności. Problemy objęły system przesyłania informacji niejawnych, a część pracowników otrzymała polecenie pozostania w domach. Agencja wskazała przyczynę awarii."
     },
     {
       "title": "Java4Shell (CVE-2026-114938), czyli jak optymalizacje w assembly spowodowały RCE w dekoderze Base64 OpenJDK",
