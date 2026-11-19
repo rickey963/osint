@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T21:13:19Z",
+  "last_updated": "2026-11-19T21:14:09Z",
   "poland": [
     {
       "title": "Kierowcy pojadą bez opłat. Zarządca autostrady zwalnia prawie całą załogę",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "FBI podszyło się pod gang ransomware oraz pod zainfekowaną firmę…",
+      "url": "https://sekurak.pl/fbi-podszylo-sie-pod-gang-ransomware-oraz-pod-zainfekowana-firme/",
+      "date": "2026-11-19T21:12:24Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Zobaczcie na tę akcję. FBI udawało firmę, która niby została zainfekowana ransomware. Następnie zgłosili się do innej nieco &#8220;podejrzanej&#8221; firmy, która reklamowała się posiadaniem &#8220;zaawansowanych narzędzi kryptograficznych&#8221; oraz &#8220;100% skutecznością odzyskiwania danych&#8221;."
+    },
+    {
       "title": "Palo Alto Networks opens wallet for open-weight training biz",
       "url": "https://www.theregister.com/ai-and-ml/2026/11/19/palo-alto-networks-opens-wallet-for-open-weight-training-biz/5311168",
       "date": "2026-11-19T20:00:00Z",
@@ -1794,14 +1802,6 @@
       "summary": "Autopay poinformowało dzisiaj o cyberataku. Jak czytamy: Autopay S.A. stało się celem cyberataku."
     },
     {
-      "title": "Java4Shell (CVE-2026-114938), czyli jak optymalizacje w assembly spowodowały RCE w dekoderze Base64 OpenJDK",
-      "url": "https://sekurak.pl/java4shell-cve-2026-114938-czyli-jak-optymalizacje-w-assembly-spowodowaly-rce-w-dekoderze-base64-openjdk/",
-      "date": "2026-11-18T10:11:54Z",
-      "source": "Sekurak",
-      "confirmed_by": 1,
-      "summary": "Błąd typu memory corruption w Java? Niemożliwe? A jednak!"
-    },
-    {
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
       "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
       "date": "2026-11-18T02:52:04Z",
@@ -1834,14 +1834,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Komisja Europejska pracuje nad EU Delivery Act, czyli nowymi zasadami doręczania paczek w całej Unii Europejskiej. Projekt ma zostać przedstawiony na przełomie 2026 i 2027 r. Powód jest prosty: przesyłki transgraniczne wciąż sprawiają więcej problemów niż krajowe, a niemal połowa uczestników konsultacji KE zetknęła się z dostawą późniejszą, niż obiecano."
-    },
-    {
-      "title": "- Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XTk53STM4OElabEc2Mmt0RXV1V1NHV2JHdnlYQTdwU05uX0c0SnNHR3psU0RxTkJfQXBxb3lMdW9TZzNybGRkQWhlZ0xXLUdTaUQ2cXhyRDBiZ2JST3psSjFSazI?oc=5",
-      "date": "2026-11-19T19:38:25Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Forbes."
     },
     {
       "title": "Żaden kraj nie zbuduje tego sam. Branża offshore nad Bałtykiem łączy siły",
@@ -2162,6 +2154,14 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "H. Siodmok, Mo-BRUK: zwiększaniu skali działalności towarzyszy wysoka rentowność BiznesRadar."
+    },
+    {
+      "title": "Brat twórcy ElevenLabs rozkręca start-up. AI wykona usługę 100 razy taniej - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcGZMZmxXSVJaTE9qTWNXd2dfTHRSd2tMcEYxc3NKR0NKcnpEUHhMQVE0b1F5U1B1V0JOalRYcDZUVkhxSXZuQmJ5bmhuYVVHbjAwSzhzQWY2SnhXRjJIbnZnTWdMYW5KN1NGVUx4TFcyZW5kTGdxTm11V2lOSFN3N0RIS0VLd0o5Y1NCeklPOUZUVlJ4ZW82THNibndvSTlXRTFRdy1XSnZIMUctRzR4VQ?oc=5",
+      "date": "2026-11-19T05:05:45Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Brat twórcy ElevenLabs rozkręca start-up. AI wykona usługę 100 razy taniej Forbes."
     },
     {
       "title": "PKB mocne, rekrutacja wypada słabiej. Firmy wolą zwiększać wydajność niż etaty",
