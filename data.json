@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T17:09:22Z",
+  "last_updated": "2026-11-20T17:10:11Z",
   "poland": [
     {
       "title": "Ponad pół miliona nowych studentów. Znamy najpopularniejszy kierunek",
@@ -1053,7 +1053,7 @@
       "date": "2026-11-20T16:29:06Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 16 # Comments: 1."
+      "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 35 # Comments: 8."
     },
     {
       "title": "Uber ma nowy pomysł. Do samochodów wsiądą nawet 10-latki",
@@ -1093,7 +1093,7 @@
       "date": "2026-11-20T16:06:30Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/ Comments URL: https://news.ycombinator.com/item?id=50576855 Points: 197 # Comments: 96."
+      "summary": "Article URL: https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/ Comments URL: https://news.ycombinator.com/item?id=50576855 Points: 273 # Comments: 169."
     },
     {
       "title": "Linq, which offers texting and calling infrastructure for AI agents, raised a $90M Series B led by a16z, following a $20M Series A in February (Harper Harwell/Birmingham Business Journal)",
@@ -1149,7 +1149,7 @@
       "date": "2026-11-20T15:34:31Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 20 # Comments: 8."
+      "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 34 # Comments: 9."
     },
     {
       "title": "Filings: Jensen Huang's charity committed $350M to rent compute from CoreWeave for its Computing Initiative for Open Science, and has already spent $108.3M (Bloomberg)",
@@ -1181,7 +1181,7 @@
       "date": "2026-11-20T15:03:31Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 117 # Comments: 51."
+      "summary": "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 137 # Comments: 64."
     },
     {
       "title": "Wyłączyłem tę funkcję w Androidzie. Telefon od razu przyspieszył",
@@ -1288,14 +1288,6 @@
       "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine."
     },
     {
-      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "date": "2026-11-20T13:29:59Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 139 # Comments: 130."
-    },
-    {
       "title": "Action szokuje rabatami. Inteligentne oświetlenie Philips w świetnych cenach",
       "url": "https://www.instalki.pl/news/hardware/action-promocja-tygodnia-listopad-2026/",
       "date": "2026-11-20T13:14:09Z",
@@ -1349,7 +1341,7 @@
       "date": "2026-11-20T12:41:38Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/ Comments URL: https://news.ycombinator.com/item?id=50573886 Points: 156 # Comments: 83."
+      "summary": "Article URL: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/ Comments URL: https://news.ycombinator.com/item?id=50573886 Points: 169 # Comments: 94."
     },
     {
       "title": "Android nareszcie zadba o tablety i składaki. Zadziała każda aplikacja",
@@ -1406,6 +1398,14 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Holenderski urząd ds. ochrony prywatności odradza kupowanie okularów z AI po testach sześciu modeli dostępnych na tamtejszym rynku. Jak podaje BBC News, urząd wykrył m.in."
+    },
+    {
+      "title": "The Making of Oxygene",
+      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "date": "2026-11-20T10:41:10Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://jeanmicheljarre.com/aaa/the-making-of-oxygene Comments URL: https://news.ycombinator.com/item?id=50572822 Points: 142 # Comments: 54."
     }
   ],
   "cybersecurity": [
@@ -2548,21 +2548,21 @@
     "prices": [
       27136.73,
       27155.66,
-      30329.21,
+      30327.34,
       27354.94,
       27400.36,
       27412.11,
-      30761.78,
+      30759.88,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29965.06,
+      29963.22,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      30158.72,
+      30156.87,
       27686.17,
       27404.78,
       27351.97,
@@ -2571,7 +2571,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29844.45,
+      29842.61,
       27930.04,
       28234.04,
       28218.36,
@@ -2580,81 +2580,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30742.83,
+      30740.93,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      30265.17,
+      30263.31,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      30079.67,
+      30077.82,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      30395.16,
+      30393.29,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31482.44,
+      31480.5,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31596.56,
+      31594.61,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      31144.51,
+      31142.59,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      31296.25,
+      31294.32,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      31324.01,
+      31322.08,
       28449.73,
       28313.03,
       28272.33,
-      31073.94,
+      31072.03,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      31047.64,
+      31045.73,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      31424.69,
+      31422.76,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      31340.73,
+      31338.8,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31701.18,
+      31699.23,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      31083.92,
+      31082.01,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30938.8,
+      30936.89,
       30100.92,
       30418.01,
       30609.55,
@@ -2674,7 +2674,7 @@
       29369.09,
       29307.85,
       28841.1,
-      28606.36
+      28600.3
     ],
     "currency": "PLN"
   }
