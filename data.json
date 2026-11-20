@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T22:36:23Z",
+  "last_updated": "2026-11-20T22:37:11Z",
   "poland": [
     {
       "title": "Zbigniew Ziobro spotkał się z amerykańskim działaczem. \"Polski bohater\"",
@@ -1410,12 +1410,36 @@
   ],
   "cybersecurity": [
     {
+      "title": "Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478",
+      "date": "2026-11-20T21:27:56Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "No financial details, but plenty of other clues."
+    },
+    {
+      "title": "Signal slams door on prying AI agents to protect privacy",
+      "url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
+      "date": "2026-11-20T20:42:04Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls."
+    },
+    {
       "title": "Weekendowa Lektura: odcinek 703 [2026-11-20]. Bierzcie i czytajcie",
       "url": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-702-2026-11-20-bierzcie-i-czytajcie/",
       "date": "2026-11-20T18:57:18Z",
       "source": "Zaufana Trzecia Strona",
       "confirmed_by": 1,
       "summary": "Zapraszamy do nowego wydania Weekendowej Lektury. Nie zawsze jesteśmy w stanie przygotować je już w piątek, ale tym razem mocno się sprężyliśmy i oto jest nowa porcja linków do ciekawych informacji z minionego tygodnia. Miłego klikania!"
+    },
+    {
+      "title": "Nvidia’s journey to forge the one CPU SKU to rule them all",
+      "url": "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438",
+      "date": "2026-11-20T18:45:50Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "A deeper look at Vera."
     },
     {
       "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
@@ -1426,12 +1450,28 @@
       "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4. The issue could."
     },
     {
+      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+      "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+      "date": "2026-11-20T17:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said."
+    },
+    {
       "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
       "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
       "date": "2026-11-20T16:58:16Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investigation into an NFC-relay banking Trojan. \"Bazuka is a full malware framework,."
+    },
+    {
+      "title": "Dutch data watchdog highlights safety issues with AI glasses",
+      "url": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
+      "date": "2026-11-20T16:44:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Devices found to misinterpret medication instructions and other scenarios impacting human safety."
     },
     {
       "title": "Fala dezinformacji po naruszeniu polskiej przestrzeni powietrznej",
@@ -1448,6 +1488,14 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Osoby obserwowane przez służby powinny móc się o tym dowiedzieć po zakończeniu działań operacyjnych. Tak uważa prezes Urzędu Ochrony Danych Osobowych Mirosław Wróblewski. Jego stanowisko ma istotne znaczenie dla sprawczości dochodzenia swoich praw przez obywateli."
+    },
+    {
+      "title": "AI boom threatens circuit board crunch to rival pandemic-era chip shortage",
+      "url": "https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335",
+      "date": "2026-11-20T16:01:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Trade body warns automotive, medical, and defense orders are being crowded out, with relief unlikely before mid-2028."
     },
     {
       "title": "Od „krwawej prowokacji” do „ludzi z latarkami”, czyli jak państwo osłabia własne ostrzeżenia [KOMENTARZ]",
@@ -1474,12 +1522,36 @@
       "summary": "Zdany egzamin to dopiero początek przygody z certyfikacją. CISSP, Security+ czy CEH trzeba regularnie odnawiać, a walutą, którą się za to płaci, są punkty CPE. Sprawdziliśmy, ile punktów wymagają certyfikatorzy i gdzie kryją się pułapki."
     },
     {
+      "title": "Microsoft's last non-security preview of 2026 packs a punch",
+      "url": "https://www.theregister.com/os-platforms/2026/11/20/microsofts-last-non-security-preview-of-2026-packs-a-punch/5311300",
+      "date": "2026-11-20T14:28:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Windows Search gets a makeover, while Hello lights up dim rooms."
+    },
+    {
+      "title": "Microsoft suggests Registry hack to work around hotpatch woes",
+      "url": "https://www.theregister.com/os-platforms/2026/11/20/microsoft-suggests-registry-hack-to-work-around-hotpatch-woes/5311279",
+      "date": "2026-11-20T13:39:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "App problems in Windows after default hotpatching? Who could have foreseen that?"
+    },
+    {
       "title": "Rosyjska propaganda znów na TikToku. Wykryto podejrzane konta",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/rosyjska-propaganda-znow-na-tiktoku-wykryto-podejrzane-konta",
       "date": "2026-11-20T13:13:27Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Fałszywe doniesienia o ukraińskich atakach na polskie zakłady przemysłowe, przymusowym przyjmowaniu uchodźców czy narodowości sprawcy strzelaniny w Krakowie – to tylko niektóre z przekazów rozpowszechnianych przez podejrzane konta na TikToku. Demagog ustalił, że ich działalność wykazuje podobieństwa do rosyjskiej operacji wpływu."
+    },
+    {
+      "title": "AI could open wallets where ERP upgrade pitches can't, says PwC",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221",
+      "date": "2026-11-20T12:47:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Consultancy argues a 'clean core' makes agents easier to deploy – but Kingfisher is taking a different route."
     },
     {
       "title": "Włamanie do kamer aquaparku w Wielkopolsce. Podglądano gości basenu",
@@ -1496,6 +1568,14 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with AMD processors and nested virtualization enabled."
+    },
+    {
+      "title": "Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand",
+      "url": "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292",
+      "date": "2026-11-20T12:18:19Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Notice's existence can be acknowledged without harming national security, but its precise demands remain under wraps."
     },
     {
       "title": "The Path to AI Autonomy in the SOC",
@@ -1520,6 +1600,14 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Bazy danych JPMorgan Chase padły ofiarą cyberataku. Hakerom udało się włamać do podmiotu świadczącego usługi dla holdingu finansowego i przejąć dane kilkunastu tysięcy klientów. Za operacją ma stać jedna z grup ransomware."
+    },
+    {
+      "title": "Windows 11 passkey bug cries failure after successful sign-in",
+      "url": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263",
+      "date": "2026-11-20T11:09:44Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Optional update fixes misleading Android error for versions 25H2 and 26H2."
     },
     {
       "title": "Cyberatak na Autopay. Kto będzie musiał wymienić kartę?",
@@ -1554,6 +1642,14 @@
       "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized."
     },
     {
+      "title": "Ubuntu Core Desktop targets 28.04 debut, with default status in its sights",
+      "url": "https://www.theregister.com/os-platforms/2026/11/20/ubuntu-core-desktop-targets-2804-debut-with-default-status-in-its-sights/5310837",
+      "date": "2026-11-20T09:29:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Canonical's stretch goal is to make the immutable OS standard in 30.04 – without retiring the traditional distro."
+    },
+    {
       "title": "Niezidentyfikowany obiekt spadł w Polsce. Gawkowski uruchomił specjalną procedurę",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/niezidentyfikowany-obiekt-spadl-w-polsce-gawkowski-uruchomil-specjalna-procedure",
       "date": "2026-11-20T08:14:25Z",
@@ -1576,6 +1672,14 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while retaining ClickFix and signed binary sideloading techniques,\" Blackpoint."
+    },
+    {
+      "title": "Support tech fixed malware by charging client less for their services",
+      "url": "https://www.theregister.com/personal-tech/2026/11/20/support-tech-fixed-malware-by-charging-client-less-for-their-services/5310959",
+      "date": "2026-11-20T06:29:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "‘I gave up at least $6,000 and I’d do it again’."
     },
     {
       "title": "Ukraiński wywiad ostrzega Europę przed operacją Rosji. „Chce wewnętrznej walki”",
@@ -1634,28 +1738,12 @@
       "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server. Today's PHP releases fix the flaw, called phpAfterShell."
     },
     {
-      "title": "Cyberatak na Komisję Europejską. Sprawcy wykorzystali narzędzie AI",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/cyberatak-na-komisje-europejska-sprawcy-wykorzystali-narzedzie-ai",
-      "date": "2026-11-19T16:18:52Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 2,
-      "summary": "Komisja Europejska potwierdziła, że pod koniec października padła ofiarą cyberataku. Pierwsze informacje pojawiły się w czwartek rano; według przedstawiciela unijnego organu, podczas operacji wykorzystano narzędzia sztucznej inteligencji. Zespół cyberbezpieczeństwa czasowo wyłączył część aplikacji."
-    },
-    {
       "title": "Patchujcie PHP – request smuggling, UAF i pokłosie php2shell.",
       "url": "https://sekurak.pl/patchujcie-php-request-smuggling-uaf-i-poklosie-php2shell/",
       "date": "2026-11-19T16:00:08Z",
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "19 listopada, kilka minut po 15:00, PHP wydał wersje 8.5.13, 8.4.28, 8.3.37 i 8.2.36, które łatają 18 podatności z przypisanym CVE. Najgroźniejsza z nich (critical) to request smuggling w PHP-FPM (CVE-2026-129289, CVSS 4.0 9.2). Oprócz niej wydanie zawiera dwa RCE w obsłudze sesji, w tym zapowiadany od października CVE-2026-115560, oraz..."
-    },
-    {
-      "title": "TikTok w europejskich rękach? Niemcy i Austria chcą odebrać kontrolę Chinom",
-      "url": "https://cyberdefence24.pl/social-media/tiktok-w-europejskich-rekach-niemcy-i-austria-chca-odebrac-kontrole-chinom",
-      "date": "2026-11-19T15:33:14Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Niemcy i Austria proponują, aby europejska działalność TikToka znalazła się w rękach europejskich właścicieli. Ma to zwiększyć kontrolę nad danymi użytkowników i algorytmami platformy należącej do chińskiego ByteDance. Inicjatorzy wskazują również na ryzyko wpływania na debatę publiczną i procesy demokratyczne."
     },
     {
       "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
@@ -1672,30 +1760,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central console for managing an organization's ESX hosts and virtual machines."
-    },
-    {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "date": "2026-11-19T14:33:06Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon. Fixed releases for all supported branches shipped yesterday."
-    },
-    {
-      "title": "Kolejne krytyczne podatności w PHP. Zadbaj o aktualizację",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/kolejne-krytyczne-podatnosci-w-php-zadbaj-o-aktualizacje",
-      "date": "2026-11-19T14:27:09Z",
-      "source": "CyberDefence24",
-      "confirmed_by": 1,
-      "summary": "Twórcy PHP – języka programowania wykorzystywanego przez ogromną liczbę stron internetowych – udostępnili nowe aktualizacje bezpieczeństwa. Zalecane jest niezwłoczne wdrożenie poprawek, ponieważ usuwają m.in. krytyczne podatności."
-    },
-    {
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "date": "2026-11-19T11:52:23Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execute code on the web server without authentication."
     },
     {
       "title": "Rusza Black Week z sekurakiem! Najlepsze zniżki w roku (nawet do -80%!) 🚀",
@@ -1762,14 +1826,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Komisja Europejska przedstawiła projekt Digital Fairness Act, który ma uderzyć w manipulacyjne rozwiązania, które stosują aplikacje i serwisy cyfrowe. Na liście są m.in. fałszywe powiadomienia, domyślnie zaznaczane opcje, utrudnianie rezygnacji z subskrypcji oraz mechanizmy zachęcające do kompulsywnego korzystania z aplikacji."
-    },
-    {
-      "title": "Komunikat ESPI STARWARD INDUSTRIES SPÓŁKA AKCYJNA (starward): Zawarcie kompletu umów objęcia i zakończenie subskrypcji akcji serii L - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONWNocjV0TXRBSVgwNkhQbmtDM1ZUOUZoNDU5d0dUd0RvT2ZoUzlMcHRHRnpIVk5IWVA4aV9tT3Vzb013S1QteS1xZlNMT1VwMWU3R1RUblBWaWRNb0ttNmlnTnlyUmdCdkV1cjVOb3QwdWpCQ0VwMlVYQmJjTnhfUlNwRUFlMFVwZ25tTEtnX1NoZW13NFBNMENIRGNhQng3VnVmWEtvU3BycVpNaUN6LWhrS2xndjZOamNpa2JXcFIzYlVJSEJaZU1jWEZJM19Qb3FNR3hVcw?oc=5",
-      "date": "2026-11-20T21:47:06Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat ESPI STARWARD INDUSTRIES SPÓŁKA AKCYJNA (starward): Zawarcie kompletu umów objęcia i zakończenie subskrypcji akcji serii L StockWatch.pl."
     },
     {
       "title": "Komunikat ESPI VRFABRIC SPÓŁKA AKCYJNA (vrfabric): Powiadomienie o transakcjach na akcjach Spółki przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze w Spółce - StockWatch.pl",
@@ -1978,6 +2034,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat ESPI KANCELARIA MEDIUS SPÓŁKA AKCYJNA (kme): Zwołanie Nadzwyczajnego Walnego Zgromadzenia Kancelaria Medius S.A. na dzień 18 grudnia 2026 r. StockWatch.pl."
+    },
+    {
+      "title": "Komunikat EBI Szar SA (szar): Wypowiedzenie lub rozwiązanie przez emitenta lub przez firmę audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTzJNRVhHNmhDM1FweHM0M0pRXzJuckxIMVQzbk1WWFNRN1lOb0hFWE5ncmpBZjZodWRSTmYweUFDT1B4eTJtbU16M19wUFlqUTR3dl91VXpxWlVmV1loTllYX0h4NUVYZW9oanRaeXZDNk5ialRhZU9UbFVONE9BeGhiNHQzYUtGX0tSZWdCclZTQjRuM0x4eGQwX0JPOEpNeWVQU0FkSVduNjAwRUJ1UFhTMnNjT21PdGJxTnpMOTNZcDZnUUpTUGhmcDFzVVlv?oc=5",
+      "date": "2026-11-20T14:23:38Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI Szar SA (szar): Wypowiedzenie lub rozwiązanie przez emitenta lub przez firmę audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych StockWatch.pl."
     },
     {
       "title": "Wyniki finansowe Benefit Systems za III kwartał 2026 roku i plany rozwoju - czat inwestorski z przedstawicielką spółki",
@@ -2260,8 +2324,8 @@
       "lng": 10.9,
       "type": "cyber",
       "region": "Niemcy",
-      "description": "Niemcy i Austria proponują, aby europejska działalność TikToka znalazła się w rękach europejskich właścicieli.",
-      "url": "https://cyberdefence24.pl/social-media/tiktok-w-europejskich-rekach-niemcy-i-austria-chca-odebrac-kontrole-chinom"
+      "description": "Niemieckie służby wywiadu i kontrwywiadu otrzymają nowe uprawnienia.",
+      "url": "https://cyberdefence24.pl/armia-i-sluzby/nowe-uprawnienia-niemieckich-sluzb-ai-bedzie-analizowac-dane-biometryczne"
     },
     {
       "lat": 33.89,
