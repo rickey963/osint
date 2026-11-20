@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T18:40:19Z",
+  "last_updated": "2026-11-20T18:41:03Z",
   "poland": [
     {
       "title": "\"Uzgodniliśmy z Xi\". Donald Trump mówi o porozumieniu dotyczącym AI",
@@ -1024,6 +1024,14 @@
       "summary": "New York Times: Investigation: companies in Alice Huang's family network have ties to Chinese military suppliers; ~$3.6B in Chinese state money flowed through the companies &mdash; Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms &hellip;."
     },
     {
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "date": "2026-11-20T18:17:51Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 7 # Comments: 1."
+    },
+    {
       "title": "Gemini przejmie kontrolę nad waszymi komputerami. Zrobi tam porządek",
       "url": "https://antyweb.pl/gemini-przejmie-kontrole-nad-waszymi-komputerami-zrobi-tam-porzadek",
       "date": "2026-11-20T18:15:18Z",
@@ -1053,7 +1061,7 @@
       "date": "2026-11-20T17:44:01Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394 Comments URL: https://news.ycombinator.com/item?id=50578794 Points: 30 # Comments: 11."
+      "summary": "Article URL: https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394 Comments URL: https://news.ycombinator.com/item?id=50578794 Points: 49 # Comments: 21."
     },
     {
       "title": "ChatGPT odpalony na Super Nintendo. Działa offline i mieści się na kartridżu",
@@ -1077,7 +1085,7 @@
       "date": "2026-11-20T17:21:36Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 11 # Comments: 0."
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 38 # Comments: 1."
     },
     {
       "title": "Scott Bessent says Trump and Xi agreed that military AI decisions should involve humans, and that the spying allegations involving Alice Huang didn't come up (Reuters)",
@@ -1125,7 +1133,7 @@
       "date": "2026-11-20T16:59:27Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 41 # Comments: 9."
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 64 # Comments: 14."
     },
     {
       "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
@@ -1158,14 +1166,6 @@
       "source": "Benchmark.pl",
       "confirmed_by": 1,
       "summary": "Premiera długo wyczekiwanej gry wideo to dla części graczy wydarzenie, któremu podporządkowują swoje codzienne plany. Wygospodarowanie czasu na rozgrywkę oznacza jednak konieczność pogodzenia pasji z pracą, prowadzeniem domu i życiem rodzinnym. Z analizy zgłoszeń do konkursu TWIX Doppelgamer wynika, że najczęściej brakuje im rąk do pomocy przy porządkach i innych obowiązkach domowych, a także przy przygotowywaniu posiłków."
-    },
-    {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "url": "https://arxiv.org/abs/2611.21885",
-      "date": "2026-11-20T16:29:06Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 163 # Comments: 70."
     },
     {
       "title": "Uber ma nowy pomysł. Do samochodów wsiądą nawet 10-latki",
@@ -1812,6 +1812,14 @@
   ],
   "finance": [
     {
+      "title": "Jak wybrać firmę do outsourcingu IOD? Kryteria wyboru i przegląd usługodawców",
+      "url": "https://300gospodarka.pl/material-partnera/jak-wybrac-firme-do-outsourcingu-iod-kryteria-wyboru-i-przeglad-uslugodawcow",
+      "date": "2026-11-20T18:40:13Z",
+      "source": "300Gospodarka",
+      "confirmed_by": 1,
+      "summary": "Przepisy RODO (art. 37 ust. 6) dają przedsiębiorstwom pełną swobodę – zamiast tworzenia osobnego etatu inspektora ochrony danych, można postawić na zewnętrzny outsourcing."
+    },
+    {
       "title": "Rodzice chcieli, by przejęła firmę wcześniej. Zrobiła to, gdy była gotowa - Forbes",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3RUTFpNbG13VjZvd1Jlc1IyTlpEMTNpOGhzT2c1QTNXeHh0dXU0Q0s0RDIzcXl4cVpaNm03TmY0MHFGTzdjTVR1MjV1b21mdDk5M2xyc1RFbVl1TnliZXpPTmhHcVpTVENjRlowa01JbkZjbUo3VF94SWdNUG52X21GYzlpRFJmbWQ4SkFZb1d1VHhDcUtrQTBtTkM5MTdGVjN1dHVhNA?oc=5",
       "date": "2026-11-20T18:05:52Z",
@@ -1820,12 +1828,52 @@
       "summary": "Rodzice chcieli, by przejęła firmę wcześniej. Zrobiła to, gdy była gotowa Forbes."
     },
     {
+      "title": "Dwie prędkości w Grupie Selvita po trzech kwartałach. Rentowność drug development wspiera wyniki - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNHNpRWh1THAtT0xlb2FGXzBtUDJUbzlIMjl1QkZEWmhJZ29hcVNsOVA0Uk5IVFJZc0RsUy0ybHhFb2wxTHZYTWJQZlVDMndtdkhaRnBzRTJKRExScG1FSndQMmRYeDVTalZpRTJ0VUpvWGVCUjlSN05tekx6ekoxNXp3cFJnOU9MeEprbVk1MUtMdlkyRnJwU1FCX2dMU3RnMFZDZkQxbkFsTUY4Xy1MYVVUd2J1Wk14U3lVd284dEpFaW5KWjNQLVFRYw?oc=5",
+      "date": "2026-11-20T17:44:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Dwie prędkości w Grupie Selvita po trzech kwartałach. Rentowność drug development wspiera wyniki BiznesRadar."
+    },
+    {
+      "title": "Grupa FERRO poprawia rentowność operacyjną mimo trudnego otoczenia rynkowego - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNclpBYm41dWFhdmE0UkN4Y3N2SnlFZndDZ0xpMkhFdFhia2dvUVBCR2NFNmRHbjkxbEFVaklYeHhBYUlWdUI3c01sMFZPeVBOek5tZVY0WS1vblk5UTBEZXBRUFgzMzg2ODZNOHUwZDNFMzNESzFhYmI0dmp0WjAxdXlfZnFkcDZfX0dlamJuYTlHUkZxMGFVdV9WR3BTb3BQd01xZVBnMXpPQjdrU2VrSGhB?oc=5",
+      "date": "2026-11-20T17:34:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Grupa FERRO poprawia rentowność operacyjną mimo trudnego otoczenia rynkowego BiznesRadar."
+    },
+    {
+      "title": "Eurocash szykuje Frisco do debiutu na GPW. Sprzedaż po 9 miesiącach rośnie o 14%, powyżej 0,5 mld zł - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObnlURHZRNy10ZWdXanhVYm12YzROZ0JjYmtqMnJiVjl4ZkhqWDFqbUMtN3hmemRLTk5TSTFTQnpIUWlxSFl4QTgyeExOdXpSVHNRT05nRUQ1Vl8taFVidkdUa2RPRTBqekthQjh1dDdjSDZuTzJvV2haQ3NjZHJHRGxzeHdhMXNpelNaX096cGdUZ05PZ3B5WWxORXNva1N1T1ZxUUVubmdhZVhWOXJidm95QzVXLVNvRXJUTU0walR6TjJSbDVKSzlfRzUwUQ?oc=5",
+      "date": "2026-11-20T17:18:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Eurocash szykuje Frisco do debiutu na GPW. Sprzedaż po 9 miesiącach rośnie o 14%, powyżej 0,5 mld zł BiznesRadar."
+    },
+    {
+      "title": "Grupa APLISENS poprawia wyniki na wszystkich poziomach mimo presji cenowej i słabszych rynków WNP - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSk9tb3F1VWZnUXpaRS03T0s4SzZ1VHpBS3dackYycWxkb3dJcmpXMTc2c3Z6RzRIbDBSYnlnVWF4UU1HRUtRSkN2Q25sbG02cjFFaUI4YVo4cjczeGNNVTFsekhLQVJ6N3lEeTV3TDlaLW04WW1xQ2p1a1ZJVlJWMEdFaThaNU9NT2RTeHRIOVpIb1ByODEzWEY4ekpCVmhKaGtEb3k4eHNyTm85Y2xDSVoxREdQLXpjbjg0eUwtMDJ6d2h1TGtBbzR0UHIyZw?oc=5",
+      "date": "2026-11-20T17:11:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Grupa APLISENS poprawia wyniki na wszystkich poziomach mimo presji cenowej i słabszych rynków WNP BiznesRadar."
+    },
+    {
       "title": "Polska będzie produkować szwedzką amunicję. PGZ podpisała umowę z Saab",
       "url": "https://www.bankier.pl/wiadomosc/Polska-bedzie-produkowac-szwedzka-amunicje-PGZ-podpisala-umowe-z-Saab-9232809.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-11-20T17:03:00Z",
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Zakłady Metalowe Dezamet, spółka Polskiej Grupy Zbrojeniowej, podpisały ze szwedzkim koncernem Saab umowę licencyjną na produkcję i sprzedaż w Polsce amunicji moździerzowej MAPAM kalibru 60,7 mm - poinformowały w piątek PGZ i Agencja Uzbrojenia."
+    },
+    {
+      "title": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPa29oZzJzQnVKYU9ob3dhTjRuSGZHa09zbmFSZk83RmlGSHhLaVBsZklrZUhJMEFBQ083cnFVcTJhN0lMWDAySm1LNXlmTjFGcE0zZ2xUVi0ydWJDSFlQMFVQSlVKdmY0MThfdThuc3JmTDB5bUVpWEhwVkQ0TDRUUnBPMDBLMVcwYXNmUFozN3h1dDdCc29wOTdPQ3dPemVDYk1vTzM3TmZGU3RHTjNpZlNnNkwxUFNOX3lEYjJ5VS0yVC0yUExMNnMtTFRFTktoT3VIWXlBeVVtb0RHeHpoU3dhNjRfUkxuVkF3YldhMVJNZmtDU3VIQjBwa0JOdFh6bXpvZWo1TVYyb2Zl?oc=5",
+      "date": "2026-11-20T16:51:36Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu Forsal.pl."
     },
     {
       "title": "Ukraina zniknęła z deklaracji Trumpa, Xi i Putina. Stubb ujawnia kulisy",
@@ -1884,6 +1932,14 @@
       "summary": "Wynajmujesz mieszkanie? Przy najmie okazjonalnym pamiętaj o tych warunkach Forsal.pl."
     },
     {
+      "title": "PONAR Wadowice S.A. czeka na zatwierdzenie prospektu przez KNF - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUERMdnBlc0xNVFh1RlRWYUFoMFZPZG5tNlNjc2cxN3J2bW10NU9uOEs2dzdSSU5ycmNfbUI3X1VzazMyQjlWLU5GNUJvSjNiMVAyS0Z3TDJJSW43LU1hc0VDOS1hRWM1V0ttalFtV1hKd1NfOFo4d2hxMlNMb1hYejFsSXkwWU9WTWlQME9mUFZsb0dCMnpKQm9PYllwUQ?oc=5",
+      "date": "2026-11-20T15:41:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "PONAR Wadowice S.A. czeka na zatwierdzenie prospektu przez KNF BiznesRadar."
+    },
+    {
       "title": "Kruk szykuje zwolnienia grupowe. Pracę może stracić nawet 150 osób",
       "url": "https://www.bankier.pl/wiadomosc/Kruk-ograniczy-zatrudnienie-Nawet-150-osob-straci-etaty-9232696.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-11-20T15:20:00Z",
@@ -1900,19 +1956,11 @@
       "summary": "Komisja Europejska częściowo pozytywnie oceniła ostatni polski wniosek o wypłatę z KPO, opiewający na 12,7 mld euro - poinformowała KE. Bruksela stwierdziła, że jeden z 77 wskaźników nie został w pełni zrealizowany. Jeśli KE potwierdzi swoją ocenę, kwota płatności dla Polski może zostać odpowiednio zmniejszona."
     },
     {
-      "title": "Mirbud mocno powyżej oczekiwań. Zysk netto wystrzelił",
-      "url": "https://www.bankier.pl/wiadomosc/Mirbud-szacuje-ze-w-III-kw-26-mial-63-1-mln-zl-zysku-netto-powyzej-konsensusu-9232681.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "date": "2026-11-20T14:52:00Z",
-      "source": "Bankier.pl",
-      "confirmed_by": 1,
-      "summary": "Mirbud szacuje, że po trzech kwartałach 2026 roku miał 108 mln zł skonsolidowanego zysku netto, 2,519 mld zł przychodów oraz 231 mln zł zysku brutto ze sprzedaży - podała spółka w komunikacie. W samym trzecim kwartale 2026 r., według wyliczeń PAP Biznes, przychody wyniosły 1.061,6 mln zł, a zysk netto 63,1 mln zł i okazały się wyższe od oczekiwań."
-    },
-    {
       "title": "Komunikat ESPI Pekao Bank Hipoteczny SA (pekao-bank-hipoteczny-sa): Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A. - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdHd1TW50YnFGcjlza0lVRXRFZmNPSTNFNlQzMS05UlBwSEJvZWpLUDBHUTdMSVhka3Q0RXU4Ny0tOWRGQzJ1YmgxdUJsVk9aemRWSzZSTEFpeW9uM3ZVSEt3ZWRvSGt2eDllZWJnaFRDX1p0cFhUU1FvZWJjVDJaN0VTWWlNektqYWZFcC11anZCSTNzZUlzdHcyTUFMV0tTQ1ZWMWY1dnFGRDB4V2UzY3VCTDgwOEEyQ1N1Y1RmalNTbmJJYUloczlMc0NjX2YzSEdiV0VHTnJ4U2ExWFEzTnFFbk54ZmZLZGxRdC1B?oc=5",
       "date": "2026-11-20T14:51:21Z",
       "source": "StockWatch.pl",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Komunikat ESPI Pekao Bank Hipoteczny SA (pekao-bank-hipoteczny-sa): Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A. StockWatch.pl."
     },
     {
@@ -1956,12 +2004,12 @@
       "summary": "Komunikat ESPI Red Square Games Spółka Akcyjna (rsgames): Lista akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu w dniu 17 listopada 2026 r. StockWatch.pl."
     },
     {
-      "title": "MDI ENERGIA SA (12/2026) Zawarcie aneksów do umów kredytu. - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVNBZXg1VWl1dW9kUFoyZ1BnaXlfd0FhOTh6LW5MbUdHMnhnUFUxNklPYUFvUk9VYVRjVGc1V3ROUXczcmNBSHMyMS1MeGVzenJLZ0R4NC14OVpFU1FlaXZPaGZuTnVqY2ZNVi10SE4yekhqMS1JUFpnYXl1dmpYZ2QzbDFHcktYVmxneEJSWVlld0ZPcnc?oc=5",
-      "date": "2026-11-20T14:05:00Z",
+      "title": "Imponujący portfel zamówień Grupy ZUE po trzech kwartałach. Alezyski - symboliczne - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkt1WTFRNVNsTTlkX0xMc3hBd0FBQ0ZUQVJJUTdFd0ZDbFNLaUFPczNDd3hUWnQ3cVl4ZURudXBZZWUwOTlOejJYRC1MTXNvWWVQaEFEOHMwSXRINmE2amR0b0FsamZGLW1Fc1NiWDk4cU9jQkphX3NiSWNVYjF1S3d4c0hHcUg5VDhRdzhuQlZ1OXFHU0pUZE9DNnBJY0I4Qk9TdHp3U185ZU9OcVJIU2hGRFdSdw?oc=5",
+      "date": "2026-11-20T14:02:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "MDI ENERGIA SA (12/2026) Zawarcie aneksów do umów kredytu. BiznesRadar."
+      "summary": "Imponujący portfel zamówień Grupy ZUE po trzech kwartałach. Alezyski - symboliczne BiznesRadar."
     },
     {
       "title": "Dron lub rakieta spada na dom, a ubezpieczyciel nie wypłaca odszkodowania? Jeden zapis w polisie decyduje o wszystkim - Forsal.pl",
@@ -1980,22 +2028,6 @@
       "summary": "Komunikat ESPI GENOMED SPÓŁKA AKCYJNA (genomed): Zawarcie umów sprzedaży akcji Genomed S.A. StockWatch.pl."
     },
     {
-      "title": "BETA ETF obniża opłatę za zarządzanie w funduszu wypłacającym kwartalne dochody - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZlY4WkhWeHN0UVRUTFN0QmFQSmMzSFl1U1BVdHRDUEx1dTVEeGt3V0lHc19YOVlMaE1JalJLLWxzN3lqNnBKVmFYZHN6ZDVZRmJBUV96TlhGTGRGM0l1QVlod3ZfWl8wSFBmNUhFSjJyWnd1b2Z3cFZnNFpEUE9UTU9YZmQxdUsyR0s2UUpnV1hreE1kdTVlR0VCV0RwemYzc2QyX0thbXh1UUJ1aVFiWjNwX0xIUQ?oc=5",
-      "date": "2026-11-20T13:30:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "BETA ETF obniża opłatę za zarządzanie w funduszu wypłacającym kwartalne dochody BiznesRadar."
-    },
-    {
-      "title": "ORZEŁ BIAŁY SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXkxT3N5ZmtBay1jTU9zeERkSVVLTjhqeHJTMTd5RnRBSGpmYmIyWHFMUjI2MjRBYU02SU5RdTJzeENETlU1akdfcDZqcUJhNzdqOFNLNDY3bEpYdW9MZGhpcDZFTXIydktWYjcwZFhkczg5Z2ZjZXMxY1JUcWR0V2g3Zjl5NmZhR2xJOUZLTHYxb2ZJZFo5NGJ2VG5tdjdjeVZWZA?oc=5",
-      "date": "2026-11-20T13:29:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "ORZEŁ BIAŁY SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
-    },
-    {
       "title": "Rosyjskie rakiety nad Polską. Ekspert wskazuje prawdziwy cel Putina - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOGcwS2xDNXRkMjNwc3VZNEhrT3d0ZVVxWHM5eE5mN3NoQXozSDlvVi1heUlpR1NFcDR6MGpxTGp6UWJpejljUS1Yai1OQlNHUUpRamF5RVF2Z1lhYlpwbWY2VXhuOGN1N2l4dlQwQURYWkx1V3FVZm5SdUdab0JxSThXOGhUTHF2djBoOXNvcm5NWHFjdUFtNGVvSmw5Mm1ITjNMZGZZTDJtUEN3OHl2eGF3emNlaGh3cTVibzE3NXRHRlhleWc?oc=5",
       "date": "2026-11-20T13:02:09Z",
@@ -2010,22 +2042,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Gigantyczna transakcja, InPost zostanie przejęty. Co to oznacza dla Brzoski i spółki? Forbes."
-    },
-    {
-      "title": "Rosyjskie rakiety i dron spadły w Polsce. Data i miejsce nie są przypadkowe? - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTmM1VkozdDQtaHlRbUFsdXl0Qzd2Mzg2cU5sMTF3bFRRdkRIX2hTM3RUdGs1NVkyYjJ5VnRNNkRlRVgzYWh5cHVZX3dpbm15aWpSUXc4WXctc2tydVc0dUJUa1lQQ25TcEpDcnhnb1VwT3NwTlVBVjBReWZPV0dGUHNEc2tHRUFDbzhUXzJmU0s0VV8wdG1ndFB1TUZiUVV4bW84M01NTGZvejNaZmF5MGtrQmdtMm4wV1BaVGI3aVJQczUxZG1ESmlCbTVQbHF5?oc=5",
-      "date": "2026-11-20T12:45:44Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Rosyjskie rakiety i dron spadły w Polsce. Data i miejsce nie są przypadkowe? Forsal.pl."
-    },
-    {
-      "title": "PZU TFI (170/2026) Informacja o wycenie wartości aktywów netto funduszu przypadającej na certyfikat inwestycyjny - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWHpqQmExdC1rNEt1OEpfcGJqZ1BHT2YyVGZKSGlRTkdJelZzSjdaT05PQXpmbjFIU0JyVVNTWGpqNlB0amFkWDM1TERIdUExX0RabVJYYVpRTFlETHBLS25pSEV6bjRJQ1VnRnAzM3VYX0xpZ1hSYk9BUEhKOE91bzktbEVkYm1BOXJ3M3NPOTZYRGF5cHd6RFl0b1dvM05fZDUtTHIxT0VCSWxjQnlSX3haVU90VGtVQm9MdmhPZnIwQ0N0MWdQQ1dNV3JpdGdJcjY0ZE9BY2VwcHZOQU5F?oc=5",
-      "date": "2026-11-20T12:34:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "PZU TFI (170/2026) Informacja o wycenie wartości aktywów netto funduszu przypadającej na certyfikat inwestycyjny BiznesRadar."
     },
     {
       "title": "Domański nowym wicepremierem. Wskazał priorytet rządu Tuska",
@@ -2066,14 +2082,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Banki powołują się na nadzór i przestają wliczać świadczenie 800 plus do zdolności kredytowej. Tyle że nadzór tego od nich nie oczekiwał. Jak ustalił money.pl, banki zinterpretowały na wyrost zalecenia pokontrolne – i nie ma to nic wspólnego z planami wygaszania świadczenia."
-    },
-    {
-      "title": "KGL SA (19/2026) Informacja o zgłoszeniu kandydatur na członków Rady Nadzorczej KGL S.A. - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY3RaZmFFOGtDUGIzOVpGMWYwRGxob0ticGExZnFUYlI4NGZhTm5zN1NUU0pQZDNzWXF1WnpBeGZVaVQzNmxfc2ltNTVQMFlPeWx5Y0doTzRVVDZJb2FkMUpMWGtPeVNEOW9wOXhNeV9UbDc4MF9mUFM5VFlMZTNUTC1GNVlJTUNRNm04dFJSOWgxZk11Tm5NbVk2aUxNNEN1R1VoVVEzNkFBb19NSWEyV0dpeGJlZmM3SkdNZktB?oc=5",
-      "date": "2026-11-20T11:06:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "KGL SA (19/2026) Informacja o zgłoszeniu kandydatur na członków Rady Nadzorczej KGL S.A. BiznesRadar."
     },
     {
       "title": "Wyniki finansowe Grupy NEUCA za III kwartał 2026 r. – czat inwestorski z przedstawicielami spółki",
@@ -2122,14 +2130,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Sukcesu na miarę GTA6 (jeszcze) nie mamy, ale branża wzrosła o 10 mld zł Forbes."
-    },
-    {
-      "title": "MIRBUD SA (62/2026) Wybór oferty spółki zależnej Emitenta na zaprojektowanie i budowę obwodnicy Limanowej w ciągu DK 28 - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbmRUSDVERi0yQ0FObnJEWDBOcE1nTVB0b2RwTkxZaFZFUnFGck5UVmZsOVVyWExWX3pfSnQwOXhBZGZMWEpxWGdwdzZPZWdrQmIwWTNxbkVxYTBBTnlBelMyRTFjNFpzSkdhRVBRVS13V3NIdnYxMTdEMnYySThzdFdhLWQwZU9wbWlzbmdndWZkaXVMNDRETHBKM2ZRNUw5SGhTX1hCZDNuZGpHN1NDUF9mNmZTZlVYbFRzdGtBNm5GWXpYVU9fdTd4bEpGbnZNaUk3TUNOdERZbzhGRTM1VUlYdEF1QnVM?oc=5",
-      "date": "2026-11-20T07:34:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "MIRBUD SA (62/2026) Wybór oferty spółki zależnej Emitenta na zaprojektowanie i budowę obwodnicy Limanowej w ciągu DK 28 BiznesRadar."
     },
     {
       "title": "Wojciech Przylipiak - Forbes",
@@ -2544,21 +2544,21 @@
     "prices": [
       27136.73,
       27155.66,
-      30368.75,
+      30369.79,
       27354.94,
       27400.36,
       27412.11,
-      30801.88,
+      30802.94,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      30004.12,
+      30005.16,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      30198.03,
+      30199.08,
       27686.17,
       27404.78,
       27351.97,
@@ -2567,7 +2567,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29883.35,
+      29884.39,
       27930.04,
       28234.04,
       28218.36,
@@ -2576,81 +2576,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30782.9,
+      30783.96,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      30304.62,
+      30305.67,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      30118.88,
+      30119.92,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      30434.78,
+      30435.83,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31523.48,
+      31524.57,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31637.75,
+      31638.84,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      31185.11,
+      31186.19,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      31337.04,
+      31338.13,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      31364.84,
+      31365.92,
       28449.73,
       28313.03,
       28272.33,
-      31114.44,
+      31115.52,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      31088.11,
+      31089.19,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      31465.66,
+      31466.74,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      31381.58,
+      31382.67,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31742.51,
+      31743.6,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      31124.44,
+      31125.51,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30979.13,
+      30980.2,
       30100.92,
       30418.01,
       30609.55,
@@ -2670,7 +2670,7 @@
       29369.09,
       29307.85,
       28841.1,
-      28578.8
+      28563.73
     ],
     "currency": "PLN"
   }
