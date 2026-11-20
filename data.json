@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T07:14:33Z",
+  "last_updated": "2026-11-20T07:15:18Z",
   "poland": [
     {
       "title": "Ewakuacja wieży na rzeszowskim lotnisku. Pierwsza taka decyzja",
@@ -1418,14 +1418,6 @@
       "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized."
     },
     {
-      "title": "Support tech fixed malware by charging client less for their services",
-      "url": "https://www.theregister.com/personal-tech/2026/11/20/support-tech-fixed-malware-by-charging-client-less-for-their-services/5310959",
-      "date": "2026-11-20T06:29:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "‘I gave up at least $6,000 and I’d do it again’."
-    },
-    {
       "title": "Ukraiński wywiad ostrzega Europę przed operacją Rosji. „Chce wewnętrznej walki”",
       "url": "https://cyberdefence24.pl/armia-i-sluzby/ukrainski-wywiad-ostrzega-europe-przed-operacja-rosji-chce-wewnetrznej-walki",
       "date": "2026-11-20T06:00:34Z",
@@ -1442,52 +1434,12 @@
       "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted yesterday by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the endpoint-security firm ThreatLocker."
     },
     {
-      "title": "Big Tech's compliance with EU market rules is performative, consumer group says",
-      "url": "https://www.theregister.com/legal/2026/11/20/big-techs-compliance-with-eu-market-rules-is-performative-consumer-group-says/5311066",
-      "date": "2026-11-20T04:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "BEUC urges Brussels to impose tougher penalties over alleged barriers to switching services and controlling personal data."
-    },
-    {
-      "title": "US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies",
-      "url": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200",
-      "date": "2026-11-20T04:04:56Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Not many of them made it in, but Chinese clouds no longer care."
-    },
-    {
       "title": "Wycieki za pomocą zrzutów ekranu – PixelLeak czyli u agentów AI po staremu",
       "url": "https://sekurak.pl/wycieki-za-pomoca-zrzutow-ekranu-pixelleak-czyli-u-agentow-ai-po-staremu/",
       "date": "2026-11-20T02:49:26Z",
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Od dawna w mediach głównego nurtu można przeczytać narrację wielkich firm budujących duże modele językowe, które straszą autonomicznymi działaniami systemów agentowych. Z zewnątrz może to wyglądać naprawdę niebezpiecznie, w końcu “komputer sam coś zrobił”. Jednak analizując każdy z tych przypadków, można dojść do wniosku, że system zadziałał dokładnie tak jak..."
-    },
-    {
-      "title": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else",
-      "url": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
-      "date": "2026-11-20T00:57:45Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Critical Virtzilla bugs, plus a strange Digital Ocean reaction to a nested virtualization issue."
-    },
-    {
-      "title": "Germ Network infects Android, but in a good way",
-      "url": "https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186",
-      "date": "2026-11-20T00:06:35Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Bluesky's preferred encrypted messaging app allows multiple identities without tying you to a phone number."
-    },
-    {
-      "title": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info",
-      "url": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175",
-      "date": "2026-11-19T21:12:33Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "First service outages, then data breaches…what's next?!"
     },
     {
       "title": "FBI podszyło się pod gang ransomware oraz pod zainfekowaną firmę…",
@@ -1498,36 +1450,12 @@
       "summary": "Zobaczcie na tę akcję. FBI udawało firmę, która niby została zainfekowana ransomware. Następnie zgłosili się do innej nieco &#8220;podejrzanej&#8221; firmy, która reklamowała się posiadaniem &#8220;zaawansowanych narzędzi kryptograficznych&#8221; oraz &#8220;100% skutecznością odzyskiwania danych&#8221;."
     },
     {
-      "title": "Palo Alto Networks opens wallet for open-weight training biz",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/19/palo-alto-networks-opens-wallet-for-open-weight-training-biz/5311168",
-      "date": "2026-11-19T20:00:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Security shop buys the hand that feeds it."
-    },
-    {
-      "title": "Nvidia adds possible hack to list of very bad things under investigation",
-      "url": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
-      "date": "2026-11-19T18:52:53Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked."
-    },
-    {
       "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
       "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
       "date": "2026-11-19T18:47:58Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage."
-    },
-    {
-      "title": "XXRI-OS explores the lowest end of the Linux desktop",
-      "url": "https://www.theregister.com/os-platforms/2026/11/19/xxri-os-explores-the-lowest-end-of-the-linux-desktop/5311036",
-      "date": "2026-11-19T18:35:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Less is more, but this distro explores exactly how much less."
     },
     {
       "title": "Do pięciu lat więzienia za seksualne deepfake’i. Posłowie chcą zmian w Kodeksie karnym",
@@ -1538,36 +1466,12 @@
       "summary": "Posłowie przeprowadzili pierwsze czytanie projektu nowelizacji Kodeksu karnego, mającego zwiększyć ochronę przed seksualnymi deepfake’ami. Proponowane przepisy przewidują odpowiedzialność karną za rozpowszechnianie fałszywych (intymnych) materiałów bez zgody przedstawionych i tworzenie pornografii z wykorzystaniem wizerunku dzieci. Projekt skierowano do Komisji Nadzwyczajnej do spraw zmian w kodyfikacjach."
     },
     {
-      "title": "Anthropic throws open doors at $2T valuation as shares pop 34% in initial trading",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/19/anthropic-throws-open-doors-at-2t-valuation-as-shares-pop-34-in-initial-trading/5311143",
-      "date": "2026-11-19T17:09:45Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Company still has to contend with massive compute obligations and the threat of open models, neither of which Dario Amodei is worried about, he claims."
-    },
-    {
-      "title": "NAND prices tipped to fall as Chinese cloud giants cut SSD orders",
-      "url": "https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116",
-      "date": "2026-11-19T17:02:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "TrendForce sees supply outpacing demand in 2027, though cheaper flash won't fix the DRAM squeeze."
-    },
-    {
       "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
       "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
       "date": "2026-11-19T16:59:56Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server. Today's PHP releases fix the flaw, called phpAfterShell."
-    },
-    {
-      "title": "Russian national accused of stalking San Francisco techie in plot against US defense-tech giant",
-      "url": "https://www.theregister.com/security/2026/11/19/russian-national-accused-of-stalking-san-francisco-techie-in-plot-against-us-defense-tech-giant/5311126",
-      "date": "2026-11-19T16:20:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "DoJ claims suspect part of 4-month operation to steal secrets, surveil employees."
     },
     {
       "title": "Cyberatak na Komisję Europejską. Sprawcy wykorzystali narzędzie AI",
@@ -1584,14 +1488,6 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "19 listopada, kilka minut po 15:00, PHP wydał wersje 8.5.13, 8.4.28, 8.3.37 i 8.2.36, które łatają 18 podatności z przypisanym CVE. Najgroźniejsza z nich (critical) to request smuggling w PHP-FPM (CVE-2026-129289, CVSS 4.0 9.2). Oprócz niej wydanie zawiera dwa RCE w obsłudze sesji, w tym zapowiadany od października CVE-2026-115560, oraz..."
-    },
-    {
-      "title": "Europe's biggest gas supplier battling cyberattack – with no timeline for recovery",
-      "url": "https://www.theregister.com/cyber-crime/2026/11/19/europes-biggest-gas-supplier-battling-cyberattack-with-no-timeline-for-recovery/5311026",
-      "date": "2026-11-19T15:37:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Norwegian energy giant Equinor says oil and gas production remains unaffected."
     },
     {
       "title": "TikTok w europejskich rękach? Niemcy i Austria chcą odebrać kontrolę Chinom",
@@ -1754,6 +1650,22 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below -."
     },
     {
+      "title": "Ponad 2,8 mln plików z materiałami pedofilskimi. Zatrzymano 123 osoby",
+      "url": "https://cyberdefence24.pl/armia-i-sluzby/policja/ponad-28-mln-plikow-z-materialami-pedofilskimi-zatrzymano-123-osoby",
+      "date": "2026-11-19T07:47:58Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Zatrzymano 123 mężczyzn i zabezpieczono ponad 2,8 mln plików z materiałami pedofilskimi – to bilans ostatniej akcji przeprowadzonej przez Centralne Biuro Zwalczania Cyberprzestępczości w ramach operacji „INFERNO”. Większość sprawców to obywatele Polski oraz Ukrainiec i Białorusin. Wśród niż znajdują się m.in."
+    },
+    {
+      "title": "Proget MDM integruje się z OXARI ITSM. Urządzenia mobilne w centrum zarządzania IT",
+      "url": "https://cyberdefence24.pl/technologie/proget-mdm-integruje-sie-z-oxari-itsm-urzadzenia-mobilne-w-centrum-zarzadzania-it",
+      "date": "2026-11-19T07:07:53Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Proget, polski producent systemu do zarządzania i zabezpieczania urządzeń mobilnych, nawiązał współpracę technologiczną z Infonet Projekt SA, producentem platformy OXARI ITSM. Jednym z jej efektów jest integracja obu systemów, opracowana przez zespół Infonet Projekt."
+    },
+    {
       "title": "[AKTUALIZACJA] Autopay zhackowany. Wykradziono dane kart płatniczych Polaków",
       "url": "https://niebezpiecznik.pl/post/autopay-zhackowany-wykradziono-dane-kart-platniczych-polakow/",
       "date": "2026-11-19T06:00:34Z",
@@ -1792,6 +1704,22 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Narzędzia typu Claude Code zrewolucjonizowały sposób, w jaki wytwarzamy oprogramowanie, analizujemy tysiące linii logów z kluczowych systemów czy rozwiązujemy codzienne problemy w terminalu. Delegowanie zadań autonomicznym agentom pozwala działać znacznie efektywniej, często otrzymane wyniki spełniają oczekiwania (a nawet je przewyższają). TLDR: Czy jednak przekazanie pełnej autonomii agentom AI zawsze jest..."
+    },
+    {
+      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+      "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+      "date": "2026-11-18T18:31:17Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7 came out today."
+    },
+    {
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "date": "2026-11-18T18:15:39Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds of agent. F5, which makes BIG-IP, disclosed the flaws today and says they."
     },
     {
       "title": "Krytyczne podatności w nginx, najpopularniejszym serwerze webowym na świecie (działa na nim ponad 220 milionów stron / aplikacji webowych)",
@@ -1916,14 +1844,6 @@
       "summary": "Wojciech Przylipiak Forbes."
     },
     {
-      "title": "IZOBLOK SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdVhiVXB1d0RyblV3REpxckY3S0ZZa1AtTnZXTGctT05udlZqaExGcDhFdUlqelFULVZDX1ZIa3ZoYmFTOU1rNjF6OTZ0UGNaTTBiZmpvakJYUVNQdHo4Q21pX2RDQTdLdlF6UzdINUNrLUJMUEdqaHFMMnhYVXR1RFZfNVgwUzdENWNoYlEwWGVtU0hIUXVtNlEwWmJkMDg?oc=5",
-      "date": "2026-11-19T23:50:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "IZOBLOK SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
-    },
-    {
       "title": "Miliony Polaków nadal wykluczone transportowo. Rząd nie wyznaczył konkretnego celu",
       "url": "https://300gospodarka.pl/news/miliony-polakow-nadal-wykluczone-transportowo-rzad-nie-wyznaczyl-konkretnego-celu",
       "date": "2026-11-19T22:44:02Z",
@@ -1972,44 +1892,12 @@
       "summary": "Organizacje branżowe z dziewięciu państw regionu podpisały porozumienie o współpracy nad Bałtycką Strategią Przemysłową Morskiej Energetyki Wiatrowej – podaje Polskie Stowarzyszenie Energetyki Wiatrowej (PSEW). PSEW wyszło z taką inicjatywą przy wsparciu WindEurope. To pierwsze takie przedsięwzięcie: przemysł z całego basenu Morza Bałtyckiego wspólnie zaplanuje, jak zbudować w regionie silne zaplecze przemysłowe dla morskiej energetyki wiatrowej."
     },
     {
-      "title": "CASPAR AM SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMF9LYm1fc2JnNldULVhCdGZibW45SlRuX2Q1SlJ5OXk4NV9JU25oSFgwYjVSTVFNR2EzMTVpNFE0NTVuYVRJOTBYUmFJN0JKUjBqZDZaZW56TWZ5Z29BbTZNVmlGaEo4aWV5SmNKYnRBc1RFWVpQeDZLbzBodjV5cHpsSVVycVdKRTk4UkJiUHRfYm9fcDFSZWZFbXdxQWVqX2c?oc=5",
-      "date": "2026-11-19T19:14:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "CASPAR AM SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
-    },
-    {
-      "title": "P.A. NOVA SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXZEUzQ3QnRVbFg3dmVyUkNNa3h0WEp2ZU1OX3FmYUZuYmpCQTl6dXc0LWs0dHh2d0RZTHpoVEVsYmNnZVZnTkNEUzBoc1VjZDNEUTNqaFRUeTZVQzVvSTRPT2NGS211XzdWUnRieS1mak9xM01qdTVlTFpuOUozMVdIczkyN25ZZmxOVDk5R1lOR1ZSdkxSVEgyUTkyekZC?oc=5",
-      "date": "2026-11-19T18:23:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "P.A. NOVA SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
-    },
-    {
       "title": "Anthropic debiutuje na giełdzie. Oto kurs akcji",
       "url": "https://www.money.pl/gielda/anthropic-debiutuje-na-gieldzie-oto-kurs-akcji-7352763026315296a.html",
       "date": "2026-11-19T17:15:56Z",
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "W czwartek, w dzień giełdowego debiutu, handel akcjami firmy Anthropic rozpoczął się na poziomie 111,50 dolarów za akcję. To 34 proc. więcej, niż wyniosła cena z pierwszej oferty publicznej – zwraca uwagę agencja Bloomberga."
-    },
-    {
-      "title": "MENNICA POLSKA SA (42/2026) Zawiadomienie o transakcjach w trybie art. 19 MAR - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOenpheHgxaFFJTVFhbmRCbUZ6Ql9iNnVGU19qUFV6bm9HNHlCUVFFTTVuNjRMS3h3WG96akxYMXpWYnNXRWRKM3lHRlJrV19qbUdINHdycDJScXRjSFNqeDNZaEJaVjF3djMyMTdaYnU5ZGd5Y2c5UEt3SXEtU19kZlZLdlpTNFdCZjZ6TUx6aXpNY1ZycUdrY0RMZ2dkRXJlWWl6VEZ1eFE3SlZQT2Qw?oc=5",
-      "date": "2026-11-19T17:11:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "MENNICA POLSKA SA (42/2026) Zawiadomienie o transakcjach w trybie art. 19 MAR BiznesRadar."
-    },
-    {
-      "title": "RAFAMET SA W RESTRUKTURYZACJI Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVJOU3hnemRiREl3b2JVUTRoOWIwQk5aVkRMMjAybjU3Nmx6NWFTX1E1S3hUSzRLUnAzX3p3c3JuVkd1T3RpMXN2ZzJEZ1JLemVoN0xIMEtfN1cxMmV6dzF5RVlKcW1RTFotdGFOZC1fUFR3TmM0bHlRdEZmWU5mYUxvRVFwc0lWSGtsYk0xTnMwZWZqNUpNaDdUQ0JENFBnREZkeG5UQWNKZVRQOTlLOThGTXN4TlpV?oc=5",
-      "date": "2026-11-19T17:00:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "RAFAMET SA W RESTRUKTURYZACJI Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
     },
     {
       "title": "NBP zablokował kasę dla TK. Będzie ruch rządu",
@@ -2066,14 +1954,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Baseig: miesięczne przychody powtarzalne z Baseig AI wyższe o ponad 107 proc. StockWatch.pl."
-    },
-    {
-      "title": "PEKAO BANK HIPOTECZNY SA (126/2026) Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A. - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPUVZmN0o0VERPRDEwR09objR0UDFZbmZEb2lrN2tReFFNWlNUd1ZFb1RmTXdnOVNibjBMNkgxTDZ0ZVpmTkFaSThTUEpCeFRJXzFjYzYtVVctblVSNldTLUd0VjJOcjQxcXFpaElQdC16VkVwSU0ybGFKRkdOcVNZb1Y3dXNQYkFIUVRnN3l0aVFtUXJTUVR0WVBrUXYtREhucUp2d084QzBUUzVFRUhXNjlFbGVFNGdlM0pKb0xjREJWUlVjaEJGUXhhV0lDQ1hCRXFhOHdVMjBLQjZRc3Zlay1idTQ5alBxdkpPdHphaUlwWDljVzF1LWtfdk5Ubjh6NmZZajZzUUtxSk1pZkhZMy1YU0h5SnZmRFVBenN2M0VUeWVLeEE?oc=5",
-      "date": "2026-11-19T15:13:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "PEKAO BANK HIPOTECZNY SA (126/2026) Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A. BiznesRadar."
     },
     {
       "title": "Wall Street czeka na debiut potęgi AI. Fala optymizmu przetacza się przez giełdę",
@@ -2172,6 +2052,14 @@
       "summary": "IPO Anthropic poruszyło rynek. Debiut giganta AI na Wall Street już dziś Szymon Machalica czw., 19.11.2026 Kanał Strefa Global Market Anthropic Treść Anthropic debiutuje dziś na Wall Street w największej ofercie publicznej w historii, przebijając rekord SpaceX. Przy cenie 83 USD za akcję twórca Claude’a jest wyceniany na około 1,5 bln USD."
     },
     {
+      "title": "Wiadomości AGORA (AGO) - strona: 27 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zLTdKXzFFMVBXTnZmMTFKSF9CQWMyVXI0ajZ3bzM3NFRHQThoekx6LUdldG5PLUgtekNVRFJRR2lrTm1xc2liNkhxNTdnQ2hXdnZHcXZIU0dGZw?oc=5",
+      "date": "2026-11-19T11:56:20Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości AGORA (AGO) - strona: 27 BiznesRadar."
+    },
+    {
       "title": "KGHM zarobił w tym roku już 7,5 mld zł. Polska spółka jest największym producentem srebra na świecie",
       "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl/kghm-wyniki-notowania-rynek-miedzi-ceny",
       "date": "2026-11-19T11:43:43Z",
@@ -2196,6 +2084,22 @@
       "summary": "Vercom z najlepszym kwartałem w historii. Zarząd pracuje już na nadwyżkę do celu na 2027 r. Piotr Kwestarz czw., 19.11.2026 Kanał Strefa Inwestorów Treść Grupa Vercom zakończyła trzeci kwartał przyspieszając wzrost, a zarazem raportując rekordowy przyrost liczby pozyskanych klientów."
     },
     {
+      "title": "Notowania INTSALE04060 INGBANK - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XdkZ0MVkyS1I5VDBoXzZReEV0S0ZfS2YtbURvSzdiT2N4RUI4Z3VuZDllelJPeEROVGVrUWlrMl80VERFUWxReE1QOGh6TnNqYlBUY1hXVDd0aEZ3Y3c?oc=5",
+      "date": "2026-11-19T09:51:04Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania INTSALE04060 INGBANK BiznesRadar."
+    },
+    {
+      "title": "Wiadomości INC S.A. - strona: 257 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wdnFBcjdHbHFMN0tnVDVhcG9VX3RyNzRTTlpqMEVINXdBRGowam1JTFBJNTVmQ2dfMmVLQVRTNE1kZlBrckljVWQ4UWQ5WkdsOGI0RjVFSEs?oc=5",
+      "date": "2026-11-19T09:41:02Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości INC S.A. - strona: 257 BiznesRadar."
+    },
+    {
       "title": "PKB mocne, rekrutacja wypada słabiej. Firmy wolą zwiększać wydajność niż etaty",
       "url": "https://300gospodarka.pl/news/pkb-mocne-rekrutacja-wypada-slabiej-firmy-wola-zwiekszac-wydajnosc-niz-etaty",
       "date": "2026-11-18T22:45:57Z",
@@ -2210,6 +2114,30 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "41 proc. Polaków deklaruje, że skorzysta w tym roku z promocji na Black Friday. Jeszcze większa grupa, 46 proc., nie podjęła ostatecznej decyzji i uzależnia ją od tego, jakie oferty pokażą sklepy."
+    },
+    {
+      "title": "Mocne wyniki finansowe i wyższa produkcja metali w KGHM. Dyscyplina kosztowa wspiera realizację długoterminowej strategii - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbWl0eERObW1hVnZtSEU1SVI0OEpDZ0RKUkR0Z2hFc1NNWHNHQXY4dWcyRU9JVU5ET09KeXRhSE1rcnFwTmQwVWUyRUs5SkZUSHlfWnJkTFU3X0lxZGFEWmdYZ2EzekV6RG5pQjF1Ny01TDc1eUJzTy1PT2xKYjFEa3R0YTg0cWdkUWt0RXNhekYzTERsdW5TOGk5TjRRY1Z2NnBSSm1reGdUa1Fsakx3MXVhTWZReXFETk9lS0Npdk4wOFhDa0hfUGZvVTd4aDVGNU1CMUN4MTh0c1FLSVRWb1BzYVJWck5OWjU1cA?oc=5",
+      "date": "2026-11-18T16:38:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Mocne wyniki finansowe i wyższa produkcja metali w KGHM. Dyscyplina kosztowa wspiera realizację długoterminowej strategii BiznesRadar."
+    },
+    {
+      "title": "Wiadomości ALLEGRO.EU (ALE) - strona: 39 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDUTBQTmRYaGhpZEE3cW9KWmJCX01zMEl1V19ULXp3dXU2VjR5S011Q25pVHBuTTNGbXp0NnZmSVpnb0FNdC1DWUFzRHJKOE8teWlTeUx4RQ?oc=5",
+      "date": "2026-11-18T16:02:40Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości ALLEGRO.EU (ALE) - strona: 39 BiznesRadar."
+    },
+    {
+      "title": "Wiadomości KOMBINAT KONOPNY (KMB) - strona: 4 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nSGFSeExWc2hPMDhLNnlxYXhobC1JalhfdEU5MkNMNzhyNzVaQjA0VFFpSUlEaTRwNVdiRWxaQ08tR0F3cTZhTnRteFlFX29kMVBWRXZn?oc=5",
+      "date": "2026-11-18T15:59:50Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Wiadomości KOMBINAT KONOPNY (KMB) - strona: 4 BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2252,8 +2180,8 @@
       "lng": 19.5,
       "type": "cyber",
       "region": "Polska",
-      "description": "Polska ma wytwarzać półprzewodniki dzięki zainwestowaniu nawet 1,5 mld zł – to cel projektu ustawy, który został właśnie przyjęty przez Sejm.",
-      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/w-polsce-ma-ruszyc-produkcja-chipow-sejm-przyjal-ustawe-trwa-szukanie-pieniedzy"
+      "description": "Proget, polski producent systemu do zarządzania i zabezpieczania urządzeń mobilnych, nawiązał współpracę technologiczną z Infonet Projekt SA, producentem platformy OXARI ITSM.",
+      "url": "https://cyberdefence24.pl/technologie/proget-mdm-integruje-sie-z-oxari-itsm-urzadzenia-mobilne-w-centrum-zarzadzania-it"
     },
     {
       "lat": 51.7,
@@ -2276,8 +2204,8 @@
       "lng": 104.3,
       "type": "cyber",
       "region": "Chiny",
-      "description": "TrendForce sees supply outpacing demand in 2027, though cheaper flash won't fix the DRAM squeeze.",
-      "url": "https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116"
+      "description": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.",
+      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html"
     },
     {
       "lat": 40.3,
@@ -2308,8 +2236,8 @@
       "lng": 31.68,
       "type": "cyber",
       "region": "Ukraina",
-      "description": "Fotografie ekranów laptopów, adresy domowe, szczegółowe profile pracowników i informacje o ich rodzinach — według amerykańskiej prokuratury takie materiały gromadzono w ramach operacji wymierzonej w firmę technologiczną wspierającą Ukrainę.",
-      "url": "https://cyberdefence24.pl/biznes-i-finanse/palantir-na-celowniku-rosyjskiego-wywiadu"
+      "description": "Zatrzymano 123 mężczyzn i zabezpieczono ponad 2,8 mln plików z materiałami pedofilskimi – to bilans ostatniej akcji przeprowadzonej przez Centralne Biuro Zwalczania Cyberprzestępczości w ramach operacji „INFERNO”.",
+      "url": "https://cyberdefence24.pl/armia-i-sluzby/policja/ponad-28-mln-plikow-z-materialami-pedofilskimi-zatrzymano-123-osoby"
     },
     {
       "lat": 15.25,
@@ -2565,21 +2493,21 @@
     "prices": [
       27136.73,
       27155.66,
-      30171.89,
+      30170.1,
       27354.94,
       27400.36,
       27412.11,
-      30602.22,
+      30600.4,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29809.64,
+      29807.86,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      30002.29,
+      30000.51,
       27686.17,
       27404.78,
       27351.97,
@@ -2588,7 +2516,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29689.65,
+      29687.89,
       27930.04,
       28234.04,
       28218.36,
@@ -2597,81 +2525,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30583.36,
+      30581.55,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      30108.19,
+      30106.4,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      29923.65,
+      29921.87,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      30237.5,
+      30235.7,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31319.14,
+      31317.28,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31432.67,
+      31430.8,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      30982.97,
+      30981.13,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      31133.92,
+      31132.07,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      31161.53,
+      31159.68,
       28449.73,
       28313.03,
       28272.33,
-      30912.76,
+      30910.92,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      30886.6,
+      30884.76,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      31261.7,
+      31259.84,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      31178.17,
+      31176.31,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31536.75,
+      31534.88,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      30922.69,
+      30920.85,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30778.32,
+      30776.49,
       30100.92,
       30418.01,
       30609.55,
