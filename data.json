@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T16:53:27Z",
+  "last_updated": "2026-11-20T16:54:17Z",
   "poland": [
     {
       "title": "Agregat prądotwórczy do domu. Kompaktowy i inwerterowy – te modele warto wybrać",
@@ -404,6 +404,14 @@
   ],
   "world_security": [
     {
+      "title": "Cost of living protests sweep across Europe",
+      "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-20T16:45:34Z",
+      "source": "BBC News",
+      "confirmed_by": 1,
+      "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues."
+    },
+    {
       "title": "Anthropic shares fall a day after blockbuster opening",
       "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-20T16:27:47Z",
@@ -674,14 +682,6 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition."
-    },
-    {
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20T00:13:21Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks."
     },
     {
       "title": "EXCLUSIVE: Citi underestimated risky assets by $35 billion after incorrectly recording trades, sources say - Reuters",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "url": "https://news.ycombinator.com/item?id=50577613",
+      "date": "2026-11-20T16:45:25Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "I'll be here for the rest of the day. As usual, there are countless possible topics and I'll be guided by whatever you're concerned with. Please remember that I can't provide legal advice on specific cases for obvious liability reasons because I won't have access to all the facts."
+    },
+    {
       "title": "Android utrudni instalowanie aplikacji z internetu. Jest termin",
       "url": "https://spidersweb.pl/2026/11/google-android-instalowanie-aplikacji-internet-spoza-sklepow-trudniejsze.html",
       "date": "2026-11-20T16:42:00Z",
@@ -1032,6 +1040,14 @@
       "summary": "Premiera długo wyczekiwanej gry wideo to dla części graczy wydarzenie, któremu podporządkowują swoje codzienne plany. Wygospodarowanie czasu na rozgrywkę oznacza jednak konieczność pogodzenia pasji z pracą, prowadzeniem domu i życiem rodzinnym. Z analizy zgłoszeń do konkursu TWIX Doppelgamer wynika, że najczęściej brakuje im rąk do pomocy przy porządkach i innych obowiązkach domowych, a także przy przygotowywaniu posiłków."
     },
     {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "date": "2026-11-20T16:29:06Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 16 # Comments: 1."
+    },
+    {
       "title": "Niezwykły układ trzech gwiazd odkryty w pobliżu Ziemi. \"Nie powinien istnieć\"",
       "url": "https://spidersweb.pl/2026/11/niezwykly-uklad-trzech-gwiazd-welopo-ai.html",
       "date": "2026-11-20T16:20:00Z",
@@ -1053,7 +1069,7 @@
       "date": "2026-11-20T16:06:30Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/ Comments URL: https://news.ycombinator.com/item?id=50576855 Points: 102 # Comments: 26."
+      "summary": "Article URL: https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/ Comments URL: https://news.ycombinator.com/item?id=50576855 Points: 197 # Comments: 96."
     },
     {
       "title": "Linq, which offers texting and calling infrastructure for AI agents, raised a $90M Series B led by a16z, following a $20M Series A in February (Harper Harwell/Birmingham Business Journal)",
@@ -1109,7 +1125,7 @@
       "date": "2026-11-20T15:34:31Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 11 # Comments: 4."
+      "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 20 # Comments: 8."
     },
     {
       "title": "Filings: Jensen Huang's charity committed $350M to rent compute from CoreWeave for its Computing Initiative for Open Science, and has already spent $108.3M (Bloomberg)",
@@ -1141,7 +1157,7 @@
       "date": "2026-11-20T15:03:31Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 99 # Comments: 40."
+      "summary": "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 117 # Comments: 51."
     },
     {
       "title": "Wyłączyłem tę funkcję w Androidzie. Telefon od razu przyspieszył",
@@ -1253,7 +1269,7 @@
       "date": "2026-11-20T13:29:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 128 # Comments: 111."
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 139 # Comments: 130."
     },
     {
       "title": "Action szokuje rabatami. Inteligentne oświetlenie Philips w świetnych cenach",
@@ -1296,14 +1312,6 @@
       "summary": "Monitory o bardzo wysokiej rozdzielczości zwykle kojarzą się z drogim sprzętem dla profesjonalistów. Teraz pojawiła się propozycja, która nieco zmienia ten stan rzeczy. Japońska firma JAPANNEXT wprowadziła do sprzedaży model &#8222;JN-X6K2&#8221;, czyli 31,5-calowy monitor przeznaczony przede wszystkim do pracy z grafiką, fotografią i materiałami wideo."
     },
     {
-      "title": "Wchodzisz na ChataGPT, a tam wszystko inne. Potężna zmiana w aplikacji",
-      "url": "https://spidersweb.pl/2026/11/chatgpt-aplikacja-nowy-wyglad-odswiezenie.html",
-      "date": "2026-11-20T12:51:00Z",
-      "source": "Spider's Web",
-      "confirmed_by": 1,
-      "summary": "Wchodzisz na ChataGPT, a tam wszystko inne. Potężna zmiana w aplikacji."
-    },
-    {
       "title": "Welopō‘ai: niezwykły potrójny układ gwiazd 27,6 lat świetlnych od Ziemi",
       "url": "https://www.benchmark.pl/welopo-ai-niezwykly-potrojny-uklad-gwiazd-27-6-lat-swietlnych-od-ziemi-7353045929265152a",
       "date": "2026-11-20T12:50:00Z",
@@ -1317,7 +1325,7 @@
       "date": "2026-11-20T12:41:38Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/ Comments URL: https://news.ycombinator.com/item?id=50573886 Points: 141 # Comments: 64."
+      "summary": "Article URL: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/ Comments URL: https://news.ycombinator.com/item?id=50573886 Points: 156 # Comments: 83."
     },
     {
       "title": "Android nareszcie zadba o tablety i składaki. Zadziała każda aplikacja",
@@ -1397,15 +1405,7 @@
       "date": "2026-11-20T10:41:10Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://jeanmicheljarre.com/aaa/the-making-of-oxygene Comments URL: https://news.ycombinator.com/item?id=50572822 Points: 136 # Comments: 54."
-    },
-    {
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "date": "2026-11-20T10:01:41Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 435 # Comments: 261."
+      "summary": "Article URL: https://jeanmicheljarre.com/aaa/the-making-of-oxygene Comments URL: https://news.ycombinator.com/item?id=50572822 Points: 137 # Comments: 54."
     }
   ],
   "cybersecurity": [
@@ -1820,6 +1820,14 @@
       "summary": "Więcej sposobów na sprawdzenie OC pojazdu, a także możliwość pobrania historii ubezpieczenia i szkód swojego pojazdu, która może się przydać np. przy jego sprzedaży – to tylko kilka korzyści z nowych, cyfrowych rozwiązań wprowadzonych przez Ubezpieczeniowy Fundusz Gwarancyjny (UFG). Uruchomienie nowej odsłony portalu UFG.PL to część większego projektu Platforma eUFG, którego celem jest dostarczenie obywatelom praktycznych i intuicyjnych usług bez zbędnych formalności."
     },
     {
+      "title": "NATO reaguje na naruszenie polskiej przestrzeni powietrznej. Rutte zabrał głos",
+      "url": "https://www.bankier.pl/wiadomosc/NATO-reaguje-na-naruszenie-polskiej-przestrzeni-powietrznej-Rutte-zabral-glos-9232616.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "date": "2026-11-20T16:15:00Z",
+      "source": "Bankier.pl",
+      "confirmed_by": 1,
+      "summary": "Sekretarz generalny NATO Mark Rutte przekazał w piątek, że rozmawiał z szefem polskiego rządu Donaldem Tuskiem na temat „poważnych naruszeń” polskiej przestrzeni powietrznej. Będziemy nadal wzmacniać naszą zdolność do odstraszania i obrony - zaznaczył."
+    },
+    {
       "title": "PONAR Wadowice S.A. czeka na zatwierdzenie prospektu przez KNF - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUERMdnBlc0xNVFh1RlRWYUFoMFZPZG5tNlNjc2cxN3J2bW10NU9uOEs2dzdSSU5ycmNfbUI3X1VzazMyQjlWLU5GNUJvSjNiMVAyS0Z3TDJJSW43LU1hc0VDOS1hRWM1V0ttalFtV1hKd1NfOFo4d2hxMlNMb1hYejFsSXkwWU9WTWlQME9mUFZsb0dCMnpKQm9PYllwUQ?oc=5",
       "date": "2026-11-20T15:41:00Z",
@@ -2132,12 +2140,12 @@
       "summary": "Sukcesu na miarę GTA6 (jeszcze) nie mamy, ale branża wzrosła o 10 mld zł Forbes."
     },
     {
-      "title": "Optymalizacja sieci i rozwój e-commerce przynoszą efekty w CDRL - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMVowV01VWm9GZ2o1cUhxWkF6VlVKSGhJWk9Td1lvSlY0UjhBektIYmc5RXYxZjltM2taOVNxc09RZC1NUkxRTHU4VW42WVN5RGM4bV9xaFQ0ZlZ6NkVhU2g1NUQwaGxIMG55SlBQQmJGVVM2ZFRqLVZMZElDekZpaEhmMnB0ZjdXZ09wUk5sa1kyNlI0VWJjQU5Lb3R3NU9r?oc=5",
-      "date": "2026-11-20T08:07:00Z",
-      "source": "Biznesradar",
+      "title": "Wojciech Przylipiak - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuZy02OVI2WjR5UUc3Nk1DTEo2ekJ1VUxITjc2LXZnRWFKSnpEdkFkaHV3cl85M0NlNXllbDFNLVV5V2VxUnFpZ3lDSmNjZXhuMzkwQ2xqVDQwMFN1V1E?oc=5",
+      "date": "2026-11-20T04:00:45Z",
+      "source": "Forbes Polska",
       "confirmed_by": 1,
-      "summary": "Optymalizacja sieci i rozwój e-commerce przynoszą efekty w CDRL BiznesRadar."
+      "summary": "Wojciech Przylipiak Forbes."
     },
     {
       "title": "Miliony Polaków nadal wykluczone transportowo. Rząd nie wyznaczył konkretnego celu",
@@ -2186,14 +2194,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Anthropic Forbes."
-    },
-    {
-      "title": "Ostra gra o wielkie pieniądze ze sprzedaży \"GTA\". Wygrywają tajemniczy bracia - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOak82VTZtQ2ZKU1NfNjV2VXlXWEtNYmh5VlNCQjIzZzBCdl9ra2liUWh0TFhqLTdmblZIRXNaNXVIQXhKQWhFMWpuSG9BeHpCdWxXU3RPeTFEZV9QZjBlWDliSTdWZnhzS09xS1FKTmVCXzhEQ3RuYlBJRWVPeUhMa0ZwclV0bkFXNGpZUnlXZUVlWnRiQW5Ebm5KMjUzeDhMX3JN?oc=5",
-      "date": "2026-11-19T13:40:42Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Ostra gra o wielkie pieniądze ze sprzedaży \"GTA\". Wygrywają tajemniczy bracia Forbes."
     },
     {
       "title": "PKB mocne, rekrutacja wypada słabiej. Firmy wolą zwiększać wydajność niż etaty",
@@ -2543,21 +2543,21 @@
     "prices": [
       27136.73,
       27155.66,
-      30332.65,
+      30331.83,
       27354.94,
       27400.36,
       27412.11,
-      30765.27,
+      30764.43,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29968.46,
+      29967.65,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      30162.14,
+      30161.32,
       27686.17,
       27404.78,
       27351.97,
@@ -2566,7 +2566,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29847.84,
+      29847.03,
       27930.04,
       28234.04,
       28218.36,
@@ -2575,81 +2575,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30746.31,
+      30745.48,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      30268.6,
+      30267.78,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      30083.08,
+      30082.26,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      30398.6,
+      30397.78,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31486.01,
+      31485.16,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31600.14,
+      31599.28,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      31148.04,
+      31147.2,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      31299.8,
+      31298.95,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      31327.56,
+      31326.71,
       28449.73,
       28313.03,
       28272.33,
-      31077.46,
+      31076.62,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      31051.16,
+      31050.32,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      31428.26,
+      31427.4,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      31344.28,
+      31343.43,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31704.78,
+      31703.92,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      31087.45,
+      31086.6,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30942.31,
+      30941.47,
       30100.92,
       30418.01,
       30609.55,
@@ -2669,7 +2669,7 @@
       29369.09,
       29307.85,
       28841.1,
-      28567.51
+      28570.8
     ],
     "currency": "PLN"
   }
