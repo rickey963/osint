@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T15:06:06Z",
+  "last_updated": "2026-11-20T15:06:58Z",
   "poland": [
     {
       "title": "Trzy rosyjskie obiekty spadły w Polsce. RCB i MSWiA dementują plotki. \"Alert wysłany natychmiast\"",
@@ -1410,36 +1410,12 @@
   ],
   "cybersecurity": [
     {
-      "title": "Microsoft's last non-security preview of 2026 packs a punch",
-      "url": "https://www.theregister.com/os-platforms/2026/11/20/microsofts-last-non-security-preview-of-2026-packs-a-punch/5311300",
-      "date": "2026-11-20T14:28:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Windows Search gets a makeover, while Hello lights up dim rooms."
-    },
-    {
-      "title": "Microsoft suggests Registry hack to work around hotpatch woes",
-      "url": "https://www.theregister.com/os-platforms/2026/11/20/microsoft-suggests-registry-hack-to-work-around-hotpatch-woes/5311279",
-      "date": "2026-11-20T13:39:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "App problems in Windows after default hotpatching? Who could have foreseen that?"
-    },
-    {
       "title": "Rosyjska propaganda znów na TikToku. Wykryto podejrzane konta",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/rosyjska-propaganda-znow-na-tiktoku-wykryto-podejrzane-konta",
       "date": "2026-11-20T13:13:27Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Fałszywe doniesienia o ukraińskich atakach na polskie zakłady przemysłowe, przymusowym przyjmowaniu uchodźców czy narodowości sprawcy strzelaniny w Krakowie – to tylko niektóre z przekazów rozpowszechnianych przez podejrzane konta na TikToku. Demagog ustalił, że ich działalność wykazuje podobieństwa do rosyjskiej operacji wpływu."
-    },
-    {
-      "title": "AI could open wallets where ERP upgrade pitches can't, says PwC",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221",
-      "date": "2026-11-20T12:47:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Consultancy argues a 'clean core' makes agents easier to deploy – but Kingfisher is taking a different route."
     },
     {
       "title": "Włamanie do kamer aquaparku w Wielkopolsce. Podglądano gości basenu",
@@ -1456,14 +1432,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with AMD processors and nested virtualization enabled."
-    },
-    {
-      "title": "UK government can't keep its encryption-busting order to Apple a secret, tribunal rules",
-      "url": "https://www.theregister.com/security/2026/11/20/uk-government-cant-keep-its-encryption-busting-order-to-apple-a-secret-tribunal-rules/5311292",
-      "date": "2026-11-20T12:18:19Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Notice's existence can be acknowledged without harming national security, but its precise demands remain under wraps."
     },
     {
       "title": "The Path to AI Autonomy in the SOC",
@@ -1488,14 +1456,6 @@
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Bazy danych JPMorgan Chase padły ofiarą cyberataku. Hakerom udało się włamać do podmiotu świadczącego usługi dla holdingu finansowego i przejąć dane kilkunastu tysięcy klientów. Za operacją ma stać jedna z grup ransomware."
-    },
-    {
-      "title": "Windows 11 passkey bug cries failure after successful sign-in",
-      "url": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263",
-      "date": "2026-11-20T11:09:44Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Optional update fixes misleading Android error for versions 25H2 and 26H2."
     },
     {
       "title": "Cyberatak na Autopay. Kto będzie musiał wymienić kartę?",
@@ -1530,14 +1490,6 @@
       "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized."
     },
     {
-      "title": "Ubuntu Core Desktop targets 28.04 debut, with default status in its sights",
-      "url": "https://www.theregister.com/os-platforms/2026/11/20/ubuntu-core-desktop-targets-2804-debut-with-default-status-in-its-sights/5310837",
-      "date": "2026-11-20T09:29:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Canonical's stretch goal is to make the immutable OS standard in 30.04 – without retiring the traditional distro."
-    },
-    {
       "title": "Niezidentyfikowany obiekt spadł w Polsce. Gawkowski uruchomił specjalną procedurę",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/dezinformacja/niezidentyfikowany-obiekt-spadl-w-polsce-gawkowski-uruchomil-specjalna-procedure",
       "date": "2026-11-20T08:14:25Z",
@@ -1562,14 +1514,6 @@
       "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while retaining ClickFix and signed binary sideloading techniques,\" Blackpoint."
     },
     {
-      "title": "Support tech fixed malware by charging client less for their services",
-      "url": "https://www.theregister.com/personal-tech/2026/11/20/support-tech-fixed-malware-by-charging-client-less-for-their-services/5310959",
-      "date": "2026-11-20T06:29:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "‘I gave up at least $6,000 and I’d do it again’."
-    },
-    {
       "title": "Ukraiński wywiad ostrzega Europę przed operacją Rosji. „Chce wewnętrznej walki”",
       "url": "https://cyberdefence24.pl/armia-i-sluzby/ukrainski-wywiad-ostrzega-europe-przed-operacja-rosji-chce-wewnetrznej-walki",
       "date": "2026-11-20T06:00:34Z",
@@ -1586,22 +1530,6 @@
       "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted yesterday by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the endpoint-security firm ThreatLocker."
     },
     {
-      "title": "Big Tech's compliance with EU market rules is performative, consumer group says",
-      "url": "https://www.theregister.com/legal/2026/11/20/big-techs-compliance-with-eu-market-rules-is-performative-consumer-group-says/5311066",
-      "date": "2026-11-20T04:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "BEUC urges Brussels to impose tougher penalties over alleged barriers to switching services and controlling personal data."
-    },
-    {
-      "title": "US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies",
-      "url": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200",
-      "date": "2026-11-20T04:04:56Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Not many of the deals went through, but Chinese clouds no longer care about importing GPUs."
-    },
-    {
       "title": "Wycieki za pomocą zrzutów ekranu – PixelLeak czyli u agentów AI po staremu",
       "url": "https://sekurak.pl/wycieki-za-pomoca-zrzutow-ekranu-pixelleak-czyli-u-agentow-ai-po-staremu/",
       "date": "2026-11-20T02:49:26Z",
@@ -1610,44 +1538,12 @@
       "summary": "Od dawna w mediach głównego nurtu można przeczytać narrację wielkich firm budujących duże modele językowe, które straszą autonomicznymi działaniami systemów agentowych. Z zewnątrz może to wyglądać naprawdę niebezpiecznie, w końcu “komputer sam coś zrobił”. Jednak analizując każdy z tych przypadków, można dojść do wniosku, że system zadziałał dokładnie tak jak..."
     },
     {
-      "title": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else",
-      "url": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
-      "date": "2026-11-20T00:57:45Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Critical Virtzilla bugs allow authentication bypass, as a nested virtualization issue got Digital Ocean ducking."
-    },
-    {
-      "title": "Germ Network infects Android, but in a good way",
-      "url": "https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186",
-      "date": "2026-11-20T00:06:35Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Bluesky's preferred encrypted messaging app allows multiple identities without tying you to a phone number."
-    },
-    {
-      "title": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info",
-      "url": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175",
-      "date": "2026-11-19T21:12:33Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "First service outages, then data breaches…what's next?!"
-    },
-    {
       "title": "FBI podszyło się pod gang ransomware oraz pod zainfekowaną firmę…",
       "url": "https://sekurak.pl/fbi-podszylo-sie-pod-gang-ransomware-oraz-pod-zainfekowana-firme/",
       "date": "2026-11-19T21:12:24Z",
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Zobaczcie na tę akcję. FBI udawało firmę, która niby została zainfekowana ransomware. Następnie zgłosili się do innej nieco &#8220;podejrzanej&#8221; firmy, która reklamowała się posiadaniem &#8220;zaawansowanych narzędzi kryptograficznych&#8221; oraz &#8220;100% skutecznością odzyskiwania danych&#8221;."
-    },
-    {
-      "title": "Palo Alto Networks opens wallet for open-weight training biz",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/19/palo-alto-networks-opens-wallet-for-open-weight-training-biz/5311168",
-      "date": "2026-11-19T20:00:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Security shop buys the hand that feeds it."
     },
     {
       "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
@@ -1746,6 +1642,22 @@
       "summary": "Dania uzyska dostęp do ukraińskiej platformy szkolącej sztuczną inteligencję na podstawie danych z rzeczywistych działań wojennych. To efekt porozumienia zawartego przez oba państwa, na podstawie którego zamierzają wspólnie rozwijać (obronną) technologie dla wojska."
     },
     {
+      "title": "Uczniowie poznają sztuczną inteligencję. Pracownie AI już w szkołach",
+      "url": "https://cyberdefence24.pl/technologie/uczniowie-poznaja-sztuczna-inteligencje-pracownie-ai-juz-w-szkolach",
+      "date": "2026-11-19T13:04:14Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Szkoły w całej Polsce otrzymały pracownie sztucznej inteligencji. Uczniowie oraz nauczyciele będą mogli wykorzystywać technologię w ramach codziennych lekcji czy realizowanych projektów. Sprzęt pozwala na korzystanie nie tylko z narzędzi chmurowych, ale też lokalnych."
+    },
+    {
+      "title": "Sejm zdecydował ws. ustawy o sprawiedliwym dostępie do danych",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/sejm-zdecydowal-ws-ustawy-o-sprawiedliwym-dostepie-do-danych",
+      "date": "2026-11-19T12:46:23Z",
+      "source": "CyberDefence24",
+      "confirmed_by": 1,
+      "summary": "Sejm przyjął ustawę o sprawiedliwym dostępie do danych i ich wykorzystaniu. Przepisy wdrażają do polskiego prawa unijny Akt w sprawie danych. Obejmują one wymianę danych między przedsiębiorstwami, administracją oraz konsumentami."
+    },
+    {
       "title": "Everything Is a Web Application, Including Your Firewall",
       "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
       "date": "2026-11-19T11:52:23Z",
@@ -1762,12 +1674,28 @@
       "summary": "Co prawda akcja oficjalnie startuje jutro, ale kto się obrazi na dostęp dzień wcześniej? 😉 Od dziś aż do końca miesiąca (tj. do 30 listopada, do godz."
     },
     {
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "date": "2026-11-19T09:31:26Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of recurrence,\" N-able said. \"The investigation is ongoing, but at this time we."
+    },
+    {
       "title": "ruby2shell – heap overflow przy zmianie wielkości liter w Ruby. Rzekomo pozwala na RCE.",
       "url": "https://sekurak.pl/ruby2shell-heap-overflow-przy-zmianie-wielkosci-liter-w-ruby-rzekomo-pozwala-na-rce/",
       "date": "2026-11-19T09:18:54Z",
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Trudno jest lekceważyć opublikowane w ciągu kilku ostatnich dni podatności. Z drugiej strony ciężko jest nie zauważyć olbrzymiego zaangażowania marketingowego, które przesłania rzeczywisty wpływ łatanych podatności (mamy tutaj na myśli egzotyczne konfiguracje, exploity wymagające ponad 128GB przesyłanych przez sieć danych etc.). Do tego hype-trainu dołącza firma Veria Labs."
+    },
+    {
+      "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
+      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+      "date": "2026-11-19T08:42:11Z",
+      "source": "The Hacker News",
+      "confirmed_by": 1,
+      "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We are aware of PoCs that prove some of them can be used to trigger remote code execution,\" the maintainers said."
     },
     {
       "title": "[AKTUALIZACJA] Autopay zhackowany. Wykradziono dane kart płatniczych Polaków",
@@ -1842,6 +1770,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Komunikat EBI Szar SA (szar): Wypowiedzenie lub rozwiązanie przez emitenta lub przez firmę audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych StockWatch.pl."
+    },
+    {
+      "title": "Komunikat EBI Kancelaria Medius SA (kme): Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOTAxeFpXQ2NXZEpxTDJ3YW9MX2ROaERvSVZGUFBBNWMyY0p5THhlYWg4YjNKWjhqOHlCU3JDcGFGOVM5eWZEYkFCeVZZbDI3UnVCRmFjeUVveHlUckpEMVV0QXRDbkZGR0R4UW5lR0p5OGNkRVJhNTJsR2l5eVBCbjB6NEY4UkN1dm9iejM5N3RfQVhQMkVhVTYweDM1RTluYVl2UmZtWGpwQjhNNTN2YzRwZ2c1ZGFtNllxNHMzYVNiZmpyTlpxYU9La0pRQQ?oc=5",
+      "date": "2026-11-20T14:21:21Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI Kancelaria Medius SA (kme): Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ StockWatch.pl."
     },
     {
       "title": "To tu spadły rosyjskie obiekty. Wojewoda wskazuje miejsca",
@@ -1978,14 +1914,6 @@
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "W przyszłym roku nie tylko Wigilia, ale i Sylwester może być wolny od pracy. Kluczowy jeden przepis Forsal.pl."
-    },
-    {
-      "title": "Komunikat ESPI QUBICGAMES SPÓŁKA AKCYJNA (qubicgms): Powiadomienie o transakcjach na akcjach Spółki w trybie art. 19 ust. 1 Rozporządzenia MAR - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRUNGdE5WZ3pWU3JjeF9RTWJjNVM0UXpSZ3FyeGVOM01seHQxRUZValc2d0hobDQ0NE51Yjh1SWhIY3N1YnVRSjYyVldqb1B1UFZ2VERMZEptd2ZpWlhYOWxLNy1nb2d2czF2Z2RxeXd4cUt3RHptUWtheS1fYWIwbWhETWRCelF1TDBULVFqc3VnQWhqcEp0eWx5QTZzNnFRTU1xdVFuUGtrREc1bDdBZDh6THZBSUFBM05renYxM0pQRmZZYUFCVDhSUEc2Q1gzRy1sU0puVDU?oc=5",
-      "date": "2026-11-20T12:44:45Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat ESPI QUBICGAMES SPÓŁKA AKCYJNA (qubicgms): Powiadomienie o transakcjach na akcjach Spółki w trybie art. 19 ust. 1 Rozporządzenia MAR StockWatch.pl."
     },
     {
       "title": "Domański nowym wicepremierem. Wskazał priorytet rządu Tuska",
@@ -2140,6 +2068,14 @@
       "summary": "Optymalizacja sieci i rozwój e-commerce przynoszą efekty w CDRL BiznesRadar."
     },
     {
+      "title": "Wojciech Przylipiak - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuZy02OVI2WjR5UUc3Nk1DTEo2ekJ1VUxITjc2LXZnRWFKSnpEdkFkaHV3cl85M0NlNXllbDFNLVV5V2VxUnFpZ3lDSmNjZXhuMzkwQ2xqVDQwMFN1V1E?oc=5",
+      "date": "2026-11-20T04:00:45Z",
+      "source": "Forbes Polska",
+      "confirmed_by": 1,
+      "summary": "Wojciech Przylipiak Forbes."
+    },
+    {
       "title": "Miliony Polaków nadal wykluczone transportowo. Rząd nie wyznaczył konkretnego celu",
       "url": "https://300gospodarka.pl/news/miliony-polakow-nadal-wykluczone-transportowo-rzad-nie-wyznaczyl-konkretnego-celu",
       "date": "2026-11-19T22:44:02Z",
@@ -2186,14 +2122,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Anthropic Forbes."
-    },
-    {
-      "title": "Ostra gra o wielkie pieniądze ze sprzedaży \"GTA\". Wygrywają tajemniczy bracia - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOak82VTZtQ2ZKU1NfNjV2VXlXWEtNYmh5VlNCQjIzZzBCdl9ra2liUWh0TFhqLTdmblZIRXNaNXVIQXhKQWhFMWpuSG9BeHpCdWxXU3RPeTFEZV9QZjBlWDliSTdWZnhzS09xS1FKTmVCXzhEQ3RuYlBJRWVPeUhMa0ZwclV0bkFXNGpZUnlXZUVlWnRiQW5Ebm5KMjUzeDhMX3JN?oc=5",
-      "date": "2026-11-19T13:40:42Z",
-      "source": "Forbes Polska",
-      "confirmed_by": 1,
-      "summary": "Ostra gra o wielkie pieniądze ze sprzedaży \"GTA\". Wygrywają tajemniczy bracia Forbes."
     },
     {
       "title": "PKB mocne, rekrutacja wypada słabiej. Firmy wolą zwiększać wydajność niż etaty",
@@ -2252,8 +2180,8 @@
       "lng": 19.5,
       "type": "cyber",
       "region": "Polska",
-      "description": "Cyberprzestępcy uzyskali dostęp do systemów Autopay – jednego z największych polskich operatorów płatności internetowych.",
-      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/cyberatak-na-autopay-kto-bedzie-musial-wymienic-karte"
+      "description": "Sejm przyjął ustawę o sprawiedliwym dostępie do danych i ich wykorzystaniu.",
+      "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/sejm-zdecydowal-ws-ustawy-o-sprawiedliwym-dostepie-do-danych"
     },
     {
       "lat": 51.7,
@@ -2276,8 +2204,8 @@
       "lng": 104.3,
       "type": "cyber",
       "region": "Chiny",
-      "description": "Not many of the deals went through, but Chinese clouds no longer care about importing GPUs.",
-      "url": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200"
+      "description": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.",
+      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html"
     },
     {
       "lat": 18.97,
@@ -2559,21 +2487,21 @@
     "prices": [
       27136.73,
       27155.66,
-      30301.11,
+      30300.89,
       27354.94,
       27400.36,
       27412.11,
-      30733.28,
+      30733.05,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      29937.3,
+      29937.08,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      30130.78,
+      30130.56,
       27686.17,
       27404.78,
       27351.97,
@@ -2582,7 +2510,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29816.8,
+      29816.58,
       27930.04,
       28234.04,
       28218.36,
@@ -2591,81 +2519,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30714.34,
+      30714.12,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      30237.13,
+      30236.91,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      30051.8,
+      30051.58,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      30367.0,
+      30366.77,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31453.28,
+      31453.04,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31567.29,
+      31567.05,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      31115.66,
+      31115.43,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      31267.25,
+      31267.02,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      31294.99,
+      31294.76,
       28449.73,
       28313.03,
       28272.33,
-      31045.15,
+      31044.92,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      31018.88,
+      31018.65,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      31395.58,
+      31395.35,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      31311.69,
+      31311.46,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31671.81,
+      31671.58,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      31055.12,
+      31054.89,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30910.14,
+      30909.91,
       30100.92,
       30418.01,
       30609.55,
@@ -2685,7 +2613,7 @@
       29369.09,
       29307.85,
       28841.1,
-      29097.01
+      29081.38
     ],
     "currency": "PLN"
   }
