@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T01:20:12Z",
+  "last_updated": "2026-11-21T01:21:04Z",
   "poland": [
     {
       "title": "Zbigniew Ziobro spotkał się z amerykańskim działaczem. \"Polski bohater\"",
@@ -1029,7 +1029,15 @@
       "date": "2026-11-20T23:42:44Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://borretti.me/article/re-riemann Comments URL: https://news.ycombinator.com/item?id=50583982 Points: 85 # Comments: 59."
+      "summary": "Article URL: https://borretti.me/article/re-riemann Comments URL: https://news.ycombinator.com/item?id=50583982 Points: 96 # Comments: 74."
+    },
+    {
+      "title": "Uncontacted Indigenous people emerge from Amazon forest to ask for food",
+      "url": "https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/",
+      "date": "2026-11-20T23:31:27Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/ Comments URL: https://news.ycombinator.com/item?id=50583877 Points: 23 # Comments: 4."
     },
     {
       "title": "Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers (Wall Street Journal)",
@@ -1045,7 +1053,7 @@
       "date": "2026-11-20T23:19:44Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 27 # Comments: 5."
+      "summary": "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 29 # Comments: 5."
     },
     {
       "title": "Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August (Wall Street Journal)",
@@ -1077,7 +1085,7 @@
       "date": "2026-11-20T22:46:59Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics Comments URL: https://news.ycombinator.com/item?id=50583445 Points: 22 # Comments: 9."
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics Comments URL: https://news.ycombinator.com/item?id=50583445 Points: 27 # Comments: 13."
     },
     {
       "title": "NINLIVE: The Nine Inch Nails live archive",
@@ -1085,7 +1093,7 @@
       "date": "2026-11-20T22:30:47Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 95 # Comments: 22."
+      "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 102 # Comments: 21."
     },
     {
       "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
@@ -1096,12 +1104,20 @@
       "summary": "FCC preempts state rules that require AT&#038;T to keep offering home phone service."
     },
     {
+      "title": "Merkle Tree Certificates",
+      "url": "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/",
+      "date": "2026-11-20T22:19:23Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/ Comments URL: https://news.ycombinator.com/item?id=50583134 Points: 10 # Comments: 0."
+    },
+    {
       "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
       "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
       "date": "2026-11-20T22:18:20Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models Comments URL: https://news.ycombinator.com/item?id=50583117 Points: 11 # Comments: 4."
+      "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models Comments URL: https://news.ycombinator.com/item?id=50583117 Points: 12 # Comments: 4."
     },
     {
       "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
@@ -1174,22 +1190,6 @@
       "source": "Ars Technica",
       "confirmed_by": 1,
       "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"."
-    },
-    {
-      "title": "Show HN: OpenComputer – an open source alternative to Devin",
-      "url": "https://github.com/diggerhq/opencomputer",
-      "date": "2026-11-20T20:19:56Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Hi HN!Utpal here, I'm one of the founders of OpenComputer.OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]).Two other choices:- One VM per team, scalable horizontally. Sessions are isolated in git worktrees."
-    },
-    {
-      "title": "And yet, it moves",
-      "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-      "date": "2026-11-20T20:07:55Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/ Comments URL: https://news.ycombinator.com/item?id=50581177 Points: 76 # Comments: 38."
     },
     {
       "title": "GTA 6 wskrzesiło stare duchy. To 2026 czy 2006?",
@@ -1852,14 +1852,6 @@
       "summary": "Komunikat ESPI VRFABRIC SPÓŁKA AKCYJNA (vrfabric): Powiadomienie o transakcjach na akcjach Spółki przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze w Spółce StockWatch.pl."
     },
     {
-      "title": "Notowania giełdowe i wykresy online - BiznesRadar.pl - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE01bnBNdnAwM0pHaldBbFYyVkxNa3RibnlUbTF1dm1GODhkNl9DM183cVA1Wi0zd3RyMmZ1cHBYU1k?oc=5",
-      "date": "2026-11-20T21:03:16Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania giełdowe i wykresy online - BiznesRadar.pl BiznesRadar."
-    },
-    {
       "title": "Polska przedłuża obowiązek dywersyfikacji gazu. Nowe zasady obejmą LNG",
       "url": "https://www.bankier.pl/wiadomosc/Polska-przedluza-obowiazek-dywersyfikacji-gazu-Nowe-zasady-obejma-LNG-9232889.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-11-20T20:15:00Z",
@@ -1948,6 +1940,38 @@
       "summary": "Rodzice chcieli, by przejęła firmę wcześniej. Zrobiła to, gdy była gotowa Forbes."
     },
     {
+      "title": "Dwie prędkości w Grupie Selvita po trzech kwartałach. Rentowność drug development wspiera wyniki - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNHNpRWh1THAtT0xlb2FGXzBtUDJUbzlIMjl1QkZEWmhJZ29hcVNsOVA0Uk5IVFJZc0RsUy0ybHhFb2wxTHZYTWJQZlVDMndtdkhaRnBzRTJKRExScG1FSndQMmRYeDVTalZpRTJ0VUpvWGVCUjlSN05tekx6ekoxNXp3cFJnOU9MeEprbVk1MUtMdlkyRnJwU1FCX2dMU3RnMFZDZkQxbkFsTUY4Xy1MYVVUd2J1Wk14U3lVd284dEpFaW5KWjNQLVFRYw?oc=5",
+      "date": "2026-11-20T17:44:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Dwie prędkości w Grupie Selvita po trzech kwartałach. Rentowność drug development wspiera wyniki BiznesRadar."
+    },
+    {
+      "title": "Grupa FERRO poprawia rentowność operacyjną mimo trudnego otoczenia rynkowego - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNclpBYm41dWFhdmE0UkN4Y3N2SnlFZndDZ0xpMkhFdFhia2dvUVBCR2NFNmRHbjkxbEFVaklYeHhBYUlWdUI3c01sMFZPeVBOek5tZVY0WS1vblk5UTBEZXBRUFgzMzg2ODZNOHUwZDNFMzNESzFhYmI0dmp0WjAxdXlfZnFkcDZfX0dlamJuYTlHUkZxMGFVdV9WR3BTb3BQd01xZVBnMXpPQjdrU2VrSGhB?oc=5",
+      "date": "2026-11-20T17:34:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Grupa FERRO poprawia rentowność operacyjną mimo trudnego otoczenia rynkowego BiznesRadar."
+    },
+    {
+      "title": "Eurocash szykuje Frisco do debiutu na GPW. Sprzedaż po 9 miesiącach rośnie o 14%, powyżej 0,5 mld zł - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObnlURHZRNy10ZWdXanhVYm12YzROZ0JjYmtqMnJiVjl4ZkhqWDFqbUMtN3hmemRLTk5TSTFTQnpIUWlxSFl4QTgyeExOdXpSVHNRT05nRUQ1Vl8taFVidkdUa2RPRTBqekthQjh1dDdjSDZuTzJvV2haQ3NjZHJHRGxzeHdhMXNpelNaX096cGdUZ05PZ3B5WWxORXNva1N1T1ZxUUVubmdhZVhWOXJidm95QzVXLVNvRXJUTU0walR6TjJSbDVKSzlfRzUwUQ?oc=5",
+      "date": "2026-11-20T17:18:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Eurocash szykuje Frisco do debiutu na GPW. Sprzedaż po 9 miesiącach rośnie o 14%, powyżej 0,5 mld zł BiznesRadar."
+    },
+    {
+      "title": "Grupa APLISENS poprawia wyniki na wszystkich poziomach mimo presji cenowej i słabszych rynków WNP - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSk9tb3F1VWZnUXpaRS03T0s4SzZ1VHpBS3dackYycWxkb3dJcmpXMTc2c3Z6RzRIbDBSYnlnVWF4UU1HRUtRSkN2Q25sbG02cjFFaUI4YVo4cjczeGNNVTFsekhLQVJ6N3lEeTV3TDlaLW04WW1xQ2p1a1ZJVlJWMEdFaThaNU9NT2RTeHRIOVpIb1ByODEzWEY4ekpCVmhKaGtEb3k4eHNyTm85Y2xDSVoxREdQLXpjbjg0eUwtMDJ6d2h1TGtBbzR0UHIyZw?oc=5",
+      "date": "2026-11-20T17:11:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Grupa APLISENS poprawia wyniki na wszystkich poziomach mimo presji cenowej i słabszych rynków WNP BiznesRadar."
+    },
+    {
       "title": "Polska będzie produkować szwedzką amunicję. PGZ podpisała umowę z Saab",
       "url": "https://www.bankier.pl/wiadomosc/Polska-bedzie-produkowac-szwedzka-amunicje-PGZ-podpisala-umowe-z-Saab-9232809.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-11-20T17:03:00Z",
@@ -1980,12 +2004,28 @@
       "summary": "Więcej sposobów na sprawdzenie OC pojazdu, a także możliwość pobrania historii ubezpieczenia i szkód swojego pojazdu, która może się przydać np. przy jego sprzedaży – to tylko kilka korzyści z nowych, cyfrowych rozwiązań wprowadzonych przez Ubezpieczeniowy Fundusz Gwarancyjny (UFG). Uruchomienie nowej odsłony portalu UFG.PL to część większego projektu Platforma eUFG, którego celem jest dostarczenie obywatelom praktycznych i intuicyjnych usług bez zbędnych formalności."
     },
     {
+      "title": "NEWAG SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFhiLVJkLXNWSV9QbHVERDdkcGNRLTlCN0YzeFdPZXdVWDNneng0eVlNQUlWemcwVGFJOGtGQmRFZHhTREJnM2l6VzRwZHlQaVRzblhSTExnMVNhejhSME1SQjJfdW5iU1RfTDRTbjZzYWt2cWpfVzhJcUFQMVNXWVhDLVc5TW11WndkaXlhYUk3WWl0cmZrUmI3dEk?oc=5",
+      "date": "2026-11-20T16:26:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "NEWAG SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
+    },
+    {
       "title": "Wynajmujesz mieszkanie? Przy najmie okazjonalnym pamiętaj o tych warunkach - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2RCbjdZTGNudGUxcHdSWUY2OXU5NGloNE9zRmNlbENxQm5oeHVkbDh0OHN5N0M5eHJWelkyQXZuLUdSM192QWl1bEgtb2s0bnd1NGE4UTZrM29xbV8yZjJHLVFYaGQ5T1hPVXM3dDNpYll0NVNsbG8xS3FwYldrSU5jSURudGk0VW5fblVnZU5ZZUhaQTRJbjBrUmlWRFN3WmVpanFRUnRwV1NqUEZGUGR3NmMyRnh0R2Z0QkktNUJxR0dZUzJIWUFfdzllQkpfem1BQzBvM2Vkb1E?oc=5",
       "date": "2026-11-20T16:00:00Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
       "summary": "Wynajmujesz mieszkanie? Przy najmie okazjonalnym pamiętaj o tych warunkach Forsal.pl."
+    },
+    {
+      "title": "PONAR Wadowice S.A. czeka na zatwierdzenie prospektu przez KNF - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUERMdnBlc0xNVFh1RlRWYUFoMFZPZG5tNlNjc2cxN3J2bW10NU9uOEs2dzdSSU5ycmNfbUI3X1VzazMyQjlWLU5GNUJvSjNiMVAyS0Z3TDJJSW43LU1hc0VDOS1hRWM1V0ttalFtV1hKd1NfOFo4d2hxMlNMb1hYejFsSXkwWU9WTWlQME9mUFZsb0dCMnpKQm9PYllwUQ?oc=5",
+      "date": "2026-11-20T15:41:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "PONAR Wadowice S.A. czeka na zatwierdzenie prospektu przez KNF BiznesRadar."
     },
     {
       "title": "Komunikat ESPI Pekao Bank Hipoteczny SA (pekao-bank-hipoteczny-sa): Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A. - StockWatch.pl",
@@ -2132,14 +2172,6 @@
       "summary": "Wojciech Przylipiak Forbes."
     },
     {
-      "title": "Notowania INTLANT04243 INGBANK - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrUGR2YmNqaW41X3MtYW45X3l6OTBvSHF0MU1NVTFuT0JBVF8xb0Zrcjc4cHJKa0xqTkFzcW5wLWNUcDE0cWFoY1BWUVJoRWVnNkFNaUx5bzVPWmVoQ2c?oc=5",
-      "date": "2026-11-20T01:49:35Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania INTLANT04243 INGBANK BiznesRadar."
-    },
-    {
       "title": "Miliony Polaków nadal wykluczone transportowo. Rząd nie wyznaczył konkretnego celu",
       "url": "https://300gospodarka.pl/news/miliony-polakow-nadal-wykluczone-transportowo-rzad-nie-wyznaczyl-konkretnego-celu",
       "date": "2026-11-19T22:44:02Z",
@@ -2172,44 +2204,12 @@
       "summary": "Forbes."
     },
     {
-      "title": "Onde wchodzi w segment elektroenergetyczny dzięki przejęciu Olmex - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTWFhZDlQME9Bb0lCMGdLMVoxX05fY2JmVlRwczJvV2FhZFVYbWdsZUY1bkhDWTQxSDFaeFdnMUJVcUp5Mk1rR3RVQnFyeWE0eUtYLWN5anRvU3doR1V1V3VsSUVBZV9aaGZjOHozYmNrOF82V0gyWGFmS1dONjRDaS12RzQzS1pBTTBaSXlCTGpfN0FnS1RYT1dUVFd0dTlJeS1v?oc=5",
-      "date": "2026-11-19T17:22:30Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Onde wchodzi w segment elektroenergetyczny dzięki przejęciu Olmex BiznesRadar."
-    },
-    {
-      "title": "Rekordowe wyniki Cloud Technologies. Dynamiczny wzrost sprzedaży danych w USA - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcjlLWF9vaDUwcWMweUZBYkp6X1E5dDJLNVJGYXhHNmpBWGI5N295NE9obERxUm5oaU1ZdlNzX3FhVnh0VnFBZkpVdXFFMmUyNy1MYk1OemdoSDI3N19EdnZBZ0RCYjI3QkpseHlLY1dYVjRleWdxQmxmZDEwUEo4cWhvSjVOTFJaSTFsMGlrLXJCb1IzY0hfN254LUVqUnVDTDd4aC1FRHUxQ0VSaEhLWTRB?oc=5",
-      "date": "2026-11-19T17:10:08Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Rekordowe wyniki Cloud Technologies. Dynamiczny wzrost sprzedaży danych w USA BiznesRadar."
-    },
-    {
-      "title": "Wiadomości PZU - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EaUM4VlVYNHNJWDRUMVhCTFNsNC1aRmZGcllqZVBxZ2RBa1Y4LUtMc3FLRWk5LVVjOHlGVVBUYzVFX2J3VEk2QlJtb2JocTJhTmZiMXVoWQ?oc=5",
-      "date": "2026-11-19T16:03:59Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości PZU BiznesRadar."
-    },
-    {
       "title": "Anthropic - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Ud05DelFhY3QwdWl0ajBmWWEySDlrcFdKRHZBazNPdDZJc29FbndtYXNRdGJLekE4T1BPLXJUZklWV0xpSHc?oc=5",
       "date": "2026-11-19T14:34:28Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Anthropic Forbes."
-    },
-    {
-      "title": "Notowania INTSW2003930 INGBANK - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vM3A0dW54ZFdNV2ZnUUg2bWZBY25IT1NOSE1zZXBmVS0xQ1BwR0R4ZTliNjZXejZ0YTgzaHRnS1ptYkVKQXNlVUNXZzcyMVF3NDZKRWluSVBiMFVHNFE?oc=5",
-      "date": "2026-11-19T10:44:44Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania INTSW2003930 INGBANK BiznesRadar."
     }
   ],
   "critical_alerts": [
