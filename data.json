@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-21T21:20:16Z",
+  "last_updated": "2026-11-21T21:29:49Z",
   "poland": [
+    {
+      "title": "NATO reaguje na rosyjskie obiekty w Polsce. Rutte: Absolutnie nie do przyjęcia",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33144699,nato-reaguje-na-rosyjskie-obiekty-w-polsce-rutte-absolutnie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "date": "2026-11-21T21:10:00Z",
+      "source": "Gazeta Wyborcza",
+      "confirmed_by": 1,
+      "summary": "Sekretarz generalny NATO Mark Rutte ocenił, że naruszenie polskiej przestrzeni powietrznej było \"niebezpiecznym incydentem\". - NATO będzie bronić każdego centymetra polskiego terytorium - zadeklarował."
+    },
     {
       "title": "Sikorski o porażce \"wielkiej fantazji\" Putina. \"Chińczycy pokazali jego miejsce w szeregu\"",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33144680,sikorski-o-wielkiej-fantazji-putina-chinczycy-pokazali-jego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -216,14 +224,6 @@
       "source": "Business Insider Polska",
       "confirmed_by": 1,
       "summary": "Kurs bitcoina — najważniejszej kryptowaluty na świecie pod względem wartości rynkowej — spadł w piątek do najniższego poziomu od dwóch lat — informuje Reuters. Powodem są m.in. rosnące obawy o opłacalność inwestycji w sztuczną inteligencję, które wytrąciły z równowagi inwestorów."
-    },
-    {
-      "title": "Rosyjskie obiekty wtargnęły do Polski. Sikorski: Będziemy komunikować ekstremalne niezadowolenie",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33144232,rosyjskie-obiekty-wtargnely-do-polski-sikorski-bedziemy-komunikowac.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "date": "2026-11-21T09:36:00Z",
-      "source": "Gazeta Wyborcza",
-      "confirmed_by": 1,
-      "summary": "Wicepremier, szef polskiej dyplomacji Radosław Sikorski zapowiedział, że naruszenie polskiej przestrzeni powietrznej przez rosyjskie obiekty spotka się z ostrą reakcją. Zaznaczył, że ostatnie incydenty będą tematem rozmów wśród europejskich państw."
     },
     {
       "title": "Czy na Boże Narodzenie spadnie śnieg? IMGW wyjaśnia, co nas czeka - Polskie Radio 24",
@@ -766,20 +766,28 @@
   ],
   "world_politics": [
     {
+      "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+      "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+      "date": "2026-11-21T21:12:23Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government."
+    },
+    {
+      "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMk94aHBLLVI3V1JkYU1DWGQ1Qk5ZVnlBN2JFYWYtbzNPOU1GSkgzTmJCRXVzcllCZERfVkpWQnpIMWdXbjI5LWNaal8wTzBwdWtWSDZITm5RZVZhejZ4WldzNVpEVm90ODJ5UTY0REJUWTUtQk5PUk5CUXNSekIzSTYyRlEwOE5QZzkxZ2dic3dwTWNKZF8yRm9pSEVWbkw1cnc?oc=5",
+      "date": "2026-11-21T20:48:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "Taiwan warns Canada’s Carney that deeper ties with China come with risks AP News."
+    },
+    {
       "title": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
       "url": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
       "date": "2026-11-21T20:35:07Z",
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD."
-    },
-    {
-      "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-      "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-      "date": "2026-11-21T20:28:34Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government."
     },
     {
       "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
@@ -902,14 +910,6 @@
       "summary": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles AP News."
     },
     {
-      "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY0hRM1J3UzZkR2JvWnJYUDgyRE55OE9pbmJxM19vX2llS19QZjBTWkNVaVVZQTRJbnZ5N01NbEp5Qko2T3lGWlNERjFNYXF4Q2xiQVRZQUFmN2lWQ3V3YmpfYzZXNE5Lb2FuSFVJU2lBUW9VWVhRemxaY2dfamhRODlubjNmN0N6MU9DbENZd1NrdzNfeVFYWmtKNHJMQlBITXp0TQ?oc=5",
-      "date": "2026-11-21T01:38:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports AP News."
-    },
-    {
       "title": "Devilish or Delightful? Krampus Is Banned From a Christmas Parade.",
       "url": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
       "date": "2026-11-20T23:29:25Z",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+      "url": "https://tasklet.ai/careers",
+      "date": "2026-11-21T21:11:08Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0."
+    },
+    {
       "title": "Nest Bank unieważnia stare kody CVV na kartach. Sprawdź, jak teraz zapłacisz w internecie",
       "url": "https://www.instalki.pl/news/fintech/nest-bank-uniewaznia-stare-kody-cvv-na-kartach-sprawdz-jak-teraz-zaplacisz-w-internecie/",
       "date": "2026-11-21T20:50:00Z",
@@ -1053,7 +1061,7 @@
       "date": "2026-11-21T18:29:29Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 32 # Comments: 10."
+      "summary": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 36 # Comments: 10."
     },
     {
       "title": "Nowy Volkswagen T-Roc R jest obecnie najszybszym SUV-em w ofercie marki. Pierwszy z mild hybrid w rodzinie R",
@@ -1069,7 +1077,7 @@
       "date": "2026-11-21T18:02:19Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 230 # Comments: 45."
+      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 234 # Comments: 50."
     },
     {
       "title": "Pierwszy taki wyrok w Polsce: firma zapłaci za głos lektora podrobiony przez AI. Co to oznacza dla reklam, filmów na YouTube i dubbingu",
@@ -1093,7 +1101,7 @@
       "date": "2026-11-21T17:08:04Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 83 # Comments: 7."
+      "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 85 # Comments: 9."
     },
     {
       "title": "Zakupy na kredyt w Żabce stają się faktem. Tak działa nowa usługa Żappka Pay",
@@ -1117,7 +1125,7 @@
       "date": "2026-11-21T15:54:34Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 60 # Comments: 20."
+      "summary": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 61 # Comments: 21."
     },
     {
       "title": "Samsung chce mieć własną wyspę. Wygląda znajomo",
@@ -1149,7 +1157,7 @@
       "date": "2026-11-21T15:39:09Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 91 # Comments: 68."
+      "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 95 # Comments: 72."
     },
     {
       "title": "Prawie 4 mld USD przychodu po 24h od premiery. GTA VI rozbiło bank",
@@ -1229,7 +1237,7 @@
       "date": "2026-11-21T14:36:45Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 630 # Comments: 492."
+      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 640 # Comments: 506."
     },
     {
       "title": "Zakaz sprzedaży BYD w UE. Sąd w Hadze przyznał rację Land Roverowi",
@@ -1253,7 +1261,7 @@
       "date": "2026-11-21T13:23:14Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 426 # Comments: 287."
+      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 434 # Comments: 290."
     },
     {
       "title": "Najtańszy abonament komórkowy w Polsce? Tylko ta opcja ma sens",
@@ -1310,14 +1318,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Cristina Criddle / Financial Times: An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness &mdash; The in-house philosopher on the problem of consciousness and what it might feel like to be an AI agent."
-    },
-    {
-      "title": "Dysk SSD 2 TB z rabatem 48%. Corsair zaszalał na Black Friday",
-      "url": "https://www.instalki.pl/news/hardware/dysk-ssd-2-tb-z-rabatem-48-corsair-zaszalal-na-black-friday/",
-      "date": "2026-11-21T11:13:22Z",
-      "source": "Instalki.pl",
-      "confirmed_by": 1,
-      "summary": "Jeśli szukacie nowego sprzętu do grania albo planujecie rozbudować swój komputer, Black Friday w Corsairze przynosi sporo interesujących przecen. Taniej można kupić zarówno akcesoria, jak i podzespoły komputerowe. Na jednym z dysków SSD można zaoszczędzić naprawdę dużo."
     },
     {
       "title": "Motorola rzuci wyzwanie iPhone'owi Duo. Razr Flex w całej okazałości",
@@ -1828,14 +1828,6 @@
       "summary": "W obwodzie królewieckim, rosyjskiej eksklawie graniczącej z Polską i Litwą, odnotowano eksplozje i aktywność dronów w pobliżu bazy morskiej Floty Bałtyckiej w Bałtyjsku. W regionie uruchomiono alarmy powietrzne, a mieszkańcy informowali o odgłosach wybuchów i działaniu rosyjskiej obrony przeciwlotniczej. Doniesienia o ewentualnym ataku i zniszczeniach nie zostały jednak dotąd niezależnie potwierdzone – podaje Kyiv Independent."
     },
     {
-      "title": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZGIyWkdMRXRIT1I4NVJ3R1RnSEVaaGZNdE1RV3hlbTJZRWR2bG4tZmVhVGx3ak1CYUNrR0xqczA3UWl1LS1WMTUtNzJGc3ZpMzhxaS1fS2VTS2NsTm1jZGh2NTFMTFllRHdnUjhjQTF2dDZlbl9TdGc4QndDVWNqUUd4ZmNiZkRVN2puYTVuVnp0dE5OY1hjRXJ5QV9BM0ZsNzgzdHo2MHBFM3ZyYi11WXVWbjJhc2w0MkxDOS11dWVMX21TZEhOZ2x6RVFacjBjRmREOFdYYWNjZnpzN2c?oc=5",
-      "date": "2026-11-21T20:04:47Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu Forsal.pl."
-    },
-    {
       "title": "ZUS wstrzymuje wypłaty dodatku do emerytury. Chodzi o dodatek pielęgnacyjny po 75. roku życia - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORy1VQ1Y0ajJyVGIydFRWQ09NSGp4b2p3aG5zSkZER3kwcnFpbkIzOWN6U3pEemk1M0hvdlBJN0ZiU0N4RHl1VUJscjhxOXhMVTV1bWp4UzJ2UHV5NGNoZVRHRnVnM1FuVDBNM21xOTBDWkhjX1VfblhNM0FGMFF5Z25EOWVJTEwzcldtcEx6T0d4NFBraUtUcHpORUVTV2ZLWW55czQtaWZuM0Zkem56TVc0UXBvd1hhOWF6VnV5Tlo3MWdCVl81V0FOdUZMOTdNZXA0WTZPdG1YNDJjM1B6clVWNTlNMkZGOXRJeA?oc=5",
       "date": "2026-11-21T19:38:37Z",
@@ -1882,14 +1874,6 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Baron narkotykowy Isidro Meza-Flores, znajdujący się na liście 10 najbardziej poszukiwanych przez FBI przestępców, został zatrzymany przez meksykańskie siły specjalne. Jedenaście osób zostało rannych - podały władze."
-    },
-    {
-      "title": "Tak oszukali system kaucyjny. Na zwrocie podrobionych butelek zarobili około 150 tysięcy euro - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaVI2YjhyX3Z1Q3R3U3l3dnYtTTYxZ3F3bnZnMkJVWHZ4RnJ2VVd6UTlkcm5lV0RDUE00NE9HU0xIc1ZxTVJuZE84U3F6blFLMWlZMWVlUEppTkw2NEZEMEJLWk8wSVF3SDFlTmI4RlhScGdCYlJXSXF3Y1FnZE41ODkxVXhfbEZtcW9BaDJZTVREY0RHLWlncXB4UUh1LXh5My0zNmhqNjJxYjdsdHo1OGFIODlZTHFHSkFRQ1E5Ty1scWRhcGc?oc=5",
-      "date": "2026-11-21T17:43:34Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Tak oszukali system kaucyjny. Na zwrocie podrobionych butelek zarobili około 150 tysięcy euro Forsal.pl."
     },
     {
       "title": "PiS chce zmienić prawo bankowe. Twierdzi, że dla dobra rodzin",
@@ -1986,14 +1970,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Magdalena Kuszewska Forbes."
-    },
-    {
-      "title": "Niedziela handlowa 22.11.2026: sklepy otwarte 22 listopada czy obowiązuje zakaz handlu. Czy jutro jest niedziela handlowa? - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNeUNyS2VzbUo3U3RudVlNUGY0MkhJU0k3bG1iaFpzbklLRi1MYkU4a2xYcXQ0T3RHRmhXMU1OX21BX25ObDRxTVh0TVJTWkFLV3VrdVl4cF9tWmhsZkNCWnhXZlhPZ25HdzNiS1RkRng5T1VyVXp4QmJsY3VYdmhCb0pNbmhFWkRzOVYzX1Z0TmRCdElzUGpieWJBQ0c4Zkx4N1ZFQVlBOHlnYlEwdlRlVEZzTkkxUGV1NWNxNC1rN0dWTU9VMXFKTzVFN0xqZzAwRWR1d3NnSVlOZXhpenZRX2VzbHZTWWtFTVk3cDZWNTFqNThJRVljc2FjRXFRdjhEOG1wOV9VaUt6bm1ud2c?oc=5",
-      "date": "2026-11-21T04:55:15Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Niedziela handlowa 22.11.2026: sklepy otwarte 22 listopada czy obowiązuje zakaz handlu. Czy jutro jest niedziela handlowa? Forsal.pl."
     },
     {
       "title": "KPO wygasa, Niemcy rosną słabo. Polska szuka nowych źródeł wzrostu PKB",
@@ -2108,12 +2084,36 @@
       "summary": "CYBER_FOLKS SA (35/2026) Powiadomienie o transakcjach w trybie art. 19 MAR BiznesRadar."
     },
     {
+      "title": "Ile kosztują euro, dolar i frank? Kursy walut 20.11.2026 - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOalVUaEJRTHlVLTMwZER2b2Q0V1hFLXVDUDNBUjg4ellwTDVNM3EtN3kzRU8xLXRRN3NPTVE4WUl5dEVXNHUwb3ZFZlJScjZxa1hUZWRGc0J4SjR5TlRYaHc0ZVJPNG45a2hLVjRHY295ZERnRUZRQk5saktCNmlSVUpCbkFmaTdZd3pZaHRROWdiVXpIZkJ2b2wzczZDdzhSSDh0Q0FOZS01VDBL?oc=5",
+      "date": "2026-11-20T16:36:26Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Ile kosztują euro, dolar i frank? Kursy walut 20.11.2026 Forsal.pl."
+    },
+    {
       "title": "Nowe e-usługi dla kierowców od UFG – dzięki nim szybko sprawdzisz OC pojazdu",
       "url": "https://www.money.pl/ubezpieczenia/nowe-e-uslugi-dla-kierowcow-od-ufg-dzieki-nim-szybko-sprawdzisz-oc-pojazdu-7351681604048928a.html",
       "date": "2026-11-20T16:34:26Z",
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Więcej sposobów na sprawdzenie OC pojazdu, a także możliwość pobrania historii ubezpieczenia i szkód swojego pojazdu, która może się przydać np. przy jego sprzedaży – to tylko kilka korzyści z nowych, cyfrowych rozwiązań wprowadzonych przez Ubezpieczeniowy Fundusz Gwarancyjny (UFG). Uruchomienie nowej odsłony portalu UFG.PL to część większego projektu Platforma eUFG, którego celem jest dostarczenie obywatelom praktycznych i intuicyjnych usług bez zbędnych formalności."
+    },
+    {
+      "title": "Dobra wiadomość dla seniorów. Aż 550 zł dodatku pielęgnacyjnego - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGFDTFI0NGJVNE44VFJNS0JGVmFGR0J1U2VaY1lBdjBVMGZzeEJtUThCQlVrWmpMcXpDcTNZc2gwd2RDNVYyVFZGUVRQdldMOGRGSDRSMUNOMlRCZnNWTUN2Vm9hUkRpNUx6WE50TTlfekxUX28tdkRlTkZBWHJiRXEzcUhzakNkQW12S2dRNWU3Yk5pbnBPVVNsT3VpVWpYX0FndU9PMmdiLWxWN0RxeQ?oc=5",
+      "date": "2026-11-20T16:15:00Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Dobra wiadomość dla seniorów. Aż 550 zł dodatku pielęgnacyjnego Forsal.pl."
+    },
+    {
+      "title": "Czujnik emisji spalin będzie mógł zablokować uruchomienie silnika. Euro 7 od 29 listopada - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX2d0UTBSLWtIM1N4ek1YV1VBR21rMnBFQ3dZYzhEbU1tWGxkaGlKY3Y2ODhSNjFFQ1hVM3NsYmlXRkFvVm5QdFc2a2I5NEVPMmZTUzltYUZtV2JMMnlUdHUxOTVaeWN3OGEtZEVJc3V5UnRfSGMyUVN1cFZscnZJaGM3Vi0zdjNmVldneElYcEI1Z2xqekZGU3BzZ1ZVemZ0Rlc3V1dwNzhpcU8yNHFmSUMxQkhPT2lDMlpmZmRaWlpyQVhkSE5JSVE3dHlzVms5ckpYR3plUXNuZ2RwZ0VF?oc=5",
+      "date": "2026-11-20T16:15:00Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Czujnik emisji spalin będzie mógł zablokować uruchomienie silnika. Euro 7 od 29 listopada Forsal.pl."
     },
     {
       "title": "Wyniki finansowe Benefit Systems za III kwartał 2026 roku i plany rozwoju - czat inwestorski z przedstawicielką spółki",
