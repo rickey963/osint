@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T12:07:12Z",
+  "last_updated": "2026-11-23T12:07:57Z",
   "poland": [
     {
       "title": "Maksymalne ceny paliw we wtorek 24 listopada. Tyle będą kosztować benzyna i diesel",
@@ -1410,6 +1410,22 @@
   ],
   "cybersecurity": [
     {
+      "title": "Nowość od sekuraka! Wireshark Expert ze zniżką na Black Week",
+      "url": "https://sekurak.pl/nowosc-od-sekuraka-wireshark-expert-ze-znizka-na-black-week/",
+      "date": "2026-11-23T12:06:36Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Cześć! Black Week z sekurakiem trwa w najlepsze, ale nie zapominamy o nowościach! Tomek Turba właśnie przygotował nowe szkolenie Wireshark Expert – od podstaw monitorowania i optymalizacji infrastruktury sieciowej do zaawansowanych analiz powłamaniowych i zapowiada się, jak zwykle u niego, rewelacyjnie!&#160; W wielkim skrócie: sześć (dwugodzinnych) skondensowanych i mega praktycznych..."
+    },
+    {
+      "title": "Dowolna złośliwa appka na iOS mogła sobie słuchać mikrofonu",
+      "url": "https://sekurak.pl/dowolna-zlosliwa-appka-na-ios-mogla-sobie-sluchac-mikrofonu/",
+      "date": "2026-11-23T12:06:20Z",
+      "source": "Sekurak",
+      "confirmed_by": 1,
+      "summary": "Taką podatność zgłosiła do Apple niedawno ekipa z Mety. CVE-2026-65339: dowolna złośliwa appka mogła sobie słuchać mikrofonu, bez proszenia o zgodę + nawet bez pokazywania charakterystycznej żółtej kropeczki na iPhone. Normalnie proces, który daje appce dostęp do audio (audiomxd) prosi o odpowiedni token dostępowy."
+    },
+    {
       "title": "Rząd ogłosił sukces. Polska z rekordowym awansem w rankingu e-administracji",
       "url": "https://cyberdefence24.pl/technologie/rzad-oglosil-sukces-polska-z-rekordowym-awansem-w-rankingu-e-administracji",
       "date": "2026-11-23T11:15:47Z",
@@ -1706,14 +1722,6 @@
       "summary": "Bot-based buying is here or not, depending on where you stand in the Amazon empire."
     },
     {
-      "title": "PHP 8.6: Things are gonna get a lot more strict around here",
-      "url": "https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486",
-      "date": "2026-11-20T23:28:47Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Like a parent disciplining a misbehaving child, PHP’s annual update clamps down on loose default behaviors to curb malicious hacker horseplay."
-    },
-    {
       "title": "Weekendowa Lektura: odcinek 703 [2026-11-20]. Bierzcie i czytajcie",
       "url": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-702-2026-11-20-bierzcie-i-czytajcie/",
       "date": "2026-11-20T18:57:18Z",
@@ -1820,6 +1828,14 @@
       "summary": "Najważniejsze cele transformacji energetycznej w Polsce to dostęp do taniej energii, bezpieczeństwo, zrównoważona energetyka, a także udział w łańcuchach dostaw - wskazał w poniedziałek wiceminister energii Wojciech Wrochna."
     },
     {
+      "title": "Podwyżki dla nauczycieli już przesądzone. Tyle zarobi nauczyciel początkujący - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWdtWVZIUzNRRUdVaWEtWVV0aVctR2VyRkVUVTJObTRoSzB2eXAwZnBiWDJRVG56YVNUcW1sVGZiLXczMjlUTDB4UmM4MG91X0tkTmJfbW1RMjA2MjAyZ2JYQ2dWVjVtV3JZVExrU3NNSG1aMm1RQUllZWtaTWdkdnVVZk5oY1JVWVlpVHdKamVvTXg3anFEb1REcVR3TzhVMUxNRUpvSnBMd1VUdjFrYzBEenBaYUxWUEV5cEpjQjhQQjRjWFE?oc=5",
+      "date": "2026-11-23T11:52:59Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Podwyżki dla nauczycieli już przesądzone. Tyle zarobi nauczyciel początkujący Forsal.pl."
+    },
+    {
       "title": "Komunikat ESPI EUROSNACK SPÓŁKA AKCYJNA (eurosnack): Zawiadomienie o transakcjach wykonanych przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbHhmQ1BWTlZFNk1udmQzYUlGTTlzaVQ1MXNxUjVZM3RhQ24zVTJyQVNiVHEzZmpVWVRDRDlTNEQ0S2U2T0I1NzdsVTJaVGJzMGVXTTdyY3dKeWdmdDZnMHVTZm95ZWpQNWp0T29rLUtadTFhY2FXWWFORGppcU1xZE91VnF1WjVadUlwU0VWOEsyblVPcGFmU3UwMXRJdVRyZGhfZEhwb2RQekswX00ybWh5VG9VR241ZWdzTU53NVUwQ1N0TXdlTkoxak4zWS1FSUNycEJJWGtwUQ?oc=5",
       "date": "2026-11-23T11:48:03Z",
@@ -1834,14 +1850,6 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "Polimex Mostostal: portfel zamówień może się zwiększyć StockWatch.pl."
-    },
-    {
-      "title": "Nauczyciele zmieniają zawód. W tych branżach mogą zarobić znacznie więcej, a ich umiejętności są na wagę złota - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxONW1GQ0ZyS0paaDN2R09NcTVfLXVpOVYtTV9HWTBDRVQ0Mzg3YVRKdTBwckVVcl9Fa2w3RXk1VkFLaHBVOEUySVZsSS10QlJFVllrVk9JUTl1V1dxVWNRX0dIYzRCZkE0SzNJaFVQelc3QmRjS3FEVTJJb0xEem9JQmFTSW9GN2hlbkxCdm9EbGR4c2pOaXduY0RzMGpoOVBGekdFVjIwV3RGbVJwdmVmM3VXNzFlSFZSSURWTWhyQVYwZW02VHNCRXVMSlhXV2Q4aVhqakItaF9nNHhHaW5UeEg0cC1SQkNmZmpPOFFLdjFjNVBIZmJDZDZETlJXQjh5VFJoMEY5TzRJS1ZIMVZWLUp5LWlzQTZOb01WeVhtT3dtWWV6SFFKQ3UwcmMxMzFKRkE?oc=5",
-      "date": "2026-11-23T11:33:46Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Nauczyciele zmieniają zawód. W tych branżach mogą zarobić znacznie więcej, a ich umiejętności są na wagę złota Forsal.pl."
     },
     {
       "title": "Szef NATO chce zmiany języka wobec Rosji. „Hybrydowe” to za mało",
@@ -1868,12 +1876,12 @@
       "summary": "Rosjanie prowadzą w mediach społecznościowych kampanię rekrutacyjną skierowaną do mieszkańców kilkudziesięciu państw – wynika ze śledztwa mołdawskiego portalu Ziarul de Garda (ZdG) i odrębnego badania mołdawskiej organizacji WatchDog. Celem jest pozyskiwanie cudzoziemców do armii walczącej przeciwko Ukrainie."
     },
     {
-      "title": "Polska chce potężnej broni, której boi się Rosja. Ukraińcy już komentują - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMW1keW44WGJhTE1icXRwNkZQVGNEZkVLaG84aE9FSHl2Sl9YOVJVTC1XTU9LdjEtMmcxVzhLaW84ODZrOHp1VjNONDk3X3N1LUh6RXhqMl96SkdEamlqUzRDQjFFLUdNbDhBR3QwcjZzNVUwMGZmM3FiVVlsaWxzMzkxZDNmc05wcG5Yak44eGtTQnBLOTV1UF9TS1ZaUGl5S1BTcDA0N1U5UzlvU2FQTDc1OTU1Y3RaT1Exdi1EQUN6U3lvOGVwZnlwOA?oc=5",
-      "date": "2026-11-23T11:23:33Z",
+      "title": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZGIyWkdMRXRIT1I4NVJ3R1RnSEVaaGZNdE1RV3hlbTJZRWR2bG4tZmVhVGx3ak1CYUNrR0xqczA3UWl1LS1WMTUtNzJGc3ZpMzhxaS1fS2VTS2NsTm1jZGh2NTFMTFllRHdnUjhjQTF2dDZlbl9TdGc4QndDVWNqUUd4ZmNiZkRVN2puYTVuVnp0dE5OY1hjRXJ5QV9BM0ZsNzgzdHo2MHBFM3ZyYi11WXVWbjJhc2w0MkxDOS11dWVMX21TZEhOZ2x6RVFacjBjRmREOFdYYWNjZnpzN2c?oc=5",
+      "date": "2026-11-23T11:28:56Z",
       "source": "Forsal.pl",
       "confirmed_by": 1,
-      "summary": "Polska chce potężnej broni, której boi się Rosja. Ukraińcy już komentują Forsal.pl."
+      "summary": "Koniec limitu cen na stacjach paliw w całej Polsce. Droższe paliwo od tego momentu Forsal.pl."
     },
     {
       "title": "Bomby w 450 szkołach? Niemiecka policja bada masowe pogróżki",
@@ -1916,6 +1924,14 @@
       "summary": "Wyniki finansowe Grupy KGHM za III kwartał 2026 roku – czat z Piotrem Krzyżewskim, Wiceprezesem Zarządu ds. Finansowych Czaty pon., 23.11.2026 Obrazek."
     },
     {
+      "title": "Trzeba zapłacić podatek od paneli fotowoltaicznych. Zmiana w przepisach wskazuje na konkretne sytuacje - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVDBmWjh0ZzNHYmtHZmY3QVZFUXhLQkdYN0FPWHA1UVk4NWUtQUNaODhNcWFET242VU0tbDViR0tyUkNrak5pQ3E0S2xRQ0t1U2tRWm1nR2lpLWNoTlNSbXQ3b0gwUU92eDNGT0JoN0h6YmZsU3dDdkY0NTN0REhuc242NmhkazJNQlNFcG8tRzQ5R1I0bEZ5YWVsM0NzWVdIOXRrZE9Sd2taQ0hRVTNqeTZaN0JyakVDc0RzeUVsSnNTR2FKSVFtQm81M2Y4NTloWUVkbWhHOENpd3ZVM3YzbFJpaFgtX2V4VlF0MUc5bHFsUUk0cXFlWA?oc=5",
+      "date": "2026-11-23T10:52:57Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Trzeba zapłacić podatek od paneli fotowoltaicznych. Zmiana w przepisach wskazuje na konkretne sytuacje Forsal.pl."
+    },
+    {
       "title": "Komunikat ESPI T-BULL SPÓŁKA AKCYJNA (tbull): Zwołanie Zwyczajnego Walnego Zgromadzenia - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcU5IT1BsdHNtamtZeEhsQUxPUndBVE1LamJ2MnVUWVI1TG82RW1iaFN2ZDVWcFRudzN5Yi1Hd19sb3dZOVNPMGQxV0dkTnlCbjZXS014WGJxUFp5YWloS3hTcTcxVVZzcEQtVjU1UUN0LTc0YVZHRGdySUxKRDN2NDB1c0Q1S2c4NmY5djEwWHNzbmItd01SLVIzN1RiTVhpRjdZUWRndGhXcURkWXpLTGh3X1NIYUZITnhaczBjVDkta3dJRi1ySTN3ZjUxX3M?oc=5",
       "date": "2026-11-23T10:44:49Z",
@@ -1940,14 +1956,6 @@
       "summary": "Budimex: umowy na wały przeciwpowodziowe za 97,38 mln zł StockWatch.pl."
     },
     {
-      "title": "Płacisz rachunki za prąd w TAURON? Sprawdź numer konta na fakturze - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYnhYY1ZYTVhuUkUzWFJ0UTFWRkpFYTFSajBFVEpsZU80Y0pna2lUT1BmSmRtSm1KbmNoM3JPeTdqM0FKSFNGYmhqTDFMNGNiQVZjU0tCS3dVYlRJVTZsREVHalh2dlBjdmFVUFdnUm5IcTRiNHlRaERrQnhUMjdHYzJUMWVuaExIenhHYlVfRG9SUFgta3Ffc3Zhd3hTSkFIN05ocklLbGFqbV9iMkJzbnl6YUlXUGY0V1lQUktacGNuVnFXQWNFTTV1SWo?oc=5",
-      "date": "2026-11-23T10:23:22Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Płacisz rachunki za prąd w TAURON? Sprawdź numer konta na fakturze Forsal.pl."
-    },
-    {
       "title": "Najgorszy tydzień na Nasdaq od 6 lat. Dlaczego inwestorzy wyprzedają spółki technologiczne",
       "url": "https://strefainwestorow.pl/strefa-global-market/spolki/najgorszy-tydzien-nasdaq-od-pandemii",
       "date": "2026-11-23T10:20:21Z",
@@ -1962,14 +1970,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Donald Trump zaprosił w niedzielę na kolację posiadaczy swojej kryptowaluty $TRUMP, choć jej wartość mocno spadła. Jak ustalił \"The Washington Post\", do grona zaproszonych można było trafić, kupując tokeny za 518 dolarów. To nie jest pierwsza taka inicjatywa prezydenta USA."
-    },
-    {
-      "title": "Miesiąc bez składek ZUS? Tak, ale wniosek tylko do końca listopada, żeby skorzystać w tym roku - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTVpXNTJMRUVGMDg3T0FSb0lyaVhCLWJnQ3ZLcjRKaUVRSkppbWpzLUMtOUQ0LWlIMVFfa2pLYnJLYnlobGRMZkxUNkFYWHBDX3lFY0ZHLXhlc2Ezay10M2FweTc4MXdEUHZNd0tXWkxrcmJOS2FjeVNZbHRKRlhxc19teTVzek1ieFUxRmFNUmYwS2x4SDRNMzJJRzBQVlI2aElkU24wLXU3cUxySW5Nd0NyNXdmZUVmUTR5VkFWVHl1SExuM0RCWWdDOGVrUWUyS0ZPZXMxZGhmY1YwaW5hamFlX1p6UQ?oc=5",
-      "date": "2026-11-23T10:15:48Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Miesiąc bez składek ZUS? Tak, ale wniosek tylko do końca listopada, żeby skorzystać w tym roku Forsal.pl."
     },
     {
       "title": "CD PROJEKT RED może zaskoczyć na The Game Awards nowymi materiałami z Wiedźmina, oceniają analitycy",
@@ -1996,22 +1996,6 @@
       "summary": "Po 40-tce musisz trenować. Czym jest sarkopenia? [WYWIAD] Forbes."
     },
     {
-      "title": "Cena złota. Po ile 1 g złota? 23.11.2026 - znowu spadek czy odbicie w górę? - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUt4WlZaYXRnQ0QwTjJCM2ZZcHBVUEhiSW8xbU5yNXh5MjF2cDRwcEs1NnFBMDBjakhYeWRsWVZSWnFSdHhtNy1rWlJPMTRvSTFacHlOYnM5a3c3UXh3UWRUNEE0LVk1cnlfUk1zblJpVkhBQjYxcUVYSlFKSWwzTFVINHc5RS1SR3kySjV1T2ItclI4d1VhWEVRNUYxNlJRRHBXcmpQNmdJeFk2VDJ3UmFnbS0zeTJaTEEyUF9XMXpCa2ZNcVE?oc=5",
-      "date": "2026-11-23T09:56:10Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Cena złota. Po ile 1 g złota? 23.11.2026 - znowu spadek czy odbicie w górę?"
-    },
-    {
-      "title": "Wybrano producenta maszyny do budowy tunelu pod Odrą na S6 - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPalhqWTloWkZCRUxSZERaeVlLN2FTSFJtMUhfTFpFdjJWSmFjd3kyUjl1VUlORnd5RnhtN0RnVlBGNHpxVmZnQWZvN1JqRk9XUGQyWTRnaWV6SzJDRzUzOWFobXBXb3NQOG5NM0gyOWpmc1hoWldUVGdwenNNQ2N3UFZMS3dmUzlsVGExNXM5WnBJUDljZjJrWmJUZDFGcnljR3ROakdSbzZKXzZoQkc0NjVCck10QQ?oc=5",
-      "date": "2026-11-23T09:48:08Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Wybrano producenta maszyny do budowy tunelu pod Odrą na S6 Forsal.pl."
-    },
-    {
       "title": "Drugi i trzeci stopień alarmowy w Polsce. Służby w stanie najwyższej gotowości. Jest apel do Polaków - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN2pqU2NXT3ZQUS1ydUR3UXc2bFZ3WE44dGg5Z3NoWlhQMklXX09XX25uMFVReGtjRHVIRlZ3bWVsbGVEc29VeDQ0clcwNm9ZQS1LZVJRaVpYVDZFWEJYUk5SSlQ2OGFleFRqZ19ycHo0bUEyWG05RXZLUFN5ajZDMHB5cXkxZXBFZktSOGlMbFZfaEhIcHU0aEFscXQyOFE3MG9oeWVOWGRPb2dVVzJ5eEp1MnpiMEQxZ29hdVR1UmNQRFFzTWJqVmk3MVpiZ090SnpNclJhRnRXalFIeldYdUE4U2lhV0tLemxvYU1WZEE?oc=5",
       "date": "2026-11-23T09:16:52Z",
@@ -2020,12 +2004,36 @@
       "summary": "Drugi i trzeci stopień alarmowy w Polsce. Służby w stanie najwyższej gotowości. Jest apel do Polaków Forsal.pl."
     },
     {
+      "title": "Gorzka niespodzianka dla korzystających z kominków i centralnego ogrzewania. Trzeba będzie zapłacić wysoką grzywnę - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxON0hyRS1ZNVpuQ2ktMGRoQXdPV3hGenNHVXRkYXg1aXczNzR4ZzRNVGF5M1NVRXdXVlJZSW4xWk5ER214OU05QTZmeGg0eUl1azktNUtCelRYWDM5N1Z6T1FOMXJ1NGlfZWxtQ2JkS0dYT1JLX21xTVo3cmo5cEFkdV9NdTFxMV9wLVNYS2hMVU1hUUNhYmJoNUo0UkFxTWxNT3YxQU1uNDllVjdVeEZWcTlQV3JmOWNIanRQZUJjUFFfMUd3RVFFbGhibElRRE95NzlZcFBZMUtMLTZOb0VDY19xN0FKSDhLdklIN0tmaDBDRnVZNVBjQTBfX0RpVE1o?oc=5",
+      "date": "2026-11-23T09:09:27Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Gorzka niespodzianka dla korzystających z kominków i centralnego ogrzewania. Trzeba będzie zapłacić wysoką grzywnę Forsal.pl."
+    },
+    {
       "title": "Wieloletni buy-back w MCI idzie pod głosowanie NWZA. Spółka może skupić w celu umorzenia ponad 2,6 mln akcji - BiznesRadar",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMGpHR3lEaGJjV0FmLW9GZmZ2S0NQLVc5WXpOQ3ZvWWMzQmNpOHQwdlVkOVVVQnM1NUNqenFKU1RSWGhISmk0cFJEc0Noc3Atd0I4QzI5MzMzcG84c1dUT2xLelBENkprdXdKRmJETHVQUV96RGRQODdmOS1GOTBqX1hGTGRpTklRUEdVdkJkNEFuWWpPTVhONmd0X3p1UjNBQTgzc3JhYmRfTU1TUm9tcmpFY21Ua0RGYVh1aWQwalNWOFFiUFBoaGl5TEVrWC1MSnFyckh1NDllRFk?oc=5",
       "date": "2026-11-23T09:06:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "Wieloletni buy-back w MCI idzie pod głosowanie NWZA. Spółka może skupić w celu umorzenia ponad 2,6 mln akcji BiznesRadar."
+    },
+    {
+      "title": "Dopłaty do kredytów i państwo jako deweloper. Tak PiS chce walczyć z problemem mieszkaniowym w Polsce - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVU9uMGpjLTJTZFFhaEFOc2FaaDFYSHd4clkwX1NZRGNwalhjdGRXcW5WM0xJZmtZMlRrVnNhT3VudmdRNkdCZUtPQVdLYmtfMXBKWTBXeHhmZU5JZmh3SGk5Y2VhdldWTUxrOEJRX3JEbE91aTczRTMtcmZtZFZTU3JVT2xyMXZmZW92YmVzR2ZRM2w3Rnh5SURFZXkxeWk1U0k3SkQ0MVFObkwzWXc3ZWVsVmNqRjhsV1F2NjUwM0NtZG05anc?oc=5",
+      "date": "2026-11-23T08:42:05Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Dopłaty do kredytów i państwo jako deweloper. Tak PiS chce walczyć z problemem mieszkaniowym w Polsce Forsal.pl."
+    },
+    {
+      "title": "Nie 65, a 70 lat, ale z opcją dobrowolnego przejścia na emeryturę dla wybranej grupy zawodowej. Ustawa na biurku prezydenta - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMW9Vc3JiWDhSbkZmZTVnUGVnbzFrMHRNVklycFpSY1J2T2k4Nkh1RVYzZDlLOVVqM1FUVkF4S0RJY3hDMVhnT3NwQXNkaUVQV3FHOUVpT043NjE4bWFxMDB6RUhYLVFJYjg5MEZxWC13VlZLS3h2WFExM00tZjJPSlRsZUNQNGRYdWZYam5MT0dPUk1FSFpPeF82OUJKbGEwc2N1X3dqMHFiTVFXX0xkanNWUTU5NUNCc1VtNlJ5bEdsTm5FR1ZWWF80U0xwWEp3dWhsazVrVEdwbVlmMzZvdk92TUgySkFITmVCeE9SSXNROTFGT1JBUlFXV0xPVzhPbVJSWHJ2MjF4Zw?oc=5",
+      "date": "2026-11-23T08:34:40Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Nie 65, a 70 lat, ale z opcją dobrowolnego przejścia na emeryturę dla wybranej grupy zawodowej. Ustawa na biurku prezydenta Forsal.pl."
     },
     {
       "title": "Miliardy złotych na mieszkania w Polsce. Oto kto skorzysta",
@@ -2180,14 +2188,6 @@
       "summary": "Komisja Europejska przedstawiła projekt Digital Fairness Act, który ma uderzyć w manipulacyjne rozwiązania, które stosują aplikacje i serwisy cyfrowe. Na liście są m.in. fałszywe powiadomienia, domyślnie zaznaczane opcje, utrudnianie rezygnacji z subskrypcji oraz mechanizmy zachęcające do kompulsywnego korzystania z aplikacji."
     },
     {
-      "title": "Wiadomości Brent Crude Oil Spot - Ropa Brent (BZ.FUT) - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DTWU4VVpRdVJkWGFoY3c1N1BKenVOTExNa0lacFZ0YloxUEgyc3NsMWtDbjB6cXZBSHlLeC1VNjlSMTE4VzlHZW5PZFd5eUdxUVdEZlNjRjFyanZLb3ZmTjktcFRfaC0zWFE?oc=5",
-      "date": "2026-11-20T21:58:58Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Wiadomości Brent Crude Oil Spot - Ropa Brent (BZ.FUT) BiznesRadar."
-    },
-    {
       "title": "723 mln zamieniło się w 170 mln zł. Biedronka przegrała w sądzie, ale kara mocno stopniała",
       "url": "https://300gospodarka.pl/news/723-mln-zamienilo-sie-w-170-mln-zl-biedronka-przegrala-w-sadzie-ale-kara-mocno-stopniala",
       "date": "2026-11-20T19:37:29Z",
@@ -2202,6 +2202,14 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Przepisy RODO (art. 37 ust. 6) dają przedsiębiorstwom pełną swobodę – zamiast tworzenia osobnego etatu inspektora ochrony danych, można postawić na zewnętrzny outsourcing."
+    },
+    {
+      "title": "Notowania WIG20 - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51c0ExTTh0TGdadS1ib2RjNnVSU1N0STRueV9lcmZfTTM0MnhsZGJscl93MXkwaG5aa3JnUy1MWVdiSnY5cUN0ZGFyRjNNenZIS2dZdw?oc=5",
+      "date": "2026-11-20T16:15:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Notowania WIG20 BiznesRadar."
     }
   ],
   "critical_alerts": [
@@ -2500,22 +2508,22 @@
       "2026-11-20"
     ],
     "prices": [
-      30277.28,
-      30390.12,
+      30287.78,
+      30400.66,
       27354.94,
       27400.36,
       27412.11,
-      30823.56,
+      30834.24,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      30025.24,
+      30035.65,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      30219.29,
+      30229.77,
       27686.17,
       27404.78,
       27351.97,
@@ -2524,7 +2532,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29904.39,
+      29914.76,
       27930.04,
       28234.04,
       28218.36,
@@ -2533,81 +2541,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30804.57,
+      30815.25,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      30325.95,
+      30336.47,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      30140.08,
+      30150.53,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      30456.2,
+      30466.76,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31545.67,
+      31556.61,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31660.01,
+      31670.99,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      31207.06,
+      31217.88,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      31359.1,
+      31369.97,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      31386.92,
+      31397.8,
       28449.73,
       28313.03,
       28272.33,
-      31136.34,
+      31147.14,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      31109.99,
+      31120.78,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      31487.8,
+      31498.72,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      31403.67,
+      31414.56,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31764.85,
+      31775.86,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      31146.35,
+      31157.15,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      31000.93,
+      31011.68,
       30100.92,
       30418.01,
       30609.55,
