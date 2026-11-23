@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T23:28:33Z",
+  "last_updated": "2026-11-23T23:29:26Z",
   "poland": [
     {
       "title": "\"Doszło do naruszenia przestrzeni powietrznej\". Komunikat wojska",
@@ -766,6 +766,14 @@
   ],
   "world_politics": [
     {
+      "title": "Deadly Fire Rips Through Candy Factory in Indonesia",
+      "url": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+      "date": "2026-11-23T23:25:56Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours."
+    },
+    {
       "title": "Democratic Rep. Jimmy Gomez resigns after Ethics panel finds evidence of sexual misconduct - AP News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkIzeGhIdlZKM1NTNnVWN3V1eHhyZEtkcU9zd2F6ZFpuc0ZyWUVScHRmT0I0VTU1NlFBYXFTc1U1NmVPSnVwWVZUS3dQd3ByRTg5MERGaUhheE15UFdpQWYtZ0ZYdTNMR3Nmb3BIN09KTHZYZm9yWVdqME03UGdqMHl6T0QtbjJCOGtSX0JQem16ZGotM2dsdXVaN3piZWNqZDhTb01hU2lKcmxFc1lqSlFPMkg?oc=5",
       "date": "2026-11-23T22:44:00Z",
@@ -836,14 +844,6 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "FIFA picks US to co-host 2031 Women’s World Cup and UK for 2035 edition AP News."
-    },
-    {
-      "title": "Deadly Fire Rips Through Candy Factory in Indonesia",
-      "url": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
-      "date": "2026-11-23T19:38:00Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours."
     },
     {
       "title": "Greece’s oldest modern-era museum reopens on the Acropolis after a major restoration - AP News",
@@ -1410,6 +1410,14 @@
   ],
   "cybersecurity": [
     {
+      "title": "Inception - possibly a ShinyHunters reboot - claims seven victims in a week",
+      "url": "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768",
+      "date": "2026-11-23T21:52:23Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Whatever they call themselves these days: be on the lookout for voice phishing attempts."
+    },
+    {
       "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times",
       "url": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
       "date": "2026-11-23T21:17:15Z",
@@ -1632,14 +1640,6 @@
       "source": "The Register",
       "confirmed_by": 1,
       "summary": "Xfce lines up 4.22 for 2027, while MATE gains an Ubuntu-based distro and a compositor of its own."
-    },
-    {
-      "title": "Airbus may be leaving Microsoft Office, but for its 36,000 defense staff, Office isn't leaving them",
-      "url": "https://www.theregister.com/applications/2026/11/23/airbus-may-be-leaving-microsoft-office-but-for-its-36000-defense-staff-office-isnt-leaving-them/5311325",
-      "date": "2026-11-23T09:32:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Planemaker's 2-to-3-year plan to ditch Redmond's suite stops short of the 22% who can't go near the cloud."
     },
     {
       "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
@@ -1892,6 +1892,14 @@
       "summary": "Trzeba zastanowić się, czy nie przejść na podnoszenie wynagrodzeń dla personelu medycznego o wskaźnik inflacji - powiedział w poniedziałek w Kajetanach pod Warszawą wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz."
     },
     {
+      "title": "Formacje analizy technicznej OW20X264275 GPW - ORGANIZATOR OBROTU - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ndDhMemxkbWJVczVPcWZrbVFOSzVXYUE1b2ZRZkxsSW5iYjhzQVRlclpWUXJHcU9nZGhBQUhmTDhsaHd4U0NMYXVYU3JENWU2VlFQY2oyWHdLMmhvdjJlbWxiSmVEWS0tRWVSREZfaW9nNC1i?oc=5",
+      "date": "2026-11-23T19:34:59Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Formacje analizy technicznej OW20X264275 GPW - ORGANIZATOR OBROTU BiznesRadar."
+    },
+    {
       "title": "Jakie wykształcenie ma Aleksander Kwaśniewski? W trakcie kampanii prezydenckiej przekonywał, że wyższe - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWNPUlZXMkhzWEwxUFNrcTRhcXNMRjNLQ3RnNW4xcXpMenZPbVM3WDczZ2tsODE4OTBHZ1VrRjhoVjAwdFNrd1lLQ2FZb1htNWQ5YVVVMDFaQ2Y3a1F2aVMwLVRoNHJFX0FnZTFqVUZfeXNYOGpLWUFUVl84NXVrc256RGd2RlZscU1nM0RWeF8tTmxUTVhTVVo4c2JOMzRQTXRReS1FUThkcVQ1RmpxaklrMVZQWDZVcTBYSUE0TF9pMWI0RVQ4bm1ialN6aXBqLXBFMDhQT1NKZWdPb1hXOEI3VE1RYTI1LUdnblQ4Zkt5V2laVkM0a3FrcGs3R085UGkzakhn?oc=5",
       "date": "2026-11-23T19:31:00Z",
@@ -2034,14 +2042,6 @@
       "source": "Biznesradar",
       "confirmed_by": 1,
       "summary": "BUMECH SA (71/2026) Ustalenie tekstu jednolitego Statutu Spółki BiznesRadar."
-    },
-    {
-      "title": "UNIBEP SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNzE4MzBSa1hMWHYwbExrYThmVVpWelE4eDhDdEpCNDBoSUJ5OVEtV01hNzRWNTF1YlphNkh0aEUtWHVhNkJTOEdVbi1Eai11UHlKU0xKaHZBUFd4QmdIVkljNFJBQXFyYmdlRVBqQnZPWlFoem92Z21CQzZXUkdkcU96OTJFdU9FZlVLY3FXYkNJRWtLYlQ3YXdiSnk0dw?oc=5",
-      "date": "2026-11-23T16:52:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "UNIBEP SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
     },
     {
       "title": "Nie Warszawa, nie Kraków. Katowice wygrały ranking najbardziej kreatywnych miast Polski",
