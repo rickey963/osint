@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T16:24:13Z",
+  "last_updated": "2026-11-24T16:25:00Z",
   "poland": [
     {
       "title": "\"Fundamenty zostały podmyte\". Oto co czeka polskich konsumentów",
@@ -1434,6 +1434,22 @@
       "summary": "Projektowane regulacje powinny zapewniać skuteczną ochronę osób doznających przemocy – stwierdziła w kontekście deepfake’ów pełnomocniczka rządu ds. równości Katarzyna Kotula. W odpowiedzi na pismo Prezesa UODO Mirosława Wróblewskiego wskazała, że skala cyberprzemocy jest „ogromna”, zaś jej charakter – dynamiczny, co wymaga „ciągłego dostosowywania” przepisów."
     },
     {
+      "title": "Microsoft brings serverless PostgreSQL into Fabric to bridge transactions and analytics",
+      "url": "https://www.theregister.com/databases/2026/11/24/microsoft-brings-serverless-postgresql-into-fabric-to-bridge-transactions-and-analytics/5311841",
+      "date": "2026-11-24T16:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "HorizonDB preview follows rivals' moves, with analysts warning tighter integration could make an eventual exit harder."
+    },
+    {
+      "title": "US blacklists Megaspeed hours after Jensen Huang returns to Nvidia",
+      "url": "https://www.theregister.com/systems/2026/11/24/us-blacklists-megaspeed-hours-after-jensen-huang-returns-to-nvidia/5311901",
+      "date": "2026-11-24T15:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Chip boss gets his old job back, but Washington isn't done investigating one of his former flame's businesses."
+    },
+    {
       "title": "Atak na ePUAP. Komunikacja bez konkretów [OPINIA]",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/atak-na-epuap-komunikacja-bez-konkretow-opinia",
       "date": "2026-11-24T14:53:16Z",
@@ -1442,12 +1458,28 @@
       "summary": "Atak na ePUAP był. I szczerze mówiąc tyle wiem jako obywatel. A szkoda, bo chciałbym więcej, skoro firmy lekceważące cyberbezpieczeństwo mają być „wskazywane palcem”."
     },
     {
+      "title": "Claude Ship puts AI at the helm of pull request approvals",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883",
+      "date": "2026-11-24T14:29:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Tired of waiting for a meatbag to approve a change? Anthropic has an agent for that."
+    },
+    {
       "title": "Wyciek danych klientów Microsoftu. Firma ostrzega przed kolejnymi atakami",
       "url": "https://cyberdefence24.pl/wyciek-danych-klientow-microsoftu-firma-ostrzega-przed-kolejnymi-atakami",
       "date": "2026-11-24T13:46:18Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Microsoft poinformował o naruszeniu bezpieczeństwa jednej ze swoich usług chmurowych. Cyberprzestępcy uzyskali dostęp do informacji o organizacjach i adresach e-mail administratorów. Choć firma zapewnia, że hasła użytkowników nie zostały ujawnione, pozyskane dane mogą posłużyć do przeprowadzania kolejnych ataków."
+    },
+    {
+      "title": "FCC proposes 'tit-for-tat' restrictions on foreign satellite operators",
+      "url": "https://www.theregister.com/networks/2026/11/24/fcc-proposes-tit-for-tat-restrictions-on-foreign-satellite-operators/5311889",
+      "date": "2026-11-24T13:45:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "December vote would launch rulemaking to mirror barriers facing US providers abroad, with EU spectrum plans in the crosshairs."
     },
     {
       "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
@@ -1466,6 +1498,14 @@
       "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to trick targets into entering credentials in phishing pages and approving."
     },
     {
+      "title": "9/UX brings a classic Mac feel to 9front",
+      "url": "https://www.theregister.com/software/2026/11/24/9/ux-brings-a-classic-mac-feel-to-9front/5311844",
+      "date": "2026-11-24T13:06:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "A spatial classic Finder in the style of A/UX."
+    },
+    {
       "title": "Kryptografia postkwantowa. Dlaczego należy wdrożyć ją już dziś?",
       "url": "https://cyberdefence24.pl/technologie/kryptografia-postkwantowa-dlaczego-nalezy-wdrozyc-ja-juz-dzis",
       "date": "2026-11-24T13:05:11Z",
@@ -1480,6 +1520,14 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked like it came from GitHub's official checkout tool."
+    },
+    {
+      "title": "CrowdStrike splashes $44B on Zscaler, customers brace for the bill",
+      "url": "https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877",
+      "date": "2026-11-24T12:22:17Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Record-breaking cybersecurity deal promises tighter integration, but sysadmins fear higher prices and vendor lock-in."
     },
     {
       "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
@@ -1506,12 +1554,28 @@
       "summary": "Cyberatak na kopalnię uranu Lance w amerykańskim stanie Wyoming spowoduje tymczasowe zakłócenia w jej funkcjonowaniu. Spółka Peninsula Energy uruchomiła procedury reagowania na incydent i wystąpiła o zawieszenie obrotu swoimi akcjami. Na razie nie wiadomo, czy doszło do wstrzymania produkcji uranu ani jak długo potrwa przywracanie sprawności systemów."
     },
     {
+      "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
+      "date": "2026-11-24T11:32:41Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly."
+    },
+    {
       "title": "Oszuści dzwonili z Ukrainy i wyłudzali pieniądze. Rozbito grupę przestępczą",
       "url": "https://cyberdefence24.pl/armia-i-sluzby/oszusci-dzwonili-z-ukrainy-i-wyludzali-pieniadze-rozbito-grupe-przestepcza",
       "date": "2026-11-24T11:25:50Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "W zachodniej Ukrainie działa grupa stojąca za oszustwami na szeroką skalę. Przestępcy zorganizowali call centers w swoich mieszkaniach. Dzwonili do potencjalnych ofiar i podszywali się pod pracowników podmiotów zaufania publicznego, w tym organy ścigania."
+    },
+    {
+      "title": "BepiColombo takes the long way around Mercury after software glitch",
+      "url": "https://www.theregister.com/science/2026/11/24/bepicolombo-takes-the-long-way-around-mercury-after-software-glitch/5311825",
+      "date": "2026-11-24T11:06:52Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Shortened burn leaves probe in a 75-hour orbit, but ESA says December separation remains on schedule."
     },
     {
       "title": "Kupowali opioidy i sprzedawali je w sieci. CBZC zatrzymało przestępców",
@@ -1530,6 +1594,22 @@
       "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi. \"An unknown actor has been actively looking for access tokens, secrets, and named values ​​in APIM,\" NSM said. \"It is still uncertain how."
     },
     {
+      "title": "InferNode gives Bell Labs' Inferno OS a 64-bit second wind",
+      "url": "https://www.theregister.com/os-platforms/2026/11/24/infernode-gives-bell-labs-inferno-os-a-64-bit-second-wind/5311704",
+      "date": "2026-11-24T10:09:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Plan 9's successor finds a new role containing AI agents, though its developer says those features are optional."
+    },
+    {
+      "title": "UK gov invests in defense startup making virtual training ground for AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/24/uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai/5311707",
+      "date": "2026-11-24T09:16:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Britain wants sovereign capability to test whether military AI will work before it gets deployed for real."
+    },
+    {
       "title": "Niemcy jako pierwsze użyją ukraińskiego systemu bojowego",
       "url": "https://cyberdefence24.pl/armia-i-sluzby/niemcy-jako-pierwsze-uzyja-ukrainskiego-systemu-bojowego",
       "date": "2026-11-24T09:12:46Z",
@@ -1544,6 +1624,14 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Badacze z Technische Universität Berlin przeprowadzili analizę bezpieczeństwa mechanizmu RPMC (Replay Protected Monotonic Counters) występującego na wybranych platformach x86 (w tym na laptopach z systemem Windows). Chroni on zapisywany na zewnętrznej pamięci SPI stan nieulotny modułów firmware Trusted Platform Module (fTPM) przed cofaniem (rollback). Moduły te uczestniczą w ochronie procesów..."
+    },
+    {
+      "title": "Education software supplier's legacy login system left 355,000 school email addresses exposed",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/24/education-software-suppliers-legacy-login-system-left-355000-school-email-addresses-exposed/5311622",
+      "date": "2026-11-24T08:37:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Have I Been Pwned puts a number on September's attack on Bromcom."
     },
     {
       "title": "Cyberprzestępcy oferują rzekomy instalator GTA VI na platformy PC. Kulisy operacji CyberLeek",
@@ -1600,6 +1688,38 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critical vulnerabilities are listed below - CVE-2026-134624 (CVSS score: 9.3) - A server-side request forgery (SSRF) vulnerability in N-able MailAssure's LDAP."
+    },
+    {
+      "title": "Orgs that leak data 'prioritize corporate interests over customers' says Have I Been Pwned’s Troy Hunt",
+      "url": "https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802",
+      "date": "2026-11-24T05:13:51Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Leakers move through denial, bargaining, delay, legal threats, then claiming Hunt is the real villain."
+    },
+    {
+      "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
+      "url": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
+      "date": "2026-11-24T01:46:56Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "‘Shirudo’ project promises to whip up compensating controls in a hurry."
+    },
+    {
+      "title": "Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775",
+      "date": "2026-11-24T00:18:17Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "If the AI can't explain what it's proven, are we actually any closer to understanding?"
+    },
+    {
+      "title": "Inception - possibly a ShinyHunters reboot - claims seven victims in a week",
+      "url": "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768",
+      "date": "2026-11-23T21:52:23Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Whatever they call themselves these days: be on the lookout for voice phishing attempts."
     },
     {
       "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
@@ -1672,14 +1792,6 @@
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "Taką podatność zgłosiła do Apple niedawno ekipa z Mety. CVE-2026-65339: dowolna złośliwa appka mogła sobie słuchać mikrofonu, bez proszenia o zgodę + nawet bez pokazywania charakterystycznej żółtej kropeczki na iPhone. Normalnie proces, który daje appce dostęp do audio (audiomxd) prosi o odpowiedni token dostępowy."
-    },
-    {
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-      "date": "2026-11-23T09:11:56Z",
-      "source": "The Hacker News",
-      "confirmed_by": 1,
-      "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of 10.0. The issue affects versions 0.9.1.0 and 0.9.1 Beta, and relates to an."
     },
     {
       "title": "Badacze wysłali dwa miliony spreparowanych promptów do routerów AI, zawierających baity (tzw. kanarki zawierające poufne dane). Ktoś kradnie niektóre prompty…",
@@ -1772,6 +1884,22 @@
       "summary": "Komunikat ESPI MR HAMBURGER SPÓŁKA AKCYJNA (hamburger): Zawiadomienia akcjonariuszy w trybie art. 69 ustawy o ofercie StockWatch.pl."
     },
     {
+      "title": "Magazyny energii coraz ważniejszym filarem portfela ML System - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQy03bUVVdW90M1pic0hBTms4STdHS2lnZENTaklOTGxMNWNxWW9lZ0hYeFM5QUVwM1FkNHRfTjRHbzN1VXRVR0V5TzZqV0FiNnpRczBscVNpVTVlNEMzRUtDTTIyR2pELS1aempsNzFZVmFnS1pPMVFQaWNlMC0wSFR6Z3lYRHdobnRFODFpT04tcTV3QXpHWUoxU2FSQQ?oc=5",
+      "date": "2026-11-24T14:13:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Magazyny energii coraz ważniejszym filarem portfela ML System BiznesRadar."
+    },
+    {
+      "title": "Dwa warianty OKI w Banku Millennium. Od stycznia - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdElWYW16WktMZ3VqUWpzSngyQzhYVTU1Vm8zSzd0WWZCMnhUc2FhZHJuc0ZGbFBOWkNsd0RmZlNHVVJHbmxZRmk0NG00UTl6a3NsX1MwTXJCaTBGZ3U5MWVoSGJiSUZ5ZjNoNFhmdmVOY3FtOWlhVnJoc0Mtb2FBVlMzMTBPVl9sVHBN?oc=5",
+      "date": "2026-11-24T14:07:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Dwa warianty OKI w Banku Millennium. Od stycznia BiznesRadar."
+    },
+    {
       "title": "Jensen Huang wraca do Nvidii po 12 dniach. Akcje firmy idą w górę, a Trump przypisuje sobie sukces - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDdVUnJ0ZVB0NGI1bmhEWm84QzdTYlZwU2RFWE9KenVFWWxYa1BvQ2pQc0YzUTlnWk1IRkhwdS0yR3FOOHBWU0FPcTNfd1lQZElqNjlTWHpOR3FEMEVhZ1JlSG16SGdONVZyOWRRMDRONWdSU1lqRlZpV3VodkRoczJLcXMzTFlkQlljRjFibE51OHVkWGJMQW15M3UtanNDbE1jdg?oc=5",
       "date": "2026-11-24T14:05:31Z",
@@ -1826,6 +1954,14 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Trzej bracia podbijają rynek mrożonych przekąsek w Polsce. „To nie zwykłe słodycze” Forbes."
+    },
+    {
+      "title": "Analitycy oceniają perspektywy spółek przemysłowych na 2027 rok [BR Premium] - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZElkZUJqX3YzRlg0MGRBVG5DNkhHLXRkMng3ZjBhRnFkV09VeS1fTHpfUDQycHVEUWJMRVlNRWpUc05xcWlXRnRyek9QWGU1ZVVyd3Y1dzRRdzJNYXFlb0JSdW56TDJmYl9mSkpjVldRWnRiRGRIdUtUMEg2RTRNZDI4R2N5OW11aWIwTHNWRTQ4Ylo1YzhPYUp5VS1ISGpSLXltV05MUTFnaEdaeVNR?oc=5",
+      "date": "2026-11-24T13:26:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Analitycy oceniają perspektywy spółek przemysłowych na 2027 rok [BR Premium] BiznesRadar."
     },
     {
       "title": "Banki walczą o nowych klientów. Wysokie premie, bony i atrakcyjne lokaty",
@@ -1900,14 +2036,6 @@
       "summary": "Funkcjonariusze Centralnego Biura Antykorupcyjnego zatrzymali pięć osób; to efekt śledztwa ws. wyrządzenia znacznej szkody majątkowej w mieniu Polskiej Akademii Nauk Ogrodu Botanicznego - poinformował we wtorek rzecznik ministra koordynatora służb specjalnych Jacek Dobrzyński."
     },
     {
-      "title": "PGE SA (88/2026) Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2UwZXRRNWU3M1J0WFk0d0FJOW5kOEZQOXpkdGh6em5XaFg0Zm5hMXRIamxacXlqMXZaZWhZMjQ2eF80YVN2eVhEZk5SYjM4ZE9zZ1ZhWEhfNDF5OXc3eU1xRDJ0a1hyTnQ1eGp6N1pyUXZfdW9jQmM5VDdycFBBbl9RTjlYc0RQcDdzT2dBX0k5RmFDWWlBaVFVRmlQSW1pYzZKV0RzTGU5c2FZMUdNTw?oc=5",
-      "date": "2026-11-24T12:50:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "PGE SA (88/2026) Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR BiznesRadar."
-    },
-    {
       "title": "\"Głupiejemy. Poziom IQ spada\". Ludzie staną się przez AI jak hieroglify? - Forbes",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNTJKRmYwR3RHUE9mOVgxbHNUMW9OSmJvQk44VldFZVJtQlh5RVBxQzRVVGxrelJiYkNsTENXaWpXWG5sSWxiWTU4ajhjdi16Ylo1NWNpSVpXZlFraFlvRGtJS1VybWJqMnhvWWMwUG45ckc1azNkdnRYYmN0cjhGNmxSV0RzTW9uekRweTVWWHhNdlZ3VlE?oc=5",
       "date": "2026-11-24T12:44:37Z",
@@ -1964,6 +2092,14 @@
       "summary": "Zmiany w ciepłownictwie? Szybko i prawie wszędzie! Forbes."
     },
     {
+      "title": "SYNTHAVERSE SA (46/2026) Rezygnacja Przewodniczącego Rady Nadzorczej Synthaverse S.A. - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORHVBMnZ3Um9EZEFqUWFrXzA0LXp5RmlSakRqQ1VzanBhRV92LU9yRnE3UGFIdXJCeElBbDhjLXEzV05uYWM2QVNBY3c3ZEgxVXpuTDR6T1QxcHcxOUN3OHlueklia3J2b0s0S1M5TmFKSFVvX09Oci1YcWJHaGlsNUZ4a1FXZHZEN0F3anlZRXl1VUIxdlhvRDJJSVpMZlljeko5V1VPMXE1TDBXUllZZjNNaE9EWkpLOHc?oc=5",
+      "date": "2026-11-24T10:59:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "SYNTHAVERSE SA (46/2026) Rezygnacja Przewodniczącego Rady Nadzorczej Synthaverse S.A. BiznesRadar."
+    },
+    {
       "title": "Jak Donald Trump przywrócił Jensena Huanga na szczyt Nvidii",
       "url": "https://strefainwestorow.pl/strefa-global-market/spolki/nvidia-trump-powrot-ceo-bialy-dom",
       "date": "2026-11-24T09:35:18Z",
@@ -1988,20 +2124,20 @@
       "summary": "Wezwanie na Grupę Żabka nie zostanie już przedłużone, a ewentualny przymusowy wykup będzie po 32 zł – mówi Alex Miller, prezes Couche-Tard Paweł Biedrzycki wt., 24.11.2026 Kanał Strefa Inwestorów Żabka Żabka wezwanie Treść Zapisy w wezwaniu na akcje Żabka Group potrwają do 2 grudnia i nie zostaną już przedłużone, a cena 32 zł za akcję będzie obowiązywać także w ewentualnym przymusowym wykupie. Po zgodzie UOKiK z 13 listopada wezwanie jest bezwarunkowe, a CVC, Partners Group i członkowie zarządu Żabki nieodwołalnie zobowiązali się sprzedać w nim 57,2% akcji.W rozmowie ze Strefą Inwestorów Alex Miller, prezes Alimentation Couche-Tard, właściciela sieci Circle K, odnosi się do zarzutów o brak premii za kontrolę, wyjaśnia, według jakiego prawa przebiegną wykup i delisting spółki z siedzibą w Luksemburgu, oraz mówi, co przejęcie oznacza dla marki, zarządu i planów rozwoju Żabki.Z tej rozmowy dowiesz się:Jak Couche-Tard odpowiada na zarzuty analityków mBanku i Trigonu, że cena 32 zł nie zawiera premii za kontrolę.Dlaczego zapisy nie zostaną już przedłużone i co zmieniła zgoda UOKiK z 13 listopada.Według jakiego prawa przebiegną przymusowy wykup i delisting luksemburskiej spółki Zabka Group oraz po jakiej cenie zostaną odkupione pozostałe akcje.Z jakimi ryzykami muszą się liczyć akcjonariusze, którzy nie odpowiedzą na wezwanie – od płynności po obecność w indeksach.Czy Żabka zachowa markę, zarząd i niezależność oraz co z pieniędzmi z wezwania zrobią członkowie zarządu Żabki.Czy cel ok. 16 tys."
     },
     {
+      "title": "Rekordowy portfel zleceń i wyraźna poprawa rentowności brutto w Grupie Unibep - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaDJKeElOczE1c0Y0WkRYRWhLbTJ2N3B5SlFzVDhWanEzVUpUci10R1VaNGI0czJRd2NvYWNQXzdzU2QxbW1NZnJzM0pSZ0k1TXVRb01fY2tTbk1uck1BRTQ2dW91TXNiTWgzWHRwM3NZQWNPeFZ5bm0wR3REdF9WMlRabThpTF85ZXJnS1NsTU5WOWlzcjVYVVF3M3lfa21PQXlDWUZXdERycVlJUzBON0JEVQ?oc=5",
+      "date": "2026-11-24T09:12:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "Rekordowy portfel zleceń i wyraźna poprawa rentowności brutto w Grupie Unibep BiznesRadar."
+    },
+    {
       "title": "Korekta wodorowego kursu UE ważna dla Orlenu",
       "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce/unijna-polityka-wodorowa",
       "date": "2026-11-24T08:41:23Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Korekta wodorowego kursu UE ważna dla Orlenu Michał Partyka wt., 24.11.2026 Kanał W Zielonej Strefie Treść Organ wykonawczy UE rozpoczął prace nad nową strategią wodorową, która ma dostosować ambitne cele dekarbonizacyjne do realiów gospodarczych. Priorytetem będzie obniżenie kosztów, pobudzenie popytu i rozwój infrastruktury.Redefinicja unijnej polityki wodorowej26 października 2026 r. Komisja Europejska rozpoczęła konsultacje dotyczące nowej strategii wodorowej UE."
-    },
-    {
-      "title": "LPP SA (22/2026) Informacja o transakcjach na akcjach emitenta - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZzhsQkZ4bzFhc1N3WWswem1QclphUG1fUWFTcWFsMGZsNHcwNTZRZkh5UXZSSWY3ZUMtR2lqODNVN0ZPOXZXa0ZnSVNCNDI5Nnl6OE1sWEtzLTBNX0NzQWZFNjFUalNBcDBzRXRYdzl5dW9TeFJ6Rkc2R1FMc05scklBN0VoUi1LQTlma2p4OXg4ems5QUk4SGt3emw?oc=5",
-      "date": "2026-11-24T07:55:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "LPP SA (22/2026) Informacja o transakcjach na akcjach emitenta BiznesRadar."
     },
     {
       "title": "WIG broni średniej SMA100",
@@ -2020,14 +2156,6 @@
       "summary": "Polacy chcą OKI, ale nie rozumieją jego ryzyk i limitów. Wnioski z badania „Potrzeby inwestycyjne Polaków oraz potencjał OKI” Wioletta Hass wt., 24.11.2026 Kanał Strefa Inwestorów OKI Osobiste Konto Inwestycyjne oszczędzanie inwestowanie rynek kapitałowy edukacja finansowa podatek Belki Treść Według badania połowa pracujących Polaków deklaruje chęć skorzystania z OKI, a niemal co drugi chce łączyć w nich oszczędzanie z inwestowaniem. Badanie pokazuje jednak, że brak odpowiedniej wiedzy na temat nowego instrumentu oraz obawa przed stratą chłodzą entuzjazm.Wchodzące w życie od stycznia 2027 r."
     },
     {
-      "title": "GREENX METALS LTD. (28/2026) Publikacja nowej prezentacji korporacyjnej - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeVgtVmZPQmFqUmNaTjkyNl9WeUs0cFdGNW45bnhwcVBJQUdPQ0hGTzRKX2NRWW1XS3gwNnlpSTc0eFZIa0p4SFVlRVhKU0ZELWl3SjZjVGg3Y0dKVG5pWmFzVnhjNTJXb2lpMVpUeF9yLTdkZlZWZnBPQ0IyakVHYnJNVVZFRTczUWJpbk9xenJpcXlBNnpnVUxjaDRyS3FiZFlubEQ0OA?oc=5",
-      "date": "2026-11-24T07:01:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "GREENX METALS LTD. (28/2026) Publikacja nowej prezentacji korporacyjnej BiznesRadar."
-    },
-    {
       "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 24.11.2026",
       "url": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-24-11-2026-7354368967682048a.html",
       "date": "2026-11-24T06:03:59Z",
@@ -2042,22 +2170,6 @@
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "Kurs funta szterlinga - 24.11.2026. We wtorek za jednego funta brytyjskiego (GBP) trzeba zapłacić 5.3153 zł."
-    },
-    {
-      "title": "KOGENERACJA SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcElUY3ItbDNrMGp4UC00MEVvWDlmZllhTlhhTGJsZE1zUzFvYXpvSWE3TnZBR0lwX3E4STVmMzg0NFdrV1RqM0dOZU9LQjU1dEhqRnBDblRJRFFTTWhscnpON1VlTkpuZkVabTRGU0sxemF5VngwckpSUzI4UXU5WGRuY1F0MC1iTEtHSEpWazF0aUpfVWp1V1U0bG1nTlZRbWVHSA?oc=5",
-      "date": "2026-11-24T05:24:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "KOGENERACJA SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
-    },
-    {
-      "title": "COMPREMUM SA (13/2026) Zawarcie przez Spółkę umowy pożyczki. - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmk0eEdKZXhTRHk3SmJmNU41M3VSTEdrYnktc0pUTWs2bnM1bElGV0E5bGR1YXBFaWZHX080ZndvU0NOaldxcDJxOW5XaFhLZnJHNGM2YU5EWVBVcXg3UmRJSWFsS1BySy14MGpHanpmNENrUDlRNVNnTHZHNGxkazlJMUtBQkpXOTd6Q0NzcHhxdWstRWk5Qg?oc=5",
-      "date": "2026-11-23T22:50:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "COMPREMUM SA (13/2026) Zawarcie przez Spółkę umowy pożyczki. BiznesRadar."
     },
     {
       "title": "Klikamy „X” w ułamku sekundy. Internauci nauczyli się ignorować reklamy",
@@ -2439,17 +2551,17 @@
       27354.94,
       27400.36,
       27412.11,
-      30816.36,
+      30812.57,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      30018.23,
+      30014.53,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      30212.23,
+      30208.51,
       27686.17,
       27404.78,
       27351.97,
@@ -2458,7 +2570,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29897.4,
+      29893.72,
       27930.04,
       28234.04,
       28218.36,
@@ -2467,81 +2579,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30797.37,
+      30793.58,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      30318.87,
+      30315.14,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      30133.04,
+      30129.33,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      30449.08,
+      30445.34,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31538.3,
+      31534.42,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31652.62,
+      31648.72,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      31199.77,
+      31195.93,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      31351.78,
+      31347.92,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      31379.58,
+      31375.72,
       28449.73,
       28313.03,
       28272.33,
-      31129.07,
+      31125.24,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      31102.73,
+      31098.9,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      31480.45,
+      31476.58,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      31396.33,
+      31392.47,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31757.43,
+      31753.52,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      31139.07,
+      31135.24,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      30993.69,
+      30989.88,
       30100.92,
       30418.01,
       30609.55,
@@ -2563,7 +2675,7 @@
       28841.1,
       27933.87,
       29417.79,
-      29138.59
+      29154.27
     ],
     "currency": "PLN"
   }
