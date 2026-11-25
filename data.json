@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T21:31:38Z",
+  "last_updated": "2026-11-25T21:32:23Z",
   "poland": [
     {
       "title": "Cielecka i Linda oskarżeni ws. reklam alkoholu. Wkrótce wyrok",
@@ -226,6 +226,14 @@
       "summary": "W zakładach Iowa Army Ammunition Plant w Middletown przeprowadzono kontrolowaną detonację beczek zawierających zdegradowany azydek ołowiu. Wojskowe prognozy wskazują, że po eksplozji może powstać chmura z cząsteczkami ołowiu o zasięgu nawet 160 km."
     },
     {
+      "title": "DEFENCE.HUB SA (45/2026) Zmiana stanu posiadania - PAP Biznes",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOFU1U3VGNG5hT0NhQjM4WmFYSl81Q0pJanNBaWl5WWpKdUx6aS0tTmdsU0Znal9JZlVJOS1VcHFtNlR2ZVpxTE1yVEVNSEhCc0xWOXdnRnIyd0NrYlg2VkExaDRUYjYxNXA4emJ5LUYzVWt5QnFvMmN1T2hkS2c2WXpza21RRDFHUDlR?oc=5",
+      "date": "2026-11-25T16:07:00Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "DEFENCE.HUB SA (45/2026) Zmiana stanu posiadania PAP Biznes."
+    },
+    {
       "title": "Pierwszy spadek liczby pracujących od roku. Redukcje głównie w budżetówce",
       "url": "https://businessinsider.com.pl/gospodarka/zmiany-na-rynku-pracy-coraz-mniej-zatrudnionych-w-budzetowce/0fh9yf5",
       "date": "2026-11-25T15:49:57Z",
@@ -336,14 +344,6 @@
       "source": "PAP",
       "confirmed_by": 1,
       "summary": "POLSKA GRUPA HUTNICZA SA (44/2026) Zawarcie memorandum z brazylijską spółką Hübner Componentes e Sistemas Automotivos S.A. dotyczącego współpracy technologicznej i produkcji odlewów oraz zespołów w Polsce i Brazylii | Biznes PAP PAP Biznes."
-    },
-    {
-      "title": "Dziś Dzień Kolejarza. Historyk: państwo na nowo odkrywa strategiczne znaczenie kolei - Polska Agencja Prasowa SA",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0I1cDRGMmVGbnR6S0JCcVRYa1k1aEh2QWNtWDU1amV3dHZ6WlFFQzR1YlctcGJsZXk1TzB0TEt1Z2Z0NDZRSjFTYjItWTdPdERqNFFia0trZVRZM1p1SXV5dXhnZmtIYVZPOEYwbTFOdXV6YjM4cFZvVVZOazVPUkdTUVNfNFNjUUJwb01BQUJtY0hrUWkxMFFzb3Y0TG5aYlV5bFAwZlhmZVMxbW5qTHhhNA?oc=5",
-      "date": "2026-11-25T08:28:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Dziś Dzień Kolejarza. Historyk: państwo na nowo odkrywa strategiczne znaczenie kolei Polska Agencja Prasowa SA."
     },
     {
       "title": "15-latka zapowiadała zamach w Warszawie. Niepokojące wpisy w sieci - Polskie Radio 24",
@@ -1008,6 +1008,14 @@
   ],
   "technology": [
     {
+      "title": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September (NBC News)",
+      "url": "https://www.techmeme.com/261125/p37#a261125p37",
+      "date": "2026-11-25T21:30:02Z",
+      "source": "Techmeme",
+      "confirmed_by": 1,
+      "summary": "NBC News: NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September &mdash; Gov."
+    },
+    {
       "title": "Nvidia agrees to pay $290M to settle a 2018 class action lawsuit alleging it misled shareholders about how much crypto mining fueled its GPU sales (Mike Scarcella/Reuters)",
       "url": "https://www.techmeme.com/261125/p36#a261125p36",
       "date": "2026-11-25T21:15:01Z",
@@ -1150,14 +1158,6 @@
       "source": "Instalki.pl",
       "confirmed_by": 1,
       "summary": "Osoby planujące złożenie nowego lub modernizację obecnego komputera mogą mieć kolejny powód do niezadowolenia. Najnowsze doniesienia z Chin sugerują, że sytuacja na rynku kart graficznych jeszcze bardziej się pogorszy. NVIDIA poinformowała swoich partnerów o kolejnych ograniczeniach dostaw układów graficznych przeznaczonych na rynek konsumencki."
-    },
-    {
-      "title": "Sources: an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies' remote access to AI chips (Kai Nicol-Schwarz/CNBC)",
-      "url": "https://www.techmeme.com/261125/p29#a261125p29",
-      "date": "2026-11-25T18:25:00Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Kai Nicol-Schwarz / CNBC: Sources: an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies' remote access to AI chips &mdash; Nvidia chip sellers are seeking new buyers for the semiconductor giant's hardware, three people told CNBC &hellip;."
     },
     {
       "title": "Nowe 5G trafia do Polski. To ważniejsze niż myślisz",
@@ -1410,68 +1410,12 @@
   ],
   "cybersecurity": [
     {
-      "title": "Huawei and crew tout homegrown EDA tools to overcome China’s fab deficit",
-      "url": "https://www.theregister.com/systems/2026/11/25/huawei-and-crew-tout-homegrown-eda-tools-to-overcome-chinas-fab-deficit/5312205",
-      "date": "2026-11-25T18:02:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Chip design software leans heavily into 3D packaging and multi-node assemblies."
-    },
-    {
-      "title": "Hera probe finds DART left a stadium-sized dent in asteroid Dimorphos",
-      "url": "https://www.theregister.com/science/2026/11/25/hera-probe-finds-dart-left-a-stadium-sized-dent-in-asteroid-dimorphos/5312153",
-      "date": "2026-11-25T17:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Next step is to move in for a closer look at the carnage."
-    },
-    {
-      "title": "Microsoft's NTLM security changes trip up third-party logins",
-      "url": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085",
-      "date": "2026-11-25T17:01:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "It's not our fault if you've implemented it wrong."
-    },
-    {
-      "title": "HP sees premium-priced AI PCs as its meal ticket in a shrinking market",
-      "url": "https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174",
-      "date": "2026-11-25T17:00:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "PC shipments set to fall further thanks to the memory shortage, but high-margin models for AI at the edge keep profits up."
-    },
-    {
-      "title": "US Treasury financial crimes unit becomes latest fed breach victim",
-      "url": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165",
-      "date": "2026-11-25T16:40:16Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "FinCEN takes systems offline and extends filing deadlines while investigating 'unauthorized access'."
-    },
-    {
-      "title": "NASA's nuclear-powered Mars delivery service takes shape",
-      "url": "https://www.theregister.com/science/2026/11/25/nasas-nuclear-powered-mars-delivery-service-takes-shape/5312147",
-      "date": "2026-11-25T15:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "SR-1 Freedom gets a shorter boom and larger antennas, with roughly two years to finish design, construction, and testing."
-    },
-    {
       "title": "Służby przetwarzają dane bez kontroli? Panoptykon: trzeba zmienić prawo",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/sluzby-przetwarzaja-dane-bez-kontroli-panoptykon-trzeba-zmienic-dyrektywe-policyjna",
       "date": "2026-11-25T15:21:03Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Ustawa wdrażająca dyrektywę policyjną w Polsce wymaga zmian – stwierdziła Fundacja Panoptykon. Przepisy dotyczące ochrony danych osobowych w policji, służbach i prokuraturze nie spełniają założeń i nie spowodowały prawidłowego wdrożenia unijnego aktu. Rekomendacje, które przekazano Ministerstwu Spraw Wewnętrznych i Administracji mają pomóc w naprawieniu sytuacji."
-    },
-    {
-      "title": "Microsoft fixes Office dialog that had nothing to say and wouldn't go away",
-      "url": "https://www.theregister.com/software/2026/11/25/microsoft-fixes-office-dialog-that-had-nothing-to-say-and-wouldnt-go-away/5312057",
-      "date": "2026-11-25T14:45:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Update resolves work-blocking popup, but affected users may need an administrator command prompt to install it."
     },
     {
       "title": "Wyciekły dane klientów Deichmanna",
@@ -1482,22 +1426,6 @@
       "summary": "Osoby nieuprawnione uzyskały dostęp do danych klientów Deichmanna. Znany sklep z obuwiem rozpoczął informowanie o wycieku. Osoby, których sprawa dotyczy powinny spodziewać się wiadomości ze strony firmy."
     },
     {
-      "title": "JetBrains finds agents may cheat with open source",
-      "url": "https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999",
-      "date": "2026-11-25T14:07:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "AI coding agents caught peeking at GitHub answers, stumble when JetBrains hides the crib sheet."
-    },
-    {
-      "title": "Debian wakes up wearing Windows XP's actual skin",
-      "url": "https://www.theregister.com/os-platforms/2026/11/25/debian-wakes-up-wearing-windows-xps-actual-skin/5312111",
-      "date": "2026-11-25T13:23:32Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Win4Wine runs the genuine Explorer shell atop Linux."
-    },
-    {
       "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
       "date": "2026-11-25T12:48:54Z",
@@ -1506,28 +1434,12 @@
       "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read vulnerability that could enable an attacker to access local text files readable by the GeoServer process or fetch."
     },
     {
-      "title": "Microsoft 365 Backup stretches recovery window to ten years",
-      "url": "https://www.theregister.com/saas/2026/11/25/microsoft-365-backup-stretches-recovery-window-to-ten-years/5312043",
-      "date": "2026-11-25T12:35:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Sadly, no time travel back to 2016."
-    },
-    {
       "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
       "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
       "date": "2026-11-25T12:30:08Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline."
-    },
-    {
-      "title": "Amazon to flog motors in Britain, but Prime won't deliver",
-      "url": "https://www.theregister.com/personal-tech/2026/11/25/amazon-to-flog-motors-in-britain-but-prime-wont-deliver/5312080",
-      "date": "2026-11-25T12:19:20Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Hyundai leads 2027 rollout, with a showroom visit still required to finish the paperwork."
     },
     {
       "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
@@ -1554,14 +1466,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026. The vulnerability, tracked as CVE-2026-132165 aka Fail2Install (CVSS score: 9.8), is a case of remote code execution (RCE) impacting Drupal core."
     },
     {
-      "title": "Gatwick drop-off customers' personal data exposed in supplier breach",
-      "url": "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060",
-      "date": "2026-11-25T11:16:18Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "AutoPay login and vehicle records affected, alongside limited payment information and customer service emails."
-    },
-    {
       "title": "Rak nie może zamykać drogi do kredytu. Prezes UODO interweniuje",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/rak-nie-moze-zamykac-drogi-do-kredytu-prezes-uodo-interweniuje",
       "date": "2026-11-25T10:56:12Z",
@@ -1576,22 +1480,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday. Abdulrahman Alfozan, a 35-year-old Saudi national, was arrested on October 9, 2026, for allegedly bugging the artificial intelligence (AI) company's offices with the aim."
-    },
-    {
-      "title": "The world's fastest computers have a problem: Keeping the work running",
-      "url": "https://www.theregister.com/hpc/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710",
-      "date": "2026-11-25T10:15:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "I node what you did last summer: you went down when an HPC project was relying on you."
-    },
-    {
-      "title": "Government may apply TV license fee to streaming services to fund the BBC",
-      "url": "https://www.theregister.com/offbeat/2026/11/25/government-may-apply-tv-license-fee-to-streaming-services-to-fund-the-bbc/5311928",
-      "date": "2026-11-25T09:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Controversial move could save the BBC by bringing in more than a billion in extra funding each year."
     },
     {
       "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
@@ -1656,14 +1544,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account. The WordPress plugins team has proactively detected and blocked the threat before it could be officially released. Visiting each plugin listing now."
-    },
-    {
-      "title": "Jury finds Huawei stole US tech, laundered money, and broke sanctions",
-      "url": "https://www.theregister.com/legal/2026/11/25/jury-finds-huawei-stole-us-tech-laundered-money-and-broke-sanctions/5312024",
-      "date": "2026-11-25T06:16:02Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Criminal masterminds claimed to work for ‘Weihua’ or to have source code from ‘oscic’ instead of Cisco."
     },
     {
       "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
@@ -2092,20 +1972,20 @@
       "summary": "Wyniki finansowe Benefit Systems za III kwartał 2026 roku i plany rozwoju - czat inwestorski z przedstawicielką spółki Czaty śr., 25.11.2026 Obrazek."
     },
     {
-      "title": "Reprezentacja Polski na 38. miejscu w rankingu FIFA. Z jakich klubów powołuje dziś selekcjoner Jan Urban? - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMjFEeEVNQXlsZXBUQVUzbmo0UWRFUlctYTcxN3RTZ2lkQXZneUpCTXdmQkloWGVaS1pIN2EyZWt4ZkpNQXFIS0djSU8xSk11dzNvOGVTRGY5SC1ZQ18wVmROTkdoTmUtUUpGX2hyRXJBSWZpZnZlU21NcU5FbGNYSjVXMU5FdUZBLW9qVUFwcXJ0bXExdkVNZnNmQ25lWThtTUZHSG5uc0VXd2toZXV5STJiMDlHNEZpM3BFTmJFSXFWcUUwRW1ya0Y2TUg2bS03VGVHZkZ4ZEI?oc=5",
-      "date": "2026-11-25T13:18:58Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Reprezentacja Polski na 38. miejscu w rankingu FIFA. Z jakich klubów powołuje dziś selekcjoner Jan Urban?"
-    },
-    {
       "title": "\"Klasa średnia to nie tylko dochody\". Ważniejsze jest coś innego. Jesteś w niej? - Forbes",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaW81eWgzZGxURXlkdUZqMkRaN0swRldyLW5xN1F2LVpDdlFVeUROUXc1MWtaNkFHTGVFV2ZRVWs0aTRFNk1CVjRVXzU0eWEycVdLVE5zOC1nWEwzTnlmRXRXbGRqSFpidGwtU3NtWjFpVWpIV1ZuN3VPcUVjc09IZDVhNzZTbzZoZEFqNEdrNXFDTE8wbmE4OTlEMmRyZVhDNTdGQXVuMUdaUDhjcklsam5HUWJXMG8?oc=5",
       "date": "2026-11-25T13:00:00Z",
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "\"Klasa średnia to nie tylko dochody\". Ważniejsze jest coś innego. Jesteś w niej?"
+    },
+    {
+      "title": "Studia nie są konieczne. Fachowcy mogą zarabiać więcej, niż się wydaje - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRGk3RVFlYnZyQ2JjVXp4U3BJbTZBMDlhUzJUZTY4XzA5b2NLWmwzTW5uclVzaWkxS3hJTDlIUjZCN05yOU5LaWpPTERKc2RKLTVLbHVDYTB4dE1ocVBZZDc1VTAwTUFRaEJtUnQ5T2p0VHMxdmo5Mnk1QjRoMTlVamVncjN1VVVMd05VWVZ1ckIwemh0MmRTQXBGeVcyaHE1dEdVSllfSkdTbDk0TkNFV3BqTE5wdE1teHZKNlJLUzY?oc=5",
+      "date": "2026-11-25T12:57:42Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Studia nie są konieczne. Fachowcy mogą zarabiać więcej, niż się wydaje Forsal.pl."
     },
     {
       "title": "Rosyjscy oligarchowie żądają milionów od Polski. W tle przejęta fabryka",
@@ -2523,17 +2403,17 @@
       27354.94,
       27400.36,
       27412.11,
-      30871.31,
+      30869.04,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      30071.76,
+      30069.54,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      30266.11,
+      30263.88,
       27686.17,
       27404.78,
       27351.97,
@@ -2542,7 +2422,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29950.72,
+      29948.51,
       27930.04,
       28234.04,
       28218.36,
@@ -2551,81 +2431,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30852.29,
+      30850.02,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      30372.93,
+      30370.7,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      30186.77,
+      30184.55,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      30503.38,
+      30501.14,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31594.54,
+      31592.21,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31709.06,
+      31706.73,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      31255.41,
+      31253.11,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      31407.68,
+      31405.37,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      31435.54,
+      31433.23,
       28449.73,
       28313.03,
       28272.33,
-      31184.58,
+      31182.29,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      31158.19,
+      31155.9,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      31536.59,
+      31534.26,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      31452.32,
+      31450.01,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31814.06,
+      31811.72,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      31194.6,
+      31192.3,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      31048.96,
+      31046.68,
       30100.92,
       30418.01,
       30609.55,
@@ -2648,7 +2528,7 @@
       27933.87,
       29417.79,
       29304.04,
-      29253.31
+      29251.15
     ],
     "currency": "PLN"
   }
