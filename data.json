@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T04:06:23Z",
+  "last_updated": "2026-11-26T04:07:06Z",
   "poland": [
     {
       "title": "Najlepsze systemy ERP z AI 2026 – sprawdź, które oprogramowanie ERP rozwija się razem z Twoją firmą",
@@ -24,6 +24,14 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "- Czekamy na analizę Białego Domu, nie spodziewamy się, że będzie szybka - powiedział wiceminister obrony narodowej Paweł Zalewski. Według polityka decyzja w sprawie stałej bazy USA w Polsce zostanie ogłoszona nie wcześniej niż na przełomie roku. Odnosząc się do doniesień agencji Bloomberga o możliwym opóźnieniu, zaznaczył, że nie ma o nim mowy."
+    },
+    {
+      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UGsxdmNUaHV1VUNodHJSemM1QW5sanRoZC1jdk9FYlBiQ0VDcHhJeFJpZFo2eTcyc2RGNDRwN3VEd0VOMnp0SjBpTm9GcjN3aHNVaDhn?oc=5",
+      "date": "2026-11-25T22:06:16Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
     },
     {
       "title": "Pożar cysterny na drodze w pobliżu Kairu. Dziesiątki ofiar",
@@ -232,14 +240,6 @@
       "source": "Gazeta Wyborcza",
       "confirmed_by": 1,
       "summary": "W zakładach Iowa Army Ammunition Plant w Middletown przeprowadzono kontrolowaną detonację beczek zawierających zdegradowany azydek ołowiu. Wojskowe prognozy wskazują, że po eksplozji może powstać chmura z cząsteczkami ołowiu o zasięgu nawet 160 km."
-    },
-    {
-      "title": "DEFENCE.HUB SA (45/2026) Zmiana stanu posiadania - PAP Biznes",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOFU1U3VGNG5hT0NhQjM4WmFYSl81Q0pJanNBaWl5WWpKdUx6aS0tTmdsU0Znal9JZlVJOS1VcHFtNlR2ZVpxTE1yVEVNSEhCc0xWOXdnRnIyd0NrYlg2VkExaDRUYjYxNXA4emJ5LUYzVWt5QnFvMmN1T2hkS2c2WXpza21RRDFHUDlR?oc=5",
-      "date": "2026-11-25T16:07:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "DEFENCE.HUB SA (45/2026) Zmiana stanu posiadania PAP Biznes."
     },
     {
       "title": "Pierwszy spadek liczby pracujących od roku. Redukcje głównie w budżetówce",
@@ -1410,12 +1410,76 @@
   ],
   "cybersecurity": [
     {
+      "title": "The sky was once full of stars, kids; then the FCC let Elon Musk launch a million datacenter satellites",
+      "url": "https://www.theregister.com/off-prem/2026/11/25/the-sky-was-once-full-of-stars-kids-then-the-fcc-let-elon-musk-launch-a-million-datacenter-satellites/5312268",
+      "date": "2026-11-25T22:54:07Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Approval for ‘Starmind’ granted but it’s a long way from the launchpad, or making sense."
+    },
+    {
       "title": "Zhackowali DIVD, holenderską organizację zajmującą się bezpieczeństwem w sieci",
       "url": "https://sekurak.pl/zhackowali-divd-holenderska-organizacje-zajmujaca-sie-bezpieczenstwem-w-sieci/",
       "date": "2026-11-25T22:20:13Z",
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "W DIVD aktywnie szukają znanych podatności w systemach, lokalizują podatności 0-day, mogą też przydzielać numery CVE. Raport powłamaniowy wskazuje na prawdopodobne użycie ARTEX &#8211; semi-autonomicznego ofensywnego systemu AI. Atakującym od momentu pierwszego rekonesansu wystarczyło 12 godzin na uzyskanie dostępu na lokalnego administratora na pierwszym celu."
+    },
+    {
+      "title": "The security of US water systems is even leakier than we thought",
+      "url": "https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243",
+      "date": "2026-11-25T19:40:17Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "And intruders don't always need to exploit bugs to break in."
+    },
+    {
+      "title": "Huawei and crew tout homegrown EDA tools to overcome China’s fab deficit",
+      "url": "https://www.theregister.com/systems/2026/11/25/huawei-and-crew-tout-homegrown-eda-tools-to-overcome-chinas-fab-deficit/5312205",
+      "date": "2026-11-25T18:02:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Chip design software leans heavily into 3D packaging and multi-node assemblies."
+    },
+    {
+      "title": "Hera probe finds DART left a stadium-sized dent in asteroid Dimorphos",
+      "url": "https://www.theregister.com/science/2026/11/25/hera-probe-finds-dart-left-a-stadium-sized-dent-in-asteroid-dimorphos/5312153",
+      "date": "2026-11-25T17:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Next step is to move in for a closer look at the carnage."
+    },
+    {
+      "title": "Microsoft's NTLM security changes trip up third-party logins",
+      "url": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085",
+      "date": "2026-11-25T17:01:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "It's not our fault if you've implemented it wrong."
+    },
+    {
+      "title": "HP sees premium-priced AI PCs as its meal ticket in a shrinking market",
+      "url": "https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174",
+      "date": "2026-11-25T17:00:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "PC shipments set to fall further thanks to the memory shortage, but high-margin models for AI at the edge keep profits up."
+    },
+    {
+      "title": "US Treasury financial crimes unit becomes latest fed breach victim",
+      "url": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165",
+      "date": "2026-11-25T16:40:16Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "FinCEN takes systems offline and extends filing deadlines while investigating 'unauthorized access'."
+    },
+    {
+      "title": "NASA's nuclear-powered Mars delivery service takes shape",
+      "url": "https://www.theregister.com/science/2026/11/25/nasas-nuclear-powered-mars-delivery-service-takes-shape/5312147",
+      "date": "2026-11-25T15:30:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "SR-1 Freedom gets a shorter boom and larger antennas, with roughly two years to finish design, construction, and testing."
     },
     {
       "title": "Służby przetwarzają dane bez kontroli? Panoptykon: trzeba zmienić prawo",
@@ -1426,12 +1490,36 @@
       "summary": "Ustawa wdrażająca dyrektywę policyjną w Polsce wymaga zmian – stwierdziła Fundacja Panoptykon. Przepisy dotyczące ochrony danych osobowych w policji, służbach i prokuraturze nie spełniają założeń i nie spowodowały prawidłowego wdrożenia unijnego aktu. Rekomendacje, które przekazano Ministerstwu Spraw Wewnętrznych i Administracji mają pomóc w naprawieniu sytuacji."
     },
     {
+      "title": "Microsoft fixes Office dialog that had nothing to say and wouldn't go away",
+      "url": "https://www.theregister.com/software/2026/11/25/microsoft-fixes-office-dialog-that-had-nothing-to-say-and-wouldnt-go-away/5312057",
+      "date": "2026-11-25T14:45:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Update resolves work-blocking popup, but affected users may need an administrator command prompt to install it."
+    },
+    {
       "title": "Wyciekły dane klientów Deichmanna",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/wycieki-danych/wyciekly-dane-klientow-deichmanna",
       "date": "2026-11-25T14:35:08Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Osoby nieuprawnione uzyskały dostęp do danych klientów Deichmanna. Znany sklep z obuwiem rozpoczął informowanie o wycieku. Osoby, których sprawa dotyczy powinny spodziewać się wiadomości ze strony firmy."
+    },
+    {
+      "title": "JetBrains finds agents may cheat with open source",
+      "url": "https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999",
+      "date": "2026-11-25T14:07:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "AI coding agents caught peeking at GitHub answers, stumble when JetBrains hides the crib sheet."
+    },
+    {
+      "title": "Debian wakes up wearing Windows XP's actual skin",
+      "url": "https://www.theregister.com/os-platforms/2026/11/25/debian-wakes-up-wearing-windows-xps-actual-skin/5312111",
+      "date": "2026-11-25T13:23:32Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Win4Wine runs the genuine Explorer shell atop Linux."
     },
     {
       "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
@@ -1442,12 +1530,28 @@
       "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read vulnerability that could enable an attacker to access local text files readable by the GeoServer process or fetch."
     },
     {
+      "title": "Microsoft 365 Backup stretches recovery window to ten years",
+      "url": "https://www.theregister.com/saas/2026/11/25/microsoft-365-backup-stretches-recovery-window-to-ten-years/5312043",
+      "date": "2026-11-25T12:35:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Sadly, no time travel back to 2016."
+    },
+    {
       "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
       "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
       "date": "2026-11-25T12:30:08Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline."
+    },
+    {
+      "title": "Amazon to flog motors in Britain, but Prime won't deliver",
+      "url": "https://www.theregister.com/personal-tech/2026/11/25/amazon-to-flog-motors-in-britain-but-prime-wont-deliver/5312080",
+      "date": "2026-11-25T12:19:20Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "Hyundai leads 2027 rollout, with a showroom visit still required to finish the paperwork."
     },
     {
       "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
@@ -1474,6 +1578,14 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026. The vulnerability, tracked as CVE-2026-132165 aka Fail2Install (CVSS score: 9.8), is a case of remote code execution (RCE) impacting Drupal core."
     },
     {
+      "title": "Gatwick drop-off customers' personal data exposed in supplier breach",
+      "url": "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060",
+      "date": "2026-11-25T11:16:18Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "AutoPay login and vehicle records affected, alongside limited payment information and customer service emails."
+    },
+    {
       "title": "Rak nie może zamykać drogi do kredytu. Prezes UODO interweniuje",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/rak-nie-moze-zamykac-drogi-do-kredytu-prezes-uodo-interweniuje",
       "date": "2026-11-25T10:56:12Z",
@@ -1488,6 +1600,14 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday. Abdulrahman Alfozan, a 35-year-old Saudi national, was arrested on October 9, 2026, for allegedly bugging the artificial intelligence (AI) company's offices with the aim."
+    },
+    {
+      "title": "The world's fastest computers have a problem: Keeping the work running",
+      "url": "https://www.theregister.com/hpc/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710",
+      "date": "2026-11-25T10:15:00Z",
+      "source": "The Register",
+      "confirmed_by": 1,
+      "summary": "I node what you did last summer: you went down when an HPC project was relying on you."
     },
     {
       "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
@@ -1692,6 +1812,14 @@
   ],
   "finance": [
     {
+      "title": "ATAL SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORHRxUzUtVy1tMDdPOWkzaVBpcXVUWkh1d1p0ZF93MUtENWFzTVV5SjlCU1JZbFkyMThESy14MVkxZm5XRFFweGpyN0w1UEdodWU4c1pXMTZ2X2pRNDdOTjJQWFE0NnBpZWV5WnZvTk5FY1piZl9tNDlvWFBoUE1ZYUxZVGFlMGxOcEhzV1c0SEY1SGQ3TWJ6Wm5Ucw?oc=5",
+      "date": "2026-11-25T23:07:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "ATAL SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
+    },
+    {
       "title": "Czy wiek powinien decydować o prawie jazdy? Polacy mają wyraźne zdanie",
       "url": "https://300gospodarka.pl/news/czy-wiek-powinien-decydowac-o-prawie-jazdy-polacy-maja-wyrazne-zdanie",
       "date": "2026-11-25T22:08:12Z",
@@ -1712,7 +1840,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOajBhWS12Y0ZHUHVTaEgzejd3NzlXSnB3eWhwcmhTdXhzcEZkQVlSY1Qxd3h6QzJwY2tpSG5IZ2V1UnNZTUcxY284ZEkxVzVfWFZmRzhkbFhBNDgwTGJldTNVamdkOXZDUHlRVS1BVDJlb2pSQ0xsTDRKQktvUGNzaUtvZFVISHpGNlAyeFRoRGRIeGhLSnNEc29idHNidzFwTFRobUNjSE9ldTNNSTlXZklPalFBaV9rUEtTLXl1dEhwOENwZmFDSEY1MFoxSXYy?oc=5",
       "date": "2026-11-25T20:21:21Z",
       "source": "StockWatch.pl",
-      "confirmed_by": 2,
+      "confirmed_by": 3,
       "summary": "Komunikat EBI Voolt SA (voolt): Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ StockWatch.pl."
     },
     {
@@ -1740,14 +1868,6 @@
       "summary": "Rosyjski dron o napędzie odrzutowym Gierań został po raz pierwszy zestrzelony nad Ukrainą za pomocą lasera bojowego – poinformował w środę doradca prezydenta Ukrainy ds. technologii obronnych Serhij Beskrestnow."
     },
     {
-      "title": "RESI CAPITAL/RESI CAPITAL Spółka Akcyjna (9/2026) Zwołanie zgromadzenia obligatariuszy instrumentów finansowych wprowadzonych do obrotu w alternatywnym systemie obrotu - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNUUFQclV5SklUWlJmWTlKTkh3YVVXN28tYVd6b1ZGX19PNlRzUnczem9HSk1sT29ldVRhS1FqbVYzbm9VR2xlOHN5WXZSeVREeUliSl9qZ0JuVEdVUWRHVlpRdmsySDVjc0lDajNCai05dHlaYnFvUW04VHQwOUVhVXlTMGNpTERDQ3V2X0N0X1Vad0ljckhYUW5qdHhxeGVIanlOQ2Q0SUFPdWdUUzBESXkwWkRIV1lsRERLdU9LaF9vbkQyMTctZzYzb2ZXN25WM2piYUs1aUdUUHdsNTMweFlodU4zazczejhQS0g5S1BiUVd4eEJSRmdVY3pLT0lLUWhzaVBEMDNnM1pMZnMwVFNEaWpOcFFSMl9wWVRRQkE4dWZNYnE0LQ?oc=5",
-      "date": "2026-11-25T19:01:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 3,
-      "summary": "RESI CAPITAL/RESI CAPITAL Spółka Akcyjna (9/2026) Zwołanie zgromadzenia obligatariuszy instrumentów finansowych wprowadzonych do obrotu w alternatywnym systemie obrotu BiznesRadar."
-    },
-    {
       "title": "Kolega zarabia więcej? Firma będzie musiała powiedzieć dlaczego",
       "url": "https://300gospodarka.pl/news/kolega-zarabia-wiecej-firma-bedzie-musiala-powiedziec-dlaczego",
       "date": "2026-11-25T19:00:00Z",
@@ -1770,6 +1890,14 @@
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "W Parlamencie Europejskim w Strasburgu Bogdan Święczkowski zarzucił polskim władzom bezprawne przejęcie siedziby TK przy użyciu policji i próbę zmiany ustroju państwa. – Od 30 października można powiedzieć, że jestem prezesem na uchodźstwie – powiedział podczas wysłuchania publicznego w PE."
+    },
+    {
+      "title": "Zapadł wyrok w sprawie szczekania psów. Właściciele mogą zostać ukarani grzywną na tej podstawie - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV0hBRUJ3dm9NOFJtVnJUdklXbS1TR0VWanplY2RONUVSSFZzQzNDUnEzVy1MU09nenU4dFE0TlpWS2JLNnB4R3FOU21zR1lpb0M5LWNYOHBxNXNoU0xCTm54bm1YWUIxVjF2R3d6eVRmdTREQ1Q5OWNNU0h1c25tVk1SME5GcFRkVXVSRVkwY1dfZ1kybGpJcTRGM3VrblVra1VWRi1zNmtSd0hYbWxUYUJMOTlUMU5XWjgwMzZEZ0JtZjI2TXFVbWUyS05TRU1NaU1EY25yTEJFR3dyQ2FlZUd0Z05KZ2ZW?oc=5",
+      "date": "2026-11-25T18:32:13Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Zapadł wyrok w sprawie szczekania psów. Właściciele mogą zostać ukarani grzywną na tej podstawie Forsal.pl."
     },
     {
       "title": "Grupa Żywiec zwalnia. \"Jesteśmy mocno zaskoczeni\"",
@@ -1836,6 +1964,14 @@
       "summary": "TEXT SA Raport okresowy półroczny za PSr BiznesRadar."
     },
     {
+      "title": "Komunikat EBI WAN/WAN S.A. (wanwan-sa): Zwołanie zgromadzenia obligatariuszy instrumentów finansowych wprowadzonych do obrotu w alternatywnym systemie obrotu - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOXg3enRyZFN0UXR0dFZITUtlRHZ5RzJtbEctRXphZkVubGJRTUpKN0FzR2lzQ20wTGJEZmVVMDBqOW9CYlFJQTZOSks5SnRQdlNDWVlkVDZFWjNhYU1HaEZ5RFJrLTFybEZWRGV0UnMzcEc1dzRSZG5YZFNicmFlOE5fUXNrQWpOOThuQ0VhX0xWVkJZOFNrWk83UzNWaFQ2QUl3LUowV21aX1Y2NTRSV0pJeHVWNXViNlEzaWIxNU5XYnk2b3NYLTkzdzRaN1N4OVJKZmgtRkM?oc=5",
+      "date": "2026-11-25T17:22:02Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat EBI WAN/WAN S.A. (wanwan-sa): Zwołanie zgromadzenia obligatariuszy instrumentów finansowych wprowadzonych do obrotu w alternatywnym systemie obrotu StockWatch.pl."
+    },
+    {
       "title": "Komunikat EBI Prime ASI SA (prime): Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLWZwTzdkYkR0cGFiTlBpOUZnR1dNcmxLTVRqUjN0M1B6VHpvN2FxTVBQN2VxeTJSSHg3cXQ2VjRpZGh6UDZfMmd2S0pWNjdUZmtPckViS0lSOHAtS2d6NDFrWFNYX0x0d0dobFFzc2pPUnFJNGdPM3lwZkVsQ2hKS253bkJOME9CcGZwanRGMU5icHpSV25kZ3BvRkNyYU5oU3VnSXlLMFJ4VGlNaFZyX2Q0TDFUUDFRcEVkLTVJbmFxbzBMZFMzVGk1eG5pYWJndEln?oc=5",
       "date": "2026-11-25T17:12:06Z",
@@ -1860,28 +1996,20 @@
       "summary": "ENERGY SA (58/2026) Zawarcie umowy na dobór, dostawę i montaż urządzeń do kompensacji mocy biernej BiznesRadar."
     },
     {
-      "title": "Komunikat EBI TRUSTBTC SA (immgames): Zawarcie, zmiana treści, wypowiedzenie, rozwiązanie lub wygaśnięcie umowy o wykonywanie zadań Autoryzowanego Doradcy - StockWatch.pl",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS3dqWkJNQVJXOUtnTXh3aW9aUTYyYjRXUGxjWmE3a1U4X0RiT1lqWkExU1NmcWplN0FnQk4xT3NhdEtmWVpFSUhjOU9BdDlGVW1BSGlrWjc1MWR4UG94TmxmSGVadGVkZjdFN2Y5N05RQXNNdEtaQUl5b2I5dVVaUUpvWWtEV05uM3BQSzgzdTNFTl9xenA3S2RxcXk4aVdBUzRMSURqR19QZmpKT0Rfb1p6X0tUVkVUMEMzT2ZwN1JERElZTjZ0QnpxMThVQk9UU1dWSk1fTQ?oc=5",
-      "date": "2026-11-25T16:36:05Z",
-      "source": "StockWatch.pl",
-      "confirmed_by": 1,
-      "summary": "Komunikat EBI TRUSTBTC SA (immgames): Zawarcie, zmiana treści, wypowiedzenie, rozwiązanie lub wygaśnięcie umowy o wykonywanie zadań Autoryzowanego Doradcy StockWatch.pl."
-    },
-    {
-      "title": "COMPERIA.PL SA (16/2026) Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Comperia.pl S.A. wraz z projektami uchwał - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUDNoc3FwZWVQNk9EZFFZckl4ZFN4ZjRnazdlcWVNR3ZCWUhsVHphOUMwdVVFVE1tVVlrOS1mODVlTG5xUXJTem5lUkR4d2kyMjV2RFRobUs2VTFtTnhLQUdLNmJGMVJRY1owTlRtaVVRUVFPV1NGaHZFMTNlaXpwOTJxLWlPRHlfTjV5bWF1c0c4MDcxby1LTGpUQ1hfa09IZ0FZbFVaeVNoUVYzYjd0SVNMa2tHdF9oNTNWODFabFBoWENBLUc5em11czhyaXctc1N2TjFVdnAzZko3WU04cEZ1bC05SXozTEhKSmt3?oc=5",
-      "date": "2026-11-25T16:22:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "COMPERIA.PL SA (16/2026) Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Comperia.pl S.A. wraz z projektami uchwał BiznesRadar."
-    },
-    {
       "title": "W poszukiwaniu sygnałów - 25 listopada 2026 -Dalszy ciąg wyprzedaży na dużych indeksach GPW",
       "url": "https://strefainwestorow.pl/blog/w-poszukiwaniu-sygnalow/w-poszukiwaniu-sygnalow-25-listopada-2026-dalszy-ciag-wyprzedazy-na",
       "date": "2026-11-25T16:18:46Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "W poszukiwaniu sygnałów - 25 listopada 2026 -Dalszy ciąg wyprzedaży na dużych indeksach GPW Ewa śr., 25.11.2026 Wstęp Indeksy GPW, Spółki wcześniej sygnalizowane, kącik życzeń W poszukiwaniu sygnałów - 25 listopada 2026 -Dalszy ciąg wyprzedaży na dużych indeksach GPW Ewa."
+    },
+    {
+      "title": "Ile kosztują euro, dolar i frank? Kursy walut 25.11.2026. Złoty pod presją - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHBJV3RuVVdPd0hwcWRGaV9CR3MwWWs1SzE5LTBXeXVPTUdTbzhxVU9SRVJPSmNIcFphWkNhN2tJQU1SMUREaE85blN0a3d1cmJOTXlTWWpyTmVNdDBUVnhRd0VqYm5OZjFyUDV4RTlCMUhPVHBReExUZDdYT2p6MWNGQzBGSGJ2V05qNmNMUWFraHRIMmU2aDRaam1TZ09VX0F4Z0paWDk3bWVURjBLNlhMMmgzZnduRWJqMEhRXzN2S0U?oc=5",
+      "date": "2026-11-25T16:18:11Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Ile kosztują euro, dolar i frank? Kursy walut 25.11.2026. Złoty pod presją Forsal.pl."
     },
     {
       "title": "Płatne wersje ChatGPT, Claude i Gemini wyparły już agencje marketingowe? - Forbes",
@@ -1900,6 +2028,14 @@
       "summary": "Pęknięcie bańki AI wywoła kryzys? Steve Eisman o tym czy spodziewa się powtórki z 2008 roku Szymon Machalica śr., 25.11.2026 Kanał Strefa Global Market Steve Eisman The Big Short Treść „Zachęty finansowe zawsze biorą górę nad etyką” - mówi Steve Eisman, inwestor znany z trafnego zakładu przeciwko amerykańskiemu rynkowi kredytów hipotecznych przed kryzysem finansowym. Chodzi o prosty mechanizm, w którym premie zależą od liczby sprzedanych kredytów, a nie od ich jakości, więc system nagradza sprzedaż zamiast ostrożności."
     },
     {
+      "title": "PGE SA (89/2026) Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX0RnY1VpWFF5ZW1QeVUxX19nUkxkNUJoTHEyQVgwdkNMUHRKOFZIZDRSdWxjSlppT08xVzEyTXM4SjA2Q1gwblpWQmp1SHlQSkVyc21BaHRacWN1OW1Ba0lhUDZZdkdhaGdrc3VRajNOUjBPZDE0TUl3bnoxWjJ5ckd3VC12MzFxQlZQemJfcDBfdnA3ay11OExHVER2TG81eHR5V0R2c1JIZnhUZzh3Qg?oc=5",
+      "date": "2026-11-25T15:18:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "PGE SA (89/2026) Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR BiznesRadar."
+    },
+    {
       "title": "Sztuka barefoot luxury. Diamonds Thudufushi Malediwy - Forbes",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZThhZmd4bVJFcWF6SFNKOUNxR3lWZW83SWs4ZW1Ic2FLQ1owdDFFU05ucmdFSDdBVG5oRU1KWnJZLU1GV21QSkhTR3ZxNGJTVEd0R2RrYlNNT3BPemxXNWxyU2RPQkl3T1B0NWkxTno0UDJESVhrLW85RWtHaEt0ZmpqMGRZelMzNzhTZDA1dmFoUQ?oc=5",
       "date": "2026-11-25T15:00:00Z",
@@ -1914,14 +2050,6 @@
       "source": "Forbes Polska",
       "confirmed_by": 1,
       "summary": "Luksusowy kurort na Malediwach. Sypialnia pięć metrów pod wodą Forbes."
-    },
-    {
-      "title": "Rekordowy portfel zamówień ELEKTROTIM. Zarząd widzi presję kosztową i silną konkurencję cenową - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNlR1MG80Qmg0dExkWGFfbkFZaUtyV08tcHU3VjVtcFlWdlNySWxoWVZPYjlTVmpzeEk3NkxjcmdkQnlWMW9ONHphLUd2cUlCdTZNTmFRek42ZHl5aDMwOWhHRTJOVW1WbjFmby1DVW9oVE5PTVEyZ1lIdms5Q2otQ3NFOXJYNGYzWU9VQ05qeWZtWlJPMGVEdmh0elFUR0JYbVpKd0NDRlRZV0R6cFFTSXAxVmlmWWVMSkp4VmxUUzBBRnFSWGsyZg?oc=5",
-      "date": "2026-11-25T14:57:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Rekordowy portfel zamówień ELEKTROTIM. Zarząd widzi presję kosztową i silną konkurencję cenową BiznesRadar."
     },
     {
       "title": "Polacy za mało oszczędzają na emeryturę? \"Babcia nie miała excela\" - Forbes",
@@ -2004,12 +2132,28 @@
       "summary": "W czwartek 26 listopada maksymalna cena dla benzyny Pb95 wynosić będzie 5,82 zł/l, dla benzyny Pb98 6,48 zł/l, a dla oleju napędowego 7,15 zł/l - poinformował minister energii w obwieszczeniu ws. maksymalnych cen paliw. Ceny diesla coraz szybciej zmierzają do granicy 7 zł za litr."
     },
     {
+      "title": "Ceny maksymalne paliw 26.11.2026. Tyle zapłacimy za benzynę i olej napędowy w czwartek - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX1lUMXhES2h2RjZoOHJjbmxTX1hQRmJyVF9GUTctWG1SWnBjMkNMQUd1cnNPT3ZPa2U2OS1yNmRtSmFWRjMta296WUwtWVhtUmZ6ZV9DMkpNMy16QlRiR19MT2p4Y0c2MDRhX2ZjLTAzUHN3TTREZHlvZ01HUE1KdzJibDlpcjVjdVlUcXJySWg5SGpBb2hyY2hobThONE9YblBnSl9QQ281Zi0xWUQ4OHZaLVpWQUM0RkhpME9rLW8yVEZMazl4LQ?oc=5",
+      "date": "2026-11-25T12:22:38Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Ceny maksymalne paliw 26.11.2026. Tyle zapłacimy za benzynę i olej napędowy w czwartek Forsal.pl."
+    },
+    {
       "title": "Wielkie pieniądze dla miedziowego giganta. Jest zielone światło",
       "url": "https://www.money.pl/gospodarka/wielkie-pieniadze-dla-miedziowego-giganta-jest-zielone-swiatlo-7354795556820992a.html",
       "date": "2026-11-25T11:27:47Z",
       "source": "Money.pl",
       "confirmed_by": 1,
       "summary": "KGHM szykuje finansowanie inwestycji warte 1,7 mld zł. Zarząd spółki zgodził się na zawarcie dwóch umów z Europejskim Bankiem Inwestycyjnym. Pieniądze mają posłużyć m.in."
+    },
+    {
+      "title": "Rząd przygotował plany masowej ewakuacji ludności. Polacy mogą dostać sygnał w jednej chwili. Te osoby wyjadą z kraju jako pierwsze - Forsal.pl",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPRlRFbVAtVnZJdl9WU0lkX0lWVm5TOE4zMXN5blk0RjlrdjhUU2VfWnhQcVlxck1JSjJpWWt6YlpxQWFaQnZIMk9jV2F6czFheG1laDZnZi1sYXRHM0Y2SFNQMWRJdFJWNUE2REFwUHFSdk9kMlZMYXh5THdRM0QyaVcwUTYxMUxYeW40N0hRWUFKdzB2QzVHSF84YmtBRS1aRHl1Y1BTMnZkZjR5cW1RMXBnaUs3NFBkUDdpVVlzb2RUMEhMY2tVd2E2emFLeEJDU3ZrYlV2eHZQdHpOcExQTXJrS3ExSHlaenB3VkJwRWdCYUgybXZ2R1BLcDNzRXozVjBERTBZWDNLNVBIdnpfUjRUcHNnNGQxWEE?oc=5",
+      "date": "2026-11-25T11:07:45Z",
+      "source": "Forsal.pl",
+      "confirmed_by": 1,
+      "summary": "Rząd przygotował plany masowej ewakuacji ludności. Polacy mogą dostać sygnał w jednej chwili. Te osoby wyjadą z kraju jako pierwsze Forsal.pl."
     },
     {
       "title": "PGE podtrzymuje plan wypłaty dywidendy za 2026 rok. Ile mogą dostać akcjonariusze",
@@ -2020,36 +2164,20 @@
       "summary": "PGE podtrzymuje plan wypłaty dywidendy za 2026 rok. Ile mogą dostać akcjonariusze Piotr Kwestarz śr., 25.11.2026 Kanał Strefa Inwestorów Treść PGE Polska Grupa Energetyczna podtrzymuje plany wypłaty dywidendy z zysku za 2026 rok. Zarząd potwierdził w środę, że pierwsza od 10 lat wypłata dla akcjonariuszy jest aktualna."
     },
     {
-      "title": "Dramatyczny bilans Rosji w Ukrainie. Nie nadążają z rekrutacją - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcVVDN0FZMXdpVXNHTkM5QWJhc2NtWjhVeWd6NW5GakdZN09wUDNTUnQzYjNfai1UZUk4OV9qckJQREVtdUQ0Y09XSHJmWERsSVVyNkVjaU94YVY2cXZJNjY4eUFEM0dFTmdGbEpRbDJwZzNKU3A3WE5ZTkRGVkxoTEIwZGJzRkw5U192YngyS2lEajI0a1ZadXBsaFMyV3ZSVFZwcU1DSGE1VUh3anlYS0RRUFR0Y05EV05mcktKNUw?oc=5",
-      "date": "2026-11-25T10:11:28Z",
-      "source": "Forsal.pl",
+      "title": "KGHM POLSKA MIEDŹ SA (44/2026) Zgoda Zarządu na zawarcie umowy pożyczki z Europejskim Bankiem Inwestycyjnym - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQalRRNGFYdk80ck9wMFZtWmo1bnpHMFBGTVF2MjZiUVdCb09TWXh3ZDBkWG5vV18wM2hpQXIyX3BKeTBRU2JkUjBHQ2p1MnhLRS1DemhqQlR2TWFQZVVYWmJIVW5QRWgwT2hpT0t0Y193OU1nMDl1c2JITk9NbzNWSFNLTDNQbjdwNXlfUFdtVjNkZ29kNlkxdWxROFNsNEp0SjFCRnJ1MjlhMXU5cUZxMmpaTlNHMFdSckRyZmNRbm5EbkFNR3dLYzFfb1ZON0RQUEh4NWlXYVc?oc=5",
+      "date": "2026-11-25T10:50:00Z",
+      "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Dramatyczny bilans Rosji w Ukrainie. Nie nadążają z rekrutacją Forsal.pl."
+      "summary": "KGHM POLSKA MIEDŹ SA (44/2026) Zgoda Zarządu na zawarcie umowy pożyczki z Europejskim Bankiem Inwestycyjnym BiznesRadar."
     },
     {
-      "title": "Stopa bezrobocia w październiku 2026. GUS podał najnowsze dane - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQThhZDh0aFZQTEIzTkpjZVdBbzdXVEZ1TmNSTkZoMnpwbUVRYTh2NW9Ca2h6b2xYeFl3MHZsWktvbWNvdndUZW00VlVlRnpOWlliUlR0R3p2WTVES2RaM0pSazkyaFU0TDRweVgzSjBkc1NTRmVONkpjRkp0NkxxdVJQZmdMcWt0REJ0ODNad29CTEpYWjBlekdfUk9qNm9FOVpvSmgwWjRuSU9lNlo3RUlySQ?oc=5",
-      "date": "2026-11-25T09:08:06Z",
-      "source": "Forsal.pl",
+      "title": "VOTUM SA (44/2026) Otrzymanie od osoby pełniącej obowiązki zarządcze w VOTUM S.A. notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQa2hHVWtjVXNvTDNYV1VqU3dURVQ5dWhyTTlROVZPMGc5S2NUWWdnbmwxY3NIRmdDbWUyUHBnTEJFTlFJaVNtWllUUWdvVVBUTi1kVF9YTk8xNDdmb1JlenAtMW5FcmViTloyT2ZremFrallvUlZFeXhubVdoTkN5NVduMks2OXdpYjlFTElNNWJkNzg1QVIyLXJDSHVtRFIwS25BUFdabEZveDUtY3ZRQ0pRa2dQWXhSZk9qQU43VlZYWUtEYTJ1d2J4Y3czb3hKNEZ2T2xESkNWWVJINXczXy1keXVUWXBRQjR4S3YyNVIzVHBRTG5FSmk3WQ?oc=5",
+      "date": "2026-11-25T10:13:00Z",
+      "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Stopa bezrobocia w październiku 2026. GUS podał najnowsze dane Forsal.pl."
-    },
-    {
-      "title": "Cyfrowy kolonializm Mety. Jak Dolina Krzemowa po cichu przejmuje dno oceanu - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN0IxdXh6cTVrTG96SDNCM0tFbkFpMzBEOGtQUmNqZU5uOTVNQjdudW50Wk1RdWotM0p0dEtUU0I4eXh6cWRFM3k4cG5aQ3VoNEROV2l4Rm1ydW85RWw1MGpFTF91djM4RW1HLTduMWNQQXB5S2JUR1p4UUhqRzJRemFub2FVc2V0c3JFbGE0RGdEdkJfYXdoVlJBVjY0Z0plYzdJS1N2VW5mYlJETEFyVWhyelZabjE2U2lPS1ZMOHVsUXhXenhKSGV3UGVJWGc?oc=5",
-      "date": "2026-11-25T09:00:09Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Cyfrowy kolonializm Mety. Jak Dolina Krzemowa po cichu przejmuje dno oceanu Forsal.pl."
-    },
-    {
-      "title": "Cena euro, dolara i franka. Kursy walut 25.11.2026 - Forsal.pl",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOclRKRHFpRGtyXzQyajJMSGFqYUxYeEhNQ0t3WURjQjRtYms3ZlR5UFI1eV85bnk1RE9CT0lUZEhBck1pWmVaWmVqd2lNZFhUSWlkRlg5cm90el9YSS1WTmZzUndtWXd5eFhtczE5a3NOaFQ3WnplZmVURFZ3TDBqMW92ZUdPWWNWaHMtb0cyaExzVk5iamllUnFZTVRNV0FQSzA1NQ?oc=5",
-      "date": "2026-11-25T08:41:26Z",
-      "source": "Forsal.pl",
-      "confirmed_by": 1,
-      "summary": "Cena euro, dolara i franka. Kursy walut 25.11.2026 Forsal.pl."
+      "summary": "VOTUM SA (44/2026) Otrzymanie od osoby pełniącej obowiązki zarządcze w VOTUM S.A. notyfikacji o transakcjach w trybie art. 19 ust."
     },
     {
       "title": "Rynek IT zmienia kurs. B2B słabnie, etat wraca, a podwyżki wyhamowują",
@@ -2074,14 +2202,6 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Aż 38 proc. Polaków wolałoby zmienić pracę biurową na fizyczną lub fizyczną na biurową, gdyby pensja została na tym samym poziomie. To najwyższy wynik spośród 15 krajów objętych badaniem Top Employers Institute."
-    },
-    {
-      "title": "Co drugi Polak zainteresowany OKI. Banki chcą wykorzystać inwestycyjny boom",
-      "url": "https://300gospodarka.pl/news/co-drugi-polak-zainteresowany-oki-banki-chca-wykorzystac-inwestycyjny-boom",
-      "date": "2026-11-24T17:13:08Z",
-      "source": "300Gospodarka",
-      "confirmed_by": 1,
-      "summary": "Jeden podpis, a potem dostęp do lokat, obligacji, funduszy i instrumentów giełdowych – tak PKO BP chce wprowadzać klientów do nowego OKI. Millennium szykuje prostszy model z dwoma wariantami, a oba banki liczą na zainteresowanie produktem od początku 2027 roku. PKO BP mówi wręcz o możliwej „modzie na inwestowanie”."
     },
     {
       "title": "Które IKE i IKZE są najlepsze? Ranking IKE i IKZE 2026",
@@ -2399,17 +2519,17 @@
       27354.94,
       27400.36,
       27412.11,
-      30919.06,
+      30917.55,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      30118.28,
+      30116.8,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      30312.93,
+      30311.44,
       27686.17,
       27404.78,
       27351.97,
@@ -2418,7 +2538,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29997.05,
+      29995.58,
       27930.04,
       28234.04,
       28218.36,
@@ -2427,81 +2547,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30900.02,
+      30898.5,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      30419.92,
+      30418.43,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      30233.47,
+      30231.99,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      30550.57,
+      30549.07,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31643.41,
+      31641.86,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31758.11,
+      31756.56,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      31303.76,
+      31302.22,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      31456.27,
+      31454.73,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      31484.17,
+      31482.63,
       28449.73,
       28313.03,
       28272.33,
-      31232.82,
+      31231.29,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      31206.39,
+      31204.86,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      31585.37,
+      31583.82,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      31500.98,
+      31499.43,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31863.27,
+      31861.71,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      31242.86,
+      31241.33,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      31096.99,
+      31095.47,
       30100.92,
       30418.01,
       30609.55,
