@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T04:05:32Z",
+  "last_updated": "2026-11-26T04:06:23Z",
   "poland": [
     {
       "title": "Najlepsze systemy ERP z AI 2026 – sprawdź, które oprogramowanie ERP rozwija się razem z Twoją firmą",
@@ -414,10 +414,18 @@
     {
       "title": "Australian politics live: Liberals ‘tossing up whether to leave or remain’, Albanese says; Coalition warns energy prices to cause Christmas ‘pain’",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-      "date": "2026-11-26T03:47:22Z",
+      "date": "2026-11-26T04:04:14Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Get our breaking news email, free app or daily news podcastPauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party.Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce.Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state.My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation.We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor. Continue reading..."
+    },
+    {
+      "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "date": "2026-11-26T03:54:24Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’Trump proposing new tariffs on 14 partners including China and EUBrazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political manipulation” in the wake of Donald Trump’s latest economic salvo against 14 major trading partners.Brazil’s government said on Wednesday: “Brazil will not yield to this type of threat”, adding in its statement that the “unilateral decision constitutes an unacceptable action within the framework of the ongoing bilateral negotiating process”. Continue reading..."
     },
     {
       "title": "Oil rises on supply concerns as Iran claims mine strikes on ships - Reuters",
@@ -754,14 +762,6 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’If you want to hear more about the new death toll, listen to today’s Today in Focus podcast with our Russia expert, Pjotr Sauer.“Two groups of hackers accessed Russia’s main statistics database last month and discovered a cache of 11m death certificates that revealed nearly 500,000 Russian losses in Ukraine since 2022. Among these were 1,000 – the equivalent of a whole regiment – who took their own lives.The documents show how the majority of soldiers come from poorer areas and ethnic minorities, drawn in by high salaries. There are also recruits from abroad and even those lured to Russia by offers of jobs."
-    },
-    {
-      "title": "Brussels on split-screen: where it flexes – and where it bends",
-      "url": "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
-      "date": "2026-11-25T15:39:54Z",
-      "source": "The Guardian",
-      "confirmed_by": 1,
-      "summary": "From a choreographed summit that dominated Westminster but barely registered in Brussels to a climate showdown in Turkey, last week revealed the EU’s priorities – and the limits of its collective power• Don’t get This Is Europe delivered to your inbox? Sign up hereTwo very different European diplomatic dramas played out almost simultaneously last week. On Friday, a tightly choreographed EU-UK summit transfixed London, while barely registering on the continent."
     }
   ],
   "world_politics": [
@@ -1410,76 +1410,12 @@
   ],
   "cybersecurity": [
     {
-      "title": "The sky was once full of stars, kids; then the FCC let Elon Musk launch a million datacenter satellites",
-      "url": "https://www.theregister.com/off-prem/2026/11/25/the-sky-was-once-full-of-stars-kids-then-the-fcc-let-elon-musk-launch-a-million-datacenter-satellites/5312268",
-      "date": "2026-11-25T22:54:07Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Approval for ‘Starmind’ granted but it’s a long way from the launchpad, or making sense."
-    },
-    {
       "title": "Zhackowali DIVD, holenderską organizację zajmującą się bezpieczeństwem w sieci",
       "url": "https://sekurak.pl/zhackowali-divd-holenderska-organizacje-zajmujaca-sie-bezpieczenstwem-w-sieci/",
       "date": "2026-11-25T22:20:13Z",
       "source": "Sekurak",
       "confirmed_by": 1,
       "summary": "W DIVD aktywnie szukają znanych podatności w systemach, lokalizują podatności 0-day, mogą też przydzielać numery CVE. Raport powłamaniowy wskazuje na prawdopodobne użycie ARTEX &#8211; semi-autonomicznego ofensywnego systemu AI. Atakującym od momentu pierwszego rekonesansu wystarczyło 12 godzin na uzyskanie dostępu na lokalnego administratora na pierwszym celu."
-    },
-    {
-      "title": "The security of US water systems is even leakier than we thought",
-      "url": "https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243",
-      "date": "2026-11-25T19:40:17Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "And intruders don't always need to exploit bugs to break in."
-    },
-    {
-      "title": "Huawei and crew tout homegrown EDA tools to overcome China’s fab deficit",
-      "url": "https://www.theregister.com/systems/2026/11/25/huawei-and-crew-tout-homegrown-eda-tools-to-overcome-chinas-fab-deficit/5312205",
-      "date": "2026-11-25T18:02:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Chip design software leans heavily into 3D packaging and multi-node assemblies."
-    },
-    {
-      "title": "Hera probe finds DART left a stadium-sized dent in asteroid Dimorphos",
-      "url": "https://www.theregister.com/science/2026/11/25/hera-probe-finds-dart-left-a-stadium-sized-dent-in-asteroid-dimorphos/5312153",
-      "date": "2026-11-25T17:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Next step is to move in for a closer look at the carnage."
-    },
-    {
-      "title": "Microsoft's NTLM security changes trip up third-party logins",
-      "url": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085",
-      "date": "2026-11-25T17:01:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "It's not our fault if you've implemented it wrong."
-    },
-    {
-      "title": "HP sees premium-priced AI PCs as its meal ticket in a shrinking market",
-      "url": "https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174",
-      "date": "2026-11-25T17:00:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "PC shipments set to fall further thanks to the memory shortage, but high-margin models for AI at the edge keep profits up."
-    },
-    {
-      "title": "US Treasury financial crimes unit becomes latest fed breach victim",
-      "url": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165",
-      "date": "2026-11-25T16:40:16Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "FinCEN takes systems offline and extends filing deadlines while investigating 'unauthorized access'."
-    },
-    {
-      "title": "NASA's nuclear-powered Mars delivery service takes shape",
-      "url": "https://www.theregister.com/science/2026/11/25/nasas-nuclear-powered-mars-delivery-service-takes-shape/5312147",
-      "date": "2026-11-25T15:30:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "SR-1 Freedom gets a shorter boom and larger antennas, with roughly two years to finish design, construction, and testing."
     },
     {
       "title": "Służby przetwarzają dane bez kontroli? Panoptykon: trzeba zmienić prawo",
@@ -1490,36 +1426,12 @@
       "summary": "Ustawa wdrażająca dyrektywę policyjną w Polsce wymaga zmian – stwierdziła Fundacja Panoptykon. Przepisy dotyczące ochrony danych osobowych w policji, służbach i prokuraturze nie spełniają założeń i nie spowodowały prawidłowego wdrożenia unijnego aktu. Rekomendacje, które przekazano Ministerstwu Spraw Wewnętrznych i Administracji mają pomóc w naprawieniu sytuacji."
     },
     {
-      "title": "Microsoft fixes Office dialog that had nothing to say and wouldn't go away",
-      "url": "https://www.theregister.com/software/2026/11/25/microsoft-fixes-office-dialog-that-had-nothing-to-say-and-wouldnt-go-away/5312057",
-      "date": "2026-11-25T14:45:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Update resolves work-blocking popup, but affected users may need an administrator command prompt to install it."
-    },
-    {
       "title": "Wyciekły dane klientów Deichmanna",
       "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/wycieki-danych/wyciekly-dane-klientow-deichmanna",
       "date": "2026-11-25T14:35:08Z",
       "source": "CyberDefence24",
       "confirmed_by": 1,
       "summary": "Osoby nieuprawnione uzyskały dostęp do danych klientów Deichmanna. Znany sklep z obuwiem rozpoczął informowanie o wycieku. Osoby, których sprawa dotyczy powinny spodziewać się wiadomości ze strony firmy."
-    },
-    {
-      "title": "JetBrains finds agents may cheat with open source",
-      "url": "https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999",
-      "date": "2026-11-25T14:07:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "AI coding agents caught peeking at GitHub answers, stumble when JetBrains hides the crib sheet."
-    },
-    {
-      "title": "Debian wakes up wearing Windows XP's actual skin",
-      "url": "https://www.theregister.com/os-platforms/2026/11/25/debian-wakes-up-wearing-windows-xps-actual-skin/5312111",
-      "date": "2026-11-25T13:23:32Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Win4Wine runs the genuine Explorer shell atop Linux."
     },
     {
       "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
@@ -1530,28 +1442,12 @@
       "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read vulnerability that could enable an attacker to access local text files readable by the GeoServer process or fetch."
     },
     {
-      "title": "Microsoft 365 Backup stretches recovery window to ten years",
-      "url": "https://www.theregister.com/saas/2026/11/25/microsoft-365-backup-stretches-recovery-window-to-ten-years/5312043",
-      "date": "2026-11-25T12:35:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Sadly, no time travel back to 2016."
-    },
-    {
       "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
       "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
       "date": "2026-11-25T12:30:08Z",
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline."
-    },
-    {
-      "title": "Amazon to flog motors in Britain, but Prime won't deliver",
-      "url": "https://www.theregister.com/personal-tech/2026/11/25/amazon-to-flog-motors-in-britain-but-prime-wont-deliver/5312080",
-      "date": "2026-11-25T12:19:20Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "Hyundai leads 2027 rollout, with a showroom visit still required to finish the paperwork."
     },
     {
       "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
@@ -1578,14 +1474,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026. The vulnerability, tracked as CVE-2026-132165 aka Fail2Install (CVSS score: 9.8), is a case of remote code execution (RCE) impacting Drupal core."
     },
     {
-      "title": "Gatwick drop-off customers' personal data exposed in supplier breach",
-      "url": "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060",
-      "date": "2026-11-25T11:16:18Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "AutoPay login and vehicle records affected, alongside limited payment information and customer service emails."
-    },
-    {
       "title": "Rak nie może zamykać drogi do kredytu. Prezes UODO interweniuje",
       "url": "https://cyberdefence24.pl/polityka-i-prawo/polska/rak-nie-moze-zamykac-drogi-do-kredytu-prezes-uodo-interweniuje",
       "date": "2026-11-25T10:56:12Z",
@@ -1600,14 +1488,6 @@
       "source": "The Hacker News",
       "confirmed_by": 1,
       "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday. Abdulrahman Alfozan, a 35-year-old Saudi national, was arrested on October 9, 2026, for allegedly bugging the artificial intelligence (AI) company's offices with the aim."
-    },
-    {
-      "title": "The world's fastest computers have a problem: Keeping the work running",
-      "url": "https://www.theregister.com/hpc/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710",
-      "date": "2026-11-25T10:15:00Z",
-      "source": "The Register",
-      "confirmed_by": 1,
-      "summary": "I node what you did last summer: you went down when an HPC project was relying on you."
     },
     {
       "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
@@ -2519,17 +2399,17 @@
       27354.94,
       27400.36,
       27412.11,
-      30920.2,
+      30919.06,
       27653.59,
       27727.15,
       27590.95,
       27653.99,
-      30119.39,
+      30118.28,
       27223.83,
       27139.29,
       26774.86,
       27120.15,
-      30314.04,
+      30312.93,
       27686.17,
       27404.78,
       27351.97,
@@ -2538,7 +2418,7 @@
       27661.43,
       27749.69,
       27709.26,
-      29998.15,
+      29997.05,
       27930.04,
       28234.04,
       28218.36,
@@ -2547,81 +2427,81 @@
       28294.39,
       28203.83,
       28555.17,
-      30901.15,
+      30900.02,
       28590.53,
       28538.61,
       28515.01,
       28464.47,
-      30421.04,
+      30419.92,
       28242.11,
       28493.29,
       28421.66,
       28189.4,
-      30234.58,
+      30233.47,
       28165.64,
       28207.97,
       27574.93,
       27784.38,
-      30551.69,
+      30550.57,
       28457.79,
       28810.03,
       28721.02,
       28756.22,
-      31644.58,
+      31643.41,
       28863.51,
       28775.88,
       28927.16,
       29131.49,
-      31759.28,
+      31758.11,
       28817.05,
       28699.19,
       28479.44,
       28209.41,
-      31304.91,
+      31303.76,
       28224.82,
       28283.18,
       28365.78,
       28731.45,
-      31457.43,
+      31456.27,
       28617.88,
       28533.69,
       28624.79,
       28783.13,
-      31485.33,
+      31484.17,
       28449.73,
       28313.03,
       28272.33,
-      31233.97,
+      31232.82,
       28610.74,
       28516.81,
       28689.18,
       28973.08,
-      31207.54,
+      31206.39,
       29405.7,
       29484.82,
       29623.98,
       29635.24,
-      31586.53,
+      31585.37,
       29519.82,
       29522.76,
       29455.9,
       29822.64,
-      31502.14,
+      31500.98,
       30354.09,
       30351.68,
       30482.76,
       30296.55,
-      31864.45,
+      31863.27,
       30665.59,
       30447.58,
       30132.97,
       30153.2,
-      31244.01,
+      31242.86,
       29945.78,
       29988.32,
       30052.05,
       29865.61,
-      31098.14,
+      31096.99,
       30100.92,
       30418.01,
       30609.55,
