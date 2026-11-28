@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T18:01:35Z",
+  "last_updated": "2026-11-28T18:02:20Z",
   "poland": [
     {
       "title": "\"Miała rację\". Trzaskowski zadrwił z Zacharowej",
@@ -144,6 +144,14 @@
       "source": "Polsat News",
       "confirmed_by": 1,
       "summary": "Rusza nabór do Akademii Prezydenckiej - wynika z komunikatu kancelarii Karola Nawrockiego. To program dla młodych Polaków, aktywnie zaangażowanych lub gotowych do zaangażowania w życie społeczne, naukowe, kulturalne lub sportowe, gotowych rozwijać kompetencje liderów, przyszłych elit i kadr Rzeczypospolitej Polskiej. Termin składania zgłoszeń ubiega już wkrótce."
+    },
+    {
+      "title": "Wszystkie - PAP - Polska Agencja Prasowa SA",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UGsxdmNUaHV1VUNodHJSemM1QW5sanRoZC1jdk9FYlBiQ0VDcHhJeFJpZFo2eTcyc2RGNDRwN3VEd0VOMnp0SjBpTm9GcjN3aHNVaDhn?oc=5",
+      "date": "2026-11-28T13:30:57Z",
+      "source": "PAP",
+      "confirmed_by": 1,
+      "summary": "Wszystkie - PAP Polska Agencja Prasowa SA."
     },
     {
       "title": "Przyszłość Tuska po wyborach w 2027 roku. Sondaż: Ponad połowa Polaków nie chce go, jako premiera",
@@ -338,14 +346,6 @@
       "summary": "NFOŚiGW konsultuje wart 1 mld zł program budowy spalarni odpadów niebezpiecznych z odzyskiem energii PAP Biznes."
     },
     {
-      "title": "Odpowiedzialność przedsiębiorcy za naruszenia środowiskowe - kto odpowiada za nieprawidłowości? - Polska Agencja Prasowa SA",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUDZXMTVSaTh3SXJmckJLQ3pEd1M3cG9rOV9QTHlCa3I1UVJtWUxJa2ZKdVdLQ0U0cnlGdEFDOWUxRzdSc2ljYXRSOVUwbFpBWi1abm1YcnQ5aHc2NkN4dUx3a2xjQ21KX3BiUUZsMDdOYlh4R1lQNXZhb2JjR3o5R1R6QXdObjhiOThoN29nMU5MWmdHMVdMaEJTNDFkcWVGZGpPQi01QQ?oc=5",
-      "date": "2026-11-27T13:29:00Z",
-      "source": "PAP",
-      "confirmed_by": 1,
-      "summary": "Odpowiedzialność przedsiębiorcy za naruszenia środowiskowe - kto odpowiada za nieprawidłowości? Polska Agencja Prasowa SA."
-    },
-    {
       "title": "Prezydent zawetował niższy PIT. Do 3600 zł dla fiskusa zamiast do ręki - Polskie Radio 24",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3VNRXZPX2g0MzJBTXp1NDhxOWRhMkxLa3JsMWNjWlR3ZGhub1M3NFhyZEJFWFVsR1VTcXNIOUxTSmtENjJhbzdpTWJCRGVmb3UzUE9VNlhJekpQd0NKNDliSlZsQm85RWpkek5RR2xFRlNsWlpPRjFlQ2VlUWdjdWlEaFZVLWEtLXJ6ZUVGLXJQQ3lhUUdXdzdRc3ZvOUJQTTZYZzBPdHo?oc=5",
       "date": "2026-11-27T13:08:00Z",
@@ -404,20 +404,20 @@
   ],
   "world_security": [
     {
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-28T18:01:05Z",
+      "source": "BBC News",
+      "confirmed_by": 2,
+      "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty."
+    },
+    {
       "title": "‘Victory for democracy’: Taiwan’s ruling party secures best result in a decade",
       "url": "https://www.theguardian.com/world/2026/nov/28/taiwan-ruling-party-dpp-secures-best-result-in-decade-china",
       "date": "2026-11-28T17:39:53Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "DPP nearly doubles number of constituencies it controls, with outcome expected to anger BeijingTaiwan’s ruling party secured its best result in a decade in Saturday’s local elections, doubling the number of constituencies it controls, in an outcome expected to anger Beijing.The Democratic Progressive party (DPP) won 10 of Taiwan’s 22 mayoral and county magistrate races, up from five in its disastrous showing in the last local elections four years ago. Continue reading..."
-    },
-    {
-      "title": "Argentina's bid to stop Falklands oil drilling rejected",
-      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-28T17:11:37Z",
-      "source": "BBC News",
-      "confirmed_by": 1,
-      "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty."
     },
     {
       "title": "Google told to cease building Belgian datacentre over lack of planning permit",
@@ -428,12 +428,36 @@
       "summary": "Greenpeace report shows US tech firm has continued construction despite a planning appeal being unresolvedBelgian authorities have ordered Google to halt construction work on a large datacentre in the south of the country because the US tech firm’s requests to modify the original terms of the planning permission did not have approval.“Inspectors visited the site and observed that the building was almost finished, with the structural work completed, even though the permit had been refused,” Raphaël Stokis, a Wallonia regional official, told the public broadcaster RTBF. Continue reading..."
     },
     {
+      "title": "MSF charity condemns Israeli drone strike that killed two staff outside Gaza clinic - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlN6bWNCajEzSzJDU0o3Qk5qQnJiS3Zxb2VaUnFjM05vM0hkZ2E3NnJNeXlVdEVVMkNwdGRXcmRaTGF3bHI4emRsaVhaTHVtV3dmNDJlWUFGY1YzTTFxNlNkaFViN1FYdlo3WVM4SUJlaTZkc1AyVE9MdmZkMDdYeE1wR3RzRXFzeTVvY0lrczh4N1ZGXzM4NWR2MmF6NkRYeDBWNEtMOEswT3BxU2dxYllRcmM?oc=5",
+      "date": "2026-11-28T17:02:37Z",
+      "source": "Reuters",
+      "confirmed_by": 3,
+      "summary": "MSF charity condemns Israeli drone strike that killed two staff outside Gaza clinic Reuters."
+    },
+    {
       "title": "Dozens killed in Myanmar military strikes on wedding venue and school",
       "url": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-28T16:53:20Z",
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days."
+    },
+    {
+      "title": "Student-led protest against government turns violent in Albania - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWR1RkhnZFQ4bkwtc0RrcGR1aE9Vbjd4LW1DMFNYN2RDbk81a3lkZ3lLWnl3d05BV2RLQjAtc1JwOTBoS09iVTA2RG1RR1RFczZVOFcyOFdHaTZsTkhCSW94SnNuQkFpcC1TbEhJMzFma2k0X2dad3FQZ1NaT3BRNkF3Q296Tm96SVU0?oc=5",
+      "date": "2026-11-28T16:48:01Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Student-led protest against government turns violent in Albania Reuters."
+    },
+    {
+      "title": "Trump-backed World Liberty crypto token falls around 50% overnight - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZzJSS0dlMkZ1ODhVSENNVFU5bUg2a3hqNno0Zmk0RjVpZnIwcGkzU0tVV3h2dHlfR2xaZTZtMzB6R0Y1VGVVSjctYTg3LWhQMm5XNG8wblhOUlNsUWlmc1dxZFRBMzFXbUU1TFpNNlBkQWVvX1ZQRFVhNndpYWl3dzRERWNfLTFKOTNoUkg2NVFaRkY3MExLNl9Nb0J3YUVSRWtZTzNlTmdaTEFFQ2xLemw3ZHd0VEVfc1E?oc=5",
+      "date": "2026-11-28T16:46:13Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Trump-backed World Liberty crypto token falls around 50% overnight Reuters."
     },
     {
       "title": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
@@ -450,6 +474,54 @@
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "As drought worsens, more climate migrants are trekking north – but as US deportations ramp up, rural Guatemalans are running out of optionsThe small plots of farmland in Caparrosa, an Indigenous Maya Ch’orti’ village in eastern Guatemala, are bone dry. It’s mid-June, and the rainy season should have started a month and a half ago, but it’s barely rained at all. The maize is just a few inches tall, and some plots are completely bare.Lidia Molina is nursing her two-and-a-half-year-old daughter, Karla, sitting on a dusty step next to skinny dogs and chickens."
+    },
+    {
+      "title": "US Black Friday online spend rises 11% to a new high of $13.1 billion - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNTJIWUpidWRfdHdlYTBGRHFseHBGSm9rQnVTNzBfSGhZQnBnUFJFRVE2TDlCM3JSNEpieHJISnBhNDVsODZxYTktRjRrLVc1OFB1VnhWd0h4UktMa0JwSzBQdGlsUFU1RnRJWFdXMVJUWnBxcVdkdjltS1kyajFpSHE3RkhCZFM4aVlIQkJBVGFWWU9jblFFUXB1bGg3UlZ6SU85VTh2R09KWGNKWnBfZ3BjdnZXZ0FXdWx5UUZsSVBwUzNvSVFGaTZvZURqTnVIWGow?oc=5",
+      "date": "2026-11-28T15:52:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "US Black Friday online spend rises 11% to a new high of $13.1 billion Reuters."
+    },
+    {
+      "title": "Australia's conservatives oust Labor, see off One Nation in Victoria state - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOUp5SW1BR0dXaTY3Mmgwa2RyaHp5ODl3bENXUm1jaXhBQ3ZzUGIzTFlCVFhKdGJQUTczVXRZSXRXVmcwdUV6QTN5bGU0OEI3X1RkTW1GdjhrSHliN1BTSlMxQlFVclYzQlB0UUdBLXpXaklfRTl5M3NKUzBZUHAwUE1vdVJBV3A0MTBtU1l5Zm0xeGpERXlhMTdMUjVSOGFjenBfNWhVTXM0aHc0TnNDNnh1OWZiZjhfUXlXRXUtSGhKYkU?oc=5",
+      "date": "2026-11-28T14:49:49Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Australia's conservatives oust Labor, see off One Nation in Victoria state Reuters."
+    },
+    {
+      "title": "Musk says Google is interested in renting more computing capacity from SpaceX - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVpCZ09wSmxscjVrdGlzSlp3RkN6bXBWY1dmaTlWcUFMamp2MVVDLXRGSG5PakRfT1ZJYUI1dWVtbHlKZXVFMlZ0N3doYVBScXBObXVMeEEwTGxpdWVWWjhNN1hjZXUtZ01WdHBZOGpSZDh4bHFIUjdqSW0zc2lXMHdEMXNCZE83WFQ4bUczTS1HWGdQRFdNU2Y1OGtFQVpySnFGSkdzYnNTSHFxSzFSYW5WSmhveTk4RHliaDRNV1l1ZDVDZHRj?oc=5",
+      "date": "2026-11-28T14:41:43Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Musk says Google is interested in renting more computing capacity from SpaceX Reuters."
+    },
+    {
+      "title": "Armed individuals exit ship off Yemen with crew safe, says UK agency - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmJza0RDY1R0YmlvRDBuNkxHYkRHc012MDVlS0stTzcwTVZuNGpTZ3dHZFI4UlFXekZlek1VbE1rYTV2OXhJRUdkLWZDa0dUX0NxNWVUb3FCY3dBSlc0T1Y5d0NHdjhmeXVvSTA4Sk1EamlUaTdYMXJoMHRNWm5TQXJTcWYxRi1qTy1mNzk5NkxQNlhyTTlsYzJNVExXNHBoamlfNTVGbXlkbWwwTkZYcFVpOWVRdXJZZEE?oc=5",
+      "date": "2026-11-28T14:35:47Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Armed individuals exit ship off Yemen with crew safe, says UK agency Reuters."
+    },
+    {
+      "title": "Years after Sandy Hook massacre, US Supreme Court case targets assault weapons ban - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYjNwZEJJU0hWWVZXTE45RjRVSEtvdmJ4MEVfaDRxZUhhcGNaQjBvVUlqZkxwRUNZRU1DckwtaENfWDJscm5IQndmUlpINmdacGFRazc5a3pKMUFWaUE2cG5jbjFJRFJpcGFHVnZCR1FpYWxJcE5udXBDekRCX0k0eW9vcnRic2RuRnVGb0lzc1RWNWVqOWFhaUt5MGdPbWRpWGhTZnNzcEM1UFpMWk9JUGtsOENMOWxSR3NwdmU5Y1gyeGtDUjc4ZHRR?oc=5",
+      "date": "2026-11-28T14:34:26Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Years after Sandy Hook massacre, US Supreme Court case targets assault weapons ban Reuters."
+    },
+    {
+      "title": "Afghanistan school blast kills 7 students, injures up to 99 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVRKa09nUTkyZHR6Tnp6aTFwNzFYOHd0WGRtWjFEU2Z4RmFvRzVETWJwbEF4WHROdnpCVU9NMVBYYUJtbVU5NzVqNEVkaEVhNUtmMHFrbFE0cW5OQmdXYkpiV0JvbGoteXRYamR6Mjl0clR1cmp2elB5LU9IOUFjZzcwSXFjTXVxcy1XbmJHdGQwbjZMREhfNzRwS29Jck8zbURsQkdoTXMtZw?oc=5",
+      "date": "2026-11-28T14:25:38Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Afghanistan school blast kills 7 students, injures up to 99 Reuters."
     },
     {
       "title": "Costa Rica bars UN rapporteur on Palestinian territories from entering the country",
@@ -500,12 +572,20 @@
       "summary": "This blog is now closed.Full report: Victorian Coalition wins majority government as Labor suffers historic defeatVictoria election live results: votes tracker, map and seat counts‘Worse than anyone feared’: how Victorian Labor unravelled after 12 years in governmentJess Wilson’s rapid rise is hard to believe - but Victorian Labor’s collapse has been years in the makingElection winners and losers – in picturesSee all of our Victorian state election coverageGet our daily political email, free app or daily news podcastFederal politicians largely absent from state electionJust following on from the last post, it is notable that the prime minister, Anthony Albanese, did not do a press conference with the state premier, Ben Carroll, during the campaign, and the federal Liberal leader, Angus Taylor, did just one press conference with his state counterpart, Jess Wilson, during the campaign.I give a shoutout to all those Labor party workers who are handing out how-to-votes, the candidates who are working their guts out, but they know that it’s going to be very, very tough.And we know that this election campaign has been dominated by really the sorts of issues that you get when a government’s been in for more than 10 years. Continue reading..."
     },
     {
-      "title": "Two Médecins Sans Frontières staff killed by Israeli strike in Gaza, charity says",
-      "url": "https://www.theguardian.com/world/2026/nov/28/medecins-sans-frontieres-staff-killed-gaza-israeli-strike",
-      "date": "2026-11-28T12:14:49Z",
-      "source": "The Guardian",
-      "confirmed_by": 2,
-      "summary": "MSF and head of WHO denounce attack on Gaza City clinic as Israel claims security guards were members of HamasIsraeli forces have bombed a clinic run by Médecins Sans Frontières in Gaza City, killing two of its staff members, the organisation has said.MSF said Israel had directly struck the clinic, despite the fact that its location was known to the Israeli military and that it was well marked with MSF logos. The organisation denounced the attack and said that with the deaths of the two security guards on Saturday, Israel had killed 17 of its staff members during the war in Gaza. Continue reading..."
+      "title": "Indian police disperse protest outside Meta offices with water cannon - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT1FMamFEdzdHVi1acTN1REVHV0NBNmwtTENMZm5rRmdPZHU5ekxQWDBldzZyVHdlRmVtMXEyY1RoWjRrWVRmQ3ZDTzRFeExQWVJ2WFZ4SEU2TDI5NWhrUTlmYXZHQTB3YVZtSlVOdzQ2Mko0VEdHZHlFa1JNYnlobG9EZTJpYUFabjhNd1M3V2lPOVNrSGF1RWxpOHVtR2QwT01TSmxycVQ4ZVFvM0ttVHVBQUt0ejJz?oc=5",
+      "date": "2026-11-28T12:36:12Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Indian police disperse protest outside Meta offices with water cannon Reuters."
+    },
+    {
+      "title": "Myanmar military airstrike on village school kills at least 30 people, opposition says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYmRRZW52dkgyQ0k2dlltXzJ3S0FPWHFzYVJfWXFENmpfRlFHYnBBQ3dZbkRqbk1LQVktMjM4SENvdjVNWXVPWG02aXRpOG0zYnlTNHU4U1FuS0VlQmZpYU5INUNLSWVfeURJRzVWOUUzTGc3ZVM4WjBPTTJUY3c5MV9EaE1UWlNDSWpMQXl6MGFQSExDUFJXUGJFQnJlMDFjekFwaHVzTjJlTVNoOE95aXZZbmFucVRRLTFZbGp4dDNUOGFzYnV1NzRXOW9ZRm8?oc=5",
+      "date": "2026-11-28T12:31:09Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Myanmar military airstrike on village school kills at least 30 people, opposition says Reuters."
     },
     {
       "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
@@ -524,6 +604,14 @@
       "summary": "Socialist PM Pedro Sánchez’s high-stakes gamble could end in defeat to a coalition including the far-right VoxSpaniards head to the polls on Sunday to vote in a high-stakes snap general election that could put a far-right party in government for the first time since the country’s return to democracy after the death of Gen Francisco Franco in 1975.Although the next election was not due until summer next year, Spain’s socialist prime minister, Pedro Sánchez, called the vote in October after three rightwing and far-right parties voted down the emergency legislation that his government had proposed to address the country’s housing crisis. Continue reading..."
     },
     {
+      "title": "Ukraine's attack on Russian ship in Libya was not coordinated with partners, Zelenskiy says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdTFCMEFWV3I5ZUdPS0xrdm5rTGFSTG5VZmhDdV9fSjFQeTI5bDFEdEg1RlozZF9xT0RKVTluVlh0bG1HTEgtLUVnSlNFelJfRUZXLW5nWU9PNzlTcTNDb0JTWXp2X3NQVFY1ek42RmJMTUdsWHdyMExFNVNLdzdKOENKRHphNld1WGg3UlE1eThvYTFINHl4czM4UWFnM3R0dUlBSGZOaEN3YjlBMjUwT09jWTdLWFZscUhKUXpBckU0WGFPV2c?oc=5",
+      "date": "2026-11-28T09:38:10Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Ukraine's attack on Russian ship in Libya was not coordinated with partners, Zelenskiy says Reuters."
+    },
+    {
       "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
       "url": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-28T07:31:14Z",
@@ -532,12 +620,36 @@
       "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter."
     },
     {
+      "title": "Russia says it downed 1,246 Ukrainian drones overnight - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVUhoaFdkUkNnYk9wZHlFSGtuU1pyVFFULU1LdEJpNXRJbTZveWdTWWtzSWdfVlVtZlBWLXlYYkQ3LXlDLTBHN3JtbHNVcnFRem1LT25YQm9vRHJDTG9yQXhXWlBTRVpIb0VWN1ZQd0pwSXJITUtNQnpiTks5eVpYek43Z0UwUGRLeDduWlp3TXZvR1ZWVll2UnlROE9Na1M1YTFHendLaFdnTjYzVDlHVGE5MU5UMWM?oc=5",
+      "date": "2026-11-28T07:25:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Russia says it downed 1,246 Ukrainian drones overnight Reuters."
+    },
+    {
+      "title": "Iran's flogging of singer was warning from anxious hardliners, insiders say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHEwNVJXaUs1bXFUR0FoQUQ2TTJWNThDakwyUkMxZk41VlYwYUthWVdNck1vT3pIY1BZdjQ4S3RIOFZuUlRjRUZoRUxxTmRaOVI1ZjU2RURfVzJMSGo0RVpnZ29XTmlXeV9zbExvOWMwdEZ6a0ozQzBZNkhsQWpsamFrTnlLMUgwTnpHd2htUTdrRUw3a0F5V1lTUDI2dDRTbjQ1UjBObzdKUm50N2hfTHNzVE1hSDNGMng0?oc=5",
+      "date": "2026-11-28T07:14:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "Iran's flogging of singer was warning from anxious hardliners, insiders say Reuters."
+    },
+    {
       "title": "Palestinian tells of ‘devastating’ struggle after being made redundant by EU in Gaza",
       "url": "https://www.theguardian.com/world/2026/nov/28/mohammad-baraka-palestinian-eu-gaza-redundancy-pay-access",
       "date": "2026-11-28T06:00:34Z",
       "source": "The Guardian",
       "confirmed_by": 1,
       "summary": "Mohammad Baraka unable to access redundancy pay for almost 20 years’ service as family’s situation becomes ‘increasingly desperate’A Palestinian man who worked for the EU in Gaza has told of a “devastating” struggle to survive after he was made redundant by bosses in Brussels.He was let go last year after being evacuated to Egypt but his redundancy payment was made to an account to which he has no access. “My family’s situation has become increasingly desperate,” said Mohammad Baraka, a former staffer at the EU border assistance mission (EUBam). Continue reading..."
+    },
+    {
+      "title": "US military repelled drones at UK airbase this month, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLVBLa19DdUlDcGg5RVY2bjFfYS1QYXJRQmE0Z1ZfNm02WmI5RnBhcEhKSGdRR01XdUJhandJSzQ0SEF5bWRlZlBUbUJPbVJLbjROSUozYnJseGhLekl6bEhTTU5tbEVQMWtCU3Z1YzJiTTZNcnBrdVNYQ3ZudHpLVFREbWhkcUNWSVQ0bHdCVUF5RU0?oc=5",
+      "date": "2026-11-28T05:18:00Z",
+      "source": "Reuters",
+      "confirmed_by": 1,
+      "summary": "US military repelled drones at UK airbase this month, FT reports Reuters."
     },
     {
       "title": "La succession: France’s wealthiest family said to be battling over who will take over LVMH",
@@ -642,17 +754,17 @@
       "source": "BBC News",
       "confirmed_by": 1,
       "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck."
+    },
+    {
+      "title": "Jess Wilson’s plan for Melbourne sewage plants risks water and wetlands without bringing debt down, experts say",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-melbourne-sewage-plants-privatisation-risks-water-and-wetlands",
+      "date": "2026-11-27T14:00:14Z",
+      "source": "The Guardian",
+      "confirmed_by": 1,
+      "summary": "Academic says Victorian Liberal proposal to privatise treatment plants and generate profit with no compromise of services ‘a total furphy’Live: Victorian election 2026 – latest newsVictorian election 2026 guide: what you need to knowConfused about who to vote for? Check the parties’ key promises and policiesGet our daily political email, free app or daily news podcastExperts have warned the Victorian Liberals’ plan to lease Melbourne’s sewage treatment plants is a “smoke and mirrors” way to pay off debt that risks compromising the state’s water resources and crucial wetlands for nearly a century.On Thursday – two days out from the election – the opposition leader, Jess Wilson, announced plans for a 90-year lease of the Eastern and Western treatment plants, which process the vast majority of the city’s sewage and are run by Melbourne Water. Continue reading..."
     }
   ],
   "world_politics": [
-    {
-      "title": "Israeli Strike Kills 2 Workers at Gaza Clinic, Doctors Without Borders Says",
-      "url": "https://www.nytimes.com/2026/11/28/world/middleeast/israeli-strike-kills-two-workers-at-gaza-clinic.html",
-      "date": "2026-11-28T17:58:42Z",
-      "source": "The New York Times",
-      "confirmed_by": 1,
-      "summary": "The aid group condemned the attack on a medical facility, which Israel said was a targeted strike that killed security guards it called Hamas operatives."
-    },
     {
       "title": "Far-Right Vigilantes Have Inflamed France’s Unrest, Officials Say",
       "url": "https://www.nytimes.com/2026/11/28/world/europe/france-right-gangs-unrest.html",
@@ -660,6 +772,14 @@
       "source": "The New York Times",
       "confirmed_by": 1,
       "summary": "Through weeks of antigovernment unrest, hard-right activists have fought with left-wing counterparts in at least 10 towns, according to national and regional leaders."
+    },
+    {
+      "title": "Israeli Strike Kills 2 Workers at Gaza Clinic, Doctors Without Borders Says",
+      "url": "https://www.nytimes.com/2026/11/28/world/middleeast/israeli-strike-kills-two-workers-at-gaza-clinic.html",
+      "date": "2026-11-28T17:11:02Z",
+      "source": "The New York Times",
+      "confirmed_by": 1,
+      "summary": "The aid group condemned the attack on a medical facility. Israel said it had conducted a targeted strike that killed two security guards it said were Hamas operatives."
     },
     {
       "title": "More than 1,100 migrants reach the Greek islands of Crete and Gavdos in 2 days, with 2 reported dead - AP News",
@@ -776,7 +896,7 @@
     {
       "title": "Black Friday shoppers undeterred by inflation and bad weather - AP News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQS1feGtndkRIT3NUc2hNSFhEX2pNWXZOR0JBSkdpT196Zk5sdlFqc0NpNUVnRmtnQ2xDUjNNcXF2VnF3a05oejFCZHZzODZ5NXN5NFNOZUVMQmRWdEg4dC05dHFTcHBiZVpjUFRpT2xCaGtXcm54eXRwWTNYOXp3R2NDV2VqSFVURVJZMG9wUElMaWdxamVEOTJCcTNNMDM1WlYw?oc=5",
-      "date": "2026-11-28T04:54:48Z",
+      "date": "2026-11-28T01:15:00Z",
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "Black Friday shoppers undeterred by inflation and bad weather AP News."
@@ -830,14 +950,6 @@
       "summary": "Zelenskyy urges US to pressure Putin and questions Trump’s reference to Putin as a ‘friend’ AP News."
     },
     {
-      "title": "How major US stock indexes fared Friday 11/27/2026 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdnNLVjFDTExSS3NQZDFuMU5JdzdFTTJFNWlydWo3SjY3REV1M0hMOEd5aURUZkxRM0NQVTRKYVlQR3Z4WWpMT0Rlb0FMbnNzYlBjVDkwQWpSZXpqdE5FSldRMmt1UjNMTnJ5UWNXMlBzYUZFY2IwbFEydmRMYUpDWG80SVJpR3JwMHRQRUd6THg2Mkk?oc=5",
-      "date": "2026-11-27T18:45:00Z",
-      "source": "Associated Press",
-      "confirmed_by": 1,
-      "summary": "How major US stock indexes fared Friday 11/27/2026 AP News."
-    },
-    {
       "title": "Longtime AP journalist Geir Moulson, the heart of its Berlin bureau, dies at 54 - AP News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjg1R1BBRU1xekNBcWZHZzNNS184dFlybHJNNmhvUExfVVhhNjJLY2lPUlNDaUlXX2R2MXVLWE5yb05lR3pLdUE3MlBqcldyb3lhSk53YmxCRi1hQ1BjVFFIM25HN2JyTDlNMGpndUxGTkpacXcwVENZc0VDVGVORG82UHJjcV9fTDVkRTk0cHBRYjhNQmIxZ2FqTXI1a0FVSmtZ?oc=5",
       "date": "2026-11-27T18:32:19Z",
@@ -884,9 +996,25 @@
       "source": "Associated Press",
       "confirmed_by": 1,
       "summary": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault AP News."
+    },
+    {
+      "title": "The main issues driving Spain’s election and why they matter for Europe - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVpPaFdxTUpHbXNSemNIelRrb2xZQm5jZTBvT2VncV9EbWdWdjd3ZWdaUVVWSkl0dGpQaFRIcGFicTBKZDlFeG1lMHlyNTV2aHAtYXR6eFM2N2RwTDZyeS10VWtWNjhUcUtoamd3R3IzSzBaXzFDNl9KeXZUZlFRYXhhUUlzcF96OXJmZFpKTXN0ZDNERUY2b1RsYkhvbklYNXpTeW1na3Y?oc=5",
+      "date": "2026-11-27T08:31:00Z",
+      "source": "Associated Press",
+      "confirmed_by": 1,
+      "summary": "The main issues driving Spain’s election and why they matter for Europe AP News."
     }
   ],
   "technology": [
+    {
+      "title": "Wynosisz pająki z mieszkania? Zobacz, jakie mogą być konsekwencje",
+      "url": "https://antyweb.pl/wynosisz-pajaki-z-mieszkania-zobacz-jakie-moga-byc-konsekwencje",
+      "date": "2026-11-28T18:00:35Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Pająk znaleziony na ścianie nie zawsze jest intruzem. Wyniesienie go na zewnątrz może być dla niego wyrokiem."
+    },
     {
       "title": "Trump-backed World Liberty's WLFI token falls ~50% overnight; the company says Binance automatically closed perpetual futures positions tied to it (Robin Respaut/Reuters)",
       "url": "https://www.techmeme.com/261128/p8#a261128p8",
@@ -934,6 +1062,14 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Christian Davies / Financial Times: The US aerospace and defense sector is struggling to secure memory chips, labor, land, power, and factory infrastructure amid the AI data center boom &mdash; Boeing and leading defence contractors wrestle with ballooning backlogs fuelled by a surge in air travel and military spending."
+    },
+    {
+      "title": "Jak poprawić zasięg Wi-Fi? 5 sprawdzonych metod",
+      "url": "https://antyweb.pl/jak-poprawic-zasieg-wi-fi-5-sprawdzonych-metod",
+      "date": "2026-11-28T16:00:13Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Nie kupuj nowego routera, zanim nie sprawdzisz tych 5 ustawień."
     },
     {
       "title": "Silently degrading the model's capabilities IS sabotage",
@@ -1056,6 +1192,14 @@
       "summary": "OpenAI złożyło pozew przeciwko Apple i zarzuciło firmie pozyskanie poufnych informacji przez byłego pracownika. Jak wynika z dokumentów opisanych przez BBC, konflikt między firmami obejmuje też oskarżenia o utrudnianie prac nad przyszłymi urządzeniami OpenAI."
     },
     {
+      "title": "Ta aplikacja Microsoftu robi porządek w Windows. Jest darmowa",
+      "url": "https://antyweb.pl/ta-aplikacja-microsoftu-robi-porzadek-w-windows-jest-darmowa",
+      "date": "2026-11-28T13:00:33Z",
+      "source": "Antyweb",
+      "confirmed_by": 1,
+      "summary": "Ukryta perełka od Microsoftu robi porządek w Windows 11."
+    },
+    {
       "title": "Power operators are using sensors and software to dynamically adjust grid safety limits, boosting existing network capacity amid rising AI-driven energy demand (Martha Muir/Financial Times)",
       "url": "https://www.techmeme.com/261128/p5#a261128p5",
       "date": "2026-11-28T12:40:01Z",
@@ -1152,28 +1296,12 @@
       "summary": "Tryb samolotowy w telefonie przydaje się nie tylko podczas lotu. Może wydłużyć czas pracy baterii, pomóc przy problemach z zasięgiem, a nawet nieco przyspieszyć ładowanie. Sprawdź trzy praktyczne zastosowania tej funkcji."
     },
     {
-      "title": "Zaskakujące informacje z planu \"Yellowstone\"! To dlatego serial był tak dobry?",
-      "url": "https://antyweb.pl/zaskakujace-informacje-z-planu-yellowstone-to-dlatego-serial-byl-tak-dobry",
-      "date": "2026-11-28T08:00:20Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Kevin Costner nie należał do aktorów, którzy zadowalają się przeciętnym rezultatem. Przekonał się o tym Josh Holloway, znany widzom serialu \"Yellowstone\" jako Roarke Morris. W rozmowie z Michaelem Rosenbaumem w podcaście \"Inside of You\" aktor opowiedział o sytuacji na planie, która pokazała mu, jak wysokie wymagania Costner stawiał samemu sobie."
-    },
-    {
       "title": "A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO (Erich Schwartzel/Wall Street Journal)",
       "url": "https://www.techmeme.com/261128/p4#a261128p4",
       "date": "2026-11-28T07:40:01Z",
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Erich Schwartzel / Wall Street Journal: A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO &mdash; As a longtime friend of the Nvidia CEO puts it, &ldquo;Jensen will always pull a rabbit out of a hat&rdquo;."
-    },
-    {
-      "title": "Coraz trudniej korzystać z YouTube'a. W aplikacji robi się coraz gorzej",
-      "url": "https://antyweb.pl/coraz-trudniej-korzystac-z-youtubea-w-aplikacji-robi-sie-coraz-gorzej",
-      "date": "2026-11-28T07:30:49Z",
-      "source": "Antyweb",
-      "confirmed_by": 1,
-      "summary": "Google po raz kolejny zmienia wygląd aplikacji YouTube na smartfonach. Zamiast poprawić komfort korzystania z serwisu, wprowadza jeszcze więcej chaosu na ekranie głównym."
     },
     {
       "title": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ (John Reynolds/Tech.eu)",
@@ -1190,14 +1318,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Eleanor Pringle / Fortune: COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five &mdash; Reddit boasts engagement metrics that would be the envy of many other online platforms: Over 80% of its monetization comes from loyal &hellip;."
-    },
-    {
-      "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
-      "url": "https://www.techmeme.com/261128/p1#a261128p1",
-      "date": "2026-11-28T05:50:02Z",
-      "source": "Techmeme",
-      "confirmed_by": 1,
-      "summary": "Embo: Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z &mdash; Embo is building the next generation of frontier AI models, with a deep understanding of physical reality and fine-grained motor skills."
     },
     {
       "title": "ExxonMobil odkrywa ropę u wybrzeży Angoli. Wydobycie ma potrwać do 2037 r.",
@@ -1764,6 +1884,14 @@
       "summary": "Akademia Górniczo-Hutnicza w Krakowie zajęła 50. miejsce w rankingu europejskich uczelni technicznych EngiRank 2026, uzyskując najlepszy wynik w Polsce. Na czele zestawienia znalazły się uczelnie z Danii i Holandii."
     },
     {
+      "title": "COMPREMUM SA Raport okresowy kwartalny 3/2026 Q - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2JySjFGZEpfcjhKWkF3M0F4MG9sMFN6c1RSTWZqaUotdlJrTmFnWFlyM1dISGt6c3h0S20yZ25NcFFQQUhhX2t5SzJWc1NocEtIUnhtTU1xVW5kMlp5eFVXeHNWQVdMN3JBRXliQ3BWODhqQ3hzRnc3d3lLcDhuTnZFUVNTcEdlOFNv?oc=5",
+      "date": "2026-11-28T10:57:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "COMPREMUM SA Raport okresowy kwartalny 3/2026 Q BiznesRadar."
+    },
+    {
       "title": "Burza po decyzji Nawrockiego. Będzie ruch rządu",
       "url": "https://www.money.pl/finanse/weto-prezydenta-ws-zmian-w-podatkach-bedzie-reakcja-rzadu-7355851989076128a.html",
       "date": "2026-11-28T10:48:37Z",
@@ -1908,20 +2036,12 @@
       "summary": "Odmowa podpisania nowelizacji ustaw o PIT, CIT i ryczałcie przez prezydenta to wiadomość, którą różne grupy przedsiębiorców odczytują zupełnie inaczej. Jedni unikną wyższych podatków, inni nie doczekają się oczekiwanych oszczędności. Joanna Łuksza, ekspertka z portalu Ifirma.pl, wyjaśnia, w kogo ta decyzja uderza, a komu przynosi ulgę."
     },
     {
-      "title": "BIOCELTIX SA Raport okresowy kwartalny 3/2026 SA-Q - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVU9lbWl0RjF2dUpQWGZGUjUwbTdIY2xNN3ItMEJfZzdic1RwTDBCaEFFeUtGSGFGQXZ0dkl3dWM3dTJXeWVEcU1rMlNBQkkxNjR5ZmttMjJVMlJvVGlYaUVpNzg5VHZUSlh1S3Z5a1l4S1QteDZSbnlhZm51VDdKUFdOeklraG1fZFZONjFNWQ?oc=5",
-      "date": "2026-11-27T19:25:00Z",
+      "title": "TORPOL SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOUwyUkNRM2ltWjdwcXlVblNUNXNaVjFNdFFkQWw4QTJpRzJRRDlaY0c1V3Y4d1lZZlVGMnNYM3FyWklrUzFiaXlrRl9nQWNmcFF0VS1iOE4zNnFKYUNaMXdJOEw3S3VpZGtqSVkxcjBNZ1RuWVYwNGYtMWdFYlN3Qk1CM1A2YVlGYV9lOEZnLWNtdjBrNHBfc2R2cGNmZw?oc=5",
+      "date": "2026-11-27T20:03:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "BIOCELTIX SA Raport okresowy kwartalny 3/2026 SA-Q BiznesRadar."
-    },
-    {
-      "title": "NOVAVIS GROUP SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVy0tYURyWDc1R1VRUi1PWUNuZk0tOWRWZzdwV042ZExYcVhQOHpvaHVHX0VIWG9JTFdhd1FxWUdERldMTlFrdUZ3MHdDM1RpSkRKeVdVNXpBNVE0aU9ISElWd29HbEtJV3VhY005R0dnYnlaTFZVZXlUck80QnNSZDZtUDNqY2JBUzhNTjJ1bHRzRkRmVE5oTEVYeHRJaGZWb1ZER19wRQ?oc=5",
-      "date": "2026-11-27T19:20:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "NOVAVIS GROUP SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
+      "summary": "TORPOL SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
     },
     {
       "title": "Bankom może być trudniej unikać wyroków TSUE. Bułgarski sędzia chce zamknąć furtkę",
@@ -1932,12 +2052,12 @@
       "summary": "Czasem bankowi bardziej opłaca się ustąpić w pojedynczym sporze niż ryzykować wyrok istotny dla wielu kredytobiorców. Taką kalkulację opisują sędziowie w Polsce i Bułgarii. Sąd w Sofii chce, by TSUE wyznaczył granice takich działań."
     },
     {
-      "title": "NTT SYSTEM SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeVM2a0ZxaERqSnBwRFN1WFpHQV9ZeXhwVjJ0S1JHRG9BRURkaW8zMy1QV0VDakloS1lwSjhsUGhzTm1kUkx5bHJ2Zm9jZzVsc21XM3o2bzVISExtbTdwOTVDZVp1aWZRajBYN3lCMkUyX1F6SmYzdFlJTEtIeGl1dzBCMVF6QVdKbDRTSXhBRkZUYTU3cWNDV1ZleThKd09MdWZ3?oc=5",
-      "date": "2026-11-27T17:41:00Z",
+      "title": "MAKARONY POLSKIE SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVF3SWhIWE52SzMtTzBuQ0hGVWhpTnltT3EyOHI1T1F6ajd5SjdPblFIVWVEY1RZc05zRGV6dFYtQXdRSDkwNWJiVWZzUWhFNVk0TFctY2RMMFlfSzhVTTYxdnFCTTFrM3diam1MRG5tWFduSnBHTjNxbXpIc0FrS3F4Z080RjJJSm16aHktOW11VlQ0TnpzS3k3UnNzWC1aTnhYcFVveS1mbkE?oc=5",
+      "date": "2026-11-27T17:56:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "NTT SYSTEM SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
+      "summary": "MAKARONY POLSKIE SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
     },
     {
       "title": "3 spółki budowlane po przecenie: okazja, pułapka czy test cierpliwości? - StockWatch.pl",
@@ -1956,20 +2076,20 @@
       "summary": "Komunikat ESPI POLENERGIA SA (pep): REZYGNACJA PREZESA ZARZĄDU StockWatch.pl."
     },
     {
-      "title": "ZE PAK SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPelR6RTlDZ1ZBZ3ZDZUdrNVpkM25PcjRfaDctNkJvTWhTanZkVkhNdWx3VHJXbktFMmpNUUNtWXFVMEc2Z2QwMGFDRGhqTkx3QUtsa1VxTG9MdFIxbFQ0QURpUDZhaG9DMDBRUE0zN0lXN1I5LU5VZmtwdW95enFVSFl0b3ZyNWJlMzYtOUN3a1E1TXc3MktnUXYteWJZQQ?oc=5",
-      "date": "2026-11-27T16:54:00Z",
+      "title": "PLAYWAY SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVHl0SlhrSGQ4c2ZFaDI5aHZIcUU0cTBPZHJNbWdWeGNaT3pVaDdOV1lQSGRqc1c5dTM0dFU2UWVZSE94bjFUYUw2aVFKRmtZZzJscXZ6RGtmdnpPaElJcjVjY3RIdTlqRTBEekFiSFFwQkFiVnpoUC1ES1BoWTlRakNKZTM2Y05RUVZPQ1liUVlRbjgzai1UYjdlU2dzVmM?oc=5",
+      "date": "2026-11-27T17:03:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "ZE PAK SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
+      "summary": "PLAYWAY SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
     },
     {
-      "title": "Dywidendowe podsumowanie 47. i 48. tygodnia 2026 r. - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa3hWbjFEQjd1dTIwdWhBLTl6YUUxWDBQYU84bDlVRUdSa2F0dWJ4UFpnRFZhTnRTSmo3Y0xoRU5yOS00UDlLR01ocUhKZjVjTzVOSzA2dXFwOEp1YzNueTMyeTVKZzBSRDQ2cFZQZWVqbEMtWEVEZ0Y4WDhucUpzWlE0OVJOckJuQThDTg?oc=5",
-      "date": "2026-11-27T16:31:00Z",
+      "title": "PCF GROUP SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkJMWGQtZTdmbFQ3M3hnLThUWF81WVl2MVFBaGl5ZkVCZzNMM0lWenFKTnpSb0xYZEFuLXd1N09nY2tkUUFWOWtIdmdhQXBmTHowYzA2ME9WY1YtdV9jZ2V1akphY2s3ZlE5UzZ5dGdycHptN3VxTFladXNhd1M4Y2luNVlpcU1GYldNVHlzUlljZ1duWnNyZkRHc1ZCdFpHUGc?oc=5",
+      "date": "2026-11-27T16:42:00Z",
       "source": "Biznesradar",
       "confirmed_by": 1,
-      "summary": "Dywidendowe podsumowanie 47. i 48. tygodnia 2026 r."
+      "summary": "PCF GROUP SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
     },
     {
       "title": "Fałszywy sklep może wyglądać idealnie. Nawet bezpieczna płatność wtedy nie pomoże",
@@ -2137,8 +2257,8 @@
       "lng": 34.47,
       "type": "conflict",
       "region": "Strefa Gazy / Izrael",
-      "description": "Francesca Albanese, leading critic of Israeli abuses in Gaza and West Bank, barred on ‘national security grounds’Costa Rica has barred entry to the UN special rapporteur on the Israel-occupied Palestinian territories, Francesca Albanese, earning the ire of the UN human rights chief.Albanese, an Italian national, went to Costa Rica to receive an honorary doctorate from the University of Costa Rica.",
-      "url": "https://www.theguardian.com/world/2026/nov/28/costa-rica-bars-un-rapporteur-francesca-albanese-palestinian-territories"
+      "description": "MSF charity condemns Israeli drone strike that killed two staff outside Gaza clinic Reuters.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlN6bWNCajEzSzJDU0o3Qk5qQnJiS3Zxb2VaUnFjM05vM0hkZ2E3NnJNeXlVdEVVMkNwdGRXcmRaTGF3bHI4emRsaVhaTHVtV3dmNDJlWUFGY1YzTTFxNlNkaFViN1FYdlo3WVM4SUJlaTZkc1AyVE9MdmZkMDdYeE1wR3RzRXFzeTVvY0lrczh4N1ZGXzM4NWR2MmF6NkRYeDBWNEtMOEswT3BxU2dxYllRcmM?oc=5"
     },
     {
       "lat": 35.5,
