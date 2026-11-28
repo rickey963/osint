@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T01:57:23Z",
+  "last_updated": "2026-11-28T01:58:14Z",
   "poland": [
     {
       "title": "Słowa Wołodymyra Zełenskiego wywołały oburzenie. Doszło do pilnej rozmowy",
@@ -1008,12 +1008,20 @@
   ],
   "technology": [
     {
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "date": "2026-11-28T01:32:56Z",
+      "source": "Hacker News",
+      "confirmed_by": 1,
+      "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 10 # Comments: 0."
+    },
+    {
       "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
       "url": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
       "date": "2026-11-28T01:20:16Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/ Comments URL: https://news.ycombinator.com/item?id=50673444 Points: 9 # Comments: 0."
+      "summary": "Article URL: https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/ Comments URL: https://news.ycombinator.com/item?id=50673444 Points: 15 # Comments: 0."
     },
     {
       "title": "Passkey blues",
@@ -1021,7 +1029,7 @@
       "date": "2026-11-27T23:51:28Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://ssg.dev/passkey-blues/ Comments URL: https://news.ycombinator.com/item?id=50672835 Points: 16 # Comments: 2."
+      "summary": "Article URL: https://ssg.dev/passkey-blues/ Comments URL: https://news.ycombinator.com/item?id=50672835 Points: 28 # Comments: 4."
     },
     {
       "title": "Painting 1990s anime scenes in Python",
@@ -1029,7 +1037,7 @@
       "date": "2026-11-27T23:50:17Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://www.fofr.ai/greenhouse-after-the-typhoon Comments URL: https://news.ycombinator.com/item?id=50672829 Points: 11 # Comments: 2."
+      "summary": "Article URL: https://www.fofr.ai/greenhouse-after-the-typhoon Comments URL: https://news.ycombinator.com/item?id=50672829 Points: 11 # Comments: 3."
     },
     {
       "title": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn't said what is causing the outage (Jean Eaglesham/Wall Street Journal)",
@@ -1045,7 +1053,7 @@
       "date": "2026-11-27T23:06:29Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 76 # Comments: 16."
+      "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 90 # Comments: 21."
     },
     {
       "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
@@ -1053,7 +1061,7 @@
       "date": "2026-11-27T23:00:30Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 32 # Comments: 11."
+      "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 33 # Comments: 11."
     },
     {
       "title": "Source Control from Hell",
@@ -1061,7 +1069,7 @@
       "date": "2026-11-27T22:06:44Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 56 # Comments: 41."
+      "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 58 # Comments: 42."
     },
     {
       "title": "Black Friday 2026 - live blog. Na bieżąco sprawdzamy najlepsze promocje",
@@ -1077,7 +1085,7 @@
       "date": "2026-11-27T21:48:14Z",
       "source": "Hacker News",
       "confirmed_by": 1,
-      "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 73 # Comments: 11."
+      "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 77 # Comments: 13."
     },
     {
       "title": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)",
@@ -1086,14 +1094,6 @@
       "source": "Techmeme",
       "confirmed_by": 1,
       "summary": "Drew Breunig: Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following &mdash; Is Claude Throwing the Game? &mdash; There's a recent spate of claims that Claude is silently sabotaging people's projects, especially when they involve machine learning."
-    },
-    {
-      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
-      "url": "https://sessiongraph.ai/",
-      "date": "2026-11-27T21:07:34Z",
-      "source": "Hacker News",
-      "confirmed_by": 1,
-      "summary": "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 25 # Comments: 10."
     },
     {
       "title": "Na obrzeżach Drogi Mlecznej odkryto gigantyczny gwiezdny żłobek. Ma dziwny kształt",
@@ -1812,14 +1812,6 @@
   ],
   "finance": [
     {
-      "title": "TRANS POLONIA SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR01PMWFUT1hfbFQycHhUUkRnbmdzNFZ5MXZtYzRuS0pabTJYdDVlRWtUTVpQZ3NVWlZBQTRGNnNCT05tT2RUa2s0RUN4WDJHNHQ0eFczVVVrME41MFFNQ0hSOWRIaHVuN2NTOHNyNlJfVkZDbVJXakRCUDhnSXg5bjRtWjQxVGpxdjFsRmVtc0xrNTg1SGVKejBLbndzTG9rVVROdHpkUQ?oc=5",
-      "date": "2026-11-27T22:20:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "TRANS POLONIA SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
-    },
-    {
       "title": "Produkcja mleka rośnie, ceny skupu spadają. Polskie mleczarstwo szuka szans poza UE",
       "url": "https://300gospodarka.pl/news/produkcja-mleka-rosnie-ceny-skupu-spadaja-polskie-mleczarstwo-szuka-szans-poza-ue",
       "date": "2026-11-27T22:12:29Z",
@@ -1876,28 +1868,12 @@
       "summary": "Chorwacki sąd apelacyjny uchylił decyzję o wydaniu Niemcom obywatela Ukrainy Wołodymyra Żurawlowa, podejrzanego o udział w wysadzeniu gazociągów Nord Stream – poinformowała w piątek na Facebooku reprezentująca go kancelaria prawna Katerynczuk, Moor i Partnerzy."
     },
     {
-      "title": "BIOCELTIX SA Raport okresowy kwartalny 3/2026 SA-Q - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVU9lbWl0RjF2dUpQWGZGUjUwbTdIY2xNN3ItMEJfZzdic1RwTDBCaEFFeUtGSGFGQXZ0dkl3dWM3dTJXeWVEcU1rMlNBQkkxNjR5ZmttMjJVMlJvVGlYaUVpNzg5VHZUSlh1S3Z5a1l4S1QteDZSbnlhZm51VDdKUFdOeklraG1fZFZONjFNWQ?oc=5",
-      "date": "2026-11-27T19:25:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "BIOCELTIX SA Raport okresowy kwartalny 3/2026 SA-Q BiznesRadar."
-    },
-    {
       "title": "Rosja wzmacnia flotę. Putin wprowadził do służby atomowy okręt z Cyrkonami",
       "url": "https://www.bankier.pl/wiadomosc/Rosja-wzmacnia-flote-Putin-wprowadzil-do-sluzby-atomowy-okret-z-Cyrkonami-9236706.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "date": "2026-11-27T19:24:00Z",
       "source": "Bankier.pl",
       "confirmed_by": 1,
       "summary": "Władimir Putin wziął w piątek udział w ceremonii podniesienia bandery na okręcie podwodnym o napędzie atomowym Perm, który jako pierwszy w Marynarce Wojennej Rosji jest uzbrojony w pociski hipersoniczne Cyrkon – poinformowały w piątek rosyjskie media."
-    },
-    {
-      "title": "NOVAVIS GROUP SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVy0tYURyWDc1R1VRUi1PWUNuZk0tOWRWZzdwV042ZExYcVhQOHpvaHVHX0VIWG9JTFdhd1FxWUdERldMTlFrdUZ3MHdDM1RpSkRKeVdVNXpBNVE0aU9ISElWd29HbEtJV3VhY005R0dnYnlaTFZVZXlUck80QnNSZDZtUDNqY2JBUzhNTjJ1bHRzRkRmVE5oTEVYeHRJaGZWb1ZER19wRQ?oc=5",
-      "date": "2026-11-27T19:20:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "NOVAVIS GROUP SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
     },
     {
       "title": "Bankom może być trudniej unikać wyroków TSUE. Bułgarski sędzia chce zamknąć furtkę",
@@ -1972,6 +1948,22 @@
       "summary": "Komunikat ESPI KBJ SPÓŁKA AKCYJNA (kbj): Otrzymanie powiadomienia w trybie art. 19 ust. 1 MAR StockWatch.pl."
     },
     {
+      "title": "NTT SYSTEM SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeVM2a0ZxaERqSnBwRFN1WFpHQV9ZeXhwVjJ0S1JHRG9BRURkaW8zMy1QV0VDakloS1lwSjhsUGhzTm1kUkx5bHJ2Zm9jZzVsc21XM3o2bzVISExtbTdwOTVDZVp1aWZRajBYN3lCMkUyX1F6SmYzdFlJTEtIeGl1dzBCMVF6QVdKbDRTSXhBRkZUYTU3cWNDV1ZleThKd09MdWZ3?oc=5",
+      "date": "2026-11-27T17:41:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "NTT SYSTEM SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
+    },
+    {
+      "title": "W. Kuśpik, PTWP: Trzeci kwartał jest tradycyjnie okresem mniejszej intensywności w obszarze eventowym - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSnRURkUyTmNIY3FfTHhCWEtya3BuSkJPbUV0TW1DT2xId0hQRXlsM1ZvOXdRcmhndkdSeU9JaXhSY012c3ZxalcxTVFFdGtlSmlPbE1rOFJGYXBVQkN2Y2hGXzJGb1FGUC1yZ3gtNDNpZ3U1cEFVRkNQcXphekc5N2IxYmZZRWhHanFXRWZ4V2xURUVlYzlodEZzUTgwTTFPak8waDRpMEh5MU5WUFgySkh1SzBOQkVKX1FlcTJwU1lXc045cW1Odw?oc=5",
+      "date": "2026-11-27T17:34:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "W. Kuśpik, PTWP: Trzeci kwartał jest tradycyjnie okresem mniejszej intensywności w obszarze eventowym BiznesRadar."
+    },
+    {
       "title": "Troska o zwykłych Polaków? Prezydent działa w interesie bogatych i cwanych [OPINIA]",
       "url": "https://www.money.pl/podatki/troska-o-zwyklych-polakow-prezydent-dziala-w-interesie-bogatych-i-cwanych-opinia-7355568405362848a.html",
       "date": "2026-11-27T17:31:34Z",
@@ -1986,6 +1978,14 @@
       "source": "StockWatch.pl",
       "confirmed_by": 1,
       "summary": "3 spółki budowlane po przecenie: okazja, pułapka czy test cierpliwości? StockWatch.pl."
+    },
+    {
+      "title": "PLAYWAY SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVHl0SlhrSGQ4c2ZFaDI5aHZIcUU0cTBPZHJNbWdWeGNaT3pVaDdOV1lQSGRqc1c5dTM0dFU2UWVZSE94bjFUYUw2aVFKRmtZZzJscXZ6RGtmdnpPaElJcjVjY3RIdTlqRTBEekFiSFFwQkFiVnpoUC1ES1BoWTlRakNKZTM2Y05RUVZPQ1liUVlRbjgzai1UYjdlU2dzVmM?oc=5",
+      "date": "2026-11-27T17:03:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "PLAYWAY SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
     },
     {
       "title": "Ogromny chaos zamiast pomocy. NIK krytykuje wprowadzenie planów ogólnych - Forsal.pl",
@@ -2020,6 +2020,14 @@
       "summary": "Wpłata lotnicza 2027. Tyle ma wynosić wpłata lotnicza w 2027 r. Forsal.pl."
     },
     {
+      "title": "SPYROSOFT SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR29RZkJrakxVQmxNQjZZalNwQlRhU0hybTUydGZqcjcwaE5QczkwelJfcGdHU2tIc1JHZHY5RGVjd1ducHVROEdXZHJZWV9IaWJzYnBzaFo3WVJyQW9IOTZpSlppRUUtc0RjNVFCcHVOVm1TR3hRV2VhZktrVE50OUtHU1J1TEFQX0lZVzhxTjdDczZqSjFFak42eXVDd0o0M2c?oc=5",
+      "date": "2026-11-27T16:15:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "SPYROSOFT SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr BiznesRadar."
+    },
+    {
       "title": "Palantir pomoże polskiej armii. MON podpisał umowę z kontrowersyjnym big techem - Forsal.pl",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObnVtbWlPSnRpUGRFR0tOMmx0WTlfd1VqbVhrd24xUTdfTnV0TGFwM2tTVkxzMUpGRUpuTTNhU2FCbm5lMTI1YzRhQ3hYTks3Ry1odWNOQ1BVWUNOb1BDaHgzbTkxT3JYdFVyOXE3SGJ3Slg1RlpPQnNzZ3o0ckZ5RVBMQUYxNEYyVDlucDFtQmRobVEtNFdxTmI0U1VCVlIxQzMwcl81cHlaWWFjd0lPb1FhbGM2dFZTdHdrMzV6ZjV0V09JdXc?oc=5",
       "date": "2026-11-27T16:00:00Z",
@@ -2034,6 +2042,14 @@
       "source": "300Gospodarka",
       "confirmed_by": 1,
       "summary": "Karta, BLIK i portfel mobilny mogą być bezpiecznymi metodami płatności w internecie, ale nawet najlepsze zabezpieczenia nie gwarantują, że kupujący nie przekaże pieniędzy oszustowi. Fortinet zwraca uwagę, że największe ryzyko często pojawia się jeszcze przed samą płatnością: przy wejściu na fałszywą stronę, kliknięciu podejrzanego linku albo zatwierdzeniu operacji, której szczegóły nie zgadzają się z zakupem. W czasie Black Week takie scenariusze mogą pojawiać się szczególnie często."
+    },
+    {
+      "title": "BUMECH SA (76/2026) Informacja o transakcji na akcjach Spółki - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaER2bW1TbHo3MGZ0WjhaTlJUd0NoVUZieDlGRmx0QlU1dC13ZVdmeFI1MnBoaWc5NmJTWllWMDFIUThqUVBSZzBLUUlJNlRUV0pMQ3NBRi1RdE5oblI0VmpnWHhWZGZqa3M0UVFrcnQ2b1Z0NmVOU3lsT1UteWRud1MtTXVCWk5WMmxhZ0lRc2dfYWx6ZWhhTm9NWQ?oc=5",
+      "date": "2026-11-27T15:32:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "BUMECH SA (76/2026) Informacja o transakcji na akcjach Spółki BiznesRadar."
     },
     {
       "title": "Waszyngton może się zdziwić. UE rozważa rozwiązania wbrew oczekiwaniom Trumpa - Forsal.pl",
@@ -2052,20 +2068,20 @@
       "summary": "Koniec z „boczkiem” „żeberkami”, „stekami” i „kiełbasą”. Unia Europejska zdecydowanie wkroczyła do akcji Forsal.pl."
     },
     {
-      "title": "PZU SA (37/2026) Rejestracja zmiany Statutu PZU SA - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMUZyUVV6R1dLaVMxYzVtQTF6NE1WMUtTeVdFb09wN3NpSXRBaTR1MXpaSFAyd0hPZjVVTVBTd1hrdkJGNzNjNWljTUloRDRLZ1lacllGUmFzMW9kcUZUWmZMNkc3LTFTVWE3YWltcm5oOXBPMFlySURlaXJ6eWVsU25oWGpBc2FGZDQwRw?oc=5",
-      "date": "2026-11-27T15:11:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "PZU SA (37/2026) Rejestracja zmiany Statutu PZU SA BiznesRadar."
-    },
-    {
       "title": "Komunikat EBI Vidis SA (vidis): Skonsolidowany raport roczny - StockWatch.pl",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX3BXYXotenVORkNkSnZ0NFBDZFRWSVYwTUVtZVpoQURscUJzbTFDc2hBWFpWcVB0QmEzWjlxR3pwUmZmbkRscERoNHptM2k2YTVfdjJmWFVtQmhTSmtQalVMdmlTSV83eEVGd1NTY0ZKTkNoNU9vWGFzSHZGdkZ2NVBqemMxQXVEX1VPdHlQTVZocHZvNm1JR0hYMEVqamk4MmVZTVQ2TmhhdjROZnNaQTBXWl9QdEZhVGlHVQ?oc=5",
       "date": "2026-11-27T15:04:10Z",
       "source": "StockWatch.pl",
-      "confirmed_by": 2,
+      "confirmed_by": 1,
       "summary": "Komunikat EBI Vidis SA (vidis): Skonsolidowany raport roczny StockWatch.pl."
+    },
+    {
+      "title": "Komunikat ESPI Pekao Bank Hipoteczny SA (pekao-bank-hipoteczny-sa): Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A. - StockWatch.pl",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaGZ5S08xSzNiNE5ranhVZWlQYnpvUWI4a3pReDBkcDIzR2diYWFtNUhzM2o1b2E2MkRYam00c2Vqd0c0MWpEcFNQbTM5NmlDeEttTFVTc245VXBlNVJLQjlnbTdWa1FoLV95d3dzOFYxYUN0U2NPd2xFWmRuVldOUGk0NWtTZU5odnhEQnF1SUtMS3YySFJMeWJBZVNJQXJwZVpvaUxwaDVmZFBlOEtDZVdWV2Q0X2Q3WmdsakpOcXBJTXFUblBYM3dITTZuWVBUOW02VDVSZjZoeFczMEI5aTc3NHZFRHM3UmZTUmJR?oc=5",
+      "date": "2026-11-27T14:56:11Z",
+      "source": "StockWatch.pl",
+      "confirmed_by": 1,
+      "summary": "Komunikat ESPI Pekao Bank Hipoteczny SA (pekao-bank-hipoteczny-sa): Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A. StockWatch.pl."
     },
     {
       "title": "Pierwszy projekt SMR-ów już się opóźnia. To dopiero początek problemów? - Forbes",
@@ -2082,6 +2098,14 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Grupa Śnieżka stawia na chemię budowlaną, czeka na lepszą koniunkturę i podtrzymuje wypłatę dywidendy Piotr Kwestarz pt., 27.11.2026 Kanał Strefa Inwestorów Treść Grupa Śnieżka w raporcie za III kwartał 2026 r. wskazuje na bardzo wymagający wysoki sezon. Wolumeny sprzedaży na rynku spadały, a mimo poprawy części wskaźników makroekonomicznych popyt na farby dekoracyjne wciąż nie odbił."
+    },
+    {
+      "title": "MABION SA (41/2026) Pomyślne spotkanie Pre-IND z amerykańską FDA dotyczące CD20 przyspiesza i wzmacnia współpracę z Oddifact. Jej ostateczna struktura zostanie ustalona w I kwartale 2027 r. - BiznesRadar",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQZGtnM0pvNWo0aW1FX3pwS3NCWDVLSzYyakt0ZkVyLXRSOEdaMEY3TzBsMkZOamxfQzZsVk5tcWVad1daVWpQeDhvMHB1emRYbTZfUVRXa0w2VU10bUVqNk91YnVZbUI2R2NzbmFTU0RSR3ZTVC1FVFpnNDhOYmZ2b1NTd0VXd2kyRU1iRDBGREN0bWVKTXZzNHh5Y2VDSFJQNEowSU1lMGROaW80QTlWOXBaUzF0amVfVmJoUXlUTERvNlhPWU5BTk1VbWw5WUlFdW5jX3NSM1BWYWdQVGdyVGRFOVhQQlpBUmhSZ0hnUzhSY056RzFjZUY4TFZJYV82X0dTZ05WYlNlOHRGcnp1azZHRWRxTFFTdkt2YzZaYU1SZ1dOZ2VzVV9WREc1UExBRUY3bjJrNDRzZFRNbVdacXczWQ?oc=5",
+      "date": "2026-11-27T13:08:00Z",
+      "source": "Biznesradar",
+      "confirmed_by": 1,
+      "summary": "MABION SA (41/2026) Pomyślne spotkanie Pre-IND z amerykańską FDA dotyczące CD20 przyspiesza i wzmacnia współpracę z Oddifact. Jej ostateczna struktura zostanie ustalona w I kwartale 2027 r. BiznesRadar."
     },
     {
       "title": "Sportowa marka dołącza do ekosystemu premium - Forbes",
@@ -2116,28 +2140,12 @@
       "summary": "Alkohol - Forbes - wiadomości gospodarcze i finansowe Forbes."
     },
     {
-      "title": "Notowania INTSPAL05000 INGBANK - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51TWdOVkJOc3dYdHR1N1E2SHMwS1ZwYkRMUTBPakotaGt6OS1EWXN4dkFZZ3RhSkV2QmxQaU9lMkhveDFmUDRqNUxnOEtxSFREdFNDMkZZU3hLX3BoUlE?oc=5",
-      "date": "2026-11-27T09:33:57Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "Notowania INTSPAL05000 INGBANK BiznesRadar."
-    },
-    {
       "title": "Alert europejski: UE buduje jednolity rynek cyfrowych aktywów finansowych",
       "url": "https://strefainwestorow.pl/prawo/alert-europejski-ue-aktywa-cyfrowe",
       "date": "2026-11-27T08:36:09Z",
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Alert europejski: UE buduje jednolity rynek cyfrowych aktywów finansowych Michał Partyka pt., 27.11.2026 Kanał Strefa Inwestorów Treść Komisja Europejska, Europejski Bank Centralny (EBC) i Europejski Urząd Nadzoru Giełd i Papierów Wartościowych (ESMA) rozpoczynają prace nad wspólnymi standardami tokenizacji instrumentów finansowych. Nowa inicjatywa ma ograniczyć fragmentację europejskiego rynku kapitałowego i umożliwić współpracę infrastruktury finansowej wykorzystującej technologię blockchain. To kolejny krok w kierunku cyfrowej integracji unijnego sektora finansowego, który może mieć istotne znaczenie dla instytucji finansowych, operatorów infrastruktury rynkowej i inwestorów.Europa przyspiesza tokenizację rynku finansowego W I-szej połowie listopada Komisja Europejska, EBC i ESMA ogłosiły nabór przedstawicieli sektora finansowego do European Tokenisation Standards Group (ETSG)."
-    },
-    {
-      "title": "MIRACULUM SA (27/2026) Informacja o transakcjach na akcjach Spółki. - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUjV3ODJNaWs0Z1M5LUNOejZWcFpHSWZhczhPVG1WV3EzUEF3LVhwQVpibHhpVHVsT0dqdXU2NXF0ODF3Nm9DX1kyX1hTNUNVNmhiWXgyNnZNWVdPVlNGdEVVLVFCRU5wR0V6WHNWTkZ2VmRVeDE4TzRqV3cxRXhUcUdvMmNfWTV3OHkyWjZrSUZ4R1AyVm5VYW1GMTVVeTByWlE?oc=5",
-      "date": "2026-11-27T08:12:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "MIRACULUM SA (27/2026) Informacja o transakcjach na akcjach Spółki. BiznesRadar."
     },
     {
       "title": "Sprzedaż mieszkań w ATAL rośnie. Od początku roku deweloper niemal podwoił przychody",
@@ -2154,14 +2162,6 @@
       "source": "Strefa Inwestorów",
       "confirmed_by": 1,
       "summary": "Benefit Systems nie widzi spowolnienia. Karty MultiSport sprzedają się ponad plan Paweł Biedrzycki pt., 27.11.2026 Kanał Strefa Inwestorów Multisport Treść Benefit Systems nie widzi, by spowolnienie na rynku pracy odbijało się na sprzedaży kart MultiSport. Przeciwnie: w tym roku kart przybywa szybciej, niż zakładała sama spółka."
-    },
-    {
-      "title": "TALEX SA Raport okresowy kwartalny 3/2026 SA-Q - BiznesRadar",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWUhrZ29iR09LVUdKaVZQaUd3Sk5DcmVsR19xVHpvTFFjQXl6Zk50SVhWUHRlUnY2cUxSTjdvcTBxVXZKOWhIR1REWFdLZUFWNUctTk5iZkgyNzRmb0dkSTRfdURFRnVYQlhwSFZXSUx1aFJoVmZHQ1pUdUxFLV9Ld0pwTkMxYmZfRlE?oc=5",
-      "date": "2026-11-27T06:56:00Z",
-      "source": "Biznesradar",
-      "confirmed_by": 1,
-      "summary": "TALEX SA Raport okresowy kwartalny 3/2026 SA-Q BiznesRadar."
     },
     {
       "title": "WIG.Banki broni spadków na kluczowym wsparciu",
